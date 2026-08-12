@@ -1,6 +1,6 @@
 # Arappor — English Translation
 
-> **Status:** First-pass translation complete — PDF pp. 4–20 / printed pp. 3–19 translated  
+> **Status:** Fidelity-review corrections consolidated — final end-to-end verification pending  
 > **Source layer:** `transcription-ta.md` (strict-verified Tamil transcription)  
 > **Translation rule:** Translate from the verified Tamil layer, preserving rhetoric, repetition, historical references, polemical language, and source distinctions as faithfully as practical. Do not silently rewrite or modernize the Tamil source.  
 > **Date note:** April 1949 is the publication date of the second edition, **not** an established speech date.
@@ -45,19 +45,19 @@ Then came Ravana: the broad-shouldered one who lifted a mountain; the hand that 
 
 ### PDF page 8 — printed page 7
 
-“—it is not a stream; it is a poisonous canal destroying our education,” we explained. Did we stop there? We showed Mithilapuri. In Mithila's palace we showed Janaka's daughter Janaki. We showed Sri Rama arriving with Viswamitra to break the bow and marry Sita. We showed the scene in which Sita's eyes and Rama's eyes became entwined. We showed Kambar's verse about Mother Earth, Sita Devi, swelling with rapture at the sight of Rama—unable to contain her delight. We read out the manner in which Kambar describes, in that verse, Sita's hidden place suddenly swelling because it could not contain its joy, causing the *mekala* ornament to snap and fall. We showed Kamban's debased mind in giving the incarnation of Mahalakshmi the crude description, “vaamamekalaiyil valarnthu alkule.” “Government that lacks the courage to ban this obscene Ramayana! Was it just, fair, or honourable for you to ban our *Ravana Kaviyam*?” we asked. With blood flashing in our eyes—and rage boiling in that blood—we roared and looked toward Erode. “Be patient, my heart... be patient,” said Periyar Ramasamy. The struggle was postponed.
+“—it is not a stream; it is a poisonous canal destroying our education,” we explained. [The verified print reads `நம் கல்வனத்தை`, an unusual source form; “our education” is a contextual rendering.] Did we stop there? We showed Mithilapuri. In Mithila's palace we showed Janaka's daughter Janaki. We showed Sri Rama arriving with Viswamitra to break the bow and marry Sita. We showed the scene in which Sita's eyes and Rama's eyes became entwined. We showed Kambar's verse about Mother Earth, Sita Devi, swelling with rapture at the sight of Rama—unable to contain her delight. We read out the manner in which Kambar describes, in that verse, Sita's hidden place suddenly swelling because it could not contain its joy, causing the *mekala* ornament to snap and fall. We showed Kamban's debased mind in giving the incarnation of Mahalakshmi the crude description, `வாமமேகலையிற் வளர்ந்து அல்குலே` (“vaamamekalaiyil valarnthu alkule”). “Government that lacks the courage to ban this obscene Ramayana! Was it just, fair, or honourable for you to ban our *Ravana Kaviyam*?” we asked. With blood flashing in our eyes—and rage boiling in that blood—we roared and looked toward Erode. “Be patient, my heart... be patient,” said Periyar Ramasamy. The struggle was postponed.
 
 After that we heard startling news that split the Dravidian heart. We saw our mother's throat being strangled. Hindi had entered—Hindi! Could even this be tolerated? “Periyar, we can bear no more. We are warriors, not cowards. Where is the order for battle?” we challenged. Even then, that troublesome old man said, “Be patient, my heart, be patient.” Our agitation gained a force we ourselves could no longer restrain. A conference was held. He conveyed the heart of Mother Tamil to the ministers. The ministers' hearts softened—
 
 ### PDF page 9 — printed page 8
 
-—the ministers' hearts softened. “Where is the order? Please wait, sirs,” we pressed again and again. “Our leader! Periyar! Have you no faith in our deeply rooted resolve—in our tautened nerves—in the blood that courses hot through us—in our shoulders itching for action—in our eyes that rain fire? Are we a community afraid to die? Are we descendants who flee from a fight? Are we not of Pandiyan lineage! Are we not descendants of the Chera! Are we not kinsmen of the Chola? Tell us, sir, tell us—say ‘war.’ Open that toothless mouth and utter that golden word. Extend to us that sacred voice which resounds... Where?... Where?...” Thus we, standing like volcanoes, pleaded. Ayya moved his lips. For us, merely seeing his white beard move was enough. “War on the tenth of August,” he said. “Anna is the dictator,” he said. The struggle has begun, comrades—the struggle has begun.
+—the ministers' hearts softened. To the ministers we pressed on with the printed words, “Where is the order? `இருங்களய்யா`...” [The source syntax here is irregular; the Tamil form is preserved rather than silently reconstructed.] “Our leader! Periyar! Have you no faith in our deeply rooted resolve—in our tautened nerves—in the blood that courses hot through us—in our shoulders itching for action—in our eyes that rain fire? Are we a community afraid to die? Are we descendants who flee from a fight? Are we not of Pandiyan lineage! Are we not descendants of the Chera! Are we not kinsmen of the Chola? Tell us, sir, tell us—say ‘war.’ Open that toothless mouth and utter that golden word. Extend to us that sacred voice—`ஒத்திக்கும் அந்த திருக்குரலை`... Where?... Where?...” Thus we, standing like volcanoes, pleaded. Ayya moved his lips. For us, merely seeing his white beard move was enough. “War on the tenth of August,” he said. “Anna is the dictator,” he said. The struggle has begun, comrades—the struggle has begun.
 
-The first objective of the war—the first attack—is to reduce the fortress of Hindi to dust. After that, to turn into mounds of earth the filthy fortresses called Marwaris. Until a separate Dravidian government blossoms, our shoulders shall know no rest. Until then, war! War alone. For that... as we take leave of our homes and stand in the field, the Vedarathinams appear before you bearing cups of poison. Poison on their tongues... poison in their hands... meant to be injected into your veins! To remove this painful condition—to warn you that poison comes in the form of Vedarathinams—we must address you even while standing in the battlefield. The Education Minister said that Hindi was being imported into the South: compulsory in Karnataka and other regions, but an optional subject in Tamil Nadu! We thought 1938 had spoken to Avinashilingam. We thought it had shown him the graves of Thalamuthu and Natarajan—
+The first objective of the war—the first attack—is to reduce the fortress of Hindi to dust. After that, to turn into mounds of earth the fortresses called Marwaris—the source uses the unusual image `மாசினுட் அரண்கள்`. Until a separate Dravidian government blossoms, our shoulders shall know no rest. Until then, war! War alone. For that... as we take leave of our homes and stand in the field, the Vedarathinams appear before you bearing cups of poison. Poison on their tongues... poison in their hands... meant to be injected into your veins! To remove this painful condition—to warn you that poison comes in the form of Vedarathinams—we must address you even while standing in the battlefield. The Education Minister said that Hindi was being imported into the South: compulsory in Karnataka and other regions, but an optional subject in Tamil Nadu! We thought 1938 had spoken to Avinashilingam. We thought it had shown him the graves of Thalamuthu and Natarajan—
 
 ### PDF page 10 — printed page 9
 
-—we thought it had described to him the ranks of the thousands upon thousands of warriors who had marched in formation. We never expected Avinashi to suddenly tremble at the wound opened up by *The Hindu* and *Mithran*. He fell headlong into that treacherous mattress—into the net spread by Varadachari. He dared to destroy Tamil. He dared to destroy Tamil. Though we explained and warned that this was an improper act, the minister had acquired Achariyar's very ears. Having imposed Hindi compulsorily, once our entry into the field began he now goes round and round conducting a whispering campaign that Hindi is not compulsory but merely optional. Sardar Vedarathinam, labouring to preserve his office, props up that argument. Their claim that Hindi is only optional is poisonous smoke raised as a screen. With the same mouths that proclaimed it compulsory—after forcing Hindi compulsorily—they have now been driven to explain that it is merely optional. This itself is our first victory in the war.
+—we thought it had described to him the ranks of the thousands upon thousands of warriors who had marched in formation. We never expected Avinashi to suddenly tremble at the wound associated in the printed wording with *The Hindu* and *Mithran* (`இந்துவும் மித்திரனும் உருவிய புண்`). He fell headlong into that treacherous mattress—into the net spread by Varadachari. He dared to destroy Tamil. He dared to destroy Tamil. Though we explained and warned that this was an improper act, the minister had acquired Achariyar's very ears. Having imposed Hindi compulsorily, once our entry into the field began he now goes round and round conducting what the source calls `குறுவளிப்பிரச்சாரம்`—contextually, a whispering campaign—that Hindi is not compulsory but merely optional. Sardar Vedarathinam, labouring to preserve his office, props up that argument. Their claim that Hindi is only optional is poisonous smoke raised as a screen. With the same mouths that proclaimed it compulsory—after forcing Hindi compulsorily—they have now been driven to explain that it is merely optional. This itself is our first victory in the war.
 
 “English has been made the third language.  
 Tamil has been made the first language. Hindi  
@@ -88,13 +88,13 @@ The prostitute, of course—he will arrange to marry her. Why, would not you and
 
 There are facilities for studying Hindi—just as the prostitute has varieties of adornment! There are many teachers for Hindi in the school—just as the prostitute is dressed in a silk sari! Financial assistance is freely available for Hindi—just as the prostitute is adorned with jasmine!
 
-But... there are no teachers for Telugu, Kannada, or Malayalam—that is, just as the beautiful women have no adornments! There are no financial facilities for the other languages—just as the many-faced maidens have no good saris! With Hindi occupying the place of the prostitute; Telugu, Malayalam, and Kannada occupying the place of the beauties; and the students occupying the place of the young man, even our beloved Avinashiar cannot object that—knowingly or unknowingly—he stands in the place of the broker. Do you understand now whether Hindi is optional or compulsory?
+But... there are no teachers for Telugu, Kannada, or Malayalam—that is, just as the beautiful women have no adornments! There are no financial facilities for the other languages—just as the `பலர்முக வனிதைகள்` (“many-faced maidens,” an unusual printed expression) have no good saris! With Hindi occupying the place of the prostitute; Telugu, Malayalam, and Kannada occupying the place of the beauties; and the students occupying the place of the young man, even our beloved Avinashiar cannot object that—knowingly or unknowingly—he stands in the place of the broker. Do you understand now whether Hindi is optional or compulsory?
 
-Even if we concede that it is optional... is Hindi suitable for this country? Does Hindi possess literary richness? Does it have a *Manimekalai*? A *Kundalakesi*? A *Silappathikaram*? Can it show us a *Civaka Cintamani*? Can one find there the *Purananuru*, which displays the prowess of lion-hearted Tamils? Does Hindi know the “Akam” that sings songs of love? There is no Kannagi there! There is no Cheran Senguttuvan who crushed Kanakavijayan's head! There is no Pisiranthai, exemplar of friendship—no Ilango who gave literature to the nation! O Hindi woman who came running here! You have none of the last seven great patrons, you wretch! You have no *Kural*, destroyer of a people! Look here—the fish, bow, and tiger flags: our mother crossed the seas beneath those three! Thus we take pride. We speak with a majestic stride. Even amid the war, we rejoice in remembering it. We are proud to stand at the battlefront to protect Mother Classical Tamil, endowed with every distinction. Tamil that played with Valluvar—Tamil that, with Avvai—
+Even if we concede that it is optional... is Hindi suitable for this country? Does Hindi possess literary richness? Does it have a *Manimekalai*? A *Kundalakesi*? A *Silappathikaram*? Can it show us a *Civaka Cintamani*? Can one find there the *Purananuru*, which displays the prowess of lion-hearted Tamils? Does Hindi know the “Akam” that sings songs of love? There is no Kannagi there! There is no Cheran Senguttuvan who crushed Kanakavijayan's head! There is no Pisiranthai, exemplar of friendship—no Ilango who gave literature to the nation! O Hindi woman who came running here! You have none of the last seven great patrons, you wretch! You have no *Kural*, ruinous wretch! `அகோபாரடி`! Look here—the fish, bow, and tiger flags: our mother crossed the seas beneath those three! Thus we take pride. We speak with a majestic stride. Even amid the war, we rejoice in remembering it. We are proud to stand at the battlefront to protect Mother Classical Tamil, endowed with every distinction. Tamil that played with Valluvar—Tamil that, with Avvai—
 
 ### PDF page 13 — printed page 12
 
-—smiled as the *Aathichudi*; Tamil that danced in Bharathi's heart and emerged as the flute-song of Bharathidasan's heart—if that Tamil is to be ruined by a Tamil minister, while Tamils themselves are still alive, are we mere weaklings to stand watching? Or lumps of flesh swollen on rice?
+—smiled as the *Aathichudi*; Tamil that danced in Bharathi's heart and emerged as the flute-song of Bharathidasan's heart—if that Tamil is to be ruined by a Tamil minister, while Tamils themselves are still alive, are we mere weaklings [`சோதாக்கலா`, the unusual printed form] to stand watching? Or lumps of flesh swollen on rice?
 
 Even if one accepts the Indian subcontinent as a single nation and says that it needs a common language, Hindi does not possess the qualification to be that language.
 
@@ -112,9 +112,9 @@ False devotees of Tamil who cry “Long live Tamil” only with your mouths... a
 
 —according to the Mahatma's thinking, according to Jawahar's view... what does this country need: Hindustani? Or Hindi?...
 
-Even after we have given so many explanations, delivered so many detailed addresses, and begun the struggle, will clarity somehow emerge merely by uttering the argument, “These people oppose whatever Congress does”?
+Even after we have given so many explanations, delivered so many detailed addresses, and begun the struggle, will clarity somehow emerge merely by uttering what the print calls `தமிழ்வாதம்`: “These people oppose whatever Congress does”?
 
-Have we opposed every Congress programme? Have we not praised what was good?... We know that in a grove where poisonous things and snakes writhe... green parrots also fly. We are people who hear music in the green parrots—and recognize thoughts of destruction in venomous serpents. When we destroy snake pits... would it be intelligent for the owner of the grove to call the destroyer an enemy of the grove itself?
+Have we opposed every Congress programme? Have we not praised what was good?... We know that in a grove of `பாஷாணங்களுக்கும்` where snakes writhe [the printed construction is unusual]... green parrots also fly. We are people who hear music in the green parrots—and recognize thoughts of destruction in venomous serpents. When we destroy snake pits... would it be intelligent for the owner of the grove to call the destroyer an enemy of the grove itself?
 
 The temple-entry programme came... we welcomed it. What we had advocated from the beginning, we rejoiced to see being carried out before our eyes by our political opponents. We also pointed out its defects. We proposed amendments. Did we conduct propaganda against it? Did we join the Sanatanists and convene a conference?
 
@@ -126,7 +126,7 @@ We pressed only for the abolition of zamindari to be made law more quickly... Di
 
 —conference and passed a zamindari-abolition resolution on that very day, rejoiced to see our long-held idea set foot on the road to victory... we did not shed tears!
 
-Along with the zamindaris... *inum*! Along with the *inams*, the gold-armoured lingam! Ponnambalathan together with his gold! Madurai Meenakshi with her jewelled nose-ring! Venkatan with his diamond crown! The golden Lord Thyagaraja! We offered an amendment saying, “Abolish these too”; did we oppose the scheme?
+Along with the zamindaris... `இனும்`! Along with the `இனும்களோடு`, the gold-armoured lingam! [These unusual printed forms are preserved rather than silently normalized to “inam/inams.”] Ponnambalathan together with his gold! Madurai Meenakshi with her jewelled nose-ring! Venkatan with his diamond crown! The golden Lord Thyagaraja! We offered an amendment saying, “Abolish these too”; did we oppose the scheme?
 
 What about now?... When the Hyderabad issue arose, did we not reduce the intensity of our *arappor*?
 
@@ -140,7 +140,7 @@ Like the story of the Brahmin bachelor who asked for a place in a boat: because 
 
 —the boat capsized. In the same way our Education Minister Avinashiar, using the stick called authority, prodded the monkey called Hindi; to save itself, it leapt into the snake-box called repression; Tamils, frightened at the serpents of repression, ran... and he has created a situation in which the boat of government may sink in midstream. The man in the story is a bachelor. The Education Minister too is a bachelor. Need one ask what mischief follows?
 
-Let those who do not understand our thinking—who do not compare and examine the components of our principles—who do not wish to learn the explanation—who imagine that Vedarathinam himself is the nation—at least place a hand on their hearts after seeing the streams of our blood swelling in this struggle. Let them think of the sufferings we have undergone since August tenth and show us compassion.
+Let those who understand our thinking—who do not compare and examine the components of our principles—who do not wish to learn the explanation—who imagine that Vedarathinam himself is the nation—at least place a hand on their hearts after seeing the streams of our blood swelling in this struggle. [The verified print reads `எங்கள் எண்ணம் புரிபவர்` (“those who understand our thinking”); this appears syntactically inconsistent with the negative clauses that follow, but the translation does not silently reverse it.] Let them think of the sufferings we have undergone since August tenth and show us compassion.
 
 Comrade Dhanalakshmi, who came to defend Tamil, was taken all alone more than thirty miles away and abandoned; those who once hated the white man's tyranny treated this suffering as a game.
 
@@ -148,7 +148,7 @@ Eight months pregnant, the child in her womb throbbing, her four-year-old child 
 
 ### PDF page 17 — printed page 16
 
-—group roaring that the “Karaikal” territories must be brought under our control.
+—group roaring that the printed `“காரைக்கால்”—மாக்களை` must be brought under our control. [The source form is irregular; “territories” has therefore not been silently supplied.]
 
 Events have reached such a point that one wonders whether iron-hearted Hitler and the brutal Mussolini learned fascism from these sons of Bharat. We entered the struggle only after considering hardship and loss. The leader's order came to us only after it was clear that there was no doubt about the sharpness of our spears, the strength of our shields, or the firmness of our hearts. We do not desire war; but once we have reached the battlefront, we who possess Tamil feeling have no habit of turning our backs. Cruelties harsher than these may yet approach us. The monstrous mouth of repression gapes at us. Authority stretches out its blood-red tongues and closes in upon us. We have been placed between the poisonous fangs of law. We who move among you today may tomorrow swing from the gallows. We may lie headless upon the sacrificial altar. We may become tombs. We may be subjected to torture in prison.
 
@@ -156,7 +156,7 @@ Why... our leader Periyar Ramasamy may tomorrow come to deliver a great address 
 
 ### PDF page 18 — printed page 17
 
-—raise their guns. As bullets burst out *padapada*, people may run in confusion, losing all sense of direction... amid that urgent turmoil... a bullet may strike Periyar Ramasamy in the chest. Periyar may fall dead. People fleeing in disorder, not realizing that the body lying below is Periyar's corpse, may run with their feet upon his chest. Alas! We may see this horrifying sight with our own eyes. We have pictured even this, disciplined our minds for it, and only then beaten the drum of war.
+—raise their guns. As bullets burst out *padapada*, people may run in confusion, losing all sense of direction... amid that urgent turmoil... a bullet may strike Periyar Ramasamy in the chest. Periyar may fall dead. People fleeing in disorder, not realizing that the body lying below is Periyar's corpse, may run with their feet upon his chest. Alas! We may see this horrifying sight with our own eyes—the source uses the unusual form `கணராவியான`. We have pictured even this, disciplined our minds for it, and only then beaten the drum of war.
 
 How much hardship we face in this country! Newspapers do not publish reports of conferences where hundreds of thousands of warriors gather. Nationalist editors take their scissors to fiery anti-Hindi reports. Our conch-call in Madras—our Dravidian battalion in Trichy—these stirring events never reach the radio. Pandit Nehruji lying down and rolling about—Patel Durai baring his teeth—become banner headlines in the newspapers. A felicitation ceremony for Bharathidasan, attended by tens of thousands, appears somewhere in a corner of the paper! The donning of the sacred thread on Avani Avittam becomes a programme on All India Radio! But when Anna presides over the Erode conference, the radio alone becomes mute about its broadcast. Should we not seek a remedy for all this narrow-mindedness?
 
@@ -176,25 +176,29 @@ People of the great Dravidian community! Pointing to the graves of Natarajan and
 
 ### PDF page 20 — printed page 19
 
-—the testament we leave to the Dravidian people is this: safeguard the property of Self-Respect and secure the rule of the Dravidian land.
+—the testament we leave to the Dravidian people is this: safeguard the property of Self-Respect and bring the rule of the Dravidian land into our possession.
 
-Dravidian youth! Women! If the resolve to safeguard honour, if the quality born in the warrior clan, truly remain among us, let one person from every household come forth. Let us take on, once and for all, the domination that has been growing for one or two thousand years.
+Dravidian youth! Women! If the resolve to safeguard honour, if the quality born in `மார்க்குடியில்` [unusual verified printed form], truly remain among us, let one person from every household come forth. Let us take on the domination that has been growing for one or two thousand years.
 
 Rulers! Heap your repression upon us! But ask the blood-shedding Tiruppur Kumaran whether repression brings victory. Ask V. O. Chidambaram, who languished in prison. Ask Bhagat Singh, who hung from the gallows. Even after hearing their answer, if you still have faith in repression, then wield that weapon. If the police are not enough... unleash upon us the goondas of the Vibhishanas of the Dravidian race; if even that is not enough, plenty of the landlords' men will be available—send them charging at us. Summon the army itself. We are not people who retreat before anything. We began this *arappor* only after reading the terrible histories in which the cross was given as a gift to Jesus, stones to the Prophet Muhammad, poison to Socrates, and bullets to Gandhi.
 
-Hmm... let your repression proceed. Where are your weapons of authority? Here is our upright chest. Hurl them. Hurl them as you please. Let hands, legs, eyes, ears, nose, face—all be maimed. Even if the brain itself is shattered and scattered, we will not become weaklings who turn our backs. We will not run. This is the oath we take before the people.
+Hmm... let your repression proceed. Where are your weapons of authority? Here is our upright chest. Hurl them. Hurl them as you please. Let hands, legs, eyes, ears, nose, face—all be maimed. Even if the brain itself is shattered and scattered, we will not become the kind who show our backs and flee [`சோதாக்கலாகி`, an unusual printed form]. Do not forget this.
 
 This is the war of “Devas and Asuras.” Yes... the war of the *Ramayana*. In this war, victory will certainly belong to Ravana! Not to Rama! Nor will the kingdom belong to Vibhishana!
 
 **This is the final proclamation of our *arappor*.**
 
+## Translator/source notes
+
+The strict-verified Tamil transcription is the controlling archival layer. Where the 1949 print contains unusual or internally difficult forms, this translation preserves the form or identifies the interpretation instead of silently emending the Tamil. Notable forms include `நம் கல்வனத்தை`, `ஒத்திக்கும்`, `மாசினுட் அரண்கள்`, `குறுவளிப்பிரச்சாரம்`, `பலர்முக வனிதைகள்`, `அகோபாரடி`, `சோதாக்கலா / சோதாக்கலாகி`, `தமிழ்வாதம்`, `பாஷாணங்களுக்கும்`, `இனும் / இனும்களோடு`, `எங்கள் எண்ணம் புரிபவர்`, `காரைக்கால்—மாக்களை`, `கணராவியான`, and `மார்க்குடியில்`. These notes document source uncertainty; they are not corrections to the verified Tamil transcription.
+
 ## Translation progress
 
 | PDF pages | Printed pages | Status |
 |---|---|---|
-| 4–8 | 3–7 | translated — first-pass |
-| 9–13 | 8–12 | translated — first-pass |
-| 14–18 | 13–17 | translated — first-pass |
-| 19–20 | 18–19 | translated — first-pass |
+| 4–8 | 3–7 | translated — fidelity corrections consolidated |
+| 9–13 | 8–12 | translated — fidelity corrections consolidated |
+| 14–18 | 13–17 | translated — fidelity corrections consolidated |
+| 19–20 | 18–19 | translated — fidelity corrections consolidated |
 
-English first-pass translation is complete for all 17 speech-body pages. The strict-verified Tamil source layer remains unchanged. A separate translation review/fidelity pass should precede any final `verified-complete` translation status.
+English fidelity-review corrections are consolidated for all 17 speech-body pages. The strict-verified Tamil source layer remains unchanged. A final end-to-end Tamil→English comparison is required before `verified-complete` status.
