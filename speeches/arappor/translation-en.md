@@ -1,6 +1,6 @@
 # Arappor — English Translation
 
-> **Status:** Fidelity-review corrections consolidated — final end-to-end verification pending  
+> **Status:** Verified complete — final end-to-end Tamil→English comparison passed for PDF pp. 4–20 / printed pp. 3–19  
 > **Source layer:** `transcription-ta.md` (strict-verified Tamil transcription)  
 > **Translation rule:** Translate from the verified Tamil layer, preserving rhetoric, repetition, historical references, polemical language, and source distinctions as faithfully as practical. Do not silently rewrite or modernize the Tamil source.  
 > **Date note:** April 1949 is the publication date of the second edition, **not** an established speech date.
@@ -196,9 +196,9 @@ The strict-verified Tamil transcription is the controlling archival layer. Where
 
 | PDF pages | Printed pages | Status |
 |---|---|---|
-| 4–8 | 3–7 | translated — fidelity corrections consolidated |
-| 9–13 | 8–12 | translated — fidelity corrections consolidated |
-| 14–18 | 13–17 | translated — fidelity corrections consolidated |
-| 19–20 | 18–19 | translated — fidelity corrections consolidated |
+| 4–8 | 3–7 | verified |
+| 9–13 | 8–12 | verified |
+| 14–18 | 13–17 | verified |
+| 19–20 | 18–19 | verified |
 
-English fidelity-review corrections are consolidated for all 17 speech-body pages. The strict-verified Tamil source layer remains unchanged. A final end-to-end Tamil→English comparison is required before `verified-complete` status.
+English translation is **verified-complete for all 17 speech-body pages** against the strict-verified Tamil source layer. The Tamil transcription remains unchanged.
