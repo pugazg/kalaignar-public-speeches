@@ -22,7 +22,7 @@ The repository preserves each available source as evidence and separates four la
 
 | ID | Tamil title | Source edition | Speech date | Tamil transcription | English translation |
 |---|---|---|---|---|---|
-| `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | In progress | Blocked pending Tamil verification |
+| `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | In progress - 5/17 speech pages drafted | Blocked pending Tamil verification |
 
 ## Repository layout
 
