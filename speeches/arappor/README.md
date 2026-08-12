@@ -34,10 +34,12 @@ The currently examined scan does **not** establish the original speech date, ven
 | Layer | Status |
 |---|---|
 | Source identification | Complete |
-| Tamil transcription | In progress |
+| Tamil transcription | In progress - 5/17 speech pages drafted (printed pp. 3-7) |
 | Page-by-page visual audit | Not started |
 | English translation | Blocked until Tamil audit is complete |
 
+The current Tamil text is a **first-pass source transcription**, not yet a verified/canonical release. Printed pages 3-7 (PDF pages 4-8) have been entered. They remain subject to the separate visual-fidelity audit before their status can be raised to verified.
+
 ## Transcription rule
 
-The transcription follows the printed source rather than modernizing it. Historical spelling, punctuation, names, and claims are retained where legible. Any damaged or genuinely uncertain reading will be marked explicitly instead of silently reconstructed.
+The transcription follows the printed source rather than modernizing it. Historical spelling, punctuation, names, numbers, and wording are retained where legible. Any damaged or genuinely uncertain reading will be marked explicitly instead of silently reconstructed.
