@@ -1,6 +1,6 @@
 # Arappor — English Translation
 
-> **Status:** Translation in progress — PDF pp. 4–18 / printed pp. 3–17 translated  
+> **Status:** First-pass translation complete — PDF pp. 4–20 / printed pp. 3–19 translated  
 > **Source layer:** `transcription-ta.md` (strict-verified Tamil transcription)  
 > **Translation rule:** Translate from the verified Tamil layer, preserving rhetoric, repetition, historical references, polemical language, and source distinctions as faithfully as practical. Do not silently rewrite or modernize the Tamil source.  
 > **Date note:** April 1949 is the publication date of the second edition, **not** an established speech date.
@@ -164,6 +164,30 @@ Can we permit those who opposed white imperialism to hail northern imperialism?
 
 No money for prohibition—no assistance for zamindari abolition—the northern leadership went so far as to say, in the presidential election, “We will not support Pattabhi”; and yet they continue to be carried on our heads—
 
+### PDF page 19 — printed page 18
+
+—is it wrong for us to oppose that? Is it wrong for us to reject the Marwari–Bania plunder that has turned Dravidam into a commercial market? Is it wrong for us to seek to bring down caste fanaticism that has made society a slippery ground? Is it wrong to say, “Do not ruin the students by introducing compulsory Hindi”? If the government obstructs our campaigns for this, is it wrong for us to oppose that government? You who fought for citizens' rights! My dear one who demanded freedom of writing! Which of these is wrong?
+
+This war is not merely a language war. It is a war for the rights of a people. A war against imperialism. A war to abolish Brahmin–Bania domination. Whichever side victory or defeat may leap to, we do not care.
+
+It is enough if history records only that a war was fought to safeguard honour. Those lines will become spears for future generations. They will become a battle cry.
+
+People of the great Dravidian community! Pointing to the graves of Natarajan and Thalamuthu—reminding you of the work of Nair and Thyagarayar—placing Velayutham's corpse before you, we plead: give us your support. Even if you cannot support us, bless us and send us forth to the *arappor*! All we ask of you is this... if every one of us dies, please build a single tomb for all of us together. Let that tomb, in the future, be drenched by the tears of Omandurar's grandson! Let Vedarathinam's descendants stand there with tears welling in their eyes! So that those tears may remind them of us—and of the cause for which we died—we submit this final request as we resolve to perish and enter the field—
+
+### PDF page 20 — printed page 19
+
+—the testament we leave to the Dravidian people is this: safeguard the property of Self-Respect and secure the rule of the Dravidian land.
+
+Dravidian youth! Women! If the resolve to safeguard honour, if the quality born in the warrior clan, truly remain among us, let one person from every household come forth. Let us take on, once and for all, the domination that has been growing for one or two thousand years.
+
+Rulers! Heap your repression upon us! But ask the blood-shedding Tiruppur Kumaran whether repression brings victory. Ask V. O. Chidambaram, who languished in prison. Ask Bhagat Singh, who hung from the gallows. Even after hearing their answer, if you still have faith in repression, then wield that weapon. If the police are not enough... unleash upon us the goondas of the Vibhishanas of the Dravidian race; if even that is not enough, plenty of the landlords' men will be available—send them charging at us. Summon the army itself. We are not people who retreat before anything. We began this *arappor* only after reading the terrible histories in which the cross was given as a gift to Jesus, stones to the Prophet Muhammad, poison to Socrates, and bullets to Gandhi.
+
+Hmm... let your repression proceed. Where are your weapons of authority? Here is our upright chest. Hurl them. Hurl them as you please. Let hands, legs, eyes, ears, nose, face—all be maimed. Even if the brain itself is shattered and scattered, we will not become weaklings who turn our backs. We will not run. This is the oath we take before the people.
+
+This is the war of “Devas and Asuras.” Yes... the war of the *Ramayana*. In this war, victory will certainly belong to Ravana! Not to Rama! Nor will the kingdom belong to Vibhishana!
+
+**This is the final proclamation of our *arappor*.**
+
 ## Translation progress
 
 | PDF pages | Printed pages | Status |
@@ -171,6 +195,6 @@ No money for prohibition—no assistance for zamindari abolition—the northern 
 | 4–8 | 3–7 | translated — first-pass |
 | 9–13 | 8–12 | translated — first-pass |
 | 14–18 | 13–17 | translated — first-pass |
-| 19–20 | 18–19 | pending |
+| 19–20 | 18–19 | translated — first-pass |
 
-English translation is being created as a separate derived layer. The strict-verified Tamil source layer remains unchanged.
+English first-pass translation is complete for all 17 speech-body pages. The strict-verified Tamil source layer remains unchanged. A separate translation review/fidelity pass should precede any final `verified-complete` translation status.
