@@ -23,10 +23,10 @@ The earlier whole-document sweep has been **re-opened** for a stricter line-by-l
 |---|---|---|---|
 | 1 | 4-8 | 3-7 | re-audited |
 | 2 | 9-13 | 8-12 | re-audited |
-| 3 | 14-18 | 13-17 | pending |
+| 3 | 14-18 | 13-17 | re-audited |
 | 4 | 19-20 | 18-19 | pending |
 
-Strictly re-audited pages: **10 / 17**.
+Strictly re-audited pages: **15 / 17**.
 
 ## Batch 1 findings - PDF pages 4-8 / printed pages 3-7
 
@@ -69,13 +69,35 @@ Printed page 10 required **no additional substantive correction** in this strict
 
 The page-9 quotation was checked against the damaged but still legible print. The substantive wording is `இரண்டாம் மொழிக்கும்தான் கட்டாயம்`; this must not be normalized to the semantically different `இரண்டாம் மொழிக்கு மட்டும் கட்டாயம்`.
 
+## Batch 3 findings - PDF pages 14-18 / printed pages 13-17
+
+The third strict batch found further source-fidelity issues, especially on printed pages 14, 16, and 17:
+
+| Printed page | Existing reading | Scan-supported reading / action |
+|---:|---|---|
+| 14 | `ஓங்கிய வாட்களை உறையிலிட்டு` | `ஓங்கிய வாட்கள் உறையிலிட்டு` |
+| 14 | `திவட்டியுங் கையுமாக` | `தீவட்டியுங் கையுமாக` |
+| 14 | `துடுப்புக்குச் சிலை பல்லால் இழுத்து` | `துடுப்புக்குச்சியை பல்லால் இழுத்து` - `துடுப்புக்குச்` / `சியை` is a printer line-wrap split |
+| 16 | `கொண்டுவர வேண்டுமென கார்ச்சிப்பதும்` | `கொண்டுவர வேண்டும் மென் கார்ச்சிப்பதும்` - retain the visibly printed form rather than silently regularizing it |
+| 16 | `பலிபீடத்தில் தலைபிழந்த` | `பலிபீடத்தில் தலையிழந்த` |
+| 17 | `இந்த நாட்டில்,` | `இந்த நாட்டில்.` |
+| 17 | `மாநாடு செய்திகளை` | `மாநாட்டு செய்திகளை` |
+| 17 | `கத்தரிக்கோல் வேலை` | `கத்திரிக்கோல் வேலை` |
+| 17 | `வானொலியில் வருவதில்லை` | `வானொலியில் வருவதேயில்லை` |
+| 17 | `பண்டிதநேருஜி படத்துப் புரண்டதும்` | `பண்டிதநேருஜி படுத்துப் புரண்டதும்` |
+| 17 | `ஊமையாயிற்று ரேடியோ` | `ஊமையாகிறது ரேடியோ` |
+
+Printed pages 13 and 15 required **no additional substantive correction** in this strict pass beyond readings already incorporated by the preliminary sweep.
+
+The printed-page-14 reading `துடுப்புக்குச்சியை` is particularly important: the first pass treated the second half of the line-broken word as a separate word (`சிலை`). The scan shows the word split at the page's printer line wrap as `துடுப்புக்குச்` followed by `சியை`, which joins to `துடுப்புக்குச்சியை`.
+
 ## Integration note
 
-`transcription-ta.md` still contains some readings superseded by Batch 1 and Batch 2 findings. They will be integrated as part of the strict re-audit consolidation. Until that integration and the remaining page batches are complete, its earlier `verified` header/table should be regarded as **superseded by this audit log and `metadata.json`**.
+`transcription-ta.md` still contains readings superseded by Batch 1, Batch 2, and Batch 3 findings. They will be integrated as part of the strict re-audit consolidation. Until that integration and the final page batch are complete, its earlier `verified` header/table should be regarded as **superseded by this audit log and `metadata.json`**.
 
 ## Next batch
 
-PDF pages **14-18**, corresponding to printed pages **13-17**.
+PDF pages **19-20**, corresponding to printed pages **18-19**. This is the final strict re-audit batch.
 
 ## Audit boundary
 
