@@ -34,11 +34,11 @@ The currently examined scan does **not** establish the original speech date, ven
 | Layer | Status |
 |---|---|
 | Source identification | Complete |
-| Tamil transcription | **Verified complete - 17/17 speech pages** |
-| Page-by-page visual audit | **Complete - PDF pp. 4-20 / printed pp. 3-19** |
-| English translation | Ready; not started |
+| Tamil transcription | **Strict-verified complete - 17/17 speech pages** |
+| Strict line-by-line visual audit | **Complete - PDF pp. 4-20 / printed pp. 3-19** |
+| English translation | **Ready; not started** |
 
-The Tamil transcription has been compared page by page against the supplied scan. Historical spelling, punctuation, names, numbers, unusual forms, and source-supported typographical oddities are retained rather than silently modernized. Corrections made during the audit are documented in `audit.md`.
+The Tamil transcription has now passed the stricter line-by-line source audit across all 17 speech pages. Historical spelling, punctuation, names, numbers, unusual forms, and source-supported typographical oddities are retained rather than silently modernized. All corrections and final fidelity notes are documented in `audit.md` and consolidated into `transcription-ta.md`.
 
 A later blue/ink annotation overlaps part of the first line of printed p. 19. It is not part of the edition text; the underlying printed reading `மக்களுக்கு` remains recoverable and is transcribed accordingly.
 
@@ -48,4 +48,4 @@ The transcription follows the printed source rather than modernizing it. Histori
 
 ## Next gate
 
-The Tamil source layer is now verified. English translation may begin as a separate derived layer, keeping the verified Tamil transcription unchanged.
+The Tamil source layer is now strict-verified and frozen as the source-faithful layer. English translation may begin as a separate `translation-en.md`, keeping the verified Tamil transcription unchanged except for any later documented source correction.
