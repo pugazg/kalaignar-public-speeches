@@ -54,6 +54,9 @@
     "tamil_visual_audit": "complete",
     "tamil_visual_audit_date": "2026-08-12",
     "combined_transcript_pending_batch_corrections": false,
-    "english_translation": "ready-not-started"
+    "english_translation": "in-progress",
+    "english_translation_pages_completed": 5,
+    "english_translation_through_pdf_page": 8,
+    "english_translation_through_printed_page": 7
   }
 }
