@@ -7,7 +7,9 @@
 
 ## Important audit state
 
-The earlier whole-document sweep has been **re-opened** for a stricter line-by-line fidelity pass. The strict pass has continued to find source/transcription discrepancies that the preliminary sweep missed. Therefore the Tamil text must **not** yet be treated as final/canonical, and English translation remains blocked until this stricter pass is complete.
+The stricter line-by-line fidelity pass is **complete**. All 17 speech pages have been re-audited directly against the supplied scan, all strict Batch 1-4 findings have been consolidated into `transcription-ta.md`, and the final page-boundary / stale-reading consistency check has been completed.
+
+The Tamil transcription may now be treated as the final verified source layer. English translation is **ready-not-started** and may begin only as a separate derived layer.
 
 ## Method
 
@@ -15,7 +17,7 @@ The earlier whole-document sweep has been **re-opened** for a stricter line-by-l
 - Preserve printed wording, historical spelling, punctuation, names, and unusual/possibly erroneous source forms when legible.
 - Join printer line-wraps only when they split a single word.
 - Record substantive corrections rather than silently normalizing them.
-- Work in batches of **5 speech pages**.
+- Work in batches of **5 speech pages** where possible.
 
 ## Strict re-audit progress
 
@@ -24,9 +26,9 @@ The earlier whole-document sweep has been **re-opened** for a stricter line-by-l
 | 1 | 4-8 | 3-7 | re-audited |
 | 2 | 9-13 | 8-12 | re-audited |
 | 3 | 14-18 | 13-17 | re-audited |
-| 4 | 19-20 | 18-19 | pending |
+| 4 | 19-20 | 18-19 | re-audited |
 
-Strictly re-audited pages: **15 / 17**.
+Strictly re-audited pages: **17 / 17**.
 
 ## Batch 1 findings - PDF pages 4-8 / printed pages 3-7
 
@@ -35,14 +37,14 @@ The following readings were confirmed or corrected against the scan during the s
 | Printed page | Existing reading | Scan-supported reading / action |
 |---:|---|---|
 | 3 | `வோட்டுக்களே` | `வோட்டுகளே` |
-| 3 | earlier draft `மற்றுக் கட்சியினர்` | `மாற்றுக் கட்சியினர்` - current combined transcript already has this correction |
+| 3 | earlier draft `மற்றுக் கட்சியினர்` | `மாற்றுக் கட்சியினர்` |
 | 4 | `போர் மூள்வதற்குக் காரணம் கால்கோள் விழா` | `போர் மூள்வதற்குக் கால்கோள் விழா` |
 | 4 | `எம்மீது ஏவிய` | `எம் மீது எவிய` - retain the printed form rather than modernizing it |
-| 4 | earlier draft `அந்தக் கணைகள்` | `அந்தக் கணைகளை` - current combined transcript already has this correction |
-| 4 | earlier draft `வேல், வில் ஈட்டிகொண்டு` | `வேல், வில், ஈட்டிகொண்டு` - current combined transcript already has this correction |
+| 4 | earlier draft `அந்தக் கணைகள்` | `அந்தக் கணைகளை` |
+| 4 | earlier draft `வேல், வில் ஈட்டிகொண்டு` | `வேல், வில், ஈட்டிகொண்டு` |
 | 4 | `குஷ்டரோகிப்` | `குஷ்ட ரோகிப்` |
 | 4 | `மகாவிஷ்ணுவை` | `மகா விஷ்ணுவை` |
-| 7 | earlier draft `தடையோட்ட` | `தடைபோட` - current combined transcript already has this correction |
+| 7 | earlier draft `தடையோட்ட` | `தடைபோட` |
 | 7 | `நெரிக்கும்காட்சி` | `நெறிக்கும் காட்சி` |
 | 7 | `கேள்விகேட்போம்` | `கேள்விகிளப்பினோம்` |
 
@@ -89,15 +91,34 @@ The third strict batch found further source-fidelity issues, especially on print
 
 Printed pages 13 and 15 required **no additional substantive correction** in this strict pass beyond readings already incorporated by the preliminary sweep.
 
-The printed-page-14 reading `துடுப்புக்குச்சியை` is particularly important: the first pass treated the second half of the line-broken word as a separate word (`சிலை`). The scan shows the word split at the page's printer line wrap as `துடுப்புக்குச்` followed by `சியை`, which joins to `துடுப்புக்குச்சியை`.
+The printed-page-14 reading `துடுப்புக்குச்சியை` is particularly important: the first pass treated the second half of the line-broken word as a separate word (`சிலை`). The scan shows the word split at the printer line wrap as `துடுப்புக்குச்` followed by `சியை`, which joins to `துடுப்புக்குச்சியை`.
 
-## Integration note
+## Batch 4 findings - PDF pages 19-20 / printed pages 18-19
 
-`transcription-ta.md` still contains readings superseded by Batch 1, Batch 2, and Batch 3 findings. They will be integrated as part of the strict re-audit consolidation. Until that integration and the final page batch are complete, its earlier `verified` header/table should be regarded as **superseded by this audit log and `metadata.json`**.
+The final two speech pages were strictly re-audited line by line against the scan.
 
-## Next batch
+| Printed page | Reading checked | Scan-supported reading / action |
+|---:|---|---|
+| 18 | rhetorical-question endings previously read as `தவறா?` in an early pass | every instance is confirmed as the source form `தவறு?` |
+| 19 | first-line word partly crossed by a later blue/ink mark | underlying printed reading confirmed as `மக்களுக்கு`; the later annotation is not incorporated into the speech text |
+| 19 | unusual `மார்க்குடியில்` | confirmed from the printed glyphs; retain as printed |
+| 19 | unusual `தெரித்தாலும்` | confirmed from the printed glyphs; retain as printed |
 
-PDF pages **19-20**, corresponding to printed pages **18-19**. This is the final strict re-audit batch.
+No additional substantive wording correction was required on printed pages 18-19 beyond readings already incorporated during the preliminary sweep.
+
+## Final consolidation and consistency check
+
+All strict Batch 1-4 corrections are now integrated into `transcription-ta.md`.
+
+The consolidation also joined genuine word splits at PDF-page boundaries without changing source wording:
+
+- `மௌ` / `னம்` -> `மௌனம்`
+- `நடரா` / `ஜன்` -> `நடராஜன்`
+- `அதற்` / `காக` -> `அதற்காக`
+- `சுப்பரா` / `யன்` -> `சுப்பராயன்`
+- `கடை` / `சியாக` -> `கடைசியாக`
+
+The consolidated transcript was checked for the superseded readings recorded above, page-boundary joins, and paragraph boundaries. Its status table and header now represent the completed **strict** verification rather than the earlier preliminary sweep.
 
 ## Audit boundary
 
