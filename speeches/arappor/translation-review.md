@@ -11,173 +11,147 @@
 | 1 | 4–8 | 3–7 | reviewed |
 | 2 | 9–13 | 8–12 | reviewed |
 | 3 | 14–18 | 13–17 | reviewed |
-| 4 | 19–20 | 18–19 | pending |
+| 4 | 19–20 | 18–19 | reviewed |
+
+All 17 speech-body pages have now undergone Tamil→English fidelity review. The English layer is **not yet verified-complete**: the findings below must first be consolidated into `translation-en.md`, followed by a final end-to-end comparison.
 
 ## Batch 1 — PDF 4–8 / printed 3–7
 
 ### Result
 
-The first-pass English is substantially aligned with the verified Tamil across these five pages. The review found no omitted paragraph and no invented event/date/venue claim. The recurring martial rhetoric, the repeated `பொறுமனமே பொறு`, the sequence of bans/repression, and the distinction between publication date and speech date are preserved.
+The first-pass English is substantially aligned with the verified Tamil across these five pages. No paragraph is omitted and no invented date/venue/event claim appears.
 
-### Fidelity notes requiring final consolidation
+### Findings for consolidation
 
-1. **Printed p. 7 — source form `நம் கல்வனத்தை`**
-   - Tamil source: `நம் கல்வனத்தை நாசமாக்கும் விஷ வாய்க்கால்`
-   - First-pass English: `a poisonous canal destroying our education`
-   - Review: the English captures the evident contextual sense, but the verified Tamil deliberately preserves the unusual printed form `கல்வனத்தை`. The final English layer should not make the archival oddity invisible. Retain the readable translation but add a translator/source note that the printed Tamil reads `கல்வனத்தை` rather than silently treating the source as normalized `கல்வியை`/`கல்வி...`.
-
-2. **Printed p. 7 — quoted Kambar phrase**
-   - Tamil source: `வாமமேகலையிற் வளர்ந்து அல்குலே`
-   - First-pass English currently gives a romanized quotation.
-   - Review: because the phrase itself is being cited and attacked rhetorically, the final layer should preserve the exact verified Tamil quotation alongside any transliteration rather than presenting only a normalized romanization.
-
-3. **Terminology consistency — `அறப்போர்`**
-   - First-pass usage alternates between `struggle`, `war`, and italicized `arappor` according to context.
-   - Review: this is generally defensible because the source itself alternates `போர்`, `போராட்டம்`, and `அறப்போர்`. Final review must preserve that distinction: `போர்` → `war`, `போராட்டம்` → `struggle`, and `அறப்போர்` → preferably *arappor* with an initial gloss such as `righteous struggle`, rather than flattening all three into one English term.
-
-### Batch 1 disposition
-
-**Reviewed, not yet globally verified.** The two source-oddity/quotation notes above must be incorporated during final translation consolidation. No change to the verified Tamil transcription is warranted.
+1. Printed p.7 `நம் கல்வனத்தை` is an unusual verified source form. The readable contextual translation `our education` may be retained only with a translator/source note preserving the exact printed form.
+2. The quoted Kambar phrase `வாமமேகலையிற் வளர்ந்து அல்குலே` should retain the exact Tamil alongside any transliteration.
+3. Preserve the source distinction: `போர்` → `war`; `போராட்டம்` → `struggle`; `அறப்போர்` → *arappor* (initially glossed as `righteous struggle`).
 
 ## Batch 2 — PDF 9–13 / printed 8–12
 
 ### Result
 
-The first-pass English remains substantially faithful across this five-page batch. The page sequence, paragraph sequence, repeated rhetoric, the Hindi optional/compulsory argument, the marriage-broker analogy, literary-name catalogue, and Hindi/Hindustani distinction are all present. No whole paragraph is omitted, and no unsupported date, venue, or event has been introduced.
+The sequence and argument are substantially complete, but there are definite and source-oddity corrections to make.
 
-### Fidelity notes requiring final consolidation
+### Findings for consolidation
 
-1. **Printed p. 8 — opening sentence crosses the page boundary and is mistranslated**
-   - Verified Tamil across pp. 7–8: `மந்திரிகளின் மனம் இளகிற்று. மந்திரிகட்கு. எங்கே உத்திரவு இருங்களய்யா என அடுத்தடிப்பேசினோம்.`
-   - First-pass English: `The ministers' hearts softened. “Where is the order? Please wait, sirs,” we pressed again and again.`
-   - Review: `இருங்களய்யா` is an imperative meaning roughly `wait/hold on, sirs`, but the English incorrectly folds it into the protesters' quoted demand as `Please wait, sirs`, producing an internally contradictory line after `Where is the order?`. The final translation should preserve the source boundary and syntax more cautiously, e.g. `The ministers' hearts softened. To the ministers we pressed on: “Where is the order? Wait, sirs...”` or another source-faithful rendering that does not turn the wait-command into the protesters asking themselves to wait. This is a substantive correction.
-
-2. **Printed p. 8 — `ஒத்திக்கும் அந்த திருக்குரலை` over-interpreted**
-   - Tamil source: `ஒத்திக்கும் அந்த திருக்குரலை எம்மிடம் நீட்டுங்கள்.....எங்கே?...எங்கே?...`
-   - First-pass English: `Extend to us that sacred voice which resounds... Where?... Where?...`
-   - Review: `which resounds` is interpretive. The verified source form is unusual enough that final consolidation should avoid claiming a precise nuance not securely established by the Tamil layer. Prefer a closer, less expansive rendering and, if necessary, retain/transliterate the source wording in a note rather than silently resolving it.
-
-3. **Printed p. 8 — `மார்வாடிகள் என்ற மாசினுட் அரண்கள்` loses part of the image**
-   - First-pass English: `the filthy fortresses called Marwaris`.
-   - Review: this captures the polemical direction but compresses the unusual compound/source wording. Final consolidation should keep the English readable while noting that the Tamil literally carries the `மாசினுட் அரண்கள்` image rather than normalizing it into ordinary prose.
-
-4. **Printed p. 9 — `இந்துவும் மித்திரனும் உருவிய புண்` is too confidently reconstructed**
-   - Tamil source: `திடீரென இந்துவும் மித்திரனும் உருவிய புண்ணில்கண்டு வெலவெலத்து விடுவோர் அவிநாசி...`
-   - First-pass English: `the wound opened up by The Hindu and Mithran`.
-   - Review: identifying `இந்து` and `மித்திரன்` as publication names is contextually plausible, but `உருவிய புண்` is an unusual printed construction and the English resolves it too smoothly. Retain the names if used, but avoid presenting the exact wound metaphor as textually unproblematic; a translator/source note is appropriate.
-
-5. **Printed p. 9 — `குறுவளிப்பிரச்சாரம்` silently normalized**
-   - First-pass English: `conducting a whispering campaign`.
-   - Review: the translation supplies a plausible contextual meaning, but the verified Tamil preserves the unusual printed form `குறுவளிப்பிரச்சாரம்`. As with Batch 1 source oddities, final English should flag the printed form rather than make the archival irregularity disappear.
-
-6. **Printed p. 11 — `பலர்முக வனிதைகள்` rendered as `many-faced maidens`**
-   - Review: this is formally close but semantically opaque in English. Because the Tamil itself is the controlling source and may contain an unusual/printed form, do not silently repair it. Preserve a close rendering and add a source note if needed rather than replacing it with a guessed intended phrase.
-
-7. **Printed p. 11 — literary catalogue contains an unsupported semantic gloss**
-   - Tamil: `குறள் இல்லையடி குடிகேடி!`
-   - First-pass English: `You have no Kural, destroyer of a people!`
-   - Review: `குடிகேடி` is an insult addressed to the personified Hindi woman; `destroyer of a people` is possible but too specific as a definitive archival gloss. A closer insult such as `ruinous wretch` / `wrecker of a people` should be chosen only with a translator note if interpretive certainty is limited. Do not present one expanded meaning as though it were explicit in the source.
-
-8. **Printed p. 11 — `அகோபாரடி` is omitted**
-   - Tamil sequence: `குறள் இல்லையடி குடிகேடி! அகோபாரடி கயல், வில், புலிகொடி மூன்றிலே கடல் கடந்தவளடி எங்கள் தாய்!`
-   - First-pass English jumps from `You have no Kural, destroyer of a people!` directly to `Look here—the fish, bow, and tiger flags...`.
-   - Review: the printed exclamatory source form `அகோபாரடி` is not represented. Its exact sense should not be guessed silently. Final consolidation must either render it cautiously or preserve/transliterate it with a source note. This is an omission requiring correction.
-
-9. **Printed p. 12 — `சோதாக்கலா?` normalized to `weaklings`**
-   - Tamil: `அதைப்பார்த்துக்கொண்டிருக்க நாம் என்ன சோதாக்கலா? அல்லது சோற்றுவலித்த பிண்டங்களா?`
-   - First-pass English: `are we mere weaklings to stand watching? Or lumps of flesh swollen on rice?`
-   - Review: `weaklings` conveys the rhetorical force but silently resolves the unusual source word `சோதாக்கலா`. Final translation should preserve the readable force while flagging the exact printed form in a translator/source note rather than treating the normalization as certain.
-
-10. **Printed p. 12 — `மதவாடை` translated as `odour of religion`**
-    - Tamil: `மதவாடை வீசாத மலராம் திருக்குறள்`.
-    - First-pass English: `the Tirukkural, a flower without the odour of religion`.
-    - Review: this is a strong and substantially faithful metaphor. Retain it; do not soften it to modern explanatory prose.
-
-11. **Printed p. 12 — Hindi/Hindustani distinction is correctly preserved**
-    - The source separately says Gandhi wanted `இந்துஸ்தானி`, not `இந்தி`, and says the Central Government had not decided between them.
-    - The English preserves that distinction. No correction required.
-
-### Batch 2 disposition
-
-**Reviewed, not yet globally verified.** One clear mistranslation at the p. 7→8 boundary and one omitted source expression (`அகோபாரடி`) require correction during final consolidation. Several unusual printed forms should receive archival translator/source notes instead of silent normalization. No change to the verified Tamil transcription is warranted.
+1. Printed p.8 page-boundary wording `மந்திரிகளின் மனம் இளகிற்று. மந்திரிகட்கு. எங்கே உத்திரவு இருங்களய்யா என அடுத்தடிப்பேசினோம்.` is over-resolved in the first pass. The final version must preserve the awkward verified syntax rather than invent a smooth dialogue structure.
+2. Printed p.8 `ஒத்திக்கும் அந்த திருக்குரலை` should not be confidently expanded as `which resounds`; preserve the unusual wording transparently.
+3. Printed p.8 `மார்வாடிகள் என்ற மாசினுட் அரண்கள்` is compressed by `filthy fortresses called Marwaris`; preserve/note the unusual source image.
+4. Printed p.9 `இந்துவும் மித்திரனும் உருவிய புண்` is too smoothly reconstructed in English; retain the source uncertainty in a note.
+5. Printed p.9 `குறுவளிப்பிரச்சாரம்` is silently normalized as `whispering campaign`; retain the exact source form in a note.
+6. Printed p.11 `பலர்முக வனிதைகள்` should not be silently repaired beyond a close rendering.
+7. Printed p.11 `குடிகேடி` is over-specified as `destroyer of a people`; use a cautious insult/gloss and preserve the source term if needed.
+8. Printed p.11 `அகோபாரடி` is omitted from the first pass and must be represented, preferably as a preserved source expression if its exact sense cannot be established from the source alone.
+9. Printed p.12 `சோதாக்கலா` is normalized as `weaklings`; retain the rhetorical translation only with the exact unusual source form noted.
+10. Printed p.12 `மதவாடை வீசாத மலராம் திருக்குறள்` → `the Tirukkural, a flower without the odour of religion` is faithful and should remain.
+11. The Hindi/Hindustani distinction is correctly preserved.
 
 ## Batch 3 — PDF 14–18 / printed 13–17
 
 ### Result
 
-The first-pass English preserves the overall argument and sequence across these five pages: the Hindi/Hindustani challenge; examples of Congress measures the speaker says were supported; zamindari abolition and the Hyderabad episode; the boat/bachelor analogy; Dhanalakshmi's ordeal; the escalation into anticipated repression; the imagined arrest/shooting of Periyar; and the criticism of press/radio treatment. No whole paragraph is missing. The review nevertheless found one direct reversal of the verified Tamil and several places where unusual source wording was resolved too freely.
+No whole paragraph is missing. One direct reversal and several silent normalizations require correction.
 
-### Fidelity notes requiring final consolidation
+### Findings for consolidation
 
-1. **Printed p. 13 — `தமிழ்வாதம்` is flattened into `argument`**
-   - Tamil: `“காங்கிரஸ் எதைச்செய்தாலும் அதை எதிர்ப்பவர்கள் இவர்கள்” என்று தமிழ்வாதம் பேசிவிட்டால் தெளிவு பிறந்து விடுமோ?`
-   - First-pass English: `will clarity somehow emerge merely by uttering the argument, “These people oppose whatever Congress does”?`
-   - Review: the English preserves the proposition but does not represent the printed word `தமிழ்வாதம்`. Because this is the verified source form, final consolidation should not silently replace it with the generic `argument`; preserve or note the unusual source wording.
+1. Printed p.13 `தமிழ்வாதம்` is flattened into generic `argument`; preserve/note the printed term.
+2. Printed p.13 `பாஷாணங்களுக்கும் பாம்புகள் நெளியும் சோலையிலே` is semantically uncertain; do not present `poisonous things` as certain without a source note.
+3. Printed p.14 `இனும் / இனும்களோடு` is inconsistently transliterated/normalized as `inum / inams`; preserve the printed forms or clearly mark the interpretation.
+4. `திராவிடஸ்தான்` → `Dravidastan` is acceptable and should not be modernized.
+5. **Direct reversal:** printed p.15 reads `எங்கள் எண்ணம் புரிபவர்`; the first pass says `those who do not understand our thinking`. The final English must follow the verified printed reading (`those who understand our thinking`) and may note that its syntax appears inconsistent with the clauses that follow.
+6. Printed p.16 `காரைக்கால்—மாக்களை` is silently repaired to `Karaikal territories`; do not supply `territories` as though certain. Preserve/note the irregular source wording.
+7. The Hitler/Mussolini comparison is correctly retained as rhetoric, not historical fact.
+8. The `அதிகாரம் தன் இரத்தநாக்குகளை...` metaphor is faithfully retained and should not be softened.
+9. The imagined Periyar sequence correctly remains hypothetical (`may`), matching the Tamil.
+10. Printed p.17 `கணராவியான` is rendered `horrifying`; preserve the source form in a note if the lexical reading remains uncertain.
+11. `படமாக்கிப் பார்த்து` should retain its visual/picturing metaphor.
+12. The press/radio sequence is materially complete.
 
-2. **Printed p. 13 — `பாஷாணங்களுக்கும் பாம்புகள் நெளியும் சோலையிலே` is semantically uncertain**
-   - First-pass English: `in a grove where poisonous things and snakes writhe`.
-   - Review: this is a plausible attempt, but the verified phrase is unusual. Final consolidation should avoid presenting `poisonous things` as certain; retain a closer rendering and/or source note for `பாஷாணங்களுக்கும்`.
+## Batch 4 — PDF 19–20 / printed 18–19
 
-3. **Printed p. 14 — `இனும் / இனும்களோடு` must remain visibly source-derived**
-   - Tamil: `ஜமீனோடு......இனும்! இனும்களோடு தங்கக் கவச லிங்கம்!`
-   - First-pass English: `Along with the zamindaris... inum! Along with the inams, the gold-armoured lingam!`
-   - Review: the English first gives `inum` and then normalizes the plural to `inams`. The printed Tamil itself is unusual. Final consolidation should either preserve the source forms consistently or explicitly mark the likely interpretation as a translator's reading rather than silently switching forms.
+### Result
 
-4. **Printed p. 14 — `திராவிடஸ்தான்` is acceptably transliterated, not modernized**
-   - First-pass English uses `Dravidastan`.
-   - Review: retain this. Do not replace it with a modern political label or explanatory paraphrase unsupported by the source.
+The first-pass English preserves the overall closing argument and rhetorical escalation, but the final two pages contain several important fidelity issues. One unusual source form is silently interpreted, one imperative is replaced by two unsupported English sentences, and several expressions need closer source-bound rendering.
 
-5. **Printed p. 15 — direct reversal: `எங்கள் எண்ணம் புரிபவர்`**
-   - Verified Tamil: `எங்கள் எண்ணம் புரிபவர்—எங்கள் கொள்கைகளின் அங்கங்களை ஒத்திட்டுப்பாராதவர்—விளக்கம் தெரிந்து கொள்ள விரும்பாதவர்—வேதரத்தினமே இந்த தேசம் என எண்ணுபவர்...`
-   - First-pass English: `Let those who do not understand our thinking—who do not compare and examine the components of our principles—...`
-   - Review: `எங்கள் எண்ணம் புரிபவர்` literally states `those who understand our thinking`, while the English inserts `do not`, evidently attempting to regularize the logic of the following clauses. The verified transcription is controlling. Final translation must not silently correct it. Render the printed reading (`those who understand our thinking`) and, if necessary, add a source/translator note that the syntax appears internally inconsistent with the clauses that follow. This is a substantive correction.
+### Findings for consolidation
 
-6. **Printed p. 15 — `ஒத்திட்டுப்பாராதவர்` is more specific than the English**
-   - First-pass: `who do not compare and examine the components of our principles`.
-   - Review: broadly faithful. Retain without expanding into ideological interpretation.
+1. **Printed p.18 — repeated `தவறு?` rhetoric is correctly preserved.**
+   - Tamil repeatedly asks whether opposing northern leadership, Marwari–Bania exploitation, caste fanaticism, compulsory Hindi, and government obstruction is `தவறு?`.
+   - The first-pass English repeatedly uses `is it wrong...?` and closes `Which of these is wrong?`.
+   - Review: faithful. Retain the repetition rather than stylistically reducing it.
 
-7. **Printed p. 15 — Dhanalakshmi passage retains the source's severity**
-   - The English preserves that she was taken more than thirty miles away and left alone, her eight-month pregnancy, the hungry four-year-old child, fainting, the heat, and the rhetorical question about `சுயராஜ்யம்`.
-   - Review: substantially faithful. `self-rule` is an appropriate rendering of `சுயராஜ்யம்`; no modernization to a later constitutional term is needed.
+2. **Printed p.18 — `சருக்கு நிலமாக்கிய` → `made society a slippery ground` is close and preserves the metaphor.**
+   - No correction required beyond normal final copy review.
 
-8. **Printed p. 16 — `காரைக்கால்—மாக்களை` is normalized to `Karaikal territories`**
-   - Tamil source visibly reads: `கோஷ்டி ‘காரைக்கால்’—மாக்களை நம் ஆதிக்கத்தில் கொண்டுவர வேண்டும்...`
-   - First-pass English: `the “Karaikal” territories must be brought under our control.`
-   - Review: `territories` is an inferred repair, not something securely present in the verified transcription. Final consolidation should preserve the source irregularity and avoid silently supplying a missing noun. A note is preferable if a readable English sentence requires an inference.
+3. **Printed p.18 — `இன உரிமைப்போர்` is rendered `war for the rights of a people`.**
+   - This is defensible and keeps the source's collective-rights sense. Do not modernize it into a later legal/political label not present in the source.
 
-9. **Printed p. 16 — Hitler/Mussolini rhetorical comparison is preserved**
-   - The English keeps the speaker's claim as rhetoric (`one wonders whether...`) rather than converting it into a historical assertion.
-   - Review: retain this framing.
+4. **Printed p.18 — `பார்ப்பனிய பனியா ஒழிப்புப்போர்` is rendered `war to abolish Brahmin–Bania domination`.**
+   - `domination` is explanatory; the Tamil literally carries an abolition/elimination construction. The final translation may retain readable English but should avoid making the added abstraction appear literal. A closer `a war to abolish Brahmin–Bania [power/system]` is possible only if bracketed/noted as interpretive.
 
-10. **Printed p. 16 — `அதிகாரம் தன் இரத்தநாக்குகளை...` remains metaphorical**
-    - First-pass: `Authority stretches out its blood-red tongues and closes in upon us.`
-    - Review: substantially faithful to the violent metaphor. Do not soften it in final consolidation.
+5. **Printed p.18 — `மானத்தை காப்பாற்ற` is correctly retained as safeguarding honour.**
+   - The following images `வரிகள் வேல்களாகும்` and `படை முழக்கமாகும்` are also substantially preserved as `lines will become spears` and `battle cry`.
 
-11. **Printed pp. 16–17 — imagined Periyar sequence is correctly presented as hypothetical**
-    - Tamil repeatedly uses `வரலாம்`, `போடப்படலாம்`, `கைது செய்யப்படலாம்`, `பாயலாம்`, `விழலாம்`, etc.
-    - English consistently uses `may`, preserving that this is an imagined possible sequence, not a claim that the events occurred.
-    - Review: this distinction is important and correctly retained.
+6. **Printed p.18→19 — the long final request/testament page boundary is preserved.**
+   - The first pass correctly carries the sentence from the request for a common tomb into `திராவிட மக்களுக்கு எழுதிவைக்கும் உயில்` on the next page.
+   - `testament` is a good rendering of `உயில்`; retain it.
 
-12. **Printed p. 17 — `கணராவியான` rendered as `horrifying`**
-    - Tamil: `இந்தக் கணராவியான காட்சியை`.
-    - First-pass: `this horrifying sight`.
-    - Review: rhetorically plausible, but the verified word form is unusual. Final archival translation should flag the source form if its precise lexical reading remains uncertain rather than silently treating `horrifying` as exact.
+7. **Printed p.19 — `சுயமரியாதைச் சொத்து` should remain conceptually literal.**
+   - First-pass: `the property of Self-Respect`.
+   - Review: retain this unusual metaphor rather than modernizing it to `legacy`, `values`, or an explanatory political paraphrase.
 
-13. **Printed p. 17 — `படமாக்கிப் பார்த்து` over-smoothed**
-    - First-pass: `We have pictured even this`.
-    - Review: acceptable as idiomatic English, but the source literally uses an image/picture-making construction. Retain the visual metaphor where practical (`pictured/visualized`) rather than reducing it to generic `considered`.
+8. **Printed p.19 — `திராவிட நாட்டாட்சியை வசப்படுத்துவது` is somewhat smoothed.**
+   - First-pass: `secure the rule of the Dravidian land`.
+   - Review: broadly captures the political direction, but `வசப்படுத்துவது` carries the sense of bringing/obtaining under one's control or possession. Final consolidation should choose a close readable form without importing a later constitutional formulation.
 
-14. **Printed p. 17 — press/radio paragraph is substantially complete**
-    - The English retains the contrast among anti-Hindi reports, Nehru/Patel coverage, the Bharathidasan felicitation, Avani Avittam/sacred-thread broadcast, and the Erode conference under Anna.
-    - Review: no material omission found in this sequence.
+9. **Printed p.19 — `மார்க்குடியில் பிறந்த பண்பு` is silently interpreted as `quality born in the warrior clan`.**
+   - The verified Tamil deliberately preserves the unusual printed form `மார்க்குடியில்`.
+   - `warrior clan` is an interpretive repair not established by the source itself.
+   - Final consolidation must not silently erase `மார்க்குடியில்`. Either retain a cautious literal/transliterated form in the sentence or give a readable contextual translation accompanied by a translator/source note explicitly recording that the print reads `மார்க்குடியில்`.
 
-### Batch 3 disposition
+10. **Printed p.19 — `வீட்டுக் கொருவர் கிளம்புங்கள்` → `let one person from every household come forth` is faithful.**
+    - Retain.
 
-**Reviewed, not yet globally verified.** The direct reversal of `எங்கள் எண்ணம் புரிபவர்` must be corrected during final consolidation. The `காரைக்கால்—மாக்களை` inference and several unusual printed forms must also be made archivally transparent rather than silently normalized. No change to the strict-verified Tamil transcription is warranted.
+11. **Printed p.19 — `ஒரு கை பார்த்து விடுவோம்` is rendered `Let us take on, once and for all`.**
+    - This conveys the idiomatic challenge but omits the source's colloquial `ஒரு கை பார்த்து` image. A closer rhetorical rendering such as `let us try our hand against / take them on` should be considered, without over-literal awkwardness.
 
-## Global issues already flagged for later batches
+12. **Printed p.19 — historical examples are structurally faithful.**
+    - Tiruppur Kumaran, V. O. Chidambaram, Bhagat Singh, Jesus, Prophet Muhammad, Socrates, and Gandhi are all retained in the source sequence.
+    - The translation correctly presents them as examples invoked by the speaker, not externally verified historical annotations.
 
-- Printed p. 19 contains the unusual verified form `மார்க்குடியில்`; the first-pass English renders it interpretively as `warrior clan`. This must be revisited in Batch 4 and should not silently erase the source form.
-- Printed p. 19 first-pass English adds `We will not run. This is the oath we take before the people.` after the sentence corresponding to `சோதாக்கலாகி விடமாட்டோம். இதை மறந்துவிடாதீர்கள்.` Those added sentences are not supported by the verified Tamil and must be removed/retranslated during Batch 4.
+13. **Printed p.19 — `எதற்கும் பின்னடையவர்களல்ல நாங்கள்` → `We are not people who retreat before anything` is faithful.**
+    - Retain.
 
-The translation remains **first-pass complete, review in progress** until all four review batches and final consolidation are complete.
+14. **Printed p.19 — `மூளியாகட்டும்` is rendered `all be maimed`.**
+    - This conveys bodily destruction, but the exact source wording is rhetorically/lexically unusual. Keep the force while avoiding an overly clinical modernization; a source note may be warranted if retained as a precise lexical claim.
+
+15. **Printed p.19 — `சோதாக்கலாகி விடமாட்டோம். இதை மறந்துவிடாதீர்கள்.` contains a definite first-pass error/addition.**
+    - Verified Tamil: `மூளையே சிதறித் தெரித்தாலும் முதுகைக் காட்டிவிடும் சோதாக்கலாகி விடமாட்டோம். இதை மறந்துவிடாதீர்கள்.`
+    - First-pass English: `Even if the brain itself is shattered and scattered, we will not become weaklings who turn our backs. We will not run. This is the oath we take before the people.`
+    - Review: the first sentence is a defensible contextual rendering of the unusual `சோதாக்கலாகி`, but the next two sentences are not supported by the Tamil. `இதைக் மறந்துவிடாதீர்கள்` means `Do not forget this`, not `We will not run. This is the oath we take before the people.`
+    - **Required correction:** remove both unsupported sentences and end the passage with a faithful rendering such as `Even if the brain itself is shattered and scattered, we will not become the kind who show our backs and flee. Do not forget this.` Preserve/note the exact unusual source form `சோதாக்கலாகி` rather than pretending the lexical resolution is certain.
+
+16. **Printed p.19 — final `தேவாசுர` / Ramayana analogy is substantially faithful.**
+    - Tamil: `இது “தேவாசுர” யுத்தம். ஆம்......இராமாயணப் போர். இந்தப் போரில் நிச்சயமாக வெற்றி இராவணனுக்குத்தான்! இராமனுக்கு அல்ல! ராஜ்யம் விபீஷணனுக்குமல்ல!`
+    - First-pass English preserves Devas/Asuras, Ramayana, Ravana, Rama, and Vibhishana in the same rhetorical sequence.
+    - Retain.
+
+17. **Final proclamation is faithful.**
+    - `இதுவே எமது அறப்போரின் இறுதிப் பிரகடனம்.` → `This is the final proclamation of our arappor.`
+    - Retain, with *arappor* consistently styled according to the global terminology rule.
+
+### Batch 4 disposition
+
+**Reviewed.** All 17 speech-body pages have now been fidelity-reviewed. The English translation is still not `verified-complete` until the findings from Batches 1–4 are applied to `translation-en.md` and that corrected file receives a final end-to-end comparison against the frozen Tamil source.
+
+## Consolidation gate
+
+Before changing translation status to `verified-complete`:
+
+1. Apply all definite corrections and source-transparency notes above to `translation-en.md`.
+2. Do **not** alter `transcription-ta.md` to make the English easier.
+3. Remove unsupported English additions, especially the two sentences identified on printed p.19.
+4. Preserve unusual verified Tamil forms in translator/source notes where the English necessarily interprets them.
+5. Run one final page-by-page Tamil→English comparison across PDF 4–20 / printed 3–19.
+6. Only after that pass, update metadata and handover/catalogue status to translation `verified-complete`.
