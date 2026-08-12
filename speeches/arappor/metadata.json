@@ -46,9 +46,9 @@
   "workflow": {
     "tamil_transcription": "in-progress",
     "speech_pages_total": 17,
-    "speech_pages_drafted": 5,
-    "draft_through_pdf_page": 8,
-    "draft_through_printed_page": 7,
+    "speech_pages_drafted": 10,
+    "draft_through_pdf_page": 13,
+    "draft_through_printed_page": 12,
     "tamil_visual_audit": "not-started",
     "english_translation": "blocked-pending-tamil-audit"
   }
