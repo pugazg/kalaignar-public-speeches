@@ -34,16 +34,18 @@ The currently examined scan does **not** establish the original speech date, ven
 | Layer | Status |
 |---|---|
 | Source identification | Complete |
-| Tamil transcription | **First pass complete - 17/17 speech pages drafted (printed pp. 3-19)** |
-| Page-by-page visual audit | Not started |
-| English translation | Blocked until Tamil audit is complete |
+| Tamil transcription | **Verified complete - 17/17 speech pages** |
+| Page-by-page visual audit | **Complete - PDF pp. 4-20 / printed pp. 3-19** |
+| English translation | Ready; not started |
 
-The Tamil text is now complete as a **first-pass source transcription**, but it is not yet a verified/canonical release. Every speech page has been entered and page boundaries are preserved. A small number of genuinely uncertain or scan-damaged readings are explicitly marked with `⟦...?⟧`; they must be resolved, or retained as unresolved, during the visual-fidelity audit rather than silently normalized.
+The Tamil transcription has been compared page by page against the supplied scan. Historical spelling, punctuation, names, numbers, unusual forms, and source-supported typographical oddities are retained rather than silently modernized. Corrections made during the audit are documented in `audit.md`.
+
+A later blue/ink annotation overlaps part of the first line of printed p. 19. It is not part of the edition text; the underlying printed reading `மக்களுக்கு` remains recoverable and is transcribed accordingly.
 
 ## Transcription rule
 
-The transcription follows the printed source rather than modernizing it. Historical spelling, punctuation, names, numbers, and wording are retained where legible. Any damaged or genuinely uncertain reading is marked explicitly instead of silently reconstructed.
+The transcription follows the printed source rather than modernizing it. Historical spelling, punctuation, names, numbers, and wording are retained where legible. Damaged or genuinely uncertain readings must be marked explicitly instead of silently reconstructed.
 
 ## Next gate
 
-Perform a page-by-page visual comparison of the complete Tamil draft against PDF pages 4-20. Only after every page has been audited should the Tamil layer be marked verified and English translation begin.
+The Tamil source layer is now verified. English translation may begin as a separate derived layer, keeping the verified Tamil transcription unchanged.
