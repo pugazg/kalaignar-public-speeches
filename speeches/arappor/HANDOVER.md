@@ -1,17 +1,18 @@
 # அறப்போர் - continuation handover
 
-This document records the exact state of the `அறப்போர்` archival workflow so work can continue safely in a new ChatGPT window without relying on conversation memory.
+This document records the exact current state of the `அறப்போர்` archival workflow so work can continue safely in a new ChatGPT window without relying on conversation memory.
 
 ## Repository
 
 - Repository: `pugazg/kalaignar-public-speeches`
 - Branch: `main`
-- Baseline HEAD before this handover file was added: `d9897a408bb56e6e7344b5f6118e50277fef76df`
+- Baseline HEAD immediately before this handover refresh: `de3e9cc5b3193de5c0be2086337134e80749ef0d`
 - Speech directory: `speeches/arappor/`
 
 ## Source
 
-- Source filename: `TVA_BOK_0064122_அறப்போர்.pdf`
+- Canonical source record filename: `TVA_BOK_0064122_அறப்போர்.pdf`
+- The same binary was re-uploaded for the final audit under the shorter local filename `அறப்போர்.pdf`.
 - SHA-256: `8172cf4f04e804ebbcfe1b1e236c9d41bda2e07377952c162be4e4bb098ce01c`
 - File size: `31,769,752` bytes
 - Actual PDF page count: `22`
@@ -20,7 +21,7 @@ This document records the exact state of the `அறப்போர்` archival
 - PDF 3: imprint
 - PDF 4-20: speech body, printed pages 3-19
 - PDF 21-22: publisher advertisements / back matter
-- The source binary is **not committed to the repository**. If it is not available in the new window, ask the user to upload the same PDF and verify the SHA-256 before continuing.
+- The source binary is **not committed to the repository**.
 
 The title page identifies the item as `மு. கருணாநிதி - பேச்சு.` The imprint states `இரண்டாம்பதிப்பு ஏப்ரல் 1949`. The supplied booklet does **not** state the original speech date, venue, or event. Do not infer those fields from the publication date.
 
@@ -28,130 +29,94 @@ The title page identifies the item as `மு. கருணாநிதி - ப
 
 This is a source-faithful archival transcription.
 
-- Compare directly against the scan.
+- Compare directly against the supplied scan for any future source correction.
 - Do not silently modernize spelling, punctuation, wording, names, or unusual source forms.
 - Preserve printer/source errors when the printed reading is clear.
 - Join a printer line-wrap only when it splits one word.
-- Record substantive corrections in `audit.md`.
+- Record any future substantive source correction in `audit.md`.
 - Do not use an outside edition to overwrite the supplied source.
-- Do not start English translation until the strict Tamil re-audit and consolidation are complete.
-
-## Why the audit was reopened
-
-A first-pass Tamil transcription of all 17 speech pages was completed. An initial visual sweep then marked the whole speech verified, but a later stricter line-by-line check found additional transcription discrepancies. Therefore the earlier whole-document `verified` status is superseded.
-
-The controlling state is now `audit.md` plus `metadata.json`, not the old `verified` header/table still present in `transcription-ta.md`.
+- The verified Tamil layer should now remain frozen except for documented source corrections.
 
 ## Current completion state
 
 ### Tamil transcription
 
 - First-pass speech transcription: **17 / 17 pages complete**
-- Strict line-by-line re-audit: **15 / 17 pages complete**
-- Strict re-audit completion: **88.2%**
-- Remaining strict audit: **2 pages**
-- English translation: **blocked**
+- Strict line-by-line re-audit: **17 / 17 pages complete**
+- Strict re-audit completion: **100%**
+- Tamil consolidation: **complete**
+- Final stale-reading / page-boundary consistency pass: **complete**
+- English translation: **ready-not-started**
 
 ### Strict audit batches
 
 1. Batch 1 - PDF 4-8 / printed 3-7: **complete**
 2. Batch 2 - PDF 9-13 / printed 8-12: **complete**
 3. Batch 3 - PDF 14-18 / printed 13-17: **complete**
-4. Batch 4 - PDF 19-20 / printed 18-19: **PENDING**
+4. Batch 4 - PDF 19-20 / printed 18-19: **complete**
 
-The user requested batches of five pages when possible. Batch 4 naturally contains only the final two speech pages.
+## Batch 4 result
 
-## Current critical repository files
+PDF pages 19-20 / printed pages 18-19 were re-audited line by line against the verified source binary.
 
-- `speeches/arappor/audit.md`
-  - current blob SHA: `b736b97f3d70d77c6609313f1dca36cc8204c887`
-  - contains all strict Batch 1-3 findings
-- `speeches/arappor/metadata.json`
-  - current blob SHA: `8382cfa905fc24a0f3b6888810c3a1df224581ff`
-  - records `strict_reaudit_pages_checked: 15`
-- `speeches/arappor/transcription-ta.md`
-  - current blob SHA: `8dc313f184ef7463fe8203c430448fb6e2eaea64`
-  - contains the complete speech but **has not yet been consolidated with all strict Batch 1-3 corrections**
-- `speeches/arappor/README.md`
-  - project-level source/editorial description
+- Printed p.18: every rhetorical-question ending checked in the opening paragraph is confirmed as the printed form `தவறு?`, not the earlier `தவறா?` reading.
+- Printed p.19: the first-line word crossed by a later blue/ink mark is definitively `மக்களுக்கு`; the annotation is not part of the edition text.
+- Printed p.19 unusual forms `மார்க்குடியில்` and `தெரித்தாலும்` were re-confirmed from the printed glyphs and retained.
+- No additional substantive wording correction was required on these final two pages beyond readings already incorporated during the preliminary sweep.
 
-Always fetch the current files from `main` before writing; the SHAs above are only the handover-time state.
+## Final consolidation completed
 
-## Strict Batch 1-3 findings already recorded
+All strict Batch 1-4 corrections recorded in `audit.md` have been applied to `transcription-ta.md`.
 
-Do not redo these batches unless a later consistency check exposes a problem. `audit.md` is the authoritative detailed correction log. Important examples include:
+The final consistency pass also joined genuine words split at PDF-page boundaries without changing source wording:
 
-- printed p.3: `வோட்டுக்களே` -> `வோட்டுகளே`
-- printed p.4: `போர் மூள்வதற்குக் காரணம் கால்கோள் விழா` -> `போர் மூள்வதற்குக் கால்கோள் விழா`
-- printed p.4: `எம்மீது ஏவிய` -> printed `எம் மீது எவிய`
-- printed p.7: `நெரிக்கும்காட்சி` -> `நெறிக்கும் காட்சி`
-- printed p.7: `கேள்விகேட்போம்` -> `கேள்விகிளப்பினோம்`
-- printed p.8: `உத்தரவு` -> `உத்திரவு`
-- printed p.9: `இந்துவும் மந்திரனும்` -> `இந்துவும் மித்திரனும்`
-- printed p.9 quotation: `இரண்டாம் மொழிக்கு மட்டும் கட்டாயம்` -> `இரண்டாம் மொழிக்கும்தான் கட்டாயம்`
-- printed p.11: `சிவசிந்தாமணியைக்` -> printed `சிவகசிந்தாமணியைக்`
-- printed p.12: `தேசயத்திரா விட்டோரே!` -> `தேசியத்திராவிடரே!`
-- printed p.14: `துடுப்புக்குச் சிலை` -> line-wrap joins as `துடுப்புக்குச்சியை`
-- printed p.16: `பலிபீடத்தில் தலைபிழந்த` -> `பலிபீடத்தில் தலையிழந்த`
-- printed p.17: `மாநாடு செய்திகளை` -> `மாநாட்டு செய்திகளை`
-- printed p.17: `பண்டிதநேருஜி படத்துப் புரண்டதும்` -> `பண்டிதநேருஜி படுத்துப் புரண்டதும்`
+- `மௌ` / `னம்` -> `மௌனம்`
+- `நடரா` / `ஜன்` -> `நடராஜன்`
+- `அதற்` / `காக` -> `அதற்காக`
+- `சுப்பரா` / `யன்` -> `சுப்பராயன்`
+- `கடை` / `சியாக` -> `கடைசியாக`
 
-See `audit.md` for the complete list and source-fidelity notes.
+The former preliminary p.14 reading `சிலை` is not valid: the printer line-wrap `துடுப்புக்குச்` / `சியை` joins as `துடுப்புக்குச்சியை`.
 
-## Exact next task - Batch 4
+## Current critical repository state
 
-Strictly re-audit:
+Fetch the current versions from `main` before any future write. At this handover refresh the content blobs are:
 
-- PDF page 19 = printed page 18
-- PDF page 20 = printed page 19
+- `speeches/arappor/transcription-ta.md` - `4a42154fe26c97063c786df68951ca918ece46b7`
+  - status: strict-verified complete, 17/17
+- `speeches/arappor/audit.md` - `bd6fb45d9ac6b82823e682e3d6f8514bee85271c`
+  - status: Batch 1-4 audit complete and consolidated
+- `speeches/arappor/metadata.json` - `537d3f8c5b3e38a7426941d0ffd8f358093149d6`
+  - `tamil_transcription: verified-complete`
+  - `strict_reaudit_pages_checked: 17`
+  - `strict_reaudit_through_pdf_page: 20`
+  - `strict_reaudit_through_printed_page: 19`
+  - `tamil_visual_audit: complete`
+  - `combined_transcript_pending_batch_corrections: false`
+  - `english_translation: ready-not-started`
+- `speeches/arappor/README.md` - `3c753ace1da0b1cd079b8b39ff1552c324fbd048`
+  - strict-verification status updated
+- root `README.md` - `5e47999370c3f12ba415e2440b3b830837709d68`
+  - catalogue updated to strict-verified complete / translation ready-not-started
 
-Work line by line against the rendered source images. Do **not** trust the current transcript merely because the older table says verified.
+## Exact next task
 
-Pay special attention to readings that were changed during the preliminary sweep, but re-confirm them from the scan rather than assuming they are correct. In particular:
+**Do not re-audit or retranscribe the Tamil speech unless a specific source-fidelity issue is identified.**
 
-- printed p.18 contains a sequence of rhetorical questions where the preliminary sweep changed several `தவறா?` readings to source `தவறு?`; verify every instance directly.
-- printed p.19 first line previously had an uncertainty marker around the word later read as `மக்களுக்கு`; a later ink mark crosses that area, so verify the underlying printed reading carefully.
-- check punctuation, word boundaries, and printer line-wraps throughout both pages, not only previously flagged words.
+When the user asks to continue this speech, the next archival layer is English translation:
 
-After Batch 4, append its findings to `audit.md` and update progress to **17 / 17** only if both pages have been fully checked.
-
-## Required post-Batch-4 consolidation
-
-Do not jump straight to English translation. Complete these steps first:
-
-1. Fetch the latest `transcription-ta.md`.
-2. Apply **all** strict corrections from Batch 1, Batch 2, Batch 3, and Batch 4 to the complete transcript.
-3. Remove obsolete uncertainty markers only where the scan supports a definite reading.
-4. Update the page status table so all 17 pages are strict-verified only after consolidation.
-5. Change the transcription header from the obsolete preliminary status to a final strict-verification status.
-6. Search the consolidated transcript for stale forms listed in `audit.md` to make sure none were missed.
-7. Check page-boundary joins and paragraph boundaries one more time.
-8. Update `metadata.json` to something equivalent to:
-   - `tamil_transcription: verified-complete`
-   - `strict_reaudit_pages_checked: 17`
-   - `strict_reaudit_through_pdf_page: 20`
-   - `strict_reaudit_through_printed_page: 19`
-   - `tamil_visual_audit: complete`
-   - `combined_transcript_pending_batch_corrections: false`
-   - `english_translation: ready-not-started`
-9. Update `speeches/arappor/README.md` and the root catalogue status if they still describe an earlier stage.
-10. Only then may English translation begin.
-
-## Translation rule after Tamil verification
-
-When English translation starts, create a separate `translation-en.md`. Keep the verified Tamil transcription untouched except for documented source corrections. Translation should preserve the rhetoric and historical context without silently rewriting the Tamil source or presenting the April 1949 publication date as the speech date.
-
-## Recommended prompt for the next window
-
-Use this as the continuation prompt:
-
-> Continue `pugazg/kalaignar-public-speeches` on `main`. First read `speeches/arappor/HANDOVER.md`, `speeches/arappor/audit.md`, `speeches/arappor/metadata.json`, and `speeches/arappor/transcription-ta.md`. Treat those repository files as controlling instructions. I will provide `TVA_BOK_0064122_அறப்போர்.pdf` if the source is not already available. Verify its SHA-256 is `8172cf4f04e804ebbcfe1b1e236c9d41bda2e07377952c162be4e4bb098ce01c`. Complete strict Batch 4 for PDF pages 19-20 / printed pages 18-19, then consolidate all strict Batch 1-4 corrections into `transcription-ta.md`, perform the final consistency check, update the audit/metadata/README statuses, and keep English translation blocked until Tamil verification is genuinely complete.
+1. Fetch the latest `speeches/arappor/transcription-ta.md`, `audit.md`, `metadata.json`, and this handover from `main`.
+2. Create a separate `speeches/arappor/translation-en.md`.
+3. Translate from the verified Tamil transcription, not from OCR or an outside edition.
+4. Preserve the rhetoric, repeated constructions, political/historical references, and source distinctions as faithfully as practical in English.
+5. Do not silently rewrite the Tamil source while translating.
+6. Do not present April 1949 as the speech date; it is the second-edition publication date only.
+7. Update metadata/README/catalogue translation status only after the English layer has actually been created and reviewed.
 
 ## Do not do
 
-- Do not restart transcription from scratch.
-- Do not redo completed batches without a specific reason.
-- Do not trust the old `verified` table in `transcription-ta.md` until consolidation is complete.
+- Do not restart Tamil transcription from scratch.
+- Do not redo strict Batches 1-4 without a specific source reason.
+- Do not normalize unusual printed Tamil merely because another form seems grammatically preferable.
 - Do not infer a speech date, venue, or event.
-- Do not modernize or normalize unusual printed Tamil merely because another form seems grammatically preferable.
-- Do not start English translation before the final Tamil consolidation gate passes.
+- Do not modify the verified Tamil layer merely to make an English translation read more smoothly.
