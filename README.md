@@ -6,7 +6,7 @@ The repository preserves each available source as evidence and separates four la
 
 1. **Source record** - bibliographic and scan provenance.
 2. **Tamil transcription** - faithful to the printed source; no silent modernization or correction.
-3. **Verification** - page-by-page comparison against the scan, with uncertain readings explicitly marked.
+3. **Verification** - page-by-page comparison against the scan, with uncertain readings explicitly marked or formally resolved.
 4. **English translation** - started only after the Tamil transcription has passed the source audit.
 
 ## Editorial principles
@@ -22,7 +22,7 @@ The repository preserves each available source as evidence and separates four la
 
 | ID | Tamil title | Source edition | Speech date | Tamil transcription | English translation |
 |---|---|---|---|---|---|
-| `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **First pass complete - 17/17 speech pages; visual audit pending** | Blocked pending Tamil verification |
+| `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | Ready; not started |
 
 ## Repository layout
 
@@ -32,6 +32,7 @@ speeches/
     README.md
     metadata.json
     transcription-ta.md
+    audit.md
 ```
 
 Original scans should be retained unchanged whenever possible. Large/binary source files may be added separately; their checksum is recorded in each speech's metadata.
