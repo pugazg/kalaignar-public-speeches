@@ -1,6 +1,6 @@
 # Arappor — English Translation
 
-> **Status:** Translation in progress — PDF pp. 4–13 / printed pp. 3–12 translated  
+> **Status:** Translation in progress — PDF pp. 4–18 / printed pp. 3–17 translated  
 > **Source layer:** `transcription-ta.md` (strict-verified Tamil transcription)  
 > **Translation rule:** Translate from the verified Tamil layer, preserving rhetoric, repetition, historical references, polemical language, and source distinctions as faithfully as practical. Do not silently rewrite or modernize the Tamil source.  
 > **Date note:** April 1949 is the publication date of the second edition, **not** an established speech date.
@@ -98,15 +98,71 @@ Even if we concede that it is optional... is Hindi suitable for this country? Do
 
 Even if one accepts the Indian subcontinent as a single nation and says that it needs a common language, Hindi does not possess the qualification to be that language.
 
-Tamil—the language that contains within itself the *Tirukkural*, a flower without the smell of religion—is the language qualified to be the common language. That is the way to build a barrier against the invasion of Aryan culture. But those who came to rule lack the courage to do it! Why? Why do they seek poison when nectar is at hand?
+Tamil—the language that contains within itself the *Tirukkural*, a flower without the odour of religion—is the language qualified to be the common language. That is the way to build a barrier against the invasion of Aryan culture. Those who came to rule lack the courage to do it! Why? Why seek poison when nectar is available?
 
-O national Dravidians who conduct meetings in support of Hindi! If your ears have not been deafened by cries of “Vande Mataram”... if your throats have not been torn by shouts of “Jai Hind”... even if you will not listen to what I say... listen to what your own leaders have said. Mahatma Gandhi said that Hindustani, not Hindi, should be India's common language!
+Nationalist Dravidians who conduct meetings in support of Hindi! If the cries of “Vande Mataram” have not deafened your ears... if the shouts of “Jai Hind” have not torn your throats... even if you will not listen to what I say... listen to what your own leaders have said. Mahatma Gandhi said that Hindustani should be India's common language. Not Hindi!
 
-Pandit Jawahar said that a language should not be forcibly imposed.
+Pandit Jawahar said that a language should not be imposed by force.
 
-Even in the Central Government it has not been decided whether the common language of this country is to be Hindi or Hindustani.
+Even within the Central Government it has not been decided whether this country's common language is to be Hindi or Hindustani.
 
-O false devotees of Tamil who merely cry “Long live Tamil” with your mouths... and then emphatically pronounce “Jai Hind”... now tell us—
+False devotees of Tamil who cry “Long live Tamil” only with your mouths... and pronounce “Jai Hind” with forceful emphasis!... Now tell us—
+
+### PDF page 14 — printed page 13
+
+—according to the Mahatma's thinking, according to Jawahar's view... what does this country need: Hindustani? Or Hindi?...
+
+Even after we have given so many explanations, delivered so many detailed addresses, and begun the struggle, will clarity somehow emerge merely by uttering the argument, “These people oppose whatever Congress does”?
+
+Have we opposed every Congress programme? Have we not praised what was good?... We know that in a grove where poisonous things and snakes writhe... green parrots also fly. We are people who hear music in the green parrots—and recognize thoughts of destruction in venomous serpents. When we destroy snake pits... would it be intelligent for the owner of the grove to call the destroyer an enemy of the grove itself?
+
+The temple-entry programme came... we welcomed it. What we had advocated from the beginning, we rejoiced to see being carried out before our eyes by our political opponents. We also pointed out its defects. We proposed amendments. Did we conduct propaganda against it? Did we join the Sanatanists and convene a conference?
+
+Prohibition came; we were delighted. Except that in a few places the smell of toddy came from a few khadi shirts... we did not turn our Kazhagam buildings into factories for distilling liquor. We wished prohibition success. We did not join drinkers and shout, “Long live toddy!”
+
+We pressed only for the abolition of zamindari to be made law more quickly... Did we wail, “Alas! Are the zamindaris to fall? Are the zari caps to come off?” We, who had convened a non-zamindar—
+
+### PDF page 15 — printed page 14
+
+—conference and passed a zamindari-abolition resolution on that very day, rejoiced to see our long-held idea set foot on the road to victory... we did not shed tears!
+
+Along with the zamindaris... *inum*! Along with the *inams*, the gold-armoured lingam! Ponnambalathan together with his gold! Madurai Meenakshi with her jewelled nose-ring! Venkatan with his diamond crown! The golden Lord Thyagaraja! We offered an amendment saying, “Abolish these too”; did we oppose the scheme?
+
+What about now?... When the Hyderabad issue arose, did we not reduce the intensity of our *arappor*?
+
+Not only did we sheath our raised swords and rest—did we not also stand aside without causing trouble to the government? If, thinking “this is the moment,” we had begun tearing up railway tracks—if we had begun smashing post offices—if we had circled government establishments with torches in our hands—why, if we had entered into a cooperation pact with the Nizam of Hyderabad, there would have been no Erode conference to fix another day for the struggle. Would we not instead have fixed a date at Erode to celebrate Dravidastan's independence?
+
+We who have a leader endowed with a spirit of accommodation, courage, and wisdom are not useless men! We are not idlers who deliberately go out and purchase a war!
+
+Like the story of the Brahmin bachelor who asked for a place in a boat: because his hands and feet were tied, he pulled the oar-stick with his teeth and jabbed the monkey's backside; the monkey leapt onto the snake-charmer's box; the box opened; the cobras inside hissed; the passengers, trembling at the sight of the snakes, ran this way and that—and in midstream—
+
+### PDF page 16 — printed page 15
+
+—the boat capsized. In the same way our Education Minister Avinashiar, using the stick called authority, prodded the monkey called Hindi; to save itself, it leapt into the snake-box called repression; Tamils, frightened at the serpents of repression, ran... and he has created a situation in which the boat of government may sink in midstream. The man in the story is a bachelor. The Education Minister too is a bachelor. Need one ask what mischief follows?
+
+Let those who do not understand our thinking—who do not compare and examine the components of our principles—who do not wish to learn the explanation—who imagine that Vedarathinam himself is the nation—at least place a hand on their hearts after seeing the streams of our blood swelling in this struggle. Let them think of the sufferings we have undergone since August tenth and show us compassion.
+
+Comrade Dhanalakshmi, who came to defend Tamil, was taken all alone more than thirty miles away and abandoned; those who once hated the white man's tyranny treated this suffering as a game.
+
+Eight months pregnant, the child in her womb throbbing, her four-year-old child staggering beside her and crying, “Ayyo, Amma, I'm hungry,” she fainted and fell. A little child like a scorched bud—its mother unable to bear the sun's burning heat—if the trees there had witnessed this scene of misery, if those trees had mouths with which to speak, they would have laughed and said, “Oh! Is this what self-rule is?” In the very sound of that laughter... the foundations of these injustices would have been shaken. The country asks whether such injustice can occur under the rule of champions of non-violence. The people ask. They do not merely ask; they laugh. We hear Thiru. Vi. Ka. weeping, asking whether Gandhi suffered only so that people might laugh like this; and, without paying heed to it, we also hear the Kamaraj–Subbarayan—
+
+### PDF page 17 — printed page 16
+
+—group roaring that the “Karaikal” territories must be brought under our control.
+
+Events have reached such a point that one wonders whether iron-hearted Hitler and the brutal Mussolini learned fascism from these sons of Bharat. We entered the struggle only after considering hardship and loss. The leader's order came to us only after it was clear that there was no doubt about the sharpness of our spears, the strength of our shields, or the firmness of our hearts. We do not desire war; but once we have reached the battlefront, we who possess Tamil feeling have no habit of turning our backs. Cruelties harsher than these may yet approach us. The monstrous mouth of repression gapes at us. Authority stretches out its blood-red tongues and closes in upon us. We have been placed between the poisonous fangs of law. We who move among you today may tomorrow swing from the gallows. We may lie headless upon the sacrificial altar. We may become tombs. We may be subjected to torture in prison.
+
+Why... our leader Periyar Ramasamy may tomorrow come to deliver a great address on the Madras beach. A Section 144 prohibition may be imposed on Periyar's speech. When Periyar mounts the platform to speak in defiance of that ban, the police may arrest him. The leader of Tamil Nadu, guardian of self-respect—the elder who protects Tamil despite his advanced age—the revolutionary lion with golden-hued body and white beard—the father of Dravidam—“Ah! Prison for our uncrowned king?” the people of Madras may rise in fury. Seeing the public become a surging sea, the police may use tear gas without effect and finally—
+
+### PDF page 18 — printed page 17
+
+—raise their guns. As bullets burst out *padapada*, people may run in confusion, losing all sense of direction... amid that urgent turmoil... a bullet may strike Periyar Ramasamy in the chest. Periyar may fall dead. People fleeing in disorder, not realizing that the body lying below is Periyar's corpse, may run with their feet upon his chest. Alas! We may see this horrifying sight with our own eyes. We have pictured even this, disciplined our minds for it, and only then beaten the drum of war.
+
+How much hardship we face in this country! Newspapers do not publish reports of conferences where hundreds of thousands of warriors gather. Nationalist editors take their scissors to fiery anti-Hindi reports. Our conch-call in Madras—our Dravidian battalion in Trichy—these stirring events never reach the radio. Pandit Nehruji lying down and rolling about—Patel Durai baring his teeth—become banner headlines in the newspapers. A felicitation ceremony for Bharathidasan, attended by tens of thousands, appears somewhere in a corner of the paper! The donning of the sacred thread on Avani Avittam becomes a programme on All India Radio! But when Anna presides over the Erode conference, the radio alone becomes mute about its broadcast. Should we not seek a remedy for all this narrow-mindedness?
+
+Can we permit those who opposed white imperialism to hail northern imperialism?
+
+No money for prohibition—no assistance for zamindari abolition—the northern leadership went so far as to say, in the presidential election, “We will not support Pattabhi”; and yet they continue to be carried on our heads—
 
 ## Translation progress
 
@@ -114,7 +170,7 @@ O false devotees of Tamil who merely cry “Long live Tamil” with your mouths.
 |---|---|---|
 | 4–8 | 3–7 | translated — first-pass |
 | 9–13 | 8–12 | translated — first-pass |
-| 14–18 | 13–17 | pending |
+| 14–18 | 13–17 | translated — first-pass |
 | 19–20 | 18–19 | pending |
 
 English translation is being created as a separate derived layer. The strict-verified Tamil source layer remains unchanged.
