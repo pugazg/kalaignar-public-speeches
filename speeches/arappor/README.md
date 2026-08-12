@@ -34,12 +34,16 @@ The currently examined scan does **not** establish the original speech date, ven
 | Layer | Status |
 |---|---|
 | Source identification | Complete |
-| Tamil transcription | In progress - 10/17 speech pages drafted (printed pp. 3-12) |
+| Tamil transcription | **First pass complete - 17/17 speech pages drafted (printed pp. 3-19)** |
 | Page-by-page visual audit | Not started |
 | English translation | Blocked until Tamil audit is complete |
 
-The current Tamil text is a **first-pass source transcription**, not yet a verified/canonical release. Printed pages 3-12 (PDF pages 4-13) have been entered. They remain subject to the separate visual-fidelity audit before their status can be raised to verified. An explicitly uncertain reading in the draft is marked with `⟦...?⟧` rather than silently resolved.
+The Tamil text is now complete as a **first-pass source transcription**, but it is not yet a verified/canonical release. Every speech page has been entered and page boundaries are preserved. A small number of genuinely uncertain or scan-damaged readings are explicitly marked with `⟦...?⟧`; they must be resolved, or retained as unresolved, during the visual-fidelity audit rather than silently normalized.
 
 ## Transcription rule
 
-The transcription follows the printed source rather than modernizing it. Historical spelling, punctuation, names, numbers, and wording are retained where legible. Any damaged or genuinely uncertain reading will be marked explicitly instead of silently reconstructed.
+The transcription follows the printed source rather than modernizing it. Historical spelling, punctuation, names, numbers, and wording are retained where legible. Any damaged or genuinely uncertain reading is marked explicitly instead of silently reconstructed.
+
+## Next gate
+
+Perform a page-by-page visual comparison of the complete Tamil draft against PDF pages 4-20. Only after every page has been audited should the Tamil layer be marked verified and English translation begin.
