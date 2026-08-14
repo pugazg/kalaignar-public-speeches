@@ -1,0 +1,88 @@
+{
+  "id": "idhaya-perikai",
+  "title": {
+    "ta": "இதய பேரிகை",
+    "en_transliteration": "Idhaya Perikai"
+  },
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": null
+  },
+  "document_type": "printed-multi-section-booklet",
+  "archive_context": "Kalaignar Public Speeches project",
+  "source_form_note": "The title page does not explicitly label the work as பேச்சு. The supplied booklet contains seven separately titled sections and is archived here as one source unit without inferring a single original speech event.",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "venue": null,
+    "event": null,
+    "occasion": null,
+    "audience": null,
+    "source_note": "The scan does not establish a single speech date, venue, event, occasion, or audience as bibliographic metadata. Internal historical dates, meetings, places, and event references in the prose are not promoted into these fields without explicit source evidence."
+  },
+  "publication": {
+    "edition_text": "முதற்பதிப்பு—டிசம்பர் 1951",
+    "edition": 1,
+    "publication_month": 12,
+    "publication_year": 1951,
+    "publisher_ta": "கலைப்பூங்கா",
+    "publisher_place_ta": "திருவாரூர்",
+    "rights_text": "\"கலைப்பூங்கா\" உரிமை பெற்றது.",
+    "price_text": "விலை அணா எட்டு.",
+    "printer_ta": null,
+    "printer_source_note": "On PDF page 3 the printer line begins அச்சிட்டது:. A later library stamp obscures part of the printer name. The visible ending includes (பவர்) and அச்சகம், திருவாரூர். The obscured wording is intentionally unresolved rather than reconstructed."
+  },
+  "structure": {
+    "body_pdf_pages": "4-35",
+    "body_pdf_page_count": 32,
+    "printed_body_pages": "3-34",
+    "sections": [
+      {"order": 1, "title_ta": "சிறு துளி பெரு வெள்ளம்.", "pdf_pages": "4-11", "printed_pages": "3-10"},
+      {"order": 2, "title_ta": "வீதிதேவர் மயக்கம்.", "pdf_pages": "12-16", "printed_pages": "11-15"},
+      {"order": 3, "title_ta": "பூம்புகார் மாநாடு.", "pdf_pages": "17-20", "printed_pages": "16-19"},
+      {"order": 4, "title_ta": "வெற்றி விளக்கு!", "pdf_pages": "21-23", "printed_pages": "20-22"},
+      {"order": 5, "title_ta": "நமது உரிமை.", "pdf_pages": "24-29", "printed_pages": "23-28"},
+      {"order": 6, "title_ta": "பந்தல் ஆடுகிறது!", "pdf_pages": "30-32", "printed_pages": "29-31"},
+      {"order": 7, "title_ta": "கருகிடும் மொட்டுக்கள்!", "pdf_pages": "33-35", "printed_pages": "32-34", "note": "PDF page 35 is mixed-content: the section ends above an ornament; publisher advertising begins below it."}
+    ]
+  },
+  "source": {
+    "filename": "TVA_BOK_0016120_இதய_பேரிகை(1).pdf",
+    "sha256": "4217717379b028de17ed9830dac4bdfd54ae7256705b891c207d646707640b9d",
+    "file_size_bytes": 21135384,
+    "pdf_pages": 36,
+    "page_map": {
+      "pdf_1": "front cover; later library/accession markings present",
+      "pdf_2": "title page",
+      "pdf_3": "first-edition/imprint/rights/price/printer information plus என் நினைவு! front matter; later library stamp partly obscures printer line",
+      "pdf_4_to_11": "சிறு துளி பெரு வெள்ளம்.; printed pages 3-10",
+      "pdf_12_to_16": "வீதிதேவர் மயக்கம்.; printed pages 11-15",
+      "pdf_17_to_20": "பூம்புகார் மாநாடு.; printed pages 16-19",
+      "pdf_21_to_23": "வெற்றி விளக்கு!; printed pages 20-22",
+      "pdf_24_to_29": "நமது உரிமை.; printed pages 23-28",
+      "pdf_30_to_32": "பந்தல் ஆடுகிறது!; printed pages 29-31",
+      "pdf_33_to_35": "கருகிடும் மொட்டுக்கள்!; printed pages 32-34; PDF 35 is mixed body/advertisement",
+      "pdf_36": "back cover with கலைப்பூங்கா publisher mark"
+    },
+    "scan_status": "primary source supplied by repository owner",
+    "binary_committed": false,
+    "binary_note": "The source PDF was supplied in the ChatGPT session. Repository policy is not to commit source PDFs; identity is preserved through filename, checksum, file size, page count, and page map."
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "source_inspection_date": "2026-08-14",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 32,
+    "speech_pages_drafted": 0,
+    "strict_reaudit_pages_checked": 0,
+    "tamil_visual_audit": "not-started",
+    "tamil_consolidation": "not-started",
+    "english_translation": "not-started",
+    "english_translation_pages_completed": 0,
+    "english_translation_review": "not-started",
+    "english_translation_review_pages_checked": 0,
+    "english_translation_final_verification": "not-started",
+    "english_translation_final_verification_pages_checked": 0
+  }
+}
