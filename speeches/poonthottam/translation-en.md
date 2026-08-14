@@ -3,7 +3,7 @@
 > **Status:** `in-progress`  
 > **Tamil prerequisite:** `transcription-ta.md` is frozen as `verified-complete`.  
 > **Source-body correspondence:** PDF pages 6-17 / printed pages 5-16  
-> **E1 translated:** PDF pages 6-10 / printed pages 5-9 (5 / 12 speech pages)
+> **E1 translated:** PDF pages 6-15 / printed pages 5-14 (10 / 12 speech pages)
 
 This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Stage E2 fidelity review has not begun.
 
@@ -103,8 +103,146 @@ What do you think those young men would say if this conversation fell upon their
 
 ---
 
+## PDF page 11 / printed page 10
+
+Would not the young men have asked: did not Dhritarashtra, whose sight had failed, remain blind to the very end? If Sita, who went missing in `தண்ட காரணயத்திலே`, had gone missing in this age, would Rama have needed Sugriva's help? The *Swadesamitran* newspaper alone would have been enough!....
+
+What Rama told Hanuman—“My wife Sita has such-and-such identifying features; go and search for her”—he could have advertised in the newspaper and very easily found out where she was! Or he could have made a ‘trunk call’ to Janaka in Mithilapuri and asked, “Uncle! Has your daughter come there?” and sent a telegram to Ayodhya asking, “Have you found your sister-in-law?”—how quickly he could have learned the particulars about Sita.
+
+How readily the conveniences of this age lend themselves to accomplishing tasks.
+
+When we see even some of those who understand this age—those who speak of the glories of this age—still clashing with the ideas of those days, it is indeed a cause for concern to us as we stroll through the flower garden!
+
+They wear a ‘wrist watch’ and consult Rahu Kalam!
+
+They wear spectacles and read the *Bharatham*. They break a coconut before a camera made in Hollywood, apply kumkum to it, burn camphor, bow before it, and then make a film!
+
+Do these oddities seem merely amusing? Do they not make storms of anguish suddenly sweep through the flower garden again and again?
+
+If Truman retires from political life in America, what do you expect him to write about?
+
+Would he be writing a “Bhaja Govindam”? Rajaji—the intellectual, the wise man, the scholar, the political strategist—retires from his duties
+
+> **Translator note:** The verified Tamil prints `தண்ட காரணயத்திலே` in the Sita sentence. The translation preserves the source difficulty visibly rather than silently replacing it with a normalized place-name form.
+
+---
+
+## PDF page 12 / printed page 11
+
+and if, to someone expecting that he will pile up writings of lofty principles and emotionally stirring words that touch the people's hearts, he says, “I will not give you the delightful lotus; I will give you only the erukku flower,” how is such a condition to be described!
+
+At a time when we think the cactus wilderness itself must be removed from the garden, if those regarded as fully learned say, “I am bringing in erukku plants as well and cultivating them,” how can one close one's mouth and remain silent!
+
+It is these distressing happenings that have created, in the grove of Tamil Nadu, a struggle between the people of rationalism and the people of the island of antiquity over which flowers ought to remain and what further kinds of flowers ought to be cultivated!
+
+Which flower should be planted is one problem! Next comes: to whom do the flowers already planted belong?
+
+The man who shed sweat says that the flowering plant he planted belongs to him. The idler who regards another's sweat as a feast says the flowers must be crushed upon the bed in his mansion.
+
+This struggle assumes an important place in the flower garden!
+
+“Is the flower for the labourer? Or for the pleasure-seeker?”—that is the struggle taking place between common ownership and bourgeois doctrine. Russia and China, countries that have planted the flag of victory in this struggle, smile at us.
+
+There is a third struggle: between those who boast, “We have driven away the white cattle that grazed in the garden—there is no need even for a fence any longer,” and those who say, “The white cattle have run away; but insects and parasitic growths are ruining the flowering plants”—and that, to destroy them, the medicine called separate sovereignty must be sprayed!
+
+Which flower is needed—that is social reform.
+
+To whom the flower belongs—that is the explanation of the demand for equality.
+
+---
+
+## PDF page 13 / printed page 12
+
+“To whom does the flower garden itself belong; under whose domination is it now; should not the beautiful grove, freed from that domination, come into the possession of its owner?”—that is the question concerning the demand for separate sovereignty!
+
+Which of these three must take place first is something to be considered!
+
+1. Which flower?
+2. Who is to pluck the flower?
+3. Whose is the garden?
+
+When we take up these three questions in order and examine them, for us to cultivate the flower we desire, the garden must belong to us. Until then, we can only keep speaking of the virtues of the flower we desire.
+
+For us ourselves to pluck and enjoy the flower, the garden must belong to us.
+
+Until then, if the flower comes into our hands, we can only say how a garland may be strung `பெய்ப்படி`!
+
+Therefore, the first thing that must be done—urgently and necessarily—is that the garden must become ours!
+
+Once the garden becomes ours, the troublesome insects will perish.
+
+Pure flowers will smile—we ourselves will become those entitled to the flower—it is to engage in this good work that I invite all of you.
+
+Those who come to take part must be people who proclaim in a loud voice that the flower belongs to the one who laboured.
+
+They must possess the maturity of mind that wishes spotless flowers to spread fragrance.
+
+In the flower garden where we are seated, the warrior Senguttuvan has strolled.
+
+> **Translator note:** The verified source reads `எப்படி பெய்ப்படி மாலை தொடுக்க முடியும்`. Because `பெய்ப்படி` remains an unusual source-supported form, it is retained visibly rather than silently normalized.
+
+---
+
+## PDF page 14 / printed page 13
+
+The Chola who conquered Kadaram has sung a song of rejoicing.
+
+The Pandya has made the Classical Tamil Sangam resound.
+
+The flower garden I speak of has seas on three sides, shimmering with pearls!
+
+On one side it has a lofty mountain range!
+
+It has fertile fields—perennial life-giving rivers!
+
+It gives not merely shoots and flowers; it gives gold!
+
+Come, come, take part in the work of making such a flower garden our own—to the `வழக்கு மன்றத்திற்கு`—that is how I invite all of you.
+
+There is no communalism in inviting you in this way—there is no room for bourgeois doctrine to raise its head—there is certainly no narrow-mindedness.
+
+I invite everyone. I do not invite people by observing distinctions of high caste and low caste.
+
+I am one among those engaged in the great effort to remove that distinction.
+
+Our aim is neither to abolish the people of the high castes nor to turn the people of the low castes into high-caste people.
+
+All that people like us desire is to bring the man above down from the summit of the tower, raise the man below from the rubbish heap, and seat both in one hall on an equal level.
+
+Apart from this, we harbour no kind of malice toward the upper classes.
+
+We are the people who have been in a lowly condition—we are the people who have fallen into a pit. Should not those in the higher position have extended a hand and saved all of us?
+
+Had they performed that duty, would there have been a situation in which two castes clash with one another?
+
+> **Translator note:** The verified source prints `வழக்கு மன்றத்திற்கு` in the invitation sentence. It is retained visibly because silently replacing it with a conjectured normalized expression would exceed the archival translation's authority.
+
+---
+
+## PDF page 15 / printed page 14
+
+They are educated people. Degree-holders. Ninety out of a hundred are people who entered colleges, institutions of learning, and schools. They have walked through the streets of history. They have strolled in the grove of geography. They have sat upon the shore of science.
+
+If they—the upper classes—had taken upon themselves the responsibility of making all those uneducated people—people who were made to remain uneducated, people who had not come ashore from the condition of the common masses—sing the song of rationalism, condemnation would not have arisen; a great society would instead have expressed gratitude mingled with joy!
+
+From that day to this day, has not the fortress called the caste system been built upon a strong foundation? I invite even those inside the fortress to take part in the work that will reduce that fortress to dust. Friends! When a river merges into the sea, the sea does not become the river. The river too becomes the sea.
+
+But if a great society possessing a distinct culture reaches a condition in which, through cultural mixture with a smaller society, it loses its own distinctive greatness and is destroyed—if it has acquired the disposition to accept even erukku flowers into its flower garden—is that not a matter for sorrow!
+
+If a drop of poison is mixed into a pot of milk, the poison does not become milk. The milk becomes poison. The same condition is developing in our flower garden.
+
+Caste consciousness is just like that: it has invaded and subjugated a society in which there was not even a word called caste.
+
+Is that consciousness found only among ordinary human beings? Do not the ancient texts say that it exists even in the Supreme Lord?
+
+Only after Kannappan lost his eye was he able to receive the title ‘Nayanar’ from the Lord with the eye upon his forehead.
+
+Only after Karaikkal Ammaiyar disfigured her beautiful body and walked upside down in skeletal form did Father Paramasivan address her as ‘Ammaiye’.
+
+---
+
 ## E1 progress
 
-First-pass English translation is complete through **PDF page 10 / printed page 9**: **5 / 12 speech pages**.
+First-pass English translation is complete through **PDF page 15 / printed page 14**: **10 / 12 speech pages**.
 
-The next E1 batch is **PDF pages 11-15 / printed pages 10-14**. E2 fidelity review remains blocked until all 12 speech pages have a first-pass English translation.
+The final E1 batch is **PDF pages 16-17 / printed pages 15-16**. E2 fidelity review remains blocked until all 12 speech pages have a first-pass English translation.
