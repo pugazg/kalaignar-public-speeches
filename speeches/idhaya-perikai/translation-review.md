@@ -1,14 +1,11 @@
 # Idhaya Perikai — English Translation Fidelity Review
 
-**Status:** `not-started`
+**Status:** `not-started / locked until E1 completes`
 
-## Gate lock
+## Gate state
 
-This review cannot begin until:
+The Tamil prerequisite is now satisfied: `transcription-ta.md` is frozen as `verified-complete` after Stage T3.
 
-1. the Tamil transcription is `verified-complete`; and
-2. a complete first-pass English translation exists in `translation-en.md`.
+This Stage E2 review still **cannot begin** until a complete Stage E1 first-pass English translation exists in `translation-en.md`. No Tamil→English fidelity review has yet been performed.
 
-No Tamil→English fidelity review has been performed at the startup/source-inspection gate.
-
-When the gate opens, review every body page independently against the frozen Tamil layer for omissions, additions, reversals, rhetoric/repetition, names/titles, source-supported oddities, page-boundary loss, and translator inference presented as source fact. Record confirmed findings here before consolidation into `translation-en.md`, then run a separate final end-to-end verification.
+When E1 is complete, review every body page independently against the frozen Tamil layer for omissions, additions, reversals, softened/strengthened rhetoric, lost repetition, names/titles, source-supported oddities, page-boundary loss, and translator inference presented as source fact. Record confirmed findings here before consolidating corrections into `translation-en.md`, then run the separate final end-to-end Stage E3 verification.
