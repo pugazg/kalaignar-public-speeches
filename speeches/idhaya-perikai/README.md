@@ -42,16 +42,16 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 |---|---|
 | Repository duplicate check | **Complete** |
 | Source inspection and page map | **Complete** |
-| Tamil first-pass transcription | **In progress — 26/32; through PDF 29 / printed 28** |
-| Strict visual Tamil fidelity audit | **Not started — 0/32; locked until T1 completes** |
+| Tamil first-pass transcription | **Complete — 32/32; through PDF 35 / printed 34** |
+| Strict visual Tamil fidelity audit | **Ready, not started — 0/32** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started / locked** |
 | English fidelity review | **Not started / locked** |
 | Final Tamil→English verification | **Not started / locked** |
 
-The existing Tamil text is **first-pass only**. It has not yet passed the mandatory strict line-by-line source audit. Uncertain first-pass readings are explicitly marked in `transcription-ta.md`; page-boundary word splits are being preserved for later T2/T3 checking rather than silently normalized.
+The Tamil text now contains a complete **Stage T1 first pass** of every body page. It has **not** yet passed the mandatory strict line-by-line source audit and must not be treated as `verified-complete`. Uncertain first-pass readings are explicitly marked in `transcription-ta.md`; page-boundary word splits and unusual source forms are preserved for T2/T3 checking rather than silently normalized.
 
-Batch 5 completed the full first-pass transcription of `நமது உரிமை.` (PDF 24–29 / printed 23–28). Source-supported oddities such as the page-26 opening `தாப்படவில்லை`, printed-page-27 `முச்ச விடக்`, and the page-boundary splits are retained. One reading on PDF 27 / printed 26 remains explicitly uncertain as `⟦நெசவாளர்களார்ச்சியை?⟧`; the earlier `⟦பாப்பு?⟧` on printed page 22 also remains unresolved for T2. Neither is guessed from context or outside sources.
+Batch 6 completed `பந்தல் ஆடுகிறது!` (PDF 30–32 / printed 29–31) and `கருகிடும் மொட்டுக்கள்!` (PDF 33–35 / printed 32–34). On PDF 35 only the body text above the ornament was transcribed; the publisher advertisement and later library/accession markings below it were excluded from the body layer.
 
 ## Editorial rule
 
@@ -59,4 +59,4 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Continue **Stage T1 — first-pass Tamil transcription** at **PDF page 30 / printed page 29**, beginning `பந்தல் ஆடுகிறது!`. Do not begin Stage T2 until the entire 32-page body first pass exists. English translation remains locked until the Tamil layer passes T2 and T3 and is frozen as `verified-complete`.
+Proceed to **Stage T2 — strict visual Tamil fidelity audit**, beginning at **PDF page 4 / printed page 3** and checking every body page line by line against the scan. Do not begin English translation until T2 and T3 pass and the Tamil layer is frozen as `verified-complete`.

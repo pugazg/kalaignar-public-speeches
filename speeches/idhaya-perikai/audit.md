@@ -7,7 +7,7 @@
 
 ## Important audit state
 
-Gate 1 source inspection is complete. **Stage T1 Tamil transcription is in progress: 26/32 body pages drafted. Stage T2 strict line-by-line visual audit has not started.** Nothing in the current transcription should yet be treated as `verified-complete`.
+Gate 1 source inspection is complete. **Stage T1 Tamil first-pass transcription is complete: 32/32 body pages drafted. Stage T2 strict line-by-line visual audit is ready but has not started.** Nothing in the current transcription should yet be treated as `verified-complete`.
 
 ## Stage T1 progress
 
@@ -18,13 +18,13 @@ Gate 1 source inspection is complete. **Stage T1 Tamil transcription is in progr
 | 3 | 14–18 | 13–17 | first-pass drafted |
 | 4 | 19–23 | 18–22 | first-pass drafted |
 | 5 | 24–29 | 23–28 | first-pass drafted |
-| remaining | 30–35 | 29–34 | not started |
+| 6 | 30–35 | 29–34 | first-pass drafted |
 
-Drafted pages: **26 / 32**.
+Drafted pages: **32 / 32 — Stage T1 complete**.
 
 ## First-pass cautions reserved for Stage T2
 
-These are working notes, not completed audit findings. They must be checked directly against the scan during the later strict audit.
+These are working notes, not completed audit findings. They must be checked directly against the scan during the strict audit.
 
 - PDF 4→5 / printed 3→4: page-boundary split `சமுத்தி` / `ரத்தின்` is deliberately not consolidated yet.
 - PDF 5 / printed 4: `⟦செருமியமுத?⟧` remains an explicitly uncertain first-pass reading.
@@ -45,6 +45,13 @@ These are working notes, not completed audit findings. They must be checked dire
 - PDF 27 / printed 26: the source-supported compound `போலீஸ்காரணங்களை` is retained as read and must be checked during T2 rather than normalized.
 - PDF 28 / printed 27: the visible source form `முச்ச விடக்` is retained rather than silently corrected to a modern/expected form.
 - PDF 28→29 / printed 27→28: page-boundary split `கூட்ட` / `மல்ல!` is deliberately retained for T2/T3 checking.
+- PDF 30 / printed 29: the unusual first-pass phrase `நரம்புகளைக் கீற்றுகளாக முடைந்து போட்டு` is retained from the visible print and requires character-level confirmation during T2.
+- PDF 30→31 / printed 29→30: page-boundary split `குழந்தை` / `கள்.` is visible and must be checked before consolidation.
+- PDF 31 / printed 30: source forms `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று` are retained as visually read; do not normalize them before T2.
+- PDF 31→32 / printed 30→31: the sequence of names ends on PDF 31 with `ஓமாந்தூரார்—`; the next page begins `காணவில்லை தொண்டாற்றும் இந்தத் தூண்களே!` with no invented bridging text.
+- PDF 32 / printed 31: source phrases including `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்` are retained as read and must be checked line by line in T2.
+- PDF 33→34 / printed 32→33: page-boundary continuation `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!` remains explicit.
+- PDF 35 / printed 34: only the body above the ornament is transcribed. The publisher advertisement below the ornament and later library/accession markings (including `68206`) are excluded from the body layer.
 
 Running headers and printed page numerals are not body prose and are not folded into the transcription.
 
@@ -52,10 +59,10 @@ Running headers and printed page numerals are not body prose and are not folded 
 
 | Pages checked | Status |
 |---:|---|
-| 0 / 32 | not-started / locked until T1 is complete |
+| 0 / 32 | ready-not-started |
 
-After all 32 body pages have a first-pass transcription, every page must be reread directly against the scan line by line. Confirmed corrections, difficult glyphs, annotations/damage, and page-boundary joins must then be recorded here and consolidated into `transcription-ta.md`.
+Stage T2 must now begin at **PDF page 4 / printed page 3**. Every body page must be reread directly against the scan, line by line. Confirmed corrections, difficult glyphs, annotations/damage, and page-boundary joins must be recorded here and consolidated into `transcription-ta.md`.
 
 ## Unresolved source issue from startup
 
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. This does not block body transcription and must not be guessed from context or outside sources.
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. This does not block body transcription/audit and must not be guessed from context or outside sources.
