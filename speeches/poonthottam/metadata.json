@@ -84,8 +84,12 @@
     "english_translation_batches_completed": 3,
     "english_translation_page_heading_check": "complete",
     "english_translation_page_boundary_check": "complete",
-    "english_translation_review": "not-started",
-    "english_translation_review_pages_checked": 0,
+    "english_translation_review": "in-progress",
+    "english_translation_review_pages_checked": 5,
+    "english_translation_review_through_pdf_page": 10,
+    "english_translation_review_through_printed_page": 9,
+    "english_translation_review_batches_completed": 1,
+    "english_translation_review_corrections_applied": 1,
     "english_translation_final_verification": "not-started",
     "english_translation_final_verification_pages_checked": 0
   }
