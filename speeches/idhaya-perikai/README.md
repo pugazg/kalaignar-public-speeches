@@ -42,31 +42,26 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 |---|---|
 | Repository duplicate check | **Complete** |
 | Source inspection and page map | **Complete** |
-| Tamil first-pass transcription | **Complete — 32/32; through PDF 35 / printed 34** |
-| Strict visual Tamil fidelity audit | **Complete — 32/32; through PDF 35 / printed 34** |
+| Tamil first-pass transcription | **Complete — 32/32** |
+| Strict visual Tamil fidelity audit | **Complete — 32/32** |
 | Tamil consolidation / freeze | **Complete — `verified-complete`, frozen 2026-08-14** |
-| English first-pass translation (E1) | **Complete — 32/32; through PDF 35 / printed 34** |
-| English fidelity review (E2) | **In progress — 10/32; through PDF 13 / printed 12** |
-| Final Tamil→English verification (E3) | **Not started / locked until E2 completes and corrections are consolidated** |
+| English first-pass translation (E1) | **Complete — 32/32** |
+| English fidelity review page comparison (E2) | **Complete — 32/32; through PDF 35 / printed 34** |
+| E2 confirmed corrections | **19 recorded; 0/19 consolidated into `translation-en.md`** |
+| Final Tamil→English verification (E3) | **Not started / locked until E2 corrections are consolidated** |
 
-The Tamil layer has passed all three Tamil gates and is frozen as **`verified-complete`**. Stage T3 confirmed that PDF pages **4–35 / printed pages 3–34 appear once each and in source order**, rechecked page boundaries and stale readings, and reconfirmed the PDF 35 body/advertisement boundary.
+The Tamil layer is frozen as **`verified-complete`**. Any later Tamil alteration requires documented source evidence and re-verification of dependent English.
 
-Stage E1 is complete for the **entire 32-page body**. The translation was produced only from the frozen `transcription-ta.md` layer and retains PDF/printed-page correspondence, section order, argumentative sequence, repetition, metaphors and polemical force. Difficult verified Tamil forms are not silently repaired.
+Stage E1 produced a complete 32-page English first pass from the frozen Tamil layer. Stage E2 has now independently compared **every translated page, PDF 4–35 / printed 3–34**, against that frozen Tamil. The page review found **19 confirmed fidelity corrections**. They are documented in `translation-review.md` and are intentionally **not yet applied** to `translation-en.md` at this checkpoint.
 
-Stage E2 has now independently reviewed **PDF pages 4–13 / printed pages 3–12**. Batch 1 (PDF 4–8) required no English correction. Batch 2 (PDF 9–13) identified **six confirmed fidelity corrections**, all recorded first in `translation-review.md`: one rhetoric-strength correction on PDF 11; two wording corrections and one translator-note narrowing on PDF 12; and two numerical-scope corrections on PDF 13. In particular, `மனமுடைந்த` should not be strengthened to “hearts had been broken”; `திருக்கல்யாணக் குணங்கள்` denotes the Lord's auspicious qualities rather than “wedding virtues”; and `பல்லாயிரவர்` / `லட்சம்பேர்` should not be numerically overstated as “tens of thousands” / “hundreds of thousands.”
+Important E2 findings include: correcting strengthened numerical/rhetorical wording on PDFs 11–13; exposing the difficult printed `பொறுமையை அடக்கமுடியாத` on PDF 16 instead of silently smoothing it; restoring the polemical force of `வெறுப்பு` on PDF 18; retaining the actually printed unresolved classical line on PDF 20 instead of a generic placeholder; documenting the difficult PDF 22 syntax; removing editorial explanation from the PDF 23 body; correcting `கோலாகலம்`, `ஜாமீன் வழக்கு`, and `பலாத்கார பேச்சுக்கள்` on PDFs 24, 27, and 28; and correcting `பிணக்குவியல்கள்`, `வகுப்புவாரி உரிமை`, `ஆயிரக் கணக்கில்`, and especially PDF 35 `மிதக்க` (“float”) rather than “trample.” Full wording and consolidation instructions are in `translation-review.md`.
 
-Those six confirmed corrections are **recorded but not yet consolidated into `translation-en.md`**. The E2 workflow will continue page-by-page, and all confirmed review corrections must be consolidated before Stage E3 begins.
-
-The E1 text is therefore **not yet final English**. The remaining **22 pages** must pass E2.
-
-Full Tamil T2 and T3 details remain recorded in `audit.md`.
+The English text is **not yet final**. The next activity is to consolidate all 19 confirmed E2 corrections into `translation-en.md`, recheck that each is applied exactly once, and only then unlock Stage E3.
 
 ## Editorial rule
 
 The supplied scan is the controlling witness for this edition. Preserve source-supported historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar and typographical forms. Do not treat library stamps, handwriting, accession numbers, damage or bleed-through as printed edition text. OCR/parsed text may assist but is never authoritative.
 
-The verified Tamil layer is frozen. Any later Tamil alteration requires documented source evidence and re-verification of dependent English translation.
-
 ## Next gate
 
-Continue **Stage E2 — independent English fidelity review** at **PDF page 14 / printed page 13**. A practical next batch is PDF **14–18 / printed 13–17**. Record findings first in `translation-review.md`. Do not begin E3 until all 32 translated pages have passed E2 and every confirmed review correction has been consolidated into `translation-en.md`.
+**Consolidate the 19 confirmed Stage E2 corrections into `translation-en.md`.** Do not begin E3 until consolidation is complete and verified. Root catalogue closure remains deferred until the final release gate passes.
