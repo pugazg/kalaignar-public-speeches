@@ -38,49 +38,13 @@
     "body_pdf_page_count": 32,
     "printed_body_pages": "3-34",
     "sections": [
-      {
-        "order": 1,
-        "title_ta": "சிறு துளி பெரு வெள்ளம்.",
-        "pdf_pages": "4-11",
-        "printed_pages": "3-10"
-      },
-      {
-        "order": 2,
-        "title_ta": "வீதிதேவர் மயக்கம்.",
-        "pdf_pages": "12-16",
-        "printed_pages": "11-15"
-      },
-      {
-        "order": 3,
-        "title_ta": "பூம்புகார் மாநாடு.",
-        "pdf_pages": "17-20",
-        "printed_pages": "16-19"
-      },
-      {
-        "order": 4,
-        "title_ta": "வெற்றி விளக்கு!",
-        "pdf_pages": "21-23",
-        "printed_pages": "20-22"
-      },
-      {
-        "order": 5,
-        "title_ta": "நமது உரிமை.",
-        "pdf_pages": "24-29",
-        "printed_pages": "23-28"
-      },
-      {
-        "order": 6,
-        "title_ta": "பந்தல் ஆடுகிறது!",
-        "pdf_pages": "30-32",
-        "printed_pages": "29-31"
-      },
-      {
-        "order": 7,
-        "title_ta": "கருகிடும் மொட்டுக்கள்!",
-        "pdf_pages": "33-35",
-        "printed_pages": "32-34",
-        "note": "PDF page 35 is mixed-content: the section ends above an ornament; publisher advertising begins below it."
-      }
+      {"order": 1, "title_ta": "சிறு துளி பெரு வெள்ளம்.", "pdf_pages": "4-11", "printed_pages": "3-10"},
+      {"order": 2, "title_ta": "வீதிதேவர் மயக்கம்.", "pdf_pages": "12-16", "printed_pages": "11-15"},
+      {"order": 3, "title_ta": "பூம்புகார் மாநாடு.", "pdf_pages": "17-20", "printed_pages": "16-19"},
+      {"order": 4, "title_ta": "வெற்றி விளக்கு!", "pdf_pages": "21-23", "printed_pages": "20-22"},
+      {"order": 5, "title_ta": "நமது உரிமை.", "pdf_pages": "24-29", "printed_pages": "23-28"},
+      {"order": 6, "title_ta": "பந்தல் ஆடுகிறது!", "pdf_pages": "30-32", "printed_pages": "29-31"},
+      {"order": 7, "title_ta": "கருகிடும் மொட்டுக்கள்!", "pdf_pages": "33-35", "printed_pages": "32-34", "note": "PDF page 35 is mixed-content: the section ends above an ornament; publisher advertising begins below it."}
     ]
   },
   "source": {
@@ -113,9 +77,9 @@
     "speech_pages_drafted": 32,
     "tamil_transcription_through_pdf_page": 35,
     "tamil_transcription_through_printed_page": 34,
-    "strict_reaudit_pages_checked": 15,
-    "strict_reaudit_through_pdf_page": 18,
-    "strict_reaudit_through_printed_page": 17,
+    "strict_reaudit_pages_checked": 20,
+    "strict_reaudit_through_pdf_page": 23,
+    "strict_reaudit_through_printed_page": 22,
     "strict_reaudit_batch_size": 5,
     "tamil_visual_audit": "in-progress",
     "tamil_consolidation": "not-started",
