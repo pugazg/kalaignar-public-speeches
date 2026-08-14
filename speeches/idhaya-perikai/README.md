@@ -36,7 +36,7 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 - Actual PDF page count: `36`
 - Source PDF committed to repository: **No — repository policy**
 
-## Editorial status
+## Final archival status
 
 | Layer / gate | Status |
 |---|---|
@@ -48,22 +48,29 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | English first-pass translation (E1) | **Complete — 32/32** |
 | English fidelity review (E2) | **Complete — 32/32; 19/19 corrections consolidated** |
 | Final Tamil→English verification (E3) | **Complete — 32/32; English `verified-complete`** |
-| Repository-level archival closure | **Not started** |
+| Repository-level archival closure | **Complete — 2026-08-14** |
 
-The Tamil layer has passed T1, T2 and T3 and remains frozen as **`verified-complete`**. Stage E1 produced the complete English translation from that frozen layer. Stage E2 independently reviewed every body page and consolidated **19 confirmed fidelity corrections**.
+The Tamil layer passed T1, T2 and T3 and is frozen as **`verified-complete`**. Stage E1 translated the complete body only from that frozen Tamil layer. Stage E2 independently reviewed every translated page and consolidated **19 confirmed fidelity corrections**. Stage E3 then reread the entire consolidated English against the frozen Tamil from PDF 4 / printed 3 through PDF 35 / printed 34.
 
-Stage E3 then reread the complete consolidated English against the frozen Tamil from PDF 4 / printed 3 through PDF 35 / printed 34. All page and section order, cross-page continuations, difficult-source notes, and the 19 E2 corrections were rechecked in context. **No new English body-text fidelity correction was required.** Two stale translator-note workflow phrases were cleaned (`first pass` → `translation`) without changing source meaning. The English layer is now **`verified-complete`**.
+Stage E3 confirmed that all 32 body pages appear exactly once and in source order, all seven section boundaries and cross-page continuations remain intact, all 19 E2 corrections remain correct in context, and the PDF 35 publisher advertisement remains outside both canonical text layers. **No new English body-text fidelity correction was required in E3.** Two stale translator-note workflow phrases were cleaned without changing their source claims.
 
-The PDF 35 publisher advertisement remains outside the canonical Tamil and English body. The exact printer name on PDF page 3 remains unresolved because a later library stamp obscures part of the line; it must not be guessed.
+Both canonical text layers are therefore complete:
 
-Full Tamil audit details remain in `audit.md`; English review and E3 verification details are in `translation-review.md`.
+- `transcription-ta.md` — Tamil **`verified-complete`**
+- `translation-en.md` — English **`verified-complete`**
+
+The exact printer name on PDF page 3 remains unresolved because a later library stamp obscures part of the printed line. This is a bibliographic limitation, not pending transcription or translation work.
+
+Full Tamil audit details remain in `audit.md`; English fidelity-review and E3 details remain in `translation-review.md`.
 
 ## Editorial rule
 
 The supplied scan is the controlling witness for this edition. Preserve source-supported historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar and typographical forms. Do not treat library stamps, handwriting, accession numbers, damage or bleed-through as printed edition text. OCR/parsed text may assist but is never authoritative.
 
-The verified Tamil layer is frozen. Any later Tamil alteration requires documented source evidence and dependent English re-verification.
+The verified Tamil layer is frozen. Any future Tamil alteration requires documented source evidence and re-verification of dependent English. The verified English layer should likewise be reopened only for a specific source-supported fidelity correction or a clearly separate derivative project.
 
-## Next gate
+## Closure state
 
-Proceed with **Stage 8 — repository-level archival closure**. Synchronize the root catalogue `README.md`, finalize speech-level repository status, and convert `HANDOVER.md` into the final archival handover. At closure, explicitly state that no transcription or translation work remains pending.
+**No Tamil transcription, Tamil visual-audit, English translation, English fidelity-review, or final verification work remains pending for `இதய பேரிகை`.**
+
+The source PDF binary remains intentionally absent from GitHub under repository policy; its identity is fixed by filename, checksum, size, page count and page map. This does not constitute a pending archival-text task.
