@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage T2 strict visual Tamil fidelity audit completion**. Continue from Stage T3 without repeating startup, T1, or the completed page-by-page T2 audit, and do not begin English early.
+This document records the exact state after **Stage T3 Tamil consolidation and freeze completion**. Startup, T1, T2 and T3 are complete. The Tamil layer is frozen as `verified-complete`; the next incomplete gate is English first-pass translation. Do not repeat completed Tamil work unless new source evidence requires a documented correction.
 
 ## Repository
 
@@ -28,9 +28,9 @@ The scan does not establish a single speech date, venue, event, occasion, or aud
 - PDF 24–29 / printed 23–28 — `நமது உரிமை.`
 - PDF 30–32 / printed 29–31 — `பந்தல் ஆடுகிறது!`
 - PDF 33–35 / printed 32–34 — `கருகிடும் மொட்டுக்கள்!`
-- PDF 35 lower portion — publisher advertisement; exclude from body transcription
+- PDF 35 lower portion — publisher advertisement; excluded from canonical body
 
-## Completed work
+## Completed Tamil work
 
 Gate 1 source inspection/bibliographic mapping is **complete**.
 
@@ -44,26 +44,43 @@ Stage T2 strict visual Tamil fidelity audit is **complete — 32/32 body pages c
 - T2 Batch 4: PDF 19–23 / printed 18–22
 - Final remaining-pages sweep: PDF 24–35 / printed 23–34
 
-The strict visual audit therefore covers the **entire body through PDF 35 / printed 34**. No T2 page remains unaudited, and no `⟦...?⟧` unresolved T2 marker remains in the canonical transcript.
+Stage T3 consolidation/freeze is **complete — passed 2026-08-14**. The canonical `transcription-ta.md` is now **`verified-complete` and frozen**.
 
-The Tamil layer is nevertheless **not yet `verified-complete`** because Stage T3 consolidation, stale-reading/page-boundary review and freeze have not begun.
+## Stage T3 checks completed
 
-## Final remaining-pages audit findings — PDF 24–35
+- Reviewed the consolidated Tamil layer as one end-to-end unit after all T2 corrections were applied.
+- Confirmed PDF page headings **4–35** / printed pages **3–34** are present once each, in source order.
+- Confirmed all seven section starts remain at PDF 4, 12, 17, 21, 24, 30 and 33.
+- Rechecked every page boundary for stale fragments, omission/duplication and page-spanning words/sentences.
+- Rechecked significant boundaries including `சமுத்தி` / `ரத்தின்`, `சிந்தனைப் பூந்தோட்டத்` / `திலே`, `எப்படி` / `யிருந்தது`, `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`, `விஷ` / `யத்தில்`, `“மோர்` / `தாப்படவில்லை”`, `கூட்ட` / `மல்ல!`, `குழந்தை` / `கள்.`, `ஓமாந்தூரார்—` / `காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!`, `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!`, and `செயல்களில்` / `ஈடுபடவேண்டும்.`.
+- Searched for superseded T1/T2 readings; none remains in the canonical transcript.
+- Confirmed no unresolved `⟦...?⟧` marker remains in the body.
+- Confirmed PDF 35 body ends above the ornament; publisher advertising and later library/accession markings are excluded.
+- T3 required **no further Tamil body correction**. The freeze commit changed only editorial status/workflow text, not the body.
 
-- PDF 24→25: `விஷ` / `யத்தில்` page-spanning word confirmed.
-- PDF 25→26: `“மோர்` / `தாப்படவில்லை”` confirmed; unusual `தாப்படவில்லை` retained.
-- PDF 26: later handwritten/accession `68206` excluded; source quotation punctuation restored as `“விடாதே பறிமுதல்!”`.
-- PDF 27: unresolved `⟦நெசவாளர்களார்ச்சியை?⟧` resolved from the scan as **`நெசவாளர்கிளர்ச்சியை`**; `போலீஸ்காரணங்களை` confirmed.
-- PDF 28: `முச்ச விடக்` → **`மூச்சு விடக்`**; PDF 28→29 `கூட்ட` / `மல்ல!` confirmed.
-- PDF 29: `வரவேற்போம் என்று வைர...` → **`வரவேற்போம் என்ற வைர...`**.
-- PDF 30: `துண்களாக` → **`தூண்களாக`**; `முடிகூடா` → **`முடிசூடா`**; `படையிலே காட்டினார்` → **`படையலைக் காட்டினார்`**; `படப்படவென` → **`படபடவென`**; `நரம்புகளைக் கீற்றுகளாக முடைந்து போட்டு` confirmed; PDF 30→31 `குழந்தை` / `கள்.` confirmed.
-- PDF 31: source comma in `ஜீவன்கள், “இறப்புலகில்...` restored; `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று` confirmed; page ends `ஓமாந்தூரார்—` with no invented bridge.
-- PDF 32: opening corrected to **`காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!`**; comma after `வெளியேறிவிட்டனர்` restored; `சொல்லுவார்` → **`சொல்வார்`**; `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்` confirmed.
-- PDF 33→34: `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!` continuation confirmed.
-- PDF 34: comma after `செல்லப்பட்டாள்` restored; source single hyphens restored in `மாட்டுக்கார்களாக-கூப்பிட்ட` and `வீட்டுக் கூலிகளாக-அடிமைப்பட்டுக்`.
-- PDF 35: only body above the ornament is canonical; publisher advertisement, stamp, handwritten `68206`, and later markings below are excluded.
+Tamil freeze commit: `c0e327a5cc0cbe15edd9e02253d02f4eb67764cb`.
 
-See `audit.md` for the complete T2 findings across all batches.
+See `audit.md` for the complete T2 correction trail and T3 consolidation record.
+
+## Important verified source readings to preserve in English work
+
+These are source-supported and must not be silently normalized during translation:
+
+- `மன்றத்திலே இராவணனுக்கு அண்ணா.`
+- `திராவிடர் வாழ்வு உயரும்வரையில்`
+- `சிலந்திக்கூடு`
+- `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்`
+- `சீர்திருத்தம் முன்னவிட்டது`
+- `சீர்திருத்த கிடந்த`
+- `தாப்படவில்லை`
+- `நெசவாளர்கிளர்ச்சியை`
+- `போலீஸ்காரணங்களை`
+- `சுமன்றன கேள்விகள்`
+- `சூறவளிக் காற்று`
+- `துன்மார்க்க முறையை தொடர்கதையாக`
+- `செயல்வீரர் என்பதையும்`
+
+If a literal English rendering of a difficult printed form would mislead, preserve transparency with a concise translator/source note rather than silently repairing the Tamil.
 
 ## Current workflow state
 
@@ -71,27 +88,32 @@ See `audit.md` for the complete T2 findings across all batches.
 |---|---|
 | 1. Source inspection / bibliographic-page map | **complete** |
 | 2. Tamil first-pass transcription (T1) | **complete — 32/32** |
-| 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32; through PDF 35 / printed 34** |
-| 4. Tamil consolidation / freeze (T3) | **not-started** |
-| 5. English first-pass translation (E1) | **not-started / locked** |
-| 6. English fidelity review (E2) | **not-started / locked** |
+| 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32** |
+| 4. Tamil consolidation / freeze (T3) | **complete — `verified-complete`, frozen 2026-08-14** |
+| 5. English first-pass translation (E1) | **not-started — ready** |
+| 6. English fidelity review (E2) | **not-started / locked until E1 completes** |
 | 7. Final Tamil→English verification (E3) | **not-started / locked** |
 | 8. Repository closure/catalogue synchronization | **not-started** |
 
 ## Exact next incomplete activity
 
-Proceed with **Stage T3 — Tamil consolidation, stale-reading/page-boundary review, and freeze**.
+Proceed with **Stage E1 — English first-pass translation**.
 
-T3 must, at minimum, follow `SPEECH_PROCESSING_GUIDE.md` and:
+For E1:
 
-- review the consolidated Tamil layer end to end rather than assuming the individual T2 batches compose perfectly;
-- check every PDF-page boundary for stale first-pass fragments, accidental duplication/omission, and page-spanning words/sentences;
-- search the canonical transcript for any stale uncertainty markers or superseded readings from T1/T2;
-- confirm all 32 body pages remain represented exactly once and in source order;
-- confirm PDF 35 body/ad boundary remains correct;
-- only after those checks pass, change the Tamil layer to `verified-complete` and mark T3 complete;
-- do **not** begin English translation before that freeze.
+- translate **only from the frozen `transcription-ta.md`**, not from OCR and not independently from the PDF or an outside edition;
+- retain PDF/printed-page headings and source paragraph/page sequence;
+- preserve argument structure, rhetorical force, repetition, metaphors, polemical language and historical references;
+- do not silently normalize difficult verified Tamil forms;
+- use concise translator/source notes where literal rendering would otherwise mislead;
+- translate the complete 32-page body before beginning E2;
+- keep `translation-review.md` at not-started until E1 is complete;
+- do not perform root catalogue closure yet.
 
 ## Root catalogue
 
 Root `README.md` remains intentionally unchanged until final archival closure, as required by `SPEECH_PROCESSING_GUIDE.md`.
+
+## Unresolved bibliographic issue
+
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This does not affect the frozen Tamil body or the start of English translation.
