@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage E2 English fidelity review Batch 1**. Startup, T1, T2, T3 and E1 are complete. The Tamil layer remains frozen as `verified-complete`. E2 is in progress; PDF pages 4–8 / printed pages 3–7 have passed independent Tamil→English comparison.
+This document records the exact state after **Stage E2 English fidelity review Batch 2**. Startup, T1, T2, T3 and E1 are complete. The Tamil layer remains frozen as `verified-complete`. E2 is in progress; PDF pages 4–13 / printed pages 3–12 have been independently compared against the frozen Tamil.
 
 ## Repository
 
@@ -48,17 +48,24 @@ E1 completion translation commit: `332f17ec074f26588a898417f1efba802a221102`.
 
 ## Stage E2 progress
 
-Stage E2 independent Tamil→English fidelity review is **in progress — 5 / 32 body pages checked**, through PDF page 8 / printed page 7.
+Stage E2 independent Tamil→English fidelity review is **in progress — 10 / 32 body pages checked**, through PDF page 13 / printed page 12.
 
-Completed E2 Batch 1:
+Completed E2 Batch 1, PDF 4–8 / printed 3–7:
 
-- PDF 4 / printed 3 — pass; no confirmed correction.
-- PDF 5 / printed 4 — pass; no confirmed correction.
-- PDF 6 / printed 5 — pass; no confirmed correction.
-- PDF 7 / printed 6 — pass; no confirmed correction; `சீனத் தீவு` note reviewed and accepted.
-- PDF 8 / printed 7 — pass; no confirmed correction; PDF 8→9 unfinished sentence preserved without invented bridge.
+- all five pages passed;
+- no confirmed English correction;
+- PDF 7 `சீனத் தீவு` translator/source note reviewed and accepted;
+- PDF 8→9 unfinished source sentence preserved without an invented bridge.
 
-Batch 1 found **zero confirmed English fidelity corrections**, so `translation-en.md` was intentionally left unchanged. Detailed page findings are in `translation-review.md`.
+Completed E2 Batch 2, PDF 9–13 / printed 8–12:
+
+- PDF 9 — pass; no confirmed correction.
+- PDF 10 — pass; no confirmed correction.
+- PDF 11 — 1 confirmed correction: `மனமுடைந்த பிறகுங்கூட` should be “even after they had become disheartened,” not the stronger “even after their hearts had been broken.”
+- PDF 12 — 3 confirmed corrections: `நிதானிக்காமல்` should not be “without pausing”; `திருக்கல்யாணக் குணங்கள்` means the Lord's auspicious qualities, not “wedding virtues”; and the `அம்மாமித் தமிழ்` translator note must be narrowed so it does not present the editorial characterization “socially marked” as source fact.
+- PDF 13 — 2 confirmed corrections: `பல்லாயிரவர்` should be “many thousands,” not “tens of thousands”; `லட்சம்பேர்` should be “a hundred thousand,” not “hundreds of thousands.”
+
+Batch 2 therefore records **6 confirmed English fidelity corrections**. Per the E2 workflow, these findings are recorded first in `translation-review.md`. They are **not yet consolidated into `translation-en.md`**; all confirmed E2 corrections must be consolidated before Stage E3 begins.
 
 ## First-pass source-difficulty notes requiring special E2 attention
 
@@ -82,17 +89,17 @@ Batch 1 found **zero confirmed English fidelity corrections**, so `translation-e
 | 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32** |
 | 4. Tamil consolidation / freeze (T3) | **complete — `verified-complete`, frozen 2026-08-14** |
 | 5. English first-pass translation (E1) | **complete — 32/32; through PDF 35 / printed 34** |
-| 6. English fidelity review (E2) | **in progress — 5/32; through PDF 8 / printed 7** |
-| 7. Final Tamil→English verification (E3) | **not-started / locked until E2 completes** |
+| 6. English fidelity review (E2) | **in progress — 10/32; through PDF 13 / printed 12; 6 corrections recorded, 0 consolidated** |
+| 7. Final Tamil→English verification (E3) | **not-started / locked until E2 completes and corrections are consolidated** |
 | 8. Repository closure/catalogue synchronization | **not-started** |
 
 ## Exact next incomplete activity
 
-Continue **Stage E2** at **PDF page 9 / printed page 8**.
+Continue **Stage E2** at **PDF page 14 / printed page 13**.
 
-A practical next batch is **PDF 9–13 / printed 8–12**. Compare each English page independently against frozen Tamil, record findings in `translation-review.md`, then apply only confirmed corrections to `translation-en.md`. If a page has no fidelity correction, record the pass rather than rewriting for style.
+A practical next batch is **PDF 14–18 / printed 13–17**. Compare each English page independently against frozen Tamil. Give special attention to PDF 15 `மன்றத்திலே இராவணனுக்கு அண்ணா.` and to the page-spanning continuation from PDF 13→14. Record findings in `translation-review.md` before later consolidation into `translation-en.md`. If a page has no fidelity correction, record the pass rather than rewriting for style.
 
-Do not begin E3 until all 32 English pages pass E2 and any confirmed review corrections are consolidated.
+Do not begin E3 until all 32 English pages pass E2 and every confirmed review correction has been consolidated.
 
 ## Root catalogue
 
