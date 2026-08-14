@@ -1,6 +1,6 @@
 # கலைஞரின் பூந்தோட்டம் - working handover
 
-This handover records the current state of `speeches/poonthottam/` after **T2 strict audit completion**. It exists so continuation proceeds from the exact next incomplete gate without restarting source inspection, T1 transcription, or the completed T2 audit.
+This handover records the current state of `speeches/poonthottam/` after **Tamil T3 consolidation/freeze completion**. Continue from the exact next incomplete gate; do not repeat source inspection, Tamil transcription, T2 audit, or T3 consolidation.
 
 ## Repository
 
@@ -48,7 +48,7 @@ The speech begins on PDF 6 under `பூந்தோட்டம்` and ends on
 
 - Blue circular library stamp on PDF 2 overlaps the title-page area: later marking, not edition text.
 - Blue circular library stamp on PDF 17 lies below the speech ending: later marking, not edition text.
-- Light bleed-through occurs on interior pages: do not transcribe reverse-side ghost text.
+- Light bleed-through occurs on interior pages and is excluded from the speech body.
 - The scan is authoritative; OCR/parsed text is only an aid.
 
 ## Workflow state
@@ -59,58 +59,67 @@ The speech begins on PDF 6 under `பூந்தோட்டம்` and ends on
 
 ### Gate 2 / T1 - Tamil first-pass transcription
 
-**FIRST-PASS COMPLETE - 12 / 12 speech pages drafted.**
+**COMPLETE - 12 / 12 speech pages drafted.**
 
 ### Gate 3 / T2 - strict line-by-line visual Tamil audit
 
 **COMPLETE - 12 / 12 speech pages audited.**
 
-Completed T2 batches:
+Completed batches:
 
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-17 / printed 15-16
 
-Batches 1 and 2 required no wording corrections. Batch 3 identified two scan-confirmed first-pass errors on printed p.15 and these are already corrected in `transcription-ta.md`:
+T2 corrections on printed p.15:
 
 - `புரிவோடு` → **`பூரிப்போடு`**;
 - `வளர்த்தான்` → **`வளரத்தான்`**.
 
-Other final-batch readings confirmed from the scan include `தாயைக் கட்டிலறைக் கழைத்து`, `வைகைக் கரையிலே`, `மோட்சலோக ‘பாஸ்போர்ட்’டன்`, separate `கை முஷ்டி` / joined `கைமுஷ்டி`, `பூர்ஷ்வாத் தன்மை`, `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`, `மானிடம்`, and the printed final `வணக்கம்`.
-
 ### Gate 4 / T3 - Tamil consolidation and freeze
 
-**NOT STARTED - THIS IS THE EXACT NEXT GATE.**
+**COMPLETE - Tamil is `verified-complete`.**
 
-T3 must run across the complete speech body before Tamil can be frozen as `verified-complete`.
+T3 confirmed:
+
+- both T2 corrections are present in the speech text;
+- superseded readings no longer survive in the speech text;
+- all 11 page transitions contain no accidental omission, duplication, broken word, or lost punctuation;
+- PDF-page headings 6 through 17 occur once in correct order, so no speech page is missing or duplicated;
+- T2-confirmed unusual source forms remain preserved rather than normalized;
+- running headers, reverse-side bleed-through, and the PDF 17 library stamp remain excluded;
+- the complete Tamil body passed the end-to-end stale-reading check.
+
+Important page-boundary continuations preserved correctly:
+
+- printed p.5 → p.6: `பண்படுத்த` / `வேண்டும்.`;
+- printed p.6 → p.7: `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
+- printed p.10 → p.11: `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
+- printed p.15 → p.16: `வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.` / `அந்த வெறுப்பு...`.
+
+The verified Tamil layer is now frozen. Any later Tamil change requires documented source evidence and dependent English re-verification.
 
 ### English gates
 
-All **NOT STARTED / BLOCKED** until T3 passes and Tamil is explicitly `verified-complete`.
-
-## Confirmed T2 page-boundary points to carry into T3
-
-- printed p.5 → p.6 continues `பண்படுத்த` / `வேண்டும்.`;
-- printed p.6 → p.7 continues `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
-- printed p.10 → p.11 continues `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
-- printed p.15 → p.16 is a thought/sentence continuation ending `வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.` and resuming `அந்த வெறுப்பு...`; no word is split.
-
-Do not collapse these page boundaries in a way that creates omitted or duplicated wording.
+- E1 English first-pass translation: **NOT STARTED - EXACT NEXT GATE**
+- E2 Tamil→English fidelity review: **NOT STARTED / BLOCKED until E1 complete**
+- E3 final end-to-end Tamil→English verification: **NOT STARTED / BLOCKED**
 
 ## Exact next activity
 
-Perform **Stage T3 - Tamil consolidation / page-boundary / stale-reading check** across the complete `transcription-ta.md`, PDF 6-17 / printed 5-16.
+Begin **E1 - English first-pass translation** from the frozen `transcription-ta.md` only.
 
-Required T3 checks:
+Recommended first translation batch: **PDF pages 6-10 / printed pages 5-9**.
 
-1. confirm both T2 corrections (`பூரிப்போடு`, `வளரத்தான்`) are present and the superseded readings (`புரிவோடு`, `வளர்த்தான்`) no longer survive in the speech text;
-2. review every PDF-page boundary for accidental duplication, omission, broken words, or lost punctuation;
-3. check all unusual source forms confirmed in T2 against the consolidated text so later editing has not normalized them;
-4. confirm running headers, bleed-through and the PDF 17 library stamp remain excluded;
-5. perform an end-to-end stale-reading check of the complete Tamil body.
+Requirements:
 
-If and only if T3 passes, update `transcription-ta.md`, `metadata.json`, `README.md`, `audit.md`, and this handover to mark the Tamil layer **`verified-complete`**. Then English translation may begin as the next separate stage.
+1. retain explicit PDF/printed-page headings;
+2. translate only from the verified Tamil layer, not OCR or the source PDF independently;
+3. preserve argument structure, rhetorical force, repetition, metaphors, polemical language and historical references;
+4. do not silently repair unusual Tamil such as `அகம்புற மென்ற அன்றலர்ந்த`, `அயோத்தியானுக்கு`, or other source-supported forms;
+5. where a difficult source form creates genuine translation ambiguity, keep the translation transparent and record a concise note rather than inventing certainty;
+6. do not begin E2 review until the complete English first pass exists.
 
 ## Repository synchronization note
 
-The root catalogue remains unchanged. Root catalogue synchronization belongs to archival closure after all textual and translation gates pass.
+The root catalogue remains unchanged. Root catalogue synchronization belongs to final archival closure after E1, E2, E3, metadata synchronization, and final handover are complete.

@@ -11,7 +11,7 @@ Source inspection is complete. Stage **T1 first-pass Tamil transcription is comp
 
 Stage **T2 strict line-by-line visual fidelity audit is complete: 12 / 12 speech pages checked**. Audit Batch 1 covered PDF 6-10 / printed 5-9, Batch 2 covered PDF 11-15 / printed 10-14, and Batch 3 covered PDF 16-17 / printed 15-16.
 
-Two scan-confirmed transcription corrections were required in the final batch and have been applied to `transcription-ta.md`. The Tamil layer is **not yet `verified-complete`** because the separate Stage T3 consolidation/page-boundary/stale-reading gate remains pending.
+Stage **T3 consolidation / page-boundary / stale-reading verification is complete**. The consolidated Tamil layer is now frozen as **`verified-complete`**.
 
 ## Source / page-map safeguards
 
@@ -82,18 +82,40 @@ Two first-pass readings were found to differ from the scan and were corrected:
 
 The p.15 → p.16 transition is a thought/sentence continuation from the final p.15 sentence to `அந்த வெறுப்பு...`; no word is split across the page boundary.
 
+## T3 consolidation and freeze
+
+T3 was completed across the full consolidated `transcription-ta.md`, PDF 6-17 / printed 5-16.
+
+Checks performed and results:
+
+- confirmed both T2 corrections `பூரிப்போடு` and `வளரத்தான்` are present in the speech body;
+- confirmed superseded speech-text readings `புரிவோடு` and `வளர்த்தான்` do not survive;
+- checked all 11 PDF-page transitions for accidental duplication, omission, split-word damage, or lost punctuation; none was found;
+- confirmed all 12 speech-page headings PDF 6 through PDF 17 occur once in sequence, with no missing or duplicated speech page;
+- rechecked the T2-confirmed unusual forms in the consolidated text and found no later normalization;
+- confirmed running headers, reverse-side bleed-through, and the PDF 17 blue library stamp remain excluded from the speech body;
+- completed an end-to-end stale-reading review of the consolidated Tamil transcription.
+
+Important page-boundary continuations preserved correctly include:
+
+- printed p.5 → p.6: `பண்படுத்த` / `வேண்டும்.`;
+- printed p.6 → p.7: `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
+- printed p.10 → p.11: `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
+- printed p.15 → p.16: `வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.` / `அந்த வெறுப்பு...`.
+
+**T3 passes. Tamil is frozen as `verified-complete`.** Later Tamil changes require documented source evidence and dependent English re-verification.
+
 ## T1 / T2 / T3 state
 
 | Stage | Pages | Status |
 |---|---:|---|
 | T1 first-pass Tamil transcription | 12 / 12 | first-pass-complete |
 | T2 strict visual fidelity audit | 12 / 12 | complete |
-| T3 consolidation / page-boundary / stale-reading check | - | **next gate** |
+| T3 consolidation / page-boundary / stale-reading check | 12 / 12 | **complete** |
+| Tamil canonical layer | 12 / 12 | **verified-complete** |
 
 ## Exact next gate
 
-Begin **Stage T3 - Tamil consolidation, page-boundary, and stale-reading check** across the complete speech body, PDF 6-17 / printed 5-16.
+Begin **E1 - English first-pass translation** from the frozen `transcription-ta.md` only, preserving PDF/printed-page correspondence.
 
-T3 must verify that all confirmed T2 corrections are present, no superseded first-pass reading remains elsewhere, all page transitions are coherent without accidental duplication/omission, and the consolidated text still preserves the scan-supported forms established during T2.
-
-Do not begin English translation until T3 passes and the Tamil layer is explicitly frozen as `verified-complete`.
+Do not translate from OCR or an outside edition, and do not treat difficult source-supported Tamil as an invitation to silently repair the text in English.

@@ -61,8 +61,7 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 
 - A later blue circular library stamp crosses part of the title-page area on PDF page 2. It is not edition text.
 - Another blue circular library stamp appears in the lower area of PDF page 17, below the end of the speech. It is not edition text.
-- Light reverse-side bleed-through is visible on several interior pages and must not be incorporated as printed text.
-- The speech body remains visually legible in the supplied scan.
+- Light reverse-side bleed-through is visible on several interior pages and is excluded from the transcription.
 
 ## Editorial status
 
@@ -70,29 +69,25 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 |---|---|
 | Repository duplicate check | **Complete - no pre-existing `poonthottam` work found** |
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **First-pass complete - 12/12 speech pages drafted** |
-| Strict line-by-line Tamil visual audit | **Complete - 12/12 speech pages re-audited** |
-| Tamil consolidation / freeze | **Not started - next gate** |
-| English translation | **Blocked until Tamil is verified-complete** |
+| Tamil first-pass transcription | **Complete - 12/12 speech pages** |
+| Strict line-by-line Tamil visual audit | **Complete - 12/12 speech pages** |
+| Tamil consolidation / freeze | **Complete - verified-complete** |
+| English translation | **Not started - next gate** |
 | English fidelity review | **Not started** |
 | Final Tamil→English verification | **Not started** |
 
-## T1 / T2 progress
+## Tamil verification summary
 
-T1 first-pass transcription is complete across the full speech body:
+T1 first-pass transcription and T2 strict visual audit are complete across all PDF pages 6-17 / printed pages 5-16.
 
-- Batch 1: PDF 6-10 / printed 5-9
-- Batch 2: PDF 11-15 / printed 10-14
-- Batch 3: PDF 16-17 / printed 15-16
-
-T2 has also been completed across all 12 pages. Batches 1 and 2 required no wording corrections. The final audit batch identified and corrected two first-pass readings on printed p.15:
+T2 required two scan-confirmed corrections on printed p.15:
 
 - `புரிவோடு` → `பூரிப்போடு`;
 - `வளர்த்தான்` → `வளரத்தான்`.
 
-All other final-batch watchpoints, including `தாயைக் கட்டிலறைக் கழைத்து`, `மோட்சலோக ‘பாஸ்போர்ட்’டன்`, separate `கை முஷ்டி` / joined `கைமுஷ்டி`, `பூர்ஷ்வாத் தன்மை`, `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`, `மானிடம்`, and the final printed `வணக்கம்`, were confirmed directly from the scan.
+T3 then checked the complete consolidated transcript for stale superseded readings, all page boundaries, missing/duplicated speech pages, later normalization of confirmed unusual forms, and accidental inclusion of running headers, bleed-through, or the PDF 17 library stamp. **T3 passed without further transcription correction.**
 
-The Tamil layer is still **not `verified-complete`** because the separate T3 consolidation/page-boundary/stale-reading check has not yet run.
+The Tamil canonical layer in `transcription-ta.md` is now **`verified-complete` and frozen**.
 
 ## Editorial rule
 
@@ -100,6 +95,6 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Begin **Stage T3 - Tamil consolidation, page-boundary, and stale-reading check** across **PDF pages 6-17 / printed pages 5-16**.
+Begin **E1 - English first-pass translation** from the verified `transcription-ta.md` only, preserving PDF/printed-page correspondence.
 
-Do not begin English translation until T3 confirms that all T2 corrections are consolidated, no stale first-pass reading survives, page transitions contain no duplication or omission, and the Tamil layer can be explicitly frozen as `verified-complete`.
+English must not be produced from OCR or an outside edition. Difficult or unusual source-supported Tamil must not be silently repaired during translation.

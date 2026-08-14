@@ -1,17 +1,18 @@
 # பூந்தோட்டம் - Tamil transcription
 
-> **Status:** `t2-complete-pending-t3`  
+> **Status:** `verified-complete`  
 > **Controlling source:** `TVA_BOK_0065784_கலைஞரின்_பூந்தோட்டம்.pdf`  
 > **Speech-body scope:** PDF pages 6-17 / printed pages 5-16  
 > **Speech pages:** 12  
 > **First-pass drafted:** 12 / 12 speech pages  
-> **Strict visual audit:** complete - 12 / 12 speech pages
+> **Strict visual audit:** complete - 12 / 12 speech pages  
+> **T3 consolidation / freeze:** complete
 
 ## Gate state
 
-Source inspection and page mapping are complete. Stage **T1 - first-pass transcription is complete for all 12 speech pages**. Stage **T2 - strict independent line-by-line visual fidelity audit is also complete for all 12 speech pages**.
+Source inspection and page mapping are complete. Stage **T1 - first-pass transcription**, Stage **T2 - strict independent line-by-line visual fidelity audit**, and Stage **T3 - consolidation/page-boundary/stale-reading verification** are complete across all 12 speech pages.
 
-The Tamil layer has **not yet been frozen as `verified-complete`**. The separate Stage T3 consolidation, page-boundary, and stale-reading check must still pass before English translation begins.
+The Tamil layer is now frozen as **`verified-complete`**. Any later change requires documented source evidence and dependent English re-verification.
 
 ---
 
@@ -279,8 +280,10 @@ The Tamil layer has **not yet been frozen as `verified-complete`**. The separate
 
 ---
 
-## Next gate
+## Verified Tamil freeze
 
-Stages **T1 and T2 are complete** across all 12 speech pages.
+Stages **T1, T2, and T3 are complete** across all 12 speech pages. The Tamil transcription is **`verified-complete`** and frozen against the supplied scan.
 
-The next permitted stage is **T3 - Tamil consolidation, page-boundary, and stale-reading check across the complete speech body**. Only after T3 passes may the Tamil layer be frozen as `verified-complete` and English translation begin.
+T3 confirmed the two T2 corrections (`பூரிப்போடு`, `வளரத்தான்`), found no stale superseded reading in the speech text, found no missing or duplicated speech page, and found no page-boundary omission or duplication.
+
+The next permitted stage is **E1 - English first-pass translation from this verified Tamil layer only**, retaining PDF/printed-page correspondence.
