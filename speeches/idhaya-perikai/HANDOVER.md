@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage T1 Batch 3**. Continue from the next incomplete page without repeating completed startup/T1 work and without beginning Stage T2 or English early.
+This document records the exact state after **Stage T1 Batch 4**. Continue from the next incomplete page without repeating completed startup/T1 work and without beginning Stage T2 or English early.
 
 ## Repository
 
@@ -34,13 +34,14 @@ The scan does not establish a single speech date, venue, event, occasion, or aud
 
 Gate 1 source inspection/bibliographic mapping is **complete**.
 
-Stage T1 first-pass Tamil transcription is **in progress — 15/32 body pages drafted**:
+Stage T1 first-pass Tamil transcription is **in progress — 20/32 body pages drafted**:
 
 - Batch 1: PDF 4–8 / printed 3–7 — drafted
 - Batch 2: PDF 9–13 / printed 8–12 — drafted
 - Batch 3: PDF 14–18 / printed 13–17 — drafted
+- Batch 4: PDF 19–23 / printed 18–22 — drafted
 
-Current first pass therefore runs through **PDF page 18 / printed page 17**. No page is yet strict-verified.
+Current first pass therefore runs through **PDF page 23 / printed page 22**. `பூம்புகார் மாநாடு.` is complete at T1 level, and the complete `வெற்றி விளக்கு!` section has now received its first pass. No page is yet strict-verified.
 
 ## Carry-forward source cautions
 
@@ -53,6 +54,11 @@ Do not resolve these from context alone. Check them against the page images duri
 - PDF 15: first-pass line `மன்றத்திலே இராவணனுக்கு அண்ணா.`
 - PDF 16: first-pass closing wording `திராவிடர் வாழ்வு உயரும்வரையில்` was read visually from the scan.
 - PDF 18: first-pass wording `சிலந்திக்கூடு` was read visually from the scan.
+- PDF 20: the classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்` was transcribed directly from this edition; do not substitute a reading from another edition during T2.
+- PDF 21: unusual first-pass reading `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` must be checked character-by-character during T2.
+- PDF 21→22: sentence crosses the page boundary as `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`
+- PDF 23: `⟦பாப்பு?⟧` in `ஜப்பான் கோயிலிலே ⟦பாப்பு?⟧ அவதாரத்தில் பகவான் வந்தார்` remains unresolved. Do not infer the missing/uncertain reading from context or outside sources.
+- PDF 23: unusual first-pass forms `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` are deliberately preserved pending T2.
 
 These notes are not a substitute for T2. The entire body must still receive the later line-by-line visual audit.
 
@@ -61,7 +67,7 @@ These notes are not a substitute for T2. The entire body must still receive the 
 | Gate | State |
 |---|---|
 | 1. Source inspection / bibliographic-page map | **complete** |
-| 2. Tamil first-pass transcription (T1) | **in-progress — 15/32** |
+| 2. Tamil first-pass transcription (T1) | **in-progress — 20/32** |
 | 3. Strict visual Tamil fidelity audit (T2) | **not-started / locked — 0/32** |
 | 4. Tamil consolidation / freeze (T3) | **not-started** |
 | 5. English first-pass translation (E1) | **not-started / locked** |
@@ -71,7 +77,7 @@ These notes are not a substitute for T2. The entire body must still receive the 
 
 ## Exact next incomplete activity
 
-Continue **Stage T1 at PDF page 19 / printed page 18**, still within `பூம்புகார் மாநாடு.` Continue in manageable page batches through PDF 35 / printed 34.
+Continue **Stage T1 at PDF page 24 / printed page 23**, beginning the section `நமது உரிமை.` Continue in manageable page batches through PDF 35 / printed 34.
 
 Requirements:
 
