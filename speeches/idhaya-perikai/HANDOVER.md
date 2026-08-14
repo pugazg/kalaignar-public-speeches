@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage E2 English fidelity review Batch 2**. Startup, T1, T2, T3 and E1 are complete. The Tamil layer remains frozen as `verified-complete`. E2 is in progress; PDF pages 4–13 / printed pages 3–12 have been independently compared against the frozen Tamil.
+This document records the exact state after **completion of the Stage E2 page-by-page English fidelity review**. Startup, T1, T2, T3 and E1 are complete. The Tamil layer remains frozen as `verified-complete`. All **32/32 English body pages** have now been independently compared against the frozen Tamil. The review identified **19 confirmed fidelity corrections**, all recorded in `translation-review.md`; **none has yet been consolidated into `translation-en.md`**.
 
 ## Repository
 
@@ -40,45 +40,62 @@ The scan does not establish a single speech date, venue, event, occasion, or aud
 
 Tamil freeze commit: `c0e327a5cc0cbe15edd9e02253d02f4eb67764cb`.
 
-## Stage E1 completion
+## Stage E1
 
-Stage E1 first-pass English translation is **complete — 32 / 32 body pages translated**, through PDF page 35 / printed page 34.
+Stage E1 first-pass English translation is **complete — 32/32 body pages**, through PDF 35 / printed 34.
 
 E1 completion translation commit: `332f17ec074f26588a898417f1efba802a221102`.
 
-## Stage E2 progress
+## Stage E2 page review
 
-Stage E2 independent Tamil→English fidelity review is **in progress — 10 / 32 body pages checked**, through PDF page 13 / printed page 12.
+All **32 / 32 body pages** have now been independently reviewed against the frozen Tamil.
 
-Completed E2 Batch 1, PDF 4–8 / printed 3–7:
+Batch results:
 
-- all five pages passed;
-- no confirmed English correction;
-- PDF 7 `சீனத் தீவு` translator/source note reviewed and accepted;
-- PDF 8→9 unfinished source sentence preserved without an invented bridge.
+- PDF 4–8 / printed 3–7 — 0 corrections.
+- PDF 9–13 / printed 8–12 — 6 corrections.
+- PDF 14–18 / printed 13–17 — 2 corrections.
+- PDF 19–23 / printed 18–22 — 4 corrections.
+- PDF 24–28 / printed 23–27 — 3 corrections.
+- PDF 29–35 / printed 28–34 — 4 corrections.
 
-Completed E2 Batch 2, PDF 9–13 / printed 8–12:
+**Total confirmed E2 corrections: 19.**
 
-- PDF 9 — pass; no confirmed correction.
-- PDF 10 — pass; no confirmed correction.
-- PDF 11 — 1 confirmed correction: `மனமுடைந்த பிறகுங்கூட` should be “even after they had become disheartened,” not the stronger “even after their hearts had been broken.”
-- PDF 12 — 3 confirmed corrections: `நிதானிக்காமல்` should not be “without pausing”; `திருக்கல்யாணக் குணங்கள்` means the Lord's auspicious qualities, not “wedding virtues”; and the `அம்மாமித் தமிழ்` translator note must be narrowed so it does not present the editorial characterization “socially marked” as source fact.
-- PDF 13 — 2 confirmed corrections: `பல்லாயிரவர்` should be “many thousands,” not “tens of thousands”; `லட்சம்பேர்` should be “a hundred thousand,” not “hundreds of thousands.”
+They are recorded in detail in `translation-review.md`. They are not yet consolidated into `translation-en.md`.
 
-Batch 2 therefore records **6 confirmed English fidelity corrections**. Per the E2 workflow, these findings are recorded first in `translation-review.md`. They are **not yet consolidated into `translation-en.md`**; all confirmed E2 corrections must be consolidated before Stage E3 begins.
+## Confirmed correction themes
 
-## First-pass source-difficulty notes requiring special E2 attention
+The consolidation queue includes:
 
-- PDF 7: `சீனத் தீவு` — **reviewed / accepted**.
-- PDF 15: `மன்றத்திலே இராவணனுக்கு அண்ணா.` — pending.
-- PDF 20: dense classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்` — pending; high priority.
-- PDF 21: `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` — pending.
-- PDF 22: `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` — pending.
-- PDF 23: `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` — pending.
-- PDF 26: `தாப்படவில்லை` — pending.
-- PDF 27: `போலீஸ்காரணங்களை` — pending.
-- PDF 31: `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று` — pending.
-- PDF 32: `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்` — pending.
+- PDF 11 `மனமுடைந்த பிறகுங்கூட`: reduce the stronger “hearts had been broken” to “had become disheartened.”
+- PDF 12: correct `நிதானிக்காமல்`, `திருக்கல்யாணக் குணங்கள்`, and narrow the `அம்மாமித் தமிழ்` note.
+- PDF 13: correct the numerical scope of `பல்லாயிரவர்` and `லட்சம்பேர்`.
+- PDF 16: expose the difficult verified `பொறுமையை அடக்கமுடியாத` instead of smoothing it to “cannot hold themselves back”; add a source note.
+- PDF 18: restore the polemical force of `வெறுப்பு` (“hatred”).
+- PDF 20: restore the actual unresolved classical line `கடமலை வேட்டமென் கட்டபுலம்பிரியாது` inside the quotation instead of a generic placeholder; do not consult/substitute another edition.
+- PDF 22: add a note for the verified `மடத்தனத்தை அழித்தது. மக்கள் சமுதாயத்தை...` syntax; change `மட்டமானது` from “degraded” to “inferior.”
+- PDF 23: remove editorial commentary from the translated body while retaining the note on `சீர்திருத்தம் முன்னவிட்டது` / `சீர்திருத்த கிடந்த`.
+- PDF 24: `கோலாகலம்` should be “celebration/revelry,” not “music.”
+- PDF 27: `ஜாமீன் வழக்கு` should not be expanded to the inferred “security proceedings”; use source-facing “bail case.”
+- PDF 28: `பலாத்கார பேச்சுக்கள்` should be “violent speeches,” not “speeches advocating violence.”
+- PDF 31: remove the added “near-” from `பிணக்குவியல்கள்`; render `வகுப்புவாரி உரிமை` source-facing as “class-wise rights.”
+- PDF 34: `ஆயிரக் கணக்கில்` should not be strengthened to “thousands upon thousands.”
+- PDF 35: **critical meaning correction** — `குருதியிலே மிதக்கவிட்டிருக்கிறது` means the boy was left **“floating in blood,”** not “trampled in blood.”
+
+See `translation-review.md` for the full numbered list of 19 corrections and exact intended consolidation wording.
+
+## Reviewed difficult-source outcomes
+
+- `சீனத் தீவு` — current literal note accepted.
+- `மன்றத்திலே இராவணனுக்கு அண்ணா.` — current compact rendering/note accepted.
+- PDF 20 classical quotation — one unresolved printed line must be retained verbatim rather than omitted.
+- `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` — current rendering/note accepted.
+- `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` — current rendering/note accepted.
+- `சீர்திருத்தம் முன்னவிட்டது` / `சீர்திருத்த கிடந்த` — note retained; body editorial wording needs cleanup.
+- `தாப்படவில்லை` — current transliteration/note accepted.
+- `போலீஸ்காரணங்களை` — current source-facing rendering/note accepted.
+- `சுமன்றன கேள்விகள்` / `சூறவளிக் காற்று` — current rendering/note accepted.
+- `துன்மார்க்க முறையை தொடர்கதையாக` / `செயல்வீரர் என்பதையும்` — current rendering accepted.
 
 ## Current workflow state
 
@@ -88,18 +105,26 @@ Batch 2 therefore records **6 confirmed English fidelity corrections**. Per the 
 | 2. Tamil first-pass transcription (T1) | **complete — 32/32** |
 | 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32** |
 | 4. Tamil consolidation / freeze (T3) | **complete — `verified-complete`, frozen 2026-08-14** |
-| 5. English first-pass translation (E1) | **complete — 32/32; through PDF 35 / printed 34** |
-| 6. English fidelity review (E2) | **in progress — 10/32; through PDF 13 / printed 12; 6 corrections recorded, 0 consolidated** |
-| 7. Final Tamil→English verification (E3) | **not-started / locked until E2 completes and corrections are consolidated** |
+| 5. English first-pass translation (E1) | **complete — 32/32** |
+| 6. English fidelity review page comparison (E2) | **complete — 32/32; 19 corrections recorded** |
+| 6a. E2 correction consolidation | **pending — 0/19 applied** |
+| 7. Final Tamil→English verification (E3) | **not-started / locked until E2 consolidation completes** |
 | 8. Repository closure/catalogue synchronization | **not-started** |
 
 ## Exact next incomplete activity
 
-Continue **Stage E2** at **PDF page 14 / printed page 13**.
+**Consolidate all 19 confirmed E2 corrections into `translation-en.md`.**
 
-A practical next batch is **PDF 14–18 / printed 13–17**. Compare each English page independently against frozen Tamil. Give special attention to PDF 15 `மன்றத்திலே இராவணனுக்கு அண்ணா.` and to the page-spanning continuation from PDF 13→14. Record findings in `translation-review.md` before later consolidation into `translation-en.md`. If a page has no fidelity correction, record the pass rather than rewriting for style.
+During consolidation:
 
-Do not begin E3 until all 32 English pages pass E2 and every confirmed review correction has been consolidated.
+- apply only the source-supported corrections recorded in `translation-review.md`;
+- add the specified source notes for PDFs 16 and 22;
+- retain the actual unresolved Tamil line on PDF 20 rather than substituting an outside edition;
+- leave the frozen Tamil untouched;
+- after editing, verify that all 19 corrections occur exactly once and no reviewed-passing text was inadvertently altered;
+- then set the English workflow to `fidelity-corrections-consolidated` and unlock E3.
+
+Do **not** begin E3 before this consolidation checkpoint is complete.
 
 ## Root catalogue
 
@@ -107,4 +132,4 @@ Root `README.md` remains intentionally unchanged until final archival closure, a
 
 ## Unresolved bibliographic issue
 
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This does not affect the frozen Tamil body or the English workflow.
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This does not affect the frozen Tamil body or English workflow.
