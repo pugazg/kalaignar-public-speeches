@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage E1 English first-pass translation completion**. Startup, T1, T2, T3 and E1 are complete. The Tamil layer remains frozen as `verified-complete`. The next incomplete gate is Stage E2 independent English fidelity review.
+This document records the exact state after **Stage E2 English fidelity review Batch 1**. Startup, T1, T2, T3 and E1 are complete. The Tamil layer remains frozen as `verified-complete`. E2 is in progress; PDF pages 4–8 / printed pages 3–7 have passed independent Tamil→English comparison.
 
 ## Repository
 
@@ -40,41 +40,38 @@ The scan does not establish a single speech date, venue, event, occasion, or aud
 
 Tamil freeze commit: `c0e327a5cc0cbe15edd9e02253d02f4eb67764cb`.
 
-See `audit.md` for the complete T2 correction trail and T3 consolidation record.
-
 ## Stage E1 completion
 
 Stage E1 first-pass English translation is **complete — 32 / 32 body pages translated**, through PDF page 35 / printed page 34.
 
-The user requested that the remaining pages be handled in a single activity, so after the initial PDF 4–8 batch the complete remaining body, PDF **9–35 / printed 8–34**, was translated in this activity.
-
-The English translation:
-
-- was produced only from the frozen `transcription-ta.md` layer;
-- retains every PDF/printed-page heading and section boundary;
-- preserves source paragraph order, argument structure, repetition, metaphors, historical references and polemical force;
-- does not silently repair difficult verified Tamil readings;
-- uses concise translator/source notes where an apparently smooth English rendering would conceal a genuine source difficulty;
-- stops with the body text on PDF 35 and does not translate the excluded publisher advertisement below the ornament.
-
 E1 completion translation commit: `332f17ec074f26588a898417f1efba802a221102`.
+
+## Stage E2 progress
+
+Stage E2 independent Tamil→English fidelity review is **in progress — 5 / 32 body pages checked**, through PDF page 8 / printed page 7.
+
+Completed E2 Batch 1:
+
+- PDF 4 / printed 3 — pass; no confirmed correction.
+- PDF 5 / printed 4 — pass; no confirmed correction.
+- PDF 6 / printed 5 — pass; no confirmed correction.
+- PDF 7 / printed 6 — pass; no confirmed correction; `சீனத் தீவு` note reviewed and accepted.
+- PDF 8 / printed 7 — pass; no confirmed correction; PDF 8→9 unfinished sentence preserved without invented bridge.
+
+Batch 1 found **zero confirmed English fidelity corrections**, so `translation-en.md` was intentionally left unchanged. Detailed page findings are in `translation-review.md`.
 
 ## First-pass source-difficulty notes requiring special E2 attention
 
-The E1 translation deliberately surfaces difficult source readings rather than normalizing them. E2 must inspect these carefully:
-
-- PDF 7: `சீனத் தீவு`;
-- PDF 15: `மன்றத்திலே இராவணனுக்கு அண்ணா.`;
-- PDF 20: dense classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்`;
-- PDF 21: `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்`;
-- PDF 22: `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது`, followed by sentences denying personal-interest interference;
-- PDF 23: `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த`;
-- PDF 26: `தாப்படவில்லை`;
-- PDF 27: `போலீஸ்காரணங்களை`;
-- PDF 31: `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று`;
-- PDF 32: `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்`.
-
-The classical quotation on PDF 20 was translated cautiously from this frozen source only; no outside edition was consulted or substituted. E2 should treat that passage as a priority review item.
+- PDF 7: `சீனத் தீவு` — **reviewed / accepted**.
+- PDF 15: `மன்றத்திலே இராவணனுக்கு அண்ணா.` — pending.
+- PDF 20: dense classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்` — pending; high priority.
+- PDF 21: `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` — pending.
+- PDF 22: `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` — pending.
+- PDF 23: `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` — pending.
+- PDF 26: `தாப்படவில்லை` — pending.
+- PDF 27: `போலீஸ்காரணங்களை` — pending.
+- PDF 31: `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று` — pending.
+- PDF 32: `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்` — pending.
 
 ## Current workflow state
 
@@ -85,25 +82,17 @@ The classical quotation on PDF 20 was translated cautiously from this frozen sou
 | 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32** |
 | 4. Tamil consolidation / freeze (T3) | **complete — `verified-complete`, frozen 2026-08-14** |
 | 5. English first-pass translation (E1) | **complete — 32/32; through PDF 35 / printed 34** |
-| 6. English fidelity review (E2) | **ready-not-started** |
+| 6. English fidelity review (E2) | **in progress — 5/32; through PDF 8 / printed 7** |
 | 7. Final Tamil→English verification (E3) | **not-started / locked until E2 completes** |
 | 8. Repository closure/catalogue synchronization | **not-started** |
 
 ## Exact next incomplete activity
 
-Proceed with **Stage E2 — independent Tamil→English fidelity review**.
+Continue **Stage E2** at **PDF page 9 / printed page 8**.
 
-For E2:
+A practical next batch is **PDF 9–13 / printed 8–12**. Compare each English page independently against frozen Tamil, record findings in `translation-review.md`, then apply only confirmed corrections to `translation-en.md`. If a page has no fidelity correction, record the pass rather than rewriting for style.
 
-- compare every translated page in `translation-en.md` independently against frozen `transcription-ta.md`;
-- review all **32 body pages**; completeness matters more than batch size;
-- check omissions, additions, reversals, changed subjects/pronouns, softened or strengthened rhetoric, lost repetition, historical names/titles, source-supported oddities and page-boundary continuity;
-- review every translator/source note to ensure it does not overstate what the Tamil establishes;
-- record findings first in `translation-review.md`;
-- apply only confirmed corrections to `translation-en.md`;
-- do not change the frozen Tamil unless new source evidence justifies a documented correction;
-- do not begin E3 until E2 is complete and all confirmed English corrections are consolidated;
-- do not perform root catalogue closure yet.
+Do not begin E3 until all 32 English pages pass E2 and any confirmed review corrections are consolidated.
 
 ## Root catalogue
 

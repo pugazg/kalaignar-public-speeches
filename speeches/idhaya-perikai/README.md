@@ -46,14 +46,16 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | Strict visual Tamil fidelity audit | **Complete — 32/32; through PDF 35 / printed 34** |
 | Tamil consolidation / freeze | **Complete — `verified-complete`, frozen 2026-08-14** |
 | English first-pass translation (E1) | **Complete — 32/32; through PDF 35 / printed 34** |
-| English fidelity review (E2) | **Ready / not started** |
+| English fidelity review (E2) | **In progress — 5/32; through PDF 8 / printed 7** |
 | Final Tamil→English verification (E3) | **Not started / locked until E2 completes** |
 
 The Tamil layer has passed all three Tamil gates and is frozen as **`verified-complete`**. Stage T3 confirmed that PDF pages **4–35 / printed pages 3–34 appear once each and in source order**, rechecked page boundaries and stale readings, and reconfirmed the PDF 35 body/advertisement boundary.
 
-Stage E1 is now complete for the **entire 32-page body**. The translation was produced only from the frozen `transcription-ta.md` layer and retains PDF/printed-page correspondence, section order, argumentative sequence, repetition, metaphors and polemical force. Difficult verified Tamil forms are not silently repaired. Where an English rendering could conceal a real source difficulty, `translation-en.md` uses concise translator/source notes—for example at `சீனத் தீவு`, `மன்றத்திலே இராவணனுக்கு அண்ணா.`, the dense classical quotation on PDF 20, `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்`, the difficult reform forms on PDF 23, `தாப்படவில்லை`, `போலீஸ்காரணங்களை`, and `சுமன்றன கேள்விகள்`.
+Stage E1 is complete for the **entire 32-page body**. The translation was produced only from the frozen `transcription-ta.md` layer and retains PDF/printed-page correspondence, section order, argumentative sequence, repetition, metaphors and polemical force. Difficult verified Tamil forms are not silently repaired.
 
-The E1 text is **not yet final English**. Stage E2 must now independently compare every English page against the frozen Tamil for omissions, additions, reversals, softened or strengthened rhetoric, lost repetition, names/titles, difficult source forms, page-boundary loss, and translator inference presented as source fact.
+Stage E2 has begun. The first independent review batch covers **PDF 4–8 / printed 3–7**. Each page was compared against the frozen Tamil for omitted/additional ideas, reversals, altered rhetoric, repetition, subjects/pronouns, difficult source forms and page-boundary continuity. **No confirmed English correction was required in this batch.** The PDF 7 translator/source note for verified `சீனத் தீவு` was specifically reviewed and accepted because it exposes the difficult print rather than replacing it with an inferred correction. PDF 8's unfinished sentence into PDF 9 is also preserved without invented bridging wording. Full findings are recorded in `translation-review.md`.
+
+The E1 text is **not yet final English**. The remaining **27 pages** must pass E2 and any confirmed corrections must be consolidated before Stage E3 can begin.
 
 Full Tamil T2 and T3 details remain recorded in `audit.md`.
 
@@ -65,4 +67,4 @@ The verified Tamil layer is frozen. Any later Tamil alteration requires document
 
 ## Next gate
 
-Proceed to **Stage E2 — independent English fidelity review**, comparing all **32 translated body pages** in `translation-en.md` against the frozen `transcription-ta.md`. Record findings first in `translation-review.md`; consolidate only confirmed corrections into `translation-en.md`. Do not begin E3 until E2 is complete.
+Continue **Stage E2 — independent English fidelity review** at **PDF page 9 / printed page 8**. A practical next batch is PDF **9–13 / printed 8–12**. Record findings first in `translation-review.md`; apply only confirmed corrections to `translation-en.md`. Do not begin E3 until all 32 translated pages have passed E2 and review corrections are consolidated.
