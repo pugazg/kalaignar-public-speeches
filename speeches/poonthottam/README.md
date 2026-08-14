@@ -71,23 +71,23 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 | Repository duplicate check | **Complete - no pre-existing `poonthottam` work found** |
 | Source inspection / bibliographic identification | **Complete** |
 | Tamil first-pass transcription | **First-pass complete - 12/12 speech pages drafted** |
-| Strict line-by-line Tamil visual audit | **Not started - next gate** |
+| Strict line-by-line Tamil visual audit | **In progress - 5/12 speech pages re-audited (PDF 6-10 / printed 5-9)** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Blocked until Tamil is verified-complete** |
 | English fidelity review | **Not started** |
 | Final Tamil→English verification | **Not started** |
 
-## T1 progress
+## T1 / T2 progress
 
-First-pass transcription is complete across the full speech body:
+T1 first-pass transcription is complete across the full speech body:
 
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-17 / printed 15-16
 
-Drafted pages: **12 / 12**.
+T2 Batch 1 has now been independently compared line by line against PDF pages 6-10 / printed pages 5-9. **No substantive transcription correction was required in that batch.** Confirmed unusual source forms and page-boundary continuations are recorded in `audit.md`.
 
-These pages remain **first-pass text, not verified text**. `audit.md` records page-boundary, unusual-source-form, and scan-marking watchpoints for the mandatory independent T2 pass.
+The Tamil layer is still **not verified-complete** because 7 speech pages remain unaudited and the later T3 consolidation/freeze gate has not run.
 
 ## Editorial rule
 
@@ -95,6 +95,6 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Begin **Stage T2 - strict independent line-by-line Tamil visual fidelity audit** from **PDF page 6 / printed page 5**, covering every speech page through PDF 17 / printed 16.
+Continue **Stage T2 - strict independent line-by-line Tamil visual fidelity audit** with **PDF pages 11-15 / printed pages 10-14**.
 
 Do not begin English translation until T2 is complete, T3 consolidation/page-boundary/stale-reading checks pass, and the Tamil layer is explicitly frozen as `verified-complete`.
