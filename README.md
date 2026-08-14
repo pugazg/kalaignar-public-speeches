@@ -9,6 +9,10 @@ The repository preserves each available source as evidence and separates four la
 3. **Verification** - page-by-page comparison against the scan, with uncertain readings explicitly marked or formally resolved.
 4. **English translation** - started only after the Tamil transcription has passed the source audit, then fidelity-reviewed against that verified Tamil layer.
 
+## Processing guide
+
+**Before starting or continuing any speech, read [`SPEECH_PROCESSING_GUIDE.md`](SPEECH_PROCESSING_GUIDE.md) completely.** It defines the mandatory source-inspection, Tamil transcription, visual-fidelity, translation, review, verification, handover, and closure workflow established through the completed `அறப்போர்` archive.
+
 ## Editorial principles
 
 - Preserve original spelling, punctuation, names, numbers, and wording wherever legible.
@@ -18,6 +22,7 @@ The repository preserves each available source as evidence and separates four la
 - Record the source filename and SHA-256 so later copies can be checked for identity.
 - Treat advertisements and other back matter as source context, not as part of the speech transcript.
 - Keep English translation subordinate to the verified Tamil source layer; translation must not be used to silently rewrite the archival transcription.
+- Source PDFs are **not uploaded to this GitHub repository**. Preserve their identity through provenance metadata, checksum, size, and page mapping.
 
 ## Catalogue
 
@@ -28,6 +33,7 @@ The repository preserves each available source as evidence and separates four la
 ## Repository layout
 
 ```text
+SPEECH_PROCESSING_GUIDE.md
 speeches/
   arappor/
     README.md
@@ -38,8 +44,6 @@ speeches/
     translation-review.md
     HANDOVER.md
 ```
-
-Original scans should be retained unchanged whenever possible. Large/binary source files may be added separately; their checksum is recorded in each speech's metadata.
 
 ## Completed works
 
