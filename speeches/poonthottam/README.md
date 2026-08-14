@@ -71,10 +71,11 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 | Source inspection / bibliographic identification | **Complete** |
 | Tamil first-pass transcription | **Complete - 12/12 speech pages** |
 | Strict line-by-line Tamil visual audit | **Complete - 12/12 speech pages** |
-| Tamil consolidation / freeze | **Complete - verified-complete** |
-| English translation | **Not started - next gate** |
-| English fidelity review | **Not started** |
-| Final Tamil→English verification | **Not started** |
+| Tamil consolidation / freeze | **Complete - `verified-complete`** |
+| English first-pass translation | **Complete - 12/12 speech pages** |
+| English fidelity review | **Complete - 12/12 speech pages** |
+| Final Tamil→English verification | **Complete - 12/12 speech pages** |
+| Repository-level archival closure | **Complete** |
 
 ## Tamil verification summary
 
@@ -87,14 +88,33 @@ T2 required two scan-confirmed corrections on printed p.15:
 
 T3 then checked the complete consolidated transcript for stale superseded readings, all page boundaries, missing/duplicated speech pages, later normalization of confirmed unusual forms, and accidental inclusion of running headers, bleed-through, or the PDF 17 library stamp. **T3 passed without further transcription correction.**
 
-The Tamil canonical layer in `transcription-ta.md` is now **`verified-complete` and frozen**.
+The Tamil canonical layer in `transcription-ta.md` is **`verified-complete` and frozen**.
+
+## English verification summary
+
+E1 translated all 12 speech pages from the frozen Tamil layer only.
+
+E2 independently reviewed all 12 pages against the verified Tamil and found **one confirmed English correction**, on PDF page 10 / printed page 9. The Vibhishana sentence now renders the grammatical relation in `அவன் அண்ணன் அயோத்தியானுக்கு, தன் அண்ணன் இராவணனைக் காட்டிக் கொடுத்த...` as Vibhishana betraying Ravana to **Bharata's elder brother, the Ayodhyan**. The Tamil source was not altered.
+
+E3 then re-read the complete Tamil and English continuously across all 12 pages. All **11 internal page transitions** passed; no stale E1 reading, missing Tamil proposition, unsupported substantive English addition, or page-boundary omission/duplication remained.
+
+The English layer in `translation-en.md` is **`verified-complete`**.
+
+Difficult source-supported forms intentionally left transparent rather than conjecturally normalized include:
+
+- `அகம்புற மென்ற அன்றலர்ந்த`
+- `அயோத்தியானுக்கு`
+- `தண்ட காரணயத்திலே`
+- `பெய்ப்படி`
+- `வழக்கு மன்றத்திற்கு`
+- `மானிடம்`
 
 ## Editorial rule
 
 The supplied scan is the controlling witness for this edition. Preserve source-supported spelling, punctuation, wording, names, numerals, repetition, unusual grammar, and typographical forms. Do not silently modernize or reconstruct the Tamil. Library stamps, later marks, damage, and bleed-through are not part of the printed text.
 
-## Next gate
+## Completion state
 
-Begin **E1 - English first-pass translation** from the verified `transcription-ta.md` only, preserving PDF/printed-page correspondence.
+All mandatory source, Tamil, English, review, verification, and repository-synchronization gates defined by `SPEECH_PROCESSING_GUIDE.md` have passed.
 
-English must not be produced from OCR or an outside edition. Difficult or unusual source-supported Tamil must not be silently repaired during translation.
+**No transcription or translation work is pending for `poonthottam`.** The source PDF is intentionally absent from GitHub under repository policy; its identity is preserved through filename, checksum, file size, page count, and page map.
