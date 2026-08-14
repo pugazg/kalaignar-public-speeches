@@ -97,6 +97,12 @@
     "english_translation_final_verification_through_printed_page": 16,
     "english_translation_final_verification_page_transitions_checked": 11,
     "english_translation_final_verification_corrections_applied": 0,
-    "english_translation_stale_reading_check": "complete"
+    "english_translation_stale_reading_check": "complete",
+    "archival_closure": "complete",
+    "archival_closure_date": "2026-08-14",
+    "speech_readme_synchronized": true,
+    "root_catalogue_synchronized": true,
+    "final_handover_synchronized": true,
+    "transcription_translation_work_pending": false
   }
 }
