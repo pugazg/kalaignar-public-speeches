@@ -7,40 +7,41 @@
 
 ## Important audit state
 
-Only **Gate 1 — source inspection and bibliographic/page-map establishment** is complete. Stage T1 Tamil transcription has **not started**, so the Stage T2 strict line-by-line visual fidelity audit has also **not started**. Nothing in this file should be read as a claim that the body text has been audited.
+Gate 1 source inspection is complete. **Stage T1 Tamil transcription is in progress: 15/32 body pages drafted. Stage T2 strict line-by-line visual audit has not started.** Nothing in the current transcription should yet be treated as `verified-complete`.
 
-## Startup source-inspection findings
+## Stage T1 progress
 
-- All 36 PDF pages were visually inspected for structural mapping before metadata was created.
-- PDF page 2 establishes the title `இதய பேரிகை.`, author `மு. கருணாநிதி.`, and publisher line `வெளியீடு: கலைப்பூங்கா, திருவாரூர்.`
-- PDF page 3 establishes `முதற்பதிப்பு—டிசம்பர் 1951`, `"கலைப்பூங்கா" உரிமை பெற்றது.`, and `விலை அணா எட்டு.`
-- The printer line on PDF page 3 is crossed by a later library stamp. Its beginning `அச்சிட்டது:` and part of the ending remain visible, but the full printer name is not safely recoverable. It is deliberately left unresolved rather than reconstructed.
-- Later library/accession markings occur on the cover and within the scan. They are source-object annotations, not edition text.
-- The body runs through PDF pages 4–35 / printed pages 3–34 and is divided into seven titled sections.
-- PDF page 35 is mixed-content: the final body section ends in the upper portion; a publisher advertisement begins below an ornament and is excluded from the body transcription.
-- PDF page 36 is back-cover matter.
-- The scan does not establish a single speech date, venue, event, occasion, or audience as bibliographic metadata. Internal historical references must not be substituted for missing source metadata.
+| T1 batch | PDF pages | Printed pages | Status |
+|---|---:|---:|---|
+| 1 | 4–8 | 3–7 | first-pass drafted |
+| 2 | 9–13 | 8–12 | first-pass drafted |
+| 3 | 14–18 | 13–17 | first-pass drafted |
+| remaining | 19–35 | 18–34 | not started |
 
-## Section/page map
+Drafted pages: **15 / 32**.
 
-| Section | PDF pages | Printed pages |
-|---|---:|---:|
-| `சிறு துளி பெரு வெள்ளம்.` | 4–11 | 3–10 |
-| `வீதிதேவர் மயக்கம்.` | 12–16 | 11–15 |
-| `பூம்புகார் மாநாடு.` | 17–20 | 16–19 |
-| `வெற்றி விளக்கு!` | 21–23 | 20–22 |
-| `நமது உரிமை.` | 24–29 | 23–28 |
-| `பந்தல் ஆடுகிறது!` | 30–32 | 29–31 |
-| `கருகிடும் மொட்டுக்கள்!` | 33–35 | 32–34 |
+## First-pass cautions reserved for Stage T2
+
+These are working notes, not completed audit findings. They must be checked directly against the scan during the later strict audit.
+
+- PDF 4→5 / printed 3→4: page-boundary split `சமுத்தி` / `ரத்தின்` is deliberately not consolidated yet.
+- PDF 5 / printed 4: `⟦செருமியமுத?⟧` remains an explicitly uncertain first-pass reading.
+- PDF 7 / printed 6: `⟦சீனத் தீவு?⟧` remains an explicitly uncertain first-pass reading.
+- PDF 13→14 / printed 12→13: page-boundary split `பூங்கோட்டத்` / `திலே` is deliberately retained for later boundary verification.
+- PDF 15 / printed 14: the scan-supported first-pass line is retained as `மன்றத்திலே இராவணனுக்கு அண்ணா.`; it must still be checked in the formal T2 pass with the rest of the page.
+- PDF 16 / printed 15: the closing first-pass reading is `திராவிடர் வாழ்வு உயரும்வரையில்`; it was read from the page image rather than normalized from OCR.
+- PDF 18 / printed 17: the first paragraph reads `கம்பராமாயணம் திராவிடரை அரக்கர்கள் குரங்குகள் என்று சித்தரிக்கும் சிலந்திக்கூடு.` in the first pass; this remains subject to the mandatory later line-by-line T2 verification.
+
+Running headers and printed page numerals are not body prose and are not folded into the transcription.
 
 ## Stage T2 strict visual audit progress
 
 | Pages checked | Status |
 |---:|---|
-| 0 / 32 | not-started |
+| 0 / 32 | not-started / locked until T1 is complete |
 
-The strict audit may begin only after the complete Stage T1 body transcription exists. At that time every body page must be compared line by line against the scan, with substantive corrections and uncertain readings recorded here.
+After all 32 body pages have a first-pass transcription, every page must be reread directly against the scan line by line. Confirmed corrections, difficult glyphs, annotations/damage, and page-boundary joins must then be recorded here and consolidated into `transcription-ta.md`.
 
 ## Unresolved source issue from startup
 
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. This does not block Stage T1 body transcription and must not be guessed from context or outside sources.
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. This does not block body transcription and must not be guessed from context or outside sources.
