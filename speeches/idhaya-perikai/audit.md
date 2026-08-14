@@ -7,7 +7,9 @@
 
 ## Audit state
 
-Stage T1 is complete for all **32/32** body pages. Stage T2 strict visual audit is in progress: **20/32 pages checked, through PDF page 23 / printed page 22**. The Tamil layer is not yet `verified-complete`; T3 has not begun.
+Stage T1 is complete for all **32/32** body pages. Stage T2 strict visual audit is now **complete: 32/32 pages checked, through PDF page 35 / printed page 34**. Every body page has been compared against the supplied scan and confirmed corrections have been consolidated into `transcription-ta.md`.
+
+The Tamil layer is **not yet `verified-complete`** because Stage T3 consolidation, stale-reading/page-boundary review and freeze have not yet been performed.
 
 | T2 batch | PDF pages | Printed pages | Status |
 |---|---:|---:|---|
@@ -15,7 +17,9 @@ Stage T1 is complete for all **32/32** body pages. Stage T2 strict visual audit 
 | 2 | 9–13 | 8–12 | checked and consolidated |
 | 3 | 14–18 | 13–17 | checked and consolidated |
 | 4 | 19–23 | 18–22 | checked and consolidated |
-| remaining | 24–35 | 23–34 | not yet checked |
+| final remaining-pages sweep | 24–35 | 23–34 | **checked and consolidated** |
+
+Pages checked: **32 / 32**.
 
 ## T2 Batch 1 — PDF 4–8 / printed 3–7
 
@@ -47,36 +51,99 @@ Stage T1 is complete for all **32/32** body pages. Stage T2 strict visual audit 
 
 ## T2 Batch 4 — PDF 19–23 / printed 18–22
 
-**Audit date:** 2026-08-14. Every printed body line on PDF pages 19–23 was compared directly against the supplied scan. Running headers and printed page numerals were excluded; OCR/parsed text was not treated as authority.
+- PDF 19: the PDF 18→19 continuation `எப்படி` / `யிருந்தது` was checked with no invented bridging text. `குறிக்கப்பட்டிருப்பதாலும் குறளுக்கு` → `குறிக்கப்பட்டிருப்பதாலுமே குறளுக்கு`.
+- PDF 20: the classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்` was checked line by line against this scan and retained without substitution from another edition. Source spacing restored in `கம்பனைப்போல ஆக்கிவிடக் கூடாது`.
+- PDF 21: unusual `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` confirmed and retained. PDF 21→22 `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.` confirmed.
+- PDF 22: `மடத்தனத்தை அழித்து மக்கள்...` → `மடத்தனத்தை அழித்தது. மக்கள்...`; `அவர்களுக்குத் தெரியும்.` → `அவர்களுக்கு தெரியும்.`.
+- PDF 23: `⟦பாப்பு?⟧` → `பாப்பு`; `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` confirmed; source punctuation/wording restored as `ரமணர் செத்தார்,`, `வரமாட்டேன் என்று சொல்லி விட்டார்`, and `மூடக்கொள்கைகளை`.
 
-- **PDF 19 / printed 18:** the PDF 18→19 continuation `எப்படி` / `யிருந்தது` was checked with no invented bridging text. `குறிக்கப்பட்டிருப்பதாலும் குறளுக்கு` was corrected to the visibly printed **`குறிக்கப்பட்டிருப்பதாலுமே குறளுக்கு`**.
-- **PDF 20 / printed 19:** the classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்` was checked line by line against this scan and retained without substitution from any other edition. Source spacing was restored in **`கம்பனைப்போல ஆக்கிவிடக் கூடாது`**.
-- **PDF 21 / printed 20:** the unusual reading **`எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்`** was visually confirmed and retained. The PDF 21→22 continuation **`நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`** was also confirmed.
-- **PDF 22 / printed 21:** the first pass `மடத்தனத்தை அழித்து மக்கள்...` was corrected to the printed **`மடத்தனத்தை அழித்தது. மக்கள்...`**. `அவர்களுக்குத் தெரியும்.` was corrected to the source form **`அவர்களுக்கு தெரியும்.`**.
-- **PDF 23 / printed 22:** the unresolved `⟦பாப்பு?⟧` was resolved directly from the scan as **`பாப்பு`**. The unusual printed forms **`சீர்திருத்தம் முன்னவிட்டது`** and **`சீர்திருத்த கிடந்த`** were confirmed and retained. Source punctuation/wording was restored as **`ரமணர் செத்தார்,`**, **`வரமாட்டேன் என்று சொல்லி விட்டார்`**, and **`மூடக்கொள்கைகளை`**.
-- No library stamp, handwriting or later accession marking intrudes into the PDF 19–23 body text.
+## T2 final remaining-pages sweep — PDF 24–35 / printed 23–34
 
-All confirmed Batch 4 corrections have been consolidated into `transcription-ta.md`.
+**Audit date:** 2026-08-14. At the user's request, all twelve remaining body pages were handled in this activity. Every printed body line from PDF 24 through the body portion of PDF 35 was compared directly against the scan. Running headers/page numerals were excluded. Library stamps, handwriting and publisher advertising were distinguished from printed body text. OCR/parsed text was not treated as authority.
 
-## Outstanding first-pass cautions
+### PDF 24 / printed 23
 
-These remain for later T2 batches and must be resolved only from the scan:
+- Full page checked line by line.
+- PDF 24→25 page-spanning `விஷ` / `யத்தில்` visually confirmed; the explicit page boundary is retained without invented bridging text.
+- No substantive correction was required elsewhere on the page.
 
-- PDF 24→25: `விஷ` / `யத்தில்` page-boundary split.
-- PDF 25→26: `“மோர்` / `தாப்படவில்லை”`; preserve the unusual source reading unless T2 proves otherwise.
-- PDF 26: handwritten/accession `68206` is later annotation and not body text.
-- PDF 27: unresolved `⟦நெசவாளர்களார்ச்சியை?⟧`; source form `போலீஸ்காரணங்களை`.
-- PDF 28: source form `முச்ச விடக்`; PDF 28→29 `கூட்ட` / `மல்ல!` boundary.
-- PDF 30: `நரம்புகளைக் கீற்றுகளாக முடைந்து போட்டு`; PDF 30→31 `குழந்தை` / `கள்.` boundary.
-- PDF 31: `சுமன்றன கேள்விகள்`, `சூறவளிக் காற்று`; PDF 31→32 ends `ஓமாந்தூரார்—` and resumes `காணவில்லை தொண்டாற்றும் இந்தத் தூண்களே!`.
-- PDF 32: `துன்மார்க்க முறையை தொடர்கதையாக`, `செயல்வீரர் என்பதையும்`.
-- PDF 33→34: `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!` continuation.
-- PDF 35: only body above the ornament belongs to the canonical Tamil layer; the advertisement and later markings below it are excluded.
+### PDF 25 / printed 24
 
-## Exact next audit point
+- Full page checked line by line.
+- PDF 25→26 quotation `“மோர்` / `தாப்படவில்லை”` visually confirmed. The unusual printed `தாப்படவில்லை` is retained rather than normalized.
+- No substantive correction was required elsewhere on the page.
 
-Continue Stage T2 at **PDF page 24 / printed page 23**. A manageable next batch is **PDF 24–28 / printed 23–27**. English remains locked until T2 and T3 are complete and Tamil is frozen as `verified-complete`.
+### PDF 26 / printed 25
+
+- Full page checked line by line.
+- The handwritten/accession number `68206` is a later annotation and remains excluded from body text.
+- Source quotation punctuation restored as `“விடாதே பறிமுதல்!”`.
+
+### PDF 27 / printed 26
+
+- Previously unresolved `⟦நெசவாளர்களார்ச்சியை?⟧` was resolved directly from the enlarged scan as **`நெசவாளர்கிளர்ச்சியை`** and consolidated into the canonical transcript.
+- Source form `போலீஸ்காரணங்களை` was visually confirmed and retained.
+- The page was otherwise checked line by line with no silent modernization.
+
+### PDF 28 / printed 27
+
+- First-pass `முச்ச விடக்` was corrected to the clearly printed **`மூச்சு விடக்`**.
+- PDF 28→29 split `கூட்ட` / `மல்ல!` was visually confirmed, preserving the page boundary.
+
+### PDF 29 / printed 28
+
+- `வரவேற்போம் என்று வைர நெஞ்சுடன்` was corrected to the printed **`வரவேற்போம் என்ற வைர நெஞ்சுடன்`**.
+- The rest of the page was checked line by line.
+
+### PDF 30 / printed 29
+
+- `எலும்புகளை துண்களாக` → **`எலும்புகளை தூண்களாக`**.
+- `நரம்புகளைக் கீற்றுகளாக முடைந்து போட்டு` was visually confirmed and retained.
+- `முடிகூடா மன்னர்` → **`முடிசூடா மன்னர்`**.
+- `படையிலே காட்டினார்` → **`படையலைக் காட்டினார்`**.
+- `படப்படவென` → **`படபடவென`**.
+- PDF 30→31 split `குழந்தை` / `கள்.` was visually confirmed.
+
+### PDF 31 / printed 30
+
+- Source punctuation restored as **`ஜீவன்கள், “இறப்புலகில்...`** rather than `ஜீவன்கள்.`.
+- Unusual printed forms `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று` were visually confirmed and retained.
+- PDF 31 ends `ஓமாந்தூரார்—`; no bridging wording was invented before PDF 32.
+
+### PDF 32 / printed 31
+
+- Opening corrected from `காணவில்லை தொண்டாற்றும் இந்தத் தூண்களே!` to the printed **`காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!`**.
+- Source punctuation restored as `வெளியேறிவிட்டனர், எத்தனை ஆண்டுகள்...`.
+- `தி. மு. கழகத்தார் சொல்லுவார் மட்டுமல்ல` → **`தி. மு. கழகத்தார் சொல்வார் மட்டுமல்ல`**.
+- `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்` were visually confirmed and retained.
+
+### PDF 33 / printed 32
+
+- Heading and all body lines checked. No substantive correction required.
+- PDF 33→34 continuation `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!` visually confirmed.
+
+### PDF 34 / printed 33
+
+- Source punctuation restored as **`கோர்ட்டுக்குக் கொண்டு செல்லப்பட்டாள், நீதிமன்றத்துக்குச்...`**.
+- Source single-hyphen forms restored as **`மாட்டுக்கார்களாக-கூப்பிட்ட`** and **`வீட்டுக் கூலிகளாக-அடிமைப்பட்டுக்`**.
+- Remaining body checked line by line.
+
+### PDF 35 / printed 34
+
+- Only the body text above the ornament was audited and retained as canonical body text.
+- The ornament marks the end of the body. The publisher advertisement below it, later library stamp, handwritten/accession `68206`, and other later markings are excluded.
+- The body wording required no substantive correction.
+
+All confirmed final-sweep corrections have been consolidated into `transcription-ta.md`. There are **no remaining unresolved `⟦...?⟧` T2 readings** in the canonical Tamil transcript.
+
+## Stage T2 completion statement
+
+Stage T2 is **complete for all 32 body pages**. This means the page-by-page visual comparison gate has passed; it does **not** yet mean that the Tamil layer is frozen. Stage T3 must now perform the required end-to-end consolidation, stale-reading check and page-boundary review before changing the Tamil status to `verified-complete`.
+
+## Exact next gate
+
+Proceed with **Stage T3 — Tamil consolidation, page-boundary/stale-reading check, and freeze as `verified-complete`**. English translation remains locked until T3 passes.
 
 ## Unresolved source issue from startup
 
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed.
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed; this bibliographic issue does not block T3 body consolidation.
