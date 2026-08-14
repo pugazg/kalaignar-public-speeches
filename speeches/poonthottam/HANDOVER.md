@@ -39,22 +39,20 @@ T2's two corrections on printed p.15 remain `பூரிப்போடு` and
 
 ## E1 English translation state
 
-**IN PROGRESS - 5 / 12 speech pages translated.**
+**IN PROGRESS - 10 / 12 speech pages translated.**
 
-Completed E1 Batch 1:
+Completed E1 batches:
 
-- PDF 6-10 / printed 5-9
+- Batch 1: PDF 6-10 / printed 5-9
+- Batch 2: PDF 11-15 / printed 10-14
 
-The translation was made only from frozen `transcription-ta.md`, with PDF/printed-page headings retained. Two difficult verified source forms were not silently normalized:
-
-- printed p.6: `அகம்புற மென்ற அன்றலர்ந்த` - retained visibly with a translator note because exact segmentation is uncertain;
-- printed p.9: `அயோத்தியானுக்கு` - retained visibly with a translator note rather than inventing a normalized Tamil reading.
+The translation has been made only from frozen `transcription-ta.md`, with PDF/printed-page headings retained. Difficult verified source forms have not been silently normalized. Translator notes currently preserve transparency for `அகம்புற மென்ற அன்றலர்ந்த`, `அயோத்தியானுக்கு`, `தண்ட காரணயத்திலே`, `பெய்ப்படி`, and `வழக்கு மன்றத்திற்கு`.
 
 E2 fidelity review has **not** begun and must remain blocked until the complete E1 first pass exists.
 
 ## Exact next activity
 
-Continue **E1 - English first-pass translation** with **Batch 2: PDF pages 11-15 / printed pages 10-14**.
+Complete **E1 - English first-pass translation** with the final batch: **PDF pages 16-17 / printed pages 15-16**.
 
 Requirements remain:
 
@@ -63,9 +61,10 @@ Requirements remain:
 3. preserve argument, rhetorical force, repetition, metaphors, polemical language, humour and historical references;
 4. do not silently repair source-supported unusual Tamil;
 5. use a concise translator note only where a difficult verified form genuinely prevents a transparent English rendering;
-6. do not begin E2 review until all 12 speech pages are translated.
+6. after PDF 16-17 are translated, mark E1 `first-pass-complete` only after confirming all 12 page headings are present once and no page-boundary text was omitted or duplicated;
+7. do not begin E2 in the same step; E2 must remain a separate independent Tamil→English fidelity review.
 
-After Batch 2, the final E1 batch will be PDF 16-17 / printed 15-16.
+After E1 is complete, the next gate will be E2 page-by-page fidelity review beginning from PDF 6 / printed 5.
 
 ## Repository synchronization note
 
