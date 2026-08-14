@@ -1,6 +1,6 @@
 # Idhaya Perikai — English Translation
 
-> **Status:** Stage E1 first-pass English translation complete — **32 / 32 body pages translated**  
+> **Status:** Stage E2 fidelity review complete — **32 / 32 body pages reviewed; 19 / 19 confirmed corrections consolidated**  
 > **Source layer:** frozen `transcription-ta.md` with status `verified-complete`  
 > **Translated through:** PDF page 35 / printed page 34  
 > **Translation rule:** Translate only from the frozen verified Tamil layer, preserving page/section sequence, argument, rhetoric, repetition, metaphors, polemical language, historical references, and source-supported oddities. Do not silently repair difficult Tamil or substitute OCR/outside-edition wording.
@@ -123,7 +123,7 @@ Righteous-struggle fighters! Ah! How joy overflows within us!........... Those w
 
 ### PDF page 11 — printed page 10
 
-—now stand with spears in their hands. We must think of what a magnificent task they have accomplished even after their hearts had been broken.
+—now stand with spears in their hands. We must think of what a magnificent task they have accomplished even after they had become disheartened.
 
 One day—yes, on September 17, 1949, in beautiful Chennai, Commander Anna shed tears at the inauguration of the Dravida Munnetra Kazhagam—before he shed words!
 
@@ -137,7 +137,7 @@ Will those teardrops go to waste? Shall we allow them to go to waste?
 
 #### The Delusion of the Street-Gods.
 
-We told individuals what we thought; they flared up without pausing. We took it to meetings and said it there. To those who had filled their stomachs by addressing “Mr. President” and reciting the Lord’s auspicious wedding virtues, our platform looked like a danger signal; they cried out and writhed.
+We told individuals what we thought; without composure, they flared up. We took it to meetings and said it there. To those who had filled their stomachs by addressing “Mr. President” and reciting the Lord’s auspicious qualities, our platform looked like a danger signal; they cried out and writhed.
 
 We did not stop with speaking. We showed our thoughts in writing. To all those who had piled up Agraharam stories and essays in *ammami* Tamil, our writing became a warning. They burned with rage.
 
@@ -147,13 +147,13 @@ But when the very people for whom we undertook that work—the people who ought 
 
 We did not stop with thought, speech and writing. We set out to express our ideas in dramatic form. Ideas that had hitherto been kept covered in this country tore through the curtain and emerged. Ideas created awakening. The wicked, seeing the awakening, grew furious. Their fury is natural.
 
-> **Translator/source note:** The source uses `அம்மாமித் தமிழ்` (“ammami Tamil”), a socially marked expression. It is retained rather than replaced with a neutral modern label.
+> **Translator/source note:** The source uses `அம்மாமித் தமிழ்` (“ammami Tamil”). The source term is retained rather than replaced with a neutral modern label.
 
 ### PDF page 13 — printed page 12
 
 Those who ought to benefit from the ideas have begun roaming about with eyes that spit fire. This does not even look like hatred of the idea itself. It looks more like the ash of resentment from a heart that has been burnt black, flying in the wind.
 
-If we speak, tens of thousands gather; if we act, hundreds of thousands gather—not for us, but for the truths we put forth.
+If we speak, many thousands gather; if we act, a hundred thousand gather—not for us, but for the truths we put forth.
 
 When people see Anna’s speech, beloved Radha’s acting and the play of Ramasamy, the scholar of acting; when they listen to Kalaivanar Krishnan’s *villuppaattu* and *kalakshepam*; when, on one side, people gather to receive a feast of ideas, there are others who do not care even about the idea itself. They calculate wrongly that individuals have gained so much influence, and, to cool their rotten hearts, leap upon the idea shouting “Aha! Oho!” This may be the act of the ignorant; but when we see how many people stand in that list, we cannot help feeling pity.
 
@@ -205,7 +205,9 @@ The Street-Gods wander about speaking empty words. Why do these men wish to have
 
 They must understand that experience alone is not enough—ability too is necessary. Even the “Avvaiyar–Murugan story” in which they believe offers an example of this.
 
-Without thinking about the condition of the country, merely because they cannot hold themselves back, falling onto the side of the Street-Gods and shouting at full force contains neither courage nor wisdom. Only poisonous thinking shines through.
+Without thinking about the condition of the country, merely because they cannot restrain their “patience,” falling onto the side of the Street-Gods and shouting at full force contains neither courage nor wisdom. Only poisonous thinking shines through.
+
+> **Translator/source note:** The frozen Tamil prints `பொறுமையை அடக்கமுடியாத` (“unable to restrain patience”). The internal wording is difficult; the English does not substitute an inferred different Tamil word.
 
 Until honesty dawns—until the life of the Dravidian rises—*Neethidevan Mayakkam*s will continue to occur. The lament of the Street-Gods cannot win.
 
@@ -219,7 +221,7 @@ No one can forget that we, the people of the rationalist movement, brought revol
 
 ### PDF page 18 — printed page 17
 
-—that is our objective. The *Kamba Ramayanam* is a spider’s web that portrays Dravidians as demons and monkeys. Therefore, we said, it must be hated. That is the fundamental source of our opposition: Kamban made the Aryan Rama into a god.
+—that is our objective. The *Kamba Ramayanam* is a spider’s web that portrays Dravidians as demons and monkeys. Therefore, we said, it must be hated. That is the fundamental basis of our hatred: Kamban made the Aryan Rama into a god.
 
 We condemned that baseness. We explained that for such a book to be an object of worship for Dravidians was an act devoid of self-respect. The devotees of Kamban said that the ideas in the *Kamba Ramayanam* must simply be allowed for the sake of the age in which it was written. We did not object to those things. Our principal charge was that Kamban had betrayed the Dravidian by depicting an entire people in a degrading manner. Many scholars fought against precisely that. Even at that time we said: we are not enemies of literature. Works such as the *Silappathikaram*, though they contain many ideas of their own age, do not insult the Dravidian; indeed, they elevate the Dravidian, and so we do not hate them. When Tamil treasures such as the *Silappathikaram* lie buried, we have asked why foolish men hold festivals for the *Kamba Ramayanam*, which calls the Tamil a demon. We did not ask this because we had acquired devotional faith in the *Silappathikaram*, nor from religious feeling, nor because of its excessively imaginative stories. It was because it shows how the life of the Tamils was in the age of the *Silappathikaram*—
 
@@ -242,14 +244,15 @@ The source then quotes a dense classical passage:
 > “Kongars, Kalingars, fierce Karunadars,  
 > Bangalars, Gangars, the many Kattiyars,  
 > with the northern Aryans, in the tumult of flourishing Tamil,  
-> [the next line is syntactically dense in this printed source],  
+> `கடமலை வேட்டமென் கட்டபுலம்பிரியாது`  
+> [untranslated: syntax unresolved in this printed edition],  
 > through the fierce flood of the great Ganges,  
 > on the day our daughter was bathed there,  
 > before two hundred and fifty Aryan kings,  
 > you alone opened your battle-fierce eyes—  
 > what they saw was cruel-eyed Death.”
 
-> **Translator/source note:** This first pass translates only what the frozen Tamil quotation supports with reasonable confidence. It does not consult or substitute an outside edition for the dense classical syntax.
+> **Translator/source note:** This translation renders only what the frozen Tamil quotation supports with reasonable confidence. The unresolved printed line is retained verbatim rather than omitted, and no outside edition is consulted or substituted for the dense classical syntax.
 
 Verses such as these should be explained and used to recall the ancient valour and justice of the Dravidian. Those who assembled at Poompuhar and conducted the conference are not the only people entitled to the *Silappathikaram*. It was we who made them think about holding a *Silappathikaram* conference. The Poompuhar conference gives us satisfaction, yet we fear that people such as Shanmugam may cultivate new superstitions such as the “Indra festival.”
 
@@ -269,15 +272,17 @@ Self-interest lay around their lives. Personal matters never shattered their pri
 
 Why did they suffer so much?.... Why did they deliberately embrace hardship?.... To become kings? Or lords of monasteries? To sit smiling serenely on jewelled swings, on makara-shaped couches, on peacock thrones, and dance in delight? Had they thought so, would not a cross or sacred ash have been seen in their hands? What they held were books of knowledge! Had they desired status, would they not have conducted discourses on God—God’s story—God’s miracles? What they desired was to reduce religion to dust, to destroy foolishness, and to turn human society into a garden of renewal. They knew that the revolutionary road on which they set foot was filled with danger. Knowing it, they set out courageously. Even if they themselves were destroyed, they reached a state in which their principles could not be destroyed.
 
+> **Translator/source note:** The frozen Tamil prints `மடத்தனத்தை அழித்தது. மக்கள் சமுதாயத்தை...`. The English regularizes the difficult syntax for readability but does not amend the Tamil.
+
 > **Translator/source note:** The first sentence of the preceding paragraph literally states `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` (“self-interest lay around their lives”), while the following sentences deny interference from personal interest. The first pass preserves that printed tension rather than harmonizing it.
 
-Not only in our country—across the whole world, thousands of years ago, conditions existed in which civilization could not even sprout. Religious belief in western countries was even more degraded than ours. Their gods were more numerous than ours. Their priests—
+Not only in our country—across the whole world, thousands of years ago, conditions existed in which civilization could not even sprout. Religious belief in western countries was even more inferior than ours. Their gods were more numerous than ours. Their priests—
 
 ### PDF page 23 — printed page 22
 
 —were even more cruel than the priests who make us dance to their tune.
 
-Where are all of them now? Reform moved forward. The superstitions in the source’s difficult phrase `சீர்திருத்த கிடந்த` went into a corner and sat there veiled. Reformers died. Reform did not decay; it took up the sceptre. Statues of the gods that existed in western countries have gone to exhibition halls. In our country the riverside Ganapathi remains exactly where he was. Ignorance is watered and cultivated. The government itself comes forward to do it. Our government now lifts up the god of Somnathapuram, broken into fragments, sets him on the earth and rejoices. Is that all? A holy man tied with neem leaves arrives. A naked holy man wanders in Thillai. In the Japan temple, Bhagavan came in the incarnation of Bapu. Ramana died; a comet appeared. They lifted Panduranga; he said he would not come. The all-India miracle astrologer has declared that there will be no election this year. News like this keeps arriving. Almost all newspapers have become almanacs. Here, an effort is under way to dig an even deeper grave for a society that has already collapsed.
+Where are all of them now? Reform moved forward. Superstitions went into a corner and sat there veiled. Reformers died. Reform did not decay; it took up the sceptre. Statues of the gods that existed in western countries have gone to exhibition halls. In our country the riverside Ganapathi remains exactly where he was. Ignorance is watered and cultivated. The government itself comes forward to do it. Our government now lifts up the god of Somnathapuram, broken into fragments, sets him on the earth and rejoices. Is that all? A holy man tied with neem leaves arrives. A naked holy man wanders in Thillai. In the Japan temple, Bhagavan came in the incarnation of Bapu. Ramana died; a comet appeared. They lifted Panduranga; he said he would not come. The all-India miracle astrologer has declared that there will be no election this year. News like this keeps arriving. Almost all newspapers have become almanacs. Here, an effort is under way to dig an even deeper grave for a society that has already collapsed.
 
 > **Translator/source note:** The frozen Tamil contains the verified but grammatically difficult forms `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த`. The English above preserves their broad printed movement without silently reconstructing a different Tamil sentence.
 
@@ -287,7 +292,7 @@ The rationalist movement works precisely to defeat that effort, uproot the aged 
 
 #### Our Right.
 
-“We shall break the pen... we shall shut the mouth... What courage have you! Who are you to speak about us? Who are you to write about our actions? We are the people who won freedom. We are the people who rule the country. What we lay down is law. Before us, who brought you freedom, O *Viveka Chintamani*.... who are you? We liberated the people! We will torment them! You raise a questioning voice with tears flooding your eyes and fire flooding your speech—what right have you? We are the men who broke the chains of Bharat Devi. We will starve the people. The cries of ‘Hunger! Hunger!’ will be music to us. Why do you wail about that? We are the mighty heroes who drove out the white man... Under our rule you must not speak; fire will rain down. You have no right to question. We will create volcanoes; you must not write in condemnation. You may fan the government with a ceremonial fan—we shall be pleased. You may anoint us with sandal—we shall pat you on the back. If you give medicine to clear our intoxication, we shall strike you on the head. Who are you to give us medicine! Have you seen the police force? Have you seen the prison? Have you thought of the gallows? Have you seen tear gas? Beware! Do not interfere in our mat—”
+“We shall break the pen... we shall shut the mouth... What courage have you! Who are you to speak about us? Who are you to write about our actions? We are the people who won freedom. We are the people who rule the country. What we lay down is law. Before us, who brought you freedom, O *Viveka Chintamani*.... who are you? We liberated the people! We will torment them! You raise a questioning voice with tears flooding your eyes and fire flooding your speech—what right have you? We are the men who broke the chains of Bharat Devi. We will starve the people. The cries of ‘Hunger! Hunger!’ will be a celebration for us. Why do you wail about that? We are the mighty heroes who drove out the white man... Under our rule you must not speak; fire will rain down. You have no right to question. We will create volcanoes; you must not write in condemnation. You may fan the government with a ceremonial fan—we shall be pleased. You may anoint us with sandal—we shall pat you on the back. If you give medicine to clear our intoxication, we shall strike you on the head. Who are you to give us medicine! Have you seen the police force? Have you seen the prison? Have you thought of the gallows? Have you seen tear gas? Beware! Do not interfere in our mat—”
 
 ### PDF page 25 — printed page 24
 
@@ -325,7 +330,7 @@ Do you know when Section 144 was imposed on the people of Naranamangalam and the
 
 Do you know when, at Kundrathur where our friend Natarasan went to speak, cruelty was poured out, bullets were fired and a field of blood was created, comrades?
 
-Do you know when the weavers’ uprising led by Comrade Sithaiyan at Salem was used as a pretext to institute security proceedings against him, comrades?
+Do you know when the weavers’ uprising led by Comrade Sithaiyan at Salem was used as a pretext to file a bail case against him, comrades?
 
 You will answer: under Congress non-violent rule. No! No! That is not what we are pointing to! The evils described above danced in the country at a time when the Constitution had been framed without restrictions on freedom of writing and speech! Now, in the Constitution that is to be amended, a scheme is coming to restrict freedom of writing and speech. An amendment is coming to say that freedom of writing may be restricted in accordance with “public order.” We are forced to think that, under the name of public order, they are going to manufacture “police reasons” and grant freedom to repression. Restrictions upon the freedoms of writing and speech—
 
@@ -335,7 +340,7 @@ You will answer: under Congress non-violent rule. No! No! That is not what we ar
 
 —if there are already so many troubles when no such restrictions exist, how much repression will there be after restrictions arrive! Now they say, “Do not speak like this.” Next they will say, “Do not even think of speaking.”
 
-Now they say, “Do not write.” Next they will say, “Do not think.” Speeches advocating violence and obscene writings that make the eye recoil should indeed be condemned; but to say that, for that reason, freedom of speech and writing itself must not breathe in the country is Tsarist rule of the first order!
+Now they say, “Do not write.” Next they will say, “Do not think.” Violent speeches and obscene writings that make the eye recoil should indeed be condemned; but to say that, for that reason, freedom of speech and writing itself must not breathe in the country is Tsarist rule of the first order!
 
 Great periods of trial are approaching the Dravidian movement—the fighters of the Munnetra Kazhagam. The Chennai government, trembling at our growth and ceaselessly worrying, “Will these people not be suppressed?”, will welcome the coming constitutional amendment enthusiastically. They will watch every letter of our speech. They will measure every curve of our writing.
 
@@ -359,11 +364,11 @@ Paupers with bones protruding, hungry people whose sight had dimmed, children wi
 
 ### PDF page 31 — printed page 30
 
-—dying lives; heaps of near-corpses who, hating this world, say, “We shall find happiness in the world after death”; people without food, people who have never known comfort—such an offering.
+—dying lives; heaps of corpses who, hating this world, say, “We shall find happiness in the world after death”; people without food, people who have never known comfort—such an offering.
 
 A prison fortress, and there “Indian citizens” shut in like sheep. Human beings like oxen pulling an oil press. Such a feast for the Goddess!
 
-The Preventive Detention Act—a firebrand laid against communal rights; a thorn fence erected against freedom of writing; iron hands that close the mouth saying “Do not speak”—such food for Mother Freedom!
+The Preventive Detention Act—a firebrand laid against class-wise rights; a thorn fence erected against freedom of writing; iron hands that close the mouth saying “Do not speak”—such food for Mother Freedom!
 
 The Goddess shook—shook violently. It was not a dance; she shook in terror. Her throne shook—the platform shook—the pavilion too began to shake—why would it not?
 
@@ -391,7 +396,7 @@ This incident took place in Colombo. If they inflicted seventy-two wounds upon a
 
 ### PDF page 34 — printed page 33
 
-—was news that came out! Here there are thousands upon thousands of stories that never come out! The Colombo girl was taken to court; how many cases here never reach a court at all! In the houses of landlords in the villages we can see the cruelty of Colombo with our own eyes.
+—was news that came out! Here there are stories in the thousands that never come out! The Colombo girl was taken to court; how many cases here never reach a court at all! In the houses of landlords in the villages we can see the cruelty of Colombo with our own eyes.
 
 In the houses of those wealthy men we can see Adi-Dravidian boys lying in servitude—as cattle boys, as house servants who must answer every call. We can see them tortured like the Colombo girl. A boy may have committed some small fault; they tie him to a tree and split his head. They soak the whip in blood. They tear at his bones. How many scorching abuses, how many brutal assaults! Against whom? Against young children! Against boys aged seven, eight and nine! This destruction is happening here. There is no one to question it!
 
@@ -399,10 +404,10 @@ Even in Colombo justice could be obtained only by going into the court. Here the
 
 ### PDF page 35 — printed page 34
 
-—it must do so. Yet our government has only now, in the weavers’ righteous struggle, left a ten-year-old boy trampled in blood. Will this government come forward to protect children? Will it give fresh blossoming to the buds being scorched?
+—it must do so. Yet our government has only now, in the weavers’ righteous struggle, left a ten-year-old boy floating in blood. Will this government come forward to protect children? Will it give fresh blossoming to the buds being scorched?
 
 ---
 
 **Stage E1 complete:** all 32 body pages (PDF 4–35 / printed 3–34) have a first-pass English translation from the frozen verified Tamil layer.  
-**Stage E2 fidelity review:** ready-not-started. Review every English page independently against the frozen Tamil before any E1 wording is treated as final.  
-**Stage E3 final Tamil→English verification:** locked until E2 findings are consolidated.
+**Stage E2 fidelity review complete:** all 32 body pages have passed independent Tamil→English review and all **19 / 19 confirmed corrections** have been consolidated.  
+**Stage E3 final Tamil→English verification:** ready-not-started.
