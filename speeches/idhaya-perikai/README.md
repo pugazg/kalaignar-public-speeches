@@ -46,16 +46,18 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | Strict visual Tamil fidelity audit | **Complete — 32/32; through PDF 35 / printed 34** |
 | Tamil consolidation / freeze | **Complete — `verified-complete`, frozen 2026-08-14** |
 | English first-pass translation (E1) | **Complete — 32/32; through PDF 35 / printed 34** |
-| English fidelity review (E2) | **In progress — 5/32; through PDF 8 / printed 7** |
-| Final Tamil→English verification (E3) | **Not started / locked until E2 completes** |
+| English fidelity review (E2) | **In progress — 10/32; through PDF 13 / printed 12** |
+| Final Tamil→English verification (E3) | **Not started / locked until E2 completes and corrections are consolidated** |
 
 The Tamil layer has passed all three Tamil gates and is frozen as **`verified-complete`**. Stage T3 confirmed that PDF pages **4–35 / printed pages 3–34 appear once each and in source order**, rechecked page boundaries and stale readings, and reconfirmed the PDF 35 body/advertisement boundary.
 
 Stage E1 is complete for the **entire 32-page body**. The translation was produced only from the frozen `transcription-ta.md` layer and retains PDF/printed-page correspondence, section order, argumentative sequence, repetition, metaphors and polemical force. Difficult verified Tamil forms are not silently repaired.
 
-Stage E2 has begun. The first independent review batch covers **PDF 4–8 / printed 3–7**. Each page was compared against the frozen Tamil for omitted/additional ideas, reversals, altered rhetoric, repetition, subjects/pronouns, difficult source forms and page-boundary continuity. **No confirmed English correction was required in this batch.** The PDF 7 translator/source note for verified `சீனத் தீவு` was specifically reviewed and accepted because it exposes the difficult print rather than replacing it with an inferred correction. PDF 8's unfinished sentence into PDF 9 is also preserved without invented bridging wording. Full findings are recorded in `translation-review.md`.
+Stage E2 has now independently reviewed **PDF pages 4–13 / printed pages 3–12**. Batch 1 (PDF 4–8) required no English correction. Batch 2 (PDF 9–13) identified **six confirmed fidelity corrections**, all recorded first in `translation-review.md`: one rhetoric-strength correction on PDF 11; two wording corrections and one translator-note narrowing on PDF 12; and two numerical-scope corrections on PDF 13. In particular, `மனமுடைந்த` should not be strengthened to “hearts had been broken”; `திருக்கல்யாணக் குணங்கள்` denotes the Lord's auspicious qualities rather than “wedding virtues”; and `பல்லாயிரவர்` / `லட்சம்பேர்` should not be numerically overstated as “tens of thousands” / “hundreds of thousands.”
 
-The E1 text is **not yet final English**. The remaining **27 pages** must pass E2 and any confirmed corrections must be consolidated before Stage E3 can begin.
+Those six confirmed corrections are **recorded but not yet consolidated into `translation-en.md`**. The E2 workflow will continue page-by-page, and all confirmed review corrections must be consolidated before Stage E3 begins.
+
+The E1 text is therefore **not yet final English**. The remaining **22 pages** must pass E2.
 
 Full Tamil T2 and T3 details remain recorded in `audit.md`.
 
@@ -67,4 +69,4 @@ The verified Tamil layer is frozen. Any later Tamil alteration requires document
 
 ## Next gate
 
-Continue **Stage E2 — independent English fidelity review** at **PDF page 9 / printed page 8**. A practical next batch is PDF **9–13 / printed 8–12**. Record findings first in `translation-review.md`; apply only confirmed corrections to `translation-en.md`. Do not begin E3 until all 32 translated pages have passed E2 and review corrections are consolidated.
+Continue **Stage E2 — independent English fidelity review** at **PDF page 14 / printed page 13**. A practical next batch is PDF **14–18 / printed 13–17**. Record findings first in `translation-review.md`. Do not begin E3 until all 32 translated pages have passed E2 and every confirmed review correction has been consolidated into `translation-en.md`.
