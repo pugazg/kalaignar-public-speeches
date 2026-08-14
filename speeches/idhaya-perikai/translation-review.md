@@ -1,20 +1,21 @@
 # Idhaya Perikai — English Translation Fidelity Review
 
-**Status:** Stage E2 complete — **32 / 32 body pages reviewed; 19 / 19 confirmed corrections consolidated**  
+**Status:** Stage E3 final Tamil→English verification complete — **32 / 32 body pages verified; English `verified-complete`**  
 **Review scope:** PDF pages 4–35 / printed pages 3–34  
 **Reviewed through:** PDF page 35 / printed page 34  
-**Consolidation date:** 2026-08-14
+**E2 consolidation date:** 2026-08-14  
+**E3 completion date:** 2026-08-14
 
 ## Gate state
 
 The Tamil prerequisite remains satisfied: `transcription-ta.md` is frozen as `verified-complete` after Stage T3.
 
-Stage E1 is complete for all **32/32 body pages**. Stage E2 has now completed both required parts:
+Stage E1 is complete for all **32/32 body pages**. Stage E2 completed both required parts:
 
 1. independent page-by-page Tamil→English fidelity comparison for all 32 body pages; and
 2. consolidation of every confirmed E2 correction into `translation-en.md`.
 
-The reviewed English layer is therefore at **`fidelity-corrections-consolidated`**. Stage E3 is now **unlocked / ready-not-started** and must perform a separate beginning-to-end final Tamil→English verification.
+Stage E3 has now completed a separate beginning-to-end comparison of the consolidated English against the frozen Tamil. The English layer is therefore **`verified-complete`**. Repository-level archival closure is the next gate.
 
 ## E2 review rule
 
@@ -31,11 +32,11 @@ Each English page was checked independently against the frozen Tamil for omitted
 | 5 | 24–28 | 23–27 | reviewed / consolidated | 3 |
 | final | 29–35 | 28–34 | reviewed / consolidated | 4 |
 
-Pages independently reviewed: **32 / 32**.  
-Confirmed corrections: **19**.  
-Corrections consolidated: **19 / 19**.
+Pages independently reviewed in E2: **32 / 32**.  
+Confirmed E2 corrections: **19**.  
+E2 corrections consolidated: **19 / 19**.
 
-## Confirmed correction ledger
+## Confirmed E2 correction ledger
 
 1. **PDF 11 — `மனமுடைந்த பிறகுங்கூட`:** changed “even after their hearts had been broken” to **“even after they had become disheartened.”**
 2. **PDF 12 — `நிதானிக்காமல்`:** changed “they flared up without pausing” to **“without composure, they flared up.”**
@@ -61,30 +62,49 @@ Corrections consolidated: **19 / 19**.
 
 - PDF 7 `சீனத் தீவு` — literal “Chinese island” rendering and note accepted.
 - PDF 15 `மன்றத்திலே இராவணனுக்கு அண்ணா.` — compact “In the hall, Anna for Ravana” rendering and note accepted.
-- PDF 16 `பொறுமையை அடக்கமுடியாத` — difficult reading now exposed in body/note.
+- PDF 16 `பொறுமையை அடக்கமுடியாத` — difficult reading exposed in body/note.
 - PDF 20 classical quotation — unresolved printed line retained verbatim; no outside edition substituted.
 - PDF 21 `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` — current rendering/note accepted.
-- PDF 22 `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` — current tension-preserving rendering/note accepted; separate syntax note added for `மடத்தனத்தை அழித்தது. மக்கள்...`.
-- PDF 23 `சீர்திருத்தம் முன்னவிட்டது` / `சீர்திருத்த கிடந்த` — body cleaned of editorial commentary; difficulty note retained.
+- PDF 22 `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` — tension-preserving rendering/note accepted; separate syntax note retained for `மடத்தனத்தை அழித்தது. மக்கள்...`.
+- PDF 23 `சீர்திருத்தம் முன்னவிட்டது` / `சீர்திருத்த கிடந்த` — body remains free of editorial commentary; difficulty note retained.
 - PDF 26 `தாப்படவில்லை` — transliteration/note accepted.
 - PDF 27 `போலீஸ்காரணங்களை` — source-facing “police reasons” rendering/note accepted.
 - PDF 31 `சுமன்றன கேள்விகள்` / `சூறவளிக் காற்று` — current rendering/note accepted.
 - PDF 32 `துன்மார்க்க முறையை தொடர்கதையாக` / `செயல்வீரர் என்பதையும்` — current rendering accepted.
 
-## Consolidation verification
+## E2 consolidation verification
 
-The consolidation commit changed only the English translation status/workflow text and the 19 recorded source-supported E2 corrections, including the two required explanatory source notes. The frozen Tamil was not altered. The commit diff was checked against the correction ledger, and all 19 queued corrections are represented in `translation-en.md`.
+The E2 consolidation commit changed the English translation status/workflow text and the 19 recorded source-supported E2 corrections, including the required explanatory source notes. The frozen Tamil was not altered. The commit diff was checked against the correction ledger, and all 19 queued corrections are represented in `translation-en.md`.
+
+## Stage E3 — final end-to-end verification
+
+**Review date:** 2026-08-14. The complete consolidated English was reread against the frozen Tamil from PDF 4 / printed 3 through PDF 35 / printed 34.
+
+### E3 structural checks
+
+- All **32 PDF body pages** appear exactly once and in order.
+- All seven section starts remain in the correct places: PDF 4, 12, 17, 21, 24, 30 and 33.
+- Cross-page continuations were rechecked, including PDF 4→5, 8→9, 10→11, 13→14, 18→19, 21→22, 24→25, 25→26, 26→27, 27→28, 28→29, 30→31, 31→32, 33→34 and 34→35.
+- The PDF 35 publisher-advertisement boundary remains excluded from the English body.
+- All **19 E2 corrections** were rechecked in context; none introduced an omission, duplication, reversal, changed subject/pronoun, rhetorical distortion or new commentary leakage.
+
+### E3 final findings
+
+No new English **body-text** fidelity correction was required.
+
+Two translator/source notes still contained stale workflow wording from E1. These were cleaned without changing their source claim:
+
+1. **PDF 22:** “The first pass preserves that printed tension...” → **“The translation preserves that printed tension...”**
+2. **PDF 26:** “left open in this first pass” → **“left open in this translation.”**
+
+These are note-status cleanups only, not new interpretations or Tamil changes.
+
+### E3 disposition
+
+**Passed.** The English translation is now **`verified-complete`** for all 32 body pages. The frozen Tamil remains unchanged. No transcription or translation gate remains pending.
 
 ## Exact next activity
 
-Proceed with **Stage E3 — final Tamil→English verification**.
+Proceed with **Stage 8 — repository-level archival closure**.
 
-E3 must:
-
-- reread the complete reviewed English from PDF 4 through PDF 35 against the frozen Tamil from beginning to end;
-- verify page/section order and all cross-page continuations;
-- confirm the 19 E2 corrections did not introduce new omission, duplication, reversal or commentary leakage;
-- recheck every translator/source note for source scope;
-- make only source-supported final corrections, if any;
-- leave the frozen Tamil unchanged unless new scan evidence justifies a separately documented Tamil correction and dependent English re-verification;
-- keep root catalogue closure locked until E3 passes.
+Closure must synchronize `metadata.json`, the speech-level `README.md`, the root catalogue `README.md`, and convert `HANDOVER.md` into a final archival handover. At closure, explicitly state that no transcription/translation work is pending. The source PDF remains intentionally absent from GitHub under repository policy.
