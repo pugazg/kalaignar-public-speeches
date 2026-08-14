@@ -106,6 +106,9 @@
     "english_translation_final_verification_through_printed_page": 34,
     "english_translation_final_verification_completion_date": "2026-08-14",
     "english_translation_final_body_corrections": 0,
-    "english_translation_final_note_cleanups": 2
+    "english_translation_final_note_cleanups": 2,
+    "repository_archival_closure": "complete",
+    "repository_archival_closure_date": "2026-08-14",
+    "transcription_translation_work_pending": false
   }
 }
