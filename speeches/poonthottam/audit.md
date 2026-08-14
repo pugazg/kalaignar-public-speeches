@@ -9,7 +9,9 @@
 
 Source inspection is complete. Stage **T1 first-pass Tamil transcription is complete: 12 / 12 speech pages drafted**.
 
-Stage **T2 strict line-by-line visual fidelity audit is in progress: 10 / 12 speech pages checked**. Audit Batch 1 covered PDF pages 6-10 / printed pages 5-9. Audit Batch 2 covered PDF pages 11-15 / printed pages 10-14 by a fresh line-by-line comparison against the scan. Only PDF pages 16-17 / printed pages 15-16 remain unaudited.
+Stage **T2 strict line-by-line visual fidelity audit is complete: 12 / 12 speech pages checked**. Audit Batch 1 covered PDF 6-10 / printed 5-9, Batch 2 covered PDF 11-15 / printed 10-14, and Batch 3 covered PDF 16-17 / printed 15-16.
+
+Two scan-confirmed transcription corrections were required in the final batch and have been applied to `transcription-ta.md`. The Tamil layer is **not yet `verified-complete`** because the separate Stage T3 consolidation/page-boundary/stale-reading gate remains pending.
 
 ## Source / page-map safeguards
 
@@ -35,61 +37,63 @@ T1 drafted pages: **12 / 12 - first-pass-complete**.
 |---|---:|---:|---|
 | 1 | 6-10 | 5-9 | **re-audited** |
 | 2 | 11-15 | 10-14 | **re-audited** |
-| 3 | 16-17 | 15-16 | not-started |
+| 3 | 16-17 | 15-16 | **re-audited** |
 
-Strictly re-audited pages: **10 / 12**.
+Strictly re-audited pages: **12 / 12 - T2 complete**.
 
 ### T2 Batch 1 - PDF 6-10 / printed 5-9
 
-Every line of these five pages was compared again against the rendered scan pages. The first-pass transcription was found to be substantively faithful across the batch, so **no wording correction was required in `transcription-ta.md` during this batch**.
+Every line of these five pages was compared again against the rendered scan pages. The first-pass transcription was substantively faithful across the batch, so **no wording correction was required**.
 
 Confirmed scan readings include `பரவசத்திலீடுபடுகிறான்`, `அகம்புற மென்ற அன்றலர்ந்த`, `சீர் குலுங்கும்`, the first highlighted joined `அந்தக்காலம்`, `அயோத்தியானுக்கு`, and `பாராளப் பிறந்த ராமனின்`. Page continuations `பண்படுத்த` → `வேண்டும்.` and `...மொண்டு மொண்டு தரும்` → `தென்றலாக, ...` were also confirmed.
 
 ### T2 Batch 2 - PDF 11-15 / printed 10-14
 
-Every line of these five pages was independently re-read against the scan and compared with the existing first-pass transcription. **No scan-confirmed wording correction was required in `transcription-ta.md` in this batch.**
+Every line of these five pages was independently re-read against the scan. **No wording correction was required**.
 
-The following T1 watchpoints were deliberately rechecked and confirmed from the scan:
+The audit confirmed, among other source forms:
 
-- printed p.10 retains the source form `தண்ட காரணயத்திலே`;
-- printed p.10 reads `வைத்தே இருக்குமிடத்தை`;
-- printed p.10 reads `மிதிலாபுரிக்கு ஜனகனுக்கு` and uses `‘டிரங்கால்’`;
-- printed p.10 retains `‘ரிஸ்ட் வாட்ச்’` and the sequence `“பஜகோவிந்த” மா`;
-- printed p.10 → p.11 continues the sentence from `வேலைகளை விட்டு ஓய்வு` to `பெறுகிறவர் ...`;
-- printed p.11 retains `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்`;
-- printed p.11 retains the spacing `சொந்த மென்றான்`;
-- printed p.12 clearly supports the unusual first-pass reading `எப்படி பெய்ப்படி மாலை தொடுக்க முடியும்`;
-- printed p.13 reads `வழக்கு மன்றத்திற்கு`;
-- printed p.14 retains `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, and `சொல்லே யில்லாத`;
-- printed p.14 reads `காரைக்காலம்மை`;
-- running headers and visible reverse-side bleed-through on these pages were excluded from the speech transcription.
+- printed p.10 `தண்ட காரணயத்திலே`, `வைத்தே இருக்குமிடத்தை`, `மிதிலாபுரிக்கு ஜனகனுக்கு`, `‘டிரங்கால்’`, `‘ரிஸ்ட் வாட்ச்’`, and `“பஜகோவிந்த” மா`;
+- p.10 → p.11 continuation `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
+- printed p.11 `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்` and `சொந்த மென்றான்`;
+- printed p.12 `எப்படி பெய்ப்படி மாலை தொடுக்க முடியும்`;
+- printed p.13 `வழக்கு மன்றத்திற்கு`;
+- printed p.14 `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, `சொல்லே யில்லாத`, and `காரைக்காலம்மை`.
 
-Punctuation, quotation structure, rhetorical exclamation marks, names, and page boundaries on printed pp.10-14 were also checked against the scan and found aligned with the current transcription.
+### T2 Batch 3 - PDF 16-17 / printed 15-16
 
-### Remaining T2 watchpoints - PDF 16-17 / printed 15-16
+Both final speech pages were independently compared line by line against the scan.
 
-Recheck especially:
+The following source readings were confirmed without change:
 
 - `தாயைக் கட்டிலறைக் கழைத்து`;
 - `வைகைக் கரையிலே`;
 - `மோட்சலோக ‘பாஸ்போர்ட்’டன்`;
-- separate `கை முஷ்டி` and joined `கைமுஷ்டி`;
+- first occurrence `கை முஷ்டி` and later joined `கைமுஷ்டி`;
 - `பூர்ஷ்வாத் தன்மை`;
-- first-pass `புரிவோடு`;
-- p.15 → p.16 thought continuation;
 - `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`;
-- printed final `வணக்கம்` versus the later blue library stamp below it.
+- `மானிடம், தேன்சிட்டு, மயில், குயில், மாட்டுப்புறா`;
+- printed final `வணக்கம்`; the blue circular library stamp below it is later marking and remains excluded.
+
+Two first-pass readings were found to differ from the scan and were corrected:
+
+1. printed p.15: `புரிவோடு` → **`பூரிப்போடு`** in `பூந்தோட்டத்தை வசமாக்கிடும் வேலையிலே பூரிப்போடு அனைவரும் கை கோர்த்த வண்ணம் ஈடுபடலாம்.`
+2. printed p.15: `வளர்த்தான்` → **`வளரத்தான்`** in `வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.`
+
+The p.15 → p.16 transition is a thought/sentence continuation from the final p.15 sentence to `அந்த வெறுப்பு...`; no word is split across the page boundary.
 
 ## T1 / T2 / T3 state
 
 | Stage | Pages | Status |
 |---|---:|---|
 | T1 first-pass Tamil transcription | 12 / 12 | first-pass-complete |
-| T2 strict visual fidelity audit | 10 / 12 | in-progress |
-| T3 consolidation / page-boundary / stale-reading check | - | blocked |
+| T2 strict visual fidelity audit | 12 / 12 | complete |
+| T3 consolidation / page-boundary / stale-reading check | - | **next gate** |
 
 ## Exact next gate
 
-Continue **T2 strict visual fidelity audit** with the final batch: **PDF pages 16-17 / printed pages 15-16**. Compare every line independently against the scan, apply only scan-confirmed corrections to `transcription-ta.md`, and record substantive findings here.
+Begin **Stage T3 - Tamil consolidation, page-boundary, and stale-reading check** across the complete speech body, PDF 6-17 / printed 5-16.
 
-Do not begin English translation after T2 Batch 3. First run the separate T3 consolidation, page-boundary and stale-reading check across the complete Tamil layer and freeze it as `verified-complete` only if that gate passes.
+T3 must verify that all confirmed T2 corrections are present, no superseded first-pass reading remains elsewhere, all page transitions are coherent without accidental duplication/omission, and the consolidated text still preserves the scan-supported forms established during T2.
+
+Do not begin English translation until T3 passes and the Tamil layer is explicitly frozen as `verified-complete`.
