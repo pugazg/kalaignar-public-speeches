@@ -1,17 +1,17 @@
 # பூந்தோட்டம் - Tamil transcription
 
-> **Status:** `first-pass-complete`  
+> **Status:** `t2-complete-pending-t3`  
 > **Controlling source:** `TVA_BOK_0065784_கலைஞரின்_பூந்தோட்டம்.pdf`  
 > **Speech-body scope:** PDF pages 6-17 / printed pages 5-16  
 > **Speech pages:** 12  
 > **First-pass drafted:** 12 / 12 speech pages  
-> **Strict visual audit:** not started
+> **Strict visual audit:** complete - 12 / 12 speech pages
 
 ## Gate state
 
-Source inspection and page mapping are complete. Stage **T1 - first-pass transcription is complete for all 12 speech pages**.
+Source inspection and page mapping are complete. Stage **T1 - first-pass transcription is complete for all 12 speech pages**. Stage **T2 - strict independent line-by-line visual fidelity audit is also complete for all 12 speech pages**.
 
-The text below is still a **first-pass source transcription**. It has **not** yet passed the mandatory independent line-by-line Stage T2 visual fidelity audit and must not be treated as `verified-complete`.
+The Tamil layer has **not yet been frozen as `verified-complete`**. The separate Stage T3 consolidation, page-boundary, and stale-reading check must still pass before English translation begins.
 
 ---
 
@@ -253,9 +253,9 @@ The text below is still a **first-pass source transcription**. It has **not** ye
 
 அந்தக் கத்தி கைவிடப்படுமா? போர் ஒழிப்புப் புறா பறந்திடுமா? அல்லது பூந்தோட்டத்திலே புழுதி பறந்திடத்தான் வேண்டுமா?
 
-அந்தப் புழுதி பரப்பிடும் வேலையிலே ஈடுபட வேண்டியதில்லை என்று கத்தி பிடித்திருப்போர் கூறிவிட்டால், பூந்தோட்டத்தை வசமாக்கிடும் வேலையிலே புரிவோடு அனைவரும் கை கோர்த்த வண்ணம் ஈடுபடலாம்.
+அந்தப் புழுதி பரப்பிடும் வேலையிலே ஈடுபட வேண்டியதில்லை என்று கத்தி பிடித்திருப்போர் கூறிவிட்டால், பூந்தோட்டத்தை வசமாக்கிடும் வேலையிலே பூரிப்போடு அனைவரும் கை கோர்த்த வண்ணம் ஈடுபடலாம்.
 
-இல்லையேல் பலர் அந்தப் பணிபுரிய - சிலர் சிரித்துக் கேலி பேச - வேண்டாத ஒரு வெறுப்பு வளர்த்தான் நேரிடும்.
+இல்லையேல் பலர் அந்தப் பணிபுரிய - சிலர் சிரித்துக் கேலி பேச - வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.
 
 ---
 
@@ -281,6 +281,6 @@ The text below is still a **first-pass source transcription**. It has **not** ye
 
 ## Next gate
 
-Stage **T1 is first-pass-complete: 12 / 12 speech pages drafted**.
+Stages **T1 and T2 are complete** across all 12 speech pages.
 
-The next permitted stage is **T2 - strict independent line-by-line visual fidelity audit of every speech page**, beginning again from PDF page 6 / printed page 5. No English translation may begin until T2 and T3 are complete and the Tamil layer is frozen as `verified-complete`.
+The next permitted stage is **T3 - Tamil consolidation, page-boundary, and stale-reading check across the complete speech body**. Only after T3 passes may the Tamil layer be frozen as `verified-complete` and English translation begin.
