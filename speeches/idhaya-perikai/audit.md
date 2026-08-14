@@ -7,7 +7,7 @@
 
 ## Important audit state
 
-Gate 1 source inspection is complete. **Stage T1 Tamil transcription is in progress: 20/32 body pages drafted. Stage T2 strict line-by-line visual audit has not started.** Nothing in the current transcription should yet be treated as `verified-complete`.
+Gate 1 source inspection is complete. **Stage T1 Tamil transcription is in progress: 26/32 body pages drafted. Stage T2 strict line-by-line visual audit has not started.** Nothing in the current transcription should yet be treated as `verified-complete`.
 
 ## Stage T1 progress
 
@@ -17,9 +17,10 @@ Gate 1 source inspection is complete. **Stage T1 Tamil transcription is in progr
 | 2 | 9–13 | 8–12 | first-pass drafted |
 | 3 | 14–18 | 13–17 | first-pass drafted |
 | 4 | 19–23 | 18–22 | first-pass drafted |
-| remaining | 24–35 | 23–34 | not started |
+| 5 | 24–29 | 23–28 | first-pass drafted |
+| remaining | 30–35 | 29–34 | not started |
 
-Drafted pages: **20 / 32**.
+Drafted pages: **26 / 32**.
 
 ## First-pass cautions reserved for Stage T2
 
@@ -37,6 +38,13 @@ These are working notes, not completed audit findings. They must be checked dire
 - PDF 21→22 / printed 20→21: the sentence crosses the page boundary as `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`; verify the boundary during T2/T3 without inventing missing wording.
 - PDF 23 / printed 22: `⟦பாப்பு?⟧` in the phrase `ஜப்பான் கோயிலிலே ⟦பாப்பு?⟧ அவதாரத்தில் பகவான் வந்தார்` remains explicitly unresolved in the first pass. Do not infer the word from context or outside knowledge.
 - PDF 23 / printed 22: unusual first-pass forms including `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` are preserved as visually read and must be formally rechecked in T2.
+- PDF 24→25 / printed 23→24: the word is split by the page boundary as `விஷ` / `யத்தில்`; leave the split visible until T2/T3 boundary checking.
+- PDF 25→26 / printed 24→25: the quotation crosses the page boundary as `“மோர்` / `தாப்படவில்லை”`. The next page visibly begins with the unusual printed form `தாப்படவில்லை`; do not silently regularize it.
+- PDF 26 / printed 25: handwritten/accession number `68206` is a later annotation, not printed body text, and is deliberately omitted from the transcription.
+- PDF 27 / printed 26: `⟦நெசவாளர்களார்ச்சியை?⟧` remains an explicitly uncertain first-pass reading in the sentence about தோழர் சித்தையன். Do not infer or regularize it from context.
+- PDF 27 / printed 26: the source-supported compound `போலீஸ்காரணங்களை` is retained as read and must be checked during T2 rather than normalized.
+- PDF 28 / printed 27: the visible source form `முச்ச விடக்` is retained rather than silently corrected to a modern/expected form.
+- PDF 28→29 / printed 27→28: page-boundary split `கூட்ட` / `மல்ல!` is deliberately retained for T2/T3 checking.
 
 Running headers and printed page numerals are not body prose and are not folded into the transcription.
 
