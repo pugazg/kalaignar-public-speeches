@@ -1,6 +1,6 @@
-# கலைஞரின் பூந்தோட்டம் - working handover
+# கலைஞரின் பூந்தோட்டம் - final archival handover
 
-Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source inspection, Tamil T1→T2→T3, English E1, E2 independent fidelity review, and E3 final end-to-end verification are complete. Tamil and English are both `verified-complete`.
+The `speeches/poonthottam/` archive is complete. All mandatory gates in `SPEECH_PROCESSING_GUIDE.md` have passed, repository-level synchronization is complete, and no transcription or translation work remains pending.
 
 ## Repository
 
@@ -16,47 +16,83 @@ Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source 
 - File size: `49,297,657` bytes
 - PDF pages: `18`
 - PDF 6-17 = speech body / printed 5-16 = **12 speech pages**
-- Source binary committed: **No**
+- Source binary committed: **No** — this is intentional repository policy, not pending work.
 
-## Completed gates
+## Source-supported bibliographic facts
+
+- Booklet title: `கலைஞரின் பூந்தோட்டம்`
+- Speech heading: `பூந்தோட்டம்`
+- Speaker attribution: `தோழர் மு.கருணாநிதி`
+- Speech date explicitly stated by source: **06.12.1951**
+- Venue explicitly stated by source: **சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி**
+- Named event / occasion: **not stated**
+- Defined audience: **not stated**
+- First-edition statement: `முதற்பதிப்பு - 1951 (திராவிடப் பண்ணை)`
+- Current scanned edition: `நான்காம் பதிப்பு : 2019`
+
+## Final gate status
 
 - Source inspection / page map: **complete**
 - T1 Tamil first pass: **12/12 complete**
-- T2 strict visual audit: **12/12 complete**
-- T3 Tamil consolidation / boundary / stale-reading check: **complete**
-- Tamil canonical layer: **`verified-complete`**
+- T2 strict visual Tamil audit: **12/12 complete**
+- T3 Tamil consolidation / page-boundary / stale-reading check: **complete**
+- Tamil canonical layer: **`verified-complete` and frozen**
 - E1 English first pass: **12/12 complete**
 - E2 independent Tamil→English fidelity review: **12/12 complete**
+- E2 confirmed English corrections: **1**
 - E3 final end-to-end Tamil→English verification: **12/12 complete**
-- E3 internal page transitions: **11/11 checked**
+- E3 internal page transitions checked: **11/11**
+- E3 additional corrections: **0**
+- English canonical layer: **`verified-complete`**
+- Speech `README.md` synchronization: **complete**
+- `metadata.json` synchronization: **complete**
+- Root catalogue / root `README.md` synchronization: **complete**
+- Final archival handover: **complete**
 
-## English verification result
+## Important audit record
 
-E2 found one confirmed correction, on PDF 10: Vibhishana is translated as betraying Ravana to **Bharata's elder brother, the Ayodhyan**, reflecting the grammatical relation in the frozen source without altering the source-supported Tamil form `அயோத்தியானுக்கு`.
+T2 made two scan-confirmed Tamil corrections on printed p.15:
 
-E3 found **no additional correction**. It confirmed:
+- `புரிவோடு` → `பூரிப்போடு`
+- `வளர்த்தான்` → `வளரத்தான்`
 
-- every substantive Tamil proposition has an English counterpart;
-- no unsupported substantive English addition survives;
-- no stale superseded E1 reading survives;
-- all eleven page transitions are continuous with no omission or duplication;
-- the three-part flower/plucker/garden argument remains structurally coherent;
-- rhetoric, humour, metaphors, names, numbers and polemical force remain represented;
-- translator notes continue to expose difficult source forms without converting conjecture into source text.
+E2 made one confirmed English correction on PDF 10 / printed p.9. The final English translates the grammatical relation in:
 
-Difficult forms deliberately retained transparently include `அகம்புற மென்ற அன்றலர்ந்த`, `அயோத்தியானுக்கு`, `தண்ட காரணயத்திலே`, `பெய்ப்படி`, `வழக்கு மன்றத்திற்கு`, and `மானிடம்`.
+`அவன் அண்ணன் அயோத்தியானுக்கு, தன் அண்ணன் இராவணனைக் காட்டிக் கொடுத்த...`
 
-`translation-en.md` and `translation-review.md` are now `verified-complete`. `metadata.json` records E3 as complete.
+as Vibhishana betraying Ravana to **Bharata's elder brother, the Ayodhyan**. The frozen Tamil itself was not altered.
 
-## Exact next activity
+E3 found no further correction and confirmed no stale E1 wording survives.
 
-Perform the **final archival synchronization gate** prescribed by `SPEECH_PROCESSING_GUIDE.md`:
+## Difficult source-supported forms retained transparently
 
-1. inspect and synchronize `speeches/poonthottam/README.md` with the final verified state;
-2. recheck `metadata.json` for consistency with the speech README and source/page-map facts;
-3. update the repository root `README.md` catalogue with Poonthottam in the same style/order used for completed speeches;
-4. inspect the directory contents and verify that the source PDF has **not** been committed;
-5. convert this working `HANDOVER.md` into the final completed-state handover, recording that all mandatory gates passed and identifying no remaining transcription/translation work;
-6. do a final synchronization check across README, metadata, transcription, audit, translation, translation-review and HANDOVER before declaring the speech archive complete.
+The archive deliberately does not conjecturally normalize these verified source forms:
 
-Do not alter frozen Tamil or verified English during synchronization unless a newly documented source-based defect is discovered.
+- `அகம்புற மென்ற அன்றலர்ந்த`
+- `அயோத்தியானுக்கு`
+- `தண்ட காரணயத்திலே`
+- `பெய்ப்படி`
+- `வழக்கு மன்றத்திற்கு`
+- `மானிடம்`
+
+Their handling is documented in `translation-en.md` and `translation-review.md` where relevant.
+
+## Directory / PDF-policy verification
+
+The archival directory contains the standard seven text/data files:
+
+- `README.md`
+- `metadata.json`
+- `transcription-ta.md`
+- `audit.md`
+- `translation-en.md`
+- `translation-review.md`
+- `HANDOVER.md`
+
+No source PDF is present in `speeches/poonthottam/`. The PDF's identity remains preserved in metadata through filename, SHA-256, size, page count and page map.
+
+## Final state
+
+**No transcription or translation work is pending for `poonthottam`.**
+
+If this archive is revisited later, do not restart any completed stage. Reopen Tamil or English only if a newly documented source-based defect is established; any Tamil change after freeze requires dependent English re-verification.
