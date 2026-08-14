@@ -1,12 +1,13 @@
 # Poonthottam - English translation
 
-> **Status:** `fidelity-review-in-progress`  
+> **Status:** `verified-complete`  
 > **Tamil prerequisite:** `transcription-ta.md` is frozen as `verified-complete`.  
 > **Source-body correspondence:** PDF pages 6-17 / printed pages 5-16  
 > **E1 translated:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
-> **E2 reviewed:** PDF pages 6-10 / printed pages 5-9 (5 / 12 speech pages)
+> **E2 reviewed:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
+> **E3 final verification:** complete (12 / 12 speech pages)
 
-This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Stage E2 independent fidelity review is in progress.
+This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Independent E2 fidelity review and final E3 end-to-end verification are complete.
 
 ---
 
@@ -286,10 +287,8 @@ The breeze will glide—the new fragrance will float—`மானிடம்`, 
 
 ---
 
-## E1 completion and E2 progress
+## Verification state
 
-Stage E1 is **`first-pass-complete`** across **PDF pages 6-17 / printed pages 5-16**: **12 / 12 speech pages**.
+Stage E1 is **complete** across all 12 speech pages. Stage E2 independent fidelity review is **complete** across all 12 speech pages, with one confirmed correction consolidated on PDF 10. Stage E3 final end-to-end verification is **complete** across PDF pages 6-17 / printed pages 5-16.
 
-Stage E2 independent fidelity review is complete through **PDF page 10 / printed page 9**: **5 / 12 speech pages**.
-
-The next E2 batch is **PDF pages 11-15 / printed pages 10-14**.
+No stale E1 reading survives. All eleven internal page transitions were checked for continuity. No unsupported substantive English addition, omitted Tamil proposition, duplicated carry-over, or newly confirmed translation error was found during E3.
