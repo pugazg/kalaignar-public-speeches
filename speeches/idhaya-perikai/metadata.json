@@ -86,7 +86,7 @@
     "tamil_consolidation_date": "2026-08-14",
     "tamil_frozen": true,
     "tamil_freeze_date": "2026-08-14",
-    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation": "verified-complete",
     "english_translation_date": "2026-08-14",
     "english_translation_pages_completed": 32,
     "english_translation_through_pdf_page": 35,
@@ -100,7 +100,12 @@
     "english_translation_review_confirmed_corrections": 19,
     "english_translation_review_corrections_consolidated": 19,
     "english_translation_review_consolidation_date": "2026-08-14",
-    "english_translation_final_verification": "ready-not-started",
-    "english_translation_final_verification_pages_checked": 0
+    "english_translation_final_verification": "complete",
+    "english_translation_final_verification_pages_checked": 32,
+    "english_translation_final_verification_through_pdf_page": 35,
+    "english_translation_final_verification_through_printed_page": 34,
+    "english_translation_final_verification_completion_date": "2026-08-14",
+    "english_translation_final_body_corrections": 0,
+    "english_translation_final_note_cleanups": 2
   }
 }
