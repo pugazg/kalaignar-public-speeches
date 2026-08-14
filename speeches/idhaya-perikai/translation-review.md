@@ -1,8 +1,8 @@
 # Idhaya Perikai — English Translation Fidelity Review
 
-**Status:** Stage E2 in progress — **5 / 32 body pages reviewed**  
+**Status:** Stage E2 in progress — **10 / 32 body pages reviewed**  
 **Review scope:** PDF pages 4–35 / printed pages 3–34 — 32 translated body pages  
-**Reviewed through:** PDF page 8 / printed page 7
+**Reviewed through:** PDF page 13 / printed page 12
 
 ## Gate state
 
@@ -10,7 +10,7 @@ The Tamil prerequisite is satisfied: `transcription-ta.md` is frozen as `verifie
 
 Stage E1 is complete: `translation-en.md` contains a first-pass English translation for all **32/32 body pages**, through PDF page 35 / printed page 34.
 
-Stage E2 has now begun. **PDF pages 4–8 / printed pages 3–7 have passed independent Tamil→English fidelity review.** No page after PDF 8 is yet claimed to have passed E2.
+Stage E2 is in progress. **PDF pages 4–13 / printed pages 3–12 have now been independently compared against the frozen Tamil.** Confirmed fidelity corrections found during E2 are recorded here first; they will be consolidated into `translation-en.md` after the complete E2 page review, before Stage E3.
 
 ## E2 review rule
 
@@ -34,13 +34,13 @@ Record findings here first. Apply only confirmed corrections to `translation-en.
 | E2 batch | PDF pages | Printed pages | Status | Confirmed English corrections |
 |---|---:|---:|---|---:|
 | 1 | 4–8 | 3–7 | **reviewed / passed** | 0 |
-| 2 | 9–13 | 8–12 | not started | — |
+| 2 | 9–13 | 8–12 | **reviewed; corrections recorded** | 6 |
 | 3 | 14–18 | 13–17 | not started | — |
 | 4 | 19–23 | 18–22 | not started | — |
 | 5 | 24–28 | 23–27 | not started | — |
 | final | 29–35 | 28–34 | not started | — |
 
-Pages independently reviewed: **5 / 32**.
+Pages independently reviewed: **10 / 32**.
 
 ## E2 Batch 1 — PDF 4–8 / printed 3–7
 
@@ -86,6 +86,50 @@ Pages independently reviewed: **5 / 32**.
 
 No confirmed fidelity correction was required in `translation-en.md` for PDF 4–8. The existing English text therefore remains unchanged for this batch.
 
+## E2 Batch 2 — PDF 9–13 / printed 8–12
+
+**Review date:** 2026-08-14. Every English page in this batch was compared independently against the corresponding frozen Tamil, including the PDF 8→9 continuation and the PDF 13→14 unfinished `சிந்தனைப் பூந்தோட்டத்` / `திலே` phrase. Six confirmed fidelity corrections were identified. They are recorded here for later E2 consolidation into `translation-en.md`.
+
+### PDF 9 / printed 8
+
+- The PDF 8→9 continuation is intact: the Theni `திருவிளையாடல்` wording continues into the attempt concerning Nedunchezhiyan's corpse without an invented bridge.
+- The Chinnalapatti / Then Thamaraikulam / Arumuganeri / Sithaiyan Kottai sequence, defiance of prohibitory orders, prison entry, and readiness for sentences lasting weeks or years are represented.
+- Branch-Kazhagam efforts, public meetings, benefit plays, propaganda through drama, social-justice/freedom-of-writing conferences, opposition-party bees, government repression, election-interest and commercial-buying imagery are all present.
+- **Result:** pass; no confirmed correction.
+
+### PDF 10 / printed 9
+
+- The volcano, pleasure-grove, honey-song, victory-smile/heroic-stride and worker-built `உப்பரிகை` imagery is retained.
+- The pleasure-seeker/worker contrast, servants and attendants, poor-versus-deceiver phrase, money-city/office-fortress questions, affection toward workers/non-office-seekers, disguise/affection contrast and wages/principle contrast are all represented.
+- The page ends with `கண்ணிலே நீர்`, and the English correctly continues the tear image on PDF 11.
+- **Result:** pass; no confirmed correction.
+
+### PDF 11 / printed 10
+
+- The spear-in-hand image, September 17, 1949 DMK inauguration reference, Anna shedding tears before words, the blood-to-vapour/eyes-as-sky metaphor, repeated questions about the tears being wasted, and the final flood image are all present.
+- **Confirmed correction 1 — rhetoric strength:** Tamil `மனமுடைந்த பிறகுங்கூட` means that they had become disheartened. E1's “even after their hearts had been broken” strengthens the image beyond the wording. Consolidate as **“even after they had become disheartened.”**
+- **Result:** reviewed; 1 confirmed correction recorded.
+
+### PDF 12 / printed 11
+
+- The section heading, individual/meeting sequence, platform as danger signal, speech→writing→drama progression, trembling, awakening and anger are represented.
+- **Confirmed correction 2 — `நிதானிக்காமல்`:** E1 says “they flared up without pausing.” The Tamil concerns lack of composure/calm deliberation, not merely a pause. Consolidate as **“without composure, they flared up.”**
+- **Confirmed correction 3 — `திருக்கல்யாணக் குணங்கள்`:** E1's “the Lord's auspicious wedding virtues” wrongly reads `கல்யாண` as a wedding reference here. The phrase denotes the Lord's auspicious qualities. Consolidate as **“the Lord's auspicious qualities.”**
+- **Confirmed correction 4 — translator/source-note scope:** The current note calls `அம்மாமித் தமிழ்` “a socially marked expression.” That characterization is editorial inference rather than something the frozen Tamil itself establishes. Retain the source term but narrow the note to: **“The source uses `அம்மாமித் தமிழ்` (‘ammami Tamil’). The source term is retained rather than replaced with a neutral modern label.”**
+- **Result:** reviewed; 3 confirmed corrections recorded.
+
+### PDF 13 / printed 12
+
+- The resentment/ash image, speech/acting audience contrast, Anna/Radha/Ramasamy/Kalaivanar Krishnan sequence, feast-of-ideas imagery, `ஆகா! ஊகூ!`, statement/picketing/outrage sequence, Thyagaraya College fund and `நீதிதேவன் மயக்கம்` continuation into PDF 14 are all present.
+- **Confirmed correction 5 — `பல்லாயிரவர்`:** E1's “tens of thousands gather” is more numerically specific than the Tamil. Consolidate as **“many thousands gather.”**
+- **Confirmed correction 6 — `லட்சம்பேர்`:** E1's “hundreds of thousands gather” overstates the singular `லட்சம்`. Consolidate as **“a hundred thousand gather.”**
+- The PDF 13 ending `சிந்தனைப் பூந்தோட்டத்` remains correctly unfinished and continues at PDF 14; no page-boundary loss is present.
+- **Result:** reviewed; 2 confirmed corrections recorded.
+
+### Batch 2 consolidation state
+
+Batch 2 identified **6 confirmed English fidelity corrections**. Per the Stage E2 workflow, the findings are recorded here first. They remain pending consolidation into `translation-en.md`; consolidation must be completed before Stage E3 begins.
+
 ## First-pass source-difficulty notes requiring special attention in E2
 
 - PDF 7: `சீனத் தீவு` — **reviewed in Batch 1; current note accepted**.
@@ -101,4 +145,4 @@ No confirmed fidelity correction was required in `translation-en.md` for PDF 4�
 
 ## Exact next E2 activity
 
-Continue the independent fidelity review at **PDF page 9 / printed page 8**. A practical next batch is **PDF 9–13 / printed 8–12**. Record findings here before applying any confirmed English correction. Do not begin E3 while any E2 page remains unchecked.
+Continue the independent fidelity review at **PDF page 14 / printed page 13**. A practical next batch is **PDF 14–18 / printed 13–17**. Record findings here before later consolidation into `translation-en.md`. Do not begin E3 while any E2 page remains unchecked or while confirmed E2 corrections remain unconsolidated.
