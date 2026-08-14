@@ -9,45 +9,15 @@
 
 Source inspection is complete. Stage **T1 first-pass Tamil transcription is complete: 12 / 12 speech pages drafted**.
 
-The mandatory Stage **T2 strict line-by-line visual fidelity audit has not started**. T1 pages were read directly from the scan for first-pass transcription, but no page has yet undergone the required independent second comparison. No Tamil page is therefore declared verified.
+Stage **T2 strict line-by-line visual fidelity audit is now in progress: 5 / 12 speech pages checked**. Audit Batch 1 covered PDF pages 6-10 / printed pages 5-9 by fresh line-by-line comparison against the scan. No page beyond printed p.9 is yet T2-verified.
 
-## Startup source findings
+## Source / page-map safeguards
 
-### Repository duplicate check
-
-The repository was inspected before creating this directory. Existing speech directories were `arappor` and `idhaya-perikai`; no `poonthottam` directory existed. The stable directory is `speeches/poonthottam/`.
-
-### Bibliographic evidence
-
-- Source title page: `கலைஞரின் பூந்தோட்டம்`.
-- Title-page speech statement: `சென்னை கிண்டி இன்ஜினியரிங் கல்லூரியில் 06.12.1951இல் தோழர் மு.கருணாநிதி ஆற்றிய சொற்பொழிவு`.
-- The source explicitly supports speech date **06.12.1951** and venue **சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி**.
-- No separately named event/occasion or defined audience is stated.
-- Bibliographic page: `முதற்பதிப்பு - 1951 (திராவிடப் பண்ணை)` and `நான்காம் பதிப்பு : 2019`.
-- Current publisher / rights holder: `திராவிடர் கழக (இயக்க) வெளியீடு`.
-- Current printer: `‘விடுதலை’ ஆஃப்செட் பிரிண்டர்ஸ், சென்னை - 600 007.`
-- Donation statement: `நன்கொடை (குறைந்த அளவு): ரூ.12/-`.
-
-### Page map established
-
-| PDF page(s) | Source role | Speech-text treatment |
-|---|---|---|
-| 1 | Front cover | context only |
-| 2 | Title page / photograph / speech evidence | metadata only |
-| 3 | Bibliographic / edition page (`நூல் குறிப்பு`) | metadata only |
-| 4 | Publisher preface (`பதிப்புரை`) | front matter; not speech body |
-| 5 | `எரிமலை! (மு.கருணாநிதி)` | prefatory poem; not speech body |
-| 6-17 | `பூந்தோட்டம்` speech | canonical Tamil transcription scope |
-| 18 | Back cover / promotional matter / barcode | back matter; not speech body |
-
-PDF pages 6-17 correspond to printed pages **5-16**. The body begins on PDF 6 under `பூந்தோட்டம்` and ends on PDF 17 with `வணக்கம்`.
-
-### Non-edition markings / scan condition
-
-- PDF 2 contains a blue circular library stamp crossing part of the title area. Treat the stamp as later library marking, not printed edition text.
-- PDF 17 contains a blue circular library stamp in the lower portion beneath the speech ending. Treat it as later library marking, not printed edition text.
-- Light bleed-through from reverse-side printing is visible on several interior pages. It must not be mistaken for foreground text.
-- No handwriting was identified in the speech body during startup inspection.
+- PDF 6-17 are the canonical speech body, printed pages 5-16.
+- The scan, not OCR or parsed text, is authoritative.
+- Preserve historical/source spelling, punctuation, spacing where meaningful, unusual grammar, repetition, and typography.
+- Running headers, reverse-side bleed-through, and later library stamps are not speech text.
+- PDF 17 has a large blue library stamp below the printed `வணக்கம்`; it remains excluded from transcription.
 
 ## T1 first-pass progress
 
@@ -59,50 +29,51 @@ PDF pages 6-17 correspond to printed pages **5-16**. The body begins on PDF 6 un
 
 T1 drafted pages: **12 / 12 - first-pass-complete**.
 
-### T1 Batch 1 watchpoints - PDF 6-10 / printed 5-9
+## T2 strict audit progress
 
-- printed p.5 → p.6 continues `பண்படுத்த` / `வேண்டும்.` across the page boundary;
-- printed p.6 → p.7 continues `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
-- printed p.6 visibly has `பரவசத்திலீடுபடுகிறான்`;
-- printed p.6 repeatedly uses `அடுத்தது,`;
-- printed p.6 contains `அகம்புற மென்ற அன்றலர்ந்த`;
+| T2 batch | PDF pages | Printed pages | Status |
+|---|---:|---:|---|
+| 1 | 6-10 | 5-9 | **re-audited** |
+| 2 | 11-15 | 10-14 | not-started |
+| 3 | 16-17 | 15-16 | not-started |
+
+Strictly re-audited pages: **5 / 12**.
+
+### T2 Batch 1 - PDF 6-10 / printed 5-9
+
+Every line of these five pages was compared again against the rendered scan pages. The first-pass transcription was found to be substantively faithful across the batch, so **no wording correction was required in `transcription-ta.md` during this batch**.
+
+The following preliminary T1 watchpoints were specifically rechecked and confirmed from the scan:
+
+- printed p.5 → p.6 is a sentence continuation from `பண்படுத்த` to `வேண்டும்.`; it is not a split word;
+- printed p.6 → p.7 is a sentence continuation from `...மொண்டு மொண்டு தரும்` to `தென்றலாக, ...`;
+- printed p.6 visibly retains the unusual joined form `பரவசத்திலீடுபடுகிறான்`;
+- printed p.6 repeatedly uses the transition `அடுத்தது,`;
+- printed p.6 retains the unusual sequence `அகம்புற மென்ற அன்றலர்ந்த`;
 - printed p.7 reads `சீர் குலுங்கும்`;
-- printed p.8 has joined `அந்தக்காலம்`;
-- printed p.9 includes `அயோத்தியானுக்கு`.
+- printed p.8 first highlighted occurrence is the joined form `அந்தக்காலம்`, while surrounding later occurrences use `அந்தக் காலம்`; the transcription preserves this distinction;
+- printed p.9 retains `அயோத்தியானுக்கு`;
+- printed p.9 retains the source's `பாராளப் பிறந்த ராமனின்` wording;
+- no running header or reverse-side bleed-through was incorporated into the speech text.
 
-### T1 Batch 2 watchpoints - PDF 11-15 / printed 10-14
+Punctuation, quotation structure, rhetorical exclamation marks, proper names, and page boundaries on printed pp.5-9 were also checked against the scan and found aligned with the current transcription.
 
-- printed p.10: `தண்ட காரணயத்திலே`, `வைத்தே இருக்குமிடத்தை`, `மிதிலாபுரிக்கு ஜனகனுக்கு`, `‘டிரங்கால்’`;
-- printed p.10: `‘ரிஸ்ட் வாட்ச்’` and `“பஜகோவிந்த” மா`;
-- printed p.10 → p.11 continues `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
-- printed p.11: `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்`, plus spacing `சொந்த மென்றான்`;
-- printed p.12 first-pass reading `பெய்ப்படி` requires deliberate character-level T2 reinspection;
-- printed p.13: `வழக்கு மன்றத்திற்கு`;
-- printed p.14: `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, `சொல்லே யில்லாத`, `காரைக்காலம்மை`.
+### Remaining T1 watchpoints for later T2 batches
 
-### T1 Batch 3 watchpoints - PDF 16-17 / printed 15-16
+For printed pp.10-14, recheck especially: `தண்ட காரணயத்திலே`, `வைத்தே இருக்குமிடத்தை`, `மிதிலாபுரிக்கு ஜனகனுக்கு`, `‘டிரங்கால்’`, `‘ரிஸ்ட் வாட்ச்’`, `“பஜகோவிந்த” மா`, `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்`, `சொந்த மென்றான்`, the first-pass `பெய்ப்படி`, `வழக்கு மன்றத்திற்கு`, `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, `சொல்லே யில்லாத`, and `காரைக்காலம்மை`.
 
-The final two pages were transcribed directly from the scan and remain first-pass text only. Recheck in T2:
+For printed pp.15-16, recheck especially: `தாயைக் கட்டிலறைக் கழைத்து`, `மோட்சலோக ‘பாஸ்போர்ட்’டன்`, the separate `கை முஷ்டி` / joined `கைமுஷ்டி`, `பூர்ஷ்வாத் தன்மை`, the first-pass `புரிவோடு`, the p.15→16 continuation, `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`, and the printed final `வணக்கம்` versus the later library stamp below it.
 
-- printed p.15 includes `தாயைக் கட்டிலறைக் கழைத்து`, `வைகைக் கரையிலே`, `மோட்சலோக ‘பாஸ்போர்ட்’டன்`, and `பூர்ஷ்வாத் தன்மை`;
-- printed p.15 uses `கை முஷ்டி` and later joined `கைமுஷ்டி` in separate places; preserve the source distinction if confirmed;
-- printed p.15 has `புரிவோடு` in the sentence about joining hands in the work of securing the garden; this unusual reading needs deliberate T2 character-level reinspection;
-- printed p.15 → p.16 continues the thought from `வேண்டாத ஒரு வெறுப்பு வளர்த்தான் நேரிடும்.` to `அந்த வெறுப்பு...` but does not split a word;
-- printed p.16 reads `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`;
-- printed p.16 ends the speech with printed `வணக்கம்`; the large blue circular library stamp below it is later marking and is excluded from transcription.
-
-These are **T2 watchpoints**, not final audit resolutions.
-
-## T1 / T2 audit progress
+## T1 / T2 / T3 state
 
 | Stage | Pages | Status |
 |---|---:|---|
 | T1 first-pass Tamil transcription | 12 / 12 | first-pass-complete |
-| T2 strict visual fidelity audit | 0 / 12 | not-started |
+| T2 strict visual fidelity audit | 5 / 12 | in-progress |
 | T3 consolidation / page-boundary / stale-reading check | - | blocked |
 
 ## Exact next gate
 
-Begin **T2 strict visual fidelity audit** as an independent second pass, starting again at **PDF 6 / printed 5**. Compare every line, punctuation mark, numeral, unusual form, page boundary, and scan marking against the page image. Apply confirmed corrections to `transcription-ta.md` and record substantive findings here.
+Continue **T2 strict visual fidelity audit** with **PDF pages 11-15 / printed pages 10-14**. Compare every line independently against the scan, apply only scan-confirmed corrections to `transcription-ta.md`, and record substantive findings here.
 
-Do not begin English translation until all 12 pages pass T2 and T3 freezes the Tamil layer as `verified-complete`.
+Do not begin English translation until all 12 pages pass T2 and the separate T3 consolidation/freeze gate marks the Tamil layer `verified-complete`.
