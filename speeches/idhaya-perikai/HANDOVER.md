@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage T2 Batch 1**. Continue from the next incomplete audit page without repeating completed startup/T1 work or the already completed T2 pages, and do not begin English early.
+This document records the exact state after **Stage T2 Batch 2**. Continue from the next incomplete audit page without repeating completed startup/T1 work or the already completed T2 pages, and do not begin English early.
 
 ## Repository
 
@@ -43,15 +43,14 @@ Stage T1 first-pass Tamil transcription is **complete — 32/32 body pages draft
 - Batch 5: PDF 24–29 / printed 23–28 — drafted
 - Batch 6: PDF 30–35 / printed 29–34 — drafted
 
-Stage T2 strict visual Tamil fidelity audit is **in progress — 5/32 pages checked**:
+Stage T2 strict visual Tamil fidelity audit is **in progress — 10/32 pages checked**:
 
 - T2 Batch 1: PDF 4–8 / printed 3–7 — **checked line by line and corrections consolidated**
+- T2 Batch 2: PDF 9–13 / printed 8–12 — **checked line by line and corrections consolidated**
 
-The strict audit therefore runs through **PDF page 8 / printed page 7**. No page beyond PDF 8 has yet passed T2, and the overall Tamil layer is not yet `verified-complete`.
+The strict audit therefore runs through **PDF page 13 / printed page 12**. PDF 14 was inspected only at its first line to verify the PDF 13→14 page-spanning word; PDF 14 as a page has not yet passed T2. The overall Tamil layer is not yet `verified-complete`.
 
 ## T2 Batch 1 confirmed findings
-
-The following were resolved from the actual scan and consolidated into `transcription-ta.md`:
 
 - PDF 4→5: `சமுத்தி` / `ரத்தின்` was visually confirmed as the single page-spanning word `சமுத்திரத்தின்`; the explicit PDF-page boundary remains preserved in the transcript.
 - PDF 5: `⟦செருமியமுத?⟧` → **`செருமியழுத`**.
@@ -60,13 +59,25 @@ The following were resolved from the actual scan and consolidated into `transcri
 - PDF 8: `அரிச்சுவடிகளைக் வைத்துக்கொண்டா?` → **`அரிச்சுவடிகளை வைத்துக்கொண்டா?`**.
 - PDF 8: `சென்ற இரண்டு ஆண்டுகளை ஒருமுறை` → **`சென்ற இரண்டு ஆண்டுகளில் ஒருமுறை`**.
 
-Pages 4–8 were otherwise checked directly against the scan for wording, names, numerals, punctuation and repeated phrases. Running headers and printed page numerals were not folded into the body text.
+## T2 Batch 2 confirmed findings
+
+The following were resolved from the actual scan and consolidated into `transcription-ta.md`:
+
+- PDF 9: line-by-line check complete; no substantive correction required.
+- PDF 10: restored the source dash in `ஏவலர் சூழ--எடுபிடிகள் சுற்றிட--`.
+- PDF 10: restored the source comma in `நேசமிருக்கும் கூலிக்கு, வேலையென்ற...`.
+- PDF 11: `அவர் வடித்தது மட்டுமல்லவே` → **`அவர் வடித்ததுமட்டுமல்லவே`**.
+- PDF 11: `பெரு மழைத்துளிகளின்` → **`பெருமழைத்துளிகளின்`**.
+- PDF 12: line-by-line check complete; no substantive correction required.
+- PDF 13: `நடிப்பும் புலவர்` → **`நடிப்புப் புலவர்`**.
+- PDF 13→14: `சிந்தனைப் பூங்கோட்டத்` / `திலே` → **`சிந்தனைப் பூந்தோட்டத்` / `திலே`**, confirming the page-spanning lexical form `சிந்தனைப் பூந்தோட்டத்திலே`. PDF 14's first line was inspected only for this boundary verification and is not counted as an audited page.
+
+Pages 9–13 were otherwise checked directly against the scan for wording, names, numerals, punctuation and repeated phrases. Running headers and printed page numerals were not folded into the body text.
 
 ## Carry-forward source cautions
 
 Do not resolve these from context alone. Check them against the page images during their Stage T2 batches:
 
-- PDF 13→14: `பூங்கோட்டத்` / `திலே` page-boundary split.
 - PDF 15: first-pass line `மன்றத்திலே இராவணனுக்கு அண்ணா.`
 - PDF 16: first-pass closing wording `திராவிடர் வாழ்வு உயரும்வரையில்`.
 - PDF 18: first-pass wording `சிலந்திக்கூடு`.
@@ -98,7 +109,7 @@ These notes are not a substitute for T2. Every remaining body page must still re
 |---|---|
 | 1. Source inspection / bibliographic-page map | **complete** |
 | 2. Tamil first-pass transcription (T1) | **complete — 32/32** |
-| 3. Strict visual Tamil fidelity audit (T2) | **in-progress — 5/32; through PDF 8 / printed 7** |
+| 3. Strict visual Tamil fidelity audit (T2) | **in-progress — 10/32; through PDF 13 / printed 12** |
 | 4. Tamil consolidation / freeze (T3) | **not-started** |
 | 5. English first-pass translation (E1) | **not-started / locked** |
 | 6. English fidelity review (E2) | **not-started / locked** |
@@ -107,7 +118,7 @@ These notes are not a substitute for T2. Every remaining body page must still re
 
 ## Exact next incomplete activity
 
-Continue **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 9 / printed page 8**. A manageable next batch is PDF 9–13 / printed 8–12.
+Continue **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 14 / printed page 13**. A manageable next batch is PDF 14–18 / printed 13–17.
 
 For the next batch:
 

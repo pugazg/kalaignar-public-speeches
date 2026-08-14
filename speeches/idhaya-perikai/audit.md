@@ -7,7 +7,7 @@
 
 ## Important audit state
 
-Gate 1 source inspection is complete. **Stage T1 Tamil first-pass transcription is complete: 32/32 body pages drafted. Stage T2 strict line-by-line visual audit is in progress: 5/32 pages checked, through PDF page 8 / printed page 7.** Nothing in the current transcription should yet be treated as `verified-complete`.
+Gate 1 source inspection is complete. **Stage T1 Tamil first-pass transcription is complete: 32/32 body pages drafted. Stage T2 strict line-by-line visual audit is in progress: 10/32 pages checked, through PDF page 13 / printed page 12.** Nothing in the current transcription should yet be treated as `verified-complete`.
 
 ## Stage T1 progress
 
@@ -27,9 +27,10 @@ Drafted pages: **32 / 32 — Stage T1 complete**.
 | T2 batch | PDF pages | Printed pages | Status |
 |---|---:|---:|---|
 | 1 | 4–8 | 3–7 | **checked and consolidated** |
-| remaining | 9–35 | 8–34 | not yet checked |
+| 2 | 9–13 | 8–12 | **checked and consolidated** |
+| remaining | 14–35 | 13–34 | not yet checked |
 
-Pages checked: **5 / 32**.
+Pages checked: **10 / 32**.
 
 ## Stage T2 Batch 1 — PDF 4–8 / printed 3–7
 
@@ -47,13 +48,31 @@ Pages checked: **5 / 32**.
 - **PDF 8 / printed 7:** `சென்ற இரண்டு ஆண்டுகளை ஒருமுறை` was corrected to the scan-supported **`சென்ற இரண்டு ஆண்டுகளில் ஒருமுறை`**.
 - No library stamp, handwriting or later accession marking intrudes into the body text on this five-page audit batch.
 
-All confirmed Batch 1 corrections have been applied to the canonical Tamil transcript. These pages have passed T2 source comparison, but the **Tamil layer as a whole is not yet verified-complete** because PDF pages 9–35 remain unaudited and T3 consolidation/freeze has not begun.
+All confirmed Batch 1 corrections have been applied to the canonical Tamil transcript.
+
+## Stage T2 Batch 2 — PDF 9–13 / printed 8–12
+
+**Audit date:** 2026-08-14  
+**Method:** Every printed body line on PDF pages 9, 10, 11, 12 and 13 was compared directly against the scan. The first line of PDF 14 was additionally inspected only to verify the word spanning the PDF 13→14 boundary; PDF 14 itself is not counted as audited. Running headers and printed page numerals were excluded from body prose.
+
+### Confirmed findings and corrections
+
+- **PDF 9 / printed 8:** checked line by line, including the continuation from PDF 8. No substantive correction was required.
+- **PDF 10 / printed 9:** restored the source dash after `ஏவலர் சூழ`; `ஏவலர் சூழ எடுபிடிகள் சுற்றிட--` was corrected to **`ஏவலர் சூழ--எடுபிடிகள் சுற்றிட--`**.
+- **PDF 10 / printed 9:** restored the source comma in `வேஷமிருக்காது, நேசமிருக்கும் கூலிக்கு, வேலையென்ற...`; the first pass had omitted the comma after `கூலிக்கு`.
+- **PDF 11 / printed 10:** source word-joining was restored: `அவர் வடித்தது மட்டுமல்லவே` → **`அவர் வடித்ததுமட்டுமல்லவே`**.
+- **PDF 11 / printed 10:** source word-joining was restored: `பெரு மழைத்துளிகளின்` → **`பெருமழைத்துளிகளின்`**.
+- **PDF 12 / printed 11:** heading and body checked line by line. No substantive correction was required.
+- **PDF 13 / printed 12:** `நடிப்பும் புலவர் ராமசாமியின் நாடகம்` was corrected to the visibly printed **`நடிப்புப் புலவர் ராமசாமியின் நாடகம்`**.
+- **PDF 13→14 / printed 12→13:** the first pass `சிந்தனைப் பூங்கோட்டத்` / `திலே` was incorrect. Direct inspection of the PDF 13 ending and PDF 14 opening confirms **`சிந்தனைப் பூந்தோட்டத்` / `திலே`**, i.e. the page-spanning lexical form `சிந்தனைப் பூந்தோட்டத்திலே`. The explicit PDF-page boundary remains preserved in the canonical transcript.
+- No library stamp, handwriting or later accession marking intrudes into the body text on this five-page audit batch.
+
+All confirmed Batch 2 corrections have been applied to `transcription-ta.md`. PDF pages 4–13 have now passed T2 source comparison, but the **Tamil layer as a whole is not yet verified-complete** because PDF pages 14–35 remain unaudited and T3 consolidation/freeze has not begun.
 
 ## First-pass cautions still awaiting Stage T2
 
 The following items are working cautions for pages not yet audited. They must be checked directly against the scan and must not be resolved from context alone.
 
-- PDF 13→14 / printed 12→13: page-boundary split `பூங்கோட்டத்` / `திலே` is deliberately retained for later boundary verification.
 - PDF 15 / printed 14: the scan-supported first-pass line is retained as `மன்றத்திலே இராவணனுக்கு அண்ணா.`; it must still be checked in the formal T2 pass with the rest of the page.
 - PDF 16 / printed 15: the closing first-pass reading is `திராவிடர் வாழ்வு உயரும்வரையில்`; it was read from the page image rather than normalized from OCR.
 - PDF 18 / printed 17: the first paragraph reads `கம்பராமாயணம் திராவிடரை அரக்கர்கள் குரங்குகள் என்று சித்தரிக்கும் சிலந்திக்கூடு.` in the first pass; this remains subject to the mandatory later line-by-line T2 verification.
@@ -81,7 +100,7 @@ Running headers and printed page numerals are not body prose and are not folded 
 
 ## Exact next audit point
 
-Continue Stage T2 at **PDF page 9 / printed page 8**. Every remaining page must be reread directly against the scan line by line; confirmed corrections must be logged here and applied to `transcription-ta.md` before the batch is considered complete.
+Continue Stage T2 at **PDF page 14 / printed page 13**. Every remaining page must be reread directly against the scan line by line; confirmed corrections must be logged here and applied to `transcription-ta.md` before the batch is considered complete.
 
 ## Unresolved source issue from startup
 
