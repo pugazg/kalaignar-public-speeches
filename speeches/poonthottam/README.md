@@ -70,7 +70,7 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 |---|---|
 | Repository duplicate check | **Complete - no pre-existing `poonthottam` work found** |
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **In progress - 5/12 speech pages drafted (PDF 6-10 / printed 5-9)** |
+| Tamil first-pass transcription | **In progress - 10/12 speech pages drafted (PDF 6-15 / printed 5-14)** |
 | Strict line-by-line Tamil visual audit | **Not started - must wait for complete T1 body** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Blocked until Tamil is verified-complete** |
@@ -79,15 +79,19 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 
 ## T1 progress
 
-First-pass Batch 1 is now present in `transcription-ta.md`:
+First-pass transcription now covers:
 
-- PDF 6 / printed 5
-- PDF 7 / printed 6
-- PDF 8 / printed 7
-- PDF 9 / printed 8
-- PDF 10 / printed 9
+- Batch 1: PDF 6-10 / printed 5-9
+- Batch 2: PDF 11-15 / printed 10-14
 
-These pages are **drafted, not verified**. `audit.md` records preliminary page-boundary and unusual-source-form watchpoints for the later strict T2 pass.
+Drafted pages: **10 / 12**.
+
+These pages are **drafted, not verified**. `audit.md` records page-boundary and unusual-source-form watchpoints for the later strict T2 pass.
+
+Remaining T1 pages:
+
+- PDF 16 / printed 15
+- PDF 17 / printed 16
 
 ## Editorial rule
 
@@ -95,6 +99,6 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Continue **Stage T1 only** with the remaining speech body. The next recommended batch is **PDF pages 11-15 / printed pages 10-14**.
+Continue **Stage T1 only** with the final first-pass batch: **PDF pages 16-17 / printed pages 15-16**.
 
 Do not begin Stage T2 or any English translation until all 12 Tamil speech-body pages have a complete first-pass transcription.

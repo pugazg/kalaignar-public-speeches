@@ -7,7 +7,7 @@
 
 ## Current audit state
 
-Source inspection is complete. Stage **T1 first-pass Tamil transcription is in progress: 5 / 12 speech pages drafted**.
+Source inspection is complete. Stage **T1 first-pass Tamil transcription is in progress: 10 / 12 speech pages drafted**.
 
 The mandatory Stage **T2 strict line-by-line visual fidelity audit has not started**. The pages drafted during T1 have been read directly from the scan for first-pass transcription, but they have not yet undergone the required independent second comparison. No Tamil page is therefore declared verified.
 
@@ -55,10 +55,10 @@ PDF pages 6-17 correspond to printed pages **5-16**. The body begins on PDF 6 un
 | T1 batch | PDF pages | Printed pages | Status |
 |---|---:|---:|---|
 | 1 | 6-10 | 5-9 | drafted |
-| 2 | 11-15 | 10-14 | not-started |
+| 2 | 11-15 | 10-14 | drafted |
 | 3 | 16-17 | 15-16 | not-started |
 
-T1 drafted pages: **5 / 12**.
+T1 drafted pages: **10 / 12**.
 
 ### T1 Batch 1 - PDF 6-10 / printed 5-9
 
@@ -78,12 +78,33 @@ This is deliberately **not** a T2 verification pass. Preliminary source features
 
 These are **T2 watchpoints**, not declared corrections or final resolutions.
 
+### T1 Batch 2 - PDF 11-15 / printed 10-14
+
+The next five pages were transcribed directly from the page images. They remain first-pass text only.
+
+Preliminary source features / readings to re-check independently in T2 include:
+
+- printed p.10 visibly reads the unusual `தண்ட காரணயத்திலே`; no modernization to `காரண்யத்திலே` has been made in T1;
+- printed p.10 uses `வைத்தே இருக்குமிடத்தை` in the Sita/paper-advertisement passage;
+- printed p.10 has `மிதிலாபுரிக்கு ஜனகனுக்கு` and the contemporary term `‘டிரங்கால்’`;
+- printed p.10 contains `‘ரிஸ்ட் வாட்ச்’ கட்டிக்கொண்டு ராகு காலம் பார்க்கிறார்கள்!` and the `“பஜகோவிந்த” மா` wording/spacing; both should be rechecked exactly in T2;
+- printed p.10 → p.11: one sentence continues across the page boundary from `வேலைகளை விட்டு ஓய்வு` to `பெறுகிறவர் ...`; it is not a split word;
+- printed p.11 has the unusual pair `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்`; T1 retains it without semantic repair;
+- printed p.11 contains source spacing such as `சொந்த மென்றான்`;
+- printed p.12 first pass reads `பெய்ப்படி` in `எப்படி பெய்ப்படி மாலை தொடுக்க முடியும்`; this visually unusual form requires a deliberate T2 character-level recheck before freeze;
+- printed p.13 reads `வழக்கு மன்றத்திற்கு` in the invitation sentence; retain unless the strict re-audit demonstrates otherwise;
+- printed p.14 includes `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, and `சொல்லே யில்லாத`; these source-supported forms/spaces are not silently normalized in T1;
+- printed p.14 has `காரைக்காலம்மை` in the closing paragraph;
+- running headers and reverse-side bleed-through were excluded from the speech text on all five pages.
+
+These items are **working T2 watchpoints**, not final audit resolutions.
+
 ## T1 / T2 audit progress
 
 | Stage | Pages | Status |
 |---|---:|---|
-| T1 first-pass Tamil transcription | 5 / 12 | in-progress |
+| T1 first-pass Tamil transcription | 10 / 12 | in-progress |
 | T2 strict visual fidelity audit | 0 / 12 | not-started |
 | T3 consolidation / page-boundary / stale-reading check | - | blocked |
 
-No transcription reading has been declared verified at this stage. Stage T2 must wait until the full 12-page first-pass body is present.
+No transcription reading has been declared verified at this stage. Finish T1 with PDF 16-17 / printed 15-16 before beginning Stage T2.

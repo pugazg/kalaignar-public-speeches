@@ -1,6 +1,6 @@
 # கலைஞரின் பூந்தோட்டம் - working handover
 
-This handover records the current state of `speeches/poonthottam/` after **T1 first-pass Batch 1**. It exists so continuation proceeds from the exact next incomplete batch without restarting source inspection or redoing drafted pages.
+This handover records the current state of `speeches/poonthottam/` after **T1 first-pass Batch 2**. It exists so continuation proceeds from the exact next incomplete batch without restarting source inspection or redoing drafted pages.
 
 ## Repository
 
@@ -75,25 +75,17 @@ The speech begins on PDF 6 under `பூந்தோட்டம்` and ends on
 
 ### Gate 2 / T1 - Tamil first-pass transcription
 
-**IN PROGRESS - 5 / 12 speech pages drafted.**
+**IN PROGRESS - 10 / 12 speech pages drafted.**
 
-Completed T1 Batch 1:
+Completed T1 batches:
 
-- PDF 6 / printed 5
-- PDF 7 / printed 6
-- PDF 8 / printed 7
-- PDF 9 / printed 8
-- PDF 10 / printed 9
+- Batch 1: PDF 6-10 / printed 5-9
+- Batch 2: PDF 11-15 / printed 10-14
 
 These pages are present in `transcription-ta.md` as **first-pass text only**. They have not been declared verified.
 
 Remaining T1:
 
-- PDF 11 / printed 10
-- PDF 12 / printed 11
-- PDF 13 / printed 12
-- PDF 14 / printed 13
-- PDF 15 / printed 14
 - PDF 16 / printed 15
 - PDF 17 / printed 16
 
@@ -111,7 +103,9 @@ All **NOT STARTED / BLOCKED** until Tamil reaches `verified-complete`.
 
 ## Preliminary T1 source watchpoints
 
-These are not final audit resolutions; re-check them in T2:
+These are not final audit resolutions; re-check them in T2.
+
+From Batch 1:
 
 - printed p.5 → p.6 continues `பண்படுத்த` / `வேண்டும்.` across the page boundary;
 - printed p.6 → p.7 continues `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
@@ -122,17 +116,27 @@ These are not final audit resolutions; re-check them in T2:
 - printed p.8 emphasizes the joined form `அந்தக்காலம்`;
 - printed p.9 contains the unusual source form `அயோத்தியானுக்கு`.
 
+From Batch 2:
+
+- printed p.10 has `தண்ட காரணயத்திலே`, `வைத்தே இருக்குமிடத்தை`, `மிதிலாபுரிக்கு ஜனகனுக்கு`, and `‘டிரங்கால்’`;
+- printed p.10 contains `‘ரிஸ்ட் வாட்ச்’` and `“பஜகோவிந்த” மா`;
+- printed p.10 → p.11 continues `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...` across the page boundary;
+- printed p.11 retains `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்` and source spacing such as `சொந்த மென்றான்`;
+- printed p.12 first-pass reading `பெய்ப்படி` requires deliberate character-level T2 reinspection;
+- printed p.13 reads `வழக்கு மன்றத்திற்கு`;
+- printed p.14 retains `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, `சொல்லே யில்லாத`, and `காரைக்காலம்மை`.
+
 Do not normalize these merely because a modern or contextually smoother reading seems likely.
 
 ## Exact next activity
 
-Continue **Stage T1 only** with the next working batch:
+Continue **Stage T1 only** with the final first-pass batch:
 
-**PDF pages 11-15 / printed pages 10-14.**
+**PDF pages 16-17 / printed pages 15-16.**
 
 Preserve explicit PDF/printed-page boundaries. Do not translate. Do not begin the strict T2 audit yet.
 
-After that five-page batch, finish T1 with PDF pages 16-17 / printed pages 15-16. Only when all 12 speech pages are drafted may Stage T2 begin.
+When those final two pages are drafted, mark T1 `first-pass-complete`, synchronize the counters, and then begin Stage T2 as a separate independent line-by-line visual audit of **all 12 speech pages**, starting again from PDF 6 / printed 5.
 
 ## Repository synchronization note
 
