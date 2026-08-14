@@ -1,0 +1,77 @@
+{
+  "id": "poonthottam",
+  "title": {
+    "ta": "கலைஞரின் பூந்தோட்டம்",
+    "speech_title_ta": "பூந்தோட்டம்",
+    "en_transliteration": "Kalaignarin Poonthottam"
+  },
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "current_edition_name_ta": "டாக்டர் கலைஞர் மு. கருணாநிதி",
+    "role_source_text": "சென்னை கிண்டி இன்ஜினியரிங் கல்லூரியில் 06.12.1951இல் தோழர் மு.கருணாநிதி ஆற்றிய சொற்பொழிவு"
+  },
+  "document_type": "public-speech-booklet",
+  "language": "ta",
+  "speech": {
+    "title_ta": "பூந்தோட்டம்",
+    "date": "1951-12-06",
+    "venue_ta": "சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி",
+    "event": null,
+    "occasion": null,
+    "audience": null,
+    "source_note": "The title page explicitly states that தோழர் மு.கருணாநிதி delivered this speech at சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி on 06.12.1951. It does not separately name an event/occasion or define the audience; those fields are not inferred."
+  },
+  "publication": {
+    "edition_text": "முதற்பதிப்பு - 1951 (திராவிடப் பண்ணை); நான்காம் பதிப்பு : 2019",
+    "edition": 4,
+    "publication_year": 2019,
+    "first_edition_year": 1951,
+    "first_edition_publisher_ta": "திராவிடப் பண்ணை",
+    "publisher_ta": "திராவிடர் கழக (இயக்க) வெளியீடு",
+    "publisher_address_ta": "பெரியார் திடல், 84/1 (50), ஈ.வெ.கி. சம்பத் சாலை, வேப்பேரி, சென்னை - 600 007.",
+    "price_text": "நன்கொடை (குறைந்த அளவு): ரூ.12/-",
+    "printer_ta": "‘விடுதலை’ ஆஃப்செட் பிரிண்டர்ஸ், சென்னை - 600 007.",
+    "publisher_preface_date": "2018-01-12"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065784_கலைஞரின்_பூந்தோட்டம்.pdf",
+    "sha256": "2a8bf5f6f42970ee95912f41662f9bc448581a5aaca15a55fee9b44ba20a4c52",
+    "file_size_bytes": 49297657,
+    "pdf_pages": 18,
+    "printed_pages_statement": 16,
+    "page_map": {
+      "pdf_1": "front cover",
+      "pdf_2": "title page; speaker photograph; explicit speech date and venue statement; publisher line",
+      "pdf_3": "bibliographic / edition / publication page (நூல் குறிப்பு)",
+      "pdf_4": "publisher preface (பதிப்புரை), dated 12.01.2018",
+      "pdf_5": "prefatory poem எரிமலை! (மு.கருணாநிதி); not part of speech body",
+      "pdf_6_to_17": "speech body; printed pages 5-16",
+      "pdf_18": "back cover / promotional matter / barcode"
+    },
+    "scan_observations": [
+      "Blue circular library stamp overlaps the title-page area on PDF page 2; it is later annotation, not edition text.",
+      "Blue circular library stamp appears below the speech ending on PDF page 17; it is later annotation, not edition text.",
+      "Light reverse-side bleed-through is visible on multiple interior pages and must not be transcribed as printed text."
+    ],
+    "scan_status": "primary source supplied by repository owner",
+    "binary_committed": false,
+    "binary_note": "Repository policy is not to upload the source PDF. Filename, SHA-256, file size, PDF page count, and page map are recorded instead."
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "source_inspection_date": "2026-08-14",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 12,
+    "speech_pages_drafted": 0,
+    "strict_reaudit_pages_checked": 0,
+    "tamil_visual_audit": "not-started",
+    "combined_transcript_pending_batch_corrections": false,
+    "english_translation": "not-started",
+    "english_translation_pages_completed": 0,
+    "english_translation_review": "not-started",
+    "english_translation_review_pages_checked": 0,
+    "english_translation_final_verification": "not-started",
+    "english_translation_final_verification_pages_checked": 0
+  }
+}
