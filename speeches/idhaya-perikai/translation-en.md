@@ -1,6 +1,6 @@
 # Idhaya Perikai — English Translation
 
-> **Status:** Stage E2 fidelity review complete — **32 / 32 body pages reviewed; 19 / 19 confirmed corrections consolidated**  
+> **Status:** Stage E3 final Tamil→English verification complete — **32 / 32 body pages verified; English `verified-complete`**  
 > **Source layer:** frozen `transcription-ta.md` with status `verified-complete`  
 > **Translated through:** PDF page 35 / printed page 34  
 > **Translation rule:** Translate only from the frozen verified Tamil layer, preserving page/section sequence, argument, rhetoric, repetition, metaphors, polemical language, historical references, and source-supported oddities. Do not silently repair difficult Tamil or substitute OCR/outside-edition wording.
@@ -274,7 +274,7 @@ Why did they suffer so much?.... Why did they deliberately embrace hardship?....
 
 > **Translator/source note:** The frozen Tamil prints `மடத்தனத்தை அழித்தது. மக்கள் சமுதாயத்தை...`. The English regularizes the difficult syntax for readability but does not amend the Tamil.
 
-> **Translator/source note:** The first sentence of the preceding paragraph literally states `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` (“self-interest lay around their lives”), while the following sentences deny interference from personal interest. The first pass preserves that printed tension rather than harmonizing it.
+> **Translator/source note:** The first sentence of the preceding paragraph literally states `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` (“self-interest lay around their lives”), while the following sentences deny interference from personal interest. The translation preserves that printed tension rather than harmonizing it.
 
 Not only in our country—across the whole world, thousands of years ago, conditions existed in which civilization could not even sprout. Religious belief in western countries was even more inferior than ours. Their gods were more numerous than ours. Their priests—
 
@@ -306,7 +306,7 @@ Political prisoners have been packed into government prisons to the point that t
 
 —`thaappadavillai`”—there would be a “war” over that in those days!
 
-> **Translator/source note:** The frozen Tamil prints `மோர் தாப்படவில்லை`. The form `தாப்படவில்லை` is unusual and is therefore not silently emended; its exact intended modern wording is left open in this first pass.
+> **Translator/source note:** The frozen Tamil prints `மோர் தாப்படவில்லை`. The form `தாப்படவில்லை` is unusual and is therefore not silently emended; its exact intended modern wording is left open in this translation.
 
 “There is no salt in the food”—these storm-warriors conducted a satyagraha over that!
 
@@ -410,4 +410,4 @@ Even in Colombo justice could be obtained only by going into the court. Here the
 
 **Stage E1 complete:** all 32 body pages (PDF 4–35 / printed 3–34) have a first-pass English translation from the frozen verified Tamil layer.  
 **Stage E2 fidelity review complete:** all 32 body pages have passed independent Tamil→English review and all **19 / 19 confirmed corrections** have been consolidated.  
-**Stage E3 final Tamil→English verification:** ready-not-started.
+**Stage E3 final Tamil→English verification complete:** all 32 body pages were compared end-to-end against the frozen Tamil; the English layer is **`verified-complete`**.
