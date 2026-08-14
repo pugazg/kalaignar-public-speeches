@@ -47,24 +47,23 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | Tamil consolidation / freeze | **Complete — `verified-complete`, frozen 2026-08-14** |
 | English first-pass translation (E1) | **Complete — 32/32** |
 | English fidelity review (E2) | **Complete — 32/32; 19/19 corrections consolidated** |
-| Final Tamil→English verification (E3) | **Ready / not started** |
+| Final Tamil→English verification (E3) | **Complete — 32/32; English `verified-complete`** |
+| Repository-level archival closure | **Not started** |
 
-The Tamil layer has passed all three Tamil gates and is frozen as **`verified-complete`**. Stage T3 confirmed that PDF pages **4–35 / printed pages 3–34 appear once each and in source order**, rechecked page boundaries and stale readings, and reconfirmed the PDF 35 body/advertisement boundary.
+The Tamil layer has passed T1, T2 and T3 and remains frozen as **`verified-complete`**. Stage E1 produced the complete English translation from that frozen layer. Stage E2 independently reviewed every body page and consolidated **19 confirmed fidelity corrections**.
 
-Stage E1 produced a complete first-pass translation of all 32 body pages from the frozen Tamil only. Stage E2 then independently compared every translated page against the frozen Tamil and recorded **19 confirmed fidelity corrections**. All **19/19** have now been consolidated into `translation-en.md`; the English layer is at **`fidelity-corrections-consolidated`**.
+Stage E3 then reread the complete consolidated English against the frozen Tamil from PDF 4 / printed 3 through PDF 35 / printed 34. All page and section order, cross-page continuations, difficult-source notes, and the 19 E2 corrections were rechecked in context. **No new English body-text fidelity correction was required.** Two stale translator-note workflow phrases were cleaned (`first pass` → `translation`) without changing source meaning. The English layer is now **`verified-complete`**.
 
-Important E2 corrections include numerical-scope fixes on PDFs 13 and 34; preservation of difficult verified wording on PDFs 16, 20, 22 and 23; source-facing legal/political wording on PDFs 27, 28 and 31; and the critical PDF 35 correction from “trampled in blood” to **“floating in blood”** for `குருதியிலே மிதக்கவிட்டிருக்கிறது`. The full correction ledger and difficult-source decisions are recorded in `translation-review.md`.
+The PDF 35 publisher advertisement remains outside the canonical Tamil and English body. The exact printer name on PDF page 3 remains unresolved because a later library stamp obscures part of the line; it must not be guessed.
 
-The English is **not yet final archival English**. Stage E3 must now perform a separate end-to-end Tamil→English verification after the E2 consolidation.
-
-Full Tamil T2/T3 details remain in `audit.md`; E2 details remain in `translation-review.md`.
+Full Tamil audit details remain in `audit.md`; English review and E3 verification details are in `translation-review.md`.
 
 ## Editorial rule
 
 The supplied scan is the controlling witness for this edition. Preserve source-supported historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar and typographical forms. Do not treat library stamps, handwriting, accession numbers, damage or bleed-through as printed edition text. OCR/parsed text may assist but is never authoritative.
 
-The verified Tamil layer is frozen. Any later Tamil alteration requires documented source evidence and re-verification of dependent English translation.
+The verified Tamil layer is frozen. Any later Tamil alteration requires documented source evidence and dependent English re-verification.
 
 ## Next gate
 
-Proceed to **Stage E3 — final Tamil→English verification** across all **32 body pages, PDF 4–35 / printed 3–34**. Recheck the reviewed English from beginning to end against frozen Tamil, including page boundaries, section order, all 19 E2 corrections and every translator/source note. Make only source-supported final corrections. Do not perform root catalogue closure until E3 passes.
+Proceed with **Stage 8 — repository-level archival closure**. Synchronize the root catalogue `README.md`, finalize speech-level repository status, and convert `HANDOVER.md` into the final archival handover. At closure, explicitly state that no transcription or translation work remains pending.
