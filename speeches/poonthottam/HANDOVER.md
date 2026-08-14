@@ -1,6 +1,6 @@
 # கலைஞரின் பூந்தோட்டம் - working handover
 
-Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source inspection and the complete Tamil T1→T2→T3 workflow are finished; the Tamil layer is frozen as `verified-complete`.
+Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source inspection and the complete Tamil T1→T2→T3 workflow are finished; the Tamil layer is frozen as `verified-complete`. E1 English first-pass translation is also complete across the full speech.
 
 ## Repository
 
@@ -39,33 +39,45 @@ T2's two corrections on printed p.15 remain `பூரிப்போடு` and
 
 ## E1 English translation state
 
-**IN PROGRESS - 10 / 12 speech pages translated.**
+**FIRST-PASS COMPLETE - 12 / 12 speech pages translated.**
 
 Completed E1 batches:
 
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
+- Batch 3: PDF 16-17 / printed 15-16
 
-The translation has been made only from frozen `transcription-ta.md`, with PDF/printed-page headings retained. Difficult verified source forms have not been silently normalized. Translator notes currently preserve transparency for `அகம்புற மென்ற அன்றலர்ந்த`, `அயோத்தியானுக்கு`, `தண்ட காரணயத்திலே`, `பெய்ப்படி`, and `வழக்கு மன்றத்திற்கு`.
+The translation was made only from frozen `transcription-ta.md`, with PDF/printed-page headings retained. Difficult verified source forms were not silently normalized. Translator notes currently preserve transparency for `அகம்புற மென்ற அன்றலர்ந்த`, `அயோத்தியானுக்கு`, `தண்ட காரணயத்திலே`, `பெய்ப்படி`, `வழக்கு மன்றத்திற்கு`, and final-page `மானிடம்`.
 
-E2 fidelity review has **not** begun and must remain blocked until the complete E1 first pass exists.
+E1 completion checks passed:
+
+- all 12 PDF/printed-page headings are present once and in sequence;
+- PDF 16 / printed 15 continues correctly into PDF 17 / printed 16 without omission or duplication;
+- the final printed `வணக்கம்` is represented as `Greetings`;
+- no E2 review has yet been performed.
 
 ## Exact next activity
 
-Complete **E1 - English first-pass translation** with the final batch: **PDF pages 16-17 / printed pages 15-16**.
+Begin **E2 - independent page-by-page Tamil→English fidelity review**, starting with **PDF pages 6-10 / printed pages 5-9**.
 
-Requirements remain:
+For every page in the review batch:
 
-1. translate only from frozen `transcription-ta.md`;
-2. retain PDF/printed-page correspondence;
-3. preserve argument, rhetorical force, repetition, metaphors, polemical language, humour and historical references;
-4. do not silently repair source-supported unusual Tamil;
-5. use a concise translator note only where a difficult verified form genuinely prevents a transparent English rendering;
-6. after PDF 16-17 are translated, mark E1 `first-pass-complete` only after confirming all 12 page headings are present once and no page-boundary text was omitted or duplicated;
-7. do not begin E2 in the same step; E2 must remain a separate independent Tamil→English fidelity review.
+1. compare frozen `transcription-ta.md` directly against the corresponding English in `translation-en.md`;
+2. check completeness, semantic fidelity, rhetorical force, repetition, metaphor, humour, polemical register, names and historical references;
+3. check the translation across page boundaries so a sentence split by the printed page is neither lost nor duplicated;
+4. treat the frozen Tamil as authoritative; do not reopen or silently normalize Tamil merely to make the English easier;
+5. record every confirmed English correction in `translation-review.md` and apply confirmed corrections to `translation-en.md`;
+6. distinguish genuine translation errors from intentionally transparent handling of difficult source-supported Tamil;
+7. do not mark E2 complete until all 12 speech pages have undergone this independent review.
 
-After E1 is complete, the next gate will be E2 page-by-page fidelity review beginning from PDF 6 / printed 5.
+Recommended E2 batches mirror E1/T2 page groups:
+
+- Batch 1: PDF 6-10 / printed 5-9
+- Batch 2: PDF 11-15 / printed 10-14
+- Batch 3: PDF 16-17 / printed 15-16
+
+After E2 is complete and all confirmed corrections are consolidated, the next separate gate is E3 final end-to-end Tamil→English verification.
 
 ## Repository synchronization note
 
-Root catalogue synchronization belongs to final archival closure after E1, E2, E3, metadata synchronization, and final handover are complete.
+Root catalogue synchronization belongs to final archival closure after E2, E3, metadata synchronization, speech README synchronization, root catalogue update, and final handover are complete.
