@@ -30,6 +30,7 @@ The repository preserves each available source as evidence and separates four la
 |---|---|---|---|---|---|
 | `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
 | `idhaya-perikai` | இதய பேரிகை | First edition, December 1951 | Not stated in source | **Verified complete - 32/32 body pages** | **Verified complete - 32/32 body pages** |
+| `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 
 ## Repository layout
 
@@ -52,6 +53,14 @@ speeches/
     translation-en.md
     translation-review.md
     HANDOVER.md
+  poonthottam/
+    README.md
+    metadata.json
+    transcription-ta.md
+    audit.md
+    translation-en.md
+    translation-review.md
+    HANDOVER.md
 ```
 
 ## Completed works
@@ -65,3 +74,9 @@ The archival text workflow is complete: source identification, 17-page Tamil tra
 The archival text workflow is complete for the full 32-page body: source inspection and page mapping, Tamil transcription, strict visual Tamil audit, Tamil consolidation/freeze, English translation, English fidelity review with all 19 confirmed corrections consolidated, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**.
 
 The source is a printed multi-section booklet whose title page does not explicitly label it as `பேச்சு`; it is therefore archived as one source unit without inventing a single speech event. The scan does not establish a single speech date, venue, event, occasion, or audience. The exact printer name on PDF page 3 also remains unresolved because a later library stamp obscures part of the printed line; this is a bibliographic limitation rather than pending text work.
+
+### பூந்தோட்டம்
+
+The archival workflow is complete for the 12-page speech body on PDF pages 6-17 / printed pages 5-16. The source explicitly states that தோழர் மு.கருணாநிதி delivered the speech at சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி on **06.12.1951**. It does not separately name an event/occasion or define the audience, so those fields remain unset.
+
+Tamil transcription, strict visual audit, Tamil consolidation/freeze, English translation, independent fidelity review, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**. E2 produced one confirmed English correction; E3 found no additional correction. The source PDF is not committed under repository policy; provenance is preserved in metadata through filename, SHA-256, file size, page count, and page map.
