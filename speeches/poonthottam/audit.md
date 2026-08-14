@@ -7,7 +7,9 @@
 
 ## Current audit state
 
-This file currently records **source-inspection observations only**. Tamil Stage T1 has not begun, so the mandatory strict line-by-line Stage T2 fidelity audit has also **not started**.
+Source inspection is complete. Stage **T1 first-pass Tamil transcription is in progress: 5 / 12 speech pages drafted**.
+
+The mandatory Stage **T2 strict line-by-line visual fidelity audit has not started**. The pages drafted during T1 have been read directly from the scan for first-pass transcription, but they have not yet undergone the required independent second comparison. No Tamil page is therefore declared verified.
 
 ## Startup source findings
 
@@ -48,12 +50,40 @@ PDF pages 6-17 correspond to printed pages **5-16**. The body begins on PDF 6 un
 - No handwriting was identified in the speech body during startup inspection.
 - The body pages are sufficiently legible for direct visual transcription, subject to page-by-page checks during T1/T2.
 
+## T1 first-pass progress
+
+| T1 batch | PDF pages | Printed pages | Status |
+|---|---:|---:|---|
+| 1 | 6-10 | 5-9 | drafted |
+| 2 | 11-15 | 10-14 | not-started |
+| 3 | 16-17 | 15-16 | not-started |
+
+T1 drafted pages: **5 / 12**.
+
+### T1 Batch 1 - PDF 6-10 / printed 5-9
+
+The first five speech pages were transcribed directly from the supplied scan into `transcription-ta.md`.
+
+This is deliberately **not** a T2 verification pass. Preliminary source features retained for later strict checking include:
+
+- printed p.5 → p.6: the sentence continues across the page boundary from `பண்படுத்த` to `வேண்டும்.`; this is not a split word and remains separated by the page heading in the archival transcript;
+- printed p.6 → p.7: the sentence continues from `...மொண்டு மொண்டு தரும்` to `தென்றலாக, ...`; again this is a sentence continuation, not a word split;
+- printed p.6 uses the visibly unusual run `பரவசத்திலீடுபடுகிறான்`; it is retained in T1 rather than silently regularized;
+- printed p.6 repeatedly uses `அடுத்தது,` in the transition sentences; T1 retains that source wording;
+- printed p.6 contains the unusual phrase `அகம்புற மென்ற அன்றலர்ந்த`; it is retained for strict T2 reinspection rather than normalized;
+- printed p.7 reads `சீர் குலுங்கும்` in the description of the garden;
+- printed p.8 has `அந்தக்காலம்` as a joined form in the emphasized sentence; T1 retains it;
+- printed p.9 includes the source form `அயோத்தியானுக்கு`; it is not silently rewritten during T1;
+- running headers and reverse-side bleed-through were excluded from the speech body.
+
+These are **T2 watchpoints**, not declared corrections or final resolutions.
+
 ## T1 / T2 audit progress
 
 | Stage | Pages | Status |
 |---|---:|---|
-| T1 first-pass Tamil transcription | 0 / 12 | not-started |
+| T1 first-pass Tamil transcription | 5 / 12 | in-progress |
 | T2 strict visual fidelity audit | 0 / 12 | not-started |
 | T3 consolidation / page-boundary / stale-reading check | - | blocked |
 
-No transcription reading has been declared verified at this stage.
+No transcription reading has been declared verified at this stage. Stage T2 must wait until the full 12-page first-pass body is present.
