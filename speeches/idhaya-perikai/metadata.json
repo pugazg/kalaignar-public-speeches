@@ -93,9 +93,11 @@
     "english_translation_through_printed_page": 34,
     "english_translation_review": "in-progress",
     "english_translation_review_start_date": "2026-08-14",
-    "english_translation_review_pages_checked": 5,
-    "english_translation_review_through_pdf_page": 8,
-    "english_translation_review_through_printed_page": 7,
+    "english_translation_review_pages_checked": 10,
+    "english_translation_review_through_pdf_page": 13,
+    "english_translation_review_through_printed_page": 12,
+    "english_translation_review_confirmed_corrections": 6,
+    "english_translation_review_corrections_consolidated": 0,
     "english_translation_final_verification": "not-started",
     "english_translation_final_verification_pages_checked": 0
   }
