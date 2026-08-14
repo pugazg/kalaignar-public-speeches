@@ -71,8 +71,8 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 | Repository duplicate check | **Complete - no pre-existing `poonthottam` work found** |
 | Source inspection / bibliographic identification | **Complete** |
 | Tamil first-pass transcription | **First-pass complete - 12/12 speech pages drafted** |
-| Strict line-by-line Tamil visual audit | **In progress - 10/12 speech pages re-audited (PDF 6-15 / printed 5-14)** |
-| Tamil consolidation / freeze | **Not started** |
+| Strict line-by-line Tamil visual audit | **Complete - 12/12 speech pages re-audited** |
+| Tamil consolidation / freeze | **Not started - next gate** |
 | English translation | **Blocked until Tamil is verified-complete** |
 | English fidelity review | **Not started** |
 | Final Tamil→English verification | **Not started** |
@@ -85,9 +85,14 @@ T1 first-pass transcription is complete across the full speech body:
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-17 / printed 15-16
 
-T2 Batch 1 independently re-audited PDF 6-10 / printed 5-9. T2 Batch 2 independently re-audited PDF 11-15 / printed 10-14. **Neither batch required a scan-confirmed wording correction to `transcription-ta.md`.** Confirmed unusual source forms and page-boundary continuations are recorded in `audit.md`.
+T2 has also been completed across all 12 pages. Batches 1 and 2 required no wording corrections. The final audit batch identified and corrected two first-pass readings on printed p.15:
 
-The Tamil layer is still **not verified-complete** because PDF pages 16-17 / printed 15-16 remain to be strictly audited, after which the separate T3 consolidation/freeze gate must run.
+- `புரிவோடு` → `பூரிப்போடு`;
+- `வளர்த்தான்` → `வளரத்தான்`.
+
+All other final-batch watchpoints, including `தாயைக் கட்டிலறைக் கழைத்து`, `மோட்சலோக ‘பாஸ்போர்ட்’டன்`, separate `கை முஷ்டி` / joined `கைமுஷ்டி`, `பூர்ஷ்வாத் தன்மை`, `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`, `மானிடம்`, and the final printed `வணக்கம்`, were confirmed directly from the scan.
+
+The Tamil layer is still **not `verified-complete`** because the separate T3 consolidation/page-boundary/stale-reading check has not yet run.
 
 ## Editorial rule
 
@@ -95,6 +100,6 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Continue **Stage T2 - strict independent line-by-line Tamil visual fidelity audit** with the final batch: **PDF pages 16-17 / printed pages 15-16**.
+Begin **Stage T3 - Tamil consolidation, page-boundary, and stale-reading check** across **PDF pages 6-17 / printed pages 5-16**.
 
-Do not begin English translation after that batch. Complete the separate T3 consolidation/page-boundary/stale-reading check and explicitly freeze the Tamil layer as `verified-complete` first.
+Do not begin English translation until T3 confirms that all T2 corrections are consolidated, no stale first-pass reading survives, page transitions contain no duplication or omission, and the Tamil layer can be explicitly frozen as `verified-complete`.
