@@ -1,9 +1,9 @@
 # Poonthottam - English translation
 
-> **Status:** `in-progress`  
+> **Status:** `first-pass-complete`  
 > **Tamil prerequisite:** `transcription-ta.md` is frozen as `verified-complete`.  
 > **Source-body correspondence:** PDF pages 6-17 / printed pages 5-16  
-> **E1 translated:** PDF pages 6-15 / printed pages 5-14 (10 / 12 speech pages)
+> **E1 translated:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)
 
 This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Stage E2 fidelity review has not begun.
 
@@ -241,8 +241,54 @@ Only after Karaikkal Ammaiyar disfigured her beautiful body and walked upside do
 
 ---
 
-## E1 progress
+## PDF page 16 / printed page 15
 
-First-pass English translation is complete through **PDF page 15 / printed page 14**: **10 / 12 speech pages**.
+Only after Siralan had been cooked as meat and served as a feast to Siva was Siruthondan decorated with the badge of ‘devotee’. The reason: all these people were of the lower castes. At the very same time, a man of the higher caste who committed the great sin of calling his mother to the bedchamber and killing his father stands on the bank of the Vaigai and cries, “Grant me a boon, O Supreme One!” and the Lord comes to meet the devotee with a ‘passport’ to the world of salvation, saying, “I have come, devotee!”
 
-The final E1 batch is **PDF pages 16-17 / printed pages 15-16**. E2 fidelity review remains blocked until all 12 speech pages have a first-pass English translation.
+Whom do such stories of caste frenzy endanger? Is it not the duty of the upper classes to declare all these stories invalid and throw them into the sea?
+
+If these stories, and those who walk in the path shown by these stories, had changed themselves before becoming the objects of opposition from the lower castes, there would have been no need for a storm to blow in the flower garden; would not the breeze instead have sung a *themmangu* song?
+
+The man standing opposite holds a knife in his hand; surely the man passing beside him will at least go with his fist clenched. If he clenches his fist like that, can it simply be called communalism?
+
+I ask that the knife be thrown down. I assure you that the very situation requiring a clenched fist will disappear on its own. If the knife is thrown down, the man approaching with his hand raised will lower it—the bitterness will vanish—and we will be able to see the sight of hands being clasped.
+
+The knife is not merely the Puranas; it is bourgeois character—the doctrine of parasitic growth—and all the rest as well!
+
+Will that knife be abandoned? Will the dove of peace fly? Or must dust alone be made to fly in the flower garden?
+
+If those holding the knife say that there is no need to engage in the work of raising that dust, everyone can join hands with a sense of fulfilment and take part in the work of bringing the flower garden into our possession.
+
+Otherwise, while many perform that work and a few laugh and mock, an unwanted hatred will inevitably grow.
+
+---
+
+## PDF page 17 / printed page 16
+
+It is clearly evident that such hatred can do no more than delay a little the work of bringing the garden into our possession; it cannot build a dam against victory.
+
+Let us conduct the case to bring the forest of colourful flowers into our possession.
+
+Let us spread ideas about how the problems that have arisen in the garden are to be resolved. So that the case may conclude and a good judgment be obtained, let us engage in the campaign over which flower is to be planted in the garden and who is to pluck the flower that has been planted.
+
+But, for the sake of this campaign, let us proceed without slipping away from the intensity with which we conduct the case.
+
+It is precisely the good younger brothers who walk in this way that the flower garden I speak of desires. Become warriors who fulfil that desire.
+
+Honours await. For the song of victory to arise, all that remains is for you to pluck the strings of the veena!
+
+The breeze will glide—the new fragrance will float—`மானிடம்`, the honey-bird, the peacock, the cuckoo, and the *mattuppura* will all create a new artistic feast. I once again extend an invitation to the world of youth to behold that delightful flower garden.
+
+**Greetings**
+
+> **Translator note:** The verified source prints `மானிடம்` in the final garden catalogue. Because its intended referent is not certain from the frozen Tamil layer alone, it is retained visibly rather than silently emended or interpreted.
+
+---
+
+## E1 completion
+
+First-pass English translation is complete across **PDF pages 6-17 / printed pages 5-16**: **12 / 12 speech pages**.
+
+All twelve PDF/printed-page headings are present once and in sequence. The final p.15 → p.16 continuation (`வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.` / `அந்த வெறுப்பு...`) is represented without omission or duplication.
+
+Stage E1 is therefore **`first-pass-complete`**. Stage E2 has **not** begun. The next gate is an independent page-by-page Tamil→English fidelity review beginning with **PDF page 6 / printed page 5**.
