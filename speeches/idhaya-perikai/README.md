@@ -43,15 +43,15 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | Repository duplicate check | **Complete** |
 | Source inspection and page map | **Complete** |
 | Tamil first-pass transcription | **Complete — 32/32; through PDF 35 / printed 34** |
-| Strict visual Tamil fidelity audit | **In progress — 15/32; through PDF 18 / printed 17** |
+| Strict visual Tamil fidelity audit | **In progress — 20/32; through PDF 23 / printed 22** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started / locked** |
 | English fidelity review | **Not started / locked** |
 | Final Tamil→English verification | **Not started / locked** |
 
-The Tamil text contains a complete **Stage T1 first pass** of every body page. Stage T2 is in progress, and PDF pages 4–18 / printed pages 3–17 have now passed strict line-by-line visual comparison. The Tamil layer must not yet be treated as `verified-complete`.
+The Tamil text contains a complete **Stage T1 first pass** of every body page. Stage T2 is in progress, and PDF pages 4–23 / printed pages 3–22 have now passed strict line-by-line visual comparison. The Tamil layer must not yet be treated as `verified-complete`.
 
-T2 Batch 3 checked PDF 14–18 / printed 13–17 directly against the scan. It reconfirmed the PDF 13→14 continuation `சிந்தனைப் பூந்தோட்டத்` / `திலே`, confirmed the unusual printed line `மன்றத்திலே இராவணனுக்கு அண்ணா.`, the PDF 16 wording `திராவிடர் வாழ்வு உயரும்வரையில்`, and PDF 18 `சிலந்திக்கூடு`. On PDF 15 the source word-joining was restored from `நாடகத்து வசனங்களை` to `நாடகத்துவசனங்களை`. Full details are recorded in `audit.md`.
+T2 Batch 4 checked PDF 19–23 / printed 18–22 directly against the scan. It corrected `குறிக்கப்பட்டிருப்பதாலும்` to the printed `குறிக்கப்பட்டிருப்பதாலுமே`, preserved the classical quotation on PDF 20 without importing an outside-edition reading, confirmed the unusual PDF 21 phrase `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்`, corrected PDF 22 to `மடத்தனத்தை அழித்தது. மக்கள்...` and `அவர்களுக்கு தெரியும்.`, and resolved the earlier PDF 23 uncertainty as `பாப்பு`. It also restored the source forms `ரமணர் செத்தார்,`, `வரமாட்டேன் என்று சொல்லி விட்டார்`, and `மூடக்கொள்கைகளை`. Full details are recorded in `audit.md`.
 
 ## Editorial rule
 
@@ -59,4 +59,4 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Continue **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 19 / printed page 18**, comparing every line directly against the scan. Do not begin English translation until all 32 body pages pass T2, T3 consolidation/freeze is complete, and the Tamil layer is marked `verified-complete`.
+Continue **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 24 / printed page 23**. A manageable next batch is PDF pages 24–28 / printed pages 23–27. Do not begin English translation until all 32 body pages pass T2, T3 consolidation/freeze is complete, and the Tamil layer is marked `verified-complete`.
