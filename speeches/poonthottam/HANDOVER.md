@@ -1,6 +1,6 @@
 # கலைஞரின் பூந்தோட்டம் - working handover
 
-This handover records the current state of `speeches/poonthottam/` after **Tamil T3 consolidation/freeze completion**. Continue from the exact next incomplete gate; do not repeat source inspection, Tamil transcription, T2 audit, or T3 consolidation.
+Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source inspection and the complete Tamil T1→T2→T3 workflow are finished; the Tamil layer is frozen as `verified-complete`.
 
 ## Repository
 
@@ -17,21 +17,6 @@ This handover records the current state of `speeches/poonthottam/` after **Tamil
 - Actual PDF page count: `18`
 - Source binary committed: **No - repository policy prohibits uploading the source PDF**
 
-## Source-established speech facts
-
-- Speech title in body: `பூந்தோட்டம்`;
-- speech date: **1951-12-06**;
-- venue: **சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி**;
-- speaker: **தோழர் மு.கருணாநிதி**;
-- event/occasion: **not separately stated**;
-- audience: **not explicitly stated**.
-
-Title-page wording:
-
-`சென்னை கிண்டி இன்ஜினியரிங் கல்லூரியில் 06.12.1951இல் தோழர் மு.கருணாநிதி ஆற்றிய சொற்பொழிவு`
-
-Do not replace these source-grounded fields with historical inference.
-
 ## Canonical page map
 
 - PDF 1 - front cover
@@ -42,84 +27,46 @@ Do not replace these source-grounded fields with historical inference.
 - PDF 6-17 - speech body, printed pages 5-16 (**12 pages total**)
 - PDF 18 - back cover / promotional matter / barcode
 
-The speech begins on PDF 6 under `பூந்தோட்டம்` and ends on PDF 17 with printed `வணக்கம்`.
+## Completed Tamil gates
 
-## Scan-specific safeguards
+- Source inspection / page map: **complete**
+- T1 Tamil first pass: **complete - 12/12**
+- T2 strict visual audit: **complete - 12/12**
+- T3 consolidation / page-boundary / stale-reading check: **complete**
+- Tamil canonical layer: **`verified-complete` and frozen**
 
-- Blue circular library stamp on PDF 2 overlaps the title-page area: later marking, not edition text.
-- Blue circular library stamp on PDF 17 lies below the speech ending: later marking, not edition text.
-- Light bleed-through occurs on interior pages and is excluded from the speech body.
-- The scan is authoritative; OCR/parsed text is only an aid.
+T2's two corrections on printed p.15 remain `பூரிப்போடு` and `வளரத்தான்`. Any later Tamil change requires documented source evidence and dependent English re-verification.
 
-## Workflow state
+## E1 English translation state
 
-### Gate 1 - source inspection / bibliographic and page map
+**IN PROGRESS - 5 / 12 speech pages translated.**
 
-**COMPLETE.**
+Completed E1 Batch 1:
 
-### Gate 2 / T1 - Tamil first-pass transcription
+- PDF 6-10 / printed 5-9
 
-**COMPLETE - 12 / 12 speech pages drafted.**
+The translation was made only from frozen `transcription-ta.md`, with PDF/printed-page headings retained. Two difficult verified source forms were not silently normalized:
 
-### Gate 3 / T2 - strict line-by-line visual Tamil audit
+- printed p.6: `அகம்புற மென்ற அன்றலர்ந்த` - retained visibly with a translator note because exact segmentation is uncertain;
+- printed p.9: `அயோத்தியானுக்கு` - retained visibly with a translator note rather than inventing a normalized Tamil reading.
 
-**COMPLETE - 12 / 12 speech pages audited.**
-
-Completed batches:
-
-- Batch 1: PDF 6-10 / printed 5-9
-- Batch 2: PDF 11-15 / printed 10-14
-- Batch 3: PDF 16-17 / printed 15-16
-
-T2 corrections on printed p.15:
-
-- `புரிவோடு` → **`பூரிப்போடு`**;
-- `வளர்த்தான்` → **`வளரத்தான்`**.
-
-### Gate 4 / T3 - Tamil consolidation and freeze
-
-**COMPLETE - Tamil is `verified-complete`.**
-
-T3 confirmed:
-
-- both T2 corrections are present in the speech text;
-- superseded readings no longer survive in the speech text;
-- all 11 page transitions contain no accidental omission, duplication, broken word, or lost punctuation;
-- PDF-page headings 6 through 17 occur once in correct order, so no speech page is missing or duplicated;
-- T2-confirmed unusual source forms remain preserved rather than normalized;
-- running headers, reverse-side bleed-through, and the PDF 17 library stamp remain excluded;
-- the complete Tamil body passed the end-to-end stale-reading check.
-
-Important page-boundary continuations preserved correctly:
-
-- printed p.5 → p.6: `பண்படுத்த` / `வேண்டும்.`;
-- printed p.6 → p.7: `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
-- printed p.10 → p.11: `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
-- printed p.15 → p.16: `வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.` / `அந்த வெறுப்பு...`.
-
-The verified Tamil layer is now frozen. Any later Tamil change requires documented source evidence and dependent English re-verification.
-
-### English gates
-
-- E1 English first-pass translation: **NOT STARTED - EXACT NEXT GATE**
-- E2 Tamil→English fidelity review: **NOT STARTED / BLOCKED until E1 complete**
-- E3 final end-to-end Tamil→English verification: **NOT STARTED / BLOCKED**
+E2 fidelity review has **not** begun and must remain blocked until the complete E1 first pass exists.
 
 ## Exact next activity
 
-Begin **E1 - English first-pass translation** from the frozen `transcription-ta.md` only.
+Continue **E1 - English first-pass translation** with **Batch 2: PDF pages 11-15 / printed pages 10-14**.
 
-Recommended first translation batch: **PDF pages 6-10 / printed pages 5-9**.
+Requirements remain:
 
-Requirements:
+1. translate only from frozen `transcription-ta.md`;
+2. retain PDF/printed-page correspondence;
+3. preserve argument, rhetorical force, repetition, metaphors, polemical language, humour and historical references;
+4. do not silently repair source-supported unusual Tamil;
+5. use a concise translator note only where a difficult verified form genuinely prevents a transparent English rendering;
+6. do not begin E2 review until all 12 speech pages are translated.
 
-1. retain explicit PDF/printed-page headings;
-2. translate only from the verified Tamil layer, not OCR or the source PDF independently;
-3. preserve argument structure, rhetorical force, repetition, metaphors, polemical language and historical references;
-4. do not silently repair unusual Tamil such as `அகம்புற மென்ற அன்றலர்ந்த`, `அயோத்தியானுக்கு`, or other source-supported forms;
-5. where a difficult source form creates genuine translation ambiguity, keep the translation transparent and record a concise note rather than inventing certainty;
-6. do not begin E2 review until the complete English first pass exists.
+After Batch 2, the final E1 batch will be PDF 16-17 / printed 15-16.
 
 ## Repository synchronization note
 
-The root catalogue remains unchanged. Root catalogue synchronization belongs to final archival closure after E1, E2, E3, metadata synchronization, and final handover are complete.
+Root catalogue synchronization belongs to final archival closure after E1, E2, E3, metadata synchronization, and final handover are complete.
