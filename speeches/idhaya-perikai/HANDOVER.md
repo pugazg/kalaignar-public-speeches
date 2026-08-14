@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage T1 Batch 6 / completion of the full Tamil first pass**. Continue from the next incomplete gate without repeating completed startup/T1 work and without beginning English early.
+This document records the exact state after **Stage T2 Batch 1**. Continue from the next incomplete audit page without repeating completed startup/T1 work or the already completed T2 pages, and do not begin English early.
 
 ## Repository
 
@@ -43,40 +43,54 @@ Stage T1 first-pass Tamil transcription is **complete — 32/32 body pages draft
 - Batch 5: PDF 24–29 / printed 23–28 — drafted
 - Batch 6: PDF 30–35 / printed 29–34 — drafted
 
-The complete body first pass now runs through **PDF page 35 / printed page 34**. `பந்தல் ஆடுகிறது!` and `கருகிடும் மொட்டுக்கள்!` are complete at T1 level. On PDF 35 only the body above the ornament is included; the publisher advertisement below it is excluded. No page is yet strict-verified.
+Stage T2 strict visual Tamil fidelity audit is **in progress — 5/32 pages checked**:
+
+- T2 Batch 1: PDF 4–8 / printed 3–7 — **checked line by line and corrections consolidated**
+
+The strict audit therefore runs through **PDF page 8 / printed page 7**. No page beyond PDF 8 has yet passed T2, and the overall Tamil layer is not yet `verified-complete`.
+
+## T2 Batch 1 confirmed findings
+
+The following were resolved from the actual scan and consolidated into `transcription-ta.md`:
+
+- PDF 4→5: `சமுத்தி` / `ரத்தின்` was visually confirmed as the single page-spanning word `சமுத்திரத்தின்`; the explicit PDF-page boundary remains preserved in the transcript.
+- PDF 5: `⟦செருமியமுத?⟧` → **`செருமியழுத`**.
+- PDF 6: restored source punctuation: `சீரழிக்கப்பட்டு, மூச்செல்லாம்`.
+- PDF 7: `⟦சீனத் தீவு?⟧` → **`சீனத் தீவு`**.
+- PDF 8: `அரிச்சுவடிகளைக் வைத்துக்கொண்டா?` → **`அரிச்சுவடிகளை வைத்துக்கொண்டா?`**.
+- PDF 8: `சென்ற இரண்டு ஆண்டுகளை ஒருமுறை` → **`சென்ற இரண்டு ஆண்டுகளில் ஒருமுறை`**.
+
+Pages 4–8 were otherwise checked directly against the scan for wording, names, numerals, punctuation and repeated phrases. Running headers and printed page numerals were not folded into the body text.
 
 ## Carry-forward source cautions
 
-Do not resolve these from context alone. Check them against the page images during Stage T2:
+Do not resolve these from context alone. Check them against the page images during their Stage T2 batches:
 
-- PDF 4→5: `சமுத்தி` / `ரத்தின்` page-boundary split.
-- PDF 5: `⟦செருமியமுத?⟧` uncertain first-pass reading.
-- PDF 7: `⟦சீனத் தீவு?⟧` uncertain first-pass reading.
 - PDF 13→14: `பூங்கோட்டத்` / `திலே` page-boundary split.
 - PDF 15: first-pass line `மன்றத்திலே இராவணனுக்கு அண்ணா.`
-- PDF 16: first-pass closing wording `திராவிடர் வாழ்வு உயரும்வரையில்` was read visually from the scan.
-- PDF 18: first-pass wording `சிலந்திக்கூடு` was read visually from the scan.
-- PDF 20: the classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்` was transcribed directly from this edition; do not substitute a reading from another edition during T2.
-- PDF 21: unusual first-pass reading `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` must be checked character-by-character during T2.
-- PDF 21→22: sentence crosses the page boundary as `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`
-- PDF 23: `⟦பாப்பு?⟧` in `ஜப்பான் கோயிலிலே ⟦பாப்பு?⟧ அவதாரத்தில் பகவான் வந்தார்` remains unresolved. Do not infer the reading from context or outside sources.
-- PDF 23: unusual first-pass forms `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` are deliberately preserved pending T2.
-- PDF 24→25: `விஷ` / `யத்தில்` page-boundary split remains visible.
-- PDF 25→26: the quotation crosses the boundary as `“மோர்` / `தாப்படவில்லை”`. The unusual `தாப்படவில்லை` is visibly printed at the start of PDF 26 and must not be silently repaired.
+- PDF 16: first-pass closing wording `திராவிடர் வாழ்வு உயரும்வரையில்`.
+- PDF 18: first-pass wording `சிலந்திக்கூடு`.
+- PDF 20: the classical quotation beginning `கொங்கணர் கலிங்கர் கொடுங்கருநாடர்`; do not substitute an outside edition.
+- PDF 21: unusual first-pass reading `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்`.
+- PDF 21→22: `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.` page-boundary continuation.
+- PDF 23: `⟦பாப்பு?⟧` in `ஜப்பான் கோயிலிலே ⟦பாப்பு?⟧ அவதாரத்தில் பகவான் வந்தார்` remains unresolved.
+- PDF 23: unusual first-pass forms `சீர்திருத்தம் முன்னவிட்டது` and `சீர்திருத்த கிடந்த` remain pending T2.
+- PDF 24→25: `விஷ` / `யத்தில்` page-boundary split.
+- PDF 25→26: `“மோர்` / `தாப்படவில்லை”`; preserve the unusual printed form unless T2 proves otherwise.
 - PDF 26: handwritten/accession `68206` is later annotation and is not body text.
-- PDF 27: `⟦நெசவாளர்களார்ச்சியை?⟧` remains unresolved in the first pass; do not guess it.
-- PDF 27: source-supported `போலீஸ்காரணங்களை` is retained pending T2.
-- PDF 28: source form `முச்ச விடக்` is retained as printed.
-- PDF 28→29: `கூட்ட` / `மல்ல!` page-boundary split remains visible.
-- PDF 30: unusual first-pass phrase `நரம்புகளைக் கீற்றுகளாக முடைந்து போட்டு` must be checked character-by-character.
-- PDF 30→31: page-boundary split `குழந்தை` / `கள்.` remains visible.
-- PDF 31: source forms `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று` are retained pending T2.
+- PDF 27: `⟦நெசவாளர்களார்ச்சியை?⟧` remains unresolved; do not guess it.
+- PDF 27: source-supported `போலீஸ்காரணங்களை` remains pending T2.
+- PDF 28: source form `முச்ச விடக்` remains pending T2.
+- PDF 28→29: `கூட்ட` / `மல்ல!` page-boundary split.
+- PDF 30: unusual first-pass phrase `நரம்புகளைக் கீற்றுகளாக முடைந்து போட்டு`.
+- PDF 30→31: `குழந்தை` / `கள்.` page-boundary split.
+- PDF 31: source forms `சுமன்றன கேள்விகள்` and `சூறவளிக் காற்று`.
 - PDF 31→32: the name sequence ends `ஓமாந்தூரார்—` and the next page begins `காணவில்லை தொண்டாற்றும் இந்தத் தூண்களே!`; do not invent bridging text.
-- PDF 32: source phrases `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்` are retained pending T2.
-- PDF 33→34: `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!` is a page-boundary continuation.
-- PDF 35: only the body above the ornament belongs to the canonical Tamil layer. The advertisement and later library/accession markings below it are not body text.
+- PDF 32: source phrases `துன்மார்க்க முறையை தொடர்கதையாக` and `செயல்வீரர் என்பதையும்`.
+- PDF 33→34: `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!` page-boundary continuation.
+- PDF 35: only the body above the ornament belongs to the canonical Tamil layer; the advertisement and later library/accession markings below it are not body text.
 
-These notes are not a substitute for T2. The entire body must now receive the mandatory line-by-line visual audit.
+These notes are not a substitute for T2. Every remaining body page must still receive the mandatory line-by-line visual audit.
 
 ## Current workflow state
 
@@ -84,7 +98,7 @@ These notes are not a substitute for T2. The entire body must now receive the ma
 |---|---|
 | 1. Source inspection / bibliographic-page map | **complete** |
 | 2. Tamil first-pass transcription (T1) | **complete — 32/32** |
-| 3. Strict visual Tamil fidelity audit (T2) | **ready-not-started — 0/32** |
+| 3. Strict visual Tamil fidelity audit (T2) | **in-progress — 5/32; through PDF 8 / printed 7** |
 | 4. Tamil consolidation / freeze (T3) | **not-started** |
 | 5. English first-pass translation (E1) | **not-started / locked** |
 | 6. English fidelity review (E2) | **not-started / locked** |
@@ -93,17 +107,16 @@ These notes are not a substitute for T2. The entire body must now receive the ma
 
 ## Exact next incomplete activity
 
-Begin **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 4 / printed page 3**.
+Continue **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 9 / printed page 8**. A manageable next batch is PDF 9–13 / printed 8–12.
 
 For the next batch:
 
-- compare each page line by line against the scan;
-- verify every name, numeral, punctuation mark, repeated phrase and suspicious historical/typographical form;
-- inspect all page-boundary splits before joining anything;
-- distinguish printed text from stamps, handwriting, bleed-through and damage;
-- record substantive corrections and unresolved readings in `audit.md`;
-- apply only source-confirmed corrections to `transcription-ta.md`;
-- work in manageable 4–6 page batches;
+- compare every line directly against the scan;
+- verify names, numerals, punctuation, repeated phrases and unusual source forms;
+- inspect page beginnings/endings for page-spanning words;
+- distinguish print from stamps, handwriting, damage and bleed-through;
+- record substantive findings in `audit.md`;
+- apply only source-confirmed corrections to `transcription-ta.md` before marking the batch checked;
 - do **not** mark Tamil `verified-complete` until all 32 pages pass T2 and T3 consolidation/freeze is complete;
 - do **not** begin English until the Tamil layer is frozen as `verified-complete`.
 

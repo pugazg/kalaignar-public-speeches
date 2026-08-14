@@ -43,15 +43,15 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | Repository duplicate check | **Complete** |
 | Source inspection and page map | **Complete** |
 | Tamil first-pass transcription | **Complete — 32/32; through PDF 35 / printed 34** |
-| Strict visual Tamil fidelity audit | **Ready, not started — 0/32** |
+| Strict visual Tamil fidelity audit | **In progress — 5/32; through PDF 8 / printed 7** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started / locked** |
 | English fidelity review | **Not started / locked** |
 | Final Tamil→English verification | **Not started / locked** |
 
-The Tamil text now contains a complete **Stage T1 first pass** of every body page. It has **not** yet passed the mandatory strict line-by-line source audit and must not be treated as `verified-complete`. Uncertain first-pass readings are explicitly marked in `transcription-ta.md`; page-boundary word splits and unusual source forms are preserved for T2/T3 checking rather than silently normalized.
+The Tamil text contains a complete **Stage T1 first pass** of every body page. Stage T2 has now begun, but only PDF pages 4–8 / printed pages 3–7 have passed the strict line-by-line visual comparison. The Tamil layer must not yet be treated as `verified-complete`.
 
-Batch 6 completed `பந்தல் ஆடுகிறது!` (PDF 30–32 / printed 29–31) and `கருகிடும் மொட்டுக்கள்!` (PDF 33–35 / printed 32–34). On PDF 35 only the body text above the ornament was transcribed; the publisher advertisement and later library/accession markings below it were excluded from the body layer.
+T2 Batch 1 resolved two earlier uncertain first-pass readings directly from the scan: PDF 5 / printed 4 is `செருமியழுத`, and PDF 7 / printed 6 is `சீனத் தீவு`. The audit also confirmed the PDF 4→5 page-boundary word `சமுத்தி` / `ரத்தின்` as the single word `சமுத்திரத்தின்`, while preserving the explicit page boundary in the transcript. Confirmed corrections on PDF 6 and PDF 8 were consolidated into `transcription-ta.md`; details are recorded in `audit.md`.
 
 ## Editorial rule
 
@@ -59,4 +59,4 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-Proceed to **Stage T2 — strict visual Tamil fidelity audit**, beginning at **PDF page 4 / printed page 3** and checking every body page line by line against the scan. Do not begin English translation until T2 and T3 pass and the Tamil layer is frozen as `verified-complete`.
+Continue **Stage T2 — strict visual Tamil fidelity audit** at **PDF page 9 / printed page 8**, comparing every line directly against the scan. Do not begin English translation until all 32 body pages pass T2, T3 consolidation/freeze is complete, and the Tamil layer is marked `verified-complete`.
