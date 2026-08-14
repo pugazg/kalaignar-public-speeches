@@ -1,6 +1,6 @@
 # இதய பேரிகை — working handover
 
-This document records the exact state after **Stage T3 Tamil consolidation and freeze completion**. Startup, T1, T2 and T3 are complete. The Tamil layer is frozen as `verified-complete`; the next incomplete gate is English first-pass translation. Do not repeat completed Tamil work unless new source evidence requires a documented correction.
+This document records the exact state after **Stage E1 English first-pass translation Batch 1**. Startup, T1, T2 and T3 are complete. The Tamil layer is frozen as `verified-complete`. E1 is now in progress; do not repeat completed Tamil work unless new source evidence requires a documented correction, and do not begin E2 before all 32 body pages have an English first pass.
 
 ## Repository
 
@@ -32,35 +32,35 @@ The scan does not establish a single speech date, venue, event, occasion, or aud
 
 ## Completed Tamil work
 
-Gate 1 source inspection/bibliographic mapping is **complete**.
-
-Stage T1 first-pass Tamil transcription is **complete — 32/32 body pages drafted**.
-
-Stage T2 strict visual Tamil fidelity audit is **complete — 32/32 body pages checked and corrections consolidated**:
-
-- T2 Batch 1: PDF 4–8 / printed 3–7
-- T2 Batch 2: PDF 9–13 / printed 8–12
-- T2 Batch 3: PDF 14–18 / printed 13–17
-- T2 Batch 4: PDF 19–23 / printed 18–22
-- Final remaining-pages sweep: PDF 24–35 / printed 23–34
-
-Stage T3 consolidation/freeze is **complete — passed 2026-08-14**. The canonical `transcription-ta.md` is now **`verified-complete` and frozen**.
-
-## Stage T3 checks completed
-
-- Reviewed the consolidated Tamil layer as one end-to-end unit after all T2 corrections were applied.
-- Confirmed PDF page headings **4–35** / printed pages **3–34** are present once each, in source order.
-- Confirmed all seven section starts remain at PDF 4, 12, 17, 21, 24, 30 and 33.
-- Rechecked every page boundary for stale fragments, omission/duplication and page-spanning words/sentences.
-- Rechecked significant boundaries including `சமுத்தி` / `ரத்தின்`, `சிந்தனைப் பூந்தோட்டத்` / `திலே`, `எப்படி` / `யிருந்தது`, `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`, `விஷ` / `யத்தில்`, `“மோர்` / `தாப்படவில்லை”`, `கூட்ட` / `மல்ல!`, `குழந்தை` / `கள்.`, `ஓமாந்தூரார்—` / `காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!`, `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!`, and `செயல்களில்` / `ஈடுபடவேண்டும்.`.
-- Searched for superseded T1/T2 readings; none remains in the canonical transcript.
-- Confirmed no unresolved `⟦...?⟧` marker remains in the body.
-- Confirmed PDF 35 body ends above the ornament; publisher advertising and later library/accession markings are excluded.
-- T3 required **no further Tamil body correction**. The freeze commit changed only editorial status/workflow text, not the body.
+- Gate 1 source inspection/bibliographic mapping: **complete**.
+- Stage T1 first-pass Tamil transcription: **complete — 32/32**.
+- Stage T2 strict visual Tamil fidelity audit: **complete — 32/32**.
+- Stage T3 consolidation/freeze: **complete — passed 2026-08-14**.
+- Canonical `transcription-ta.md`: **`verified-complete` and frozen**.
 
 Tamil freeze commit: `c0e327a5cc0cbe15edd9e02253d02f4eb67764cb`.
 
 See `audit.md` for the complete T2 correction trail and T3 consolidation record.
+
+## Stage E1 progress
+
+Stage E1 first-pass English translation is **in progress — 5 / 32 body pages complete**.
+
+Completed E1 Batch 1:
+
+- PDF 4 / printed 3
+- PDF 5 / printed 4
+- PDF 6 / printed 5
+- PDF 7 / printed 6
+- PDF 8 / printed 7
+
+The English file retains PDF/printed-page headings and follows the frozen Tamil paragraph and rhetorical sequence. Translation is being made only from `transcription-ta.md`, not from OCR or an outside edition.
+
+The PDF 7 source wording `சீனத் தீவு` is sufficiently unusual that the English translation preserves the literal “Chinese island” wording and includes a concise translator/source note rather than silently correcting it.
+
+PDF 8 ends in the middle of a continuing source sentence (`...தேனியிலே திருவிளையாடல் புரிந்து`); the English first pass intentionally ends the page with the corresponding continuation dash. Resume from the beginning of PDF 9 without inventing bridging wording.
+
+E1 Batch 1 translation commit: `fad8c27a24a85ca03066e0ce9aafde5b53f253b8`.
 
 ## Important verified source readings to preserve in English work
 
@@ -90,18 +90,20 @@ If a literal English rendering of a difficult printed form would mislead, preser
 | 2. Tamil first-pass transcription (T1) | **complete — 32/32** |
 | 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32** |
 | 4. Tamil consolidation / freeze (T3) | **complete — `verified-complete`, frozen 2026-08-14** |
-| 5. English first-pass translation (E1) | **not-started — ready** |
+| 5. English first-pass translation (E1) | **in progress — 5/32; through PDF 8 / printed 7** |
 | 6. English fidelity review (E2) | **not-started / locked until E1 completes** |
 | 7. Final Tamil→English verification (E3) | **not-started / locked** |
 | 8. Repository closure/catalogue synchronization | **not-started** |
 
 ## Exact next incomplete activity
 
-Proceed with **Stage E1 — English first-pass translation**.
+Continue **Stage E1 — English first-pass translation** at **PDF page 9 / printed page 8**.
+
+A practical next batch is PDF **9–13 / printed 8–12**, continuing the sentence from PDF 8 and then proceeding through the source page boundaries exactly.
 
 For E1:
 
-- translate **only from the frozen `transcription-ta.md`**, not from OCR and not independently from the PDF or an outside edition;
+- translate **only from the frozen `transcription-ta.md`**;
 - retain PDF/printed-page headings and source paragraph/page sequence;
 - preserve argument structure, rhetorical force, repetition, metaphors, polemical language and historical references;
 - do not silently normalize difficult verified Tamil forms;
@@ -116,4 +118,4 @@ Root `README.md` remains intentionally unchanged until final archival closure, a
 
 ## Unresolved bibliographic issue
 
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This does not affect the frozen Tamil body or the start of English translation.
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This does not affect the frozen Tamil body or ongoing English translation.
