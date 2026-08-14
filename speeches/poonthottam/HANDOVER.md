@@ -1,6 +1,6 @@
 # கலைஞரின் பூந்தோட்டம் - working handover
 
-Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source inspection and Tamil T1→T2→T3 are complete; the Tamil layer is frozen as `verified-complete`. E1 is complete. E2 independent Tamil→English fidelity review is now in progress.
+Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source inspection, Tamil T1→T2→T3, English E1, and independent English fidelity review E2 are complete. The Tamil layer is frozen as `verified-complete`.
 
 ## Repository
 
@@ -23,53 +23,40 @@ Continue from the exact next incomplete gate in `speeches/poonthottam/`. Source 
 - Source inspection / page map: **complete**
 - T1 Tamil first pass: **12/12 complete**
 - T2 strict visual audit: **12/12 complete**
-- T3 consolidation / boundary / stale-reading check: **complete**
+- T3 Tamil consolidation / boundary / stale-reading check: **complete**
 - Tamil canonical layer: **`verified-complete` and frozen**
-- E1 English first pass: **12/12, `first-pass-complete`**
+- E1 English first pass: **12/12 complete**
+- E2 independent Tamil→English fidelity review: **12/12 complete**
 
-## E2 fidelity-review state
+## E2 result
 
-**IN PROGRESS - 5 / 12 speech pages reviewed.**
+All three E2 batches are complete:
 
-Completed E2 Batch 1:
+- Batch 1: PDF 6-10 / printed 5-9
+- Batch 2: PDF 11-15 / printed 10-14
+- Batch 3: PDF 16-17 / printed 15-16
 
-- PDF 6-10 / printed 5-9
-- PDF 6-9 passed without English correction.
-- PDF 10 produced one confirmed English correction.
+Total confirmed English corrections during E2: **1**.
 
-### Confirmed E2 correction so far
+The correction was on PDF 10, where E1 obscured the relation in `அவன் அண்ணன் அயோத்தியானுக்கு, தன் அண்ணன் இராவணனைக் காட்டிக் கொடுத்த...`. The reviewed English now states that Vibhishana betrayed Ravana to **Bharata's elder brother, the Ayodhyan**. Tamil was not changed.
 
-Frozen Tamil on PDF 10 reads:
+Batches 2 and 3 produced no additional confirmed correction. Their page-boundary checks found no omission or duplication. The existing transparent treatment of the difficult source-supported forms `தண்ட காரணயத்திலே`, `பெய்ப்படி`, `வழக்கு மன்றத்திற்கு`, and final-page `மானிடம்` was re-evaluated and retained rather than silently normalizing or conjecturally repairing the frozen Tamil.
 
-`அவன் அண்ணன் அயோத்தியானுக்கு, தன் அண்ணன் இராவணனைக் காட்டிக் கொடுத்த சகோதரன் விபீஷணனும்`
-
-E1 had left `அயோத்தியானுக்கு` embedded in English in a way that obscured the grammatical relation. E2 corrected the English to:
-
-`Vibhishana—the brother who betrayed his own elder brother Ravana to Bharata's elder brother, the Ayodhyan!`
-
-The Tamil itself was **not changed**. The translator note now explains that the grammatical relation is translated while the source-supported Tamil form remains untouched.
-
-Batch 1 also confirmed that the PDF 9→10 page boundary is complete and that the intentionally transparent handling of `அகம்புற மென்ற அன்றலர்ந்த` is not itself a translation error.
-
-`translation-review.md`, `translation-en.md`, and `metadata.json` are synchronized through E2 Batch 1.
+`translation-review.md` is now `complete`; `metadata.json` records E2 as 12/12 complete.
 
 ## Exact next activity
 
-Continue **E2 Batch 2: PDF pages 11-15 / printed pages 10-14**.
+Begin **E3 - final end-to-end Tamil→English verification**, covering the entire speech continuously from **PDF 6 through PDF 17 / printed 5 through 16**.
 
-For each page:
+E3 is a separate gate. It must:
 
-1. compare frozen Tamil directly against the current English;
-2. check every proposition for omission, addition, semantic drift, reversed relation, weakened/strengthened claim, and misplaced antecedent;
-3. preserve rhetorical force, repetition, humour, metaphor, polemical register, names and historical references;
-4. inspect page-boundary continuations, especially PDF 11→12 and subsequent transitions;
-5. re-evaluate the existing transparent notes for `தண்ட காரணயத்திலே`, `பெய்ப்படி`, and `வழக்கு மன்றத்திற்கு`; a difficult source form may remain visible, but surrounding grammar must still be translated as faithfully as the frozen Tamil permits;
-6. record every confirmed correction in `translation-review.md` and apply it to `translation-en.md`;
-7. do not alter frozen Tamil without new documented source evidence;
-8. do not begin E3.
+1. read frozen `transcription-ta.md` and reviewed `translation-en.md` end-to-end rather than as isolated batches;
+2. verify that every Tamil proposition has an English counterpart and that English contains no unsupported substantive addition;
+3. verify all eleven internal page transitions for continuity, especially sentences split by printed-page boundaries;
+4. verify that the sole E2 correction on PDF 10 is present and no stale E1 wording survives;
+5. recheck names, numbers, rhetorical repetitions, metaphors, humour, polemical force and the three-part flower/garden argument as a continuous structure;
+6. confirm that translator notes accurately identify unresolved source forms without turning conjecture into translation;
+7. record E3 findings in `translation-review.md` (or the workflow-prescribed final-verification section), applying any newly confirmed English correction before closure;
+8. update metadata only after E3 genuinely passes.
 
-After Batch 2, if complete, E2 should stand at **10/12** and the final E2 batch will be PDF 16-17 / printed 15-16.
-
-## Closure still blocked
-
-Do not yet synchronize the root catalogue or mark the speech archive complete. Those actions wait until E2, correction consolidation, E3 final end-to-end verification, metadata/README synchronization, and final handover are complete.
+Do **not** yet mark the archive fully complete or update the root catalogue. Final archival synchronization—speech README, metadata, root catalogue and final HANDOVER—comes only after E3 passes.
