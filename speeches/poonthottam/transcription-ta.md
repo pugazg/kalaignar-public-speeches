@@ -1,17 +1,17 @@
 # பூந்தோட்டம் - Tamil transcription
 
-> **Status:** `in-progress`  
+> **Status:** `first-pass-complete`  
 > **Controlling source:** `TVA_BOK_0065784_கலைஞரின்_பூந்தோட்டம்.pdf`  
 > **Speech-body scope:** PDF pages 6-17 / printed pages 5-16  
 > **Speech pages:** 12  
-> **First-pass drafted:** 10 / 12 speech pages (PDF 6-15 / printed 5-14)  
+> **First-pass drafted:** 12 / 12 speech pages  
 > **Strict visual audit:** not started
 
 ## Gate state
 
-Source inspection and page mapping are complete. Stage **T1 - first-pass transcription** is in progress.
+Source inspection and page mapping are complete. Stage **T1 - first-pass transcription is complete for all 12 speech pages**.
 
-The text below is a first-pass source transcription only. It has **not** yet passed the mandatory independent line-by-line Stage T2 visual fidelity audit and must not be treated as `verified-complete`.
+The text below is still a **first-pass source transcription**. It has **not** yet passed the mandatory independent line-by-line Stage T2 visual fidelity audit and must not be treated as `verified-complete`.
 
 ---
 
@@ -237,9 +237,50 @@ The text below is a first-pass source transcription only. It has **not** yet pas
 
 ---
 
-## Remaining T1 pages
+## PDF page 16 / printed page 15
 
-- PDF 16 / printed 15
-- PDF 17 / printed 16
+சீராளனைக் கறி சமைத்து சிவனுக்கு விருந்து வைத்த பிறகு தான் சிறுத்தொண்டனுக்கு பக்தன் என்ற பதக்கம் மாட்டப்பட்டது. காரணம், இவர்களெல்லாம் தாழ்ந்த ஜாதிக்காரர்கள். இதே நேரத்தில் தாயைக் கட்டிலறைக் கழைத்து, தந்தையைக் கொன்று மாபாதகம் புரிந்த உயர் ஜாதிக்காரர் ஒருவர் வைகைக் கரையிலே நின்று ‘வரந் தருவாய் பரமனே!’ என அழைக்க, ‘வந்தேன் பக்தனே!’ என்று பெருமான், மோட்சலோக ‘பாஸ்போர்ட்’டன் பக்தனை சந்திக்க வருகிறார்.
 
-Do not begin Stage T2 until all 12 speech-body pages have a complete first-pass transcription.
+இத்தகைய ஜாதி வெறிக் கதைகள் யாருக்கு ஆபத்தை அளிக்கின்றன. இந்தக் கதைகளையெல்லாம் செல்லுபடியாகாதவையெனக் கூறி கடலிலே எறிந்திட வேண்டியது உயர் வகுப்பார் கடமையல்லவா?
+
+இந்தக் கதைகளும், இக்கதைகள் காட்டும் வழியில் நடப்பவர்களும் தாழ்ந்த ஜாதியினர் எதிர்ப்புக்கு உள்ளாவதற்கு முன்பு தங்களை மாற்றிக் கொண்டிருந்தால் பூந்தோட்டத்தில் புயல் வீசிட வேண்டியதில்லையே; தென்றலல்லவா தெம்மாங்கு பாடியிருக்கும்.
+
+எதிரே நிற்பவன் கையிலே கத்தியை வைத்துக் கொண்டு நிற்கிறான், பக்கத்திலே போகிறவன் கை முஷ்டியையாவது மடக்கிக் கொண்டுதானே போவான். அப்படி கைமுஷ்டி மடக்கினால் அதை வகுப்பு வாதம் என்று கூறிவிட முடியும்.
+
+கத்தியை கீழே வீசிவிடச் சொல்லுகிறேன். கைமுஷ்டி காட்ட வேண்டிய நிலை, தானே மறைந்து விடும் என்று உறுதி கூறுகிறேன். கத்தி கீழே எறியப்பட்டால், கையை உயர்த்தி வருபவன் கை தாழ்த்திடுவான் - கசப்பு நீங்கும் - கைகுலுக்கப்படும் காட்சியைக் காணமுடியும்.
+
+கத்தி - புராணங்கள் என்பது மட்டுமல்ல; பூர்ஷ்வாத் தன்மை - புல்லுருவிக் கொள்கை எல்லாமேதான்!
+
+அந்தக் கத்தி கைவிடப்படுமா? போர் ஒழிப்புப் புறா பறந்திடுமா? அல்லது பூந்தோட்டத்திலே புழுதி பறந்திடத்தான் வேண்டுமா?
+
+அந்தப் புழுதி பரப்பிடும் வேலையிலே ஈடுபட வேண்டியதில்லை என்று கத்தி பிடித்திருப்போர் கூறிவிட்டால், பூந்தோட்டத்தை வசமாக்கிடும் வேலையிலே புரிவோடு அனைவரும் கை கோர்த்த வண்ணம் ஈடுபடலாம்.
+
+இல்லையேல் பலர் அந்தப் பணிபுரிய - சிலர் சிரித்துக் கேலி பேச - வேண்டாத ஒரு வெறுப்பு வளர்த்தான் நேரிடும்.
+
+---
+
+## PDF page 17 / printed page 16
+
+அந்த வெறுப்பு, தோட்டத்தை வசமாக்கும் வேலையை சிறிது தாமதப்படுத்தும் என்பதைத் தவிர வெற்றிக்கு அணைபோட்டு விட முடியாது என்பது மட்டும் தெளிவாகத் தெரிகிறது.
+
+வண்ண மலர் வனத்தை நம் வசமாக்க வழக்கு நடத்துவோம்.
+
+வனத்தில் எழுந்துள்ள பிரச்சினைகளை எப்படியெப்படி தீர்ப்பது என்பது பற்றி, கருத்துக்களைப் பரப்பிடுவோம். வழக்கு முடிந்து, நல்ல தீர்ப்பு கிடைக்கும் வகையில் - தோட்டத்திலே எம்மலர் வைப்பது, வைத்த மலரை யார் பறிப்பது, என்கிற பிரச்சாரத்தில் ஈடுபடுவோம்.
+
+ஆனால், இந்தப் பிரச்சாரத்திற்காக - வழக்கு நடத்தும் தீவிரத்திலிருந்து வழுக்கி விடாமல் நடப்போம்.
+
+அப்படி நடைபோடும் நல்லதம்பிகளைத்தான் - நான் குறிப்பிடும் பூந்தோட்டம் விரும்புகிறது. அந்த விருப்பத்தை நிறைவேற்றும் வீரர்களாகுங்கள்.
+
+விருதுகள் காத்திருக்கின்றன. வெற்றிச் சிந்து கிளம்ப, நீங்கள் வீணை மீட்ட வேண்டியது தான் பாக்கி!
+
+தென்றல் தவழும் - புதுமணம் நீந்தும் - மானிடம், தேன்சிட்டு, மயில், குயில், மாட்டுப்புறா எல்லாமே புதுமைக் கலைவிருந்து படைக்கும். அந்த இன்பப் பூந்தோட்டம் காண இளைஞர் உலகுக்கு மீண்டும் ஒரு முறை அழைப்பு விடுகிறேன்.
+
+**வணக்கம்**
+
+---
+
+## Next gate
+
+Stage **T1 is first-pass-complete: 12 / 12 speech pages drafted**.
+
+The next permitted stage is **T2 - strict independent line-by-line visual fidelity audit of every speech page**, beginning again from PDF page 6 / printed page 5. No English translation may begin until T2 and T3 are complete and the Tamil layer is frozen as `verified-complete`.

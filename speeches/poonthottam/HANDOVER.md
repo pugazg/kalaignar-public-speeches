@@ -1,6 +1,6 @@
 # கலைஞரின் பூந்தோட்டம் - working handover
 
-This handover records the current state of `speeches/poonthottam/` after **T1 first-pass Batch 2**. It exists so continuation proceeds from the exact next incomplete batch without restarting source inspection or redoing drafted pages.
+This handover records the current state of `speeches/poonthottam/` after **T1 first-pass completion**. It exists so continuation proceeds from the exact next incomplete gate without restarting source inspection or retranscribing drafted pages.
 
 ## Repository
 
@@ -36,18 +36,6 @@ Therefore:
 
 Do not replace these source-grounded fields with historical inference.
 
-## Edition / publication evidence
-
-PDF page 3 records:
-
-- `முதற்பதிப்பு - 1951 (திராவிடப் பண்ணை)`;
-- `நான்காம் பதிப்பு : 2019`;
-- `திராவிடர் கழக (இயக்க) வெளியீடு` as current publisher / rights holder;
-- `‘விடுதலை’ ஆஃப்செட் பிரிண்டர்ஸ், சென்னை - 600 007.` as printer;
-- `நன்கொடை (குறைந்த அளவு): ரூ.12/-`.
-
-PDF page 4 is a publisher's preface dated 12.01.2018; that date is front-matter evidence, **not** the speech date.
-
 ## Canonical page map
 
 - PDF 1 - front cover
@@ -75,27 +63,23 @@ The speech begins on PDF 6 under `பூந்தோட்டம்` and ends on
 
 ### Gate 2 / T1 - Tamil first-pass transcription
 
-**IN PROGRESS - 10 / 12 speech pages drafted.**
+**FIRST-PASS COMPLETE - 12 / 12 speech pages drafted.**
 
 Completed T1 batches:
 
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
+- Batch 3: PDF 16-17 / printed 15-16
 
-These pages are present in `transcription-ta.md` as **first-pass text only**. They have not been declared verified.
-
-Remaining T1:
-
-- PDF 16 / printed 15
-- PDF 17 / printed 16
+All speech-body pages are present in `transcription-ta.md` as **first-pass text only**. None is yet verified.
 
 ### Gate 3 / T2 - strict line-by-line visual Tamil audit
 
-**NOT STARTED.** Must wait until the complete 12-page first-pass Tamil body exists.
+**NOT STARTED - THIS IS THE EXACT NEXT GATE.**
 
 ### Gate 4 / T3 - Tamil consolidation and freeze
 
-**NOT STARTED / BLOCKED.**
+**NOT STARTED / BLOCKED until T2 completes all 12 pages.**
 
 ### English gates
 
@@ -107,39 +91,45 @@ These are not final audit resolutions; re-check them in T2.
 
 From Batch 1:
 
-- printed p.5 → p.6 continues `பண்படுத்த` / `வேண்டும்.` across the page boundary;
+- printed p.5 → p.6 continues `பண்படுத்த` / `வேண்டும்.`;
 - printed p.6 → p.7 continues `...மொண்டு மொண்டு தரும்` / `தென்றலாக, ...`;
-- printed p.6 visibly has `பரவசத்திலீடுபடுகிறான்`;
-- printed p.6 transition wording is `அடுத்தது,`;
-- printed p.6 retains the unusual phrase `அகம்புற மென்ற அன்றலர்ந்த`;
-- printed p.7 phrase reads `சீர் குலுங்கும்`;
-- printed p.8 emphasizes the joined form `அந்தக்காலம்`;
-- printed p.9 contains the unusual source form `அயோத்தியானுக்கு`.
+- printed p.6 `பரவசத்திலீடுபடுகிறான்`;
+- printed p.6 `அகம்புற மென்ற அன்றலர்ந்த`;
+- printed p.7 `சீர் குலுங்கும்`;
+- printed p.8 joined `அந்தக்காலம்`;
+- printed p.9 `அயோத்தியானுக்கு`.
 
 From Batch 2:
 
-- printed p.10 has `தண்ட காரணயத்திலே`, `வைத்தே இருக்குமிடத்தை`, `மிதிலாபுரிக்கு ஜனகனுக்கு`, and `‘டிரங்கால்’`;
-- printed p.10 contains `‘ரிஸ்ட் வாட்ச்’` and `“பஜகோவிந்த” மா`;
-- printed p.10 → p.11 continues `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...` across the page boundary;
-- printed p.11 retains `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்` and source spacing such as `சொந்த மென்றான்`;
-- printed p.12 first-pass reading `பெய்ப்படி` requires deliberate character-level T2 reinspection;
-- printed p.13 reads `வழக்கு மன்றத்திற்கு`;
-- printed p.14 retains `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, `சொல்லே யில்லாத`, and `காரைக்காலம்மை`.
+- printed p.10 `தண்ட காரணயத்திலே`, `வைத்தே இருக்குமிடத்தை`, `மிதிலாபுரிக்கு ஜனகனுக்கு`, `‘டிரங்கால்’`;
+- printed p.10 `‘ரிஸ்ட் வாட்ச்’`, `“பஜகோவிந்த” மா`;
+- printed p.10 → p.11 continues `வேலைகளை விட்டு ஓய்வு` / `பெறுகிறவர் ...`;
+- printed p.11 `பகுத்தறிவு புரியினருக்கும், பழமைத் தீவினருக்கும்`, `சொந்த மென்றான்`;
+- printed p.12 first-pass `பெய்ப்படி` requires character-level T2 reinspection;
+- printed p.13 `வழக்கு மன்றத்திற்கு`;
+- printed p.14 `பாமர நிலையவிட்டுக்`, `தன் தனிப் பெருமை யிழந்து`, `சொல்லே யில்லாத`, `காரைக்காலம்மை`.
 
-Do not normalize these merely because a modern or contextually smoother reading seems likely.
+From Batch 3:
+
+- printed p.15 `தாயைக் கட்டிலறைக் கழைத்து`, `வைகைக் கரையிலே`, `மோட்சலோக ‘பாஸ்போர்ட்’டன்`, `பூர்ஷ்வாத் தன்மை`;
+- printed p.15 uses both `கை முஷ்டி` and `கைமுஷ்டி`;
+- printed p.15 first-pass `புரிவோடு` needs deliberate T2 character-level reinspection;
+- printed p.15 → p.16 is a sentence/thought continuation, not a split word;
+- printed p.16 `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`;
+- printed p.16 printed `வணக்கம்` is speech text; the large blue library stamp below it is not.
+
+Do not normalize any of these merely because a smoother or modern reading seems likely.
 
 ## Exact next activity
 
-Continue **Stage T1 only** with the final first-pass batch:
+Begin **Stage T2 - strict independent Tamil fidelity audit** with the first audit batch:
 
-**PDF pages 16-17 / printed pages 15-16.**
+**PDF pages 6-10 / printed pages 5-9.**
 
-Preserve explicit PDF/printed-page boundaries. Do not translate. Do not begin the strict T2 audit yet.
+This must be a fresh line-by-line scan comparison against the existing first-pass transcription. Check punctuation, spacing where meaningful, names, numerals, repeated wording, suspicious OCR-like forms, and page boundaries. Record substantive findings in `audit.md` and apply only scan-confirmed corrections to `transcription-ta.md`.
 
-When those final two pages are drafted, mark T1 `first-pass-complete`, synchronize the counters, and then begin Stage T2 as a separate independent line-by-line visual audit of **all 12 speech pages**, starting again from PDF 6 / printed 5.
+Do **not** begin English translation and do **not** mark Tamil `verified-complete` after one T2 batch. All 12 speech pages must pass T2, followed by the separate T3 consolidation/page-boundary/stale-reading check.
 
 ## Repository synchronization note
 
-The root catalogue remains unchanged during T1. Per the repository processing guide, root catalogue synchronization belongs to archival closure after all textual gates pass.
-
-`metadata.json`, the speech-level `README.md`, `transcription-ta.md`, `audit.md`, and this handover should remain synchronized with the current T1 page counters.
+The root catalogue remains unchanged. Root catalogue synchronization belongs to archival closure after all textual gates pass.
