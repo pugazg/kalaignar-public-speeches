@@ -44,19 +44,21 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 | Source inspection and page map | **Complete** |
 | Tamil first-pass transcription | **Complete — 32/32; through PDF 35 / printed 34** |
 | Strict visual Tamil fidelity audit | **Complete — 32/32; through PDF 35 / printed 34** |
-| Tamil consolidation / freeze | **Not started** |
-| English translation | **Not started / locked** |
-| English fidelity review | **Not started / locked** |
+| Tamil consolidation / freeze | **Complete — `verified-complete`, frozen 2026-08-14** |
+| English translation | **Ready / not started** |
+| English fidelity review | **Not started / locked until E1 completes** |
 | Final Tamil→English verification | **Not started / locked** |
 
-The Tamil text now has a complete first pass and a complete **Stage T2 strict line-by-line visual audit of all 32 body pages**. The Tamil layer must still **not** be treated as `verified-complete`: Stage T3 consolidation, page-boundary/stale-reading review and freeze have not yet been performed.
+The Tamil layer has passed all three Tamil gates. Stage T3 reviewed the consolidated transcript end to end after T2, confirmed that PDF pages **4–35 / printed pages 3–34 appear once each and in source order**, rechecked every page boundary for split words/sentences and stale first-pass fragments, searched for superseded T1/T2 readings, and confirmed that no unresolved T2 marker remains in the body. The PDF 35 body/advertisement boundary was also reconfirmed: only the body above the ornament belongs to the canonical Tamil layer. The transcript is therefore frozen as **`verified-complete`**.
 
-The final remaining-pages audit covered PDF 24–35 / printed 23–34 in one continuous sweep. Among the confirmed corrections, PDF 27 resolves the earlier uncertainty as `நெசவாளர்கிளர்ச்சியை`; PDF 28 reads `மூச்சு விடக்`; PDF 30 reads `எலும்புகளை தூண்களாக`, `முடிசூடா மன்னர்`, `படையலைக் காட்டினார்`, and `படபடவென`; PDF 32 begins `காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!` and later reads `தி. மு. கழகத்தார் சொல்வார் மட்டுமல்ல`; and PDF 34 uses the printed comma after `செல்லப்பட்டாள்` and single hyphens in `மாட்டுக்கார்களாக-கூப்பிட்ட` / `வீட்டுக் கூலிகளாக-அடிமைப்பட்டுக்`. Page-spanning words and sentences were checked without invented bridging text. PDF 35's body ends above the ornament; the publisher advertisement and later library/accession markings below it remain excluded. Full details are recorded in `audit.md`.
+The final T2 remaining-pages audit covered PDF 24–35 / printed 23–34 in one continuous sweep. Among the confirmed corrections, PDF 27 resolves the earlier uncertainty as `நெசவாளர்கிளர்ச்சியை`; PDF 28 reads `மூச்சு விடக்`; PDF 30 reads `எலும்புகளை தூண்களாக`, `முடிசூடா மன்னர்`, `படையலைக் காட்டினார்`, and `படபடவென`; PDF 32 begins `காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!` and later reads `தி. மு. கழகத்தார் சொல்வார் மட்டுமல்ல`; and PDF 34 uses the printed comma after `செல்லப்பட்டாள்` and single hyphens in `மாட்டுக்கார்களாக-கூப்பிட்ட` / `வீட்டுக் கூலிகளாக-அடிமைப்பட்டுக்`. Full T2 and T3 details are recorded in `audit.md`.
 
 ## Editorial rule
 
 The supplied scan is the controlling witness for this edition. Preserve source-supported historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar and typographical forms. Do not treat library stamps, handwriting, accession numbers, damage or bleed-through as printed edition text. OCR/parsed text may assist but is never authoritative.
 
+The verified Tamil layer is now frozen. Any later Tamil alteration requires documented source evidence and re-verification of any dependent English translation.
+
 ## Next gate
 
-Proceed to **Stage T3 — Tamil consolidation, page-boundary/stale-reading review, and freeze**. Only after T3 passes may the Tamil layer be marked `verified-complete` and English translation begin.
+Proceed to **Stage E1 — English first-pass translation**, translating **only from the frozen `transcription-ta.md` verified Tamil layer** while retaining PDF/printed-page correspondence. Do not use OCR or an outside edition as the translation source.
