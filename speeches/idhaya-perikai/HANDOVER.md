@@ -1,8 +1,6 @@
-# இதய பேரிகை — working handover
+# இதய பேரிகை — final archival handover
 
-This document records the exact state after **Stage E3 final Tamil→English verification**. Startup, T1, T2, T3, E1, E2 and E3 are complete. The Tamil layer remains frozen as `verified-complete`, and the English layer is now also **`verified-complete`** for all **32/32 body pages**.
-
-The next incomplete gate is **Stage 8 — repository-level archival closure**.
+This document records the completed archival state of `இதய பேரிகை` (`idhaya-perikai`). It exists so future work begins from the verified repository state rather than restarting transcription, audit, translation or review.
 
 ## Repository
 
@@ -10,19 +8,27 @@ The next incomplete gate is **Stage 8 — repository-level archival closure**.
 - Branch: `main`
 - Directory: `speeches/idhaya-perikai/`
 - Slug: `idhaya-perikai`
+- Archival closure date: **2026-08-14**
 
 ## Source identity
 
 - Source filename: `TVA_BOK_0016120_இதய_பேரிகை(1).pdf`
 - SHA-256: `4217717379b028de17ed9830dac4bdfd54ae7256705b891c207d646707640b9d`
 - File size: `21,135,384` bytes
-- PDF page count: `36`
+- Actual PDF page count: `36`
 - Source binary committed to GitHub: **No — repository policy**
 
-The scan does not establish a single speech date, venue, event, occasion, or audience. Do not infer those fields from internal dates/events or outside knowledge.
+The title page gives `இதய பேரிகை.` and `மு. கருணாநிதி.` with `வெளியீடு: கலைப்பூங்கா, திருவாரூர்.` The imprint/front-matter page states `முதற்பதிப்பு—டிசம்பர் 1951`, `"கலைப்பூங்கா" உரிமை பெற்றது.`, and `விலை அணா எட்டு.`
+
+The title page does **not** explicitly label the work as `பேச்சு`. The booklet contains seven separately titled sections and is archived as one source unit. The scan does not establish a single speech date, venue, event, occasion, or audience. Do not infer those fields from publication date, internal references or outside knowledge.
+
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed printer line. This is a bibliographic limitation and must not be guessed.
 
 ## Page map
 
+- PDF 1 — front cover; later library/accession markings present
+- PDF 2 — title page
+- PDF 3 — first-edition/imprint/rights/price/printer information plus `என் நினைவு!` front matter; later library stamp partly obscures printer line
 - PDF 4–11 / printed 3–10 — `சிறு துளி பெரு வெள்ளம்.`
 - PDF 12–16 / printed 11–15 — `வீதிதேவர் மயக்கம்.`
 - PDF 17–20 / printed 16–19 — `பூம்புகார் மாநாடு.`
@@ -30,111 +36,95 @@ The scan does not establish a single speech date, venue, event, occasion, or aud
 - PDF 24–29 / printed 23–28 — `நமது உரிமை.`
 - PDF 30–32 / printed 29–31 — `பந்தல் ஆடுகிறது!`
 - PDF 33–35 / printed 32–34 — `கருகிடும் மொட்டுக்கள்!`
-- PDF 35 lower portion — publisher advertisement; excluded from canonical body
+- PDF 35 lower portion — publisher advertisement beginning `பூங்காவின் அடுத்த மலர்!`; excluded from canonical body
+- PDF 36 — back cover
 
-## Completed Tamil work
+Canonical body scope: **32 body pages, PDF 4–35 / printed 3–34**.
 
-- Gate 1 source inspection/bibliographic mapping: **complete**.
-- Stage T1 first-pass Tamil transcription: **complete — 32/32**.
-- Stage T2 strict visual Tamil fidelity audit: **complete — 32/32**.
-- Stage T3 consolidation/freeze: **complete — passed 2026-08-14**.
-- Canonical `transcription-ta.md`: **`verified-complete` and frozen**.
+## Editorial rule
 
-Tamil freeze commit: `c0e327a5cc0cbe15edd9e02253d02f4eb67764cb`.
+This is a source-faithful archive.
 
-## Stage E1
+- The supplied scan controls the Tamil transcription.
+- Do not silently modernize spelling, punctuation, wording, names, numbers, grammar or unusual printed forms.
+- Do not treat library stamps, handwriting, accession numbers, damage or bleed-through as edition text.
+- Do not use an outside edition to overwrite this edition.
+- The verified Tamil layer is frozen; any future Tamil change requires specific source evidence, an audit record and dependent English re-verification.
+- The verified English layer is subordinate to the frozen Tamil and should be reopened only for a source-supported fidelity correction or a clearly separate derivative project.
+- Difficult or internally odd source wording must remain transparent through source/translator notes rather than silent emendation.
 
-Stage E1 first-pass English translation is **complete — 32/32 body pages**, through PDF 35 / printed 34.
+## Final completion state
 
-E1 completion translation commit: `332f17ec074f26588a898417f1efba802a221102`.
+### Tamil
 
-## Stage E2
+- Source inspection / bibliographic-page mapping: **complete**
+- T1 first-pass transcription: **32 / 32 complete**
+- T2 strict visual Tamil fidelity audit: **32 / 32 complete**
+- T3 consolidation and page-boundary/stale-reading pass: **complete**
+- Canonical status: **`verified-complete` and frozen**
+- Tamil freeze date: **2026-08-14**
 
-Stage E2 independently reviewed all **32/32 body pages** against frozen Tamil and identified **19 confirmed fidelity corrections**.
+### English
 
-Batch results:
+- E1 first-pass translation: **32 / 32 complete**
+- E2 independent Tamil→English fidelity review: **32 / 32 complete**
+- Confirmed E2 corrections: **19**
+- E2 corrections consolidated: **19 / 19**
+- E3 final end-to-end Tamil→English verification: **32 / 32 complete**
+- New E3 body-text corrections required: **0**
+- E3 note-status cleanups: **2**
+- Canonical status: **`verified-complete`**
 
-- PDF 4–8 / printed 3–7 — 0 corrections.
-- PDF 9–13 / printed 8–12 — 6 corrections.
-- PDF 14–18 / printed 13–17 — 2 corrections.
-- PDF 19–23 / printed 18–22 — 4 corrections.
-- PDF 24–28 / printed 23–27 — 3 corrections.
-- PDF 29–35 / printed 28–34 — 4 corrections.
+### Repository closure
 
-All **19/19** were consolidated into `translation-en.md`.
+- `metadata.json`: **synchronized / archival closure complete**
+- speech-level `README.md`: **synchronized / final archival status**
+- root catalogue `README.md`: **synchronized with `idhaya-perikai` entry**
+- standard speech files: **verified present; exactly seven files, with no temporary or duplicate file in the speech directory**
+- `HANDOVER.md`: **converted to final archival handover**
 
-English consolidation commit: `bc19daddaa67b079e372beeded1f58828289b839`.
+## Important preserved source-fidelity decisions
 
-## Stage E3 completion
+- PDF 7 `சீனத் தீவு` remains transparently represented as the printed unusual form rather than silently corrected.
+- PDF 15 `மன்றத்திலே இராவணனுக்கு அண்ணா.` retains a compact source-facing English rendering and note.
+- PDF 16 `பொறுமையை அடக்கமுடியாத` is explicitly surfaced rather than normalized to an inferred different Tamil word.
+- PDF 20 classical quotation retains the unresolved printed line `கடமலை வேட்டமென் கட்டபுலம்பிரியாது` verbatim and marks it untranslated; no outside edition was substituted.
+- PDF 21 `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` remains source-facing with a note.
+- PDF 22 `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` and `மடத்தனத்தை அழித்தது. மக்கள்...` remain transparent through notes.
+- PDF 23 `சீர்திருத்தம் முன்னவிட்டது` / `சீர்திருத்த கிடந்த` remains documented as difficult printed wording without reconstructing another Tamil sentence.
+- PDF 26 `தாப்படவில்லை` remains transliterated/noted rather than silently repaired.
+- PDF 27 `போலீஸ்காரணங்களை` remains rendered source-facing as “police reasons” with a note.
+- PDF 31 `சுமன்றன கேள்விகள்` / `சூறவளிக் காற்று` remains source-facing with a note.
+- PDF 35 `குருதியிலே மிதக்கவிட்டிருக்கிறது` is correctly rendered **“left a ten-year-old boy floating in blood”**, not “trampled in blood.”
 
-Stage E3 reread the entire consolidated English against the frozen Tamil from **PDF 4 / printed 3 through PDF 35 / printed 34**.
+The complete Tamil correction history is preserved in `audit.md`. The full English fidelity ledger and E3 verification record are preserved in `translation-review.md`.
 
-Checks completed:
+## Canonical repository files
 
-- all 32 body pages appear exactly once and in source order;
-- all seven section starts are correctly placed at PDF 4, 12, 17, 21, 24, 30 and 33;
-- cross-page continuations were rechecked, including PDF 4→5, 8→9, 10→11, 13→14, 18→19, 21→22, 24→25, 25→26, 26→27, 27→28, 28→29, 30→31, 31→32, 33→34 and 34→35;
-- all 19 E2 corrections were rechecked in context;
-- all translator/source notes were reviewed for source scope;
-- the PDF 35 publisher-advertisement boundary remains excluded.
+The speech directory contains exactly the standard seven files:
 
-**E3 result:** pass. No new English body-text fidelity correction was required. Two stale workflow phrases inside translator notes were cleaned without changing their source claims:
+- `README.md` — final speech-level archival summary
+- `metadata.json` — bibliographic, source and completed workflow state
+- `transcription-ta.md` — frozen verified Tamil transcription
+- `audit.md` — Tamil source-fidelity audit trail
+- `translation-en.md` — verified English translation
+- `translation-review.md` — English fidelity-review and E3 verification record
+- `HANDOVER.md` — this final archival handover
 
-1. PDF 22: `The first pass preserves...` → `The translation preserves...`.
-2. PDF 26: `left open in this first pass` → `left open in this translation`.
+The root `README.md` catalogue now includes `idhaya-perikai` as a completed work.
 
-E3 English verification commit: `ed56068c122e9e293ab0c52e4b99d6fc8f298ebc`.
+## Final future-work gate
 
-`translation-en.md` and `metadata.json` now identify English as **`verified-complete`**. `translation-review.md` contains the full E2 correction ledger and E3 verification record.
+**No Tamil transcription, Tamil visual-audit, Tamil consolidation, English translation, English fidelity-review, correction-consolidation, or final Tamil→English verification work is pending for `இதய பேரிகை`.**
 
-## Difficult-source outcomes preserved in final English
+Do not restart any completed stage simply because work moves to another chat. Reopen the archival text only if:
 
-- PDF 7 `சீனத் தீவு` — literal “Chinese island” rendering/note retained.
-- PDF 15 `மன்றத்திலே இராவணனுக்கு அண்ணா.` — compact rendering/note retained.
-- PDF 16 `பொறுமையை அடக்கமுடியாத` — difficult form explicitly surfaced.
-- PDF 20 classical quotation — unresolved printed line `கடமலை வேட்டமென் கட்டபுலம்பிரியாது` retained verbatim and marked untranslated; no outside edition substituted.
-- PDF 21 `எச்சு ஒருபுறம் - எண்ணம் - ஒருபுறம்` — source-facing rendering/note retained.
-- PDF 22 `சுயநலம் அவர்கள் வாழ்வில் சுற்றிக்கிடந்தது` and `மடத்தனத்தை அழித்தது. மக்கள்...` — transparency notes retained.
-- PDF 23 `சீர்திருத்தம் முன்னவிட்டது` / `சீர்திருத்த கிடந்த` — difficulty note retained without reconstructing a different Tamil sentence.
-- PDF 26 `தாப்படவில்லை` — transliteration/note retained.
-- PDF 27 `போலீஸ்காரணங்களை` — source-facing “police reasons” rendering/note retained.
-- PDF 31 `சுமன்றன கேள்விகள்` / `சூறவளிக் காற்று` — source-facing rendering/note retained.
-- PDF 32 `துன்மார்க்க முறையை தொடர்கதையாக` / `செயல்வீரர் என்பதையும்` — reviewed rendering retained.
+1. a specific source-fidelity problem is identified with evidence from the scan;
+2. a genuinely different edition/source is introduced and treated as a separate witness rather than overwriting this one; or
+3. the user explicitly requests a new derivative layer such as annotation, historical research, a reading edition, structured data, publication output, or another transformation.
 
-## Current workflow state
+If a future source correction is required, fetch the current `main` files first, document the evidence, preserve the distinction between source and interpretation, and propagate only the necessary dependent changes.
 
-| Gate | State |
-|---|---|
-| 1. Source inspection / bibliographic-page map | **complete** |
-| 2. Tamil first-pass transcription (T1) | **complete — 32/32** |
-| 3. Strict visual Tamil fidelity audit (T2) | **complete — 32/32** |
-| 4. Tamil consolidation / freeze (T3) | **complete — `verified-complete`** |
-| 5. English first-pass translation (E1) | **complete — 32/32** |
-| 6. English fidelity review (E2) | **complete — 32/32** |
-| 6a. E2 correction consolidation | **complete — 19/19 applied** |
-| 7. Final Tamil→English verification (E3) | **complete — 32/32; English `verified-complete`** |
-| 8. Repository closure/catalogue synchronization | **not-started** |
+## Source-binary policy
 
-## Exact next incomplete activity
-
-Proceed with **Stage 8 — repository-level archival closure**.
-
-Closure must:
-
-- inspect and synchronize the root catalogue `README.md` with a new `இதய பேரிகை` entry following existing catalogue style;
-- confirm `metadata.json` and speech-level `README.md` reflect final textual completion;
-- convert this `HANDOVER.md` from working state to final archival handover;
-- verify the standard seven speech files are present and no temporary/duplicate file has been introduced;
-- explicitly state that **no transcription or translation work remains pending**;
-- retain the unresolved printer-name issue as a bibliographic limitation, not a pending text task;
-- retain repository policy that the source PDF binary is not committed.
-
-Do not reopen Tamil or English text unless new source evidence is produced.
-
-## Root catalogue
-
-Root `README.md` remains intentionally unchanged at this checkpoint. It should be synchronized only in the Stage 8 closure activity.
-
-## Unresolved bibliographic issue
-
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This does not affect Tamil or English textual completion.
+The source PDF binary is intentionally **not committed to GitHub**. Its identity is fixed by filename, SHA-256, file size, page count and page map. Its absence from the repository is therefore **not a pending archival-text task**.
