@@ -29,6 +29,7 @@ The repository preserves each available source as evidence and separates four la
 | ID | Tamil title | Source edition | Speech date | Tamil transcription | English translation |
 |---|---|---|---|---|---|
 | `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
+| `idhaya-perikai` | இதய பேரிகை | First edition, December 1951 | Not stated in source | **Verified complete - 32/32 body pages** | **Verified complete - 32/32 body pages** |
 
 ## Repository layout
 
@@ -43,6 +44,14 @@ speeches/
     translation-en.md
     translation-review.md
     HANDOVER.md
+  idhaya-perikai/
+    README.md
+    metadata.json
+    transcription-ta.md
+    audit.md
+    translation-en.md
+    translation-review.md
+    HANDOVER.md
 ```
 
 ## Completed works
@@ -50,3 +59,9 @@ speeches/
 ### அறப்போர்
 
 The archival text workflow is complete: source identification, 17-page Tamil transcription, strict visual fidelity audit, English translation, English fidelity review, and final Tamil→English verification have all passed. The supplied source itself does not establish the original speech date, venue, or event, so those fields remain deliberately unset.
+
+### இதய பேரிகை
+
+The archival text workflow is complete for the full 32-page body: source inspection and page mapping, Tamil transcription, strict visual Tamil audit, Tamil consolidation/freeze, English translation, English fidelity review with all 19 confirmed corrections consolidated, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**.
+
+The source is a printed multi-section booklet whose title page does not explicitly label it as `பேச்சு`; it is therefore archived as one source unit without inventing a single speech event. The scan does not establish a single speech date, venue, event, occasion, or audience. The exact printer name on PDF page 3 also remains unresolved because a later library stamp obscures part of the printed line; this is a bibliographic limitation rather than pending text work.
