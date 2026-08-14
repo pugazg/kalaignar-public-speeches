@@ -1,9 +1,9 @@
 # இதய பேரிகை — தமிழ் உரைநகல்
 
-> **Status:** Stage T2 strict visual fidelity audit complete — **32 / 32 body pages checked**  
+> **Status:** Tamil transcription `verified-complete` — Stage T3 consolidation/freeze complete; English translation ready-not-started  
 > **Source:** `TVA_BOK_0016120_இதய_பேரிகை(1).pdf`  
 > **Body scope:** PDF pages 4–35 / printed pages 3–34  
-> **Rule:** Source-faithful transcription. OCR may assist, but the scan controls. Historical/unusual printed forms are not silently modernized. `⟦...?⟧` marks a reading that remains unresolved pending its Stage T2 visual audit.
+> **Rule:** Source-faithful transcription. OCR may assist, but the scan controls. Historical/unusual printed forms are not silently modernized. No unresolved T2 reading remains in this frozen Tamil layer.
 
 ## Body section map
 
@@ -27,7 +27,7 @@
 | 30–32 | 29–31 | பந்தல் ஆடுகிறது! | drafted |
 | 33–35 | 32–34 | கருகிடும் மொட்டுக்கள்! | drafted |
 
-**Important:** Stage T1 is complete for all 32 body pages. Stage T2 strict line-by-line visual audit is also complete: PDF pages 4–35 / printed pages 3–34 have all been checked and their confirmed corrections consolidated. The Tamil layer is **not yet `verified-complete`** until Stage T3 consolidation, stale-reading/page-boundary review, and freeze are completed.
+**Important:** Stage T1 is complete for all 32 body pages. Stage T2 strict line-by-line visual audit is complete for PDF pages 4–35 / printed pages 3–34, with all confirmed corrections consolidated. Stage T3 then rechecked the consolidated page sequence, every PDF-page boundary, stale superseded readings, unresolved markers, and the PDF 35 body/advertisement boundary. The Tamil layer is now **`verified-complete` and frozen**. Any later Tamil change requires documented source evidence and dependent English re-verification.
 
 ---
 
@@ -407,5 +407,6 @@
 
 **Stage T1 complete:** all 32 body pages (PDF 4–35 / printed 3–34) have a first-pass Tamil transcription.  
 **Stage T2 complete:** all 32 body pages have passed strict visual comparison and confirmed corrections have been consolidated.  
-**Next gate:** Stage T3 Tamil consolidation, stale-reading/page-boundary review, and freeze as `verified-complete`.  
-**English translation:** locked until T3 passes and the Tamil layer is frozen as `verified-complete`.
+**Stage T3 complete:** consolidation, stale-reading and page-boundary review passed; the Tamil layer was frozen as `verified-complete` on 2026-08-14.  
+**Next gate:** Stage E1 English translation from the verified Tamil layer only.  
+**English translation:** ready-not-started.
