@@ -10,26 +10,23 @@
 
 The title page gives the title **`இதய பேரிகை.`**, the author **`மு. கருணாநிதி.`**, and **`வெளியீடு: கலைப்பூங்கா, திருவாரூர்.`** The imprint/front-matter page states **`முதற்பதிப்பு—டிசம்பர் 1951`**, says **`"கலைப்பூங்கா" உரிமை பெற்றது.`**, and gives the price **`விலை அணா எட்டு.`**
 
-The printer line on PDF page 3 is partly crossed by a later library stamp. The printed line begins `அச்சிட்டது:`; its ending remains visible, including `(பவர்)` and `அச்சகம், திருவாரூர்.`, but the stamp obscures enough of the printer name that the full wording is not safely recoverable at this gate. The unresolved portion is therefore not reconstructed.
+The printer line on PDF page 3 is partly crossed by a later library stamp. The printed line begins `அச்சிட்டது:`; the full printer name is not safely recoverable and remains unresolved rather than reconstructed.
 
-The title page does **not** explicitly label the work as `பேச்சு`. The booklet is being archived as one source unit here because it was supplied for the Kalaignar Public Speeches project. It contains seven separately titled sections. The scan does not establish a single speech date, venue, event, occasion, or audience as bibliographic metadata. Dates, meetings, places, or events mentioned inside the prose must not be promoted into those fields without explicit source evidence.
+The title page does **not** explicitly label the work as `பேச்சு`. The booklet contains seven separately titled sections and is archived here as one source unit. The scan does not establish a single speech date, venue, event, occasion, or audience as bibliographic metadata. Internal dates or event references in the prose are not promoted into those fields.
 
 ## Scan and section map
 
-- PDF page 1 — front cover; portrait/title plus later library/accession markings
-- PDF page 2 — title page
-- PDF page 3 — first-edition/imprint/rights/price/printer information plus `என் நினைவு!` front-matter note; later library stamp crosses part of the printer line
 - PDF pages 4–11 — `சிறு துளி பெரு வெள்ளம்.`; printed pages 3–10
 - PDF pages 12–16 — `வீதிதேவர் மயக்கம்.`; printed pages 11–15
 - PDF pages 17–20 — `பூம்புகார் மாநாடு.`; printed pages 16–19
 - PDF pages 21–23 — `வெற்றி விளக்கு!`; printed pages 20–22
 - PDF pages 24–29 — `நமது உரிமை.`; printed pages 23–28
 - PDF pages 30–32 — `பந்தல் ஆடுகிறது!`; printed pages 29–31
-- PDF pages 33–35 — `கருகிடும் மொட்டுக்கள்!`; printed pages 32–34; the section ends in the upper part of printed page 34 / PDF page 35
-- PDF page 35, lower portion — publisher advertisement beginning `பூங்காவின் அடுத்த மலர்!`; not part of the body transcription
-- PDF page 36 — back cover with `கலைப்பூங்கா` publisher mark
+- PDF pages 33–35 — `கருகிடும் மொட்டுக்கள்!`; printed pages 32–34
+- PDF page 35 lower portion — publisher advertisement beginning `பூங்காவின் அடுத்த மலர்!`; not part of the body transcription
+- PDF page 36 — back cover
 
-The body occupies **32 PDF pages containing body text (PDF 4–35)**, corresponding to printed pages **3–34**. PDF page 35 is mixed-content: body text above the ornament and publisher advertising below it.
+The body occupies **32 PDF pages containing body text (PDF 4–35)**, corresponding to printed pages **3–34**.
 
 ## Source integrity
 
@@ -37,20 +34,22 @@ The body occupies **32 PDF pages containing body text (PDF 4–35)**, correspond
 - SHA-256: `4217717379b028de17ed9830dac4bdfd54ae7256705b891c207d646707640b9d`
 - File size: `21,135,384` bytes
 - Actual PDF page count: `36`
-- Source PDF committed to repository: **No — repository policy is to record provenance/checksum rather than commit the PDF binary**
+- Source PDF committed to repository: **No — repository policy**
 
 ## Editorial status
 
 | Layer / gate | Status |
 |---|---|
-| Repository duplicate check | **Complete — no prior `இதய பேரிகை` / `idhaya-perikai` work found** |
+| Repository duplicate check | **Complete** |
 | Source inspection and page map | **Complete** |
-| Tamil first-pass transcription | **Not started** |
-| Strict visual Tamil fidelity audit | **Not started** |
+| Tamil first-pass transcription | **In progress — 15/32; through PDF 18 / printed 17** |
+| Strict visual Tamil fidelity audit | **Not started — 0/32; locked until T1 completes** |
 | Tamil consolidation / freeze | **Not started** |
-| English translation | **Not started** |
-| English fidelity review | **Not started** |
-| Final Tamil→English verification | **Not started** |
+| English translation | **Not started / locked** |
+| English fidelity review | **Not started / locked** |
+| Final Tamil→English verification | **Not started / locked** |
+
+The existing Tamil text is **first-pass only**. It has not yet passed the mandatory strict line-by-line source audit. Uncertain first-pass readings are explicitly marked in `transcription-ta.md`; page-boundary word splits are being preserved for later T2/T3 checking rather than silently normalized.
 
 ## Editorial rule
 
@@ -58,4 +57,4 @@ The supplied scan is the controlling witness for this edition. Preserve source-s
 
 ## Next gate
 
-The startup/source-inspection gate is complete. The next incomplete gate is **Stage T1 — first-pass Tamil transcription of the complete body**, beginning with PDF page 4 / printed page 3. Do not begin English translation until the entire Tamil layer has passed the later strict visual audit and consolidation/freeze gates.
+Continue **Stage T1 — first-pass Tamil transcription** at **PDF page 19 / printed page 18**. Do not begin Stage T2 until the entire 32-page body first pass exists. English translation remains locked until the Tamil layer passes T2 and T3 and is frozen as `verified-complete`.
