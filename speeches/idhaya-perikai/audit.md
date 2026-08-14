@@ -7,9 +7,9 @@
 
 ## Audit state
 
-Stage T1 is complete for all **32/32** body pages. Stage T2 strict visual audit is now **complete: 32/32 pages checked, through PDF page 35 / printed page 34**. Every body page has been compared against the supplied scan and confirmed corrections have been consolidated into `transcription-ta.md`.
+Stage T1 is complete for all **32/32** body pages. Stage T2 strict visual audit is **complete: 32/32 pages checked, through PDF page 35 / printed page 34**. Every body page was compared against the supplied scan and confirmed corrections were consolidated into `transcription-ta.md`.
 
-The Tamil layer is **not yet `verified-complete`** because Stage T3 consolidation, stale-reading/page-boundary review and freeze have not yet been performed.
+Stage T3 consolidation/freeze is also **complete**. The consolidated Tamil layer passed the end-to-end page-order, page-boundary, stale-reading, unresolved-marker and body-scope checks described below and is now frozen as **`verified-complete`**.
 
 | T2 batch | PDF pages | Printed pages | Status |
 |---|---:|---:|---|
@@ -59,7 +59,7 @@ Pages checked: **32 / 32**.
 
 ## T2 final remaining-pages sweep — PDF 24–35 / printed 23–34
 
-**Audit date:** 2026-08-14. At the user's request, all twelve remaining body pages were handled in this activity. Every printed body line from PDF 24 through the body portion of PDF 35 was compared directly against the scan. Running headers/page numerals were excluded. Library stamps, handwriting and publisher advertising were distinguished from printed body text. OCR/parsed text was not treated as authority.
+**Audit date:** 2026-08-14. At the user's request, all twelve remaining body pages were handled in one activity. Every printed body line from PDF 24 through the body portion of PDF 35 was compared directly against the scan. Running headers/page numerals were excluded. Library stamps, handwriting and publisher advertising were distinguished from printed body text. OCR/parsed text was not treated as authority.
 
 ### PDF 24 / printed 23
 
@@ -134,16 +134,68 @@ Pages checked: **32 / 32**.
 - The ornament marks the end of the body. The publisher advertisement below it, later library stamp, handwritten/accession `68206`, and other later markings are excluded.
 - The body wording required no substantive correction.
 
-All confirmed final-sweep corrections have been consolidated into `transcription-ta.md`. There are **no remaining unresolved `⟦...?⟧` T2 readings** in the canonical Tamil transcript.
+All confirmed T2 corrections were consolidated into `transcription-ta.md`. There are **no remaining unresolved `⟦...?⟧` T2 readings** in the canonical Tamil body.
 
-## Stage T2 completion statement
+## Stage T3 — consolidation and freeze
 
-Stage T2 is **complete for all 32 body pages**. This means the page-by-page visual comparison gate has passed; it does **not** yet mean that the Tamil layer is frozen. Stage T3 must now perform the required end-to-end consolidation, stale-reading check and page-boundary review before changing the Tamil status to `verified-complete`.
+**T3 date:** 2026-08-14  
+**Result:** **Passed — Tamil `verified-complete` and frozen.**
+
+The T3 review was performed on the consolidated Tamil layer after all 32 pages had passed T2. It did not assume that the separate audit batches composed correctly; the combined transcript was reviewed as one ordered archival unit.
+
+### Page presence and order
+
+- Confirmed the canonical body contains **PDF page headings 4 through 35 in ascending order**, corresponding to **printed pages 3 through 34**.
+- Confirmed all **32 body pages are represented once each** and no speech page is missing or duplicated.
+- Confirmed the seven section starts remain in source order at PDF 4, 12, 17, 21, 24, 30 and 33.
+
+### Page-boundary review
+
+Every PDF-page boundary in the consolidated transcript was checked again for stale fragments, accidental omission/duplication, and incorrectly joined text. Non-trivial continuations include:
+
+- PDF 4→5: `சமுத்தி` / `ரத்தின்`.
+- PDF 6→7: `பாங்கான நடைபோடும்` / `பாசறையாக`.
+- PDF 8→9: `திருவிளையாடல் புரிந்து` / `நெடுஞ்செழியனின்...`.
+- PDF 10→11: `கண்ணிலே நீர்` / `தேங்கி...`.
+- PDF 13→14: `சிந்தனைப் பூந்தோட்டத்` / `திலே`.
+- PDF 17→18: `அறிந்துகொள்ள` / `வேண்டுமென்பதுதான்`.
+- PDF 18→19: `எப்படி` / `யிருந்தது`.
+- PDF 21→22: `நெருப்பு அவர்கள்` / `சரீரத்தின்மீது தாவியது.`.
+- PDF 22→23: `குருக்கள்—` / `நம்மை ஆட்டிப்படைக்கும்...`.
+- PDF 24→25: `விஷ` / `யத்தில்`.
+- PDF 25→26: `“மோர்` / `தாப்படவில்லை”`.
+- PDF 26→27: `நடிக்கக்கூடாதென்று` / `தடைபோட்டது...`.
+- PDF 27→28: `கட்டுப்பாடு` / `இல்லாதபொழுதே...`.
+- PDF 28→29: `கூட்ட` / `மல்ல!`.
+- PDF 30→31: `குழந்தை` / `கள்.`.
+- PDF 31→32: `ஓமாந்தூரார்—` / `காணவில்லை தொண்டாற்றும் இந்தத் தூண்கள்!`.
+- PDF 33→34: `கொழும்புக் கோரம்` / `வெளிவந்த செய்தி!`.
+- PDF 34→35: `செயல்களில்` / `ஈடுபடவேண்டும்.`.
+
+Section-change boundaries were also checked and remain explicit rather than being accidentally merged.
+
+### Stale-reading and uncertainty check
+
+The canonical transcript was searched for superseded first-pass/T2 readings, including the earlier forms involving `செருமியமுத`, `நடிப்பும் புலவர்`, `பூங்கோட்டத்`, `நாடகத்து வசனங்களை`, `குறிக்கப்பட்டிருப்பதாலும்`, `மடத்தனத்தை அழித்து`, `அவர்களுக்குத் தெரியும்`, `நெசவாளர்களார்ச்சியை`, `முச்ச விடக்`, `வரவேற்போம் என்று வைர`, `எலும்புகளை துண்களாக`, `முடிகூடா மன்னர்`, `படையிலே காட்டினார்`, `படப்படவென`, `காணவில்லை தொண்டாற்றும் இந்தத் தூண்களே`, `சொல்லுவார் மட்டுமல்ல`, and the superseded PDF 34 double-hyphen forms. **None remains in the canonical transcript.**
+
+A direct unresolved-marker check found no `⟦...?⟧` marker in the body. The earlier uncertain readings are retained only in this audit trail as historical correction records.
+
+### Body-scope check
+
+- Confirmed the canonical transcript stops with the PDF 35 body text above the ornament.
+- Confirmed publisher advertisement text below the ornament is absent from `transcription-ta.md`.
+- Confirmed handwritten/accession `68206` is absent from the canonical transcript.
+
+### Freeze integrity
+
+T3 required **no further source-body correction** after the T2 consolidation. The freeze update to `transcription-ta.md` changed only editorial status/freeze wording and the end-of-file workflow note; the Tamil body itself was unchanged. Commit `c0e327a5cc0cbe15edd9e02253d02f4eb67764cb` records that freeze.
+
+The Tamil layer is therefore frozen as **`verified-complete`**. Any later Tamil change requires documented source evidence and dependent English re-verification.
 
 ## Exact next gate
 
-Proceed with **Stage T3 — Tamil consolidation, page-boundary/stale-reading check, and freeze as `verified-complete`**. English translation remains locked until T3 passes.
+Proceed with **Stage E1 — English first-pass translation from the frozen verified Tamil layer only**. English translation must retain PDF/printed-page correspondence and must not be produced independently from OCR or an outside edition.
 
 ## Unresolved source issue from startup
 
-The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed; this bibliographic issue does not block T3 body consolidation.
+The exact printer name on PDF page 3 remains unresolved because a later library stamp crosses the printed line. It must not be guessed. This bibliographic issue does not affect the verified-complete status of the speech body.
