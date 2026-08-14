@@ -1,11 +1,12 @@
 # Poonthottam - English translation
 
-> **Status:** `first-pass-complete`  
+> **Status:** `fidelity-review-in-progress`  
 > **Tamil prerequisite:** `transcription-ta.md` is frozen as `verified-complete`.  
 > **Source-body correspondence:** PDF pages 6-17 / printed pages 5-16  
-> **E1 translated:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)
+> **E1 translated:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
+> **E2 reviewed:** PDF pages 6-10 / printed pages 5-9 (5 / 12 speech pages)
 
-This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Stage E2 fidelity review has not begun.
+This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Stage E2 independent fidelity review is in progress.
 
 ---
 
@@ -85,7 +86,7 @@ From another side comes the reply: “But in those days—in the time of your Na
 
 ## PDF page 10 / printed page 9
 
-Immediately, from another side comes the reply that in those very same days in which Bharata lived as an example of brotherly affection, carrying his elder brother's sandals, there also lived Vibhishana—the brother who betrayed his own elder brother Ravana to `அயோத்தியானுக்கு`, his elder brother!
+Immediately, from another side comes the reply that in those very same days in which Bharata lived as an example of brotherly affection, carrying his elder brother's sandals, there also lived Vibhishana—the brother who betrayed his own elder brother Ravana to Bharata's elder brother, the Ayodhyan!
 
 Bharata, who bore his elder brother's footwear upon his head! Vibhishana, who asked that his elder brother's head be placed at the enemy's feet!
 
@@ -99,7 +100,7 @@ Two old men see two young men walking along the street. One of the young men is 
 
 What do you think those young men would say if this conversation fell upon their ears? In this age, if one's eyesight fails, there is an eye hospital where one can receive treatment; spectacles have been invented to sharpen one's vision. But those facilities did not exist in those days!
 
-> **Translator note:** The verified source contains the unusual form `அயோத்தியானுக்கு` in the Vibhishana sentence. It has not been silently emended. The English sentence therefore keeps the source difficulty visible rather than inventing a normalized Tamil reading.
+> **Translator note:** The verified source reads `அவன் அண்ணன் அயோத்தியானுக்கு, தன் அண்ணன் இராவணனைக் காட்டிக் கொடுத்த சகோதரன் விபீஷணனும்`. E2 renders the grammatical relation directly as “Bharata's elder brother, the Ayodhyan” while preserving the source-supported `அயோத்தியானுக்கு` rather than emending the Tamil.
 
 ---
 
@@ -285,10 +286,10 @@ The breeze will glide—the new fragrance will float—`மானிடம்`, 
 
 ---
 
-## E1 completion
+## E1 completion and E2 progress
 
-First-pass English translation is complete across **PDF pages 6-17 / printed pages 5-16**: **12 / 12 speech pages**.
+Stage E1 is **`first-pass-complete`** across **PDF pages 6-17 / printed pages 5-16**: **12 / 12 speech pages**.
 
-All twelve PDF/printed-page headings are present once and in sequence. The final p.15 → p.16 continuation (`வேண்டாத ஒரு வெறுப்பு வளரத்தான் நேரிடும்.` / `அந்த வெறுப்பு...`) is represented without omission or duplication.
+Stage E2 independent fidelity review is complete through **PDF page 10 / printed page 9**: **5 / 12 speech pages**.
 
-Stage E1 is therefore **`first-pass-complete`**. Stage E2 has **not** begun. The next gate is an independent page-by-page Tamil→English fidelity review beginning with **PDF page 6 / printed page 5**.
+The next E2 batch is **PDF pages 11-15 / printed pages 10-14**.
