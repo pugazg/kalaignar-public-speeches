@@ -1,6 +1,6 @@
 # இதய பேரிகை — தமிழ் உரைநகல்
 
-> **Status:** Stage T2 strict visual fidelity audit in progress — **10 / 32 body pages checked**  
+> **Status:** Stage T2 strict visual fidelity audit in progress — **15 / 32 body pages checked**  
 > **Source:** `TVA_BOK_0016120_இதய_பேரிகை(1).pdf`  
 > **Body scope:** PDF pages 4–35 / printed pages 3–34  
 > **Rule:** Source-faithful transcription. OCR may assist, but the scan controls. Historical/unusual printed forms are not silently modernized. `⟦...?⟧` marks a reading that remains unresolved pending its Stage T2 visual audit.
@@ -27,7 +27,7 @@
 | 30–32 | 29–31 | பந்தல் ஆடுகிறது! | drafted |
 | 33–35 | 32–34 | கருகிடும் மொட்டுக்கள்! | drafted |
 
-**Important:** Stage T1 is complete for all 32 body pages. Stage T2 strict line-by-line visual audit is now in progress: PDF pages 4–13 / printed pages 3–12 have been checked and their confirmed corrections consolidated. The overall Tamil layer is **not** yet `verified-complete`.
+**Important:** Stage T1 is complete for all 32 body pages. Stage T2 strict line-by-line visual audit is now in progress: PDF pages 4–18 / printed pages 3–17 have been checked and their confirmed corrections consolidated. The overall Tamil layer is **not** yet `verified-complete`.
 
 ---
 
@@ -203,7 +203,7 @@
 
 இதற்கு குறுக்கேநின்றார்கள், வீதிதேவர்கள். விழியை உருட்டினர்-நாடகத்திலேவரும் நீதிதேவன் போல! அதட்டிப்பேசினர் நாடக நீதிதேவனின் குரல்போல!
 
-மறியல் செய்வோமென மார்தட்டினர். கடைசியில், போலீசாரிடம் போயினர்-வீதிதேவர்களின் கதறல்களைக் கேட்ட போலீஸ் நீதிதேவன் மயக்கம் நாடகத்து வசனங்களை பாடம்செய்ய ஆரம்பித்தது.
+மறியல் செய்வோமென மார்தட்டினர். கடைசியில், போலீசாரிடம் போயினர்-வீதிதேவர்களின் கதறல்களைக் கேட்ட போலீஸ் நீதிதேவன் மயக்கம் நாடகத்துவசனங்களை பாடம்செய்ய ஆரம்பித்தது.
 
 நாடக நடிகர் யாராவது வர அசெளகரியப்பட்டால்கூட போலீஸ் ஆபீசர் ஒருவரையே அந்த பாத்திரத்தை நடிக்க வைக்கலாம் என்கிற அளவுக்குப்போலீசார் நமக்கு நாடகங்களை மனப்பாடம் பண்ண ஆரம்பித்துவிட்டார்கள்.
 
@@ -406,6 +406,6 @@
 ---
 
 **Stage T1 complete:** all 32 body pages (PDF 4–35 / printed 3–34) have a first-pass Tamil transcription.  
-**Stage T2 progress:** 10/32 body pages checked; through PDF page 13 / printed page 12.  
-**Next Stage T2 page:** PDF page 14 / printed page 13.  
+**Stage T2 progress:** 15/32 body pages checked; through PDF page 18 / printed page 17.  
+**Next Stage T2 page:** PDF page 19 / printed page 18.  
 **English translation:** locked until T2 and T3 pass and the Tamil layer is frozen as `verified-complete`.
