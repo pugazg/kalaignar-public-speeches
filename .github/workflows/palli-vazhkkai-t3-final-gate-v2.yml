@@ -1,0 +1,28 @@
+name: Palli Vazhkkai Final T3 Gate V2
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/palli-vazhkkai-t3-final-gate-v2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Verify and freeze Tamil
+        run: python3 scripts/palli_vazhkkai_t3_gate.py
+      - name: Commit verified Tamil freeze
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add speeches/palli-vazhkkai/transcription-ta.md speeches/palli-vazhkkai/t3-final-verification.md
+          git diff --cached --quiet && exit 0
+          git commit -m 'Freeze verified Palli Vazhkkai Tamil transcription'
+          git push
