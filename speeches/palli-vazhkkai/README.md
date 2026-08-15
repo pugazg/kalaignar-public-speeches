@@ -41,7 +41,7 @@ No separate advertisements or back matter follow the body in this scan; PDF page
 | Layer | Status |
 |---|---|
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **Not started - 0/76 body pages** |
+| Tamil first-pass transcription | **In progress - 5/76 body pages (PDF 6-10 / printed 5-9)** |
 | Strict line-by-line visual Tamil audit | **Not started** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started** |
@@ -49,7 +49,9 @@ No separate advertisements or back matter follow the body in this scan; PDF page
 | Final Tamil→English verification | **Not started** |
 | Repository archival closure | **Not started** |
 
-No bulk Tamil transcription has begun. The exact next workflow gate is **Stage T1 - first-pass Tamil transcription**, beginning with PDF page 6 / printed page 5 and proceeding through PDF page 81 / printed page 80.
+T1 first-pass transcription has begun. Batch 1 covers PDF pages **6-10 / printed pages 5-9**. This text remains provisional until the entire 76-page body is first-pass complete and then passes the separate T2 strict visual line-by-line source audit.
+
+The exact next T1 activity begins at **PDF page 11 / printed page 10**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
 
 ## Editorial rule
 

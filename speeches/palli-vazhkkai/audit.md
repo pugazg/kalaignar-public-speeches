@@ -7,9 +7,19 @@
 
 ## Audit state
 
-The startup/source-inspection gate is **complete**. Tamil first-pass transcription (T1) is **not started**.
+The startup/source-inspection gate is **complete**. Tamil first-pass transcription (T1) is **in progress: 5/76 body pages**, through PDF page 10 / printed page 9.
 
-The strict visual line-by-line Tamil fidelity audit (T2) must **not** begin until the complete 76-page body has first been transcribed in T1.
+The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and must not begin until the complete 76-page body has first been transcribed in T1.
+
+No T2 source-fidelity findings are being claimed from the present first-pass work. T1 readings remain provisional until the later independent visual audit.
+
+## T1 progress context
+
+| Batch | PDF pages | Printed pages | T1 state | T2 state |
+|---|---:|---:|---|---|
+| 1 | 6-10 | 5-9 | first-pass transcribed | not audited |
+
+The PDF-page-9 / PDF-page-10 printer page boundary splits the single word `உயிரினங்களைவிட` (`உயி` / `ரினங்களைவிட`). Following repository lineation practice, the first-pass transcription joins that genuine split word while retaining the PDF-page headings. This join must be rechecked in T2.
 
 ## Source-inspection findings
 
@@ -30,7 +40,7 @@ Publication in March 1952 is **not** treated as a speech date.
 
 ## Pending workflow
 
-1. Complete T1 first-pass Tamil transcription for all 76 body pages.
+1. Continue T1 first-pass Tamil transcription from PDF page **11 / printed page 10** through PDF page 81 / printed page 80.
 2. Only after T1 is complete, perform T2 strict visual line-by-line comparison of every body page against the scan, logging substantive corrections here.
 3. Then perform T3 consolidation, page-boundary/stale-reading checks, and freeze the verified Tamil layer.
 4. English work remains blocked until T3 passes.
