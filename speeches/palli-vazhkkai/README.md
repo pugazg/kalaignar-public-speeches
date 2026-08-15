@@ -39,7 +39,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Layer | Status |
 |---|---|
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **In progress - 30/76 body pages (PDF 6-35 / printed 5-34)** |
+| Tamil first-pass transcription | **In progress - 35/76 body pages (PDF 6-40 / printed 5-39)** |
 | Strict line-by-line visual Tamil audit | **Not started** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started** |
@@ -47,9 +47,9 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Final Tamil→English verification | **Not started** |
 | Repository archival closure | **Not started** |
 
-T1 first-pass transcription has completed six five-page batches through PDF page **35 / printed page 34**. The transcription file is continuous from PDF 6; the earlier 20-page body text was explicitly restored after a temporary replacement accidentally reduced it to a placeholder during the preceding batch update. No source text is intentionally omitted.
+T1 first-pass transcription has completed seven five-page batches through PDF page **40 / printed page 39**. The transcription file remains continuous from PDF page 6 onward. The current section carries the Ekalavya/Drona episode forward into the discussion of Brhaspati–Tara and then begins the source's account of இயற்பகை நாயனார்.
 
-The exact next T1 activity begins at **PDF page 36 / printed page 35**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
+The exact next T1 activity begins at **PDF page 41 / printed page 40**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
 
 ## Editorial rule
 
