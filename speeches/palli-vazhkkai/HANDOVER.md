@@ -23,9 +23,8 @@ All **76/76** body pages passed strict visual audit. Detailed evidence remains u
 ### T3 — IN PROGRESS
 The canonical `transcription-ta.md` has now been rebuilt and corrected through:
 
-- **PDF 6-60 / printed 5-59 — T3 consolidated into the canonical file**
-- PDF 61-70 / printed 60-69 — still staged in `t1-batches/batch-11-pdf-61-70.md`
-- PDF 71-81 / printed 70-80 — still staged in `t1-batches/batch-12-pdf-71-81.md`
+- **PDF 6-75 / printed 5-74 — T3 consolidated into the canonical file**
+- PDF 76-81 / printed 75-80 — still staged within `t1-batches/batch-12-pdf-71-81.md`
 
 Tamil is **not yet frozen / verified-complete**. English remains blocked.
 
@@ -59,25 +58,49 @@ Verified page-boundary joins applied in this pass:
 - PDF 55→56: `மற்` / `றொன்று` → `மற்றொன்று`
 - PDF 56→57: `வாழ்` / `வாகத்தானே` → `வாழ்வாகத்தானே`
 
-The stale-reading validation passed for the consolidated PDF 46-60 segment. Source-supported unusual forms were deliberately retained, including `மனிதனி அறிவு கண்டு`, `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, `மதனின் அறிவு வளர்ச்சி பெற்று`, and `இராஜ இராஜேந்திரனின்`.
+### Third canonical pass — PDF 61-75
+All scan-proven corrections from T2 Batches 12-14 were merged and the segment-level stale-reading validation passed.
+
+Important incorporated corrections include:
+
+- PDF 62: `கல்வெறிபட்டுக்` → `கல்லெறிபட்டுக்`; `மீனவி மக்களைத் திருந்து` → `மீனவ மக்களைத் துறந்து`
+- PDF 63: both `மனிதனுக` → `மனிதனாக`; `மிருகத் தன்மையின்றும்` → `மிருகத் தன்மையினின்றும்`; `படைத்தவனுக` → `படைத்தவனாக`
+- PDF 64: `மூன்கெட்டு` → `மூளை கெட்டு`; `அறிவும் தன்மை` → `அறியும் தன்மை`
+- PDF 65: `தெரிவித்து கொள்வதும்` → `தெரிவித்துக்கொள்வதும்`; `தமிழ் வீரனைத் திகழ்வான்` → `தமிழ் வீரனாகத் திகழ்வான்`
+- PDF 66: `மாட்டானு?` → `மாட்டானா?`; `ஒன்றன்பின் ஒன்றுக` → `ஒன்றன்பின் ஒன்றாக`; `அவல் மூச்சாக` → `அனல் மூச்சாக`; `முயல்வதுபோல` → `முயல்வது போல`; `நன்றுக நினைவில்` → `நன்றாக நினைவில்`
+- PDF 67: `நன்றுக நினைவிருக்கட்டும்` → `நன்றாக நினைவிருக்கட்டும்`; `வளர்ப்படுத்திக்` → `வளப்படுத்திக்`
+- PDF 68: `புத்தக வித்தகர்` → `புத்தகவித்தகர்`; `உலகம்தான்` → source-supported `உலகந்தான்`
+- PDF 69: `தந்திரங்களைக் தவறாது` → `தந்திரங்களைத் தவறாது`; semicolon before `நேரடித்` corrected to the source comma; `நன்றுக நினைவு` → `நன்றாக நினைவு`
+- PDF 70: `தோழனுகவே` → `தோழனாகவே`
+- PDF 71: quotation marks restored in `‘தேர்வு’`; `மினுபாவங்கொண்ட` → `மனோபாவங்கொண்ட`
+- PDF 72: `வேதனை தரும்` → `வேதனைதரும்`; `கேள்விகள், எழுப்புங்கள்?` → `கேள்விகளை, எழுப்புங்கள்?`
+- PDF 73: `பரம்பரையின் ராகவே` → `பரம்பரையினராகவே`
+- PDF 74: `வழிகத்தையும்` → `வழிகாட்டியையும்`; `கெட்டிக்காரனுக` → `கெட்டிக்காரனாக`; `பெறுபவனுக` → `பெறுபவனாக`; `தானுகவே` → `தானாகவே`
+- PDF 75: `வாழும் பொருந்தும்` → `வாழ் பொருந்தும்`; `வறி, அவன்` → `வாழ, அவன்`
+
+T2 records establish the PDF 61-75 page boundaries as ordinary phrase/sentence continuations rather than split-word joins, so no extra lexical reconstruction was introduced in this pass.
+
+Source-supported unusual forms deliberately retained include `உலகந்தான்`, `தன்னுலே`, `சோம்பேறி மாணக்கர்`, and `இதற்கேல் வாழ் பொருந்தும் முறையிலே`.
 
 ## Mandatory traditional-glyph rule
 
-The 1952 printing uses traditional Tamil glyphs. Encode the underlying Tamil characters, not visually similar modern Unicode syllables. Do not resurrect superseded readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `மனிதனுக`, `தேவைத்தானு`, `தோழனுக`, `அவனுகத்தான்`, or `தேவனே` where the scan proves `கவலைப்பட`, `நன்றாக`, `தமிழனாக`, `மனிதனாக`, `தேவைத்தானா`, `தோழனாக`, `அவனாகத்தான்`, or `தேவனை`.
+The 1952 printing uses traditional Tamil glyphs. Encode the underlying Tamil characters, not visually similar modern Unicode syllables. Do not resurrect superseded readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `மனிதனுக`, `தேவைத்தானு`, `தோழனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே`, `கெட்டிக்காரனுக`, `பெறுபவனுக`, `தானுகவே`, `அவனுகத்தான்`, or `தேவனே` where the scan proves the corresponding underlying reading.
 
 At the same time, do not regularize genuine source-supported oddities such as `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, or `உலகியலேக் காண` unless the scan itself proves otherwise.
 
 ## Exact next activity
 
-Continue **T3 canonical consolidation with PDF 61-75 / printed 60-74**:
+Continue **T3 canonical consolidation with the final PDF 76-81 / printed 75-80 segment**:
 
-1. merge PDF 61-70 from `t1-batches/batch-11-pdf-61-70.md` and PDF 71-75 from `t1-batches/batch-12-pdf-71-81.md` into `transcription-ta.md`;
-2. apply every scan-proven correction from T2 Batches 12-14 and the traditional-glyph rule;
-3. preserve verified source oddities rather than normalizing them;
-4. reconstruct only page/printer splits established by the T2 records;
-5. run a stale-reading sweep on PDF 61-75 before proceeding to the final PDF 76-81 segment.
+1. take PDF 76-81 from `t1-batches/batch-12-pdf-71-81.md`;
+2. apply every scan-proven correction from T2 Batches 15-16 and the traditional-glyph rule;
+3. honor the recorded PDF 75→76 ordinary continuation `அத்துடன்` / `படிக்கிறான்.` without inventing a word join;
+4. preserve source-supported oddities exactly;
+5. run a segment stale-reading check, then the **whole-body T3 gate** across PDF 6-81;
+6. verify exactly one heading for every PDF page 6-81, the correct printed-page mapping 5-80, the verified beginning, all recorded boundary decisions, and the verified final closing;
+7. only after that passes, mark Tamil `verified-complete` / frozen and update the repository status files accordingly.
 
-Only after all PDF 6-81 pages are in one continuous canonical file, every T2 correction is applied, stale readings are absent, source-supported oddities are retained, and page continuity is checked may Tamil be marked `verified-complete` / frozen.
+Do not begin English translation until Tamil is frozen.
 
 ## Safeguards
 - Scan is authoritative; OCR and T1 are only aids.
