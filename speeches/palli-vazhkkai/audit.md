@@ -7,7 +7,7 @@
 ## Audit state
 
 - Tamil T1 first pass: **complete — 76/76**.
-- Strict visual Tamil audit T2: **in progress — 65/76**, through PDF 70 / printed 69.
+- Strict visual Tamil audit T2: **in progress — 70/76**, through PDF 75 / printed 74.
 - Tamil T3 consolidation/freeze: not started.
 - English: blocked until T2 and T3 pass.
 
@@ -22,7 +22,7 @@ Special watch forms include traditional shapes for `னா`, `றா`, `ணா`,
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-13 were audited with the corrected rule from the outset.
+Batches 8-14 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -39,6 +39,7 @@ Batches 8-13 were audited with the corrected rule from the outset.
 - Batch 11: `t2-batches/batch-11-pdf-56-60.md`
 - Batch 12: `t2-batches/batch-12-pdf-61-65.md`
 - Batch 13: `t2-batches/batch-13-pdf-66-70.md`
+- Batch 14: `t2-batches/batch-14-pdf-71-75.md`
 
 ## Confirmed scan-proven corrections retained for T3
 
@@ -142,6 +143,20 @@ Source-supported unusual readings retained: `தமிழனமாக`; `மத�
 
 Source-supported form retained: PDF 68 `உலகந்தான்`.
 
+### Batch 14 — PDF 71-75
+
+- PDF 71: `தேர்வு அறிவிப்பதோடு` → `‘தேர்வு’ அறிவிப்பதோடு`
+- PDF 71: `மினுபாவங்கொண்ட` → `மனோபாவங்கொண்ட`
+- PDF 72: `வேதனை தரும்` → `வேதனைதரும்`
+- PDF 72: `கேள்விகள், எழுப்புங்கள்?` → `கேள்விகளை, எழுப்புங்கள்?`
+- PDF 73: `பரம்பரையின் ராகவே` → `பரம்பரையினராகவே`
+- PDF 74: `வழிகத்தையும்` → `வழிகாட்டியையும்`
+- PDF 74: `கெட்டிக்காரனுக` → `கெட்டிக்காரனாக`
+- PDF 74: `பெறுபவனுக` → `பெறுபவனாக`
+- PDF 74: `தானுகவே` → `தானாகவே`
+- PDF 75: `வாழும் பொருந்தும்` → `வாழ் பொருந்தும்`
+- PDF 75: `வறி, அவன்` → `வாழ, அவன்`
+
 ## Superseded legacy-glyph readings — DO NOT USE
 
 Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. This includes forms such as:
@@ -161,7 +176,7 @@ Earlier claims caused only by visual misinterpretation of traditional glyphs are
 - `தமிழனுக` → `தமிழனாக`
 - `கவலிப்பட` → `கவலைப்பட`
 - `நானு?` → `நானா?`
-- `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே` → use the scan-proven underlying forms documented in the batch records.
+- `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே`, `கெட்டிக்காரனுக`, `பெறுபவனுக`, `தானுகவே` → use the scan-proven underlying forms documented in the batch records.
 
 T3 must not resurrect superseded glyph-misreadings.
 
@@ -194,7 +209,12 @@ T3 must not resurrect superseded glyph-misreadings.
 - PDF 64→65: ordinary sentence continuation after `ஆங்கிலேயன்`
 - PDF 67→68: ordinary phrase continuation `தோன்றிடப்` / `போகிறார்கள்!`
 - PDF 69→70: ordinary phrase continuation `அறிவைப் பெருக்கிடும்` / `கல்வியறிவைப்...`
-- PDF 70→71: ordinary sentence continuation after `பாடத்தைப் போதித்தோம்,`; PDF 71 was only a boundary witness in Batch 13.
+- PDF 70→71: ordinary sentence continuation after `பாடத்தைப் போதித்தோம்,`; reconfirmed during full PDF 71 audit.
+- PDF 71→72: ordinary phrase continuation `மனிதனது வருங்கால வாழ்க்கை வளர்ச்சிக்கு` / `ஆரம்பம், அணிவேர்...`.
+- PDF 72→73: no split-word join; consecutive questions.
+- PDF 73→74: ordinary phrase continuation `மைத்துனர், மாமி, எல்லோரும்` / `படித்தவர்கள் என்ற சூழ்நிலையில்...`.
+- PDF 74→75: no split-word join; consecutive questions.
+- PDF 75→76: ordinary phrase continuation `அத்துடன்` / `படிக்கிறான்.`; PDF 76 was only a boundary witness in Batch 14.
 
 ## T2 progress
 
@@ -213,10 +233,11 @@ T3 must not resurrect superseded glyph-misreadings.
 | 56-60 | 55-59 | audited |
 | 61-65 | 60-64 | audited |
 | 66-70 | 65-69 | audited |
-| 71-81 | 70-80 | pending |
+| 71-75 | 70-74 | audited |
+| 76-81 | 75-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 71-75 / printed pages 70-74** line-by-line against the scan. PDF 71 must be audited fully even though its opening was inspected only as the PDF 70→71 boundary witness. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
+Audit **PDF pages 76-80 / printed pages 75-79** line-by-line against the scan. PDF 76 must be audited fully even though its opening `படிக்கிறான்.` was inspected only as the PDF 75→76 boundary witness. Apply the traditional-glyph rule from the outset and record only scan-proven corrections. Inspect PDF 81 only as a boundary witness if necessary, without counting it audited until its own final batch.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
