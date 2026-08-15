@@ -17,37 +17,31 @@
 ### T1 — COMPLETE
 All **76/76 speech-body pages** have first-pass readings.
 
-### T2 — IN PROGRESS: 10/76
+### T2 — IN PROGRESS: 15/76
 Completed strict visual audit:
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
+- Batch 3: PDF 16-20 / printed 15-19
 
 Detailed records:
 - `t2-batches/batch-01-pdf-06-10.md`
 - `t2-batches/batch-02-pdf-11-15.md`
+- `t2-batches/batch-03-pdf-16-20.md`
 
-### Important Batch 2 resolutions
+### Important Batch 3 resolutions
 
-Confirmed corrections:
-- `தோவினாலும்` → `தோலினாலும்`
-- `மனித வாழ்க்கத்தின்` → `மனித வர்க்கத்தின்`
-- `மனித வாழ்க்கத்தை` → `மனித வர்க்கத்தை`
-- `ஒருபடியாக` → `ஒருப்படியாக`
-- `வயல் உழுது` → `வயலில் உழுது`
-- `நினைப்பார்` → `நிணப்பார்`
-- `நினைக்க` → `நிணக்க`
-- `நினைத்திடும்` → `நிணத்திடும்`
+Confirmed correction:
+- `வரவிட` → `வரைவிட` on PDF 17 / printed 16.
 
-Confirmed source forms that must be preserved:
-- `நன்றுக`
-- `உயிரினங்களின் றும்`
-- `வாழ்க்கைச் செந்தி`
-- `வாசனே`
+Confirmed source form:
+- `கல்வி கற்கு மிடம்` on printed p.18 — preserve exactly; do not normalize.
 
-Page-boundary decision:
-- PDF 13→14 `இவர்` / `கட்கு` is confirmed as the one-word join `இவர்கட்கு`.
+Confirmed page-boundary / line-wrap joins:
+- PDF 18→19: `கஞ்சிக்` / `காவது` → `கஞ்சிக்காவது`
+- PDF 19→20: `எட்டுச்` / `சுரையெனப்` → `எட்டுச்சுரையெனப்`
+- printed p.19 internal wrap `தன்னம்` / `பிக்கையும்` → `தன்னம்பிக்கையும்`
 
-Verified corrections remain in the T2 batch layer and are mandatory inputs to T3 canonical consolidation. Do not reintroduce the superseded T1 forms.
+Verified corrections remain in the T2 batch layer and are mandatory inputs to T3 canonical consolidation. Do not reintroduce superseded T1 readings.
 
 ### T3
 - Not started.
@@ -58,14 +52,13 @@ Verified corrections remain in the T2 batch layer and are mandatory inputs to T3
 
 ## Exact next activity
 
-Perform strict T2 visual audit of **PDF pages 16-20 / printed pages 15-19**.
+Perform strict T2 visual audit of **PDF pages 21-25 / printed pages 20-24**.
 
 Specifically:
 - compare every line and punctuation mark against the scan;
-- verify queued `கல்வி கற்கு மிடம்` on printed p.18;
-- inspect PDF 18→19 `கஞ்சிக்` / `காவது` on both page images;
-- inspect PDF 19→20 `எட்டுச்` / `சுரையெனப்` on both page images;
-- record only source-proven corrections and preserve unusual historical forms.
+- resolve PDF 23→24 `உள்ள` / `படி` from both images;
+- inspect `திடசித்தமுடையவனுக`, `பலமுறைகள்`, `மனிதனுக`, `நல்லதங்கள்`, and `நாவினை நாட்டினரும்` as source readings rather than assuming corrections;
+- record only scan-proven changes.
 
 ## Safeguards
 - Scan is authoritative; OCR is only an aid.
