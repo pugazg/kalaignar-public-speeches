@@ -7,7 +7,7 @@
 ## Audit state
 
 - Tamil T1 first pass: **complete — 76/76**.
-- Strict visual Tamil audit T2: **in progress — 70/76**, through PDF 75 / printed 74.
+- Strict visual Tamil audit T2: **in progress — 75/76**, through PDF 80 / printed 79.
 - Tamil T3 consolidation/freeze: not started.
 - English: blocked until T2 and T3 pass.
 
@@ -22,7 +22,7 @@ Special watch forms include traditional shapes for `னா`, `றா`, `ணா`,
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-14 were audited with the corrected rule from the outset.
+Batches 8-15 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -40,6 +40,9 @@ Batches 8-14 were audited with the corrected rule from the outset.
 - Batch 12: `t2-batches/batch-12-pdf-61-65.md`
 - Batch 13: `t2-batches/batch-13-pdf-66-70.md`
 - Batch 14: `t2-batches/batch-14-pdf-71-75.md`
+- Batch 15: `t2-batches/batch-15-pdf-76-80.md`
+
+The batch records are the detailed page-level audit trail and are mandatory T3 inputs.
 
 ## Confirmed scan-proven corrections retained for T3
 
@@ -127,35 +130,43 @@ Source-supported unusual readings retained: `தமிழனமாக`; `மத�
 
 ### Batch 13 — PDF 66-70
 
-- PDF 66: `மாட்டானு?` → `மாட்டானா?`
-- PDF 66: `ஒன்றன்பின் ஒன்றுக` → `ஒன்றன்பின் ஒன்றாக`
-- PDF 66: `அவல் மூச்சாக` → `அனல் மூச்சாக`
-- PDF 66: `முயல்வதுபோல` → `முயல்வது போல`
-- PDF 66: `நன்றுக நினைவில்` → `நன்றாக நினைவில்`
-- PDF 67: `நன்றுக நினைவிருக்கட்டும்` → `நன்றாக நினைவிருக்கட்டும்`
-- PDF 67: `வளர்ப்படுத்திக்` → `வளப்படுத்திக்`
-- PDF 68: `புத்தக வித்தகர்` → `புத்தகவித்தகர்`
-- PDF 68: `உலகம்தான்` → `உலகந்தான்`
-- PDF 69: `தந்திரங்களைக் தவறாது` → `தந்திரங்களைத் தவறாது`
-- PDF 69: `கூடாது; நேரடித்` → `கூடாது, நேரடித்`
-- PDF 69: `நன்றுக நினைவு` → `நன்றாக நினைவு`
-- PDF 70: `தோழனுகவே` → `தோழனாகவே`
+- `மாட்டானு?` → `மாட்டானா?`
+- `ஒன்றன்பின் ஒன்றுக` → `ஒன்றன்பின் ஒன்றாக`
+- `அவல் மூச்சாக` → `அனல் மூச்சாக`
+- `முயல்வதுபோல` → `முயல்வது போல`
+- `நன்றுக நினைவில்` → `நன்றாக நினைவில்`
+- `நன்றுக நினைவிருக்கட்டும்` → `நன்றாக நினைவிருக்கட்டும்`
+- `வளர்ப்படுத்திக்` → `வளப்படுத்திக்`
+- `புத்தக வித்தகர்` → `புத்தகவித்தகர்`
+- `உலகம்தான்` → `உலகந்தான்`
+- `தந்திரங்களைக் தவறாது` → `தந்திரங்களைத் தவறாது`
+- `கூடாது; நேரடித்` → `கூடாது, நேரடித்`
+- `நன்றுக நினைவு` → `நன்றாக நினைவு`
+- `தோழனுகவே` → `தோழனாகவே`
 
 Source-supported form retained: PDF 68 `உலகந்தான்`.
 
 ### Batch 14 — PDF 71-75
 
-- PDF 71: `தேர்வு அறிவிப்பதோடு` → `‘தேர்வு’ அறிவிப்பதோடு`
-- PDF 71: `மினுபாவங்கொண்ட` → `மனோபாவங்கொண்ட`
-- PDF 72: `வேதனை தரும்` → `வேதனைதரும்`
-- PDF 72: `கேள்விகள், எழுப்புங்கள்?` → `கேள்விகளை, எழுப்புங்கள்?`
-- PDF 73: `பரம்பரையின் ராகவே` → `பரம்பரையினராகவே`
-- PDF 74: `வழிகத்தையும்` → `வழிகாட்டியையும்`
-- PDF 74: `கெட்டிக்காரனுக` → `கெட்டிக்காரனாக`
-- PDF 74: `பெறுபவனுக` → `பெறுபவனாக`
-- PDF 74: `தானுகவே` → `தானாகவே`
-- PDF 75: `வாழும் பொருந்தும்` → `வாழ் பொருந்தும்`
-- PDF 75: `வறி, அவன்` → `வாழ, அவன்`
+- `தேர்வு அறிவிப்பதோடு` → `‘தேர்வு’ அறிவிப்பதோடு`
+- `மினுபாவங்கொண்ட` → `மனோபாவங்கொண்ட`
+- `வேதனை தரும்` → `வேதனைதரும்`
+- `கேள்விகள், எழுப்புங்கள்?` → `கேள்விகளை, எழுப்புங்கள்?`
+- `பரம்பரையின் ராகவே` → `பரம்பரையினராகவே`
+- `வழிகத்தையும்` → `வழிகாட்டியையும்`
+- `கெட்டிக்காரனுக` → `கெட்டிக்காரனாக`
+- `பெறுபவனுக` → `பெறுபவனாக`
+- `தானுகவே` → `தானாகவே`
+- `வாழும் பொருந்தும்` → `வாழ் பொருந்தும்`
+- `வறி, அவன்` → `வாழ, அவன்`
+
+### Batch 15 — PDF 76-80
+
+- PDF 76: `அவனுகத்தான்` → `அவனாகத்தான்`
+- PDF 77: `ஒவ்வொரு வனுக்கும்` → `ஒவ்வொருவனுக்கும்`
+- PDF 77: `எய்ப்பது` → `ஏய்ப்பது`
+- PDF 78: `நாட்டெங்கும்` → `நாடெங்கும்`
+- PDF 80: `தேவனே நம்பு!` → `தேவனை நம்பு!`
 
 ## Superseded legacy-glyph readings — DO NOT USE
 
@@ -176,7 +187,8 @@ Earlier claims caused only by visual misinterpretation of traditional glyphs are
 - `தமிழனுக` → `தமிழனாக`
 - `கவலிப்பட` → `கவலைப்பட`
 - `நானு?` → `நானா?`
-- `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே`, `கெட்டிக்காரனுக`, `பெறுபவனுக`, `தானுகவே` → use the scan-proven underlying forms documented in the batch records.
+- later `-னுக/-னு` readings documented in Batches 9-15 → use their scan-proven underlying `-னாக/-னா` forms.
+- `தேவனே` in PDF 80 → `தேவனை` (traditional `னை` glyph).
 
 T3 must not resurrect superseded glyph-misreadings.
 
@@ -189,11 +201,11 @@ T3 must not resurrect superseded glyph-misreadings.
 - PDF 23→24: `உள்ள` / `படி` → `உள்ளபடி`
 - PDF 31→32: `தமிழினத்` / `தைப்` → `தமிழினத்தைப்`
 - PDF 32→33: `பசுமரத்` / `தாணிபோலப்` → `பசுமரத்தாணிபோலப்`
-- PDF 37→38: `வலதுகைப்` / `பெருவிரல்` — ordinary phrase continuation
-- PDF 38→39: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்` — ordinary sentence continuation
+- PDF 37→38: ordinary phrase continuation after `வலதுகைப்`
+- PDF 38→39: ordinary sentence continuation after `சாபந் தந்த`
 - PDF 40→41: `தேடு` / `கிறீர்;` → `தேடுகிறீர்;`
 - PDF 41→42: `சுயமரியாதை` / `யற்ற செயல்` → `சுயமரியாதையற்ற செயல்`
-- PDF 42→43: `உமக்குப்` / `பெருமை தந்திடத்தான்` — ordinary phrase continuation
+- PDF 42→43: ordinary phrase continuation after `உமக்குப்`
 - PDF 44→45: `ஊட்` / `டிடும்` → `ஊட்டிடும்`
 - PDF 45→46: ordinary sentence continuation after `வருணபகவான் என்றும்`
 - PDF 47→48: ordinary phrase continuation after `எது`
@@ -209,12 +221,17 @@ T3 must not resurrect superseded glyph-misreadings.
 - PDF 64→65: ordinary sentence continuation after `ஆங்கிலேயன்`
 - PDF 67→68: ordinary phrase continuation `தோன்றிடப்` / `போகிறார்கள்!`
 - PDF 69→70: ordinary phrase continuation `அறிவைப் பெருக்கிடும்` / `கல்வியறிவைப்...`
-- PDF 70→71: ordinary sentence continuation after `பாடத்தைப் போதித்தோம்,`; reconfirmed during full PDF 71 audit.
-- PDF 71→72: ordinary phrase continuation `மனிதனது வருங்கால வாழ்க்கை வளர்ச்சிக்கு` / `ஆரம்பம், அணிவேர்...`.
+- PDF 70→71: ordinary sentence continuation after `பாடத்தைப் போதித்தோம்,`
+- PDF 71→72: ordinary phrase continuation `மனிதனது வருங்கால வாழ்க்கை வளர்ச்சிக்கு` / `ஆரம்பம், அணிவேர்...`
 - PDF 72→73: no split-word join; consecutive questions.
-- PDF 73→74: ordinary phrase continuation `மைத்துனர், மாமி, எல்லோரும்` / `படித்தவர்கள் என்ற சூழ்நிலையில்...`.
+- PDF 73→74: ordinary phrase continuation `மைத்துனர், மாமி, எல்லோரும்` / `படித்தவர்கள்...`
 - PDF 74→75: no split-word join; consecutive questions.
-- PDF 75→76: ordinary phrase continuation `அத்துடன்` / `படிக்கிறான்.`; PDF 76 was only a boundary witness in Batch 14.
+- PDF 75→76: ordinary phrase continuation `அத்துடன்` / `படிக்கிறான்.`; reconfirmed in Batch 15.
+- PDF 76→77: `வாழ்வின் எல்லாத் துறை` / `களிலும்` → `வாழ்வின் எல்லாத் துறைகளிலும்`.
+- PDF 77→78: `தகுதியை` / `யும்` → `தகுதியையும்`.
+- PDF 78→79: `ஏற்பட்` / `டது` → `ஏற்பட்டது`.
+- PDF 79→80: `விளங்குகின்ற` / `னர்.` → `விளங்குகின்றனர்.`.
+- PDF 80→81: ordinary sentence continuation after `என்றெல்லாம் நாட்டில் கூக்குரல்,`; PDF 81 was only a boundary witness in Batch 15.
 
 ## T2 progress
 
@@ -234,10 +251,11 @@ T3 must not resurrect superseded glyph-misreadings.
 | 61-65 | 60-64 | audited |
 | 66-70 | 65-69 | audited |
 | 71-75 | 70-74 | audited |
-| 76-81 | 75-80 | pending |
+| 76-80 | 75-79 | audited |
+| 81 | 80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 76-80 / printed pages 75-79** line-by-line against the scan. PDF 76 must be audited fully even though its opening `படிக்கிறான்.` was inspected only as the PDF 75→76 boundary witness. Apply the traditional-glyph rule from the outset and record only scan-proven corrections. Inspect PDF 81 only as a boundary witness if necessary, without counting it audited until its own final batch.
+Audit the final body page: **PDF page 81 / printed page 80** line-by-line against the scan. Reconfirm the PDF 80→81 sentence continuation, apply the traditional-glyph rule from the outset, and record every scan-proven correction.
 
-After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
+Only after PDF 81 passes may T2 be marked **complete — 76/76**. Then perform T3 canonical consolidation, apply every valid T2 correction and page-boundary decision, run stale-reading checks, merge the segmented T1 material into one continuous canonical `transcription-ta.md`, and freeze Tamil only when verified-complete.
