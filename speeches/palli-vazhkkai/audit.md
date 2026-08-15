@@ -9,17 +9,15 @@
 
 Tamil first-pass transcription (T1) is **complete: 76/76 body pages**.
 
-The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 5/76 pages**, through PDF page 10 / printed page 9.
+The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 10/76 pages**, through PDF page 15 / printed page 14.
 
-No page beyond PDF 10 is T2-verified yet. English remains blocked.
+English remains blocked.
 
 ## T2 Batch 1 — PDF 6-10 / printed 5-9
 
-The actual page images were compared against T1 line-by-line. Confirmed corrections are preserved in `t2-batches/batch-01-pdf-06-10.md` and are mandatory inputs to T3 canonical consolidation.
+Detailed record: `t2-batches/batch-01-pdf-06-10.md`.
 
-### Confirmed corrections
-
-On PDF 7 / printed 6:
+Confirmed corrections:
 
 - `ஆராய்ந்து தெரிந்து` → `ஆராய்ந்து தெளிந்து`
 - `கற்றோனாக` → `கற்றோனுக`
@@ -27,28 +25,36 @@ On PDF 7 / printed 6:
 - `கதாசிரியனாக` → `கதாசிரியனுக`
 - `கட்டுரையாசிரியனாக` → `கட்டுரையாசிரியனுக`
 - `உத்தமனாக` → `உத்தமனுக`
-
-On PDF 8 / printed 7:
-
 - `மண்ணாவது` → `மண்ணுவது`
 
-These are source readings, not modernization choices.
+PDF 9→10 `உயி` / `ரினங்களைவிட` is visually confirmed as the legitimate one-word join `உயிரினங்களைவிட`.
 
-### Page-boundary resolution
+## T2 Batch 2 — PDF 11-15 / printed 10-14
 
-PDF 9 / printed 8 ends `உயி`; PDF 10 / printed 9 begins `ரினங்களைவிட`. Both page images were inspected. The consolidated one-word reading `உயிரினங்களைவிட` is therefore confirmed as a legitimate cross-page printer split under the repository guide.
+Detailed record: `t2-batches/batch-02-pdf-11-15.md`.
 
-### Batch result
+Confirmed corrections:
 
-- PDF 6 / printed 5 — audited
-- PDF 7 / printed 6 — audited; 6 confirmed corrections
-- PDF 8 / printed 7 — audited; 1 confirmed correction
-- PDF 9 / printed 8 — audited
-- PDF 10 / printed 9 — audited; split-word join confirmed
+- `தோவினாலும்` → `தோலினாலும்`
+- `மனித வாழ்க்கத்தின்` → `மனித வர்க்கத்தின்`
+- `மனித வாழ்க்கத்தை` → `மனித வர்க்கத்தை`
+- `ஒருபடியாக` → `ஒருப்படியாக`
+- `வயல் உழுது` → `வயலில் உழுது`
+- `நினைப்பார்` → `நிணப்பார்`
+- `நினைக்க` → `நிணக்க`
+- `நினைத்திடும்` → `நிணத்திடும்`
+
+Visually confirmed source-supported oddities which must **not** be normalized:
+
+- printed p.11: `நன்றுக`
+- printed p.12: `உயிரினங்களின் றும்`
+- printed p.13: `வாழ்க்கைச் செந்தி`
+- printed p.14: `வாசனே`
+
+PDF 13→14 / printed 12→13 `இவர்` / `கட்கு` is visually confirmed as a genuine page-split word and may be consolidated as `இவர்கட்கு`.
 
 ## Remaining page-boundary / lineation queue
 
-- PDF 13→14 / printed 12→13: `இவர்` / `கட்கு`
 - PDF 18→19 / printed 17→18: `கஞ்சிக்` / `காவது`
 - PDF 19→20 / printed 18→19: `எட்டுச்` / `சுரையெனப்`
 - PDF 23→24 / printed 22→23: `உள்ள` / `படி`
@@ -64,19 +70,20 @@ PDF 9 / printed 8 ends `உயி`; PDF 10 / printed 9 begins `ரினங்�
 - PDF 50→51 / printed 49→50: `சிந்தித்` / `தான்!`
 - later Batch 10-12 boundaries remain pending direct visual inspection.
 
-## Provisional source-oddity queue
+## Provisional source-oddity queue still pending
 
-Still pending T2 confirmation where relevant: `வாழ்க்கத்தின்`, `நன்றுக`, `உயிரினங்களின் றும்`, `வாழ்க்கைச் செந்தி`, `வாசனே`, `கல்வி கற்கு மிடம்`, `திடசித்தமுடையவனுக`, `தமிழனுக`, `முன்னேற்றம் மடைகின்றன`, `தேவைத்தானு`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms.
+`கல்வி கற்கு மிடம்`, `திடசித்தமுடையவனுக`, `தமிழனுக`, `முன்னேற்றம் மடைகின்றன`, `தேவைத்தானு`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
 
 ## T2 progress
 
 | PDF pages | Printed pages | T2 state |
 |---:|---:|---|
 | 6-10 | 5-9 | **audited** |
-| 11-81 | 10-80 | pending |
+| 11-15 | 10-14 | **audited** |
+| 16-81 | 15-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 11-15 / printed pages 10-14** line-by-line against the scan. Resolve the queued PDF 13→14 split and visually verify the provisional forms on printed pages 11-14.
+Audit **PDF pages 16-20 / printed pages 15-19** line-by-line against the scan. In particular, verify `கல்வி கற்கு மிடம்` and inspect both sides of the PDF 18→19 and 19→20 page-boundary word splits.
 
-After all 76 pages pass T2, perform T3 canonical consolidation, apply every staged confirmed correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
+After all 76 pages pass T2, perform T3 canonical consolidation, apply every staged correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
