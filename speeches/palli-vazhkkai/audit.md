@@ -7,7 +7,7 @@
 ## Audit state
 
 - Tamil T1 first pass: **complete — 76/76**.
-- Strict visual Tamil audit T2: **in progress — 60/76**, through PDF 65 / printed 64.
+- Strict visual Tamil audit T2: **in progress — 65/76**, through PDF 70 / printed 69.
 - Tamil T3 consolidation/freeze: not started.
 - English: blocked until T2 and T3 pass.
 
@@ -22,7 +22,7 @@ Special watch forms include traditional shapes for `னா`, `றா`, `ணா`,
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-12 were audited with the corrected rule from the outset.
+Batches 8-13 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -38,6 +38,7 @@ Batches 8-12 were audited with the corrected rule from the outset.
 - Batch 10: `t2-batches/batch-10-pdf-51-55.md`
 - Batch 11: `t2-batches/batch-11-pdf-56-60.md`
 - Batch 12: `t2-batches/batch-12-pdf-61-65.md`
+- Batch 13: `t2-batches/batch-13-pdf-66-70.md`
 
 ## Confirmed scan-proven corrections retained for T3
 
@@ -67,7 +68,7 @@ Batches 8-12 were audited with the corrected rule from the outset.
 - `ஆல கால` → `ஆலகால`
 - `நீலகண்டனூர்` → `நீலகண்டனார்`
 - `திடமென்று` → `திடீரென்று`
-- `சிவத்தொண்டு` → `சிவத் தொண்டு` in the audited phrase
+- `சிவத்தொண்டு` → `சிவத் தொண்டு`
 - `மினையாளைக்` → `மனையாளைக்`
 - `முறைதானு?` → `முறைதானா?`
 - `தேவைத்தான்` → `தேவைதான்`
@@ -77,57 +78,73 @@ Batches 8-12 were audited with the corrected rule from the outset.
 
 ### Batch 9 — PDF 46-50
 
-- PDF 48: `மழையவர்` → `மறையவர்`
-- PDF 49: `தோழனுகத்` → `தோழனாகத்`
-- PDF 49: `அதனின் அச்சிடும்` → `அதன் அச்சிடும்`
-- PDF 50: `உறுதுணைவனுக` → `உறுதுணைவனாக`
-- PDF 50: `உயிரே செல்லும்` → `உயரே செல்லும்`
-- PDF 50: `எவலனுக` → `ஏவலனாக`
+- `மழையவர்` → `மறையவர்`
+- `தோழனுகத்` → `தோழனாகத்`
+- `அதனின் அச்சிடும்` → `அதன் அச்சிடும்`
+- `உறுதுணைவனுக` → `உறுதுணைவனாக`
+- `உயிரே செல்லும்` → `உயரே செல்லும்`
+- `எவலனுக` → `ஏவலனாக`
 
 Source-supported oddity retained: PDF 48 `மனிதனி அறிவு கண்டு`.
 
 ### Batch 10 — PDF 51-55
 
-- PDF 51: `மனிதனுக` → `மனிதனாக`
-- PDF 52: `ஆளும்` → `ஆனாலும்`
-- PDF 53: `இரண்யாட்சன்` → `இரண்ணியாட்சகன்`
-- PDF 53: `இரண்யாட்சனைத்` → `இரண்ணியாட்சகனைத்`
-- PDF 54: `பார்ந்த பூமியை` → `பரந்தபூமியை`
-- PDF 54: `மூம்மூர்த்திகளில்` → `மும்மூர்த்திகளில்`
-- PDF 55: `மோதவிடப்படுகிறது,` → `மோதவிடப்படுகிறது;`
-- PDF 55: replace the corrupted T1 eclipse-cause sentence with: `படிக்கிறோம், விஞ்ஞான வகுப்பில், பூமி, தன்னைத் தானே சுற்றிக்கொண்டே, சூரியனைச் சுற்றிவரும் பாதையில் ஏற்படும் மாறுதலைப் பொருத்தும், சந்திரன் பூமியைச் சுற்றும்போது ஏற்படும் மாறுதலைப் பொருத்தும் இந்தக் கிரகணங்கள் ஏற்படுகின்றன, என்று.`
-- PDF 55: `வேறு வேறு காரணங்கள்` → `வேறு வேறான காரணங்கள்`
+- `மனிதனுக` → `மனிதனாக`
+- `ஆளும்` → `ஆனாலும்`
+- `இரண்யாட்சன்` → `இரண்ணியாட்சகன்`
+- `இரண்யாட்சனைத்` → `இரண்ணியாட்சகனைத்`
+- `பார்ந்த பூமியை` → `பரந்தபூமியை`
+- `மூம்மூர்த்திகளில்` → `மும்மூர்த்திகளில்`
+- `மோதவிடப்படுகிறது,` → `மோதவிடப்படுகிறது;`
+- Replace the corrupted T1 eclipse-cause sentence with: `படிக்கிறோம், விஞ்ஞான வகுப்பில், பூமி, தன்னைத் தானே சுற்றிக்கொண்டே, சூரியனைச் சுற்றிவரும் பாதையில் ஏற்படும் மாறுதலைப் பொருத்தும், சந்திரன் பூமியைச் சுற்றும்போது ஏற்படும் மாறுதலைப் பொருத்தும் இந்தக் கிரகணங்கள் ஏற்படுகின்றன, என்று.`
+- `வேறு வேறு காரணங்கள்` → `வேறு வேறான காரணங்கள்`
 
 ### Batch 11 — PDF 56-60
 
-- PDF 56: `ஒன்றுகவே` → `ஒன்றாகவே`
-- PDF 56: `உபயோகப்படுத்திக்கொண்டும்` → `உபயோகப் படுத்திக்கொண்டும்`
-- PDF 56: `அங்கக் கால` → `அந்தக் கால`
-- PDF 57: `சிந்தனை முதிர்ச்சி படைந்து` → `சிந்தனை முதிர்ச்சி யடைந்து`
-- PDF 57: `நாகரிக வாழ்வு வாழ்வதைப்` → `நாகரிக வாழ்வு, வாழ்வதைப்`
-- PDF 60: `தமிழனுக` → `தமிழனாக`
-- PDF 60: `தமிழ் அறிந்த தமிழனமாக` → `தமிழறிந்த தமிழனமாக`
+- `ஒன்றுகவே` → `ஒன்றாகவே`
+- `உபயோகப்படுத்திக்கொண்டும்` → `உபயோகப் படுத்திக்கொண்டும்`
+- `அங்கக் கால` → `அந்தக் கால`
+- `சிந்தனை முதிர்ச்சி படைந்து` → `சிந்தனை முதிர்ச்சி யடைந்து`
+- `நாகரிக வாழ்வு வாழ்வதைப்` → `நாகரிக வாழ்வு, வாழ்வதைப்`
+- `தமிழனுக` → `தமிழனாக`
+- `தமிழ் அறிந்த தமிழனமாக` → `தமிழறிந்த தமிழனமாக`
 
-Source-supported unusual readings retained in Batch 11 include `தமிழனமாக` and `மதனின் அறிவு வளர்ச்சி பெற்று`; do not normalize them merely because they look unusual.
+Source-supported unusual readings retained: `தமிழனமாக`; `மதனின் அறிவு வளர்ச்சி பெற்று`.
 
 ### Batch 12 — PDF 61-65
 
-- PDF 62: `கல்வெறிபட்டுக்` → `கல்லெறிபட்டுக்`
-- PDF 62: `மீனவி மக்களைத் திருந்து` → `மீனவ மக்களைத் துறந்து`
-- PDF 63: first `மனிதனுக` → `மனிதனாக`
-- PDF 63: second `மனிதனுக` → `மனிதனாக`
-- PDF 63: `மிருகத் தன்மையின்றும்` → `மிருகத் தன்மையினின்றும்`
-- PDF 63: `படைத்தவனுக` → `படைத்தவனாக`
-- PDF 64: `மூன்கெட்டு` → `மூளை கெட்டு`
-- PDF 64: `அறிவும் தன்மை` → `அறியும் தன்மை`
-- PDF 65: `தெரிவித்து கொள்வதும்` → `தெரிவித்துக்கொள்வதும்`
-- PDF 65: `தமிழ் வீரனைத் திகழ்வான்` → `தமிழ் வீரனாகத் திகழ்வான்`
+- `கல்வெறிபட்டுக்` → `கல்லெறிபட்டுக்`
+- `மீனவி மக்களைத் திருந்து` → `மீனவ மக்களைத் துறந்து`
+- first `மனிதனுக` → `மனிதனாக`
+- second `மனிதனுக` → `மனிதனாக`
+- `மிருகத் தன்மையின்றும்` → `மிருகத் தன்மையினின்றும்`
+- `படைத்தவனுக` → `படைத்தவனாக`
+- `மூன்கெட்டு` → `மூளை கெட்டு`
+- `அறிவும் தன்மை` → `அறியும் தன்மை`
+- `தெரிவித்து கொள்வதும்` → `தெரிவித்துக்கொள்வதும்`
+- `தமிழ் வீரனைத் திகழ்வான்` → `தமிழ் வீரனாகத் திகழ்வான்`
 
-The `மனிதனாக`, `படைத்தவனாக`, and `வீரனாகத்` corrections are additional traditional-glyph cases. They must not be reintroduced as `-னுக` / `-னைத்` during T3.
+### Batch 13 — PDF 66-70
+
+- PDF 66: `மாட்டானு?` → `மாட்டானா?`
+- PDF 66: `ஒன்றன்பின் ஒன்றுக` → `ஒன்றன்பின் ஒன்றாக`
+- PDF 66: `அவல் மூச்சாக` → `அனல் மூச்சாக`
+- PDF 66: `முயல்வதுபோல` → `முயல்வது போல`
+- PDF 66: `நன்றுக நினைவில்` → `நன்றாக நினைவில்`
+- PDF 67: `நன்றுக நினைவிருக்கட்டும்` → `நன்றாக நினைவிருக்கட்டும்`
+- PDF 67: `வளர்ப்படுத்திக்` → `வளப்படுத்திக்`
+- PDF 68: `புத்தக வித்தகர்` → `புத்தகவித்தகர்`
+- PDF 68: `உலகம்தான்` → `உலகந்தான்`
+- PDF 69: `தந்திரங்களைக் தவறாது` → `தந்திரங்களைத் தவறாது`
+- PDF 69: `கூடாது; நேரடித்` → `கூடாது, நேரடித்`
+- PDF 69: `நன்றுக நினைவு` → `நன்றாக நினைவு`
+- PDF 70: `தோழனுகவே` → `தோழனாகவே`
+
+Source-supported form retained: PDF 68 `உலகந்தான்`.
 
 ## Superseded legacy-glyph readings — DO NOT USE
 
-Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. These include:
+Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. This includes forms such as:
 
 - `கற்றோனுக` → `கற்றோனாக`
 - `கல்லூரனுக` → `கல்லூரனாக`
@@ -143,11 +160,10 @@ Earlier claims caused only by visual misinterpretation of traditional glyphs are
 - `திடசித்தமுடையவனுக` → `திடசித்தமுடையவனாக`
 - `தமிழனுக` → `தமிழனாக`
 - `கவலிப்பட` → `கவலைப்பட`
-- earlier `தேவைத்தானு` glyph readings → underlying `-தானா` where documented
 - `நானு?` → `நானா?`
-- later `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `வீரனைத்` → corrected in Batches 9-12
+- `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே` → use the scan-proven underlying forms documented in the batch records.
 
-T3 must not resurrect any superseded glyph-misreading.
+T3 must not resurrect superseded glyph-misreadings.
 
 ## Confirmed page-boundary / printer-wrap decisions
 
@@ -158,25 +174,27 @@ T3 must not resurrect any superseded glyph-misreading.
 - PDF 23→24: `உள்ள` / `படி` → `உள்ளபடி`
 - PDF 31→32: `தமிழினத்` / `தைப்` → `தமிழினத்தைப்`
 - PDF 32→33: `பசுமரத்` / `தாணிபோலப்` → `பசுமரத்தாணிபோலப்`
-- PDF 37→38: `வலதுகைப்` / `பெருவிரல்` — ordinary phrase continuation; retain space
+- PDF 37→38: `வலதுகைப்` / `பெருவிரல்` — ordinary phrase continuation
 - PDF 38→39: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்` — ordinary sentence continuation
 - PDF 40→41: `தேடு` / `கிறீர்;` → `தேடுகிறீர்;`
 - PDF 41→42: `சுயமரியாதை` / `யற்ற செயல்` → `சுயமரியாதையற்ற செயல்`
 - PDF 42→43: `உமக்குப்` / `பெருமை தந்திடத்தான்` — ordinary phrase continuation
 - PDF 44→45: `ஊட்` / `டிடும்` → `ஊட்டிடும்`
-- PDF 45→46: `வருணபகவான் என்றும்` / `இடிக்குத் தலைவன் இந்திரன் என்றும்` — ordinary sentence continuation
-- PDF 47→48: `... இரண்டு வழிகளில், எது` / `வேண்டும் இன்று!` — ordinary phrase continuation
-- PDF 49→50: `காலம் அறிவிக்கும்` / `கடிகார வகைகள்` — ordinary phrase continuation
+- PDF 45→46: ordinary sentence continuation after `வருணபகவான் என்றும்`
+- PDF 47→48: ordinary phrase continuation after `எது`
+- PDF 49→50: ordinary phrase continuation after `காலம் அறிவிக்கும்`
 - PDF 50→51: `சிந்தித்` / `தான்!` → `சிந்தித்தான்!`
 - PDF 55→56: `மற்` / `றொன்று` → `மற்றொன்று`
 - PDF 56→57: `வாழ்` / `வாகத்தானே` → `வாழ்வாகத்தானே`
-- PDF 58→59: `பகவத் கீதை, இராமாயண, பாரத இதிகாசங்கள்` / `இடம்பெற்ற சரித ஏடுகளிலே...` — ordinary sentence continuation
-- PDF 59→60: `இராஜ இராஜேந்திரனின்` / `வெற்றிச் செய்திகள்...` — ordinary phrase continuation
-- PDF 60→61: `வளர்ச்சி` / `வழியை, முன்னேற்றப் பாதையை...` — ordinary phrase continuation; reconfirmed during full PDF 61 audit
-- PDF 61→62: `இது அந்த` / `நாள், ...` — ordinary phrase continuation
-- PDF 62→63: `புதுப் புதுக் கருவிகள் உண்டான` / `சூழ்நிலைகள் என்ன?` — ordinary phrase continuation
-- PDF 64→65: `ஆங்கில நாட்டு மாணவன் தன்னை ஆங்கிலேயன்` / `என்று கூறுவதும்...` — ordinary sentence continuation
-- PDF 65 ends a complete sentence; no PDF 65→66 join is required
+- PDF 58→59: ordinary sentence continuation after `பாரத இதிகாசங்கள்`
+- PDF 59→60: ordinary phrase continuation after `இராஜ இராஜேந்திரனின்`
+- PDF 60→61: ordinary phrase continuation `வளர்ச்சி` / `வழியை...`
+- PDF 61→62: ordinary phrase continuation `இது அந்த` / `நாள்...`
+- PDF 62→63: ordinary phrase continuation `புதுப் புதுக் கருவிகள் உண்டான` / `சூழ்நிலைகள்...`
+- PDF 64→65: ordinary sentence continuation after `ஆங்கிலேயன்`
+- PDF 67→68: ordinary phrase continuation `தோன்றிடப்` / `போகிறார்கள்!`
+- PDF 69→70: ordinary phrase continuation `அறிவைப் பெருக்கிடும்` / `கல்வியறிவைப்...`
+- PDF 70→71: ordinary sentence continuation after `பாடத்தைப் போதித்தோம்,`; PDF 71 was only a boundary witness in Batch 13.
 
 ## T2 progress
 
@@ -194,10 +212,11 @@ T3 must not resurrect any superseded glyph-misreading.
 | 51-55 | 50-54 | audited |
 | 56-60 | 55-59 | audited |
 | 61-65 | 60-64 | audited |
-| 66-81 | 65-80 | pending |
+| 66-70 | 65-69 | audited |
+| 71-81 | 70-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 66-70 / printed pages 65-69** line-by-line against the scan. PDF 66 must be audited fully from the beginning even though its image was visible during Batch 12. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
+Audit **PDF pages 71-75 / printed pages 70-74** line-by-line against the scan. PDF 71 must be audited fully even though its opening was inspected only as the PDF 70→71 boundary witness. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
