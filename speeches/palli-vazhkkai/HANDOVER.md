@@ -23,9 +23,8 @@
 
 ### Tamil T1 first pass
 
-- Canonical `transcription-ta.md`: **35/76 body pages**, continuous through **PDF 40 / printed 39**.
-- Newly completed Batch 8 is safely staged in `t1-batches/batch-08-pdf-41-45.md`: **PDF 41-45 / printed 40-44**.
-- Total source pages with a T1 reading now available in the repository: **40/76**, through PDF 45 / printed 44.
+- **In progress: 40/76 body pages**.
+- Canonical `transcription-ta.md` is continuous through **PDF 45 / printed 44**.
 
 Completed batches:
 
@@ -36,13 +35,13 @@ Completed batches:
 - Batch 5: PDF 26-30 / printed 25-29
 - Batch 6: PDF 31-35 / printed 30-34
 - Batch 7: PDF 36-40 / printed 35-39
-- Batch 8: PDF 41-45 / printed 40-44 — **staged, pending canonical merge**
+- Batch 8: PDF 41-45 / printed 40-44 — **consolidated into canonical transcription**
 
-Batch 8 continues the exact mid-sentence ending from printed p.39 (`சிற்றிடையாளைத் தேடு`) on printed p.40, completes the இயற்பகை நாயனார் example, and moves into the argument about contradictory religious/scientific teaching, ending on printed p.44 with the sentence continuing after `வருணபகவான் என்றும்`.
+Batch 8 continues the exact mid-sentence ending from printed p.39 (`சிற்றிடையாளைத் தேடு`) on printed p.40, completes the இயற்பகை நாயனார் example, and moves into the argument about contradictory religious/scientific teaching. Printed p.44 ends mid-sentence at `வருணபகவான் என்றும்`; do not complete this from memory or outside sources.
 
-A separate batch file is being used deliberately at this checkpoint to avoid replacing or truncating the already continuous 35-page canonical transcription. Before any further T1 pages are added, Batch 8 must be merged into `transcription-ta.md`, and the progress fields in `metadata.json`, `README.md`, and `audit.md` must be synchronized to 40/76.
+`metadata.json`, `README.md`, `audit.md`, and this handover are synchronized to **40/76** and through **PDF 45 / printed 44**.
 
-The transcription remains a first-pass layer only. Source-supported unusual forms must remain provisional until T2.
+The transcription remains a first-pass layer only. Source-supported unusual forms remain provisional T2 carry-forward items.
 
 ### Tamil T2 / T3
 
@@ -59,11 +58,11 @@ The transcription remains a first-pass layer only. Source-supported unusual form
 
 ## Exact next incomplete activity
 
-**Consolidate Batch 8 into canonical `transcription-ta.md` and synchronize repository progress to 40/76.**
-
-Only after that consolidation should T1 continue at:
+Continue **Stage T1 first-pass Tamil transcription** at:
 
 - **PDF page 46 / printed page 45**
+
+Proceed in manageable page batches, preserving explicit PDF/printed-page headings and source-supported historical wording. Continue the unfinished `வருணபகவான் என்றும்` sentence only from the actual PDF page 46 scan.
 
 ## Continuation safeguards
 
