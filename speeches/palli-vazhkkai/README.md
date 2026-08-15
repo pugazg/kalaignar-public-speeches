@@ -41,30 +41,32 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Source inspection / bibliographic identification | **Complete** |
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
-| Tamil consolidation / freeze (T3) | **All 76 pages merged — whole-body freeze gate pending** |
-| English translation | **Not started / blocked** |
-| English fidelity review | **Not started** |
-| Final Tamil→English verification | **Not started** |
+| Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
+| English translation (E1) | **Not started — ready** |
+| English fidelity review (E2) | **Not started** |
+| Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
 
-## Tamil source layers
+## Verified Tamil layer
 
-The canonical `transcription-ta.md` now contains the T2-corrected consolidated Tamil for the complete body: **PDF 6-81 / printed pages 5-80**.
+`transcription-ta.md` is now the frozen canonical Tamil transcription for the complete body, **PDF 6-81 / printed pages 5-80**.
 
-The final PDF 76-81 consolidation applied T2 Batches 15-16, including the traditional-glyph corrections `அவனாகத்தான்` and `தேவனை`, the wording corrections `ஒவ்வொருவனுக்கும்`, `ஏய்ப்பது`, `நாடெங்கும்`, `தமிழரெல்லாம்`, and `தமிழினத்தை`, and the verified split-word joins `துறைகளிலும்`, `தகுதியையும்`, `ஏற்பட்டது`, and `விளங்குகின்றனர்`.
+The final whole-body T3 gate passed after checking all 76 sequential page headings, stale superseded readings, recorded split-word joins, representative ordinary page continuations, canonical opening and closing, duplicate/empty pages, representative T2 corrections, and source-supported unusual forms. The machine-checkable result is recorded in `t3-final-verification.md`.
 
-The canonical final page retains scan-supported wording including `உலகியலேக் காண` and ends with the verified closing `... பள்ளி வாழ்க்கையில்! வணக்கம் !!`.
+Traditional pre-1978 glyph forms were decoded to the source-supported underlying Tamil characters. Superseded readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `மனிதனுக`, `தோழனுக`, `அவனுகத்தான்`, and `தேவனே` were not allowed to survive where the scan establishes `கவலைப்பட`, `நன்றாக`, `தமிழனாக`, `மனிதனாக`, `தோழனாக`, `அவனாகத்தான்`, and `தேவனை`.
 
-T1 staging files and the complete T2 audit trail remain retained while the final T3 freeze gate is pending. They are evidence and must not be deleted before the gate passes.
+At the same time, genuine scan-supported wording remains unregularized, including forms such as `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, and `உலகியலேக் காண`.
 
-Tamil is **not yet frozen**. The next gate is an end-to-end check of the complete canonical file: stale traditional-glyph readings, every page heading and page map, all recorded split-word joins, beginning and ending text, source-supported unusual readings, and absence of missing/duplicated pages.
+The verified final page ends:
+
+`... தீரத் தமிழராக, தன்மானச் சிங்கங்களாக விளங்க அடிப்படை காணுங்கள், பள்ளி வாழ்க்கையில்! வணக்கம் !!`
+
+Obsolete T1 staging files were removed after the successful freeze. The complete T2 audit evidence remains under `t2-batches/` and must be retained as the source-fidelity record.
 
 ## Exact next activity
 
-Run the **whole-body T3 verification gate across PDF 6-81 / printed 5-80**. Only if every required check passes should `transcription-ta.md` be marked `verified-complete`, `metadata.json` set `tamil_frozen: true`, and the Tamil layer frozen before English translation begins.
-
-English remains blocked until that gate passes.
+Begin **E1 English translation** from the frozen `transcription-ta.md`, starting with **PDF 6-10 / printed 5-9** as a manageable first batch. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
 
 ## Editorial rule
 
-The supplied scan is the controlling source for this edition. Historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms must not be silently modernized or corrected. OCR or parsed text may assist but is never authoritative. Traditional glyph shapes are decoded to the correct underlying Tamil character sequences.
+The supplied scan is the controlling source for this edition. Historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms must not be silently modernized or corrected. OCR or parsed text may assist but is never authoritative. The frozen Tamil layer is the sole translation source unless a later source-evidenced Tamil correction is formally documented and dependent English is re-verified.
