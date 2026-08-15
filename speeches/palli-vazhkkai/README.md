@@ -14,7 +14,7 @@ The title page gives the title **`பள்ளி வாழ்க்கை`**, t
 
 PDF page 5 explicitly describes this booklet as the result of **தோழர் மு. நமச்சிவாயம்** collecting speeches delivered by Kalaignar M. Karunanidhi at **திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி** and **வேறு சில இடங்களிலும்**.
 
-Accordingly, this source is archived as one printed speech-compilation booklet rather than being forced into a single speech event. The source does not establish component-speech dates or one common venue, event, occasion, or audience. Those single-event fields therefore remain unset rather than being inferred.
+Accordingly, this source is archived as one printed speech-compilation booklet rather than being forced into a single speech event. The source does not establish component-speech dates or one common venue, event, occasion, or audience. Those single-event fields remain unset rather than being inferred.
 
 ## Scan map
 
@@ -39,19 +39,33 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Layer | Status |
 |---|---|
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **In progress - 40/76 body pages (PDF 6-45 / printed 5-44)** |
-| Strict line-by-line visual Tamil audit | **Not started** |
-| Tamil consolidation / freeze | **Not started** |
-| English translation | **Not started** |
+| Tamil first-pass transcription (T1) | **Complete — 76/76 body pages (PDF 6-81 / printed 5-80)** |
+| Strict line-by-line visual Tamil audit (T2) | **Not started — 0/76** |
+| Tamil consolidation / freeze (T3) | **Not started** |
+| English translation | **Not started / blocked** |
 | English fidelity review | **Not started** |
 | Final Tamil→English verification | **Not started** |
 | Repository archival closure | **Not started** |
 
-T1 first-pass transcription has completed eight five-page batches through PDF page **45 / printed page 44**. The canonical `transcription-ta.md` is continuous from PDF page 6 through PDF page 45; Batch 8 has been consolidated from its temporary staging file into the canonical transcription.
+### T1 storage
 
-The current section completes the source's இயற்பகை நாயனார் example and moves into its discussion of contradictory religious/scientific teaching. Printed page 44 ends mid-sentence at `வருணபகவான் என்றும்`; the next T1 activity must continue only from the next scan page.
+T1 coverage is complete without discarding any source-controlled work:
 
-The exact next T1 activity begins at **PDF page 46 / printed page 45**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
+- `transcription-ta.md` — PDF 6-45 / printed 5-44
+- `t1-batches/batch-09-pdf-46-50.md` — PDF 46-50 / printed 45-49
+- `t1-batches/batch-10-pdf-51-60.md` — PDF 51-60 / printed 50-59
+- `t1-batches/batch-11-pdf-61-70.md` — PDF 61-70 / printed 60-69
+- `t1-batches/batch-12-pdf-71-81.md` — PDF 71-81 / printed 70-80
+
+The final source page is PDF 81 / printed 80 and the T1 reading ends `பள்ளி வாழ்க்கையில்! வணக்கம் !!`.
+
+The batch files are intentionally retained during T2. They are first-pass transcription, not verified text. Keeping the already source-controlled segmentation avoids a destructive bulk rewrite before the independent visual audit. The final single-file canonical merge belongs to T3, after T2 has resolved provisional readings and page-boundary joins.
+
+## Exact next activity
+
+Begin **T2 strict visual fidelity audit** at **PDF page 6 / printed page 5**, comparing every line against the supplied scan. Record corrections and source-supported oddities in `audit.md`. Do not modernize or silently normalize the source.
+
+English remains blocked until all 76 pages pass T2 and the Tamil layer passes T3 and is frozen as `verified-complete`.
 
 ## Editorial rule
 
