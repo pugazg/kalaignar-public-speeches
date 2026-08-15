@@ -17,7 +17,7 @@
 ### T1 — COMPLETE
 All **76/76 speech-body pages** have first-pass readings.
 
-### T2 — IN PROGRESS: 45/76
+### T2 — IN PROGRESS: 50/76
 Completed strict visual audit:
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
@@ -28,8 +28,9 @@ Completed strict visual audit:
 - Batch 7: PDF 36-40 / printed 35-39
 - Batch 8: PDF 41-45 / printed 40-44
 - Batch 9: PDF 46-50 / printed 45-49
+- Batch 10: PDF 51-55 / printed 50-54
 
-Detailed records are under `t2-batches/`, including `batch-09-pdf-46-50.md`.
+Detailed T2 records are under `t2-batches/`; the latest is `batch-10-pdf-51-55.md`.
 
 ## Mandatory traditional-glyph rule
 
@@ -38,49 +39,49 @@ The 1952 edition uses traditional Tamil glyph shapes. Encode the underlying Tami
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8 and 9 were audited with this corrected rule from the outset.
+Batches 8-10 were audited with this corrected rule from the outset.
 
-Do not reintroduce withdrawn forms such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?`, or other legacy-glyph misreadings. Follow `audit.md` and the corrective files during T3.
+Do not reintroduce withdrawn forms such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?`, or later `-னுக` glyph misreadings.
 
-## Important Batch 9 resolutions
+## Important Batch 10 resolutions
 
 Confirmed corrections:
-- PDF 48 / printed 47: `மழையவர்` → **`மறையவர்`**
-- PDF 49 / printed 48: `தோழனுகத்` → **`தோழனாகத்`**
-- PDF 49 / printed 48: `அதனின் அச்சிடும்` → **`அதன் அச்சிடும்`**
-- PDF 50 / printed 49: `உறுதுணைவனுக` → **`உறுதுணைவனாக`**
-- PDF 50 / printed 49: `உயிரே செல்லும்` → **`உயரே செல்லும்`**
-- PDF 50 / printed 49: `எவலனுக` → **`ஏவலனாக`**
-
-Source-supported reading retained:
-- PDF 48: **`மனிதனி அறிவு கண்டு`** — do not silently change to `மனிதனின்`.
+- PDF 51 / printed 50: `மனிதனுக` → **`மனிதனாக`**
+- PDF 52 / printed 51: `ஆளும்` → **`ஆனாலும்`**
+- PDF 53 / printed 52: `இரண்யாட்சன்` → **`இரண்ணியாட்சகன்`**
+- PDF 53 / printed 52: `இரண்யாட்சனைத்` → **`இரண்ணியாட்சகனைத்`**
+- PDF 54 / printed 53: `பார்ந்த பூமியை` → **`பரந்தபூமியை`**
+- PDF 54 / printed 53: `மூம்மூர்த்திகளில்` → **`மும்மூர்த்திகளில்`**
+- PDF 55 / printed 54: `மோதவிடப்படுகிறது,` → **`மோதவிடப்படுகிறது;`**
+- PDF 55 / printed 54: the T1 eclipse explanation was materially corrupted and omitted a full clause. Use the scan-supported sentence recorded in `batch-10-pdf-51-55.md`.
+- PDF 55 / printed 54: `வேறு வேறு காரணங்கள்` → **`வேறு வேறான காரணங்கள்`**
 
 Page-boundary decisions:
-- PDF 45→46 `வருணபகவான் என்றும்` / `இடிக்குத் தலைவன் இந்திரன் என்றும்` is ordinary sentence continuation.
-- PDF 47→48 `... இரண்டு வழிகளில், எது` / `வேண்டும் இன்று!` is ordinary phrase continuation.
-- PDF 49→50 `காலம் அறிவிக்கும்` / `கடிகார வகைகள்` is ordinary phrase continuation.
-- PDF 50→51 `சிந்தித்` / `தான்!` → **`சிந்தித்தான்!`**. PDF 51 was inspected only as a boundary witness and is **not** yet counted audited.
+- PDF 50→51 `சிந்தித்` / `தான்!` → `சிந்தித்தான்!` reconfirmed during full PDF 51 audit.
+- PDF 55→56 `மற்` / `றொன்று` → **`மற்றொன்று`**. PDF 56 was inspected only as a boundary witness and is **not** yet counted audited.
 
 ### T3
 - Not started.
 - Tamil is not frozen or `verified-complete`.
+- All T2 corrections, including the user-triggered traditional-glyph recheck, are mandatory T3 inputs.
 
 ### English
 - Not started and remains blocked until T2 and T3 pass.
 
 ## Exact next activity
 
-Perform strict T2 visual audit of **PDF pages 51-55 / printed pages 50-54**.
+Perform strict T2 visual audit of **PDF pages 56-60 / printed pages 55-59**.
 
 Specifically:
-- audit PDF 51 fully even though its opening `தான்!` was used only as a boundary witness in Batch 9;
+- audit PDF 56 fully even though its opening `றொன்று` was used only as a boundary witness in Batch 10;
 - apply the traditional-glyph rule from the outset;
+- compare every line and punctuation mark against the scan;
 - record only scan-proven changes;
-- inspect PDF 56 only if needed as a boundary witness for PDF 55 and do not count it audited until its own batch.
+- inspect PDF 61 only if needed as a page-boundary witness, and do not count it audited until its own batch.
 
 ## Safeguards
-- Scan is authoritative; OCR is only an aid.
-- Source-faithful transcription preserves spelling, not obsolete glyph shape as a wrong Unicode letter.
+- Scan is authoritative; OCR and T1 are only aids.
+- Source-faithful transcription preserves spelling while mapping obsolete glyph shapes to the correct underlying Tamil characters.
 - T2 is source comparison, not modern-language proofreading.
 - Do not infer or reconstruct text.
 - Do not commit the source PDF.
