@@ -1,0 +1,31 @@
+name: Palli Vazhkkai T3 Diagnostic
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/palli-vazhkkai-t3-diagnostic.yml']
+
+jobs:
+  locate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Locate residual readings
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          text=Path('speeches/palli-vazhkkai/transcription-ta.md').read_text(encoding='utf-8')
+          body=text.split('## Main body',1)[1]
+          r=re.compile(r'^### PDF page (\d+) — printed page (\d+)\n\n',re.M)
+          ms=list(r.finditer(body)); pages={}
+          for i,m in enumerate(ms):
+              end=ms[i+1].start() if i+1<len(ms) else len(body)
+              pages[int(m.group(1))]=body[m.end():end].strip()
+          for term in ['தமிழனுக','மனிதனுக']:
+              print('TERM',term)
+              for p,s in pages.items():
+                  if term in s:
+                      idx=s.index(term)
+                      print('PDF',p,repr(s[max(0,idx-140):idx+len(term)+180]))
+          PY
