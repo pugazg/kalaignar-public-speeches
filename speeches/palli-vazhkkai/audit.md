@@ -7,7 +7,7 @@
 
 ## Audit state
 
-The startup/source-inspection gate is **complete**. Tamil first-pass transcription (T1) is **in progress: 15/76 body pages**, through PDF page 20 / printed page 19.
+The startup/source-inspection gate is **complete**. Tamil first-pass transcription (T1) is **in progress: 20/76 body pages**, through PDF page 25 / printed page 24.
 
 The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and must not begin until the complete 76-page body has first been transcribed in T1.
 
@@ -20,6 +20,7 @@ No T2 source-fidelity findings are being claimed from the present first-pass wor
 | 1 | 6-10 | 5-9 | first-pass transcribed | not audited |
 | 2 | 11-15 | 10-14 | first-pass transcribed | not audited |
 | 3 | 16-20 | 15-19 | first-pass transcribed | not audited |
+| 4 | 21-25 | 20-24 | first-pass transcribed | not audited |
 
 ### Page-boundary joins to recheck during T2
 
@@ -27,6 +28,7 @@ No T2 source-fidelity findings are being claimed from the present first-pass wor
 - PDF 13→14 / printed 12→13: `இவர்` / `கட்கு` joined as `இவர்கட்கு`.
 - PDF 18→19 / printed 17→18: `கஞ்சிக்` / `காவது` joined as `கஞ்சிக்காவது`.
 - PDF 19→20 / printed 18→19: `எட்டுச்` / `சுரையெனப்` joined as `எட்டுச்சுரையெனப்`.
+- PDF 23→24 / printed 22→23: `உள்ள` / `படி` joined as `உள்ளபடி`.
 
 ### Provisional source-oddity readings from T1
 
@@ -37,6 +39,9 @@ The following visually supported but unusual first-pass forms have deliberately 
 - printed p.13: `வாழ்க்கைச் செந்தி`
 - printed p.14: `வாசனே`
 - printed p.18: `கல்வி கற்கு மிடம்`
+- printed p.20: `திடசித்தமுடையவனுக`
+- printed p.21: `பலமுறைகள்`
+- printed p.23: `மனிதனுக`, `நல்லதங்கள்`, `நாவினை நாட்டினரும்`
 
 These are T1 carry-forward flags, not final verified readings.
 
@@ -59,7 +64,7 @@ Publication in March 1952 is **not** treated as a speech date.
 
 ## Pending workflow
 
-1. Continue T1 first-pass Tamil transcription from PDF page **21 / printed page 20** through PDF page 81 / printed page 80.
+1. Continue T1 first-pass Tamil transcription from PDF page **26 / printed page 25** through PDF page 81 / printed page 80.
 2. Only after T1 is complete, perform T2 strict visual line-by-line comparison of every body page against the scan, logging substantive corrections here.
 3. Then perform T3 consolidation, page-boundary/stale-reading checks, and freeze the verified Tamil layer.
 4. English work remains blocked until T3 passes.
