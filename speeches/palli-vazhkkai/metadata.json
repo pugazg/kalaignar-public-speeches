@@ -1,24 +1,13 @@
 {
   "id": "palli-vazhkkai",
-  "title": {
-    "ta": "பள்ளி வாழ்க்கை",
-    "en_transliteration": "Palli Vazhkkai"
-  },
-  "creator": {
-    "name_ta": "மு. கருணாநிதி",
-    "name_en": "M. Karunanidhi",
-    "role_source_text": "கலைஞர் : மு. கருணாநிதி"
-  },
+  "title": {"ta": "பள்ளி வாழ்க்கை", "en_transliteration": "Palli Vazhkkai"},
+  "creator": {"name_ta": "மு. கருணாநிதி", "name_en": "M. Karunanidhi", "role_source_text": "கலைஞர் : மு. கருணாநிதி"},
   "document_type": "printed-speech-compilation-booklet",
   "archive_context": "Kalaignar Public Speeches project",
   "source_form_note": "PDF page 5 explicitly describes the booklet as a compilation of speeches by M. Karunanidhi delivered at the Tiruvarur municipal high school and other places, compiled by தோழர் மு. நமச்சிவாயம். It is archived as one source unit without inferring a single original speech event.",
   "language": "ta",
   "speech": {
-    "date": null,
-    "venue": null,
-    "event": null,
-    "occasion": null,
-    "audience": null,
+    "date": null, "venue": null, "event": null, "occasion": null, "audience": null,
     "source_note": "The source describes multiple speeches rather than a single event. It names திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி and also says வேறு சில இடங்களிலும், but gives no component-speech dates or a single venue/event/occasion/audience. These single-event fields therefore remain null."
   },
   "compilation": {
@@ -29,27 +18,15 @@
     "other_venues_source_text": "வேறு சில இடங்களிலும்"
   },
   "publication": {
-    "edition_text": "முதற்பதிப்பு மார்ச்சு 1952",
-    "edition": 1,
-    "publication_month": 3,
-    "publication_year": 1952,
-    "publisher_ta": "அறிவு மன்றம்",
-    "publisher_place_ta": "சென்னை",
-    "rights_text": "பதிப்புரிமை",
-    "price_text": "விலை ரூ. 1-0-0",
-    "printer_source_text": "Vinodan Press, 33, Jones St. G. T. Madras."
+    "edition_text": "முதற்பதிப்பு மார்ச்சு 1952", "edition": 1, "publication_month": 3, "publication_year": 1952,
+    "publisher_ta": "அறிவு மன்றம்", "publisher_place_ta": "சென்னை", "rights_text": "பதிப்புரிமை",
+    "price_text": "விலை ரூ. 1-0-0", "printer_source_text": "Vinodan Press, 33, Jones St. G. T. Madras."
   },
-  "structure": {
-    "front_matter_pdf_pages": "1-5",
-    "body_pdf_pages": "6-81",
-    "body_pdf_page_count": 76,
-    "printed_body_pages": "5-80"
-  },
+  "structure": {"front_matter_pdf_pages": "1-5", "body_pdf_pages": "6-81", "body_pdf_page_count": 76, "printed_body_pages": "5-80"},
   "source": {
     "filename": "TVA_BOK_0064116_பள்ளி_வாழ்க்கை.pdf",
     "sha256": "e20bf80e8e5b65abbfdb5bcefbdaf85b8e5385112f6de8efcc0e733ed3aceea3",
-    "file_size_bytes": 101096930,
-    "pdf_pages": 81,
+    "file_size_bytes": 101096930, "pdf_pages": 81,
     "page_map": {
       "pdf_1": "otherwise blank leaf with a later donor/provenance gift label; not edition/body text",
       "pdf_2": "title page",
@@ -58,29 +35,18 @@
       "pdf_5": "compilation/source note: speeches at திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி and other places; compiled by மு. நமச்சிவாயம்",
       "pdf_6_to_81": "main body; printed pages 5-80"
     },
-    "scan_status": "primary source supplied by repository owner",
-    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner", "binary_committed": false,
     "binary_note": "The source PDF was supplied in the ChatGPT session. Repository policy is not to commit source PDFs; identity is preserved through filename, checksum, file size, page count, and page map."
   },
   "workflow": {
-    "source_inspection": "complete",
-    "source_inspection_date": "2026-08-15",
-    "tamil_transcription": "in-progress",
-    "speech_pages_total": 76,
-    "speech_pages_drafted": 20,
-    "tamil_transcription_through_pdf_page": 25,
-    "tamil_transcription_through_printed_page": 24,
-    "tamil_visual_audit": "not-started",
-    "strict_reaudit_pages_checked": 0,
-    "tamil_consolidation": "not-started",
-    "tamil_frozen": false,
-    "english_translation": "not-started",
-    "english_translation_pages_completed": 0,
-    "english_translation_review": "not-started",
-    "english_translation_review_pages_checked": 0,
-    "english_translation_final_verification": "not-started",
-    "english_translation_final_verification_pages_checked": 0,
-    "repository_archival_closure": "not-started",
-    "transcription_translation_work_pending": true
+    "source_inspection": "complete", "source_inspection_date": "2026-08-15",
+    "tamil_transcription": "in-progress", "speech_pages_total": 76, "speech_pages_drafted": 30,
+    "tamil_transcription_through_pdf_page": 35, "tamil_transcription_through_printed_page": 34,
+    "tamil_visual_audit": "not-started", "strict_reaudit_pages_checked": 0,
+    "tamil_consolidation": "not-started", "tamil_frozen": false,
+    "english_translation": "not-started", "english_translation_pages_completed": 0,
+    "english_translation_review": "not-started", "english_translation_review_pages_checked": 0,
+    "english_translation_final_verification": "not-started", "english_translation_final_verification_pages_checked": 0,
+    "repository_archival_closure": "not-started", "transcription_translation_work_pending": true
   }
 }

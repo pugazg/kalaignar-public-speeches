@@ -7,11 +7,9 @@
 
 ## Audit state
 
-The startup/source-inspection gate is **complete**. Tamil first-pass transcription (T1) is **in progress: 20/76 body pages**, through PDF page 25 / printed page 24.
+Tamil first-pass transcription (T1) is **in progress: 30/76 body pages**, through PDF page 35 / printed page 34.
 
-The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and must not begin until the complete 76-page body has first been transcribed in T1.
-
-No T2 source-fidelity findings are being claimed from the present first-pass work. T1 readings remain provisional until the later independent visual audit.
+The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and must not begin until the complete 76-page body has first been transcribed in T1. All readings below remain provisional T1 carry-forward items.
 
 ## T1 progress context
 
@@ -21,50 +19,39 @@ No T2 source-fidelity findings are being claimed from the present first-pass wor
 | 2 | 11-15 | 10-14 | first-pass transcribed | not audited |
 | 3 | 16-20 | 15-19 | first-pass transcribed | not audited |
 | 4 | 21-25 | 20-24 | first-pass transcribed | not audited |
+| 5 | 26-30 | 25-29 | first-pass transcribed | not audited |
+| 6 | 31-35 | 30-34 | first-pass transcribed | not audited |
 
-### Page-boundary joins to recheck during T2
+### Page-boundary / lineation items to recheck during T2
 
-- PDF 9→10 / printed 8→9: `உயி` / `ரினங்களைவிட` joined as `உயிரினங்களைவிட`.
-- PDF 13→14 / printed 12→13: `இவர்` / `கட்கு` joined as `இவர்கட்கு`.
-- PDF 18→19 / printed 17→18: `கஞ்சிக்` / `காவது` joined as `கஞ்சிக்காவது`.
-- PDF 19→20 / printed 18→19: `எட்டுச்` / `சுரையெனப்` joined as `எட்டுச்சுரையெனப்`.
-- PDF 23→24 / printed 22→23: `உள்ள` / `படி` joined as `உள்ளபடி`.
+- PDF 9→10 / printed 8→9: `உயி` / `ரினங்களைவிட` was joined as `உயிரினங்களைவிட`.
+- PDF 13→14 / printed 12→13: `இவர்` / `கட்கு` was joined as `இவர்கட்கு`.
+- PDF 18→19 / printed 17→18: `கஞ்சிக்` / `காவது` was joined as `கஞ்சிக்காவது`.
+- PDF 19→20 / printed 18→19: `எட்டுச்` / `சுரையெனப்` was joined as `எட்டுச்சுரையெனப்`.
+- PDF 23→24 / printed 22→23: `உள்ள` / `படி` was treated as `உள்ளபடி`.
+- PDF 31→32 / printed 30→31: source wraps `தமிழினத்` / `தைப்`; T1 currently preserves the page split and T2 must decide consolidated lineation (`தமிழினத்தைப்`).
+- PDF 32→33 / printed 31→32: source wraps `பசுமரத்` / `தாணிபோலப்`; T1 currently preserves the page split and T2 must decide consolidated lineation (`பசுமரத்தாணிபோலப்`).
 
 ### Provisional source-oddity readings from T1
 
-The following visually supported but unusual first-pass forms have deliberately **not** been normalized. They must be checked again during the later independent T2 audit:
+Do not normalize these before T2 visual recheck:
 
 - printed p.11: `வாழ்க்கத்தின்`, `நன்றுக`
 - printed p.12: `உயிரினங்களின் றும்`
 - printed p.13: `வாழ்க்கைச் செந்தி`
 - printed p.14: `வாசனே`
 - printed p.18: `கல்வி கற்கு மிடம்`
-- printed p.20: `திடசித்தமுடையவனுக`
-- printed p.21: `பலமுறைகள்`
-- printed p.23: `மனிதனுக`, `நல்லதங்கள்`, `நாவினை நாட்டினரும்`
+- printed pp.20-24: `திடசித்தமுடையவனுக`, `பலமுறைகள்`, `மனிதனுக`, `நல்லதங்கள்`, `நாவினை நாட்டினரும்`
+- printed pp.25-29: `தமிழனுக`, `முன்னேற்றம் மடைகின்றன`, `இளையான் குடிமாறனார்`, `இத்தை வெறுத்து`, `தன்னேப்பற்றிக் கவலிப்பட`, `வளர்த்தை`, `வகைப்படுத்தியாக`
+- printed pp.30-34: `தேவையற்ற கருத்துக்களே`, `போற்றிவேண்டும்`, `புதியக் மறுமலர்ச்சிக்கு`, `தேவைத்தானு`, `எவை யெவை`, `அரிபந்தாமன்`, `காண்டவன்`, and other visibly unusual forms in the Ekalavya passage.
 
-These are T1 carry-forward flags, not final verified readings.
+### Structural correction during T1
 
-## Source-inspection findings
-
-- The supplied file is an image-based scan with **81 PDF pages**.
-- PDF page 1 is otherwise blank and carries a later donor/provenance gift label, `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் அன்பளிப்பு`. It is not incorporated as edition or speech text.
-- PDF page 2 is the title page: `பள்ளி வாழ்க்கை`, `கலைஞர் : மு. கருணாநிதி`, `அறிவு மன்றம்`, `சென்னை.`
-- PDF page 3 states `பதிப்புரிமை`, `முதற்பதிப்பு மார்ச்சு 1952`, `விலை ரூ. 1-0-0`, and the printer line `Vinodan Press, 33, Jones St. G. T. Madras.`
-- PDF page 4 is publisher/editorial front matter signed `அறிவு மன்றத்தார்.`
-- PDF page 5 explains the source form: speeches by Karunanidhi delivered at `திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி` and `வேறு சில இடங்களிலும்` were collected by `தோழர் மு. நமச்சிவாயம்`, producing `பள்ளி வாழ்க்கை`.
-- PDF pages 6-81 form the continuous main body and correspond to printed pages 5-80.
-- PDF page 81 / printed page 80 contains the end of the text; no separate advertisement/back-matter pages follow it.
-
-## Event-metadata boundary
-
-The source establishes a **compilation of multiple speeches**, not one dated speech event. It names the Tiruvarur municipal high school and says there were speeches at other places, but it does not provide component-speech dates or one common venue, event, occasion, or audience. Those single-event metadata fields remain unset.
-
-Publication in March 1952 is **not** treated as a speech date.
+After Batch 5, `transcription-ta.md` had accidentally been replaced with a shortened file containing a placeholder for the already completed PDF 6-25 text. Before adding Batch 6, the continuous PDF 6-25 transcription was restored from the repository's prior verified T1 state and Batches 5-6 were appended. This is a repository-structure repair, **not** a T2 textual verification claim.
 
 ## Pending workflow
 
-1. Continue T1 first-pass Tamil transcription from PDF page **26 / printed page 25** through PDF page 81 / printed page 80.
-2. Only after T1 is complete, perform T2 strict visual line-by-line comparison of every body page against the scan, logging substantive corrections here.
-3. Then perform T3 consolidation, page-boundary/stale-reading checks, and freeze the verified Tamil layer.
+1. Continue T1 first-pass Tamil transcription from PDF page **36 / printed page 35** through PDF page 81 / printed page 80.
+2. Only after T1 is complete, perform T2 strict visual line-by-line comparison of every body page against the scan.
+3. Then perform T3 consolidation, stale-reading/page-boundary checks, and freeze the verified Tamil layer.
 4. English work remains blocked until T3 passes.
