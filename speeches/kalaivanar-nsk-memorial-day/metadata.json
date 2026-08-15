@@ -1,0 +1,75 @@
+{
+  "id": "kalaivanar-nsk-memorial-day",
+  "title": {
+    "ta": "கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை",
+    "en_transliteration": "Kalaivanar N. S. Krishnan Ninaivu Naal Vizhaavil Kalaignar Urai"
+  },
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role": "speaker"
+  },
+  "document_type": "public-speech-audio-recording",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "venue": null,
+    "event_ta": "கலைவாணர் நினைவு நாள் விழா",
+    "occasion_note": "The speaker explicitly describes the occasion as an annually conducted Kalaivanar memorial-day function.",
+    "venue_note": "The spoken content strongly indicates the Chennai Kalaivanar Arangam as the present venue, but this remains provisional until the relevant segments pass strict auditory audit."
+  },
+  "source": {
+    "filename": "05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3",
+    "original_url": "https://tamildigitallibrary.in/kalaignar/audio/05.Kalaivanar%20N.S.Krishnan%20Ninnaivu%20Naal%20Vizha%20vil%20Kalaigar%20Speech.mp3",
+    "sha256": "7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148",
+    "file_size_bytes": 7087106,
+    "duration_seconds": 442.54925,
+    "duration_display": "00:07:22.549",
+    "audio_stream": {
+      "codec": "mp3",
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "channel_layout": "stereo",
+      "average_bit_rate_bps": 128114
+    },
+    "embedded_metadata": {
+      "xmp_metadata_date": "2024-06-04T14:52:08+05:30",
+      "xmp_modify_date": "2024-06-04T14:52:08+05:30",
+      "software_agent": "Adobe Audition 13.0 (Windows)",
+      "note": "These are digital-file metadata and are not treated as the speech date. The embedded genre tag 'Blues' is not considered meaningful archival description."
+    },
+    "recording_boundary": {
+      "start": "brief leading silence before speech",
+      "end": "recording ends abruptly during an unfinished sentence"
+    },
+    "scan_status": "primary audio source supplied by repository owner",
+    "binary_committed": false,
+    "binary_note": "The MP3 is not committed. Identity is preserved through the source URL, filename, checksum, size, duration, and technical metadata."
+  },
+  "time_map": [
+    {"segment": 1, "start": "00:00", "end": "00:20", "subject": "salutations"},
+    {"segment": 2, "start": "00:20", "end": "00:50", "subject": "annual memorial event"},
+    {"segment": 3, "start": "00:50", "end": "01:06", "subject": "gratitude to Kalaivanar"},
+    {"segment": 4, "start": "01:06", "end": "02:21", "subject": "Kalaivanar's artistic family"},
+    {"segment": 5, "start": "02:21", "end": "02:51", "subject": "honour to Udumalai Narayana Kavirayar"},
+    {"segment": 6, "start": "02:51", "end": "03:15", "subject": "old hall name and proposed renaming"},
+    {"segment": 7, "start": "03:15", "end": "04:00", "subject": "reconstruction and naming of Kalaivanar Arangam"},
+    {"segment": 8, "start": "04:00", "end": "04:44", "subject": "objections to changing the old name"},
+    {"segment": 9, "start": "04:44", "end": "05:42", "subject": "Kalaivanar Arangam at Tirukutralam"},
+    {"segment": 10, "start": "05:42", "end": "06:02", "subject": "public usefulness of the Chennai hall"},
+    {"segment": 11, "start": "06:02", "end": "06:53", "subject": "meaning of memorial gifts"},
+    {"segment": 12, "start": "06:53", "end": "07:22.549", "subject": "recipients and truncated ending"}
+  ],
+  "workflow": {
+    "tamil_transcription": "first-pass-complete",
+    "audio_segments_total": 12,
+    "audio_segments_drafted": 12,
+    "strict_audio_audit": "not-started",
+    "strict_audio_audit_segments_checked": 0,
+    "tamil_consolidation": "blocked",
+    "uncertain_readings_open": 4,
+    "english_translation": "not-started",
+    "english_translation_review": "not-started",
+    "english_translation_final_verification": "not-started"
+  }
+}
