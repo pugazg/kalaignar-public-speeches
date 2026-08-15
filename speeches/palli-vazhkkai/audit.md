@@ -7,9 +7,9 @@
 ## Audit state
 
 - Tamil T1 first pass: **complete — 76/76**.
-- Strict visual Tamil audit T2: **in progress — 75/76**, through PDF 80 / printed 79.
-- Tamil T3 consolidation/freeze: not started.
-- English: blocked until T2 and T3 pass.
+- Strict visual Tamil audit T2: **complete — 76/76**, through PDF 81 / printed 80.
+- Tamil T3 consolidation/freeze: **not started**.
+- English: blocked until T3 passes.
 
 The supplied scan is authoritative. OCR/T1 are only aids.
 
@@ -22,7 +22,7 @@ Special watch forms include traditional shapes for `னா`, `றா`, `ணா`,
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-15 were audited with the corrected rule from the outset.
+Batches 8-16 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -41,6 +41,7 @@ Batches 8-15 were audited with the corrected rule from the outset.
 - Batch 13: `t2-batches/batch-13-pdf-66-70.md`
 - Batch 14: `t2-batches/batch-14-pdf-71-75.md`
 - Batch 15: `t2-batches/batch-15-pdf-76-80.md`
+- Batch 16: `t2-batches/batch-16-pdf-81.md`
 
 The batch records are the detailed page-level audit trail and are mandatory T3 inputs.
 
@@ -168,6 +169,13 @@ Source-supported form retained: PDF 68 `உலகந்தான்`.
 - PDF 78: `நாட்டெங்கும்` → `நாடெங்கும்`
 - PDF 80: `தேவனே நம்பு!` → `தேவனை நம்பு!`
 
+### Batch 16 — PDF 81
+
+- `தமிழமெல்லாம்` → `தமிழரெல்லாம்`
+- `தமிழனத்தை` → `தமிழினத்தை`
+
+The final-page closing was visually confirmed as ending `... தீரத் தமிழராக, தன்மானச் சிங்கங்களாக விளங்க அடிப்படை காணுங்கள், பள்ளி வாழ்க்கையில்! வணக்கம் !!`.
+
 ## Superseded legacy-glyph readings — DO NOT USE
 
 Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. This includes forms such as:
@@ -231,7 +239,7 @@ T3 must not resurrect superseded glyph-misreadings.
 - PDF 77→78: `தகுதியை` / `யும்` → `தகுதியையும்`.
 - PDF 78→79: `ஏற்பட்` / `டது` → `ஏற்பட்டது`.
 - PDF 79→80: `விளங்குகின்ற` / `னர்.` → `விளங்குகின்றனர்.`.
-- PDF 80→81: ordinary sentence continuation after `என்றெல்லாம் நாட்டில் கூக்குரல்,`; PDF 81 was only a boundary witness in Batch 15.
+- PDF 80→81: ordinary sentence continuation after `என்றெல்லாம் நாட்டில் கூக்குரல்,`; reconfirmed during the full PDF 81 audit.
 
 ## T2 progress
 
@@ -252,10 +260,17 @@ T3 must not resurrect superseded glyph-misreadings.
 | 66-70 | 65-69 | audited |
 | 71-75 | 70-74 | audited |
 | 76-80 | 75-79 | audited |
-| 81 | 80 | pending |
+| 81 | 80 | audited |
 
-## Exact next activity
+**T2 gate: PASSED — 76/76 body pages audited.**
 
-Audit the final body page: **PDF page 81 / printed page 80** line-by-line against the scan. Reconfirm the PDF 80→81 sentence continuation, apply the traditional-glyph rule from the outset, and record every scan-proven correction.
+## Exact next activity — T3 canonical Tamil consolidation / freeze
 
-Only after PDF 81 passes may T2 be marked **complete — 76/76**. Then perform T3 canonical consolidation, apply every valid T2 correction and page-boundary decision, run stale-reading checks, merge the segmented T1 material into one continuous canonical `transcription-ta.md`, and freeze Tamil only when verified-complete.
+1. Merge the segmented T1 material into one continuous `transcription-ta.md` covering PDF 6-81 / printed 5-80.
+2. Apply every confirmed correction from T2 Batches 1-16 and both legacy-glyph recheck records.
+3. Apply every verified page-boundary/printer-wrap decision.
+4. Run an end-to-end stale-reading search for all superseded legacy-glyph forms and earlier T1 errors.
+5. Verify page continuity, page labels, beginning/end, and source-supported oddities against the audit trail.
+6. Only after these checks pass, mark Tamil `verified-complete` and frozen.
+
+English translation remains blocked until T3 passes.
