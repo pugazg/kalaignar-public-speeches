@@ -41,7 +41,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Source inspection / bibliographic identification | **Complete** |
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
-| Tamil consolidation / freeze (T3) | **Not started** |
+| Tamil consolidation / freeze (T3) | **In progress — canonical PDF 6-45 consolidated** |
 | English translation | **Not started / blocked** |
 | English fidelity review | **Not started** |
 | Final Tamil→English verification | **Not started** |
@@ -49,29 +49,31 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 
 ## Tamil source layers
 
-T1 coverage is complete but remains segmented until T3:
+T3 has begun. The canonical `transcription-ta.md` now contains the T2-corrected, page-boundary-checked text through **PDF 45 / printed page 44**.
 
-- `transcription-ta.md` — PDF 6-45 / printed 5-44
+The remaining T1 staging material is:
+
 - `t1-batches/batch-09-pdf-46-50.md` — PDF 46-50 / printed 45-49
 - `t1-batches/batch-10-pdf-51-60.md` — PDF 51-60 / printed 50-59
 - `t1-batches/batch-11-pdf-61-70.md` — PDF 61-70 / printed 60-69
 - `t1-batches/batch-12-pdf-71-81.md` — PDF 71-81 / printed 70-80
 
-The complete strict visual audit trail is under `t2-batches/`, including Batches 1-16 and the two legacy-glyph corrective records. The user-identified old-Tamil-glyph issue was incorporated into the audit workflow: traditional printed shapes are decoded to their correct underlying Tamil characters rather than treated as alternate historical spellings.
+The complete strict visual audit trail is under `t2-batches/`, including Batches 1-16 and the two legacy-glyph corrective records.
 
-T2 is complete, but the Tamil layer is **not yet frozen** because the scan-proven corrections still have to be consolidated into one canonical transcription and stale T1 readings must be eliminated.
+During the T3 stale-reading sweep, two residual traditional-glyph readings in the already-audited early segment were rechecked directly against the scan and corrected in the canonical text:
+
+- PDF 24: `மனிதனுக` → `மனிதனாக`
+- PDF 39: `தேவைத்தானு?` → `தேவைத்தானா?`
+
+This does not change the source-authority rule: these are underlying-character readings of the old glyphs, not modernization. Genuine source-supported oddities remain unchanged.
+
+Tamil is **not yet frozen**. The remaining staged pages must be consolidated, every T2 correction and verified boundary join applied, and the complete PDF 6-81 layer must pass the final stale-reading and continuity checks.
 
 ## Exact next activity
 
-Perform **T3 canonical Tamil consolidation / freeze preparation**:
+Continue T3 by consolidating **PDF 46-60 / printed 45-59** into `transcription-ta.md`, applying T2 Batches 9-11 and the verified boundary joins at PDF 50→51, 55→56 and 56→57. Then run a stale-reading check on that newly merged segment before proceeding to PDF 61-81.
 
-1. merge PDF 6-81 / printed 5-80 into one continuous `transcription-ta.md`;
-2. apply all T2 corrections, traditional-glyph corrections and page-boundary joins;
-3. run an end-to-end stale-reading check;
-4. verify beginning, ending and page continuity;
-5. mark Tamil `verified-complete` only after the consolidated file passes the T3 gate.
-
-English remains blocked until T3 passes.
+English remains blocked until T3 passes and Tamil is explicitly frozen as `verified-complete`.
 
 ## Editorial rule
 
