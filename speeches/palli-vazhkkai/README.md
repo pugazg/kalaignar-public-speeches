@@ -39,7 +39,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Layer | Status |
 |---|---|
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **In progress - 35/76 body pages (PDF 6-40 / printed 5-39)** |
+| Tamil first-pass transcription | **In progress - 40/76 body pages (PDF 6-45 / printed 5-44)** |
 | Strict line-by-line visual Tamil audit | **Not started** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started** |
@@ -47,9 +47,11 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Final Tamil→English verification | **Not started** |
 | Repository archival closure | **Not started** |
 
-T1 first-pass transcription has completed seven five-page batches through PDF page **40 / printed page 39**. The transcription file remains continuous from PDF page 6 onward. The current section carries the Ekalavya/Drona episode forward into the discussion of Brhaspati–Tara and then begins the source's account of இயற்பகை நாயனார்.
+T1 first-pass transcription has completed eight five-page batches through PDF page **45 / printed page 44**. The canonical `transcription-ta.md` is continuous from PDF page 6 through PDF page 45; Batch 8 has been consolidated from its temporary staging file into the canonical transcription.
 
-The exact next T1 activity begins at **PDF page 41 / printed page 40**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
+The current section completes the source's இயற்பகை நாயனார் example and moves into its discussion of contradictory religious/scientific teaching. Printed page 44 ends mid-sentence at `வருணபகவான் என்றும்`; the next T1 activity must continue only from the next scan page.
+
+The exact next T1 activity begins at **PDF page 46 / printed page 45**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
 
 ## Editorial rule
 
