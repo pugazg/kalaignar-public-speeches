@@ -1,6 +1,6 @@
 # பள்ளி வாழ்க்கை — Tamil transcription
 
-**Status:** `t3-in-progress` — canonical consolidation complete through **PDF 81 / printed page 80**; whole-body T3 gate pending  
+**Status:** `verified-complete` — Tamil T3 whole-body gate passed and canonical layer frozen  
 **Source:** `TVA_BOK_0064116_பள்ளி_வாழ்க்கை.pdf`  
 **Source SHA-256:** `e20bf80e8e5b65abbfdb5bcefbdaf85b8e5385112f6de8efcc0e733ed3aceea3`  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)  
@@ -10,9 +10,9 @@
 
 - T1 first-pass transcription: **complete — 76/76**.
 - T2 strict visual line-by-line audit: **complete — 76/76**.
-- T3 consolidation/freeze: **in progress**.
-- This canonical file now contains the T2-corrected consolidated text for **all PDF 6-81 / printed 5-80**. The whole-body stale-reading, page-continuity, heading-count and endpoint checks are still pending before freeze.
-- Tamil is **not yet frozen / verified-complete**.
+- T3 consolidation/freeze: **verified-complete — frozen**.
+- This canonical file contains the T2-corrected consolidated text for **all PDF 6-81 / printed 5-80** and has passed the whole-body stale-reading, page-continuity, heading-count, endpoint and source-oddity checks.
+- Tamil is **frozen / verified-complete**. Later Tamil changes require documented source evidence and dependent English re-verification.
 
 The supplied scan is the controlling source. Historical spelling, punctuation, wording, repetition, unusual grammar and source-supported typographical forms are preserved. Traditional pre-1978 Tamil glyph shapes are encoded as their underlying Tamil character sequences rather than visually similar modern Unicode syllables.
 
