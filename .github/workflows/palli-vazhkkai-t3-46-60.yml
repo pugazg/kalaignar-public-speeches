@@ -160,6 +160,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add speeches/palli-vazhkkai/transcription-ta.md
-          git diff --cached --check
           git commit -m 'Consolidate Palli Vazhkkai T3 through PDF 60'
           git push origin HEAD:main
