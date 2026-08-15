@@ -15,64 +15,64 @@
 ## Workflow state
 
 ### T1 — COMPLETE
-All **76/76 speech-body pages** have first-pass readings.
+All **76/76** body pages have first-pass readings.
 
-Current T1 storage remains segmented pending T3 consolidation:
-- `transcription-ta.md`: PDF 6-45 / printed 5-44
-- `t1-batches/batch-09-pdf-46-50.md`: PDF 46-50 / printed 45-49
-- `t1-batches/batch-10-pdf-51-60.md`: PDF 51-60 / printed 50-59
-- `t1-batches/batch-11-pdf-61-70.md`: PDF 61-70 / printed 60-69
-- `t1-batches/batch-12-pdf-71-81.md`: PDF 71-81 / printed 70-80
+### T2 — COMPLETE
+All **76/76** body pages passed strict visual audit. Detailed evidence remains under `t2-batches/`, including Batches 1-16 and the two legacy-glyph recheck records.
 
-### T2 — COMPLETE: 76/76
-Every body page from **PDF 6 through PDF 81 / printed 5 through 80** has passed strict visual line-by-line comparison against the supplied scan.
+### T3 — IN PROGRESS
+The canonical `transcription-ta.md` has now been rebuilt and corrected through:
 
-Detailed T2 records:
-- Batches 1-16 under `t2-batches/`
-- final batch: `t2-batches/batch-16-pdf-81.md`
-- legacy-glyph corrective records:
-  - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
-  - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
+- **PDF 6-45 / printed 5-44 — T3 consolidated into the canonical file**
+- PDF 46-50 / printed 45-49 — still in `t1-batches/batch-09-pdf-46-50.md`
+- PDF 51-60 / printed 50-59 — still in `t1-batches/batch-10-pdf-51-60.md`
+- PDF 61-70 / printed 60-69 — still in `t1-batches/batch-11-pdf-61-70.md`
+- PDF 71-81 / printed 70-80 — still in `t1-batches/batch-12-pdf-71-81.md`
 
-The traditional pre-1978 Tamil glyph issue has been accounted for through the final page. T3 must encode the underlying Tamil characters and must not resurrect visual-lookalike T1/T2 readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `தேவனே` where the scan established `கவலைப்பட`, `நன்றாக`, `தமிழனாக`, `தேவனை`, etc.
+Tamil is **not yet frozen / verified-complete**. English remains blocked.
 
-### Final T2 page — PDF 81 / printed 80
-Confirmed corrections:
-- `தமிழமெல்லாம்` → **`தமிழரெல்லாம்`**
-- `தமிழனத்தை` → **`தமிழினத்தை`**
+## T3 work completed in this activity
 
-PDF 80→81 was reconfirmed as ordinary sentence continuation after `என்றெல்லாம் நாட்டில் கூக்குரல்,`.
+All known T2 corrections applicable to PDF 6-45 were incorporated into the canonical layer, including the user-triggered traditional-glyph corrections and the verified cross-page word joins.
 
-The scan-confirmed closing ends:
-`... தீரத் தமிழராக, தன்மானச் சிங்கங்களாக விளங்க அடிப்படை காணுங்கள், பள்ளி வாழ்க்கையில்! வணக்கம் !!`
+The T3 stale-reading sweep also exposed two residual old-glyph misreadings that had survived the earlier audit summaries. Both were rechecked directly against their scan pages before correction:
 
-### T3 — ACTIVE NEXT GATE
-- Canonical Tamil consolidation/freeze: **not started**.
-- Tamil is not yet `verified-complete` or frozen.
+- PDF 24 / printed 23: `மனிதனுக` → **`மனிதனாக`**
+- PDF 39 / printed 38: `தேவைத்தானு?` → **`தேவைத்தானா?`**
 
-### English
-- E1 translation: not started.
-- E2 fidelity review: not started.
-- E3 final verification: not started.
-- English remains blocked until T3 passes.
+These are underlying-character corrections for traditional 1952 glyph forms, not modernization.
+
+Important verified joins already applied in the canonical PDF 6-45 segment include:
+- PDF 31→32: `தமிழினத்` / `தைப்` → `தமிழினத்தைப்`
+- PDF 32→33: `பசுமரத்` / `தாணிபோலப்` → `பசுமரத்தாணிபோலப்`
+- PDF 40→41: `தேடு` / `கிறீர்;` → `தேடுகிறீர்;`
+- PDF 41→42: `சுயமரியாதை` / `யற்ற` → `சுயமரியாதையற்ற`
+- PDF 44→45: `ஊட்` / `டிடும்` → `ஊட்டிடும்`
+
+Earlier verified joins already present in the canonical T1 segment were retained.
+
+## Mandatory traditional-glyph rule
+
+The 1952 printing uses traditional Tamil glyphs. Encode the underlying Tamil characters, not visually similar modern Unicode syllables. Do not resurrect superseded readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `மனிதனுக`, `தேவைத்தானு`, `தோழனுக`, `அவனுகத்தான்`, or `தேவனே` where the scan proves `கவலைப்பட`, `நன்றாக`, `தமிழனாக`, `மனிதனாக`, `தேவைத்தானா`, `தோழனாக`, `அவனாகத்தான்`, or `தேவனை`.
+
+At the same time, do not regularize genuine source-supported oddities such as `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, or `உலகியலேக் காண` unless the scan itself proves otherwise.
 
 ## Exact next activity
 
-Perform **T3 canonical Tamil consolidation and freeze preparation**:
+Continue **T3 canonical consolidation with PDF 46-60 / printed 45-59**:
 
-1. Build one continuous `transcription-ta.md` covering PDF 6-81 / printed 5-80 from the existing canonical segment plus T1 batches.
-2. Apply every scan-proven correction from T2 Batches 1-16 and both legacy-glyph recheck records.
-3. Apply all verified page-boundary/printer-wrap joins recorded in `audit.md`.
-4. Run a stale-reading search for all superseded glyph misreadings and all specifically corrected T1 forms.
-5. Verify page-label continuity, first/last text, and all source-supported unusual forms.
-6. Only after the complete consolidated Tamil passes those checks, set the Tamil layer to `verified-complete` / frozen and remove temporary T1 staging files if the guide permits.
+1. merge `t1-batches/batch-09-pdf-46-50.md` and the PDF 51-60 portion of `batch-10-pdf-51-60.md` into `transcription-ta.md`;
+2. apply T2 Batches 9-11 corrections and traditional-glyph mappings exactly;
+3. apply the verified PDF 50→51 `சிந்தித்` / `தான்!` → `சிந்தித்தான்!`, PDF 55→56 `மற்` / `றொன்று` → `மற்றொன்று`, and PDF 56→57 `வாழ்` / `வாகத்தானே` → `வாழ்வாகத்தானே` joins;
+4. run a stale-reading sweep on the newly consolidated segment before proceeding to PDF 61-81.
 
-Do **not** begin English translation until the T3 gate has actually passed.
+Only after all PDF 6-81 pages are in one continuous canonical file, every T2 correction is applied, stale readings are absent, source-supported oddities are retained, and page continuity is checked may Tamil be marked `verified-complete` / frozen.
 
 ## Safeguards
-- The scan is authoritative; OCR and T1 are only aids.
+- Scan is authoritative; OCR and T1 are only aids.
+- T3 is consolidation and verification, not language editing.
 - Do not modernize, normalize, reconstruct or improve source wording.
-- Decode obsolete glyph shapes to the correct underlying Tamil characters.
-- Preserve source-supported spelling, punctuation, names, numbers, repetition, unusual grammar and typographical forms.
+- Preserve source-supported spelling, punctuation, names, numbers, repetition and unusual grammar.
 - Do not infer speech date/venue/event from publication data or outside history.
 - Do not commit the source PDF.
+- Do not begin English translation until T3 passes.
