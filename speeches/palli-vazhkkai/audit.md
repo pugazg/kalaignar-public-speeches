@@ -9,7 +9,7 @@
 
 Tamil first-pass transcription (T1) is **complete: 76/76 body pages**.
 
-The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 30/76 pages**, through PDF page 35 / printed page 34.
+The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 35/76 pages**, through PDF page 40 / printed page 39.
 
 English remains blocked.
 
@@ -21,6 +21,7 @@ English remains blocked.
 - Batch 4: `t2-batches/batch-04-pdf-21-25.md`
 - Batch 5: `t2-batches/batch-05-pdf-26-30.md`
 - Batch 6: `t2-batches/batch-06-pdf-31-35.md`
+- Batch 7: `t2-batches/batch-07-pdf-36-40.md`
 
 ## Confirmed corrections to date
 
@@ -58,6 +59,13 @@ English remains blocked.
 - PDF 34 / printed 33: `தனது வில்லெடுத்து,` → `தனது வில்லைபூட்டி,`
 - PDF 35 / printed 34: `குறித்துவிட்டோடும்` → `குருதிவடிந்தோடும்`
 
+### Batch 7
+- PDF 36 / printed 35: `தாங்கள்தான்` → `தாங்கள் தான்`
+- PDF 36 / printed 35: `நானா?` → `நானு?`
+- PDF 37 / printed 36: `ஏகலவனின் மறுபடி` → `ஏகலவனை மறுபடி`
+- PDF 38 / printed 37: `பகுதிக்கு` → `பக்திக்கு`
+- PDF 40 / printed 39: `சிரச் சினந்து` → `சீறிச் சினந்து`
+
 ## Confirmed source-supported odd forms
 
 Preserve exactly as printed unless later source evidence proves otherwise:
@@ -82,8 +90,20 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 - `அரிபந்தாமன்`
 - `வில்லைபூட்டி`
 - `காண்டவன்`
+- `நானு?`
+- `ஏகலவனை மறுபடி`
+- `பக்திக்கு`
+- `நாயகனுக்கிக்கொண்ட`
+- `சந்திரனச் சல்லாபத்திற்`
+- `கடிக்குலவின`
+- `மாணுக்கர்களுக்கு`
+- `பூலோக வாசிகளேப்`
+- `திடமென்று`
+- `இறும்பூதெய்தி`
+- `என்ன கொடுமதி உமக்கு`
+- `சீறிச் சினந்து`
 
-## Confirmed page-boundary / printer-wrap joins
+## Confirmed page-boundary / printer-wrap decisions
 
 - PDF 9→10: `உயி` / `ரினங்களைவிட` → `உயிரினங்களைவிட`
 - PDF 13→14: `இவர்` / `கட்கு` → `இவர்கட்கு`
@@ -93,12 +113,12 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 - PDF 23→24: `உள்ள` / `படி` → `உள்ளபடி`
 - PDF 31→32: `தமிழினத்` / `தைப்` → `தமிழினத்தைப்`
 - PDF 32→33: `பசுமரத்` / `தாணிபோலப்` → `பசுமரத்தாணிபோலப்`
+- PDF 37→38: `வலதுகைப்` / `பெருவிரல்` is phrase continuation → `வலதுகைப் பெருவிரல்`; do not concatenate the two words.
+- PDF 38→39: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்` is sentence continuation, not a split word.
+- PDF 40→41: `தேடு` / `கிறீர்;` → `தேடுகிறீர்;`; PDF 41 was consulted only as a boundary witness and remains otherwise unaudited.
 
 ## Remaining page-boundary / lineation queue
 
-- PDF 37→38 / printed 36→37: `வலதுகைப்` / `பெருவிரல்`
-- PDF 38→39 / printed 37→38: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்`
-- PDF 40→41 / printed 39→40: `சிற்றிடையாளைத் தேடு` / `கிறீர்`
 - PDF 41→42 / printed 40→41: `சுயமரியாதை` / `பற்ற செயல்`
 - PDF 42→43 / printed 41→42: `உமக்குப்` / `பெருமை தந்திடத்தான்`
 - PDF 44→45 / printed 43→44: `ஊட்` / `டிடும்`
@@ -108,7 +128,7 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 
 ## Provisional source-oddity queue still pending
 
-`மனிதனுக`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
+`மனிதனுக`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
 
 ## T2 progress
 
@@ -120,10 +140,11 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 | 21-25 | 20-24 | **audited** |
 | 26-30 | 25-29 | **audited** |
 | 31-35 | 30-34 | **audited** |
-| 36-81 | 35-80 | pending |
+| 36-40 | 35-39 | **audited** |
+| 41-81 | 40-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 36-40 / printed pages 35-39** line-by-line against the scan. In particular, inspect PDF 37→38 `வலதுகைப்` / `பெருவிரல்`, PDF 38→39 `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்`, and the unfinished final line of PDF 40 before consulting PDF 41.
+Audit **PDF pages 41-45 / printed pages 40-44** line-by-line against the scan. PDF 41 must be audited fully even though its opening `கிறீர்;` was already inspected only to resolve the PDF 40→41 split. Resolve PDF 41→42 `சுயமரியாதை` / `பற்ற செயல்`, PDF 42→43 `உமக்குப்` / `பெருமை தந்திடத்தான்`, and PDF 44→45 `ஊட்` / `டிடும்`. Inspect PDF 46 only as a boundary witness if needed for the PDF 45 ending; do not count PDF 46 audited until its own batch.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every staged correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
