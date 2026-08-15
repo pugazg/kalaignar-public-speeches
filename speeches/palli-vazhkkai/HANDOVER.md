@@ -1,12 +1,14 @@
-# பள்ளி வாழ்க்கை — T3 handover
+# பள்ளி வாழ்க்கை — English E1 handover
 
 ## Repository
+
 - Repository: `pugazg/kalaignar-public-speeches`
 - Branch: `main`
 - Speech directory: `speeches/palli-vazhkkai/`
 
 ## Source
-- Canonical source: `TVA_BOK_0064116_பள்ளி_வாழ்க்கை.pdf`
+
+- Canonical scan: `TVA_BOK_0064116_பள்ளி_வாழ்க்கை.pdf`
 - SHA-256: `e20bf80e8e5b65abbfdb5bcefbdaf85b8e5385112f6de8efcc0e733ed3aceea3`
 - PDF pages: 81
 - Speech body: PDF 6-81 / printed 5-80 = 76 pages
@@ -15,64 +17,68 @@
 ## Workflow state
 
 ### T1 — COMPLETE
+
 All **76/76** body pages have first-pass readings.
 
 ### T2 — COMPLETE
-All **76/76** body pages passed strict visual audit. Detailed evidence remains under `t2-batches/`, including Batches 1-16 and the two legacy-glyph recheck records.
 
-### T3 — ALL PAGES MERGED; FINAL GATE PENDING
-`transcription-ta.md` now contains the T2-corrected canonical Tamil for **PDF 6-81 / printed 5-80**.
+All **76/76** body pages passed strict line-by-line visual audit. Detailed evidence remains under `t2-batches/`, including Batches 1-16 and both legacy-glyph recheck records.
 
-Tamil is **not yet frozen / verified-complete**. The final whole-body T3 verification gate has not yet been run. English remains blocked.
+### T3 — VERIFIED-COMPLETE / FROZEN
 
-## Final segment just consolidated — PDF 76-81
+`transcription-ta.md` is the frozen canonical Tamil layer for **PDF 6-81 / printed 5-80**.
 
-Applied scan-proven T2 corrections:
+The final whole-body gate passed and is recorded in `t3-final-verification.md`. It verified page count/order, page mapping, canonical opening and closing, stale-reading absence, representative T2 corrections, recorded split-word joins, ordinary page-boundary continuations, source-supported unusual forms, and absence of empty/exact-duplicate page bodies.
 
-- PDF 76: `அவனுகத்தான்` → `அவனாகத்தான்`
-- PDF 77: `ஒவ்வொரு வனுக்கும்` → `ஒவ்வொருவனுக்கும்`; `எய்ப்பது` → `ஏய்ப்பது`
-- PDF 78: `நாட்டெங்கும்` → `நாடெங்கும்`
-- PDF 80: `தேவனே நம்பு!` → `தேவனை நம்பு!`
-- PDF 81: `தமிழமெல்லாம்` → `தமிழரெல்லாம்`; `தமிழனத்தை` → `தமிழினத்தை`
+Tamil must not now be changed without documented source evidence. Any later Tamil correction requires dependent English re-verification.
 
-Verified split-word joins incorporated:
+### E1 — NOT STARTED / READY
 
-- PDF 76→77: `துறை` / `களிலும்` → `துறைகளிலும்`
-- PDF 77→78: `தகுதியை` / `யும்` → `தகுதியையும்`
-- PDF 78→79: `ஏற்பட்` / `டது` → `ஏற்பட்டது`
-- PDF 79→80: `விளங்குகின்ற` / `னர்` → `விளங்குகின்றனர்`
+English translation is now permitted. `translation-en.md` remains `not-started` until actual translated body text is added.
 
-PDF 75→76 and PDF 80→81 remain ordinary phrase/sentence continuations, exactly as established by T2.
+### E2 / E3 — NOT STARTED
 
-The canonical final page preserves source-supported wording including `உலகியலேக் காண` and the verified closing:
+Independent English fidelity review and final end-to-end Tamil→English verification have not begun.
 
-`... தீரத் தமிழராக, தன்மானச் சிங்கங்களாக விளங்க அடிப்படை காணுங்கள், பள்ளி வாழ்க்கையில்! வணக்கம் !!`
+## Mandatory translation source
 
-## Mandatory traditional-glyph rule
+Translate **only from the frozen `transcription-ta.md`**. Do not independently translate from OCR or replace the frozen Tamil using another edition.
 
-The 1952 printing uses traditional Tamil glyphs. Encode the underlying Tamil characters, not visually similar modern Unicode syllables. Do not resurrect superseded readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `மனிதனுக`, `தேவைத்தானு`, `தோழனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே`, `கெட்டிக்காரனுக`, `பெறுபவனுக`, `தானுகவே`, `அவனுகத்தான்`, or `தேவனே` where the scan proves the corrected underlying reading.
+Preserve as far as practical:
 
-At the same time, do not regularize genuine scan-supported oddities such as `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, or `உலகியலேக் காண` unless the scan itself proves otherwise.
+- argument structure and paragraph order;
+- rhetorical force and repetition;
+- metaphors and polemical language;
+- historical names/references;
+- PDF/printed-page correspondence;
+- uncertainty or syntactic difficulty present in the frozen Tamil.
 
-## Exact next activity — whole-body T3 gate
+Do not silently repair an unusual Tamil reading merely because a smoother English sentence is possible. If a literal rendering would materially mislead, use a concise, clearly labelled translator/source note.
 
-Run an end-to-end verification of the canonical `transcription-ta.md` across **PDF 6-81 / printed 5-80**:
+## Source-fidelity safeguards carried into English
 
-1. verify exactly 76 unique page headings, sequential PDF 6-81 and printed 5-80;
-2. search the complete body for every superseded T1/T2/traditional-glyph stale reading;
-3. verify every recorded split-word/page-boundary reconstruction from the T2 records;
-4. verify the canonical beginning and final closing;
-5. verify representative source-supported unusual readings remain unchanged;
-6. check for missing or duplicated page text around all merge boundaries;
-7. only if all checks pass, mark `transcription-ta.md` as `verified-complete`, set `metadata.json` `tamil_frozen: true`, synchronize README/audit/HANDOVER, and then unlock English translation.
+Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not the superseded T1 readings. Examples include `கவலைப்பட`, `நன்றாக`, `மனிதனாக`, `தமிழனாக`, `தோழனாக`, `அவனாகத்தான்`, and `தேவனை`.
 
-T1 staging and T2 evidence should remain retained until this gate passes.
+Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized in translation. Representative examples include `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, and `உலகியலேக் காண`.
+
+## Exact next activity
+
+Begin **E1 English translation with PDF pages 6-10 / printed pages 5-9** from `transcription-ta.md`.
+
+For that batch:
+
+1. retain the same PDF/printed-page headings in `translation-en.md`;
+2. translate every paragraph from the frozen Tamil, with no omitted clause or added historical explanation;
+3. preserve repetition and rhetorical questions rather than smoothing them away;
+4. flag any genuinely difficult frozen Tamil with a concise translator/source note rather than silently correcting it;
+5. update `metadata.json`, `README.md`, and this `HANDOVER.md` with E1 page progress after the batch.
+
+Do **not** begin E2 fidelity review until the full E1 translation is complete.
 
 ## Safeguards
-- Scan is authoritative; OCR and T1 are only aids.
-- T3 is consolidation and verification, not language editing.
-- Do not modernize, normalize, reconstruct or improve source wording.
-- Preserve source-supported spelling, punctuation, names, numbers, repetition and unusual grammar.
-- Do not infer speech date/venue/event from publication data or outside history.
+
+- Scan remains the authority behind the frozen Tamil; frozen Tamil is the authority for English.
+- Do not modernize or sanitize difficult historical language.
+- Do not infer speech date, venue, event, occasion, or audience from publication data or outside knowledge.
 - Do not commit the source PDF.
-- Do not begin English translation until the T3 whole-body gate passes.
+- T2 evidence and `t3-final-verification.md` are permanent audit records.
