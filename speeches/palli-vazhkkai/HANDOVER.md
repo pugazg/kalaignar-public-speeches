@@ -17,34 +17,28 @@
 ### T1 — COMPLETE
 All **76/76 speech-body pages** have first-pass readings.
 
-### T2 — IN PROGRESS: 20/76
+### T2 — IN PROGRESS: 25/76
 Completed strict visual audit:
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-20 / printed 15-19
 - Batch 4: PDF 21-25 / printed 20-24
+- Batch 5: PDF 26-30 / printed 25-29
 
-Detailed records:
-- `t2-batches/batch-01-pdf-06-10.md`
-- `t2-batches/batch-02-pdf-11-15.md`
-- `t2-batches/batch-03-pdf-16-20.md`
-- `t2-batches/batch-04-pdf-21-25.md`
+Detailed records are under `t2-batches/`, including `batch-05-pdf-26-30.md`.
 
-### Important Batch 4 resolutions
+### Important Batch 5 resolutions
 
 Confirmed corrections:
-- PDF 22 / printed 21: `இடம் கிடைத்து` → `இடம் உடைத்து`
-- PDF 23 / printed 22: `மண்ணாவது` → `மண்ணுவது`
+- PDF 29 / printed 28: `இத்தை வெறுத்து` → `இகத்தை வெறுத்து`
+- PDF 29 / printed 28: `தன்னேப்பற்றிக் கவலிப்பட` → `தன்னைப்பற்றிக் கவலிப்பட`
 
 Confirmed source forms that must be preserved:
-- `திடசித்தமுடையவனுக`
-- `பலமுறைகள்`
-- `நல்லதங்கள்`
-- `நாவினை நாட்டினரும்`
-- `இடம் உடைத்து`
-
-Page-boundary resolution:
-- PDF 23→24 `உள்ள` / `படி` is confirmed as the one-word join `உள்ளபடி`.
+- `தமிழனுக`
+- `முன்னேற்றம் மடைகின்றன`
+- `வளர்த்தை`
+- `வளர்த்தைப்`
+- `வகைப்படுத்தியாக`
 
 Verified corrections remain staged in `t2-batches/` and are mandatory inputs to T3. Do not reintroduce superseded T1 readings or normalize the source-supported odd forms.
 
@@ -57,13 +51,18 @@ Verified corrections remain staged in `t2-batches/` and are mandatory inputs to 
 
 ## Exact next activity
 
-Perform strict T2 visual audit of **PDF pages 26-30 / printed pages 25-29**.
+Perform strict T2 visual audit of **PDF pages 31-35 / printed pages 30-34**.
 
-Compare every line and punctuation mark against the scan, verify unusual forms only from the printed page, and record only source-proven corrections. Do not modernize or reconstruct.
+Specifically:
+- compare every line and punctuation mark against the scan;
+- resolve PDF 31→32 `தமிழினத்` / `தைப்` from both page images;
+- resolve PDF 32→33 `பசுமரத்` / `தாணிபோலப்` from both page images;
+- inspect unusual T1 forms only from the printed source;
+- record only scan-proven changes.
 
 ## Safeguards
 - Scan is authoritative; OCR is only an aid.
 - T2 is source comparison, not modern-language proofreading.
-- Do not infer event metadata from publication data or outside history.
+- Do not infer or reconstruct source text.
 - Do not commit the source PDF.
 - Do not begin English translation until all 76 pages pass T2 and Tamil passes T3.
