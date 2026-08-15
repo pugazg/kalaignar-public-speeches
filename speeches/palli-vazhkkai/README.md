@@ -18,14 +18,12 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 
 ## Scan map
 
-- PDF page 1 - otherwise blank leaf carrying a later donor/provenance gift label: `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின் அன்பளிப்பு`; this is not treated as edition text
+- PDF page 1 - otherwise blank leaf carrying a later donor/provenance gift label; not edition text
 - PDF page 2 - title page
 - PDF page 3 - copyright / first-edition / price / printer imprint
 - PDF page 4 - publisher/editorial foreword, signed `அறிவு மன்றத்தார்.`
-- PDF page 5 - compilation/source note identifying speeches at the Tiruvarur municipal high school and other places, compiled by மு. நமச்சிவாயம்
+- PDF page 5 - compilation/source note
 - PDF pages 6-81 - main body, corresponding to printed pages 5-80
-
-No separate advertisements or back matter follow the body in this scan; PDF page 81 is printed page 80 and contains the end of the text.
 
 ## Source integrity
 
@@ -34,14 +32,14 @@ No separate advertisements or back matter follow the body in this scan; PDF page
 - File size: `101,096,930` bytes
 - Actual PDF page count: `81`
 - Main-body page count: `76` pages
-- Source PDF committed to repository: **No - repository policy is to record provenance/checksum metadata rather than commit source PDFs**
+- Source PDF committed to repository: **No**
 
 ## Editorial status
 
 | Layer | Status |
 |---|---|
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **In progress - 20/76 body pages (PDF 6-25 / printed 5-24)** |
+| Tamil first-pass transcription | **In progress - 30/76 body pages (PDF 6-35 / printed 5-34)** |
 | Strict line-by-line visual Tamil audit | **Not started** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started** |
@@ -49,10 +47,10 @@ No separate advertisements or back matter follow the body in this scan; PDF page
 | Final Tamil→English verification | **Not started** |
 | Repository archival closure | **Not started** |
 
-T1 first-pass transcription has completed four batches: PDF pages **6-10 / printed 5-9**, **11-15 / printed 10-14**, **16-20 / printed 15-19**, and **21-25 / printed 20-24**. These 20 pages remain provisional until the entire 76-page body is first-pass complete and then passes the separate T2 strict visual line-by-line source audit.
+T1 first-pass transcription has completed six five-page batches through PDF page **35 / printed page 34**. The transcription file is continuous from PDF 6; the earlier 20-page body text was explicitly restored after a temporary replacement accidentally reduced it to a placeholder during the preceding batch update. No source text is intentionally omitted.
 
-The exact next T1 activity begins at **PDF page 26 / printed page 25**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
+The exact next T1 activity begins at **PDF page 36 / printed page 35**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
 
 ## Editorial rule
 
-The supplied scan is the controlling source for this edition. Historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms must not be silently modernized or corrected. Library/provenance markings, handwriting, damage, and bleed-through must be distinguished from printed edition text. OCR or parsed text may assist but is never authoritative.
+The supplied scan is the controlling source for this edition. Historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms must not be silently modernized or corrected. OCR or parsed text may assist but is never authoritative.
