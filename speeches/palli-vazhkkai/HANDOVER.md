@@ -14,46 +14,54 @@
 
 ## Current workflow state
 
-### T1 Tamil first pass — COMPLETE
-All **76/76 speech-body pages** have T1 first-pass readings.
+### T1 — COMPLETE
+All **76/76 speech-body pages** have first-pass readings.
 
-Storage is deliberately non-destructive until T2/T3:
+Storage remains segmented until T3:
 - `transcription-ta.md`: PDF 6-45 / printed 5-44
-- `t1-batches/batch-09-pdf-46-50.md`: PDF 46-50 / printed 45-49
-- `t1-batches/batch-10-pdf-51-60.md`: PDF 51-60 / printed 50-59
-- `t1-batches/batch-11-pdf-61-70.md`: PDF 61-70 / printed 60-69
-- `t1-batches/batch-12-pdf-71-81.md`: PDF 71-81 / printed 70-80
+- T1 Batches 9-12: PDF 46-81 / printed 45-80
 
-The final body page is PDF 81 / printed 80 and the T1 reading ends `பள்ளி வாழ்க்கையில்! வணக்கம் !!`.
+### T2 — IN PROGRESS: 5/76
+Completed strict visual audit:
+- **PDF 6-10 / printed 5-9**
 
-The segmented T1 files are intentionally retained instead of performing a large destructive rewrite before visual verification. They must be merged into one final canonical Tamil file during T3 after T2 has resolved page-boundary and source-oddity readings.
+Detailed verified correction record:
+- `t2-batches/batch-01-pdf-06-10.md`
 
-### T2 — ACTIVE NEXT GATE
-- Strict visual line-by-line audit: **0/76**.
-- Start at PDF page **6 / printed page 5**.
-- The supplied scan is the controlling source.
-- T1 text is provisional and is not evidence against the scan.
+Confirmed corrections from Batch 1:
+- `ஆராய்ந்து தெரிந்து` → `ஆராய்ந்து தெளிந்து`
+- `கற்றோனாக` → `கற்றோனுக`
+- `கல்லூரனாக` → `கல்லூரனுக`
+- `கதாசிரியனாக` → `கதாசிரியனுக`
+- `கட்டுரையாசிரியனாக` → `கட்டுரையாசிரியனுக`
+- `உத்தமனாக` → `உத்தமனுக`
+- `மண்ணாவது` → `மண்ணுவது`
+
+PDF 9→10 split `உயி` / `ரினங்களைவிட` was visually checked on both pages and the consolidated one-word reading `உயிரினங்களைவிட` is confirmed.
+
+Because the repository currently uses source-controlled segmented T1 text, verified T2 corrections are being retained in `t2-batches/` and must be applied during T3. This avoids destructive whole-file replacement while auditing. The T3 stale-reading check must ensure none of the superseded T1 forms survive.
 
 ### T3
-- Canonical consolidation/freeze: not started.
-- Tamil is not `verified-complete`.
+- Not started.
+- Tamil is not frozen or `verified-complete`.
 
 ### English
-- E1 translation: not started.
-- E2 fidelity review: not started.
-- E3 final verification: not started.
-- English remains blocked until T2 and T3 pass.
+- Not started; blocked until T2 and T3 pass.
 
 ## Exact next activity
 
-Perform the first manageable **T2 strict visual audit batch beginning PDF 6 / printed 5**. Compare every printed line and punctuation mark against the scan, preserve source-supported historical/odd forms, record corrections in `audit.md`, and update the relevant Tamil text only where the scan proves a correction.
+Perform T2 strict visual audit of **PDF pages 11-15 / printed pages 10-14**.
 
-Continue T2 sequentially until PDF 81 / printed 80. Then perform T3: resolve all queued page-boundary joins/stale readings, merge the segmented T1/T2 material into one continuous canonical `transcription-ta.md`, remove temporary staging files, and freeze Tamil only after end-to-end verification.
+Specifically:
+- compare every line against the scan;
+- resolve PDF 13→14 `இவர்` / `கட்கு`;
+- inspect queued unusual readings including `வாழ்க்கத்தின்`, `நன்றுக`, `உயிரினங்களின் றும்`, `வாழ்க்கைச் செந்தி`, and `வாசனே`;
+- record only scan-supported corrections, without modernization.
 
 ## Safeguards
 - Scan is authoritative; OCR is only an aid.
-- Do not silently modernize, normalize, correct or reconstruct source wording.
-- Preserve source-supported spelling, punctuation, names, numbers, repetition, unusual grammar and typographical forms.
-- Do not infer speech date/venue/event from publication data or outside history.
+- T2 is source comparison, not proofreading.
+- Preserve historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar and typographical forms.
+- Do not infer event metadata from publication data or outside history.
 - Do not commit the source PDF.
-- Do not begin English translation until T2 and T3 pass.
+- Do not begin English translation until Tamil passes T2 and T3.
