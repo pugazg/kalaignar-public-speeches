@@ -17,8 +17,10 @@
 ### T1 — COMPLETE
 All **76/76 speech-body pages** have first-pass readings.
 
-### T2 — IN PROGRESS: 70/76
-Completed strict visual audit through:
+### T2 — IN PROGRESS: 75/76
+Strict visual audit is complete through **PDF 80 / printed 79**.
+
+Completed batches:
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-20 / printed 15-19
@@ -33,64 +35,67 @@ Completed strict visual audit through:
 - Batch 12: PDF 61-65 / printed 60-64
 - Batch 13: PDF 66-70 / printed 65-69
 - Batch 14: PDF 71-75 / printed 70-74
+- Batch 15: PDF 76-80 / printed 75-79
 
-Detailed T2 records are under `t2-batches/`; the latest is `batch-14-pdf-71-75.md`.
+Detailed records are under `t2-batches/`; latest: `batch-15-pdf-76-80.md`.
+
+Only **PDF 81 / printed 80** remains unaudited.
 
 ## Mandatory traditional-glyph rule
 
-The 1952 edition uses traditional Tamil glyph shapes. Encode the underlying Tamil characters, not a visually similar modern Unicode syllable. Earlier glyph misreadings were corrected in:
+The 1952 edition uses traditional Tamil glyph shapes. Encode the underlying Tamil characters, not visually similar modern Unicode syllables. Earlier glyph misreadings were corrected in:
 
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-14 were audited with this rule from the outset. Do not reintroduce withdrawn forms such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?`, `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `மாட்டானு`, `ஒன்றுக`, `தோழனுகவே`, `கெட்டிக்காரனுக`, `பெறுபவனுக`, or `தானுகவே` where the scan establishes the corresponding underlying `-னா/-னாக/-ஆக` sequence.
+Batches 8-15 were audited with this rule from the outset.
 
-## Important Batch 14 resolutions
+Do not reintroduce superseded readings such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?`, or the later `-னுக/-னு` forms corrected in the T2 batch records.
+
+## Important Batch 15 resolutions
 
 Confirmed corrections:
-- PDF 71: `தேர்வு அறிவிப்பதோடு` → **`‘தேர்வு’ அறிவிப்பதோடு`**
-- PDF 71: `மினுபாவங்கொண்ட` → **`மனோபாவங்கொண்ட`**
-- PDF 72: `வேதனை தரும்` → **`வேதனைதரும்`**
-- PDF 72: `கேள்விகள், எழுப்புங்கள்?` → **`கேள்விகளை, எழுப்புங்கள்?`**
-- PDF 73: `பரம்பரையின் ராகவே` → **`பரம்பரையினராகவே`**
-- PDF 74: `வழிகத்தையும்` → **`வழிகாட்டியையும்`**
-- PDF 74: `கெட்டிக்காரனுக` → **`கெட்டிக்காரனாக`**
-- PDF 74: `பெறுபவனுக` → **`பெறுபவனாக`**
-- PDF 74: `தானுகவே` → **`தானாகவே`**
-- PDF 75: `வாழும் பொருந்தும்` → **`வாழ் பொருந்தும்`**
-- PDF 75: `வறி, அவன்` → **`வாழ, அவன்`**
+- PDF 76: `அவனுகத்தான்` → **`அவனாகத்தான்`**
+- PDF 77: `ஒவ்வொரு வனுக்கும்` → **`ஒவ்வொருவனுக்கும்`**
+- PDF 77: `எய்ப்பது` → **`ஏய்ப்பது`**
+- PDF 78: `நாட்டெங்கும்` → **`நாடெங்கும்`**
+- PDF 80: `தேவனே நம்பு!` → **`தேவனை நம்பு!`**
+
+The last correction is another traditional-glyph issue: the printed old `னை` form must be encoded as `னை`, not misread as modern `னே`.
 
 Page-boundary decisions:
-- PDF 70→71 ordinary sentence continuation after `பாடத்தைப் போதித்தோம்,` was reconfirmed during full PDF 71 audit.
-- PDF 71→72 `மனிதனது வருங்கால வாழ்க்கை வளர்ச்சிக்கு` / `ஆரம்பம், அணிவேர்...` is ordinary phrase continuation.
-- PDF 72→73 has no split-word join; consecutive questions.
-- PDF 73→74 `மைத்துனர், மாமி, எல்லோரும்` / `படித்தவர்கள் என்ற சூழ்நிலையில்...` is ordinary phrase continuation.
-- PDF 74→75 has no split-word join; consecutive questions.
-- PDF 75→76 `அத்துடன்` / `படிக்கிறான்.` is ordinary phrase continuation. PDF 76 was inspected only as a boundary witness and is **not** yet counted audited.
+- PDF 75→76: `அத்துடன்` / `படிக்கிறான்.` — ordinary phrase continuation, reconfirmed.
+- PDF 76→77: `வாழ்வின் எல்லாத் துறை` / `களிலும்` → **`வாழ்வின் எல்லாத் துறைகளிலும்`**.
+- PDF 77→78: `தகுதியை` / `யும்` → **`தகுதியையும்`**.
+- PDF 78→79: `ஏற்பட்` / `டது` → **`ஏற்பட்டது`**.
+- PDF 79→80: `விளங்குகின்ற` / `னர்.` → **`விளங்குகின்றனர்.`**.
+- PDF 80→81: ordinary sentence continuation after `என்றெல்லாம் நாட்டில் கூக்குரல்,`. PDF 81 was inspected only as a boundary witness and is not yet counted audited.
 
 ### T3
 - Not started.
 - Tamil is not frozen or `verified-complete`.
-- All T2 corrections, including the user-triggered traditional-glyph recheck, are mandatory T3 inputs.
+- All T2 correction records and page-boundary decisions are mandatory T3 inputs.
 
 ### English
 - Not started and remains blocked until T2 and T3 pass.
 
 ## Exact next activity
 
-Perform strict T2 visual audit of **PDF pages 76-80 / printed pages 75-79**.
+Perform the final strict T2 visual audit of **PDF page 81 / printed page 80**.
 
 Specifically:
-- audit PDF 76 fully even though its opening `படிக்கிறான்.` was inspected only as a boundary witness in Batch 14;
-- apply the traditional-glyph rule from the outset;
-- compare every line and punctuation mark against the scan;
-- record only scan-proven changes;
-- inspect PDF 81 only if needed as a page-boundary witness, and do not count it audited until the final batch.
+- audit every line and punctuation mark on the final body page against the scan;
+- reconfirm the PDF 80→81 sentence continuation;
+- apply the traditional-glyph rule from the outset, especially `னை/லை/ளை/னா` shapes;
+- record every scan-proven correction in a final T2 batch record;
+- only then mark T2 **complete — 76/76**.
+
+After T2 completion, the next gate is T3 canonical Tamil consolidation/freeze: merge the segmented T1 material, apply all T2 corrections and boundary joins, run an end-to-end stale-reading check, and freeze only when the Tamil layer is verified-complete.
 
 ## Safeguards
 - Scan is authoritative; OCR and T1 are only aids.
-- Source-faithful transcription preserves spelling while mapping obsolete glyph shapes to the correct underlying Tamil characters.
+- Source-faithful transcription preserves wording while decoding obsolete glyph shapes to the correct underlying Tamil characters.
 - T2 is source comparison, not modern-language proofreading.
 - Do not infer or reconstruct text.
 - Do not commit the source PDF.
-- Do not begin English translation until all 76 pages pass T2 and Tamil passes T3.
+- Do not begin English translation until T2 and T3 pass.
