@@ -9,30 +9,29 @@
 
 Tamil first-pass transcription (T1) is **complete: 76/76 body pages**.
 
-The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 15/76 pages**, through PDF page 20 / printed page 19.
+The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 20/76 pages**, through PDF page 25 / printed page 24.
 
 English remains blocked.
 
-## T2 Batch 1 — PDF 6-10 / printed 5-9
+## T2 Batch records
 
-Detailed record: `t2-batches/batch-01-pdf-06-10.md`.
+- Batch 1: `t2-batches/batch-01-pdf-06-10.md`
+- Batch 2: `t2-batches/batch-02-pdf-11-15.md`
+- Batch 3: `t2-batches/batch-03-pdf-16-20.md`
+- Batch 4: `t2-batches/batch-04-pdf-21-25.md`
 
-Confirmed corrections:
+## Confirmed corrections to date
+
+### Batch 1
 - `ஆராய்ந்து தெரிந்து` → `ஆராய்ந்து தெளிந்து`
 - `கற்றோனாக` → `கற்றோனுக`
 - `கல்லூரனாக` → `கல்லூரனுக`
 - `கதாசிரியனாக` → `கதாசிரியனுக`
 - `கட்டுரையாசிரியனாக` → `கட்டுரையாசிரியனுக`
 - `உத்தமனாக` → `உத்தமனுக`
-- `மண்ணாவது` → `மண்ணுவது`
+- first occurrence `மண்ணாவது` → `மண்ணுவது`
 
-PDF 9→10 `உயி` / `ரினங்களைவிட` is confirmed as `உயிரினங்களைவிட`.
-
-## T2 Batch 2 — PDF 11-15 / printed 10-14
-
-Detailed record: `t2-batches/batch-02-pdf-11-15.md`.
-
-Confirmed corrections:
+### Batch 2
 - `தோவினாலும்` → `தோலினாலும்`
 - `மனித வாழ்க்கத்தின்` → `மனித வர்க்கத்தின்`
 - `மனித வாழ்க்கத்தை` → `மனித வர்க்கத்தை`
@@ -42,28 +41,39 @@ Confirmed corrections:
 - `நினைக்க` → `நிணக்க`
 - `நினைத்திடும்` → `நிணத்திடும்`
 
-Source-supported oddities confirmed: `நன்றுக`, `உயிரினங்களின் றும்`, `வாழ்க்கைச் செந்தி`, `வாசனே`.
+### Batch 3
+- `வரவிட` → `வரைவிட`
 
-PDF 13→14 `இவர்` / `கட்கு` is confirmed as `இவர்கட்கு`.
+### Batch 4
+- PDF 22 / printed 21: `இடம் கிடைத்து` → `இடம் உடைத்து`
+- PDF 23 / printed 22: second occurrence `மண்ணாவது` → `மண்ணுவது`
 
-## T2 Batch 3 — PDF 16-20 / printed 15-19
+## Confirmed source-supported odd forms
 
-Detailed record: `t2-batches/batch-03-pdf-16-20.md`.
+Preserve exactly as printed unless later source evidence proves otherwise:
 
-Confirmed correction:
-- PDF 17 / printed 16: `வரவிட` → `வரைவிட`.
+- `நன்றுக`
+- `உயிரினங்களின் றும்`
+- `வாழ்க்கைச் செந்தி`
+- `வாசனே`
+- `கல்வி கற்கு மிடம்`
+- `திடசித்தமுடையவனுக`
+- `பலமுறைகள்`
+- `நல்லதங்கள்`
+- `நாவினை நாட்டினரும்`
+- `இடம் உடைத்து`
 
-Source-supported form confirmed:
-- printed p.18: `கல்வி கற்கு மிடம்` — preserve exactly as printed.
+## Confirmed page-boundary / printer-wrap joins
 
-Page-boundary / printer-wrap resolutions:
-- PDF 18→19 / printed 17→18: `கஞ்சிக்` / `காவது` → `கஞ்சிக்காவது`.
-- PDF 19→20 / printed 18→19: `எட்டுச்` / `சுரையெனப்` → `எட்டுச்சுரையெனப்`.
-- printed p.19 internal wrap `தன்னம்` / `பிக்கையும்` → `தன்னம்பிக்கையும்`.
+- PDF 9→10: `உயி` / `ரினங்களைவிட` → `உயிரினங்களைவிட`
+- PDF 13→14: `இவர்` / `கட்கு` → `இவர்கட்கு`
+- PDF 18→19: `கஞ்சிக்` / `காவது` → `கஞ்சிக்காவது`
+- PDF 19→20: `எட்டுச்` / `சுரையெனப்` → `எட்டுச்சுரையெனப்`
+- printed p.19 internal wrap `தன்னம்` / `பிக்கையும்` → `தன்னம்பிக்கையும்`
+- PDF 23→24: `உள்ள` / `படி` → `உள்ளபடி`
 
 ## Remaining page-boundary / lineation queue
 
-- PDF 23→24 / printed 22→23: `உள்ள` / `படி`
 - PDF 31→32 / printed 30→31: `தமிழினத்` / `தைப்`
 - PDF 32→33 / printed 31→32: `பசுமரத்` / `தாணிபோலப்`
 - PDF 37→38 / printed 36→37: `வலதுகைப்` / `பெருவிரல்`
@@ -78,7 +88,7 @@ Page-boundary / printer-wrap resolutions:
 
 ## Provisional source-oddity queue still pending
 
-`திடசித்தமுடையவனுக`, `பலமுறைகள்`, `மனிதனுக`, `நல்லதங்கள்`, `நாவினை நாட்டினரும்`, `தமிழனுக`, `முன்னேற்றம் மடைகின்றன`, `தேவைத்தானு`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
+`மனிதனுக`, `தமிழனுக`, `முன்னேற்றம் மடைகின்றன`, `தேவைத்தானு`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
 
 ## T2 progress
 
@@ -87,10 +97,11 @@ Page-boundary / printer-wrap resolutions:
 | 6-10 | 5-9 | **audited** |
 | 11-15 | 10-14 | **audited** |
 | 16-20 | 15-19 | **audited** |
-| 21-81 | 20-80 | pending |
+| 21-25 | 20-24 | **audited** |
+| 26-81 | 25-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 21-25 / printed pages 20-24** line-by-line against the scan. Resolve PDF 23→24 `உள்ள` / `படி`, and inspect provisional forms on these pages only from the scan.
+Audit **PDF pages 26-30 / printed pages 25-29** line-by-line against the scan. Confirm or correct provisional readings only from the images; do not modernize.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every staged correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
