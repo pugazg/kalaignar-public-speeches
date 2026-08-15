@@ -1,0 +1,164 @@
+name: Palli Vazhkkai T3 PDF 46-60
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/palli-vazhkkai-t3-46-60.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Consolidate PDF 46-60 into canonical Tamil
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('speeches/palli-vazhkkai')
+          canonical_path = root / 'transcription-ta.md'
+          canonical = canonical_path.read_text(encoding='utf-8')
+          assert '### PDF page 45 — printed page 44' in canonical
+          assert '### PDF page 46 — printed page 45' not in canonical
+
+          page_re = re.compile(r'^### PDF page (\d+) — printed page (\d+)\n\n', re.M)
+          pages = {}
+          printed = {}
+          for path in [root / 't1-batches/batch-09-pdf-46-50.md', root / 't1-batches/batch-10-pdf-51-60.md']:
+              text = path.read_text(encoding='utf-8')
+              ms = list(page_re.finditer(text))
+              for i, m in enumerate(ms):
+                  p = int(m.group(1)); pr = int(m.group(2))
+                  end = ms[i+1].start() if i + 1 < len(ms) else len(text)
+                  body = text[m.end():end].strip()
+                  if body.endswith('\",'):
+                      body = body[:-2]
+                  pages[p] = body
+                  printed[p] = pr
+
+          assert sorted(pages) == list(range(46, 61)), sorted(pages)
+          assert all(printed[p] == p - 1 for p in pages)
+
+          def repl(p, old, new, n=1):
+              c = pages[p].count(old)
+              assert c == n, f'PDF {p}: expected {n} of {old!r}, found {c}'
+              pages[p] = pages[p].replace(old, new, n)
+
+          # T2 Batch 9: PDF 46-50
+          repl(48, 'மழையவர்', 'மறையவர்')
+          repl(49, 'தோழனுகத்', 'தோழனாகத்')
+          repl(49, 'அதனின் அச்சிடும்', 'அதன் அச்சிடும்')
+          repl(50, 'உறுதுணைவனுக', 'உறுதுணைவனாக')
+          repl(50, 'உயிரே செல்லும்', 'உயரே செல்லும்')
+          repl(50, 'எவலனுக', 'ஏவலனாக')
+
+          # T2 Batch 10: PDF 51-55
+          repl(51, 'மனிதனுக', 'மனிதனாக')
+          repl(52, 'ஆளும் நடக்கிறதே', 'ஆனாலும் நடக்கிறதே')
+          repl(53, 'இரண்யாட்சன்', 'இரண்ணியாட்சகன்')
+          repl(53, 'இரண்யாட்சனைத்', 'இரண்ணியாட்சகனைத்')
+          repl(54, 'பார்ந்த பூமியை', 'பரந்தபூமியை')
+          repl(54, 'மூம்மூர்த்திகளில்', 'மும்மூர்த்திகளில்')
+          repl(55, 'மோதவிடப்படுகிறது, நாட்டில்', 'மோதவிடப்படுகிறது; நாட்டில்')
+          old_eclipse = 'படிக்கிறோம், விஞ்ஞான வகுப்பில், பூமி, தன்னைத் தானே சுற்றிக்கொண்டே, சூரியனைச் சுற்றிவரும் பாதையில் ஏற்படும் மாறுதல்போன்று ஏற்படும் மாறுதல்பொறுத்தும் இந்தக் கிரகணங்கள் ஏற்படுகின்றன, என்று.'
+          new_eclipse = 'படிக்கிறோம், விஞ்ஞான வகுப்பில், பூமி, தன்னைத் தானே சுற்றிக்கொண்டே, சூரியனைச் சுற்றிவரும் பாதையில் ஏற்படும் மாறுதலைப் பொருத்தும், சந்திரன் பூமியைச் சுற்றும்போது ஏற்படும் மாறுதலைப் பொருத்தும் இந்தக் கிரகணங்கள் ஏற்படுகின்றன, என்று.'
+          repl(55, old_eclipse, new_eclipse)
+          repl(55, 'இரு, வேறு வேறு காரணங்கள்', 'இரு, வேறு வேறான காரணங்கள்')
+
+          # T2 Batch 11: PDF 56-60
+          repl(56, 'ஒன்றுகவே', 'ஒன்றாகவே')
+          repl(56, 'உபயோகப்படுத்திக்கொண்டும்', 'உபயோகப் படுத்திக்கொண்டும்')
+          repl(56, 'அங்கக் கால', 'அந்தக் கால')
+          repl(57, 'சிந்தனை முதிர்ச்சி படைந்து', 'சிந்தனை முதிர்ச்சி யடைந்து')
+          repl(57, 'நாகரிக வாழ்வு வாழ்வதைப்', 'நாகரிக வாழ்வு, வாழ்வதைப்')
+          repl(60, 'தமிழனுக', 'தமிழனாக')
+          repl(60, 'தமிழ் அறிந்த', 'தமிழறிந்த')
+
+          # Verified page-boundary reconstruction.
+          assert pages[50].endswith('சிந்தித்')
+          pages[50] = pages[50][:-len('சிந்தித்')] + 'சிந்தித்தான்!'
+          assert pages[51].startswith('தான்! ')
+          pages[51] = pages[51][len('தான்! '):]
+
+          marker = 'வேத ஆகம புராணக்கூற்று! இதில் எது உண்மை, எது தேவை! என்ற தெளிவு ஏற்பட வேண்டாமா, மாணவருக்கு!'
+          assert marker in pages[55]
+          before, after = pages[55].split('வேத ஆகம புராணக்கூற்று!', 1)
+          assert before.rstrip().endswith('மற்றொன்று,')
+          pages[55] = before.rstrip()
+          pages[56] = 'வேத ஆகம புராணக்கூற்று!' + after + '\n\n' + pages[56]
+
+          assert pages[56].endswith('அறியாமை வாழ்')
+          pages[56] = pages[56][:-len('அறியாமை வாழ்')] + 'அறியாமை வாழ்வாகத்தானே,'
+          assert pages[57].startswith('வாகத்தானே, ')
+          pages[57] = pages[57][len('வாகத்தானே, '):]
+
+          # Stale-reading checks for this T3 segment.
+          segment = '\n'.join(pages[p] for p in range(46, 61))
+          stale = [
+              'மழையவர்', 'தோழனுகத்', 'அதனின் அச்சிடும்', 'உறுதுணைவனுக',
+              'உயிரே செல்லும்', 'எவலனுக', 'மனிதனுக', 'ஆளும் நடக்கிறதே',
+              'இரண்யாட்சன்', 'இரண்யாட்சனைத்', 'பார்ந்த பூமியை', 'மூம்மூர்த்திகளில்',
+              'மாறுதல்போன்று ஏற்படும் மாறுதல்பொறுத்தும்', 'வேறு வேறு காரணங்கள்',
+              'ஒன்றுகவே', 'உபயோகப்படுத்திக்கொண்டும்', 'அங்கக் கால',
+              'சிந்தனை முதிர்ச்சி படைந்து', 'நாகரிக வாழ்வு வாழ்வதைப்', 'தமிழனுக',
+              'தமிழ் அறிந்த தமிழனமாக'
+          ]
+          for s in stale:
+              assert s not in segment, f'stale reading survives: {s}'
+
+          keep = [
+              'மனிதனி அறிவு கண்டு', 'தமிழனமாக', 'மதனின் அறிவு வளர்ச்சி பெற்று',
+              'சுதுமதி படைத்தோரால்', 'இராஜ இராஜேந்திரனின்'
+          ]
+          for s in keep:
+              assert s in segment, f'source-supported reading missing: {s}'
+
+          # Update canonical header and append pages 46-60.
+          canonical = canonical.replace(
+              '**Status:** `t3-in-progress` — canonical consolidation through **PDF 45 / printed page 44**',
+              '**Status:** `t3-in-progress` — canonical consolidation through **PDF 60 / printed page 59**',
+              1,
+          )
+          canonical = canonical.replace(
+              '- This canonical file currently contains the T2-corrected consolidated segment **PDF 6-45 / printed 5-44**. PDF 46-81 remains in the source-controlled T1 staging batches until the next T3 merge step.',
+              '- This canonical file currently contains the T2-corrected consolidated segment **PDF 6-60 / printed 5-59**. PDF 61-81 remains in the source-controlled T1 staging batches until the next T3 merge step.',
+              1,
+          )
+          note = ('\n\nThe second T3 consolidation pass incorporates PDF 46-60 / printed 45-59, '
+                  'including the verified `சிந்தித்`/`தான்!` → `சிந்தித்தான்!`, '
+                  '`மற்`/`றொன்று` → `மற்றொன்று`, and `வாழ்`/`வாகத்தானே` → '
+                  '`வாழ்வாகத்தானே` page-boundary joins. Source-supported unusual forms such as '
+                  '`மனிதனி அறிவு கண்டு`, `தமிழனமாக`, and `மதனின் அறிவு` are retained.')
+          anchor = 'These are glyph-decoding corrections, not modernization.'
+          assert anchor in canonical
+          canonical = canonical.replace(anchor, anchor + note, 1)
+
+          addition = ''
+          for p in range(46, 61):
+              addition += f'\n\n### PDF page {p} — printed page {p-1}\n\n{pages[p]}'
+          canonical = canonical.rstrip() + addition + '\n'
+
+          headings = [int(x) for x in re.findall(r'^### PDF page (\d+) — printed page \d+$', canonical, re.M)]
+          assert headings == list(range(6, 61)), headings
+          assert canonical.rstrip().endswith('வளர்ச்சி')
+
+          canonical_path.write_text(canonical, encoding='utf-8')
+          PY
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add speeches/palli-vazhkkai/transcription-ta.md
+          git diff --cached --check
+          git commit -m 'Consolidate Palli Vazhkkai T3 through PDF 60'
+          git push origin HEAD:main
