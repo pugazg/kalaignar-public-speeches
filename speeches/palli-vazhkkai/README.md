@@ -41,7 +41,7 @@ No separate advertisements or back matter follow the body in this scan; PDF page
 | Layer | Status |
 |---|---|
 | Source inspection / bibliographic identification | **Complete** |
-| Tamil first-pass transcription | **In progress - 10/76 body pages (PDF 6-15 / printed 5-14)** |
+| Tamil first-pass transcription | **In progress - 15/76 body pages (PDF 6-20 / printed 5-19)** |
 | Strict line-by-line visual Tamil audit | **Not started** |
 | Tamil consolidation / freeze | **Not started** |
 | English translation | **Not started** |
@@ -49,9 +49,9 @@ No separate advertisements or back matter follow the body in this scan; PDF page
 | Final Tamil→English verification | **Not started** |
 | Repository archival closure | **Not started** |
 
-T1 first-pass transcription has completed two batches: PDF pages **6-10 / printed 5-9** and PDF pages **11-15 / printed 10-14**. These 10 pages remain provisional until the entire 76-page body is first-pass complete and then passes the separate T2 strict visual line-by-line source audit.
+T1 first-pass transcription has completed three batches: PDF pages **6-10 / printed 5-9**, **11-15 / printed 10-14**, and **16-20 / printed 15-19**. These 15 pages remain provisional until the entire 76-page body is first-pass complete and then passes the separate T2 strict visual line-by-line source audit.
 
-The exact next T1 activity begins at **PDF page 16 / printed page 15**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
+The exact next T1 activity begins at **PDF page 21 / printed page 20**. English translation remains blocked until the Tamil layer reaches `verified-complete` after T2 and T3.
 
 ## Editorial rule
 
