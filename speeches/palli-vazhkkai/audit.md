@@ -7,7 +7,7 @@
 ## Audit state
 
 - Tamil T1 first pass: **complete — 76/76**.
-- Strict visual Tamil audit T2: **in progress — 45/76**, through PDF 50 / printed 49.
+- Strict visual Tamil audit T2: **in progress — 50/76**, through PDF 55 / printed 54.
 - Tamil T3 consolidation/freeze: not started.
 - English: blocked until T2 and T3 pass.
 
@@ -22,7 +22,7 @@ Special watch forms include traditional shapes for `னா`, `றா`, `ணா`,
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8 and 9 were audited with the corrected rule from the outset.
+Batches 8-10 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -35,6 +35,7 @@ Batches 8 and 9 were audited with the corrected rule from the outset.
 - Batch 7: `t2-batches/batch-07-pdf-36-40.md`
 - Batch 8: `t2-batches/batch-08-pdf-41-45.md`
 - Batch 9: `t2-batches/batch-09-pdf-46-50.md`
+- Batch 10: `t2-batches/batch-10-pdf-51-55.md`
 
 ## Confirmed scan-proven corrections retained for T3
 
@@ -83,6 +84,18 @@ Batches 8 and 9 were audited with the corrected rule from the outset.
 
 The scan also confirms PDF 48 `மனிதனி அறிவு கண்டு`; retain that source wording rather than silently changing it to `மனிதனின்`.
 
+### Batch 10 — PDF 51-55
+
+- PDF 51: `மனிதனுக` → `மனிதனாக`
+- PDF 52: `ஆளும்` → `ஆனாலும்`
+- PDF 53: `இரண்யாட்சன்` → `இரண்ணியாட்சகன்`
+- PDF 53: `இரண்யாட்சனைத்` → `இரண்ணியாட்சகனைத்`
+- PDF 54: `பார்ந்த பூமியை` → `பரந்தபூமியை`
+- PDF 54: `மூம்மூர்த்திகளில்` → `மும்மூர்த்திகளில்`
+- PDF 55: `மோதவிடப்படுகிறது,` → `மோதவிடப்படுகிறது;`
+- PDF 55: the corrupted T1 eclipse-cause sentence must be replaced by the scan-supported sentence: `படிக்கிறோம், விஞ்ஞான வகுப்பில், பூமி, தன்னைத் தானே சுற்றிக்கொண்டே, சூரியனைச் சுற்றிவரும் பாதையில் ஏற்படும் மாறுதலைப் பொருத்தும், சந்திரன் பூமியைச் சுற்றும்போது ஏற்படும் மாறுதலைப் பொருத்தும் இந்தக் கிரகணங்கள் ஏற்படுகின்றன, என்று.`
+- PDF 55: `வேறு வேறு காரணங்கள்` → `வேறு வேறான காரணங்கள்`
+
 ## Superseded legacy-glyph readings — DO NOT USE
 
 Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. These include forms such as:
@@ -124,7 +137,8 @@ T3 must not resurrect any superseded glyph-misreading.
 - PDF 45→46: `வருணபகவான் என்றும்` / `இடிக்குத் தலைவன் இந்திரன் என்றும்` — ordinary sentence continuation
 - PDF 47→48: `... இரண்டு வழிகளில், எது` / `வேண்டும் இன்று!` — ordinary phrase continuation
 - PDF 49→50: `காலம் அறிவிக்கும்` / `கடிகார வகைகள்` — ordinary phrase continuation
-- PDF 50→51: `சிந்தித்` / `தான்!` → `சிந்தித்தான்!`; PDF 51 used only as boundary witness in Batch 9
+- PDF 50→51: `சிந்தித்` / `தான்!` → `சிந்தித்தான்!`
+- PDF 55→56: `மற்` / `றொன்று` → `மற்றொன்று`; PDF 56 was only a boundary witness in Batch 10
 
 ## T2 progress
 
@@ -139,10 +153,11 @@ T3 must not resurrect any superseded glyph-misreading.
 | 36-40 | 35-39 | audited |
 | 41-45 | 40-44 | audited |
 | 46-50 | 45-49 | audited |
-| 51-81 | 50-80 | pending |
+| 51-55 | 50-54 | audited |
+| 56-81 | 55-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 51-55 / printed pages 50-54** line-by-line against the scan. PDF 51 must be fully audited even though its opening `தான்!` was already inspected only to resolve the PDF 50→51 split. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
+Audit **PDF pages 56-60 / printed pages 55-59** line-by-line against the scan. PDF 56 must be fully audited even though its opening `றொன்று` was inspected only to resolve the PDF 55→56 split. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
