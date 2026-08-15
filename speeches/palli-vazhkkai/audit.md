@@ -2,33 +2,27 @@
 
 **Source:** `TVA_BOK_0064116_பள்ளி_வாழ்க்கை.pdf`  
 **Source SHA-256:** `e20bf80e8e5b65abbfdb5bcefbdaf85b8e5385112f6de8efcc0e733ed3aceea3`  
-**Source-inspection date:** 2026-08-15  
 **Main-body scope:** PDF pages 6-81 / printed pages 5-80
 
 ## Audit state
 
-Tamil first-pass transcription (T1) is **complete: 76/76 body pages**.
+- Tamil T1 first pass: **complete — 76/76**.
+- Strict visual Tamil audit T2: **in progress — 45/76**, through PDF 50 / printed 49.
+- Tamil T3 consolidation/freeze: not started.
+- English: blocked until T2 and T3 pass.
 
-Strict visual Tamil audit (T2) is **in progress: 40/76 pages**, through PDF 45 / printed 44.
-
-Before Batch 8, user review identified a systematic transcription issue with traditional pre-1978 Tamil glyphs. A corrective sweep was completed through PDF 40. Batch 8 was audited with the corrected glyph interpretation from the outset.
-
-English remains blocked.
+The supplied scan is authoritative. OCR/T1 are only aids.
 
 ## Critical traditional-glyph rule
 
-This 1952 edition uses traditional Tamil glyph forms. Some shapes changed in the later Tamil script reform while representing the same underlying Tamil characters. Source fidelity therefore means encoding the **underlying Tamil character sequence**, not selecting a visually similar but different modern Unicode syllable.
+This 1952 printing uses traditional pre-1978 Tamil glyph forms. Source fidelity requires encoding the underlying Tamil characters, not a visually similar modern Unicode syllable.
 
-Special watch list includes traditional forms of:
-- `னா`, `றா`, `ணா`
-- `னை`, `ணை`, `லை`, `ளை`
-- related `ஒ/ஓ` combinations
+Special watch forms include traditional shapes for `னா`, `றா`, `ணா`, `னை`, `ணை`, `லை`, `ளை`, and related combinations. Earlier glyph-based misreadings were corrected in:
 
-Do not misread these as modern-looking `னு`, `று`, `ணு`, `னே`, `லி`, etc.
-
-Corrective records:
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
+
+Batches 8 and 9 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -40,63 +34,65 @@ Corrective records:
 - Batch 6: `t2-batches/batch-06-pdf-31-35.md`
 - Batch 7: `t2-batches/batch-07-pdf-36-40.md`
 - Batch 8: `t2-batches/batch-08-pdf-41-45.md`
+- Batch 9: `t2-batches/batch-09-pdf-46-50.md`
 
-## Confirmed substantive corrections that remain valid
+## Confirmed scan-proven corrections retained for T3
 
-### Batch 1
+### Batches 1-7
+
 - `ஆராய்ந்து தெரிந்து` → `ஆராய்ந்து தெளிந்து`
-
-### Batch 2
 - `தோவினாலும்` → `தோலினாலும்`
 - `மனித வாழ்க்கத்தின்` → `மனித வர்க்கத்தின்`
 - `மனித வாழ்க்கத்தை` → `மனித வர்க்கத்தை`
 - `ஒருபடியாக` → `ஒருப்படியாக`
 - `வயல் உழுது` → `வயலில் உழுது`
-
-### Batch 3
 - `வரவிட` → `வரைவிட`
-
-### Batch 4
 - `இடம் கிடைத்து` → `இடம் உடைத்து`
-
-### Batch 5
 - `இத்தை வெறுத்து` → `இகத்தை வெறுத்து`
 - `தன்னேப்பற்றிக்` → `தன்னைப்பற்றிக்`
-
-### Batch 6
-- `தனது வில்லெடுத்து,` → `தனது வில்லைபூட்டி,`
+- `தனது வில்லெடுத்து` → `தனது வில்லைபூட்டி`
 - `குறித்துவிட்டோடும்` → `குருதிவடிந்தோடும்`
-
-### Batch 7
 - `தாங்கள்தான்` → `தாங்கள் தான்`
 - `ஏகலவனின் மறுபடி` → `ஏகலவனை மறுபடி`
 - `பகுதிக்கு` → `பக்திக்கு`
 - `சிரச் சினந்து` → `சீறிச் சினந்து`
 
-### Batch 8
-- PDF 41→42: `சுயமரியாதை` / `பற்ற செயல்` → `சுயமரியாதை` / `யற்ற செயல்` → `சுயமரியாதையற்ற செயல்`
-- PDF 42: `தினதயாளன்` → `தீனதயாளன்`
-- PDF 42: `ஆல கால` → `ஆலகால`
-- PDF 42: `நீலகண்டனூர்` → `நீலகண்டனார்`
-- PDF 42: `திடமென்று` → `திடீரென்று`
-- PDF 43: `சிவத்தொண்டு` → `சிவத் தொண்டு` in the audited phrase
-- PDF 43: `மினையாளைக்` → `மனையாளைக்`
-- PDF 43: `முறைதானு?` → `முறைதானா?`
-- PDF 44: `தேவைத்தான்` → `தேவைதான்`
-- PDF 44: `கோட்டாடுகளைப்போற்றிப்` → `கோட்பாடுகளைப்போற்றிப்`
-- PDF 44: `சிக்கச் சீழிய` → `சிக்கச் செய்ய`
-- PDF 45: `தேவைத்தானு` → `தேவைதானா`
+### Batch 8 — PDF 41-45
 
-## Superseded readings caused by legacy-glyph misinterpretation
+- `சுயமரியாதை` / `பற்ற செயல்` → `சுயமரியாதை` / `யற்ற செயல்` → `சுயமரியாதையற்ற செயல்`
+- `தினதயாளன்` → `தீனதயாளன்`
+- `ஆல கால` → `ஆலகால`
+- `நீலகண்டனூர்` → `நீலகண்டனார்`
+- `திடமென்று` → `திடீரென்று`
+- `சிவத்தொண்டு` → `சிவத் தொண்டு` in the audited phrase
+- `மினையாளைக்` → `மனையாளைக்`
+- `முறைதானு?` → `முறைதானா?`
+- `தேவைத்தான்` → `தேவைதான்`
+- `கோட்டாடுகளைப்போற்றிப்` → `கோட்பாடுகளைப்போற்றிப்`
+- `சிக்கச் சீழிய` → `சிக்கச் செய்ய`
+- `தேவைத்தானு` → `தேவைதானா`
 
-The following earlier T2 claims are withdrawn and must **not** enter T3:
+### Batch 9 — PDF 46-50
 
-- `கற்றோனுக` → use `கற்றோனாக`
+- PDF 48: `மழையவர்` → `மறையவர்`
+- PDF 49: `தோழனுகத்` → `தோழனாகத்`
+- PDF 49: `அதனின் அச்சிடும்` → `அதன் அச்சிடும்`
+- PDF 50: `உறுதுணைவனுக` → `உறுதுணைவனாக`
+- PDF 50: `உயிரே செல்லும்` → `உயரே செல்லும்`
+- PDF 50: `எவலனுக` → `ஏவலனாக`
+
+The scan also confirms PDF 48 `மனிதனி அறிவு கண்டு`; retain that source wording rather than silently changing it to `மனிதனின்`.
+
+## Superseded legacy-glyph readings — DO NOT USE
+
+Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. These include forms such as:
+
+- `கற்றோனுக` → `கற்றோனாக`
 - `கல்லூரனுக` → `கல்லூரனாக`
 - `கதாசிரியனுக` → `கதாசிரியனாக`
 - `கட்டுரையாசிரியனுக` → `கட்டுரையாசிரியனாக`
 - `உத்தமனுக` → `உத்தமனாக`
-- `மண்ணுவது` → `மண்ணாவது` (both audited occurrences)
+- `மண்ணுவது` → `மண்ணாவது`
 - `நன்றுக` → `நன்றாக`
 - `வாசனே` → `வாசனை`
 - `நிணப்பார்` → `நினைப்பார்`
@@ -105,8 +101,10 @@ The following earlier T2 claims are withdrawn and must **not** enter T3:
 - `திடசித்தமுடையவனுக` → `திடசித்தமுடையவனாக`
 - `தமிழனுக` → `தமிழனாக`
 - `கவலிப்பட` → `கவலைப்பட`
-- `தேவைத்தானு` on earlier audited pages → correct underlying `-தானா` reading as documented in the legacy-glyph recheck
+- earlier `தேவைத்தானு` glyph readings → underlying `-தானா` where documented
 - `நானு?` → `நானா?`
+
+T3 must not resurrect any superseded glyph-misreading.
 
 ## Confirmed page-boundary / printer-wrap decisions
 
@@ -114,63 +112,37 @@ The following earlier T2 claims are withdrawn and must **not** enter T3:
 - PDF 13→14: `இவர்` / `கட்கு` → `இவர்கட்கு`
 - PDF 18→19: `கஞ்சிக்` / `காவது` → `கஞ்சிக்காவது`
 - PDF 19→20: `எட்டுச்` / `சுரையெனப்` → `எட்டுச்சுரையெனப்`
-- printed p.19 internal: `தன்னம்` / `பிக்கையும்` → `தன்னம்பிக்கையும்`
 - PDF 23→24: `உள்ள` / `படி` → `உள்ளபடி`
 - PDF 31→32: `தமிழினத்` / `தைப்` → `தமிழினத்தைப்`
 - PDF 32→33: `பசுமரத்` / `தாணிபோலப்` → `பசுமரத்தாணிபோலப்`
-- PDF 37→38: `வலதுகைப்` / `பெருவிரல்` is ordinary phrase continuation → `வலதுகைப் பெருவிரல்`
-- PDF 38→39: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்` is ordinary sentence continuation
+- PDF 37→38: `வலதுகைப்` / `பெருவிரல்` — ordinary phrase continuation; retain space
+- PDF 38→39: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்` — ordinary sentence continuation
 - PDF 40→41: `தேடு` / `கிறீர்;` → `தேடுகிறீர்;`
 - PDF 41→42: `சுயமரியாதை` / `யற்ற செயல்` → `சுயமரியாதையற்ற செயல்`
-- PDF 42→43: `உமக்குப்` / `பெருமை தந்திடத்தான்` is ordinary phrase continuation, not a split word
+- PDF 42→43: `உமக்குப்` / `பெருமை தந்திடத்தான்` — ordinary phrase continuation
 - PDF 44→45: `ஊட்` / `டிடும்` → `ஊட்டிடும்`
-- PDF 45→46: `வருணபகவான் என்றும்` / `இடிக்குத் தலைவன் இந்திரன் என்றும்` is ordinary sentence continuation; PDF 46 was only a boundary witness in Batch 8
-
-## Current readings still requiring ordinary source scrutiny
-
-Do not call a form historical merely because it looks strange. These remain provisional until the relevant T2/T3 check:
-
-- `உயிரினங்களின் றும்`
-- `வாழ்க்கைச் செந்தி`
-- `கல்வி கற்கு மிடம்`
-- `பலமுறைகள்`
-- `நல்லதங்கள்`
-- `நாவினை நாட்டினரும்`
-- `முன்னேற்றம் மடைகின்றன`
-- `வளர்த்தை`, `வளர்த்தைப்`, `வகைப்படுத்தியாக`
-- `போற்றிவேண்டும்`
-- `அரிபந்தாமன்`
-- `காண்டவன்`
-- `நாயகனுக்கிக்கொண்ட`
-- `சந்திரனச் சல்லாபத்திற்`
-- `கடிக்குலவின`
-- `மாணுக்கர்களுக்கு`
-- `பூலோக வாசிகளேப்`
-- `இறும்பூதெய்தி`
-- `என்ன கொடுமதி உமக்கு`
-- later T1 forms such as `மனிதனுக`, `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `கெட்டிக்காரனுக`, etc. are specifically flagged for traditional `னா` reinterpretation before acceptance
-
-## Remaining page-boundary queue
-
-- PDF 50→51: `சிந்தித்` / `தான்!`
-- later boundaries in Batches 10-12 remain pending direct visual inspection
+- PDF 45→46: `வருணபகவான் என்றும்` / `இடிக்குத் தலைவன் இந்திரன் என்றும்` — ordinary sentence continuation
+- PDF 47→48: `... இரண்டு வழிகளில், எது` / `வேண்டும் இன்று!` — ordinary phrase continuation
+- PDF 49→50: `காலம் அறிவிக்கும்` / `கடிகார வகைகள்` — ordinary phrase continuation
+- PDF 50→51: `சிந்தித்` / `தான்!` → `சிந்தித்தான்!`; PDF 51 used only as boundary witness in Batch 9
 
 ## T2 progress
 
-| PDF pages | Printed pages | T2 state |
+| PDF pages | Printed pages | State |
 |---:|---:|---|
-| 6-10 | 5-9 | **audited; legacy glyphs rechecked** |
-| 11-15 | 10-14 | **audited; legacy glyphs rechecked** |
-| 16-20 | 15-19 | **audited** |
-| 21-25 | 20-24 | **audited; legacy glyphs rechecked** |
-| 26-30 | 25-29 | **audited; legacy glyphs rechecked** |
-| 31-35 | 30-34 | **audited; legacy glyphs rechecked** |
-| 36-40 | 35-39 | **audited; legacy glyphs rechecked** |
-| 41-45 | 40-44 | **audited with corrected traditional-glyph rule** |
-| 46-81 | 45-80 | pending |
+| 6-10 | 5-9 | audited |
+| 11-15 | 10-14 | audited |
+| 16-20 | 15-19 | audited |
+| 21-25 | 20-24 | audited |
+| 26-30 | 25-29 | audited |
+| 31-35 | 30-34 | audited |
+| 36-40 | 35-39 | audited |
+| 41-45 | 40-44 | audited |
+| 46-50 | 45-49 | audited |
+| 51-81 | 50-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 46-50 / printed pages 45-49** line-by-line against the scan. PDF 46 must be audited fully despite having been used only as a boundary witness for Batch 8. Apply the traditional-glyph rule from the outset, especially to T1 forms such as `தோழனுக`, `உறுதுணைவனுக`, and `எவலனுக`. Resolve PDF 50→51 `சிந்தித்` / `தான்!` by consulting PDF 51 only as a boundary witness; do not count PDF 51 audited until its own batch.
+Audit **PDF pages 51-55 / printed pages 50-54** line-by-line against the scan. PDF 51 must be fully audited even though its opening `தான்!` was already inspected only to resolve the PDF 50→51 split. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
 
-After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, reject every superseded legacy-glyph misreading, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
+After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
