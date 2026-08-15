@@ -1,6 +1,6 @@
 # பள்ளி வாழ்க்கை — T1 handover
 
-This document records the exact state after completion of the third Tamil first-pass transcription batch. Continue from the next incomplete page rather than repeating startup work or redoing completed T1 batches as an audit.
+This document records the exact state after completion of the fourth Tamil first-pass transcription batch. Continue from the next incomplete page rather than repeating startup work or redoing completed T1 batches as an audit.
 
 ## Repository
 
@@ -33,14 +33,15 @@ Treat it as a printed compilation of multiple speeches. Do not invent one speech
 ### Tamil T1 first pass
 
 - Status: **in progress**
-- Completed: **15 / 76 body pages**
-- Completed range: **PDF 6-20 / printed 5-19**
+- Completed: **20 / 76 body pages**
+- Completed range: **PDF 6-25 / printed 5-24**
 - Batch 1: PDF 6-10 / printed 5-9 — complete first pass
 - Batch 2: PDF 11-15 / printed 10-14 — complete first pass
 - Batch 3: PDF 16-20 / printed 15-19 — complete first pass
-- `transcription-ta.md` contains all 15 page-bounded first-pass transcriptions.
-- Page-boundary joins carried forward for T2 verification include PDF 9→10 `உயி` / `ரினங்களைவிட`, PDF 13→14 `இவர்` / `கட்கு`, PDF 18→19 `கஞ்சிக்` / `காவது`, and PDF 19→20 `எட்டுச்` / `சுரையெனப்`.
-- T1 preserved unusual printed forms rather than normalizing them; see `audit.md` for the provisional carry-forward list.
+- Batch 4: PDF 21-25 / printed 20-24 — complete first pass
+- `transcription-ta.md` contains all 20 page-bounded first-pass transcriptions.
+- Page-boundary joins carried forward for T2 verification include PDF 9→10 `உயி` / `ரினங்களைவிட`, PDF 13→14 `இவர்` / `கட்கு`, PDF 18→19 `கஞ்சிக்` / `காவது`, PDF 19→20 `எட்டுச்` / `சுரையெனப்`, and PDF 23→24 `உள்ள` / `படி`.
+- T1 preserved unusual printed forms rather than normalizing them; see `audit.md` for the provisional carry-forward list, including the new Batch 4 readings.
 
 ### Tamil T2 strict visual audit
 
@@ -64,7 +65,7 @@ Treat it as a printed compilation of multiple speeches. Do not invent one speech
 
 Continue **Stage T1 first-pass Tamil transcription** with the next manageable batch beginning at:
 
-- **PDF page 21 / printed page 20**
+- **PDF page 26 / printed page 25**
 
 Proceed forward from there, retaining explicit PDF/printed-page headings and joining only genuine printer word-wraps. Preserve historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms. Do not silently modernize or repair the text.
 
