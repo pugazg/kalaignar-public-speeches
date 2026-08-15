@@ -17,7 +17,7 @@
 ### T1 — COMPLETE
 All **76/76 speech-body pages** have first-pass readings.
 
-### T2 — IN PROGRESS: 60/76
+### T2 — IN PROGRESS: 65/76
 Completed strict visual audit through:
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
@@ -31,8 +31,9 @@ Completed strict visual audit through:
 - Batch 10: PDF 51-55 / printed 50-54
 - Batch 11: PDF 56-60 / printed 55-59
 - Batch 12: PDF 61-65 / printed 60-64
+- Batch 13: PDF 66-70 / printed 65-69
 
-Detailed T2 records are under `t2-batches/`; the latest is `batch-12-pdf-61-65.md`.
+Detailed T2 records are under `t2-batches/`; the latest is `batch-13-pdf-66-70.md`.
 
 ## Mandatory traditional-glyph rule
 
@@ -41,28 +42,32 @@ The 1952 edition uses traditional Tamil glyph shapes. Encode the underlying Tami
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-12 were audited with this rule from the outset. Do not reintroduce withdrawn forms such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?`, `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, or glyph-based `வீரனைத்` where the source underlying sequence is `வீரனாகத்`.
+Batches 8-13 were audited with this rule from the outset. Do not reintroduce withdrawn forms such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?`, `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `மாட்டானு`, `ஒன்றுக`, or `தோழனுகவே` where the scan establishes the corresponding `-னா/-னாக/-ஆக` sequence.
 
-## Important Batch 12 resolutions
+## Important Batch 13 resolutions
 
 Confirmed corrections:
-- PDF 62: `கல்வெறிபட்டுக்` → **`கல்லெறிபட்டுக்`**
-- PDF 62: `மீனவி மக்களைத் திருந்து` → **`மீனவ மக்களைத் துறந்து`**
-- PDF 63: first `மனிதனுக` → **`மனிதனாக`**
-- PDF 63: second `மனிதனுக` → **`மனிதனாக`**
-- PDF 63: `மிருகத் தன்மையின்றும்` → **`மிருகத் தன்மையினின்றும்`**
-- PDF 63: `படைத்தவனுக` → **`படைத்தவனாக`**
-- PDF 64: `மூன்கெட்டு` → **`மூளை கெட்டு`**
-- PDF 64: `அறிவும் தன்மை` → **`அறியும் தன்மை`**
-- PDF 65: `தெரிவித்து கொள்வதும்` → **`தெரிவித்துக்கொள்வதும்`**
-- PDF 65: `தமிழ் வீரனைத் திகழ்வான்` → **`தமிழ் வீரனாகத் திகழ்வான்`**
+- PDF 66: `மாட்டானு?` → **`மாட்டானா?`**
+- PDF 66: `ஒன்றன்பின் ஒன்றுக` → **`ஒன்றன்பின் ஒன்றாக`**
+- PDF 66: `அவல் மூச்சாக` → **`அனல் மூச்சாக`**
+- PDF 66: `முயல்வதுபோல` → **`முயல்வது போல`**
+- PDF 66: `நன்றுக நினைவில்` → **`நன்றாக நினைவில்`**
+- PDF 67: `நன்றுக நினைவிருக்கட்டும்` → **`நன்றாக நினைவிருக்கட்டும்`**
+- PDF 67: `வளர்ப்படுத்திக்` → **`வளப்படுத்திக்`**
+- PDF 68: `புத்தக வித்தகர்` → **`புத்தகவித்தகர்`**
+- PDF 68: `உலகம்தான்` → **`உலகந்தான்`**
+- PDF 69: `தந்திரங்களைக் தவறாது` → **`தந்திரங்களைத் தவறாது`**
+- PDF 69: `கூடாது; நேரடித்` → **`கூடாது, நேரடித்`**
+- PDF 69: `நன்றுக நினைவு` → **`நன்றாக நினைவு`**
+- PDF 70: `தோழனுகவே` → **`தோழனாகவே`**
+
+Source-supported form to preserve:
+- PDF 68: **`உலகந்தான்`** — do not silently regularize it to `உலகம்தான்`.
 
 Page-boundary decisions:
-- PDF 60→61 `வளர்ச்சி` / `வழியை...` is ordinary phrase continuation and was reconfirmed during full PDF 61 audit.
-- PDF 61→62 `இது அந்த` / `நாள், ...` is ordinary phrase continuation.
-- PDF 62→63 `புதுப் புதுக் கருவிகள் உண்டான` / `சூழ்நிலைகள் என்ன?` is ordinary phrase continuation.
-- PDF 64→65 `ஆங்கில நாட்டு மாணவன் தன்னை ஆங்கிலேயன்` / `என்று கூறுவதும்...` is ordinary sentence continuation.
-- PDF 65 ends a complete sentence, so no PDF 65→66 join is required.
+- PDF 67→68 `... தோன்றிடப்` / `போகிறார்கள்!` is ordinary phrase continuation.
+- PDF 69→70 `அறிவைப் பெருக்கிடும்` / `கல்வியறிவைப் புறக்கணித்துப்...` is ordinary phrase continuation.
+- PDF 70→71 `... பாடத்தைப் போதித்தோம்,` / `படிக்கிற பிள்ளைகள்...` is ordinary sentence continuation. PDF 71 was inspected only as a boundary witness and is **not** yet counted audited.
 
 ### T3
 - Not started.
@@ -74,14 +79,14 @@ Page-boundary decisions:
 
 ## Exact next activity
 
-Perform strict T2 visual audit of **PDF pages 66-70 / printed pages 65-69**.
+Perform strict T2 visual audit of **PDF pages 71-75 / printed pages 70-74**.
 
 Specifically:
-- audit PDF 66 fully from the beginning even though its image was visible during Batch 12;
+- audit PDF 71 fully even though its opening was inspected only as a boundary witness in Batch 13;
 - apply the traditional-glyph rule from the outset;
 - compare every line and punctuation mark against the scan;
 - record only scan-proven changes;
-- inspect PDF 71 only if needed as a page-boundary witness, and do not count it audited until its own batch.
+- inspect PDF 76 only if needed as a page-boundary witness, and do not count it audited until its own batch.
 
 ## Safeguards
 - Scan is authoritative; OCR and T1 are only aids.
