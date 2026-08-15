@@ -17,8 +17,8 @@
 ### T1 — COMPLETE
 All **76/76 speech-body pages** have first-pass readings.
 
-### T2 — IN PROGRESS: 35/76
-Completed strict visual audit through:
+### T2 — IN PROGRESS: 40/76
+Completed strict visual audit:
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-20 / printed 15-19
@@ -26,66 +26,49 @@ Completed strict visual audit through:
 - Batch 5: PDF 26-30 / printed 25-29
 - Batch 6: PDF 31-35 / printed 30-34
 - Batch 7: PDF 36-40 / printed 35-39
+- Batch 8: PDF 41-45 / printed 40-44
 
-## CRITICAL correction before continuing
+Detailed records are under `t2-batches/`, including `batch-08-pdf-41-45.md`.
 
-User review correctly identified that PDF 29 / printed 28 reads **`கவலைப்பட`**, not `கவலிப்பட`.
+## Mandatory traditional-glyph rule
 
-This exposed a systematic issue: the 1952 scan uses **traditional pre-1978 Tamil glyph shapes**. Several earlier T2 decisions had treated those old glyph shapes as different modern Unicode syllables. That is wrong. The glyph changed; the underlying Tamil letter did not.
+User review correctly identified an earlier error: the 1952 edition uses traditional Tamil glyph shapes, and some had been misread as different modern Unicode syllables. The corrective sweep through PDF 40 is preserved in:
 
-Corrective records:
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Affected Batch 1/2/4/5/6/7 files have been rewritten so their instructions no longer contradict this rule.
+Batch 8 was audited with this corrected rule from the outset.
 
-### Traditional glyphs: mandatory rule
+When old glyphs represent `னா`, `றா`, `ணா`, `னை`, `ணை`, `லை`, `ளை` and related combinations, encode the underlying Tamil characters. Do not transcribe a visually similar modern `னு`, `று`, `ணு`, `னே`, `லி`, etc.
 
-When the scan uses traditional forms of `னா`, `றா`, `ணா`, `னை`, `ணை`, `லை`, `ளை` (and related old `ஒ/ஓ` combinations), encode the **underlying Tamil characters**. Do not convert an old glyph to a visually similar modern `னு`, `று`, `ணு`, `னே`, `லி`, etc.
+## Important Batch 8 resolutions
 
-This is not spelling modernization; it is correct Unicode interpretation of the printed glyph.
+Confirmed corrections:
+- PDF 41→42: T1 `சுயமரியாதை` / `பற்ற செயல்` → source `சுயமரியாதை` / `யற்ற செயல்` → **`சுயமரியாதையற்ற செயல்`**
+- PDF 42: `தினதயாளன்` → **`தீனதயாளன்`**
+- PDF 42: `ஆல கால` → **`ஆலகால`**
+- PDF 42: `நீலகண்டனூர்` → **`நீலகண்டனார்`**
+- PDF 42: `திடமென்று` → **`திடீரென்று`**
+- PDF 43: `சிவத்தொண்டு` → **`சிவத் தொண்டு`** in the audited phrase
+- PDF 43: `மினையாளைக்` → **`மனையாளைக்`**
+- PDF 43: `முறைதானு?` → **`முறைதானா?`**
+- PDF 44: `தேவைத்தான்` → **`தேவைதான்`**
+- PDF 44: `கோட்டாடுகளைப்போற்றிப்` → **`கோட்பாடுகளைப்போற்றிப்`**
+- PDF 44: `சிக்கச் சீழிய` → **`சிக்கச் செய்ய`**
+- PDF 45: `தேவைத்தானு` → **`தேவைதானா`**
 
-### Superseded readings — DO NOT USE
+Page-boundary decisions:
+- PDF 40→41 `தேடு` / `கிறீர்;` → `தேடுகிறீர்;` reconfirmed during full PDF 41 audit.
+- PDF 41→42 `சுயமரியாதை` / `யற்ற செயல்` → `சுயமரியாதையற்ற செயல்`.
+- PDF 42→43 `உமக்குப்` / `பெருமை தந்திடத்தான்` is ordinary phrase continuation.
+- PDF 44→45 `ஊட்` / `டிடும்` → `ஊட்டிடும்`.
+- PDF 45→46 `வருணபகவான் என்றும்` / `இடிக்குத் தலைவன் இந்திரன் என்றும்` is ordinary sentence continuation. PDF 46 was inspected only as a boundary witness and is **not** counted audited.
 
-- `கற்றோனுக` → use `கற்றோனாக`
-- `கல்லூரனுக` → `கல்லூரனாக`
-- `கதாசிரியனுக` → `கதாசிரியனாக`
-- `கட்டுரையாசிரியனுக` → `கட்டுரையாசிரியனாக`
-- `உத்தமனுக` → `உத்தமனாக`
-- `மண்ணுவது` → `மண்ணாவது`
-- `நன்றுக` → `நன்றாக`
-- `வாசனே` → `வாசனை`
-- `நிணப்பார்` → `நினைப்பார்`
-- `நிணக்க` → `நினைக்க`
-- `நிணத்திடும்` → `நினைத்திடும்`
-- `திடசித்தமுடையவனுக` → `திடசித்தமுடையவனாக`
-- `தமிழனுக` → `தமிழனாக`
-- `கவலிப்பட` → `கவலைப்பட`
-- `தேவைத்தானு` → `தேவைத்தானா`
-- `நானு?` → `நானா?`
+## Superseded legacy-glyph readings — DO NOT USE
 
-Later T1 forms such as `மனிதனுக`, `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `கெட்டிக்காரனுக`, etc. are **not** to be accepted as source oddities automatically. Check first whether the printed glyph is traditional `னா`.
+Earlier incorrect forms such as `கற்றோனுக`, `மண்ணுவது`, `நன்றுக`, `வாசனே`, `நிணப்பார்`, `தமிழனுக`, `கவலிப்பட`, `நானு?` and similar legacy-glyph misreadings remain withdrawn. Follow `audit.md` and the two legacy-glyph recheck files during T3.
 
-### Valid corrections already established
-
-The glyph correction does not cancel unrelated scan-proven corrections, including:
-- `ஆராய்ந்து தெளிந்து`
-- `தோலினாலும்`
-- `மனித வர்க்கத்தின்` / `மனித வர்க்கத்தை`
-- `ஒருப்படியாக`
-- `வயலில் உழுது`
-- `வரைவிட`
-- `இடம் உடைத்து`
-- `இகத்தை வெறுத்து`
-- `தன்னைப்பற்றிக்`
-- `வில்லைபூட்டி`
-- `குருதிவடிந்தோடும்`
-- `தாங்கள் தான்`
-- `ஏகலவனை மறுபடி`
-- `பக்திக்கு`
-- `சீறிச் சினந்து`
-
-All remain subject to the final T3 stale-reading check.
+Later T1 forms such as `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `கெட்டிக்காரனுக`, etc. must be checked first for traditional `னா` before being accepted as source oddities.
 
 ### T3
 - Not started.
@@ -96,15 +79,15 @@ All remain subject to the final T3 stale-reading check.
 
 ## Exact next activity
 
-Now—and only with the corrected traditional-glyph rule—perform strict T2 audit of **PDF pages 41-45 / printed pages 40-44**.
+Perform strict T2 visual audit of **PDF pages 46-50 / printed pages 45-49**.
 
 Specifically:
-- re-audit PDF 41 fully despite the earlier boundary-only consultation;
-- resolve PDF 41→42 `சுயமரியாதை` / `பற்ற செயல்` from both images;
-- resolve PDF 42→43 `உமக்குப்` / `பெருமை தந்திடத்தான்`;
-- resolve PDF 44→45 `ஊட்` / `டிடும்`;
-- inspect PDF 46 only as a boundary witness if needed;
-- before declaring any strange vowel form source-supported, test whether it is a traditional glyph for the same Tamil character sequence.
+- audit PDF 46 fully even though its opening was used only as a boundary witness in Batch 8;
+- apply the traditional-glyph rule from the outset;
+- scrutinize T1 forms such as `தோழனுக`, `உறுதுணைவனுக`, and `எவலனுக` before treating them as source spelling;
+- resolve PDF 50→51 `சிந்தித்` / `தான்!` from both page images;
+- inspect PDF 51 only as the boundary witness for that split and do not count PDF 51 audited until its own batch;
+- record only scan-proven changes.
 
 ## Safeguards
 - Scan is authoritative; OCR is only an aid.
