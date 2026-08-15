@@ -9,7 +9,7 @@
 
 Tamil first-pass transcription (T1) is **complete: 76/76 body pages**.
 
-The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 25/76 pages**, through PDF page 30 / printed page 29.
+The strict visual line-by-line Tamil fidelity audit (T2) is **in progress: 30/76 pages**, through PDF page 35 / printed page 34.
 
 English remains blocked.
 
@@ -20,6 +20,7 @@ English remains blocked.
 - Batch 3: `t2-batches/batch-03-pdf-16-20.md`
 - Batch 4: `t2-batches/batch-04-pdf-21-25.md`
 - Batch 5: `t2-batches/batch-05-pdf-26-30.md`
+- Batch 6: `t2-batches/batch-06-pdf-31-35.md`
 
 ## Confirmed corrections to date
 
@@ -53,6 +54,10 @@ English remains blocked.
 - PDF 29 / printed 28: `இத்தை வெறுத்து` → `இகத்தை வெறுத்து`
 - PDF 29 / printed 28: `தன்னேப்பற்றிக் கவலிப்பட` → `தன்னைப்பற்றிக் கவலிப்பட`
 
+### Batch 6
+- PDF 34 / printed 33: `தனது வில்லெடுத்து,` → `தனது வில்லைபூட்டி,`
+- PDF 35 / printed 34: `குறித்துவிட்டோடும்` → `குருதிவடிந்தோடும்`
+
 ## Confirmed source-supported odd forms
 
 Preserve exactly as printed unless later source evidence proves otherwise:
@@ -72,6 +77,11 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 - `வளர்த்தை`
 - `வளர்த்தைப்`
 - `வகைப்படுத்தியாக`
+- `போற்றிவேண்டும்`
+- `தேவைத்தானு`
+- `அரிபந்தாமன்`
+- `வில்லைபூட்டி`
+- `காண்டவன்`
 
 ## Confirmed page-boundary / printer-wrap joins
 
@@ -81,11 +91,11 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 - PDF 19→20: `எட்டுச்` / `சுரையெனப்` → `எட்டுச்சுரையெனப்`
 - printed p.19 internal wrap `தன்னம்` / `பிக்கையும்` → `தன்னம்பிக்கையும்`
 - PDF 23→24: `உள்ள` / `படி` → `உள்ளபடி`
+- PDF 31→32: `தமிழினத்` / `தைப்` → `தமிழினத்தைப்`
+- PDF 32→33: `பசுமரத்` / `தாணிபோலப்` → `பசுமரத்தாணிபோலப்`
 
 ## Remaining page-boundary / lineation queue
 
-- PDF 31→32 / printed 30→31: `தமிழினத்` / `தைப்`
-- PDF 32→33 / printed 31→32: `பசுமரத்` / `தாணிபோலப்`
 - PDF 37→38 / printed 36→37: `வலதுகைப்` / `பெருவிரல்`
 - PDF 38→39 / printed 37→38: `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்`
 - PDF 40→41 / printed 39→40: `சிற்றிடையாளைத் தேடு` / `கிறீர்`
@@ -98,7 +108,7 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 
 ## Provisional source-oddity queue still pending
 
-`மனிதனுக`, `தேவைத்தானு`, `அரிபந்தாமன்`, `காண்டவன்`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
+`மனிதனுக`, `மாணுக்கர்களுக்கு`, `சுயமரியாதை பற்ற செயல்`, `தினதயாளன்`, `நீலகண்டனூர்`, `மினையாளைக்`, `சிக்கச் சீழிய`, and other unusual T1 forms on later pages.
 
 ## T2 progress
 
@@ -109,10 +119,11 @@ Preserve exactly as printed unless later source evidence proves otherwise:
 | 16-20 | 15-19 | **audited** |
 | 21-25 | 20-24 | **audited** |
 | 26-30 | 25-29 | **audited** |
-| 31-81 | 30-80 | pending |
+| 31-35 | 30-34 | **audited** |
+| 36-81 | 35-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 31-35 / printed pages 30-34** line-by-line against the scan. Resolve PDF 31→32 `தமிழினத்` / `தைப்` and PDF 32→33 `பசுமரத்` / `தாணிபோலப்` from both page images.
+Audit **PDF pages 36-40 / printed pages 35-39** line-by-line against the scan. In particular, inspect PDF 37→38 `வலதுகைப்` / `பெருவிரல்`, PDF 38→39 `சாபந் தந்த` / `பிரகஸ்பதி பகவான்களும்`, and the unfinished final line of PDF 40 before consulting PDF 41.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every staged correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
