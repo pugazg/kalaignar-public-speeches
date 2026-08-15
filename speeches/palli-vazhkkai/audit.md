@@ -7,7 +7,7 @@
 
 ## Audit state
 
-Tamil first-pass transcription (T1) is **in progress: 30/76 body pages**, through PDF page 35 / printed page 34.
+Tamil first-pass transcription (T1) is **in progress: 35/76 body pages**, through PDF page 40 / printed page 39.
 
 The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and must not begin until the complete 76-page body has first been transcribed in T1. All readings below remain provisional T1 carry-forward items.
 
@@ -21,6 +21,7 @@ The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and 
 | 4 | 21-25 | 20-24 | first-pass transcribed | not audited |
 | 5 | 26-30 | 25-29 | first-pass transcribed | not audited |
 | 6 | 31-35 | 30-34 | first-pass transcribed | not audited |
+| 7 | 36-40 | 35-39 | first-pass transcribed | not audited |
 
 ### Page-boundary / lineation items to recheck during T2
 
@@ -29,8 +30,11 @@ The strict visual line-by-line Tamil fidelity audit (T2) is **not started** and 
 - PDF 18→19 / printed 17→18: `கஞ்சிக்` / `காவது` was joined as `கஞ்சிக்காவது`.
 - PDF 19→20 / printed 18→19: `எட்டுச்` / `சுரையெனப்` was joined as `எட்டுச்சுரையெனப்`.
 - PDF 23→24 / printed 22→23: `உள்ள` / `படி` was treated as `உள்ளபடி`.
-- PDF 31→32 / printed 30→31: source wraps `தமிழினத்` / `தைப்`; T1 currently preserves the page split and T2 must decide consolidated lineation (`தமிழினத்தைப்`).
-- PDF 32→33 / printed 31→32: source wraps `பசுமரத்` / `தாணிபோலப்`; T1 currently preserves the page split and T2 must decide consolidated lineation (`பசுமரத்தாணிபோலப்`).
+- PDF 31→32 / printed 30→31: source wraps `தமிழினத்` / `தைப்`; T1 preserves the page split and T2 must decide consolidated lineation (`தமிழினத்தைப்`).
+- PDF 32→33 / printed 31→32: source wraps `பசுமரத்` / `தாணிபோலப்`; T1 preserves the page split and T2 must decide consolidated lineation (`பசுமரத்தாணிபோலப்`).
+- PDF 37→38 / printed 36→37: source carries `வலதுகைப்` / `பெருவிரல்` across the page boundary; preserve the page boundary during T1 and recheck phrase continuity in T2.
+- PDF 38→39 / printed 37→38: `சாபந் தந்த` continues directly into `பிரகஸ்பதி பகவான்களும்`; no wording has been supplied across the boundary beyond what is printed.
+- PDF 40 / printed 39 ends mid-sentence with `சிற்றிடையாளைத் தேடு`; continuation must be taken only from PDF page 41 in the next T1 batch.
 
 ### Provisional source-oddity readings from T1
 
@@ -44,14 +48,15 @@ Do not normalize these before T2 visual recheck:
 - printed pp.20-24: `திடசித்தமுடையவனுக`, `பலமுறைகள்`, `மனிதனுக`, `நல்லதங்கள்`, `நாவினை நாட்டினரும்`
 - printed pp.25-29: `தமிழனுக`, `முன்னேற்றம் மடைகின்றன`, `இளையான் குடிமாறனார்`, `இத்தை வெறுத்து`, `தன்னேப்பற்றிக் கவலிப்பட`, `வளர்த்தை`, `வகைப்படுத்தியாக`
 - printed pp.30-34: `தேவையற்ற கருத்துக்களே`, `போற்றிவேண்டும்`, `புதியக் மறுமலர்ச்சிக்கு`, `தேவைத்தானு`, `எவை யெவை`, `அரிபந்தாமன்`, `காண்டவன்`, and other visibly unusual forms in the Ekalavya passage.
+- printed pp.35-39: `மறுபடியுந்`, `வினவினர்`, `தட்டுத் தடங்கலின்றி`, `சந்திரனை மயக்கி`, `நாயகனுக்கிக்கொண்ட`, `சந்திரனச் சல்லாபத்திற்`, `கடிக்குலவின`, `தேவைத்தானு`, `மாணுக்கர்களுக்கு`, `பூலோக வாசிகளேப்`, `இறும்பூதெய்தி`, and the unfinished `சிற்றிடையாளைத் தேடு` at the bottom of printed p.39.
 
 ### Structural correction during T1
 
-After Batch 5, `transcription-ta.md` had accidentally been replaced with a shortened file containing a placeholder for the already completed PDF 6-25 text. Before adding Batch 6, the continuous PDF 6-25 transcription was restored from the repository's prior verified T1 state and Batches 5-6 were appended. This is a repository-structure repair, **not** a T2 textual verification claim.
+After Batch 5, `transcription-ta.md` had accidentally been replaced with a shortened file containing a placeholder for the already completed PDF 6-25 text. Before adding Batch 6, the continuous PDF 6-25 transcription was restored from the repository's prior T1 state and Batches 5-6 were appended. This is a repository-structure repair, **not** a T2 textual verification claim.
 
 ## Pending workflow
 
-1. Continue T1 first-pass Tamil transcription from PDF page **36 / printed page 35** through PDF page 81 / printed page 80.
+1. Continue T1 first-pass Tamil transcription from PDF page **41 / printed page 40** through PDF page 81 / printed page 80.
 2. Only after T1 is complete, perform T2 strict visual line-by-line comparison of every body page against the scan.
 3. Then perform T3 consolidation, stale-reading/page-boundary checks, and freeze the verified Tamil layer.
 4. English work remains blocked until T3 passes.
