@@ -23,16 +23,19 @@
 
 ### Tamil T1 first pass
 
-- **In progress: 30/76 body pages**.
-- Continuous completed range: **PDF 6-35 / printed 5-34**.
+- **In progress: 35/76 body pages**.
+- Continuous completed range: **PDF 6-40 / printed 5-39**.
 - Batch 1: PDF 6-10 / printed 5-9
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-20 / printed 15-19
 - Batch 4: PDF 21-25 / printed 20-24
 - Batch 5: PDF 26-30 / printed 25-29
 - Batch 6: PDF 31-35 / printed 30-34
+- Batch 7: PDF 36-40 / printed 35-39
 
-The earlier PDF 6-25 body text is present continuously in `transcription-ta.md`. A temporary placeholder replacement introduced during the preceding Batch-5 update was repaired before this handover; see `audit.md`. This repair restores repository continuity but does not count as T2 verification.
+Batch 7 continues the Ekalavya/Drona narrative, moves through the Brhaspati–Tara example, and begins the source's account of இயற்பகை நாயனார். PDF page 40 / printed page 39 ends mid-sentence at `சிற்றிடையாளைத் தேடு`; do not complete this from memory or outside sources. Continue only from the next scan page.
+
+The transcription remains a first-pass layer only. Source-supported unusual forms have been retained and recorded as T2 carry-forward items in `audit.md` rather than silently normalized.
 
 ### Tamil T2 / T3
 
@@ -51,7 +54,7 @@ The earlier PDF 6-25 body text is present continuously in `transcription-ta.md`.
 
 Continue **Stage T1 first-pass Tamil transcription** at:
 
-- **PDF page 36 / printed page 35**
+- **PDF page 41 / printed page 40**
 
 Proceed in manageable page batches, preserving explicit PDF/printed-page headings and source-supported historical wording. Do not silently repair unusual forms. Carry uncertain readings and page-boundary decisions into `audit.md` for the later independent T2 gate.
 
