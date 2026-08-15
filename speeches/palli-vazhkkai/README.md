@@ -41,7 +41,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Source inspection / bibliographic identification | **Complete** |
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
-| Tamil consolidation / freeze (T3) | **In progress — canonical through PDF 60 / printed 59** |
+| Tamil consolidation / freeze (T3) | **In progress — canonical through PDF 75 / printed 74** |
 | English translation | **Not started / blocked** |
 | English fidelity review | **Not started** |
 | Final Tamil→English verification | **Not started** |
@@ -49,24 +49,25 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 
 ## Tamil source layers
 
-T3 is in progress. The canonical `transcription-ta.md` now contains the T2-corrected, page-boundary-checked text through **PDF 60 / printed page 59**.
+T3 is in progress. The canonical `transcription-ta.md` now contains the T2-corrected, page-boundary-checked text through **PDF 75 / printed page 74**.
 
-The remaining T1 staging material is:
+Only the final staged body segment remains to be merged:
 
-- `t1-batches/batch-11-pdf-61-70.md` — PDF 61-70 / printed 60-69
-- `t1-batches/batch-12-pdf-71-81.md` — PDF 71-81 / printed 70-80
+- `t1-batches/batch-12-pdf-71-81.md` — only PDF **76-81 / printed 75-80** is still pending T3 consolidation.
 
-The complete strict visual audit trail is under `t2-batches/`, including Batches 1-16 and the two legacy-glyph corrective records.
+The complete strict visual audit trail remains under `t2-batches/`, including Batches 1-16 and the two legacy-glyph corrective records.
 
-During the T3 stale-reading sweep, residual traditional-glyph readings are rechecked against the scan rather than normalized by expectation. The early T3 pass established PDF 24 `மனிதனாக` and PDF 39 `தேவைத்தானா?`; the PDF 46-60 pass additionally applies all scan-proven T2 corrections while retaining source-supported unusual forms such as `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `மதனின் அறிவு வளர்ச்சி பெற்று`, and `சுதுமதி படைத்தோரால்`.
+During the T3 stale-reading sweep, residual traditional-glyph readings are rechecked against the scan rather than normalized by expectation. Earlier T3 passes established PDF 24 `மனிதனாக` and PDF 39 `தேவைத்தானா?`, then merged all scan-proven corrections through PDF 60 while preserving source-supported unusual forms.
 
-The PDF 46-60 merge also resolves the verified printer/page splits `சிந்தித்` / `தான்!` → `சிந்தித்தான்!`, `மற்` / `றொன்று` → `மற்றொன்று`, and `வாழ்` / `வாகத்தானே` → `வாழ்வாகத்தானே` without erasing the page labels.
+The PDF 61-75 pass applies every scan-proven decision from T2 Batches 12-14. Important corrections include `கல்லெறிபட்டுக்`, `மீனவ மக்களைத் துறந்து`, `மனிதனாக`, `மிருகத் தன்மையினின்றும்`, `மாட்டானா?`, `ஒன்றன்பின் ஒன்றாக`, `நன்றாக`, `தோழனாகவே`, `‘தேர்வு’`, `மனோபாவங்கொண்ட`, `பரம்பரையினராகவே`, `வழிகாட்டியையும்`, `கெட்டிக்காரனாக`, `பெறுபவனாக`, `தானாகவே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, and `வாழ, அவன்`.
 
-Tamil is **not yet frozen**. PDF 61-81 still has to be consolidated and the complete PDF 6-81 canonical layer must pass the final stale-reading, page-continuity, and beginning/ending checks.
+Source-supported forms were deliberately retained rather than regularized, including `உலகந்தான்`, `தன்னுலே`, `சோம்பேறி மாணக்கர்`, and `இதற்கேல் வாழ் பொருந்தும் முறையிலே`. The T2 records establish the page boundaries in PDF 61-75 as ordinary phrase/sentence continuations; no additional split-word reconstruction was introduced in this pass.
+
+Tamil is **not yet frozen**. The final PDF 76-81 segment must be consolidated, then the complete PDF 6-81 canonical layer must pass the whole-body stale-reading, page-continuity, page-heading, beginning/ending, and source-supported-oddity checks.
 
 ## Exact next activity
 
-Continue T3 by consolidating **PDF 61-75 / printed 60-74** into `transcription-ta.md`, applying the scan-proven decisions from T2 Batches 12-14 and preserving all source-supported unusual forms. Recheck every page-boundary continuation in that range and run a stale-reading sweep before proceeding to the final PDF 76-81 segment.
+Continue T3 by consolidating the **final PDF 76-81 / printed 75-80** segment from `t1-batches/batch-12-pdf-71-81.md`, applying every scan-proven correction from T2 Batches 15-16 and the recorded PDF 75→76 boundary decision. Then run the full-body T3 gate across PDF 6-81. Only if that gate passes should Tamil be marked `verified-complete` / frozen.
 
 English remains blocked until T3 passes and Tamil is explicitly frozen as `verified-complete`.
 
