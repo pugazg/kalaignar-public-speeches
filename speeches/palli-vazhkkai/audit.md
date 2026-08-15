@@ -8,7 +8,7 @@
 
 - Tamil T1 first pass: **complete — 76/76**.
 - Strict visual Tamil audit T2: **complete — 76/76**.
-- Tamil T3 consolidation/freeze: **in progress — canonical consolidation through PDF 60 / printed 59**.
+- Tamil T3 consolidation/freeze: **in progress — canonical consolidation through PDF 75 / printed 74**.
 - Tamil frozen / `verified-complete`: **No**.
 - English: blocked until T3 passes.
 
@@ -96,26 +96,62 @@ The consolidation deliberately preserves scan-supported forms including:
 - PDF 60: `தமிழனமாக`
 - PDF 60: `மதனின் அறிவு வளர்ச்சி பெற்று`
 
-These must not be normalized during the remaining T3 work.
+## T3 canonical consolidation — PDF 61-75
+
+The third canonical pass applied T2 Batches 12-14 and passed a segment-level stale-reading validation before the canonical file was advanced to PDF 75.
+
+### Confirmed corrections incorporated
+
+- PDF 62: `கல்வெறிபட்டுக்` → `கல்லெறிபட்டுக்`; `மீனவி மக்களைத் திருந்து` → `மீனவ மக்களைத் துறந்து`
+- PDF 63: two `மனிதனுக` readings → `மனிதனாக`; `மிருகத் தன்மையின்றும்` → `மிருகத் தன்மையினின்றும்`; `படைத்தவனுக` → `படைத்தவனாக`
+- PDF 64: `மூன்கெட்டு` → `மூளை கெட்டு`; `அறிவும் தன்மை` → `அறியும் தன்மை`
+- PDF 65: `தெரிவித்து கொள்வதும்` → `தெரிவித்துக்கொள்வதும்`; `தமிழ் வீரனைத் திகழ்வான்` → `தமிழ் வீரனாகத் திகழ்வான்`
+- PDF 66: `மாட்டானு?` → `மாட்டானா?`; `ஒன்றன்பின் ஒன்றுக` → `ஒன்றன்பின் ஒன்றாக`; `அவல் மூச்சாக` → `அனல் மூச்சாக`; `முயல்வதுபோல` → `முயல்வது போல`; `நன்றுக நினைவில்` → `நன்றாக நினைவில்`
+- PDF 67: `நன்றுக நினைவிருக்கட்டும்` → `நன்றாக நினைவிருக்கட்டும்`; `வளர்ப்படுத்திக்` → `வளப்படுத்திக்`
+- PDF 68: `புத்தக வித்தகர்` → `புத்தகவித்தகர்`; `உலகம்தான்` → source `உலகந்தான்`
+- PDF 69: `தந்திரங்களைக் தவறாது` → `தந்திரங்களைத் தவறாது`; `கூடாது; நேரடித்` → source comma `கூடாது, நேரடித்`; `நன்றுக நினைவு` → `நன்றாக நினைவு`
+- PDF 70: `தோழனுகவே` → `தோழனாகவே`
+- PDF 71: `தேர்வு அறிவிப்பதோடு` → `‘தேர்வு’ அறிவிப்பதோடு`; `மினுபாவங்கொண்ட` → `மனோபாவங்கொண்ட`
+- PDF 72: `வேதனை தரும்` → `வேதனைதரும்`; `கேள்விகள், எழுப்புங்கள்?` → `கேள்விகளை, எழுப்புங்கள்?`
+- PDF 73: `பரம்பரையின் ராகவே` → `பரம்பரையினராகவே`
+- PDF 74: `வழிகத்தையும்` → `வழிகாட்டியையும்`; `கெட்டிக்காரனுக` → `கெட்டிக்காரனாக`; `பெறுபவனுக` → `பெறுபவனாக`; `தானுகவே` → `தானாகவே`
+- PDF 75: `வாழும் பொருந்தும்` → `வாழ் பொருந்தும்`; `வறி, அவன்` → `வாழ, அவன்`
+
+### Page-boundary decisions
+
+T2 Batches 12-14 establish the PDF 61-75 boundaries as ordinary phrase/sentence continuations rather than split-word joins. No additional lexical reconstruction was introduced during this T3 pass.
+
+The final boundary witness for this range is PDF 75→76: `அத்துடன்` / `படிக்கிறான்.` — ordinary phrase continuation. It must be preserved when PDF 76 is merged.
+
+### Source-supported forms retained
+
+Examples deliberately preserved include:
+
+- PDF 68: `உலகந்தான்`
+- PDF 71: `சோம்பேறி மாணக்கர்`
+- PDF 73: `தன்னுலே`
+- PDF 75: `இதற்கேல் வாழ் பொருந்தும் முறையிலே`
+
+These must not be silently regularized in the final pass.
 
 ## Remaining T3 work
 
-The canonical file now covers **PDF 6-60 / printed 5-59**. Remaining staged body text is:
+The canonical file now covers **PDF 6-75 / printed 5-74**. Only one staged body segment remains:
 
-- `t1-batches/batch-11-pdf-61-70.md` — PDF 61-70 / printed 60-69
-- `t1-batches/batch-12-pdf-71-81.md` — PDF 71-81 / printed 70-80
+- PDF **76-81 / printed 75-80** within `t1-batches/batch-12-pdf-71-81.md`
 
-The next T3 segment is **PDF 61-75 / printed 60-74**, using T2 Batches 12-14. After that, consolidate the final PDF 76-81 segment and run the whole-body T3 gate.
+The final T3 segment must use T2 Batches 15-16. After that merge, run the whole-body T3 gate.
 
 The final T3 gate requires:
 
 1. one continuous canonical `transcription-ta.md` for PDF 6-81 / printed 5-80;
 2. every T2/T3 correction applied;
 3. no superseded stale glyph reading surviving in the body;
-4. all verified page-boundary joins resolved;
+4. all verified page-boundary decisions honored;
 5. all source-supported unusual readings retained;
 6. no missing or duplicated page heading;
-7. the verified final closing present;
-8. only then mark Tamil `verified-complete` / frozen and remove obsolete T1 staging files if permitted by the guide.
+7. exact PDF→printed page mapping 6→5 through 81→80;
+8. the verified canonical beginning and final closing present;
+9. only then mark Tamil `verified-complete` / frozen and update status files.
 
 English translation remains blocked until that gate passes.
