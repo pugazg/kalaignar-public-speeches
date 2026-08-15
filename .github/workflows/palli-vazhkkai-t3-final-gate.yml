@@ -24,7 +24,7 @@ jobs:
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import re, json
+          import re
 
           root = Path('speeches/palli-vazhkkai')
           path = root / 'transcription-ta.md'
@@ -52,9 +52,6 @@ jobs:
           assert pages[81].endswith('தீரத் தமிழராக, தன்மானச் சிங்கங்களாக விளங்க அடிப்படை காணுங்கள், பள்ளி வாழ்க்கையில்! வணக்கம் !!')
 
           # T2 evidence inventory must remain complete.
-          expected_t2 = [
-              *(f'batch-{i:02d}-pdf-' for i in range(1,17)),
-          ]
           t2dir = root / 't2-batches'
           files = {p.name for p in t2dir.glob('*.md')}
           expected_names = {
@@ -66,11 +63,12 @@ jobs:
           }
           assert expected_names <= files, f'missing T2 evidence: {sorted(expected_names-files)}'
 
-          # Superseded traditional-glyph/T1 readings that must not survive in the body.
+          # Superseded traditional-glyph/T1 readings. Match a complete stale form,
+          # not a prefix of a legitimate Tamil word such as தமிழனுக்கு / மனிதனுக்கு.
           stale = [
               'கற்றோனுக','கல்லூரனுக','கதாசிரியனுக','கட்டுரையாசிரியனுக','உத்தமனுக',
               'மண்ணுவது','நன்றுக','வாசனே','நிணப்பார்','நிணக்க','நிணத்திடும்','திடசித்தமுடையவனுக',
-              'தமிழனுக','கவலிப்பட','நானு?','தோழனுக','உறுதுணைவனுக','எவலனுக','மனிதனுக',
+              'தமிழனுக','கவலிப்பட','நானு?','தோழனுக','தோழனுகத்','உறுதுணைவனுக','எவலனுக','மனிதனுக',
               'படைத்தவனுக','மாட்டானு','ஒன்றுகவே','ஒன்றன்பின் ஒன்றுக','தோழனுகவே','கெட்டிக்காரனுக',
               'பெறுபவனுக','தானுகவே','அவனுகத்தான்','தேவனே நம்பு!','தமிழமெல்லாம்','தமிழனத்தை',
               'மழையவர்','மினுபாவங்கொண்ட','மினையாளைக்','கோட்டாடுகளைப்போற்றிப்','சிக்கச் சீழிய',
@@ -78,7 +76,13 @@ jobs:
               'அவல் மூச்சாக','வளர்ப்படுத்திக்','தந்திரங்களைக் தவறாது','வழிகத்தையும்','வறி, அவன்',
               'ஒவ்வொரு வனுக்கும்','எய்ப்பது','நாட்டெங்கும்'
           ]
-          survivors = [s for s in stale if s in body]
+          def stale_match(term, s):
+              return re.search(re.escape(term) + r'(?![\u0B80-\u0BFF])', s) is not None
+          survivors = []
+          for term in stale:
+              hit_pages = [p for p,s in pages.items() if stale_match(term, s)]
+              if hit_pages:
+                  survivors.append((term, hit_pages))
           assert not survivors, f'superseded readings survived: {survivors}'
 
           # Representative scan-proven corrections from every T2 phase must be present.
@@ -122,7 +126,7 @@ jobs:
           missing_odd = [s for s in oddities if s not in body]
           assert not missing_odd, f'source-supported oddities lost: {missing_odd}'
 
-          # Representative ordinary boundary continuations are intentionally kept as separate-page continuations.
+          # Representative ordinary boundary continuations remain page-separated.
           ordinary = {
               (37,38): ('வலதுகைப்', 'பெருவிரல்'),
               (38,39): ('சாபந் தந்த', 'பிரகஸ்பதி பகவான்களும்'),
@@ -140,28 +144,49 @@ jobs:
 
           # No exact duplicate page bodies after consolidation.
           normalized = {p: re.sub(r'\s+',' ',pages[p]).strip() for p in pages}
-          inv = {}
-          dups = []
+          inv, dups = {}, []
           for p,v in normalized.items():
               if v in inv:
                   dups.append((inv[v],p))
               inv[v]=p
           assert not dups, f'exact duplicate page bodies found: {dups}'
 
-          # Freeze canonical header only after all checks above pass.
-          text = text.replace(
-              '**Status:** `t3-in-progress` — canonical consolidation complete through **PDF 81 / printed page 80**; whole-body T3 gate pending',
-              '**Status:** `verified-complete` — Tamil T3 whole-body gate passed and canonical layer frozen'
-          )
-          text = text.replace('- T3 consolidation/freeze: **in progress**.', '- T3 consolidation/freeze: **verified-complete — frozen**.')
+          # Freeze canonical header only after every check above passes.
+          old_status = '**Status:** `t3-in-progress` — canonical consolidation complete through **PDF 81 / printed page 80**; whole-body T3 gate pending'
+          new_status = '**Status:** `verified-complete` — Tamil T3 whole-body gate passed and canonical layer frozen'
+          assert old_status in text
+          text = text.replace(old_status, new_status, 1)
+          text = text.replace('- T3 consolidation/freeze: **in progress**.', '- T3 consolidation/freeze: **verified-complete — frozen**.', 1)
           text = text.replace(
               '- This canonical file now contains the T2-corrected consolidated text for **all PDF 6-81 / printed 5-80**. The whole-body stale-reading, page-continuity, heading-count and endpoint checks are still pending before freeze.',
-              '- This canonical file contains the T2-corrected consolidated text for **all PDF 6-81 / printed 5-80** and has passed the whole-body stale-reading, page-continuity, heading-count, endpoint and source-oddity checks.'
-          )
-          text = text.replace('- Tamil is **not yet frozen / verified-complete**.', '- Tamil is **frozen / verified-complete**. Later Tamil changes require documented source evidence and dependent English re-verification.')
+              '- This canonical file contains the T2-corrected consolidated text for **all PDF 6-81 / printed 5-80** and has passed the whole-body stale-reading, page-continuity, heading-count, endpoint and source-oddity checks.', 1)
+          text = text.replace('- Tamil is **not yet frozen / verified-complete**.', '- Tamil is **frozen / verified-complete**. Later Tamil changes require documented source evidence and dependent English re-verification.', 1)
           path.write_text(text, encoding='utf-8')
 
-          report = f'''# பள்ளி வாழ்க்கை — T3 final verification\n\n**Result:** PASS  \n**Scope:** canonical Tamil body PDF 6-81 / printed 5-80  \n**Pages:** 76/76\n\n## Checks passed\n\n- Exactly 76 unique sequential page headings, PDF 6-81 mapped to printed 5-80.\n- No empty or exact-duplicate page body detected.\n- Canonical opening and verified final closing confirmed.\n- Superseded traditional-glyph/T1 readings in the final stale list are absent from the body.\n- Representative scan-proven corrections from T2 Batches 1-16 are present.\n- All recorded non-obvious split-word joins used by T3 are present.\n- Representative ordinary page-boundary continuations remain page-separated and preserve their T2 witnesses.\n- Representative source-supported unusual readings remain unchanged.\n- All 16 T2 batch records and both legacy-glyph recheck records remain present.\n\n## Freeze decision\n\nThe Tamil layer meets the repository guide's T3 conditions and is frozen as `verified-complete`. Any later Tamil change requires documented source evidence and dependent English re-verification.\n\nEnglish translation may now begin from `transcription-ta.md`.\n'''
+          report = '''# பள்ளி வாழ்க்கை — T3 final verification
+
+**Result:** PASS  
+**Scope:** canonical Tamil body PDF 6-81 / printed 5-80  
+**Pages:** 76/76
+
+## Checks passed
+
+- Exactly 76 unique sequential page headings, PDF 6-81 mapped to printed 5-80.
+- No empty or exact-duplicate page body detected.
+- Canonical opening and verified final closing confirmed.
+- Superseded traditional-glyph/T1 readings in the final stale list are absent as complete stale forms from the body.
+- Representative scan-proven corrections from T2 Batches 1-16 are present.
+- All recorded non-obvious split-word joins used by T3 are present.
+- Representative ordinary page-boundary continuations remain page-separated and preserve their T2 witnesses.
+- Representative source-supported unusual readings remain unchanged.
+- All 16 T2 batch records and both legacy-glyph recheck records remain present.
+
+## Freeze decision
+
+The Tamil layer meets the repository guide's T3 conditions and is frozen as `verified-complete`. Any later Tamil change requires documented source evidence and dependent English re-verification.
+
+English translation may now begin from `transcription-ta.md`.
+'''
           (root / 't3-final-verification.md').write_text(report, encoding='utf-8')
           PY
 
