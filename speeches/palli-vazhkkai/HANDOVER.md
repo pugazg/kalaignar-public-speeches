@@ -1,6 +1,6 @@
 # பள்ளி வாழ்க்கை — T1 handover
 
-This document records the exact state after completion of the first Tamil first-pass transcription batch. Continue from the next incomplete page rather than repeating startup work or redoing Batch 1 as an audit.
+This document records the exact state after completion of the second Tamil first-pass transcription batch. Continue from the next incomplete page rather than repeating startup work or redoing completed T1 batches as an audit.
 
 ## Repository
 
@@ -33,16 +33,19 @@ Treat it as a printed compilation of multiple speeches. Do not invent one speech
 ### Tamil T1 first pass
 
 - Status: **in progress**
-- Completed: **5 / 76 body pages**
-- Completed range: **PDF 6-10 / printed 5-9**
-- `transcription-ta.md` contains these five page-bounded first-pass transcriptions.
-- The PDF 9→10 split word `உயி` / `ரினங்களைவிட` is joined as `உயிரினங்களைவிட` in accordance with repository lineation practice; recheck it during T2.
+- Completed: **10 / 76 body pages**
+- Completed range: **PDF 6-15 / printed 5-14**
+- Batch 1: PDF 6-10 / printed 5-9 — complete first pass
+- Batch 2: PDF 11-15 / printed 10-14 — complete first pass
+- `transcription-ta.md` contains all 10 page-bounded first-pass transcriptions.
+- Page-boundary joins carried forward for T2 verification: PDF 9→10 `உயி` / `ரினங்களைவிட` → `உயிரினங்களைவிட`; PDF 13→14 `இவர்` / `கட்கு` → `இவர்கட்கு`.
+- T1 preserved several unusual printed forms rather than normalizing them; see `audit.md` for the provisional carry-forward list.
 
 ### Tamil T2 strict visual audit
 
 - Status: **not started**
 - Pages audited: **0 / 76**
-- Do not treat Batch 1 as audited merely because it was transcribed from page images.
+- Do not treat either T1 batch as audited merely because transcription was made from page images.
 
 ### Tamil T3 consolidation / freeze
 
@@ -60,7 +63,7 @@ Treat it as a printed compilation of multiple speeches. Do not invent one speech
 
 Continue **Stage T1 first-pass Tamil transcription** with the next manageable batch beginning at:
 
-- **PDF page 11 / printed page 10**
+- **PDF page 16 / printed page 15**
 
 Proceed forward from there, retaining explicit PDF/printed-page headings and joining only genuine printer word-wraps. Preserve historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms. Do not silently modernize or repair the text.
 
