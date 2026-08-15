@@ -7,7 +7,7 @@
 ## Audit state
 
 - Tamil T1 first pass: **complete — 76/76**.
-- Strict visual Tamil audit T2: **in progress — 55/76**, through PDF 60 / printed 59.
+- Strict visual Tamil audit T2: **in progress — 60/76**, through PDF 65 / printed 64.
 - Tamil T3 consolidation/freeze: not started.
 - English: blocked until T2 and T3 pass.
 
@@ -22,7 +22,7 @@ Special watch forms include traditional shapes for `னா`, `றா`, `ணா`,
 - `t2-batches/legacy-glyph-recheck-pdf-06-35.md`
 - `t2-batches/legacy-glyph-recheck-pdf-36-40.md`
 
-Batches 8-11 were audited with the corrected rule from the outset.
+Batches 8-12 were audited with the corrected rule from the outset.
 
 ## T2 batch records
 
@@ -37,6 +37,7 @@ Batches 8-11 were audited with the corrected rule from the outset.
 - Batch 9: `t2-batches/batch-09-pdf-46-50.md`
 - Batch 10: `t2-batches/batch-10-pdf-51-55.md`
 - Batch 11: `t2-batches/batch-11-pdf-56-60.md`
+- Batch 12: `t2-batches/batch-12-pdf-61-65.md`
 
 ## Confirmed scan-proven corrections retained for T3
 
@@ -109,6 +110,21 @@ Source-supported oddity retained: PDF 48 `மனிதனி அறிவு க
 
 Source-supported unusual readings retained in Batch 11 include `தமிழனமாக` and `மதனின் அறிவு வளர்ச்சி பெற்று`; do not normalize them merely because they look unusual.
 
+### Batch 12 — PDF 61-65
+
+- PDF 62: `கல்வெறிபட்டுக்` → `கல்லெறிபட்டுக்`
+- PDF 62: `மீனவி மக்களைத் திருந்து` → `மீனவ மக்களைத் துறந்து`
+- PDF 63: first `மனிதனுக` → `மனிதனாக`
+- PDF 63: second `மனிதனுக` → `மனிதனாக`
+- PDF 63: `மிருகத் தன்மையின்றும்` → `மிருகத் தன்மையினின்றும்`
+- PDF 63: `படைத்தவனுக` → `படைத்தவனாக`
+- PDF 64: `மூன்கெட்டு` → `மூளை கெட்டு`
+- PDF 64: `அறிவும் தன்மை` → `அறியும் தன்மை`
+- PDF 65: `தெரிவித்து கொள்வதும்` → `தெரிவித்துக்கொள்வதும்`
+- PDF 65: `தமிழ் வீரனைத் திகழ்வான்` → `தமிழ் வீரனாகத் திகழ்வான்`
+
+The `மனிதனாக`, `படைத்தவனாக`, and `வீரனாகத்` corrections are additional traditional-glyph cases. They must not be reintroduced as `-னுக` / `-னைத்` during T3.
+
 ## Superseded legacy-glyph readings — DO NOT USE
 
 Earlier claims caused only by visual misinterpretation of traditional glyphs are withdrawn. These include:
@@ -129,7 +145,7 @@ Earlier claims caused only by visual misinterpretation of traditional glyphs are
 - `கவலிப்பட` → `கவலைப்பட`
 - earlier `தேவைத்தானு` glyph readings → underlying `-தானா` where documented
 - `நானு?` → `நானா?`
-- later `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக` → corrected in Batches 9-10
+- later `தோழனுக`, `உறுதுணைவனுக`, `எவலனுக`, `மனிதனுக`, `படைத்தவனுக`, `வீரனைத்` → corrected in Batches 9-12
 
 T3 must not resurrect any superseded glyph-misreading.
 
@@ -156,7 +172,11 @@ T3 must not resurrect any superseded glyph-misreading.
 - PDF 56→57: `வாழ்` / `வாகத்தானே` → `வாழ்வாகத்தானே`
 - PDF 58→59: `பகவத் கீதை, இராமாயண, பாரத இதிகாசங்கள்` / `இடம்பெற்ற சரித ஏடுகளிலே...` — ordinary sentence continuation
 - PDF 59→60: `இராஜ இராஜேந்திரனின்` / `வெற்றிச் செய்திகள்...` — ordinary phrase continuation
-- PDF 60→61: `வளர்ச்சி` / `வழியை, முன்னேற்றப் பாதையை...` — ordinary phrase continuation; PDF 61 only a boundary witness in Batch 11
+- PDF 60→61: `வளர்ச்சி` / `வழியை, முன்னேற்றப் பாதையை...` — ordinary phrase continuation; reconfirmed during full PDF 61 audit
+- PDF 61→62: `இது அந்த` / `நாள், ...` — ordinary phrase continuation
+- PDF 62→63: `புதுப் புதுக் கருவிகள் உண்டான` / `சூழ்நிலைகள் என்ன?` — ordinary phrase continuation
+- PDF 64→65: `ஆங்கில நாட்டு மாணவன் தன்னை ஆங்கிலேயன்` / `என்று கூறுவதும்...` — ordinary sentence continuation
+- PDF 65 ends a complete sentence; no PDF 65→66 join is required
 
 ## T2 progress
 
@@ -173,10 +193,11 @@ T3 must not resurrect any superseded glyph-misreading.
 | 46-50 | 45-49 | audited |
 | 51-55 | 50-54 | audited |
 | 56-60 | 55-59 | audited |
-| 61-81 | 60-80 | pending |
+| 61-65 | 60-64 | audited |
+| 66-81 | 65-80 | pending |
 
 ## Exact next activity
 
-Audit **PDF pages 61-65 / printed pages 60-64** line-by-line against the scan. PDF 61 must be fully audited even though its opening was inspected only as the PDF 60→61 boundary witness. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
+Audit **PDF pages 66-70 / printed pages 65-69** line-by-line against the scan. PDF 66 must be audited fully from the beginning even though its image was visible during Batch 12. Apply the traditional-glyph rule from the outset and record only scan-proven corrections.
 
 After all 76 pages pass T2, perform T3 canonical consolidation, apply every valid correction, run stale-reading/page-boundary checks, and freeze Tamil only when verified-complete.
