@@ -13,10 +13,10 @@
   "language": "ta",
   "speech": {
     "date": null,
-    "venue": null,
+    "venue": "கலைவாணர் அரங்கம், சென்னை",
     "event_ta": "கலைவாணர் நினைவு நாள் விழா",
     "occasion_note": "The speaker explicitly describes the occasion as an annually conducted Kalaivanar memorial-day function.",
-    "venue_note": "The spoken content strongly indicates the Chennai Kalaivanar Arangam as the present venue, but this remains provisional until the relevant segments pass strict auditory audit.",
+    "venue_note": "Direct listening confirms that the speaker is addressing the function in the Chennai Kalaivanar Arangam and repeatedly refers to the present hall.",
     "date_context_note": "The recording itself does not state a date. Secondary chronology places the earlier Balar Arangam honour on 1971-09-04 and the renovated Kalaivanar Arangam opening on 1974-01-29. The present memorial-day recording is therefore cautiously treated as likely 1974-01-29 or later, but speech.date remains null."
   },
   "source": {
@@ -43,7 +43,7 @@
       "start": "brief leading silence before speech",
       "end": "recording ends abruptly during an unfinished sentence"
     },
-    "scan_status": "primary audio source supplied by repository owner",
+    "scan_status": "primary audio source supplied and reattached by repository owner; checksum reconfirmed",
     "binary_committed": false,
     "binary_note": "The MP3 is not committed. Identity is preserved through the source URL, filename, checksum, size, duration, and technical metadata."
   },
@@ -53,76 +53,84 @@
       "start": "00:00",
       "end": "00:18",
       "subject": "salutations",
-      "boundary_status": "machine-audio-corrected-approximate"
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 2,
       "start": "00:18",
       "end": "00:55",
       "subject": "annual memorial event",
-      "boundary_status": "machine-audio-corrected-approximate"
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 3,
       "start": "00:55",
       "end": "01:11",
       "subject": "gratitude to Kalaivanar",
-      "boundary_status": "machine-audio-corrected-approximate"
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 4,
       "start": "01:11",
       "end": "02:21",
       "subject": "Kalaivanar's artistic family",
-      "boundary_status": "opening-boundary-machine-audio-corrected-approximate"
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 5,
       "start": "02:21",
       "end": "02:51",
-      "subject": "honour to Udumalai Narayana Kavirayar"
+      "subject": "honour to Udumalai Narayana Kavirayar",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 6,
       "start": "02:51",
       "end": "03:15",
-      "subject": "old hall name and proposed renaming"
+      "subject": "old hall name and proposed renaming",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 7,
       "start": "03:15",
       "end": "04:00",
-      "subject": "reconstruction and naming of Kalaivanar Arangam"
+      "subject": "reconstruction and naming of Kalaivanar Arangam",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 8,
       "start": "04:00",
       "end": "04:44",
-      "subject": "objections to changing the old name"
+      "subject": "objections to changing the old name",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 9,
       "start": "04:44",
       "end": "05:42",
-      "subject": "Kalaivanar Arangam at Tirukutralam"
+      "subject": "Kalaivanar Arangam at Tirukutralam",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 10,
       "start": "05:42",
       "end": "06:02",
-      "subject": "public usefulness of the Chennai hall"
+      "subject": "public usefulness of the Chennai hall",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 11,
       "start": "06:02",
       "end": "06:53",
-      "subject": "meaning of memorial gifts"
+      "subject": "meaning of memorial gifts",
+      "boundary_status": "direct-listening-reviewed-approximate"
     },
     {
       "segment": 12,
       "start": "06:53",
       "end": "07:22.549",
-      "subject": "recipients and truncated ending"
+      "subject": "recipients and truncated ending",
+      "boundary_status": "direct-listening-reviewed-approximate"
     }
   ],
   "research": {
@@ -148,7 +156,7 @@
     }
   },
   "machine_audio_evidence": {
-    "status": "opening-segments-1-3-pre-audited-boundaries-corrected-wording-unverified",
+    "status": "complete-superseded-by-direct-listening-for-wording",
     "record": "t2-batches/batch-05-machine-audio-evidence-00-00-01-30.md",
     "source_checksum_verified": true,
     "segments_reviewed": 3,
@@ -163,19 +171,29 @@
     ],
     "boundary_window_rechecked": "00:45-01:30",
     "opening_time_boundaries_corrected": true,
-    "strict_verification_effect": "none"
+    "strict_verification_effect": "none; retained as preparatory evidence"
+  },
+  "direct_listening_audit": {
+    "status": "complete",
+    "record": "t2-batches/batch-06-direct-listening-audit-00-00-07-22.md",
+    "source_checksum_reconfirmed": true,
+    "segments_checked": 12,
+    "segments_passed": 12,
+    "uncertain_readings_remaining": 0,
+    "recording_boundary_verified": true
   },
   "workflow": {
-    "tamil_transcription": "first-pass-complete",
+    "tamil_transcription": "verified-complete",
     "audio_segments_total": 12,
     "audio_segments_drafted": 12,
-    "strict_audio_audit": "not-started",
-    "strict_audio_audit_segments_checked": 0,
-    "machine_audio_pre_audit": "segments-1-3-complete-boundary-corrected-wording-unverified",
+    "strict_audio_audit": "complete",
+    "strict_audio_audit_segments_checked": 12,
+    "strict_audio_audit_record": "t2-batches/batch-06-direct-listening-audit-00-00-07-22.md",
+    "machine_audio_pre_audit": "complete-superseded-by-direct-listening",
     "machine_audio_pre_audit_segments_reviewed": 3,
     "machine_audio_pre_audit_record": "t2-batches/batch-05-machine-audio-evidence-00-00-01-30.md",
     "opening_time_boundaries_corrected": true,
-    "strict_audio_audit_precheck": "complete-all-12-segments-textually-reviewed-audio-verification-pending",
+    "strict_audio_audit_precheck": "complete-all-12-segments",
     "strict_audio_audit_precheck_segments_reviewed": 12,
     "strict_audio_audit_precheck_records": [
       "t2-batches/batch-01-00-00-01-06-precheck.md",
@@ -183,10 +201,9 @@
       "t2-batches/batch-03-03-15-05-42-precheck.md",
       "t2-batches/batch-04-05-42-07-22-precheck.md"
     ],
-    "strict_audio_audit_precheck_latest_record": "t2-batches/batch-04-05-42-07-22-precheck.md",
-    "tamil_consolidation": "blocked",
-    "uncertain_readings_open": 4,
-    "english_translation": "not-started",
+    "tamil_consolidation": "complete",
+    "uncertain_readings_open": 0,
+    "english_translation": "ready-not-started",
     "english_translation_review": "not-started",
     "english_translation_final_verification": "not-started"
   }
