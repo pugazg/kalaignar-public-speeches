@@ -1,6 +1,6 @@
 # Palli Vazhkkai — English translation
 
-**Status:** `in-progress` — E1 translated through **PDF page 15 / printed page 14** (**10/76 body pages**)  
+**Status:** `in-progress` — E1 translated through **PDF page 20 / printed page 19** (**15/76 body pages**)  
 **Source Tamil layer:** `transcription-ta.md` — **verified-complete / frozen**  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)
 
@@ -112,8 +112,64 @@ On the very farm where this same Kuppan works, the family of the accountant or s
 
 At the same place, the child of a merchant is satisfied with obtaining only as much education as is needed for business correspondence! A few study enough to obtain employment and receive a salary. Those who are able go to college, learn many arts, and advance in many fields. A landlord's family goes to school at least for the sake of prestige.
 
+### PDF page 16 — printed page 15
+
+Because of hereditary custom, Brahmins simply do not fail to study.
+
+In general, the feeling that education is necessary has not arisen among many people at all! Yet everywhere we see education receiving an honourable welcome and praise. Favourable circumstances for study, prosperity in life, education suited to one's needs, studying because only study offers a way to make a living, studying for prestige, studying with an understanding of its benefit—in many, many such ways, different people enter “school life” for different reasons.
+
+The first stage of school life is elementary education (Elementary School), the primary school.
+
+For a human being to gain acquaintance with letters, to learn to read and write, to know and understand the letters necessary for reading and writing—in short, elementary education is the very foundation of education.
+
+Elementary education exists in many forms and on a very widespread basis, beginning with the *thinnai* schools of rural villages and extending to the elementary educational institutions of large municipalities.
+
+### PDF page 17 — printed page 16
+
+Elementary educational institutions contain a few classes. To the extent one studies there, one can acquire ordinary knowledge. The number of people who stop at this stage is enormous. Many parents are satisfied merely that “our child has somehow learned to read letters,” and then leave their children to seek a way of providing food for the household in other fields—in a shop or a market-yard.
+
+Many go beyond this stage, beyond elementary education, to middle schools (Middle Schools), study to that level and stop there; there are many who leave school life at that point.
+
+Only a few enter the third stage, the high school (High School), study there and pass. Those who overcome all the circumstances involved—the facilities for study, financial means, the condition of the family—and manage to reach this stage are very, very few compared with those at the elementary-education stage.
+
+A very large number can be seen engaging in the hunt for employment immediately after completing high-school education. Most who leave “school life” at this stage are merely—
+
+### PDF page 18 — printed page 17
+
+—job-seekers in our country.
+
+The number of young people who pass beyond this stage and obtain the opportunity to go to college (College) is extremely small. Even among the students who go to college, learn and master many arts, assume the title of “college man,” and emerge, a large proportion do nothing but wander in search of employment.
+
+Next, among the students who attend college, only a very, very small number possess the means and opportunity to learn and master technical skills in institutions such as Industrial College, Engineering College, Medical College, Law College, and Agricultural College.
+
+Even among the students who pass out of these colleges, a large proportion are seen merely as seekers of employment.
+
+In our country, the basic idea that education and participation in school life are for the growth of knowledge does not predominate. Rather, it is clearly because of the half-formed satisfaction that one may at least obtain half a stomachful of gruel—
+
+### PDF page 19 — printed page 18
+
+—without bodily labour, obtain some kind of job, and live.
+
+Those who study are few; very, very few in relation to the population! Among those who study, those who remain in school life through high-school education are fewer still! Of these, those who go to college and obtain a degree are fewer yet. Fewer than even these are the students who receive technical education.
+
+Through education, a human being comes to understand himself; the social group and society around him; his own language and other languages; his own country and other countries; the history of his country; indeed, even an understanding of this vast world.
+
+Human intelligence is churned through education, enabling knowledge to increase and become clear. Education is the foundation for such intellectual growth. The places for learning education are educational institutions. The days—the life—that humankind spends in educational institutions are school life!
+
+Even the educational knowledge acquired by a few is treated merely as the source's `எட்டுச்சுரை`; once school life ends, it is regarded only as a certificate, an entrance ticket, for seeking work and obtaining wages, and afterward it is set aside and discarded!
+
+*[Translator/source note: the frozen Tamil contains the unusual forms `கல்வி கற்கு மிடம்` and `எட்டுச்சுரையெனப்`. They are not silently corrected here; the first is rendered closely, while the second is retained in Tamil because its precise sense is not securely established by the frozen source.]*
+
+### PDF page 20 — printed page 19
+
+To enter school, to study, and to make the educational knowledge gained through study a companion in life, a lighthouse of life, a guide to life, an instrument that enriches life; to hold the public-minded principle that not only one's own life but the lives of others like oneself should be made useful lives—without such a principle, “study,” school life, appears as some kind of “prison,” a regulated life passed under compulsion and under the pressure of circumstances! This condition must change! It must be changed!
+
+School life is an important part of human existence! School life melts and moulds the human heart! The habits and customs formed during the school years are deeply imprinted upon the human heart and remain there until the threshold of death.
+
+For humankind to live with a hold upon life, with attachment, affection, and self-confidence, and to gain clarity in life,
+
 ## E1 progress
 
-- Completed: **PDF 6-15 / printed 5-14 — 10/76 pages**.
+- Completed: **PDF 6-20 / printed 5-19 — 15/76 pages**.
 - Independent E2 fidelity review has **not** begun; per workflow it remains blocked until the full E1 body translation is complete.
-- Exact next E1 batch: **PDF 16-20 / printed 15-19**.
+- Exact next E1 batch: **PDF 21-25 / printed 20-24**.
