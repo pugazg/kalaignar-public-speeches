@@ -5,13 +5,15 @@
 **Event stated in recording:** கலைவாணர் நினைவு நாள் விழா  
 **Venue established by direct listening:** கலைவாணர் அரங்கம், சென்னை  
 **Speech date:** Not stated in the available recording  
-**Duration:** 00:07:22.549
+**Duration:** 00:07:23.559
 
 ## Archival result
 
-The controlling MP3 has been replayed directly from beginning to end. All 12 segments have passed strict direct-listening comparison, and the confirmed corrections have been consolidated into `transcription-ta.md`.
+The controlling MP3 has been replayed directly from beginning to end. All 12 segments have passed strict direct-listening comparison, including a corrective re-audit of the final approximately 25 seconds.
 
-The Tamil source layer is now **verified-complete**. English translation is unblocked but has not yet begun.
+An earlier audit incorrectly stated that the recording ended abruptly during the sentence about வெங்கடாசலம். That finding has been withdrawn. The complete closing passage is now preserved in `transcription-ta.md`.
+
+The Tamil source layer is **verified-complete**. English translation is unblocked but has not yet begun.
 
 ## Source integrity
 
@@ -20,7 +22,7 @@ The Tamil source layer is now **verified-complete**. English translation is unbl
 - SHA-256: `7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148`
 - File size: 7,087,106 bytes
 - Audio: MP3, stereo, 44.1 kHz, approximately 128 kb/s
-- Duration: 442.549250 seconds
+- Decoded duration: 443.559 seconds
 - Source audio committed to repository: **No**
 - Reattached source identity: **checksum and byte size reconfirmed**
 
@@ -37,13 +39,12 @@ The speech addresses the annual Kalaivanar memorial-day function in the Chennai 
 - objections to changing the former name;
 - the Kalaivanar Arangam at திருக்குற்றாலம்;
 - the emotional meaning of memorial gifts;
-- தங்கப்பன், பகவதி, and வெங்கடாசலம்.
-
-The recording ends abruptly during the sentence about வெங்கடாசலம். No continuation is reconstructed.
+- தங்கப்பன், பகவதி, and வெங்கடாசலம்;
+- the closing statement that even a small assistance, if it brings some peace to their lives, is an offering placed at Kalaivanar’s feet.
 
 ## Verified corrections
 
-Direct listening resolved the principal uncertainties:
+Direct listening resolved:
 
 - `ஏ. எல். சீனிவாசன்`
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்`
@@ -51,12 +52,15 @@ Direct listening resolved the principal uncertainties:
 - `கலைவாணருடைய பெயர் ஏற்றி வைக்கப்பட்டது`
 - `வள்ளல் தன்மையோடு`
 - தங்கப்பன், பகவதி, and வெங்கடாசலம்
-- the exact unfinished final clause
+- the complete final approximately 25 seconds
 
 Detailed evidence is recorded in:
 
 - `audit.md`
 - `t2-batches/batch-06-direct-listening-audit-00-00-07-22.md`
+- `t2-batches/batch-07-tail-correction-06-53-07-23.md`
+
+Batch 7 supersedes Batch 6 only on the final-boundary finding.
 
 ## Time map
 
@@ -73,7 +77,7 @@ Detailed evidence is recorded in:
 | 9 | 04:44–05:42 | Kalaivanar Arangam at Tirukutralam |
 | 10 | 05:42–06:02 | Public usefulness of the Chennai hall |
 | 11 | 06:02–06:53 | Meaning of the memorial gifts |
-| 12 | 06:53–07:22.549 | Recipients and the truncated ending |
+| 12 | 06:53–07:23.559 | Recipients, assistance and complete closing dedication |
 
 The timestamps are navigation aids, not word-level forced alignment.
 
@@ -95,7 +99,7 @@ The exact date of the present speech remains unknown. `speech.date` therefore re
 | Tamil transcription | **Verified complete** |
 | Textual precheck | **Complete — 12/12** |
 | Machine-aided pre-audit | **Complete — preparatory evidence** |
-| Strict direct-listening audit | **Complete — 12/12 passed** |
+| Strict direct-listening audit | **Complete — 12/12 passed after tail correction** |
 | Tamil consolidation/freeze | **Complete** |
 | Open Tamil uncertainties | **0** |
 | English translation | **Ready; not started** |
@@ -103,4 +107,4 @@ The exact date of the present speech remains unknown. `speech.date` therefore re
 
 ## Editorial rule
 
-The MP3 remains the controlling source. Punctuation, word spacing, paragraphing, and timestamp headings are editorial aids. Historical spelling, spoken constructions, repetition, and the abrupt ending are preserved without modernization or reconstruction.
+The MP3 remains the controlling source. Punctuation, word spacing, paragraphing and timestamp headings are editorial aids. Historical spelling, spoken constructions and repetition are preserved without modernization. The source ends with a complete closing sentence and must not be described as truncated.
