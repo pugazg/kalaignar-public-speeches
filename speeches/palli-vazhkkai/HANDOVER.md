@@ -34,11 +34,11 @@ Tamil must not now be changed without documented source evidence. Any later Tami
 
 ### E1 — IN PROGRESS
 
-English translation has begun from the frozen Tamil layer.
+English translation is being produced only from the frozen Tamil layer.
 
-Completed E1 scope: **PDF 6-10 / printed 5-9 — 5/76 body pages**.
+Completed E1 scope: **PDF 6-15 / printed 5-14 — 10/76 body pages**.
 
-`translation-en.md` preserves the PDF/printed-page headings and translates every paragraph in that scope. The first batch carries the school-life argument from its opening through the discussion of rational discernment and humanity's early wandering condition at the end of PDF 10.
+`translation-en.md` preserves the PDF/printed-page headings and paragraph sequence for all translated pages. Batch 1 covers PDF 6-10; Batch 2 covers PDF 11-15.
 
 ### E2 / E3 — NOT STARTED
 
@@ -63,13 +63,27 @@ Do not silently repair an unusual Tamil reading merely because a smoother Englis
 
 Completed and committed to `translation-en.md`.
 
-Translation decisions to carry forward:
+Translation decisions carried forward:
 
 - Preserve emphatic repetitions and rhetorical questions rather than compressing them.
 - Keep page-spanning sentences page-spanning in English where practical; PDF 9→10 therefore remains a continuation rather than being silently restructured.
 - Translate source concepts directly without adding historical explanations not present in the Tamil.
 - `கல்லூரனாக` was rendered conservatively as “a college man” rather than silently replacing the frozen source with a more interpretive modern term.
 - The syntactically difficult PDF 10 passage around `ஆராய்ந்தறின்—பகுத்தறிவு பெற்றது` was rendered as the capacity “to examine and understand circumstances and surroundings,” preserving the argument without claiming a textual correction.
+
+## E1 Batch 2 — PDF 11-15 / printed 10-14
+
+Completed and committed to `translation-en.md`.
+
+Important translation decisions:
+
+- PDF 10→11 remains an explicit English continuation: `As time passed,` → `—it learned...`.
+- PDF 11→12 likewise preserves the page-spanning phrase about “many” stages of development rather than moving text across the source page boundary.
+- The long PDF 11 civilizational-development list is translated in source order, including customs, study, life-partner arrangements, male-female relations, clothing, self-defence, self-restraint, social discipline, community/people advancement, country, patriotism, protection, leaders, local headman, king and guru.
+- PDF 12's difficult frozen phrase `கேள்வி ஞானங்களைத் தூர்த்திடும் போதனைகள்` is rendered closely as “teachings that sweep away knowledge gained through inquiry” and is accompanied by a concise translator/source note rather than being silently regularized.
+- PDF 13's agricultural `ஏற்றம்` is rendered as a water-lift, preserving the described well-irrigation action without adding outside explanation.
+- Repetition in the labour passages (`உழைத்தால்தான்...`) is preserved in English rather than compressed.
+- PDF 15's `எழுத்து வாசனை` is rendered conservatively as “some acquaintance with letters,” and `தமிழ்க் கணக்கு` as “Tamil accounting,” avoiding a stronger modernization than the frozen text supports.
 
 ## Source-fidelity safeguards carried into English
 
@@ -79,7 +93,7 @@ Conversely, genuine source-supported oddities remain part of the frozen witness 
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF pages 11-15 / printed pages 10-14** from `transcription-ta.md`.
+Continue **E1 English translation with PDF pages 16-20 / printed pages 15-19** from `transcription-ta.md`.
 
 For that batch:
 
