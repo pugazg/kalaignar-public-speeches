@@ -1,7 +1,14 @@
 {
   "id": "palli-vazhkkai",
-  "title": {"ta": "பள்ளி வாழ்க்கை", "en_transliteration": "Palli Vazhkkai"},
-  "creator": {"name_ta": "மு. கருணாநிதி", "name_en": "M. Karunanidhi", "role_source_text": "கலைஞர் : மு. கருணாநிதி"},
+  "title": {
+    "ta": "பள்ளி வாழ்க்கை",
+    "en_transliteration": "Palli Vazhkkai"
+  },
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "கலைஞர் : மு. கருணாநிதி"
+  },
   "document_type": "printed-speech-compilation-booklet",
   "archive_context": "Kalaignar Public Speeches project",
   "source_form_note": "PDF page 5 explicitly describes the booklet as a compilation of speeches by M. Karunanidhi delivered at the Tiruvarur municipal high school and other places, compiled by தோழர் மு. நமச்சிவாயம். It is archived as one source unit without inferring a single original speech event.",
@@ -79,9 +86,9 @@
     "tamil_frozen": true,
     "tamil_frozen_date": "2026-08-15",
     "english_translation": "in-progress",
-    "english_translation_pages_completed": 20,
-    "english_translation_through_pdf_page": 25,
-    "english_translation_through_printed_page": 24,
+    "english_translation_pages_completed": 25,
+    "english_translation_through_pdf_page": 30,
+    "english_translation_through_printed_page": 29,
     "english_translation_review": "not-started",
     "english_translation_review_pages_checked": 0,
     "english_translation_final_verification": "not-started",

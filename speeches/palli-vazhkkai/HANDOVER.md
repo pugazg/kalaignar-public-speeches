@@ -34,7 +34,7 @@ The final whole-body gate passed and is recorded in `t3-final-verification.md`. 
 
 English translation is being produced only from the frozen Tamil layer.
 
-Completed E1 scope: **PDF 6-25 / printed 5-24 — 20/76 body pages**.
+Completed E1 scope: **PDF 6-30 / printed 5-29 — 25/76 body pages**.
 
 `translation-en.md` preserves the PDF/printed-page headings and paragraph sequence. Completed batches:
 
@@ -42,6 +42,7 @@ Completed E1 scope: **PDF 6-25 / printed 5-24 — 20/76 body pages**.
 - Batch 2: PDF 11-15 / printed 10-14
 - Batch 3: PDF 16-20 / printed 15-19
 - Batch 4: PDF 21-25 / printed 20-24
+- Batch 5: PDF 26-30 / printed 25-29
 
 ### E2 / E3 — NOT STARTED
 
@@ -90,18 +91,36 @@ Important translation decisions:
 - PDF 25's difficult `தவழிப் பூச்சூடி` is retained in Tamil with a translator/source note rather than silently reconstructed.
 - PDF 25 ends with the unfinished phrase about the weight of the schoolteacher's cane; English deliberately ends `the weight of the schoolteacher's cane—` for continuation on PDF 26.
 
+
+## E1 Batch 5 — PDF 26-30 / printed 25-29
+
+Completed and committed.
+
+Important translation decisions:
+
+- PDF 25→26 explicitly continues the schoolteacher-cane image: `கம்பின் கனத்தை` / `அடியையும்` is kept as “the weight of the schoolteacher's cane—” / “—and the blows it dealt!”.
+- The frozen PDF 26 sentence `வெறும் படிப்புபோதும்.` is translated literally as “Mere study is enough.” A translator/source note records the abrupt tension with the immediately following rejection of examination-and-employment-only education; the Tamil is not silently changed to “not enough.”
+- PDF 26→27 preserves the sentence describing the valiant, self-confident, self-respecting Tamil rather than moving the continuation across the page boundary.
+- PDF 27's source-supported `முன்னேற்றம் மடைகின்றன` is rendered contextually as “are undergoing rapid advancement” and identified in a translator/source note without altering the frozen Tamil.
+- PDF 28's examples of aeroplane, telephone, radio and television are translated in source order; its older travel imagery, including travel on foot, on goats/cattle and in wooden carts, is not modernized away.
+- PDF 28→29 keeps `இங்கு போதிக்கப்படும்` / `கல்வி` as “the education taught—” / “—here”.
+- PDF 29's religious, Puranic and otherworldly-life critique is translated without adding external explanation or softening its polemical wording.
+- PDF 29→30 explicitly preserves the split `கற்பிக்கும் ஏடுகளைப்` / `படிக்கவில்லை` as “the books that teach these things, he has not—” / “—read”.
+- PDF 30 retains the repeated `இன்று பெறும் அறிவு` emphasis and the sequence of Tamil feeling, ethnic feeling, self-awareness, self-respect and life-training.
+- PDF 30 ends at the source's unfinished `இன்றைய`; English therefore ends “the present-day—” for continuation with `இளஞ்சமுதாயம்` on PDF 31.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF pages 26-30 / printed pages 25-29** from `transcription-ta.md`.
+Continue **E1 English translation with PDF pages 31-35 / printed pages 30-34** from `transcription-ta.md`.
 
 For that batch:
 
 1. retain the same PDF/printed-page headings in `translation-en.md`;
-2. continue the unfinished PDF 25 sentence faithfully onto PDF 26;
+2. continue the unfinished PDF 30 phrase faithfully onto PDF 31;
 3. translate every paragraph from the frozen Tamil, with no omitted clause or added historical explanation;
 4. preserve repetition and rhetorical questions rather than smoothing them away;
 5. flag any genuinely difficult frozen Tamil with a concise translator/source note rather than silently correcting it;

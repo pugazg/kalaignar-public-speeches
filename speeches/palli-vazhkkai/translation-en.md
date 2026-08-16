@@ -1,6 +1,6 @@
 # Palli Vazhkkai — English translation
 
-**Status:** `in-progress` — E1 translated through **PDF page 25 / printed page 24** (**20/76 body pages**)  
+**Status:** `in-progress` — E1 translated through **PDF page 30 / printed page 29** (**25/76 body pages**)  
 **Source Tamil layer:** `transcription-ta.md` — **verified-complete / frozen**  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)
 
@@ -236,8 +236,80 @@ Submitting to the discipline of one's parents and going to school, one cannot av
 
 *[Translator/source note: the frozen Tamil phrase `தவழிப் பூச்சூடி` is source-supported but difficult in this syntax. It is retained rather than silently normalized.]*
 
+### PDF page 26 — printed page 25
+
+—and the blows it dealt!
+
+For a child's education, it is not enough merely to feel pride, satisfaction, and contentment when he has learned his letters, learned to read words together, learned to do sums, practised writing letters, learned to tell and read stories, and reached the point of receiving the title and good certificate of “an educated man”!
+
+School life must become a useful life; it must be made so.
+
+School life must be a life in which one gains knowledge that gives encouragement and constructive power toward the ways and means of enriching life and enriching one's own life.
+
+Mere study is enough. To pass through many classes, study up to a certain limit, pass an examination, and be satisfied that one is fit for employment—education pursued only to that extent has no benefit, no use!
+
+Education necessary for life must be taught in schools. For a Tamil to live as a Tamil, to stand with self-respect, to honour his own language, to be capable of protecting his own country, as a valiant Tamil—
+
+*[Translator/source note: the frozen Tamil has the abrupt sentence `வெறும் படிப்புபோதும்.` (“Mere study is enough”) immediately before rejecting education pursued only for examinations and employment. It is translated as printed rather than silently changed to “mere study is not enough.”]*
+
+### PDF page 27 — printed page 26
+
+—as a self-confident Tamil, as a self-respecting Tamil, a life that melts and moulds the Tamil son, the Tamil child—such a life is the “school life” needed by the Tamil, a life that prepares the way for a useful life!
+
+The distinctive quality possessed by the human being, the condition that places him above other living creatures, is the rational discernment within him!
+
+Rational discernment arises within worldly knowledge, within a condition of knowing well the nature of worldly affairs. To understand worldly life, one must know the affairs and practices of the world in every field.
+
+Life in the world is changing very, very rapidly today; changing again and again, it continues to advance!
+
+In the world, we see that those who until yesterday lived as savages have today changed the sphere of their lives into modern, civilized ways of living and stand in the forefront!
+
+In the world, the instruments of life—the means by which nature is cultivated, prepared, and used for human life—are undergoing rapid advancement.
+
+*[Translator/source note: the frozen Tamil contains the source-supported unusual form `முன்னேற்றம் மடைகின்றன`; “are undergoing rapid advancement” renders the sense contextually without changing the Tamil witness.]*
+
+### PDF page 28 — printed page 27
+
+If a human being wishes, he flies—in an aeroplane. If a human being thinks to speak, he speaks with others living in any part of the world through the instrument called the telephone.
+
+If a human being speaks—speaks at one end of the world—it can be heard in an instant from any other part of the world! That is radio, is it not!
+
+From radio, the world has today advanced to the stage called television, where it is possible even to see the person who is speaking!
+
+The old days of tying up bundles of food, travelling on foot, riding on goats and cattle, and going in wooden carts along rough and rugged roads are not the days of today! Nor can they be. If they remained so, such people would be unable to live in today's world. They would be called dullards who do not know the value of time, people without rational discernment who waste time and squander human labour.
+
+At a time when the world is advancing in civilization, in the fields that enrich life, what is the condition of this country—Tamil Nadu, this sacred land?
+
+Here, what is the plan of educational instruction, the instrument by which people gain knowledge? What benefit does the education taught—
+
+### PDF page 29 — printed page 28
+
+—here give the Tamil? We must think about it. Is the education and growth of knowledge that are needed being provided here?
+
+Even now, we do not see the history of the Nayanmars, Puranic songs, the flavour of the epics, and the Puranas of Ilayankudi Maranar and Iyarpakaiyar failing to find a place in the curriculum!
+
+Religious knowledge—the ideas of a blissful life in a higher world beyond this worldly life—has been given first place! The texts explaining them are the most numerous! Those ideas are mixed and remixed, altered and altered again, and preserved in many forms—as epic, Purana, kavya, essay, and story!
+
+There are more texts filled with ideas that foster the false Vedanta that this life, this worldly life, is only an interim period, a lodging-place in which one must earn enough merit to despise this world and enjoy bliss in the next!
+
+The Tamil has still not learned the lesson of caring about himself, of living, of honouring the country in which he lives and the language he speaks, and of working for the welfare of his society and his country; the books that teach these things, he has not—
+
+### PDF page 30 — printed page 29
+
+—read; nor has he been given the opportunity to read them in his school life!
+
+The future! The future of this country—whether it rises or falls, lives or collapses—depends upon the future youth of this country, upon the generations to come!
+
+The generations to come are today's children! The future depends upon the growth, the mental growth, of children of school age!
+
+The manner in which children are cared for, the great task of raising children into adults—the future condition of the Tamil people lies in preparing lion-like Tamils who will give life to the future world, to the Tamil world!
+
+The knowledge today's young children receive—the knowledge they receive today—the lights of knowledge, Tamil feeling, Tamil ethnic feeling, self-awareness, the feeling of self-respect, and the methods of training for life: these must be put in order, refined, and properly arranged, so that the future may live, Tamil may flourish, Tamil Nadu may shine as a sacred land of self-respect, and Tamils may live with fulfilment and without equal!
+
+Those who are to give life to the future—the present-day—
+
 ## E1 progress
 
-- Completed: **PDF 6-25 / printed 5-24 — 20/76 pages**.
+- Completed: **PDF 6-30 / printed 5-29 — 25/76 pages**.
 - Independent E2 fidelity review has **not** begun; per workflow it remains blocked until the full E1 body translation is complete.
-- Exact next E1 batch: **PDF 26-30 / printed 25-29**.
+- Exact next E1 batch: **PDF 31-35 / printed 30-34**.

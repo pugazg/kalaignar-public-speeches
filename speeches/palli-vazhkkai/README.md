@@ -42,7 +42,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **In progress — 20/76 body pages; through PDF 25 / printed 24** |
+| English translation (E1) | **In progress — 25/76 body pages; through PDF 30 / printed 29** |
 | English fidelity review (E2) | **Not started** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
@@ -65,15 +65,17 @@ Obsolete T1 staging files were removed after the successful freeze. The complete
 
 ## English translation progress
 
-E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-25 / printed pages 5-24 — 20/76 pages**.
+E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-30 / printed pages 5-29 — 25/76 pages**.
 
-Batch 4, PDF 21-25, continues the page-spanning sentence from PDF 20 and carries the argument through unequal living standards, fatalism, the need for thought and education, and the remembered imagery of a child being sent to school and the schoolmaster with a cane. Source-supported difficult forms such as `நல்லதங்கள்`, `நாவினை நாட்டினரும்`, and `தவழிப் பூச்சூடி` are not silently repaired; concise translator/source notes identify them where needed.
+Batch 5, PDF 26-30, continues the schoolteacher's-cane sentence from PDF 25 and develops the argument that school life must form a useful, self-respecting life rather than merely produce credentials for employment. It then turns to rational discernment, rapid technological change, the content of the curriculum, religious and otherworldly instruction, and the responsibility of today's children for the Tamil future.
+
+Page-spanning continuations remain explicit at PDF 26→27, PDF 28→29, PDF 29→30, and PDF 30→31. Source-supported difficulties are not silently repaired: the abrupt `வெறும் படிப்புபோதும்.` and unusual `முன்னேற்றம் மடைகின்றன` are called out in concise translator/source notes.
 
 No E2 fidelity review has begun; that gate remains blocked until the entire E1 body is translated.
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF 26-30 / printed pages 25-29** from the frozen `transcription-ta.md`, beginning with the continuation of the PDF 25 sentence about the schoolteacher's cane. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
+Continue **E1 English translation with PDF 31-35 / printed pages 30-34** from the frozen `transcription-ta.md`, beginning with the continuation of the unfinished PDF 30 phrase `இன்றைய` / `இளஞ்சமுதாயம்`. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
 
 ## Editorial rule
 
