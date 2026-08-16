@@ -42,7 +42,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **In progress — 25/76 body pages; through PDF 30 / printed 29** |
+| English translation (E1) | **In progress — 55/76 body pages; through PDF 60 / printed 59** |
 | English fidelity review (E2) | **Not started** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
@@ -65,17 +65,17 @@ Obsolete T1 staging files were removed after the successful freeze. The complete
 
 ## English translation progress
 
-E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-30 / printed pages 5-29 — 25/76 pages**.
+E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-60 / printed pages 5-59 — 55/76 pages**.
 
-Batch 5, PDF 26-30, continues the schoolteacher's-cane sentence from PDF 25 and develops the argument that school life must form a useful, self-respecting life rather than merely produce credentials for employment. It then turns to rational discernment, rapid technological change, the content of the curriculum, religious and otherworldly instruction, and the responsibility of today's children for the Tamil future.
+The present activity translated **PDF 31-60 / printed 30-59** as one continuous source-faithful block. It continues the future-generation argument, carries the long Ekalavya and Iyarpakai Nayanar critiques, contrasts Puranic and scientific explanations of rain and eclipses, develops the case for science and worldly knowledge, and turns to the representation of Tamil history in school curricula.
 
-Page-spanning continuations remain explicit at PDF 26→27, PDF 28→29, PDF 29→30, and PDF 30→31. Source-supported difficulties are not silently repaired: the abrupt `வெறும் படிப்புபோதும்.` and unusual `முன்னேற்றம் மடைகின்றன` are called out in concise translator/source notes.
+All source page boundaries remain explicit. Difficult frozen readings are not silently regularized; translator/source notes identify forms such as `அரிபந்தாமன்`, `காண்டவன்`, `மனிதனி அறிவு கண்டு`, `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, and `மதனின் அறிவு` where a confident reconstruction is not supported by the frozen witness.
 
 No E2 fidelity review has begun; that gate remains blocked until the entire E1 body is translated.
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF 31-35 / printed pages 30-34** from the frozen `transcription-ta.md`, beginning with the continuation of the unfinished PDF 30 phrase `இன்றைய` / `இளஞ்சமுதாயம்`. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
+Complete the remaining **E1 English translation for PDF 61-81 / printed pages 60-80** from the frozen `transcription-ta.md`. Continue the unfinished PDF 60 sentence faithfully onto PDF 61, preserve all page correspondence and source difficulty, and do not begin E2 until E1 reaches 76/76 pages.
 
 ## Editorial rule
 
