@@ -194,8 +194,8 @@ The final page passed E2 without a new correction. The PDF 80→81 continuation 
 - Reviewed: **PDF 6–81 / printed 5–80 — 76/76 body pages**.
 - E2 fidelity review: **review-complete**.
 - Every confirmed E2 correction identified in Batches 1–16 has been consolidated into `translation-en.md`.
-- The English layer is now **fidelity-corrections-consolidated**, but **not yet verified-complete**.
-- E3 final end-to-end Tamil→English verification remains mandatory.
+- The English layer passed E3 and is now **verified-complete**.
+- Final archival synchronization remains the only pending gate.
 
 ## E3 — final end-to-end verification
 

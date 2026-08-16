@@ -36,11 +36,11 @@ English translation has been produced only from the frozen Tamil layer.
 
 Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
 
-`translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1 is complete, E2 review/correction consolidation is complete, and E3 final verification remains mandatory.
+`translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1, E2 and E3 are complete; the English layer is verified-complete.
 
 ### E2 — REVIEW COMPLETE
 
-All **76/76 body pages, PDF 6-81 / printed 5-80**, have undergone independent Tamil→English fidelity review. Every confirmed E2 correction has been consolidated into `translation-en.md`; `translation-review.md` contains the full Batch 1-16 audit. The English layer state is now **fidelity-corrections-consolidated**.
+All **76/76 body pages, PDF 6-81 / printed 5-80**, underwent independent Tamil→English fidelity review. Every confirmed E2 correction was consolidated into `translation-en.md`; `translation-review.md` contains the full Batch 1-16 audit. E3 subsequently passed, so the English layer is now **verified-complete**.
 
 ### E3 — VERIFIED-COMPLETE
 
