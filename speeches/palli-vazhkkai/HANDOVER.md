@@ -1,206 +1,83 @@
-# பள்ளி வாழ்க்கை — E3 verified handover
+# பள்ளி வாழ்க்கை — final completed-state handover
 
 ## Repository
 
 - Repository: `pugazg/kalaignar-public-speeches`
 - Branch: `main`
 - Speech directory: `speeches/palli-vazhkkai/`
+- Archival state: **COMPLETE**
 
-## Source
+## Source identity
 
 - Canonical scan: `TVA_BOK_0064116_பள்ளி_வாழ்க்கை.pdf`
 - SHA-256: `e20bf80e8e5b65abbfdb5bcefbdaf85b8e5385112f6de8efcc0e733ed3aceea3`
-- PDF pages: 81
-- Speech body: PDF 6-81 / printed 5-80 = 76 pages
-- Source PDF committed: No
+- File size: `101,096,930` bytes
+- PDF pages: `81`
+- Front matter: PDF 1-5
+- Body: PDF 6-81 / printed 5-80 = **76 pages**
+- Source PDF committed to repository: **No**
 
-## Workflow state
+The booklet is a printed compilation of Kalaignar M. Karunanidhi speeches. PDF page 5 names **திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி** and **வேறு சில இடங்களிலும்**, with compilation by **தோழர் மு. நமச்சிவாயம்**. The source does not establish a single speech date, venue, event, occasion, or audience; those fields remain deliberately unset.
+
+Publication evidence retained from the scan:
+
+- `முதற்பதிப்பு மார்ச்சு 1952`
+- Publisher: `அறிவு மன்றம், சென்னை`
+- Price: `விலை ரூ. 1-0-0`
+- Printer: `Vinodan Press, 33, Jones St. G. T. Madras.`
+
+## Completed workflow
 
 ### T1 — COMPLETE
 
-All **76/76** body pages have first-pass readings.
+Tamil first-pass transcription completed for **76/76 body pages**.
 
 ### T2 — COMPLETE
 
-All **76/76** body pages passed strict line-by-line visual audit. Detailed evidence remains under `t2-batches/`, including Batches 1-16 and both legacy-glyph recheck records.
+Strict scan-based visual audit completed for **76/76 body pages**. Detailed evidence is permanently retained under `t2-batches/`.
 
 ### T3 — VERIFIED-COMPLETE / FROZEN
 
-`transcription-ta.md` is the frozen canonical Tamil layer for **PDF 6-81 / printed 5-80**.
+`transcription-ta.md` is the canonical frozen Tamil layer for **PDF 6-81 / printed 5-80**. The full-body T3 gate passed and is recorded in `t3-final-verification.md`.
 
-The final whole-body gate passed and is recorded in `t3-final-verification.md`. Tamil must not now be changed without documented source evidence; any later Tamil correction requires dependent English re-verification.
+Traditional pre-1978 glyphs were resolved to scan-supported underlying Tamil characters. Genuine source-supported irregular forms were not silently normalized. Later Tamil changes require documented scan evidence and dependent English re-verification.
 
-### E1 — FIRST-PASS COMPLETE
+### E1 — COMPLETE
 
-English translation has been produced only from the frozen Tamil layer.
+English translation was produced only from the frozen Tamil layer for **76/76 body pages**.
 
-Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
+### E2 — REVIEW-COMPLETE
 
-`translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1, E2 and E3 are complete; the English layer is verified-complete.
-
-### E2 — REVIEW COMPLETE
-
-All **76/76 body pages, PDF 6-81 / printed 5-80**, underwent independent Tamil→English fidelity review. Every confirmed E2 correction was consolidated into `translation-en.md`; `translation-review.md` contains the full Batch 1-16 audit. E3 subsequently passed, so the English layer is now **verified-complete**.
+Independent Tamil→English fidelity review covered **76/76 body pages** in 16 review batches. Every confirmed correction was consolidated into `translation-en.md`; the detailed record is in `translation-review.md`.
 
 ### E3 — VERIFIED-COMPLETE
 
-Final end-to-end Tamil→English verification has passed **PDF 6-81 / printed 5-80 — 76/76 body pages**. All 75 internal page transitions were checked; all confirmed E2 corrections remain consolidated; no new E3 correction was confirmed. `translation-en.md` is now **verified-complete**.
+Final end-to-end Tamil→English verification passed **76/76 body pages**. All **75 internal page transitions** were checked continuously. All E2 corrections remained present, stale superseded English readings were absent, source-difficulty notes remained transparent, and **no new E3 correction** was required.
 
-## Mandatory translation source
+`translation-en.md` is therefore **`verified-complete`**.
 
-Translate **only from the frozen `transcription-ta.md`**. Do not independently translate from OCR or replace the frozen Tamil using another edition.
+## Canonical archival files
 
-Preserve as far as practical:
+- `README.md` — source record and completed editorial status
+- `metadata.json` — provenance, page map, workflow state and closure state
+- `transcription-ta.md` — frozen verified Tamil
+- `audit.md` — Tamil audit record
+- `t2-batches/` — detailed visual-audit evidence
+- `t3-final-verification.md` — Tamil freeze gate
+- `translation-en.md` — verified-complete English
+- `translation-review.md` — E2 and E3 English fidelity record
+- `HANDOVER.md` — this completed-state handover
 
-- argument structure and paragraph order;
-- rhetorical force and repetition;
-- metaphors and polemical language;
-- historical names/references;
-- PDF/printed-page correspondence;
-- uncertainty or syntactic difficulty present in the frozen Tamil.
+## Closure state
 
-Do not silently repair an unusual Tamil reading merely because a smoother English sentence is possible. If a literal rendering would materially mislead, use a concise, clearly labelled translator/source note.
+Repository archival closure was completed on **2026-08-16**.
 
-## E1 Batch 1 — PDF 6-10 / printed 5-9
+The repository root catalogue has been synchronized. The source PDF remains uncommitted, while its filename, checksum, size, page count and page map remain preserved in metadata. `transcription_translation_work_pending` is `false`.
 
-Completed and committed. Preserve emphatic repetitions and rhetorical questions; keep page-spanning sentences page-spanning where practical. `கல்லூரனாக` was conservatively rendered as “a college man.”
+There is **no active transcription, audit, translation, review or verification work remaining for this source**.
 
-## E1 Batch 2 — PDF 11-15 / printed 10-14
+## Safeguards for any future revision
 
-Completed and committed. PDF 10→11 and 11→12 continuations remain explicit. The difficult frozen phrase `கேள்வி ஞானங்களைத் தூர்த்திடும் போதனைகள்` is rendered closely with a translator/source note. The agricultural `ஏற்றம்` is rendered as a water-lift. Labour repetitions are preserved.
+Do not modify frozen Tamil or verified English merely for stylistic improvement, modernization, historical correction or smoother wording. A future change is permitted only when a specific source-based defect is documented. If frozen Tamil changes, re-verify all dependent English. If verified English changes, record the reason and repeat the appropriate fidelity gate.
 
-## E1 Batch 3 — PDF 16-20 / printed 15-19
-
-Completed and committed. `திண்ணைப்பள்ளி` is retained as a *thinnai* school. PDF 17→18 and 18→19 continuations remain explicit. `கல்வி கற்கு மிடம்` is translated closely without correcting the frozen Tamil. The uncertain `எட்டுச்சுரையெனப்` is retained in Tamil with a translator/source note rather than assigned an unsupported meaning. PDF 20 ends with an unfinished clause and was deliberately left open for PDF 21.
-
-## E1 Batch 4 — PDF 21-25 / printed 20-24
-
-Completed and committed.
-
-Important translation decisions:
-
-- PDF 20→21 continues explicitly: the clause about gaining clarity in life continues into living with firm resolve and school-life ideas serving as a guide.
-- The resource/poverty contrast on PDF 21-22 retains the repeated rhetorical emphasis rather than being compressed.
-- PDF 22→23 remains a page-spanning sentence: `இந்தத் திரு` / `நாட்டில்` is represented as “this sacred—” / “—land”.
-- PDF 23's fatalist and Vedantic quotations are translated as quotations in source order without adding historical explanation.
-- PDF 23→24 keeps `உள்ளபடி` / `உணர வேண்டும்` as an explicit English continuation: “understand it as it is—” / “—only then...”.
-- PDF 24's source-supported `நல்லதங்கள்` is kept visible in Tamil rather than silently normalized. The irregular `நாவினை நாட்டினரும்` is rendered contextually and called out in a translator/source note.
-- PDF 24→25 preserves `தெள்ளிய` / `வாழ்க்கை முறையை` as “a lucid—” / “—way of life”.
-- PDF 25's difficult `தவழிப் பூச்சூடி` is retained in Tamil with a translator/source note rather than silently reconstructed.
-- PDF 25 ends with the unfinished phrase about the weight of the schoolteacher's cane; English deliberately ends `the weight of the schoolteacher's cane—` for continuation on PDF 26.
-
-
-## E1 Batch 5 — PDF 26-30 / printed 25-29
-
-Completed and committed.
-
-Important translation decisions:
-
-- PDF 25→26 explicitly continues the schoolteacher-cane image: `கம்பின் கனத்தை` / `அடியையும்` is kept as “the weight of the schoolteacher's cane—” / “—and the blows it dealt!”.
-- The frozen PDF 26 sentence `வெறும் படிப்புபோதும்.` is translated literally as “Mere study is enough.” A translator/source note records the abrupt tension with the immediately following rejection of examination-and-employment-only education; the Tamil is not silently changed to “not enough.”
-- PDF 26→27 preserves the sentence describing the valiant, self-confident, self-respecting Tamil rather than moving the continuation across the page boundary.
-- PDF 27's source-supported `முன்னேற்றம் மடைகின்றன` is rendered contextually as “are undergoing rapid advancement” and identified in a translator/source note without altering the frozen Tamil.
-- PDF 28's examples of aeroplane, telephone, radio and television are translated in source order; its older travel imagery, including travel on foot, on goats/cattle and in wooden carts, is not modernized away.
-- PDF 28→29 keeps `இங்கு போதிக்கப்படும்` / `கல்வி` as “the education taught—” / “—here”.
-- PDF 29's religious, Puranic and otherworldly-life critique is translated without adding external explanation or softening its polemical wording.
-- PDF 29→30 explicitly preserves the split `கற்பிக்கும் ஏடுகளைப்` / `படிக்கவில்லை` as “the books that teach these things, he has not—” / “—read”.
-- PDF 30 retains the repeated `இன்று பெறும் அறிவு` emphasis and the sequence of Tamil feeling, ethnic feeling, self-awareness, self-respect and life-training.
-- PDF 30 ends at the source's unfinished `இன்றைய`; English therefore ends “the present-day—” for continuation with `இளஞ்சமுதாயம்` on PDF 31.
-
-
-## E1 Extended Batch 6 — PDF 31-60 / printed 30-59
-
-Completed and committed as one 30-page translation activity at the repository owner's request.
-
-Important translation decisions:
-
-- PDF 30→31 remains an explicit continuation: “the present-day—” / “—young generation”.
-- The repeated Tamil/Tamilian/Tamil Nadu/self-respect rhetoric on PDF 31-32 is preserved rather than compressed.
-- The Ekalavya narrative on PDF 33-38 is translated paragraph-by-paragraph, including the guru-dakshina demand for the right thumb and the source's polemical conclusion. The unusual frozen forms `அரிபந்தாமன்` and `காண்டவன்` are not normalized.
-- The Iyarpakai Nayanar narrative on PDF 39-43, including its sexual/marital content and the author's sharp polemical criticism, is translated without sanitizing or adding external explanation.
-- PDF 44-48 preserves the source's contrast between Puranic/religious teaching and science, including rain, Varuna worship and the Russia cloud/rain example. The unusual `மனிதனி அறிவு கண்டு` is kept visible in a translator/source note.
-- PDF 49-56 preserves the long catalogue of scientific and electrical technologies, the flat-earth/Varaha narrative, and the competing explanations of eclipses. The translation reports these as source claims and does not independently validate or modernize them.
-- PDF 57-60 preserves the argument for useful education and the critique of history curricula, including the source's claims about Tamil rulers, Tirukkural, Ganges/Cauvery framing and Tamil history.
-- The frozen source-supported forms `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, and `மதனின் அறிவு` are explicitly flagged rather than silently repaired.
-- PDF 60 ends mid-sentence at `வளர்ச்சி`; the English likewise ends “the course of development—” for continuation on PDF 61.
-
-
-## E1 final block — PDF 61-81 / printed 60-80
-
-Completed and committed.
-
-Important translation decisions:
-
-- PDF 60→61 remains an explicit continuation of the sentence about the historical course of civilizational development.
-- PDF 61-63 preserves the source's sequence from Socrates and Martin Luther through Jesus, Muhammad, Gautama Buddha, Lincoln, Kemal Pasha, Sun Yat-sen, Marx–Engels, Rousseau, Voltaire, Lenin and Gandhi, without adding outside historical explanation.
-- The frozen PDF 62 phrase `மீனவ மக்களைத் துறந்து` is not silently repaired; a translator/source note records it.
-- PDF 64-66 preserves the argument about Tamil/Dravidian identity, self-respect and historical consciousness, including its rhetorical repetition and political vocabulary.
-- PDF 67-70 preserves the distinction between gaining political knowledge and direct student participation in politics.
-- PDF 71-74 retains the source's sharp and sometimes pejorative language about different kinds of students; it is not sanitized. The unusual frozen `தன்னுலே` is recorded in a translator/source note.
-- PDF 75's syntactically irregular `இதற்கேல் வாழ் பொருந்தும் முறையிலே` is not reconstructed; the surrounding argument about poverty and educational opportunity is translated closely and the difficulty is noted.
-- PDF 76-79 preserves the qualification/ability argument, the rights language, the call for concessions and opportunities for backward groups, and the terms `வகுப்பு நீதி` / `கம்யூனல் ஜி. ஓ` without replacing the source with outside historical exposition.
-- PDF 80→81 remains an explicit continuation of the closing argument about the courage required to think.
-- The final page preserves the source-supported difficult `உலகியலேக் காண` and the source's own categories in the phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
-- Final closing is rendered `Vanakkam!!`, preserving the source's emphatic `வணக்கம் !!`.
-
-
-## E2 Batch 1 — PDF 6-10 / printed 5-9
-
-Completed and consolidated.
-
-Confirmed corrections:
-
-- PDF 6 `வாழ்க்கை வசதி`: replaced overly broad `circumstances` with `the comforts and facilities of life`.
-- PDF 7 `காவியரசத்தில்`: replaced `the realm of epics` with `the flavour of epic literature`, preserving the source's `ரசம்` image.
-- PDF 8 `சுவையின்றி ... சத்தற்ற வாழ்க்கை`: retained `without flavour` for the first image and changed the second from `insipid existence` to `a life without substance`, preserving the two-image distinction.
-
-No whole paragraph/clause omission, unsupported addition, reversal, or page-boundary loss was found. PDF 9→10 continuity and the complete PDF 10 rational-discernment argument were checked and retained.
-
-
-## E2 extended review — PDF 11-40 / printed 10-39
-
-Completed and consolidated.
-
-Key review outcomes:
-
-- PDF 11-15: no omission/reversal; `வாழ்க்கைச் செந்தி` is now visible rather than silently smoothed.
-- PDF 16-20: structure and page continuations pass; a note records the scan-verified but unusual `ஆரம்பக் கல்வியிலிருந்து வரைவிட`.
-- PDF 21-25: no new correction required; existing notes for `நல்லதங்கள்`, `நாவினை நாட்டினரும்`, and `தவழிப் பூச்சூடி` were confirmed adequate.
-- PDF 26-30: corrected the PDF 29 semantic attachment around `இகத்தை வெறுத்து` / merit / other-world bliss; PDF 30 now records `வளர்த்தை`, `வளர்த்தைப்`, and `வகைப்படுத்தியாக`.
-- PDF 31-35: no omission/reversal; PDF 32 `போற்றிவேண்டும்` is now documented; existing `அரிபந்தாமன்` and `காண்டவன்` notes remain.
-- PDF 36-40: corrected the direct PDF 39 reversal `போக்கிட` ≠ `promote`; documented difficult PDF 38 forms `நாயகனுக்கிக்கொண்ட`, `சந்திரனச் சல்லாபத்திற்`, `கடிக்குலவின`; PDF 39 `மாணுக்கர்களுக்கு`, `திடமென்று`, `பூலோக வாசிகளேப்`; and PDF 40 `இறும்பூதெய்தி`.
-- PDF 40→41 continuation remains intact; page 41 itself is not yet counted as reviewed.
-
-
-## E2 remaining review — PDF 41-81 / printed 40-80
-
-Completed and consolidated at the repository owner's request as the final 41-page E2 activity.
-
-Key outcomes:
-
-- PDF 41-45: Iyarpakai conclusion and opening rain/science contrast passed without a new correction.
-- PDF 46-50: removed the unsupported `said to be` hedge from the PDF 47 `நடக்கின்ற உண்மை` Russia sentence; existing `மனிதனி அறிவு கண்டு` transparency remains.
-- PDF 51-60: scientific/technical catalogues, Varaha/eclipses, useful-education and Tamil-history arguments passed; existing `சுதுமதி`, `தமிழனமாக`, and `மதனின் அறிவு` notes remain adequate.
-- PDF 61-65: reformer/humanity/Tamil-identity material passed; PDF 65 `இனத்துரோகம்` is now rendered `betrayal of one's people`.
-- PDF 66-70: political-awareness material passed; PDF 70 now documents the difficult `சுவைதரும் வாழ்வாக ... சாதாரண வசதிகள் கூடக் கிடைக்க முடியாத` teacher-salary syntax behind the contextual English negative.
-- PDF 71-75: teacher and qualification/ability discussion passed; PDF 75 `அரைகுறையான அவல வாழ்வு` is now `a deprived, miserable life`, not the over-specific `half-starved`.
-- PDF 76-80: PDF 77 retains the source's `படிப்பு வராத` idiom, PDF 78 restores `உரிமைகள்` as `rights`, and PDF 80 restores the `மூளை பலம்` metaphor as `brain-power`.
-- PDF 81: final page passed with the existing notes for `உலகியலேக் காண` and the difficult Dravidian-land phrase; closing `Vanakkam!!` remains.
-
-E2 and E3 are complete. English is now `verified-complete`; no further text change is permitted without newly documented source evidence.
-
-## Source-fidelity safeguards carried into English
-
-Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
-
-## Exact next activity
-
-Perform **final archival synchronization only**. Update the repository root catalogue/README to include `palli-vazhkkai` as verified complete; mark repository archival closure complete in `metadata.json`; convert this handover into the final completed-state handover; and recheck that the source PDF is not committed while source identity/page-map metadata remains unchanged. Do not change frozen Tamil or verified English without newly documented source evidence.
-
-## Safeguards
-
-- Scan remains the authority behind the frozen Tamil; frozen Tamil is the authority for English.
-- Do not modernize or sanitize difficult historical language.
-- Do not infer speech date, venue, event, occasion, or audience from publication data or outside knowledge.
-- Do not commit the source PDF.
-- T2 evidence and `t3-final-verification.md` are permanent audit records.
+Do not infer a single event date or venue from the March 1952 publication date or from the compilation note. Do not commit the source PDF.
