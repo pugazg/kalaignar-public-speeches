@@ -31,6 +31,7 @@ The repository preserves each available source as evidence and separates four la
 | `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
 | `idhaya-perikai` | இதய பேரிகை | First edition, December 1951 | Not stated in source | **Verified complete - 32/32 body pages** | **Verified complete - 32/32 body pages** |
 | `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
+| `palli-vazhkkai` | பள்ளி வாழ்க்கை | First edition, March 1952 | Not stated as a single speech date; compilation source | **Verified complete - 76/76 body pages** | **Verified complete - 76/76 body pages** |
 
 ## Repository layout
 
@@ -61,6 +62,16 @@ speeches/
     translation-en.md
     translation-review.md
     HANDOVER.md
+  palli-vazhkkai/
+    README.md
+    metadata.json
+    transcription-ta.md
+    audit.md
+    t2-batches/
+    t3-final-verification.md
+    translation-en.md
+    translation-review.md
+    HANDOVER.md
 ```
 
 ## Completed works
@@ -80,3 +91,11 @@ The source is a printed multi-section booklet whose title page does not explicit
 The archival workflow is complete for the 12-page speech body on PDF pages 6-17 / printed pages 5-16. The source explicitly states that தோழர் மு.கருணாநிதி delivered the speech at சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி on **06.12.1951**. It does not separately name an event/occasion or define the audience, so those fields remain unset.
 
 Tamil transcription, strict visual audit, Tamil consolidation/freeze, English translation, independent fidelity review, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**. E2 produced one confirmed English correction; E3 found no additional correction. The source PDF is not committed under repository policy; provenance is preserved in metadata through filename, SHA-256, file size, page count, and page map.
+
+### பள்ளி வாழ்க்கை
+
+The archival workflow is complete for the **76-page body on PDF pages 6-81 / printed pages 5-80**. The March 1952 first edition is a printed compilation rather than one securely identified single speech event. PDF page 5 says that speeches delivered by Kalaignar M. Karunanidhi at **திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி** and **வேறு சில இடங்களிலும்** were collected by **தோழர் மு. நமச்சிவாயம்**. Component-speech dates and one common venue/event/occasion/audience are not supplied by the source and are therefore not inferred.
+
+Tamil T1, strict visual T2, final Tamil consolidation/freeze T3, full English translation, 16-batch independent English fidelity review, and the final 76-page E3 Tamil→English verification have all passed. Both Tamil and English are **`verified-complete`**. E3 checked all 75 internal page transitions and found no additional correction after E2 consolidation.
+
+The source uses traditional pre-1978 Tamil glyph forms; the archival Tamil resolves those to scan-supported underlying characters while retaining genuine source-supported irregular wording rather than silently modernizing it. Detailed T2 evidence and the T3 final verification record are retained with the speech. The source PDF is not committed; its filename, SHA-256, size, page count, and page map remain preserved in metadata.
