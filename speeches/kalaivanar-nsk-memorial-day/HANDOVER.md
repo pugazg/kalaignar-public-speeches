@@ -99,9 +99,9 @@ Audit records:
 
 ### English E1 — FIRST PASS COMPLETE
 
-`translation-en.md` now translates all 12 timestamp segments from 00:00 through 07:23.559.
+`translation-en.md` translates all 12 timestamp segments from 00:00 through 07:23.559.
 
-The E1 translation includes:
+It preserves:
 
 - salutation order;
 - formal public-speaking voice;
@@ -114,24 +114,32 @@ The E1 translation includes:
 - the contrast between small monetary value and great emotional value;
 - the complete restored closing dedication.
 
-E1 has not been independently fidelity-reviewed. Do not mark English verified.
+### English E2 — IN PROGRESS
 
-### English E2 — READY, NOT STARTED
+Review plan and status:
 
-`translation-review.md` contains a four-batch review plan:
+| Batch | Timestamp range | Status |
+|---:|---|---|
+| 1 | 00:00–01:11 | reviewed; corrections consolidated |
+| 2 | 01:11–03:15 | not started |
+| 3 | 03:15–05:42 | not started |
+| 4 | 05:42–07:23.559 | not started |
 
-| Batch | Timestamp range |
-|---:|---|
-| 1 | 00:00–01:11 |
-| 2 | 01:11–03:15 |
-| 3 | 03:15–05:42 |
-| 4 | 05:42–07:23.559 |
+Batch 1 found no omission, addition or reversal. The salutation order passed, and literal `mothers` was retained for `தாய்மார்களே`.
 
-Review must compare the English directly with the frozen Tamil and record omissions, additions, reversals, weakened rhetoric, lost repetition, name/amount errors and ending completeness.
+Two wording areas were corrected and consolidated into `translation-en.md`:
+
+1. `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
+2. `அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும்` → `the work he left behind must continue to be carried out`;
+3. the awkward `discharge the gratitude we owe` was replaced with `express the gratitude we owe to Kalaivanar`, while preserving `only in this one way` and `I cannot refrain from pointing out`.
+
+Detailed reasoning is recorded in `translation-review.md`.
+
+English remains unverified until all four E2 batches are complete, corrections are consolidated, and E3 passes.
 
 ### English E3 — BLOCKED
 
-E3 begins only after all E2 findings are consolidated into `translation-en.md`.
+E3 begins only after all E2 batches are complete and all accepted corrections are consolidated into `translation-en.md`.
 
 ## Venue and chronology
 
@@ -142,22 +150,26 @@ E3 begins only after all E2 findings are consolidated into `translation-en.md`.
 
 ## Exact next activity
 
-Perform **E2 Batch 1: 00:00–01:11**.
+Perform **E2 Batch 2: 01:11–03:15**.
 
-Compare the Tamil and English line by line, focusing on:
+Compare the frozen Tamil and current English line by line, focusing on:
 
-1. salutation order and `தாய்மார்களே`;
-2. `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
-3. `பேரார்வத்தோடும்`;
-4. the obligation in `நன்றியினை ... செலுத்திட`;
-5. omissions or additions across the three opening timestamp sections;
-6. whether Kalaignar's formal rhetorical cadence has been weakened or over-smoothed.
+1. the contrast between Kalaivanar's household family and `கலைக்குடும்பம்`;
+2. the repeated `நலிந்துபோகின்ற ... நலிந்துபோகாமல்` wording;
+3. `வாடி வதங்காமல் வாழ்விக்க`;
+4. the great lamps / small earthen lamps imagery;
+5. the repeated descriptions of friends who moved closely and affectionately with Kalaivanar;
+6. `விசுவாசம்`, `பெருமதிப்பு`, and `மரியாதை`;
+7. the distinction among `பொன்னாடை`, `பொற்கிழி`, and `பணமுடிப்பு`;
+8. the amount `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல்`;
+9. Siruvar Arangam / Balar Arangam and the future-renaming announcement;
+10. omissions, additions, reversals, lost repetition or over-smoothed rhetoric.
 
-Record findings in `translation-review.md`. Do not combine review findings with undocumented silent edits.
+Record findings in `translation-review.md` before applying any accepted corrections to `translation-en.md`.
 
 After all four batches:
 
-1. consolidate accepted corrections into `translation-en.md`;
+1. consolidate all accepted corrections into `translation-en.md`;
 2. update metadata to `fidelity-corrections-consolidated`;
 3. perform E3 from beginning to true end;
 4. only then mark English `verified-complete`.
