@@ -1,5 +1,9 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Translation
 
-**Status:** Not started.
+**Status:** Ready to begin.
 
-English translation is blocked until the complete Tamil transcript passes strict auditory audit and T3 consolidation/freeze. Translation must be produced from the verified `transcription-ta.md`, not from the surfaced transcript or an outside source.
+The Tamil source layer has passed strict direct-listening audit for all 12 segments and is frozen as `verified-complete`.
+
+Translate only from `transcription-ta.md`. Preserve Kalaignar’s formal public-speaking voice, rhetorical repetition, imagery, names, amounts, and the unfinished final sentence. Do not reconstruct the missing continuation.
+
+The next activity is the first complete English translation pass.
