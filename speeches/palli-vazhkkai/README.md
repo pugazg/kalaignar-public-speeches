@@ -42,41 +42,38 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **First-pass complete — 76/76 body pages; PDF 6-81 / printed 5-80** |
+| English translation (E1) | **Complete — 76/76 body pages** |
 | English fidelity review (E2) | **Review-complete — 76/76 body pages; all confirmed corrections consolidated** |
 | Final Tamil→English verification (E3) | **Verified-complete — PASS, 76/76 body pages** |
-| Repository archival closure | **Not started** |
+| Repository archival closure | **Complete — 2026-08-16** |
 
 ## Verified Tamil layer
 
 `transcription-ta.md` is the frozen canonical Tamil transcription for the complete body, **PDF 6-81 / printed pages 5-80**.
 
-The final whole-body T3 gate passed after checking all 76 sequential page headings, stale superseded readings, recorded split-word joins, representative ordinary page continuations, canonical opening and closing, duplicate/empty pages, representative T2 corrections, and source-supported unusual forms. The machine-checkable result is recorded in `t3-final-verification.md`.
+The final T3 gate verified all 76 sequential page headings, recorded page joins, canonical opening and closing, representative T2 corrections, stale superseded readings, and source-supported unusual forms. The machine-checkable result is retained in `t3-final-verification.md`, while detailed T2 evidence remains under `t2-batches/`.
 
-Traditional pre-1978 glyph forms were decoded to the source-supported underlying Tamil characters. Superseded readings such as `கவலிப்பட`, `நன்றுக`, `தமிழனுக`, `மனிதனுக`, `தோழனுக`, `அவனுகத்தான்`, and `தேவனே` were not allowed to survive where the scan establishes `கவலைப்பட`, `நன்றாக`, `தமிழனாக`, `மனிதனாக`, `தோழனாக`, `அவனாகத்தான்`, and `தேவனை`.
+Traditional pre-1978 glyph forms were decoded to the scan-supported underlying Tamil characters rather than to visually similar modern syllables. At the same time, genuine scan-supported irregular forms remain unregularized. Examples include `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, and `உலகியலேக் காண`.
 
-At the same time, genuine scan-supported wording remains unregularized, including forms such as `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, and `உலகியலேக் காண`.
-
-The verified final page ends:
+The verified final Tamil page ends:
 
 `... தீரத் தமிழராக, தன்மானச் சிங்கங்களாக விளங்க அடிப்படை காணுங்கள், பள்ளி வாழ்க்கையில்! வணக்கம் !!`
 
-Obsolete T1 staging files were removed after the successful freeze. The complete T2 audit evidence remains under `t2-batches/` and must be retained as the source-fidelity record.
+## Verified English layer
 
-## English translation progress
+`translation-en.md` covers the complete body, **PDF 6-81 / printed pages 5-80 — 76/76 pages**, and is now **`verified-complete`**.
 
-E1 is now **first-pass complete** for the entire frozen Tamil body. `translation-en.md` covers **PDF 6-81 / printed pages 5-80 — 76/76 pages**.
+E2 independently reviewed all 76 pages against the frozen Tamil and consolidated every confirmed correction. `translation-review.md` records all 16 E2 review batches, including corrections to semantic attachment, polemical force, source-claim wording, over-specific renderings, and source metaphors. Difficult frozen Tamil readings remain visible through translator/source notes rather than being silently normalized.
 
-The final E1 activity translated **PDF 61-81 / printed 60-80**. It completes the argument for teaching world history, intellectual and social reformers, science and human conduct; develops the case for Tamil/Dravidian self-respect and political awareness without direct student participation; examines the responsibilities and material condition of teachers; challenges inherited ideas of student “qualification” and “ability” by comparing privileged and poor students' circumstances; argues for educational access, communal/class justice and the Communal G.O.; and closes by calling for courage to think, Tamil knowledge, rational discernment and a self-respecting future.
+E3 then re-read the complete corrected English against the frozen Tamil as one continuous text. All **75 internal page transitions** were checked, all E2 corrections were confirmed to persist, stale superseded English readings were absent, and no new E3 correction was required. The final result is **PASS — 76/76 pages**.
 
-All page boundaries remain explicit, including the PDF 60→61 continuation and the final PDF 80→81 continuation. Difficult frozen forms are not silently repaired. Translator/source notes retain or identify source-supported difficulties including `மீனவ மக்களைத் துறந்து`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, `உலகியலேக் காண`, and the final phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
+## Archival closure
 
-E2 is now **review-complete** for the full body, **PDF 6-81 / printed 5-80 — 76/76 pages**. The remaining review from PDF 41-81 confirmed the Iyarpakai/science/history/reformer/student-politics/teacher/educational-access/closing sequences and consolidated all confirmed fidelity corrections. Important final actions include removing an unsupported hedge from the PDF 47 Russia passage, preserving the `இனத்துரோகம்` force on PDF 65, documenting the difficult PDF 70 teacher-salary syntax, correcting the over-specific PDF 75 `அரைகுறையான` rendering, restoring the PDF 77 `படிப்பு வராத` idiom, retaining `உரிமைகள்` as `rights` on PDF 78, and preserving the `மூளை பலம்` metaphor as `brain-power` on PDF 80. Full findings for all 16 review batches are in `translation-review.md`.
+The archival workflow for this source is complete. `metadata.json`, this speech README, `translation-review.md`, the final `HANDOVER.md`, and the repository root catalogue are synchronized to the completed state.
 
-E3 has now passed the complete **76/76-page** end-to-end Tamil→English verification. The English layer is **`verified-complete`**; no new E3 correction was confirmed, all 75 internal page transitions were checked, all E2 corrections remain consolidated, and source-difficulty notes remain transparent.
-## Exact next activity
+The source PDF itself remains **uncommitted**. Its archival identity continues to be represented by the recorded filename, SHA-256, file size, page count, and page map. No transcription or translation work remains pending.
 
-Perform **final archival synchronization only**: update the repository root catalogue/README, mark repository archival closure complete in metadata, convert `HANDOVER.md` to the final completed-state handover, and confirm that the source PDF remains uncommitted while its filename/checksum/size/page-map metadata remains unchanged. Do not modify frozen Tamil or verified English unless a new source-evidenced defect is formally documented.
+Future changes to the frozen Tamil or verified English should be made only for a newly documented source-based defect, with dependent verification repeated as required.
 
 ## Editorial rule
 
