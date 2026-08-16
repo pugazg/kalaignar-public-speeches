@@ -42,7 +42,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **In progress — 55/76 body pages; through PDF 60 / printed 59** |
+| English translation (E1) | **First-pass complete — 76/76 body pages; PDF 6-81 / printed 5-80** |
 | English fidelity review (E2) | **Not started** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
@@ -65,17 +65,17 @@ Obsolete T1 staging files were removed after the successful freeze. The complete
 
 ## English translation progress
 
-E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-60 / printed pages 5-59 — 55/76 pages**.
+E1 is now **first-pass complete** for the entire frozen Tamil body. `translation-en.md` covers **PDF 6-81 / printed pages 5-80 — 76/76 pages**.
 
-The present activity translated **PDF 31-60 / printed 30-59** as one continuous source-faithful block. It continues the future-generation argument, carries the long Ekalavya and Iyarpakai Nayanar critiques, contrasts Puranic and scientific explanations of rain and eclipses, develops the case for science and worldly knowledge, and turns to the representation of Tamil history in school curricula.
+The final E1 activity translated **PDF 61-81 / printed 60-80**. It completes the argument for teaching world history, intellectual and social reformers, science and human conduct; develops the case for Tamil/Dravidian self-respect and political awareness without direct student participation; examines the responsibilities and material condition of teachers; challenges inherited ideas of student “qualification” and “ability” by comparing privileged and poor students' circumstances; argues for educational access, communal/class justice and the Communal G.O.; and closes by calling for courage to think, Tamil knowledge, rational discernment and a self-respecting future.
 
-All source page boundaries remain explicit. Difficult frozen readings are not silently regularized; translator/source notes identify forms such as `அரிபந்தாமன்`, `காண்டவன்`, `மனிதனி அறிவு கண்டு`, `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, and `மதனின் அறிவு` where a confident reconstruction is not supported by the frozen witness.
+All page boundaries remain explicit, including the PDF 60→61 continuation and the final PDF 80→81 continuation. Difficult frozen forms are not silently repaired. Translator/source notes retain or identify source-supported difficulties including `மீனவ மக்களைத் துறந்து`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, `உலகியலேக் காண`, and the final phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
 
-No E2 fidelity review has begun; that gate remains blocked until the entire E1 body is translated.
+E2 has **not** begun. Per repository workflow, the next gate is a separate page-by-page Tamil→English fidelity review against the frozen `transcription-ta.md`.
 
 ## Exact next activity
 
-Complete the remaining **E1 English translation for PDF 61-81 / printed pages 60-80** from the frozen `transcription-ta.md`. Continue the unfinished PDF 60 sentence faithfully onto PDF 61, preserve all page correspondence and source difficulty, and do not begin E2 until E1 reaches 76/76 pages.
+Begin **E2 English fidelity review with PDF 6-10 / printed pages 5-9**. Compare each English page independently against the frozen Tamil, looking specifically for omitted clauses, additions, reversals, softened or strengthened rhetoric, pronoun/subject errors, historical-name errors, removed repetition, page-boundary omissions, and silent normalization of difficult Tamil. Record findings in `translation-review.md` and consolidate only confirmed corrections into `translation-en.md`.
 
 ## Editorial rule
 

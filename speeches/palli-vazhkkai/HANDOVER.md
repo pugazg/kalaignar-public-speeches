@@ -30,20 +30,13 @@ All **76/76** body pages passed strict line-by-line visual audit. Detailed evide
 
 The final whole-body gate passed and is recorded in `t3-final-verification.md`. Tamil must not now be changed without documented source evidence; any later Tamil correction requires dependent English re-verification.
 
-### E1 — IN PROGRESS
+### E1 — FIRST-PASS COMPLETE
 
-English translation is being produced only from the frozen Tamil layer.
+English translation has been produced only from the frozen Tamil layer.
 
-Completed E1 scope: **PDF 6-60 / printed 5-59 — 55/76 body pages**.
+Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
 
-`translation-en.md` preserves the PDF/printed-page headings and paragraph sequence. Completed batches:
-
-- Batch 1: PDF 6-10 / printed 5-9
-- Batch 2: PDF 11-15 / printed 10-14
-- Batch 3: PDF 16-20 / printed 15-19
-- Batch 4: PDF 21-25 / printed 20-24
-- Batch 5: PDF 26-30 / printed 25-29
-- Extended Batch 6: PDF 31-60 / printed 30-59
+`translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1 is textually complete but is **not yet verified**; E2 and E3 remain mandatory.
 
 ### E2 / E3 — NOT STARTED
 
@@ -127,13 +120,41 @@ Important translation decisions:
 - The frozen source-supported forms `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, and `மதனின் அறிவு` are explicitly flagged rather than silently repaired.
 - PDF 60 ends mid-sentence at `வளர்ச்சி`; the English likewise ends “the course of development—” for continuation on PDF 61.
 
+
+## E1 final block — PDF 61-81 / printed 60-80
+
+Completed and committed.
+
+Important translation decisions:
+
+- PDF 60→61 remains an explicit continuation of the sentence about the historical course of civilizational development.
+- PDF 61-63 preserves the source's sequence from Socrates and Martin Luther through Jesus, Muhammad, Gautama Buddha, Lincoln, Kemal Pasha, Sun Yat-sen, Marx–Engels, Rousseau, Voltaire, Lenin and Gandhi, without adding outside historical explanation.
+- The frozen PDF 62 phrase `மீனவ மக்களைத் துறந்து` is not silently repaired; a translator/source note records it.
+- PDF 64-66 preserves the argument about Tamil/Dravidian identity, self-respect and historical consciousness, including its rhetorical repetition and political vocabulary.
+- PDF 67-70 preserves the distinction between gaining political knowledge and direct student participation in politics.
+- PDF 71-74 retains the source's sharp and sometimes pejorative language about different kinds of students; it is not sanitized. The unusual frozen `தன்னுலே` is recorded in a translator/source note.
+- PDF 75's syntactically irregular `இதற்கேல் வாழ் பொருந்தும் முறையிலே` is not reconstructed; the surrounding argument about poverty and educational opportunity is translated closely and the difficulty is noted.
+- PDF 76-79 preserves the qualification/ability argument, the rights language, the call for concessions and opportunities for backward groups, and the terms `வகுப்பு நீதி` / `கம்யூனல் ஜி. ஓ` without replacing the source with outside historical exposition.
+- PDF 80→81 remains an explicit continuation of the closing argument about the courage required to think.
+- The final page preserves the source-supported difficult `உலகியலேக் காண` and the source's own categories in the phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
+- Final closing is rendered `Vanakkam!!`, preserving the source's emphatic `வணக்கம் !!`.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
 
 ## Exact next activity
 
-Complete the remaining **E1 English translation for PDF pages 61-81 / printed pages 60-80** from `transcription-ta.md`. Continue the unfinished PDF 60 sentence onto PDF 61, retain every PDF/printed-page heading and paragraph sequence, preserve rhetoric and difficult frozen readings, and keep E2 blocked until the full E1 body reaches 76/76 pages.
+Begin **E2 English fidelity review with PDF pages 6-10 / printed pages 5-9**.
+
+For that review batch:
+
+1. compare each English page independently against the frozen `transcription-ta.md`;
+2. check for omitted clauses, added ideas, reversed meaning, softened/strengthened rhetoric, incorrect subjects/pronouns, mistranslated names/titles, removed repetition, page-boundary omissions and silent normalization;
+3. record every substantive finding in `translation-review.md`;
+4. apply only confirmed corrections to `translation-en.md`;
+5. update metadata/README/HANDOVER with E2 pages checked;
+6. do not begin E3 until E2 has reviewed all 76 pages and all confirmed corrections are consolidated.
 
 ## Safeguards
 
