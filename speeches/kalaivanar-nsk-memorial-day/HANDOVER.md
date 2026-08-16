@@ -18,7 +18,7 @@
 - Format: MP3, stereo, 44.1 kHz, approximately 128 kb/s
 - Binary committed: No
 
-The MP3 is authoritative. The filename, surfaced transcript, and outside historical sources are aids only.
+The MP3 is authoritative. The filename, surfaced transcript, machine-ASR outputs, and outside historical sources are aids only.
 
 ## Source findings
 
@@ -36,9 +36,9 @@ Checksum, file size, duration, codec, stream details, URL, embedded-file metadat
 
 ### T1 Tamil first pass — COMPLETE
 
-`transcription-ta.md` covers all 12 provisional time segments from 00:00 through 07:22.549.
+`transcription-ta.md` covers all 12 time segments from 00:00 through 07:22.549. The Tamil wording remains provisional pending strict auditory verification.
 
-### T2 textual precheck — COMPLETE FOR ALL 12 SEGMENTS
+### Textual precheck — COMPLETE FOR ALL 12 SEGMENTS
 
 Completed records:
 
@@ -50,24 +50,36 @@ Completed records:
 Cumulative result:
 
 - textually prechecked: **12/12 segments**;
-- preparatory textual coverage of the available recording is complete;
-- no source-authorized correction has been made to `transcription-ta.md`;
-- textual precheck is preparation only and must not be counted as strict source verification.
+- no Tamil wording has been promoted as source-verified from the surfaced transcript;
+- textual precheck is preparation only.
 
-Important replay checkpoints include:
+### Machine-aided auditory pre-audit — SEGMENTS 1–3 COMPLETE
 
-- `ஏ. எல். சீனிவாசன்`;
-- `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
-- exact joins in the long `கலைக்குடும்பம்` passage;
-- `உடுமலை நாராயணக் கவிராயர்`, `பொற்கிழியும்`, and `பதினைந்தாயிரம் ரூபாய்க்குமேல் பணமுடிப்பும்`;
-- `சிறுவர் அரங்கம் அல்லது பாலர் அரங்கம்`;
-- `சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய்`;
-- the unresolved 03:15 naming verb: T1 `[ஏற்றிவைக்கப்பட்டது?]` versus surfaced `ஏற்க வைக்கப்பட்டது`;
-- `அப்துல் சமது` and the old-name objection;
-- the complete Tirukutralam ministerial and hall-naming wording;
-- `வள்ளல் தன்மையோடு` versus a surfaced `வள்ளல் பண்மையோடு`-type reading;
-- `தங்கப்பன்`, `பகவதி`, `வெங்கடாசலம்`, and `அதைப்போலவே` / `அதே போலவே`;
-- the exact last audible words before the abrupt cutoff.
+Record:
+
+- `t2-batches/batch-05-machine-audio-evidence-00-00-01-30.md`
+
+Three checksum-verified GitHub Actions runs independently downloaded the public source and processed it without committing the MP3:
+
+1. multilingual Whisper `small` and `medium` on 00:00–01:06;
+2. multilingual Whisper `large-v3-turbo` on raw and speech-enhanced 00:00–01:06;
+3. multilingual Whisper `large-v3-turbo` on raw and speech-enhanced 00:45–01:30, with silence detection.
+
+Important result:
+
+- the old opening boundaries `00:20`, `00:50`, and `01:06` were too early;
+- the corrected approximate navigation markers are `00:18`, `00:55`, and `01:11`;
+- the gratitude sentence continues beyond 01:06 and ends around 01:10;
+- `கலைவாணருடைய குடும்பம்...` begins around 01:11 after a meaningful pause.
+
+These boundary corrections have been consolidated into:
+
+- `transcription-ta.md`;
+- `metadata.json`;
+- `audit.md`;
+- `README.md`.
+
+No Tamil wording correction was authorized. The models support the opening structure and phonetic substance but do not reliably resolve every inflection or the first addressee.
 
 ### Secondary chronology research — COMPLETE
 
@@ -88,39 +100,48 @@ Safeguard:
 - the present recording is cautiously treated as likely **29 January 1974 or later**;
 - the exact date remains unknown and `speech.date` remains `null`.
 
-### T2 strict auditory audit — NOT STARTED
+### Strict direct-listening T2 — NOT STARTED
 
-- Strictly auditory-verified: **0/12 segments**.
+- Strictly direct-listening-verified: **0/12 segments**.
+- Machine-aided auditory pre-audit: **3/12 segments**.
 - Textually prechecked: **12/12 segments**.
-- The Tamil layer is not verified.
+- The Tamil layer is not verified or frozen.
 
-The attached MP3 is intact. The execution environment contains TorchAudio and exposes the multilingual MMS forced-alignment API, but the model weights are not cached and the container cannot reach the external model host. No local Whisper, Vosk, MMS, or other usable speech model was found. Therefore the strict counter must remain unchanged.
+Do not equate model agreement with strict human/direct listening. In particular, the first addressee remains `[ஏ. எல். சீனிவாசன்?]`, and exact inflections in the memorial and gratitude paragraphs remain unresolved.
 
 ### T3 Tamil consolidation/freeze — BLOCKED
 
-Do not freeze until all 12 segments pass direct replay audit and all confirmed corrections are consolidated.
+Do not freeze until all 12 segments pass strict direct-listening comparison and all confirmed corrections are consolidated.
 
 ### English — BLOCKED
 
 Do not begin English translation until Tamil is `verified-complete`.
 
+## Corrected opening map
+
+| Segment | Corrected approximate range | Current state |
+|---:|---|---|
+| 1 | 00:00–00:18 | machine pre-audited; first name and wording verification pending |
+| 2 | 00:18–00:55 | machine pre-audited; exact inflections pending |
+| 3 | 00:55–01:11 | machine pre-audited; exact inflections pending |
+| 4 | begins 01:11 | boundary corrected; wording verification pending |
+
 ## Exact next activity
 
-Perform direct T2 auditory audit of **segments 1–3, 00:00–01:06**, against the controlling MP3 in an environment capable of actual audio replay or Tamil speech alignment:
+Perform strict direct-listening verification of **00:00–01:11**:
 
-1. verify the opening title/name sequence and `ஏ. எல். சீனிவாசன்`;
-2. verify `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
+1. verify the opening title/name sequence and `[ஏ. எல். சீனிவாசன்?]`;
+2. verify `மெத்த உணர்ச்சிப் பெருக்கோடும்` and `பேரார்வத்தோடும்`;
 3. verify the memorial-event and gratitude sentences word by word;
-4. identify any audience reaction, overlap, pause, or recording artefact;
-5. record every audio-supported correction in `audit.md`;
-6. consolidate confirmed corrections into `transcription-ta.md`;
-7. advance `strict_audio_audit_segments_checked` to 3 only after all three segments pass.
-
-No further text-only precheck or chronology pass should be substituted for this source gate.
+4. verify the pause and transition at approximately 01:10–01:11;
+5. identify audience reaction, overlap, background speech, or recording artefacts;
+6. record every source-supported wording correction in `audit.md`;
+7. consolidate confirmed corrections into `transcription-ta.md`;
+8. advance `strict_audio_audit_segments_checked` to 3 only after all three segments pass.
 
 ## Safeguards
 
-- Do not treat surfaced transcription or completed textual prechecks as authoritative.
+- Do not treat surfaced transcription, machine ASR, or textual prechecks as authoritative.
 - Do not use secondary chronology to overwrite spoken wording.
 - Do not set the speech date to 1971-09-04.
 - Do not infer a date from the 2024 XMP metadata.
