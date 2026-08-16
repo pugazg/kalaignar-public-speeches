@@ -16,7 +16,7 @@ Audio-specific handling follows the repository-level `AUDIO_SPEECH_PROCESSING_GU
 
 The speaker explicitly describes the occasion as an annually conducted **கலைவாணர் நினைவு நாள் விழா**. The speech discusses support for financially distressed members of the artistic community, earlier honours to உடுமலை நாராயணக் கவிராயர், the naming of கலைவாணர் அரங்கம் in Chennai, and another hall at திருக்குற்றாலம்.
 
-The available recording does not state a calendar date. Its wording strongly indicates that the speech is being delivered in the Chennai கலைவாணர் அரங்கம், but that venue identification remains provisional until the relevant time segments pass strict auditory audit.
+The recording does not state a calendar date. Its wording strongly indicates that the speech is being delivered in the Chennai கலைவாணர் அரங்கம், but that venue identification remains provisional until the relevant time segments pass strict auditory audit.
 
 The recording ends abruptly during a sentence concerning actor வெங்கடாசலம். No continuation is reconstructed.
 
@@ -56,10 +56,13 @@ The segment starts are provisional navigation markers based on pauses and first-
 |---|---|
 | Source inspection and technical provenance | **Complete** |
 | Tamil first-pass transcription | **Complete for 00:00–07:22; audit pending** |
+| Textual precheck | **6/12 segments — preparatory, not source verification** |
 | Strict auditory audit | **Not started — 0/12 segments** |
 | Tamil consolidation/freeze | **Blocked until T2** |
 | English translation | **Blocked until verified Tamil** |
 | English fidelity review | **Not started** |
+
+Textual precheck records are stored under `t2-batches/`. They compare the first-pass text with the surfaced Tamil layer and identify replay checkpoints, but they do not authorize removal of uncertainty markers or advancement of the strict-audit counter.
 
 ## Editorial rule
 
