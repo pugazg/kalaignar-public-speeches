@@ -42,7 +42,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **In progress — 15/76 body pages; through PDF 20 / printed 19** |
+| English translation (E1) | **In progress — 20/76 body pages; through PDF 25 / printed 24** |
 | English fidelity review (E2) | **Not started** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
@@ -65,17 +65,15 @@ Obsolete T1 staging files were removed after the successful freeze. The complete
 
 ## English translation progress
 
-E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-20 / printed pages 5-19 — 15/76 pages**.
+E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-25 / printed pages 5-24 — 20/76 pages**.
 
-The third batch follows the source's account of elementary, middle, high-school, college and technical education; its repeated emphasis on education being pursued as a route to employment; and its argument that education ought instead to develop knowledge and make life useful to oneself and others. Page-spanning continuations remain explicit, including PDF 17→18 and PDF 18→19.
-
-Two frozen source difficulties on PDF 19 are kept visible rather than silently repaired: `கல்வி கற்கு மிடம்` is rendered closely, and the uncertain `எட்டுச்சுரையெனப்` is retained in Tamil with a concise translator/source note because its precise sense is not securely established by the frozen source.
+Batch 4, PDF 21-25, continues the page-spanning sentence from PDF 20 and carries the argument through unequal living standards, fatalism, the need for thought and education, and the remembered imagery of a child being sent to school and the schoolmaster with a cane. Source-supported difficult forms such as `நல்லதங்கள்`, `நாவினை நாட்டினரும்`, and `தவழிப் பூச்சூடி` are not silently repaired; concise translator/source notes identify them where needed.
 
 No E2 fidelity review has begun; that gate remains blocked until the entire E1 body is translated.
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF 21-25 / printed pages 20-24** from the frozen `transcription-ta.md`. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
+Continue **E1 English translation with PDF 26-30 / printed pages 25-29** from the frozen `transcription-ta.md`, beginning with the continuation of the PDF 25 sentence about the schoolteacher's cane. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
 
 ## Editorial rule
 
