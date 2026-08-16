@@ -3,7 +3,7 @@
 **Source:** `05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3`  
 **Source SHA-256:** `7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148`  
 **Duration:** 00:07:22.549  
-**Audit status:** **Strict auditory audit not started — 0/12; textual precheck complete for segments 1–6**
+**Audit status:** **Strict auditory audit not started — 0/12; textual precheck complete for segments 1–9**
 
 ## Current state
 
@@ -11,10 +11,11 @@ Source inspection and technical provenance are complete. A complete T1 first-pas
 
 The transcript is **not yet source-verified**. It was initialized from the attached recording’s surfaced transcript and aligned to detected pauses. Every segment must ultimately be replayed directly against the MP3. No English translation may begin before T2 and T3 pass.
 
-Non-authoritative textual prechecks have been completed for segments 1–6:
+Non-authoritative textual prechecks have been completed for segments 1–9:
 
 - `t2-batches/batch-01-00-00-01-06-precheck.md`
 - `t2-batches/batch-02-01-06-03-15-precheck.md`
+- `t2-batches/batch-03-03-15-05-42-precheck.md`
 
 These prechecks compare T1 with the surfaced Tamil layer and identify replay checkpoints. They do not produce an independent listening result and therefore do not count as T2 verification.
 
@@ -38,15 +39,15 @@ These prechecks compare T1 with the surfaced Tamil layer and identify replay che
 | 4 | 01:06–02:21 | textual precheck complete; auditory verification pending |
 | 5 | 02:21–02:51 | textual precheck complete; auditory verification pending |
 | 6 | 02:51–03:15 | textual precheck complete; auditory verification pending |
-| 7 | 03:15–04:00 | pending |
-| 8 | 04:00–04:44 | pending |
-| 9 | 04:44–05:42 | pending |
+| 7 | 03:15–04:00 | textual precheck complete; auditory verification pending |
+| 8 | 04:00–04:44 | textual precheck complete; auditory verification pending |
+| 9 | 04:44–05:42 | textual precheck complete; auditory verification pending |
 | 10 | 05:42–06:02 | pending |
 | 11 | 06:02–06:53 | pending |
 | 12 | 06:53–07:22.549 | pending |
 
 Strictly auditory-verified segments: **0 / 12**.  
-Textually prechecked segments: **6 / 12**.
+Textually prechecked segments: **9 / 12**.
 
 ## Segments 1–3 textual precheck findings
 
@@ -66,6 +67,16 @@ Textually prechecked segments: **6 / 12**.
 5. The old-hall-name passage agrees in substance, but `சிறுவர் அரங்கம் அல்லது பாலர் அரங்கம்` and the complete renaming sentence require listening confirmation.
 6. No source-authorized correction was applied to `transcription-ta.md`.
 
+## Segments 7–9 textual precheck findings
+
+1. The construction and hall-suitability passage agrees in substance, including the cost `சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய்`.
+2. The 03:15 naming clause remains unresolved: current T1 has `[ஏற்றிவைக்கப்பட்டது?]`, while the surfaced layer appears as `ஏற்க வைக்கப்பட்டது`. Neither is authoritative without replay.
+3. The `அப்துல் சமது` passage and the objection to changing `பாலர் அரங்கம்` agree in substance.
+4. Forms such as `தமிழ் சமுதாயமும்` / `தமிழ்ச் சமுதாயமும்` and `கலை உலகமும்` / `கலையுலகமும்` are textual presentation differences, not evidence of the exact spoken form.
+5. The Tirukutralam passage agrees in substance: construction of a hall, consideration of its name, Kalaignar’s suggestion, and its continuing name `கலைவாணர் அரங்கம்`.
+6. Variants `இதைப் போலவே` / `இதே போலவே`, `ஓர் அரங்கம்` / `ஒரு அரங்கம்`, and the long ministerial clause require direct replay.
+7. No source-authorized correction was applied to `transcription-ta.md`.
+
 ## Open readings requiring direct replay
 
 1. **00:00:** opening title/name sequence and `ஏ. எல். சீனிவாசன்`.
@@ -73,9 +84,11 @@ Textually prechecked segments: **6 / 12**.
 3. **01:06:** `அவர் கட்டி வாழ்ந்த அந்த வீட்டுக்குள்ளே` and exact joins/case endings in the long `கலைக்குடும்பம்` sentence.
 4. **02:21:** `கலைவாணரோடிருந்து`, `உடுமலை நாராயணக் கவிராயர்`, `பொற்கிழியும்`, `பதினைந்தாயிரம் ரூபாய்க்குமேல்`, and `பணமுடிப்பும்`.
 5. **02:51:** exact former hall names and the sentence ending `பெயரை விரைவிலே சூட்டிக்கொள்ளும் என்று குறிப்பிட்டேன்`.
-6. **03:15:** uncertain clause provisionally transcribed as `கலைவாணருடைய பெயர் ஏற்றிவைக்கப்பட்டது` and the amount `இருபத்தைந்து இலட்ச ரூபாய்`.
-7. Exact forms and honorifics for `அப்துல் சமது`, `தங்கப்பன்`, `பகவதி`, and `வெங்கடாசலம்`.
-8. Whether audience reactions or other voices should be represented.
+6. **03:15:** exact amount and the naming verb represented provisionally by `[ஏற்றிவைக்கப்பட்டது?]` / surfaced `ஏற்க வைக்கப்பட்டது`.
+7. **04:00:** exact form and honorific for `அப்துல் சமது`, plus the wording of the old-name objection.
+8. **04:44:** `இதைப் போலவே` / `இதே போலவே`, `ஓர் அரங்கம்` / `ஒரு அரங்கம்`, and the complete Tirukutralam ministerial/naming passage.
+9. Exact forms and honorifics for `தங்கப்பன்`, `பகவதி`, and `வெங்கடாசலம்`.
+10. Whether audience reactions or other voices should be represented.
 
 ## Source-boundary finding
 
@@ -93,4 +106,4 @@ Perform direct T2 auditory audit beginning with **00:00–01:06 (segments 1–3)
 
 ### Safe preparatory activity while independent listening remains unavailable
 
-Textually precheck **03:15–05:42 (segments 7–9)**, especially the construction cost, uncertain naming clause, `அப்துல் சமது`, the objection to changing the old name, and the Tirukutralam hall passage.
+Textually precheck **05:42–07:22.549 (segments 10–12)**, especially the repeated need-fulfilment wording, the memorial-gift passage, `வள்ளல் தன்மை`, `பொற்கிழியினை`, the names `தங்கப்பன்`, `பகவதி`, and `வெங்கடாசலம்`, and the unfinished source boundary.
