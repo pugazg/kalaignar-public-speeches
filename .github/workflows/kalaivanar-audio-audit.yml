@@ -1,0 +1,125 @@
+name: Kalaivanar audio audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/kalaivanar-audio-audit.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  transcribe-first-66-seconds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install system and Python dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install faster-whisper
+
+      - name: Download controlling source and extract audit window
+        run: |
+          set -euxo pipefail
+          curl --fail --location --retry 5 --retry-delay 5 \
+            'https://tamildigitallibrary.in/kalaignar/audio/05.Kalaivanar%20N.S.Krishnan%20Ninnaivu%20Naal%20Vizha%20vil%20Kalaigar%20Speech.mp3' \
+            --output source.mp3
+          sha256sum source.mp3 | tee source-sha256.txt
+          test "$(cut -d' ' -f1 source-sha256.txt)" = "7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148"
+          ffmpeg -hide_banner -loglevel error -y -i source.mp3 -t 66 -ar 16000 -ac 1 -c:a pcm_s16le first-66-seconds.wav
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 first-66-seconds.wav | tee extracted-duration.txt
+
+      - name: Run independent Tamil ASR passes
+        run: |
+          cat > transcribe.py <<'PY'
+          import json
+          from pathlib import Path
+          from faster_whisper import WhisperModel
+
+          audio = "first-66-seconds.wav"
+          out_dir = Path("asr-output")
+          out_dir.mkdir(exist_ok=True)
+
+          for model_name in ("small", "medium"):
+              model = WhisperModel(model_name, device="cpu", compute_type="int8")
+              segments, info = model.transcribe(
+                  audio,
+                  language="ta",
+                  task="transcribe",
+                  beam_size=5,
+                  best_of=5,
+                  temperature=0.0,
+                  condition_on_previous_text=False,
+                  word_timestamps=True,
+                  vad_filter=False,
+              )
+              records = []
+              lines = []
+              for segment in segments:
+                  text = segment.text.strip()
+                  lines.append(f"[{segment.start:07.2f}–{segment.end:07.2f}] {text}")
+                  words = []
+                  if segment.words:
+                      for word in segment.words:
+                          words.append({
+                              "start": word.start,
+                              "end": word.end,
+                              "word": word.word,
+                              "probability": word.probability,
+                          })
+                  records.append({
+                      "start": segment.start,
+                      "end": segment.end,
+                      "text": text,
+                      "avg_logprob": segment.avg_logprob,
+                      "no_speech_prob": segment.no_speech_prob,
+                      "words": words,
+                  })
+
+              payload = {
+                  "model": model_name,
+                  "language": info.language,
+                  "language_probability": info.language_probability,
+                  "duration": info.duration,
+                  "duration_after_vad": info.duration_after_vad,
+                  "segments": records,
+              }
+              (out_dir / f"{model_name}.json").write_text(
+                  json.dumps(payload, ensure_ascii=False, indent=2),
+                  encoding="utf-8",
+              )
+              (out_dir / f"{model_name}.txt").write_text(
+                  "\n".join(lines) + "\n",
+                  encoding="utf-8",
+              )
+          PY
+          python transcribe.py
+          echo '=== SMALL ==='
+          cat asr-output/small.txt
+          echo '=== MEDIUM ==='
+          cat asr-output/medium.txt
+
+      - name: Package audit evidence
+        run: |
+          cp source-sha256.txt extracted-duration.txt asr-output/
+          cat > asr-output/README.txt <<'EOF'
+          These files are independent machine-aided listening evidence for 00:00-01:06 only.
+          They are not automatically authoritative and must be compared against the MP3 and the archival T1 transcript before any T2 segment is passed.
+          The source MP3 itself is not included in this artifact.
+          EOF
+
+      - name: Upload ASR evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: kalaivanar-audio-audit-segments-1-3
+          path: asr-output/
+          if-no-files-found: error
+          retention-days: 7
