@@ -45,7 +45,7 @@ The recording ends abruptly during a sentence concerning actor வெங்க�
 | 8 | 04:00 | Objections to changing the old name |
 | 9 | 04:44 | Kalaivanar Arangam at Tirukutralam |
 | 10 | 05:42 | Public usefulness of the Chennai hall |
-| 11 | 06:02 | Meaning of the memorial gifts |
+| 11 | 06:02 | Meaning of memorial gifts |
 | 12 | 06:53 | Recipients and the truncated ending |
 
 The segment starts are provisional navigation markers based on pauses and first-pass alignment. T2 must verify them against direct replay.
@@ -56,13 +56,15 @@ The segment starts are provisional navigation markers based on pauses and first-
 |---|---|
 | Source inspection and technical provenance | **Complete** |
 | Tamil first-pass transcription | **Complete for 00:00–07:22; audit pending** |
-| Textual precheck | **6/12 segments — preparatory, not source verification** |
+| Textual precheck | **9/12 segments — preparatory, not source verification** |
 | Strict auditory audit | **Not started — 0/12 segments** |
 | Tamil consolidation/freeze | **Blocked until T2** |
 | English translation | **Blocked until verified Tamil** |
 | English fidelity review | **Not started** |
 
 Textual precheck records are stored under `t2-batches/`. They compare the first-pass text with the surfaced Tamil layer and identify replay checkpoints, but they do not authorize removal of uncertainty markers or advancement of the strict-audit counter.
+
+The principal unresolved reading in the newly prechecked material is the 03:15 hall-naming verb. T1 preserves `[ஏற்றிவைக்கப்பட்டது?]`, while the surfaced layer appears as `ஏற்க வைக்கப்பட்டது`. Neither form is treated as authoritative until direct replay.
 
 ## Editorial rule
 
