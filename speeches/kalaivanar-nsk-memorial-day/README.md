@@ -13,7 +13,7 @@ The controlling MP3 has been audited from the first salutation through the true 
 
 The Tamil source layer is **verified-complete** and frozen.
 
-A complete first-pass English translation covers all 12 timestamp segments. E2 fidelity review is now in progress: Batch 1 (`00:00–01:11`) has been reviewed and its accepted corrections have been consolidated. The English layer is **not yet verified**; three E2 batches and the final E3 end-to-end verification remain.
+A complete first-pass English translation covers all 12 timestamp segments. E2 fidelity review is in progress: Batches 1–2 (`00:00–03:15`) have been reviewed and their accepted corrections have been consolidated. The English layer is **not yet verified**; two E2 batches and the final E3 end-to-end verification remain.
 
 ## Critical tail correction
 
@@ -100,13 +100,16 @@ Timestamps are navigation aids rather than word-level forced alignment.
 
 `translation-en.md` contains the complete E1 first pass.
 
-E2 Batch 1 (`00:00–01:11`) found no omission, addition, reversal or lost salutation. Accepted corrections now present in the English include:
+E2 Batch 1 (`00:00–01:11`) found no omission, addition, reversal or lost salutation. Accepted corrections include:
 
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
 - `அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும்` → `the work he left behind must continue to be carried out`;
 - `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`.
 
-The literal `mothers` was retained for `தாய்மார்களே` to preserve Kalaignar's kinship-based public salutation.
+E2 Batch 2 (`01:11–03:15`) confirmed the household-family / family-of-the-arts distinction, repeated hardship wording, lamp imagery, Udumalai Narayana Kavirayar, all three honour expressions, and the Siruvar/Balar Arangam renaming announcement. Accepted corrections include:
+
+- `அவர்களுடைய இல்லத்திலும்` → `in their homes as well`;
+- `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல்` → `a little over fifteen thousand rupees`.
 
 `translation-review.md` records the four-batch E2 review. English must not be described as verified until all batches are complete, accepted corrections are consolidated and E3 passes.
 
@@ -137,7 +140,7 @@ The exact date of the present speech remains unknown. `speech.date` remains `nul
 | Tamil consolidation/freeze | **Verified complete** |
 | Open Tamil uncertainties | **0** |
 | English E1 first pass | **Complete — 12/12 timestamp segments** |
-| English E2 fidelity review | **In progress — 1/4 batches complete** |
+| English E2 fidelity review | **In progress — 2/4 batches complete** |
 | English E3 final verification | **Not started** |
 
 ## Editorial rule
