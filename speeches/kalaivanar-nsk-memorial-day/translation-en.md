@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Translation
 
-> **Status:** First-pass complete — independent Tamil-to-English fidelity review pending  
+> **Status:** First-pass complete — E2 fidelity review in progress; Batch 1 corrections consolidated  
 > **Source layer:** `transcription-ta.md` (`verified-complete`, including the restored final passage)  
 > **Translation rule:** Translate from the frozen Tamil source, preserving Kalaignar's formal public-speaking voice, rhetorical repetition, imagery, names, amounts and sequence. Do not add an unstated date or historical explanation to the speech body.  
 > **Name/term note:** `Kalaivanar` is retained as N. S. Krishnan's honorific name. Named halls retain `Arangam`. `கலைக்குடும்பம்` is rendered as “the family of the arts” to preserve the contrast with the household family.
@@ -11,11 +11,11 @@ Chairman of the Kalaivanar Memorial Committee, my dear friend A. L. Srinivasan; 
 
 ## [00:18]
 
-The Kalaivanar Memorial Day function, held year after year, is being held this year too with a profound surge of feeling—in remembrance of Kalaivanar, and with the great eagerness that the tasks he left behind must be carried forward. I am exceedingly happy to witness it.
+The Kalaivanar Memorial Day function, held year after year, is being held this year too with a great surge of emotion—in remembrance of Kalaivanar, and with the great eagerness that the work he left behind must continue to be carried out. I am exceedingly happy to witness it.
 
 ## [00:55]
 
-I cannot refrain from pointing out that it is only in this manner that we can discharge the gratitude we owe Kalaivanar.
+I cannot refrain from pointing out that it is only in this one way that we can express the gratitude we owe to Kalaivanar.
 
 ## [01:11]
 
