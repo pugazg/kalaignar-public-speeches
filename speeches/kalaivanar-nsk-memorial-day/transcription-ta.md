@@ -2,10 +2,10 @@
 
 **Speaker:** மு. கருணாநிதி  
 **Source:** `05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3`  
-**Duration:** 00:07:22.549  
-**Status:** **Verified complete — strict direct-listening audit passed 12/12 segments**
+**Duration:** 00:07:23.559  
+**Status:** **Verified complete — strict direct-listening audit passed 12/12 segments; final tail corrected**
 
-> The MP3 is the controlling source. The complete recording was replayed directly in sequential chunks, with focused slower and noise-reduced replay for uncertain passages. Punctuation, paragraphing, word spacing, and timestamp headings are editorial aids; the spoken wording, repetition, unusual forms, and abrupt ending are preserved. Timestamp headings remain approximate navigation markers rather than frame-accurate word timings.
+> The MP3 is the controlling source. The complete recording was replayed directly in sequential chunks, with focused slower and noise-reduced replay for uncertain passages. Punctuation, paragraphing, word spacing, and timestamp headings are editorial aids; spoken wording, repetition and unusual forms are preserved. The previously asserted abrupt ending was incorrect: the final approximately 25 seconds have now been restored after direct re-audit. Timestamp headings remain approximate navigation markers rather than frame-accurate word timings.
 
 ## [00:00]
 
@@ -65,6 +65,6 @@
 
 பரிசுகளைப் பெற்றவர்களைக் கண்டீர்கள். தங்கப்பன் அவர்களும், பகவதி அவர்களும் எந்தக் கோலத்திலே இன்றைக்கு இருக்கிறார்கள் என்பதை நேரில் நீங்கள் உணர்ந்தீர்கள்.
 
-அதைப்போலவே பல்வேறு நாடகங்களிலே மிகத் திறம்பட நடித்த வெங்கடாசலம் அவர்கள் எத்தகைய நிலையிலே இருக்கிறார் என்பதையும்—
+அதைப்போலவே பல்வேறு நாடகங்களிலே மிகத் திறம்பட நடித்த வெங்கடாசலம் அவர்கள் எத்தகைய நிலையிலே இருக்கிறார் என்பதையும் நீங்கள் அறிவீர்கள்.
 
-**[Recording ends abruptly at 00:07:22.549.]**
+அவர்களுக்கெல்லாம் நாம் செய்கின்ற இந்தச் சிறு உதவி, அவர்களுடைய வாழ்க்கையிலே ஓரளவு நிம்மதியாவது ஏற்படுத்துமேயானால், அந்த நிம்மதிதான் கலைவாணருடைய காலடியிலே நான் வைக்கின்ற காணிக்கை என்று மாத்திரம் நான் குறிப்பிட்டுக் கொள்ள விரும்புகின்றேன்.
