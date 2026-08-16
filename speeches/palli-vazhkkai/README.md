@@ -42,7 +42,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **In progress — 10/76 body pages; through PDF 15 / printed 14** |
+| English translation (E1) | **In progress — 15/76 body pages; through PDF 20 / printed 19** |
 | English fidelity review (E2) | **Not started** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
@@ -65,15 +65,17 @@ Obsolete T1 staging files were removed after the successful freeze. The complete
 
 ## English translation progress
 
-E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-15 / printed pages 5-14 — 10/76 pages**. The second batch carries the argument from early human civilizational development through the contrast among peasant, middle-class, merchant, salaried and landlord approaches to schooling.
+E1 is being translated only from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-20 / printed pages 5-19 — 15/76 pages**.
 
-Page correspondence and page-spanning phrases remain explicit. The difficult frozen PDF 12 phrase concerning `கேள்வி ஞானங்களைத் தூர்த்திடும் போதனைகள்` is rendered closely and accompanied by a concise translator/source note rather than silently rewritten.
+The third batch follows the source's account of elementary, middle, high-school, college and technical education; its repeated emphasis on education being pursued as a route to employment; and its argument that education ought instead to develop knowledge and make life useful to oneself and others. Page-spanning continuations remain explicit, including PDF 17→18 and PDF 18→19.
+
+Two frozen source difficulties on PDF 19 are kept visible rather than silently repaired: `கல்வி கற்கு மிடம்` is rendered closely, and the uncertain `எட்டுச்சுரையெனப்` is retained in Tamil with a concise translator/source note because its precise sense is not securely established by the frozen source.
 
 No E2 fidelity review has begun; that gate remains blocked until the entire E1 body is translated.
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF 16-20 / printed pages 15-19** from the frozen `transcription-ta.md`. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
+Continue **E1 English translation with PDF 21-25 / printed pages 20-24** from the frozen `transcription-ta.md`. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
 
 ## Editorial rule
 
