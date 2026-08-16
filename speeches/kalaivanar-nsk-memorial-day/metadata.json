@@ -119,7 +119,9 @@
     "first_pass_complete": true,
     "fidelity_review_record": "translation-review.md",
     "fidelity_review_batches_total": 4,
-    "fidelity_review_batches_complete": 0
+    "fidelity_review_batches_complete": 1,
+    "fidelity_review_latest_completed_range": "00:00-01:11",
+    "fidelity_corrections_consolidated_batches": 1
   },
   "workflow": {
     "tamil_transcription": "verified-complete",
@@ -144,7 +146,8 @@
     "tamil_consolidation": "complete",
     "uncertain_readings_open": 0,
     "english_translation": "first-pass-complete",
-    "english_translation_review": "ready-not-started",
+    "english_translation_review": "in-progress",
+    "english_translation_review_batches_complete": 1,
     "english_translation_final_verification": "not-started"
   }
 }
