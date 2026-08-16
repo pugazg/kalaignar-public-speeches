@@ -56,15 +56,22 @@ The segment starts are provisional navigation markers based on pauses and first-
 |---|---|
 | Source inspection and technical provenance | **Complete** |
 | Tamil first-pass transcription | **Complete for 00:00–07:22; audit pending** |
-| Textual precheck | **9/12 segments — preparatory, not source verification** |
+| Textual precheck | **Complete — 12/12 segments; preparatory, not source verification** |
 | Strict auditory audit | **Not started — 0/12 segments** |
 | Tamil consolidation/freeze | **Blocked until T2** |
 | English translation | **Blocked until verified Tamil** |
 | English fidelity review | **Not started** |
 
-Textual precheck records are stored under `t2-batches/`. They compare the first-pass text with the surfaced Tamil layer and identify replay checkpoints, but they do not authorize removal of uncertainty markers or advancement of the strict-audit counter.
+Four textual precheck records under `t2-batches/` now cover the complete available recording. They compare the first-pass text with the surfaced Tamil layer and identify replay checkpoints, but they do not authorize removal of uncertainty markers or advancement of the strict-audit counter.
 
-The principal unresolved reading in the newly prechecked material is the 03:15 hall-naming verb. T1 preserves `[ஏற்றிவைக்கப்பட்டது?]`, while the surfaced layer appears as `ஏற்க வைக்கப்பட்டது`. Neither form is treated as authoritative until direct replay.
+Principal unresolved readings include:
+
+- the opening `ஏ. எல். சீனிவாசன்` identification;
+- `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
+- the 03:15 hall-naming verb: T1 `[ஏற்றிவைக்கப்பட்டது?]` versus surfaced `ஏற்க வைக்கப்பட்டது`;
+- `வள்ளல் தன்மையோடு` versus a surfaced `வள்ளல் பண்மையோடு`-type reading;
+- exact names/honorifics for `தங்கப்பன்`, `பகவதி`, and `வெங்கடாசலம்`;
+- the exact last audible words before the abrupt ending.
 
 ## Editorial rule
 
