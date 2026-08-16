@@ -1,6 +1,6 @@
 # Palli Vazhkkai — English translation
 
-**Status:** `in-progress` — E1 translated through **PDF page 10 / printed page 9** (**5/76 body pages**)  
+**Status:** `in-progress` — E1 translated through **PDF page 15 / printed page 14** (**10/76 body pages**)  
 **Source Tamil layer:** `transcription-ta.md` — **verified-complete / frozen**  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)
 
@@ -68,8 +68,52 @@ The human race is born with rational discernment everywhere! Once born, human be
 
 In the beginning, the human race wandered in a savage condition—in forests, on uplands, in rivers, in mire, in the wind, and across harsh wastelands. There was a time when the human race, in its earliest days, wandered about. As time passed,
 
+### PDF page 11 — printed page 10
+
+—it learned to cover its body with tree foliage, leaves, and bark and to live a civilized life. Those who wandered without any fixed place to live began living in mountain caves; later they built huts from leaves and foliage, and later still huts from bamboo and similar materials, and began to live wearing clothes made of fibre and good hides.
+
+Many who had wandered separately came together as a group and began to build many houses together in one place and live collectively. One group became many groups; many families became many social groups; many social groups became communities; many communities became many peoples; many peoples became many countries. At every stage, at every stage of civilizational development, humankind acquired order in life—that is, customs and habits, methods of study, arrangements for life-partners, forms of relations between men and women, ways and styles of wearing clothes and ornaments, self-defence training, self-restraint, social discipline, the advancement of community and people, country, patriotism, protection, social and communal leaders, the local headman, the leader of the country, the king, the guru. Developing in such ways, humankind has, step by step and over many centuries, reached the condition of today. Through these many steps, through many—
+
+### PDF page 12 — printed page 11
+
+—stages of development, crossing them and changing again and again, the final outcome, the latest element, is the present civilized life of humankind!
+
+Rational discernment! It is rational discernment—the capacity to separate, distinguish, and examine anything—that has brought humankind to today's state of civilized life. This must be kept firmly in mind.
+
+At this stage, we must reflect on how humankind, endowed with rational discernment, lives; how a class that ought to live in one way in fact lives in so many ways; how only a few find life a wellspring of pleasure while many others find it a wellspring of suffering; how rational discernment itself is ruined, producing human beasts, while a city of pleasure grows on one side and a city of suffering on the other—grows, and is made to grow, in the country. We must also think about all that bears upon this: schooling; knowledge that fortifies rational discernment; education that removes ignorance and creates clarity; teachings that sweep away knowledge gained through inquiry; and the restraints that have arisen, or have been imposed, through custom and habit.
+
+*[Translator/source note: the frozen Tamil phrase concerning “teachings that sweep away knowledge gained through inquiry” is syntactically difficult and is rendered closely here rather than silently regularized.]*
+
+### PDF page 13 — printed page 12
+
+In our country, particularly in Tamil Nadu, in this sacred land, what is the condition of people's lives? Do people live on an equal footing? Do people live as human beings, with a life superior to that of other living creatures? Let us see to what extent the school life each has received helps toward this.
+
+Kuppan is a peasant cultivator. He is over fifty years old. He is working in the field. His eldest son is Muthan, nearing the age of thirty. Nearby, he is working the water-lift up and down, drawing water from the well. Farther away, his wife Kuppayi is pulling weeds in the field. Beside her, his younger sister is transplanting seedlings. In the next grove, his youngest son Kandan is grazing goats and cattle. His dear daughter-in-law Karuppayi is grinding chillies in the master's house.
+
+The family—the whole peasant family—labours together! Labour, labour to which they have become accustomed by labouring and labouring all day, is all their wealth, all their comfort.
+
+Only if they labour do they have food; only if they labour do they have clothing; only if they labour do they have—
+
+### PDF page 14 — printed page 13
+
+—a place to live; only if they labour do they have recreation; only if they labour do they have sleep; only if they labour does this family have joy.
+
+Only through labour can they have a life without trouble, a way to live, a means of filling the stomach, clothes to wear. In this condition their standard of life, their position—indeed, their very lineage—was born, grew, and continues to grow.
+
+Labour; the small wage paid for labour; and the food, clothing, and recreation obtained through it—these alone are life for them! Throughout all the days they live, they perform without refusal whatever work their master assigns, win his affection, and regard as treasure the rewards that spill from his great satisfaction. His anger is the blazing fire of their lives. His smile is their satisfaction. Thus they live for others—and above all for the happiness and prosperity of their master—and conduct their own lives with the few droplets scattered from his excessive comfort.
+
+Do members of such a family have any time, opportunity, or means even to think about school life? Merely by studying, can they live without getting dirt on their fingers?
+
+### PDF page 15 — printed page 14
+
+After all, are they not people who, whenever it may be, will have to work with soil on their fingers? “What is the use of education?” Their lives are so arranged that they come to neglect study and literacy to that extent.
+
+On the very farm where this same Kuppan works, the family of the accountant or steward will be different. They will have some acquaintance with letters. Even that may be only enough Tamil accounting to read something, write accounts, and earn a few coins. To that extent they think about “school life”; they are able to think about it! They stand in circumstances that compel them to think about it! Among middle-class people of this kind, “school life” arises and ends at the level of seeking a way to make a living!
+
+At the same place, the child of a merchant is satisfied with obtaining only as much education as is needed for business correspondence! A few study enough to obtain employment and receive a salary. Those who are able go to college, learn many arts, and advance in many fields. A landlord's family goes to school at least for the sake of prestige.
+
 ## E1 progress
 
-- Completed: **PDF 6-10 / printed 5-9 — 5/76 pages**.
+- Completed: **PDF 6-15 / printed 5-14 — 10/76 pages**.
 - Independent E2 fidelity review has **not** begun; per workflow it remains blocked until the full E1 body translation is complete.
-- Exact next E1 batch: **PDF 11-15 / printed 10-14**.
+- Exact next E1 batch: **PDF 16-20 / printed 15-19**.
