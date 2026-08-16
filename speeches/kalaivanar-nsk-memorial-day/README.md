@@ -20,6 +20,19 @@ The recording does not state a calendar date. Its wording strongly indicates tha
 
 The recording ends abruptly during a sentence concerning actor வெங்கடாசலம். No continuation is reconstructed.
 
+## Secondary chronology — context only
+
+A separately labelled research record is maintained at `research/chronology.md`. It does not control the Tamil transcript.
+
+The research establishes that:
+
+- the earlier Balar Arangam event recalled in the speech was held on **4 September 1971**;
+- at that earlier event, Udumalai Narayana Kavirayar received a ₹15,000 gold purse and Kalaignar announced the Kalaivanar Arangam name;
+- the renovated Kalaivanar Arangam was inaugurated on **29 January 1974**;
+- the Tamil Digital Library catalogue lists this memorial-day speech separately from the hall-opening speech.
+
+Accordingly, the present recording is cautiously treated as **likely 29 January 1974 or later**, but this is contextual inference only. The exact speech date remains `null`, and 4 September 1971 must not be mistaken for the date of this recording.
+
 ## Source integrity
 
 - Source filename: `05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3`
@@ -57,6 +70,7 @@ The segment starts are provisional navigation markers based on pauses and first-
 | Source inspection and technical provenance | **Complete** |
 | Tamil first-pass transcription | **Complete for 00:00–07:22; audit pending** |
 | Textual precheck | **Complete — 12/12 segments; preparatory, not source verification** |
+| Secondary chronology research | **Complete — contextual only** |
 | Strict auditory audit | **Not started — 0/12 segments** |
 | Tamil consolidation/freeze | **Blocked until T2** |
 | English translation | **Blocked until verified Tamil** |
@@ -75,4 +89,4 @@ Principal unresolved readings include:
 
 ## Editorial rule
 
-The MP3 is authoritative. The transcript’s punctuation and paragraphing are editorial aids. Spoken wording, repetition, unusual forms, uncertainty, and the abrupt ending must not be silently repaired. Bracketed question marks mark readings that require replay verification.
+The MP3 is authoritative. The transcript’s punctuation and paragraphing are editorial aids. Spoken wording, repetition, unusual forms, uncertainty, and the abrupt ending must not be silently repaired. Bracketed question marks mark readings that require replay verification. Secondary research may clarify chronology, but it must never overwrite the audio transcription.
