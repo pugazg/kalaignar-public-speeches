@@ -1,6 +1,6 @@
 # Palli Vazhkkai — English translation
 
-**Status:** `in-progress` — E1 translated through **PDF page 20 / printed page 19** (**15/76 body pages**)  
+**Status:** `in-progress` — E1 translated through **PDF page 25 / printed page 24** (**20/76 body pages**)  
 **Source Tamil layer:** `transcription-ta.md` — **verified-complete / frozen**  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)
 
@@ -168,8 +168,76 @@ School life is an important part of human existence! School life melts and mould
 
 For humankind to live with a hold upon life, with attachment, affection, and self-confidence, and to gain clarity in life,
 
+### PDF page 21 — printed page 20
+
+—and to live with firm resolve, the ideas that school life shapes and gives during childhood serve as an excellent guide.
+
+Yet school life, childhood, and education—such distinguished, excellent, necessary means—cannot be obtained by a large portion of humankind in this country!
+
+This is a country with a very low standard of living! Is life here a barren desert, devoid of prosperity?
+
+In this sacred land, every kind of resource is indeed abundant! There is no shortage of population strength. The population too is very large; this is a vast country in which many crores of people live!
+
+The land too is rich! There is certainly no shortage of people! Nor is there an absence of water resources. The broad-flowing Cauvery, Pennai, Vaigai, and Godavari are indeed here. Gold beneath the earth, pearls in the sea, sandalwood in the forest, people in the land, men with strength in their shoulders—all these are here. And yet there is no prosperity here in life. The condition is that people have no way to live!
+
+### PDF page 22 — printed page 21
+
+For people to live—to eat their fill, wear good clothes, possess a place in which to live comfortably—there is no way to live, no means!
+
+Among the people, we see the greater part remaining in this low condition. A few, a very few, roll amid pleasures and luxuries, swim and play in streams of wealth, and are seen with a very high standard of living.
+
+The working people do not live; merely to keep life clinging on, they fill their shrunken stomachs somehow, a little, and remain alive.
+
+Even though this mode of merely keeping alive gives them no satisfaction, they continue carrying on life without weariness or disgust.
+
+A condition of living and yet not living! A life that has resources and yet receives no prosperity! A life that cannot be lived! A low condition in which, though one labours, the use and fruit of labour are absent, unattained!
+
+Such many conditions—superstitions, ignorance; servitude; an indifferent outlook; weariness; despair caused by weariness; hatred born of despair—there is no life! This, in this sacred—
+
+### PDF page 23 — printed page 22
+
+—land, has become an altogether ordinary occurrence and has transformed humankind, endowed with rational discernment, into a mere machine: labouring, eating whatever happens to be obtained, sleeping, then labour again, eating, sleeping!
+
+We were born in the world, into the human race, into humankind endowed with rational discernment! We were born to live, born for life—for us to live, for others to live, for us to sustain ourselves and to enable others to live. Yet there is no such idea!
+
+Holding illusionist doctrines such as “life is illusion; becoming dust is certain” and “this body is false—it is only a bag filled with air”; carrying the longing expressed in “the path left by the Creator, the command laid down by the Lord” and “who can conquer fate?”; speaking the Vedantic claim that “the one who wrote it that day is not going to erase and rewrite it”; and coming to rest in the meaningless satisfaction that “that is all that was allotted; each receives only according to his own karma”—today's people, Tamils, remain in a condition in which they themselves place barriers before their own thought!
+
+Tamils have now failed to think. They must think, look sharply once at themselves and at what surrounds them, look at the world, and understand it as it is—
+
+### PDF page 24 — printed page 23
+
+—only then can a human being live as a human being; when one begins to think about living, waves of thought will arise in the mind and grow; life will blossom, and can blossom!
+
+Today's society lies hidden beneath the blanket called antiquity! People are taught to delight in finding the old even within the new!
+
+Forgetting the whole world, which advances in civilization day by day, are we to speak empty Vedanta, refuse to trust in life, and go back to the age of the source's `நல்லதங்கள்` tale?
+
+At a time when peoples who have attained civilizational maturity and received the light of sound knowledge hold a distinguished place in the world, is Tamil Nadu to advance as an example of illiteracy—in the number of people who have not studied and do not know school life? It must not.
+
+For human life to advance, knowledge is necessary; very, very necessary! Knowledge wells up through learning and understanding. The more one studies, the greater the benefit. The more one learns, the clearer one's thought becomes.
+
+As knowledge arises, the darkness of ignorance departs. Clarity is born; a clear mind will seek and obtain a lucid—
+
+*[Translator/source note: the frozen Tamil on this page contains the unusual form `நல்லதங்கள்` and the irregular phrase `நாவினை நாட்டினரும்`. The translation preserves the first explicitly and renders the latter contextually without altering the frozen Tamil.]*
+
+### PDF page 25 — printed page 24
+
+—way of life and live by it—that is certain! An undeniable certainty!
+
+Knowledge! It exists naturally in every human being who is born! For the knowledge one possesses to gain clarity and for rational discernment to increase, education and inquiry are extremely important.
+
+Learning and receiving education take place in childhood, in school life!
+
+Whenever we say “school life,” there appear before our eyes the scene of a mother nursing, cherishing, caring for, and raising the child she has borne and, when he becomes a little boy, performing the source's `தவழிப் பூச்சூடி`, kissing the crown of his head, placing a writing-stick in his hand, and sending him to school; and the sight of a father frightening and restraining the little boy who stubbornly says, “I will not go,” and sending him to school!
+
+Whenever we say “school life,” the teacher with rolling eyes and an intimidating gaze, standing with a cane in his hand, never fails to arise before us, in our thoughts!
+
+Submitting to the discipline of one's parents and going to school, one cannot avoid thinking of the weight of the schoolteacher's cane—
+
+*[Translator/source note: the frozen Tamil phrase `தவழிப் பூச்சூடி` is source-supported but difficult in this syntax. It is retained rather than silently normalized.]*
+
 ## E1 progress
 
-- Completed: **PDF 6-20 / printed 5-19 — 15/76 pages**.
+- Completed: **PDF 6-25 / printed 5-24 — 20/76 pages**.
 - Independent E2 fidelity review has **not** begun; per workflow it remains blocked until the full E1 body translation is complete.
-- Exact next E1 batch: **PDF 21-25 / printed 20-24**.
+- Exact next E1 batch: **PDF 26-30 / printed 25-29**.
