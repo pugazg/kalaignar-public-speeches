@@ -91,12 +91,14 @@
     "english_translation_through_printed_page": 80,
     "english_translation_review": "review-complete",
     "english_translation_review_pages_checked": 76,
-    "english_translation_final_verification": "complete",
-    "english_translation_final_verification_pages_checked": 76,
-    "repository_archival_closure": "not-started",
-    "transcription_translation_work_pending": true,
     "english_translation_review_through_pdf_page": 81,
     "english_translation_review_through_printed_page": 80,
-    "english_translation_verified_date": "2026-08-16"
+    "english_translation_final_verification": "complete",
+    "english_translation_final_verification_pages_checked": 76,
+    "english_translation_verified_date": "2026-08-16",
+    "repository_archival_closure": "complete",
+    "repository_archival_closure_date": "2026-08-16",
+    "repository_archival_closure_note": "Speech README, metadata, final handover, and repository root catalogue were synchronized after E3. The source PDF remains uncommitted; source filename, checksum, size, page count, and page map remain the archival identity record.",
+    "transcription_translation_work_pending": false
   }
 }
