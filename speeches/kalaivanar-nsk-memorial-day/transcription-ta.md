@@ -3,13 +3,13 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3`  
 **Duration:** 00:07:22.549  
-**Status:** **T1 first pass complete; opening time boundaries machine-audited; strict auditory wording audit not complete**
+**Status:** **Verified complete — strict direct-listening audit passed 12/12 segments**
 
-> The MP3 is the controlling source. This first pass was assembled from the attached recording’s surfaced transcript and aligned to major pauses. Punctuation and paragraphing are editorial. Timestamp headings are approximate navigation markers. The opening markers at `00:18`, `00:55`, and `01:11` were corrected using checksum-verified machine-aided audio evidence; this did not verify the wording itself. Bracketed question marks identify readings that still require direct listening confirmation. The abrupt final sentence is preserved exactly as an unfinished recording boundary and is not reconstructed.
+> The MP3 is the controlling source. The complete recording was replayed directly in sequential chunks, with focused slower and noise-reduced replay for uncertain passages. Punctuation, paragraphing, word spacing, and timestamp headings are editorial aids; the spoken wording, repetition, unusual forms, and abrupt ending are preserved. Timestamp headings remain approximate navigation markers rather than frame-accurate word timings.
 
 ## [00:00]
 
-கலைவாணர் நினைவுக் குழுவின் தலைவர், அருமை நண்பர் **[ஏ. எல். சீனிவாசன்?]** அவர்களே, அருமை நண்பர் சின்ன அண்ணாமலை அவர்களே, கலையுலகப் பெருமக்களே, தாய்மார்களே, நண்பர்களே.
+கலைவாணர் நினைவுக் குழுவின் தலைவர், அருமை நண்பர் ஏ. எல். சீனிவாசன் அவர்களே, அருமை நண்பர் சின்ன அண்ணாமலை அவர்களே, கலையுலகப் பெருமக்களே, தாய்மார்களே, நண்பர்களே.
 
 ## [00:18]
 
@@ -33,11 +33,11 @@
 
 அப்போது இந்த இடத்திற்குப் பெயர் சிறுவர் அரங்கம் அல்லது பாலர் அரங்கம்.
 
-நான் அந்த விழாவிலேதான் குறிப்பிட்டேன்: இந்த இடம் புதுப்பிக்கப்பட்டு, கலைவாணர் அரங்கம் என்கின்ற பெயரை விரைவிலே சூட்டிக்கொள்ளும் என்று குறிப்பிட்டேன்.
+நான் அந்த விழாவிலேதான் குறிப்பிட்டேன்: இந்த இடம் புதுப்பிக்கப்பெற்று, கலைவாணர் அரங்கம் என்கின்ற பெயரை விரைவிலே சூட்டிக்கொள்ளும் என்று குறிப்பிட்டேன்.
 
 ## [03:15]
 
-இந்தப் பெயரைச் சூட்டுவதற்கு முன்பிருந்த அரங்கம் அவ்வளவு தகுதி வாய்ந்தது அல்ல என்ற காரணத்தாலும், சென்னை மாநகரத்திலே நடைபெறுகின்ற கலை நிகழ்ச்சிகள், இசை நிகழ்ச்சிகள், வேறுபல பொது நிகழ்ச்சிகள் நடைபெறுவதற்கு ஏற்ற வகையிலே இதனை அமைத்திட வேண்டும் என்று எண்ணிய காரணத்தாலும், சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய் செலவில் இந்த மண்டபம் புதிதாக உருவாக்கப்பட்டு, கலைவாணருடைய பெயர் **[ஏற்றிவைக்கப்பட்டது?]**.
+இந்தப் பெயரைச் சூட்டுவதற்கு முன்பிருந்த அரங்கம் அவ்வளவு தகுதி வாய்ந்தது அல்ல என்ற காரணத்தாலும், சென்னை மாநகரத்திலே நடைபெறுகின்ற கலை நிகழ்ச்சிகள், இசை நிகழ்ச்சிகள், வேறுபல பொது நிகழ்ச்சிகள் நடைபெறுவதற்கு ஏற்ற வகையிலே இதனை அமைத்திட வேண்டும் என்று எண்ணிய காரணத்தாலும், சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய் செலவில் இந்த மண்டபம் புதிதாக உருவாக்கப்பட்டு, கலைவாணருடைய பெயர் ஏற்றி வைக்கப்பட்டது.
 
 ## [04:00]
 
@@ -47,7 +47,7 @@
 
 ## [04:44]
 
-இதைப் போலவே திருக்குற்றாலத்தில் ஓர் அரங்கம் நிர்மாணிக்கப்பட்டது. அந்த அரங்கத்திற்கு என்ன பெயர் சூட்டுவதென்று அங்குள்ள அதிகாரிகள் ஆய்வு நடத்திக்கொண்டிருந்தபோது, நான் நெல்லை மாவட்டத்திற்குப் பொதுப்பணித்துறை அமைச்சராக இருந்த காலத்தில் சென்றேன்.
+இதைப் போலவே திருக்குற்றாலத்தில் ஓர் அரங்கம் நிர்மாணிக்கப்பட்டது. அந்த அரங்கத்திற்கு என்ன பெயர் சூட்டுவதென்று அங்குள்ள அதிகாரிகள் ஆய்வு நடத்திக்கொண்டிருந்தபோது, நான் நெல்லை மாவட்டத்திற்கு, பொதுப்பணித்துறை அமைச்சராக இருந்த காலத்தில், சென்றேன்.
 
 நான் அதிகாரிகளை அழைத்து, திருக்குற்றாலம் கலைவாணருக்கு மிகவும் பிடித்தமான இடம்; ஆகவே இந்த அரங்கத்திற்கும் கலைவாணருடைய அரங்கம் என்கின்ற பெயரையே சூட்டுங்கள் என்று நான் அவர்களுக்கு யோசனை கூறினேன்.
 
