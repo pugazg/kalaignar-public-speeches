@@ -13,7 +13,7 @@ The controlling MP3 has been audited from the first salutation through the true 
 
 The Tamil source layer is **verified-complete** and frozen.
 
-A complete first-pass English translation now covers all 12 timestamp segments. The English layer is **not yet verified**: an independent Tamil-to-English fidelity review and final end-to-end verification remain pending.
+A complete first-pass English translation covers all 12 timestamp segments. E2 fidelity review is now in progress: Batch 1 (`00:00–01:11`) has been reviewed and its accepted corrections have been consolidated. The English layer is **not yet verified**; three E2 batches and the final E3 end-to-end verification remain.
 
 ## Critical tail correction
 
@@ -100,18 +100,15 @@ Timestamps are navigation aids rather than word-level forced alignment.
 
 `translation-en.md` contains the complete E1 first pass.
 
-The first pass preserves:
+E2 Batch 1 (`00:00–01:11`) found no omission, addition, reversal or lost salutation. Accepted corrections now present in the English include:
 
-- the 12 timestamp markers;
-- salutation order;
-- the household-family / family-of-the-arts distinction;
-- the lamp imagery;
-- names and hall names;
-- both monetary amounts;
-- the emotional-value contrast;
-- the complete restored ending.
+- `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
+- `அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும்` → `the work he left behind must continue to be carried out`;
+- `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`.
 
-`translation-review.md` is prepared for a separate four-batch E2 fidelity review. English must not be described as verified until E2 corrections are consolidated and E3 passes.
+The literal `mothers` was retained for `தாய்மார்களே` to preserve Kalaignar's kinship-based public salutation.
+
+`translation-review.md` records the four-batch E2 review. English must not be described as verified until all batches are complete, accepted corrections are consolidated and E3 passes.
 
 ## Project documentation
 
@@ -140,7 +137,7 @@ The exact date of the present speech remains unknown. `speech.date` remains `nul
 | Tamil consolidation/freeze | **Verified complete** |
 | Open Tamil uncertainties | **0** |
 | English E1 first pass | **Complete — 12/12 timestamp segments** |
-| English E2 fidelity review | **Ready; not started** |
+| English E2 fidelity review | **In progress — 1/4 batches complete** |
 | English E3 final verification | **Not started** |
 
 ## Editorial rule
