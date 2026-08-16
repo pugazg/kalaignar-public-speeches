@@ -6,7 +6,7 @@
 
 ## Review status
 
-**Status:** `review-complete` — **76/76 body pages reviewed; all confirmed corrections consolidated**
+**Status:** `verified-complete` — **E2 reviewed 76/76; E3 final verification passed 76/76**
 
 | Review batch | PDF pages | Printed pages | Status |
 |---|---:|---:|---|
@@ -27,7 +27,7 @@
 | 15 | 76–80 | 75–79 | reviewed; three fidelity corrections consolidated |
 | 16 | 81 | 80 | reviewed; existing final-page source note confirmed |
 
-E1 is complete for all 76 body pages. E2 is review-complete and all confirmed corrections are consolidated. E3 remains the mandatory final release gate.
+E1 is complete for all 76 body pages. E2 is review-complete with every confirmed correction consolidated. E3 has now passed the full 76-page final release verification.
 
 ## Batch 1 — PDF 6–10 / printed 5–9
 
@@ -197,7 +197,49 @@ The final page passed E2 without a new correction. The PDF 80→81 continuation 
 - The English layer is now **fidelity-corrections-consolidated**, but **not yet verified-complete**.
 - E3 final end-to-end Tamil→English verification remains mandatory.
 
+## E3 — final end-to-end verification
 
-## Exact next activity
+**Result: PASS.**
 
-Perform **E3 final end-to-end Tamil→English verification for PDF 6–81 / printed pages 5–80**. Compare the complete corrected English layer once more against the frozen Tamil from beginning to end, verify page headings and page-boundary continuity, confirm that all E2 corrections are present and no reviewed source difficulties were accidentally normalized, and only then mark the English translation `verified-complete`.
+The complete frozen Tamil and the complete E2-corrected English were reviewed as continuous texts from **PDF 6 through PDF 81 / printed 5 through 80**, rather than as isolated E1/E2 batches. No additional English correction was confirmed during E3.
+
+### Completeness and semantic correspondence
+
+- Every body page has a corresponding English page section, with all 76 PDF/printed-page headings present in exact sequence.
+- No newly detected substantive Tamil proposition is missing from the English.
+- No unsupported substantive English addition, speaker/actor reassignment, reversal, or newly introduced semantic weakening/strengthening was found.
+- Every wording correction confirmed during E2 remains present; the superseded E1 readings checked by the E3 stale-reading gate do not survive.
+- Historical names, literary works, mythological references, political vocabulary, numbers, rhetorical questions, repetitions and deliberately sharp polemical wording remain represented rather than silently softened.
+
+### Continuous argument check
+
+E3 confirmed the complete movement of the booklet's argument across its full body: unequal access to school life and labour/class circumstances; education as intellectual growth rather than merely employment; rational discernment and Tamil self-respect; the Ekalavya and Iyarpakai critiques; science versus Puranic explanation through rain, electricity, the shape of the earth and eclipses; useful education and Tamil/world history; reformers, Tamil/Dravidian historical consciousness, political knowledge and teacher responsibility; and finally qualification/ability, educational access, communal/class justice and the appeal for courage to think. No argumentative stage was found missing or displaced.
+
+### Page-transition verification
+
+All **75 internal page transitions**, PDF 6→7 through PDF 80→81, were read continuously. The final gate additionally machine-checked representative high-risk split continuations, including 9→10, 13→14, 20→21, 25→26, 29→30, 30→31, 37→38, 40→41, 44→45, 60→61 and 80→81. No transition contains a duplicated carry-over, missing continuation or misplaced sentence.
+
+### E2-correction persistence
+
+E3 explicitly confirmed the consolidated readings for, among others, `வாழ்க்கை வசதி`, `காவியரசத்தில்`, the `சுவை`/`சத்து` distinction, PDF 29 `இகத்தை வெறுத்து`, PDF 39 `போக்கிட`, PDF 47 `நடக்கின்ற உண்மை`, PDF 65 `இனத்துரோகம்`, PDF 75 `அரைகுறையான அவல வாழ்வு`, PDF 77 `படிப்பு வராத இனத்தை`, PDF 78 `உரிமைகளைக் குறைத்து`, and PDF 80 `மூளை பலம்`. The superseded English phrasings are absent.
+
+### Translator/source-note verification
+
+The final English continues to expose difficult frozen readings rather than converting conjecture into source text. E3 rechecked the notes for the principal difficult forms across the body, including `வாழ்க்கைச் செந்தி`, `ஆரம்பக் கல்வியிலிருந்து வரைவிட`, `கல்வி கற்கு மிடம்`, `எட்டுச்சுரையெனப்`, `நல்லதங்கள்`, `நாவினை நாட்டினரும்`, `தவழிப் பூச்சூடி`, `வெறும் படிப்புபோதும்.`, `முன்னேற்றம் மடைகின்றன`, `வளர்த்தை`, `வகைப்படுத்தியாக`, `போற்றிவேண்டும்`, `அரிபந்தாமன்`, `காண்டவன்`, the difficult PDF 38–40 forms, `மனிதனி அறிவு கண்டு`, `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, `மதனின் அறிவு`, `மீனவ மக்களைத் துறந்து`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, `உலகியலேக் காண`, and the final `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு` construction.
+
+### E3 consolidated result
+
+- Body pages finally verified: **76 / 76**
+- Internal page transitions verified: **75 / 75**
+- Newly confirmed E3 corrections: **0**
+- Tamil changes during E1/E2/E3: **0**
+- Stale superseded English readings in the E3 correction gate: **0**
+- Newly detected missing substantive Tamil propositions: **0**
+- Newly detected unsupported substantive English additions: **0**
+- Page-boundary omissions/duplications: **0**
+
+**Stage E3 is complete. The English layer is `verified-complete`.**
+
+## Next gate
+
+Proceed to **final archival synchronization only**: synchronize `metadata.json`, speech `README.md`, repository root catalogue/README as prescribed by `SPEECH_PROCESSING_GUIDE.md`, and convert `HANDOVER.md` into the final completed-state handover. Recheck that the source PDF itself is not committed and that source identity/page-map fields remain unchanged. Do not alter frozen Tamil or verified English unless a newly documented source-based defect is discovered during synchronization.

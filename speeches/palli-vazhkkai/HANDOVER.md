@@ -1,4 +1,4 @@
-# பள்ளி வாழ்க்கை — English E2 handover
+# பள்ளி வாழ்க்கை — E3 verified handover
 
 ## Repository
 
@@ -42,9 +42,9 @@ Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
 
 All **76/76 body pages, PDF 6-81 / printed 5-80**, have undergone independent Tamil→English fidelity review. Every confirmed E2 correction has been consolidated into `translation-en.md`; `translation-review.md` contains the full Batch 1-16 audit. The English layer state is now **fidelity-corrections-consolidated**.
 
-### E3 — NOT STARTED
+### E3 — VERIFIED-COMPLETE
 
-Final end-to-end Tamil→English verification remains blocked until E2 has reviewed all 76 pages and all confirmed corrections are consolidated.
+Final end-to-end Tamil→English verification has passed **PDF 6-81 / printed 5-80 — 76/76 body pages**. All 75 internal page transitions were checked; all confirmed E2 corrections remain consolidated; no new E3 correction was confirmed. `translation-en.md` is now **verified-complete**.
 
 ## Mandatory translation source
 
@@ -187,7 +187,7 @@ Key outcomes:
 - PDF 76-80: PDF 77 retains the source's `படிப்பு வராத` idiom, PDF 78 restores `உரிமைகள்` as `rights`, and PDF 80 restores the `மூளை பலம்` metaphor as `brain-power`.
 - PDF 81: final page passed with the existing notes for `உலகியலேக் காண` and the difficult Dravidian-land phrase; closing `Vanakkam!!` remains.
 
-E2 is complete. Do not mark English `verified-complete` until E3 passes.
+E2 and E3 are complete. English is now `verified-complete`; no further text change is permitted without newly documented source evidence.
 
 ## Source-fidelity safeguards carried into English
 
@@ -195,7 +195,8 @@ Traditional-glyph errors have already been resolved in the frozen Tamil. Transla
 
 ## Exact next activity
 
-Perform **E3 final end-to-end Tamil→English verification for PDF 6-81 / printed pages 5-80**. Re-read every corrected English page against the frozen Tamil, verify page-boundary continuity and all E2 corrections, confirm difficult source forms remain transparent, and only after the full gate passes set English to `verified-complete`.
+Perform **final archival synchronization only**. Update the repository root catalogue/README to include `palli-vazhkkai` as verified complete; mark repository archival closure complete in `metadata.json`; convert this handover into the final completed-state handover; and recheck that the source PDF is not committed while source identity/page-map metadata remains unchanged. Do not change frozen Tamil or verified English without newly documented source evidence.
+
 ## Safeguards
 
 - Scan remains the authority behind the frozen Tamil; frozen Tamil is the authority for English.

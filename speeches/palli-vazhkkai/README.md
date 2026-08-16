@@ -44,7 +44,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
 | English translation (E1) | **First-pass complete — 76/76 body pages; PDF 6-81 / printed 5-80** |
 | English fidelity review (E2) | **Review-complete — 76/76 body pages; all confirmed corrections consolidated** |
-| Final Tamil→English verification (E3) | **Not started** |
+| Final Tamil→English verification (E3) | **Verified-complete — PASS, 76/76 body pages** |
 | Repository archival closure | **Not started** |
 
 ## Verified Tamil layer
@@ -73,10 +73,11 @@ All page boundaries remain explicit, including the PDF 60→61 continuation and 
 
 E2 is now **review-complete** for the full body, **PDF 6-81 / printed 5-80 — 76/76 pages**. The remaining review from PDF 41-81 confirmed the Iyarpakai/science/history/reformer/student-politics/teacher/educational-access/closing sequences and consolidated all confirmed fidelity corrections. Important final actions include removing an unsupported hedge from the PDF 47 Russia passage, preserving the `இனத்துரோகம்` force on PDF 65, documenting the difficult PDF 70 teacher-salary syntax, correcting the over-specific PDF 75 `அரைகுறையான` rendering, restoring the PDF 77 `படிப்பு வராத` idiom, retaining `உரிமைகள்` as `rights` on PDF 78, and preserving the `மூளை பலம்` metaphor as `brain-power` on PDF 80. Full findings for all 16 review batches are in `translation-review.md`.
 
-The English layer is now **fidelity-corrections-consolidated**, but it is not `verified-complete`; E3 remains the release gate.
+E3 has now passed the complete **76/76-page** end-to-end Tamil→English verification. The English layer is **`verified-complete`**; no new E3 correction was confirmed, all 75 internal page transitions were checked, all E2 corrections remain consolidated, and source-difficulty notes remain transparent.
 ## Exact next activity
 
-Perform **E3 final end-to-end Tamil→English verification for PDF 6-81 / printed pages 5-80**. Recompare every corrected English page against the frozen Tamil, verify all page boundaries and E2 corrections, confirm source-supported difficult forms remain transparent, and only after that gate passes mark English `verified-complete`.
+Perform **final archival synchronization only**: update the repository root catalogue/README, mark repository archival closure complete in metadata, convert `HANDOVER.md` to the final completed-state handover, and confirm that the source PDF remains uncommitted while its filename/checksum/size/page-map metadata remains unchanged. Do not modify frozen Tamil or verified English unless a new source-evidenced defect is formally documented.
+
 ## Editorial rule
 
 The supplied scan is the controlling source for this edition. Historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms must not be silently modernized or corrected. OCR or parsed text may assist but is never authoritative. The frozen Tamil layer is the sole translation source unless a later source-evidenced Tamil correction is formally documented and dependent English is re-verified.

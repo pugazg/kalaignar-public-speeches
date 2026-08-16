@@ -1,6 +1,6 @@
 # Palli Vazhkkai — English translation
 
-**Status:** `fidelity-corrections-consolidated` — E1 complete; E2 reviewed **76/76 body pages** and all confirmed corrections are consolidated; E3 pending  
+**Status:** `verified-complete` — E1 complete; E2 reviewed **76/76 body pages** with all confirmed corrections consolidated; E3 final end-to-end verification passed **76/76**  
 **Source Tamil layer:** `transcription-ta.md` — **verified-complete / frozen**  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)
 
@@ -1005,6 +1005,7 @@ To bring into being and establish a sacred land, a Dravidian land—a separate l
 - E1 first-pass translation: **complete — PDF 6-81 / printed 5-80, 76/76 body pages**.
 - E2 Tamil→English fidelity review: **review-complete — 76/76 body pages**.
 - All confirmed E2 corrections: **consolidated into this file**.
-- Current English layer status: **fidelity-corrections-consolidated**.
-- E3 final end-to-end Tamil→English verification: **not started**.
-- Exact next gate: **E3 full-body verification of PDF 6-81 / printed 5-80**.
+- Current English layer status: **verified-complete**.
+- E3 final end-to-end Tamil→English verification: **complete — 76/76 body pages; PASS**.
+- Newly confirmed E3 corrections: **0**.
+- Exact next gate: **final archival synchronization only**.
