@@ -38,11 +38,31 @@ Checksum, file size, duration, codec, stream details, URL, embedded-file metadat
 
 `transcription-ta.md` covers all 12 provisional time segments from 00:00 through 07:22.549. Timestamps are navigation markers aligned to major pauses.
 
+### T2 textual precheck — SEGMENTS 1–3 COMPLETE
+
+A textual comparison of the current T1 against the surfaced Tamil transcript has been completed for **00:00–01:06**.
+
+Record:
+
+- `t2-batches/batch-01-00-00-01-06-precheck.md`
+
+Findings:
+
+- no clear textual discrepancy was found in the three segments;
+- the surfaced transcript supports the provisional name `ஏ. எல். சீனிவாசன்`;
+- `மெத்த உணர்ச்சிப் பெருக்கோடும்` still requires direct listening confirmation;
+- no transcript correction was promoted because the comparison was not an independent replay of the MP3.
+
+This is a precheck only and must not be counted as strict source verification.
+
 ### T2 strict auditory audit — NOT STARTED
 
-- Checked: 0/12 segments.
+- Strictly auditory-verified: **0/12 segments**.
+- Textually prechecked: **3/12 segments**.
 - The current Tamil text is not yet verified.
-- Open readings are listed in `audit.md`.
+- Open readings remain listed in `audit.md`.
+
+The attached MP3 is technically intact. The present processing environment did not yield an independent Tamil listening/ASR result, so the T2 counter was deliberately left unchanged rather than overstated.
 
 ### T3 Tamil consolidation/freeze — BLOCKED
 
@@ -57,15 +77,17 @@ Do not begin English translation until Tamil is `verified-complete`.
 Audit **segments 1–3, 00:00–01:06**, directly against the MP3:
 
 1. verify the opening addressee and honorific sequence;
-2. verify `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
-3. verify the full annual-memorial-event sentence and gratitude paragraph;
-4. record all audio-supported corrections in `audit.md`;
-5. consolidate those corrections into `transcription-ta.md`;
-6. update metadata counters to `strict_audio_audit_segments_checked: 3` only after all three segments pass.
+2. verify whether the name is exactly `ஏ. எல். சீனிவாசன்`;
+3. verify `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
+4. verify the full annual-memorial-event sentence and gratitude paragraph;
+5. determine whether any audience reaction or overlapping voice is present;
+6. record all audio-supported corrections in `audit.md`;
+7. consolidate confirmed corrections into `transcription-ta.md`;
+8. update metadata counters to `strict_audio_audit_segments_checked: 3` only after all three segments pass.
 
 ## Safeguards
 
-- Do not treat surfaced transcription as authoritative.
+- Do not treat surfaced transcription or the textual precheck as authoritative.
 - Do not infer a date from the 2024 XMP metadata.
 - Do not silently modernize spoken Tamil.
 - Do not fill the truncated ending.
