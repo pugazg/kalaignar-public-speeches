@@ -18,11 +18,11 @@ School life! A rich part of human life! A part that enriches human life and give
 
 The human being is born into the world, grows, becomes accustomed to life, passes through its stages, and when childhood begins, school life too begins!
 
-The good fortune of entering school life—yes! This must indeed be called a blessing, a piece of good fortune—is available in this country to only a very few: only a very few have the means, the opportunity, the standard of living, and the circumstances that make such a life possible.
+The good fortune of entering school life—yes! This must indeed be called a blessing, a piece of good fortune—is available in this country to only a very few: only a very few have the means, the opportunity, the standard of living, and the comforts and facilities of life that make it possible.
 
 ### PDF page 7 — printed page 6
 
-To enter school life, study many lessons, learn to read and come to know many books, plunge into the sea of poetry and the realm of epics, examine and understand many fields such as science, history, and geography, and emerge as a learned man, a college man, a poet, a story writer, an essayist, an upright man who instructs the town—the human children who receive this blessing, this good fortune, are very, very few! Extremely few! Why?
+To enter school life, study many lessons, learn to read and come to know many books, plunge into the sea of poetry and the flavour of epic literature, examine and understand many fields such as science, history, and geography, and emerge as a learned man, a college man, a poet, a story writer, an essayist, an upright man who instructs the town—the human children who receive this blessing, this good fortune, are very, very few! Extremely few! Why?
 
 Many live, but those who study, those who are educated, are very few. Why? What is the reason?
 
@@ -44,7 +44,7 @@ School—a schoolhouse, a place to study, a life with the means to go there; at 
 
 The others, with the thought that “life itself is illusion; becoming dust is certain,” live as though saying, “Somehow we were born, somehow we lived,” with no hold upon life, struggling and circling through a barren existence, spending their whole lives as walking corpses!
 
-Without flavour in life, without even a trace of the principle that life is meant to be lived, most of the people of this country lead an insipid existence with the weariness of merely saying, “Somehow, we are living.”
+Without flavour in life, without even a trace of the principle that life is meant to be lived, most of the people of this country lead a life without substance, with the weariness of merely saying, “Somehow, we are living.”
 
 ### PDF page 9 — printed page 8
 

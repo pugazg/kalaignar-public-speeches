@@ -89,11 +89,13 @@
     "english_translation_pages_completed": 76,
     "english_translation_through_pdf_page": 81,
     "english_translation_through_printed_page": 80,
-    "english_translation_review": "not-started",
-    "english_translation_review_pages_checked": 0,
+    "english_translation_review": "in-progress",
+    "english_translation_review_pages_checked": 5,
     "english_translation_final_verification": "not-started",
     "english_translation_final_verification_pages_checked": 0,
     "repository_archival_closure": "not-started",
-    "transcription_translation_work_pending": true
+    "transcription_translation_work_pending": true,
+    "english_translation_review_through_pdf_page": 10,
+    "english_translation_review_through_printed_page": 9
   }
 }

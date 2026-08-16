@@ -43,7 +43,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
 | English translation (E1) | **First-pass complete — 76/76 body pages; PDF 6-81 / printed 5-80** |
-| English fidelity review (E2) | **Not started** |
+| English fidelity review (E2) | **In progress — 5/76 body pages reviewed; through PDF 10 / printed 9** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
 
@@ -71,11 +71,11 @@ The final E1 activity translated **PDF 61-81 / printed 60-80**. It completes the
 
 All page boundaries remain explicit, including the PDF 60→61 continuation and the final PDF 80→81 continuation. Difficult frozen forms are not silently repaired. Translator/source notes retain or identify source-supported difficulties including `மீனவ மக்களைத் துறந்து`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, `உலகியலேக் காண`, and the final phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
 
-E2 has **not** begun. Per repository workflow, the next gate is a separate page-by-page Tamil→English fidelity review against the frozen `transcription-ta.md`.
+E2 is now **in progress**. Batch 1 reviewed **PDF 6-10 / printed 5-9 — 5/76 pages** independently against the frozen Tamil. No paragraph/clause omission, unsupported addition, reversal, or page-boundary loss was found. Three confirmed lexical/rhetorical fidelity corrections were consolidated: PDF 6 `வாழ்க்கை வசதி`, PDF 7 `காவியரசத்தில்`, and PDF 8 the distinction between `சுவையின்றி` and `சத்தற்ற வாழ்க்கை`. Full findings are recorded in `translation-review.md`.
 
 ## Exact next activity
 
-Begin **E2 English fidelity review with PDF 6-10 / printed pages 5-9**. Compare each English page independently against the frozen Tamil, looking specifically for omitted clauses, additions, reversals, softened or strengthened rhetoric, pronoun/subject errors, historical-name errors, removed repetition, page-boundary omissions, and silent normalization of difficult Tamil. Record findings in `translation-review.md` and consolidate only confirmed corrections into `translation-en.md`.
+Continue **E2 English fidelity review with PDF 11-15 / printed pages 10-14**. Compare each English page independently against the frozen Tamil, record substantive findings in `translation-review.md`, and consolidate only confirmed corrections into `translation-en.md`. Do not begin E3 until all 76 pages have passed E2.
 
 ## Editorial rule
 

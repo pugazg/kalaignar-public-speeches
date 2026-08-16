@@ -1,4 +1,4 @@
-# பள்ளி வாழ்க்கை — English E1 handover
+# பள்ளி வாழ்க்கை — English E2 handover
 
 ## Repository
 
@@ -38,9 +38,13 @@ Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
 
 `translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1 is textually complete but is **not yet verified**; E2 and E3 remain mandatory.
 
-### E2 / E3 — NOT STARTED
+### E2 — IN PROGRESS
 
-Independent English fidelity review and final end-to-end Tamil→English verification have not begun. Do **not** begin E2 until the full E1 body translation is complete.
+Batch 1 is complete: **PDF 6-10 / printed 5-9 — 5/76 body pages reviewed**. Three confirmed lexical/rhetorical corrections were consolidated into `translation-en.md`; no omission, unsupported addition, reversal, or page-boundary loss was found in this batch.
+
+### E3 — NOT STARTED
+
+Final end-to-end Tamil→English verification remains blocked until E2 has reviewed all 76 pages and all confirmed corrections are consolidated.
 
 ## Mandatory translation source
 
@@ -139,22 +143,35 @@ Important translation decisions:
 - The final page preserves the source-supported difficult `உலகியலேக் காண` and the source's own categories in the phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
 - Final closing is rendered `Vanakkam!!`, preserving the source's emphatic `வணக்கம் !!`.
 
+
+## E2 Batch 1 — PDF 6-10 / printed 5-9
+
+Completed and consolidated.
+
+Confirmed corrections:
+
+- PDF 6 `வாழ்க்கை வசதி`: replaced overly broad `circumstances` with `the comforts and facilities of life`.
+- PDF 7 `காவியரசத்தில்`: replaced `the realm of epics` with `the flavour of epic literature`, preserving the source's `ரசம்` image.
+- PDF 8 `சுவையின்றி ... சத்தற்ற வாழ்க்கை`: retained `without flavour` for the first image and changed the second from `insipid existence` to `a life without substance`, preserving the two-image distinction.
+
+No whole paragraph/clause omission, unsupported addition, reversal, or page-boundary loss was found. PDF 9→10 continuity and the complete PDF 10 rational-discernment argument were checked and retained.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
 
 ## Exact next activity
 
-Begin **E2 English fidelity review with PDF pages 6-10 / printed pages 5-9**.
+Continue **E2 English fidelity review with PDF pages 11-15 / printed pages 10-14**.
 
 For that review batch:
 
 1. compare each English page independently against the frozen `transcription-ta.md`;
-2. check for omitted clauses, added ideas, reversed meaning, softened/strengthened rhetoric, incorrect subjects/pronouns, mistranslated names/titles, removed repetition, page-boundary omissions and silent normalization;
-3. record every substantive finding in `translation-review.md`;
-4. apply only confirmed corrections to `translation-en.md`;
-5. update metadata/README/HANDOVER with E2 pages checked;
-6. do not begin E3 until E2 has reviewed all 76 pages and all confirmed corrections are consolidated.
+2. check omissions, additions, reversals, altered rhetoric/repetition, subjects/pronouns, names/titles, silent normalization and page-boundary loss;
+3. record substantive findings in `translation-review.md`;
+4. consolidate only confirmed corrections into `translation-en.md`;
+5. update metadata/README/HANDOVER with the cumulative E2 page count;
+6. keep E3 blocked until E2 reaches 76/76 pages and all corrections are consolidated.
 
 ## Safeguards
 
