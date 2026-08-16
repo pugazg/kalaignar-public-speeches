@@ -3,23 +3,23 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3`  
 **Duration:** 00:07:22.549  
-**Status:** **T1 first pass complete; strict auditory audit not started**
+**Status:** **T1 first pass complete; opening time boundaries machine-audited; strict auditory wording audit not complete**
 
-> The MP3 is the controlling source. This first pass was assembled from the attached recording’s surfaced transcript and aligned to major pauses. Punctuation and paragraphing are editorial. Bracketed question marks identify readings that require direct replay confirmation. The abrupt final sentence is preserved exactly as an unfinished recording boundary and is not reconstructed.
+> The MP3 is the controlling source. This first pass was assembled from the attached recording’s surfaced transcript and aligned to major pauses. Punctuation and paragraphing are editorial. Timestamp headings are approximate navigation markers. The opening markers at `00:18`, `00:55`, and `01:11` were corrected using checksum-verified machine-aided audio evidence; this did not verify the wording itself. Bracketed question marks identify readings that still require direct listening confirmation. The abrupt final sentence is preserved exactly as an unfinished recording boundary and is not reconstructed.
 
 ## [00:00]
 
 கலைவாணர் நினைவுக் குழுவின் தலைவர், அருமை நண்பர் **[ஏ. எல். சீனிவாசன்?]** அவர்களே, அருமை நண்பர் சின்ன அண்ணாமலை அவர்களே, கலையுலகப் பெருமக்களே, தாய்மார்களே, நண்பர்களே.
 
-## [00:20]
+## [00:18]
 
 ஆண்டு தோறும் நடைபெறுகின்ற கலைவாணர் நினைவு நாள் விழா இந்த ஆண்டும் மெத்த உணர்ச்சிப் பெருக்கோடும், கலைவாணரை நினைவுகூர்ந்து, அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும் என்கின்ற பேரார்வத்தோடும் நடைபெறுவதைக் காண நான் மிகவும் மகிழ்ச்சியடைகின்றேன்.
 
-## [00:50]
+## [00:55]
 
 கலைவாணர் அவர்களுக்கு நாம் செலுத்த வேண்டிய நன்றியினை இந்த ஒரு வகையிலேதான் செலுத்திட முடியும் என்பதை நான் சுட்டிக்காட்டாமல் இருக்க இயலாது.
 
-## [01:06]
+## [01:11]
 
 கலைவாணருடைய குடும்பம் என்பது அவர் கட்டி வாழ்ந்த அந்த வீட்டுக்குள்ளே இருக்கின்ற ஒரு சிலர் மாத்திரமல்ல. கலைவாணருடைய குடும்பம் என்பது கலைக்குடும்பம்.
 
