@@ -16,7 +16,8 @@
     "venue": null,
     "event_ta": "கலைவாணர் நினைவு நாள் விழா",
     "occasion_note": "The speaker explicitly describes the occasion as an annually conducted Kalaivanar memorial-day function.",
-    "venue_note": "The spoken content strongly indicates the Chennai Kalaivanar Arangam as the present venue, but this remains provisional until the relevant segments pass strict auditory audit."
+    "venue_note": "The spoken content strongly indicates the Chennai Kalaivanar Arangam as the present venue, but this remains provisional until the relevant segments pass strict auditory audit.",
+    "date_context_note": "The recording itself does not state a date. Secondary chronology places the earlier Balar Arangam honour on 1971-09-04 and the renovated Kalaivanar Arangam opening on 1974-01-29. The present memorial-day recording is therefore cautiously treated as likely 1974-01-29 or later, but speech.date remains null."
   },
   "source": {
     "filename": "05.Kalaivanar N.S.Krishnan Ninnaivu Naal Vizha vil Kalaigar Speech.mp3",
@@ -60,6 +61,28 @@
     {"segment": 11, "start": "06:02", "end": "06:53", "subject": "meaning of memorial gifts"},
     {"segment": 12, "start": "06:53", "end": "07:22.549", "subject": "recipients and truncated ending"}
   ],
+  "research": {
+    "chronology_status": "secondary-context-complete",
+    "record": "research/chronology.md",
+    "official_catalogue_identity": "Kalaivanar N. S. Krishnan memorial-day speech, listed separately from the Kalaivanar Arangam opening-ceremony speech",
+    "earlier_event": {
+      "date": "1971-09-04",
+      "venue": "Chennai Balar Arangam",
+      "context": "Udumalai Narayana Kavirayar honour, Rs. 15,000 gold purse, and announcement of the Kalaivanar Arangam name",
+      "warning": "This is the earlier event recalled in the recording, not the date of the present recording."
+    },
+    "renovated_hall_opening": {
+      "date": "1974-01-29",
+      "venue": "Kalaivanar Arangam, Chennai",
+      "source_status": "secondary historical account"
+    },
+    "recording_date_inference": {
+      "likely_not_before": "1974-01-29",
+      "confidence": "cautious",
+      "exact_date_known": false,
+      "must_not_replace_source_date": true
+    }
+  },
   "workflow": {
     "tamil_transcription": "first-pass-complete",
     "audio_segments_total": 12,
