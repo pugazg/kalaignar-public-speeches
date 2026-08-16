@@ -101,19 +101,6 @@ Audit records:
 
 `translation-en.md` translates all 12 timestamp segments from 00:00 through 07:23.559.
 
-It preserves:
-
-- salutation order;
-- formal public-speaking voice;
-- the literal household / wider family-of-the-arts distinction;
-- the great-lamp / small-earthen-lamp image;
-- Udumalai Narayana Kavirayar and the earlier honour;
-- Siruvar Arangam, Balar Arangam and Kalaivanar Arangam;
-- the approximately ₹15,000-plus and ₹25 lakh references;
-- the repeated institutional-need construction;
-- the contrast between small monetary value and great emotional value;
-- the complete restored closing dedication.
-
 ### English E2 — IN PROGRESS
 
 Review plan and status:
@@ -121,17 +108,26 @@ Review plan and status:
 | Batch | Timestamp range | Status |
 |---:|---|---|
 | 1 | 00:00–01:11 | reviewed; corrections consolidated |
-| 2 | 01:11–03:15 | not started |
+| 2 | 01:11–03:15 | reviewed; corrections consolidated |
 | 3 | 03:15–05:42 | not started |
 | 4 | 05:42–07:23.559 | not started |
 
-Batch 1 found no omission, addition or reversal. The salutation order passed, and literal `mothers` was retained for `தாய்மார்களே`.
+Batch 1 found no omission, addition or reversal. It retained `mothers` for `தாய்மார்களே` and consolidated closer renderings for the emotional surge, continuing Kalaivanar's work, and expressing gratitude.
 
-Two wording areas were corrected and consolidated into `translation-en.md`:
+Batch 2 found no omission, addition or reversal. It confirmed:
 
-1. `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
-2. `அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும்` → `the work he left behind must continue to be carried out`;
-3. the awkward `discharge the gratitude we owe` was replaced with `express the gratitude we owe to Kalaivanar`, while preserving `only in this one way` and `I cannot refrain from pointing out`.
+- the household family / `கலைக்குடும்பம்` contrast;
+- the repeated decline and withering language;
+- the great-lamp / small-earthen-lamp imagery;
+- the parallel descriptions of friends close to Kalaivanar;
+- Udumalai Narayana Kavirayar's name and role;
+- the distinct `பொன்னாடை`, `பொற்கிழி`, and `பணமுடிப்பு` expressions;
+- Siruvar Arangam, Balar Arangam and the future renaming announcement.
+
+Batch 2 corrections consolidated into `translation-en.md`:
+
+1. `அவர்களுடைய இல்லத்திலும்` → `in their homes as well`;
+2. the strained `more than approximately fifteen thousand rupees` → `a little over fifteen thousand rupees`, preserving the source's approximate-plus-excess sense.
 
 Detailed reasoning is recorded in `translation-review.md`.
 
@@ -150,22 +146,21 @@ E3 begins only after all E2 batches are complete and all accepted corrections ar
 
 ## Exact next activity
 
-Perform **E2 Batch 2: 01:11–03:15**.
+Perform **E2 Batch 3: 03:15–05:42**.
 
 Compare the frozen Tamil and current English line by line, focusing on:
 
-1. the contrast between Kalaivanar's household family and `கலைக்குடும்பம்`;
-2. the repeated `நலிந்துபோகின்ற ... நலிந்துபோகாமல்` wording;
-3. `வாடி வதங்காமல் வாழ்விக்க`;
-4. the great lamps / small earthen lamps imagery;
-5. the repeated descriptions of friends who moved closely and affectionately with Kalaivanar;
-6. `விசுவாசம்`, `பெருமதிப்பு`, and `மரியாதை`;
-7. the distinction among `பொன்னாடை`, `பொற்கிழி`, and `பணமுடிப்பு`;
-8. the amount `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல்`;
-9. Siruvar Arangam / Balar Arangam and the future-renaming announcement;
-10. omissions, additions, reversals, lost repetition or over-smoothed rhetoric.
+1. the two reasons for rebuilding the old hall;
+2. `சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய்` and whether “approximately twenty-five lakh rupees” retains the source degree;
+3. `கலைவாணருடைய பெயர் ஏற்றி வைக்கப்பட்டது` and the first-pass `Kalaivanar's name was placed upon it`;
+4. Abdul Samad and the contrast between asking whether Kalaivanar's name should be given and whether the old Balar Arangam name should be changed;
+5. the repeated `தமிழ்ச் சமுதாயமும் கலையுலகமும்` pairing and the hall standing majestically as evidence;
+6. the Tirukutralam auditorium passage;
+7. the Tirunelveli/Public Works Minister sentence, ensuring it does not imply a district-specific ministerial office;
+8. `மிகவும் பிடித்தமான இடம்`, the naming suggestion, and `திகழ்கிறது`;
+9. omissions, additions, reversals, weakened rhetoric or over-smoothed repetition.
 
-Record findings in `translation-review.md` before applying any accepted corrections to `translation-en.md`.
+Record findings in `translation-review.md` before applying accepted corrections to `translation-en.md`.
 
 After all four batches:
 
