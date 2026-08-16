@@ -1,0 +1,29 @@
+name: Palli Vazhkkai E1 PDF 61-81
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/palli-vazhkkai-e1-pdf61-81.yml'
+      - 'scripts/palli_vazhkkai_e1_pdf61_81.py'
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply E1 PDF 61-81
+        run: python3 scripts/palli_vazhkkai_e1_pdf61_81.py
+      - name: Commit translation progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add speeches/palli-vazhkkai/translation-en.md speeches/palli-vazhkkai/metadata.json speeches/palli-vazhkkai/README.md speeches/palli-vazhkkai/HANDOVER.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Complete Palli Vazhkkai E1 PDF 61-81"
+          git push
