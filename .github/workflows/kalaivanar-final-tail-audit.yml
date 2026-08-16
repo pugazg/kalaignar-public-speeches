@@ -1,0 +1,60 @@
+name: Kalaivanar final tail audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/kalaivanar-final-tail-audit.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  transcribe-final-minute:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install faster-whisper
+      - name: Download and verify source
+        run: |
+          set -euxo pipefail
+          curl --fail --location --retry 5 --retry-delay 5 \
+            'https://tamildigitallibrary.in/kalaignar/audio/05.Kalaivanar%20N.S.Krishnan%20Ninnaivu%20Naal%20Vizha%20vil%20Kalaigar%20Speech.mp3' \
+            --output source.mp3
+          sha256sum source.mp3 | tee source-sha256.txt
+          test "$(cut -d' ' -f1 source-sha256.txt)" = "7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148"
+          ffmpeg -hide_banner -loglevel error -y -ss 00:06:20 -i source.mp3 -t 00:01:05 -ar 16000 -ac 1 -c:a pcm_s16le final-minute.wav
+          ffmpeg -hide_banner -loglevel error -y -i final-minute.wav -af "highpass=f=80,lowpass=f=7500,afftdn=nf=-22,dynaudnorm=f=150:g=8" final-minute-enhanced.wav
+      - name: Transcribe final minute
+        run: |
+          cat > transcribe.py <<'PY'
+          from faster_whisper import WhisperModel
+          from pathlib import Path
+          import json
+          out=Path('tail-output'); out.mkdir(exist_ok=True)
+          model=WhisperModel('large-v3-turbo',device='cpu',compute_type='int8')
+          for label,audio in [('raw','final-minute.wav'),('enhanced','final-minute-enhanced.wav')]:
+              segments,info=model.transcribe(audio,language='ta',task='transcribe',beam_size=5,best_of=5,temperature=0.0,condition_on_previous_text=False,word_timestamps=True,vad_filter=False)
+              rows=[]; lines=[]
+              for s in segments:
+                  lines.append(f'[{s.start+380:07.2f}-{s.end+380:07.2f}] {s.text.strip()}')
+                  rows.append({'start':s.start+380,'end':s.end+380,'text':s.text.strip(),'avg_logprob':s.avg_logprob,'words':[{'start':w.start+380,'end':w.end+380,'word':w.word,'probability':w.probability} for w in (s.words or [])]})
+              (out/f'{label}.txt').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+              (out/f'{label}.json').write_text(json.dumps({'language':info.language,'language_probability':info.language_probability,'segments':rows},ensure_ascii=False,indent=2),encoding='utf-8')
+          PY
+          python transcribe.py
+          cat tail-output/raw.txt
+          cat tail-output/enhanced.txt
+      - name: Upload evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: kalaivanar-final-tail-audit
+          path: tail-output/
+          retention-days: 7
