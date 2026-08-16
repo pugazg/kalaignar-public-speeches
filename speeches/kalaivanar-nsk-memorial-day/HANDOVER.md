@@ -18,7 +18,7 @@
 - Format: MP3, stereo, 44.1 kHz, approximately 128 kb/s
 - Binary committed: No
 
-The MP3 is authoritative. The filename and surfaced transcript are aids only.
+The MP3 is authoritative. The filename, surfaced transcript, and outside historical sources are aids only.
 
 ## Source findings
 
@@ -69,13 +69,32 @@ Important replay checkpoints include:
 - `தங்கப்பன்`, `பகவதி`, `வெங்கடாசலம்`, and `அதைப்போலவே` / `அதே போலவே`;
 - the exact last audible words before the abrupt cutoff.
 
+### Secondary chronology research — COMPLETE
+
+Record:
+
+- `research/chronology.md`
+
+Findings:
+
+- the earlier Balar Arangam event recalled by the speaker occurred on **4 September 1971**;
+- Udumalai Narayana Kavirayar received a ₹15,000 gold purse and Kalaignar announced the Kalaivanar Arangam name at that earlier event;
+- the renovated Kalaivanar Arangam was inaugurated on **29 January 1974**;
+- the Tamil Digital Library catalogue lists the present memorial-day speech separately from the hall-opening speech.
+
+Safeguard:
+
+- **4 September 1971 is not the date of the present recording**;
+- the present recording is cautiously treated as likely **29 January 1974 or later**;
+- the exact date remains unknown and `speech.date` remains `null`.
+
 ### T2 strict auditory audit — NOT STARTED
 
 - Strictly auditory-verified: **0/12 segments**.
 - Textually prechecked: **12/12 segments**.
 - The Tamil layer is not verified.
 
-The attached MP3 is intact, but the current processing environment has not yielded an independent Tamil listening or speech-decoding result. The strict counter must remain unchanged.
+The attached MP3 is intact. The execution environment contains TorchAudio and exposes the multilingual MMS forced-alignment API, but the model weights are not cached and the container cannot reach the external model host. No local Whisper, Vosk, MMS, or other usable speech model was found. Therefore the strict counter must remain unchanged.
 
 ### T3 Tamil consolidation/freeze — BLOCKED
 
@@ -87,9 +106,7 @@ Do not begin English translation until Tamil is `verified-complete`.
 
 ## Exact next activity
 
-No further text-only precheck batch remains.
-
-Perform direct T2 auditory audit of **segments 1–3, 00:00–01:06**, against the controlling MP3:
+Perform direct T2 auditory audit of **segments 1–3, 00:00–01:06**, against the controlling MP3 in an environment capable of actual audio replay or Tamil speech alignment:
 
 1. verify the opening title/name sequence and `ஏ. எல். சீனிவாசன்`;
 2. verify `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
@@ -99,9 +116,13 @@ Perform direct T2 auditory audit of **segments 1–3, 00:00–01:06**, against t
 6. consolidate confirmed corrections into `transcription-ta.md`;
 7. advance `strict_audio_audit_segments_checked` to 3 only after all three segments pass.
 
+No further text-only precheck or chronology pass should be substituted for this source gate.
+
 ## Safeguards
 
 - Do not treat surfaced transcription or completed textual prechecks as authoritative.
+- Do not use secondary chronology to overwrite spoken wording.
+- Do not set the speech date to 1971-09-04.
 - Do not infer a date from the 2024 XMP metadata.
 - Do not silently modernize spoken Tamil.
 - Do not fill the truncated ending.
