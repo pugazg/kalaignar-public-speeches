@@ -6,7 +6,7 @@
 
 ## Review status
 
-**Status:** `in-progress` — **35/76 body pages reviewed**
+**Status:** `review-complete` — **76/76 body pages reviewed; all confirmed corrections consolidated**
 
 | Review batch | PDF pages | Printed pages | Status |
 |---|---:|---:|---|
@@ -17,7 +17,15 @@
 | 5 | 26–30 | 25–29 | reviewed; two confirmed corrections/transparency notes consolidated |
 | 6 | 31–35 | 30–34 | reviewed; confirmed transparency note consolidated |
 | 7 | 36–40 | 35–39 | reviewed; semantic correction plus source-difficulty notes consolidated |
-| 8 | 41–45 | 40–44 | next |
+| 8 | 41–45 | 40–44 | reviewed; no new correction required |
+| 9 | 46–50 | 45–49 | reviewed; one source-assertion correction consolidated |
+| 10 | 51–55 | 50–54 | reviewed; no new correction required |
+| 11 | 56–60 | 55–59 | reviewed; existing source-difficulty notes confirmed |
+| 12 | 61–65 | 60–64 | reviewed; one polemical-term correction consolidated |
+| 13 | 66–70 | 65–69 | reviewed; one source-syntax transparency note consolidated |
+| 14 | 71–75 | 70–74 | reviewed; one over-specific rendering corrected |
+| 15 | 76–80 | 75–79 | reviewed; three fidelity corrections consolidated |
+| 16 | 81 | 80 | reviewed; existing final-page source note confirmed |
 
 E1 is complete for all 76 body pages. E2 is now active. E3 remains blocked until all 76 pages have been independently reviewed and all confirmed E2 corrections have been consolidated.
 
@@ -104,13 +112,92 @@ The Ekalavya guru-dakshina sequence, the Tara–Chandra/Brihaspati criticism, an
 4. **PDF 40 `இறும்பூதெய்தி`.** The contextual `filled with wonder` is retained, but the exact frozen form is now visible in a translator/source note.
 5. PDF 40's `என்ன கொடுமதி உமக்கு` remains contextually rendered as `What a wicked mind you have!`; the review records that this is a close contextual reading of the frozen wording, not a Tamil correction.
 
+## Batch 8 — PDF 41–45 / printed 40–44
+
+### Result
+
+The continuation and completion of the Iyarpakai Nayanar episode, the author's polemical critique, and the opening science-versus-Purana rain argument are complete. No clause omission, unsupported addition, reversal, or page-boundary loss was found. The PDF 40→41 and 44→45 continuations remain intact. No new correction was required.
+
+## Batch 9 — PDF 46–50 / printed 45–49
+
+### Result
+
+The rain/Varuna contrast, the Russia example, the repeated rational-discernment questions, and the opening catalogue of science/electricity are structurally complete.
+
+### Confirmed correction
+
+1. **PDF 47 `ரஷ்ய நாட்டுச் செய்தியையும், நடக்கின்ற உண்மையையும்`.** E1 inserted `the reality said to be occurring there`, adding an evidential hedge not present in the frozen Tamil, which presents it as `நடக்கின்ற உண்மை`. The unsupported `said to be` has been removed. This correction follows the source claim without independently endorsing or verifying it.
+2. PDF 48's difficult `மனிதனி அறிவு கண்டு` was already preserved explicitly in a translator/source note; no further change was needed.
+
+## Batch 10 — PDF 51–55 / printed 50–54
+
+### Result
+
+No new correction was required. The thought/scientific-progress passage, newspapers/radio/telegram/bank sequence, flat-earth and Varaha narrative, and science-versus-Purana eclipse explanations are complete and preserve their page continuations and rhetorical contrasts.
+
+## Batch 11 — PDF 56–60 / printed 55–59
+
+### Result
+
+No new semantic correction was required. The argument against simultaneously teaching incompatible Puranic and scientific explanations, the call for useful education, and the Tamil-history curriculum critique are complete. Existing notes correctly preserve `சுதுமதி படைத்தோரால்`, `தமிழனமாக`, and `மதனின் அறிவு`; the PDF 60→61 continuation remains explicit.
+
+## Batch 12 — PDF 61–65 / printed 60–64
+
+### Result
+
+The Socrates/Martin Luther/reformer sequence, life-education programme, human-behaviour questions, and Tamil/Dravidian identity argument are complete. Existing transparency for PDF 62 `மீனவ மக்களைத் துறந்து` remains adequate.
+
+### Confirmed correction
+
+1. **PDF 65 `இனத்துரோகம்`.** E1 rendered this as `betrayal of the people`, which weakened the source's explicit `இனம்` force. It now reads `betrayal of one's people`, preserving the polemical collective identity without importing an outside formulation.
+
+## Batch 13 — PDF 66–70 / printed 65–69
+
+### Result
+
+The historical-consciousness argument, school-life-as-weapon metaphor, future-professions catalogue, and distinction between political knowledge and direct student participation are complete. No omission or reversal was found.
+
+### Confirmed transparency action
+
+1. **PDF 70 `பள்ளி ஆசிரியர் வாழ்வு, இன்று சுவைதரும் வாழ்வாக, ...`.** E1 supplied the contextually obvious negative sense (`not a life of comfort`) because the following clause says teachers' salaries do not provide even ordinary necessities. The frozen syntax itself does not state that negation cleanly. A translator/source note now records the exact difficult wording so the readable English is not mistaken for a Tamil correction.
+
+## Batch 14 — PDF 71–75 / printed 70–74
+
+### Result
+
+The teacher-responsibility passage and the extended challenge to inherited ideas of student `qualification` and `ability` are complete. The source's sharp labels for different students remain unsanitized. Existing notes for `தன்னுலே` and `இதற்கேல் வாழ் பொருந்தும் முறையிலே` remain adequate.
+
+### Confirmed correction
+
+1. **PDF 75 `அரைகுறையான அவல வாழ்வு`.** E1's `half-starved, miserable life` added a specific hunger condition beyond the phrase itself. The sentence now reads `a deprived, miserable life`, while the surrounding source references to limited food remain separately translated.
+
+## Batch 15 — PDF 76–80 / printed 75–79
+
+### Result
+
+The poverty/marks argument, human-rights and educational-access sequence, communal/class-justice passage, and the transition into the closing argument are complete. Three fidelity issues were corrected.
+
+### Confirmed corrections
+
+1. **PDF 77 `படிப்பு வராத இனத்தை`.** E1's `people said to be unable to study` turned the source phrase into reported speech. It now retains the text's repeated idiom as `the community for whom ‘study does not come’`.
+2. **PDF 78 `தன்னுடைய உரிமைகளைக் குறைத்து`.** E1 used `reduce our own privileges`; the source says `உரிமைகள்` (`rights`) and then separately uses `ஏக போகம்` for monopoly/exclusive enjoyment. The English now reads `reduce our own rights, surrender our monopoly`.
+3. **PDF 80 `மூளை பலம்`.** E1's `strength of mind` softened the explicit brain-strength metaphor. It now reads `greater brain-power is needed`.
+
+## Batch 16 — PDF 81 / printed 80
+
+### Result
+
+The final page passed E2 without a new correction. The PDF 80→81 continuation is intact; the closing sequence preserves courage to think, Tamil knowledge, rational discernment, `தமிழினத்தை`, the call to establish `தமிழ்த் திருநாடு`, and the final `வணக்கம் !!`. The existing translator/source note adequately records `உலகியலேக் காண` and the structurally difficult `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு` rather than replacing the frozen witness with outside historical reconstruction.
+
 ## Cumulative E2 state
 
-- Reviewed: **PDF 6–40 / printed 5–39 — 35/76 body pages**.
-- Confirmed corrections have been consolidated as each reviewed batch completed.
-- E3 remains blocked until E2 reaches 76/76 pages.
+- Reviewed: **PDF 6–81 / printed 5–80 — 76/76 body pages**.
+- E2 fidelity review: **review-complete**.
+- Every confirmed E2 correction identified in Batches 1–16 has been consolidated into `translation-en.md`.
+- The English layer is now **fidelity-corrections-consolidated**, but **not yet verified-complete**.
+- E3 final end-to-end Tamil→English verification remains mandatory.
 
 
 ## Exact next activity
 
-Review **PDF 41–45 / printed pages 40–44** independently against the frozen Tamil. Record substantive findings here and consolidate only confirmed corrections into `translation-en.md`. Do not begin E3 until E2 has reviewed all 76 pages and every confirmed correction has been consolidated.
+Perform **E3 final end-to-end Tamil→English verification for PDF 6–81 / printed pages 5–80**. Compare the complete corrected English layer once more against the frozen Tamil from beginning to end, verify page headings and page-boundary continuity, confirm that all E2 corrections are present and no reviewed source difficulties were accidentally normalized, and only then mark the English translation `verified-complete`.

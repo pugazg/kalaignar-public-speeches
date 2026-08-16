@@ -1,6 +1,6 @@
 # Palli Vazhkkai — English translation
 
-**Status:** `first-pass-complete` — E1 translated through **PDF page 81 / printed page 80** (**76/76 body pages**)  
+**Status:** `fidelity-corrections-consolidated` — E1 complete; E2 reviewed **76/76 body pages** and all confirmed corrections are consolidated; E3 pending  
 **Source Tamil layer:** `transcription-ta.md` — **verified-complete / frozen**  
 **Body scope:** PDF pages 6-81 / printed pages 5-80 (**76 pages**)
 
@@ -536,7 +536,7 @@ A concept, a contradictory concept and doctrine, concerning the same matter, the
 
 On one side the student observes Varuna prayers still being conducted, Varuna sacrifices performed, and enormous sums spent on Varuna japas to make rain fall and make dry land prosper through the grace of Varuna Bhagavan.
 
-At the same time, the student reads news of Russia and the reality said to be occurring there: people go among the clouds in aeroplanes and, through scientific instruments, draw the clouds in and make rain fall in their country!
+At the same time, the student reads news of Russia and the reality occurring there: people go among the clouds in aeroplanes and, through scientific instruments, draw the clouds in and make rain fall in their country!
 
 Varuna japa—for rain! Did the rain come? Can it be stated with certainty that Varuna japa was performed, rain fell, and the country gained good prosperity? Is that not impossible to establish?
 
@@ -786,7 +786,7 @@ The student of England calls himself an Englishman—
 
 A dam against the student's intellectual growth! A barrier to thought, a barrier to progress—unnecessary!
 
-Do not put a bolt on the Tamil's feeling of self-respect. That is betrayal of the people—a degrading act!
+Do not put a bolt on the Tamil's feeling of self-respect. That is betrayal of one's people—a degrading act!
 
 The Tamil son who studies the self-respecting history of the Tamil people will shine as a Tamil warrior! When he studies the greatness and noble life of the Tamil land ruled by his ancestors, can he avoid thinking about its condition today? A desire, capacity, knowledge and fearlessness to reform it, refine it, give Tamil Nadu a life of self-respect and establish a distinct Tamil land will surely arise! Why place a barrier, a bolt, against this? There is no need!
 
@@ -843,6 +843,8 @@ Students must remember this well. They must not needlessly become trapped in the
 Everyone knows that the great task of shaping the school student during school life belongs to the schoolteacher!
 
 The life of the schoolteacher today is not a life of comfort; their wages and salaries are at such a level that they cannot obtain even the ordinary facilities necessary for life! Poverty has always remained the teacher's companion! A pitiable condition!
+
+*[Translator/source note: the frozen Tamil here reads `பள்ளி ஆசிரியர் வாழ்வு, இன்று சுவைதரும் வாழ்வாக, வாழ்க்கைக்குத் தேவையான, சாதாரண வசதிகள் கூடக் கிடைக்க முடியாத அளவில்தான்...`. The following salary clause clearly describes deprivation; the readable English retains that contextual negative sense while recording, rather than silently repairing, the source's difficult syntax.]*
 
 Even in this pitiable condition, their work of teaching school students is good work, beneficial work rendered to the country!
 
@@ -912,7 +914,7 @@ The poor cultivator's son must rise early in the morning, go to the fields with 
 
 His is a life of poverty in which he cannot obtain the food he needs, a comfortable dwelling, the necessary clothes, or even buy all the textbooks—all the books—he requires.
 
-To live, that poor student must labour with his family and help them! He eats what he can get, wears torn clothes and lives a half-starved, miserable life. Along with all this—
+To live, that poor student must labour with his family and help them! He eats what he can get, wears torn clothes and lives a deprived, miserable life. Along with all this—
 
 *[Translator/source note: the frozen Tamil on this page contains the syntactically irregular phrase `இதற்கேல் வாழ் பொருந்தும் முறையிலே`. The surrounding argument is rendered closely without silently rewriting the Tamil source.]*
 
@@ -932,7 +934,7 @@ Qualification and ability are shaped according to each person's circumstances—
 
 —in every way, as we can see.
 
-Therefore it is not proper, not just, and is contrary to human character to leave the poor and simple, the backward society, the people said to be unable to study, in an even more backward condition, while continuously sending forward on the path of progress only those educated people who already live and grow in educated lineages and favourable surroundings, the children of the rich, and Brahmin students of educated lineages.
+Therefore it is not proper, not just, and is contrary to human character to leave the poor and simple, the backward society, the community for whom ‘study does not come,’ in an even more backward condition, while continuously sending forward on the path of progress only those educated people who already live and grow in educated lineages and favourable surroundings, the children of the rich, and Brahmin students of educated lineages.
 
 This is the age of democracy. Every human being has rights. Every human being must live. This is an age of renaissance in which the principle is blossoming that one human being must not exploit, deceive or degrade another.
 
@@ -950,7 +952,7 @@ School life must not become the exclusive right of those who are already privile
 
 People who have fallen behind because of birth, backward doctrines and poverty must be brought to a condition in which they can come forward and stand alongside others!
 
-The human heart must wish to enable others to live as oneself does. The thought, awakening and agitation that we must reduce our own privileges, surrender our monopoly, grant concessions to backward people, create opportunities for them and advance them is needed throughout the country! Very, very much needed!
+The human heart must wish to enable others to live as oneself does. The thought, awakening and agitation that we must reduce our own rights, surrender our monopoly, grant concessions to backward people, create opportunities for them and advance them is needed throughout the country! Very, very much needed!
 
 The schools that exist are few! The number of students is very large! To say that, because there is not enough money or space to establish new schools, only those with the best qualifications and the greatest ability should be admitted to school is a great betrayal of backward people.
 
@@ -978,7 +980,7 @@ In every aspect of life today, ability is required; knowledge becomes necessary!
 
 Qualification, ability, the power to plan, the capacity to complete anything properly and clearly, knowledge, the capacity to investigate—all these are needed by the human being today!
 
-For human life to advance today, greater strength of mind is needed. Clarity of thought, the mental capacity and strength to investigate complicated problems, analyse them and reach conclusions play an important part in human life!
+For human life to advance today, greater brain-power is needed. Clarity of thought, the mental capacity and strength to investigate complicated problems, analyse them and reach conclusions play an important part in human life!
 
 A human being must gain the courage to think. Courage is necessary; today the human being is in a condition in which courage is needed even to think!
 
@@ -998,9 +1000,11 @@ To bring into being and establish a sacred land, a Dravidian land—a separate l
 
 *[Translator/source note: the frozen final page retains the unusual form `உலகியலேக் காண` and the structurally difficult phrase `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`. The English renders the surrounding sense while preserving the source's categories rather than replacing them with an outside reconstruction.]*
 
-## E1 progress
+## English workflow progress
 
-- Completed: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
-- E1 status: **first-pass-complete**.
-- Independent E2 fidelity review has **not** begun.
-- Exact next gate: **E2 Tamil→English fidelity review**, beginning with **PDF 6-10 / printed 5-9**.
+- E1 first-pass translation: **complete — PDF 6-81 / printed 5-80, 76/76 body pages**.
+- E2 Tamil→English fidelity review: **review-complete — 76/76 body pages**.
+- All confirmed E2 corrections: **consolidated into this file**.
+- Current English layer status: **fidelity-corrections-consolidated**.
+- E3 final end-to-end Tamil→English verification: **not started**.
+- Exact next gate: **E3 full-body verification of PDF 6-81 / printed 5-80**.

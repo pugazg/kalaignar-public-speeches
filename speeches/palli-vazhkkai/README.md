@@ -43,7 +43,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
 | English translation (E1) | **First-pass complete — 76/76 body pages; PDF 6-81 / printed 5-80** |
-| English fidelity review (E2) | **In progress — 35/76 body pages reviewed; through PDF 40 / printed 39** |
+| English fidelity review (E2) | **Review-complete — 76/76 body pages; all confirmed corrections consolidated** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
 
@@ -71,14 +71,12 @@ The final E1 activity translated **PDF 61-81 / printed 60-80**. It completes the
 
 All page boundaries remain explicit, including the PDF 60→61 continuation and the final PDF 80→81 continuation. Difficult frozen forms are not silently repaired. Translator/source notes retain or identify source-supported difficulties including `மீனவ மக்களைத் துறந்து`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, `உலகியலேக் காண`, and the final phrase concerning `ஆந்திர, கேரள, கன்னட, மலையாளரைக் கொண்ட தனி நாடு`.
 
-E2 is now **in progress**. Batch 1 reviewed **PDF 6-10 / printed 5-9 — 5/76 pages** independently against the frozen Tamil. No paragraph/clause omission, unsupported addition, reversal, or page-boundary loss was found. Three confirmed lexical/rhetorical fidelity corrections were consolidated: PDF 6 `வாழ்க்கை வசதி`, PDF 7 `காவியரசத்தில்`, and PDF 8 the distinction between `சுவையின்றி` and `சத்தற்ற வாழ்க்கை`. Full findings are recorded in `translation-review.md`.
+E2 is now **review-complete** for the full body, **PDF 6-81 / printed 5-80 — 76/76 pages**. The remaining review from PDF 41-81 confirmed the Iyarpakai/science/history/reformer/student-politics/teacher/educational-access/closing sequences and consolidated all confirmed fidelity corrections. Important final actions include removing an unsupported hedge from the PDF 47 Russia passage, preserving the `இனத்துரோகம்` force on PDF 65, documenting the difficult PDF 70 teacher-salary syntax, correcting the over-specific PDF 75 `அரைகுறையான` rendering, restoring the PDF 77 `படிப்பு வராத` idiom, retaining `உரிமைகள்` as `rights` on PDF 78, and preserving the `மூளை பலம்` metaphor as `brain-power` on PDF 80. Full findings for all 16 review batches are in `translation-review.md`.
 
-The extended E2 activity then reviewed **PDF 11-40 / printed 10-39**, bringing the cumulative total to **35/76 pages**. Confirmed actions include preserving the unusual PDF 14 `வாழ்க்கைச் செந்தி`, documenting PDF 17 `வரைவிட`, correcting the PDF 29 attachment of `இகத்தை வெறுத்து` versus merit-for-the-next-world, making PDF 30 `வளர்த்தை` / `வளர்த்தைப்` / `வகைப்படுத்தியாக` visible, documenting PDF 32 `போற்றிவேண்டும்`, and correcting the direct PDF 39 reversal where `போக்கிட` had been translated as `promote`. Difficult PDF 38-40 forms are now explicitly documented rather than silently normalized. Full page-group findings are in `translation-review.md`.
-
+The English layer is now **fidelity-corrections-consolidated**, but it is not `verified-complete`; E3 remains the release gate.
 ## Exact next activity
 
-Continue **E2 English fidelity review with PDF 41-45 / printed pages 40-44**. Compare each English page independently against the frozen Tamil, record substantive findings in `translation-review.md`, and consolidate only confirmed corrections into `translation-en.md`. Do not begin E3 until all 76 pages have passed E2.
-
+Perform **E3 final end-to-end Tamil→English verification for PDF 6-81 / printed pages 5-80**. Recompare every corrected English page against the frozen Tamil, verify all page boundaries and E2 corrections, confirm source-supported difficult forms remain transparent, and only after that gate passes mark English `verified-complete`.
 ## Editorial rule
 
 The supplied scan is the controlling source for this edition. Historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar, and source-supported typographical forms must not be silently modernized or corrected. OCR or parsed text may assist but is never authoritative. The frozen Tamil layer is the sole translation source unless a later source-evidenced Tamil correction is formally documented and dependent English is re-verified.

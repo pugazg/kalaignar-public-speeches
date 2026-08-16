@@ -36,11 +36,11 @@ English translation has been produced only from the frozen Tamil layer.
 
 Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
 
-`translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1 is textually complete but is **not yet verified**; E2 and E3 remain mandatory.
+`translation-en.md` preserves PDF/printed-page headings and paragraph sequence throughout the full body. E1 is complete, E2 review/correction consolidation is complete, and E3 final verification remains mandatory.
 
-### E2 — IN PROGRESS
+### E2 — REVIEW COMPLETE
 
-E2 is complete through **PDF 40 / printed 39 — 35/76 body pages reviewed**. Batch 1 covered PDF 6-10. The repository-owner-requested extended review covered PDF 11-40 in six five-page review groups. Confirmed corrections and transparency notes have already been consolidated into `translation-en.md`; the detailed audit is in `translation-review.md`.
+All **76/76 body pages, PDF 6-81 / printed 5-80**, have undergone independent Tamil→English fidelity review. Every confirmed E2 correction has been consolidated into `translation-en.md`; `translation-review.md` contains the full Batch 1-16 audit. The English layer state is now **fidelity-corrections-consolidated**.
 
 ### E3 — NOT STARTED
 
@@ -171,14 +171,31 @@ Key review outcomes:
 - PDF 36-40: corrected the direct PDF 39 reversal `போக்கிட` ≠ `promote`; documented difficult PDF 38 forms `நாயகனுக்கிக்கொண்ட`, `சந்திரனச் சல்லாபத்திற்`, `கடிக்குலவின`; PDF 39 `மாணுக்கர்களுக்கு`, `திடமென்று`, `பூலோக வாசிகளேப்`; and PDF 40 `இறும்பூதெய்தி`.
 - PDF 40→41 continuation remains intact; page 41 itself is not yet counted as reviewed.
 
+
+## E2 remaining review — PDF 41-81 / printed 40-80
+
+Completed and consolidated at the repository owner's request as the final 41-page E2 activity.
+
+Key outcomes:
+
+- PDF 41-45: Iyarpakai conclusion and opening rain/science contrast passed without a new correction.
+- PDF 46-50: removed the unsupported `said to be` hedge from the PDF 47 `நடக்கின்ற உண்மை` Russia sentence; existing `மனிதனி அறிவு கண்டு` transparency remains.
+- PDF 51-60: scientific/technical catalogues, Varaha/eclipses, useful-education and Tamil-history arguments passed; existing `சுதுமதி`, `தமிழனமாக`, and `மதனின் அறிவு` notes remain adequate.
+- PDF 61-65: reformer/humanity/Tamil-identity material passed; PDF 65 `இனத்துரோகம்` is now rendered `betrayal of one's people`.
+- PDF 66-70: political-awareness material passed; PDF 70 now documents the difficult `சுவைதரும் வாழ்வாக ... சாதாரண வசதிகள் கூடக் கிடைக்க முடியாத` teacher-salary syntax behind the contextual English negative.
+- PDF 71-75: teacher and qualification/ability discussion passed; PDF 75 `அரைகுறையான அவல வாழ்வு` is now `a deprived, miserable life`, not the over-specific `half-starved`.
+- PDF 76-80: PDF 77 retains the source's `படிப்பு வராத` idiom, PDF 78 restores `உரிமைகள்` as `rights`, and PDF 80 restores the `மூளை பலம்` metaphor as `brain-power`.
+- PDF 81: final page passed with the existing notes for `உலகியலேக் காண` and the difficult Dravidian-land phrase; closing `Vanakkam!!` remains.
+
+E2 is complete. Do not mark English `verified-complete` until E3 passes.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
 
 ## Exact next activity
 
-Continue **E2 English fidelity review with PDF pages 41-45 / printed pages 40-44**. Compare each page independently against frozen `transcription-ta.md`, record findings in `translation-review.md`, consolidate only confirmed corrections, update the cumulative E2 count, and keep E3 blocked until E2 reaches 76/76 pages and all corrections are consolidated.
-
+Perform **E3 final end-to-end Tamil→English verification for PDF 6-81 / printed pages 5-80**. Re-read every corrected English page against the frozen Tamil, verify page-boundary continuity and all E2 corrections, confirm difficult source forms remain transparent, and only after the full gate passes set English to `verified-complete`.
 ## Safeguards
 
 - Scan remains the authority behind the frozen Tamil; frozen Tamil is the authority for English.
