@@ -27,7 +27,7 @@
 | 15 | 76–80 | 75–79 | reviewed; three fidelity corrections consolidated |
 | 16 | 81 | 80 | reviewed; existing final-page source note confirmed |
 
-E1 is complete for all 76 body pages. E2 is now active. E3 remains blocked until all 76 pages have been independently reviewed and all confirmed E2 corrections have been consolidated.
+E1 is complete for all 76 body pages. E2 is review-complete and all confirmed corrections are consolidated. E3 remains the mandatory final release gate.
 
 ## Batch 1 — PDF 6–10 / printed 5–9
 
