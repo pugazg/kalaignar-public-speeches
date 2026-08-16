@@ -36,9 +36,9 @@ Tamil must not now be changed without documented source evidence. Any later Tami
 
 English translation is being produced only from the frozen Tamil layer.
 
-Completed E1 scope: **PDF 6-15 / printed 5-14 — 10/76 body pages**.
+Completed E1 scope: **PDF 6-20 / printed 5-19 — 15/76 body pages**.
 
-`translation-en.md` preserves the PDF/printed-page headings and paragraph sequence for all translated pages. Batch 1 covers PDF 6-10; Batch 2 covers PDF 11-15.
+`translation-en.md` preserves the PDF/printed-page headings and paragraph sequence for all translated pages. Batch 1 covers PDF 6-10; Batch 2 covers PDF 11-15; Batch 3 covers PDF 16-20.
 
 ### E2 / E3 — NOT STARTED
 
@@ -85,6 +85,21 @@ Important translation decisions:
 - Repetition in the labour passages (`உழைத்தால்தான்...`) is preserved in English rather than compressed.
 - PDF 15's `எழுத்து வாசனை` is rendered conservatively as “some acquaintance with letters,” and `தமிழ்க் கணக்கு` as “Tamil accounting,” avoiding a stronger modernization than the frozen text supports.
 
+## E1 Batch 3 — PDF 16-20 / printed 15-19
+
+Completed and committed to `translation-en.md`.
+
+Important translation decisions:
+
+- PDF 16's `திண்ணைப்பள்ளி` is rendered as a *thinnai* school rather than replaced with a modern institutional label.
+- PDF 17→18 keeps the source sentence spanning the page boundary: those leaving high school are “merely—” / “—job-seekers in our country.”
+- PDF 18→19 likewise preserves the argument that schooling is pursued for the prospect of “half a stomachful of gruel—” / “—without bodily labour, obtain some kind of job, and live.”
+- The hierarchy of elementary, middle, high-school, college and technical education is retained in source order, together with the repeated narrowing of student numbers at each stage.
+- PDF 19's frozen `கல்வி கற்கு மிடம்` is rendered closely as “The places for learning education are educational institutions,” without silently correcting the Tamil.
+- PDF 19's `எட்டுச்சுரையெனப்` remains semantically uncertain in the frozen witness. The translation retains `எட்டுச்சுரை` in Tamil and adds a concise translator/source note rather than inventing a meaning.
+- PDF 20's long public-minded argument is kept structurally intact, including the metaphors of education as a companion, lighthouse, guide and instrument for enriching life.
+- PDF 20 ends with an unfinished clause (`வாழ்வில் தெளிவுபெற்று,`); the English likewise remains open for continuation on PDF 21 rather than being completed early.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not the superseded T1 readings. Examples include `கவலைப்பட`, `நன்றாக`, `மனிதனாக`, `தமிழனாக`, `தோழனாக`, `அவனாகத்தான்`, and `தேவனை`.
@@ -93,15 +108,16 @@ Conversely, genuine source-supported oddities remain part of the frozen witness 
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF pages 16-20 / printed pages 15-19** from `transcription-ta.md`.
+Continue **E1 English translation with PDF pages 21-25 / printed pages 20-24** from `transcription-ta.md`.
 
 For that batch:
 
 1. retain the same PDF/printed-page headings in `translation-en.md`;
-2. translate every paragraph from the frozen Tamil, with no omitted clause or added historical explanation;
-3. preserve repetition and rhetorical questions rather than smoothing them away;
-4. flag any genuinely difficult frozen Tamil with a concise translator/source note rather than silently correcting it;
-5. update `metadata.json`, `README.md`, and this `HANDOVER.md` with E1 page progress after the batch.
+2. continue the unfinished PDF 20 sentence faithfully onto PDF 21;
+3. translate every paragraph from the frozen Tamil, with no omitted clause or added historical explanation;
+4. preserve repetition and rhetorical questions rather than smoothing them away;
+5. flag any genuinely difficult frozen Tamil with a concise translator/source note rather than silently correcting it;
+6. update `metadata.json`, `README.md`, and this `HANDOVER.md` with E1 page progress after the batch.
 
 ## Safeguards
 
