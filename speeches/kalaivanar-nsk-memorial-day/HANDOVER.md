@@ -25,7 +25,7 @@ The MP3 is authoritative. The filename and surfaced transcript are aids only.
 - Speaker: மு. கருணாநிதி.
 - Event stated in speech: annual `கலைவாணர் நினைவு நாள் விழா`.
 - Speech date: not stated.
-- Venue: strongly indicated by the spoken content as the Chennai Kalaivanar Arangam, but remains provisional until T2 verifies those passages.
+- Venue: strongly indicated by the spoken content as the Chennai Kalaivanar Arangam, but remains provisional until strict auditory verification.
 - Recording boundary: the file ends abruptly during a sentence about actor வெங்கடாசலம். Do not reconstruct the continuation.
 
 ## Workflow state
@@ -36,58 +36,69 @@ Checksum, file size, duration, codec, stream details, URL, embedded-file metadat
 
 ### T1 Tamil first pass — COMPLETE
 
-`transcription-ta.md` covers all 12 provisional time segments from 00:00 through 07:22.549. Timestamps are navigation markers aligned to major pauses.
+`transcription-ta.md` covers all 12 provisional time segments from 00:00 through 07:22.549.
 
-### T2 textual precheck — SEGMENTS 1–3 COMPLETE
+### T2 textual precheck — SEGMENTS 1–6 COMPLETE
 
-A textual comparison of the current T1 against the surfaced Tamil transcript has been completed for **00:00–01:06**.
-
-Record:
+Completed records:
 
 - `t2-batches/batch-01-00-00-01-06-precheck.md`
+- `t2-batches/batch-02-01-06-03-15-precheck.md`
 
-Findings:
+Cumulative result:
 
-- no clear textual discrepancy was found in the three segments;
-- the surfaced transcript supports the provisional name `ஏ. எல். சீனிவாசன்`;
-- `மெத்த உணர்ச்சிப் பெருக்கோடும்` still requires direct listening confirmation;
-- no transcript correction was promoted because the comparison was not an independent replay of the MP3.
+- textually prechecked: **6/12 segments**;
+- no clear substantive discrepancy between T1 and the surfaced transcript in segments 1–6;
+- no transcript wording was promoted as source-verified;
+- no change was made to `transcription-ta.md`.
 
-This is a precheck only and must not be counted as strict source verification.
+Important replay checkpoints now include:
+
+- `ஏ. எல். சீனிவாசன்`;
+- `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
+- the long `கலைக்குடும்பம்` sentence and its spoken joins;
+- `கலைவாணரோடிருந்து`;
+- `உடுமலை நாராயணக் கவிராயர்` and `பொற்கிழியும்`;
+- `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல் பணமுடிப்பும்`;
+- `சிறுவர் அரங்கம் அல்லது பாலர் அரங்கம்` and the renaming sentence.
+
+Textual precheck is preparation only and must not be counted as strict source verification.
 
 ### T2 strict auditory audit — NOT STARTED
 
 - Strictly auditory-verified: **0/12 segments**.
-- Textually prechecked: **3/12 segments**.
-- The current Tamil text is not yet verified.
-- Open readings remain listed in `audit.md`.
+- Textually prechecked: **6/12 segments**.
+- The Tamil layer is not verified.
 
-The attached MP3 is technically intact. The present processing environment did not yield an independent Tamil listening/ASR result, so the T2 counter was deliberately left unchanged rather than overstated.
+The attached MP3 is intact, but the current processing environment has not yielded an independent Tamil listening or speech-decoding result. The strict counter must remain unchanged.
 
 ### T3 Tamil consolidation/freeze — BLOCKED
 
-Do not freeze until all 12 segments pass direct replay audit and all corrections are consolidated.
+Do not freeze until all 12 segments pass direct replay audit and all confirmed corrections are consolidated.
 
 ### English — BLOCKED
 
 Do not begin English translation until Tamil is `verified-complete`.
 
-## Exact next activity
+## Exact next activities
 
-Audit **segments 1–3, 00:00–01:06**, directly against the MP3:
+### Strict source gate
 
-1. verify the opening addressee and honorific sequence;
-2. verify whether the name is exactly `ஏ. எல். சீனிவாசன்`;
-3. verify `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
-4. verify the full annual-memorial-event sentence and gratitude paragraph;
-5. determine whether any audience reaction or overlapping voice is present;
-6. record all audio-supported corrections in `audit.md`;
-7. consolidate confirmed corrections into `transcription-ta.md`;
-8. update metadata counters to `strict_audio_audit_segments_checked: 3` only after all three segments pass.
+Audit **segments 1–3, 00:00–01:06**, directly against the MP3. Advance `strict_audio_audit_segments_checked` only after word-by-word listening verification.
+
+### Safe preparatory activity if independent listening is still unavailable
+
+Textually precheck **segments 7–9, 03:15–05:42**. Focus on:
+
+1. `சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய்`;
+2. the uncertain clause provisionally written `கலைவாணருடைய பெயர் ஏற்றிவைக்கப்பட்டது`;
+3. `அப்துல் சமது` and the objection to changing the old hall name;
+4. the Tirukutralam hall-naming passage;
+5. whether the current text introduces any unsupported smoothing or reconstruction.
 
 ## Safeguards
 
-- Do not treat surfaced transcription or the textual precheck as authoritative.
+- Do not treat surfaced transcription or textual prechecks as authoritative.
 - Do not infer a date from the 2024 XMP metadata.
 - Do not silently modernize spoken Tamil.
 - Do not fill the truncated ending.
