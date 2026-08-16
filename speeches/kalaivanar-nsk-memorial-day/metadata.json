@@ -66,9 +66,13 @@
     "audio_segments_drafted": 12,
     "strict_audio_audit": "not-started",
     "strict_audio_audit_segments_checked": 0,
-    "strict_audio_audit_precheck": "segments-1-3-textually-reviewed-audio-verification-pending",
-    "strict_audio_audit_precheck_segments_reviewed": 3,
-    "strict_audio_audit_precheck_record": "t2-batches/batch-01-00-00-01-06-precheck.md",
+    "strict_audio_audit_precheck": "segments-1-6-textually-reviewed-audio-verification-pending",
+    "strict_audio_audit_precheck_segments_reviewed": 6,
+    "strict_audio_audit_precheck_records": [
+      "t2-batches/batch-01-00-00-01-06-precheck.md",
+      "t2-batches/batch-02-01-06-03-15-precheck.md"
+    ],
+    "strict_audio_audit_precheck_latest_record": "t2-batches/batch-02-01-06-03-15-precheck.md",
     "tamil_consolidation": "blocked",
     "uncertain_readings_open": 4,
     "english_translation": "not-started",
