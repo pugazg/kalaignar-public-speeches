@@ -13,7 +13,7 @@ permissions:
 jobs:
   transcribe-first-66-seconds:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
 
     steps:
       - name: Check out repository
@@ -26,7 +26,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install faster-whisper
 
-      - name: Download controlling source and extract audit window
+      - name: Download controlling source and prepare audit audio
         run: |
           set -euxo pipefail
           curl --fail --location --retry 5 --retry-delay 5 \
@@ -34,22 +34,28 @@ jobs:
             --output source.mp3
           sha256sum source.mp3 | tee source-sha256.txt
           test "$(cut -d' ' -f1 source-sha256.txt)" = "7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148"
-          ffmpeg -hide_banner -loglevel error -y -i source.mp3 -t 66 -ar 16000 -ac 1 -c:a pcm_s16le first-66-seconds.wav
-          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 first-66-seconds.wav | tee extracted-duration.txt
+          ffmpeg -hide_banner -loglevel error -y -i source.mp3 -t 66 -ar 16000 -ac 1 -c:a pcm_s16le first-66-raw.wav
+          ffmpeg -hide_banner -loglevel error -y -i source.mp3 -t 66 -ar 16000 -ac 1 \
+            -af 'highpass=f=80,lowpass=f=7800,afftdn=nf=-25,dynaudnorm=f=150:g=15' \
+            -c:a pcm_s16le first-66-enhanced.wav
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 first-66-raw.wav | tee extracted-duration.txt
 
-      - name: Run independent Tamil ASR passes
+      - name: Run large-v3-turbo Tamil ASR on raw and enhanced audio
         run: |
           cat > transcribe.py <<'PY'
           import json
           from pathlib import Path
           from faster_whisper import WhisperModel
 
-          audio = "first-66-seconds.wav"
           out_dir = Path("asr-output")
           out_dir.mkdir(exist_ok=True)
+          model_name = "large-v3-turbo"
+          model = WhisperModel(model_name, device="cpu", compute_type="int8")
 
-          for model_name in ("small", "medium"):
-              model = WhisperModel(model_name, device="cpu", compute_type="int8")
+          for label, audio in (
+              ("turbo-raw", "first-66-raw.wav"),
+              ("turbo-enhanced", "first-66-enhanced.wav"),
+          ):
               segments, info = model.transcribe(
                   audio,
                   language="ta",
@@ -83,43 +89,42 @@ jobs:
                       "no_speech_prob": segment.no_speech_prob,
                       "words": words,
                   })
-
               payload = {
                   "model": model_name,
+                  "audio_variant": label,
                   "language": info.language,
                   "language_probability": info.language_probability,
                   "duration": info.duration,
                   "duration_after_vad": info.duration_after_vad,
                   "segments": records,
               }
-              (out_dir / f"{model_name}.json").write_text(
-                  json.dumps(payload, ensure_ascii=False, indent=2),
-                  encoding="utf-8",
+              (out_dir / f"{label}.json").write_text(
+                  json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
               )
-              (out_dir / f"{model_name}.txt").write_text(
-                  "\n".join(lines) + "\n",
-                  encoding="utf-8",
+              (out_dir / f"{label}.txt").write_text(
+                  "\n".join(lines) + "\n", encoding="utf-8"
               )
           PY
           python transcribe.py
-          echo '=== SMALL ==='
-          cat asr-output/small.txt
-          echo '=== MEDIUM ==='
-          cat asr-output/medium.txt
+          echo '=== TURBO RAW ==='
+          cat asr-output/turbo-raw.txt
+          echo '=== TURBO ENHANCED ==='
+          cat asr-output/turbo-enhanced.txt
 
       - name: Package audit evidence
         run: |
           cp source-sha256.txt extracted-duration.txt asr-output/
           cat > asr-output/README.txt <<'EOF'
-          These files are independent machine-aided listening evidence for 00:00-01:06 only.
-          They are not automatically authoritative and must be compared against the MP3 and the archival T1 transcript before any T2 segment is passed.
+          These are independent large-v3-turbo Tamil ASR passes for 00:00-01:06.
+          One pass uses the raw mono extraction and one uses conservative speech enhancement.
+          They are machine-aided auditory evidence, not automatic authority.
           The source MP3 itself is not included in this artifact.
           EOF
 
       - name: Upload ASR evidence
         uses: actions/upload-artifact@v4
         with:
-          name: kalaivanar-audio-audit-segments-1-3
+          name: kalaivanar-audio-audit-turbo-segments-1-3
           path: asr-output/
           if-no-files-found: error
           retention-days: 7
