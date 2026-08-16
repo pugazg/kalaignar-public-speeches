@@ -100,7 +100,7 @@ Only if they labour do they have food; only if they labour do they have clothing
 
 Only through labour can they have a life without trouble, a way to live, a means of filling the stomach, clothes to wear. In this condition their standard of life, their position—indeed, their very lineage—was born, grew, and continues to grow.
 
-Labour; the small wage paid for labour; and the food, clothing, and recreation obtained through it—these alone are life for them! Throughout all the days they live, they perform without refusal whatever work their master assigns, win his affection, and regard as treasure the rewards that spill from his great satisfaction. His anger is the blazing fire of their lives. His smile is their satisfaction. Thus they live for others—and above all for the happiness and prosperity of their master—and conduct their own lives with the few droplets scattered from his excessive comfort.
+Labour; the small wage paid for labour; and the food, clothing, and recreation obtained through it—these alone are life for them! Throughout all the days they live, they perform without refusal whatever work their master assigns, win his affection, and regard as treasure the rewards that spill from his great satisfaction. His anger is the source's `வாழ்க்கைச் செந்தி`—the blazing fire of their lives. His smile is their satisfaction. Thus they live for others—and above all for the happiness and prosperity of their master—and conduct their own lives with the few droplets scattered from his excessive comfort.
 
 Do members of such a family have any time, opportunity, or means even to think about school life? Merely by studying, can they live without getting dirt on their fingers?
 
@@ -131,6 +131,8 @@ Elementary educational institutions contain a few classes. To the extent one stu
 Many go beyond this stage, beyond elementary education, to middle schools (Middle Schools), study to that level and stop there; there are many who leave school life at that point.
 
 Only a few enter the third stage, the high school (High School), study there and pass. Those who overcome all the circumstances involved—the facilities for study, financial means, the condition of the family—and manage to reach this stage are very, very few compared with those at the elementary-education stage.
+
+*[Translator/source note: the frozen Tamil in this sentence reads `ஆரம்பக் கல்வியிலிருந்து வரைவிட`, a scan-verified but syntactically unusual form. The comparative English is retained without altering the Tamil witness.]*
 
 A very large number can be seen engaging in the hunt for employment immediately after completing high-school education. Most who leave “school life” at this stage are merely—
 
@@ -290,7 +292,7 @@ Even now, we do not see the history of the Nayanmars, Puranic songs, the flavour
 
 Religious knowledge—the ideas of a blissful life in a higher world beyond this worldly life—has been given first place! The texts explaining them are the most numerous! Those ideas are mixed and remixed, altered and altered again, and preserved in many forms—as epic, Purana, kavya, essay, and story!
 
-There are more texts filled with ideas that foster the false Vedanta that this life, this worldly life, is only an interim period, a lodging-place in which one must earn enough merit to despise this world and enjoy bliss in the next!
+There are more texts filled with ideas that foster the false Vedanta that this life, this worldly life, is merely an interim period, a lodging-place in which, despising this world, one must earn enough merit to enjoy bliss in the next!
 
 The Tamil has still not learned the lesson of caring about himself, of living, of honouring the country in which he lives and the language he speaks, and of working for the welfare of his society and his country; the books that teach these things, he has not—
 
@@ -305,6 +307,8 @@ The generations to come are today's children! The future depends upon the growth
 The manner in which children are cared for, the great task of raising children into adults—the future condition of the Tamil people lies in preparing lion-like Tamils who will give life to the future world, to the Tamil world!
 
 The knowledge today's young children receive—the knowledge they receive today—the lights of knowledge, Tamil feeling, Tamil ethnic feeling, self-awareness, the feeling of self-respect, and the methods of training for life: these must be put in order, refined, and properly arranged, so that the future may live, Tamil may flourish, Tamil Nadu may shine as a sacred land of self-respect, and Tamils may live with fulfilment and without equal!
+
+*[Translator/source note: PDF 30 retains the unusual frozen forms `வளர்த்தை`, `வளர்த்தைப்`, and `வகைப்படுத்தியாக`. The English renders their surrounding sense as growth, mental growth, and ordering/refining without silently changing the Tamil source.]*
 
 Those who are to give life to the future—the present-day—
 
@@ -325,6 +329,8 @@ The Tamil must study Tamil; he must honour the Tamil people—
 ### PDF page 32 — printed page 31
 
 —protect Tamil Nadu, and live with self-respect. This rising drumbeat must sound as the song of the heart; these must be the great heart-drum of the young Tamil!
+
+*[Translator/source note: the frozen Tamil here retains the unusual form `போற்றிவேண்டும்`; the English `honour` follows the surrounding sense without altering that source form.]*
 
 One must read books that urge and guide us to abandon customs and practices that do not accord with rational discernment, that drive away knowledge and foster ignorance!
 
@@ -418,17 +424,21 @@ In this age there are no deceived Ekalavyas, nor are they needed. Likewise, ther
 
 Similarly, there is a story in which Tara, wife of the divine preceptor Brihaspati, bewitches Chandra, Brihaspati's disciple, and makes him her lover; this too is mixed into kavya and served up! Are such revolting, obscene Puranas necessary?
 
+*[Translator/source note: PDF 38 retains the difficult forms `நாயகனுக்கிக்கொண்ட`, `சந்திரனச் சல்லாபத்திற்`, and `கடிக்குலவின`. The readable English renders the surrounding sense without silently rewriting those frozen forms.]*
+
 Taras who, without regard for his being a disciple, draw Chandra into dalliance; disciples like Chandra who, without considering her the guru's wife, caress and sport with her; and Brihaspati Bhagavans who allow all this to happen and afterward pronounce a curse—
 
 ### PDF page 39 — printed page 38
 
-—can hymns about them promote the welfare of the country? Are all these really necessary for students, the people of the future? No!
+—can hymns about them cause the welfare of the country to be lost? Are all these really necessary for students, the people of the future? No!
 
 The Periya Puranam tells of a Nayanar called Iyarpakai Nayanar. The Periya Puranam is regarded as a work of literature and is being taught as a lesson to students!
 
 One day Siva suddenly set out toward the earthly world. Why?
 
 Was it to take charge of the people of the earth and free them from famine, hunger, starvation and other sufferings? Not at all! Then why?
+
+*[Translator/source note: PDF 39 retains the unusual printed forms `மாணுக்கர்களுக்கு`, `திடமென்று`, and `பூலோக வாசிகளேப்`. The English uses the contextual readings `students`, `suddenly`, and `people of the earth` while preserving the frozen Tamil unchanged.]*
 
 Umaiyorubagan went to the earthly world precisely to take charge of someone—to test and take charge of his devotee named Iyarpakai.
 
@@ -443,6 +453,8 @@ Whatever a devotee of Siva asked, Iyarpakai gave lavishly without saying that he
 Our Lord, the Lord of holy Kailasa, Isan, came to Iyarpakai's house in the form of a devotee of Siva and asked, “Are you the Iyarpakai who gives without saying no? Will you say no and refuse what I ask?”
 
 Seeing the wealthy devotee who loved Siva, Iyarpakai was filled with wonder, welcomed him, and asked with affection overflowing, “What do you want, devotee? I, your servant, shall not fail to give it.”
+
+*[Translator/source note: the frozen Tamil on PDF 40 reads `இறும்பூதெய்தி`; `filled with wonder` is a contextual rendering of that source-supported unusual form.]*
 
 Looking at Iyarpakai who had asked thus, Ardhanarisvara, who was in the guise of a devotee of Siva, graciously asked, “My son, give me your wife; send her away with me.”
 

@@ -43,7 +43,7 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
 | English translation (E1) | **First-pass complete — 76/76 body pages; PDF 6-81 / printed 5-80** |
-| English fidelity review (E2) | **In progress — 5/76 body pages reviewed; through PDF 10 / printed 9** |
+| English fidelity review (E2) | **In progress — 35/76 body pages reviewed; through PDF 40 / printed 39** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
 
@@ -73,9 +73,11 @@ All page boundaries remain explicit, including the PDF 60→61 continuation and 
 
 E2 is now **in progress**. Batch 1 reviewed **PDF 6-10 / printed 5-9 — 5/76 pages** independently against the frozen Tamil. No paragraph/clause omission, unsupported addition, reversal, or page-boundary loss was found. Three confirmed lexical/rhetorical fidelity corrections were consolidated: PDF 6 `வாழ்க்கை வசதி`, PDF 7 `காவியரசத்தில்`, and PDF 8 the distinction between `சுவையின்றி` and `சத்தற்ற வாழ்க்கை`. Full findings are recorded in `translation-review.md`.
 
+The extended E2 activity then reviewed **PDF 11-40 / printed 10-39**, bringing the cumulative total to **35/76 pages**. Confirmed actions include preserving the unusual PDF 14 `வாழ்க்கைச் செந்தி`, documenting PDF 17 `வரைவிட`, correcting the PDF 29 attachment of `இகத்தை வெறுத்து` versus merit-for-the-next-world, making PDF 30 `வளர்த்தை` / `வளர்த்தைப்` / `வகைப்படுத்தியாக` visible, documenting PDF 32 `போற்றிவேண்டும்`, and correcting the direct PDF 39 reversal where `போக்கிட` had been translated as `promote`. Difficult PDF 38-40 forms are now explicitly documented rather than silently normalized. Full page-group findings are in `translation-review.md`.
+
 ## Exact next activity
 
-Continue **E2 English fidelity review with PDF 11-15 / printed pages 10-14**. Compare each English page independently against the frozen Tamil, record substantive findings in `translation-review.md`, and consolidate only confirmed corrections into `translation-en.md`. Do not begin E3 until all 76 pages have passed E2.
+Continue **E2 English fidelity review with PDF 41-45 / printed pages 40-44**. Compare each English page independently against the frozen Tamil, record substantive findings in `translation-review.md`, and consolidate only confirmed corrections into `translation-en.md`. Do not begin E3 until all 76 pages have passed E2.
 
 ## Editorial rule
 

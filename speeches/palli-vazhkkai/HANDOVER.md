@@ -40,7 +40,7 @@ Completed E1 scope: **PDF 6-81 / printed 5-80 — 76/76 body pages**.
 
 ### E2 — IN PROGRESS
 
-Batch 1 is complete: **PDF 6-10 / printed 5-9 — 5/76 body pages reviewed**. Three confirmed lexical/rhetorical corrections were consolidated into `translation-en.md`; no omission, unsupported addition, reversal, or page-boundary loss was found in this batch.
+E2 is complete through **PDF 40 / printed 39 — 35/76 body pages reviewed**. Batch 1 covered PDF 6-10. The repository-owner-requested extended review covered PDF 11-40 in six five-page review groups. Confirmed corrections and transparency notes have already been consolidated into `translation-en.md`; the detailed audit is in `translation-review.md`.
 
 ### E3 — NOT STARTED
 
@@ -156,22 +156,28 @@ Confirmed corrections:
 
 No whole paragraph/clause omission, unsupported addition, reversal, or page-boundary loss was found. PDF 9→10 continuity and the complete PDF 10 rational-discernment argument were checked and retained.
 
+
+## E2 extended review — PDF 11-40 / printed 10-39
+
+Completed and consolidated.
+
+Key review outcomes:
+
+- PDF 11-15: no omission/reversal; `வாழ்க்கைச் செந்தி` is now visible rather than silently smoothed.
+- PDF 16-20: structure and page continuations pass; a note records the scan-verified but unusual `ஆரம்பக் கல்வியிலிருந்து வரைவிட`.
+- PDF 21-25: no new correction required; existing notes for `நல்லதங்கள்`, `நாவினை நாட்டினரும்`, and `தவழிப் பூச்சூடி` were confirmed adequate.
+- PDF 26-30: corrected the PDF 29 semantic attachment around `இகத்தை வெறுத்து` / merit / other-world bliss; PDF 30 now records `வளர்த்தை`, `வளர்த்தைப்`, and `வகைப்படுத்தியாக`.
+- PDF 31-35: no omission/reversal; PDF 32 `போற்றிவேண்டும்` is now documented; existing `அரிபந்தாமன்` and `காண்டவன்` notes remain.
+- PDF 36-40: corrected the direct PDF 39 reversal `போக்கிட` ≠ `promote`; documented difficult PDF 38 forms `நாயகனுக்கிக்கொண்ட`, `சந்திரனச் சல்லாபத்திற்`, `கடிக்குலவின`; PDF 39 `மாணுக்கர்களுக்கு`, `திடமென்று`, `பூலோக வாசிகளேப்`; and PDF 40 `இறும்பூதெய்தி`.
+- PDF 40→41 continuation remains intact; page 41 itself is not yet counted as reviewed.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
 
 ## Exact next activity
 
-Continue **E2 English fidelity review with PDF pages 11-15 / printed pages 10-14**.
-
-For that review batch:
-
-1. compare each English page independently against the frozen `transcription-ta.md`;
-2. check omissions, additions, reversals, altered rhetoric/repetition, subjects/pronouns, names/titles, silent normalization and page-boundary loss;
-3. record substantive findings in `translation-review.md`;
-4. consolidate only confirmed corrections into `translation-en.md`;
-5. update metadata/README/HANDOVER with the cumulative E2 page count;
-6. keep E3 blocked until E2 reaches 76/76 pages and all corrections are consolidated.
+Continue **E2 English fidelity review with PDF pages 41-45 / printed pages 40-44**. Compare each page independently against frozen `transcription-ta.md`, record findings in `translation-review.md`, consolidate only confirmed corrections, update the cumulative E2 count, and keep E3 blocked until E2 reaches 76/76 pages and all corrections are consolidated.
 
 ## Safeguards
 
