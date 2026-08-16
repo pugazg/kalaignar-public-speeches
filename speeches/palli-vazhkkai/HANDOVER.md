@@ -32,13 +32,17 @@ The final whole-body gate passed and is recorded in `t3-final-verification.md`. 
 
 Tamil must not now be changed without documented source evidence. Any later Tamil correction requires dependent English re-verification.
 
-### E1 — NOT STARTED / READY
+### E1 — IN PROGRESS
 
-English translation is now permitted. `translation-en.md` remains `not-started` until actual translated body text is added.
+English translation has begun from the frozen Tamil layer.
+
+Completed E1 scope: **PDF 6-10 / printed 5-9 — 5/76 body pages**.
+
+`translation-en.md` preserves the PDF/printed-page headings and translates every paragraph in that scope. The first batch carries the school-life argument from its opening through the discussion of rational discernment and humanity's early wandering condition at the end of PDF 10.
 
 ### E2 / E3 — NOT STARTED
 
-Independent English fidelity review and final end-to-end Tamil→English verification have not begun.
+Independent English fidelity review and final end-to-end Tamil→English verification have not begun. Do **not** begin E2 until the full E1 body translation is complete.
 
 ## Mandatory translation source
 
@@ -55,6 +59,18 @@ Preserve as far as practical:
 
 Do not silently repair an unusual Tamil reading merely because a smoother English sentence is possible. If a literal rendering would materially mislead, use a concise, clearly labelled translator/source note.
 
+## E1 Batch 1 — PDF 6-10 / printed 5-9
+
+Completed and committed to `translation-en.md`.
+
+Translation decisions to carry forward:
+
+- Preserve emphatic repetitions and rhetorical questions rather than compressing them.
+- Keep page-spanning sentences page-spanning in English where practical; PDF 9→10 therefore remains a continuation rather than being silently restructured.
+- Translate source concepts directly without adding historical explanations not present in the Tamil.
+- `கல்லூரனாக` was rendered conservatively as “a college man” rather than silently replacing the frozen source with a more interpretive modern term.
+- The syntactically difficult PDF 10 passage around `ஆராய்ந்தறின்—பகுத்தறிவு பெற்றது` was rendered as the capacity “to examine and understand circumstances and surroundings,” preserving the argument without claiming a textual correction.
+
 ## Source-fidelity safeguards carried into English
 
 Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not the superseded T1 readings. Examples include `கவலைப்பட`, `நன்றாக`, `மனிதனாக`, `தமிழனாக`, `தோழனாக`, `அவனாகத்தான்`, and `தேவனை`.
@@ -63,7 +79,7 @@ Conversely, genuine source-supported oddities remain part of the frozen witness 
 
 ## Exact next activity
 
-Begin **E1 English translation with PDF pages 6-10 / printed pages 5-9** from `transcription-ta.md`.
+Continue **E1 English translation with PDF pages 11-15 / printed pages 10-14** from `transcription-ta.md`.
 
 For that batch:
 
@@ -72,8 +88,6 @@ For that batch:
 3. preserve repetition and rhetorical questions rather than smoothing them away;
 4. flag any genuinely difficult frozen Tamil with a concise translator/source note rather than silently correcting it;
 5. update `metadata.json`, `README.md`, and this `HANDOVER.md` with E1 page progress after the batch.
-
-Do **not** begin E2 fidelity review until the full E1 translation is complete.
 
 ## Safeguards
 
