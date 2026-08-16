@@ -28,17 +28,20 @@ All **76/76** body pages passed strict line-by-line visual audit. Detailed evide
 
 `transcription-ta.md` is the frozen canonical Tamil layer for **PDF 6-81 / printed 5-80**.
 
-The final whole-body gate passed and is recorded in `t3-final-verification.md`. It verified page count/order, page mapping, canonical opening and closing, stale-reading absence, representative T2 corrections, recorded split-word joins, ordinary page-boundary continuations, source-supported unusual forms, and absence of empty/exact-duplicate page bodies.
-
-Tamil must not now be changed without documented source evidence. Any later Tamil correction requires dependent English re-verification.
+The final whole-body gate passed and is recorded in `t3-final-verification.md`. Tamil must not now be changed without documented source evidence; any later Tamil correction requires dependent English re-verification.
 
 ### E1 — IN PROGRESS
 
 English translation is being produced only from the frozen Tamil layer.
 
-Completed E1 scope: **PDF 6-20 / printed 5-19 — 15/76 body pages**.
+Completed E1 scope: **PDF 6-25 / printed 5-24 — 20/76 body pages**.
 
-`translation-en.md` preserves the PDF/printed-page headings and paragraph sequence for all translated pages. Batch 1 covers PDF 6-10; Batch 2 covers PDF 11-15; Batch 3 covers PDF 16-20.
+`translation-en.md` preserves the PDF/printed-page headings and paragraph sequence. Completed batches:
+
+- Batch 1: PDF 6-10 / printed 5-9
+- Batch 2: PDF 11-15 / printed 10-14
+- Batch 3: PDF 16-20 / printed 15-19
+- Batch 4: PDF 21-25 / printed 20-24
 
 ### E2 / E3 — NOT STARTED
 
@@ -61,59 +64,44 @@ Do not silently repair an unusual Tamil reading merely because a smoother Englis
 
 ## E1 Batch 1 — PDF 6-10 / printed 5-9
 
-Completed and committed to `translation-en.md`.
-
-Translation decisions carried forward:
-
-- Preserve emphatic repetitions and rhetorical questions rather than compressing them.
-- Keep page-spanning sentences page-spanning in English where practical; PDF 9→10 therefore remains a continuation rather than being silently restructured.
-- Translate source concepts directly without adding historical explanations not present in the Tamil.
-- `கல்லூரனாக` was rendered conservatively as “a college man” rather than silently replacing the frozen source with a more interpretive modern term.
-- The syntactically difficult PDF 10 passage around `ஆராய்ந்தறின்—பகுத்தறிவு பெற்றது` was rendered as the capacity “to examine and understand circumstances and surroundings,” preserving the argument without claiming a textual correction.
+Completed and committed. Preserve emphatic repetitions and rhetorical questions; keep page-spanning sentences page-spanning where practical. `கல்லூரனாக` was conservatively rendered as “a college man.”
 
 ## E1 Batch 2 — PDF 11-15 / printed 10-14
 
-Completed and committed to `translation-en.md`.
-
-Important translation decisions:
-
-- PDF 10→11 remains an explicit English continuation: `As time passed,` → `—it learned...`.
-- PDF 11→12 likewise preserves the page-spanning phrase about “many” stages of development rather than moving text across the source page boundary.
-- The long PDF 11 civilizational-development list is translated in source order, including customs, study, life-partner arrangements, male-female relations, clothing, self-defence, self-restraint, social discipline, community/people advancement, country, patriotism, protection, leaders, local headman, king and guru.
-- PDF 12's difficult frozen phrase `கேள்வி ஞானங்களைத் தூர்த்திடும் போதனைகள்` is rendered closely as “teachings that sweep away knowledge gained through inquiry” and is accompanied by a concise translator/source note rather than being silently regularized.
-- PDF 13's agricultural `ஏற்றம்` is rendered as a water-lift, preserving the described well-irrigation action without adding outside explanation.
-- Repetition in the labour passages (`உழைத்தால்தான்...`) is preserved in English rather than compressed.
-- PDF 15's `எழுத்து வாசனை` is rendered conservatively as “some acquaintance with letters,” and `தமிழ்க் கணக்கு` as “Tamil accounting,” avoiding a stronger modernization than the frozen text supports.
+Completed and committed. PDF 10→11 and 11→12 continuations remain explicit. The difficult frozen phrase `கேள்வி ஞானங்களைத் தூர்த்திடும் போதனைகள்` is rendered closely with a translator/source note. The agricultural `ஏற்றம்` is rendered as a water-lift. Labour repetitions are preserved.
 
 ## E1 Batch 3 — PDF 16-20 / printed 15-19
 
-Completed and committed to `translation-en.md`.
+Completed and committed. `திண்ணைப்பள்ளி` is retained as a *thinnai* school. PDF 17→18 and 18→19 continuations remain explicit. `கல்வி கற்கு மிடம்` is translated closely without correcting the frozen Tamil. The uncertain `எட்டுச்சுரையெனப்` is retained in Tamil with a translator/source note rather than assigned an unsupported meaning. PDF 20 ends with an unfinished clause and was deliberately left open for PDF 21.
+
+## E1 Batch 4 — PDF 21-25 / printed 20-24
+
+Completed and committed.
 
 Important translation decisions:
 
-- PDF 16's `திண்ணைப்பள்ளி` is rendered as a *thinnai* school rather than replaced with a modern institutional label.
-- PDF 17→18 keeps the source sentence spanning the page boundary: those leaving high school are “merely—” / “—job-seekers in our country.”
-- PDF 18→19 likewise preserves the argument that schooling is pursued for the prospect of “half a stomachful of gruel—” / “—without bodily labour, obtain some kind of job, and live.”
-- The hierarchy of elementary, middle, high-school, college and technical education is retained in source order, together with the repeated narrowing of student numbers at each stage.
-- PDF 19's frozen `கல்வி கற்கு மிடம்` is rendered closely as “The places for learning education are educational institutions,” without silently correcting the Tamil.
-- PDF 19's `எட்டுச்சுரையெனப்` remains semantically uncertain in the frozen witness. The translation retains `எட்டுச்சுரை` in Tamil and adds a concise translator/source note rather than inventing a meaning.
-- PDF 20's long public-minded argument is kept structurally intact, including the metaphors of education as a companion, lighthouse, guide and instrument for enriching life.
-- PDF 20 ends with an unfinished clause (`வாழ்வில் தெளிவுபெற்று,`); the English likewise remains open for continuation on PDF 21 rather than being completed early.
+- PDF 20→21 continues explicitly: the clause about gaining clarity in life continues into living with firm resolve and school-life ideas serving as a guide.
+- The resource/poverty contrast on PDF 21-22 retains the repeated rhetorical emphasis rather than being compressed.
+- PDF 22→23 remains a page-spanning sentence: `இந்தத் திரு` / `நாட்டில்` is represented as “this sacred—” / “—land”.
+- PDF 23's fatalist and Vedantic quotations are translated as quotations in source order without adding historical explanation.
+- PDF 23→24 keeps `உள்ளபடி` / `உணர வேண்டும்` as an explicit English continuation: “understand it as it is—” / “—only then...”.
+- PDF 24's source-supported `நல்லதங்கள்` is kept visible in Tamil rather than silently normalized. The irregular `நாவினை நாட்டினரும்` is rendered contextually and called out in a translator/source note.
+- PDF 24→25 preserves `தெள்ளிய` / `வாழ்க்கை முறையை` as “a lucid—” / “—way of life”.
+- PDF 25's difficult `தவழிப் பூச்சூடி` is retained in Tamil with a translator/source note rather than silently reconstructed.
+- PDF 25 ends with the unfinished phrase about the weight of the schoolteacher's cane; English deliberately ends `the weight of the schoolteacher's cane—` for continuation on PDF 26.
 
 ## Source-fidelity safeguards carried into English
 
-Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not the superseded T1 readings. Examples include `கவலைப்பட`, `நன்றாக`, `மனிதனாக`, `தமிழனாக`, `தோழனாக`, `அவனாகத்தான்`, and `தேவனை`.
-
-Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized in translation. Representative examples include `கல்வி கற்கு மிடம்`, `நல்லதங்கள்`, `முன்னேற்றம் மடைகின்றன`, `மனிதனி அறிவு கண்டு`, `தமிழனமாக`, `உலகந்தான்`, `தன்னுலே`, `இதற்கேல் வாழ் பொருந்தும் முறையிலே`, and `உலகியலேக் காண`.
+Traditional-glyph errors have already been resolved in the frozen Tamil. Translate the verified forms, not superseded T1 readings. Conversely, genuine source-supported oddities remain part of the frozen witness and must not be silently normalized.
 
 ## Exact next activity
 
-Continue **E1 English translation with PDF pages 21-25 / printed pages 20-24** from `transcription-ta.md`.
+Continue **E1 English translation with PDF pages 26-30 / printed pages 25-29** from `transcription-ta.md`.
 
 For that batch:
 
 1. retain the same PDF/printed-page headings in `translation-en.md`;
-2. continue the unfinished PDF 20 sentence faithfully onto PDF 21;
+2. continue the unfinished PDF 25 sentence faithfully onto PDF 26;
 3. translate every paragraph from the frozen Tamil, with no omitted clause or added historical explanation;
 4. preserve repetition and rhetorical questions rather than smoothing them away;
 5. flag any genuinely difficult frozen Tamil with a concise translator/source note rather than silently correcting it;
