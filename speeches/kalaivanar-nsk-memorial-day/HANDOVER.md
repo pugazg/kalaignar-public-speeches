@@ -8,7 +8,7 @@
 
 ## Mandatory continuation reading
 
-Before continuing this speech, read completely:
+Before continuing, read completely:
 
 1. root `SPEECH_PROCESSING_GUIDE.md`
 2. root `AUDIO_SPEECH_PROCESSING_GUIDE.md`
@@ -16,10 +16,12 @@ Before continuing this speech, read completely:
 4. `speeches/kalaivanar-nsk-memorial-day/LEARNINGS.md`
 5. this `HANDOVER.md`
 6. `transcription-ta.md`
-7. `audit.md`
-8. `t2-batches/batch-07-tail-correction-06-53-07-23.md`
+7. `translation-en.md`
+8. `translation-review.md`
+9. `audit.md`
+10. `t2-batches/batch-07-tail-correction-06-53-07-23.md`
 
-Reusable future-work prompt:
+Reusable prompt for future audio works:
 
 - `docs/START_NEW_AUDIO_SPEECH_PROMPT.md`
 
@@ -30,35 +32,35 @@ Reusable future-work prompt:
 - SHA-256: `7457004d3c3ee87722edfe6814e830d3521b834dcf29b4de45bb7174a2278148`
 - File size: 7,087,106 bytes
 - Decoded duration: 443.559 seconds / `00:07:23.559`
-- Audio: MP3, stereo, 44.1 kHz, approximately 128 kb/s
+- Format: MP3, stereo, 44.1 kHz, approximately 128 kb/s
 - Binary committed: No
 
-The user reattached the MP3 and its checksum and byte size matched the archived source identity.
+The reattached MP3 matched the archived checksum and byte size.
 
 ## Critical correction history
 
-An earlier audit incorrectly stopped the transcript after:
+An earlier audit incorrectly stopped after:
 
 > `...வெங்கடாசலம் அவர்கள் எத்தகைய நிலையிலே இருக்கிறார் என்பதையும்—`
 
-and described the recording as truncated. The user correctly identified approximately another 25 seconds of speech.
+and described the source as truncated. The repository owner correctly identified approximately another 25 seconds of speech.
 
-The final tail was reopened and audited through the true end. The source ends with a complete closing sentence.
+The final tail was reopened and audited through the true end. The source ends with a complete closing dedication.
 
 Controlling correction record:
 
 - `t2-batches/batch-07-tail-correction-06-53-07-23.md`
 
-Batch 6 remains valid for its earlier names, phrases and amounts. Batch 7 supersedes Batch 6 only on the final-boundary and final-passage finding.
+Batch 6 remains valid for its other findings. Batch 7 supersedes Batch 6 only on the final-boundary and final-passage conclusion.
 
-Do not reintroduce:
+Never reintroduce:
 
 - an em dash after `என்பதையும்`;
-- an abrupt-ending note;
-- a truncation claim;
-- the old duration `00:07:22.549`.
+- an abrupt-ending or truncation note;
+- the obsolete duration `00:07:22.549`;
+- instructions to leave the final sentence unfinished.
 
-## Verified final passage
+## Verified final Tamil passage
 
 > பரிசுகளைப் பெற்றவர்களைக் கண்டீர்கள். தங்கப்பன் அவர்களும், பகவதி அவர்களும் எந்தக் கோலத்திலே இன்றைக்கு இருக்கிறார்கள் என்பதை நேரில் நீங்கள் உணர்ந்தீர்கள்.
 >
@@ -66,92 +68,107 @@ Do not reintroduce:
 >
 > அவர்களுக்கெல்லாம் நாம் செய்கின்ற இந்தச் சிறு உதவி, அவர்களுடைய வாழ்க்கையிலே ஓரளவு நிம்மதியாவது ஏற்படுத்துமேயானால், அந்த நிம்மதிதான் கலைவாணருடைய காலடியிலே நான் வைக்கின்ற காணிக்கை என்று மாத்திரம் நான் குறிப்பிட்டுக் கொள்ள விரும்புகின்றேன்.
 
-## Archival workflow state
+## Workflow state
 
 ### Source inspection — COMPLETE
 
-The source identity, technical metadata, full duration, opening and true ending are documented.
+The exact binary identity, technical metadata, true decoded duration, opening and complete ending are documented.
 
 ### Tamil T1 — COMPLETE
 
-The canonical Tamil transcript covers the complete recording from the opening salutation through the closing dedication.
+The canonical Tamil covers the complete source.
 
-### Tamil T2 — COMPLETE AFTER CORRECTION
+### Tamil T2 — COMPLETE AFTER TAIL CORRECTION
 
 - Total segments: **12**
 - Direct-listening checked: **12/12**
 - Passed: **12/12**
-- Open uncertain readings: **0**
 - Opening verified: Yes
-- Final minute verified: Yes
+- Final minute independently verified: Yes
 - Recording truncated: No
+- Open Tamil uncertainties: **0**
 
 Audit records:
 
 - `t2-batches/batch-06-direct-listening-audit-00-00-07-22.md`
 - `t2-batches/batch-07-tail-correction-06-53-07-23.md`
 
-### Tamil T3 — COMPLETE
+### Tamil T3 — VERIFIED COMPLETE
 
-`transcription-ta.md` is frozen as `verified-complete` after restoration of the final tail.
+`transcription-ta.md` is frozen. Do not alter it without new source evidence and a documented reopening of the Tamil audit.
 
-Do not alter it without new source evidence and a documented reopening of the Tamil audit.
+### English E1 — FIRST PASS COMPLETE
 
-### Venue and date
+`translation-en.md` now translates all 12 timestamp segments from 00:00 through 07:23.559.
 
-- Venue established from the recording: `கலைவாணர் அரங்கம், சென்னை`
+The E1 translation includes:
+
+- salutation order;
+- formal public-speaking voice;
+- the literal household / wider family-of-the-arts distinction;
+- the great-lamp / small-earthen-lamp image;
+- Udumalai Narayana Kavirayar and the earlier honour;
+- Siruvar Arangam, Balar Arangam and Kalaivanar Arangam;
+- the approximately ₹15,000-plus and ₹25 lakh references;
+- the repeated institutional-need construction;
+- the contrast between small monetary value and great emotional value;
+- the complete restored closing dedication.
+
+E1 has not been independently fidelity-reviewed. Do not mark English verified.
+
+### English E2 — READY, NOT STARTED
+
+`translation-review.md` contains a four-batch review plan:
+
+| Batch | Timestamp range |
+|---:|---|
+| 1 | 00:00–01:11 |
+| 2 | 01:11–03:15 |
+| 3 | 03:15–05:42 |
+| 4 | 05:42–07:23.559 |
+
+Review must compare the English directly with the frozen Tamil and record omissions, additions, reversals, weakened rhetoric, lost repetition, name/amount errors and ending completeness.
+
+### English E3 — BLOCKED
+
+E3 begins only after all E2 findings are consolidated into `translation-en.md`.
+
+## Venue and chronology
+
+- Venue established by the recording: `கலைவாணர் அரங்கம், சென்னை`
 - Exact speech date: unknown; `speech.date` remains `null`
 - Contextual lower bound: likely 29 January 1974 or later
-- 4 September 1971 is the earlier Balar Arangam event recalled in this speech, not the present speech date.
-
-### English E1 — READY, NOT STARTED
-
-English translation is unblocked. It must be translated only from the frozen `transcription-ta.md`.
-
-### English E2 — BLOCKED UNTIL E1
-
-`translation-review.md` remains a review scaffold until the complete first-pass translation exists.
-
-### English E3 — BLOCKED UNTIL E2 CORRECTIONS
-
-Do not mark English verified until an independent fidelity review, correction consolidation and final end-to-end Tamil-to-English comparison have passed.
-
-## Translation requirements
-
-The English must:
-
-1. retain Kalaignar's formal public-speaking voice;
-2. preserve salutation order and honorific force;
-3. preserve rhetorical repetition;
-4. distinguish the household family from the wider `கலைக்குடும்பம்`;
-5. retain the large-lamp/small-earthen-lamp image;
-6. preserve the contrast between limited monetary value and great emotional value;
-7. consistently render names, halls and institutions;
-8. preserve both amounts: more than approximately ₹15,000 and approximately ₹25 lakh;
-9. translate the full restored closing dedication;
-10. retain the idea that the peace created by the small assistance is the offering placed at Kalaivanar's feet;
-11. avoid adding a date or unsupported historical explanation to the body;
-12. avoid smoothing away Kalaignar's repeated constructions merely for English elegance.
+- 4 September 1971 is the earlier Balar Arangam event recalled in the speech, not the date of this recording.
 
 ## Exact next activity
 
-Produce the complete E1 first-pass translation in `translation-en.md`, retaining the 12 Tamil timestamp markers.
+Perform **E2 Batch 1: 00:00–01:11**.
 
-After E1:
+Compare the Tamil and English line by line, focusing on:
 
-1. update `metadata.json` to `english_translation: first-pass-complete`;
-2. update `README.md` and this handover;
-3. set `translation-review.md` to ready for E2;
-4. begin a separate timestamp-by-timestamp Tamil-to-English fidelity review;
-5. do not combine E1 and E2 into one undocumented pass.
+1. salutation order and `தாய்மார்களே`;
+2. `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
+3. `பேரார்வத்தோடும்`;
+4. the obligation in `நன்றியினை ... செலுத்திட`;
+5. omissions or additions across the three opening timestamp sections;
+6. whether Kalaignar's formal rhetorical cadence has been weakened or over-smoothed.
+
+Record findings in `translation-review.md`. Do not combine review findings with undocumented silent edits.
+
+After all four batches:
+
+1. consolidate accepted corrections into `translation-en.md`;
+2. update metadata to `fidelity-corrections-consolidated`;
+3. perform E3 from beginning to true end;
+4. only then mark English `verified-complete`.
 
 ## Safeguards
 
-- The MP3 remains the controlling source.
-- Translate from `transcription-ta.md`, not ASR, surfaced text or research notes.
-- Do not alter the verified Tamil during translation.
+- Translate and review only against `transcription-ta.md`.
+- Do not alter verified Tamil during English work.
 - Do not infer an exact speech date.
 - Do not call the source truncated.
-- Do not omit the restored final passage.
-- Any later Tamil correction must reopen affected English gates.
-- Temporary audio-analysis workflows must not remain in `.github/workflows/` after evidence capture.
+- Do not omit or shorten the restored final dedication.
+- Preserve repetition and imagery even when smoother English is possible.
+- Any future Tamil correction must reopen affected English gates.
+- Temporary audio-analysis workflows must not remain in `.github/workflows/`.
