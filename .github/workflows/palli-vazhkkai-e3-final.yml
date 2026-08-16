@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Run E3 final verification
-        run: python scripts/palli_vazhkkai_e3_final.py
+        run: python scripts/palli_vazhkkai_e3_final_v2.py
       - name: Commit E3 verified state
         run: |
           git config user.name "github-actions[bot]"
