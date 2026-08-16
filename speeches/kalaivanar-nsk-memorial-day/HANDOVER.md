@@ -38,36 +38,36 @@ Checksum, file size, duration, codec, stream details, URL, embedded-file metadat
 
 `transcription-ta.md` covers all 12 provisional time segments from 00:00 through 07:22.549.
 
-### T2 textual precheck — SEGMENTS 1–6 COMPLETE
+### T2 textual precheck — SEGMENTS 1–9 COMPLETE
 
 Completed records:
 
 - `t2-batches/batch-01-00-00-01-06-precheck.md`
 - `t2-batches/batch-02-01-06-03-15-precheck.md`
+- `t2-batches/batch-03-03-15-05-42-precheck.md`
 
 Cumulative result:
 
-- textually prechecked: **6/12 segments**;
-- no clear substantive discrepancy between T1 and the surfaced transcript in segments 1–6;
-- no transcript wording was promoted as source-verified;
-- no change was made to `transcription-ta.md`.
+- textually prechecked: **9/12 segments**;
+- no source-authorized correction has been made to `transcription-ta.md`;
+- textual precheck remains preparation only and must not be counted as strict source verification.
 
 Important replay checkpoints now include:
 
 - `ஏ. எல். சீனிவாசன்`;
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
 - the long `கலைக்குடும்பம்` sentence and its spoken joins;
-- `கலைவாணரோடிருந்து`;
-- `உடுமலை நாராயணக் கவிராயர்` and `பொற்கிழியும்`;
-- `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல் பணமுடிப்பும்`;
-- `சிறுவர் அரங்கம் அல்லது பாலர் அரங்கம்` and the renaming sentence.
-
-Textual precheck is preparation only and must not be counted as strict source verification.
+- `உடுமலை நாராயணக் கவிராயர்`, `பொற்கிழியும்`, and `பதினைந்தாயிரம் ரூபாய்க்குமேல் பணமுடிப்பும்`;
+- `சிறுவர் அரங்கம் அல்லது பாலர் அரங்கம்`;
+- `சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய்`;
+- the unresolved 03:15 naming verb: T1 `[ஏற்றிவைக்கப்பட்டது?]` versus surfaced `ஏற்க வைக்கப்பட்டது`;
+- `அப்துல் சமது` and the old-name objection;
+- the exact Tirukutralam ministerial and hall-naming wording.
 
 ### T2 strict auditory audit — NOT STARTED
 
 - Strictly auditory-verified: **0/12 segments**.
-- Textually prechecked: **6/12 segments**.
+- Textually prechecked: **9/12 segments**.
 - The Tamil layer is not verified.
 
 The attached MP3 is intact, but the current processing environment has not yielded an independent Tamil listening or speech-decoding result. The strict counter must remain unchanged.
@@ -88,13 +88,13 @@ Audit **segments 1–3, 00:00–01:06**, directly against the MP3. Advance `stri
 
 ### Safe preparatory activity if independent listening is still unavailable
 
-Textually precheck **segments 7–9, 03:15–05:42**. Focus on:
+Textually precheck **segments 10–12, 05:42–07:22.549**. Focus on:
 
-1. `சற்றொப்ப இருபத்தைந்து இலட்ச ரூபாய்`;
-2. the uncertain clause provisionally written `கலைவாணருடைய பெயர் ஏற்றிவைக்கப்பட்டது`;
-3. `அப்துல் சமது` and the objection to changing the old hall name;
-4. the Tirukutralam hall-naming passage;
-5. whether the current text introduces any unsupported smoothing or reconstruction.
+1. the repeated `தேவையை நிறைவு செய்கின்ற அளவிற்கு` wording;
+2. `வள்ளல் தன்மை`, `பொற்கிழியினை`, and the contrast between the amount and the emotional value;
+3. exact names and honorifics `தங்கப்பன்`, `பகவதி`, and `வெங்கடாசலம்`;
+4. whether the final sentence is preserved strictly as an unfinished source boundary;
+5. whether T1 introduces any unsupported smoothing.
 
 ## Safeguards
 
