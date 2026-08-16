@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Translation
 
-> **Status:** First-pass complete — E2 fidelity review in progress; Batch 1 corrections consolidated  
+> **Status:** First-pass complete — E2 fidelity review in progress; Batch 1–2 corrections consolidated  
 > **Source layer:** `transcription-ta.md` (`verified-complete`, including the restored final passage)  
 > **Translation rule:** Translate from the frozen Tamil source, preserving Kalaignar's formal public-speaking voice, rhetorical repetition, imagery, names, amounts and sequence. Do not add an unstated date or historical explanation to the speech body.  
 > **Name/term note:** `Kalaivanar` is retained as N. S. Krishnan's honorific name. Named halls retain `Arangam`. `கலைக்குடும்பம்` is rendered as “the family of the arts” to preserve the contrast with the household family.
@@ -21,11 +21,11 @@ I cannot refrain from pointing out that it is only in this one way that we can e
 
 Kalaivanar's family does not mean merely the few people within the house that he built and lived in. Kalaivanar's family is the family of the arts.
 
-In that family of the arts, this day must be used to protect anyone who is falling into hardship from falling further; to enable those who are withering and wasting away to live; and—even if we are unable to light great lamps of radiance in their homes—to light at least small earthen lamps there. It is in that spirit that, year after year, if friends and comrades from the world of arts who had moved closely with Kalaivanar, who had moved with him in affection, and who had been worthy of Kalaivanar's trust and high regard have fallen into hardship in their lives, we have been rendering to them, to the extent possible, the honour that ought to be rendered.
+In that family of the arts, this day must be used to protect anyone who is falling into hardship from falling further; to enable those who are withering and wasting away to live; and—even if we are unable to light great lamps of radiance in their homes as well—to light at least small earthen lamps there. It is in that spirit that, year after year, if friends and comrades from the world of arts who had moved closely with Kalaivanar, who had moved with him in affection, and who had been worthy of Kalaivanar's trust and high regard have fallen into hardship in their lives, we have been rendering to them, to the extent possible, the honour that ought to be rendered.
 
 ## [02:21]
 
-In the early days, Udumalai Narayana Kavirayar, who had been with Kalaivanar and had composed for him many revolutionary songs in accordance with Kalaivanar's thought, was honoured in this very place. We draped him in a golden shawl and presented him with a gold purse. A cash purse amounting to more than approximately fifteen thousand rupees was also given to him.
+In the early days, Udumalai Narayana Kavirayar, who had been with Kalaivanar and had composed for him many revolutionary songs in accordance with Kalaivanar's thought, was honoured in this very place. We draped him in a golden shawl and presented him with a gold purse. A cash purse of a little over fifteen thousand rupees was also given to him.
 
 ## [02:51]
 
