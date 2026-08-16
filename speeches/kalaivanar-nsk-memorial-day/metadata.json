@@ -48,18 +48,82 @@
     "binary_note": "The MP3 is not committed. Identity is preserved through the source URL, filename, checksum, size, duration, and technical metadata."
   },
   "time_map": [
-    {"segment": 1, "start": "00:00", "end": "00:20", "subject": "salutations"},
-    {"segment": 2, "start": "00:20", "end": "00:50", "subject": "annual memorial event"},
-    {"segment": 3, "start": "00:50", "end": "01:06", "subject": "gratitude to Kalaivanar"},
-    {"segment": 4, "start": "01:06", "end": "02:21", "subject": "Kalaivanar's artistic family"},
-    {"segment": 5, "start": "02:21", "end": "02:51", "subject": "honour to Udumalai Narayana Kavirayar"},
-    {"segment": 6, "start": "02:51", "end": "03:15", "subject": "old hall name and proposed renaming"},
-    {"segment": 7, "start": "03:15", "end": "04:00", "subject": "reconstruction and naming of Kalaivanar Arangam"},
-    {"segment": 8, "start": "04:00", "end": "04:44", "subject": "objections to changing the old name"},
-    {"segment": 9, "start": "04:44", "end": "05:42", "subject": "Kalaivanar Arangam at Tirukutralam"},
-    {"segment": 10, "start": "05:42", "end": "06:02", "subject": "public usefulness of the Chennai hall"},
-    {"segment": 11, "start": "06:02", "end": "06:53", "subject": "meaning of memorial gifts"},
-    {"segment": 12, "start": "06:53", "end": "07:22.549", "subject": "recipients and truncated ending"}
+    {
+      "segment": 1,
+      "start": "00:00",
+      "end": "00:18",
+      "subject": "salutations",
+      "boundary_status": "machine-audio-corrected-approximate"
+    },
+    {
+      "segment": 2,
+      "start": "00:18",
+      "end": "00:55",
+      "subject": "annual memorial event",
+      "boundary_status": "machine-audio-corrected-approximate"
+    },
+    {
+      "segment": 3,
+      "start": "00:55",
+      "end": "01:11",
+      "subject": "gratitude to Kalaivanar",
+      "boundary_status": "machine-audio-corrected-approximate"
+    },
+    {
+      "segment": 4,
+      "start": "01:11",
+      "end": "02:21",
+      "subject": "Kalaivanar's artistic family",
+      "boundary_status": "opening-boundary-machine-audio-corrected-approximate"
+    },
+    {
+      "segment": 5,
+      "start": "02:21",
+      "end": "02:51",
+      "subject": "honour to Udumalai Narayana Kavirayar"
+    },
+    {
+      "segment": 6,
+      "start": "02:51",
+      "end": "03:15",
+      "subject": "old hall name and proposed renaming"
+    },
+    {
+      "segment": 7,
+      "start": "03:15",
+      "end": "04:00",
+      "subject": "reconstruction and naming of Kalaivanar Arangam"
+    },
+    {
+      "segment": 8,
+      "start": "04:00",
+      "end": "04:44",
+      "subject": "objections to changing the old name"
+    },
+    {
+      "segment": 9,
+      "start": "04:44",
+      "end": "05:42",
+      "subject": "Kalaivanar Arangam at Tirukutralam"
+    },
+    {
+      "segment": 10,
+      "start": "05:42",
+      "end": "06:02",
+      "subject": "public usefulness of the Chennai hall"
+    },
+    {
+      "segment": 11,
+      "start": "06:02",
+      "end": "06:53",
+      "subject": "meaning of memorial gifts"
+    },
+    {
+      "segment": 12,
+      "start": "06:53",
+      "end": "07:22.549",
+      "subject": "recipients and truncated ending"
+    }
   ],
   "research": {
     "chronology_status": "secondary-context-complete",
@@ -83,12 +147,34 @@
       "must_not_replace_source_date": true
     }
   },
+  "machine_audio_evidence": {
+    "status": "opening-segments-1-3-pre-audited-boundaries-corrected-wording-unverified",
+    "record": "t2-batches/batch-05-machine-audio-evidence-00-00-01-30.md",
+    "source_checksum_verified": true,
+    "segments_reviewed": 3,
+    "models": [
+      "whisper-small",
+      "whisper-medium",
+      "whisper-large-v3-turbo"
+    ],
+    "audio_variants": [
+      "raw-mono",
+      "speech-enhanced"
+    ],
+    "boundary_window_rechecked": "00:45-01:30",
+    "opening_time_boundaries_corrected": true,
+    "strict_verification_effect": "none"
+  },
   "workflow": {
     "tamil_transcription": "first-pass-complete",
     "audio_segments_total": 12,
     "audio_segments_drafted": 12,
     "strict_audio_audit": "not-started",
     "strict_audio_audit_segments_checked": 0,
+    "machine_audio_pre_audit": "segments-1-3-complete-boundary-corrected-wording-unverified",
+    "machine_audio_pre_audit_segments_reviewed": 3,
+    "machine_audio_pre_audit_record": "t2-batches/batch-05-machine-audio-evidence-00-00-01-30.md",
+    "opening_time_boundaries_corrected": true,
     "strict_audio_audit_precheck": "complete-all-12-segments-textually-reviewed-audio-verification-pending",
     "strict_audio_audit_precheck_segments_reviewed": 12,
     "strict_audio_audit_precheck_records": [
