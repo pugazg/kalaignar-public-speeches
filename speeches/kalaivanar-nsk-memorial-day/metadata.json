@@ -83,6 +83,12 @@
       "must_not_replace_source_date": true
     }
   },
+  "documentation": {
+    "project_learnings": "LEARNINGS.md",
+    "future_audio_guidelines": "../../docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md",
+    "future_audio_prompt": "../../docs/START_NEW_AUDIO_SPEECH_PROMPT.md",
+    "handover": "HANDOVER.md"
+  },
   "machine_audio_evidence": {
     "status": "complete-superseded-by-direct-listening-for-wording",
     "opening_record": "t2-batches/batch-05-machine-audio-evidence-00-00-01-30.md",
@@ -106,6 +112,15 @@
     "recording_boundary_verified": true,
     "recording_truncated": false
   },
+  "english_translation": {
+    "record": "translation-en.md",
+    "segments_total": 12,
+    "segments_translated": 12,
+    "first_pass_complete": true,
+    "fidelity_review_record": "translation-review.md",
+    "fidelity_review_batches_total": 4,
+    "fidelity_review_batches_complete": 0
+  },
   "workflow": {
     "tamil_transcription": "verified-complete",
     "audio_segments_total": 12,
@@ -128,8 +143,8 @@
     ],
     "tamil_consolidation": "complete",
     "uncertain_readings_open": 0,
-    "english_translation": "ready-not-started",
-    "english_translation_review": "not-started",
+    "english_translation": "first-pass-complete",
+    "english_translation_review": "ready-not-started",
     "english_translation_final_verification": "not-started"
   }
 }
