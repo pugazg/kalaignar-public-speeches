@@ -42,14 +42,14 @@ Accordingly, this source is archived as one printed speech-compilation booklet r
 | Tamil first-pass transcription (T1) | **Complete — 76/76 body pages** |
 | Strict line-by-line visual Tamil audit (T2) | **Complete — 76/76 body pages** |
 | Tamil consolidation / freeze (T3) | **Verified-complete — frozen** |
-| English translation (E1) | **Not started — ready** |
+| English translation (E1) | **In progress — 5/76 body pages; through PDF 10 / printed 9** |
 | English fidelity review (E2) | **Not started** |
 | Final Tamil→English verification (E3) | **Not started** |
 | Repository archival closure | **Not started** |
 
 ## Verified Tamil layer
 
-`transcription-ta.md` is now the frozen canonical Tamil transcription for the complete body, **PDF 6-81 / printed pages 5-80**.
+`transcription-ta.md` is the frozen canonical Tamil transcription for the complete body, **PDF 6-81 / printed pages 5-80**.
 
 The final whole-body T3 gate passed after checking all 76 sequential page headings, stale superseded readings, recorded split-word joins, representative ordinary page continuations, canonical opening and closing, duplicate/empty pages, representative T2 corrections, and source-supported unusual forms. The machine-checkable result is recorded in `t3-final-verification.md`.
 
@@ -63,9 +63,13 @@ The verified final page ends:
 
 Obsolete T1 staging files were removed after the successful freeze. The complete T2 audit evidence remains under `t2-batches/` and must be retained as the source-fidelity record.
 
+## English translation progress
+
+E1 has begun from the frozen Tamil layer. `translation-en.md` now contains **PDF 6-10 / printed pages 5-9**, preserving the original page mapping, paragraph order, repetition, rhetorical questions, and argument sequence. No E2 review has begun; that gate remains blocked until the entire E1 body is translated.
+
 ## Exact next activity
 
-Begin **E1 English translation** from the frozen `transcription-ta.md`, starting with **PDF 6-10 / printed 5-9** as a manageable first batch. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
+Continue **E1 English translation with PDF 11-15 / printed pages 10-14** from the frozen `transcription-ta.md`. Preserve PDF/printed-page correspondence, argument structure, repetition, rhetorical force, historical references, and source difficulty. Do not translate independently from OCR or silently repair unusual Tamil; where a literal rendering would mislead, use a concise translator/source note.
 
 ## Editorial rule
 
