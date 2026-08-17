@@ -1,29 +1,11 @@
-# Handover — Kalaivanar N. S. Krishnan Memorial-Day Speech
+# Closure Handover — Kalaivanar N. S. Krishnan Memorial-Day Speech
 
 ## Repository and path
 
 - Repository: `pugazg/kalaignar-public-speeches`
 - Branch: `main`
 - Speech path: `speeches/kalaivanar-nsk-memorial-day/`
-
-## Mandatory continuation reading
-
-Before continuing, read completely:
-
-1. root `SPEECH_PROCESSING_GUIDE.md`
-2. root `AUDIO_SPEECH_PROCESSING_GUIDE.md`
-3. `docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md`
-4. `speeches/kalaivanar-nsk-memorial-day/LEARNINGS.md`
-5. this `HANDOVER.md`
-6. `transcription-ta.md`
-7. `translation-en.md`
-8. `translation-review.md`
-9. `audit.md`
-10. `t2-batches/batch-07-tail-correction-06-53-07-23.md`
-
-Reusable prompt for future audio works:
-
-- `docs/START_NEW_AUDIO_SPEECH_PROMPT.md`
+- Archive status: **complete**
 
 ## Controlling source
 
@@ -35,69 +17,82 @@ Reusable prompt for future audio works:
 - Format: MP3, stereo, 44.1 kHz, approximately 128 kb/s
 - Binary committed: No
 
+## Mandatory reading before any reopening
+
+1. `SPEECH_PROCESSING_GUIDE.md`
+2. `AUDIO_SPEECH_PROCESSING_GUIDE.md`
+3. `docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md`
+4. `LEARNINGS.md`
+5. `transcription-ta.md`
+6. `audit.md`
+7. `translation-en.md`
+8. `translation-review.md`
+9. `e3-final-verification.md`
+10. `t2-batches/batch-07-tail-correction-06-53-07-23.md`
+
 ## Critical source-boundary correction
 
-An earlier audit incorrectly stopped after `...என்பதையும்—` and described the recording as truncated. The repository owner identified approximately another 25 seconds of speech. The tail was reopened, directly audited and restored.
+An earlier audit incorrectly stopped after `...என்பதையும்—` and called the recording truncated. The repository owner identified approximately another 25 seconds of speech.
+
+The tail was reopened, directly audited and restored. The source ends with a complete sentence declaring that any peace brought into the recipients' lives is the offering placed at Kalaivanar's feet.
 
 Controlling correction:
 
 - `t2-batches/batch-07-tail-correction-06-53-07-23.md`
 
-The source ends with a complete closing dedication. Never reintroduce:
+Never reintroduce:
 
 - an em dash after `என்பதையும்`;
 - an abrupt-ending or truncation note;
 - the obsolete duration `00:07:22.549`;
 - instructions to leave the final sentence unfinished.
 
-## Tamil workflow state
+## Final workflow state
+
+### Tamil
 
 - T1 first pass: **complete**
 - T2 direct-listening audit: **complete — 12/12**
-- T3 consolidation/freeze: **verified complete**
-- Open Tamil uncertainties: **0**
+- T3 consolidation/freeze: **verified-complete**
+- Open uncertainties: **0**
 - Recording truncated: **No**
 
-The frozen Tamil source is `transcription-ta.md`. Do not alter it without new source evidence and a documented reopening of the Tamil and dependent English gates.
+Canonical Tamil:
 
-## English workflow state
+- `transcription-ta.md`
 
-### E1 — FIRST PASS COMPLETE
+### English
 
-`translation-en.md` covers all 12 timestamp sections through `07:23.559`, including the restored closing dedication.
+- E1 first pass: **complete — 12/12 sections**
+- E2 fidelity review: **complete — 4/4 batches**
+- E2 corrections: **consolidated**
+- E3 continuous final verification: **passed**
+- English translation: **verified-complete**
 
-### E2 — COMPLETE, 4/4
+Canonical English:
 
-All four Tamil-to-English fidelity-review batches are complete, and every accepted correction is consolidated in `translation-en.md`.
+- `translation-en.md`
 
-| Batch | Timestamp range | Status |
-|---:|---|---|
-| 1 | 00:00–01:11 | reviewed; corrections consolidated |
-| 2 | 01:11–03:15 | reviewed; corrections consolidated |
-| 3 | 03:15–05:42 | reviewed; correction consolidated |
-| 4 | 05:42–07:23.559 | reviewed; corrections consolidated |
+Final verification:
 
-#### Important E2 decisions
+- `e3-final-verification.md`
 
-- retained `mothers` for `தாய்மார்களே`;
-- retained the household-family / `கலைக்குடும்பம்` contrast;
-- preserved repeated decline, withering and lamp imagery;
-- retained separate golden shawl, gold purse and cash purse;
-- rendered the ₹15,000-plus phrase as `a little over fifteen thousand rupees`;
-- restored the two parallel reasons in the ₹25 lakh reconstruction sentence;
-- retained `Kalaivanar's name was placed upon it` for `பெயர் ஏற்றி வைக்கப்பட்டது`;
-- retained the repeated fulfilment of artists' and institutions' needs;
-- rendered `வள்ளல் தன்மை` within `a great sum matching the measure of generosity with which he lived`;
-- retained the small-amount / very-great-feeling contrast;
-- preserved Thangappan, Bhagavathi and Venkatachalam;
-- preserved the complete final assistance-and-offering passage;
-- rendered `குறிப்பிட்டுக் கொள்ள விரும்புகின்றேன்` as `I wish only to record` in the closing sentence.
+## E3 result
 
-Detailed reasoning is recorded in `translation-review.md`.
+E3 compared the frozen Tamil and consolidated English continuously from `00:00` through `07:23.559`.
 
-### E3 — READY, NOT STARTED
+It confirmed:
 
-English remains **not verified-complete** until E3 passes.
+- all 12 timestamp sections present once and in order;
+- no remaining omission, addition or reversal;
+- all names, titles, halls, locations and amounts consistent;
+- household-family / family-of-the-arts distinction intact;
+- decline, lamp, generosity and offering imagery intact;
+- parallel and repeated structures retained;
+- the restored final approximately 25 seconds present in full;
+- no unsupported exact speech date or historical explanation inserted.
+
+E3 required no new wording correction after E2 consolidation.
 
 ## Venue and chronology
 
@@ -106,38 +101,24 @@ English remains **not verified-complete** until E3 passes.
 - Contextual lower bound: likely 29 January 1974 or later
 - 4 September 1971 is the earlier Balar Arangam event recalled in the speech, not this recording's date.
 
-## Exact next activity
+## Reopening rule
 
-Perform **E3 final end-to-end Tamil→English verification** from `00:00` through `07:23.559`.
+No further work is pending for this speech.
 
-Check continuously that:
+Reopen the archive only when new source evidence is supplied. A source-supported Tamil correction must reopen:
 
-1. all 12 timestamp sections are present once and in order;
-2. every Tamil clause has an English counterpart;
-3. no E2 correction introduced an omission, addition or reversal;
-4. names, titles, hall names and amounts are consistent;
-5. `கலைக்குடும்பம்`, lamp imagery, repeated need-fulfilment wording and gift distinctions remain intact;
-6. the ₹25 lakh two-reason construction remains complete;
-7. the small-sum/great-feeling contrast remains intact;
-8. the restored final passage is present in full and is the actual conclusion;
-9. no truncation wording survives anywhere in the English layer;
-10. metadata, README, handover and translation-review agree with the final result.
+1. the affected Tamil audit;
+2. Tamil consolidation status;
+3. affected E2 English review;
+4. E3 final verification;
+5. metadata, README and catalogue status.
 
-After E3 passes:
+Do not alter the frozen Tamil or verified English merely for stylistic preference.
 
-1. mark `translation-en.md` verified complete;
-2. mark English final verification complete in `metadata.json`;
-3. update `translation-review.md` with the E3 result;
-4. update README and handover to final archival state;
-5. update the root catalogue if the repository workflow requires it.
+## Reusable future-audio prompt
 
-## Safeguards
+For a new audio speech, use:
 
-- Verify only against the frozen `transcription-ta.md`.
-- Do not alter verified Tamil during E3.
-- Do not infer an exact speech date.
-- Do not call the source truncated.
-- Do not omit or shorten the restored final dedication.
-- Preserve repetition, imagery and rhetorical accumulation even when smoother English is possible.
-- Any future Tamil correction must reopen affected English gates.
-- Temporary audio-analysis workflows must not remain in `.github/workflows/`.
+- `docs/START_NEW_AUDIO_SPEECH_PROMPT.md`
+
+The future-work prompt must be used with the new controlling media attached; this completed speech is a workflow precedent, not a textual source for another recording.
