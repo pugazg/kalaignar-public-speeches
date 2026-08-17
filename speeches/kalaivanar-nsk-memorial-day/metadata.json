@@ -119,9 +119,11 @@
     "first_pass_complete": true,
     "fidelity_review_record": "translation-review.md",
     "fidelity_review_batches_total": 4,
-    "fidelity_review_batches_complete": 3,
-    "fidelity_review_latest_completed_range": "03:15-05:42",
-    "fidelity_corrections_consolidated_batches": 3
+    "fidelity_review_batches_complete": 4,
+    "fidelity_review_latest_completed_range": "05:42-07:23.559",
+    "fidelity_corrections_consolidated_batches": 4,
+    "fidelity_review_complete": true,
+    "final_verification_complete": false
   },
   "workflow": {
     "tamil_transcription": "verified-complete",
@@ -145,9 +147,9 @@
     ],
     "tamil_consolidation": "complete",
     "uncertain_readings_open": 0,
-    "english_translation": "first-pass-complete",
-    "english_translation_review": "in-progress",
-    "english_translation_review_batches_complete": 3,
-    "english_translation_final_verification": "not-started"
+    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation_review": "complete",
+    "english_translation_review_batches_complete": 4,
+    "english_translation_final_verification": "ready-not-started"
   }
 }
