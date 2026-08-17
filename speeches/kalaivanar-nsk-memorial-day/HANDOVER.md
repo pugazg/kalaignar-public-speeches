@@ -66,55 +66,38 @@ The frozen Tamil source is `transcription-ta.md`. Do not alter it without new so
 
 `translation-en.md` covers all 12 timestamp sections through `07:23.559`, including the restored closing dedication.
 
-### E2 — IN PROGRESS, 3/4 COMPLETE
+### E2 — COMPLETE, 4/4
+
+All four Tamil-to-English fidelity-review batches are complete, and every accepted correction is consolidated in `translation-en.md`.
 
 | Batch | Timestamp range | Status |
 |---:|---|---|
 | 1 | 00:00–01:11 | reviewed; corrections consolidated |
 | 2 | 01:11–03:15 | reviewed; corrections consolidated |
 | 3 | 03:15–05:42 | reviewed; correction consolidated |
-| 4 | 05:42–07:23.559 | not started |
+| 4 | 05:42–07:23.559 | reviewed; corrections consolidated |
 
-#### Batch 1 decisions
+#### Important E2 decisions
 
 - retained `mothers` for `தாய்மார்களே`;
-- `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
-- continuing Kalaivanar's work rendered with explicit continuity and obligation;
-- `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`.
-
-#### Batch 2 decisions
-
 - retained the household-family / `கலைக்குடும்பம்` contrast;
-- preserved repeated decline and withering imagery;
-- preserved great lamps / small earthen lamps;
+- preserved repeated decline, withering and lamp imagery;
 - retained separate golden shawl, gold purse and cash purse;
-- `அவர்களுடைய இல்லத்திலும்` → `in their homes as well`;
-- ₹15,000-plus phrase → `a little over fifteen thousand rupees`.
+- rendered the ₹15,000-plus phrase as `a little over fifteen thousand rupees`;
+- restored the two parallel reasons in the ₹25 lakh reconstruction sentence;
+- retained `Kalaivanar's name was placed upon it` for `பெயர் ஏற்றி வைக்கப்பட்டது`;
+- retained the repeated fulfilment of artists' and institutions' needs;
+- rendered `வள்ளல் தன்மை` within `a great sum matching the measure of generosity with which he lived`;
+- retained the small-amount / very-great-feeling contrast;
+- preserved Thangappan, Bhagavathi and Venkatachalam;
+- preserved the complete final assistance-and-offering passage;
+- rendered `குறிப்பிட்டுக் கொள்ள விரும்புகின்றேன்` as `I wish only to record` in the closing sentence.
 
-#### Batch 3 decisions
+Detailed reasoning is recorded in `translation-review.md`.
 
-No omission, addition, reversal, name error or amount error was found.
+### E3 — READY, NOT STARTED
 
-The ₹25 lakh paragraph was structurally corrected to restore Kalaignar's two parallel reasons in one sentence:
-
-> Because the hall that had stood here before this name was bestowed was not of sufficient standard, and because we thought it should be designed in a manner suited to the art programmes, music programmes and many other public programmes held in the city of Chennai, this hall was newly constructed at a cost of approximately twenty-five lakh rupees, and Kalaivanar's name was placed upon it.
-
-Batch 3 also confirmed:
-
-- Abdul Samad and the quoted objection to changing the Balar Arangam name;
-- Tamil society and the world of arts as paired subjects;
-- the hall standing in majesty as evidence;
-- Tirukutralam auditorium construction and naming;
-- Kalaignar's visit to Tirunelveli district while Minister for Public Works, without implying a district-specific ministerial post;
-- `also shines as Kalaivanar Arangam` for `திகழ்கிறது`.
-
-Detailed findings are in `translation-review.md`.
-
-### E3 — BLOCKED
-
-E3 begins only after Batch 4 is reviewed and all accepted E2 corrections are confirmed as consolidated.
-
-English remains **not verified-complete**.
+English remains **not verified-complete** until E3 passes.
 
 ## Venue and chronology
 
@@ -125,35 +108,33 @@ English remains **not verified-complete**.
 
 ## Exact next activity
 
-Perform **E2 Batch 4: 05:42–07:23.559**.
+Perform **E3 final end-to-end Tamil→English verification** from `00:00` through `07:23.559`.
 
-Compare the frozen Tamil and current English line by line, focusing on:
+Check continuously that:
 
-1. the repeated fulfilment of the needs of many artists and many institutions;
-2. `மாமன்றம்` and the annual memorial-function setting;
-3. `வள்ளல் தன்மை` and whether `munificent spirit` fully carries Kalaivanar's beneficent generosity;
-4. the inability to give a large sum equal to that generosity;
-5. `சிறிய அளவு பொற்கிழி` and the small monetary amount / very great feeling contrast;
-6. the direct condition of Thangappan and Bhagavathi;
-7. Venkatachalam's distinguished acting and present condition;
-8. the restored final assistance passage;
-9. `ஓரளவு நிம்மதியாவது`;
-10. `நிம்மதிதான் ... காணிக்கை` as the speech's concluding ethical dedication;
-11. any omission, addition, reversal, weakened repetition or generic-charity paraphrase.
+1. all 12 timestamp sections are present once and in order;
+2. every Tamil clause has an English counterpart;
+3. no E2 correction introduced an omission, addition or reversal;
+4. names, titles, hall names and amounts are consistent;
+5. `கலைக்குடும்பம்`, lamp imagery, repeated need-fulfilment wording and gift distinctions remain intact;
+6. the ₹25 lakh two-reason construction remains complete;
+7. the small-sum/great-feeling contrast remains intact;
+8. the restored final passage is present in full and is the actual conclusion;
+9. no truncation wording survives anywhere in the English layer;
+10. metadata, README, handover and translation-review agree with the final result.
 
-Record findings in `translation-review.md` before applying accepted corrections.
+After E3 passes:
 
-After Batch 4:
-
-1. confirm E2 corrections consolidated across all four batches;
-2. update metadata to the completed E2 state;
-3. perform E3 from `00:00` through `07:23.559`;
-4. only after E3 may English be marked `verified-complete`.
+1. mark `translation-en.md` verified complete;
+2. mark English final verification complete in `metadata.json`;
+3. update `translation-review.md` with the E3 result;
+4. update README and handover to final archival state;
+5. update the root catalogue if the repository workflow requires it.
 
 ## Safeguards
 
-- Translate and review only against `transcription-ta.md`.
-- Do not alter verified Tamil during English work.
+- Verify only against the frozen `transcription-ta.md`.
+- Do not alter verified Tamil during E3.
 - Do not infer an exact speech date.
 - Do not call the source truncated.
 - Do not omit or shorten the restored final dedication.
