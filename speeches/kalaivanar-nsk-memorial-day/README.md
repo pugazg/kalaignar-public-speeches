@@ -4,22 +4,22 @@
 **Source type:** Tamil public-speech audio recording  
 **Event stated in recording:** கலைவாணர் நினைவு நாள் விழா  
 **Venue established by direct listening:** கலைவாணர் அரங்கம், சென்னை  
-**Speech date:** Not stated in the available recording  
+**Speech date:** Not stated in the recording  
 **Decoded duration:** 00:07:23.559
 
 ## Current archival result
 
-The controlling MP3 has been audited from the first salutation through the true end. All 12 Tamil segments have passed strict direct-listening comparison after a corrective re-audit of the final approximately 25 seconds.
+The controlling MP3 has been audited from the first salutation through the true end. All 12 Tamil segments passed strict direct-listening comparison after a corrective re-audit restored the final approximately 25 seconds.
 
 The Tamil source layer is **verified-complete** and frozen.
 
-A complete first-pass English translation covers all 12 timestamp segments. E2 fidelity review is in progress: Batches 1–2 (`00:00–03:15`) have been reviewed and their accepted corrections have been consolidated. The English layer is **not yet verified**; two E2 batches and the final E3 end-to-end verification remain.
+The English first pass covers all 12 timestamp segments. E2 fidelity review is in progress: Batches 1–3 (`00:00–05:42`) are reviewed and all accepted corrections are consolidated. One E2 batch and the separate E3 end-to-end verification remain. English is **not yet verified-complete**.
 
 ## Critical tail correction
 
-An earlier audit incorrectly stopped after the clause concerning வெங்கடாசலம் and described the source as truncated. The repository owner identified additional speech. The final tail was reopened, directly audited and restored.
+An earlier audit incorrectly stopped after the clause concerning வெங்கடாசலம் and described the source as truncated. The complete tail was later restored.
 
-The source ends with a complete dedication: if the small assistance given to the struggling artists brings even some peace into their lives, that peace itself is the offering Kalaignar places at Kalaivanar's feet.
+The speech ends with the statement that, if the small assistance brings even some peace into the recipients' lives, that peace itself is the offering Kalaignar places at Kalaivanar's feet.
 
 Controlling correction record:
 
@@ -36,29 +36,26 @@ Do not reintroduce an em dash, truncation note or the obsolete duration `00:07:2
 - Audio: MP3, stereo, 44.1 kHz, approximately 128 kb/s
 - Decoded duration: 443.559 seconds
 - Source audio committed: No
-- Reattached source identity: checksum and byte size reconfirmed
 
 The embedded XMP date `2024-06-04T14:52:08+05:30` is digital-file metadata only and is not treated as the speech date.
 
 ## Verified Tamil content
 
-The speech addresses the annual Kalaivanar memorial-day function in the Chennai Kalaivanar Arangam and discusses:
+The speech discusses:
 
-- Kalaivanar's wider `கலைக்குடும்பம்`, beyond his household family;
-- support for artists living in hardship;
-- the image of lighting at least small earthen lamps where great lamps cannot be lit;
-- an earlier honour to உடுமலை நாராயணக் கவிராயர்;
-- the earlier names `சிறுவர் அரங்கம்` and `பாலர் அரங்கம்`;
-- reconstruction and naming of the Chennai Kalaivanar Arangam;
-- objections to changing the former name;
+- Kalaivanar's wider `கலைக்குடும்பம்` beyond his household family;
+- sustaining artists living in hardship;
+- lighting at least small earthen lamps where great lamps cannot be lit;
+- an honour to உடுமலை நாராயணக் கவிராயர்;
+- the former names `சிறுவர் அரங்கம்` and `பாலர் அரங்கம்`;
+- rebuilding and naming the Chennai Kalaivanar Arangam;
+- objections to changing the old name;
 - the Kalaivanar Arangam at திருக்குற்றாலம்;
 - the small monetary amount but great emotional value of memorial gifts;
 - தங்கப்பன், பகவதி and வெங்கடாசலம்;
 - the complete closing offering at Kalaivanar's feet.
 
-## Verified Tamil corrections
-
-Direct listening resolved:
+Direct listening resolved important forms including:
 
 - `ஏ. எல். சீனிவாசன்`;
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்`;
@@ -66,52 +63,65 @@ Direct listening resolved:
 - `புதுப்பிக்கப்பெற்று`;
 - `கலைவாணருடைய பெயர் ஏற்றி வைக்கப்பட்டது`;
 - `வள்ளல் தன்மையோடு`;
-- the names தங்கப்பன், பகவதி and வெங்கடாசலம்;
-- the full final approximately 25 seconds.
+- the complete final passage.
 
-Detailed evidence:
+Detailed Tamil evidence:
 
 - `audit.md`
 - `t2-batches/batch-06-direct-listening-audit-00-00-07-22.md`
 - `t2-batches/batch-07-tail-correction-06-53-07-23.md`
-
-Batch 7 supersedes Batch 6 only on the final-boundary finding.
 
 ## Time map
 
 | Segment | Approximate range | Subject |
 |---:|---:|---|
 | 1 | 00:00–00:18 | Salutations |
-| 2 | 00:18–00:55 | Purpose and emotion of the annual memorial event |
+| 2 | 00:18–00:55 | Annual memorial event |
 | 3 | 00:55–01:11 | Gratitude owed to Kalaivanar |
-| 4 | 01:11–02:21 | Kalaivanar's wider artistic family |
+| 4 | 01:11–02:21 | Kalaivanar's wider family of the arts |
 | 5 | 02:21–02:51 | Honour to Udumalai Narayana Kavirayar |
-| 6 | 02:51–03:15 | Earlier hall name and proposed renaming |
+| 6 | 02:51–03:15 | Former hall name and proposed renaming |
 | 7 | 03:15–04:00 | Reconstruction and naming of Kalaivanar Arangam |
-| 8 | 04:00–04:44 | Objections to changing the old name |
+| 8 | 04:00–04:44 | Objections to changing the former name |
 | 9 | 04:44–05:42 | Kalaivanar Arangam at Tirukutralam |
 | 10 | 05:42–06:02 | Public usefulness of the Chennai hall |
 | 11 | 06:02–06:53 | Meaning of the memorial gifts |
 | 12 | 06:53–07:23.559 | Recipients, assistance and complete closing dedication |
 
-Timestamps are navigation aids rather than word-level forced alignment.
+Timestamps are navigation aids rather than word-level alignment claims.
 
-## English translation
+## English E2 review status
 
-`translation-en.md` contains the complete E1 first pass.
+### Batch 1 — complete
 
-E2 Batch 1 (`00:00–01:11`) found no omission, addition, reversal or lost salutation. Accepted corrections include:
+Accepted corrections include:
 
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
-- `அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும்` → `the work he left behind must continue to be carried out`;
+- explicit continuation and obligation in the work Kalaivanar left behind;
 - `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`.
 
-E2 Batch 2 (`01:11–03:15`) confirmed the household-family / family-of-the-arts distinction, repeated hardship wording, lamp imagery, Udumalai Narayana Kavirayar, all three honour expressions, and the Siruvar/Balar Arangam renaming announcement. Accepted corrections include:
+The literal `mothers` remains for `தாய்மார்களே`.
+
+### Batch 2 — complete
+
+The review confirmed the household-family / family-of-the-arts distinction, repeated hardship wording, lamp imagery, Udumalai Narayana Kavirayar, three distinct honour expressions and the Siruvar/Balar Arangam announcement.
+
+Accepted corrections include:
 
 - `அவர்களுடைய இல்லத்திலும்` → `in their homes as well`;
-- `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல்` → `a little over fifteen thousand rupees`.
+- ₹15,000-plus phrase → `a little over fifteen thousand rupees`.
 
-`translation-review.md` records the four-batch E2 review. English must not be described as verified until all batches are complete, accepted corrections are consolidated and E3 passes.
+### Batch 3 — complete
+
+No omission, addition, reversal, name error or amount error was found.
+
+The ₹25 lakh paragraph was restructured to preserve Kalaignar's two parallel reasons in one sentence:
+
+> Because the hall that had stood here before this name was bestowed was not of sufficient standard, and because we thought it should be designed in a manner suited to the art programmes, music programmes and many other public programmes held in the city of Chennai, this hall was newly constructed at a cost of approximately twenty-five lakh rupees, and Kalaivanar's name was placed upon it.
+
+The review also confirmed Abdul Samad, the quoted objection, Tamil society and the world of arts, the hall standing majestically, the Tirukutralam auditorium and the Public Works Minister sentence.
+
+Detailed English findings are in `translation-review.md`.
 
 ## Project documentation
 
@@ -128,7 +138,7 @@ E2 Batch 2 (`01:11–03:15`) confirmed the household-family / family-of-the-arts
 - the renovated Kalaivanar Arangam was inaugurated on 29 January 1974;
 - this memorial-day recording is distinct from the hall-opening recording.
 
-The exact date of the present speech remains unknown. `speech.date` remains `null`.
+The exact date of this speech remains unknown. `speech.date` remains `null`.
 
 ## Editorial status
 
@@ -136,13 +146,13 @@ The exact date of the present speech remains unknown. `speech.date` remains `nul
 |---|---|
 | Source inspection and provenance | **Complete** |
 | Tamil first-pass transcription | **Complete** |
-| Tamil strict direct-listening audit | **Complete — 12/12 after tail correction** |
+| Tamil direct-listening audit | **Complete — 12/12 after tail correction** |
 | Tamil consolidation/freeze | **Verified complete** |
 | Open Tamil uncertainties | **0** |
 | English E1 first pass | **Complete — 12/12 timestamp segments** |
-| English E2 fidelity review | **In progress — 2/4 batches complete** |
+| English E2 fidelity review | **In progress — 3/4 batches complete** |
 | English E3 final verification | **Not started** |
 
-## Editorial rule
+## Exact next gate
 
-The MP3 remains the controlling source. Tamil punctuation, word spacing, paragraphing and timestamp headings are editorial aids. The English must remain subordinate to the frozen Tamil. Historical forms, repetition, imagery and the complete source ending must not be silently modernised, shortened or rewritten.
+Perform E2 Batch 4 for `05:42–07:23.559`, including the small-amount/great-feeling contrast and the complete restored closing dedication. English may be marked verified only after Batch 4 corrections are consolidated and E3 passes.
