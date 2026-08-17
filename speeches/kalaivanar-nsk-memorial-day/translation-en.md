@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Translation
 
-> **Status:** First-pass complete — E2 fidelity review in progress; Batch 1–2 corrections consolidated  
+> **Status:** First-pass complete — E2 fidelity review in progress; Batch 1–3 corrections consolidated  
 > **Source layer:** `transcription-ta.md` (`verified-complete`, including the restored final passage)  
 > **Translation rule:** Translate from the frozen Tamil source, preserving Kalaignar's formal public-speaking voice, rhetorical repetition, imagery, names, amounts and sequence. Do not add an unstated date or historical explanation to the speech body.  
 > **Name/term note:** `Kalaivanar` is retained as N. S. Krishnan's honorific name. Named halls retain `Arangam`. `கலைக்குடும்பம்` is rendered as “the family of the arts” to preserve the contrast with the household family.
@@ -35,7 +35,7 @@ It was at that very function that I said: this place will be renovated and will 
 
 ## [03:15]
 
-Before this name was bestowed, the hall that stood here was not of sufficient standard. And because we thought that it should be arranged in a manner suited to the art programmes, music programmes and many other public programmes held in the city of Chennai, this hall was newly created at a cost of approximately twenty-five lakh rupees, and Kalaivanar's name was placed upon it.
+Because the hall that had stood here before this name was bestowed was not of sufficient standard, and because we thought it should be designed in a manner suited to the art programmes, music programmes and many other public programmes held in the city of Chennai, this hall was newly constructed at a cost of approximately twenty-five lakh rupees, and Kalaivanar's name was placed upon it.
 
 ## [04:00]
 
