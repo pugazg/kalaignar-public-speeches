@@ -7,25 +7,36 @@
 **Speech date:** Not stated in the recording  
 **Decoded duration:** 00:07:23.559
 
-## Current archival result
+## Archival result
 
-The controlling MP3 has been audited from the first salutation through the true end. All 12 Tamil segments passed strict direct-listening comparison after a corrective re-audit restored the final approximately 25 seconds.
+The archive is **complete**.
 
-The Tamil source layer is **verified-complete** and frozen.
+- Tamil transcription: **verified-complete — 12/12 segments**
+- Direct-listening audit: **complete after final-tail correction**
+- Open Tamil uncertainties: **0**
+- English first pass: **complete — 12/12 timestamp sections**
+- English E2 fidelity review: **complete — 4/4 batches**
+- English E3 final verification: **passed**
+- English translation: **verified-complete**
 
-The complete English first pass covers all 12 timestamp segments. All four E2 Tamil-to-English fidelity-review batches are complete and their accepted corrections are consolidated. English is **not yet verified-complete** because the separate E3 end-to-end verification remains.
+The controlling MP3 was audited from the first salutation through the true end. A corrective re-audit restored the final approximately 25 seconds after an earlier false truncation conclusion.
 
 ## Critical tail correction
 
-An earlier audit incorrectly stopped after the clause concerning வெங்கடாசலம் and described the source as truncated. The complete tail was later restored.
+The earlier transcript incorrectly stopped after the clause concerning வெங்கடாசலம் and described the source as ending abruptly. The repository owner identified continuing speech. The tail was reopened, directly audited and restored.
 
-The speech ends with the statement that, if the small assistance brings even some peace into the recipients' lives, that peace itself is the offering Kalaignar places at Kalaivanar's feet.
+The complete ending states that, if the small assistance brings even some peace into the recipients' lives, that peace itself is the offering Kalaignar places at Kalaivanar's feet.
 
 Controlling correction record:
 
 - `t2-batches/batch-07-tail-correction-06-53-07-23.md`
 
-Do not reintroduce an em dash, truncation note or the obsolete duration `00:07:22.549`.
+Never reintroduce:
+
+- an em dash after `என்பதையும்`;
+- an abrupt-ending or truncation note;
+- the obsolete duration `00:07:22.549`;
+- instructions to leave the final sentence unfinished.
 
 ## Source integrity
 
@@ -37,9 +48,9 @@ Do not reintroduce an em dash, truncation note or the obsolete duration `00:07:2
 - Decoded duration: 443.559 seconds
 - Source audio committed: No
 
-The embedded XMP date `2024-06-04T14:52:08+05:30` is digital-file metadata only and is not treated as the speech date.
+The reattached MP3 matched the archived checksum and byte size. Embedded XMP dates are digital-file metadata and are not treated as the speech date.
 
-## Verified Tamil content
+## Verified content
 
 The speech discusses:
 
@@ -65,12 +76,6 @@ Direct listening resolved important forms including:
 - `வள்ளல் தன்மையோடு`;
 - the complete final passage.
 
-Detailed Tamil evidence:
-
-- `audit.md`
-- `t2-batches/batch-06-direct-listening-audit-00-00-07-22.md`
-- `t2-batches/batch-07-tail-correction-06-53-07-23.md`
-
 ## Time map
 
 | Segment | Approximate range | Subject |
@@ -90,40 +95,36 @@ Detailed Tamil evidence:
 
 Timestamps are navigation aids rather than word-level alignment claims.
 
-## English E2 review result
+## English verification
 
-All four batches are complete:
+`translation-en.md` is **verified-complete**.
 
-| Batch | Timestamp range | Status |
-|---:|---|---|
-| 1 | 00:00–01:11 | reviewed; corrections consolidated |
-| 2 | 01:11–03:15 | reviewed; corrections consolidated |
-| 3 | 03:15–05:42 | reviewed; correction consolidated |
-| 4 | 05:42–07:23.559 | reviewed; corrections consolidated |
+E2 reviewed the translation in four batches and consolidated all accepted corrections. E3 then compared the complete frozen Tamil and consolidated English continuously from `00:00` through `07:23.559`.
 
-Important E2 outcomes include:
+E3 confirmed:
 
-- `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
-- the obligation to continue Kalaivanar's work retained explicitly;
-- `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`;
-- the household-family / family-of-the-arts distinction retained;
-- repeated hardship wording and lamp imagery retained;
-- ₹15,000-plus phrase → `a little over fifteen thousand rupees`;
-- the ₹25 lakh paragraph restored as one sentence with two parallel reasons;
-- `Kalaivanar's name was placed upon it` retained for `பெயர் ஏற்றி வைக்கப்பட்டது`;
-- repeated fulfilment of artists' and institutions' needs retained;
-- `வள்ளல் தன்மை` retained through the measure-of-generosity comparison;
-- the small-amount / very-great-feeling contrast retained;
-- the complete restored ending retained through the offering at Kalaivanar's feet.
+- all 12 sections present once and in order;
+- no remaining omission, addition or reversal;
+- names, titles, hall names and monetary amounts consistent;
+- family, lamp, generosity and offering imagery intact;
+- repeated rhetorical structures retained;
+- the complete restored ending present as the final passage.
 
-Detailed English findings are in `translation-review.md`.
+Final verification record:
 
-## Project documentation
+- `e3-final-verification.md`
 
+## Project records
+
+- Canonical Tamil: `transcription-ta.md`
+- Tamil audit: `audit.md`
+- English translation: `translation-en.md`
+- English fidelity review: `translation-review.md`
+- English final verification: `e3-final-verification.md`
 - Project learnings: `LEARNINGS.md`
+- Current handover/closure: `HANDOVER.md`
 - Future audio guidelines: `../../docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md`
-- Reusable future-work prompt: `../../docs/START_NEW_AUDIO_SPEECH_PROMPT.md`
-- Current continuation state: `HANDOVER.md`
+- Reusable audio-work prompt: `../../docs/START_NEW_AUDIO_SPEECH_PROMPT.md`
 
 ## Secondary chronology — context only
 
@@ -135,19 +136,6 @@ Detailed English findings are in `translation-review.md`.
 
 The exact date of this speech remains unknown. `speech.date` remains `null`.
 
-## Editorial status
+## Reopening rule
 
-| Layer | Status |
-|---|---|
-| Source inspection and provenance | **Complete** |
-| Tamil first-pass transcription | **Complete** |
-| Tamil direct-listening audit | **Complete — 12/12 after tail correction** |
-| Tamil consolidation/freeze | **Verified complete** |
-| Open Tamil uncertainties | **0** |
-| English E1 first pass | **Complete — 12/12 timestamp segments** |
-| English E2 fidelity review | **Complete — 4/4 batches; corrections consolidated** |
-| English E3 final verification | **Ready; not started** |
-
-## Exact next gate
-
-Perform E3: one continuous Tamil→English comparison from `00:00` through `07:23.559`. English may be marked verified only after E3 passes and all status files are synchronized.
+The archive is closed unless new source evidence is supplied. Any source-supported Tamil correction must reopen the affected Tamil audit and all dependent English review and final-verification gates.
