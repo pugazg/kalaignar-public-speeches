@@ -1,19 +1,20 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Fidelity Review
 
-> **Status:** E2 complete — all four batches reviewed and accepted corrections consolidated  
+> **E2 status:** **Complete — 4/4 batches reviewed and corrections consolidated**  
+> **E3 status:** **Passed — English verified-complete**  
 > **Tamil review basis:** `transcription-ta.md` (`verified-complete`)  
-> **English reviewed:** `translation-en.md` (all E2 corrections consolidated)  
-> **Next gate:** E3 final end-to-end Tamil→English verification
+> **Final English:** `translation-en.md`  
+> **Final verification:** `e3-final-verification.md`
 
 ## Gate discipline
 
-This file records the independent E2 Tamil-to-English fidelity review. Completion of E2 does not by itself make the English verified. A separate E3 comparison from `00:00` through `07:23.559` remains mandatory.
+E2 was conducted as a separate Tamil-to-English fidelity review after the first-pass English translation. The frozen Tamil source was not altered during English work.
 
-The frozen Tamil source was not altered during E2.
+All accepted E2 findings were documented before being consolidated into `translation-en.md`. E3 then compared the complete frozen Tamil and consolidated English continuously from `00:00` through `07:23.559`.
 
 ## Review batches
 
-| Batch | Tamil/English timestamps | Status |
+| Batch | Timestamp range | Status |
 |---:|---|---|
 | 1 | 00:00–01:11 | reviewed; corrections consolidated |
 | 2 | 01:11–03:15 | reviewed; corrections consolidated |
@@ -22,177 +23,162 @@ The frozen Tamil source was not altered during E2.
 
 ## Review standards
 
-Each batch was checked for:
+The review checked:
 
-- complete clause and timestamp coverage;
+- complete timestamp and clause coverage;
 - omissions, additions and reversals;
+- names, titles, hall names, places and monetary amounts;
 - Kalaignar's formal public-speaking cadence;
-- rhetorical repetition and parallel constructions;
-- names, institutions, titles and monetary amounts;
-- metaphors and ethical imagery;
-- the complete restored final passage;
-- accidental modernization or generic paraphrase.
+- repetition and parallel constructions;
+- household family versus wider `கலைக்குடும்பம்`;
+- great-lamp / small-earthen-lamp imagery;
+- the distinctions among `பொன்னாடை`, `பொற்கிழி` and `பணமுடிப்பு`;
+- the small-amount / great-feeling contrast;
+- the complete restored final passage and `காணிக்கை` image.
 
 ## Batch 1 — 00:00–01:11
 
-**Result:** no clause, name, salutation or argument movement was omitted, added or reversed.
+### Result
 
-### Decisions
+No salutation, name, clause or argument movement was omitted, added or reversed.
 
-- Retained `mothers` for `தாய்மார்களே`; replacing it with `ladies` would erase Kalaignar's kinship-based public salutation.
-- Retained `my dear friend` for both occurrences of `அருமை நண்பர்`.
+The source order remains:
+
+1. A. L. Srinivasan, chairman of the Kalaivanar Memorial Committee;
+2. Chinna Annamalai;
+3. distinguished members of the world of arts;
+4. mothers;
+5. friends.
+
+`தாய்மார்களே` remains “mothers,” preserving Kalaignar's kinship-based public salutation rather than modernising it to “ladies.”
 
 ### Corrections consolidated
 
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்`
   - first pass: `with a profound surge of feeling`
-  - final E2: `with a great surge of emotion`
+  - final: `with a great surge of emotion`
 - `அவர் விட்டுச் சென்ற பணிகளைத் தொடர்ந்து செய்திட வேண்டும்`
   - first pass: `the tasks he left behind must be carried forward`
-  - final E2: `the work he left behind must continue to be carried out`
+  - final: `the work he left behind must continue to be carried out`
 - `நன்றியினை ... செலுத்திட`
-  - first pass: `discharge the gratitude we owe Kalaivanar`
-  - final E2: `express the gratitude we owe to Kalaivanar`
+  - first pass: `discharge the gratitude we owe`
+  - final: `express the gratitude we owe to Kalaivanar`
 
-The annual repetition, remembrance of Kalaivanar, obligation to continue his work, `only in this one way`, and `I cannot refrain from pointing out` remain preserved.
+The annual repetition, obligation to continue Kalaivanar's work, `only in this one way`, and `I cannot refrain from pointing out` remain intact.
 
 ## Batch 2 — 01:11–03:15
 
-**Result:** no clause, name, gift, amount or hall name was omitted, added or reversed.
+### Result
 
-### Confirmed fidelity
+The English preserves:
 
-- The household-family / `கலைக்குடும்பம்` distinction remains explicit.
-- `the family of the arts` is intentionally retained instead of smoothing the metaphor into `artistic community`.
-- The paired `நலிந்துபோகின்ற ... நலிந்துபோகாமல்` wording remains visible.
-- `வாடி வதங்காமல் வாழ்விக்க` retains its withering-and-wasting image.
-- The great lamps and small earthen lamps remain distinct.
-- The repeated closeness and affection clauses remain separate.
-- `விசுவாசம்`, `பெருமதிப்பு`, and `மரியாதை` remain distinguishable.
-- Udumalai Narayana Kavirayar's name and role are complete.
-- `பொன்னாடை`, `பொற்கிழி`, and `பணமுடிப்பு` remain three distinct honour/gift expressions.
-- Siruvar Arangam, Balar Arangam and the future-facing renaming announcement are complete.
+- household family versus the wider family of the arts;
+- repeated decline and withering language;
+- great lamps of radiance versus small earthen lamps;
+- friends who moved closely and affectionately with Kalaivanar;
+- trust, high regard and honour;
+- Udumalai Narayana Kavirayar and his revolutionary songs;
+- golden shawl, gold purse and separate cash purse;
+- Siruvar Arangam, Balar Arangam and the future-facing renaming announcement.
+
+No name, gift, amount, hall name or argument movement was omitted or reversed.
 
 ### Corrections consolidated
 
 - `அவர்களுடைய இல்லத்திலும்`
   - first pass: `in their homes`
-  - final E2: `in their homes as well`
+  - final: `in their homes as well`
 - `ஏறத்தாழ பதினைந்தாயிரம் ரூபாய்க்குமேல்`
   - first pass: `more than approximately fifteen thousand rupees`
-  - final E2: `a little over fifteen thousand rupees`
+  - final: `a little over fifteen thousand rupees`
 
-The latter preserves the source's approximation-plus-excess meaning without inventing a precise amount.
+The second revision retains the source's approximation-plus-excess sense without inventing a precise figure.
 
 ## Batch 3 — 03:15–05:42
 
-**Result:** no event, name, amount, quotation or argument movement was omitted, added or reversed.
+### Result
 
-### Reconstruction and ₹25 lakh passage
+No event, name, amount, quoted objection or Tirukutralam detail was omitted, added or reversed.
 
-The Tamil uses one extended sentence with two parallel reasons:
+The review confirmed:
 
-1. the former hall was not sufficiently suitable;
-2. it needed to accommodate art programmes, music programmes and many other public programmes in Chennai.
+- the approximately ₹25 lakh construction cost;
+- Kalaivanar's name being placed upon the hall;
+- Abdul Samad and the quoted objection to changing Balar Arangam's old name;
+- Tamil society and the world of arts as paired subjects;
+- the hall standing majestically as evidence;
+- construction and naming of the Tirukutralam auditorium;
+- Kalaignar's visit to Tirunelveli district while Minister for Public Works;
+- no implication of a district-specific ministerial office;
+- `திகழ்கிறது` retained as the hall name also “shines.”
 
-The first pass separated the first reason from the second. The final E2 translation restores the parallel structure:
+### Correction consolidated
+
+The first pass separated the source's two parallel reasons for reconstruction. The final English restores one accumulating sentence:
 
 > Because the hall that had stood here before this name was bestowed was not of sufficient standard, and because we thought it should be designed in a manner suited to the art programmes, music programmes and many other public programmes held in the city of Chennai, this hall was newly constructed at a cost of approximately twenty-five lakh rupees, and Kalaivanar's name was placed upon it.
 
-`Kalaivanar's name was placed upon it` is retained rather than flattened to `the hall was named after Kalaivanar`, preserving the visual force of `பெயர் ஏற்றி வைக்கப்பட்டது`.
-
-### Other confirmed points
-
-- Abdul Samad and the quoted objection are complete.
-- Tamil society and the world of arts remain paired subjects.
-- The hall standing in majesty remains the visible evidence that the objection was disregarded.
-- The Tirukutralam auditorium passage is complete.
-- The Tirunelveli/Public Works Minister sentence does not imply a district-specific ministerial office.
-- `திகழ்கிறது` remains `also shines as Kalaivanar Arangam`.
+`Kalaivanar's name was placed upon it` is retained because it preserves the more visual source construction `பெயர் ஏற்றி வைக்கப்பட்டது`.
 
 ## Batch 4 — 05:42–07:23.559
 
-**Result:** reviewed in full through the true end. No clause, recipient, ethical movement or part of the restored final passage is omitted. No generic-charity explanation or historical addition is introduced.
+### Result
 
-### Public usefulness of the hall — 05:42
+The English preserves:
 
-The source repeats the fulfilment construction for two groups:
+- repeated fulfilment of the needs of artists and institutions;
+- the annual memorial function in the great hall;
+- Kalaivanar's beneficent generosity;
+- the inability to match that generosity with a large monetary sum;
+- the small gold purse;
+- small monetary amount versus very great emotional value;
+- Thangappan, Bhagavathi and Venkatachalam;
+- Venkatachalam's distinguished acting in many plays;
+- the complete restored final assistance and offering passage.
 
-- the needs of many artists;
-- the needs of many institutions.
+No final sentence, recipient or ethical movement is missing.
 
-The English preserves the repetition:
+### Corrections consolidated
 
-> `to fulfil the needs of many artists and to fulfil the needs of many institutions`
-
-No correction was required.
-
-### Memorial gifts and `வள்ளல் தன்மை` — 06:02
-
-The first pass preserved the argument but used the strained phrase:
-
-> `a great sum equal to the munificent spirit with which he lived`
-
-The paragraph was also divided more than the long Tamil accumulation required.
-
-Accepted consolidated revision:
+The generosity sentence was revised to preserve the long source accumulation and improve the comparison:
 
 > At a great hall such as this, when we conduct a memorial function for Kalaivanar year after year, though we may be unable to give a great sum matching the measure of generosity with which he lived, if we present, to the extent possible, a small gold purse to friends who had moved closely with him, I wish to tell the friends who have received these gifts only this: although the amount being given may be small, the measure of feeling is very great.
 
-This preserves:
+The final sentence was refined:
 
-- `மாமன்றம்` as `a great hall`;
-- the annual memorial-function setting;
-- the scale comparison in `அந்த அளவிற்குப் பெரும் தொகை`;
-- the ethical force of `வள்ளல் தன்மை` as generosity;
-- the conditional `வழங்குவதென்றால்`;
-- `சிறிய அளவு பொற்கிழி` as a small gold purse;
-- the contrast between a small monetary amount and a very great measure of feeling;
-- the direct address to the friends who received the gifts.
+- first pass: `I wish only to say that that peace itself is the offering...`
+- final: `I wish only to record that that peace itself is the offering...`
 
-### Recipients and restored ending — 06:53
+`record` more closely preserves the formal force of `குறிப்பிட்டுக் கொள்ள விரும்புகின்றேன்`.
 
-The three movements are all present:
+## Restored ending
 
-1. the audience has directly perceived the present condition of Thangappan and Bhagavathi;
-2. the audience knows the present condition of Venkatachalam, who performed with great distinction in many plays;
-3. if the small assistance brings even some measure of peace into their lives, that peace is the offering placed at Kalaivanar's feet.
+The final section contains all three source movements:
 
-The names Thangappan, Bhagavathi and Venkatachalam are preserved. `எந்தக் கோலத்திலே` and `எத்தகைய நிலையிலே` remain serious condition/state descriptions rather than being softened.
+1. the audience has seen the present condition of Thangappan and Bhagavathi;
+2. the audience knows the present condition of Venkatachalam;
+3. if the small assistance brings even some peace into their lives, that peace is the offering placed at Kalaivanar's feet.
 
-Accepted closing refinement:
-
-- first pass: `I wish only to say that that peace itself is the offering I place at Kalaivanar's feet.`
-- final E2: `I wish only to record that that peace itself is the offering I place at Kalaivanar's feet.`
-
-`record` more closely retains the formal force of `குறிப்பிட்டுக் கொள்ள விரும்புகின்றேன்`. The `நிம்மதிதான் ... காணிக்கை` image remains the final ethical dedication.
-
-There is no em dash, truncation note or invented continuation.
+There is no em dash, truncation note, invented continuation or omitted tail.
 
 ## E2 completion decision
 
-- Timestamp coverage: complete for `00:00–07:23.559`
 - Batches reviewed: **4/4**
-- Omissions: none remaining
-- Additions: none remaining
-- Reversals: none remaining
-- Names and amounts: passed
-- Rhetorical repetition and imagery: passed after documented corrections
-- Restored final passage: present in full
-- Accepted corrections: consolidated into `translation-en.md`
-- E2 status: **complete — fidelity corrections consolidated**
+- Omissions remaining: **0**
+- Additions remaining: **0**
+- Reversals remaining: **0**
+- Name and amount inconsistencies: **0**
+- Accepted corrections: **all consolidated**
+- E2 result: **passed**
 
-## Exact next gate
+## E3 closure
 
-Perform E3: one continuous Tamil→English comparison from `00:00` through `07:23.559`.
+E3 subsequently checked all 12 timestamp sections once, in order, through the true end at `07:23.559`. It found no new correction after E2 consolidation.
 
-E3 must confirm:
+The controlling E3 record is:
 
-1. all 12 timestamp sections are present once and in order;
-2. no E2 correction introduced a new omission, addition or reversal;
-3. all names, amounts, hall names and titles remain consistent;
-4. repetition, lamp imagery, family metaphor and offering imagery remain intact;
-5. the complete restored ending remains the actual conclusion;
-6. metadata, README and handover agree with the final English state.
+- `e3-final-verification.md`
 
-Only after E3 passes may English be marked `verified-complete`.
+The English translation is therefore **`verified-complete`**.
+
+Any future source-supported Tamil correction must reopen the affected English fidelity review and final-verification gates.
