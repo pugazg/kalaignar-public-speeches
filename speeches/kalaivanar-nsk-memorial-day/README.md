@@ -13,7 +13,7 @@ The controlling MP3 has been audited from the first salutation through the true 
 
 The Tamil source layer is **verified-complete** and frozen.
 
-The English first pass covers all 12 timestamp segments. E2 fidelity review is in progress: Batches 1–3 (`00:00–05:42`) are reviewed and all accepted corrections are consolidated. One E2 batch and the separate E3 end-to-end verification remain. English is **not yet verified-complete**.
+The complete English first pass covers all 12 timestamp segments. All four E2 Tamil-to-English fidelity-review batches are complete and their accepted corrections are consolidated. English is **not yet verified-complete** because the separate E3 end-to-end verification remains.
 
 ## Critical tail correction
 
@@ -90,36 +90,31 @@ Detailed Tamil evidence:
 
 Timestamps are navigation aids rather than word-level alignment claims.
 
-## English E2 review status
+## English E2 review result
 
-### Batch 1 — complete
+All four batches are complete:
 
-Accepted corrections include:
+| Batch | Timestamp range | Status |
+|---:|---|---|
+| 1 | 00:00–01:11 | reviewed; corrections consolidated |
+| 2 | 01:11–03:15 | reviewed; corrections consolidated |
+| 3 | 03:15–05:42 | reviewed; correction consolidated |
+| 4 | 05:42–07:23.559 | reviewed; corrections consolidated |
+
+Important E2 outcomes include:
 
 - `மெத்த உணர்ச்சிப் பெருக்கோடும்` → `with a great surge of emotion`;
-- explicit continuation and obligation in the work Kalaivanar left behind;
-- `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`.
-
-The literal `mothers` remains for `தாய்மார்களே`.
-
-### Batch 2 — complete
-
-The review confirmed the household-family / family-of-the-arts distinction, repeated hardship wording, lamp imagery, Udumalai Narayana Kavirayar, three distinct honour expressions and the Siruvar/Balar Arangam announcement.
-
-Accepted corrections include:
-
-- `அவர்களுடைய இல்லத்திலும்` → `in their homes as well`;
-- ₹15,000-plus phrase → `a little over fifteen thousand rupees`.
-
-### Batch 3 — complete
-
-No omission, addition, reversal, name error or amount error was found.
-
-The ₹25 lakh paragraph was restructured to preserve Kalaignar's two parallel reasons in one sentence:
-
-> Because the hall that had stood here before this name was bestowed was not of sufficient standard, and because we thought it should be designed in a manner suited to the art programmes, music programmes and many other public programmes held in the city of Chennai, this hall was newly constructed at a cost of approximately twenty-five lakh rupees, and Kalaivanar's name was placed upon it.
-
-The review also confirmed Abdul Samad, the quoted objection, Tamil society and the world of arts, the hall standing majestically, the Tirukutralam auditorium and the Public Works Minister sentence.
+- the obligation to continue Kalaivanar's work retained explicitly;
+- `நன்றியினை ... செலுத்திட` → `express the gratitude we owe to Kalaivanar`;
+- the household-family / family-of-the-arts distinction retained;
+- repeated hardship wording and lamp imagery retained;
+- ₹15,000-plus phrase → `a little over fifteen thousand rupees`;
+- the ₹25 lakh paragraph restored as one sentence with two parallel reasons;
+- `Kalaivanar's name was placed upon it` retained for `பெயர் ஏற்றி வைக்கப்பட்டது`;
+- repeated fulfilment of artists' and institutions' needs retained;
+- `வள்ளல் தன்மை` retained through the measure-of-generosity comparison;
+- the small-amount / very-great-feeling contrast retained;
+- the complete restored ending retained through the offering at Kalaivanar's feet.
 
 Detailed English findings are in `translation-review.md`.
 
@@ -150,9 +145,9 @@ The exact date of this speech remains unknown. `speech.date` remains `null`.
 | Tamil consolidation/freeze | **Verified complete** |
 | Open Tamil uncertainties | **0** |
 | English E1 first pass | **Complete — 12/12 timestamp segments** |
-| English E2 fidelity review | **In progress — 3/4 batches complete** |
-| English E3 final verification | **Not started** |
+| English E2 fidelity review | **Complete — 4/4 batches; corrections consolidated** |
+| English E3 final verification | **Ready; not started** |
 
 ## Exact next gate
 
-Perform E2 Batch 4 for `05:42–07:23.559`, including the small-amount/great-feeling contrast and the complete restored closing dedication. English may be marked verified only after Batch 4 corrections are consolidated and E3 passes.
+Perform E3: one continuous Tamil→English comparison from `00:00` through `07:23.559`. English may be marked verified only after E3 passes and all status files are synchronized.
