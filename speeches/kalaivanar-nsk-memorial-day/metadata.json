@@ -87,7 +87,8 @@
     "project_learnings": "LEARNINGS.md",
     "future_audio_guidelines": "../../docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md",
     "future_audio_prompt": "../../docs/START_NEW_AUDIO_SPEECH_PROMPT.md",
-    "handover": "HANDOVER.md"
+    "handover": "HANDOVER.md",
+    "english_final_verification": "e3-final-verification.md"
   },
   "machine_audio_evidence": {
     "status": "complete-superseded-by-direct-listening-for-wording",
@@ -123,7 +124,9 @@
     "fidelity_review_latest_completed_range": "05:42-07:23.559",
     "fidelity_corrections_consolidated_batches": 4,
     "fidelity_review_complete": true,
-    "final_verification_complete": false
+    "final_verification_record": "e3-final-verification.md",
+    "final_verification_complete": true,
+    "verified_complete": true
   },
   "workflow": {
     "tamil_transcription": "verified-complete",
@@ -147,9 +150,10 @@
     ],
     "tamil_consolidation": "complete",
     "uncertain_readings_open": 0,
-    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation": "verified-complete",
     "english_translation_review": "complete",
     "english_translation_review_batches_complete": 4,
-    "english_translation_final_verification": "ready-not-started"
+    "english_translation_final_verification": "complete",
+    "archive_status": "complete"
   }
 }
