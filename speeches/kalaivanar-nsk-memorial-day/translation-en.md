@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Translation
 
-> **Status:** First-pass complete — E2 fidelity review in progress; Batch 1–3 corrections consolidated  
+> **Status:** E2 fidelity review complete — all accepted corrections consolidated; E3 final verification pending  
 > **Source layer:** `transcription-ta.md` (`verified-complete`, including the restored final passage)  
 > **Translation rule:** Translate from the frozen Tamil source, preserving Kalaignar's formal public-speaking voice, rhetorical repetition, imagery, names, amounts and sequence. Do not add an unstated date or historical explanation to the speech body.  
 > **Name/term note:** `Kalaivanar` is retained as N. S. Krishnan's honorific name. Named halls retain `Arangam`. `கலைக்குடும்பம்` is rendered as “the family of the arts” to preserve the contrast with the household family.
@@ -57,7 +57,7 @@ This hall, here in the city of Chennai, has been serving to fulfil the needs of 
 
 ## [06:02]
 
-In such a great hall, year after year, we conduct a memorial function for Kalaivanar. We may not be able to give a great sum equal to the munificent spirit with which he lived. Yet, when we present, to the extent possible, a small gold purse to friends who had moved closely with him, I wish to tell the friends who have received these gifts this alone: although the amount being given may be small, the measure of feeling is very great.
+At a great hall such as this, when we conduct a memorial function for Kalaivanar year after year, though we may be unable to give a great sum matching the measure of generosity with which he lived, if we present, to the extent possible, a small gold purse to friends who had moved closely with him, I wish to tell the friends who have received these gifts only this: although the amount being given may be small, the measure of feeling is very great.
 
 ## [06:53]
 
@@ -65,4 +65,4 @@ You have seen those who received the gifts. You have directly perceived the cond
 
 Likewise, you know the condition in which Venkatachalam—who performed with great distinction in many plays—now finds himself.
 
-If this small assistance that we extend to all of them brings even some measure of peace into their lives, I wish only to say that that peace itself is the offering I place at Kalaivanar's feet.
+If this small assistance that we extend to all of them brings even some measure of peace into their lives, I wish only to record that that peace itself is the offering I place at Kalaivanar's feet.
