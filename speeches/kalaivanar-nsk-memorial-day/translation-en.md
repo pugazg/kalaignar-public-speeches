@@ -1,8 +1,9 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — English Translation
 
-> **Status:** E2 fidelity review complete — all accepted corrections consolidated; E3 final verification pending  
+> **Status:** **Verified complete — E2 fidelity review and E3 final verification passed**  
 > **Source layer:** `transcription-ta.md` (`verified-complete`, including the restored final passage)  
-> **Translation rule:** Translate from the frozen Tamil source, preserving Kalaignar's formal public-speaking voice, rhetorical repetition, imagery, names, amounts and sequence. Do not add an unstated date or historical explanation to the speech body.  
+> **Final verification:** `e3-final-verification.md`  
+> **Translation rule:** Translated from the frozen Tamil source, preserving Kalaignar's formal public-speaking voice, rhetorical repetition, imagery, names, amounts and sequence. No unstated date or historical explanation has been added to the speech body.  
 > **Name/term note:** `Kalaivanar` is retained as N. S. Krishnan's honorific name. Named halls retain `Arangam`. `கலைக்குடும்பம்` is rendered as “the family of the arts” to preserve the contrast with the household family.
 
 ## [00:00]
