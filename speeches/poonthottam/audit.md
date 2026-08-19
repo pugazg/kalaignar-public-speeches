@@ -13,6 +13,8 @@ Stage **T2 strict line-by-line visual fidelity audit is complete: 12 / 12 speech
 
 Stage **T3 consolidation / page-boundary / stale-reading verification is complete**. The consolidated Tamil layer is now frozen as **`verified-complete`**.
 
+Stage **T4 - a documented post-freeze targeted re-inspection of printed p.16** was later carried out against the controlling scan and produced **one** confirmed Tamil correction (`மாட்டுப்புறா` → `மாடப்புறா`). Tamil was re-consolidated and **re-frozen** as `verified-complete`, and the dependent English layer was re-verified (fresh E2 of the affected page plus a complete E3). See **T4** below.
+
 ## Source / page-map safeguards
 
 - PDF 6-17 are the canonical speech body, printed pages 5-16.
@@ -72,7 +74,7 @@ The following source readings were confirmed without change:
 - first occurrence `கை முஷ்டி` and later joined `கைமுஷ்டி`;
 - `பூர்ஷ்வாத் தன்மை`;
 - `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`;
-- `மானிடம், தேன்சிட்டு, மயில், குயில், மாட்டுப்புறா`;
+- `மானிடம், தேன்சிட்டு, மயில், குயில், மாட்டுப்புறா` — **partly SUPERSEDED.** The T4 post-freeze re-inspection (below) established that the final word of this group is printed `மாடப்புறா`, not `மாட்டுப்புறா`. `மானிடம்` and `தேன்சிட்டு` were re-confirmed.
 - printed final `வணக்கம்`; the blue circular library stamp below it is later marking and remains excluded.
 
 Two first-pass readings were found to differ from the scan and were corrected:
@@ -112,10 +114,46 @@ Important page-boundary continuations preserved correctly include:
 | T1 first-pass Tamil transcription | 12 / 12 | first-pass-complete |
 | T2 strict visual fidelity audit | 12 / 12 | complete |
 | T3 consolidation / page-boundary / stale-reading check | 12 / 12 | **complete** |
-| Tamil canonical layer | 12 / 12 | **verified-complete** |
+| T4 post-freeze targeted re-inspection (printed p.16) | 1 / 1 | **complete - 1 correction** |
+| Tamil canonical layer | 12 / 12 | **verified-complete (re-frozen after T4)** |
+
+## T4 - post-freeze targeted re-inspection (printed p.16 / PDF 17)
+
+This is a **documented post-freeze reopening**, not a general restart. T1/T2/E1 were not re-run.
+
+### Why the frozen layer was reopened
+
+A downstream reader review questioned the frozen reading `மாட்டுப்புறா` in the final sentence, observing that `மாடப்புறா` is the established Tamil pigeon/dove compound and that the surrounding catalogue is otherwise composed of birds. Dictionary expectation is **not** authority in this archive, so the question was referred back to the controlling scan rather than normalized.
+
+### Evidence
+
+- Controlling scan re-opened and **identity verified before use**: `TVA_BOK_0065784_கலைஞரின்_பூந்தோட்டம்.pdf`, SHA-256 `2a8bf5f6f42970ee95912f41662f9bc448581a5aaca15a55fee9b44ba20a4c52`, 49,297,657 bytes, 18 PDF pages — all matching the recorded provenance.
+- PDF page 17 rendered directly from that file and inspected visually at 400 dpi and 600 dpi. The running header `16 | கலைஞரின் பூந்தோட்டம் - டாக்டர் கலைஞர் மு. கருணாநிதி` confirms printed page 16.
+- The word following `குயில்,` shows **one** `ட` between `மா` and `ப்` — `மா` + `ட` + `ப்` + `பு` + `றா`. The frozen reading `மாட்டுப்புறா` would require a `ட்` with pulli followed by a separate `டு`; no such pair is present at any zoom level.
+- No OCR or parsed text was used as authority, and no outside edition was consulted for this decision.
+
+### Correction applied
+
+1. printed p.16: `மாட்டுப்புறா` → **`மாடப்புறா`** in `தென்றல் தவழும் - புதுமணம் நீந்தும் - மானிடம், தேன்சிட்டு, மயில், குயில், மாடப்புறா எல்லாமே புதுமைக் கலைவிருந்து படைக்கும்.`
+
+Because the T2 Batch 3 entry had confirmed this five-word group as a unit, the remaining members were re-inspected on the same rendering: `மானிடம்` and `தேன்சிட்டு` are printed exactly as transcribed, and `மயில்`/`குயில்` are unchanged. The group defect is confined to the single word.
+
+The blue circular library stamp below `வணக்கம்` on PDF 17 remains later marking and is still excluded from the speech body.
+
+### T3 re-consolidation and re-freeze
+
+T3 was re-run over the consolidated `transcription-ta.md` for the affected page and the whole-file invariants:
+
+- superseded reading `மாட்டுப்புறா` no longer occurs anywhere in the canonical Tamil (it survives only in this audit's historical discussion);
+- both earlier T2 corrections `பூரிப்போடு` and `வளரத்தான்` remain present;
+- all 12 speech-page headings PDF 6-17 occur once in sequence; no page missing or duplicated;
+- all 11 internal page transitions re-checked; no omission, duplication or split-word damage;
+- the correction is confined to one word on printed p.16; no other Tamil changed.
+
+**T4 passes. Tamil is re-frozen as `verified-complete`.** The dependent English layer was re-verified through a fresh E2 of the affected page and a complete E3 (see `translation-review.md`).
 
 ## Exact next gate
 
-Begin **E1 - English first-pass translation** from the frozen `transcription-ta.md` only, preserving PDF/printed-page correspondence.
+None. Tamil is `verified-complete` and re-frozen after T4; English is `verified-complete` after the dependent E2/E3 re-verification. Any further Tamil change again requires documented source evidence plus dependent English re-verification.
 
 Do not translate from OCR or an outside edition, and do not treat difficult source-supported Tamil as an invitation to silently repair the text in English.

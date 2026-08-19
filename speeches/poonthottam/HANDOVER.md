@@ -44,6 +44,8 @@ The `speeches/poonthottam/` archive is complete. All mandatory gates in `SPEECH_
 - E3 internal page transitions checked: **11/11**
 - E3 additional corrections: **0**
 - English canonical layer: **`verified-complete`**
+- **Post-freeze re-inspection (T4, printed p.16): complete - 1 Tamil correction; Tamil re-frozen**
+- **Post-freeze English re-verification (fresh E2 of p.16 + full 12-page E3): complete - 2 English corrections**
 - Speech `README.md` synchronization: **complete**
 - `metadata.json` synchronization: **complete**
 - Root catalogue / root `README.md` synchronization: **complete**
@@ -64,6 +66,25 @@ as Vibhishana betraying Ravana to **Bharata's elder brother, the Ayodhyan**. The
 
 E3 found no further correction and confirmed no stale E1 wording survives.
 
+## Post-freeze correction record (2026-08-19)
+
+Both layers had been closed when two findings were raised against the final sentence on printed p.16. Both were handled under the post-freeze rules — documented evidence first, then dependent re-verification. **T1, T2 and E1 were not re-run.**
+
+**Finding B - Tamil transcription defect (scan-decided).** The controlling scan was re-opened with its identity verified first (SHA-256 `2a8bf5f6…`, 49,297,657 bytes, 18 pages, matching the recorded provenance). PDF 17 was rendered at 400 and 600 dpi. The word after `குயில்,` shows one `ட` between `மா` and `ப்`, so the print reads **`மாடப்புறா`**, not the frozen `மாட்டுப்புறா`:
+
+- `மாட்டுப்புறா` → **`மாடப்புறா`** (T4; Tamil re-consolidated and re-frozen).
+
+`மானிடம்` and `தேன்சிட்டு`, recorded in the same T2 Batch 3 group, were re-confirmed as printed. Dictionary expectation did not decide this correction; the scan did.
+
+**Finding A - English rendering only (Tamil unchanged).** `மானிடம்` had been left in Tamil script with a note claiming its referent was uncertain. It is an established noun for *humanity/mankind* and heads the closing subject list gathered by `எல்லாமே`, so:
+
+- `மானிடம்` → **humanity**, and the unfounded translator note was removed;
+- dependent on the T4 correction, *mattuppura* → **dove**.
+
+**Dependent verification.** A fresh E2 of printed p.16 and a complete 12-page E3 re-run were performed. All 12 speech pages and all 11 internal transitions were re-checked; no other text changed in either layer; no stale `மாட்டுப்புறா`, *mattuppura* or untranslated `மானிடம்` survives in the canonical layers. Translator notes: 6 → 5.
+
+Both layers are again **`verified-complete`**.
+
 ## Difficult source-supported forms retained transparently
 
 The archive deliberately does not conjecturally normalize these verified source forms:
@@ -73,7 +94,8 @@ The archive deliberately does not conjecturally normalize these verified source 
 - `தண்ட காரணயத்திலே`
 - `பெய்ப்படி`
 - `வழக்கு மன்றத்திற்கு`
-- `மானிடம்`
+
+`மானிடம்` was formerly listed here. The post-freeze review established it is an ordinary lexical item (*humanity*) rather than a difficult form; it is now translated and its note removed. The Tamil reading itself was re-confirmed against the scan and is unchanged.
 
 Their handling is documented in `translation-en.md` and `translation-review.md` where relevant.
 
