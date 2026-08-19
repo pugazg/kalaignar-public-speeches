@@ -112,6 +112,8 @@ The archival workflow is complete for the 12-page speech body on PDF pages 6-17 
 
 Tamil transcription, strict visual audit, Tamil consolidation/freeze, English translation, independent fidelity review, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**. E2 produced one confirmed English correction; E3 found no additional correction. The source PDF is not committed under repository policy; provenance is preserved in metadata through filename, SHA-256, file size, page count and page map.
 
+A later **post-freeze review of printed p.16** reopened both layers under documented evidence. A fresh inspection of the controlling scan established that the print reads `மாடப்புறா`, not the frozen `மாட்டுப்புறா`, giving one scan-confirmed Tamil correction; `மானிடம்`, previously left untranslated as an uncertain form, was established to be the ordinary noun for *humanity* and is now translated, with its note removed. Tamil was re-consolidated and re-frozen, and the dependent English layer was re-verified through a fresh E2 of the affected page plus a complete 12-page E3. Both layers remain **`verified-complete`**.
+
 ### பள்ளி வாழ்க்கை
 
 The archival workflow is complete for the **76-page body on PDF pages 6-81 / printed pages 5-80**. The March 1952 first edition is a printed compilation rather than one securely identified single speech event. PDF page 5 says that speeches delivered by Kalaignar M. Karunanidhi at **திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி** and **வேறு சில இடங்களிலும்** were collected by **தோழர் மு. நமச்சிவாயம்**. Component-speech dates and one common venue/event/occasion/audience are not supplied by the source and are therefore not inferred.

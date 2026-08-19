@@ -5,7 +5,8 @@
 > **Source-body correspondence:** PDF pages 6-17 / printed pages 5-16  
 > **E1 translated:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
 > **E2 reviewed:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
-> **E3 final verification:** complete (12 / 12 speech pages)
+> **E3 final verification:** complete (12 / 12 speech pages)  
+> **Post-freeze re-verification:** complete - fresh E2 of printed p.16 and a full 12-page E3 re-run after the T4 Tamil correction and the `மானிடம்` rendering correction
 
 This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Independent E2 fidelity review and final E3 end-to-end verification are complete.
 
@@ -279,11 +280,9 @@ It is precisely the good younger brothers who walk in this way that the flower g
 
 Honours await. For the song of victory to arise, all that remains is for you to pluck the strings of the veena!
 
-The breeze will glide—the new fragrance will float—`மானிடம்`, the honey-bird, the peacock, the cuckoo, and the *mattuppura* will all create a new artistic feast. I once again extend an invitation to the world of youth to behold that delightful flower garden.
+The breeze will glide—the new fragrance will float—humanity, the honey-bird, the peacock, the cuckoo, and the dove will all create a new artistic feast. I once again extend an invitation to the world of youth to behold that delightful flower garden.
 
 **Greetings**
-
-> **Translator note:** The verified source prints `மானிடம்` in the final garden catalogue. Because its intended referent is not certain from the frozen Tamil layer alone, it is retained visibly rather than silently emended or interpreted.
 
 ---
 
@@ -292,3 +291,12 @@ The breeze will glide—the new fragrance will float—`மானிடம்`, 
 Stage E1 is **complete** across all 12 speech pages. Stage E2 independent fidelity review is **complete** across all 12 speech pages, with one confirmed correction consolidated on PDF 10. Stage E3 final end-to-end verification is **complete** across PDF pages 6-17 / printed pages 5-16.
 
 No stale E1 reading survives. All eleven internal page transitions were checked for continuity. No unsupported substantive English addition, omitted Tamil proposition, duplicated carry-over, or newly confirmed translation error was found during E3.
+
+### Post-freeze re-verification (printed p.16)
+
+Two later corrections were applied to this page and the English layer was re-verified:
+
+1. `மானிடம்` had been left untranslated with a note claiming its referent was uncertain. It is an established Tamil noun for *humanity/mankind* and reads coherently as the head of the closing catalogue, so it is now rendered **humanity** and the unfounded note has been removed. The Tamil was not changed.
+2. The T4 scan re-inspection established that the printed form is `மாடப்புறா`, not `மாட்டுப்புறா`. The transliteration *mattuppura* is therefore replaced by **dove**, matching the ordinary sense of the corrected Tamil.
+
+A fresh E2 of printed p.16 and a complete 12-page E3 re-run were then performed: all 12 page headings correspond to the Tamil in sequence, all 11 internal transitions remain continuous, no other English text changed, and no stale reading survives. The English layer remains **`verified-complete`**.

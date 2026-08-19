@@ -75,6 +75,8 @@ The speech begins on PDF page 6 with the heading `பூந்தோட்டம
 | English first-pass translation | **Complete - 12/12 speech pages** |
 | English fidelity review | **Complete - 12/12 speech pages** |
 | Final Tamil→English verification | **Complete - 12/12 speech pages** |
+| Post-freeze scan re-inspection (printed p.16) | **Complete - 1 Tamil correction; Tamil re-frozen** |
+| Post-freeze English re-verification (E2 p.16 + full E3) | **Complete - 2 English corrections** |
 | Repository-level archival closure | **Complete** |
 
 ## Tamil verification summary
@@ -88,7 +90,11 @@ T2 required two scan-confirmed corrections on printed p.15:
 
 T3 then checked the complete consolidated transcript for stale superseded readings, all page boundaries, missing/duplicated speech pages, later normalization of confirmed unusual forms, and accidental inclusion of running headers, bleed-through, or the PDF 17 library stamp. **T3 passed without further transcription correction.**
 
-The Tamil canonical layer in `transcription-ta.md` is **`verified-complete` and frozen**.
+A later **post-freeze targeted re-inspection (T4)** of printed p.16 established one further scan-confirmed correction:
+
+- `மாட்டுப்புறா` → **`மாடப்புறா`** in the closing sentence. The T2 Batch 3 entry had recorded this five-word group as confirmed; re-inspection of the controlling scan at 400 and 600 dpi shows a single `ட` between `மா` and `ப்`. `மானிடம்` and `தேன்சிட்டு` in the same group were re-confirmed as printed.
+
+The Tamil canonical layer in `transcription-ta.md` is **`verified-complete`**, re-consolidated and **re-frozen** after T4.
 
 ## English verification summary
 
@@ -100,14 +106,24 @@ E3 then re-read the complete Tamil and English continuously across all 12 pages.
 
 The English layer in `translation-en.md` is **`verified-complete`**.
 
-Difficult source-supported forms intentionally left transparent rather than conjecturally normalized include:
+Difficult source-supported forms intentionally left transparent rather than conjecturally normalized are:
 
 - `அகம்புற மென்ற அன்றலர்ந்த`
 - `அயோத்தியானுக்கு`
 - `தண்ட காரணயத்திலே`
 - `பெய்ப்படி`
 - `வழக்கு மன்றத்திற்கு`
-- `மானிடம்`
+
+`மானிடம்` was previously in this list. The post-freeze review established that it is an ordinary Tamil noun for *humanity/mankind*, not an uninterpretable form, so it is now translated as **humanity** and its translator note has been removed. The Tamil was not changed. Five translator notes remain.
+
+### Post-freeze English re-verification
+
+After the T4 Tamil correction, a fresh **E2** of printed p.16 and a complete **12-page E3** re-run were performed. Two English corrections were consolidated:
+
+- `மானிடம்` → **humanity** (unfounded uncertainty note removed);
+- *mattuppura* → **dove**, following the corrected Tamil `மாடப்புறா`.
+
+All 12 pages and all 11 internal transitions were re-checked; no other English text changed and no stale reading survives. The English layer in `translation-en.md` remains **`verified-complete`**.
 
 ## Editorial rule
 
