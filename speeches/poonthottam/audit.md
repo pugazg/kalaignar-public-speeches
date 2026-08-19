@@ -74,7 +74,7 @@ The following source readings were confirmed without change:
 - first occurrence `கை முஷ்டி` and later joined `கைமுஷ்டி`;
 - `பூர்ஷ்வாத் தன்மை`;
 - `அப்படி நடைபோடும் நல்லதம்பிகளைத்தான்`;
-- `மானிடம், தேன்சிட்டு, மயில், குயில், மாட்டுப்புறா`; — **partly SUPERSEDED.** The T4 post-freeze re-inspection (below) established that the final word of this group is printed `மாடப்புறா`, not `மாட்டுப்புறா`. `மானிடம்` and `தேன்சிட்டு` were re-confirmed.
+- `மானிடம், தேன்சிட்டு, மயில், குயில், மாட்டுப்புறா` — **partly SUPERSEDED.** The T4 post-freeze re-inspection (below) established that the final word of this group is printed `மாடப்புறா`, not `மாட்டுப்புறா`. `மானிடம்` and `தேன்சிட்டு` were re-confirmed.
 - printed final `வணக்கம்`; the blue circular library stamp below it is later marking and remains excluded.
 
 Two first-pass readings were found to differ from the scan and were corrected:

@@ -3,7 +3,8 @@
 > **Status:** `verified-complete`  
 > **Review basis:** frozen `verified-complete` Tamil in `transcription-ta.md` compared against the English in `translation-en.md`.  
 > **E2 reviewed:** PDF pages 6-17 / printed pages 5-16 (**12 / 12 speech pages**)  
-> **E3 final verification:** PDF pages 6-17 / printed pages 5-16 (**12 / 12 speech pages**)  
+> **E3 final verification:** PDF pages 6-17 / printed pages 5-16 (**12 / 12 speech pages**)
+>
 > **Post-freeze re-verification:** fresh E2 of printed p.16 + full 12-page E3 re-run (see the final section)
 
 The Tamil layer remained authoritative and unchanged throughout English review and final verification.
@@ -125,6 +126,13 @@ The complete corrected Tamil and complete English were read again from PDF 6 thr
 - Tamil changes: **1**, scan-documented; Tamil re-frozen after T4.
 - Total confirmed English corrections across E2 + E3 + this review: **3**.
 
-## Next gate
+## Current gate state
 
-Proceed to **final archival synchronization** only: synchronize `metadata.json`, speech `README.md`, repository root catalogue/README as prescribed by `SPEECH_PROCESSING_GUIDE.md`, and convert `HANDOVER.md` from a working handover into the final completed-state handover. Recheck that the source PDF itself is not committed and that source identity/page-map fields remain unchanged. Do not alter frozen Tamil or verified English unless a newly documented source-based defect is discovered during synchronization.
+**No transcription or translation gate remains pending.**
+
+- Tamil is `verified-complete`, re-consolidated and **re-frozen** after the T4 post-freeze re-inspection of printed p.16.
+- English is `verified-complete` after a fresh E2 of the affected page and a complete 12-page E3 re-run.
+- Archival synchronization is done: `metadata.json` (including the post-freeze counters and the archival reclosure date), speech `README.md`, `HANDOVER.md` and the repository root catalogue all reflect the corrected state.
+- The source PDF remains uncommitted under repository policy, and source identity/page-map fields are unchanged.
+
+Reopen either layer **only** on a newly documented source-based defect. Any further Tamil change again requires documented scan evidence plus dependent English re-verification.

@@ -5,7 +5,8 @@
 > **Source-body correspondence:** PDF pages 6-17 / printed pages 5-16  
 > **E1 translated:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
 > **E2 reviewed:** PDF pages 6-17 / printed pages 5-16 (12 / 12 speech pages)  
-> **E3 final verification:** complete (12 / 12 speech pages)  
+> **E3 final verification:** complete (12 / 12 speech pages)
+>
 > **Post-freeze re-verification:** complete - fresh E2 of printed p.16 and a full 12-page E3 re-run after the T4 Tamil correction and the `மானிடம்` rendering correction
 
 This English translation is made only from the frozen verified Tamil layer in `transcription-ta.md`. Page correspondence is retained. Independent E2 fidelity review and final E3 end-to-end verification are complete.
