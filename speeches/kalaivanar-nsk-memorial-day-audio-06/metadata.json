@@ -61,20 +61,24 @@
     {"segment": 12, "start": "12:00", "end_approx": "13:15", "subject": "Krishna wordplay and beginning of the Gopalapuram house anecdote", "status": "partial-provisional-draft; press-style quotation and 12:49-13:15 unresolved"},
     {"segment": 13, "start": "13:15", "end_approx": "14:00", "subject": "retired postal official, house sale and locality reaction", "status": "partial-provisional-draft; name and interior reaction sequence unresolved"},
     {"segment": 14, "start": "14:00", "end_approx": "14:59", "subject": "house anecdote conclusion and gratitude to movement artists", "status": "partial-provisional-draft; ideological-position sentence unresolved"},
-    {"segment": 15, "start": "14:59", "end_approx": "16:00", "subject": "Sivaji's early stage work and co-actors", "status": "partial-provisional-draft; play titles and co-actor list unresolved"}
+    {"segment": 15, "start": "14:59", "end_approx": "16:00", "subject": "Sivaji's early stage work and co-actors", "status": "partial-provisional-draft; play titles and co-actor list unresolved"},
+    {"segment": 16, "start": "16:00", "end_approx": "16:30", "subject": "art serving political ideas without art itself becoming politics", "status": "partial-provisional-draft; one subject/linking phrase unresolved"},
+    {"segment": 17, "start": "16:30", "end_approx": "17:15", "subject": "beauty and taste as the essence of art; art needed for political communication", "status": "provisional-t1-drafted"},
+    {"segment": 18, "start": "17:15", "end_approx": "17:47", "subject": "art used for good or evil; Kalaivanar's noble artistic aim", "status": "partial-provisional-draft; one epithet unresolved"},
+    {"segment": 19, "start": "17:47", "end_approx": "20:00", "subject": "Tirukkural on echcham, Kalaivanar's enduring legacy and interpretation", "status": "partial-provisional-draft; 18:00-19:00 and 19:33-20:00 withheld after machine collapse"}
   ],
   "machine_audio_evidence": {
     "status": "complete-navigation-evidence-captured",
-    "temporary_workflows_removed": true,
+    "temporary_workflows_removed": false,
     "source_checksum_verified": true,
     "models": ["whisper-small", "whisper-large-v3-turbo"],
     "rejected_outputs": [
       "full-file mono pass after repeated-token hallucination",
       "full-file right-channel small-model pass after repeated-token drift"
     ],
-    "accepted_navigation_strategy": "right channel; independent 60- or 120-second chunks; condition_on_previous_text=false; large-v3-turbo",
+    "accepted_navigation_strategy": "right channel; independent 30-, 60- or 120-second chunks; condition_on_previous_text=false; large-v3-turbo",
     "coverage": "topic and candidate-reading navigation through 00:26:22.080",
-    "latest_candidate_evidence": "12:00-16:00 drafted from the previously captured 120-second chunk artifact with word-confidence inspection; a later full-download 60-second rerun was not required for the durable text",
+    "latest_candidate_evidence": "16:00-20:00 targeted right-channel large-v3-turbo pass in independent 30-second chunks; 16:00-18:00 converged well, 18:00-19:00 still collapsed into repetition, 19:00-19:32 partially recovered, and 19:33-20:00 remained malformed/non-Tamil",
     "evidence_role": "navigation only; no direct auditory verification"
   },
   "boundary_precheck": {
@@ -99,10 +103,10 @@
     "source_inspection": "complete",
     "duplicate_search": "complete-no-existing-source-record",
     "machine_navigation": "complete",
-    "tamil_transcription": "in-progress-provisional-through-16:00",
+    "tamil_transcription": "in-progress-provisional-through-20:00",
     "tamil_segments_total": null,
-    "tamil_segments_drafted": 15,
-    "tamil_unresolved_ranges_open": 24,
+    "tamil_segments_drafted": 19,
+    "tamil_unresolved_ranges_open": 31,
     "strict_audio_audit": "not-started",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
