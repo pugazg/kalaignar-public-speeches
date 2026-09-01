@@ -2,7 +2,7 @@
 
 ## Status
 
-**Source intake and machine-aided navigation complete. Tamil T1 provisional draft reaches approximately `16:00`. Direct-listening audit has not started.**
+**Source intake and machine-aided navigation complete. Tamil T1 provisional draft reaches approximately `20:00`. Direct-listening audit has not started.**
 
 The controlling MP3 is authoritative. Machine transcripts are secondary navigation evidence only and must not be promoted to verified Tamil without direct listening.
 
@@ -16,142 +16,95 @@ The controlling MP3 is authoritative. Machine transcripts are secondary navigati
 - remote identity: verified by exact checksum and byte-size reproduction;
 - binary committed: No.
 
-## Technical inspection
+## Technical and boundary state
 
 - MP3, stereo, 44.1 kHz, approximately 128 kb/s;
 - right channel approximately 6 dB stronger than left;
-- no useful embedded event metadata found;
-- right-channel extraction was used only as a navigation/listening aid;
-- the original stereo MP3 remains the controlling witness.
-
-## Duplicate check
-
-Repository search found no existing record for the filename or checksum.
-
-The earlier completed `speeches/kalaivanar-nsk-memorial-day/` source is `00:07:23.559` and has a different checksum. This 26-minute source is therefore registered separately under:
-
-`speeches/kalaivanar-nsk-memorial-day-audio-06/`
-
-## Boundary precheck
-
-### Opening
-
-- separate spoken lead-in begins at `00:00`;
-- lead-in ends approximately `00:14`;
-- silence detector found a low-level interval from `00:13.982` to `00:29.653` at the intake threshold;
+- original stereo MP3 remains the controlling witness;
+- spoken lead-in `00:00–approximately 00:14` remains unverified;
 - main speech begins approximately `00:41.9`;
-- exact lead-in wording and exact first speech word remain to be verified directly.
+- final activity continues to approximately `00:26:21.4`;
+- machine navigation proposes a grammatically complete ending followed by `நன்றி, வணக்கம்`;
+- final 60 seconds and final 30 seconds still require separate direct replay;
+- `recording_truncated` remains unresolved.
 
-### Ending
+## Machine evidence rules
 
-- audible activity continues to approximately `00:26:21.4`;
-- independent boundary-navigation passes propose a complete tribute to Kalaivanar's artistic family followed by `நன்றி, வணக்கம்`;
-- the final minute and final 30 seconds must still pass dedicated direct replay;
-- `recording_truncated` remains unresolved;
-- no abrupt-ending claim is permitted at this stage.
+Two whole-file passes were rejected after repetition drift/hallucination. Useful navigation instead uses the stronger right channel, independent short chunks, `condition_on_previous_text=false`, and large-v3-turbo. Machine evidence remains navigation only.
 
-## Machine-aided evidence
+The standard printed wording of any quoted source, including Tirukkural, must not be used to normalize the speech silently. The Audio 06 T1 currently preserves the machine-supported spoken form `எச்சத்தால்`; T2 direct listening must decide the actual recording.
 
-### Rejected whole-file outputs
+## Provisional T1 evidence through 16:00
 
-1. The first mono full-file pass entered repeated-token hallucination after the useful opening range.
-2. The full-file right-channel small-model pass improved early anchors but later repeatedly generated `எல்லாம்` and another repeated phrase.
+The durable draft already covered the humour-filled opening, Chinna Annamalai anecdote, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, medicine-with-honey imagery, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, gratitude to movement artists, and Sivaji's early unpaid stage work. Unstable names, joins and lists were kept bracketed.
 
-Both are rejected as transcripts. They may not be copied wholesale into `transcription-ta.md`.
+## `16:00–20:00` provisional pass
 
-### Accepted navigation strategy
+A targeted right-channel large-v3-turbo run used independent 30-second chunks.
 
-Useful evidence was captured using:
+### `16:00–18:00` — usable provisional structure
 
-- the stronger right channel;
-- independent 60- or 120-second chunks;
-- `condition_on_previous_text=false`;
-- `large-v3-turbo`;
-- no cross-chunk prompting.
+The chunks converge on:
 
-The complete chunked pass supplies a topic map through the true file end and does not show the catastrophic whole-file repetition collapse. Some chunk starts and ends remain unstable, so it is still navigation evidence rather than verified wording.
+- people in the arts serving a movement without seeking to turn art itself into politics;
+- `அரசியலுக்குக் கலை தேவை`;
+- Anna sharing the aim of using art to convey political ideas;
+- beauty/taste in words, speech and writing;
+- `சொல்லில் சுவை இருந்தால்தான் மற்றவர்களுடைய உள்ளத்திலே பதியும்`;
+- `அந்தச் சுவைக்குப் பேர்தான் கலை`;
+- `அரசியலுக்குக் கலை தேவை; ஆனால் கலையே அரசியல் அல்ல`;
+- the comparison `பெண்களுக்கு நகை தேவை; ஆனால் நகையே பெண்கள் அல்ல`;
+- art being usable for both good and evil;
+- the claim that art used for good should grow and be nurtured;
+- Kalaivanar following that noble aim;
+- the beginning of the Tirukkural passage `தக்கார் தகவிலர் என்பது அவரவர் எச்சத்தால் காணப்படும்`.
 
-### Targeted opening and `04:00–08:00` checks
+A few linking subjects and an epithet remain unresolved.
 
-Independent opening chunks confirmed stable portions concerning:
+### `18:00–19:00` — withheld
 
-- humour at the memorial function;
-- Chinna Annamalai's humorous response;
-- Kannadasan and Sivaji Ganesan;
-- the beginning of the hotel-room recollection.
+The earlier 120-second chunk collapsed into repetition. The dedicated large-model 30-second rerun also produced repeated-token collapse across most of this hour-minute. The Kural explanation is therefore withheld instead of being reconstructed from the printed Kural or historical knowledge.
 
-The targeted `04:00–08:00` pass confirmed the narrative sequence involving political hostility, an accidental crossed telephone connection, Kannadasan's attacks, Tamil/art softening hostility, Anna's use of art, Kalaivanar's supporting role, S. S. Rajendran, and the Kannagi/Ilangovan discussion.
+### `19:00–approximately 19:33` — partially recoverable
 
-It did **not** safely resolve several telephone-interference words, one political-party/name phrase, the full personal-name expansion before `இளங்கோவன்`, or the article opening near `07:44–08:00`.
+The machine evidence supports a legacy passage involving:
 
-### `08:00–12:00` provisional pass
+- Kalaivanar's Self-Respect ideas;
+- work against caste;
+- his artistic service;
+- his compassion/social concern;
+- those qualities remaining his `எச்சம்` many years later;
+- the explicit clarification that the Kural does not mean merely being known through one's children.
 
-Stable candidate structure supported:
+Some opening and interior phrases remain bracketed because exact lexical readings do not converge.
 
-- Anna praising and criticizing Ilangovan's *Silappathikaram* adaptation;
-- the `இஞ்சிப்பத்தர்` character and the gold/brass image;
-- `வஞ்சிப்பத்தரை விட இந்த இஞ்சிப்பத்தரே மேல்`;
-- political, economic and social ideas presented like medicine mixed with honey;
-- early movement artists including K. R. Ramasamy, T. V. Narayanasamy and Sivaji Ganesan;
-- the transition to Kannadasan/Krishnan wordplay.
+### `approximately 19:33–20:00` — withheld
 
-Names, titles and rhetorical joins that did not converge remain bracketed in the canonical T1 draft.
+The large-model pass becomes malformed and then produces non-Tamil output. This comparison/wordplay is intentionally withheld pending source replay.
 
-### `12:00–16:00` provisional pass
+## Machine-readable T1 state
 
-The previously captured chunk artifact was re-read, including its stored word-confidence data. Stable candidate structure supports:
-
-- Kannadasan recommending that the speaker “accept Krishna”;
-- a Krishna/Paramatma joke moving into a Gopalapuram house anecdote;
-- the speaker saying he did not construct a new house but bought an existing house about twenty years earlier;
-- mock-newspaper phrasing including the stable anchors `கருணாநிதியின் நண்பர் கண்ணதாசனே குட்டை உடைத்துவிட்டார்` and `மர்மம் அம்பலமானது`;
-- a retired postal-department official selling the house;
-- reactions to Karunanidhi moving into the locality/agraharam;
-- the remembered comment that the name had caused fear although the person looked mild;
-- a transition from the house story to gratitude for artists who carried movement ideas;
-- Sivaji's early unpaid stage work with the speaker;
-- a list of stage plays and co-actors continuing to approximately `16:00`.
-
-The following were **not** reconstructed:
-
-- `12:49–13:15`, where the stored machine chunk itself enters repeated-token collapse;
-- the exact retired official's name/title sequence;
-- the detailed locality/agraharam exchange around `13:28–14:00`;
-- the exact ideological-position sentence around `14:29–14:54`;
-- the stage-play titles and complete co-actor list around `15:35–16:00`.
-
-Candidate anchors such as T. V. Narayanasamy/T.V.N. and K. R. Ramasamy are explicitly not treated as verified list readings.
-
-An additional full-download `12:00–16:00` 60-second rerun was triggered for comparison but was not needed to establish the durable provisional text. The durable T1 update relies on the already captured chunk evidence and its confidence inspection, not on an unfinished or partial rerun.
-
-## Provisional Tamil T1 state
-
-`transcription-ta.md` now reaches approximately `16:00`.
-
-Machine-readable state:
-
-- provisional speech segments drafted: **15**;
-- open unresolved ranges/phrases: **24**;
+- provisional speech segments drafted: **19**;
+- open unresolved ranges/phrases: **31**;
 - T2 direct-listening segments checked: **0**;
-- T2 direct-listening segments passed: **0**.
+- T2 direct-listening segments passed: **0**;
+- English: blocked.
 
-No section has passed T2. The draft status is provisional throughout.
+No T1 section is verified Tamil.
 
 ## Temporary workflow cleanup
 
-All temporary Audio 06 workflow files used for intake, boundary checks, chunk generation, artifact exposure and confidence inspection have been deleted after useful evidence was captured and its limitations documented.
-
-No temporary workflow file is part of the durable archive.
+The temporary `16:00–20:00` large-model workflow and the separate `18:00–20:00` small-model cross-check workflow were deleted after the useful evidence boundary was established. The small-model run was not used to fill any withheld text.
 
 ## Exact next activity
 
-Process provisional Tamil T1 for **`16:00–20:00`** using the previously captured independent right-channel chunk evidence.
+Process provisional Tamil T1 for **`20:00–24:00`**.
 
 Requirements:
 
-1. continue exactly from the unresolved stage-play/co-actor list at `16:00`;
-2. add only wording that is stable enough for a provisional T1 draft;
-3. retain uncertain names, titles and quotations as explicit unresolved ranges;
-4. do not call any machine-derived text direct listening;
-5. do not begin English;
-6. after T1 reaches the true end, begin T2 with the spoken lead-in and opening boundary, not with English.
+1. continue from the unresolved comparison at `20:00` without reconstructing the missing preceding words;
+2. use captured/targeted right-channel chunks as navigation only;
+3. add only stable provisional wording;
+4. mark uncertain names, quotations and joins explicitly;
+5. do not begin T2 yet unless T1 has reached the true end;
+6. do not begin English.
