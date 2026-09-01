@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — 5 provisional body sections drafted; direct auditory verification pending**
+**Status:** **T1 in progress — provisional draft reaches approximately 06:00, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -45,6 +45,30 @@
 
 அப்போதெல்லாம் கவிஞர் கண்ணதாசன் அவர்கள் இன்னும் `[தெளிவில்லை]` நண்பர்களோடு இணைந்து, அறிஞர் அண்ணாவிடமிருந்து பிரிந்து, வேறு கட்சியைத் தொடங்கி, வேகமாக என்னைத் தாக்கிப் பேசிக்கொண்டிருந்த காலம்.
 
-நானும் அவரும் ஒருவரை ஒருவர் சந்தித்தால்—
+## [04:00]
 
-`[The sentence continues beyond 04:00. The next portion remains pending the full chunked navigation output.]`
+நானும் அவரும் ஒருவரை ஒருவர் சந்தித்தால் பேசிக்கொள்ளாத அளவுக்குப் பகை உணர்ச்சி வளர்ந்திருந்த நேரம்.
+
+அந்த நேரத்தில் நான் தங்கியிருந்த ஓட்டலிலிருந்து மேகலா பட நிறுவனத்திலே உள்ள ஒரு நண்பருக்கு நான் தொலைபேசியிலே பேச முயன்று, அந்த நண்பருடன் தொலைபேசியிலே பேசத் தொடங்கினேன்.
+
+பேசும்போது அந்த நண்பருடைய குரலும் கேட்டது. இடையிலே இன்னொரு பையனுடைய குரலும் கேட்டது. உங்களுக்குத் தெரியும்; தொலைபேசியில் அடிக்கடி இப்படிப்பட்ட குறுக்கீடுகள் ஏற்படுவதும், சில நேரங்களில் அது சுவையான குறுக்கீடுகளாக இருந்தால், அதை நீங்கள் எல்லாம் சற்று நேரம் கவனித்துவிட்டுப் பிறகு தொலைபேசியை வைப்பதும்—
+
+`[Approximately 04:48–05:14 is corrupted in the machine precheck. The sentence ending and the first words of the crossed-line exchange remain unresolved.]`
+
+## [05:14]
+
+“யாரய்யா, கண்ணதாசனா?” என்று நான் கேட்க—
+
+`[The exact wording of the immediate question about how the crossed line connected remains unresolved.]`
+
+“நான் யாருக்கோ போன் செய்திருந்தேன்” என்று அவர் சொல்ல, “பரவாயில்லை; போனிலாவது பேசிக்கொள்வோம்” என்று ஒரு பத்து அல்லது பதினைந்து நிமிட நேரம் பேசிக்கொண்டிருந்தோம்.
+
+## [05:31]
+
+பத்து ஆண்டுகளுக்கு முன்பு பகை உணர்ச்சி மிகுந்திருந்த நேரத்தில், அப்போது அவர், “நான் பேசுகிற பேச்செல்லாம் பத்திரிகையிலே படிக்கிறாயே; என்ன உணருகிறாய்?” என்று என்னைக் கேட்டார்.
+
+நான் சொன்னேன்: “நன்றாகத் திட்டுகிறீர். நீர் தமிழிலே திட்டுகிற காரணத்தால், அதுவும் இனிமையான தமிழிலே திட்டுகிற காரணத்தால், அதை நான் ரசித்துக்கொண்டிருக்கிறேனே அல்லாமல், அதற்காக நான் வருத்தப்படவில்லை” என்று அவரிடத்திலே சொன்னேன்.
+
+## [approximately 06:00]
+
+`[The speech moves from the ability of Tamil/art to soften hostility into Anna's use of art and Kalaivanar's supporting role. The opening words of this transition remain unstable and await the dedicated 04:00–08:00 chunk comparison.]`
