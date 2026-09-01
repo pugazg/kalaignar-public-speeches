@@ -1,0 +1,104 @@
+name: Sync Audio 06 T2 prechecks 38-42
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-sync-t2-prechecks-38-42.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Synchronize final textual precheck state
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          base=Path('speeches/kalaivanar-nsk-memorial-day-audio-06')
+
+          records=[
+            't2-batches/batch-38-23-44-24-00-precheck.md',
+            't2-batches/batch-39-24-00-24-46-precheck.md',
+            't2-batches/batch-40-24-46-25-00-precheck.md',
+            't2-batches/batch-41-25-00-26-00-precheck.md',
+            't2-batches/batch-42-26-00-26-22-080-precheck.md',
+          ]
+
+          p=base/'metadata.json'
+          d=json.loads(p.read_text(encoding='utf-8'))
+          pre=d.setdefault('t2_textual_precheck',{})
+          pre['status']='complete-preparatory-only'
+          pre['batches_complete']=42
+          pre['latest_completed_range']='26:00-26:22.080'
+          arr=pre.setdefault('records',[])
+          for rec in records:
+              if rec not in arr:
+                  arr.append(rec)
+          pre['canonical_tamil_changes']=0
+          pre['direct_listening_effect']='none; T2 counters remain 0 checked / 0 passed'
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          p=base/'audit.md'
+          s=p.read_text(encoding='utf-8')
+          old='Thirty-seven preparatory T2 records now exist:'
+          new='Forty-two preparatory T2 records now exist:'
+          if old not in s: raise SystemExit('audit count marker missing')
+          s=s.replace(old,new,1)
+          needle='- `t2-batches/batch-37-23-25-23-44-precheck.md` — election campaigning, Anna/Rajendran/Karunanidhi victory anchors, movement candidates, travel and villuppattu wording.\n'
+          add=(
+            '- `t2-batches/batch-38-23-44-24-00-precheck.md` — campaign-effect/place-person gap, emotional reaction and family-like movement attachment.\n'
+            '- `t2-batches/batch-39-24-00-24-46-precheck.md` — suffering/laughter aphorisms, anger/praise bodily effects and laughter-as-medicine conclusion.\n'
+            '- `t2-batches/batch-40-24-46-25-00-precheck.md` — Kalaivanar/Kannadasan personal recollection and unresolved card-game setup.\n'
+            '- `t2-batches/batch-41-25-00-26-00-precheck.md` — hundred-rupee card-game joke, repeated `எங்கே தேடுவேன் பணத்தை` anchors and unresolved payment dialogue.\n'
+            '- `t2-batches/batch-42-26-00-26-22-080-precheck.md` — friends/kalaikkudumbam conclusion, triple `வாழ்க`, `நன்றி, வணக்கம்`, and final-tail verification gate.\n'
+          )
+          if records[-1] not in s:
+              if needle not in s: raise SystemExit('audit list marker missing')
+              s=s.replace(needle,needle+add,1)
+          para='''\nBatches 38–42 complete textual/ASR preparation from `23:44` through the true decoded end `26:22.080`. Batch 38 preserves the campaign-effect and family-attachment passage as largely source-dependent. Batch 39 has a strong exact machine anchor at `நம்முடைய உடம்பு சூடேறுவதை நாம் காணுகிறோம்` but leaves the laughter aphorisms and `சிரிப்பு மாமருந்து` wording for replay. Batch 40 supports the Kalaivanar/Kannadasan participant identities more than the house/card-game wording. Batch 41 directly recovers `எங்கே தேடுவேன் பணத்தை`, `நூறு ரூபாய்`, and repeated `எங்கே தேடுவேன்` anchors but leaves all money-transfer dialogue unresolved. Batch 42 recovers `ஒரு பத்து நண்பர்கள்`, `பத்து நண்பர்கள் இல்லாமல்`, `தனியாக இருக்க முடியாது`, punctuation-sensitive `வாழ்க, வாழ்க, வாழ்க`, and `நன்றி, வணக்கம்`, but does not verify the farewell noun, final audible event or `recording_truncated`. No canonical Tamil was changed.\n\nTextual/ASR preparation is now complete across the full decoded source. This is **not T2 completion**: strict direct listening remains `0 checked / 0 passed`, opening and ending remain unverified, and the actual auditory audit must begin at `00:00`. The final gate must separately replay the final 60 seconds, final 30 seconds, and final major pause through `00:26:22.080`.\n'''
+          marker='\nThese are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.\n'
+          if para.strip() not in s:
+              if marker not in s: raise SystemExit('audit marker missing')
+              s=s.replace(marker,para+marker,1)
+          p.write_text(s,encoding='utf-8')
+
+          p=base/'HANDOVER.md'
+          s=p.read_text(encoding='utf-8')
+          old='Thirty-seven preparatory records are complete:'
+          new='Forty-two preparatory records are complete:'
+          if old not in s: raise SystemExit('handover count marker missing')
+          s=s.replace(old,new,1)
+          needle='37. `t2-batches/batch-37-23-25-23-44-precheck.md`.\n'
+          add=(
+            '38. `t2-batches/batch-38-23-44-24-00-precheck.md`.\n'
+            '39. `t2-batches/batch-39-24-00-24-46-precheck.md`.\n'
+            '40. `t2-batches/batch-40-24-46-25-00-precheck.md`.\n'
+            '41. `t2-batches/batch-41-25-00-26-00-precheck.md`.\n'
+            '42. `t2-batches/batch-42-26-00-26-22-080-precheck.md`.\n'
+          )
+          if '42. `t2-batches/batch-42-26-00-26-22-080-precheck.md`.' not in s:
+              if needle not in s: raise SystemExit('handover list marker missing')
+              s=s.replace(needle,needle+add,1)
+          para='''\nThe thirty-eighth through forty-second prechecks cover `23:44–26:22.080` and complete textual/ASR preparation for the full source. They preserve the unresolved campaign-effect/family-attachment passage, map the laughter/body-temperature section without filling familiar aphorisms, keep the card-game setup source-dependent, recover only the safe `எங்கே தேடுவேன் பணத்தை` / hundred-rupee joke anchors, and prepare the final tail with `ஒரு பத்து நண்பர்கள்`, triple `வாழ்க`, and `நன்றி, வணக்கம்`. The exact farewell noun, last audible event and `recording_truncated` remain unresolved. No canonical Tamil was changed.\n\nAll **42 textual/ASR precheck records are now complete through `00:26:22.080`**. This does not satisfy T2: direct listening remains **0 checked / 0 passed**, opening and ending remain unverified, T3 remains blocked, and English remains blocked. The next source activity is the true auditory T2 pass beginning at `00:00`; its ending gate must include separate final-60-second, final-30-second and final-major-pause-to-file-end replays.\n'''
+          marker='\nThese records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.\n'
+          if para.strip() not in s:
+              if marker not in s: raise SystemExit('handover marker missing')
+              s=s.replace(marker,para+marker,1)
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit synchronized state
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          git add speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/metadata.json \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md
+          git commit -m 'Complete Audio 06 textual prechecks through decoded end'
+          git push origin main
