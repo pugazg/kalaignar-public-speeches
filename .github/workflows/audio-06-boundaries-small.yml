@@ -1,0 +1,54 @@
+name: Audio 06 fast boundary navigation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-boundaries-small.yml
+
+permissions:
+  contents: read
+
+jobs:
+  fast-boundaries:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install faster-whisper
+      - name: Source and clips
+        run: |
+          set -euxo pipefail
+          curl --fail --location --retry 5 --retry-delay 5 \
+            'https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3' \
+            -o source.mp3
+          echo '6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836  source.mp3' | sha256sum -c
+          ffmpeg -hide_banner -loglevel error -y -ss 0 -i source.mp3 -t 180 -ar 16000 -ac 1 opening.wav
+          ffmpeg -hide_banner -loglevel error -y -ss 1440 -i source.mp3 -t 142.08 -ar 16000 -ac 1 tail.wav
+      - name: Fast navigation transcript
+        run: |
+          cat > fast.py <<'PY'
+          from faster_whisper import WhisperModel
+          from pathlib import Path
+          out=Path('fast-boundaries'); out.mkdir(exist_ok=True)
+          model=WhisperModel('small',device='cpu',compute_type='int8')
+          for label,audio,offset in [('opening','opening.wav',0),('tail','tail.wav',1440)]:
+              segs,_=model.transcribe(audio,language='ta',beam_size=3,temperature=0.0,condition_on_previous_text=False,vad_filter=False)
+              lines=[]
+              for s in segs:
+                  lines.append(f'[{s.start+offset:08.2f}-{s.end+offset:08.2f}] {s.text.strip()}')
+              text='\n'.join(lines)+'\n'
+              (out/f'{label}.txt').write_text(text,encoding='utf-8')
+              print(f'=== {label.upper()} ===')
+              print(text)
+          PY
+          python fast.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audio-06-fast-boundaries
+          path: fast-boundaries/
+          retention-days: 3
