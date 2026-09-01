@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Nine preparatory records are complete:
+Ten preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -85,6 +85,7 @@ Nine preparatory records are complete:
 7. `t2-batches/batch-07-06-00-06-43-precheck.md`.
 8. `t2-batches/batch-08-06-43-07-12-precheck.md`.
 9. `t2-batches/batch-09-07-12-08-00-precheck.md`.
+10. `t2-batches/batch-10-08-00-08-38-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -101,6 +102,8 @@ The seventh precheck covers `06:00–06:43`. It supports the Tamil/art argument 
 The eighth precheck covers `06:43–07:12`. It supports the broad Rajendran–Anna–Kalaivanar argument but leaves the Rajendran title/name form, film/theatre conjunction, `எடுத்தாளுவதற்கு`, Kalaivanar name form, a short indistinct clause and the final honorific verb for true audible replay.
 
 The ninth precheck covers `07:12–08:00`. It supports the Ilangovan/Kannagi/*Dravida Nadu* sequence and records machine candidates for the unresolved personal name, article title and opening praise, but leaves all exact lexical choices—including the corrupted first two praise phrases—for true audible replay.
+
+The tenth precheck covers `08:00–08:38`. It records the machine candidate `கர்ணபரம்பரைக் கதையைப் போலவே` and the major conflicts around the following rhetorical question, the Chera–Chola–Pandya clause, `பனுவலல்லவா?`, and the corrupted phrase before `வீணாக்கியிருக்க வேண்டுமா?`. All remain for true audible replay; no canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
