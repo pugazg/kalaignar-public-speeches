@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Twelve preparatory records are complete:
+Thirteen preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -88,6 +88,7 @@ Twelve preparatory records are complete:
 10. `t2-batches/batch-10-08-00-08-38-precheck.md`.
 11. `t2-batches/batch-11-08-38-09-25-precheck.md`.
 12. `t2-batches/batch-12-09-25-09-50-precheck.md`.
+13. `t2-batches/batch-13-09-50-10-18-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -110,6 +111,8 @@ The tenth precheck covers `08:00–08:38`. It records the machine candidate `க
 The eleventh precheck covers `08:38–09:25`. It strongly supports the `இஞ்சிப்பத்தர்` gold/brass-deception narrative and Anna's interpretive comparison, but leaves exact gold/brass clause order, `நிறம் ஏற்றி/நிகரேற்றி`, Kalaivanar name form and honorific morphology for true audible replay. No canonical Tamil was changed.
 
 The twelfth precheck covers `09:25–09:50`. It supports Anna's `வஞ்சிப்பத்தர் / இஞ்சிப்பத்தர்` conclusion and the medicine-with-honey transition, but leaves the exact character-name inflections, `ஆக/ஆகவே`, and especially `தேனிலே / தேனிடை` plus surrounding case morphology for true audible replay. No canonical Tamil was changed.
+
+The thirteenth precheck covers `09:50–10:18`. It supports K. R. Ramasamy and the broad early movement-artist list, but leaves the exact `நடிகவேள்` name, reform-theatre brothers' titles/names, institutional clause and the Rajendran transition for true audible replay. No canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
