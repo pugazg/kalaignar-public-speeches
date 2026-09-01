@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — provisional draft reaches approximately 08:00, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T1 in progress — provisional draft reaches approximately 12:00, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -85,10 +85,54 @@
 
 மறைந்த பெரும் எழுத்தாளர், இன்றைக்கும் போற்றுதலுக்கும் புகழுதலுக்கும் உரிய `[பெயரின் தொடக்கம் தெளிவில்லை]` இளங்கோவன் அவர்கள் கண்ணகி காவியத்தைத் திரைப்பட ஓவியமாக ஆக்கினாரே.
 
-அந்தத் திரைப்படத்தைப் பற்றி அண்ணா அவர்கள், அவர்கள் நடத்திய திராவிட நாடு இதழிலே ஒரு நீண்ட கட்டுரையை எழுதினார்கள். அந்தக் கட்டுரையினுடைய தலைப்பு “இஞ்சி பத்தனே மேல்” என்பதாகும்.
+அந்தத் திரைப்படத்தைப் பற்றி அண்ணா அவர்கள், அவர்கள் நடத்திய திராவிட நாடு இதழிலே ஒரு நீண்ட கட்டுரையை எழுதினார்கள். அந்தக் கட்டுரையினுடைய தலைப்பு “இஞ்சிப்பத்தரே மேல்” என்பதாகும்.
 
-`[The exact personal-name expansion before “இளங்கோவன்” and the article-title inflection require direct replay. The article title is provisional.]`
+`[The exact personal-name expansion before “இளங்கோவன்” requires direct replay. The article-title form has improved machine convergence but remains provisional until T2.]`
 
 அந்தக் கட்டுரையினுடைய நோக்கும், அதனுடைய தொடக்கமும் எப்படியிருந்தது என்றால்—
 
-`[The quoted praise of Ilangovan from approximately 07:44–08:00 remains unresolved pending the dedicated 04:00–08:00 chunk comparison.]`
+`[The opening words of Anna's quoted praise remain unresolved.]`
+
+## [08:00]
+
+“வசன நடையிலே ஒரு புதிய சகாப்தத்தை இளங்கோவன் உருவாக்கியிருக்கிறார்” என்றெல்லாம் அண்ணா இளங்கோவனைப் பாராட்டிவிட்டு, “ஆனாலும் சிலப்பதிகாரத்தைப் பழைய `[தெளிவில்லை]` போலவே, புராண முறையிலேயே இளங்கோவன் எழுதியிருக்க வேண்டுமா? அது இலக்கிய வளமல்லவா? தமிழ்நாட்டு வரலாறல்லவா? சேர, சோழ, பாண்டிய மூவேந்தர் குடியின் சிறப்பை விளக்குகின்ற பனுவலல்லவா? அப்படிப்பட்ட பெரும் காப்பியத்தைப் புராண `[தெளிவில்லை]` வீணாக்கியிருக்க வேண்டுமா?” என்று அண்ணா கேட்டுவிட்டு—
+
+## [08:38]
+
+அதில் நடிக்கின்ற கலைவாணரைப் பற்றிக் குறிப்பிடுகிற நேரத்தில், இதில் இஞ்சிப்பத்தராக வருகின்ற கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள் அடிக்கடி தங்கத்தை வாங்கி, அதைப் பித்தளையாக மாற்றி, தங்கம் என்று கொடுத்து, தங்கத்தைத் திருடிக்கொண்டு, பித்தளை தங்கம் என்று சொல்லி மற்றவர்களுக்குக் கொடுத்து ஏமாற்றுகின்ற ஒருவனாக நடிக்கிறார்.
+
+“ஆக இது எதைக் காட்டுகிறது?” என்றால், சிலப்பதிகாரம் என்ற தங்கத்தை மறைத்துவிட்டு, பித்தளைக்கு நிறம் ஏற்றி இளங்கோவன் தந்தார் என்பதை கலைவாணர் என். எஸ். கிருஷ்ணன் தன்னுடைய நடிப்பின் மூலமாக விளக்கியிருக்கிறார்.
+
+## [09:25]
+
+ஆக, சிலப்பதிகாரக் கதையிலே வஞ்சிப்பத்தரை விட இந்த இஞ்சிப்பத்தரே மேல் என்று கலைவாணரைப் பற்றிப் பேரறிஞர் அண்ணா அவர்கள் குறிப்பிட்டிருந்தார்கள்.
+
+கலைவாணர் அவர்கள் அரசியல், பொருளாதார, சமுதாயக் கருத்துக்களைத் தேனிலே மருந்தைக் கலந்து தருவதைப்போல மக்களுக்குத் தருகின்ற திறமையைப் பெற்றிருந்தார்.
+
+## [09:50]
+
+கலைவாணரைத் தொடர்ந்து நடிக இசைப் புலவர் கே. ஆர். ராமசாமி அவர்கள், பெரியாருடைய எண்ணங்களைப் புரட்சிகரமாக எடுத்துச் சொல்லக்கூடிய நடிகவேள் `[பெயர்/தொடர் தெளிவில்லை]`, சமுதாயச் சீர்திருத்த நாடகங்களை நடத்தி விளங்கித் திகழ்ந்த `[பட்டமும் பெயர்களும் தெளிவில்லை]` சகோதரர்கள்—
+
+`[The middle portion of the early movement-artist list remains unstable. It appears to include the institution associated with those brothers, S. S. Rajendran and T. V. Narayanasamy, but exact syntax and titles require source replay.]`
+
+## [10:18]
+
+நடிகமணி டி. வி. நாராயணசாமி அவர்கள் புரட்சிகரமான கருத்துக்களை இந்த நாவினால் பேசினால், அந்தக் கருத்துக்கள் உரம் பெறும் என்ற வகையிலே, முதல் முதலாகச் சிம்மக்குரல் கொடுத்த என்னுடைய நண்பர் சிவாஜி கணேசன் அவர்கள்—
+
+இவர்களெல்லாம் பெரியாருடைய கருத்துக்களை, பேரறிஞர் அண்ணா அவர்களுடைய கருத்துக்களை, நாடக மேடைகளிலே, திரையரங்குகளிலே எடுத்துமொழித்த `[தொடர் தெளிவில்லை]`.
+
+## [10:48]
+
+`[Approximately 10:48–11:20 contains a rhetorically accumulated description of artists responding to Periyar and Anna without fear. The machine chunks do not preserve the syntax reliably enough for provisional transcription.]`
+
+## [11:20]
+
+எனக்கு எவ்வளவோ நினைவுகள்; எத்தனையோ பசுமையான எண்ணங்கள் கலையுலகத்திலே இந்தக் கருத்துக்களை எடுத்துச் சொல்லுவதற்காக—
+
+`[A short address to the assembled artists remains unclear.]`
+
+இன்று கவிஞர் கண்ணதாசன் அவர்கள் வேறு விரக்தியிலே இருக்கிறார்; பல்வேறு விரக்திகளைச் சொல்லிக்கொண்டிருக்கிறார்.
+
+“கிருஷ்ணனை நாம் பாராட்ட வேண்டும்” என்று சிவாஜி சொன்னார். ஆனால் அந்தக் கிருஷ்ணனுடைய நிலைமை அவ்வளவு பரிதாபமாக இருப்பதாக நான் கருதவில்லை.
+
+`[The exact wordplay and the sentence continuing beyond approximately 12:00 require the next batch and direct replay.]`
