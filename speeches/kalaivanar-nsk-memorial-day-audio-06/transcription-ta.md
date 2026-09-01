@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — provisional draft reaches approximately 06:00, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T1 in progress — provisional draft reaches approximately 08:00, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -69,6 +69,26 @@
 
 நான் சொன்னேன்: “நன்றாகத் திட்டுகிறீர். நீர் தமிழிலே திட்டுகிற காரணத்தால், அதுவும் இனிமையான தமிழிலே திட்டுகிற காரணத்தால், அதை நான் ரசித்துக்கொண்டிருக்கிறேனே அல்லாமல், அதற்காக நான் வருத்தப்படவில்லை” என்று அவரிடத்திலே சொன்னேன்.
 
-## [approximately 06:00]
+## [06:00]
 
-`[The speech moves from the ability of Tamil/art to soften hostility into Anna's use of art and Kalaivanar's supporting role. The opening words of this transition remain unstable and await the dedicated 04:00–08:00 chunk comparison.]`
+இப்படிப் பகை உணர்ச்சியையும் மாற்றியமைக்கக்கூடிய சக்தி நம்முடைய தமிழுக்கு உண்டு; தமிழ்க் கலைக்கு உண்டு.
+
+அந்தக் கலையினுடைய அருமை பெருமைகளைத் தெரிந்த காரணத்தினால்தான் பேரறிஞர் அண்ணா அவர்கள் கலை மூலமாக நல்ல கருத்துக்களை மக்களிடத்திலே சொல்ல வேண்டும் என்கின்ற பணியினை மேற்கொண்டார்.
+
+அந்தப் பணியினை அண்ணா அவர்கள் மேற்கொள்வதற்குப் பக்கபலமாக இருந்த ஒரு கலையுலகப் பெருமகன் யாரென்றால், அவர்தான் இன்றைக்கு இந்தப் பாமன்றத்திலே படமாகக் காட்சியளித்துக்கொண்டிருக்கின்ற கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள்.
+
+## [06:43]
+
+லட்சிய நடிகர் எஸ். எஸ். ராஜேந்திரன் அவர்கள் குறிப்பிட்டதைப்போல், அண்ணா அவர்கள் திரைப்படத் துறையிலோ, நாடகத் துறையிலோ புரட்சிகரமான புதுமையான கருத்துக்களை, தன்மான இயக்கக் கருத்துக்களை, தமிழ்ச் சமுதாயத்திற்குத் தேவையான கருத்துக்களை எடுத்தாளுவதற்கு முன்பாகவே, கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள் அப்படிப்பட்ட கருத்துக்களை எடுத்துச் சொன்னார்.
+
+## [07:12]
+
+மறைந்த பெரும் எழுத்தாளர், இன்றைக்கும் போற்றுதலுக்கும் புகழுதலுக்கும் உரிய `[பெயரின் தொடக்கம் தெளிவில்லை]` இளங்கோவன் அவர்கள் கண்ணகி காவியத்தைத் திரைப்பட ஓவியமாக ஆக்கினாரே.
+
+அந்தத் திரைப்படத்தைப் பற்றி அண்ணா அவர்கள், அவர்கள் நடத்திய திராவிட நாடு இதழிலே ஒரு நீண்ட கட்டுரையை எழுதினார்கள். அந்தக் கட்டுரையினுடைய தலைப்பு “இஞ்சி பத்தனே மேல்” என்பதாகும்.
+
+`[The exact personal-name expansion before “இளங்கோவன்” and the article-title inflection require direct replay. The article title is provisional.]`
+
+அந்தக் கட்டுரையினுடைய நோக்கும், அதனுடைய தொடக்கமும் எப்படியிருந்தது என்றால்—
+
+`[The quoted praise of Ilangovan from approximately 07:44–08:00 remains unresolved pending the dedicated 04:00–08:00 chunk comparison.]`
