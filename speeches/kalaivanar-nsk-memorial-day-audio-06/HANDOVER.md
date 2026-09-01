@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Sixteen preparatory records are complete:
+Seventeen preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -92,6 +92,7 @@ Sixteen preparatory records are complete:
 14. `t2-batches/batch-14-10-18-10-48-precheck.md`.
 15. `t2-batches/batch-15-10-48-11-20-precheck.md`.
 16. `t2-batches/batch-16-11-20-12-00-precheck.md`.
+17. `t2-batches/batch-17-12-00-12-22-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -122,6 +123,8 @@ The fourteenth precheck covers `10:18–10:48`. It supports the Narayanasamy–S
 The fifteenth precheck covers `10:48–11:20`. It maps the withheld Anna-call rhetoric more clearly—immediate response, `என்ன நாடகம் / என்ன வேடம்`, willingness to speak, regard for Anna, and the contrast with career fear—but leaves the exact joins and final professional-risk wording for true audible replay. The canonical placeholder remains unchanged.
 
 The sixteenth precheck covers `11:20–12:00`. It supports the memories transition, a candidate assembled-artists address, Sivaji's Krishna remark and the not-so-pitiable Krishna contrast, but leaves the major `விரக்தி / இயக்கம் / கொள்கை` wording conflict, the Sivaji reporting verb, and `கிருஷ்ணன் / ஸ்ரீகிருஷ்ணன்` form for true audible replay. No canonical Tamil was changed.
+
+The seventeenth precheck covers `12:00–12:22`. It supports the Kannadasan Krishna recommendation and temple-house sequence, but leaves the major `பெருமதிப்பு / பரிதாபம்` conflict, `பரமாத்மா கிருஷ்ணன் / கிருஷ்ண பரமாத்மா` occurrence forms, `அருகாமையிலே / அருகாமையிலேதான்`, and `இது போதாதா எதிரிகளுக்கு?` for true audible replay. No canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
