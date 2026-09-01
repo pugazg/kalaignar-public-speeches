@@ -53,72 +53,83 @@ Navigation is complete. Whole-file drifted outputs were rejected. Useful evidenc
 
 Machine evidence is not T2 direct listening. External printed wording must not be used to fill or normalize uncertain audio silently.
 
-All temporary workflow files used for the current `16:00–20:00` batch have been removed after evidence capture. A small-model cross-check was not used to fill withheld wording.
+All temporary workflow files used for the `20:00–24:00` batch have been removed after evidence capture.
 
 ## Tamil workflow state
 
-- T1 first pass: **in progress — provisional through approximately `20:00`**;
-- provisional speech segments drafted: **19**;
-- open unresolved ranges/phrases: **31**;
+- T1 first pass: **in progress — provisional through approximately `24:00`**;
+- provisional speech segments drafted: **26**;
+- open unresolved ranges/phrases: **47**;
 - T2 strict direct-listening audit: **not started**;
 - T3 consolidation/freeze: **blocked**;
 - English: **blocked**.
 
-## Durable T1 through 16:00
+## Durable T1 through 20:00
 
-The draft covers the humour-filled opening, Chinna Annamalai, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, gratitude to movement artists, and Sivaji's early stage work. Numerous unstable names/joins are explicitly marked.
+The draft covers the humour-filled opening, Chinna Annamalai, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, Sivaji's early stage work, the art/politics distinction, and the Tirukkural `எச்சம்` discussion. Numerous unstable names, quotations and joins remain explicitly marked.
 
-## Newly completed provisional T1: 16:00–20:00
+## Newly completed provisional T1: 20:00–24:00
 
-The draft now also covers:
+The draft now also covers, conservatively:
 
-- art being needed for politics without art itself becoming politics;
-- Anna's use of art to carry political ideas;
-- beauty/taste in words, speech and writing;
-- `சொல்லில் சுவை இருந்தால்தான் மற்றவர்களுடைய உள்ளத்திலே பதியும்`;
-- `அந்தச் சுவைக்குப் பேர்தான் கலை`;
-- `அரசியலுக்குக் கலை தேவை; ஆனால் கலையே அரசியல் அல்ல`;
-- `பெண்களுக்கு நகை தேவை; ஆனால் நகையே பெண்கள் அல்ல`;
-- art being usable for good or evil;
-- Kalaivanar's commitment to art used for good;
-- the Tirukkural `தக்கார் தகவிலர் ... எச்சத்தால் காணப்படும்` passage as provisionally heard;
-- a partial legacy passage involving Self-Respect ideas, caste abolition, artistic service and enduring `எச்சம்`.
+- the clarification that `எச்சத்தால் காணப்படும்` is not merely being known through one's children/descendants;
+- the idea that what Kalaivanar left to the people—his ideas and the continuing retelling of them—is his `எச்சம்`;
+- people gathering to praise and honour Kalaivanar and explain how he expressed ideas through humour;
+- a Congress-conference recollection;
+- Kalaivanar being invited to perform;
+- the play title `விலாங்கு மனிதன்`;
+- a provisional explanation of `விலாங்கு` as a water-dwelling creature;
+- Kalaivanar appearing as a hotel-keeper character;
+- the 1947 Independence/radio invitation to sing a freedom song;
+- a later `தன்மான உணர்வு` reference;
+- provisional references to Jeevanandam, Ma. Po. Si. and other political leaders/admirers;
+- election campaigning so that Anna, Lakshiya Nadigar Rajendran, the speaker and Kazhagam comrades would win;
+- Kalaivanar travelling widely and performing `வில்லுப்பாட்டு` for the campaign;
+- an emotional family-affection sentence that continues beyond `24:00`.
 
-## Critical unresolved evidence in 16:00–20:00
+## Critical unresolved evidence in 20:00–24:00
 
-Do not silently fill these from the printed Tirukkural, memory or historical knowledge:
+Do not silently fill these from historical knowledge, printed sources or guessed proper names:
 
-1. one linking subject/phrase around `16:18–16:24`;
-2. an epithet immediately before the Kalaivanar reference around `17:38`;
-3. **approximately `17:56–19:00`**, especially `18:00–19:00`, where both broad and 30-second large-model evidence collapse into repetition;
-4. the exact opening and one interior phrase in the legacy list beginning around `19:00`;
-5. **approximately `19:33–20:00`**, where the machine output becomes malformed/non-Tamil.
+1. the exact first words and Valluvar-explanation syntax around `20:00–20:30`;
+2. two joins in the `எச்சம்`/legacy explanation around `20:30–21:04`;
+3. the exact introductory/place wording for the Congress conference;
+4. one conference clause, one play verb and the snake-related part of the `விலாங்கு` explanation;
+5. the hotel-character example around `21:38–22:00`, where the machine evidence remains distorted;
+6. the carry-over into `22:00`;
+7. Kalaivanar's exact radio response, the self-respect statement and a Sivaji reference around `22:20–22:52`;
+8. titles, additional names and the exact cross-party contrast around `22:52–23:25`;
+9. the place/person and exact electoral-effect sentence around `23:44`;
+10. the subject/verb of the emotional reaction immediately before the family-affection sentence;
+11. the family-affection sentence itself, because it continues into the final T1 batch.
 
-The recording's provisional Kural form is currently written `எச்சத்தால்`; do not normalize it to a printed form until T2 direct listening resolves what was actually spoken.
+The fresh independent 30-second `20:00–24:00` run improved `20:00–21:30` and `23:30–24:00`, but repeated-token collapse still affected much of `22:00–23:30`. The older 120-second artifact provides only structural support there. These limitations are recorded in `audit.md`.
 
 ## Exact next activity
 
-Process **provisional Tamil T1 for `20:00–24:00`**.
+Process the **final provisional Tamil T1 batch: `24:00–00:26:22.080`**.
 
 Procedure:
 
-1. continue from the unresolved comparison immediately before `20:00`; do not reconstruct the missing prior clause merely to create a smooth join;
-2. use captured or targeted independent right-channel chunks as navigation only;
-3. add only wording stable enough for provisional T1;
-4. mark uncertain names, quotations and joins explicitly;
-5. update `transcription-ta.md`, `metadata.json`, `audit.md`, `README.md`, and this handover after the batch;
-6. do not begin English;
-7. do not call machine-derived wording direct-listening verified.
+1. continue exactly from `அவ்வளவு குடும்பப் பாசத்தை இந்த இயக்கத்திலே கலைவாணர்...`;
+2. reach the true `00:26:22.080` file end—do not stop at an apparent pause;
+3. use already captured or targeted independent right-channel evidence as navigation only;
+4. add only wording stable enough for provisional T1;
+5. mark uncertain names, quotations and joins explicitly;
+6. preserve the provisional final `நன்றி, வணக்கம்` only if the evidence supports it, without calling it verified;
+7. update `transcription-ta.md`, `metadata.json`, `audit.md`, `README.md`, and this handover after the batch;
+8. once T1 reaches the true end, **do not begin English**.
 
-## Later mandatory gates
+## Mandatory next gate after T1 completion
 
-After T1 reaches the true `00:26:22.080` end:
+T2 must begin at `00:00`, not at the tail:
 
-1. begin T2 at `00:00`, including the separate spoken lead-in and exact opening boundary;
-2. directly audit every speech segment;
-3. separately replay the final 60 seconds;
-4. separately replay the final 30 seconds;
-5. replay from the final major pause to the true file end;
-6. confirm the final audible word and grammatical completeness;
-7. only then perform T3 consolidation/freeze;
-8. only after verified Tamil may English E1 begin.
+1. directly transcribe/verify the separate spoken lead-in;
+2. confirm the exact first speech word and opening boundary;
+3. directly audit every speech segment in sequence;
+4. separately replay the final 60 seconds;
+5. separately replay the final 30 seconds;
+6. replay from the final major pause to the true file end;
+7. confirm the final audible word and grammatical completeness;
+8. only then may T3 consolidate/freeze Tamil;
+9. only after verified Tamil may English E1 begin.
