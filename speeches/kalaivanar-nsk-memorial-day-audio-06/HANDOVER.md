@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Thirty-seven preparatory records are complete:
+Forty-two preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -113,6 +113,11 @@ Thirty-seven preparatory records are complete:
 35. `t2-batches/batch-35-22-00-22-52-precheck.md`.
 36. `t2-batches/batch-36-22-52-23-25-precheck.md`.
 37. `t2-batches/batch-37-23-25-23-44-precheck.md`.
+38. `t2-batches/batch-38-23-44-24-00-precheck.md`.
+39. `t2-batches/batch-39-24-00-24-46-precheck.md`.
+40. `t2-batches/batch-40-24-46-25-00-precheck.md`.
+41. `t2-batches/batch-41-25-00-26-00-precheck.md`.
+42. `t2-batches/batch-42-26-00-26-22-080-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -169,6 +174,10 @@ The twenty-seventh through thirty-first prechecks cover `17:15–20:00`. They pr
 The thirty-second through thirty-sixth prechecks cover `20:00–23:25`. They map the `எச்சம்` clarification and legacy conclusion, preserve the unusual machine-supported `விலாங்கு மனிதன்` title without normalization, isolate the collapsed hotel example, preserve only the source-supported `சுதந்திர கீதத்தைப் பாடுங்கள்` anchor from the 1947 radio episode, and record the Jeevanandam/Ma. Po. Si./Congress admirer-list anchors without reconstructing political affiliations or Kalaivanar's movement preference. No canonical Tamil was changed.
 
 The thirty-seventh precheck covers `23:25–23:44`. It maps the election-campaign passage and identifies machine-supported Anna, Rajendran, Karunanidhi, villuppattu and `இடங்களில்லை` anchors, while preserving the Rajendran title, other movement-candidate phrase, travel verb and full villuppattu construction for true audible replay. No canonical Tamil was changed.
+
+The thirty-eighth through forty-second prechecks cover `23:44–26:22.080` and complete textual/ASR preparation for the full source. They preserve the unresolved campaign-effect/family-attachment passage, map the laughter/body-temperature section without filling familiar aphorisms, keep the card-game setup source-dependent, recover only the safe `எங்கே தேடுவேன் பணத்தை` / hundred-rupee joke anchors, and prepare the final tail with `ஒரு பத்து நண்பர்கள்`, triple `வாழ்க`, and `நன்றி, வணக்கம்`. The exact farewell noun, last audible event and `recording_truncated` remain unresolved. No canonical Tamil was changed.
+
+All **42 textual/ASR precheck records are now complete through `00:26:22.080`**. This does not satisfy T2: direct listening remains **0 checked / 0 passed**, opening and ending remain unverified, T3 remains blocked, and English remains blocked. The next source activity is the true auditory T2 pass beginning at `00:00`; its ending gate must include separate final-60-second, final-30-second and final-major-pause-to-file-end replays.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 

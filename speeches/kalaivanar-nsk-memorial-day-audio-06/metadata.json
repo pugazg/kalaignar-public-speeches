@@ -314,9 +314,9 @@
     "english_translation_final_verification": "blocked"
   },
   "t2_textual_precheck": {
-    "status": "in-progress",
-    "batches_complete": 37,
-    "latest_completed_range": "23:25-23:44",
+    "status": "complete-preparatory-only",
+    "batches_complete": 42,
+    "latest_completed_range": "26:00-26:22.080",
     "records": [
       "t2-batches/batch-01-00-00-01-10-precheck.md",
       "t2-batches/batch-02-01-10-02-34-precheck.md",
@@ -354,7 +354,12 @@
       "t2-batches/batch-34-21-04-22-00-precheck.md",
       "t2-batches/batch-35-22-00-22-52-precheck.md",
       "t2-batches/batch-36-22-52-23-25-precheck.md",
-      "t2-batches/batch-37-23-25-23-44-precheck.md"
+      "t2-batches/batch-37-23-25-23-44-precheck.md",
+      "t2-batches/batch-38-23-44-24-00-precheck.md",
+      "t2-batches/batch-39-24-00-24-46-precheck.md",
+      "t2-batches/batch-40-24-46-25-00-precheck.md",
+      "t2-batches/batch-41-25-00-26-00-precheck.md",
+      "t2-batches/batch-42-26-00-26-22-080-precheck.md"
     ],
     "canonical_tamil_changes": 0,
     "direct_listening_effect": "none; T2 counters remain 0 checked / 0 passed"
