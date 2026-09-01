@@ -1,0 +1,97 @@
+name: Record Audio 06 fresh source resolution
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-record-fresh-source-resolution.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Record fresh source re-resolution
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+
+          base=Path('speeches/kalaivanar-nsk-memorial-day-audio-06')
+          page_url='https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html'
+          sha='6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836'
+
+          # metadata.json — provenance only; do not alter direct-listening state.
+          p=base/'metadata.json'
+          d=json.loads(p.read_text(encoding='utf-8'))
+          src=d.setdefault('source',{})
+          if src.get('sha256') != sha:
+              raise SystemExit('controlling source SHA changed unexpectedly')
+          src['catalogue_page_url']=page_url
+          src['latest_reattachment_verification']={
+              'date':'2026-09-01',
+              'result':'exact-match-to-controlling-source',
+              'sha256':sha,
+              'file_size_bytes':25313377,
+              'duration_seconds':1582.08,
+              'duration_display':'00:26:22.080',
+              'audio_stream':'mp3; 44100 Hz; stereo; 128000 bps',
+              'method':'fresh local SHA-256, byte-size and ffprobe decoded-duration check on the reattached MP3'
+          }
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          # README source identity.
+          p=base/'README.md'
+          s=p.read_text(encoding='utf-8')
+          needle='- official URL: `https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3`;\n'
+          add=f'- official catalogue page: `{page_url}`;\n'
+          if add not in s:
+              if needle not in s: raise SystemExit('README source URL marker missing')
+              s=s.replace(needle,needle+add,1)
+          p.write_text(s,encoding='utf-8')
+
+          # Audit provenance note.
+          p=base/'audit.md'
+          s=p.read_text(encoding='utf-8')
+          needle='- official URL: `https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3`;\n'
+          add=f'- official catalogue page: `{page_url}`;\n'
+          if add not in s:
+              if needle not in s: raise SystemExit('audit source URL marker missing')
+              s=s.replace(needle,needle+add,1)
+          section=f'''## Fresh source re-resolution — 2026-09-01\n\nThe controlling MP3 was reattached again together with the Tamil Digital Library catalogue-page URL. A fresh binary check reproduced the archived source identity exactly:\n\n- SHA-256: `{sha}`;\n- byte size: `25,313,377`;\n- decoded duration: `1582.080` seconds / `00:26:22.080`;\n- stream: MP3, 44.1 kHz, stereo, 128 kb/s;\n- result: **exact binary match to the controlling source**.\n\nThis re-resolution confirms source identity only. It does not by itself verify any spoken Tamil and does not change the existing direct-listening audit state. Live Batch 43 remains authoritative for T2 progress.\n\n'''
+          marker='## Technical and boundary state\n'
+          if '## Fresh source re-resolution — 2026-09-01' not in s:
+              if marker not in s: raise SystemExit('audit technical marker missing')
+              s=s.replace(marker,section+marker,1)
+          p.write_text(s,encoding='utf-8')
+
+          # Handover provenance note.
+          p=base/'HANDOVER.md'
+          s=p.read_text(encoding='utf-8')
+          needle='- source URL: `https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3`;\n'
+          add=f'- catalogue page URL: `{page_url}`;\n'
+          if add not in s:
+              if needle not in s: raise SystemExit('handover source URL marker missing')
+              s=s.replace(needle,needle+add,1)
+          note='- fresh reattachment on `2026-09-01` independently reproduced the same SHA-256, `25,313,377` bytes and `00:26:22.080` decoded duration; source identity remains unchanged.\n'
+          marker='- remote identity verified against the attachment by checksum and byte size.\n'
+          if note not in s:
+              if marker not in s: raise SystemExit('handover remote identity marker missing')
+              s=s.replace(marker,marker+note,1)
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit provenance update
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          git add speeches/kalaivanar-nsk-memorial-day-audio-06/metadata.json \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/README.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md
+          git commit -m 'Record Audio 06 fresh source re-resolution'
+          git push origin main
