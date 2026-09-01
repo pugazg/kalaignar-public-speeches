@@ -14,6 +14,7 @@
 - file size: `25,313,377` bytes;
 - decoded duration: `1582.080` seconds / `00:26:22.080`;
 - official URL: `https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3`;
+- official catalogue page: `https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html`;
 - remote source identity: checksum/byte-size verified;
 - binary committed: No.
 

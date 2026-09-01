@@ -43,7 +43,18 @@
       "start": "spoken lead-in/announcement at 00:00; main speech begins approximately 00:42",
       "end": "provisionally complete closing tribute and thanks near 00:26:21; strict direct-listening tail verification pending"
     },
-    "binary_committed": false
+    "binary_committed": false,
+    "catalogue_page_url": "https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html",
+    "latest_reattachment_verification": {
+      "date": "2026-09-01",
+      "result": "exact-match-to-controlling-source",
+      "sha256": "6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836",
+      "file_size_bytes": 25313377,
+      "duration_seconds": 1582.08,
+      "duration_display": "00:26:22.080",
+      "audio_stream": "mp3; 44100 Hz; stereo; 128000 bps",
+      "method": "fresh local SHA-256, byte-size and ffprobe decoded-duration check on the reattached MP3"
+    }
   },
   "time_map": [
     {

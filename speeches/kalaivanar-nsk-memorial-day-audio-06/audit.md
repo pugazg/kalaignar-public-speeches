@@ -10,11 +10,24 @@ The controlling MP3 is authoritative. Machine transcripts are secondary navigati
 
 - filename: `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`;
 - official URL: `https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3`;
+- official catalogue page: `https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html`;
 - SHA-256: `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`;
 - file size: `25,313,377` bytes;
 - decoded duration: `1582.080` seconds / `00:26:22.080`;
 - remote identity: verified by exact checksum and byte-size reproduction;
 - binary committed: No.
+
+## Fresh source re-resolution — 2026-09-01
+
+The controlling MP3 was reattached again together with the Tamil Digital Library catalogue-page URL. A fresh binary check reproduced the archived source identity exactly:
+
+- SHA-256: `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`;
+- byte size: `25,313,377`;
+- decoded duration: `1582.080` seconds / `00:26:22.080`;
+- stream: MP3, 44.1 kHz, stereo, 128 kb/s;
+- result: **exact binary match to the controlling source**.
+
+This re-resolution confirms source identity only. It does not by itself verify any spoken Tamil and does not change the existing direct-listening audit state. Live Batch 43 remains authoritative for T2 progress.
 
 ## Technical and boundary state
 

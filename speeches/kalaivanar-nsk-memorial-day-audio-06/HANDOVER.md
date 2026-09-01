@@ -23,6 +23,7 @@
 
 - filename: `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`;
 - source URL: `https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3`;
+- catalogue page URL: `https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html`;
 - SHA-256: `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`;
 - file size: `25,313,377` bytes;
 - decoded duration: `1582.080` seconds / `00:26:22.080`;
@@ -30,6 +31,7 @@
 - right channel approximately 6 dB stronger than left;
 - source binary committed: No;
 - remote identity verified against the attachment by checksum and byte size.
+- fresh reattachment on `2026-09-01` independently reproduced the same SHA-256, `25,313,377` bytes and `00:26:22.080` decoded duration; source identity remains unchanged.
 
 ## Archive identity and boundaries
 
