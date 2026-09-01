@@ -2,7 +2,7 @@
 
 ## Status
 
-**Source intake and machine-aided navigation complete. Tamil T1 provisional draft reaches approximately `24:00`. Direct-listening audit has not started.**
+**Source intake and machine-aided navigation complete. Tamil T1 first pass is provisionally complete through the true decoded end at `00:26:22.080`. Direct-listening audit has not started.**
 
 The controlling MP3 is authoritative. Machine transcripts are secondary navigation evidence only and must not be promoted to verified Tamil without direct listening.
 
@@ -34,84 +34,69 @@ Two whole-file passes were rejected after repetition drift/hallucination. Useful
 
 The standard printed wording of any quoted source, including Tirukkural, must not be used to normalize the speech silently. The Audio 06 T1 currently preserves the machine-supported spoken candidate `எச்சத்தால்`; T2 direct listening must decide the actual recording.
 
-## Provisional T1 evidence through 16:00
+## Provisional T1 evidence through 20:00
 
-The durable draft covers the humour-filled opening, Chinna Annamalai anecdote, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, medicine-with-honey imagery, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, gratitude to movement artists, and Sivaji's early unpaid stage work. Unstable names, joins and lists remain bracketed.
+The durable draft covers the humour-filled opening, Chinna Annamalai anecdote, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, medicine-with-honey imagery, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, gratitude to movement artists, Sivaji's early unpaid stage work, the art/politics distinction, and the Tirukkural `எச்சம்` discussion.
 
-## `16:00–20:00` provisional pass
-
-A targeted right-channel large-v3-turbo run used independent 30-second chunks.
-
-The usable evidence supports art as a vehicle for political ideas without art itself becoming politics, beauty/taste as the essence of effective speech and writing, good and evil uses of art, Kalaivanar's noble artistic aim, and the beginning of the Tirukkural `எச்சம்` discussion.
-
-The explanation from approximately `17:56–19:00` and the comparison around `19:33–20:00` remain withheld because the machine evidence repeatedly collapsed or became malformed. No printed Tirukkural wording was substituted.
+The explanation from approximately `17:56–19:00` and the comparison around `19:33–20:00` remain withheld because machine evidence repeatedly collapsed or became malformed. No printed Tirukkural wording was substituted.
 
 ## `20:00–24:00` provisional pass
 
-This batch used three machine-navigation views of the same controlling source:
+Three machine-navigation views were compared: captured independent 120-second right-channel chunks, stored confidence data, and a checksum-verified independent 30-second large-v3-turbo run.
 
-1. the already captured independent 120-second right-channel chunks;
-2. their stored word-confidence data;
-3. a new checksum-verified right-channel large-v3-turbo run in independent 30-second chunks with `condition_on_previous_text=false`.
+The provisional draft preserves:
 
-All are navigation evidence only.
+- `எச்சம்` as more than merely one's children/descendants;
+- Kalaivanar's ideas and humorous expression as part of what he left behind;
+- a Congress-conference recollection and `விலாங்கு மனிதன்`;
+- Kalaivanar's hotel-keeper role;
+- the 1947 Independence/radio invitation;
+- cross-party admirers;
+- election campaigning for Anna, Lakshiya Nadigar Rajendran, the speaker and Kazhagam comrades;
+- widespread `வில்லுப்பாட்டு` campaigning;
+- a family-affection sentence leading into the final batch.
 
-### `20:00–21:04` — usable provisional structure
+The hotel example, Kalaivanar's exact radio response, several political names/titles and much of `22:00–23:30` remain unresolved rather than reconstructed.
 
-The fresh 30-second pass strengthens the following ideas:
+## `24:00–26:22.080` final provisional T1 pass
 
-- `எச்சத்தால் காணப்படும்` does not simply mean being known through one's children or descendants;
-- `எச்சம்` concerns what a person leaves behind, including ideas/intellectual wealth, although the exact explanatory syntax remains uncertain;
-- Kalaivanar's ideas given to the people continue as his legacy;
-- gathering after Kalaivanar to praise him, honour him and explain how his ideas were expressed through humour is itself part of what he left behind.
+Two independent machine-navigation witnesses were compared:
 
-The exact opening words at `20:00`, Valluvar-explanation syntax and two joins remain unresolved.
+1. the previously captured right-channel `24:00–26:00` plus `26:00–26:22` artifact;
+2. a fresh checksum-verified right-channel large-v3-turbo pass in independent approximately 20-second chunks with `condition_on_previous_text=false`.
 
-### `21:04–22:00` — Congress-conference / `விலாங்கு மனிதன்` recollection
+They converge on the broad final sequence:
 
-Both the older and fresh chunk evidence support:
+- Kalaivanar treating suffering lightly;
+- laughter and emotional state being discussed in relation to bodily well-being;
+- `சிரிப்பு மாமருந்து` and Kalaivanar being described as a good doctor who taught this to the country;
+- a personal recollection involving Kalaivanar, Karunanidhi and Kannadasan sitting together and playing cards for recreation;
+- the repeated Kannadasan line `எங்கே தேடுவேன் பணத்தை எங்கே தேடுவேன்` after losing money;
+- Kalaivanar repeatedly responding to Kannadasan's losses with money, while the exact response and transfer verbs remain noisy;
+- Kalaivanar surrounding himself with many friends and being unable to remain alone without a group around him;
+- Kalaivanar having built a great `கலைக்குடும்பம்`;
+- a provisional repeated `வாழ்க, வாழ்க, வாழ்க` farewell and machine-supported `நன்றி, வணக்கம்` ending.
 
-- a Congress conference, with the exact introductory/place wording still uncertain;
-- Kalaivanar being invited to perform a play;
-- the title `விலாங்கு மனிதன்`;
-- an explanation of `விலாங்கு` as a water-dwelling creature, while the exact snake-related comparison is unclear;
-- Kalaivanar appearing as a hotel-keeper character.
+### Final-batch uncertainties retained
 
-The hotel-character example from approximately `21:38–22:00` remains withheld. The fresh short chunks still distort the political/shirt-colour comparison and do not support a safe exact reading.
+The final T1 text deliberately leaves unresolved:
 
-### `22:00–22:52` — Independence/radio passage
+- two short laughter-related aphorisms;
+- part of the physiological description of anger and praise;
+- the exact place/joining wording in the card-game setup;
+- how the first hundred rupees enters the game;
+- exact Kalaivanar response/money-transfer wording after Kannadasan's song;
+- a later repeated money-giving joke;
+- the exact grammatical form of the friends-surrounding clause;
+- the noun in the final `அந்தக் கலைவாணருடைய ... வாழ்க` phrase.
 
-The earlier independent 120-second evidence supports a provisional sequence beginning with:
-
-- the year 1947 and the Indian subcontinent obtaining freedom;
-- the freedom flag rising high;
-- radio personnel asking Kalaivanar to sing a freedom song.
-
-The dedicated 30-second pass collapses across much of this range and only recovers a later reference to `தன்மான உணர்வு`. Therefore Kalaivanar's exact response, the self-respect statement and a Sivaji-related reference remain explicitly unresolved. No historical quotation has been reconstructed from external sources.
-
-### `22:52–23:25` — cross-party admirers / movement preference
-
-The older machine evidence suggests references to Jeevanandam, Ma. Po. Si., Congress leaders and others. Because the fresh 30-second run collapses across much of this range, only the stable names already represented conservatively in the T1 draft are retained, with titles, other names and the contrast sentence bracketed.
-
-### `23:25–24:00` — election campaigning and movement attachment
-
-The machine passes converge on:
-
-- Anna should win;
-- Lakshiya Nadigar Rajendran should win;
-- the speaker should win;
-- Kazhagam comrades should win;
-- Kalaivanar travelling widely for those electoral campaigns;
-- his `வில்லுப்பாட்டு` being performed widely;
-- an emotional/family-affection conclusion continuing beyond `24:00`.
-
-The place/person reference, exact electoral-effect sentence and the subject/verb of the emotional reaction remain unresolved.
+The provisional `நன்றி, வணக்கம்` ending is **not** a T2 verification. The true final audible wording, grammatical completeness and truncation status remain open.
 
 ## Machine-readable T1 state
 
-- provisional speech segments drafted: **26**;
-- open unresolved ranges/phrases: **47**;
-- provisional T1 coverage: **through approximately `24:00`**;
+- provisional speech segments drafted: **30**;
+- open unresolved ranges/phrases: **60**;
+- provisional T1 coverage: **complete through the true decoded end `00:26:22.080`**;
 - T2 direct-listening segments checked: **0**;
 - T2 direct-listening segments passed: **0**;
 - English: blocked.
@@ -120,19 +105,20 @@ No T1 section is verified Tamil.
 
 ## Temporary workflow cleanup
 
-All temporary Audio 06 workflow files used for the `20:00–24:00` chunk run, prior-artifact exposure and confidence inspection were removed after evidence capture. No temporary workflow file is part of the durable archive.
+All temporary Audio 06 workflow files used for the final tail evidence, short-chunk cross-check and one-time transcript patch were removed after the evidence was captured and the durable transcript updated. No temporary workflow file is part of the archive.
 
 ## Exact next activity
 
-Process the **final provisional Tamil T1 batch: `24:00–00:26:22.080`**.
+Begin **Tamil T2 strict direct-listening audit from `00:00`**.
 
 Requirements:
 
-1. continue from the incomplete family-affection sentence at `24:00`;
-2. transcribe through the true file end, not an assumed end;
-3. use independent right-channel chunks as navigation only;
-4. retain uncertain names, quotations and joins explicitly;
-5. include the provisional final words only if supported by the source evidence;
-6. after T1 reaches `00:26:22.080`, do **not** begin English;
-7. the next gate must be T2 direct listening from `00:00`, including the separate spoken lead-in and exact opening boundary;
-8. later in T2, separately replay the final 60 seconds and final 30 seconds and confirm the true final audible word before any Tamil freeze.
+1. directly transcribe/verify the separate spoken lead-in at `00:00–approximately 00:14`;
+2. confirm the exact first speech word and main-speech opening boundary;
+3. audit every provisional speech segment sequentially against the controlling MP3;
+4. resolve bracketed T1 uncertainty only from direct source listening, not external history or printed text;
+5. later perform separate direct replays of the final 60 seconds and final 30 seconds;
+6. replay from the final major pause to the true `00:26:22.080` file end;
+7. confirm the final audible word, grammatical completeness and `recording_truncated` status;
+8. do not begin T3 until T2 is complete;
+9. do not begin English until verified Tamil is frozen.
