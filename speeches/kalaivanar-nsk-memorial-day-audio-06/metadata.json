@@ -1,0 +1,91 @@
+{
+  "id": "kalaivanar-nsk-memorial-day-audio-06",
+  "title": {
+    "ta": "கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழா உரை — ஒலிப்பதிவு 06",
+    "catalogue_title_ta": "கலைவாணர் என்.எஸ்.கிருஷ்ணன் நினைவு நாள் விழா உரை",
+    "en": "Kalaivanar N. S. Krishnan Memorial-Day Speech — Audio 06"
+  },
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role": "speaker"
+  },
+  "document_type": "public-speech-audio-recording",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "venue": null,
+    "event_ta": "கலைவாணர் என்.எஸ்.கிருஷ்ணன் நினைவு நாள் விழா",
+    "event_identity_status": "catalogue-and-spoken-content-supported; exact date and venue not established",
+    "archive_disambiguator": "official audio source file 06; duration 00:26:22.080"
+  },
+  "source": {
+    "filename": "06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3",
+    "original_url": "https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3",
+    "sha256": "6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836",
+    "file_size_bytes": 25313377,
+    "duration_seconds": 1582.08,
+    "duration_display": "00:26:22.080",
+    "audio_stream": {
+      "codec": "mp3",
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "channel_layout": "stereo",
+      "average_bit_rate_bps": 128000,
+      "channel_observation": "right channel is approximately 6 dB stronger than left over the complete file"
+    },
+    "embedded_metadata": {
+      "status": "no event-identifying tags found"
+    },
+    "remote_identity_verified": true,
+    "remote_identity_note": "Temporary intake workflow downloaded the official URL and reproduced the attached checksum and byte size.",
+    "recording_boundary": {
+      "start": "spoken lead-in/announcement at 00:00; main speech begins approximately 00:42",
+      "end": "provisionally complete closing tribute and thanks near 00:26:21; strict direct-listening tail verification pending"
+    },
+    "binary_committed": false
+  },
+  "time_map": [],
+  "machine_audio_evidence": {
+    "status": "in-progress",
+    "temporary_workflows": [
+      ".github/workflows/audio-06-intake.yml",
+      ".github/workflows/audio-06-boundaries.yml",
+      ".github/workflows/audio-06-boundaries-small.yml",
+      ".github/workflows/audio-06-right-small.yml"
+    ],
+    "source_checksum_verified": true,
+    "models": ["whisper-small", "whisper-large-v3-turbo"],
+    "evidence_role": "navigation and candidate readings only; not canonical verification"
+  },
+  "boundary_precheck": {
+    "spoken_lead_in_start": "00:00",
+    "spoken_lead_in_end_approx": "00:14",
+    "detected_silence_start": "00:13.982",
+    "detected_silence_end": "00:29.653",
+    "main_speech_start_approx": "00:41.9",
+    "final_activity_end_approx": "00:26:21.4",
+    "recording_truncated": null,
+    "opening_verified": false,
+    "ending_verified": false
+  },
+  "direct_listening_audit": {
+    "status": "not-started",
+    "segments_checked": 0,
+    "segments_passed": 0,
+    "recording_boundary_verified": false,
+    "recording_truncated": null
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "duplicate_search": "complete-no-existing-source-record",
+    "tamil_transcription": "starting",
+    "tamil_segments_total": null,
+    "tamil_segments_drafted": 0,
+    "strict_audio_audit": "not-started",
+    "tamil_consolidation": "blocked",
+    "english_translation": "blocked",
+    "english_translation_review": "blocked",
+    "english_translation_final_verification": "blocked"
+  }
+}
