@@ -80,13 +80,14 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Five preparatory T2 records now exist:
+Six preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
 - `t2-batches/batch-03-02-34-03-22-precheck.md` — Kannadasan–Sivaji recollection and the unresolved humorous transition.
 - `t2-batches/batch-04-03-22-04-00-precheck.md` — opposition-period hotel-room setup and Kannadasan political-separation context.
 - `t2-batches/batch-05-04-00-05-14-precheck.md` — crossed-telephone setup through the first unresolved exchange.
+- `t2-batches/batch-06-05-14-06-00-precheck.md` — crossed-line conversation and the reply about Kannadasan's Tamil attacks.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -95,6 +96,8 @@ Batch 3 strongly supports the names Kannadasan and Sivaji Ganesan, their closene
 Batch 4 strongly supports the opposition-period setting, the speaker writing film dialogue alone while staying in a Chennai hotel, `காலை பதினொரு மணி இருக்கும்`, Kannadasan separating from Anna with another friend, starting another party, and attacking the speaker politically. The exact friend modifier and `வேகமாக/மிக வேகமாக` remain auditory checkpoints; no canonical change was made.
 
 Batch 5 strongly supports the crossed-telephone narrative but leaves several lexical choices for replay: `மேகலா பட நிறுவனத்திலே` versus a machine `நிர்வாகத்திலே` reading, current `இன்னொரு பையனுடைய குரல்` versus machine `இன்னொரு பழகிய குரல்`, the full telephone-interference sentence, the Mekala contact/manager wording, and the exact clause describing two calls becoming connected. No canonical change was made.
+
+Batch 6 supports the Kannadasan identification, the approximately ten-to-fifteen-minute telephone conversation, the newspaper-attacks question and the speaker's reply that he enjoyed the attacks because they were expressed in Tamil, especially sweet Tamil. It deliberately leaves `யாரய்யா/யாரையா`, `போன் செய்கிறேன்/செய்திருந்தேன்`, `பத்திரிகையிலே/பத்திரிகைகளில்`, `நன்றாகத் திட்டுகிறீர்` versus corrupted `நன்றாகச் சிந்திக்கிறேன்`, and `தமிழிலே` versus corrupted `தமிழுலகை` for true replay. No canonical change was made.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 

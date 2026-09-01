@@ -74,13 +74,14 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Five preparatory records are complete:
+Six preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
 3. `t2-batches/batch-03-02-34-03-22-precheck.md`.
 4. `t2-batches/batch-04-03-22-04-00-precheck.md`.
 5. `t2-batches/batch-05-04-00-05-14-precheck.md`.
+6. `t2-batches/batch-06-05-14-06-00-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -89,6 +90,8 @@ The third precheck covers the Kannadasan–Sivaji passage. It preserves the curr
 The fourth precheck covers the opposition-period hotel-room setup through `04:00`. It strongly supports the Chennai hotel, film-dialogue work, `காலை பதினொரு மணி`, Kannadasan's separation from Anna and formation of another party, but leaves the exact friend modifier and `வேகமாக/மிக வேகமாக` for true replay.
 
 The fifth precheck covers `04:00–05:14`. It confirms the crossed-telephone structure but leaves the Mekala organization wording, `பையனுடைய/பழகிய குரல்`, the interference sentence, contact/manager wording and exact crossed-line connection clause for true audible replay.
+
+The sixth precheck covers `05:14–06:00`. It supports the crossed-line conversation and the core reply about appreciating Kannadasan's attacks because they were expressed in sweet Tamil, while leaving the exact identification question, phone-tense form, newspaper morphology and the disputed `திட்டுகிறீர் / தமிழிலே` readings for actual replay.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
