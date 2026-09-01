@@ -260,6 +260,14 @@ No T1 section is verified Tamil.
 
 All temporary Audio 06 workflow files used for the final tail evidence, short-chunk cross-check and one-time transcript patch were removed after the evidence was captured and the durable transcript updated. No temporary workflow file is part of the archive.
 
+## T2 execution gate — current environment
+
+Textual/ASR preparation is complete through the true decoded end, but the current execution environment does not expose the controlling MP3 as genuine audible playback to the assistant. Available attachment/file interfaces expose machine-transcript or file-analysis evidence only. Under `AUDIO_SPEECH_PROCESSING_GUIDE.md`, those evidence classes must **not** be counted as direct listening.
+
+Therefore no T2 segment has been claimed checked or passed in this environment. The direct-listening counters remain **0 checked / 0 passed**; opening and ending remain unverified; `recording_truncated` remains unresolved. A session/environment with actual audible replay must resume the strict T2 audit at `00:00`, beginning with the separate spoken lead-in and opening gate.
+
+This note records an execution-capability boundary only. It does not change canonical Tamil, source interpretation, T1 coverage, or any verification result.
+
 ## Exact next activity
 
 Begin **Tamil T2 strict direct-listening audit from `00:00`**.

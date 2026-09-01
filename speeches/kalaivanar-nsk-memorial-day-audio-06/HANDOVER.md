@@ -246,6 +246,12 @@ T2 must resolve directly from the source:
 9. exact final audible wording and final word;
 10. whether the recording is grammatically complete and non-truncated.
 
+## T2 execution capability note
+
+All 42 textual/ASR prechecks are complete and the next source activity is strict direct listening from `00:00`. In the ChatGPT execution environment that prepared this handover, the attached MP3 is available only through machine-transcript/file-analysis paths rather than genuine audible playback to the assistant. Those paths are not T2 under the repository guide.
+
+Do **not** infer any T2 progress from the completed prechecks. Direct-listening state remains **0 checked / 0 passed**. Opening, ending and `recording_truncated` remain unresolved. Resume from `00:00` only in an environment/session that can actually replay and hear the controlling MP3.
+
 ## Exact next activity
 
 Begin **T2 strict direct-listening audit from `00:00`** using actual audible replay of the controlling MP3.
