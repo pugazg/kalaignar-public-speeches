@@ -30,7 +30,7 @@ This is a different binary from the completed `00:07:23.559` Kalaivanar recordin
 
 ## Current Tamil T1 coverage
 
-The provisional first-pass transcript reaches approximately **`24:00`**.
+The provisional T1 first pass is **complete through the true decoded end at `00:26:22.080`**.
 
 Major covered material includes:
 
@@ -45,14 +45,15 @@ Major covered material includes:
 - beauty and taste as the essence of effective art;
 - the good/evil uses of art;
 - the Tirukkural `எச்சம்` discussion and Kalaivanar's enduring legacy;
-- the clarification that `எச்சம்` is not merely children/descendants;
-- a Congress-conference recollection and the `விலாங்கு மனிதன்` play;
-- the 1947 Independence/radio-invitation sequence, with Kalaivanar's exact response still unresolved;
-- admirers across political groups;
-- Kalaivanar's election campaigning and `வில்லுப்பாட்டு` for movement candidates;
-- a family-affection sentence that continues beyond the `24:00` boundary.
+- the Congress-conference / `விலாங்கு மனிதன்` recollection;
+- the 1947 Independence/radio sequence;
+- cross-party admirers and Kalaivanar's campaigning for movement candidates;
+- `சிரிப்பு மாமருந்து` and a final reflection on laughter;
+- a Kalaivanar/Karunanidhi/Kannadasan card-game recollection with the repeated `எங்கே தேடுவேன் பணத்தை எங்கே தேடுவேன்` line;
+- Kalaivanar's circle of friends and the `கலைக்குடும்பம்` conclusion;
+- a provisional farewell extending to the true file end.
 
-Important unresolved ranges remain visible. In particular, machine evidence collapses across much of `18:00–19:00`, `19:33–20:00`, the hotel-character example around `21:38–22:00`, and substantial portions of `22:00–23:30`. None has been reconstructed from external history or printed texts.
+Important unresolved ranges remain visible throughout the draft. Machine evidence was not used to invent material where it collapsed or disagreed, and the final farewell is not yet verified by direct listening.
 
 ## Current workflow state
 
@@ -61,9 +62,9 @@ Important unresolved ranges remain visible. In particular, machine evidence coll
 | Source identity and technical inspection | **Complete** |
 | Duplicate/archive search | **Complete — no existing source record found** |
 | Machine-aided navigation | **Complete — evidence captured; temporary workflows removed** |
-| Tamil T1 first pass | **In progress — provisional through ~24:00** |
-| Provisional speech segments drafted | **26** |
-| Open unresolved ranges/phrases | **47** |
+| Tamil T1 first pass | **Complete provisionally through `00:26:22.080`** |
+| Provisional speech segments drafted | **30** |
+| Open unresolved ranges/phrases | **60** |
 | Tamil T2 strict direct-listening audit | **Not started** |
 | Tamil T3 consolidation/freeze | **Blocked** |
 | English translation | **Blocked until verified Tamil** |
@@ -72,8 +73,10 @@ Important unresolved ranges remain visible. In particular, machine evidence coll
 
 The attached MP3 is authoritative. Machine transcripts, catalogue wording and external printed texts are navigation/reference aids only. Preserve source-supported wording and repetition. Do not silently normalize quotations such as Tirukkural from an external text. Mark uncertainty instead of guessing.
 
+The provisional final `நன்றி, வணக்கம்` must not be treated as verified until the source tail is directly replayed. `recording_truncated` remains unresolved.
+
 ## Exact next activity
 
-Complete the **final provisional Tamil T1 batch, `24:00–00:26:22.080`**. Continue from the unfinished family-affection sentence and reach the true audio end.
+Begin **Tamil T2 strict direct-listening audit from `00:00`** — not from the tail and not with English.
 
-After T1 reaches the true end, the next gate is **Tamil T2 strict direct-listening audit from `00:00`**, including the separate lead-in. English remains blocked. The final 60 seconds and final 30 seconds must later receive dedicated direct replays before the Tamil transcript can be frozen.
+Start by directly transcribing/verifying the separate spoken lead-in and confirming the exact main-speech opening boundary. Continue segment by segment against the controlling MP3. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.
