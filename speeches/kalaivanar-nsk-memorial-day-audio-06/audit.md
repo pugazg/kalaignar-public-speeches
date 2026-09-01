@@ -34,6 +34,50 @@ Two whole-file passes were rejected after repetition drift/hallucination. Useful
 
 The standard printed wording of any quoted source, including Tirukkural, must not be used to normalize the speech silently. The Audio 06 T1 currently preserves the machine-supported spoken candidate `எச்சத்தால்`; T2 direct listening must decide the actual recording.
 
+## T2 opening preparation — no direct-listening pass claimed
+
+The original Audio 06 conversation attachment was re-resolved before beginning the T2 opening gate. Its filename and byte size match the controlling source already recorded in this archive.
+
+The currently available attachment-reading interface exposes a machine-produced transcript rather than an audible replay. Under `AUDIO_SPEECH_PROCESSING_GUIDE.md`, textual/ASR comparison **must not** be called direct listening. Therefore this preparation does **not** increment T2 checked or passed counters and does not promote any wording to verified Tamil.
+
+### Signal/boundary preparation
+
+Direct signal analysis of the controlling MP3 gives the following useful opening gates:
+
+- at a `-25 dB` silence threshold, the announcer/lead-in activity gives way to a quiet interval beginning at approximately `00:13.966` and ending at approximately `00:41.641`;
+- at a stricter `-30 dB` threshold, a strong silence interval runs from approximately `00:13.982` to `00:29.653`, followed by low-level ambience before the main speech;
+- independent opening speech-navigation evidence places Kalaignar's first main-speech activity at approximately `00:41.88`.
+
+These are technical/navigation boundaries, not T2 auditory verification.
+
+### Lead-in candidate evidence
+
+Multiple machine views converge on a short announcer lead-in referring to:
+
+- `கலைவாணர்`;
+- Chennai `கலைவாணர் அரங்கம்`;
+- `கலைவாணர் நகைச்சுவை`;
+- `டாக்டர் கலைஞர் அவர்கள்`;
+- an announcement equivalent to `இப்போது உரையாற்றுவார்`.
+
+The first few words and exact grammatical joins remain unstable across machine views. No lead-in wording has been inserted into the canonical transcript from this evidence alone.
+
+### Main-speech opening candidate
+
+The attachment-level machine transcript and the prior independent right-channel navigation both support the existing T1 opening beginning around `00:41.88` with the same broad sentence:
+
+`கலைவாணருடைய விழாவிலே நகைச்சுவைக்குப் பஞ்சமிருக்கக் கூடாது ...`
+
+The current T1 version remains the stronger provisional reading. Competing machine output introduces obvious distortions in words such as `நகைச்சுவை`, `மிகுந்த`, `சிரிப்பொலி`, `படையல்` and the closing `மிகையாகாது`; none of those competing distortions has been adopted.
+
+### Gate result
+
+- direct-listening segments checked: **0**;
+- direct-listening segments passed: **0**;
+- opening verified: **No**;
+- canonical Tamil changes from this preparation: **None**;
+- next required action remains a true audible replay from `00:00`.
+
 ## Provisional T1 evidence through 20:00
 
 The durable draft covers the humour-filled opening, Chinna Annamalai anecdote, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, medicine-with-honey imagery, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, gratitude to movement artists, Sivaji's early unpaid stage work, the art/politics distinction, and the Tirukkural `எச்சம்` discussion.
@@ -114,11 +158,12 @@ Begin **Tamil T2 strict direct-listening audit from `00:00`**.
 Requirements:
 
 1. directly transcribe/verify the separate spoken lead-in at `00:00–approximately 00:14`;
-2. confirm the exact first speech word and main-speech opening boundary;
-3. audit every provisional speech segment sequentially against the controlling MP3;
-4. resolve bracketed T1 uncertainty only from direct source listening, not external history or printed text;
-5. later perform separate direct replays of the final 60 seconds and final 30 seconds;
-6. replay from the final major pause to the true `00:26:22.080` file end;
-7. confirm the final audible word, grammatical completeness and `recording_truncated` status;
-8. do not begin T3 until T2 is complete;
-9. do not begin English until verified Tamil is frozen.
+2. use the prepared `00:13.966–00:41.641` quiet-boundary evidence only as navigation, not as a substitute for listening;
+3. confirm the exact first speech word and main-speech opening boundary;
+4. audit every provisional speech segment sequentially against the controlling MP3;
+5. resolve bracketed T1 uncertainty only from direct source listening, not external history or printed text;
+6. later perform separate direct replays of the final 60 seconds and final 30 seconds;
+7. replay from the final major pause to the true `00:26:22.080` file end;
+8. confirm the final audible word, grammatical completeness and `recording_truncated` status;
+9. do not begin T3 until T2 is complete;
+10. do not begin English until verified Tamil is frozen.
