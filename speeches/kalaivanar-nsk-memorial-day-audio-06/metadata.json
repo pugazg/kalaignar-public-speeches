@@ -83,49 +83,49 @@
       "start": "02:34",
       "end_approx": "03:22",
       "subject": "Kannadasan and Sivaji Ganesan",
-      "status": "provisional-t1-drafted"
+      "status": "direct-listened; quotation confirmed; short transition unresolved"
     },
     {
       "segment": 4,
       "start": "03:22",
       "end_approx": "06:00",
       "subject": "hotel-room and crossed-telephone recollection involving Kannadasan",
-      "status": "provisional-t1-drafted; several phrases unresolved"
+      "status": "direct-listened through 06:00; hotel setup passed, crossed-line details partly unresolved"
     },
     {
       "segment": 5,
       "start": "06:00",
       "end_approx": "06:43",
       "subject": "Tamil art transforming hostility; Anna and Kalaivanar",
-      "status": "provisional-t1-drafted"
+      "status": "direct-listened; hall/display phrase unresolved"
     },
     {
       "segment": 6,
       "start": "06:43",
       "end_approx": "07:12",
       "subject": "S. S. Rajendran and Kalaivanar's early social ideas",
-      "status": "provisional-t1-drafted"
+      "status": "t2-direct-listening-verified"
     },
     {
       "segment": 7,
       "start": "07:12",
       "end_approx": "08:00",
       "subject": "Ilangovan, Kannagi and article introduction",
-      "status": "partial-provisional-draft; full name and quotation unresolved"
+      "status": "direct-listened; one praise word unresolved"
     },
     {
       "segment": 8,
       "start": "08:00",
       "end_approx": "08:38",
       "subject": "Anna's praise and criticism of Ilangovan's Silappathikaram adaptation",
-      "status": "partial-provisional-draft; two phrases unresolved"
+      "status": "direct-listened; one rhetorical question unresolved"
     },
     {
       "segment": 9,
       "start": "08:38",
       "end_approx": "09:50",
       "subject": "Inji Paththar interpretation and medicine-with-honey image",
-      "status": "provisional-t1-drafted"
+      "status": "direct-listened through 09:25; 08:38-09:25 passed; 09:25-09:50 pending"
     },
     {
       "segment": 10,
@@ -308,16 +308,28 @@
   },
   "direct_listening_audit": {
     "status": "in-progress",
-    "segments_checked": 2,
-    "segments_passed": 1,
+    "segments_checked": 12,
+    "segments_passed": 4,
     "recording_boundary_verified": false,
     "recording_truncated": null,
-    "latest_checked_range": "00:00-01:10",
+    "latest_checked_range": "08:38-09:25",
     "records": [
-      "t2-batches/batch-43-direct-listening-audit-00-00-01-10.md"
+      "t2-batches/batch-43-direct-listening-audit-00-00-01-10.md",
+      "t2-batches/batch-44-direct-listening-audit-01-10-02-34.md",
+      "t2-batches/batch-45-direct-listening-audit-02-34-03-22.md",
+      "t2-batches/batch-46-direct-listening-audit-03-22-04-00.md",
+      "t2-batches/batch-47-direct-listening-audit-04-00-05-14.md",
+      "t2-batches/batch-48-direct-listening-audit-05-14-06-00.md",
+      "t2-batches/batch-49-direct-listening-audit-06-00-06-43.md",
+      "t2-batches/batch-50-direct-listening-audit-06-43-07-12.md",
+      "t2-batches/batch-51-direct-listening-audit-07-12-08-00.md",
+      "t2-batches/batch-52-direct-listening-audit-08-00-08-38.md",
+      "t2-batches/batch-53-direct-listening-audit-08-38-09-25.md"
     ],
     "lead_in_passed": false,
-    "main_speech_opening_passed": true
+    "main_speech_opening_passed": true,
+    "iteration_batch_size": 10,
+    "latest_iteration": "records 44-53; precheck ranges 02-11; 01:10-09:25"
   },
   "workflow": {
     "source_inspection": "complete",

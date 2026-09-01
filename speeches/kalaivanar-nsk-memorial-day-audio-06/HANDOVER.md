@@ -260,6 +260,14 @@ Batch 43 (`00:00–01:10`) is the first genuine T2 audit record. It confirms the
 
 Record: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md`.
 
+## T2 direct-listening cadence and live checkpoint
+
+The user directed that T2 be processed in **10 direct-listening batches per iteration**. Preserve this cadence unless a short retry crop is needed for an unresolved phrase. Batch 43 audited `00:00–01:10`. The first full 10-batch iteration is complete as records 44–53, covering precheck ranges 02–11 (`01:10–09:25`).
+
+Current cumulative direct-listening state: **12 checked / 4 passed**. Fully passed ranges so far include the main-speech opening, `03:22–04:00`, `06:43–07:12`, and `08:38–09:25`. Checked-but-unresolved ranges remain on a retry list and must not be treated as passed. The separate announcer lead-in is still not fully verified.
+
+The next 10-batch iteration is precheck ranges **12–21**, from `09:25` through `14:15`. After that, continue 22–31, then 32–41; precheck 42 and all mandatory opening/tail retries close the auditory gate. The mandatory final-60-second, final-30-second, and final-major-pause-to-end replays remain independent requirements.
+
 ## Exact next activity
 
 Continue **T2 strict direct listening with `01:10–02:20`** using the checksum-matching controlling MP3. Retain the partly unresolved `00:00–00:14` lead-in as a mandatory opening-gate retry before T2 closure.

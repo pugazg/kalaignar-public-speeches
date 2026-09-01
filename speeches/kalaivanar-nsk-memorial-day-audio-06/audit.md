@@ -263,8 +263,8 @@ The provisional `நன்றி, வணக்கம்` ending is **not** a T2 
 - provisional speech segments drafted: **30**;
 - open unresolved ranges/phrases: **60**;
 - provisional T1 coverage: **complete through the true decoded end `00:26:22.080`**;
-- T2 direct-listening segments checked: **0**;
-- T2 direct-listening segments passed: **0**;
+- T2 direct-listening segments checked: **12**;
+- T2 direct-listening segments passed: **4**;
 - English: blocked.
 
 No T1 section is verified Tamil.
@@ -289,9 +289,19 @@ Direct replay confirms the quiet/ambience interval, main-speech onset at approxi
 
 Cumulative direct-listening state: **2 checked / 1 passed**. Record: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md`.
 
+## T2 direct-listening iteration 1 — records 44–53 (`01:10–09:25`)
+
+Per the user-directed cadence, direct listening is now processed in **10-batch iterations**. This iteration audited precheck ranges 02–11. All ten ranges were directly replayed. Three ranges passed completely (`03:22–04:00`, `06:43–07:12`, `08:38–09:25`); seven were checked but retain one or more localized unresolved words/phrases.
+
+Source-heard corrections applied to `transcription-ta.md` include `தனிமையாக`, `இன்னொரு நண்பரோடு`, `வேறொரு கட்சியை`, `மிக வேகமாக`, `சந்தித்தால்கூட`, Mekala `பட நிர்வாக` context, `பழகிய குரல்`, `பத்திரிகைகளில்`, `இனிமையான தமிழிலேயே`, `கலை மூலமாகவும்`, `மக்களுக்கு எடுத்துச் சொல்ல வேண்டும்`, `தூண்டுகோலாக இருந்த`, the source-spoken Rajendran/Kalaivanar forms in `06:43–07:12`, `தனிகாசலம் என்கின்ற இளங்கோவன்`, `இஞ்சிப்பத்தரே மேல்`, `கர்ணபரம்பரைக் கதையைப் போலவே`, the Chera–Chola–Pandya kings clause, `புராண நெறி கொடுத்து`, and `பித்தளைக்கு நிறமேற்றி`.
+
+The retry list remains conservative: the opening lead-in; Batch 44 conference/event name and one later closeness example; Batch 45 humorous affection transition; Batch 47 contact/first joined-line wording; Batch 48 immediate connection exchange and first short reply phrase; Batch 49 hall/display phrase; Batch 51 one praise word; Batch 52 one rhetorical question. None was reconstructed from ASR or historical knowledge.
+
+Cumulative direct-listening state after this iteration: **12 checked / 4 passed**.
+
 ## Exact next activity
 
-Continue **Tamil T2 strict direct listening with `01:10–02:20`**, while retaining the partly unresolved lead-in as a mandatory opening-gate retry.
+Continue **Tamil T2 strict direct listening with the next 10-batch iteration: precheck ranges 12–21 (`09:25–14:15`)**, while retaining all checked-but-unresolved phrases and the partly unresolved lead-in on the retry list.
 
 Requirements:
 
