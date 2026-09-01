@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — provisional draft reaches approximately 12:00, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T1 in progress — provisional draft reaches approximately 16:00, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -135,4 +135,60 @@
 
 “கிருஷ்ணனை நாம் பாராட்ட வேண்டும்” என்று சிவாஜி சொன்னார். ஆனால் அந்தக் கிருஷ்ணனுடைய நிலைமை அவ்வளவு பரிதாபமாக இருப்பதாக நான் கருதவில்லை.
 
-`[The exact wordplay and the sentence continuing beyond approximately 12:00 require the next batch and direct replay.]`
+`[The exact wordplay joining “கிருஷ்ணன்” to the following passage is partly unclear.]`
+
+## [12:00]
+
+கண்ணதாசன் அவர்கள் எனக்குப் பரிந்துரை செய்து, “நீ கிருஷ்ணனை ஏற்றுக்கொள்” என்று பரிந்துரை செய்கின்ற அளவிற்கு, பரமாத்மா கிருஷ்ணன் அவருடைய பெருமதிப்புக்கு இலக்காக இருப்பதாக எனக்குப் புரியவில்லை.
+
+அவரே சொன்னார்: “கிருஷ்ண பரமாத்மா கோயிலுக்கு அருகாமையிலே நான் வீடு கட்டியிருக்கிறேன்” என்று.
+
+`[The exact connective between the Krishna joke and the house anecdote remains unresolved.]`
+
+## [12:22]
+
+நான் வீடு கட்டவில்லை. இருந்த வீட்டை இருபது ஆண்டுகளுக்கு முன்பு வாங்கினேன்.
+
+`[The following mock-newspaper wording is only partly stable. Repeated candidate phrases include “கருணாநிதியின் நண்பர் கண்ணதாசனே குட்டை உடைத்துவிட்டார்”, “கருணாநிதி முதலமைச்சர் ஆன பிறகுதான் கோபாலபுரத்திலே வீடு கட்டினான்”, and “மர்மம் அம்பலமானது”. Exact joins and inflections require source replay.]`
+
+## [approximately 12:49–13:15]
+
+`[The captured machine chunk enters a repeated-token collapse here. This interval is intentionally withheld rather than reconstructed.]`
+
+## [13:15]
+
+தபால் இலாகாவிலே மிகப் பெரிய அதிகாரியாக இருந்து ஓய்வு பெற்றவர் `[பெயர்/சொற்றொடர் தெளிவில்லை]`. அவர் அந்த வீட்டை விற்க முனைந்தார்.
+
+அந்த வீட்டை வாங்குவதற்காக நான் முயற்சித்த போது—
+
+`[Approximately 13:28–14:00 concerns reactions to Karunanidhi moving into the locality/agraharam and the house owner's response. The machine wording is not stable enough for provisional transcription.]`
+
+## [14:00]
+
+என்னைப் பார்த்துவிட்டு, “பேரைப் பார்த்து அவ்வளவு பயந்தோமே; ஆளைப் பார்த்தால் சாதுவாகத்தான் இருக்கிறார்” என்று `[தொடர் தெளிவில்லை]`.
+
+`[The sentence concerning the people of the agraharam agreeing is audible in machine navigation but its exact wording remains unstable.]`
+
+அந்த வீட்டைக் கூட இருபது ஆண்டுகளுக்கு முன்பு நான் அங்கே வாங்கினேன்.
+
+## [14:15]
+
+எதற்காக இதையெல்லாம் சொல்லுகிறேன் என்றால், இந்தக் கலை உலகத்திலே நம்முடைய கருத்துக்களை எடுத்துச் சொல்லுவதற்காக நாம் முயற்சித்த அந்தக் காலத்திலிருந்து இந்தக் காலம் வரையில்—
+
+`[Approximately 14:29–14:54 contrasts people no longer remaining in the same place or ideological position with the continuing principle and gratitude owed to those who worked for it. Exact syntax remains unresolved.]`
+
+அதற்காகப் பாடுபட்டவர்கள் வேறிடத்திலே இருந்தாலும், பாடுபட்டவர்களுக்கு நன்றிக்குரிய `[தொடர் தெளிவில்லை]` நான் இருக்கின்றேன். அதற்காகத்தான் இதைக் குறிப்பிடுகின்றேன்.
+
+## [14:59]
+
+எத்தனையோ நாடகங்களில் என்னோடு சேர்ந்து சிவாஜி நடித்திருக்கிறார்.
+
+அப்போது அப்படிச் சொல்லலாம். இப்போது என்னோடு சேர்ந்து அவர் நடித்தார் என்று கூறினால் நகைச்சுவையாக இருக்கும். சிவாஜியோடு சேர்ந்து நான் நடித்தேன் என்று சொன்னால்தான் அது இன்றைக்கு உள்ள சூழ்நிலைக்குப் பொருத்தமாக இருக்கும்.
+
+## [15:18]
+
+ஆனால் அன்றைக்குக் கருணாநிதி, சிவாஜி கணேசன் நடிக்கும் என்கின்ற அளவுக்கு நாடகங்கள் நடந்தபோது, அந்த நாடகங்களில் பணம் வாங்காமல் வந்து நடிக்கின்ற நடிகராக நம்மோடு இருந்தவர் சிவாஜி அவர்கள் விளங்கினார்.
+
+## [15:35]
+
+`[Several play titles and the list of co-actors through approximately 16:00 are unstable in the captured machine evidence. T. V. Narayanasamy/T.V.N. and K. R. Ramasamy are candidate name anchors; another poet/artist name and the play titles require direct source replay. No list is reconstructed here.]`
