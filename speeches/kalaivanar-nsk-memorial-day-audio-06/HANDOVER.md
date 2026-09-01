@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Seven preparatory records are complete:
+Eight preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -83,6 +83,7 @@ Seven preparatory records are complete:
 5. `t2-batches/batch-05-04-00-05-14-precheck.md`.
 6. `t2-batches/batch-06-05-14-06-00-precheck.md`.
 7. `t2-batches/batch-07-06-00-06-43-precheck.md`.
+8. `t2-batches/batch-08-06-43-07-12-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -95,6 +96,8 @@ The fifth precheck covers `04:00–05:14`. It confirms the crossed-telephone str
 The sixth precheck covers `05:14–06:00`. It supports the crossed-line conversation and the core reply about appreciating Kannadasan's attacks because they were expressed in sweet Tamil, while leaving the exact identification question, phone-tense form, newspaper morphology and the disputed `திட்டுகிறீர் / தமிழிலே` readings for actual replay.
 
 The seventh precheck covers `06:00–06:43`. It supports the Tamil/art argument and Anna–Kalaivanar connection but leaves exact morphology, `பக்கபலமாக/தூண்டுகோலாக`, and the corrupted venue/display phrase before Kalaivanar's name for true audible replay.
+
+The eighth precheck covers `06:43–07:12`. It supports the broad Rajendran–Anna–Kalaivanar argument but leaves the Rajendran title/name form, film/theatre conjunction, `எடுத்தாளுவதற்கு`, Kalaivanar name form, a short indistinct clause and the final honorific verb for true audible replay.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
