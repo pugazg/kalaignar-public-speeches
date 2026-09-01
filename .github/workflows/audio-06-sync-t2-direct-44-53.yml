@@ -1,0 +1,158 @@
+name: Sync Audio 06 T2 direct audit 44-53
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-sync-t2-direct-44-53.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Synchronize direct-listening iteration 44-53
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+
+          base=Path('speeches/kalaivanar-nsk-memorial-day-audio-06')
+
+          # Canonical Tamil: apply only source-heard corrections from direct replay.
+          p=base/'transcription-ta.md'
+          s=p.read_text(encoding='utf-8')
+          reps=[
+            ('**Status:** **T2 strict direct-listening audit in progress — 2 segments checked / 1 passed; opening lead-in still partly unresolved**',
+             '**Status:** **T2 strict direct-listening audit in progress — 12 segments checked / 4 passed; opening lead-in still partly unresolved**'),
+            ('சின்ன அண்ணாமலை அவர்கள் பேசும்போது ஒன்றைச் சொன்னார். யாருக்கும் தெரியாத ஒன்றைச் சொல்லி—',
+             'சின்ன அண்ணாமலை அவர்கள் பேசும்போது ஒன்றைச் சொன்னார்கள். யாருக்கும் தெரியாத ஒன்றைச் சொல்லி, அதன் மூலமாக கலைவாணருடைய பாராட்டைப் பெற்றேன் என்று.'),
+            ('கலைவாணர் இருந்தால் போய்க் கேட்கலாம், உண்மையா என்று.',
+             'இருந்தால் போய்க் கேட்கலாம், உண்மையா என்று.'),
+            ('நான் தனியாக உட்கார்ந்து,', 'நான் தனிமையாக உட்கார்ந்து,'),
+            ('அப்போதெல்லாம் கவிஞர் கண்ணதாசன் அவர்கள் இன்னும் `[தெளிவில்லை]` நண்பர்களோடு இணைந்து, அறிஞர் அண்ணாவிடமிருந்து பிரிந்து, வேறு கட்சியைத் தொடங்கி, வேகமாக என்னைத் தாக்கிப் பேசிக்கொண்டிருந்த காலம்.',
+             'அப்போதெல்லாம் கவிஞர் கண்ணதாசன் அவர்கள் இன்னொரு நண்பரோடு இணைந்து, அறிஞர் அண்ணாவிடமிருந்து பிரிந்து, வேறொரு கட்சியைத் தொடங்கி, மிக வேகமாக என்னைத் தாக்கிப் பேசிக்கொண்டிருந்த காலம்.'),
+            ('நானும் அவரும் ஒருவரை ஒருவர் சந்தித்தால் பேசிக்கொள்ளாத அளவுக்குப் பகை உணர்ச்சி வளர்ந்திருந்த நேரம்.',
+             'நானும் அவரும் ஒருவரை ஒருவர் சந்தித்தால்கூட பேசிக்கொள்ளாத அளவுக்குப் பகை உணர்ச்சி வளர்ந்திருந்த நேரம்.'),
+            ('மேகலா பட நிறுவனத்திலே உள்ள ஒரு நண்பருக்கு', 'மேகலா பட நிர்வாகத்திலே உள்ள ஒரு நண்பருக்கு'),
+            ('இடையிலே இன்னொரு பையனுடைய குரலும் கேட்டது.', 'இடையிலே இன்னொரு பழகிய குரலும் கேட்டது.'),
+            ('பத்திரிகையிலே படிக்கிறாயே', 'பத்திரிகைகளில் படிக்கிறாயே'),
+            ('நான் சொன்னேன்: “நன்றாகத் திட்டுகிறீர். நீர் தமிழிலே திட்டுகிற காரணத்தால், அதுவும் இனிமையான தமிழிலே திட்டுகிற காரணத்தால், அதை நான் ரசித்துக்கொண்டிருக்கிறேனே அல்லாமல், அதற்காக நான் வருத்தப்படவில்லை” என்று அவரிடத்திலே சொன்னேன்.',
+             'நான் சொன்னேன்: “`[முதல் குறும் பதில் தெளிவில்லை]`, அதுவும் இனிமையான தமிழிலேயே திட்டுகிற காரணத்தால், அதை நான் ரசித்துக்கொண்டிருக்கிறேனே அல்லாமல், அதற்காக நான் வருத்தப்படவில்லை” என்று அவரிடத்திலே சொன்னேன்.'),
+            ('இப்படிப் பகை உணர்ச்சியையும் மாற்றியமைக்கக்கூடிய சக்தி நம்முடைய தமிழுக்கு உண்டு; தமிழ்க் கலைக்கு உண்டு.',
+             'இப்படிப் பகை உணர்ச்சியையும் மாற்றி அமைக்கக்கூடிய சக்தி நம்முடைய தமிழுக்கு உண்டு; தமிழ்க் கலைக்கு உண்டு.'),
+            ('அந்தக் கலையினுடைய அருமை பெருமைகளைத் தெரிந்த காரணத்தினால்தான் பேரறிஞர் அண்ணா அவர்கள் கலை மூலமாக நல்ல கருத்துக்களை மக்களிடத்திலே சொல்ல வேண்டும் என்கின்ற பணியினை மேற்கொண்டார்.',
+             'அந்தக் கலையினுடைய அருமை பெருமைகளைத் தெரிந்த காரணத்தினால்தான் பேரறிஞர் அண்ணா அவர்கள் கலை மூலமாகவும் நல்ல கருத்துக்களை மக்களுக்கு எடுத்துச் சொல்ல வேண்டும் என்கின்ற பணியினை மேற்கொண்டார்கள்.'),
+            ('அந்தப் பணியினை அண்ணா அவர்கள் மேற்கொள்வதற்குப் பக்கபலமாக இருந்த ஒரு கலையுலகப் பெருமகன் யாரென்றால், அவர்தான் இன்றைக்கு இந்தப் பாமன்றத்திலே படமாகக் காட்சியளித்துக்கொண்டிருக்கின்ற கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள்.',
+             'அந்தப் பணியினை அண்ணா அவர்கள் மேற்கொள்வதற்குத் தூண்டுகோலாக இருந்த ஒரு கலையுலகப் பெருமகன் யாரென்றால், அவர்தான் இன்றைக்கு `[மன்றம்/காட்சித் தொடர் தெளிவில்லை]` கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள்.'),
+            ('லட்சிய நடிகர் எஸ். எஸ். ராஜேந்திரன் அவர்கள் குறிப்பிட்டதைப்போல், அண்ணா அவர்கள் திரைப்படத் துறையிலோ, நாடகத் துறையிலோ புரட்சிகரமான புதுமையான கருத்துக்களை, தன்மான இயக்கக் கருத்துக்களை, தமிழ்ச் சமுதாயத்திற்குத் தேவையான கருத்துக்களை எடுத்தாளுவதற்கு முன்பாகவே, கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள் அப்படிப்பட்ட கருத்துக்களை எடுத்துச் சொன்னார்.',
+             'லட்சிய நடிகர் ராஜேந்திரன் அவர்கள் குறிப்பிட்டதைப்போல், அண்ணா அவர்கள் திரைப்படத் துறையிலோ அல்லது நாடகத் துறையிலோ புரட்சிகரமான புதுமையான கருத்துக்களை, தன்மான இயக்கக் கருத்துக்களை, தமிழ்ச் சமுதாயத்திற்குத் தேவையான கருத்துக்களை எடுத்தாளுவதற்கு முன்பாகவே, கலைவாணர் என். எஸ். கே. அவர்கள் அப்படிப்பட்ட கருத்துக்களை எடுத்துச் சொன்னார்கள்.'),
+            ('`[பெயரின் தொடக்கம் தெளிவில்லை]` இளங்கோவன் அவர்கள்', 'தனிகாசலம் என்கின்ற இளங்கோவன் அவர்கள்'),
+            ('அந்தத் திரைப்படத்தைப் பற்றி அண்ணா அவர்கள், அவர்கள் நடத்திய திராவிட நாடு இதழிலே ஒரு நீண்ட கட்டுரையை எழுதினார்கள்.',
+             'அந்தத் திரைப்படத்தைப் பற்றி அண்ணா அவர்கள், திராவிட நாடு இதழில் ஒரு நீண்ட கட்டுரையை எழுதினார்கள்.'),
+            ('`[The exact personal-name expansion before “இளங்கோவன்” requires direct replay. The article-title form has improved machine convergence but remains provisional until T2.]`\n\n', ''),
+            ('`[The opening words of Anna\'s quoted praise remain unresolved.]`',
+             '`[முதல் குறும் பாராட்டுச் சொல்லில் ஒரு சொல் தெளிவில்லை]` எழுத்தாளர். அவருடைய எழுத்திலே தமிழ் நர்த்தனம் ஆடுகிறது.'),
+            ('“வசன நடையிலே ஒரு புதிய சகாப்தத்தை இளங்கோவன் உருவாக்கியிருக்கிறார்” என்றெல்லாம் அண்ணா இளங்கோவனைப் பாராட்டிவிட்டு, “ஆனாலும் சிலப்பதிகாரத்தைப் பழைய `[தெளிவில்லை]` போலவே, புராண முறையிலேயே இளங்கோவன் எழுதியிருக்க வேண்டுமா? அது இலக்கிய வளமல்லவா? தமிழ்நாட்டு வரலாறல்லவா? சேர, சோழ, பாண்டிய மூவேந்தர் குடியின் சிறப்பை விளக்குகின்ற பனுவலல்லவா? அப்படிப்பட்ட பெரும் காப்பியத்தைப் புராண `[தெளிவில்லை]` வீணாக்கியிருக்க வேண்டுமா?” என்று அண்ணா கேட்டுவிட்டு—',
+             '“வசன நடையில் ஒரு புதிய சகாப்தத்தை இளங்கோவன் உருவாக்கியிருக்கிறார்” என்றெல்லாம் அண்ணா இளங்கோவனைப் பாராட்டிவிட்டு, “ஆனாலும் சிலப்பதிகாரத்தைப் பழைய கர்ணபரம்பரைக் கதையைப் போலவே, புராண முறையிலேயே இளங்கோவன் எழுதியிருக்க வேண்டுமா? `[ஒரு குறும் வினா தெளிவில்லை]` தமிழ்நாட்டு வரலாறல்லவா? சேர, சோழ, பாண்டிய மன்னர்கள் கொண்ட சிறப்பை விளக்குகின்ற பனுவலல்லவா? அப்படிப்பட்ட பெரும் காப்பியத்தைப் புராண நெறி கொடுத்து வீணாக்கியிருக்க வேண்டுமா?” என்று அண்ணா கேட்டுவிட்டு—'),
+            ('இதில் இஞ்சிப்பத்தராக வருகின்ற கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள்', 'இதில் இஞ்சிப்பத்தராக வருகின்ற கலைவாணர் என். எஸ். கே. அவர்கள்'),
+            ('மற்றவர்களுக்குக் கொடுத்து ஏமாற்றுகின்ற ஒருவனாக நடிக்கிறார்.', 'மற்றவர்களிடத்திலே கொடுத்து ஏமாற்றுகின்ற ஒருவராக நடிக்கிறார்.'),
+            ('பித்தளைக்கு நிறம் ஏற்றி இளங்கோவன் தந்தார் என்பதை கலைவாணர் என். எஸ். கிருஷ்ணன் தன்னுடைய நடிப்பின் மூலமாக விளக்கியிருக்கிறார்.',
+             'பித்தளைக்கு நிறமேற்றி இளங்கோவன் தந்தார் என்பதை கலைவாணர் என். எஸ். கே. அவர்கள் தன்னுடைய நடிப்பின் மூலமாக விளக்கியிருக்கிறார்.'),
+          ]
+          for old,new in reps:
+              if old not in s:
+                  raise SystemExit('transcript marker missing: '+old[:80])
+              s=s.replace(old,new,1)
+          p.write_text(s,encoding='utf-8')
+
+          # Metadata.
+          p=base/'metadata.json'
+          d=json.loads(p.read_text(encoding='utf-8'))
+          a=d.setdefault('direct_listening_audit',{})
+          a['status']='in-progress'
+          a['segments_checked']=12
+          a['segments_passed']=4
+          a['latest_checked_range']='08:38-09:25'
+          recs=a.setdefault('records',[])
+          new_records=[
+            't2-batches/batch-44-direct-listening-audit-01-10-02-34.md',
+            't2-batches/batch-45-direct-listening-audit-02-34-03-22.md',
+            't2-batches/batch-46-direct-listening-audit-03-22-04-00.md',
+            't2-batches/batch-47-direct-listening-audit-04-00-05-14.md',
+            't2-batches/batch-48-direct-listening-audit-05-14-06-00.md',
+            't2-batches/batch-49-direct-listening-audit-06-00-06-43.md',
+            't2-batches/batch-50-direct-listening-audit-06-43-07-12.md',
+            't2-batches/batch-51-direct-listening-audit-07-12-08-00.md',
+            't2-batches/batch-52-direct-listening-audit-08-00-08-38.md',
+            't2-batches/batch-53-direct-listening-audit-08-38-09-25.md',
+          ]
+          for r in new_records:
+              if r not in recs: recs.append(r)
+          a['iteration_batch_size']=10
+          a['latest_iteration']='records 44-53; precheck ranges 02-11; 01:10-09:25'
+          a['lead_in_passed']=False
+          a['main_speech_opening_passed']=True
+          d['workflow']['strict_audio_audit']='in-progress'
+          # Conservative time-map updates only where the range status is clear.
+          for seg in d.get('time_map',[]):
+              n=seg.get('segment')
+              if n==3:
+                  seg['status']='direct-listened; quotation confirmed; short transition unresolved'
+              elif n==4:
+                  seg['status']='direct-listened through 06:00; hotel setup passed, crossed-line details partly unresolved'
+              elif n==5:
+                  seg['status']='direct-listened; hall/display phrase unresolved'
+              elif n==6:
+                  seg['status']='t2-direct-listening-verified'
+              elif n==7:
+                  seg['status']='direct-listened; one praise word unresolved'
+              elif n==8:
+                  seg['status']='direct-listened; one rhetorical question unresolved'
+              elif n==9:
+                  seg['status']='direct-listened through 09:25; 08:38-09:25 passed; 09:25-09:50 pending'
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          # Audit: fix stale counters, append iteration summary, update exact next activity.
+          p=base/'audit.md'
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('- T2 direct-listening segments checked: **0**;\n- T2 direct-listening segments passed: **0**;',
+                      '- T2 direct-listening segments checked: **12**;\n- T2 direct-listening segments passed: **4**;',1)
+          section='''\n## T2 direct-listening iteration 1 — records 44–53 (`01:10–09:25`)\n\nPer the user-directed cadence, direct listening is now processed in **10-batch iterations**. This iteration audited precheck ranges 02–11. All ten ranges were directly replayed. Three ranges passed completely (`03:22–04:00`, `06:43–07:12`, `08:38–09:25`); seven were checked but retain one or more localized unresolved words/phrases.\n\nSource-heard corrections applied to `transcription-ta.md` include `தனிமையாக`, `இன்னொரு நண்பரோடு`, `வேறொரு கட்சியை`, `மிக வேகமாக`, `சந்தித்தால்கூட`, Mekala `பட நிர்வாக` context, `பழகிய குரல்`, `பத்திரிகைகளில்`, `இனிமையான தமிழிலேயே`, `கலை மூலமாகவும்`, `மக்களுக்கு எடுத்துச் சொல்ல வேண்டும்`, `தூண்டுகோலாக இருந்த`, the source-spoken Rajendran/Kalaivanar forms in `06:43–07:12`, `தனிகாசலம் என்கின்ற இளங்கோவன்`, `இஞ்சிப்பத்தரே மேல்`, `கர்ணபரம்பரைக் கதையைப் போலவே`, the Chera–Chola–Pandya kings clause, `புராண நெறி கொடுத்து`, and `பித்தளைக்கு நிறமேற்றி`.\n\nThe retry list remains conservative: the opening lead-in; Batch 44 conference/event name and one later closeness example; Batch 45 humorous affection transition; Batch 47 contact/first joined-line wording; Batch 48 immediate connection exchange and first short reply phrase; Batch 49 hall/display phrase; Batch 51 one praise word; Batch 52 one rhetorical question. None was reconstructed from ASR or historical knowledge.\n\nCumulative direct-listening state after this iteration: **12 checked / 4 passed**.\n'''
+          marker='\n## Exact next activity\n'
+          if '## T2 direct-listening iteration 1 — records 44–53' not in s:
+              if marker not in s: raise SystemExit('audit exact-next marker missing')
+              s=s.replace(marker,section+marker,1)
+          old='Continue **Tamil T2 strict direct listening with `01:10–02:20`**, while retaining the partly unresolved lead-in as a mandatory opening-gate retry.'
+          new='Continue **Tamil T2 strict direct listening with the next 10-batch iteration: precheck ranges 12–21 (`09:25–14:15`)**, while retaining all checked-but-unresolved phrases and the partly unresolved lead-in on the retry list.'
+          if old in s: s=s.replace(old,new,1)
+          p.write_text(s,encoding='utf-8')
+
+          # Handover: supersede old state and record cadence/current checkpoint.
+          p=base/'HANDOVER.md'
+          s=p.read_text(encoding='utf-8')
+          section='''\n## T2 direct-listening cadence and live checkpoint\n\nThe user directed that T2 be processed in **10 direct-listening batches per iteration**. Preserve this cadence unless a short retry crop is needed for an unresolved phrase. Batch 43 audited `00:00–01:10`. The first full 10-batch iteration is complete as records 44–53, covering precheck ranges 02–11 (`01:10–09:25`).\n\nCurrent cumulative direct-listening state: **12 checked / 4 passed**. Fully passed ranges so far include the main-speech opening, `03:22–04:00`, `06:43–07:12`, and `08:38–09:25`. Checked-but-unresolved ranges remain on a retry list and must not be treated as passed. The separate announcer lead-in is still not fully verified.\n\nThe next 10-batch iteration is precheck ranges **12–21**, from `09:25` through `14:15`. After that, continue 22–31, then 32–41; precheck 42 and all mandatory opening/tail retries close the auditory gate. The mandatory final-60-second, final-30-second, and final-major-pause-to-end replays remain independent requirements.\n'''
+          marker='\n## Exact next activity\n'
+          if '## T2 direct-listening cadence and live checkpoint' not in s:
+              if marker not in s: raise SystemExit('handover exact-next marker missing')
+              s=s.replace(marker,section+marker,1)
+          old='Begin **T2 strict direct-listening audit from `00:00`** using actual audible replay of the controlling MP3.'
+          new='Continue **T2 strict direct listening with precheck ranges 12–21 (`09:25–14:15`) as the next 10-batch iteration**. Preserve the unresolved lead-in and all checked-but-not-passed phrases for focused retries.'
+          if old in s: s=s.replace(old,new,1)
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit synchronized state
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          git add speeches/kalaivanar-nsk-memorial-day-audio-06/transcription-ta.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/metadata.json \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md
+          git commit -m 'Record Audio 06 T2 direct audit through 09:25'
+          git push origin main
