@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Fifteen preparatory T2 records now exist:
+Sixteen preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -97,6 +97,7 @@ Fifteen preparatory T2 records now exist:
 - `t2-batches/batch-13-09-50-10-18-precheck.md` — K. R. Ramasamy, `நடிகவேள்`, reform-theatre brothers and the Rajendran boundary.
 - `t2-batches/batch-14-10-18-10-48-precheck.md` — Rajendran/Narayanasamy boundary, Sivaji `சிம்மக்குரல்`, and the Periyar/Anna stage-screen statement.
 - `t2-batches/batch-15-10-48-11-20-precheck.md` — Anna-call rhetoric, immediate artist response, and the professional-career fear contrast.
+- `t2-batches/batch-16-11-20-12-00-precheck.md` — memories/assembled-artists transition, Kannadasan changed-position wording, and opening Krishna wordplay.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -125,6 +126,8 @@ Batch 13 supports the opening artist-list structure and K. R. Ramasamy identific
 Batch 14 strongly supports `நடிகமணி டி. வி. நாராயணசாமி`, `இந்த நாவினால்`, the idea that revolutionary views gain force when voiced, `சிம்மக்குரல்`, and `என்னுடைய நண்பர் சிவாஜி கணேசன்`. Machine evidence also proposes a boundary join from `லட்சிய நடிகர் ராஜேந்திரன்` into Narayanasamy. Exact replay must settle whether `எஸ். எஸ்.` and `ஆகியவர்கள்` are audible, `பேசினால்/பேசினால்தான்`, `முதல் முதலாகச்/முதன் முதலாக`, and the badly corrupted final statement about carrying Periyar and Anna's ideas onto stage and screen. No canonical change was made.
 
 Batch 15 gives a clearer machine-supported skeleton for the previously withheld `10:48–11:20` rhetoric: Anna calls, the artists go immediately, do not first ask `என்ன நாடகம், என்ன வேடம்`, are willing to speak what is asked, hold strong regard for Anna, and are contrasted with people who would flee from fear that acting or public association might damage their profession. Exact joins around `ஓடோடி`, the willingness-to-speak clause, the second Anna-reference, and the professional-career sentence remain for true audible replay. The canonical placeholder was intentionally retained; no Tamil was reconstructed from ASR.
+
+Batch 16 supports the `எனக்கு எவ்வளவோ நினைவுகள் / எத்தனையோ பசுமையான எண்ணங்கள்` transition, a candidate assembled-artists address resembling `இங்கு வீற்றிருக்கின்ற கலை உலகப் பெருமக்கள்`, Sivaji's `கிருஷ்ணனை நாம் பாராட்ட வேண்டும்` remark, and the contrast that Krishna's condition is not so pitiable. It also exposes a major conflict: current T1 `வேறு விரக்தியிலே... பல்வேறு விரக்திகளை...` versus machine `வேறொரு இயக்கத்திலே... வேறொரு கொள்கையை...`, plus `அந்தக் கிருஷ்ணன்` versus machine `ஸ்ரீகிருஷ்ணன்`. These remain for true audible replay; no canonical Tamil was changed.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
