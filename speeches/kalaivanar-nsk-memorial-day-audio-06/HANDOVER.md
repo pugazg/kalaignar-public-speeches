@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Fourteen preparatory records are complete:
+Fifteen preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -90,6 +90,7 @@ Fourteen preparatory records are complete:
 12. `t2-batches/batch-12-09-25-09-50-precheck.md`.
 13. `t2-batches/batch-13-09-50-10-18-precheck.md`.
 14. `t2-batches/batch-14-10-18-10-48-precheck.md`.
+15. `t2-batches/batch-15-10-48-11-20-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -116,6 +117,8 @@ The twelfth precheck covers `09:25–09:50`. It supports Anna's `வஞ்சி
 The thirteenth precheck covers `09:50–10:18`. It supports K. R. Ramasamy and the broad early movement-artist list, but leaves the exact `நடிகவேள்` name, reform-theatre brothers' titles/names, institutional clause and the Rajendran transition for true audible replay. No canonical Tamil was changed.
 
 The fourteenth precheck covers `10:18–10:48`. It supports the Narayanasamy–Sivaji sequence and records the machine-supported Rajendran boundary, but leaves `எஸ். எஸ்.`/join morphology, `பேசினால்/பேசினால்தான்`, `முதல் முதலாகச்/முதன் முதலாக`, and the corrupted Periyar/Anna stage-screen completion for true audible replay. No canonical Tamil was changed.
+
+The fifteenth precheck covers `10:48–11:20`. It maps the withheld Anna-call rhetoric more clearly—immediate response, `என்ன நாடகம் / என்ன வேடம்`, willingness to speak, regard for Anna, and the contrast with career fear—but leaves the exact joins and final professional-risk wording for true audible replay. The canonical placeholder remains unchanged.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
