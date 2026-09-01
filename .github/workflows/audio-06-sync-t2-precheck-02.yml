@@ -1,0 +1,70 @@
+name: Sync Audio 06 T2 precheck state
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-sync-t2-precheck-02.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Synchronize audit metadata and handover
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          base=Path('speeches/kalaivanar-nsk-memorial-day-audio-06')
+
+          # audit.md
+          p=base/'audit.md'
+          s=p.read_text(encoding='utf-8')
+          marker='## Provisional T1 evidence through 20:00\n'
+          section='''## T2 textual precheck coverage\n\nTwo preparatory T2 records now exist:\n\n- `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;\n- `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.\n\nBatch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.\n\nThese are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.\n\n'''
+          if '## T2 textual precheck coverage' not in s:
+              if marker not in s: raise SystemExit('audit marker missing')
+              s=s.replace(marker,section+marker,1)
+          p.write_text(s,encoding='utf-8')
+
+          # metadata.json
+          p=base/'metadata.json'
+          d=json.loads(p.read_text(encoding='utf-8'))
+          d['t2_textual_precheck']={
+              'status':'in-progress',
+              'batches_complete':2,
+              'latest_completed_range':'01:10-02:34',
+              'records':[
+                  't2-batches/batch-01-00-00-01-10-precheck.md',
+                  't2-batches/batch-02-01-10-02-34-precheck.md'
+              ],
+              'canonical_tamil_changes':0,
+              'direct_listening_effect':'none; T2 counters remain 0 checked / 0 passed'
+          }
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          # HANDOVER.md
+          p=base/'HANDOVER.md'
+          s=p.read_text(encoding='utf-8')
+          marker='## Tamil workflow state\n'
+          section='''## T2 textual-precheck state\n\nTwo preparatory records are complete:\n\n1. `t2-batches/batch-01-00-00-01-10-precheck.md`;\n2. `t2-batches/batch-02-01-10-02-34-precheck.md`.\n\nThe second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.\n\nThese records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.\n\n'''
+          if '## T2 textual-precheck state' not in s:
+              if marker not in s: raise SystemExit('handover marker missing')
+              s=s.replace(marker,section+marker,1)
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit synchronized state
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          git add speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/metadata.json \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md
+          git commit -m 'Record Audio 06 T2 prechecks through 02:34'
+          git push origin main
