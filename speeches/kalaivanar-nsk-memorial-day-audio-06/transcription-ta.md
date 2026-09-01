@@ -3,13 +3,13 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 first pass complete — provisional draft reaches the true decoded end at 00:26:22.080, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T2 strict direct-listening audit in progress — 2 segments checked / 1 passed; opening lead-in still partly unresolved**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
 ## [00:00] — Spoken lead-in
 
-`[Wording unresolved; direct transcription pending. The lead-in ends at approximately 00:14.]`
+`[முதல் குறும் சொற்றொடர் தெளிவில்லை.] சென்னை கலைவாணர் அரங்கம் [ஒரு குறும் சொற்றொடர் தெளிவில்லை]. கலைவாணர் நகைச்சுவை பற்றி டாக்டர் கலைஞர் அவர்கள் இப்போது உரையாற்றுவார்.`
 
 ## [00:42]
 

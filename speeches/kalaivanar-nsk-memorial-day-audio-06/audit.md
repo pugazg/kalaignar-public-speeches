@@ -260,17 +260,25 @@ No T1 section is verified Tamil.
 
 All temporary Audio 06 workflow files used for the final tail evidence, short-chunk cross-check and one-time transcript patch were removed after the evidence was captured and the durable transcript updated. No temporary workflow file is part of the archive.
 
-## T2 execution gate — current environment
+## T2 execution gate — superseded by source reattachment
 
-Textual/ASR preparation is complete through the true decoded end, but the current execution environment does not expose the controlling MP3 as genuine audible playback to the assistant. Available attachment/file interfaces expose machine-transcript or file-analysis evidence only. Under `AUDIO_SPEECH_PROCESSING_GUIDE.md`, those evidence classes must **not** be counted as direct listening.
+This gate applied before the checksum-matching MP3 was reattached with genuine audible playback. It is superseded by Batch 43. The earlier attachment/file paths exposed only machine-transcript or file-analysis evidence, so the decision not to count any prior work as direct listening remains valid.
 
-Therefore no T2 segment has been claimed checked or passed in this environment. The direct-listening counters remain **0 checked / 0 passed**; opening and ending remain unverified; `recording_truncated` remains unresolved. A session/environment with actual audible replay must resume the strict T2 audit at `00:00`, beginning with the separate spoken lead-in and opening gate.
+After reattachment, genuine audible replay began at `00:00`. Batch 43 records **2 checked / 1 passed**: the separate lead-in was checked but remains partly unresolved, while the quiet interval, main-speech onset, first word and first main-speech sentence passed. The complete opening gate and ending remain unverified; `recording_truncated` remains unresolved.
 
 This note records an execution-capability boundary only. It does not change canonical Tamil, source interpretation, T1 coverage, or any verification result.
 
+## T2 direct-listening Batch 43 — `00:00–01:10`
+
+The checksum-matching MP3 was audibly replayed in sequential crops, with both channels and slower playback used only as listening aids. The lead-in supports `சென்னை கலைவாணர் அரங்கம்`, `கலைவாணர் நகைச்சுவை பற்றி`, `டாக்டர் கலைஞர் அவர்கள்`, and `இப்போது உரையாற்றுவார்`, but its first short phrase and one hall-description phrase remain unresolved. That segment is checked but not passed.
+
+Direct replay confirms the quiet/ambience interval, main-speech onset at approximately `00:41.9`, first word `கலைவாணருடைய`, and the complete first sentence already present in `transcription-ta.md`. In particular, the source says `படையலை` and `மிகையாகாது`; the competing machine forms are rejected. Segment 1 is passed with no substantive correction.
+
+Cumulative direct-listening state: **2 checked / 1 passed**. Record: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md`.
+
 ## Exact next activity
 
-Begin **Tamil T2 strict direct-listening audit from `00:00`**.
+Continue **Tamil T2 strict direct listening with `01:10–02:20`**, while retaining the partly unresolved lead-in as a mandatory opening-gate retry.
 
 Requirements:
 

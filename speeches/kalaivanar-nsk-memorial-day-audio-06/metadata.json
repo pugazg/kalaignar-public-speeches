@@ -51,14 +51,14 @@
       "start": "00:00",
       "end_approx": "00:14",
       "subject": "separate spoken lead-in",
-      "status": "wording-unresolved"
+      "status": "direct-listened; partial wording unresolved; not passed"
     },
     {
       "segment": 1,
       "start": "00:42",
       "end_approx": "01:10",
       "subject": "humour at the Kalaivanar function",
-      "status": "provisional-t1-drafted"
+      "status": "t2-direct-listening-verified"
     },
     {
       "segment": 2,
@@ -290,14 +290,23 @@
     "final_activity_end_approx": "00:26:21.4",
     "recording_truncated": null,
     "opening_verified": false,
-    "ending_verified": false
+    "ending_verified": false,
+    "main_speech_onset_directly_confirmed": true,
+    "main_speech_onset_confirmed_approx": "00:41.9",
+    "first_main_speech_word": "கலைவாணருடைய"
   },
   "direct_listening_audit": {
-    "status": "not-started",
-    "segments_checked": 0,
-    "segments_passed": 0,
+    "status": "in-progress",
+    "segments_checked": 2,
+    "segments_passed": 1,
     "recording_boundary_verified": false,
-    "recording_truncated": null
+    "recording_truncated": null,
+    "latest_checked_range": "00:00-01:10",
+    "records": [
+      "t2-batches/batch-43-direct-listening-audit-00-00-01-10.md"
+    ],
+    "lead_in_passed": false,
+    "main_speech_opening_passed": true
   },
   "workflow": {
     "source_inspection": "complete",
@@ -307,7 +316,7 @@
     "tamil_segments_total": null,
     "tamil_segments_drafted": 30,
     "tamil_unresolved_ranges_open": 60,
-    "strict_audio_audit": "not-started",
+    "strict_audio_audit": "in-progress",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
     "english_translation_review": "blocked",

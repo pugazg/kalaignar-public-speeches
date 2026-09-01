@@ -22,10 +22,10 @@ This is a different binary from the completed `00:07:23.559` Kalaivanar recordin
 ## Boundary state
 
 - separate spoken lead-in: `00:00–approximately 00:14`;
-- main speech begins approximately `00:42`;
+- main speech begins approximately `00:41.9`; this onset and the first main-speech word `கலைவாணருடைய` are direct-listening confirmed;
 - activity continues to approximately `00:26:21`;
 - machine navigation proposes a complete ending followed by `நன்றி, வணக்கம்`;
-- opening and ending are not yet strict-direct-listening verified;
+- the first main-speech sentence is direct-listening verified, but the separate lead-in and complete opening gate remain unresolved; the ending is not yet verified;
 - `recording_truncated` remains unresolved.
 
 ## Current Tamil T1 coverage
@@ -65,7 +65,7 @@ Important unresolved ranges remain visible throughout the draft. Machine evidenc
 | Tamil T1 first pass | **Complete provisionally through `00:26:22.080`** |
 | Provisional speech segments drafted | **30** |
 | Open unresolved ranges/phrases | **60** |
-| Tamil T2 strict direct-listening audit | **Not started** |
+| Tamil T2 strict direct-listening audit | **In progress — 2 segments checked / 1 passed** |
 | Tamil T3 consolidation/freeze | **Blocked** |
 | English translation | **Blocked until verified Tamil** |
 
@@ -77,6 +77,4 @@ The provisional final `நன்றி, வணக்கம்` must not be treat
 
 ## Exact next activity
 
-Begin **Tamil T2 strict direct-listening audit from `00:00`** — not from the tail and not with English.
-
-Start by directly transcribing/verifying the separate spoken lead-in and confirming the exact main-speech opening boundary. Continue segment by segment against the controlling MP3. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.
+Continue **Tamil T2 strict direct listening with `01:10–02:20`**. The `00:00–01:10` audit has checked two segments and passed the first main-speech segment; the partly unresolved announcer lead-in remains a mandatory opening-gate retry before T2 closure. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.
