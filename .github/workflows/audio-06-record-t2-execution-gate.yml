@@ -1,0 +1,50 @@
+name: Record Audio 06 T2 execution gate
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-record-t2-execution-gate.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Record execution gate
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          base=Path('speeches/kalaivanar-nsk-memorial-day-audio-06')
+
+          note_audit='''## T2 execution gate — current environment\n\nTextual/ASR preparation is complete through the true decoded end, but the current execution environment does not expose the controlling MP3 as genuine audible playback to the assistant. Available attachment/file interfaces expose machine-transcript or file-analysis evidence only. Under `AUDIO_SPEECH_PROCESSING_GUIDE.md`, those evidence classes must **not** be counted as direct listening.\n\nTherefore no T2 segment has been claimed checked or passed in this environment. The direct-listening counters remain **0 checked / 0 passed**; opening and ending remain unverified; `recording_truncated` remains unresolved. A session/environment with actual audible replay must resume the strict T2 audit at `00:00`, beginning with the separate spoken lead-in and opening gate.\n\nThis note records an execution-capability boundary only. It does not change canonical Tamil, source interpretation, T1 coverage, or any verification result.\n\n'''
+          p=base/'audit.md'
+          s=p.read_text(encoding='utf-8')
+          marker='## Exact next activity\n'
+          if '## T2 execution gate — current environment' not in s:
+              if marker not in s: raise SystemExit('audit exact-next marker missing')
+              s=s.replace(marker,note_audit+marker,1)
+              p.write_text(s,encoding='utf-8')
+
+          note_handover='''## T2 execution capability note\n\nAll 42 textual/ASR prechecks are complete and the next source activity is strict direct listening from `00:00`. In the ChatGPT execution environment that prepared this handover, the attached MP3 is available only through machine-transcript/file-analysis paths rather than genuine audible playback to the assistant. Those paths are not T2 under the repository guide.\n\nDo **not** infer any T2 progress from the completed prechecks. Direct-listening state remains **0 checked / 0 passed**. Opening, ending and `recording_truncated` remain unresolved. Resume from `00:00` only in an environment/session that can actually replay and hear the controlling MP3.\n\n'''
+          p=base/'HANDOVER.md'
+          s=p.read_text(encoding='utf-8')
+          marker='## Exact next activity\n'
+          if '## T2 execution capability note' not in s:
+              if marker not in s: raise SystemExit('handover exact-next marker missing')
+              s=s.replace(marker,note_handover+marker,1)
+              p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit gate note
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          git add speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md
+          git commit -m 'Record Audio 06 T2 execution gate'
+          git push origin main
