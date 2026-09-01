@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Twenty-three preparatory T2 records now exist:
+Twenty-four preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -105,6 +105,7 @@ Twenty-three preparatory T2 records now exist:
 - `t2-batches/batch-21-14-00-14-15-precheck.md` — `பேரைப் / தேரைப்` remark conflict, agraharam residents' agreement and the twenty-years-earlier house-purchase conclusion.
 - `t2-batches/batch-22-14-15-14-59-precheck.md` — rationale for the house anecdote, changed ideological positions versus the continuing principle, gratitude to earlier workers and the Sivaji transition.
 - `t2-batches/batch-23-14-59-15-35-precheck.md` — Sivaji stage-work recollection, humorous reversal of who acted with whom, and the unpaid-performance statement.
+- `t2-batches/batch-24-15-35-16-00-precheck.md` — relief/election-fund theatre work, unstable co-actor list, and the transition into the art-and-politics reflection.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -149,6 +150,8 @@ Batch 21 covers the short `14:00–14:15` conclusion of the house anecdote. Mach
 Batch 22 maps `14:15–14:59`. Machine evidence strongly supports `அதே இடத்தில், அதே கொள்கையில் நின்று நிலைத்திராவிட்டாலும்`, `இந்த கொள்கை நிலைத்திருக்கிறதல்லவா?`, and a gratitude clause resembling `பாடுபட்டவர்களுக்கு நன்றி கூறுகிற இடத்திலே நான் இருக்கின்றேன்`, followed directly by the Sivaji stage-recollection boundary. It leaves the opening `கலை உலகம் / தலைஉலகம்` corruption, the phrase rendered as `நாம் பலர் ஆதாயம் பெற்றாவிட்டாலும்`, exact case/morphology, and the gratitude wording for true audible replay. No canonical Tamil was changed.
 
 Batch 23 covers `14:59–15:35`. Machine evidence strongly supports the Sivaji stage-recollection skeleton, the reversal from `என்னோடு சேர்ந்து சிவாஜி நடித்திருக்கிறார்` to `சிவாஜியோடு சேர்ந்து நான் நடித்தேன்`, the present-day `சூழ்நிலைக்குப் பொருத்தமாக இருக்கும்` idea, and the `பணம் வாங்காமல் வந்து நடிக்கின்ற` statement. It leaves the current `நகைச்சுவையாக` versus machine-corrupted `ரேடிக்கியாக`, `கருணாநிதி` versus machine `கலைஞர் அவர்கள்`, exact play-syntax and `விளங்கினார் / விளங்கினார்கள்` honorific morphology for true audible replay. No canonical Tamil was changed.
+
+Batch 24 covers `15:35–16:00`. Machine evidence maps a fund-raising theatre list with clearer `வெள்ள நிவாரண நிதி` and `வரட்சி நிதி`, but leaves corrupted `பொய்யல் நிவாக நிதி` and `கலகத் தேர்தல் நிதி` for true replay. The co-actor sequence contains machine-corrupted `நம்முடைய ரக்சி நடிகர்களும்`, plus `டி.வி.என்`, `கே.ஆர். ராமசாமி`, `கவிஞர் அவர்களும்`, and a closing `வேடம் புனைந்திருக்கின்றார்கள்`. Play titles, the first co-actor/title, expanded identities and exact morphology remain unresolved. No canonical Tamil was changed.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
