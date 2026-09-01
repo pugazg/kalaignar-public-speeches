@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Twenty-five preparatory T2 records now exist:
+Twenty-six preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -107,6 +107,7 @@ Twenty-five preparatory T2 records now exist:
 - `t2-batches/batch-23-14-59-15-35-precheck.md` — Sivaji stage-work recollection, humorous reversal of who acted with whom, and the unpaid-performance statement.
 - `t2-batches/batch-24-15-35-16-00-precheck.md` — relief/election-fund theatre work, unstable co-actor list, and the transition into the art-and-politics reflection.
 - `t2-batches/batch-25-16-00-16-30-precheck.md` — art serving political ideas versus art itself becoming politics, short `கலை தேவை` / `அரசியல் எண்ணங்களை` machine anchors, and the unresolved life-goal/Anna linkage.
+- `t2-batches/batch-26-16-30-17-15-precheck.md` — beauty/taste rhetoric in words, speech and writing, expression-as-art examples, political-art linkage and the jewellery/women analogy.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -155,6 +156,8 @@ Batch 23 covers `14:59–15:35`. Machine evidence strongly supports the Sivaji s
 Batch 24 covers `15:35–16:00`. Machine evidence maps a fund-raising theatre list with clearer `வெள்ள நிவாரண நிதி` and `வரட்சி நிதி`, but leaves corrupted `பொய்யல் நிவாக நிதி` and `கலகத் தேர்தல் நிதி` for true replay. The co-actor sequence contains machine-corrupted `நம்முடைய ரக்சி நடிகர்களும்`, plus `டி.வி.என்`, `கே.ஆர். ராமசாமி`, `கவிஞர் அவர்களும்`, and a closing `வேடம் புனைந்திருக்கின்றார்கள்`. Play titles, the first co-actor/title, expanded identities and exact morphology remain unresolved. No canonical Tamil was changed.
 
 Batch 25 covers `16:00–16:30`. Exact-form machine probes do not preserve the current full T1 sentences, but shorter anchors recover `இப்படி அத்தனை பேரும்`, `எண்ணியவர்கள் அல்ல`, `கலை தேவை`, and `அரசியல் எண்ணங்களை`. The intervening subject/life-goal phrase and the exact Anna linkage remain unresolved; no cleaner wording is reconstructed from ideology or historical expectation. No canonical Tamil was changed.
+
+Batch 26 covers `16:30–17:15`. Machine evidence is uneven: it directly recovers `உள்ளத்திலே பதியும்`, uninflected `அரசியலுக்கு கலை தேவை`, `கலையே அரசியல் அல்ல`, `பெண்களுக்கு நகை தேவை`, and `நகையே பெண்கள் அல்ல`, but does not preserve the current full rhetorical wording around beauty in words/speech/writing, `சொல்லில் சுவை`, the writing/speech examples, or the inflected political-art sentence. The stronger analogy and weaker rhetorical build-up are therefore kept as separate replay-confidence levels. No canonical Tamil was changed.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
