@@ -80,12 +80,15 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Two preparatory T2 records now exist:
+Three preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
+- `t2-batches/batch-03-02-34-03-22-precheck.md` — Kannadasan–Sivaji recollection and the unresolved humorous transition.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
+
+Batch 3 strongly supports the names Kannadasan and Sivaji Ganesan, their closeness to Kalaivanar, and the quotation ending in substance with `நான் காதலிக்கின்ற ஒரே கவிஞர்`. The attachment-level ASR corrupts the beginning of the quotation and the following humorous competition-in-affection sentence; therefore the current T1 candidate `என்னை வைதாலும் திட்டினாலும்...` remains provisional and the transition remains unresolved pending audible replay.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
