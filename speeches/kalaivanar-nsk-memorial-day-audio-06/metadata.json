@@ -45,17 +45,70 @@
     },
     "binary_committed": false
   },
-  "time_map": [],
+  "time_map": [
+    {
+      "segment": 0,
+      "start": "00:00",
+      "end_approx": "00:14",
+      "subject": "separate spoken lead-in",
+      "status": "wording-unresolved"
+    },
+    {
+      "segment": 1,
+      "start": "00:42",
+      "end_approx": "01:10",
+      "subject": "humour at the Kalaivanar function",
+      "status": "provisional-t1-drafted-machine-convergent"
+    },
+    {
+      "segment": 2,
+      "start": "01:10",
+      "end_approx": "02:12",
+      "subject": "Chinna Annamalai anecdote",
+      "status": "partial-opening-only; interior-wording-unresolved"
+    },
+    {
+      "segment": 3,
+      "start": "02:12",
+      "end_approx": "02:20",
+      "subject": "asking Kalaivanar whether the anecdote was true",
+      "status": "provisional-t1-drafted-machine-convergent"
+    },
+    {
+      "segment": 4,
+      "start": "02:20",
+      "end_approx": "02:34",
+      "subject": "Chinna Annamalai's humorous reply",
+      "status": "provisional-t1-drafted-machine-convergent"
+    },
+    {
+      "segment": 5,
+      "start": "02:34",
+      "end_approx": "03:24",
+      "subject": "Kannadasan, Kalaivanar and Sivaji Ganesan",
+      "status": "provisional-t1-drafted-machine-convergent"
+    }
+  ],
   "machine_audio_evidence": {
-    "status": "in-progress",
+    "status": "in-progress-corrected-chunk-strategy",
     "temporary_workflows": [
       ".github/workflows/audio-06-intake.yml",
       ".github/workflows/audio-06-boundaries.yml",
       ".github/workflows/audio-06-boundaries-small.yml",
-      ".github/workflows/audio-06-right-small.yml"
+      ".github/workflows/audio-06-right-small.yml",
+      ".github/workflows/audio-06-right-chunked-large.yml",
+      ".github/workflows/audio-06-opening-chunks.yml"
     ],
     "source_checksum_verified": true,
-    "models": ["whisper-small", "whisper-large-v3-turbo"],
+    "models": [
+      "whisper-small",
+      "whisper-large-v3-turbo"
+    ],
+    "rejected_outputs": [
+      "full-file mono pass after repeated-token hallucination",
+      "full-file right-channel small-model pass after repeated-token drift"
+    ],
+    "active_strategy": "right channel; independent short chunks; condition_on_previous_text=false; large-v3-turbo",
     "evidence_role": "navigation and candidate readings only; not canonical verification"
   },
   "boundary_precheck": {
@@ -79,9 +132,10 @@
   "workflow": {
     "source_inspection": "complete",
     "duplicate_search": "complete-no-existing-source-record",
-    "tamil_transcription": "starting",
+    "tamil_transcription": "in-progress-provisional",
     "tamil_segments_total": null,
-    "tamil_segments_drafted": 0,
+    "tamil_segments_drafted": 4,
+    "tamil_unresolved_ranges": 3,
     "strict_audio_audit": "not-started",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
