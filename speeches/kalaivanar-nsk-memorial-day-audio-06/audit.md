@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Eight preparatory T2 records now exist:
+Nine preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -90,6 +90,7 @@ Eight preparatory T2 records now exist:
 - `t2-batches/batch-06-05-14-06-00-precheck.md` — crossed-line conversation and the reply about Kannadasan's Tamil attacks.
 - `t2-batches/batch-07-06-00-06-43-precheck.md` — Tamil/art transforming hostility, Anna's use of art, and the Kalaivanar reference before S. S. Rajendran.
 - `t2-batches/batch-08-06-43-07-12-precheck.md` — Rajendran reference and Kalaivanar's early progressive / Self-Respect ideas.
+- `t2-batches/batch-09-07-12-08-00-precheck.md` — Ilangovan, Kannagi adaptation, *Dravida Nadu* article/title and opening of Anna's assessment.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -104,6 +105,8 @@ Batch 6 supports the Kannadasan identification, the approximately ten-to-fifteen
 Batch 7 strongly supports the argument that Tamil and Tamil art can transform hostility, that Anna used art to convey good ideas, and that Kalaivanar N. S. Krishnan was an important artistic force behind that work. Exact replay must settle `மாற்றியமைக்க/மாற்றி அமைக்க`, `கலை மூலமாக/மூலமாகவும்`, the people/ideas phrase, honorific morphology, current `பக்கபலமாக இருந்த` versus machine-supported `தூண்டுகோலாக இருந்த`, and especially the badly corrupted venue/display phrase before Kalaivanar's name. No canonical change was made.
 
 Batch 8 strongly supports the Rajendran–Anna–Kalaivanar comparison and the sequence of revolutionary, Self-Respect and Tamil-society ideas. Exact replay must settle current `லட்சிய நடிகர் எஸ். எஸ். ராஜேந்திரன்` versus machine `தேசிய நடிகர் ராஜேந்திரன்`, whether `அல்லது` occurs between film and theatre, `எடுத்தாளுவதற்கு/எடுத்து ஆள்வதற்கு`, full `என். எஸ். கிருஷ்ணன்` versus `என். எஸ். கே.`, the short indistinct clause before the final verb, and `எடுத்துச் சொன்னார்/எடுத்துச் சொன்னார்கள்`. No canonical change was made.
+
+Batch 9 strongly supports the Ilangovan/Kannagi/*Dravida Nadu* sequence and supplies useful machine candidates, including `தனிகாசலம் என்கின்ற இளங்கோவன்`, machine `இஞ்சிப் பத்தரை மேல்`, and the stable later praise `வசன நடையில் ஒரு புதிய சகாப்தத்தை இளங்கோவன் உருவாக்கியிருக்கிறார்`. Exact replay must settle the personal-name expansion, `போற்றுதலுக்கும் புகழுதலுக்கும்` wording, `ஆக்கினாரே/ஆக்கினார்கள்`, whether the publication relation is `நடத்திய` or machine `எழுதிய`, the exact article-title segmentation, the article-opening setup, and two badly corrupted praise phrases resembling `பத்திவாய்ந்த எழுத்தாளர்` and `அவருடைய எழுதுவோலி தமிழ் நர்த்தனம் ஆடுகிறது`. No canonical change was made.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
