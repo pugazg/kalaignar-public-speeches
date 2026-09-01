@@ -382,6 +382,6 @@
       "t2-batches/batch-42-26-00-26-22-080-precheck.md"
     ],
     "canonical_tamil_changes": 0,
-    "direct_listening_effect": "none; T2 counters remain 0 checked / 0 passed"
+    "direct_listening_effect": "none; textual/ASR prechecks did not increment T2 counters; current direct-listening progress is tracked separately in direct_listening_audit"
   }
 }
