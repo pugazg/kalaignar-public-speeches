@@ -5,7 +5,11 @@
     "catalogue_title_ta": "கலைவாணர் என்.எஸ்.கிருஷ்ணன் நினைவு நாள் விழா உரை",
     "en": "Kalaivanar N. S. Krishnan Memorial-Day Speech — Audio 06"
   },
-  "creator": {"name_ta": "மு. கருணாநிதி", "name_en": "M. Karunanidhi", "role": "speaker"},
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role": "speaker"
+  },
   "document_type": "public-speech-audio-recording",
   "language": "ta",
   "speech": {
@@ -22,59 +26,279 @@
     "file_size_bytes": 25313377,
     "duration_seconds": 1582.08,
     "duration_display": "00:26:22.080",
-    "audio_stream": {"codec": "mp3", "sample_rate_hz": 44100, "channels": 2, "channel_layout": "stereo", "average_bit_rate_bps": 128000, "channel_observation": "right channel is approximately 6 dB stronger than left over the complete file"},
-    "embedded_metadata": {"status": "no event-identifying tags found"},
+    "audio_stream": {
+      "codec": "mp3",
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "channel_layout": "stereo",
+      "average_bit_rate_bps": 128000,
+      "channel_observation": "right channel is approximately 6 dB stronger than left over the complete file"
+    },
+    "embedded_metadata": {
+      "status": "no event-identifying tags found"
+    },
     "remote_identity_verified": true,
     "remote_identity_note": "The official URL reproduced the attached checksum and byte size.",
-    "recording_boundary": {"start": "spoken lead-in/announcement at 00:00; main speech begins approximately 00:42", "end": "provisionally complete closing tribute and thanks near 00:26:21; strict direct-listening tail verification pending"},
+    "recording_boundary": {
+      "start": "spoken lead-in/announcement at 00:00; main speech begins approximately 00:42",
+      "end": "provisionally complete closing tribute and thanks near 00:26:21; strict direct-listening tail verification pending"
+    },
     "binary_committed": false
   },
   "time_map": [
-    {"segment": 0, "start": "00:00", "end_approx": "00:14", "subject": "separate spoken lead-in", "status": "wording-unresolved"},
-    {"segment": 1, "start": "00:42", "end_approx": "01:10", "subject": "humour at the Kalaivanar function", "status": "provisional-t1-drafted"},
-    {"segment": 2, "start": "01:10", "end_approx": "02:20", "subject": "Chinna Annamalai anecdote and humorous response", "status": "partial-provisional-draft; interior unresolved"},
-    {"segment": 3, "start": "02:34", "end_approx": "03:22", "subject": "Kannadasan and Sivaji Ganesan", "status": "provisional-t1-drafted"},
-    {"segment": 4, "start": "03:22", "end_approx": "06:00", "subject": "hotel-room and crossed-telephone recollection involving Kannadasan", "status": "provisional-t1-drafted; several phrases unresolved"},
-    {"segment": 5, "start": "06:00", "end_approx": "06:43", "subject": "Tamil art transforming hostility; Anna and Kalaivanar", "status": "provisional-t1-drafted"},
-    {"segment": 6, "start": "06:43", "end_approx": "07:12", "subject": "S. S. Rajendran and Kalaivanar's early social ideas", "status": "provisional-t1-drafted"},
-    {"segment": 7, "start": "07:12", "end_approx": "08:00", "subject": "Ilangovan, Kannagi and article introduction", "status": "partial-provisional-draft; full name and quotation unresolved"},
-    {"segment": 8, "start": "08:00", "end_approx": "08:38", "subject": "Anna's praise and criticism of Ilangovan's Silappathikaram adaptation", "status": "partial-provisional-draft; two phrases unresolved"},
-    {"segment": 9, "start": "08:38", "end_approx": "09:50", "subject": "Inji Paththar interpretation and medicine-with-honey image", "status": "provisional-t1-drafted"},
-    {"segment": 10, "start": "09:50", "end_approx": "10:48", "subject": "early movement artists and Sivaji Ganesan", "status": "partial-provisional-draft; names and titles unresolved"},
-    {"segment": 11, "start": "10:48", "end_approx": "12:00", "subject": "artists serving Periyar and Anna; Kannadasan/Krishnan wordplay", "status": "partial-provisional-draft; rhetorical joins unresolved"},
-    {"segment": 12, "start": "12:00", "end_approx": "13:15", "subject": "Krishna wordplay and beginning of the Gopalapuram house anecdote", "status": "partial-provisional-draft; press-style quotation and 12:49-13:15 unresolved"},
-    {"segment": 13, "start": "13:15", "end_approx": "14:00", "subject": "retired postal official, house sale and locality reaction", "status": "partial-provisional-draft; name and interior reaction sequence unresolved"},
-    {"segment": 14, "start": "14:00", "end_approx": "14:59", "subject": "house anecdote conclusion and gratitude to movement artists", "status": "partial-provisional-draft; ideological-position sentence unresolved"},
-    {"segment": 15, "start": "14:59", "end_approx": "16:00", "subject": "Sivaji's early stage work and co-actors", "status": "partial-provisional-draft; play titles and co-actor list unresolved"},
-    {"segment": 16, "start": "16:00", "end_approx": "16:30", "subject": "art serving political ideas without art itself becoming politics", "status": "partial-provisional-draft; one subject/linking phrase unresolved"},
-    {"segment": 17, "start": "16:30", "end_approx": "17:15", "subject": "beauty and taste as the essence of art; art needed for political communication", "status": "provisional-t1-drafted"},
-    {"segment": 18, "start": "17:15", "end_approx": "17:47", "subject": "art used for good or evil; Kalaivanar's noble artistic aim", "status": "partial-provisional-draft; one epithet unresolved"},
-    {"segment": 19, "start": "17:47", "end_approx": "20:00", "subject": "Tirukkural on echcham, Kalaivanar's enduring legacy and interpretation", "status": "partial-provisional-draft; 18:00-19:00 and 19:33-20:00 withheld after machine collapse"},
-    {"segment": 20, "start": "20:00", "end_approx": "20:30", "subject": "echcham clarified as more than children or descendants", "status": "partial-provisional-draft; Valluvar explanation unresolved"},
-    {"segment": 21, "start": "20:30", "end_approx": "21:04", "subject": "Kalaivanar's ideas, praise and humour as enduring echcham", "status": "partial-provisional-draft; two joins unresolved"},
-    {"segment": 22, "start": "21:04", "end_approx": "22:00", "subject": "Congress conference, Vilangu Manithan play and hotel-character example", "status": "partial-provisional-draft; place wording, play details and hotel example unresolved"},
-    {"segment": 23, "start": "22:00", "end_approx": "22:52", "subject": "1947 Independence, radio invitation, self-respect response", "status": "partial-provisional-draft; Kalaivanar response and Sivaji reference unresolved"},
-    {"segment": 24, "start": "22:52", "end_approx": "23:25", "subject": "admirers across parties and Kalaivanar's movement preference", "status": "partial-provisional-draft; names, titles and contrast sentence unresolved"},
-    {"segment": 25, "start": "23:25", "end_approx": "23:44", "subject": "election campaigning and villuppattu for movement candidates", "status": "provisional-t1-drafted"},
-    {"segment": 26, "start": "23:44", "end_approx": "24:00", "subject": "campaign effect, emotion and family-like attachment to the movement", "status": "partial-provisional-draft; sentence continues into final batch"},
-    {"segment": 27, "start": "24:00", "end_approx": "24:46", "subject": "laughter, bodily effects of emotion and laughter as medicine", "status": "partial-provisional-draft; aphorisms and physiological wording unresolved"},
-    {"segment": 28, "start": "24:46", "end_approx": "25:00", "subject": "personal recollection with Kalaivanar and Kannadasan; card-game setup", "status": "partial-provisional-draft; location and joining phrase unresolved"},
-    {"segment": 29, "start": "25:00", "end_approx": "26:00", "subject": "Kannadasan's repeated Enge Theduven money-song joke during card play", "status": "partial-provisional-draft; money-transfer and response wording unresolved"},
-    {"segment": 30, "start": "26:00", "end_approx": "26:22.080", "subject": "friends around Kalaivanar, great artistic family and provisional farewell", "status": "partial-provisional-draft; exact farewell noun/final wording pending T2 tail verification"}
+    {
+      "segment": 0,
+      "start": "00:00",
+      "end_approx": "00:14",
+      "subject": "separate spoken lead-in",
+      "status": "wording-unresolved"
+    },
+    {
+      "segment": 1,
+      "start": "00:42",
+      "end_approx": "01:10",
+      "subject": "humour at the Kalaivanar function",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 2,
+      "start": "01:10",
+      "end_approx": "02:20",
+      "subject": "Chinna Annamalai anecdote and humorous response",
+      "status": "partial-provisional-draft; interior unresolved"
+    },
+    {
+      "segment": 3,
+      "start": "02:34",
+      "end_approx": "03:22",
+      "subject": "Kannadasan and Sivaji Ganesan",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 4,
+      "start": "03:22",
+      "end_approx": "06:00",
+      "subject": "hotel-room and crossed-telephone recollection involving Kannadasan",
+      "status": "provisional-t1-drafted; several phrases unresolved"
+    },
+    {
+      "segment": 5,
+      "start": "06:00",
+      "end_approx": "06:43",
+      "subject": "Tamil art transforming hostility; Anna and Kalaivanar",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 6,
+      "start": "06:43",
+      "end_approx": "07:12",
+      "subject": "S. S. Rajendran and Kalaivanar's early social ideas",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 7,
+      "start": "07:12",
+      "end_approx": "08:00",
+      "subject": "Ilangovan, Kannagi and article introduction",
+      "status": "partial-provisional-draft; full name and quotation unresolved"
+    },
+    {
+      "segment": 8,
+      "start": "08:00",
+      "end_approx": "08:38",
+      "subject": "Anna's praise and criticism of Ilangovan's Silappathikaram adaptation",
+      "status": "partial-provisional-draft; two phrases unresolved"
+    },
+    {
+      "segment": 9,
+      "start": "08:38",
+      "end_approx": "09:50",
+      "subject": "Inji Paththar interpretation and medicine-with-honey image",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 10,
+      "start": "09:50",
+      "end_approx": "10:48",
+      "subject": "early movement artists and Sivaji Ganesan",
+      "status": "partial-provisional-draft; names and titles unresolved"
+    },
+    {
+      "segment": 11,
+      "start": "10:48",
+      "end_approx": "12:00",
+      "subject": "artists serving Periyar and Anna; Kannadasan/Krishnan wordplay",
+      "status": "partial-provisional-draft; rhetorical joins unresolved"
+    },
+    {
+      "segment": 12,
+      "start": "12:00",
+      "end_approx": "13:15",
+      "subject": "Krishna wordplay and beginning of the Gopalapuram house anecdote",
+      "status": "partial-provisional-draft; press-style quotation and 12:49-13:15 unresolved"
+    },
+    {
+      "segment": 13,
+      "start": "13:15",
+      "end_approx": "14:00",
+      "subject": "retired postal official, house sale and locality reaction",
+      "status": "partial-provisional-draft; name and interior reaction sequence unresolved"
+    },
+    {
+      "segment": 14,
+      "start": "14:00",
+      "end_approx": "14:59",
+      "subject": "house anecdote conclusion and gratitude to movement artists",
+      "status": "partial-provisional-draft; ideological-position sentence unresolved"
+    },
+    {
+      "segment": 15,
+      "start": "14:59",
+      "end_approx": "16:00",
+      "subject": "Sivaji's early stage work and co-actors",
+      "status": "partial-provisional-draft; play titles and co-actor list unresolved"
+    },
+    {
+      "segment": 16,
+      "start": "16:00",
+      "end_approx": "16:30",
+      "subject": "art serving political ideas without art itself becoming politics",
+      "status": "partial-provisional-draft; one subject/linking phrase unresolved"
+    },
+    {
+      "segment": 17,
+      "start": "16:30",
+      "end_approx": "17:15",
+      "subject": "beauty and taste as the essence of art; art needed for political communication",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 18,
+      "start": "17:15",
+      "end_approx": "17:47",
+      "subject": "art used for good or evil; Kalaivanar's noble artistic aim",
+      "status": "partial-provisional-draft; one epithet unresolved"
+    },
+    {
+      "segment": 19,
+      "start": "17:47",
+      "end_approx": "20:00",
+      "subject": "Tirukkural on echcham, Kalaivanar's enduring legacy and interpretation",
+      "status": "partial-provisional-draft; 18:00-19:00 and 19:33-20:00 withheld after machine collapse"
+    },
+    {
+      "segment": 20,
+      "start": "20:00",
+      "end_approx": "20:30",
+      "subject": "echcham clarified as more than children or descendants",
+      "status": "partial-provisional-draft; Valluvar explanation unresolved"
+    },
+    {
+      "segment": 21,
+      "start": "20:30",
+      "end_approx": "21:04",
+      "subject": "Kalaivanar's ideas, praise and humour as enduring echcham",
+      "status": "partial-provisional-draft; two joins unresolved"
+    },
+    {
+      "segment": 22,
+      "start": "21:04",
+      "end_approx": "22:00",
+      "subject": "Congress conference, Vilangu Manithan play and hotel-character example",
+      "status": "partial-provisional-draft; place wording, play details and hotel example unresolved"
+    },
+    {
+      "segment": 23,
+      "start": "22:00",
+      "end_approx": "22:52",
+      "subject": "1947 Independence, radio invitation, self-respect response",
+      "status": "partial-provisional-draft; Kalaivanar response and Sivaji reference unresolved"
+    },
+    {
+      "segment": 24,
+      "start": "22:52",
+      "end_approx": "23:25",
+      "subject": "admirers across parties and Kalaivanar's movement preference",
+      "status": "partial-provisional-draft; names, titles and contrast sentence unresolved"
+    },
+    {
+      "segment": 25,
+      "start": "23:25",
+      "end_approx": "23:44",
+      "subject": "election campaigning and villuppattu for movement candidates",
+      "status": "provisional-t1-drafted"
+    },
+    {
+      "segment": 26,
+      "start": "23:44",
+      "end_approx": "24:00",
+      "subject": "campaign effect, emotion and family-like attachment to the movement",
+      "status": "partial-provisional-draft; sentence continues into final batch"
+    },
+    {
+      "segment": 27,
+      "start": "24:00",
+      "end_approx": "24:46",
+      "subject": "laughter, bodily effects of emotion and laughter as medicine",
+      "status": "partial-provisional-draft; aphorisms and physiological wording unresolved"
+    },
+    {
+      "segment": 28,
+      "start": "24:46",
+      "end_approx": "25:00",
+      "subject": "personal recollection with Kalaivanar and Kannadasan; card-game setup",
+      "status": "partial-provisional-draft; location and joining phrase unresolved"
+    },
+    {
+      "segment": 29,
+      "start": "25:00",
+      "end_approx": "26:00",
+      "subject": "Kannadasan's repeated Enge Theduven money-song joke during card play",
+      "status": "partial-provisional-draft; money-transfer and response wording unresolved"
+    },
+    {
+      "segment": 30,
+      "start": "26:00",
+      "end_approx": "26:22.080",
+      "subject": "friends around Kalaivanar, great artistic family and provisional farewell",
+      "status": "partial-provisional-draft; exact farewell noun/final wording pending T2 tail verification"
+    }
   ],
   "machine_audio_evidence": {
     "status": "complete-navigation-evidence-captured",
     "temporary_workflows_removed": true,
     "source_checksum_verified": true,
-    "models": ["whisper-small", "whisper-large-v3-turbo"],
-    "rejected_outputs": ["full-file mono pass after repeated-token hallucination", "full-file right-channel small-model pass after repeated-token drift"],
+    "models": [
+      "whisper-small",
+      "whisper-large-v3-turbo"
+    ],
+    "rejected_outputs": [
+      "full-file mono pass after repeated-token hallucination",
+      "full-file right-channel small-model pass after repeated-token drift"
+    ],
     "accepted_navigation_strategy": "right channel; independent 20-, 30-, 60- or 120-second chunks; condition_on_previous_text=false; large-v3-turbo",
     "coverage": "topic and candidate-reading navigation through the true decoded end at 00:26:22.080",
     "latest_candidate_evidence": "For 24:00-26:22.080, an earlier independent 120-second-plus-22-second right-channel artifact and a fresh independent approximately 20-second large-v3-turbo pass converge on the broad tail: suffering treated lightly, laughter as medicine, a Kalaivanar/Karunanidhi/Kannadasan card-game recollection with the repeated 'எங்கே தேடுவேன் பணத்தை எங்கே தேடுவேன்' line, Kalaivanar keeping many friends around him, a great artistic family, and a complete farewell. Exact aphorisms, several physiological phrases, money-transfer verbs, one friends-clause form and the farewell noun remain noisy and are withheld. Machine boundary navigation proposes a complete ending followed by 'நன்றி, வணக்கம்', but T2 direct tail replay remains mandatory.",
     "evidence_role": "navigation only; no direct auditory verification"
   },
-  "boundary_precheck": {"spoken_lead_in_start": "00:00", "spoken_lead_in_end_approx": "00:14", "detected_silence_start": "00:13.982", "detected_silence_end": "00:29.653", "main_speech_start_approx": "00:41.9", "final_activity_end_approx": "00:26:21.4", "recording_truncated": null, "opening_verified": false, "ending_verified": false},
-  "direct_listening_audit": {"status": "not-started", "segments_checked": 0, "segments_passed": 0, "recording_boundary_verified": false, "recording_truncated": null},
+  "boundary_precheck": {
+    "spoken_lead_in_start": "00:00",
+    "spoken_lead_in_end_approx": "00:14",
+    "detected_silence_start": "00:13.982",
+    "detected_silence_end": "00:29.653",
+    "main_speech_start_approx": "00:41.9",
+    "final_activity_end_approx": "00:26:21.4",
+    "recording_truncated": null,
+    "opening_verified": false,
+    "ending_verified": false
+  },
+  "direct_listening_audit": {
+    "status": "not-started",
+    "segments_checked": 0,
+    "segments_passed": 0,
+    "recording_boundary_verified": false,
+    "recording_truncated": null
+  },
   "workflow": {
     "source_inspection": "complete",
     "duplicate_search": "complete-no-existing-source-record",
@@ -88,5 +312,16 @@
     "english_translation": "blocked",
     "english_translation_review": "blocked",
     "english_translation_final_verification": "blocked"
+  },
+  "t2_textual_precheck": {
+    "status": "in-progress",
+    "batches_complete": 2,
+    "latest_completed_range": "01:10-02:34",
+    "records": [
+      "t2-batches/batch-01-00-00-01-10-precheck.md",
+      "t2-batches/batch-02-01-10-02-34-precheck.md"
+    ],
+    "canonical_tamil_changes": 0,
+    "direct_listening_effect": "none; T2 counters remain 0 checked / 0 passed"
   }
 }

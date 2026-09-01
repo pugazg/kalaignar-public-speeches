@@ -78,6 +78,17 @@ The current T1 version remains the stronger provisional reading. Competing machi
 - canonical Tamil changes from this preparation: **None**;
 - next required action remains a true audible replay from `00:00`.
 
+## T2 textual precheck coverage
+
+Two preparatory T2 records now exist:
+
+- `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
+- `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
+
+Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
+
+These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
+
 ## Provisional T1 evidence through 20:00
 
 The durable draft covers the humour-filled opening, Chinna Annamalai anecdote, Kannadasan/Sivaji recollections, crossed telephone story, Anna and Kalaivanar, Ilangovan/Kannagi and `இஞ்சிப்பத்தர்`, medicine-with-honey imagery, early movement artists, Krishna wordplay, the Gopalapuram house anecdote, gratitude to movement artists, Sivaji's early unpaid stage work, the art/politics distinction, and the Tirukkural `எச்சம்` discussion.
