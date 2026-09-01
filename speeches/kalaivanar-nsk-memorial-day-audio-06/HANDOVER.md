@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Twenty-six preparatory records are complete:
+Thirty-one preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -102,6 +102,11 @@ Twenty-six preparatory records are complete:
 24. `t2-batches/batch-24-15-35-16-00-precheck.md`.
 25. `t2-batches/batch-25-16-00-16-30-precheck.md`.
 26. `t2-batches/batch-26-16-30-17-15-precheck.md`.
+27. `t2-batches/batch-27-17-15-17-47-precheck.md`.
+28. `t2-batches/batch-28-17-47-18-00-precheck.md`.
+29. `t2-batches/batch-29-18-00-19-00-precheck.md`.
+30. `t2-batches/batch-30-19-00-19-33-precheck.md`.
+31. `t2-batches/batch-31-19-33-20-00-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -152,6 +157,8 @@ The twenty-fourth precheck covers `15:35–16:00`. It maps the fund-raising thea
 The twenty-fifth precheck covers `16:00–16:30`. It maps the distinction between artists serving political ideas and making art itself politics, but machine evidence only preserves short conceptual anchors rather than the full T1 syntax. The missing middle subject/life-goal phrase and exact Anna reference remain for true audible replay. No canonical Tamil was changed.
 
 The twenty-sixth precheck covers `16:30–17:15`. It maps the beauty/taste rhetoric and examples of art in expression, while machine evidence is strongest for the concluding political-art and jewellery/women analogy. Exact rhetorical wording, sandhi and audience reaction remain for true audible replay. No canonical Tamil was changed.
+
+The twenty-seventh through thirty-first prechecks cover `17:15–20:00`. They preserve the good/evil-art argument, isolate the spoken Kural opening, explicitly keep the `18:00–19:00` machine-collapse interval withheld, map the later Kalaivanar legacy anchors, and keep the malformed `19:33–20:00` comparison withheld. Printed Kural wording and historical movement terminology were not used to fill uncertain audio. No canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 

@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Twenty-six preparatory T2 records now exist:
+Thirty-one preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -108,6 +108,11 @@ Twenty-six preparatory T2 records now exist:
 - `t2-batches/batch-24-15-35-16-00-precheck.md` — relief/election-fund theatre work, unstable co-actor list, and the transition into the art-and-politics reflection.
 - `t2-batches/batch-25-16-00-16-30-precheck.md` — art serving political ideas versus art itself becoming politics, short `கலை தேவை` / `அரசியல் எண்ணங்களை` machine anchors, and the unresolved life-goal/Anna linkage.
 - `t2-batches/batch-26-16-30-17-15-precheck.md` — beauty/taste rhetoric in words, speech and writing, expression-as-art examples, political-art linkage and the jewellery/women analogy.
+- `t2-batches/batch-27-17-15-17-47-precheck.md` — good/evil uses of art, growth of good-serving art, and Kalaivanar's unresolved artistic epithet/aim.
+- `t2-batches/batch-28-17-47-18-00-precheck.md` — spoken Kural opening, `எச்சத்தால் காணப்படும்`, and the `ஒருவர் நல்லவரா / நல்லவர் அல்லாதவரா` contrast.
+- `t2-batches/batch-29-18-00-19-00-precheck.md` — negative-evidence record for the machine-collapse interval in the Kural explanation.
+- `t2-batches/batch-30-19-00-19-33-precheck.md` — Kalaivanar legacy list, caste-abolition/art-service anchors, compassion wording and the `எச்சம் / பிள்ளைகள்` return.
+- `t2-batches/batch-31-19-33-20-00-precheck.md` — negative-evidence record for the malformed comparison/wordplay before the `20:00` `எச்சம்` clarification.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -158,6 +163,8 @@ Batch 24 covers `15:35–16:00`. Machine evidence maps a fund-raising theatre li
 Batch 25 covers `16:00–16:30`. Exact-form machine probes do not preserve the current full T1 sentences, but shorter anchors recover `இப்படி அத்தனை பேரும்`, `எண்ணியவர்கள் அல்ல`, `கலை தேவை`, and `அரசியல் எண்ணங்களை`. The intervening subject/life-goal phrase and the exact Anna linkage remain unresolved; no cleaner wording is reconstructed from ideology or historical expectation. No canonical Tamil was changed.
 
 Batch 26 covers `16:30–17:15`. Machine evidence is uneven: it directly recovers `உள்ளத்திலே பதியும்`, uninflected `அரசியலுக்கு கலை தேவை`, `கலையே அரசியல் அல்ல`, `பெண்களுக்கு நகை தேவை`, and `நகையே பெண்கள் அல்ல`, but does not preserve the current full rhetorical wording around beauty in words/speech/writing, `சொல்லில் சுவை`, the writing/speech examples, or the inflected political-art sentence. The stronger analogy and weaker rhetorical build-up are therefore kept as separate replay-confidence levels. No canonical Tamil was changed.
+
+Batches 27–31 extend textual preparation from `17:15` through `20:00`. Batch 27 supports the good/evil-art contrast and `வளர்க்கப்பட வேண்டும்` direction but leaves Kalaivanar's epithet unresolved. Batch 28 preserves only machine-supported spoken Kural anchors and does not normalize from printed text. Batch 29 intentionally leaves `18:00–19:00` withheld after repeated-token collapse. Batch 30 recovers `ஜாதி ஒழிய வேண்டும்`, `ஆற்றிய கலைப்பணி`, `நெஞ்சிரக்கம்`, and `பிள்ளைகளால் காணப்படும்` anchors while leaving the full legacy/time-span syntax unresolved. Batch 31 remains negative evidence because the comparison before `20:00` is malformed in machine output; only broader `வள்ளுவர்`, `பிள்ளைகளால்`, and earlier `எச்சத்தால் காணப்படும்` anchors are usable. No canonical Tamil was changed.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
