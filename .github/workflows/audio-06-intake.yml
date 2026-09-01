@@ -1,0 +1,124 @@
+name: Audio 06 intake and machine pre-audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-intake.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect-and-transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install faster-whisper
+
+      - name: Download and verify controlling source
+        run: |
+          set -euxo pipefail
+          curl --fail --location --retry 5 --retry-delay 5 \
+            'https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3' \
+            --output source.mp3
+          sha256sum source.mp3 | tee source-sha256.txt
+          test "$(cut -d' ' -f1 source-sha256.txt)" = "6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836"
+          stat --printf='%s\n' source.mp3 | tee source-size.txt
+          test "$(cat source-size.txt)" = "25313377"
+          ffprobe -v error -show_entries format=duration,size,bit_rate:stream=codec_name,sample_rate,channels,channel_layout,bit_rate -of json source.mp3 > source-technical.json
+          cat source-technical.json
+          ffmpeg -hide_banner -loglevel error -y -i source.mp3 -ar 16000 -ac 1 -c:a pcm_s16le source-mono.wav
+          ffmpeg -hide_banner -loglevel error -y -ss 00:00:00 -i source.mp3 -t 00:01:40 -ar 16000 -ac 1 -af "highpass=f=80,lowpass=f=7500,afftdn=nf=-22,dynaudnorm=f=150:g=8" opening-enhanced.wav
+          ffmpeg -hide_banner -loglevel error -y -ss 00:24:40 -i source.mp3 -t 00:01:42.080 -ar 16000 -ac 1 -af "highpass=f=80,lowpass=f=7500,afftdn=nf=-22,dynaudnorm=f=150:g=8" tail-enhanced.wav
+
+      - name: Machine-aided Tamil pre-transcription
+        run: |
+          cat > transcribe.py <<'PY'
+          from faster_whisper import WhisperModel
+          from pathlib import Path
+          import json
+
+          out = Path('audio-06-output')
+          out.mkdir(exist_ok=True)
+          model = WhisperModel('large-v3-turbo', device='cpu', compute_type='int8')
+
+          jobs = [
+              ('full-raw', 'source-mono.wav', 0.0, True, True),
+              ('opening-enhanced', 'opening-enhanced.wav', 0.0, False, False),
+              ('tail-enhanced', 'tail-enhanced.wav', 1480.0, False, False),
+          ]
+
+          for label, audio, offset, vad, previous in jobs:
+              segments, info = model.transcribe(
+                  audio,
+                  language='ta',
+                  task='transcribe',
+                  beam_size=5,
+                  best_of=5,
+                  temperature=0.0,
+                  condition_on_previous_text=previous,
+                  word_timestamps=(label != 'full-raw'),
+                  vad_filter=vad,
+              )
+              rows = []
+              lines = []
+              for s in segments:
+                  start = s.start + offset
+                  end = s.end + offset
+                  text = s.text.strip()
+                  lines.append(f'[{start:08.2f}-{end:08.2f}] {text}')
+                  row = {
+                      'start': start,
+                      'end': end,
+                      'text': text,
+                      'avg_logprob': s.avg_logprob,
+                      'no_speech_prob': s.no_speech_prob,
+                  }
+                  if s.words:
+                      row['words'] = [
+                          {
+                              'start': w.start + offset,
+                              'end': w.end + offset,
+                              'word': w.word,
+                              'probability': w.probability,
+                          }
+                          for w in s.words
+                      ]
+                  rows.append(row)
+              (out / f'{label}.txt').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+              (out / f'{label}.json').write_text(
+                  json.dumps(
+                      {
+                          'language': info.language,
+                          'language_probability': info.language_probability,
+                          'segments': rows,
+                      },
+                      ensure_ascii=False,
+                      indent=2,
+                  ),
+                  encoding='utf-8',
+              )
+
+          for evidence in ('source-sha256.txt', 'source-size.txt', 'source-technical.json'):
+              Path(evidence).replace(out / evidence)
+
+          print((out / 'opening-enhanced.txt').read_text(encoding='utf-8'))
+          print((out / 'tail-enhanced.txt').read_text(encoding='utf-8'))
+          PY
+          python transcribe.py
+
+      - name: Upload machine evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: audio-06-intake
+          path: audio-06-output/
+          retention-days: 7
