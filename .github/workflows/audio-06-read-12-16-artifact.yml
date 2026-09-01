@@ -1,0 +1,31 @@
+name: Audio 06 read captured 12-16 artifact
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-read-12-16-artifact.yml
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  read-captured-evidence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download prior chunk artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euxo pipefail
+          gh api repos/pugazg/kalaignar-public-speeches/actions/artifacts/9793079339/zip > artifact.zip
+          unzip -q artifact.zip -d artifact
+          find artifact -maxdepth 2 -type f -print | sort
+      - name: Print captured 12-16 candidate text
+        run: |
+          set -euxo pipefail
+          echo '=== CAPTURED CHUNK 12:00-14:00 ==='
+          cat artifact/chunk-06-0720-0840.txt
+          echo '=== CAPTURED CHUNK 14:00-16:00 ==='
+          cat artifact/chunk-07-0840-0960.txt
