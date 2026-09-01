@@ -38,7 +38,7 @@
       "status": "no event-identifying tags found"
     },
     "remote_identity_verified": true,
-    "remote_identity_note": "Temporary intake workflow downloaded the official URL and reproduced the attached checksum and byte size.",
+    "remote_identity_note": "The official URL reproduced the attached checksum and byte size.",
     "recording_boundary": {
       "start": "spoken lead-in/announcement at 00:00; main speech begins approximately 00:42",
       "end": "provisionally complete closing tribute and thanks near 00:26:21; strict direct-listening tail verification pending"
@@ -46,71 +46,24 @@
     "binary_committed": false
   },
   "time_map": [
-    {
-      "segment": 0,
-      "start": "00:00",
-      "end_approx": "00:14",
-      "subject": "separate spoken lead-in",
-      "status": "wording-unresolved"
-    },
-    {
-      "segment": 1,
-      "start": "00:42",
-      "end_approx": "01:10",
-      "subject": "humour at the Kalaivanar function",
-      "status": "provisional-t1-drafted"
-    },
-    {
-      "segment": 2,
-      "start": "01:10",
-      "end_approx": "02:20",
-      "subject": "Chinna Annamalai anecdote and humorous response",
-      "status": "partial-provisional-draft; interior unresolved"
-    },
-    {
-      "segment": 3,
-      "start": "02:34",
-      "end_approx": "03:22",
-      "subject": "Kannadasan and Sivaji Ganesan",
-      "status": "provisional-t1-drafted"
-    },
-    {
-      "segment": 4,
-      "start": "03:22",
-      "end_approx": "06:00",
-      "subject": "hotel-room and crossed-telephone recollection involving Kannadasan",
-      "status": "provisional-t1-drafted; several phrases unresolved"
-    },
-    {
-      "segment": 5,
-      "start": "06:00",
-      "end_approx": "06:43",
-      "subject": "Tamil art transforming hostility; Anna and Kalaivanar",
-      "status": "provisional-t1-drafted"
-    },
-    {
-      "segment": 6,
-      "start": "06:43",
-      "end_approx": "07:12",
-      "subject": "S. S. Rajendran and Kalaivanar's early social ideas",
-      "status": "provisional-t1-drafted"
-    },
-    {
-      "segment": 7,
-      "start": "07:12",
-      "end_approx": "08:00",
-      "subject": "Ilangovan, Kannagi and article introduction",
-      "status": "partial-provisional-draft; full name and quotation unresolved"
-    }
+    {"segment": 0, "start": "00:00", "end_approx": "00:14", "subject": "separate spoken lead-in", "status": "wording-unresolved"},
+    {"segment": 1, "start": "00:42", "end_approx": "01:10", "subject": "humour at the Kalaivanar function", "status": "provisional-t1-drafted"},
+    {"segment": 2, "start": "01:10", "end_approx": "02:20", "subject": "Chinna Annamalai anecdote and humorous response", "status": "partial-provisional-draft; interior unresolved"},
+    {"segment": 3, "start": "02:34", "end_approx": "03:22", "subject": "Kannadasan and Sivaji Ganesan", "status": "provisional-t1-drafted"},
+    {"segment": 4, "start": "03:22", "end_approx": "06:00", "subject": "hotel-room and crossed-telephone recollection involving Kannadasan", "status": "provisional-t1-drafted; several phrases unresolved"},
+    {"segment": 5, "start": "06:00", "end_approx": "06:43", "subject": "Tamil art transforming hostility; Anna and Kalaivanar", "status": "provisional-t1-drafted"},
+    {"segment": 6, "start": "06:43", "end_approx": "07:12", "subject": "S. S. Rajendran and Kalaivanar's early social ideas", "status": "provisional-t1-drafted"},
+    {"segment": 7, "start": "07:12", "end_approx": "08:00", "subject": "Ilangovan, Kannagi and article introduction", "status": "partial-provisional-draft; full name and quotation unresolved"},
+    {"segment": 8, "start": "08:00", "end_approx": "08:38", "subject": "Anna's praise and criticism of Ilangovan's Silappathikaram adaptation", "status": "partial-provisional-draft; two phrases unresolved"},
+    {"segment": 9, "start": "08:38", "end_approx": "09:50", "subject": "Inji Paththar interpretation and medicine-with-honey image", "status": "provisional-t1-drafted"},
+    {"segment": 10, "start": "09:50", "end_approx": "10:48", "subject": "early movement artists and Sivaji Ganesan", "status": "partial-provisional-draft; names and titles unresolved"},
+    {"segment": 11, "start": "10:48", "end_approx": "12:00", "subject": "artists serving Periyar and Anna; Kannadasan/Krishnan wordplay", "status": "partial-provisional-draft; rhetorical joins unresolved"}
   ],
   "machine_audio_evidence": {
     "status": "complete-navigation-evidence-captured",
     "temporary_workflows_removed": true,
     "source_checksum_verified": true,
-    "models": [
-      "whisper-small",
-      "whisper-large-v3-turbo"
-    ],
+    "models": ["whisper-small", "whisper-large-v3-turbo"],
     "rejected_outputs": [
       "full-file mono pass after repeated-token hallucination",
       "full-file right-channel small-model pass after repeated-token drift"
@@ -141,10 +94,10 @@
     "source_inspection": "complete",
     "duplicate_search": "complete-no-existing-source-record",
     "machine_navigation": "complete",
-    "tamil_transcription": "in-progress-provisional-through-08:00",
+    "tamil_transcription": "in-progress-provisional-through-12:00",
     "tamil_segments_total": null,
-    "tamil_segments_drafted": 7,
-    "tamil_unresolved_ranges_open": 7,
+    "tamil_segments_drafted": 11,
+    "tamil_unresolved_ranges_open": 14,
     "strict_audio_audit": "not-started",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
