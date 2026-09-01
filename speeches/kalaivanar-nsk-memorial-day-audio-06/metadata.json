@@ -57,7 +57,11 @@
     {"segment": 8, "start": "08:00", "end_approx": "08:38", "subject": "Anna's praise and criticism of Ilangovan's Silappathikaram adaptation", "status": "partial-provisional-draft; two phrases unresolved"},
     {"segment": 9, "start": "08:38", "end_approx": "09:50", "subject": "Inji Paththar interpretation and medicine-with-honey image", "status": "provisional-t1-drafted"},
     {"segment": 10, "start": "09:50", "end_approx": "10:48", "subject": "early movement artists and Sivaji Ganesan", "status": "partial-provisional-draft; names and titles unresolved"},
-    {"segment": 11, "start": "10:48", "end_approx": "12:00", "subject": "artists serving Periyar and Anna; Kannadasan/Krishnan wordplay", "status": "partial-provisional-draft; rhetorical joins unresolved"}
+    {"segment": 11, "start": "10:48", "end_approx": "12:00", "subject": "artists serving Periyar and Anna; Kannadasan/Krishnan wordplay", "status": "partial-provisional-draft; rhetorical joins unresolved"},
+    {"segment": 12, "start": "12:00", "end_approx": "13:15", "subject": "Krishna wordplay and beginning of the Gopalapuram house anecdote", "status": "partial-provisional-draft; press-style quotation and 12:49-13:15 unresolved"},
+    {"segment": 13, "start": "13:15", "end_approx": "14:00", "subject": "retired postal official, house sale and locality reaction", "status": "partial-provisional-draft; name and interior reaction sequence unresolved"},
+    {"segment": 14, "start": "14:00", "end_approx": "14:59", "subject": "house anecdote conclusion and gratitude to movement artists", "status": "partial-provisional-draft; ideological-position sentence unresolved"},
+    {"segment": 15, "start": "14:59", "end_approx": "16:00", "subject": "Sivaji's early stage work and co-actors", "status": "partial-provisional-draft; play titles and co-actor list unresolved"}
   ],
   "machine_audio_evidence": {
     "status": "complete-navigation-evidence-captured",
@@ -70,6 +74,7 @@
     ],
     "accepted_navigation_strategy": "right channel; independent 60- or 120-second chunks; condition_on_previous_text=false; large-v3-turbo",
     "coverage": "topic and candidate-reading navigation through 00:26:22.080",
+    "latest_candidate_evidence": "12:00-16:00 drafted from the previously captured 120-second chunk artifact with word-confidence inspection; a later full-download 60-second rerun was not required for the durable text",
     "evidence_role": "navigation only; no direct auditory verification"
   },
   "boundary_precheck": {
@@ -94,10 +99,10 @@
     "source_inspection": "complete",
     "duplicate_search": "complete-no-existing-source-record",
     "machine_navigation": "complete",
-    "tamil_transcription": "in-progress-provisional-through-12:00",
+    "tamil_transcription": "in-progress-provisional-through-16:00",
     "tamil_segments_total": null,
-    "tamil_segments_drafted": 11,
-    "tamil_unresolved_ranges_open": 14,
+    "tamil_segments_drafted": 15,
+    "tamil_unresolved_ranges_open": 24,
     "strict_audio_audit": "not-started",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
