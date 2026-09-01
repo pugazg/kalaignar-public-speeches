@@ -30,7 +30,7 @@ This is a different binary from the completed `00:07:23.559` Kalaivanar recordin
 
 ## Current Tamil T1 coverage
 
-The provisional first-pass transcript reaches approximately **`20:00`**.
+The provisional first-pass transcript reaches approximately **`24:00`**.
 
 Major covered material includes:
 
@@ -44,9 +44,15 @@ Major covered material includes:
 - art as a vehicle for political ideas without art itself becoming politics;
 - beauty and taste as the essence of effective art;
 - the good/evil uses of art;
-- the Tirukkural `எச்சம்` discussion and Kalaivanar's enduring legacy.
+- the Tirukkural `எச்சம்` discussion and Kalaivanar's enduring legacy;
+- the clarification that `எச்சம்` is not merely children/descendants;
+- a Congress-conference recollection and the `விலாங்கு மனிதன்` play;
+- the 1947 Independence/radio-invitation sequence, with Kalaivanar's exact response still unresolved;
+- admirers across political groups;
+- Kalaivanar's election campaigning and `வில்லுப்பாட்டு` for movement candidates;
+- a family-affection sentence that continues beyond the `24:00` boundary.
 
-Important unresolved ranges remain visible. In particular, machine evidence collapses across much of `18:00–19:00`, and the comparison near `19:33–20:00` becomes malformed/non-Tamil; neither range has been reconstructed.
+Important unresolved ranges remain visible. In particular, machine evidence collapses across much of `18:00–19:00`, `19:33–20:00`, the hotel-character example around `21:38–22:00`, and substantial portions of `22:00–23:30`. None has been reconstructed from external history or printed texts.
 
 ## Current workflow state
 
@@ -55,9 +61,9 @@ Important unresolved ranges remain visible. In particular, machine evidence coll
 | Source identity and technical inspection | **Complete** |
 | Duplicate/archive search | **Complete — no existing source record found** |
 | Machine-aided navigation | **Complete — evidence captured; temporary workflows removed** |
-| Tamil T1 first pass | **In progress — provisional through ~20:00** |
-| Provisional speech segments drafted | **19** |
-| Open unresolved ranges/phrases | **31** |
+| Tamil T1 first pass | **In progress — provisional through ~24:00** |
+| Provisional speech segments drafted | **26** |
+| Open unresolved ranges/phrases | **47** |
 | Tamil T2 strict direct-listening audit | **Not started** |
 | Tamil T3 consolidation/freeze | **Blocked** |
 | English translation | **Blocked until verified Tamil** |
@@ -68,4 +74,6 @@ The attached MP3 is authoritative. Machine transcripts, catalogue wording and ex
 
 ## Exact next activity
 
-Continue provisional Tamil T1 for **`20:00–24:00`**. Do not begin English and do not label machine-derived wording direct-listening verified.
+Complete the **final provisional Tamil T1 batch, `24:00–00:26:22.080`**. Continue from the unfinished family-affection sentence and reach the true audio end.
+
+After T1 reaches the true end, the next gate is **Tamil T2 strict direct-listening audit from `00:00`**, including the separate lead-in. English remains blocked. The final 60 seconds and final 30 seconds must later receive dedicated direct replays before the Tamil transcript can be frozen.
