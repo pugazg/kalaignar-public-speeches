@@ -56,12 +56,28 @@ Machine evidence is not T2 direct listening. External printed wording must not b
 
 All temporary workflow files used for Audio 06 T1 processing, including the final-tail evidence and transcript-patch helpers, have been removed after use.
 
+## Latest T2 opening preparation
+
+The original Audio 06 attachment remains available and matches the controlling source identity. The currently exposed attachment-reading path returns a machine transcript rather than audible playback, so **no T2 direct-listening pass was claimed**.
+
+Useful source-navigation evidence was nevertheless prepared and recorded in `audit.md`:
+
+- the announcer/lead-in activity ends near `00:13.966` at the `-25 dB` quiet gate;
+- a quiet interval extends to approximately `00:41.641` at that gate;
+- a stricter `-30 dB` silence interval is `00:13.982–00:29.653`, followed by low-level ambience;
+- independent opening navigation places Kalaignar's main-speech activity at approximately `00:41.88`;
+- machine views converge on lead-in references to `கலைவாணர்`, Chennai `கலைவாணர் அரங்கம்`, `கலைவாணர் நகைச்சுவை`, `டாக்டர் கலைஞர் அவர்கள்`, and an announcement equivalent to `இப்போது உரையாற்றுவார்`;
+- exact first lead-in words and joins remain unresolved;
+- the existing T1 main-speech opening remains the stronger provisional reading and was not changed.
+
+T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal findings to verified Tamil.
+
 ## Tamil workflow state
 
 - T1 first pass: **complete provisionally through the true decoded end `00:26:22.080`**;
 - provisional speech segments drafted: **30**;
 - open unresolved ranges/phrases: **60**;
-- T2 strict direct-listening audit: **not started**;
+- T2 strict direct-listening audit: **not started — opening navigation packet prepared**;
 - T3 consolidation/freeze: **blocked**;
 - English: **blocked**.
 
@@ -123,19 +139,20 @@ T2 must resolve directly from the source:
 
 ## Exact next activity
 
-Begin **T2 strict direct-listening audit from `00:00`**.
+Begin **T2 strict direct-listening audit from `00:00`** using actual audible replay of the controlling MP3.
 
-Do not start at the tail merely because the tail has unresolved wording. T2 is an end-to-end source audit.
+Do not count attachment-level transcription, ASR, waveform/silence analysis or machine comparisons as T2. T2 is an end-to-end auditory source audit.
 
 ### T2 startup sequence
 
 1. directly replay and transcribe/verify the separate spoken lead-in `00:00–approximately 00:14`;
-2. confirm the silence/ambience interval and the exact main-speech start;
-3. confirm the exact first word of the main speech;
-4. audit the provisional speech segments sequentially from the opening onward;
-5. resolve bracketed wording only when directly supported by the controlling MP3;
-6. maintain an audit record of checked/passed/unresolved segments;
-7. do not silently normalize Tirukkural or other quoted material from external text.
+2. use the prepared quiet-boundary timings only for navigation;
+3. confirm the silence/ambience interval and exact main-speech start;
+4. confirm the exact first word of the main speech;
+5. audit the provisional speech segments sequentially from the opening onward;
+6. resolve bracketed wording only when directly supported by the controlling MP3;
+7. maintain an audit record of checked/passed/unresolved segments;
+8. do not silently normalize Tirukkural or other quoted material from external text.
 
 ## Mandatory tail gates within T2
 
