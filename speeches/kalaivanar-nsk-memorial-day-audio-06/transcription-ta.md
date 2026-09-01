@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — provisional draft reaches approximately 24:00, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T1 first pass complete — provisional draft reaches the true decoded end at 00:26:22.080, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -293,4 +293,56 @@
 
 `[A place/person reference and the sentence about the electoral effect of Kalaivanar's campaigning remain unresolved. The following emotional reaction also has an unstable subject/verb.]`
 
-அவ்வளவு குடும்பப் பாசத்தை இந்த இயக்கத்திலே கலைவாணர் `[வாக்கியம் 24:00க்கு அப்பால் தொடர்கிறது]`.
+அவ்வளவு குடும்பப் பாசத்தை இந்த இயக்கத்திலே கலைவாணர் `[தொடரின் நிறைவு தெளிவில்லை]`.
+
+## [24:00]
+
+வேதனைகளை விளையாட்டாகத்தான் எடுத்துக்கொள்வார்.
+
+`[சிரிப்பு தொடர்பான பொன்மொழியின் தொடக்கமும் ஒரு குறும் சொற்றொடரும் தெளிவில்லை.]`
+
+`[“சிரித்தால்...” என்று தொடங்கும் அடுத்த குறும் பொன்மொழியின் முழு வாசகம் தெளிவில்லை.]`
+
+`[கோபத்தின் உடல் விளைவுகளை விவரிக்கும் முதல் சொற்றொடரின் சில சொற்கள் தெளிவில்லை.]`
+
+நம்முடைய உடம்பு சூடேறுவதை நாம் காணுகிறோம்.
+
+அதே நேரத்தில் மற்றவர்களைப் பாராட்டுகிற நேரத்திலே, மகிழ்ந்து பாராட்டுகிற நேரத்திலே, மனம்விட்டுப் பாராட்டுகிற நேரத்திலே—
+
+`[இந்தப் பாராட்டின் உடல்/மன விளைவை விளக்கும் தொடரின் நடுப்பகுதி தெளிவில்லை.]`
+
+ஆகச் சிரிப்பு மாமருந்து என்பதை நாட்டுக்குச் சொன்ன நல்ல மருத்துவனாகவும் கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள் விளங்கினார்.
+
+## [24:46]
+
+ஒரு முறை எனக்கு நினைவிருக்கிறது.
+
+கலைவாணரும் நானும், நண்பர் கவிஞர் கண்ணதாசன் அவர்களும் `[உட்கார்ந்த இடத்தைச் சுட்டும் சொற்றொடர் தெளிவில்லை]`.
+
+கலைவாணருடைய வீட்டிலே `[சிறு இணைப்புத் தொடர் தெளிவில்லை]` விளையாட்டுக்காக சீட்டாடிக்கொண்டிருந்தபோது—
+
+## [25:00]
+
+`[முதல் நூறு ரூபாய் எப்படிக் கொண்டுவரப்பட்டு ஆட்டத்தில் வைக்கப்பட்டது என்பதன் முழு வாக்கியம் தெளிவில்லை.]`
+
+கவிஞர் கண்ணதாசன் அவர்கள் “எங்கே தேடுவேன் பணத்தை எங்கே தேடுவேன்” என்று பாடுவார்.
+
+உடனே கலைவாணர் “ஏய்” என்று சொல்லி, `[எவ்வளவு தோற்றார் என்று கேட்டு பணம் கொடுக்கும் தொடரின் துல்லிய சொற்கள் தெளிவில்லை]`.
+
+பிறகு கண்ணதாசன் “எங்கே தேடுவேன் பணத்தை எங்கே தேடுவேன்” என்று பாடுவார்.
+
+“சரி, வந்து தொலை” என்று `[மறுபடியும் நூறு ரூபாய் கொடுக்கும் வினைச்சொல்/தொடர் தெளிவில்லை]`.
+
+கண்ணதாசனின் பணமும் தோற்றுப் போயிருக்கும். `[இடைத்தொடர் தெளிவில்லை]` “எங்கே தேடுவேன், எங்கே தேடுவேன்” என்று பாடிக்கொண்டிருப்பார்.
+
+`[அதற்கு கலைவாணர் மீண்டும் பணம் தரும் இறுதி நகைச்சுவைத் தொடரின் சொற்கள் தெளிவில்லை.]`
+
+## [26:00]
+
+அப்படி, நண்பர்கள் எல்லாம் சூழ `[சொற்றொடரின் இலக்கண வடிவம் தெளிவில்லை]`, ஒரு பத்து நண்பர்கள் இல்லாமல் தனியாக இருக்க முடியாது என்கிற ஒரு சூழலை உருவாக்கிக்கொண்டு, ஒரு பெரிய கலைக்குடும்பத்தை வளர்த்த பெருந்தகைதான் கலைவாணர் அவர்கள்.
+
+அந்தக் கலைவாணருடைய `[சொல் தெளிவில்லை]` வாழ்க, வாழ்க, வாழ்க என்று விடைபெற்றுக் கொள்கிறேன்.
+
+நன்றி, வணக்கம்.
+
+> **T1 tail note:** The closing lines above are provisional machine-supported candidates only. The exact farewell noun, final audible wording, grammatical completeness, and `recording_truncated` status remain open until T2 performs dedicated final-60-second, final-30-second, and final-major-pause-to-file-end direct listening.
