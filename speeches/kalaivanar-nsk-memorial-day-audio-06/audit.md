@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Thirteen preparatory T2 records now exist:
+Fourteen preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -95,6 +95,7 @@ Thirteen preparatory T2 records now exist:
 - `t2-batches/batch-11-08-38-09-25-precheck.md` — `இஞ்சிப்பத்தர்` gold/brass deception and Anna's interpretation of Kalaivanar's performance.
 - `t2-batches/batch-12-09-25-09-50-precheck.md` — Anna's `வஞ்சிப்பத்தர் / இஞ்சிப்பத்தர்` conclusion and medicine-with-honey transition.
 - `t2-batches/batch-13-09-50-10-18-precheck.md` — K. R. Ramasamy, `நடிகவேள்`, reform-theatre brothers and the Rajendran boundary.
+- `t2-batches/batch-14-10-18-10-48-precheck.md` — Rajendran/Narayanasamy boundary, Sivaji `சிம்மக்குரல்`, and the Periyar/Anna stage-screen statement.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -119,6 +120,8 @@ Batch 11 strongly supports the `இஞ்சிப்பத்தர்` role, t
 Batch 12 strongly supports the two-part transition from Anna's `வஞ்சிப்பத்தர் / இஞ்சிப்பத்தர்` conclusion to Kalaivanar's ability to convey political, economic and social ideas like medicine mixed with honey. Exact replay must settle `ஆக/ஆகவே`, current `வஞ்சிப்பத்தரை` and `இஞ்சிப்பத்தரே மேல்` versus machine-segmented `வஞ்சிப் பட்டறையை / இஞ்சிப் பட்டறை மேல்`, `பற்றிப்/பற்றி`, and especially current `தேனிலே மருந்தைக் கலந்து` versus machine `தேனிடை மருந்தை கலந்து`, plus final case morphology. No canonical change was made.
 
 Batch 13 supports the opening artist-list structure and K. R. Ramasamy identification, then exposes heavy machine corruption around the `நடிகவேள்` proper name and the reform-theatre brothers' title/name sequence. Independent right-channel navigation also supports an institutional clause resembling `அவர்களுடைய நிறுவனத்திலே இருந்து` and the transition near `10:18` toward `போராடிய நம்முடைய லட்சிய நடிகர் ராஜேந்திரன்`. Exact names, initials, titles and syntax remain for true audible replay. No canonical change was made.
+
+Batch 14 strongly supports `நடிகமணி டி. வி. நாராயணசாமி`, `இந்த நாவினால்`, the idea that revolutionary views gain force when voiced, `சிம்மக்குரல்`, and `என்னுடைய நண்பர் சிவாஜி கணேசன்`. Machine evidence also proposes a boundary join from `லட்சிய நடிகர் ராஜேந்திரன்` into Narayanasamy. Exact replay must settle whether `எஸ். எஸ்.` and `ஆகியவர்கள்` are audible, `பேசினால்/பேசினால்தான்`, `முதல் முதலாகச்/முதன் முதலாக`, and the badly corrupted final statement about carrying Periyar and Anna's ideas onto stage and screen. No canonical change was made.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 

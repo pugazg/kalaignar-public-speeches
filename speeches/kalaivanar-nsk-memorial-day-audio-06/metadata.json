@@ -315,8 +315,8 @@
   },
   "t2_textual_precheck": {
     "status": "in-progress",
-    "batches_complete": 13,
-    "latest_completed_range": "09:50-10:18",
+    "batches_complete": 14,
+    "latest_completed_range": "10:18-10:48",
     "records": [
       "t2-batches/batch-01-00-00-01-10-precheck.md",
       "t2-batches/batch-02-01-10-02-34-precheck.md",
@@ -330,7 +330,8 @@
       "t2-batches/batch-10-08-00-08-38-precheck.md",
       "t2-batches/batch-11-08-38-09-25-precheck.md",
       "t2-batches/batch-12-09-25-09-50-precheck.md",
-      "t2-batches/batch-13-09-50-10-18-precheck.md"
+      "t2-batches/batch-13-09-50-10-18-precheck.md",
+      "t2-batches/batch-14-10-18-10-48-precheck.md"
     ],
     "canonical_tamil_changes": 0,
     "direct_listening_effect": "none; T2 counters remain 0 checked / 0 passed"
