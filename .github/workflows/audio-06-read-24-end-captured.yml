@@ -1,0 +1,30 @@
+name: Audio 06 read captured 24-end artifact
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-read-24-end-captured.yml
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  read-captured-tail:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download prior chunk artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euxo pipefail
+          gh api repos/pugazg/kalaignar-public-speeches/actions/artifacts/9793079339/zip > artifact.zip
+          unzip -q artifact.zip -d artifact
+      - name: Print captured 24-end candidate text
+        run: |
+          set -euxo pipefail
+          echo '=== CAPTURED CHUNK 24:00-26:00 ==='
+          cat artifact/chunk-12-1440-1560.txt
+          echo '=== CAPTURED CHUNK 26:00-26:22.080 ==='
+          cat artifact/chunk-13-1560-1582.txt
