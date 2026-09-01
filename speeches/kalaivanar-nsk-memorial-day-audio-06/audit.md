@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Eighteen preparatory T2 records now exist:
+Nineteen preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -100,6 +100,7 @@ Eighteen preparatory T2 records now exist:
 - `t2-batches/batch-16-11-20-12-00-precheck.md` — memories/assembled-artists transition, Kannadasan changed-position wording, and opening Krishna wordplay.
 - `t2-batches/batch-17-12-00-12-22-precheck.md` — Kannadasan Krishna recommendation, central Krishna-joke conflict, temple-house remark and house-correction boundary.
 - `t2-batches/batch-18-12-22-12-49-precheck.md` — house-purchase correction and mock-newspaper sequence, including corrupted political-status, place-name and mock-headline forms.
+- `t2-batches/batch-19-12-49-13-15-precheck.md` — negative-evidence recovery of the machine-collapse interval before the retired postal-official house-sale narrative.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -134,6 +135,8 @@ Batch 16 supports the `எனக்கு எவ்வளவோ நினைவ�
 Batch 17 supports Kannadasan's `நீ கிருஷ்ணனை ஏற்றுக்கொள்` recommendation, `பரமாத்மா கிருஷ்ணன்`, the reported `கிருஷ்ண பரமாத்மா` temple-house remark and a strong connective candidate `இது போதாதா எதிரிகளுக்கு?` before `நான் வீடு கட்டவில்லை`. It exposes a major central conflict: current T1 `அவருடைய பெருமதிப்புக்கு இலக்காக இருப்பதாக` versus machine `அவ்வளவு பரிதாபத்துக்குரிய நிலையில் இருப்பதாகவும்`, plus `அருகாமையிலே / அருகாமையிலேதான்`. These remain for true audible replay; no canonical Tamil was changed.
 
 Batch 18 supports `நான் வீடு கட்டவில்லை`, the twenty-years-earlier house-purchase correction, the newspaper-parody structure, and `கருணாநிதியின் நண்பர் கண்ணதாசனே குட்டை உடைத்துவிட்டார்`. It also establishes that the attachment transcript itself is badly corrupted at three crucial points: machine `முதலாளித்துவமான பிறகுதான்`, `கோவாலவரத்தில்`, and `மரண நம்பலமானது` do not verify the cleaner candidates `முதலமைச்சர் ஆன பிறகுதான்`, `கோபாலபுரத்திலே`, or `மர்மம் அம்பலமானது`. The press-style join, `தெரியுமா?`, `இதை கண்ணதாசனே வெளியிட்ட தகவல்`, and the exact `12:49` boundary remain for true audible replay. No canonical Tamil was changed.
+
+Batch 19 revisits the previously withheld `12:49–13:15` interval. Fresh semantic retrieval produced no stable passage, and exact-anchor checks recover only the post-collapse boundary (`ஓய்வு பெற்றவர்`, `அந்த வீட்டை விற்க`, `வாங்குவதற்காக நான் முயற்சித்த`) rather than trustworthy words inside the gap. The cleaner `தபால் இலாகாவிலே` form is not preserved by the attachment transcript. The entire 26-second interval therefore remains withheld; no bridge was reconstructed from narrative context and no canonical Tamil was changed.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 

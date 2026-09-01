@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Eighteen preparatory records are complete:
+Nineteen preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -94,6 +94,7 @@ Eighteen preparatory records are complete:
 16. `t2-batches/batch-16-11-20-12-00-precheck.md`.
 17. `t2-batches/batch-17-12-00-12-22-precheck.md`.
 18. `t2-batches/batch-18-12-22-12-49-precheck.md`.
+19. `t2-batches/batch-19-12-49-13-15-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -128,6 +129,8 @@ The sixteenth precheck covers `11:20–12:00`. It supports the memories transiti
 The seventeenth precheck covers `12:00–12:22`. It supports the Kannadasan Krishna recommendation and temple-house sequence, but leaves the major `பெருமதிப்பு / பரிதாபம்` conflict, `பரமாத்மா கிருஷ்ணன் / கிருஷ்ண பரமாத்மா` occurrence forms, `அருகாமையிலே / அருகாமையிலேதான்`, and `இது போதாதா எதிரிகளுக்கு?` for true audible replay. No canonical Tamil was changed.
 
 The eighteenth precheck covers `12:22–12:49`. It supports the house-purchase correction and newspaper-parody skeleton while explicitly preserving the major machine corruptions `முதலாளித்துவமான`, `கோவாலவரத்தில்`, and `மரண நம்பலமானது` against cleaner but unverified T1 candidates. The exact political/status phrase, place name, mock-headline wording and `12:49` transition require true audible replay. No canonical Tamil was changed.
+
+The nineteenth precheck covers `12:49–13:15` as negative evidence. Fresh retrieval did not recover stable interior text; only the later retired-official / house-sale / attempted-purchase boundary is machine-detectable. The whole interval remains withheld and must be replayed directly from the controlling MP3 before any Tamil is inserted. No canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
