@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — 1 provisional body segment drafted; direct auditory verification pending**
+**Status:** **T1 in progress — 4 provisional body sections drafted; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -17,4 +17,26 @@
 
 ## [01:10]
 
-`[The Chinna Annamalai anecdote begins here. Wording from approximately 01:10 onward remains unstable across machine passes and is intentionally withheld pending the right-channel chunked draft and source replay.]`
+சின்ன அண்ணாமலை அவர்கள் பேசும்போது ஒன்றைச் சொன்னார். யாருக்கும் தெரியாத ஒன்றைச் சொல்லி—
+
+`[Approximately 01:16–02:12 remains unstable across machine passes. The anecdote is intentionally withheld pending isolated-chunk comparison and source replay.]`
+
+## [02:12]
+
+கலைவாணர் இருந்தால் போய்க் கேட்கலாம், உண்மையா என்று.
+
+`[A short clause immediately following this sentence remains unresolved.]`
+
+## [02:20]
+
+இப்படியெல்லாம் பேசிக்கொண்டிருப்போருக்குச் சரியான நகைச்சுவை மூலமாகப் பதில் தருவதற்காகத்தான் சின்ன அண்ணாமலை அவர்கள் இந்த முறையைக் கையாண்டிருப்பார் என்று நான் கருதுகின்றேன்.
+
+## [02:34]
+
+என்னுடைய அருமை நண்பர் கவிஞர் கண்ணதாசன் அவர்கள் குறிப்பிட்டார்களே, கலைவாணரோடு நானும் அவரும் நெருங்கிப் பழகியவர்கள் என்பதைச் சுட்டிக்காட்டினார்கள்.
+
+நடிகர் திலகம் சிவாஜி அவர்கள் கண்ணதாசன் அவர்களைப் பற்றிக் குறிப்பிடுகிற நேரத்தில், “என்னை வைதாலும் திட்டினாலும் நான் காதலிக்கின்ற ஒரே கவிஞர்” என்று கண்ணதாசன் அவர்களைப் பற்றி சிவாஜி அவர்கள் குறிப்பிட்டார்கள்.
+
+## [approximately 03:24]
+
+`[A recollection from the period when the speaker and Kannadasan were in opposing political camps begins here. Wording remains provisional and is withheld pending the independent opening-chunk output.]`
