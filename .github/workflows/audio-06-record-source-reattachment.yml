@@ -1,0 +1,43 @@
+name: Record Audio 06 source reattachment
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-record-source-reattachment.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Record verified reattachment
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          base=Path('speeches/kalaivanar-nsk-memorial-day-audio-06')
+          landing='https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html'
+          sha='6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836'
+          note='''### Reattachment verification — 2026-09-01\n\nThe controlling MP3 was reattached in the continuation session and independently rechecked from the attached binary. It is byte-identical to the archived source identity:\n\n- SHA-256: `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`;\n- size: `25,313,377` bytes;\n- decoded duration: `00:26:22.080`;\n- codec/sample layout: MP3, stereo, 44.1 kHz, approximately 128 kb/s.\n\nThe user also supplied the Tamil Digital Library landing page: <''' + landing + '''>. The web reader in that session could not independently fetch the landing page, so the URL is recorded as user-supplied provenance rather than a separately fetched page fact.\n\nThis successful reattachment clears any source-availability question but does **not** itself clear the T2 auditory gate: the execution environment can inspect the binary but still does not expose genuine audible playback to the assistant. Direct-listening counters therefore remain unchanged.\n\n'''
+          for name, marker in [('audit.md','## T2 execution gate — current environment\n'),('HANDOVER.md','## T2 execution capability note\n')]:
+              p=base/name
+              s=p.read_text(encoding='utf-8')
+              if '### Reattachment verification — 2026-09-01' not in s:
+                  if marker not in s:
+                      raise SystemExit(f'{name}: marker missing')
+                  s=s.replace(marker,note+marker,1)
+                  p.write_text(s,encoding='utf-8')
+          PY
+      - name: Commit reattachment record
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          git add speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md \
+                  speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md
+          git commit -m 'Record Audio 06 verified source reattachment'
+          git push origin main
