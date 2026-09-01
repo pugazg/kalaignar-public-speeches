@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Twenty-two preparatory records are complete:
+Twenty-three preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -98,6 +98,7 @@ Twenty-two preparatory records are complete:
 20. `t2-batches/batch-20-13-15-14-00-precheck.md`.
 21. `t2-batches/batch-21-14-00-14-15-precheck.md`.
 22. `t2-batches/batch-22-14-15-14-59-precheck.md`.
+23. `t2-batches/batch-23-14-59-15-35-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -140,6 +141,8 @@ The twentieth precheck covers `13:15–14:00`. It maps the retired-official hous
 The twenty-first precheck covers `14:00–14:15`. It supports the mild-personality remark, a machine skeleton for the agraharam residents' eventual agreement and the twenty-years-earlier house-purchase conclusion, but leaves `பேரைப் / தேரைப்`, the post-quotation attribution, exact agreement morphology and house-purchase case marking for true audible replay. No canonical Tamil was changed.
 
 The twenty-second precheck covers `14:15–14:59`. It supports the contrast between people no longer remaining in the same place/ideological position and the continuing principle, plus the speaker's gratitude toward those who worked for it and the transition into Sivaji's stage recollections. The noisy opening, the `ஆதாயம்` clause, exact ideological-position morphology and gratitude wording remain for true audible replay. No canonical Tamil was changed.
+
+The twenty-third precheck covers `14:59–15:35`. It supports the Sivaji stage-work recollection, the humorous role-status reversal and Sivaji acting in the early plays without payment, but leaves the comic adjective, `கருணாநிதி / கலைஞர் அவர்கள்` subject form, exact syntax and honorific morphology for true audible replay. No canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 
