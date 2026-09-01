@@ -1,0 +1,75 @@
+name: Audio 06 opening and tail inspection
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-boundaries.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect-boundaries:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install faster-whisper
+      - name: Download and verify source
+        run: |
+          set -euxo pipefail
+          curl --fail --location --retry 5 --retry-delay 5 \
+            'https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3' \
+            --output source.mp3
+          echo '6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836  source.mp3' | sha256sum --check
+          ffmpeg -hide_banner -loglevel error -y -ss 00:00:00 -i source.mp3 -t 00:03:00 -ar 16000 -ac 1 -c:a pcm_s16le opening.wav
+          ffmpeg -hide_banner -loglevel error -y -ss 00:24:00 -i source.mp3 -t 00:02:22.080 -ar 16000 -ac 1 -c:a pcm_s16le tail.wav
+          ffmpeg -hide_banner -loglevel error -y -i opening.wav -af "highpass=f=80,lowpass=f=7500,afftdn=nf=-22,dynaudnorm=f=150:g=8" opening-enhanced.wav
+          ffmpeg -hide_banner -loglevel error -y -i tail.wav -af "highpass=f=80,lowpass=f=7500,afftdn=nf=-22,dynaudnorm=f=150:g=8" tail-enhanced.wav
+      - name: Transcribe opening and tail
+        run: |
+          cat > transcribe.py <<'PY'
+          from faster_whisper import WhisperModel
+          from pathlib import Path
+          import json
+
+          out=Path('audio-06-boundaries'); out.mkdir(exist_ok=True)
+          model=WhisperModel('large-v3-turbo',device='cpu',compute_type='int8')
+          jobs=[
+              ('opening-raw','opening.wav',0.0),
+              ('opening-enhanced','opening-enhanced.wav',0.0),
+              ('tail-raw','tail.wav',1440.0),
+              ('tail-enhanced','tail-enhanced.wav',1440.0),
+          ]
+          for label,audio,offset in jobs:
+              segs,info=model.transcribe(audio,language='ta',task='transcribe',beam_size=5,best_of=5,temperature=0.0,condition_on_previous_text=False,word_timestamps=True,vad_filter=False)
+              rows=[]; lines=[]
+              for s in segs:
+                  st=s.start+offset; en=s.end+offset; text=s.text.strip()
+                  lines.append(f'[{st:08.2f}-{en:08.2f}] {text}')
+                  rows.append({'start':st,'end':en,'text':text,'avg_logprob':s.avg_logprob,'no_speech_prob':s.no_speech_prob,'words':[{'start':w.start+offset,'end':w.end+offset,'word':w.word,'probability':w.probability} for w in (s.words or [])]})
+              (out/f'{label}.txt').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+              (out/f'{label}.json').write_text(json.dumps({'language':info.language,'language_probability':info.language_probability,'segments':rows},ensure_ascii=False,indent=2),encoding='utf-8')
+          print('=== OPENING RAW ===')
+          print((out/'opening-raw.txt').read_text(encoding='utf-8'))
+          print('=== OPENING ENHANCED ===')
+          print((out/'opening-enhanced.txt').read_text(encoding='utf-8'))
+          print('=== TAIL RAW ===')
+          print((out/'tail-raw.txt').read_text(encoding='utf-8'))
+          print('=== TAIL ENHANCED ===')
+          print((out/'tail-enhanced.txt').read_text(encoding='utf-8'))
+          PY
+          python transcribe.py
+      - name: Upload boundary evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: audio-06-boundaries
+          path: audio-06-boundaries/
+          retention-days: 7
