@@ -1,0 +1,82 @@
+name: Audio 06 right-channel chunked large pre-transcription
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/audio-06-right-chunked-large.yml
+
+permissions:
+  contents: read
+
+jobs:
+  chunked-pretranscription:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install faster-whisper
+      - name: Download and verify
+        run: |
+          set -euxo pipefail
+          curl --fail --location --retry 5 --retry-delay 5 \
+            'https://tamildigitallibrary.in/kalaignar/audio/06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.mp3' \
+            -o source.mp3
+          echo '6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836  source.mp3' | sha256sum -c
+          ffmpeg -hide_banner -loglevel error -y -i source.mp3 -af 'pan=mono|c0=c1' -ar 16000 -c:a pcm_s16le right.wav
+      - name: Chunked large-v3-turbo navigation transcript
+        run: |
+          cat > chunked.py <<'PY'
+          from faster_whisper import WhisperModel
+          from pathlib import Path
+          import json, subprocess
+
+          duration = 1582.080
+          chunk_len = 120.0
+          work = Path('chunks'); work.mkdir(exist_ok=True)
+          out = Path('audio-06-right-chunked-large'); out.mkdir(exist_ok=True)
+          model = WhisperModel('large-v3-turbo', device='cpu', compute_type='int8')
+          all_rows=[]; all_lines=[]
+
+          index=0
+          start=0.0
+          while start < duration:
+              length=min(chunk_len, duration-start)
+              wav=work/f'chunk-{index:02d}.wav'
+              subprocess.run([
+                  'ffmpeg','-hide_banner','-loglevel','error','-y',
+                  '-ss',str(start),'-i','right.wav','-t',str(length),
+                  '-c:a','pcm_s16le',str(wav)
+              ],check=True)
+              segs,info=model.transcribe(
+                  str(wav),language='ta',task='transcribe',beam_size=5,best_of=5,
+                  temperature=0.0,condition_on_previous_text=False,
+                  word_timestamps=True,vad_filter=False
+              )
+              rows=[]; lines=[]
+              for s in segs:
+                  st=s.start+start; en=s.end+start; text=s.text.strip()
+                  lines.append(f'[{st:08.2f}-{en:08.2f}] {text}')
+                  row={'start':st,'end':en,'text':text,'avg_logprob':s.avg_logprob,'no_speech_prob':s.no_speech_prob}
+                  if s.words:
+                      row['words']=[{'start':w.start+start,'end':w.end+start,'word':w.word,'probability':w.probability} for w in s.words]
+                  rows.append(row); all_rows.append(row)
+              text='\n'.join(lines)+'\n'
+              (out/f'chunk-{index:02d}-{int(start):04d}-{int(start+length):04d}.txt').write_text(text,encoding='utf-8')
+              (out/f'chunk-{index:02d}-{int(start):04d}-{int(start+length):04d}.json').write_text(json.dumps({'language':info.language,'language_probability':info.language_probability,'segments':rows},ensure_ascii=False,indent=2),encoding='utf-8')
+              all_lines.extend(lines)
+              index+=1; start+=length
+          (out/'combined.txt').write_text('\n'.join(all_lines)+'\n',encoding='utf-8')
+          (out/'combined.json').write_text(json.dumps({'segments':all_rows},ensure_ascii=False,indent=2),encoding='utf-8')
+          print((out/'combined.txt').read_text(encoding='utf-8'))
+          PY
+          python chunked.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audio-06-right-chunked-large
+          path: audio-06-right-chunked-large/
+          retention-days: 7
