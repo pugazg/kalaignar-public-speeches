@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — provisional draft reaches approximately 16:00, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T1 in progress — provisional draft reaches approximately 20:00, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -192,3 +192,51 @@
 ## [15:35]
 
 `[Several play titles and the list of co-actors through approximately 16:00 are unstable in the captured machine evidence. T. V. Narayanasamy/T.V.N. and K. R. Ramasamy are candidate name anchors; another poet/artist name and the play titles require direct source replay. No list is reconstructed here.]`
+
+## [16:00]
+
+இப்படி அத்தனை பேரும் இந்தக் கலை உலகத்திலே `[தொடர் தெளிவில்லை]` பாடுபட்டவர்களும், கலையை அரசியலாக மாற்றிவிட வேண்டும் என்று எண்ணியவர்கள் அல்ல.
+
+அரசியலுக்குக் கலை தேவை.
+
+`[The exact subject/phrase linking this idea to a life-goal around 16:18–16:24 remains unclear.]`
+
+அண்ணா அவர்களும் கொண்டிருந்தார். அரசியல் எண்ணங்களை எடுத்துச் சொல்லுவதற்குக் கலை தேவைதான்.
+
+## [16:30]
+
+எந்த ஒன்றையும் அப்பட்டமாகச் சொல்லுவதைவிட, ஏன் சொல்லிலே அழகு இருக்க வேண்டும் என்று சொல்கிறோம்? பேச்சிலே அழகு இருக்க வேண்டும் என்று சொல்கிறோம்? எழுத்திலே அழகு இருக்க வேண்டும் என்று சொல்கிறோம்?
+
+சொல்லில் சுவை இருந்தால்தான் மற்றவர்களுடைய உள்ளத்திலே பதியும். அந்தச் சுவைக்குப் பேர்தான் கலை.
+
+எழுத்தை அழகாக எழுதினால் கலை. பேச்சு மற்றவர்களைக் கவரத்தக்க அளவுக்குப் பேசப்பட்டால் அங்கே கலை.
+
+அதைப்போலத்தான் அரசியல் எண்ணங்களை எடுத்துச் சொல்லக் கலை தேவைப்படுகிறது.
+
+அரசியலுக்குக் கலை தேவை; ஆனால் கலையே அரசியல் அல்ல. பெண்களுக்கு நகை தேவை; ஆனால் நகையே பெண்கள் அல்ல.
+
+## [17:15]
+
+கலை, சிவாஜி குறிப்பிட்டதைப்போல், நல்ல காரியத்திற்கும் பயன்படுத்தலாம். அதே நேரத்திலே தீய காரியத்திற்கும் பயன்படுத்தலாம்.
+
+ஆனால் நல்ல காரியத்திற்குப் பயன்படுகின்ற கலைதான் கலையாக இருக்க முடியும். அந்தக் கலைதான் வளர வேண்டும். அந்தக் கலைதான் வளர்க்கப்பட வேண்டும் என்கின்ற சீரிய நோக்கத்தை, மறைந்த `[பட்டம்/சொல் தெளிவில்லை]` கலை உலகப் பெருமகன் கலைவாணர் என். எஸ். கிருஷ்ணன் அவர்கள் கடைப்பிடித்தாரே.
+
+## [17:47]
+
+“தக்கார் தகவிலர் என்பது அவரவர் எச்சத்தால் காணப்படும்” என்பது திருக்குறள்.
+
+ஒருவர் நல்லவரா அல்லது நல்லவர் அல்லாதவரா—
+
+`[The explanation of the Kural from approximately 17:56–19:00 is unstable. The independent 30-second large-model pass still enters repeated-token collapse throughout much of 18:00–19:00, so this passage is intentionally withheld rather than reconstructed or normalized from a printed Kural source.]`
+
+## [19:00]
+
+`[The beginning of the legacy list is partly unclear.]`
+
+அவர் தொடுத்துத் தந்த சுயமரியாதைக் கருத்துக்கள், ஜாதி ஒழிய வேண்டும் என்பதற்காக அவர் அன்றைக்கு ஆற்றிய கலைப்பணி, அவர் `[சொற்றொடர் தெளிவில்லை]` என்று கொண்டிருந்த நெஞ்சிரக்கம்—இவைகள்தான் பதினெட்டு ஆண்டுக் காலத்திற்குப் பிறகும், இன்னும் பல ஆண்டுக் காலத்திற்குப் பிறகும் `[தொடர் தெளிவில்லை]`.
+
+“தக்கார் தகவிலர் என்பது அவரவர் எச்சத்தால் காணப்படும்”; பிள்ளைகளால் காணப்படும் என்றல்ல.
+
+## [approximately 19:33–20:00]
+
+`[The concluding comparison/wordplay before 20:00 remains unstable. The machine pass deteriorates into malformed and non-Tamil output in this range, so it is intentionally withheld pending source replay.]`
