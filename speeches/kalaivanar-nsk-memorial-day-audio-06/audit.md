@@ -2,7 +2,7 @@
 
 ## Status
 
-**Source intake and machine-aided navigation complete. Tamil T1 provisional draft reaches approximately `08:00`. Direct-listening audit has not started.**
+**Source intake and machine-aided navigation complete. Tamil T1 provisional draft reaches approximately `16:00`. Direct-listening audit has not started.**
 
 The controlling MP3 is authoritative. Machine transcripts are secondary navigation evidence only and must not be promoted to verified Tamil without direct listening.
 
@@ -59,7 +59,7 @@ The earlier completed `speeches/kalaivanar-nsk-memorial-day/` source is `00:07:2
 
 Both are rejected as transcripts. They may not be copied wholesale into `transcription-ta.md`.
 
-### Corrected chunk strategy
+### Accepted navigation strategy
 
 Useful evidence was captured using:
 
@@ -71,7 +71,7 @@ Useful evidence was captured using:
 
 The complete chunked pass supplies a topic map through the true file end and does not show the catastrophic whole-file repetition collapse. Some chunk starts and ends remain unstable, so it is still navigation evidence rather than verified wording.
 
-### Targeted opening and `04:00–08:00` passes
+### Targeted opening and `04:00–08:00` checks
 
 Independent opening chunks confirmed stable portions concerning:
 
@@ -80,54 +80,78 @@ Independent opening chunks confirmed stable portions concerning:
 - Kannadasan and Sivaji Ganesan;
 - the beginning of the hotel-room recollection.
 
-The targeted `04:00–08:00` pass confirmed the narrative sequence:
+The targeted `04:00–08:00` pass confirmed the narrative sequence involving political hostility, an accidental crossed telephone connection, Kannadasan's attacks, Tamil/art softening hostility, Anna's use of art, Kalaivanar's supporting role, S. S. Rajendran, and the Kannagi/Ilangovan discussion.
 
-- political hostility between the speaker and Kannadasan;
-- an accidental crossed telephone connection;
-- the later conversation about Kannadasan's attacks;
-- Tamil and Tamil art softening hostility;
-- Anna using art to communicate social ideas;
-- Kalaivanar as an early supporting force;
-- S. S. Rajendran's observation;
-- the Kannagi film and Ilangovan discussion.
+It did **not** safely resolve several telephone-interference words, one political-party/name phrase, the full personal-name expansion before `இளங்கோவன்`, or the article opening near `07:44–08:00`.
 
-It did **not** safely resolve:
+### `08:00–12:00` provisional pass
 
-- the telephone-interference sentence around `04:48–05:14`;
-- one name in the `03:22` political-party passage;
-- the complete personal-name expansion before `இளங்கோவன்`;
-- the quoted article opening near `07:44–08:00`.
+Stable candidate structure supported:
 
-Those ranges remain visibly unresolved rather than guessed.
+- Anna praising and criticizing Ilangovan's *Silappathikaram* adaptation;
+- the `இஞ்சிப்பத்தர்` character and the gold/brass image;
+- `வஞ்சிப்பத்தரை விட இந்த இஞ்சிப்பத்தரே மேல்`;
+- political, economic and social ideas presented like medicine mixed with honey;
+- early movement artists including K. R. Ramasamy, T. V. Narayanasamy and Sivaji Ganesan;
+- the transition to Kannadasan/Krishnan wordplay.
+
+Names, titles and rhetorical joins that did not converge remain bracketed in the canonical T1 draft.
+
+### `12:00–16:00` provisional pass
+
+The previously captured chunk artifact was re-read, including its stored word-confidence data. Stable candidate structure supports:
+
+- Kannadasan recommending that the speaker “accept Krishna”;
+- a Krishna/Paramatma joke moving into a Gopalapuram house anecdote;
+- the speaker saying he did not construct a new house but bought an existing house about twenty years earlier;
+- mock-newspaper phrasing including the stable anchors `கருணாநிதியின் நண்பர் கண்ணதாசனே குட்டை உடைத்துவிட்டார்` and `மர்மம் அம்பலமானது`;
+- a retired postal-department official selling the house;
+- reactions to Karunanidhi moving into the locality/agraharam;
+- the remembered comment that the name had caused fear although the person looked mild;
+- a transition from the house story to gratitude for artists who carried movement ideas;
+- Sivaji's early unpaid stage work with the speaker;
+- a list of stage plays and co-actors continuing to approximately `16:00`.
+
+The following were **not** reconstructed:
+
+- `12:49–13:15`, where the stored machine chunk itself enters repeated-token collapse;
+- the exact retired official's name/title sequence;
+- the detailed locality/agraharam exchange around `13:28–14:00`;
+- the exact ideological-position sentence around `14:29–14:54`;
+- the stage-play titles and complete co-actor list around `15:35–16:00`.
+
+Candidate anchors such as T. V. Narayanasamy/T.V.N. and K. R. Ramasamy are explicitly not treated as verified list readings.
+
+An additional full-download `12:00–16:00` 60-second rerun was triggered for comparison but was not needed to establish the durable provisional text. The durable T1 update relies on the already captured chunk evidence and its confidence inspection, not on an unfinished or partial rerun.
 
 ## Provisional Tamil T1 state
 
-`transcription-ta.md` now reaches approximately `08:00` and includes provisional sections for:
+`transcription-ta.md` now reaches approximately `16:00`.
 
-1. the humour-filled opening;
-2. the beginning and conclusion of the Chinna Annamalai anecdote, with its unstable interior withheld;
-3. Kannadasan and Sivaji Ganesan;
-4. the hotel-room and crossed-telephone recollection;
-5. Kannadasan asking how the speaker reacted to his political attacks;
-6. Tamil/art transforming hostility;
-7. Anna, Kalaivanar and S. S. Rajendran;
-8. the beginning of the Ilangovan/Kannagi discussion.
+Machine-readable state:
+
+- provisional speech segments drafted: **15**;
+- open unresolved ranges/phrases: **24**;
+- T2 direct-listening segments checked: **0**;
+- T2 direct-listening segments passed: **0**.
 
 No section has passed T2. The draft status is provisional throughout.
 
 ## Temporary workflow cleanup
 
-All temporary Audio 06 GitHub Actions workflows used for intake, boundary checks and chunk generation were deleted after their artifacts were captured and their evidentiary limits documented. No Audio 06 workflow remains under `.github/workflows/`.
+All temporary Audio 06 workflow files used for intake, boundary checks, chunk generation, artifact exposure and confidence inspection have been deleted after useful evidence was captured and its limitations documented.
+
+No temporary workflow file is part of the durable archive.
 
 ## Exact next activity
 
-Process provisional Tamil T1 for `08:00–12:00`, covering:
+Process provisional Tamil T1 for **`16:00–20:00`** using the previously captured independent right-channel chunk evidence.
 
-- Anna's quotation about Ilangovan;
-- the Silappathikaram/Kannagi discussion;
-- the `இஞ்சி பத்தனே மேல்` article and Kalaivanar's character;
-- Kalaivanar conveying political, economic and social ideas through humour;
-- the medicine-and-honey image;
-- K. R. Ramasamy and other early movement artists.
+Requirements:
 
-Use independent right-channel chunks as navigation only. Preserve uncertainty. Do not begin English.
+1. continue exactly from the unresolved stage-play/co-actor list at `16:00`;
+2. add only wording that is stable enough for a provisional T1 draft;
+3. retain uncertain names, titles and quotations as explicit unresolved ranges;
+4. do not call any machine-derived text direct listening;
+5. do not begin English;
+6. after T1 reaches the true end, begin T2 with the spoken lead-in and opening boundary, not with English.
