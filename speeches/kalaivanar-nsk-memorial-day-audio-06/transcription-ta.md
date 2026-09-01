@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T1 in progress — provisional draft reaches approximately 20:00, with explicit unresolved ranges; direct auditory verification pending**
+**Status:** **T1 in progress — provisional draft reaches approximately 24:00, with explicit unresolved ranges; direct auditory verification pending**
 
 > The attached stereo MP3 is the controlling source. The source begins with a separate spoken lead-in, followed by an interval of low-level silence/ambience, and then the main speech. Punctuation, paragraphing, spacing and timestamp headings are editorial aids. The text below is a provisional T1 draft assembled from repeated machine-aided navigation passes and must not be treated as direct-listening-verified Tamil. Uncertain or unstable ranges remain untranscribed rather than guessed.
 
@@ -240,3 +240,57 @@
 ## [approximately 19:33–20:00]
 
 `[The concluding comparison/wordplay before 20:00 remains unstable. The machine pass deteriorates into malformed and non-Tamil output in this range, so it is intentionally withheld pending source replay.]`
+
+## [20:00]
+
+`[The unresolved comparison from 19:33–20:00 continues into this passage. Exact first words remain withheld.]`
+
+“எச்சத்தால் காணப்படும்” என்பது இருக்கிறதே; பிள்ளைகளால், அவர்கள் பெற்ற மக்களால் காணப்படும் என்பது பொருளல்லவே.
+
+`[The following explanation of Valluvar's intended sense and a reference to people who came later is unstable across the captured machine evidence.]`
+
+## [20:30]
+
+அவர் நாட்டு மக்களுக்குத் தந்துவிட்டுப் போன கருத்துக்கள் `[தொடர் தெளிவில்லை]`.
+
+அப்படிப் பார்த்தால், கலைவாணருக்குப் பிறகு நாம் எல்லாம் இங்கே கூடி அவரைப் புகழ்வதும், அவரைப் பாராட்டுவதும், அவருடைய அரிய கருத்துக்கள் எப்படி நகைச்சுவை மூலமாக விளக்கப்பட்டன என்பதை எடுத்துச் சொல்லுவதும், அவர் விட்டுப் போன எச்சங்களாகும்.
+
+`[A short transition from this “எச்சம்” argument to the following recollection remains unresolved.]`
+
+## [21:04]
+
+`[The exact place-name/introductory phrase before “காங்கிரஸ் மாநாடு” remains unresolved.]` நடைபெற்ற காங்கிரஸ் மாநாட்டிலே, `[தொடர் தெளிவில்லை]`. அதிலே கலைவாணர் நாடகத்திற்காக அழைக்கப்பட்டார்.
+
+அதிலே “விலாங்கு மனிதன்” என்கின்ற நாடகம் `[வினைச்சொல் தெளிவில்லை]`.
+
+“விலாங்கு” என்றால் `[பாம்பு தொடர்பான விளக்கம் தெளிவில்லை]`; ஒருவகையான நீரில் வாழ்கின்ற உயிரினம்.
+
+அந்த “விலாங்கு மனிதன்” என்கின்ற தலைப்பிலே, கலைவாணர் ஒரு ஓட்டல்காரராக வருவார்.
+
+## [approximately 21:38–22:00]
+
+`[The hotel-character example enters repeated-token collapse in the captured evidence and is intentionally withheld.]`
+
+## [22:00]
+
+`[A short carry-over phrase from the prior example remains unresolved.]`
+
+ஏற்கனவே குறிப்பிட்டதைப்போல், நாற்பத்தேழாம் ஆண்டு இந்தியத் துணைக்கண்டம் விடுதலை பெற்றபோது, சுதந்திரக் கொடி பட்டொளி வீசி, முகிலை முட்ட உயர்ந்து எழுந்தபோது, வாணொலியினர் அழைத்து, “சுதந்திர கீதத்தைப் பாடுங்கள்” என்று கேட்டபோது—
+
+`[Approximately 22:20–22:52 contains Kalaivanar's response, a self-respect reference, and a reference involving Sivaji. Exact wording is too unstable for provisional transcription.]`
+
+## [22:52]
+
+கம்யூனிஸ்ட் கட்சியிலும் ஜீவானந்தம், தமிழரசுக் கழகத்து `[பட்டம்/தொடர் தெளிவில்லை]` மா.பொ.சி., காங்கிரஸ் கட்சியினுடைய தலைவர்கள், `[மற்ற பெயர்கள்/கட்சித் தொடர் தெளிவில்லை]`—
+
+`[The sentence contrasting those admirers with Kalaivanar's own movement preference remains partly unresolved.]`
+
+## [23:25]
+
+அதற்கு அடையாளம், தேர்தல் நேரங்களில் அண்ணா வெற்றி பெற வேண்டும், லட்சிய நடிகர் ராஜேந்திரன் வெற்றி பெற வேண்டும், நான் வெற்றி பெற வேண்டும், கழகத் தோழர்கள் வெற்றி பெற வேண்டும் என்பதற்காக, அவர் அன்றைக்கு அலையாத இடங்களில்லை. அவருடைய வில்லுப்பாட்டு நடைபெறாத இடங்களில்லை.
+
+## [23:44]
+
+`[A place/person reference and the sentence about the electoral effect of Kalaivanar's campaigning remain unresolved. The following emotional reaction also has an unstable subject/verb.]`
+
+அவ்வளவு குடும்பப் பாசத்தை இந்த இயக்கத்திலே கலைவாணர் `[வாக்கியம் 24:00க்கு அப்பால் தொடர்கிறது]`.
