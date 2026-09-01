@@ -252,13 +252,13 @@ T2 must resolve directly from the source:
 
 All 42 textual/ASR prechecks remain complete. The earlier execution gate was superseded when the checksum-matching MP3 was reattached with genuine audible playback. Batch 43 therefore began strict direct listening from `00:00`; the historical decision not to count earlier machine-transcript/file-analysis work as T2 remains valid.
 
-Do **not** infer T2 progress from the prechecks themselves. Genuine direct-listening state is now **2 checked / 1 passed**. The first main-speech segment passed, while the announcer lead-in remains partly unresolved; the complete opening gate, ending and `recording_truncated` remain unresolved.
+Do **not** infer T2 progress from the prechecks themselves. Genuine direct-listening state is now **12 checked / 4 passed**. The main-speech opening and three later ranges have passed, while the announcer lead-in and several localized phrases remain partly unresolved; the complete opening gate, ending and `recording_truncated` remain unresolved.
 
 ## Latest direct-listening result
 
-Batch 43 (`00:00–01:10`) is the first genuine T2 audit record. It confirms the quiet interval, main-speech onset at approximately `00:41.9`, first word `கலைவாணருடைய`, and the first complete main-speech sentence including `படையலை` and `மிகையாகாது`. The separate announcer lead-in was replayed but still contains two short unresolved phrases, so the opening gate is not complete. Cumulative state: **2 checked / 1 passed**.
+Batch 43 (`00:00–01:10`) established the first genuine T2 checkpoint and confirmed the main-speech opening. Records 44–53 then completed the first user-directed 10-batch iteration through `09:25`. Cumulative state is now **12 checked / 4 passed**; checked-but-unresolved phrases remain on the retry list and the opening gate is not yet complete.
 
-Record: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md`.
+Records: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md` through `t2-batches/batch-53-direct-listening-audit-08-38-09-25.md`.
 
 ## T2 direct-listening cadence and live checkpoint
 
@@ -270,7 +270,7 @@ The next 10-batch iteration is precheck ranges **12–21**, from `09:25` through
 
 ## Exact next activity
 
-Continue **T2 strict direct listening with `01:10–02:20`** using the checksum-matching controlling MP3. Retain the partly unresolved `00:00–00:14` lead-in as a mandatory opening-gate retry before T2 closure.
+Continue **T2 strict direct listening with the next 10-batch iteration: precheck ranges 12–21 (`09:25–14:15`)** using the checksum-matching controlling MP3. Retain the partly unresolved `00:00–00:14` lead-in and all checked-but-not-passed phrases as mandatory retries before T2 closure.
 
 Do not count attachment-level transcription, ASR, waveform/silence analysis or machine comparisons as T2. T2 is an end-to-end auditory source audit.
 
