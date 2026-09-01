@@ -74,7 +74,7 @@ T2 counters remain **0 checked / 0 passed**. Do not promote these machine/signal
 
 ## T2 textual-precheck state
 
-Thirty-six preparatory records are complete:
+Thirty-seven preparatory records are complete:
 
 1. `t2-batches/batch-01-00-00-01-10-precheck.md`;
 2. `t2-batches/batch-02-01-10-02-34-precheck.md`.
@@ -112,6 +112,7 @@ Thirty-six preparatory records are complete:
 34. `t2-batches/batch-34-21-04-22-00-precheck.md`.
 35. `t2-batches/batch-35-22-00-22-52-precheck.md`.
 36. `t2-batches/batch-36-22-52-23-25-precheck.md`.
+37. `t2-batches/batch-37-23-25-23-44-precheck.md`.
 
 The second precheck maps the previously withheld Chinna Annamalai anecdote more fully but deliberately leaves the conference/event name, mock-boasting examples, proper nouns and honorific forms unresolved. No canonical Tamil was changed.
 
@@ -166,6 +167,8 @@ The twenty-sixth precheck covers `16:30–17:15`. It maps the beauty/taste rheto
 The twenty-seventh through thirty-first prechecks cover `17:15–20:00`. They preserve the good/evil-art argument, isolate the spoken Kural opening, explicitly keep the `18:00–19:00` machine-collapse interval withheld, map the later Kalaivanar legacy anchors, and keep the malformed `19:33–20:00` comparison withheld. Printed Kural wording and historical movement terminology were not used to fill uncertain audio. No canonical Tamil was changed.
 
 The thirty-second through thirty-sixth prechecks cover `20:00–23:25`. They map the `எச்சம்` clarification and legacy conclusion, preserve the unusual machine-supported `விலாங்கு மனிதன்` title without normalization, isolate the collapsed hotel example, preserve only the source-supported `சுதந்திர கீதத்தைப் பாடுங்கள்` anchor from the 1947 radio episode, and record the Jeevanandam/Ma. Po. Si./Congress admirer-list anchors without reconstructing political affiliations or Kalaivanar's movement preference. No canonical Tamil was changed.
+
+The thirty-seventh precheck covers `23:25–23:44`. It maps the election-campaign passage and identifies machine-supported Anna, Rajendran, Karunanidhi, villuppattu and `இடங்களில்லை` anchors, while preserving the Rajendran title, other movement-candidate phrase, travel verb and full villuppattu construction for true audible replay. No canonical Tamil was changed.
 
 These records are **not** direct listening. T2 remains **0 checked / 0 passed**, and the true auditory sequence must still begin at `00:00`.
 

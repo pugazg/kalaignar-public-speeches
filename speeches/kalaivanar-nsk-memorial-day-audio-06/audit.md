@@ -80,7 +80,7 @@ The current T1 version remains the stronger provisional reading. Competing machi
 
 ## T2 textual precheck coverage
 
-Thirty-six preparatory T2 records now exist:
+Thirty-seven preparatory T2 records now exist:
 
 - `t2-batches/batch-01-00-00-01-10-precheck.md` — lead-in, opening boundary and first main-speech sentence;
 - `t2-batches/batch-02-01-10-02-34-precheck.md` — Chinna Annamalai anecdote and humorous conclusion.
@@ -118,6 +118,7 @@ Thirty-six preparatory T2 records now exist:
 - `t2-batches/batch-34-21-04-22-00-precheck.md` — Congress-conference recollection, `விலாங்கு மனிதன்`, hotelier role and collapsed hotel example.
 - `t2-batches/batch-35-22-00-22-52-precheck.md` — 1947 independence/radio setup, `சுதந்திர கீதத்தைப் பாடுங்கள்`, and withheld Kalaivanar/self-respect/Sivaji response.
 - `t2-batches/batch-36-22-52-23-25-precheck.md` — cross-party admirer list, Jeevanandam/Ma. Po. Si./Congress anchors and unresolved movement-preference contrast.
+- `t2-batches/batch-37-23-25-23-44-precheck.md` — election campaigning, Anna/Rajendran/Karunanidhi victory anchors, movement candidates, travel and villuppattu wording.
 
 Batch 2 exposes a fuller machine-supported narrative skeleton for the previously withheld `01:16–02:12` span, including the claim of telling something unknown to others, questioning whether the anecdote was later stage invention, an uncertainly transcribed conference/event reference, the possibility of asking Kalaivanar whether it was true, and a mock-boasting sequence about private knowledge/closeness. Proper nouns, honorific verb forms, the conference name and several examples remain too noisy for canonical promotion.
 
@@ -172,6 +173,8 @@ Batch 26 covers `16:30–17:15`. Machine evidence is uneven: it directly recover
 Batches 27–31 extend textual preparation from `17:15` through `20:00`. Batch 27 supports the good/evil-art contrast and `வளர்க்கப்பட வேண்டும்` direction but leaves Kalaivanar's epithet unresolved. Batch 28 preserves only machine-supported spoken Kural anchors and does not normalize from printed text. Batch 29 intentionally leaves `18:00–19:00` withheld after repeated-token collapse. Batch 30 recovers `ஜாதி ஒழிய வேண்டும்`, `ஆற்றிய கலைப்பணி`, `நெஞ்சிரக்கம்`, and `பிள்ளைகளால் காணப்படும்` anchors while leaving the full legacy/time-span syntax unresolved. Batch 31 remains negative evidence because the comparison before `20:00` is malformed in machine output; only broader `வள்ளுவர்`, `பிள்ளைகளால்`, and earlier `எச்சத்தால் காணப்படும்` anchors are usable. No canonical Tamil was changed.
 
 Batches 32–36 extend textual preparation from `20:00` through `23:25`. Batch 32 keeps the `எச்சம்` interpretation source-dependent: `எச்சத்தால் காணப்படும்`, `பிள்ளைகளால்`, and `வள்ளுவர்` are usable anchors, but the descendants wording and intended-sense explanation remain unstable. Batch 33 more strongly supports `அவரைப் புகழ்வதும்`, `அவரைப் பாராட்டுவதும்`, `நகைச்சுவை மூலமாக`, and `எச்சங்களாகும்`. Batch 34 directly recovers `விலாங்கு மனிதன்`, Kalaivanar being invited for the play, and the hotelier role, while the event/place intro and the collapsed hotel example remain unresolved. Batch 35 directly recovers `சுதந்திர கீதத்தைப் பாடுங்கள்` but not the full 1947 setup, Kalaivanar response, self-respect wording or Sivaji reference. Batch 36 recovers `ஜீவானந்தம்`, `மா.பொ.சி.` and `காங்கிரஸ் கட்சியினுடைய தலைவர்கள்`, but the remaining affiliations and Kalaivanar's own movement-preference sentence remain for replay. No canonical Tamil was changed.
+
+Batch 37 covers `23:25–23:44`. Machine evidence directly recovers `தேர்தல் நேரங்களில்`, `அண்ணா வெற்றி பெற வேண்டும்`, shorter `ராஜேந்திரன் வெற்றி`, `நான் வெற்றி பெற வேண்டும்`, `வில்லுப்பாட்டு`, and a generic `இடங்களில்லை`, but does not literally confirm the full `லட்சிய நடிகர் ராஜேந்திரன் வெற்றி பெற வேண்டும்`, `கழகத் தோழர்கள் வெற்றி பெற வேண்டும்`, `அலையாத`, `வில்லுப்பாட்டு நடைபெறாத இடங்களில்லை`, or `அதற்கு அடையாளம்` forms. Those titles, candidate wording and emphatic campaign constructions remain for true audible replay. No canonical Tamil was changed.
 
 These are textual/machine prechecks only. They do **not** change canonical Tamil and do **not** increment T2 direct-listening counters.
 
