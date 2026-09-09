@@ -1,6 +1,6 @@
 # Audit — முத்துக்குளியல் — பாகம் II
 
-Collection-level source inspection and mapping audit.
+Collection-level source inspection, mapping and constituent-progress audit.
 
 ## Source identity
 
@@ -9,43 +9,49 @@ Collection-level source inspection and mapping audit.
 - Byte size: `232,470,104`
 - Actual PDF page count: **425**
 
-The page count was taken from the complete local PDF binary. A truncated rendering surface exposed only 150 pages earlier; that was not the complete-file page count and is superseded by the direct binary result.
+The page count comes from the complete local PDF binary. The earlier 150-page rendering view was truncated and is superseded.
 
-## Directly inspected source regions
+## Source classification and mapping
 
-- PDF 1–5: cover/title/imprint sequence
-- PDF 6–9: front matter (`முன்னுரை`, `பதிப்புரை`, including blank/show-through verso)
-- PDF 10–11: complete contents
-- PDF 12: first constituent opening / printed p.11
-- PDF 424: final constituent closing / printed p.423
-- PDF 425: true final page / back cover
+The imprint describes the work as **`சொற்பொழிவுகளின் தொகுப்பு`** and the contents contain **36 separately titled items**. The volume is therefore a **multi-speech collection**, not one speech.
 
-## Source classification
-
-The imprint describes the work as **`சொற்பொழிவுகளின் தொகுப்பு`** and the contents contain **36 separately titled items**. Therefore the volume is classified as a **multi-speech collection**, not one speech.
-
-## Mapping verification
-
-The constituent body begins at PDF 12 / printed 11 and ends at PDF 424 / printed 423, establishing a stable offset of `PDF = printed + 1` across the body.
-
-All 36 contents start pages were captured. Each end page was mapped to one page before the next contents start; item 36 ends at the directly inspected final body page, printed 423 / PDF 424.
-
-Result:
+The constituent body runs PDF **12–424** / printed **11–423**, with stable offset `PDF = printed + 1`.
 
 - contents capture: **36 / 36 PASS**
 - printed-page ranges: **36 / 36 mapped**
 - PDF scan ranges: **36 / 36 mapped**
-- front/back-matter boundary: **PASS**
 - collection source intake: **COMPLETE**
+
+## Constituent progression
+
+### Constituent 1 — CLOSED
+
+`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` — PDF **12–18** / printed **11–17** — `speeches/desiya-ilainjar-kondatta-thodakka-vizha/`.
+
+Tamil T1/T2/T3 and English E1/E2/E3 all passed; repository-level closure is complete. Archive status: **CLOSED / FULLY ARCHIVED**.
+
+### Constituent 2 — ACTIVE
+
+`முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — PDF **19–33** / printed **18–32** — `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/`.
+
+- duplicate search: **PASS — no equivalent archive found**;
+- source boundaries: **PASS / COMPLETE**;
+- opening heading: `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`;
+- closing note: `13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை`;
+- date: **1998-01-13**;
+- venue: **not stated in inspected opening/closing evidence**;
+- Tamil T1: **IN PROGRESS — 5 / 15 pages**;
+- drafted range: PDF **19–23** / printed **18–22**;
+- next T1 batch: PDF **24–28** / printed **23–27**.
 
 ## Source-fidelity cautions
 
-- The contents order is preserved exactly; entries are not reordered chronologically.
-- Entries 7 and 16 do not show dates in the contents and remain unresolved at collection level.
-- Publication and embedded PDF metadata are kept distinct from speech/event facts.
-- No OCR, outside edition or catalogue text was used to override the scanned contents.
+- Preserve contents order exactly; do not reorder chronologically.
+- Entries 7 and 16 do not show dates in the contents and remain unresolved at collection level until their own source pages are inspected.
+- Publication and embedded PDF metadata remain distinct from speech/event facts.
+- Do not infer constituent 2 venue from contextual mentions of Chennai.
 - The PDF binary is not committed.
 
-## Next gate
+## Exact next gate
 
-Constituent 1, `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`, PDF 12–18 / printed 11–17: repository duplicate check, constituent source intake, then Tamil T1.
+Constituent 2 Tamil T1 batch 2: **PDF 24–28 / printed 23–27**. T2/T3 and English remain blocked until T1 is complete.
