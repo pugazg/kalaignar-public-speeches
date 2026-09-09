@@ -71,15 +71,18 @@
     "constituent_items_t2_complete": 1,
     "constituent_items_t3_complete": 1,
     "constituent_items_tamil_verified": 1,
+    "constituent_items_e1_complete": 1,
+    "constituent_items_e2_complete": 0,
+    "constituent_items_e3_complete": 0,
     "constituent_items_archived": 0,
     "collection_status": "constituent-processing-in-progress",
     "active_constituent_number": 1,
     "active_constituent_slug": "desiya-ilainjar-kondatta-thodakka-vizha",
     "active_constituent_title_ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா",
-    "active_constituent_status": "tamil-verified-complete",
+    "active_constituent_status": "english-e1-complete",
     "active_constituent_pdf_pages": "12-18",
     "active_constituent_printed_pages": "11-17",
     "next_constituent_number": 1,
-    "next_gate": "Constituent 1 E1 English first-pass translation from frozen Tamil"
+    "next_gate": "Constituent 1 E2 independent Tamil-to-English fidelity review — all 7 pages"
   }
 }
