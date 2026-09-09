@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Source for translation:** frozen `transcription-ta.md` only  
 **Source range:** PDF 12–18 / printed pp. 11–17  
-**E1 status:** `first-pass-complete` — 7/7 mapped pages
+**English status:** `fidelity-corrections-consolidated` — E1 7/7, E2 7/7; E3 pending
 
-> This is the complete first-pass English translation derived only from the frozen, source-verified Tamil layer. E2 independent Tamil→English fidelity review is still pending; this English layer is not yet `verified-complete`.
+> This English layer was derived only from the frozen, source-verified Tamil transcription. E2 independent Tamil→English fidelity review is complete and all confirmed corrections are consolidated below. Final E3 end-to-end verification is still pending; this English layer is not yet `verified-complete`.
 
 ## PDF 12 / printed p.11
 
@@ -53,7 +53,7 @@ Young people from every part of India are here. You have come to reaffirm our co
 
 It is most fitting that the National Youth Festival is celebrated on Swami Vivekananda's birthday. He had great faith in the youth in raising India to a higher level.
 
-[^p13-united]: The verified Tamil prints the unusual form `ஐக்கிய இந்தியர் மீது`. This E1 renders the evident political sense cautiously as “our commitment to a united India” while retaining the exact source form here for E2 review; the Tamil archival layer has not been altered.
+[^p13-united]: The verified Tamil prints the unusual form `ஐக்கிய இந்தியர் மீது`. A confident literal English rendering is not possible from this printed form alone. The body therefore uses the cautious contextual rendering “our commitment to a united India,” while the exact source wording is preserved here; the Tamil archival layer has not been altered.
 
 ## PDF 15 / printed p.14
 
@@ -80,7 +80,7 @@ If importance is not given to basic human values, lasting friendship cannot be a
 
 The benefits of development must reach every section of society.
 
-In particular, they must reach the weaker sections. My sincere request is that all of you should help such weaker sections. Energy and effort must be engaged in constructive activities. Constructive activities must be engaged in the efforts undertaken by governments to improve the welfare of the poor. This will support the efforts undertaken by governments to improve the welfare of the poor.
+In particular, they must reach the weaker sections. My sincere request is that all of you should help such weaker sections. Energy and effort must be directed into constructive activities. They must be directed into constructive activities in relation to the efforts undertaken by governments to improve the welfare of the poor. This will support the efforts undertaken by governments to improve the welfare of the poor.
 
 Youth possesses tremendous strength and energy. You must engage yourselves in activities that are useful in building the nation. When there is courage joined with firm conviction, the obstacles on the path of progress will disappear like bubbles on water.
 
@@ -110,7 +110,7 @@ A further ten thousand young men and young women are to be recruited into our po
 
 A 15 per cent reservation has been provided for rural students in professional courses such as engineering, medicine, dentistry, agriculture, veterinary medicine, law and Siddha medicine.
 
-The freedom fighters have placed the torch of freedom in the hands of the younger generation. It should not be regarded as a candle. It is a lamp that gives light to crores of people. At this time when the Golden Jubilee of Independence is being celebrated, let us pledge ourselves to accomplish that task.
+The freedom fighters have placed the lamp of freedom in the hands of the younger generation. It should not be regarded as a candle. It is a lamp that gives light to crores of people. At this time when the Golden Jubilee of Independence is being celebrated, let us pledge ourselves to accomplish that task.
 
 At this happy moment, I am pleased to inform you that our Government is formulating a “Tamil Nadu Youth Welfare Policy.” I wish everyone gathered here a happy stay here during this festival period.
 
@@ -121,4 +121,4 @@ until the goal is reached.”
 
 ### Source closing note — not part of the speech body
 
-`Chairperson's address at the National Youth Celebration inaugural function held at Jawaharlal Nehru Stadium, Chennai, on 12-1-98.`
+`Address delivered while presiding at the National Youth Celebration inaugural function held at Jawaharlal Nehru Stadium, Chennai, on 12-1-98.`
