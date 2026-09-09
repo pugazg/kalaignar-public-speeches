@@ -85,10 +85,10 @@
     "active_constituent_pdf_pages": "19-33",
     "active_constituent_printed_pages": "18-32",
     "active_constituent_pages_total": 15,
-    "active_constituent_t1_pages_drafted": 5,
-    "active_constituent_t1_through_pdf_page": 23,
-    "active_constituent_t1_through_printed_page": 22,
+    "active_constituent_t1_pages_drafted": 10,
+    "active_constituent_t1_through_pdf_page": 28,
+    "active_constituent_t1_through_printed_page": 27,
     "next_constituent_number": 2,
-    "next_gate": "Constituent 2 Tamil T1 PDF 24-28 / printed 23-27"
+    "next_gate": "Constituent 2 Tamil T1 PDF 29-33 / printed 28-32"
   }
 }
