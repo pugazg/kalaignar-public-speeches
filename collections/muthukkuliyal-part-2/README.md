@@ -27,11 +27,11 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - date: **13-01-1998** from source closing note;
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **IN PROGRESS — 5 / 15; 3 corrections; 0 unresolved**;
+- Tamil T2: **IN PROGRESS — 10 / 15; 4 corrections; 0 unresolved**;
 - T3/English: **BLOCKED**.
 
-T2 batch 1 covered PDF **19–23** / printed **18–22** and passed all five pages. Scan-confirmed corrections are retained in the speech-level audit.
+T2 batch 1 covered PDF **19–23** / printed **18–22**: **5/5 PASS; 3 corrections; 0 unresolved**. T2 batch 2 covered PDF **24–28** / printed **23–27**: **5/5 PASS; 1 correction; 0 unresolved**. The scan-confirmed batch-2 correction preserves the distinct source spelling `இந்த ஸ்டுடியோவில்` while leaving the earlier `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` unchanged.
 
 ## Exact next gate
 
-Constituent 2 Tamil **T2 batch 2 — PDF 24–28 / printed 23–27**. See `page-map.md` and the speech handover for details.
+Constituent 2 Tamil **T2 batch 3 — PDF 29–33 / printed 28–32**. See `page-map.md` and the speech handover for details.
