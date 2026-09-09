@@ -30,24 +30,34 @@ This establishes speech date **1998-01-13**, event wording `முரசொல�
 - duplicate search: **PASS — no equivalent archive found**;
 - source intake / boundaries: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 15 / 15 pages**;
-- Tamil T2: **IN PROGRESS — 5 / 15 pages**;
-- T2 corrections through PDF 23: **3**;
-- T2 unresolved readings through PDF 23: **0**;
+- Tamil T2: **IN PROGRESS — 10 / 15 pages**;
+- T2 corrections through PDF 28: **4**;
+- T2 unresolved readings through PDF 28: **0**;
 - Tamil T3: **BLOCKED until T2 complete**;
 - English E1/E2/E3: **BLOCKED until Tamil verified-complete**.
 
 ## T2 batch 1 — PASS
 
-PDF **19–23** / printed **18–22** were independently re-read against the scans.
+PDF **19–23** / printed **18–22**: **5 / 5 PASS; 3 corrections; 0 unresolved**.
 
-Scan-confirmed corrections consolidated:
+Corrections consolidated:
 
 1. PDF 19: `இசைக்குநர்` → `இயக்குநர்`.
 2. PDF 21: `அங்காங்குள்ள` → `ஆங்காங்குள்ள`.
 3. PDF 22: `போது` → `போதாது` in `அறக்கட்டளை என்று சொன்னால் போதாது;`.
 
-PDF 20 and PDF 23 passed without substantive correction. Batch result: **5 / 5 PASS; 3 corrections; 0 unresolved**.
+## T2 batch 2 — PASS
+
+PDF **24–28** / printed **23–27**: **5 / 5 PASS; 1 correction; 0 unresolved**.
+
+Correction consolidated:
+
+4. PDF 26 / printed p.25: `இந்த ஸ்டூடியோவில் இருந்து` → `இந்த ஸ்டுடியோவில் இருந்து`.
+
+The source intentionally differs within PDF 26: the earlier phrase is `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்`, while the later Modern Theatres quotation prints `இந்த ஸ்டுடியோவில்`. Preserve both forms exactly; do not normalize them.
+
+Pages PDF 24, 25, 27 and 28 passed without substantive correction. Names, initials, salary figures, film/studio references and transitions 23→24, 25→26 and 27→28 were directly checked.
 
 ## Exact next incomplete gate
 
-Continue **Tamil T2 batch 2 — PDF 24–28 / printed 23–27**. Re-read all five scans directly, apply only scan-confirmed corrections, and log any unresolved reading. Do not begin T3 or English in the same iteration.
+Complete **Tamil T2 batch 3 — PDF 29–33 / printed 28–32**. Recheck the queued odd readings and all remaining page transitions, verify the final body sentence and source-note separation, and apply only scan-confirmed corrections. Do not begin T3 or English in the same iteration.
