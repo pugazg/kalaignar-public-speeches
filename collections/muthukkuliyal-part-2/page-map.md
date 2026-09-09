@@ -11,7 +11,9 @@ Controlling source: `TVA_BOK_0065802_முத்துக்குளியல�
 - constituent body: PDF **12–424** / printed **11–423**
 - back cover: PDF **425**
 
-For the constituent body, the source uses a stable offset of **PDF scan = printed page + 1**. Dates are reproduced from the contents; `not stated in contents` must not be filled by inference.
+For the constituent body, the source uses a stable offset of **PDF scan = printed page + 1**. End pages below are derived from the next contents start page and checked against the established body boundary; the final item ends on printed p.423 / PDF 424.
+
+Dates in this table are reproduced from the contents. `not stated in contents` is deliberate and must not be filled by inference.
 
 | # | Contents title | Date in contents | Printed pages | PDF scans | Pages |
 |---:|---|---|---:|---:|---:|
@@ -57,7 +59,7 @@ For the constituent body, the source uses a stable offset of **PDF scan = printe
 | # | Speech slug | Current state |
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T1 IN PROGRESS — 5/15; PDF 19–23 drafted; PDF 24–28 next** |
+| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T1 IN PROGRESS — 10/15; PDF 19–28 drafted; PDF 29–33 next** |
 | 3–36 | — | not started |
 
 ## Mapping cautions
@@ -69,4 +71,4 @@ For the constituent body, the source uses a stable offset of **PDF scan = printe
 
 ## Active mapped item
 
-Constituent 2: **`முரசொலி அறக்கட்டளை விருது வழங்கு விழா`** — PDF **19–33** / printed **18–32** — speech tree `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/` — source gate **PASS / COMPLETE** — Tamil T1 **5/15**, next PDF **24–28** / printed **23–27**.
+Constituent 2: **`முரசொலி அறக்கட்டளை விருது வழங்கு விழா`** — PDF **19–33** / printed **18–32** — speech tree `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/` — source gate **PASS / COMPLETE** — Tamil T1 **10/15**, next PDF **29–33** / printed **28–32**.
