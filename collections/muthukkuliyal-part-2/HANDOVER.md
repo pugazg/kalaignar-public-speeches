@@ -4,77 +4,37 @@
 
 - Repository: `pugazg/kalaignar-public-speeches`
 - Branch: `main`
-- Collection directory: `collections/muthukkuliyal-part-2/`
-
-## Controlling source
-
-- Filename: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
+- Collection: `collections/muthukkuliyal-part-2/`
+- Source: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 - SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- Byte size: `232,470,104`
-- Actual PDF scans: **425**
-- Source binary committed: **No**
-- Source classification: **multi-speech collection / `சொற்பொழிவுகளின் தொகுப்பு`**
+- Actual scans: **425**
+- Classification: **36-item multi-speech collection**
 
-## Mapping state
+## Collection state
 
-- contents entries captured: **36 / 36 — COMPLETE**
-- constituent printed-page ranges mapped: **36 / 36 — COMPLETE**
-- constituent PDF scan ranges mapped: **36 / 36 — COMPLETE**
-- constituent archives started: **2 / 36**
-- constituent Tamil T1 complete: **1 / 36**
-- constituent Tamil T2/T3 complete: **1 / 36**
-- constituent Tamil verified: **1 / 36**
-- constituent English E1/E2/E3 complete: **1 / 36**
-- constituent archives fully completed: **1 / 36**
+- mapped: **36 / 36**;
+- archives started: **2 / 36**;
+- Tamil T1 complete: **2 / 36**;
+- Tamil T2/T3 complete: **1 / 36**;
+- Tamil verified: **1 / 36**;
+- English E1/E2/E3 complete: **1 / 36**;
+- fully archived: **1 / 36**.
 
-The stable body relationship is `PDF scan = printed page + 1` for PDF 12–424 / printed 11–423.
-
-## Closed constituent 1 / 36
-
-`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` — `speeches/desiya-ilainjar-kondatta-thodakka-vizha/` — **CLOSED / FULLY ARCHIVED**. Tamil and English are both `verified-complete`; no text work is pending.
+Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` remains **CLOSED / FULLY ARCHIVED**.
 
 ## Active constituent 2 / 36
 
-**`முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**  
-Speech tree: `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/`  
-Contents date: **13-01-98**  
-Printed pages: **18–32**  
-PDF scans: **19–33**  
-Mapped body pages: **15**
+`முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/`
 
-### Source gate — PASS / COMPLETE
+- PDF **19–33** / printed **18–32** — **15 pages**;
+- date **1998-01-13** from source closing note;
+- venue unresolved/not stated in inspected source;
+- Tamil T1: **COMPLETE — 15 / 15**;
+- T2: **NOT STARTED — 0 / 15**;
+- T3 and English: **BLOCKED**.
 
-Live `main` was searched for exact title, closing-note variant and likely slug terms; no existing equivalent archive was found.
-
-Direct source inspection establishes:
-
-- heading: `முரசொலி அறக்கட்டளை விருது வழங்கு விழா` on PDF 19 / printed p.18;
-- speech body ends on PDF 33 / printed p.32;
-- separate closing note: `13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை`;
-- date: **1998-01-13**;
-- event wording: **`முரசொலி அறக்கட்டளை விருது வழங்கும் விழா`**;
-- source role: **`ஆற்றிய உரை`**;
-- venue: **not stated in inspected opening/closing evidence**; do not infer it from contextual mentions of Chennai.
-
-### Tamil T1
-
-- Batch 1 PDF **19–23** / printed **18–22**: **DONE**;
-- Batch 2 PDF **24–28** / printed **23–27**: **DONE**;
-- total drafted: **10 / 15**;
-- Batch 3 PDF **29–33** / printed **28–32**: **NEXT**.
-
-Batch 2 directly followed the source across PDF 23→24, PDF 25→26 and PDF 27→28 page continuations. These remain first-pass readings and are not a T2 verification claim. PDF 28 ends mid-thought at `சாவி எழுதிய வாஷிங்டன்`.
-
-T2, T3 and English remain blocked until T1 is complete.
-
-## Important cautions
-
-- `transcription-ta.md` is first-pass only; do not treat current wording as scan-verified before T2.
-- preserve unusual source spelling/wording; do not modernize silently.
-- recheck names, initials, film/studio names, salary figures, historical printing forms, and flagged unusual T1 readings during T2.
-- the closing note is metadata, not speech body text.
-- do not commit the source PDF binary.
+The three T1 batches are complete: PDF **19–23**, **24–28**, **29–33**. The final body sentence and separate closing note are both captured; the note remains outside the speech body.
 
 ## Exact next incomplete gate
 
-Complete constituent **2 / 36** Tamil T1 with **PDF 29–33 / printed 28–32**. Include the final speech body words and keep the separate closing note outside the spoken/body transcription. Synchronize controls afterward; do not begin T2 or English in the same iteration.
+Run constituent 2 **Tamil T2 strict visual fidelity audit** across PDF **19–33** / printed **18–32**, preferably in three five-page batches. Do not begin T3 or English until T2 completes.

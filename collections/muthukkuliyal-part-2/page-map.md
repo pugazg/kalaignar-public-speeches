@@ -1,19 +1,8 @@
 # முத்துக்குளியல் — பாகம் II — Page Map
 
-Controlling source: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
+Controlling source: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf` — SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2` — **425 scans**.
 
-- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- actual PDF scans: **425**
-- collection type: **multi-speech volume**
-- contents: PDF scans **10–11**
-- constituent entries: **36 / 36 captured**
-- constituent ranges: **36 / 36 mapped**
-- constituent body: PDF **12–424** / printed **11–423**
-- back cover: PDF **425**
-
-For the constituent body, the source uses a stable offset of **PDF scan = printed page + 1**. End pages below are derived from the next contents start page and checked against the established body boundary; the final item ends on printed p.423 / PDF 424.
-
-Dates in this table are reproduced from the contents. `not stated in contents` is deliberate and must not be filled by inference.
+Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: **PDF scan = printed page + 1**. Dates below are reproduced from the contents and are not reordered chronologically.
 
 | # | Contents title | Date in contents | Printed pages | PDF scans | Pages |
 |---:|---|---|---:|---:|---:|
@@ -59,16 +48,9 @@ Dates in this table are reproduced from the contents. `not stated in contents` i
 | # | Speech slug | Current state |
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T1 IN PROGRESS — 10/15; PDF 19–28 drafted; PDF 29–33 next** |
+| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T1 COMPLETE — 15/15; T2 next** |
 | 3–36 | — | not started |
-
-## Mapping cautions
-
-- The contents sequence is authoritative as printed even where dates are not chronological; do not reorder entries by date.
-- Entries 7 and 16 have no date printed in the contents. Inspect their constituent pages before assigning a speech/event date.
-- Collection-level publication facts must not be copied into constituent speech-level event facts unless constituent pages support them.
-- The PDF binary is not committed to GitHub.
 
 ## Active mapped item
 
-Constituent 2: **`முரசொலி அறக்கட்டளை விருது வழங்கு விழா`** — PDF **19–33** / printed **18–32** — speech tree `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/` — source gate **PASS / COMPLETE** — Tamil T1 **10/15**, next PDF **29–33** / printed **28–32**.
+Constituent 2: PDF **19–33** / printed **18–32** — Tamil T1 **15/15 complete**. Exact next gate: **T2 strict visual fidelity audit**.

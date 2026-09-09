@@ -1,35 +1,17 @@
 {
   "id": "muthukkuliyal-part-2",
-  "title": {
-    "ta": "முத்துக் குளியல்",
-    "part_text": "பாகம் - II"
-  },
-  "creator": {
-    "name_ta": "கலைஞர் மு. கருணாநிதி",
-    "role": "author / speaker collection"
-  },
+  "title": {"ta": "முத்துக் குளியல்", "part_text": "பாகம் - II"},
+  "creator": {"name_ta": "கலைஞர் மு. கருணாநிதி", "role": "author / speaker collection"},
   "document_type": "multi-speech-collection",
   "language": "ta",
   "subject_source_text": "சொற்பொழிவுகளின் தொகுப்பு",
   "publication": {
-    "copyright_holder_ta": "தமிழ்க்கனி பதிப்பகம்",
-    "copyright_address_ta": "சென்னை - 600 004",
     "edition_text": "முதல் பதிப்பு 2000",
-    "edition": 1,
-    "publication_month": 6,
-    "publication_year": 2000,
     "publication_time_source_text": "ஜூன் 2000",
     "publisher_ta": "பூம்புகார் பதிப்பகம்",
-    "publisher_address_ta": "சென்னை - 600 108",
     "publication_number": 451,
     "price_text": "ரூ. 150/-",
-    "print_run": 2000,
-    "size_text": "14x 21 C.M.",
-    "type_size_text": "14 புள்ளி",
-    "paper_text": "சன்ஷைன் சூப்பர் பிரிண்டிங் 65 GSM",
-    "printer_ta": null,
-    "printer_address_ta": "சென்னை -13",
-    "printer_note": "The press address is clear on the imprint; the exact press name is intentionally left unresolved pending a separate high-confidence re-read."
+    "print_run": 2000
   },
   "source": {
     "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
@@ -37,28 +19,7 @@
     "file_size_bytes": 232470104,
     "pdf_pages": 425,
     "binary_committed": false,
-    "scan_status": "primary source supplied by repository owner",
-    "page_map": {
-      "pdf_1": "front cover",
-      "pdf_2": "inner title / part II",
-      "pdf_3": "blank/show-through verso",
-      "pdf_4": "title page",
-      "pdf_5": "imprint / publication details",
-      "pdf_6": "முன்னுரை",
-      "pdf_7": "blank/show-through verso",
-      "pdf_8_to_9": "பதிப்புரை",
-      "pdf_10_to_11": "உள்ளடக்கம்",
-      "pdf_12_to_424": "36 constituent items; printed pages 11-423",
-      "pdf_425": "back cover"
-    },
-    "printed_to_pdf_offset_for_constituent_body": 1,
-    "embedded_pdf_metadata": {
-      "producer": "iTextSharp™ 5.5.10 ©2000-2016 iText Group NV (AGPL-version)",
-      "creation_timestamp_utc": "2024-11-20T05:28:58Z",
-      "modification_timestamp_utc": "2024-12-04T06:02:50Z",
-      "pdf_version": "1.6",
-      "note": "Embedded timestamps are file/digitization metadata and are not publication or event facts."
-    }
+    "printed_to_pdf_offset_for_constituent_body": 1
   },
   "workflow": {
     "source_inspection": "complete",
@@ -67,7 +28,7 @@
     "constituent_items_total": 36,
     "constituent_items_mapped": 36,
     "constituent_items_started": 2,
-    "constituent_items_t1_complete": 1,
+    "constituent_items_t1_complete": 2,
     "constituent_items_t2_complete": 1,
     "constituent_items_t3_complete": 1,
     "constituent_items_tamil_verified": 1,
@@ -77,18 +38,17 @@
     "constituent_items_archived": 1,
     "collection_status": "constituent-processing-in-progress",
     "last_archived_constituent_number": 1,
-    "last_archived_constituent_slug": "desiya-ilainjar-kondatta-thodakka-vizha",
     "active_constituent_number": 2,
     "active_constituent_slug": "murasoli-arakkattalai-virudhu-vazhangu-vizha",
     "active_constituent_title_ta": "முரசொலி அறக்கட்டளை விருது வழங்கு விழா",
-    "active_constituent_status": "tamil-t1-in-progress",
+    "active_constituent_status": "tamil-t1-complete",
     "active_constituent_pdf_pages": "19-33",
     "active_constituent_printed_pages": "18-32",
     "active_constituent_pages_total": 15,
-    "active_constituent_t1_pages_drafted": 10,
-    "active_constituent_t1_through_pdf_page": 28,
-    "active_constituent_t1_through_printed_page": 27,
+    "active_constituent_t1_pages_drafted": 15,
+    "active_constituent_t1_through_pdf_page": 33,
+    "active_constituent_t1_through_printed_page": 32,
     "next_constituent_number": 2,
-    "next_gate": "Constituent 2 Tamil T1 PDF 29-33 / printed 28-32"
+    "next_gate": "Constituent 2 Tamil T2 strict visual fidelity audit — PDF 19-33 / printed 18-32"
   }
 }
