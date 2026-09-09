@@ -17,13 +17,31 @@ Tamil T1 is **COMPLETE — 15 / 15 pages**.
 | 2 | 24–28 | 23–27 | **DONE** |
 | 3 | 29–33 | 28–32 | **DONE** |
 
-This is not a verification claim. T2 must independently re-read every page against the scans.
+## T2 strict visual fidelity audit
 
-## Source-sensitive items queued for T2
+Status: **IN PROGRESS — 5 / 15 pages checked**.
 
-- names, initials, titles, film/studio names and salary figures throughout;
-- historical/odd printing forms already retained in T1;
-- page transitions 20→21, 23→24, 25→26, 27→28, 28→29, 29→30, 30→31, 31→32 and 32→33;
+Batch 1 was independently re-read directly against the source scans, page by page. Result: **PASS — 5 / 5 pages; 3 substantive corrections; 0 unresolved readings**.
+
+| PDF | Printed | T2 result |
+|---:|---:|---|
+| 19 | 18 | **PASS — 1 correction** |
+| 20 | 19 | **PASS — no correction** |
+| 21 | 20 | **PASS — 1 correction** |
+| 22 | 21 | **PASS — 1 correction** |
+| 23 | 22 | **PASS — no correction** |
+
+### Batch 1 corrections consolidated into `transcription-ta.md`
+
+1. PDF 19 / printed p.18: `இசைக்குநர் சாமி` → **`இயக்குநர் சாமி`**.
+2. PDF 21 / printed p.20: `அங்காங்குள்ள நமது இயக்க அமைப்புகளுக்கு` → **`ஆங்காங்குள்ள நமது இயக்க அமைப்புகளுக்கு`**.
+3. PDF 22 / printed p.21: `அறக்கட்டளை என்று சொன்னால் போது;` → **`அறக்கட்டளை என்று சொன்னால் போதாது;`**.
+
+No uncertain glyph or unresolved reading remains in PDF 19–23 after this T2 batch.
+
+## Source-sensitive items still queued for T2
+
+- PDF 24–28: names, initials, film/studio names, salary figures, historical printing forms, and the page transitions 23→24, 25→26 and 27→28;
 - PDF 29 `வேதவித்து` and `வாடியவர்`;
 - PDF 30 mismatched source quotation around `“சாவி’ பத்திரிகையில்`;
 - PDF 31 `பாராட்டப் படுகின்ற` and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`;
@@ -32,4 +50,4 @@ This is not a verification claim. T2 must independently re-read every page again
 
 ## Exact next gate
 
-Tamil **T2 strict visual fidelity audit — 15 pages**, in three five-page batches. T3 and English remain blocked.
+Continue Tamil **T2 batch 2 — PDF 24–28 / printed 23–27**. T3 and English remain blocked until T2 completes.
