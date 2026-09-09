@@ -63,12 +63,13 @@ Source gate:
 Workflow:
 
 - source intake / boundaries: **PASS / COMPLETE**;
-- Tamil T1: **IN PROGRESS — 5 / 15 pages**;
-- drafted: PDF **19–23** / printed **18–22**;
+- Tamil T1: **IN PROGRESS — 10 / 15 pages**;
+- drafted: PDF **19–28** / printed **18–27**;
+- T1 batch 1 PDF 19–23: **DONE**;
+- T1 batch 2 PDF 24–28: **DONE**;
+- T1 batch 3 PDF 29–33: **NEXT**;
 - T2/T3: **not started / blocked**;
 - English: **not started / blocked**.
-
-The next T1 batch is PDF **24–28** / printed **23–27**.
 
 ## Archival rule
 
