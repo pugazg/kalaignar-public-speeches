@@ -60,7 +60,10 @@ The printed-page/PDF relationship in the constituent body is stable: **PDF scan 
 - Collection page map: **complete**
 - Constituent speech archives started from this volume: **1 / 36**
 - Constituent Tamil T1 first passes complete: **1 / 36**
-- Constituent speech archives completed from this volume: **0 / 36**
+- Constituent Tamil T2 audits complete: **1 / 36**
+- Constituent Tamil T3 freezes complete: **1 / 36**
+- Constituent Tamil layers verified complete: **1 / 36**
+- Constituent speech archives fully completed from this volume: **0 / 36**
 
 See `page-map.md` for the complete title/date/range table.
 
@@ -73,8 +76,11 @@ Constituent **1 / 36**, `தேசிய இளைஞர் கொண்டா�
 - PDF **12–18** / printed **11–17**
 - source intake: **complete**
 - Tamil T1: **complete — 7 / 7 pages**
-- Tamil T2: **not started — 0 / 7**
-- English: **blocked**
+- Tamil T2: **PASS / complete — 7 / 7 pages; 5 corrections; 0 unresolved**
+- Tamil T3: **PASS / complete**
+- Tamil status: **`verified-complete`**
+- English E1: **ready / not started**
+- English E2/E3: **blocked**
 
 The constituent's own closing note establishes its speech date as **12-01-1998**, venue as **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, and role as **தலைமை உரை**. These are constituent source facts, distinct from the June 2000 publication date of the parent volume.
 
@@ -86,4 +92,4 @@ Dates shown in the contents are recorded as source evidence for those entries. W
 
 ## Current next gate
 
-Continue constituent **1 / 36** with **T2 strict visual fidelity audit** for PDF **12–18** / printed **11–17**. Do not start constituent 2 and do not begin English until constituent 1 passes T2 and T3.
+Continue constituent **1 / 36** with **English E1 first-pass translation** from its frozen `transcription-ta.md`. Do not begin constituent 2 while constituent 1 remains in its active archival sequence unless separately authorized.
