@@ -37,6 +37,7 @@ For audio or video sources, also read:
 | `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 | `palli-vazhkkai` | பள்ளி வாழ்க்கை | First edition, March 1952 | Not stated as a single speech date; compilation source | **Verified complete - 76/76 body pages** | **Verified complete - 76/76 body pages** |
 | `kalaivanar-nsk-memorial-day` | கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை | Tamil Digital Library MP3, 00:07:23.559 | Not stated in source | **Verified complete - 12/12 audio segments** | **Verified complete - 12/12 timestamp sections** |
+| `desiya-ilainjar-kondatta-thodakka-vizha` | தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.11–17 | 12.01.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
 
 ## Repository layout
 
@@ -131,3 +132,11 @@ Tamil T1, strict direct-listening T2, Tamil consolidation/freeze T3, full Englis
 A critical corrective audit restored the final approximately 25 seconds after an earlier false conclusion that the recording ended abruptly. The complete speech ends by describing any peace brought into the struggling recipients' lives as the offering Kalaignar places at Kalaivanar's feet. The controlling tail-correction record and a project learnings document are retained to prevent recurrence.
 
 The recording establishes the venue as **கலைவாணர் அரங்கம், சென்னை** but does not state an exact speech date. Secondary chronology is retained only as context; `speech.date` remains `null`. E3 checked all 12 timestamp sections from the opening salutations through the true end and found no new correction after E2 consolidation.
+
+### தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா
+
+The archival workflow is complete for constituent **1 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **12–18** / printed pages **11–17**. The constituent's own closing note establishes the speech date as **12.01.1998**, the venue as **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, the event wording as `தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா`, and the role as `தலைமை உரை`.
+
+Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent English fidelity review E2, and final end-to-end E3 have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **5** scan-supported corrections with **0 unresolved** readings. English E2 produced **3** confirmed corrections, all consolidated; E3 found **0** further corrections and **0** unresolved issues.
+
+The archive deliberately retains the source-confirmed unusual printed p.13 form `ஐக்கிய இந்தியர் மீது`, with an explicit English transparency note rather than silent source repair. The genuine repeated printed-p.15 passage is also retained. The source PDF is not committed; provenance is preserved through the parent collection metadata and page map. Repository-level closure is complete, and no transcription or translation work is pending for this constituent.
