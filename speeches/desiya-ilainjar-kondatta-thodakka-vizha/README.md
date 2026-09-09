@@ -23,13 +23,13 @@ PDF 18 / printed p.17 ends the speech with Kalaignar's Vivekananda quotation and
 
 `12-1-98 அன்று சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கில் தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழாவில் தலைமை உரை`
 
-That closing note is source evidence for the speech date, venue, event wording and role; it is not transcribed as part of the speech body.
+That closing note is source evidence for the speech date, venue, event wording and role; it is not part of the speech body.
 
 ## Parent-collection relationship
 
 The parent collection is a 36-item volume explicitly described as `சொற்பொழிவுகளின் தொகுப்பு`. This speech is constituent **1 / 36**. Collection-level publication facts such as June 2000 are not speech-event facts and are not used as the speech date.
 
-## Tamil workflow
+## Workflow state
 
 | Gate | State |
 |---|---|
@@ -41,11 +41,11 @@ The parent collection is a 36-item volume explicitly described as `சொற்�
 | T2 unresolved readings | **0** |
 | T3 Tamil consolidation / freeze | **PASS / COMPLETE** |
 | Tamil transcription | **`verified-complete`** |
-| English E1 | **READY / NOT STARTED** |
-| English E2 | **BLOCKED / NOT STARTED** |
-| English E3 | **BLOCKED / NOT STARTED** |
+| English E1 first pass | **COMPLETE — 7 / 7 pages** |
+| English E2 fidelity review | **READY / NOT STARTED — 0 / 7** |
+| English E3 final verification | **BLOCKED / NOT STARTED** |
 
-## Important T2 resolutions
+## Important Tamil fidelity resolutions
 
 The strict scan re-read corrected five first-pass readings:
 
@@ -55,10 +55,14 @@ The strict scan re-read corrected five first-pass readings:
 - printed p.15: `இந்தியர் கனிவை` → source line-wrap `இந்தியர்` / `களிடையே`, consolidated as `இந்தியர்களிடையே`;
 - printed p.16: `சமாதானத் திறக்கும்` → source line-wrap `சமாதானத்` / `திற்கும்`, consolidated as `சமாதானத்திற்கும்`.
 
-The unusual printed p.13 reading `ஐக்கிய இந்தியர் மீது` was directly confirmed and retained. The repeated wording on printed p.15 around `ஆக்கபூர்வ நடவடிக்கைகளில்` / `ஏழைகளின் நலனை மேம்படுத்த...` is genuinely present in the source and is retained rather than treated as accidental transcript duplication. The printed line-wrap `இருபத்தையாயிரத்` / `துக்கு` is confirmed as the single word `இருபத்தையாயிரத்துக்கு`.
+The unusual printed p.13 reading `ஐக்கிய இந்தியர் மீது` was directly confirmed and retained. The repeated wording on printed p.15 around `ஆக்கபூர்வ நடவடிக்கைகளில்` / `ஏழைகளின் நலனை மேம்படுத்த...` is genuinely present in the source and is retained rather than treated as accidental transcript duplication. The printed line-wrap `இருபத்தையாயிரத்` / `துக்கு` is confirmed as `இருபத்தையாயிரத்துக்கு`.
 
-All names, quotations, numerals, first/last body words and the separate closing note were re-checked directly against the scans. `audit.md` contains the full T2/T3 record.
+## English E1
+
+`translation-en.md` now contains a complete seven-page first-pass translation produced only from the frozen `transcription-ta.md`. Page correspondence, names, numerical claims, repeated source wording, quotations and the verified ending are represented.
+
+E1 deliberately leaves verification to a separate E2 pass. The unusual p.13 form `ஐக்கிய இந்தியர் மீது` is rendered cautiously with an explicit source note rather than silently altering the Tamil source layer.
 
 ## Exact next gate
 
-Begin **English E1 first-pass translation**, translating only from the frozen `transcription-ta.md`. Do not translate independently from OCR, the PDF, or outside sources.
+Perform **English E2 independent Tamil→English fidelity review for PDF 12–18 / printed 11–17**. Record findings in `translation-review.md`, consolidate confirmed English corrections, and keep E3 blocked until the E2 correction set is fully resolved.
