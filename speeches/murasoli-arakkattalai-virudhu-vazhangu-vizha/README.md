@@ -21,12 +21,12 @@ The opening heading is `முரசொலி அறக்கட்டளை வ
 |---|---|
 | Duplicate/source gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 15 / 15 pages** |
-| Tamil T2 strict visual audit | **IN PROGRESS — 5 / 15 pages; 3 corrections; 0 unresolved** |
+| Tamil T2 strict visual audit | **IN PROGRESS — 10 / 15 pages; 4 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **BLOCKED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-T2 batch 1 directly re-read PDF **19–23** / printed **18–22** and passed all five pages. The three scan-confirmed corrections are recorded in `audit.md` and consolidated into `transcription-ta.md`.
+T2 batch 1 covered PDF **19–23** / printed **18–22** and passed with **3 corrections / 0 unresolved**. T2 batch 2 covered PDF **24–28** / printed **23–27** and passed with **1 correction / 0 unresolved**. The batch-2 correction preserves the source's later spelling `இந்த ஸ்டுடியோவில்` while retaining the earlier same-page `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` exactly as printed.
 
 ## Exact next gate
 
-Continue Tamil **T2 batch 2 — PDF 24–28 / printed 23–27**. English remains blocked until Tamil is `verified-complete`.
+Complete Tamil **T2 batch 3 — PDF 29–33 / printed 28–32**. English remains blocked until Tamil is `verified-complete`.
