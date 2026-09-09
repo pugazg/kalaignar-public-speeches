@@ -15,7 +15,8 @@
 - mapped: **36 / 36**;
 - archives started: **2 / 36**;
 - Tamil T1 complete: **2 / 36**;
-- Tamil T2/T3 complete: **1 / 36**;
+- Tamil T2 complete: **1 / 36**;
+- Tamil T3 complete: **1 / 36**;
 - Tamil verified: **1 / 36**;
 - English E1/E2/E3 complete: **1 / 36**;
 - fully archived: **1 / 36**.
@@ -30,11 +31,13 @@ Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத
 - date **1998-01-13** from source closing note;
 - venue unresolved/not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- T2: **NOT STARTED — 0 / 15**;
+- Tamil T2: **IN PROGRESS — 5 / 15**;
+- T2 corrections: **3**;
+- T2 unresolved: **0**;
 - T3 and English: **BLOCKED**.
 
-The three T1 batches are complete: PDF **19–23**, **24–28**, **29–33**. The final body sentence and separate closing note are both captured; the note remains outside the speech body.
+T2 batch 1, PDF **19–23** / printed **18–22**, passed all five pages. Corrections consolidated: `இசைக்குநர்` → `இயக்குநர்`; `அங்காங்குள்ள` → `ஆங்காங்குள்ள`; `போது` → `போதாது` in `அறக்கட்டளை என்று சொன்னால் போதாது;`.
 
 ## Exact next incomplete gate
 
-Run constituent 2 **Tamil T2 strict visual fidelity audit** across PDF **19–33** / printed **18–32**, preferably in three five-page batches. Do not begin T3 or English until T2 completes.
+Run constituent 2 **Tamil T2 batch 2 — PDF 24–28 / printed 23–27**. Do not begin T3 or English until T2 completes.
