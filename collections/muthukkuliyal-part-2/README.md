@@ -2,7 +2,7 @@
 
 Collection-level source record for the multi-speech volume **`முத்துக் குளியல் பாகம் - II`** by **கலைஞர் மு. கருணாநிதி**.
 
-This volume is **not one continuous speech**. The imprint describes its subject as **`சொற்பொழிவுகளின் தொகுப்பு`**, and the contents list **36 constituent items**. Each constituent item must therefore be archived separately under `speeches/`, while this directory preserves the edition-level source identity and page map.
+This volume is **not one continuous speech**. The imprint describes its subject as **`சொற்பொழிவுகளின் தொகுப்பு`**, and the contents list **36 constituent items**. Each constituent item is archived separately under `speeches/`; this directory preserves the edition-level source identity, page map and collection workflow state.
 
 ## Controlling source
 
@@ -15,11 +15,9 @@ This volume is **not one continuous speech**. The imprint describes its subject 
 - Embedded PDF creation timestamp: `2024-11-20 05:28:58 UTC`
 - Embedded PDF modification timestamp: `2024-12-04 06:02:50 UTC`
 
-The embedded 2024 PDF timestamps are digitization/file metadata only. They are **not** publication or event dates.
+The embedded 2024 timestamps are digitization/file metadata only. They are **not** publication or event dates.
 
 ## Edition facts established by the scan
-
-The imprint page states:
 
 - Title: `முத்துக் குளியல் பாகம் - II`
 - Author: `கலைஞர் மு. கருணாநிதி`
@@ -35,7 +33,7 @@ The imprint page states:
 - Type size: `14 புள்ளி`
 - Paper: `சன்ஷைன் சூப்பர் பிரிண்டிங் 65 GSM`
 
-The exact press name on the imprint remains intentionally unset here until separately re-read at high confidence; the scan clearly gives the press address as `சென்னை -13`.
+The exact press name remains intentionally unresolved pending a separate high-confidence re-read; the imprint clearly gives the press address as `சென்னை -13`.
 
 ## Source structure
 
@@ -48,56 +46,60 @@ The exact press name on the imprint remains intentionally unset here until separ
 - PDF 7: blank/show-through verso
 - PDF 8–9: `பதிப்புரை`
 - PDF 10–11: `உள்ளடக்கம்`
-- PDF 12–424: constituent items, printed pages **11–423**
+- PDF 12–424: 36 constituent items, printed pages **11–423**
 - PDF 425: back cover
 
-The printed-page/PDF relationship in the constituent body is stable: **PDF scan = printed page + 1**. The first constituent begins at PDF 12 / printed 11; the final constituent ends at PDF 424 / printed 423.
+The constituent-body relationship is stable: **PDF scan = printed page + 1**.
 
-## Collection mapping state
+## Collection state
 
 - Contents entries captured: **36 / 36**
 - Constituent source ranges mapped: **36 / 36**
 - Collection page map: **complete**
-- Constituent speech archives started from this volume: **1 / 36**
-- Constituent Tamil T1 first passes complete: **1 / 36**
-- Constituent Tamil T2 audits complete: **1 / 36**
-- Constituent Tamil T3 freezes complete: **1 / 36**
-- Constituent Tamil layers verified complete: **1 / 36**
-- Constituent English E1 first passes complete: **1 / 36**
-- Constituent English E2 reviews complete: **1 / 36**
-- Constituent English E3 final verifications complete: **1 / 36**
-- Constituent speech archives fully completed from this volume: **0 / 36**
+- Constituent speech archives started: **1 / 36**
+- Constituent Tamil T1 complete: **1 / 36**
+- Constituent Tamil T2 complete: **1 / 36**
+- Constituent Tamil T3 complete: **1 / 36**
+- Constituent Tamil verified: **1 / 36**
+- Constituent English E1 complete: **1 / 36**
+- Constituent English E2 complete: **1 / 36**
+- Constituent English E3 complete: **1 / 36**
+- Constituent speech archives fully completed: **1 / 36**
 
-See `page-map.md` for the complete title/date/range table.
+See `page-map.md` for the complete 36-item title/date/range table.
 
-## Active constituent
+## Closed constituent 1 / 36
 
-Constituent **1 / 36**, `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`, is active at:
+**`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`**  
+Speech tree: `speeches/desiya-ilainjar-kondatta-thodakka-vizha/`  
+Printed pages: **11–17**  
+PDF scans: **12–18**  
+Speech date: **12-01-1998**  
+Venue: **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**
 
-`speeches/desiya-ilainjar-kondatta-thodakka-vizha/`
+Final state:
 
-- PDF **12–18** / printed **11–17**
-- source intake: **complete**
-- Tamil T1: **complete — 7 / 7 pages**
-- Tamil T2: **PASS / complete — 7 / 7 pages; 5 corrections; 0 unresolved**
-- Tamil T3: **PASS / complete**
-- Tamil status: **`verified-complete`**
-- English E1: **complete — 7 / 7 pages**
-- English E2: **PASS / complete — 7 / 7 pages; 3 corrections consolidated; 0 unresolved**
-- English E3: **PASS / complete — 7 / 7 pages; 0 further corrections; 0 unresolved**
-- English status: **`verified-complete`**
-- repository-level closure: **ready / not started**
+- Tamil: **`verified-complete`**;
+- English: **`verified-complete`**;
+- Tamil T2: **5 corrections / 0 unresolved**;
+- English E2: **3 corrections consolidated / 0 unresolved**;
+- English E3: **0 further corrections / 0 unresolved**;
+- repository-level closure: **PASS / COMPLETE**;
+- archive: **CLOSED / FULLY ARCHIVED**.
 
-The constituent's own closing note establishes its speech date as **12-01-1998**, venue as **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, and role as **தலைமை உரை**. These are constituent source facts, distinct from the June 2000 publication date of the parent volume.
+No transcription or translation work is pending for constituent 1. Full evidence is retained in the speech-level `audit.md` and `translation-review.md`.
 
-The E2 review found three English corrections: the repeated printed-p.15 constructive-activity passage was repaired without removing its genuine repetition; printed-p.17 `தீபம்` was restored as `lamp`; and the closing-note `தலைமை உரை` was rendered more conservatively as an address delivered while presiding. E3 then rechecked all seven consolidated English pages against frozen Tamil and found **0** further corrections and **0** unresolved issues. Full evidence is retained in the speech-level `translation-review.md`.
+## Next constituent 2 / 36
+
+**`முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**  
+Contents date: **13-01-98**  
+Printed pages: **18–32**  
+PDF scans: **19–33**  
+Mapped pages: **15**  
+Status: **NOT STARTED**
+
+The exact next gate is to search live `main` for an existing equivalent speech archive and then inspect PDF **19–33** directly to establish the constituent's opening, ending, source-supported date/venue/event/role facts, and transcription boundaries before creating a new speech tree.
 
 ## Archival rule
 
-Do not create one `speeches/muthukkuliyal-part-2/` transcript containing all 425 scans. This directory is the parent **collection/source layer**. Each constituent speech or event text is processed separately under a stable `speeches/<slug>/` directory and must retain its exact parent-source scan and printed-page range.
-
-Dates shown in the contents are recorded as source evidence for those entries. Where the contents gives no date, leave it unresolved until the constituent pages themselves establish one; do not infer it from sequence or surrounding entries.
-
-## Current next gate
-
-Perform **repository-level closure for constituent 1 / 36**. Confirm all required speech files and parent controls agree on the final state, mark constituent 1 fully archived, and then advance the collection to constituent **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
+Do not create one `speeches/muthukkuliyal-part-2/` transcript containing all 425 scans. Each constituent is processed independently while retaining its exact parent-source range. Dates in the contents are source evidence as printed; where a constituent has no contents date, leave its date unresolved until its own pages establish one.
