@@ -93,8 +93,16 @@ The five T2 corrections are consolidated into `transcription-ta.md`. A final con
 - event/date/venue facts remain sourced only from the constituent closing note and are not inferred from the June 2000 parent publication;
 - no uncertainty marker remains.
 
-Tamil status is now **`verified-complete`** and frozen. Any later source-supported Tamil correction must reopen dependent English work.
+Tamil status is **`verified-complete`** and frozen. Any later source-supported Tamil correction must reopen dependent English work.
+
+## English workflow checkpoint
+
+English E1 is now **COMPLETE — 7 / 7 pages** in `translation-en.md`, produced only from the frozen `transcription-ta.md`.
+
+This audit does not treat E1 completion as English verification. The independent review record is `translation-review.md`.
+
+One translation-sensitive Tamil source form remains explicitly surfaced for review rather than silently normalized: printed p.13 `ஐக்கிய இந்தியர் மீது`. E1 records the exact Tamil in a source note alongside its cautious English rendering.
 
 ## Exact next gate
 
-English **E1 first-pass translation** may now begin, translating only from the frozen `transcription-ta.md`. Do not translate from OCR, the PDF independently, or outside sources.
+Perform **E2 independent Tamil→English fidelity review for all seven pages**, comparing `translation-en.md` directly against frozen `transcription-ta.md`. Record all English findings in `translation-review.md`, consolidate confirmed corrections, and keep E3 blocked until E2 is fully resolved.
