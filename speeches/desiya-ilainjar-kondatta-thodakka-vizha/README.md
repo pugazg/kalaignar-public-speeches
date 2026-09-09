@@ -45,8 +45,11 @@ The parent collection is a 36-item volume explicitly described as `சொற்�
 | English E2 fidelity review | **PASS / COMPLETE — 7 / 7 pages** |
 | E2 confirmed corrections | **3 / 3 consolidated** |
 | E2 unresolved issues | **0** |
-| English translation | **`fidelity-corrections-consolidated`** |
-| English E3 final verification | **READY / NOT STARTED — 0 / 7** |
+| English E3 final verification | **PASS / COMPLETE — 7 / 7 pages** |
+| E3 corrections | **0** |
+| E3 unresolved issues | **0** |
+| English translation | **`verified-complete`** |
+| Repository-level closure | **READY / NOT STARTED** |
 
 ## Important Tamil fidelity resolutions
 
@@ -60,20 +63,20 @@ The strict scan re-read corrected five first-pass readings:
 
 The unusual printed p.13 reading `ஐக்கிய இந்தியர் மீது` was directly confirmed and retained. The repeated wording on printed p.15 around `ஆக்கபூர்வ நடவடிக்கைகளில்` / `ஏழைகளின் நலனை மேம்படுத்த...` is genuinely present in the source and is retained rather than treated as accidental transcript duplication. The printed line-wrap `இருபத்தையாயிரத்` / `துக்கு` is confirmed as `இருபத்தையாயிரத்துக்கு`.
 
-## English E1 / E2
+## English E1 / E2 / E3
 
 `translation-en.md` contains the complete seven-page English layer derived only from frozen `transcription-ta.md`.
 
-E2 independently compared all seven pages against the Tamil and found **3** corrections, all now consolidated:
+E2 independently compared all seven pages against the Tamil and found **3** corrections, all consolidated:
 
 1. printed p.15 — corrected the grammatical relationship in the genuine repeated constructive-activity/government-effort passage while preserving the repetition;
 2. printed p.17 — restored the repeated `தீபம்` image as `lamp of freedom` rather than `torch of freedom`;
 3. printed p.17 source closing note — replaced the over-specific `Chairperson's address` with `Address delivered while presiding...` for `தலைமை உரை`.
 
-The unusual p.13 `ஐக்கிய இந்தியர் மீது` remains source-transparent: the English uses a cautious contextual rendering and preserves the exact Tamil in a note rather than silently repairing the frozen source.
+E3 then performed a fresh end-to-end Tamil→English verification across PDF 12–18 / printed 11–17. It found **0** further corrections and **0** unresolved issues. All names, numerical claims, quotation blocks, the p.13 source-transparency note, the genuine p.15 repetition, the verified ending and the separate closing note were rechecked.
 
-E2 found no omitted speech paragraph, reversed claim, numerical discrepancy, missing quotation or unresolved English fidelity issue. `translation-review.md` contains the full review record.
+English is therefore frozen as **`verified-complete`**. Any later source-supported Tamil correction must reopen dependent English work.
 
 ## Exact next gate
 
-Perform **English E3 final end-to-end Tamil→English verification for PDF 12–18 / printed 11–17**. Re-check the consolidated English against frozen Tamil from beginning to end. Only after E3 passes may English be marked `verified-complete` and constituent 1 proceed to repository-level closure.
+Perform **repository-level closure for constituent 1 / 36**. Verify all required files agree on the closed state, mark the constituent archive complete, synchronize the parent collection's archived counter, and advance the parent collection to constituent **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
