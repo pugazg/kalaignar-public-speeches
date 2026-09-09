@@ -74,15 +74,17 @@
     "constituent_items_e1_complete": 1,
     "constituent_items_e2_complete": 1,
     "constituent_items_e3_complete": 1,
-    "constituent_items_archived": 0,
+    "constituent_items_archived": 1,
     "collection_status": "constituent-processing-in-progress",
-    "active_constituent_number": 1,
-    "active_constituent_slug": "desiya-ilainjar-kondatta-thodakka-vizha",
-    "active_constituent_title_ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா",
-    "active_constituent_status": "english-verified-complete",
-    "active_constituent_pdf_pages": "12-18",
-    "active_constituent_printed_pages": "11-17",
-    "next_constituent_number": 1,
-    "next_gate": "Repository-level closure for constituent 1 / 36"
+    "last_archived_constituent_number": 1,
+    "last_archived_constituent_slug": "desiya-ilainjar-kondatta-thodakka-vizha",
+    "active_constituent_number": 2,
+    "active_constituent_slug": null,
+    "active_constituent_title_ta": "முரசொலி அறக்கட்டளை விருது வழங்கு விழா",
+    "active_constituent_status": "not-started",
+    "active_constituent_pdf_pages": "19-33",
+    "active_constituent_printed_pages": "18-32",
+    "next_constituent_number": 2,
+    "next_gate": "Constituent 2 duplicate search and source inspection — PDF 19-33 / printed 18-32"
   }
 }
