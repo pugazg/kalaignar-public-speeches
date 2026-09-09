@@ -41,10 +41,11 @@ Do not confuse the parent volume's June 2000 publication date with this speech d
 - T2 unresolved readings: **0**;
 - Tamil T3 consolidation/freeze: **PASS / COMPLETE**;
 - Tamil status: **`verified-complete`**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED / NOT STARTED**.
+- English E1: **COMPLETE — 7 / 7 pages**;
+- English E2 fidelity review: **READY / NOT STARTED — 0 / 7**;
+- English E3 final verification: **BLOCKED / NOT STARTED**.
 
-## T2/T3 source-fidelity resolutions
+## Tamil source-fidelity resolutions
 
 Five first-pass readings were corrected from direct scan evidence:
 
@@ -62,12 +63,16 @@ Directly confirmed and retained:
 - `இருபத்தையாயிரத்துக்கு` as the proper join of `இருபத்தையாயிரத்` / `துக்கு`;
 - quotation wording/spacing and all recorded numerals.
 
-A T3 stale-reading sweep confirms that all five superseded T1 forms are absent from the canonical transcript and that PDF 12–18 is represented exactly once with no gap or duplicate interval.
+`transcription-ta.md` remains the canonical frozen Tamil layer. Any later Tamil change requires specific source evidence, an audit record, and reopening of dependent English work.
 
-## Frozen Tamil rule
+## English E1 checkpoint
 
-`transcription-ta.md` is now the canonical frozen Tamil layer. Any later Tamil change requires specific source evidence, an audit record, and reopening of dependent English work.
+`translation-en.md` now contains the complete first-pass English for all seven mapped pages, derived only from the frozen Tamil layer.
+
+E1 preserved the page sequence, names, historical references, repeated source wording, numerical claims and the verified ending. It also translates the separate closing note as source metadata, clearly outside the speech body.
+
+One item is explicitly flagged for E2 rather than silently resolved: verified printed p.13 `ஐக்கிய இந்தியர் மீது`. E1 gives a cautious readable rendering, “our commitment to a united India,” and records the exact Tamil in a source note. E2 must independently review that choice.
 
 ## Exact next incomplete gate
 
-Begin **E1 English first-pass translation** from `transcription-ta.md` only, covering all seven mapped pages and preserving page correspondence, argument order, repetition, names, quotations, source-supported unusual wording and the verified ending. Do not use the PDF, OCR or outside sources as an independent translation source. After E1 completes, perform a separate E2 fidelity review.
+Perform **E2 independent Tamil→English fidelity review for all 7 pages, PDF 12–18 / printed 11–17**. Compare `translation-en.md` against frozen `transcription-ta.md`, record every omission/addition/reversal/source-transparency issue in `translation-review.md`, then consolidate confirmed corrections into the English translation. E3 remains blocked until E2 is fully resolved.
