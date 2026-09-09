@@ -1,14 +1,17 @@
 # தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா — English fidelity review
 
 **Tamil source layer:** frozen `transcription-ta.md` — `verified-complete`  
-**English E1:** `translation-en.md` — first-pass-complete, 7/7 pages  
-**E2 status:** **REVIEW COMPLETE — 7/7 pages**  
-**Confirmed E2 corrections:** **3**  
-**Unresolved English fidelity issues:** **0**
+**English E1:** `translation-en.md` — complete, 7/7 pages  
+**E2 status:** **PASS / COMPLETE — 7/7 pages**  
+**Confirmed E2 corrections:** **3 / 3 consolidated**  
+**E2 unresolved English fidelity issues:** **0**  
+**E3 status:** **PASS / COMPLETE — 7/7 pages**  
+**Confirmed E3 corrections:** **0**  
+**E3 unresolved English fidelity issues:** **0**
 
-E2 was performed as a separate Tamil→English fidelity review. Completion of E1 was not treated as verification.
+E2 was performed as a separate Tamil→English fidelity review. E3 was then performed as a final end-to-end verification of the already consolidated English against the frozen Tamil. E1 or E2 completion was not treated as final verification by itself.
 
-## Review method
+## E2 review method
 
 Every English page was compared directly against the frozen Tamil page with PDF/printed-page correspondence preserved. The review checked:
 
@@ -49,7 +52,7 @@ E1 second sentence:
 
 `Constructive activities must be engaged in the efforts undertaken by governments to improve the welfare of the poor.`
 
-Finding: the E1 wording reverses the grammatical relationship by making `constructive activities` the thing being engaged. The Tamil carries forward the prior `சக்தியும் முயற்சிகளும்` as the understood subject while also genuinely repeating the constructive-activity/government-effort wording.
+Finding: the E1 wording reversed the grammatical relationship by making `constructive activities` the thing being engaged. The Tamil carries forward the prior `சக்தியும் முயற்சிகளும்` as the understood subject while also genuinely repeating the constructive-activity/government-effort wording.
 
 Consolidated English:
 
@@ -65,7 +68,7 @@ E1:
 
 Frozen Tamil uses `தீபம்` here and again two sentences later: `இது ... ஒளி கொடுக்கும் ஒரு தீபம்`.
 
-Finding: `torch` unnecessarily changes the repeated source image.
+Finding: `torch` unnecessarily changed the repeated source image.
 
 Consolidated English:
 
@@ -79,7 +82,7 @@ E1:
 
 Frozen source note ends with `தலைமை உரை`.
 
-Finding: `Chairperson's address` turns the source role into a more specific English office/title than the Tamil requires.
+Finding: `Chairperson's address` turned the source role into a more specific English office/title than the Tamil requires.
 
 Consolidated source-note translation:
 
@@ -87,11 +90,11 @@ Consolidated source-note translation:
 
 This correction concerns source metadata, not the speech body.
 
-## Reviewed and retained without correction
+## E2 retained without correction
 
 ### Printed p.13 `ஐக்கிய இந்தியர் மீது`
 
-The verified Tamil form is unusual and cannot be translated literally with confidence from the source alone. E1's body rendering `our commitment to a united India` is interpretive, but it is immediately tied to a source note that reproduces `ஐக்கிய இந்தியர் மீது` and explicitly states that the Tamil has not been altered. E2 therefore retains this cautious rendering with the strengthened transparency note rather than inventing a more confident literal reading.
+The verified Tamil form is unusual and cannot be translated literally with confidence from the source alone. The body rendering `our commitment to a united India` is interpretive, but it is immediately tied to a source note that reproduces `ஐக்கிய இந்தியர் மீது` and explicitly states that the Tamil has not been altered. E2 therefore retained this cautious rendering rather than inventing a more confident literal reading.
 
 ### Quotations
 
@@ -111,19 +114,58 @@ No speech paragraph is omitted or duplicated. PDF 12–18 / printed pp.11–17 r
 
 ## E2 consolidation result
 
-All **3** confirmed findings have been consolidated into `translation-en.md`.
+All **3** confirmed E2 findings were consolidated into `translation-en.md` before E3 began.
 
-English state after E2:
+State after E2:
 
 - E1 first pass: **COMPLETE — 7 / 7**;
 - E2 independent fidelity review: **COMPLETE — 7 / 7**;
 - confirmed E2 corrections: **3 / 3 consolidated**;
-- unresolved English fidelity issues: **0**;
-- translation status: **`fidelity-corrections-consolidated`**;
-- E3 final end-to-end verification: **READY / NOT STARTED**.
+- unresolved E2 fidelity issues: **0**;
+- translation status: **`fidelity-corrections-consolidated`**.
 
 No Tamil source change was made during E2.
 
+## E3 final end-to-end verification
+
+E3 independently re-read the complete consolidated English against frozen `transcription-ta.md` from PDF 12 / printed p.11 through PDF 18 / printed p.17.
+
+The final pass rechecked:
+
+- opening title and first body paragraph;
+- every paragraph and page transition;
+- all named persons and historical references;
+- the three quotation blocks and their attributions;
+- the unusual p.13 `ஐக்கிய இந்தியர் மீது` transparency note;
+- the genuine p.15 source repetition after E2 correction;
+- all p.16 employment figures and percentages;
+- the p.17 `lamp of freedom` image;
+- the final Vivekananda quotation and closing sentence;
+- the separation of the speech body from the source closing note;
+- the conservative closing-note rendering for `தலைமை உரை`.
+
+### E3 page state
+
+| PDF | Printed | E3 state | Result |
+|---:|---:|---|---|
+| 12 | 11 | **PASS** | no correction |
+| 13 | 12 | **PASS** | no correction |
+| 14 | 13 | **PASS** | no correction; source-transparency note remains sufficient |
+| 15 | 14 | **PASS** | no correction |
+| 16 | 15 | **PASS** | E2 repeated-passage correction confirmed |
+| 17 | 16 | **PASS** | no correction; numerical sequence confirmed |
+| 18 | 17 | **PASS** | E2 lamp/source-note corrections confirmed; ending complete |
+
+E3 pages verified: **7 / 7**.  
+E3 corrections: **0**.  
+E3 unresolved issues: **0**.
+
+## Final English state
+
+English is now **`verified-complete`**.
+
+The verified English consists of the complete consolidated `translation-en.md` after E2, confirmed without further change by E3. Any later source-supported Tamil correction must reopen English E1/E2/E3 as appropriate.
+
 ## Exact next gate
 
-Perform **E3 final end-to-end Tamil→English verification for all seven pages**, comparing the consolidated `translation-en.md` once more from PDF 12 through PDF 18 against frozen `transcription-ta.md`. Only after E3 passes may English be marked `verified-complete`.
+Perform **repository-level closure for constituent 1 / 36**: verify that all required speech files and parent collection controls agree on the closed state, mark the constituent archive complete, increment the parent collection archived count, and advance the parent collection's exact next constituent to **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
