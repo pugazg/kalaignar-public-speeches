@@ -41,14 +41,17 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "murasoli-arakkattalai-virudhu-vazhangu-vizha",
     "active_constituent_title_ta": "முரசொலி அறக்கட்டளை விருது வழங்கு விழா",
-    "active_constituent_status": "tamil-t1-complete",
+    "active_constituent_status": "tamil-t2-in-progress",
     "active_constituent_pdf_pages": "19-33",
     "active_constituent_printed_pages": "18-32",
     "active_constituent_pages_total": 15,
     "active_constituent_t1_pages_drafted": 15,
-    "active_constituent_t1_through_pdf_page": 33,
-    "active_constituent_t1_through_printed_page": 32,
+    "active_constituent_t2_pages_checked": 5,
+    "active_constituent_t2_through_pdf_page": 23,
+    "active_constituent_t2_through_printed_page": 22,
+    "active_constituent_t2_corrections": 3,
+    "active_constituent_t2_unresolved": 0,
     "next_constituent_number": 2,
-    "next_gate": "Constituent 2 Tamil T2 strict visual fidelity audit — PDF 19-33 / printed 18-32"
+    "next_gate": "Constituent 2 Tamil T2 batch 2 — PDF 24-28 / printed 23-27"
   }
 }
