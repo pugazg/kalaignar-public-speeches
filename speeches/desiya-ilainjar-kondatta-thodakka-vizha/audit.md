@@ -97,12 +97,20 @@ Tamil status is **`verified-complete`** and frozen. Any later source-supported T
 
 ## English workflow checkpoint
 
-English E1 is now **COMPLETE — 7 / 7 pages** in `translation-en.md`, produced only from the frozen `transcription-ta.md`.
+English E1: **COMPLETE — 7 / 7 pages**.  
+English E2 independent fidelity review: **PASS / COMPLETE — 7 / 7 pages**.  
+Confirmed E2 corrections: **3 / 3 consolidated**.  
+Unresolved English fidelity issues: **0**.  
+Current English state: **`fidelity-corrections-consolidated`**.
 
-This audit does not treat E1 completion as English verification. The independent review record is `translation-review.md`.
+The detailed E2 findings are retained in `translation-review.md`. They include:
 
-One translation-sensitive Tamil source form remains explicitly surfaced for review rather than silently normalized: printed p.13 `ஐக்கிய இந்தியர் மீது`. E1 records the exact Tamil in a source note alongside its cautious English rendering.
+- correction of the grammatical relationship in the genuine repeated printed-p.15 constructive-activity/government-effort passage;
+- restoration of printed p.17 `தீபம்` as `lamp of freedom` rather than `torch of freedom`;
+- a closer source-note rendering of `தலைமை உரை` as `Address delivered while presiding...` rather than the over-specific `Chairperson's address`.
+
+The unusual printed p.13 `ஐக்கிய இந்தியர் மீது` remains explicitly surfaced in an English source note. E2 did not alter the frozen Tamil; the English uses a cautious contextual rendering while preserving the exact source form and stating that a confident literal rendering is unavailable from the printed wording alone.
 
 ## Exact next gate
 
-Perform **E2 independent Tamil→English fidelity review for all seven pages**, comparing `translation-en.md` directly against frozen `transcription-ta.md`. Record all English findings in `translation-review.md`, consolidate confirmed corrections, and keep E3 blocked until E2 is fully resolved.
+Perform **E3 final end-to-end Tamil→English verification for all seven pages**, comparing the consolidated `translation-en.md` once more against frozen `transcription-ta.md` from PDF 12 through PDF 18. Only after E3 passes may the English layer be marked `verified-complete`.
