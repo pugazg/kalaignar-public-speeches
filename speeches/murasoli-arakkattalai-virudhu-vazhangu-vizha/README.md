@@ -27,13 +27,7 @@ That closing note directly establishes the speech date, event wording and source
 
 ## Duplicate/source gate
 
-Live `main` was searched for:
-
-- exact heading `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`;
-- closing-note wording `முரசொலி அறக்கட்டளை விருது வழங்கும் விழா`;
-- likely transliterated slug wording around `murasoli arakkattalai` / `virudhu vazhangu vizha`.
-
-No existing equivalent speech archive was found. This new tree is therefore constituent **2 / 36** of the parent volume.
+Live `main` was searched for the exact heading, the closing-note wording, and likely transliterated slug wording. No existing equivalent speech archive was found. This tree is constituent **2 / 36** of the parent volume.
 
 ## Workflow state
 
@@ -41,12 +35,14 @@ No existing equivalent speech archive was found. This new tree is therefore cons
 |---|---|
 | Duplicate check | **PASS — no existing matching archive found** |
 | Source intake / boundaries | **PASS / COMPLETE** |
-| T1 first-pass Tamil transcription | **IN PROGRESS — 5 / 15 pages** |
+| T1 first-pass Tamil transcription | **IN PROGRESS — 10 / 15 pages** |
 | T2 strict visual fidelity audit | **BLOCKED** |
 | T3 Tamil consolidation / freeze | **BLOCKED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-Tamil T1 currently covers PDF **19–23** / printed **18–22**. The next batch is PDF **24–28** / printed **23–27**.
+Tamil T1 now covers PDF **19–28** / printed **18–27** in two five-page batches. The final T1 batch is PDF **29–33** / printed **28–32**.
+
+Batch 2 directly checked the page-boundary continuations PDF 23→24 (`அதை அடமானம்` / `வைத்து`), PDF 25→26 (`கறுப்பு உடை தரித்துக்` / `கொண்டு`), and PDF 27→28 (`அன்பை திரும்பக்` / `காட்ட வேண்டும்`) while transcribing. These remain T1 readings and will be independently re-read during T2.
 
 ## Source-fidelity rule
 
@@ -54,4 +50,4 @@ Tamil T1 currently covers PDF **19–23** / printed **18–22**. The next batch 
 
 ## Exact next gate
 
-Continue **Tamil T1** with PDF **24–28** / printed **23–27**, preserving page boundaries and any source-supported repetition or unusual wording. English remains blocked until Tamil reaches `verified-complete`.
+Complete **Tamil T1** with PDF **29–33** / printed **28–32**, including the body ending and preserving the separate closing note as metadata rather than spoken text. T2 and English remain blocked until T1 is complete.
