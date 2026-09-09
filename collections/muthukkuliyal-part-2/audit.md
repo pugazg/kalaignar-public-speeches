@@ -40,9 +40,13 @@ Tamil T1/T2/T3 and English E1/E2/E3 all passed; repository-level closure is comp
 - closing note: `13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை`;
 - date: **1998-01-13**;
 - venue: **not stated in inspected opening/closing evidence**;
-- Tamil T1: **IN PROGRESS — 5 / 15 pages**;
-- drafted range: PDF **19–23** / printed **18–22**;
-- next T1 batch: PDF **24–28** / printed **23–27**.
+- Tamil T1: **IN PROGRESS — 10 / 15 pages**;
+- drafted range: PDF **19–28** / printed **18–27**;
+- batch 1 PDF 19–23: **DONE**;
+- batch 2 PDF 24–28: **DONE**;
+- next T1 batch: PDF **29–33** / printed **28–32**.
+
+Batch 2 directly followed three page continuations: PDF 23→24 (`அதை அடமானம்` / `வைத்து`), PDF 25→26 (`கறுப்பு உடை தரித்துக்` / `கொண்டு`), and PDF 27→28 (`அந்த அன்பை திரும்பக்` / `காட்ட வேண்டும்`). These are first-pass observations, not T2 verification. PDF 28 itself ends mid-thought at `சாவி எழுதிய வாஷிங்டன்`.
 
 ## Source-fidelity cautions
 
@@ -50,8 +54,9 @@ Tamil T1/T2/T3 and English E1/E2/E3 all passed; repository-level closure is comp
 - Entries 7 and 16 do not show dates in the contents and remain unresolved at collection level until their own source pages are inspected.
 - Publication and embedded PDF metadata remain distinct from speech/event facts.
 - Do not infer constituent 2 venue from contextual mentions of Chennai.
+- Preserve unusual source-supported wording during T1; flagged readings will be independently re-read in T2.
 - The PDF binary is not committed.
 
 ## Exact next gate
 
-Constituent 2 Tamil T1 batch 2: **PDF 24–28 / printed 23–27**. T2/T3 and English remain blocked until T1 is complete.
+Constituent 2 Tamil T1 batch 3: **PDF 29–33 / printed 28–32**. Transcribe the final five pages including the body ending; keep the separate closing note as metadata. T2/T3 and English remain blocked until T1 is complete.
