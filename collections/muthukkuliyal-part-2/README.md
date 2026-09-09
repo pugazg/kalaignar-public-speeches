@@ -1,3 +1,73 @@
 # முத்துக்குளியல் — பாகம் II
 
-Collection/source intake placeholder. Detailed source mapping is pending direct inspection of the attached controlling PDF.
+Collection-level source record for the multi-speech volume **`முத்துக் குளியல் பாகம் - II`** by **கலைஞர் மு. கருணாநிதி**.
+
+This volume is **not one continuous speech**. The imprint describes its subject as **`சொற்பொழிவுகளின் தொகுப்பு`**, and the contents list **36 constituent items**. Each constituent item must therefore be archived separately under `speeches/`, while this directory preserves the edition-level source identity and page map.
+
+## Controlling source
+
+- Filename: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
+- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- Byte size: `232,470,104`
+- Actual PDF page count from the complete binary: **425**
+- Source binary committed to GitHub: **No**
+- PDF producer metadata: `iTextSharp™ 5.5.10 ©2000-2016 iText Group NV (AGPL-version)`
+- Embedded PDF creation timestamp: `2024-11-20 05:28:58 UTC`
+- Embedded PDF modification timestamp: `2024-12-04 06:02:50 UTC`
+
+The embedded 2024 PDF timestamps are digitization/file metadata only. They are **not** publication or event dates.
+
+## Edition facts established by the scan
+
+The imprint page states:
+
+- Title: `முத்துக் குளியல் பாகம் - II`
+- Author: `கலைஞர் மு. கருணாநிதி`
+- Subject: `சொற்பொழிவுகளின் தொகுப்பு`
+- Copyright: `தமிழ்க்கனி பதிப்பகம், சென்னை - 600 004`
+- Edition: `முதல் பதிப்பு 2000`
+- Publication time: `ஜூன் 2000`
+- Publisher: `பூம்புகார் பதிப்பகம், சென்னை - 600 108`
+- Publication number: `451`
+- Printed price: `ரூ. 150/-`
+- Print run: `2000`
+- Printed size: `14 × 21 C.M.`
+- Type size: `14 புள்ளி`
+- Paper: `சன்ஷைன் சூப்பர் பிரிண்டிங் 65 GSM`
+
+The exact press name on the imprint remains intentionally unset here until separately re-read at high confidence; the scan clearly gives the press address as `சென்னை -13`.
+
+## Source structure
+
+- PDF 1: front cover
+- PDF 2: inner title / `பாகம் - II`
+- PDF 3: blank/show-through verso
+- PDF 4: title page
+- PDF 5: imprint / publication details
+- PDF 6: `முன்னுரை`
+- PDF 7: blank/show-through verso
+- PDF 8–9: `பதிப்புரை`
+- PDF 10–11: `உள்ளடக்கம்`
+- PDF 12–424: constituent items, printed pages **11–423**
+- PDF 425: back cover
+
+The printed-page/PDF relationship in the constituent body is stable: **PDF scan = printed page + 1**. The first constituent begins at PDF 12 / printed 11; the final constituent ends at PDF 424 / printed 423.
+
+## Collection mapping state
+
+- Contents entries captured: **36 / 36**
+- Constituent source ranges mapped: **36 / 36**
+- Collection page map: **complete**
+- Constituent speech archives completed from this volume: **0 / 36**
+
+See `page-map.md` for the complete title/date/range table.
+
+## Archival rule
+
+Do not create one `speeches/muthukkuliyal-part-2/` transcript containing all 425 scans. This directory is the parent **collection/source layer**. Each constituent speech or event text is processed separately under a stable `speeches/<slug>/` directory and must retain its exact parent-source scan and printed-page range.
+
+Dates shown in the contents are recorded as source evidence for those entries. Where the contents gives no date, leave it unresolved until the constituent pages themselves establish one; do not infer it from sequence or surrounding entries.
+
+## Current next gate
+
+Start or continue the first constituent item, **`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`**, mapped to PDF scans **12–18** / printed pages **11–17**, after checking that no matching speech archive already exists.
