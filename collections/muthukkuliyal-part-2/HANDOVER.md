@@ -59,9 +59,11 @@ Direct source inspection establishes:
 ### Tamil T1
 
 - Batch 1 PDF **19–23** / printed **18–22**: **DONE**;
-- total drafted: **5 / 15**;
-- Batch 2 PDF **24–28** / printed **23–27**: **NEXT**;
-- Batch 3 PDF **29–33** / printed **28–32**: pending.
+- Batch 2 PDF **24–28** / printed **23–27**: **DONE**;
+- total drafted: **10 / 15**;
+- Batch 3 PDF **29–33** / printed **28–32**: **NEXT**.
+
+Batch 2 directly followed the source across PDF 23→24, PDF 25→26 and PDF 27→28 page continuations. These remain first-pass readings and are not a T2 verification claim. PDF 28 ends mid-thought at `சாவி எழுதிய வாஷிங்டன்`.
 
 T2, T3 and English remain blocked until T1 is complete.
 
@@ -69,10 +71,10 @@ T2, T3 and English remain blocked until T1 is complete.
 
 - `transcription-ta.md` is first-pass only; do not treat current wording as scan-verified before T2.
 - preserve unusual source spelling/wording; do not modernize silently.
-- PDF 23 ends mid-sentence at `அதை அடமானம்`; inspect PDF 24 directly before joining the continuation.
+- recheck names, initials, film/studio names, salary figures, historical printing forms, and flagged unusual T1 readings during T2.
 - the closing note is metadata, not speech body text.
 - do not commit the source PDF binary.
 
 ## Exact next incomplete gate
 
-Continue constituent **2 / 36** with **Tamil T1 batch 2 — PDF 24–28 / printed 23–27**. Commit the five-page first pass and synchronize speech and collection controls. Do not begin T2 or English in that iteration.
+Complete constituent **2 / 36** Tamil T1 with **PDF 29–33 / printed 28–32**. Include the final speech body words and keep the separate closing note outside the spoken/body transcription. Synchronize controls afterward; do not begin T2 or English in the same iteration.
