@@ -1,4 +1,4 @@
-# HANDOVER — தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா
+# FINAL ARCHIVAL HANDOVER — தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா
 
 ## Repository
 
@@ -6,6 +6,8 @@
 - Branch: `main`
 - Speech directory: `speeches/desiya-ilainjar-kondatta-thodakka-vizha/`
 - Parent collection: `collections/muthukkuliyal-part-2/`
+- Constituent: **1 / 36**
+- Archive status: **CLOSED / FULLY ARCHIVED**
 
 ## Controlling source
 
@@ -14,6 +16,7 @@
 - Byte size: `232,470,104`
 - Complete PDF scans: **425**
 - Constituent range: PDF **12–18** / printed **11–17**
+- Speech pages: **7**
 - Source binary committed: **No**
 
 ## Source-supported event facts
@@ -22,86 +25,67 @@ The separate closing note on PDF 18 / printed p.17 states:
 
 `12-1-98 அன்று சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கில் தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழாவில் தலைமை உரை`
 
-Therefore:
+Therefore the archive records:
 
 - date: **1998-01-12**;
 - venue: **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**;
 - event: **தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா**;
 - role: **தலைமை உரை**.
 
-Do not confuse the parent volume's June 2000 publication date with this speech date.
+The parent volume's June 2000 publication date is not a speech-event date.
 
-## Durable workflow state
+## Final gate state
 
-- duplicate check: **PASS — no existing matching speech tree**;
-- constituent source intake/boundaries: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 7 / 7 pages**;
-- Tamil T2 strict visual audit: **PASS / COMPLETE — 7 / 7**;
-- T2 substantive corrections: **5**;
-- T2 unresolved readings: **0**;
-- Tamil T3 consolidation/freeze: **PASS / COMPLETE**;
-- Tamil status: **`verified-complete`**;
-- English E1: **COMPLETE — 7 / 7 pages**;
-- English E2 fidelity review: **PASS / COMPLETE — 7 / 7**;
-- E2 confirmed corrections: **3 / 3 consolidated**;
-- E2 unresolved issues: **0**;
-- English E3 final verification: **PASS / COMPLETE — 7 / 7**;
-- E3 corrections: **0**;
-- E3 unresolved issues: **0**;
-- English status: **`verified-complete`**;
-- repository-level closure: **READY / NOT STARTED**.
+- duplicate check: **PASS**;
+- source intake / boundaries: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 7 / 7**;
+- Tamil T2: **PASS / COMPLETE — 7 / 7; 5 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE**;
+- Tamil: **`verified-complete`**;
+- English E1: **COMPLETE — 7 / 7**;
+- English E2: **PASS / COMPLETE — 7 / 7; 3 corrections consolidated; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 7 / 7; 0 further corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository-level closure: **PASS / COMPLETE**.
 
-## Tamil source-fidelity resolutions
+No transcription or translation work is pending.
 
-Five first-pass readings were corrected from direct scan evidence:
+## Durable fidelity decisions
+
+Tamil T2 source corrections:
 
 1. `தங்கள் சொந்த நாடாகக் கொள்வர்` → `தங்கள் சொந்த நாடாக்கிக் கொள்வர்`;
 2. `அர்ஜுனனை` → `அர்ஜூனனை`;
 3. `அர்ஜுனன்` → `அர்ஜூனன்`;
-4. `இந்தியர் கனிவை` → `இந்தியர்களிடையே` from the source line-wrap `இந்தியர்` / `களிடையே`;
-5. `சமாதானத் திறக்கும்` → `சமாதானத்திற்கும்` from the source line-wrap `சமாதானத்` / `திற்கும்`.
+4. `இந்தியர்` / `களிடையே` → `இந்தியர்களிடையே`;
+5. `சமாதானத்` / `திற்கும்` → `சமாதானத்திற்கும்`.
 
-Directly confirmed and retained:
+Confirmed source-sensitive readings retained:
 
 - unusual printed p.13 `ஐக்கிய இந்தியர் மீது`;
-- printed p.15 `அளிக்கப்படாவிட்டாலும் நீடித்த நட்புறவைச் சாதிக்க முடியாது`;
-- the source's repeated p.15 `ஆக்கபூர்வ நடவடிக்கைகளில்` / `ஏழைகளின் நலனை மேம்படுத்த...` sequence;
-- `இருபத்தையாயிரத்துக்கு` as the proper join of `இருபத்தையாயிரத்` / `துக்கு`;
-- quotation wording/spacing and all recorded numerals.
+- genuine p.15 repeated `ஆக்கபூர்வ நடவடிக்கைகளில்` / government-effort sequence;
+- `இருபத்தையாயிரத்துக்கு` from the printed line-wrap `இருபத்தையாயிரத்` / `துக்கு`;
+- source quotations, names and numerical claims as documented in `audit.md`.
 
-`transcription-ta.md` remains the canonical frozen Tamil layer. Any later Tamil change requires specific source evidence, an audit record, and reopening of dependent English work.
+English E2 corrections:
 
-## English E2 checkpoint
+1. repaired the p.15 repeated constructive-activity passage without deleting source repetition;
+2. `சுதந்திர தீபம்` → `lamp of freedom` rather than `torch of freedom`;
+3. closing-note `தலைமை உரை` → `Address delivered while presiding...` rather than `Chairperson's address`.
 
-E2 independently compared all seven English pages against frozen Tamil and produced **3** confirmed corrections, all consolidated into `translation-en.md`:
+E3 found **0** further corrections and **0** unresolved issues. The exact p.13 Tamil form remains visible in an English source note because a confident literal rendering is not available from the printed wording alone.
 
-1. printed p.15 — the E1 wording in the repeated constructive-activity/government-effort passage had reversed the grammatical relationship; the corrected English carries forward `Energy and effort` as the understood subject while preserving the source repetition;
-2. printed p.17 — `சுதந்திர தீபம்` was corrected from `torch of freedom` to `lamp of freedom`, preserving the source's repeated `தீபம்` image;
-3. printed p.17 closing note — `Chairperson's address` was replaced with `Address delivered while presiding...`, a closer rendering of `தலைமை உரை` without inventing a more specific office/title.
+## Frozen-file rule
 
-The unusual p.13 source form `ஐக்கிய இந்தியர் மீது` remains explicitly visible in an English note. E2 accepted the cautious contextual body rendering only because the exact Tamil is preserved and the note states that a confident literal translation is unavailable from the printed form alone.
+`transcription-ta.md` and `translation-en.md` are frozen verified layers. A later change is allowed only with specific source evidence and must reopen the relevant audit/review gates.
 
-## English E3 checkpoint
+## Parent collection continuation
 
-E3 performed a fresh end-to-end comparison of consolidated `translation-en.md` against frozen `transcription-ta.md` across all seven mapped pages.
+This constituent is finished. Continue work only from the parent collection's next gate:
 
-Verified in the final pass:
+**Constituent 2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**  
+Printed pages: **18–32**  
+PDF scans: **19–33**  
+Mapped pages: **15**
 
-- page order and continuity PDF 12–18 / printed 11–17;
-- opening title and first body paragraph;
-- all names and historical references;
-- all three quotation blocks and attributions;
-- p.13 source-transparency handling for `ஐக்கிய இந்தியர் மீது`;
-- p.15 genuine repetition after the E2 correction;
-- p.16 numerical/employment sequence;
-- p.17 `lamp of freedom` image;
-- final Vivekananda quotation and closing sentence;
-- separation and conservative translation of the source closing note.
-
-E3 result: **PASS — 7 / 7 pages; 0 further corrections; 0 unresolved English fidelity issues**.
-
-English is now frozen as **`verified-complete`**. Any later source-supported Tamil correction must reopen the dependent English workflow.
-
-## Exact next incomplete gate
-
-Perform **repository-level closure for constituent 1 / 36**. Verify all required speech files and parent controls agree on the final state, mark this constituent archive complete, increment the parent collection archived counter, and advance the parent collection to constituent **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
+Before creating the next speech tree, search live `main` for an existing equivalent archive, then inspect the constituent's opening/closing pages and source-supported event facts. Do not reopen constituent 1 without new source evidence.
