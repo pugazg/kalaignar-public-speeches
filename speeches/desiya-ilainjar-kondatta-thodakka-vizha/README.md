@@ -36,24 +36,29 @@ The parent collection is a 36-item volume explicitly described as `சொற்�
 | Constituent duplicate check | **PASS — no existing matching speech tree found** |
 | Source intake / boundary identification | **PASS / COMPLETE** |
 | T1 first-pass Tamil transcription | **COMPLETE — 7 / 7 pages** |
-| T2 strict visual fidelity audit | **NOT STARTED — 0 / 7** |
-| T3 Tamil consolidation / freeze | **NOT STARTED** |
-| English E1 | **BLOCKED / NOT STARTED** |
+| T2 strict visual fidelity audit | **PASS / COMPLETE — 7 / 7 pages** |
+| T2 substantive corrections | **5** |
+| T2 unresolved readings | **0** |
+| T3 Tamil consolidation / freeze | **PASS / COMPLETE** |
+| Tamil transcription | **`verified-complete`** |
+| English E1 | **READY / NOT STARTED** |
 | English E2 | **BLOCKED / NOT STARTED** |
 | English E3 | **BLOCKED / NOT STARTED** |
 
-## T1 cautions for T2
+## Important T2 resolutions
 
-T1 preserves several visibly unusual or potentially source-irregular readings rather than silently correcting them. T2 must re-check them directly against the scans, including:
+The strict scan re-read corrected five first-pass readings:
 
-- printed p.13: `ஐக்கிய இந்தியர் மீது`;
-- printed p.15: `இந்தியர் கனிவை`;
-- printed p.16: `சமாதானத் திறக்கும்`;
-- printed p.16 line-wrap joined as `இருபத்தையாயிரத்துக்கு`;
-- punctuation and exact spacing in quoted lines from திருவள்ளுவர், பாரதி and விவேகானந்தர்.
+- printed p.12: `தங்கள் சொந்த நாடாகக் கொள்வர்` → `தங்கள் சொந்த நாடாக்கிக் கொள்வர்`;
+- printed p.12: `அர்ஜுனனை` → `அர்ஜூனனை`;
+- printed p.12: `அர்ஜுனன்` → `அர்ஜூனன்`;
+- printed p.15: `இந்தியர் கனிவை` → source line-wrap `இந்தியர்` / `களிடையே`, consolidated as `இந்தியர்களிடையே`;
+- printed p.16: `சமாதானத் திறக்கும்` → source line-wrap `சமாதானத்` / `திற்கும்`, consolidated as `சமாதானத்திற்கும்`.
 
-These are not editorial corrections or interpretations. They are first-pass scan readings pending strict visual audit.
+The unusual printed p.13 reading `ஐக்கிய இந்தியர் மீது` was directly confirmed and retained. The repeated wording on printed p.15 around `ஆக்கபூர்வ நடவடிக்கைகளில்` / `ஏழைகளின் நலனை மேம்படுத்த...` is genuinely present in the source and is retained rather than treated as accidental transcript duplication. The printed line-wrap `இருபத்தையாயிரத்` / `துக்கு` is confirmed as the single word `இருபத்தையாயிரத்துக்கு`.
+
+All names, quotations, numerals, first/last body words and the separate closing note were re-checked directly against the scans. `audit.md` contains the full T2/T3 record.
 
 ## Exact next gate
 
-Perform **T2 strict visual fidelity audit** for PDF **12–18** / printed **11–17**, comparing every line against the controlling scan and recording every confirmed correction or retained unusual reading in `audit.md` before Tamil can be consolidated/frozen.
+Begin **English E1 first-pass translation**, translating only from the frozen `transcription-ta.md`. Do not translate independently from OCR, the PDF, or outside sources.
