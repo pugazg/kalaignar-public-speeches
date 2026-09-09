@@ -42,6 +42,9 @@ Edition facts and embedded PDF metadata are recorded separately in `metadata.jso
 - constituent Tamil T2 audits complete: **1 / 36**
 - constituent Tamil T3 freezes complete: **1 / 36**
 - constituent Tamil layers verified complete: **1 / 36**
+- constituent English E1 first passes complete: **1 / 36**
+- constituent English E2 reviews complete: **0 / 36**
+- constituent English E3 final verifications complete: **0 / 36**
 - constituent archives fully completed from this volume: **0 / 36**
 
 The stable body relationship is `PDF scan = printed page + 1` for PDF 12–424 / printed 11–423. Full details are in `page-map.md`.
@@ -64,10 +67,13 @@ Durable constituent state:
 - Tamil T2: **PASS / COMPLETE — 7 / 7 pages; 5 substantive corrections; 0 unresolved**;
 - Tamil T3: **PASS / COMPLETE**;
 - Tamil status: **`verified-complete`**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED / NOT STARTED**.
+- English E1: **COMPLETE — 7 / 7 pages**;
+- English E2: **READY / NOT STARTED — 0 / 7**;
+- English E3: **BLOCKED / NOT STARTED**.
 
-Important T2 resolutions are retained in the speech-level `audit.md`; notably `இந்தியர்களிடையே` and `சமாதானத்திற்கும்` were recovered from printer line-wraps, while unusual `ஐக்கிய இந்தியர் மீது` was confirmed as printed.
+Important Tamil T2 resolutions are retained in the speech-level `audit.md`; notably `இந்தியர்களிடையே` and `சமாதானத்திற்கும்` were recovered from printer line-wraps, while unusual `ஐக்கிய இந்தியர் மீது` was confirmed as printed.
+
+The E1 translation was produced only from frozen `transcription-ta.md`. The unusual p.13 source form `ஐக்கிய இந்தியர் மீது` is explicitly surfaced in an English source note for independent E2 review rather than being silently used to alter the Tamil layer.
 
 ## Important cautions
 
@@ -81,4 +87,4 @@ Important T2 resolutions are retained in the speech-level `audit.md`; notably `�
 
 ## Exact next incomplete gate
 
-Continue constituent **1 / 36** with **English E1 first-pass translation** of all seven pages, using only its frozen `transcription-ta.md` as the translation source. Preserve page correspondence, argument order, repetitions, names, quotations, unusual source-supported forms, numerical claims and the verified ending. After E1 is complete, perform a separate E2 Tamil-to-English fidelity review.
+Continue constituent **1 / 36** with **English E2 independent Tamil→English fidelity review** across PDF **12–18** / printed **11–17**. Compare the complete E1 against frozen Tamil, record every omission/addition/reversal/source-transparency finding, consolidate confirmed English corrections, and leave E3 blocked until that review is fully resolved.
