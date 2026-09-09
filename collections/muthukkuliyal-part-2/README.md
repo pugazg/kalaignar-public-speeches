@@ -9,7 +9,8 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - mappings: **36 / 36 complete**
 - speech archives started: **2 / 36**
 - Tamil T1 complete: **2 / 36**
-- Tamil T2/T3 complete: **1 / 36**
+- Tamil T2 complete: **1 / 36**
+- Tamil T3 complete: **1 / 36**
 - Tamil verified: **1 / 36**
 - English E1/E2/E3 complete: **1 / 36**
 - fully archived: **1 / 36**
@@ -26,9 +27,11 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - date: **13-01-1998** from source closing note;
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- T2: **NOT STARTED**;
+- Tamil T2: **IN PROGRESS — 5 / 15; 3 corrections; 0 unresolved**;
 - T3/English: **BLOCKED**.
+
+T2 batch 1 covered PDF **19–23** / printed **18–22** and passed all five pages. Scan-confirmed corrections are retained in the speech-level audit.
 
 ## Exact next gate
 
-Constituent 2 Tamil **T2 strict visual audit** over all 15 pages. See `page-map.md` and the speech handover for details.
+Constituent 2 Tamil **T2 batch 2 — PDF 24–28 / printed 23–27**. See `page-map.md` and the speech handover for details.
