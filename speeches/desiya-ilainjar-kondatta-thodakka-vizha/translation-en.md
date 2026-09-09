@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Source for translation:** frozen `transcription-ta.md` only  
 **Source range:** PDF 12–18 / printed pp. 11–17  
-**English status:** `fidelity-corrections-consolidated` — E1 7/7, E2 7/7; E3 pending
+**English status:** `verified-complete` — E1 7/7, E2 7/7, E3 7/7
 
-> This English layer was derived only from the frozen, source-verified Tamil transcription. E2 independent Tamil→English fidelity review is complete and all confirmed corrections are consolidated below. Final E3 end-to-end verification is still pending; this English layer is not yet `verified-complete`.
+> This English layer was derived only from the frozen, source-verified Tamil transcription. E2 independent Tamil→English fidelity review is complete with all 3 confirmed corrections consolidated. E3 final end-to-end verification has rechecked all seven pages against frozen Tamil with 0 further corrections and 0 unresolved English fidelity issues. This English layer is now frozen as `verified-complete`.
 
 ## PDF 12 / printed p.11
 
