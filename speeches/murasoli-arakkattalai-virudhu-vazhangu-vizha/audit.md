@@ -22,9 +22,9 @@
 
 ## T1 first pass
 
-Tamil T1 is **IN PROGRESS — 5 / 15 pages**.
+Tamil T1 is **IN PROGRESS — 10 / 15 pages**.
 
-Completed first-pass batch:
+Completed first-pass pages:
 
 | PDF | Printed | T1 state |
 |---:|---:|---|
@@ -33,20 +33,36 @@ Completed first-pass batch:
 | 21 | 20 | drafted |
 | 22 | 21 | drafted |
 | 23 | 22 | drafted |
+| 24 | 23 | drafted |
+| 25 | 24 | drafted |
+| 26 | 25 | drafted |
+| 27 | 26 | drafted |
+| 28 | 27 | drafted |
 
-Pending T1: PDF **24–33** / printed **23–32**.
+Pending T1: PDF **29–33** / printed **28–32**.
 
 This is not yet a verification claim. T2 must later re-read every page directly against the scans and may correct first-pass readings.
 
-## Source-sensitive items already noted for later T2
+### Batch 2 page-boundary observations
+
+The following continuations were read directly across both page images during T1, but remain subject to independent T2 confirmation:
+
+- PDF 23→24: `அதை அடமானம்` / `வைத்து, சொற்பொழிவாளர்களை...`;
+- PDF 25→26: `கறுப்பு உடை தரித்துக்` / `கொண்டு அறிமுகமாவார்.`;
+- PDF 27→28: `அந்த அன்பை திரும்பக்` / `காட்ட வேண்டும்.`;
+- PDF 28 ends mid-thought at `சாவி எழுதிய வாஷிங்டன்`; the continuation belongs to the final T1 batch.
+
+## Source-sensitive items noted for later T2
 
 - opening-page names/titles and the humorous `இட ஒதுக்கீடு` / `தொகுதி` wordplay must be checked closely;
 - PDF 20 initials `ஏ.எஸ்.ஏ. சாமி`, place wording around `வடார்க்காடு மாவட்டம் திருப்பத்தூர்`, and award/`பொற்கிழி` wording require direct re-read;
-- page-boundary continuation PDF 20→21 after `அண்ணா அறிவாலயத்தில் நடைபெற்ற` is intentionally preserved;
 - the source's spellings around `அச்சியற்றப்பட்டு` / `அச்சியற்றப்பட்ட` must not be silently modernized before T2;
 - PDF 22 references to `ஓடம் போக்கி ஆறு`, `மூங்கில் பாலம்`, and `தெற்கு வீதி` should be independently verified;
-- PDF 23 ends mid-sentence at `அதை அடமானம்`; the continuation must be checked with PDF 24 before any joining/consolidation.
+- PDF 24 wording around the early `குடியரசு` / `விடுதலை` employment chronology and monetary comparisons should be rechecked;
+- PDF 25–27 names, initials, studio names, film titles and salary figures (`40`, `150`, `500`, `10,000`) require strict re-read;
+- unusual first-pass wording such as `பூதாகரமாக`, `இயக்கும், டைரக்டராக`, and `நாட்டுப்பற்று மிக்க கொண்ட எழுத்தாளர்` is retained for now rather than silently normalized;
+- PDF 28 wording around `வாஷிங்டன் திருமணம்` / `துக்ளக் சான்றிதழிலே` should receive a high-confidence T2 re-read.
 
 ## Exact next gate
 
-Continue Tamil T1 with PDF **24–28** / printed **23–27**. T2, T3 and all English stages remain blocked.
+Complete Tamil T1 with PDF **29–33** / printed **28–32**, including the final body words while keeping the separate closing note outside the body. T2, T3 and all English stages remain blocked.
