@@ -11,9 +11,7 @@ Controlling source: `TVA_BOK_0065802_முத்துக்குளியல�
 - constituent body: PDF **12–424** / printed **11–423**
 - back cover: PDF **425**
 
-For the constituent body, the source uses a stable offset of **PDF scan = printed page + 1**. End pages below are derived from the next contents start page and checked against the established body boundary; the final item ends on printed p.423 / PDF 424.
-
-Dates in this table are reproduced from the contents. `not stated in contents` is deliberate and must not be filled by inference.
+For the constituent body, the source uses a stable offset of **PDF scan = printed page + 1**. Dates are reproduced from the contents; `not stated in contents` must not be filled by inference.
 
 | # | Contents title | Date in contents | Printed pages | PDF scans | Pages |
 |---:|---|---|---:|---:|---:|
@@ -58,16 +56,17 @@ Dates in this table are reproduced from the contents. `not stated in contents` i
 
 | # | Speech slug | Current state |
 |---:|---|---|
-| 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **T1 complete — 7/7; T2 next** |
-| 2–36 | — | not started |
+| 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T1 IN PROGRESS — 5/15; PDF 19–23 drafted; PDF 24–28 next** |
+| 3–36 | — | not started |
 
 ## Mapping cautions
 
 - The contents sequence is authoritative as printed even where dates are not chronological; do not reorder entries by date.
 - Entries 7 and 16 have no date printed in the contents. Inspect their constituent pages before assigning a speech/event date.
-- Collection-level publication facts must not be copied into constituent speech-level event facts unless the constituent source pages support them.
+- Collection-level publication facts must not be copied into constituent speech-level event facts unless constituent pages support them.
 - The PDF binary is not committed to GitHub.
 
 ## Active mapped item
 
-Constituent 1: **`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`** — PDF **12–18** / printed **11–17** — speech tree `speeches/desiya-ilainjar-kondatta-thodakka-vizha/` — **T1 complete; T2 strict visual audit next**.
+Constituent 2: **`முரசொலி அறக்கட்டளை விருது வழங்கு விழா`** — PDF **19–33** / printed **18–32** — speech tree `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/` — source gate **PASS / COMPLETE** — Tamil T1 **5/15**, next PDF **24–28** / printed **23–27**.
