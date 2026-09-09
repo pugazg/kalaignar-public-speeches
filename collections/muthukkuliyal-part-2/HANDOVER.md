@@ -44,7 +44,7 @@ Edition facts and embedded PDF metadata are recorded separately in `metadata.jso
 - constituent Tamil layers verified complete: **1 / 36**
 - constituent English E1 first passes complete: **1 / 36**
 - constituent English E2 reviews complete: **1 / 36**
-- constituent English E3 final verifications complete: **0 / 36**
+- constituent English E3 final verifications complete: **1 / 36**
 - constituent archives fully completed from this volume: **0 / 36**
 
 The stable body relationship is `PDF scan = printed page + 1` for PDF 12–424 / printed 11–423. Full details are in `page-map.md`.
@@ -69,18 +69,21 @@ Durable constituent state:
 - Tamil status: **`verified-complete`**;
 - English E1: **COMPLETE — 7 / 7 pages**;
 - English E2: **PASS / COMPLETE — 7 / 7 pages; 3 confirmed corrections consolidated; 0 unresolved**;
-- English status: **`fidelity-corrections-consolidated`**;
-- English E3: **READY / NOT STARTED — 0 / 7**.
+- English E3: **PASS / COMPLETE — 7 / 7 pages; 0 further corrections; 0 unresolved**;
+- English status: **`verified-complete`**;
+- repository-level closure: **READY / NOT STARTED**.
 
 Important Tamil T2 resolutions are retained in the speech-level `audit.md`; notably `இந்தியர்களிடையே` and `சமாதானத்திற்கும்` were recovered from printer line-wraps, while unusual `ஐக்கிய இந்தியர் மீது` was confirmed as printed.
 
 E2 independently reviewed the complete English against frozen Tamil. Its three consolidated corrections are retained in `translation-review.md`: the repeated constructive-activity passage was repaired without removing genuine source repetition; `சுதந்திர தீபம்` was restored as `lamp of freedom`; and `தலைமை உரை` in the separate closing note was translated more conservatively as an address delivered while presiding. E2 found no unresolved English fidelity issue.
 
+E3 then independently rechecked the complete consolidated English against frozen Tamil from PDF 12 through PDF 18. It confirmed the opening, all page transitions, names, quotations, numerical claims, p.13 source-transparency note, p.15 genuine repetition, p.17 lamp image, final sentence and separate source closing note with **0** further corrections and **0** unresolved issues. English is now `verified-complete`.
+
 ## Important cautions
 
 - Do **not** treat the 425-page volume as one speech.
 - Do **not** create a single `speeches/muthukkuliyal-part-2/` transcript.
-- Do **not** start constituent 2 while constituent 1 remains in its active archival sequence unless separately authorized.
+- Do **not** start constituent 2 until constituent 1 repository-level closure is completed.
 - Contents dates are source evidence as printed. Do not reorder the collection by date.
 - Entries 7 and 16 have no date in the contents; leave their dates unresolved until their own pages establish one.
 - Do not copy the June 2000 publication date into speech-event dates.
@@ -88,4 +91,4 @@ E2 independently reviewed the complete English against frozen Tamil. Its three c
 
 ## Exact next incomplete gate
 
-Continue constituent **1 / 36** with **English E3 final end-to-end Tamil→English verification** across PDF **12–18** / printed **11–17**. Compare the consolidated English against frozen Tamil from the opening through the final body sentence and separate source closing note. Only after E3 passes may English be marked `verified-complete` and constituent 1 move to repository-level closure.
+Perform **repository-level closure for constituent 1 / 36**. Verify every required speech file and parent collection control agrees that Tamil and English are `verified-complete`, mark constituent 1 fully archived, increment the collection archived counter to **1 / 36**, and advance the exact next constituent to **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
