@@ -42,8 +42,11 @@ Do not confuse the parent volume's June 2000 publication date with this speech d
 - Tamil T3 consolidation/freeze: **PASS / COMPLETE**;
 - Tamil status: **`verified-complete`**;
 - English E1: **COMPLETE — 7 / 7 pages**;
-- English E2 fidelity review: **READY / NOT STARTED — 0 / 7**;
-- English E3 final verification: **BLOCKED / NOT STARTED**.
+- English E2 fidelity review: **PASS / COMPLETE — 7 / 7**;
+- E2 confirmed corrections: **3 / 3 consolidated**;
+- E2 unresolved issues: **0**;
+- English status: **`fidelity-corrections-consolidated`**;
+- English E3 final verification: **READY / NOT STARTED — 0 / 7**.
 
 ## Tamil source-fidelity resolutions
 
@@ -65,14 +68,18 @@ Directly confirmed and retained:
 
 `transcription-ta.md` remains the canonical frozen Tamil layer. Any later Tamil change requires specific source evidence, an audit record, and reopening of dependent English work.
 
-## English E1 checkpoint
+## English E2 checkpoint
 
-`translation-en.md` now contains the complete first-pass English for all seven mapped pages, derived only from the frozen Tamil layer.
+E2 independently compared all seven English pages against frozen Tamil and produced **3** confirmed corrections, all consolidated into `translation-en.md`:
 
-E1 preserved the page sequence, names, historical references, repeated source wording, numerical claims and the verified ending. It also translates the separate closing note as source metadata, clearly outside the speech body.
+1. printed p.15 — the E1 wording in the repeated constructive-activity/government-effort passage had reversed the grammatical relationship; the corrected English carries forward `Energy and effort` as the understood subject while preserving the source repetition;
+2. printed p.17 — `சுதந்திர தீபம்` was corrected from `torch of freedom` to `lamp of freedom`, preserving the source's repeated `தீபம்` image;
+3. printed p.17 closing note — `Chairperson's address` was replaced with `Address delivered while presiding...`, a closer rendering of `தலைமை உரை` without inventing a more specific office/title.
 
-One item is explicitly flagged for E2 rather than silently resolved: verified printed p.13 `ஐக்கிய இந்தியர் மீது`. E1 gives a cautious readable rendering, “our commitment to a united India,” and records the exact Tamil in a source note. E2 must independently review that choice.
+The unusual p.13 source form `ஐக்கிய இந்தியர் மீது` remains explicitly visible in an English note. E2 accepted the cautious contextual body rendering only because the exact Tamil is preserved and the note states that a confident literal translation is unavailable from the printed form alone.
+
+E2 found **0** omitted paragraphs, **0** reversed claims after consolidation, **0** numerical mismatches, **0** missing quotations, and **0** unresolved English fidelity issues.
 
 ## Exact next incomplete gate
 
-Perform **E2 independent Tamil→English fidelity review for all 7 pages, PDF 12–18 / printed 11–17**. Compare `translation-en.md` against frozen `transcription-ta.md`, record every omission/addition/reversal/source-transparency issue in `translation-review.md`, then consolidate confirmed corrections into the English translation. E3 remains blocked until E2 is fully resolved.
+Perform **E3 final end-to-end Tamil→English verification for all 7 pages, PDF 12–18 / printed 11–17**. Compare the consolidated `translation-en.md` once more against frozen `transcription-ta.md` from the opening through the final body sentence and separate source closing note. Only after E3 passes may English become `verified-complete` and constituent 1 proceed to repository-level closure.
