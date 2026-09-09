@@ -58,7 +58,7 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation": "verified-complete",
     "english_translation_pages_completed": 7,
     "english_translation_through_pdf_page": 18,
     "english_translation_through_printed_page": 17,
@@ -69,8 +69,12 @@
     "english_translation_review_through_printed_page": 17,
     "english_translation_review_corrections": 3,
     "english_translation_review_unresolved": 0,
-    "english_translation_final_verification": "not-started",
-    "english_translation_final_verification_pages_checked": 0,
-    "next_gate": "E3 final end-to-end Tamil-to-English verification — all 7 pages"
+    "english_translation_final_verification": "verified-complete",
+    "english_translation_final_verification_pages_checked": 7,
+    "english_translation_final_verification_through_pdf_page": 18,
+    "english_translation_final_verification_through_printed_page": 17,
+    "english_translation_final_verification_corrections": 0,
+    "english_translation_final_verification_unresolved": 0,
+    "next_gate": "Repository-level closure for constituent 1 / 36"
   }
 }
