@@ -66,11 +66,17 @@
     "page_map_state": "complete",
     "constituent_items_total": 36,
     "constituent_items_mapped": 36,
+    "constituent_items_started": 1,
+    "constituent_items_t1_complete": 1,
     "constituent_items_archived": 0,
-    "collection_status": "source-mapped",
+    "collection_status": "constituent-processing-in-progress",
+    "active_constituent_number": 1,
+    "active_constituent_slug": "desiya-ilainjar-kondatta-thodakka-vizha",
+    "active_constituent_title_ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா",
+    "active_constituent_status": "t1-complete",
+    "active_constituent_pdf_pages": "12-18",
+    "active_constituent_printed_pages": "11-17",
     "next_constituent_number": 1,
-    "next_constituent_title_ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா",
-    "next_constituent_pdf_pages": "12-18",
-    "next_constituent_printed_pages": "11-17"
+    "next_gate": "Constituent 1 T2 strict visual fidelity audit — PDF 12-18 / printed 11-17"
   }
 }

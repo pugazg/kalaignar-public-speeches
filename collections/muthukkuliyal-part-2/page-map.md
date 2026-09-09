@@ -54,6 +54,13 @@ Dates in this table are reproduced from the contents. `not stated in contents` i
 | 35 | காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா | 22-11-98 | 407–414 | 408–415 | 8 |
 | 36 | பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா | 26-11-98 | 415–423 | 416–424 | 9 |
 
+## Archival status
+
+| # | Speech slug | Current state |
+|---:|---|---|
+| 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **T1 complete — 7/7; T2 next** |
+| 2–36 | — | not started |
+
 ## Mapping cautions
 
 - The contents sequence is authoritative as printed even where dates are not chronological; do not reorder entries by date.
@@ -61,6 +68,6 @@ Dates in this table are reproduced from the contents. `not stated in contents` i
 - Collection-level publication facts must not be copied into constituent speech-level event facts unless the constituent source pages support them.
 - The PDF binary is not committed to GitHub.
 
-## Next mapped item
+## Active mapped item
 
-Constituent 1: **`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`** — PDF **12–18** / printed **11–17**.
+Constituent 1: **`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`** — PDF **12–18** / printed **11–17** — speech tree `speeches/desiya-ilainjar-kondatta-thodakka-vizha/` — **T1 complete; T2 strict visual audit next**.

@@ -58,9 +58,25 @@ The printed-page/PDF relationship in the constituent body is stable: **PDF scan 
 - Contents entries captured: **36 / 36**
 - Constituent source ranges mapped: **36 / 36**
 - Collection page map: **complete**
+- Constituent speech archives started from this volume: **1 / 36**
+- Constituent Tamil T1 first passes complete: **1 / 36**
 - Constituent speech archives completed from this volume: **0 / 36**
 
 See `page-map.md` for the complete title/date/range table.
+
+## Active constituent
+
+Constituent **1 / 36**, `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`, is active at:
+
+`speeches/desiya-ilainjar-kondatta-thodakka-vizha/`
+
+- PDF **12–18** / printed **11–17**
+- source intake: **complete**
+- Tamil T1: **complete — 7 / 7 pages**
+- Tamil T2: **not started — 0 / 7**
+- English: **blocked**
+
+The constituent's own closing note establishes its speech date as **12-01-1998**, venue as **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, and role as **தலைமை உரை**. These are constituent source facts, distinct from the June 2000 publication date of the parent volume.
 
 ## Archival rule
 
@@ -70,4 +86,4 @@ Dates shown in the contents are recorded as source evidence for those entries. W
 
 ## Current next gate
 
-Start or continue the first constituent item, **`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`**, mapped to PDF scans **12–18** / printed pages **11–17**, after checking that no matching speech archive already exists.
+Continue constituent **1 / 36** with **T2 strict visual fidelity audit** for PDF **12–18** / printed **11–17**. Do not start constituent 2 and do not begin English until constituent 1 passes T2 and T3.

@@ -1,0 +1,62 @@
+{
+  "id": "desiya-ilainjar-kondatta-thodakka-vizha",
+  "title": {
+    "ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா",
+    "contents_title_ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா",
+    "en_transliteration": "Desiya Ilainjar Kondatta Thodakka Vizha"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "தலைமை உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 1,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": "1998-01-12",
+    "date_source_text": "12-1-98",
+    "venue_ta": "சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்",
+    "event_ta": "தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா",
+    "role_ta": "தலைமை உரை",
+    "source_note": "PDF 18 / printed p.17 states: 12-1-98 அன்று சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கில் தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழாவில் தலைமை உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 12,
+    "pdf_page_end": 18,
+    "printed_page_start": 11,
+    "printed_page_end": 17,
+    "speech_pages_total": 7,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 12 / printed p.11; titled opening",
+    "ending": "Speech body ends on PDF 18 / printed p.17 before the separate printed source closing note"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-match",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "first-pass-complete",
+    "speech_pages_total": 7,
+    "speech_pages_drafted": 7,
+    "tamil_visual_audit": "not-started",
+    "strict_reaudit_pages_checked": 0,
+    "tamil_consolidation": "not-started",
+    "opening_t1_captured": true,
+    "ending_t1_captured": true,
+    "source_closing_note_captured": true,
+    "english_translation": "not-started",
+    "english_translation_review": "not-started",
+    "english_translation_final_verification": "not-started",
+    "next_gate": "T2 strict visual fidelity audit — PDF 12-18 / printed 11-17"
+  }
+}

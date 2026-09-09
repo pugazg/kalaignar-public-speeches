@@ -37,15 +37,36 @@ Edition facts and embedded PDF metadata are recorded separately in `metadata.jso
 - constituent printed-page ranges mapped: **36 / 36 — COMPLETE**
 - constituent PDF scan ranges mapped: **36 / 36 — COMPLETE**
 - parent collection source intake: **PASS / COMPLETE**
+- constituent archives started: **1 / 36**
+- constituent Tamil T1 first passes complete: **1 / 36**
 - constituent archives completed from this volume: **0 / 36**
 
 The stable body relationship is `PDF scan = printed page + 1` for PDF 12–424 / printed 11–423. Full details are in `page-map.md`.
+
+## Active constituent 1 / 36
+
+**`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`**  
+Speech tree: `speeches/desiya-ilainjar-kondatta-thodakka-vizha/`  
+Contents date: **12-01-98**  
+Printed pages: **11–17**  
+PDF scans: **12–18**  
+Mapped body pages: **7**
+
+Durable constituent state:
+
+- duplicate search: **PASS — no existing matching speech tree**;
+- source intake / boundaries: **PASS / COMPLETE**;
+- closing note directly establishes **12-1-98**, **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, and **தலைமை உரை**;
+- Tamil T1: **COMPLETE — 7 / 7 pages**;
+- Tamil T2: **NOT STARTED — 0 / 7**;
+- Tamil T3: **NOT STARTED**;
+- English: **BLOCKED**.
 
 ## Important cautions
 
 - Do **not** treat the 425-page volume as one speech.
 - Do **not** create a single `speeches/muthukkuliyal-part-2/` transcript.
-- Each constituent item must be checked for an existing archive before creating a new `speeches/<slug>/` tree.
+- Do **not** start constituent 2 while constituent 1 is still in its Tamil verification sequence unless explicitly authorized.
 - Contents dates are source evidence as printed. Do not reorder the collection by date.
 - Entries 7 and 16 have no date in the contents; leave their dates unresolved until their own pages establish one.
 - Do not copy the June 2000 publication date into speech-event dates.
@@ -53,12 +74,4 @@ The stable body relationship is `PDF scan = printed page + 1` for PDF 12–424 /
 
 ## Exact next incomplete gate
 
-Start/continue constituent **1 / 36**:
-
-**`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா`**  
-Contents date: **12-01-98**  
-Printed pages: **11–17**  
-PDF scans: **12–18**  
-Mapped body pages: **7**
-
-Before creating a speech tree, search live `main` for the title, likely slug, event wording, parent source filename and equivalent records. If no existing archive is found, create the constituent speech directory with parent-collection provenance and begin Tamil T1 from PDF 12–18. English remains blocked until Tamil T3 passes.
+Continue constituent **1 / 36** with **T2 strict visual fidelity audit** across PDF **12–18** / printed **11–17**. Re-read every line against the controlling scan, record every correction/retention in the speech-level `audit.md`, and keep English blocked until T3 passes.
