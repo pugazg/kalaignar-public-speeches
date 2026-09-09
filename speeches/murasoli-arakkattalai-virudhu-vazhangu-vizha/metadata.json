@@ -52,12 +52,16 @@
     "speech_pages_drafted": 15,
     "tamil_transcription_through_pdf_page": 33,
     "tamil_transcription_through_printed_page": 32,
-    "tamil_visual_audit": "not-started",
-    "strict_reaudit_pages_checked": 0,
+    "tamil_visual_audit": "in-progress",
+    "strict_reaudit_pages_checked": 5,
+    "tamil_visual_audit_through_pdf_page": 23,
+    "tamil_visual_audit_through_printed_page": 22,
+    "tamil_visual_audit_corrections": 3,
+    "tamil_visual_audit_unresolved": 0,
     "tamil_consolidation": "not-started",
     "english_translation": "not-started",
     "english_translation_review": "not-started",
     "english_translation_final_verification": "not-started",
-    "next_gate": "Tamil T2 strict visual fidelity audit — PDF 19-33 / printed 18-32"
+    "next_gate": "Tamil T2 batch 2 — PDF 24-28 / printed 23-27"
   }
 }
