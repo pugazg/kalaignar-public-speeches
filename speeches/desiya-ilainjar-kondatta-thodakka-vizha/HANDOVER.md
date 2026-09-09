@@ -45,8 +45,11 @@ Do not confuse the parent volume's June 2000 publication date with this speech d
 - English E2 fidelity review: **PASS / COMPLETE — 7 / 7**;
 - E2 confirmed corrections: **3 / 3 consolidated**;
 - E2 unresolved issues: **0**;
-- English status: **`fidelity-corrections-consolidated`**;
-- English E3 final verification: **READY / NOT STARTED — 0 / 7**.
+- English E3 final verification: **PASS / COMPLETE — 7 / 7**;
+- E3 corrections: **0**;
+- E3 unresolved issues: **0**;
+- English status: **`verified-complete`**;
+- repository-level closure: **READY / NOT STARTED**.
 
 ## Tamil source-fidelity resolutions
 
@@ -78,8 +81,27 @@ E2 independently compared all seven English pages against frozen Tamil and produ
 
 The unusual p.13 source form `ஐக்கிய இந்தியர் மீது` remains explicitly visible in an English note. E2 accepted the cautious contextual body rendering only because the exact Tamil is preserved and the note states that a confident literal translation is unavailable from the printed form alone.
 
-E2 found **0** omitted paragraphs, **0** reversed claims after consolidation, **0** numerical mismatches, **0** missing quotations, and **0** unresolved English fidelity issues.
+## English E3 checkpoint
+
+E3 performed a fresh end-to-end comparison of consolidated `translation-en.md` against frozen `transcription-ta.md` across all seven mapped pages.
+
+Verified in the final pass:
+
+- page order and continuity PDF 12–18 / printed 11–17;
+- opening title and first body paragraph;
+- all names and historical references;
+- all three quotation blocks and attributions;
+- p.13 source-transparency handling for `ஐக்கிய இந்தியர் மீது`;
+- p.15 genuine repetition after the E2 correction;
+- p.16 numerical/employment sequence;
+- p.17 `lamp of freedom` image;
+- final Vivekananda quotation and closing sentence;
+- separation and conservative translation of the source closing note.
+
+E3 result: **PASS — 7 / 7 pages; 0 further corrections; 0 unresolved English fidelity issues**.
+
+English is now frozen as **`verified-complete`**. Any later source-supported Tamil correction must reopen the dependent English workflow.
 
 ## Exact next incomplete gate
 
-Perform **E3 final end-to-end Tamil→English verification for all 7 pages, PDF 12–18 / printed 11–17**. Compare the consolidated `translation-en.md` once more against frozen `transcription-ta.md` from the opening through the final body sentence and separate source closing note. Only after E3 passes may English become `verified-complete` and constituent 1 proceed to repository-level closure.
+Perform **repository-level closure for constituent 1 / 36**. Verify all required speech files and parent controls agree on the final state, mark this constituent archive complete, increment the parent collection archived counter, and advance the parent collection to constituent **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
