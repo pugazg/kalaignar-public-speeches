@@ -37,8 +37,8 @@ Do not treat contextual mentions of Chennai as a constituent venue without expli
 ## Durable workflow state
 
 - source intake / boundaries: **PASS / COMPLETE**;
-- Tamil T1: **IN PROGRESS — 5 / 15 pages**;
-- drafted range: PDF **19–23** / printed **18–22**;
+- Tamil T1: **IN PROGRESS — 10 / 15 pages**;
+- drafted range: PDF **19–28** / printed **18–27**;
 - Tamil T2: **NOT STARTED / BLOCKED until T1 complete**;
 - Tamil T3: **NOT STARTED / BLOCKED**;
 - English E1/E2/E3: **NOT STARTED / BLOCKED**.
@@ -48,20 +48,20 @@ Do not treat contextual mentions of Chennai as a constituent venue without expli
 Use manageable five-page batches:
 
 - Batch 1: PDF **19–23** / printed **18–22** — **DONE**;
-- Batch 2: PDF **24–28** / printed **23–27** — **NEXT**;
-- Batch 3: PDF **29–33** / printed **28–32** — pending.
+- Batch 2: PDF **24–28** / printed **23–27** — **DONE**;
+- Batch 3: PDF **29–33** / printed **28–32** — **NEXT**.
 
-`transcription-ta.md` is first-pass only. Do not mark any page verified during T1.
+`transcription-ta.md` remains first-pass only. Do not mark any page verified during T1.
 
-## Important source-sensitive points for later T2
+## Batch 2 source-sensitive points for later T2
 
-- retain source wording/spelling rather than modernizing;
-- independently recheck names, initials and titles on the award-recipient passages;
-- verify the page-boundary continuation PDF 20→21;
-- recheck historical spellings around printing/publication language;
-- inspect PDF 23→24 continuation beginning after `அதை அடமானம்` before consolidating the sentence;
+- PDF 23→24 continuation was read as `அதை அடமானம்` / `வைத்து, சொற்பொழிவாளர்களை...`;
+- PDF 25→26 continuation was read as `கறுப்பு உடை தரித்துக்` / `கொண்டு அறிமுகமாவார்.`;
+- PDF 27→28 continuation was read as `அந்த அன்பை திரும்பக்` / `காட்ட வேண்டும்.`;
+- PDF 28 ends mid-thought at `சாவி எழுதிய வாஷிங்டன்`, to be continued on PDF 29;
+- independently recheck names, initials, film/studio titles, salary figures, historical printing forms, and unusual readings such as `பூதாகரமாக`, `இயக்கும், டைரக்டராக`, `நாட்டுப்பற்று மிக்க கொண்ட எழுத்தாளர்`, and `துக்ளக் சான்றிதழிலே` during T2;
 - keep the final source note separate from spoken/body text.
 
 ## Exact next incomplete gate
 
-Continue **Tamil T1 batch 2 — PDF 24–28 / printed 23–27**. Commit the five-page first pass and synchronize this handover and parent collection controls. Do not begin T2 or English.
+Complete **Tamil T1 batch 3 — PDF 29–33 / printed 28–32**. Transcribe all five pages including the final body sentence, preserve the separate closing note as source metadata rather than speech body, then synchronize controls. Do not begin T2 or English in the same iteration.
