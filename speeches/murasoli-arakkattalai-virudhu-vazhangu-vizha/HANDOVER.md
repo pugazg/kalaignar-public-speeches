@@ -30,21 +30,24 @@ This establishes speech date **1998-01-13**, event wording `முரசொல�
 - duplicate search: **PASS — no equivalent archive found**;
 - source intake / boundaries: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 15 / 15 pages**;
-- T1 batches: PDF **19–23**, **24–28**, **29–33** all complete;
-- Tamil T2: **NOT STARTED — 0 / 15**;
+- Tamil T2: **IN PROGRESS — 5 / 15 pages**;
+- T2 corrections through PDF 23: **3**;
+- T2 unresolved readings through PDF 23: **0**;
 - Tamil T3: **BLOCKED until T2 complete**;
 - English E1/E2/E3: **BLOCKED until Tamil verified-complete**.
 
-## Batch 3 source-sensitive points for T2
+## T2 batch 1 — PASS
 
-- PDF 28→29 continuation: `சாவி எழுதிய வாஷிங்டன்` / `திருமணம் என்ற அந்த நாடகத்தை...`;
-- PDF 29→30 split word: `சிறைச்` / `சாலைக்குச்`;
-- PDF 30→31 continuation after `அங்கிருந்து என்னோடு`;
-- PDF 31→32 continuation: `அப்துல்` / `ரகுமானைப் போன்றவர்கள்`;
-- PDF 32→33 continuation after `அந்த`;
-- recheck `வேதவித்து`, `வாடியவர்`, the source's mismatched quote around `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, and all names/punctuation;
-- keep the final source note separate from the speech body.
+PDF **19–23** / printed **18–22** were independently re-read against the scans.
+
+Scan-confirmed corrections consolidated:
+
+1. PDF 19: `இசைக்குநர்` → `இயக்குநர்`.
+2. PDF 21: `அங்காங்குள்ள` → `ஆங்காங்குள்ள`.
+3. PDF 22: `போது` → `போதாது` in `அறக்கட்டளை என்று சொன்னால் போதாது;`.
+
+PDF 20 and PDF 23 passed without substantive correction. Batch result: **5 / 5 PASS; 3 corrections; 0 unresolved**.
 
 ## Exact next incomplete gate
 
-Begin **Tamil T2 strict visual fidelity audit** of all **15 pages**, preferably in three five-page batches: PDF **19–23**, **24–28**, **29–33**. Apply only scan-confirmed corrections, log every substantive correction, and do not begin English until T2 and T3 pass.
+Continue **Tamil T2 batch 2 — PDF 24–28 / printed 23–27**. Re-read all five scans directly, apply only scan-confirmed corrections, and log any unresolved reading. Do not begin T3 or English in the same iteration.
