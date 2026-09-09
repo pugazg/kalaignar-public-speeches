@@ -39,7 +39,10 @@ Edition facts and embedded PDF metadata are recorded separately in `metadata.jso
 - parent collection source intake: **PASS / COMPLETE**
 - constituent archives started: **1 / 36**
 - constituent Tamil T1 first passes complete: **1 / 36**
-- constituent archives completed from this volume: **0 / 36**
+- constituent Tamil T2 audits complete: **1 / 36**
+- constituent Tamil T3 freezes complete: **1 / 36**
+- constituent Tamil layers verified complete: **1 / 36**
+- constituent archives fully completed from this volume: **0 / 36**
 
 The stable body relationship is `PDF scan = printed page + 1` for PDF 12–424 / printed 11–423. Full details are in `page-map.md`.
 
@@ -58,15 +61,19 @@ Durable constituent state:
 - source intake / boundaries: **PASS / COMPLETE**;
 - closing note directly establishes **12-1-98**, **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, and **தலைமை உரை**;
 - Tamil T1: **COMPLETE — 7 / 7 pages**;
-- Tamil T2: **NOT STARTED — 0 / 7**;
-- Tamil T3: **NOT STARTED**;
-- English: **BLOCKED**.
+- Tamil T2: **PASS / COMPLETE — 7 / 7 pages; 5 substantive corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE**;
+- Tamil status: **`verified-complete`**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED / NOT STARTED**.
+
+Important T2 resolutions are retained in the speech-level `audit.md`; notably `இந்தியர்களிடையே` and `சமாதானத்திற்கும்` were recovered from printer line-wraps, while unusual `ஐக்கிய இந்தியர் மீது` was confirmed as printed.
 
 ## Important cautions
 
 - Do **not** treat the 425-page volume as one speech.
 - Do **not** create a single `speeches/muthukkuliyal-part-2/` transcript.
-- Do **not** start constituent 2 while constituent 1 is still in its Tamil verification sequence unless explicitly authorized.
+- Do **not** start constituent 2 while constituent 1 remains in its active archival sequence unless separately authorized.
 - Contents dates are source evidence as printed. Do not reorder the collection by date.
 - Entries 7 and 16 have no date in the contents; leave their dates unresolved until their own pages establish one.
 - Do not copy the June 2000 publication date into speech-event dates.
@@ -74,4 +81,4 @@ Durable constituent state:
 
 ## Exact next incomplete gate
 
-Continue constituent **1 / 36** with **T2 strict visual fidelity audit** across PDF **12–18** / printed **11–17**. Re-read every line against the controlling scan, record every correction/retention in the speech-level `audit.md`, and keep English blocked until T3 passes.
+Continue constituent **1 / 36** with **English E1 first-pass translation** of all seven pages, using only its frozen `transcription-ta.md` as the translation source. Preserve page correspondence, argument order, repetitions, names, quotations, unusual source-supported forms, numerical claims and the verified ending. After E1 is complete, perform a separate E2 Tamil-to-English fidelity review.
