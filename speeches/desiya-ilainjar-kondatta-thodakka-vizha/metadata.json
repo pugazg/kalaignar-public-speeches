@@ -58,14 +58,19 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "english_translation": "first-pass-complete",
+    "english_translation": "fidelity-corrections-consolidated",
     "english_translation_pages_completed": 7,
     "english_translation_through_pdf_page": 18,
     "english_translation_through_printed_page": 17,
     "english_translation_source": "frozen transcription-ta.md only",
-    "english_translation_review": "not-started",
-    "english_translation_review_pages_checked": 0,
+    "english_translation_review": "review-complete",
+    "english_translation_review_pages_checked": 7,
+    "english_translation_review_through_pdf_page": 18,
+    "english_translation_review_through_printed_page": 17,
+    "english_translation_review_corrections": 3,
+    "english_translation_review_unresolved": 0,
     "english_translation_final_verification": "not-started",
-    "next_gate": "E2 independent Tamil-to-English fidelity review — all 7 pages"
+    "english_translation_final_verification_pages_checked": 0,
+    "next_gate": "E3 final end-to-end Tamil-to-English verification — all 7 pages"
   }
 }
