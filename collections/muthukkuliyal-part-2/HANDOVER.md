@@ -43,7 +43,7 @@ Edition facts and embedded PDF metadata are recorded separately in `metadata.jso
 - constituent Tamil T3 freezes complete: **1 / 36**
 - constituent Tamil layers verified complete: **1 / 36**
 - constituent English E1 first passes complete: **1 / 36**
-- constituent English E2 reviews complete: **0 / 36**
+- constituent English E2 reviews complete: **1 / 36**
 - constituent English E3 final verifications complete: **0 / 36**
 - constituent archives fully completed from this volume: **0 / 36**
 
@@ -68,12 +68,13 @@ Durable constituent state:
 - Tamil T3: **PASS / COMPLETE**;
 - Tamil status: **`verified-complete`**;
 - English E1: **COMPLETE — 7 / 7 pages**;
-- English E2: **READY / NOT STARTED — 0 / 7**;
-- English E3: **BLOCKED / NOT STARTED**.
+- English E2: **PASS / COMPLETE — 7 / 7 pages; 3 confirmed corrections consolidated; 0 unresolved**;
+- English status: **`fidelity-corrections-consolidated`**;
+- English E3: **READY / NOT STARTED — 0 / 7**.
 
 Important Tamil T2 resolutions are retained in the speech-level `audit.md`; notably `இந்தியர்களிடையே` and `சமாதானத்திற்கும்` were recovered from printer line-wraps, while unusual `ஐக்கிய இந்தியர் மீது` was confirmed as printed.
 
-The E1 translation was produced only from frozen `transcription-ta.md`. The unusual p.13 source form `ஐக்கிய இந்தியர் மீது` is explicitly surfaced in an English source note for independent E2 review rather than being silently used to alter the Tamil layer.
+E2 independently reviewed the complete English against frozen Tamil. Its three consolidated corrections are retained in `translation-review.md`: the repeated constructive-activity passage was repaired without removing genuine source repetition; `சுதந்திர தீபம்` was restored as `lamp of freedom`; and `தலைமை உரை` in the separate closing note was translated more conservatively as an address delivered while presiding. E2 found no unresolved English fidelity issue.
 
 ## Important cautions
 
@@ -87,4 +88,4 @@ The E1 translation was produced only from frozen `transcription-ta.md`. The unus
 
 ## Exact next incomplete gate
 
-Continue constituent **1 / 36** with **English E2 independent Tamil→English fidelity review** across PDF **12–18** / printed **11–17**. Compare the complete E1 against frozen Tamil, record every omission/addition/reversal/source-transparency finding, consolidate confirmed English corrections, and leave E3 blocked until that review is fully resolved.
+Continue constituent **1 / 36** with **English E3 final end-to-end Tamil→English verification** across PDF **12–18** / printed **11–17**. Compare the consolidated English against frozen Tamil from the opening through the final body sentence and separate source closing note. Only after E3 passes may English be marked `verified-complete` and constituent 1 move to repository-level closure.
