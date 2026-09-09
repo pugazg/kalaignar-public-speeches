@@ -21,12 +21,12 @@ The opening heading is `முரசொலி அறக்கட்டளை வ
 |---|---|
 | Duplicate/source gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 15 / 15 pages** |
-| Tamil T2 strict visual audit | **NOT STARTED — 0 / 15** |
+| Tamil T2 strict visual audit | **IN PROGRESS — 5 / 15 pages; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **BLOCKED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-The canonical first-pass transcript now covers PDF **19–33** / printed **18–32** contiguously. It remains a T1 layer and may change during T2.
+T2 batch 1 directly re-read PDF **19–23** / printed **18–22** and passed all five pages. The three scan-confirmed corrections are recorded in `audit.md` and consolidated into `transcription-ta.md`.
 
 ## Exact next gate
 
-Run Tamil **T2 strict visual fidelity audit** across all 15 pages, preferably as three five-page batches. English remains blocked until Tamil is `verified-complete`.
+Continue Tamil **T2 batch 2 — PDF 24–28 / printed 23–27**. English remains blocked until Tamil is `verified-complete`.
