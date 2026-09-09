@@ -100,22 +100,20 @@ Tamil status is **`verified-complete`** and frozen. Any later source-supported T
 English E1: **COMPLETE — 7 / 7 pages**.  
 English E2 independent fidelity review: **PASS / COMPLETE — 7 / 7 pages**.  
 Confirmed E2 corrections: **3 / 3 consolidated**.  
-E2 unresolved English fidelity issues: **0**.  
-English E3 final end-to-end verification: **PASS / COMPLETE — 7 / 7 pages**.  
-E3 corrections: **0**.  
-E3 unresolved English fidelity issues: **0**.  
+Unresolved English fidelity issues: **0**.  
+English E3 final verification: **PASS / COMPLETE — 7 / 7 pages**.  
+E3 further corrections: **0**.  
+E3 unresolved issues: **0**.  
 Final English state: **`verified-complete`**.
 
-The detailed E2/E3 findings are retained in `translation-review.md`. E2 corrected:
+The detailed E2/E3 findings are retained in `translation-review.md`. They include correction of the genuine p.15 repeated constructive-activity passage, restoration of printed p.17 `தீபம்` as `lamp of freedom`, and a closer source-note rendering of `தலைமை உரை` as `Address delivered while presiding...`.
 
-- the grammatical relationship in the genuine repeated printed-p.15 constructive-activity/government-effort passage;
-- printed p.17 `தீபம்` to `lamp of freedom` rather than `torch of freedom`;
-- the separate source-note rendering of `தலைமை உரை` to `Address delivered while presiding...` rather than the over-specific `Chairperson's address`.
+The unusual printed p.13 `ஐக்கிய இந்தியர் மீது` remains explicitly surfaced in an English source note. The frozen Tamil was not altered from translation reasoning.
 
-E3 then rechecked the complete consolidated English against frozen Tamil from the first title/body line through the final quotation, final body sentence and separate closing note. It confirmed page continuity, names, quotations, numerical claims, the p.13 source-transparency note, the p.15 genuine repetition and the p.17 closing material without further correction.
+## Repository closure
 
-The unusual printed p.13 `ஐக்கிய இந்தியர் மீது` remains explicitly surfaced in an English source note. Neither E2 nor E3 altered the frozen Tamil; the English uses a cautious contextual rendering while preserving the exact source form and stating that a confident literal rendering is unavailable from the printed wording alone.
+Repository-level archival closure: **PASS / COMPLETE**.
 
-## Exact next gate
+The standard speech files — `README.md`, `metadata.json`, `transcription-ta.md`, `audit.md`, `translation-en.md`, `translation-review.md`, and `HANDOVER.md` — agree that Tamil and English are `verified-complete`. The root catalogue and parent collection controls are synchronized. No transcription or translation work is pending for this constituent.
 
-Perform **repository-level closure for constituent 1 / 36**: verify all required files and parent controls agree on the final state, mark the constituent archive complete, increment the parent collection archived count, and advance the parent collection to constituent **2 / 36 — `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`**, PDF **19–33** / printed **18–32**.
+This audit is final unless new source evidence requires reopening the archive.
