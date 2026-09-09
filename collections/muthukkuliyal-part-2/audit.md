@@ -23,12 +23,12 @@ Collection-level source/mapping/progress audit.
 - date: **1998-01-13**;
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- T1 batches: **19–23**, **24–28**, **29–33** complete;
-- T2: **NOT STARTED**;
+- Tamil T2: **IN PROGRESS — 5 / 15**;
+- T2 batch 1 PDF **19–23**: **PASS — 5 / 5; 3 corrections; 0 unresolved**;
 - T3/English: **BLOCKED**.
 
-Batch 3 directly captured the PDF 28→29 `வாஷிங்டன்` / `திருமணம்` continuation, PDF 29→30 `சிறைச்` / `சாலைக்குச்` split, PDF 30→31 and 31→32 continuations, and the PDF 33 final body sentence plus separate source note.
+Batch 1 scan-confirmed corrections were `இசைக்குநர்` → `இயக்குநர்`, `அங்காங்குள்ள` → `ஆங்காங்குள்ள`, and `போது` → `போதாது`. They are already consolidated into the speech transcript.
 
 ## Exact next gate
 
-Tamil T2 strict visual fidelity audit for constituent 2, all 15 pages. No English before T2/T3 pass.
+Tamil T2 batch 2 for constituent 2: PDF **24–28** / printed **23–27**. No T3 or English before T2 completes.
