@@ -24,12 +24,15 @@ Opening heading: `இந்திய சுவிசேஷத் திருச
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 4 / 4 pages**;
 - Tamil T2: **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved**;
-- Tamil transcription state: **`first-pass-complete` pending T3 freeze**;
-- Tamil T3: **READY / NOT STARTED**;
-- English E1/E2/E3: **BLOCKED**.
+- Tamil T3: **PASS / COMPLETE — 4 / 4; 0 additional corrections; 0 unresolved**;
+- Tamil transcription state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**.
 
-T2 directly re-read all four source pages and confirmed the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the historical-name list, all page continuations and the final communal-harmony passage. No correction was required and no unresolved Tamil reading remains.
+T2 directly re-read all four source pages and confirmed the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the historical-name list, all page continuations and the final communal-harmony passage. No correction was required.
+
+T3 verified that all four page records occur once in strict order, no page is missing or duplicated, all three cross-page continuations remain intact, and the final body/source-note boundary is correct. No additional T3 correction was required.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm complete page order and boundaries, mark Tamil `verified-complete` only if clean, and stop before English or constituent 5.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total**. Translate only from frozen `transcription-ta.md`, preserve page correspondence and rhetoric, keep the two speech archives separate, and do not start E2 or constituent 5.
