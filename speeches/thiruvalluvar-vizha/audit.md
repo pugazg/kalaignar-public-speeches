@@ -24,15 +24,31 @@ Confirmed corrections:
 3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → **`துணைத்தெடுத்து`**.
 4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → **`கருதுகிற நேரத்தில்`**.
 
-Every page PDF **34–49** was directly re-read against the scan. T2 also rechecked names/initials, numerical grant figures, quoted Tirukkural/poetry punctuation, source-sensitive wording, the PDF 47–49 `ராணி`/Pongal passage, and all non-obvious page-boundary continuations. No unresolved reading remains. All four corrections are consolidated in `transcription-ta.md`.
+Every page PDF **34–49** was directly re-read against the scan. T2 also rechecked names/initials, numerical grant figures, quoted Tirukkural/poetry punctuation, source-sensitive wording, the PDF 47–49 `ராணி`/Pongal passage, and all non-obvious page-boundary continuations. No unresolved reading remains.
+
+## T3 consolidation / freeze
+
+Status: **PASS / COMPLETE — 16 / 16 page records checked; 0 additional corrections; 0 unresolved**.
+
+T3 confirmed:
+
+- page records PDF **34–49** / printed **33–48** occur once each in strict source order;
+- no speech page is missing or duplicated;
+- all four T2 corrections are consolidated in the live body;
+- superseded T1 readings occur only in the documented correction history, not as active body text;
+- all non-obvious cross-page continuations remain intact;
+- the final body sentence and separate closing note remain correctly separated.
+
+The canonical Tamil transcription is now **`verified-complete` / FROZEN**. Any later Tamil change requires new controlling-source evidence and dependent English re-verification.
 
 ## Tamil workflow
 
 - T1: **COMPLETE — 16 / 16**;
 - T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
-- T3: **READY / NOT STARTED**;
-- English: **BLOCKED** until Tamil is frozen.
+- T3: **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
 
 ## Exact next gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm the four corrections occur exactly once, verify all page records and joins, freeze the Tamil layer if clean, and stop before English.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2.
