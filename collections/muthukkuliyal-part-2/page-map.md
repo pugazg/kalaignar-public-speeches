@@ -48,9 +48,16 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | # | Speech slug | Current state |
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **Tamil + English `verified-complete`; E3 PASS — 15/15; 2 E3 corrections; 0 unresolved; repository closure next** |
-| 3–36 | — | not started |
+| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 3 | — | **NOT STARTED — next source-gate batch** |
+| 4 | — | **NOT STARTED — next source-gate batch** |
+| 5–36 | — | not started |
 
-## Active mapped item
+## Next same-gate batch
 
-Constituent 2: PDF **19–33** / printed **18–32** — Tamil T1/T2/T3 **COMPLETE**, Tamil **`verified-complete` / FROZEN**, English E1/E2/E3 **COMPLETE**, English **`verified-complete`**. Exact next gate: **repository-level archival closure for constituent 2 / 36**.
+Constituents **3–4** total **20 source pages** and therefore fit the ≤25-page policy:
+
+- 3 `திருவள்ளுவர் விழா` — PDF **34–49** / printed **33–48** — 16 pages;
+- 4 `இந்திய சுவிசேஷத் திருச்சபை விழா` — PDF **50–53** / printed **49–52** — 4 pages.
+
+Exact next gate: **multi-constituent source/duplicate/boundary gate for constituents 3–4**.
