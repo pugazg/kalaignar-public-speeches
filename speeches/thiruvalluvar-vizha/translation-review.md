@@ -2,7 +2,8 @@
 
 **English E1:** COMPLETE — **16 / 16 pages**  
 **English E2:** **PASS / COMPLETE — 16 / 16 pages; 6 corrections; 0 unresolved**  
-**English E3:** **PASS / COMPLETE — 16 / 16 pages; 6 final corrections; 0 unresolved**
+**English E3:** **PASS / COMPLETE — 16 / 16 pages; 6 final corrections; 0 unresolved**  
+**Repository closure:** **PASS / COMPLETE**
 
 ## Review basis
 
@@ -28,8 +29,6 @@ E2 independently compared `translation-en.md` against the frozen `transcription-
 
 After consolidating those corrections, E3 repeated the full 16-page comparison. Names and institutions, all monetary figures and dates, page-boundary continuations, Tirukkural/poetry quotations, `கோட்டம்` / `தோட்டம்` wordplay, opaque `கலனாகிக்` and `சிற்றார்ப்புழத்தில்` transparency, the `ராணி`/Pongal sequence, Bhogi/`போக்கி` wordplay, and the final body/source-note distinction all passed with **0 further corrections / 0 unresolved fidelity issues**.
 
-English is now **`verified-complete`**.
+## Closure
 
-## Exact next gate
-
-Combined constituents **3–4 repository-level archival closure**. Synchronize speech, collection and root catalogue controls for both verified constituents, mark both fully archived if all closure checks pass, and do not start constituent 5 in the same activity.
+English is **`verified-complete`** and all corrections are consolidated. Repository-level archival closure is complete, the speech metadata agrees with the frozen Tamil/English layers, and no further English gate is pending.
