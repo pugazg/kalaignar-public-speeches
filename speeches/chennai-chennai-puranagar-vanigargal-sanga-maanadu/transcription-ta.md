@@ -1,10 +1,10 @@
 # சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **9 / 9 pages COMPLETE**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **9 / 9 pages COMPLETE**  
 **Source range:** PDF **54–62** / printed **53–61**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 has re-read all nine pages. Four source-confirmed corrections are consolidated below; T2 unresolved readings: **0**. This layer is not yet frozen until T3 consolidation.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All four T2 corrections are consolidated below; T2 unresolved readings: **0**. T3 confirmed all nine page records once in sequence, preserved every page join and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 54 / printed p.53
 
@@ -90,4 +90,4 @@
 
 ## Exact next gate
 
-Combined constituents **5–6 Tamil T3 consolidation/freeze — 16 source pages total**.
+Combined constituents **5–6 English E1 first-pass translation — 16 verified Tamil pages total**. Translate only from the frozen Tamil layer and stop before English E2 or constituent 7.
