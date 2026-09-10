@@ -51,15 +51,17 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil T1/T2 COMPLETE — 9/9; T2 4 corrections / 0 unresolved; T3 next** |
-| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil T1/T2 COMPLETE — 7/7; T2 4 corrections / 0 unresolved; T3 next** |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil T1/T2/T3 COMPLETE — 9/9; `verified-complete` / FROZEN; English E1 next** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil T1/T2/T3 COMPLETE — 7/7; `verified-complete` / FROZEN; English E1 next** |
 | 7–36 | — | not started |
 
 ## Active same-gate batch
 
 Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 source pages**:
 
-- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — T2 **9/9 PASS; 4 corrections; 0 unresolved**;
-- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — T2 **7/7 PASS; 4 corrections; 0 unresolved**.
+- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — Tamil T3 **9/9 PASS; 0 additional corrections; 0 unresolved**;
+- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — Tamil T3 **7/7 PASS; 0 additional corrections; 0 unresolved**.
 
-Combined Tamil T2: **16 / 16 pages PASS — 8 corrections / 0 unresolved**. All corrections are consolidated in the separate transcripts. Exact next gate: **combined Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Constituent 7 remains outside this iteration.
+Combined Tamil T3: **16 / 16 pages PASS — 0 additional corrections / 0 unresolved**. Both Tamil layers are `verified-complete` / FROZEN. All eight T2 corrections remain consolidated and both source closing notes remain outside the spoken bodies.
+
+Exact next gate: **combined English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**. Constituent 7 remains outside this iteration.
