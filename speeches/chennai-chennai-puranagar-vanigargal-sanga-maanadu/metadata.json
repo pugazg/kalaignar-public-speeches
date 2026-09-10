@@ -66,9 +66,9 @@
     "english_translation_final_verification_pages_checked": 9,
     "english_translation_final_verification_corrections": 2,
     "english_translation_final_verification_unresolved": 0,
-    "repository_closure": "not-started",
-    "archive_status": "in-progress",
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
     "pending_transcription_or_translation_work": false,
-    "next_gate": "Combined constituents 5-6 repository-level archival closure"
+    "next_gate": null
   }
 }
