@@ -17,7 +17,7 @@
 - Tamil T1/T2/T3 complete / Tamil verified: **4 / 36**;
 - English E1 complete: **4 / 36**;
 - English E2 complete: **4 / 36**;
-- English E3 complete: **2 / 36**;
+- English E3 complete: **4 / 36**;
 - fully archived: **2 / 36**.
 
 Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
@@ -26,28 +26,26 @@ Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
 
 ### 3 / 36 — `திருவள்ளுவர் விழா`
 
-- `speeches/thiruvalluvar-vizha/`;
 - PDF **34–49** / printed **33–48** — **16 pages**;
 - Tamil **`verified-complete` / FROZEN**;
-- English E1 **COMPLETE — 16 / 16**;
-- English E2 **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved**;
-- English E3 **READY / NOT STARTED**.
+- English E1/E2/E3 **COMPLETE**;
+- E2 **6 corrections / 0 unresolved**;
+- E3 **6 final corrections / 0 unresolved**;
+- English **`verified-complete`**;
+- repository closure **READY / NOT STARTED**.
 
 ### 4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
 
-- `speeches/indiya-suvishesha-thiruchabai-vizha/`;
 - PDF **50–53** / printed **49–52** — **4 pages**;
 - Tamil **`verified-complete` / FROZEN**;
-- English E1 **COMPLETE — 4 / 4**;
-- English E2 **PASS / COMPLETE — 4 / 4; 1 correction; 0 unresolved**;
-- English E3 **READY / NOT STARTED**.
+- English E1/E2/E3 **COMPLETE**;
+- E2 **1 correction / 0 unresolved**;
+- E3 **0 additional corrections / 0 unresolved**;
+- English **`verified-complete`**;
+- repository closure **READY / NOT STARTED**.
 
-Combined English E2 result: **20 / 20 pages checked; 7 corrections; 0 unresolved fidelity issues**. All confirmed corrections are consolidated. English remains not finally verified until E3.
-
-## Multi-constituent policy
-
-Constituents 3–4 total **20 pages**, so they remain one same-gate iteration under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Constituent 5 is excluded.
+Combined English E3: **20 / 20 pages PASS — 6 final corrections / 0 unresolved fidelity issues**. Both Tamil and English layers are now verified. Constituent 5 remains excluded from this iteration.
 
 ## Exact next incomplete gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Recheck the corrected English against frozen Tamil from beginning to end, keep any final correction records separate by constituent, synchronize controls, and stop before repository closure or constituent 5.
+Run combined **repository-level archival closure for constituents 3–4**. Synchronize both speech archives, the parent collection and the root catalogue; mark each fully archived only after closure checks pass. Do not start constituent 5 in the same activity.
