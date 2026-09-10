@@ -11,20 +11,20 @@ The source is a **36-item multi-speech collection**. Controlling PDF: `TVA_BOK_0
 - Tamil T1/T2/T3 complete / Tamil verified: **6 / 36**
 - English E1 complete: **6 / 36**
 - English E2 complete: **6 / 36**
-- English E3 complete: **4 / 36**
+- English E3 complete: **6 / 36**
 - fully archived: **4 / 36**
 
 Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
 ## Active same-gate batch — constituents 5–6
 
-- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — Tamil **`verified-complete` / FROZEN**; English E1 **9/9 COMPLETE**; E2 **9/9 PASS — 4 corrections / 0 unresolved**; E3 **READY / NOT STARTED**.
-- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — Tamil **`verified-complete` / FROZEN**; English E1 **7/7 COMPLETE**; E2 **7/7 PASS — 2 corrections / 0 unresolved**; E3 **READY / NOT STARTED**.
+- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — Tamil **`verified-complete` / FROZEN** after one late scan repair (`கனிமண்` → `களிமண்`); English E1/E2/E3 **COMPLETE**, E3 **9/9 PASS — 2 corrections / 0 unresolved**.
+- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — Tamil **`verified-complete` / FROZEN** after two late scan repairs (`பெயரைச் சொல்லுவது கூட`, `லியாகத் அலிகான்`); English E1/E2/E3 **COMPLETE**, E3 **7/7 PASS — 2 corrections / 0 unresolved**.
 
-Combined English E2 result: **16 / 16 pages PASS — 6 corrections / 0 unresolved fidelity issues**. All confirmed corrections are consolidated in the two separate English translations. Both English layers remain provisional until E3 final end-to-end verification.
+Combined English E3 result: **16 / 16 pages PASS — 4 final English corrections / 0 unresolved fidelity issues**. During the E3 integrity check, three missed source-level Tamil readings were corrected directly from the controlling scans and both Tamil layers were re-frozen before the final English sweep. A second complete Tamil→English verification then produced **0 further corrections / 0 unresolved issues**.
 
-Constituent 7 remains outside this batch.
+Constituents 5–6 are now verified in both Tamil and English but are **not yet repository-closed**. Constituent 7 remains outside this batch.
 
 ## Exact next gate
 
-Run combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 7.
+Run combined **repository-level archival closure for constituents 5–6**. Synchronize speech archives, collection controls and root catalogue, mark both fully archived, then stop before constituent 7 source work.
