@@ -54,14 +54,17 @@
     "ending_verified": true,
     "source_closing_note_verified": true,
     "t3_additional_corrections": 0,
-    "english_translation": "first-pass-complete",
+    "english_translation": "fidelity-corrections-consolidated",
     "english_translation_pages_completed": 7,
     "english_translation_source": "frozen transcription-ta.md only",
-    "english_translation_review": "not-started",
-    "english_translation_final_verification": "blocked-pending-e2",
+    "english_translation_review": "complete",
+    "english_translation_review_pages_checked": 7,
+    "english_translation_review_corrections": 2,
+    "english_translation_review_unresolved": 0,
+    "english_translation_final_verification": "not-started",
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Combined constituents 5-6 English E2 independent fidelity review — 16 pages total"
+    "next_gate": "Combined constituents 5-6 English E3 final end-to-end verification — 16 pages total"
   }
 }
