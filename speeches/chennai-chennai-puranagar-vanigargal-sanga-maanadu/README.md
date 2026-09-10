@@ -14,23 +14,23 @@
 - Constituent range: PDF **54–62** / printed **53–61** — **9 pages**
 - Source binary committed: **No**
 
-The source/duplicate/boundary gate passed. The printed heading/contents use `சென்னைப் புறநகர்`; the separate closing note uses `சென்னை புறநகர்`. That source distinction is preserved.
+The source/duplicate/boundary gate passed. The heading/contents use `சென்னைப் புறநகர்`; the separate closing note uses `சென்னை புறநகர்`. Both source forms remain preserved.
 
 ## Tamil workflow
 
 | Gate | State |
 |---|---|
 | Tamil T1 first-pass transcription | **COMPLETE — 9 / 9 pages** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | **BLOCKED** |
-| Tamil state | `first-pass-complete` |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
+| Tamil state | `t2-complete` |
 
-T1 transcribes PDF **54–62** page by page and keeps the PDF 62 closing note outside the spoken body. The transcript remains provisional until T2.
+T2 independently re-read PDF **54–62** against the scans. Confirmed corrections were: PDF55 `அமைச்சரவை கூட்டத்தைக்` → `அமைச்சரவைக் கூட்டத்தைக்`; PDF59 `சுற்நூலா வடிகாட்டி` → `சுற்றுலா வழிகாட்டி`; `வரைப்படங்கள்` → `வரைபடங்கள்`; and `தனிமங்கள்` → `கனிமங்கள்`. No unresolved Tamil reading remains at T2.
 
 ## English workflow
 
-Blocked until Tamil is `verified-complete` / frozen.
+Blocked until Tamil passes T3 and becomes `verified-complete` / frozen.
 
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Keep both correction logs separate and do not start T3 in the same activity.
+Combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Do not start English or constituent 7 in the same activity.
