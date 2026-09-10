@@ -10,7 +10,7 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - speech archives started: **4 / 36**
 - source/duplicate/boundary gate passed: **4 / 36**
 - Tamil T1 complete: **4 / 36**
-- Tamil T2 complete: **2 / 36**
+- Tamil T2 complete: **4 / 36**
 - Tamil T3 complete: **2 / 36**
 - Tamil verified: **2 / 36**
 - English E1 complete: **2 / 36**
@@ -25,15 +25,15 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 
 ## Active same-gate batch — constituents 3–4
 
-Both constituents have passed their independent source/duplicate/boundary gates and have now completed Tamil T1:
+Both constituents have passed source/duplicate/boundary, completed T1, and now passed Tamil T2:
 
-- **3 / 36 — `திருவள்ளுவர் விழா`** — `speeches/thiruvalluvar-vizha/` — PDF **34–49** / printed **33–48** — **16 pages** — Tamil T1 **COMPLETE — 16/16**, state `first-pass-complete`.
-- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — `speeches/indiya-suvishesha-thiruchabai-vizha/` — PDF **50–53** / printed **49–52** — **4 pages** — Tamil T1 **COMPLETE — 4/4**, state `first-pass-complete`.
+- **3 / 36 — `திருவள்ளுவர் விழா`** — `speeches/thiruvalluvar-vizha/` — PDF **34–49** / printed **33–48** — **16 pages** — T2 **PASS / COMPLETE — 16/16; 4 corrections; 0 unresolved**.
+- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — `speeches/indiya-suvishesha-thiruchabai-vizha/` — PDF **50–53** / printed **49–52** — **4 pages** — T2 **PASS / COMPLETE — 4/4; 0 corrections; 0 unresolved**.
 
-Combined T1 scope: **20 / 20 source pages complete**. Each page was transcribed into its own speech archive; the two bodies were not merged. Each speech's separate printed closing note remains metadata/evidence rather than spoken body text.
+Combined T2 scope: **20 / 20 source pages complete**, with **4 corrections / 0 unresolved** across the batch. Constituent 3 corrections were PDF 38 `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`, PDF 40 `திரைபடம்` → `திரைப்படம்`, PDF 41 `துளைத்தெடுத்து` → `துணைத்தெடுத்து`, and PDF 44 `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`. Constituent 4 required no correction.
 
-These are first-pass transcriptions only. Neither constituent is Tamil-verified yet. T2 must now visually re-read all 20 pages against the controlling scan and consolidate only source-confirmed corrections. Constituent 5 remains excluded from this batch.
+Neither Tamil layer is frozen yet. Constituent 5 remains excluded from this batch.
 
 ## Exact next gate
 
-Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**, keeping constituent-specific correction logs and page records separate. Stop before T3 and do not start constituent 5.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm all T2 corrections are consolidated exactly once, verify page order/boundaries and no missing or duplicate page record, freeze each Tamil layer independently if clean, and stop before English or constituent 5.
