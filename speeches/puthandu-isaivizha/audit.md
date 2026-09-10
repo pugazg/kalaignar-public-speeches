@@ -28,10 +28,18 @@
 
 T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans. The contents title `புத்தாண்டு இசை விழா` and constituent heading/closing-note form `புத்தாண்டு இசைவிழா` remain distinct.
 
+## Tamil T3 — consolidation/freeze
+
+**PASS / COMPLETE — 5/5 pages; 0 additional corrections; 0 unresolved.**
+
+T3 confirmed PDF **89–93** appears exactly once and in order, all three T2 corrections are consolidated with no stale superseded reading remaining in the speech body, the contents/heading title-spacing distinction remains preserved, all page continuations remain intact, and the separate PDF93 closing note remains outside the speech body. The T3 sweep also confirmed no missing or duplicated page record and no stale superseded T2 reading remains in the speech body.
+
+Tamil is now **`verified-complete` / FROZEN**. Later Tamil changes require new direct-source evidence and dependent English re-verification.
+
 ## Current state
 
-Tamil T1/T2 **COMPLETE — 5/5**. T3 consolidation/freeze is **READY / NOT STARTED**. English remains blocked until verified Tamil.
+Tamil T1/T2/T3 **COMPLETE — 5/5**. Tamil is **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**; E2/E3 and repository closure remain blocked/pending.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Stop before English, repository closure, or constituent 10.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
