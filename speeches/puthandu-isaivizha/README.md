@@ -24,13 +24,13 @@ The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source c
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 5/5; 0 additional corrections; 0 unresolved** |
 | Tamil state | **`verified-complete` / FROZEN** |
-| English E1 first-pass translation | **READY / NOT STARTED** |
-| English E2 independent fidelity review | **BLOCKED pending E1** |
-| English E3 final verification | **BLOCKED** |
+| English E1 first-pass translation | **COMPLETE — 5/5** |
+| English E2 independent fidelity review | **READY / NOT STARTED** |
+| English E3 final verification | **BLOCKED pending E2** |
 | Repository closure | **NOT STARTED** |
 
 T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
+Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
