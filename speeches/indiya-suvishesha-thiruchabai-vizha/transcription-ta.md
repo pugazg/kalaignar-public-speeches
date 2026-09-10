@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
 **Source range:** PDF **50–53** / printed **49–52**  
-**Tamil status:** `t2-complete-t3-pending` — T1 **4 / 4 COMPLETE**; T2 **4 / 4 PASS; 0 corrections; 0 unresolved**
+**Tamil status:** `verified-complete` / **FROZEN** — T1/T2/T3 COMPLETE; 4 / 4 pages
 
-> T1 is complete. T2 then directly re-read all four source pages line by line against the scans. T2 passed **4 / 4 pages with 0 corrections and 0 unresolved readings**. Tamil is not yet frozen; T3 consolidation/freeze is the next gate.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. T2 required no correction and no unresolved Tamil reading remains. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 50 / printed p.49
 
@@ -47,10 +47,12 @@
 
 `16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`
 
-## T2 completion note
+## T3 consolidation / freeze note
 
-Tamil T1 is **COMPLETE — 4 / 4 pages**. Tamil T2 strict direct visual audit is **PASS / COMPLETE — 4 / 4 pages; 0 corrections; 0 unresolved readings**. Every PDF page **50–53** was independently re-read against the controlling scan.
+Tamil T1 is **COMPLETE — 4 / 4 pages**. Tamil T2 strict direct visual audit is **PASS / COMPLETE — 4 / 4 pages; 0 corrections; 0 unresolved readings**. Tamil T3 is **PASS / COMPLETE — 4 / 4 page records checked; 0 additional corrections; 0 unresolved**.
 
-T2 directly confirmed the `கொள்கை - கொள்‘கை’யிலும் ‘கை’ இருக்கிறது.` wordplay, names and denominational terminology, the PDF 52 historical-name list (`கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`), all three page-boundary continuations, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage, the final body sentence, and the separation of the printed source closing note.
+T3 confirmed PDF **50–53** / printed **49–52** occurs once in strict source order with no missing or duplicate page record. All three page-boundary continuations, the source-sensitive `கொள்கை - கொள்‘கை’யிலும் ‘கை’ இருக்கிறது.` wordplay, the historical-name list, the final communal-harmony passage, and the body/source-note separation remain intact.
 
-No unresolved Tamil reading remains from T2. The text is **not yet frozen**; exact next gate: **combined constituents 3–4 Tamil T3 consolidation/freeze — 20 source pages total**.
+The canonical Tamil layer is now **`verified-complete` / FROZEN**. Any later Tamil change requires new controlling-source evidence and dependent English re-verification.
+
+Exact next gate: **combined constituents 3–4 English E1 first-pass translation — 20 verified Tamil pages total**.
