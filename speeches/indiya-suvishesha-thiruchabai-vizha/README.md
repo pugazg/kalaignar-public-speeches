@@ -14,18 +14,18 @@
 - Constituent range: PDF **50–53** / printed **49–52** — **4 pages**
 - Source binary committed: **No**
 
-Tamil T1/T2/T3 are complete. T2 directly re-read all four pages and required **0 corrections / 0 unresolved**; T3 passed with no additional correction. Tamil is **`verified-complete` / FROZEN**.
+Tamil T1/T2/T3 are complete. Tamil is **`verified-complete` / FROZEN** with 0 unresolved readings.
 
 ## English workflow
 
 | Gate | State |
 |---|---|
 | English E1 | **COMPLETE — 4 / 4 pages** |
-| English E2 independent fidelity review | **READY / NOT STARTED** |
-| English E3 final verification | **BLOCKED** |
+| English E2 independent fidelity review | **PASS / COMPLETE — 4 / 4; 1 correction; 0 unresolved** |
+| English E3 final verification | **READY / NOT STARTED** |
 
-E1 in `translation-en.md` was produced only from the frozen Tamil layer, page by page. The `கொள்கை` / `கை` wordplay is kept explicitly with its Tamil forms so the pun is not silently lost in English. Names, denominational terminology, the historical-name list, all page continuations and the final body/source-note boundary are retained. English is **not yet verified**.
+E2 independently compared every English page against frozen `transcription-ta.md`. One correction was consolidated on PDF 52: `Christian men and women of eminence` → `Christian people of distinction`, removing gender not stated in `கிறித்துவப் பெருமக்கள்`. The `கொள்கை` / `கை` wordplay, historical-name list, denominational terminology, all page joins and the final communal-harmony pledge passed. English is not yet `verified-complete` until E3.
 
 ## Exact next gate
 
-Run combined **English E2 independent fidelity review for constituents 3–4 — 20 pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Compare each English page independently against frozen `transcription-ta.md`, consolidate only confirmed corrections, keep constituent-specific review records separate, and do not start E3 or constituent 5 in the same activity.
+Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Compare the corrected English completely against frozen Tamil and do not begin repository closure or constituent 5 in the same activity.
