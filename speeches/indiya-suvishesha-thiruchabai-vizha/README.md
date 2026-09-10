@@ -18,32 +18,22 @@
 - Mapped speech pages: **4**
 - Source binary committed: **No**
 
-PDF 50 / printed p.49 opens under the heading `இந்திய சுவிசேஷத் திருச்சபை விழா`. PDF 53 / printed p.52 ends the speech body with:
-
-`பெருவிழாவிலே நாம் பூண வேண்டிய உறுதிமொழி என்று கூறி இந்த அளவில் உங்களிடமிருந்து விடை பெறுகிறேன்.`
-
-A separate printed closing note then states:
-
-`16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`
-
-The closing note establishes the speech date **1998-01-16**, event wording `இந்திய சுவிசேஷத் திருச்சபை விழா`, and role `ஆற்றிய உரை`. It is metadata, not speech body text. No venue is stated in the inspected opening/closing evidence, so none is inferred.
-
-## Source / duplicate / boundary gate
-
-**PASS / COMPLETE.** Repository title/slug searches and the live `speeches/` tree show no pre-existing dedicated archive for this constituent. The parent page map and direct source inspection agree on the exact PDF/printed-page boundaries.
+PDF 50 / printed p.49 opens under the heading `இந்திய சுவிசேஷத் திருச்சபை விழா`. PDF 53 / printed p.52 ends the speech body with `பெருவிழாவிலே நாம் பூண வேண்டிய உறுதிமொழி என்று கூறி இந்த அளவில் உங்களிடமிருந்து விடை பெறுகிறேன்.` A separate printed note states `16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`; that note establishes date/event/role and remains outside the spoken body. Venue is not stated in the inspected opening/closing evidence.
 
 ## Workflow state
 
 | Gate | State |
 |---|---|
 | Duplicate/source/boundary gate | **PASS / COMPLETE** |
-| Tamil T1 | **NOT STARTED — 0 / 4** |
-| Tamil T2 | **BLOCKED** |
+| Tamil T1 | **COMPLETE — 4 / 4 pages** |
+| Tamil T2 strict visual audit | **READY / NOT STARTED** |
 | Tamil T3 | **BLOCKED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-This constituent is paired with constituent 3 for the next same-gate iteration under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`.
+T1 directly transcribed all PDF **50–53** / printed **49–52** page records into `transcription-ta.md`. This is a first pass, not a verified/frozen Tamil layer. The separate source closing note is preserved as evidence but is not included as speech body text.
+
+T2 should re-read every page and specifically recheck the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list, cross-page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
 
 ## Exact next gate
 
-Run combined **Tamil T1 first-pass transcription for constituents 3–4 — 20 source pages total**: constituent 3 PDF **34–49** / printed **33–48** plus this constituent PDF **50–53** / printed **49–52**. Keep the two transcripts and archives separate.
+Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Constituent 3 contributes **16 pages** and this speech contributes **4 pages**. Keep their corrections and audit trails separate and do not start T3 or constituent 5.
