@@ -35,7 +35,7 @@
     "constituent_items_mapped": 36,
     "constituent_items_started": 11,
     "constituent_items_source_gated": 11,
-    "constituent_items_t1_complete": 9,
+    "constituent_items_t1_complete": 11,
     "constituent_items_t2_complete": 9,
     "constituent_items_t3_complete": 9,
     "constituent_items_tamil_verified": 9,
@@ -48,12 +48,15 @@
     "active_constituent_number": 10,
     "active_constituent_slug": "madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha",
     "active_constituent_title_ta": "மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா",
-    "active_constituent_status": "source-gated-t1-pending",
+    "active_constituent_status": "t1-complete-t2-pending",
     "active_constituent_pdf_pages": "94-102",
     "active_constituent_printed_pages": "93-101",
     "active_constituent_pages_total": 9,
-    "active_constituent_t1_pages_drafted": 0,
-    "active_batch_constituent_numbers": [10, 11],
+    "active_constituent_t1_pages_drafted": 9,
+    "active_batch_constituent_numbers": [
+      10,
+      11
+    ],
     "active_batch_constituent_slugs": [
       "madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha",
       "veeran-sundaralingam-ninaivu-grama-thirappuvizha"
@@ -62,9 +65,10 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_t1_pages_completed": 0,
-    "active_batch_gate": "tamil-t1",
+    "active_batch_t1_pages_completed": 19,
+    "active_batch_t1_unreadable_or_unknown": 0,
+    "active_batch_gate": "tamil-t2",
     "next_constituent_number": 10,
-    "next_gate": "Combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total"
+    "next_gate": "Combined Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total"
   }
 }
