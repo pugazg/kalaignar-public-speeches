@@ -24,19 +24,15 @@ Opening heading: `திருவள்ளுவர் விழா`. The body e
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 16 / 16 pages**;
 - Tamil T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
-- Tamil transcription state: **`first-pass-complete` pending T3 freeze**;
-- Tamil T3: **READY / NOT STARTED**;
-- English E1/E2/E3: **BLOCKED**.
+- Tamil T3: **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
+- Tamil transcription state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**.
 
-T2 directly re-read PDF **34–49** against the controlling scans and consolidated four corrections:
+T2 corrections: PDF 38 `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`; PDF 40 `திரைபடம்` → `திரைப்படம்`; PDF 41 `துளைத்தெடுத்து` → `துணைத்தெடுத்து`; PDF 44 `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
 
-1. PDF 38: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
-2. PDF 40: `திரைபடம்` → `திரைப்படம்`.
-3. PDF 41: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
-4. PDF 44: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
-
-No unresolved Tamil reading remains. T2 also reconfirmed names, figures, quotations, page continuations, the `ராணி`/Pongal sequence and the final body/source-note boundary.
+T3 verified that all 16 page records occur once in strict order, all four T2 corrections are live in the canonical body with no stale superseded reading remaining there, all page continuations are intact, and the final body/source-note boundary is correct. No additional T3 correction was required.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm all corrections are consolidated exactly once, verify complete page order and boundaries, mark Tamil `verified-complete` only if clean, and stop before English or constituent 5.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total**. Translate only from frozen `transcription-ta.md`, preserve page correspondence and rhetoric, keep the two speech archives separate, and do not start E2 or constituent 5.
