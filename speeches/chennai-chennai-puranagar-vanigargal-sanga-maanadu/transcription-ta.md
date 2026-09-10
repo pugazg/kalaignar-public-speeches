@@ -4,7 +4,7 @@
 **Source range:** PDF **54–62** / printed **53–61**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All four T2 corrections are consolidated below; T2 unresolved readings: **0**. T3 confirmed all nine page records once in sequence, preserved every page join and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. The original T2 pass logged four corrections and 0 unresolved readings; T3 required 0 additional corrections. During the later English E3 integrity check, direct re-inspection of PDF 59 supplied new controlling-scan evidence for one missed Tamil reading: `கனிமண்` → `களிமண்`. That source-confirmed correction is consolidated below and the Tamil layer has been re-frozen as `verified-complete`.
 
 ## PDF 54 / printed p.53
 
@@ -56,7 +56,7 @@
 
 அதைப்போலவே 97-98-ஆம் ஆண்டில் விற்பனை வரி ரத்து செய்யப்பட்ட பொருட்கள் - மீன் உணவு, தேங்காய் ஓடுகளும் துண்டுகளும், நிலக்கடலை ஓடுகள், தயிர், பஞ்சாமிர்தம், கல்விக்கான விளக்கப் படங்கள், சுற்றுலா வழிகாட்டி மற்றும் வரைபடங்கள், பலுவான பெரிய சம்மட்டி, பழைய வெள்ளி மெட்டி, கொலுசு ஆகிய பொருள்களுக்கு நடைமுறையிலே இருந்து வந்த 11 சதவிகித வரி முழுவதுமாக ரத்து செய்யப்பட்டது. அது மட்டுமல்ல; மூங்கிலால் செய்யப்பட்ட தட்டி, முறம், கூடைகள், புற்றுநோய், தொழுநோய், காசநோய் ஆகிய நோய்களின் சிகிச்சைக்கான உயிர்காக்கும் மருந்துகள், நாட்டு மருந்துகள் ஆகியவற்றின் 39 இனங்கள்; சூரிய ஒளி மின்கலங்கள், 50 ரூபாய்க்குக் குறைவான விலையுள்ள காலணிகள் - இவைகளுக்கு வரி ரத்து முழுமையாகச் செய்யப்பட்டது.
 
-கால்நடைத் தீவனம், தொன்னை, சாம்பிராணி, இயலாதவர்களுக்கான (ஊனமுற்றோர்களுக்கான) மிதிவண்டி, செங்கற்கள், ஓடுகள் செய்வதற்கான கனிமண், சென்னா இலைகள், விதை ஓடுகள், நில வாகைச் செடியின் இலைகள், மரவள்ளிக் கிழங்கு கப்பி, திப்பி ஆகிய பொருள்களுக்கு நடைமுறையில் இருந்த 4 சதவிகித வரி முழுவதுமாக ரத்து செய்யப்பட்டது.
+கால்நடைத் தீவனம், தொன்னை, சாம்பிராணி, இயலாதவர்களுக்கான (ஊனமுற்றோர்களுக்கான) மிதிவண்டி, செங்கற்கள், ஓடுகள் செய்வதற்கான களிமண், சென்னா இலைகள், விதை ஓடுகள், நில வாகைச் செடியின் இலைகள், மரவள்ளிக் கிழங்கு கப்பி, திப்பி ஆகிய பொருள்களுக்கு நடைமுறையில் இருந்த 4 சதவிகித வரி முழுவதுமாக ரத்து செய்யப்பட்டது.
 
 கனிமங்கள் - உலோகங்கள், தங்க நகை ஏற்றுமதியாளர்களுக்கு விற்பனை செய்கின்ற தங்கத்திற்கு
 
@@ -88,6 +88,10 @@
 
 `25-1-98 அன்று சென்னை வள்ளுவர் கோட்டத்தில் நடைபெற்ற சென்னை - சென்னை புறநகர் வணிகர்கள் சங்க மாநாட்டில் ஆற்றிய பேருரை`
 
+## Late source-evidence correction / re-freeze
+
+During English E3, direct re-inspection of the controlling PDF 59 scan showed that the frozen Tamil had `கனிமண்` where the scan actually prints **`களிமண்`**. The canonical Tamil was corrected to the scan, all nine page records and joins were rechecked, and the layer was re-frozen with **0 unresolved Tamil readings**.
+
 ## Exact next gate
 
-Combined constituents **5–6 English E1 first-pass translation — 16 verified Tamil pages total**. Translate only from the frozen Tamil layer and stop before English E2 or constituent 7.
+Combined constituents **5–6 repository-level archival closure** after English E3 verification. Do not start constituent 7 in the same activity.
