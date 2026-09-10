@@ -26,12 +26,12 @@ The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source c
 | Tamil state | **`verified-complete` / FROZEN** |
 | English E1 first-pass translation | **COMPLETE — 9/9** |
 | English E2 independent fidelity review | **PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved** |
-| English E3 final verification | **READY / NOT STARTED** |
+| English E3 final verification | **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved** |
 | Repository closure | **NOT STARTED** |
 
 T2 correction: PDF84 / printed p.83 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`. PDF88 / printed p.87 `அமைகிறேன்` was re-read and confirmed as printed. PDF82→83 and PDF83→84 page-boundary continuations were checked against both scans.
 
-T3 confirmed PDF **80–88** appears exactly once and in order, the single T2 correction is consolidated, all page continuations remain intact, PDF88 `அமைகிறேன்` remains preserved, and the separate PDF88 closing note remains outside the speech body. No additional T3 correction was required. E1 was translated only from the frozen `transcription-ta.md`, preserving page correspondence, rhetoric, names, numerals and the separate closing note. E2 independently compared all 9 English pages against frozen Tamil and consolidated 3 fidelity corrections with 0 unresolved issues. English remains provisional pending E3.
+T3 confirmed PDF **80–88** appears exactly once and in order, the single T2 correction is consolidated, all page continuations remain intact, PDF88 `அமைகிறேன்` remains preserved, and the separate PDF88 closing note remains outside the speech body. No additional T3 correction was required.
 
 ## English E2 result
 
@@ -41,9 +41,12 @@ T3 confirmed PDF **80–88** appears exactly once and in order, the single T2 co
 2. PDF 84 / printed p.83: restored the source city name as **“I will not speak in ‘Chennai’ slang.”** instead of “Madras”.
 3. PDF 86 / printed p.85: removed the added connotation “modest” and rendered the paired descriptors as **“ordinary, common”**.
 
-Source-sensitive clarifications:
-- PDF 87 / printed p.86: added a source note that the frozen Tamil itself carries the unmatched closing parenthesis in `கூறுகிறார்)`; English preserves it rather than silently repairing source punctuation.
+Source-sensitive clarification: PDF87 / printed p.86 preserves the unmatched closing parenthesis present in the frozen Tamil source.
+
+## English E3 result
+
+**PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.** The complete corrected English was re-read against the frozen Tamil layer from beginning to end. All E2 corrections, page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source notes, and the separate closing note were verified. Final English state: **`verified-complete`**.
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.
+Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
