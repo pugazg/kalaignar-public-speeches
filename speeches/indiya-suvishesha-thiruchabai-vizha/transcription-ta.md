@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
 **Source range:** PDF **50–53** / printed **49–52**  
-**Tamil status:** `first-pass-complete` — **4 / 4 pages**
+**Tamil status:** `t2-complete-t3-pending` — T1 **4 / 4 COMPLETE**; T2 **4 / 4 PASS; 0 corrections; 0 unresolved**
 
-> T1 first pass transcribed directly from the supplied page images. This is not yet a verified text. T2 must re-read every page line by line against the scan and consolidate any confirmed corrections before T3.
+> T1 is complete. T2 then directly re-read all four source pages line by line against the scans. T2 passed **4 / 4 pages with 0 corrections and 0 unresolved readings**. Tamil is not yet frozen; T3 consolidation/freeze is the next gate.
 
 ## PDF 50 / printed p.49
 
@@ -47,6 +47,10 @@
 
 `16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`
 
-## T1 completion note
+## T2 completion note
 
-Tamil T1 first pass is **COMPLETE — 4 / 4 pages**. The separate closing note is retained only as metadata/evidence and is not part of the spoken body. T2 must now visually re-read all four pages, including the `கொள்‘கை’யிலும் ‘கை’` wordplay, names, denominational terminology, the PDF 52 historical-name list, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
+Tamil T1 is **COMPLETE — 4 / 4 pages**. Tamil T2 strict direct visual audit is **PASS / COMPLETE — 4 / 4 pages; 0 corrections; 0 unresolved readings**. Every PDF page **50–53** was independently re-read against the controlling scan.
+
+T2 directly confirmed the `கொள்கை - கொள்‘கை’யிலும் ‘கை’ இருக்கிறது.` wordplay, names and denominational terminology, the PDF 52 historical-name list (`கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`), all three page-boundary continuations, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage, the final body sentence, and the separation of the printed source closing note.
+
+No unresolved Tamil reading remains from T2. The text is **not yet frozen**; exact next gate: **combined constituents 3–4 Tamil T3 consolidation/freeze — 20 source pages total**.
