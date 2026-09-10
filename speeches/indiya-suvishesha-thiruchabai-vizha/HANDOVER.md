@@ -17,16 +17,15 @@
 ## Durable state
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 4 / 4**;
-- Tamil T2: **PASS — 4 / 4; 0 corrections; 0 unresolved**;
-- Tamil T3: **PASS — 4 / 4; 0 additional corrections; 0 unresolved**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 4 / 4 pages**;
-- English E2: **READY / NOT STARTED**;
-- English E3: **BLOCKED**.
+- English E2: **PASS / COMPLETE — 4 / 4; 1 correction; 0 unresolved**;
+- English state: **`fidelity-corrections-consolidated`**;
+- English E3: **READY / NOT STARTED**.
 
-English E1 is in `translation-en.md` and was derived only from frozen `transcription-ta.md`. Preserve page correspondence. E2 must independently review the `கொள்கை` / `கை` wordplay, names and denominational terminology, the historical-name list, all three page continuations, and the final communal-harmony pledge.
+E2 independently compared the whole English translation against frozen Tamil and consolidated one correction on PDF 52: `Christian men and women of eminence` → `Christian people of distinction` for `கிறித்துவப் பெருமக்கள்`. The `கொள்கை` / `கை` wordplay, historical-name list, denominational wording, all three page continuations, the communal-harmony pledge and body/source-note boundary passed with no unresolved issue.
 
 ## Exact next incomplete gate
 
-Run combined **English E2 independent fidelity review for constituents 3–4 — 20 pages total**. Constituent 3 contributes 16 pages and this speech contributes 4 pages. Keep review/correction records separate, do not start E3 in the same activity, and do not start constituent 5.
+Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Constituent 3 contributes 16 pages and this speech contributes 4 pages. Do not start repository closure or constituent 5 in the same activity.
