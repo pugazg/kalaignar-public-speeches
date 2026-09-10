@@ -16,8 +16,8 @@
 - archives started: **2 / 36**;
 - Tamil T1 complete: **2 / 36**;
 - Tamil T2 complete: **2 / 36**;
-- Tamil T3 complete: **1 / 36**;
-- Tamil verified: **1 / 36**;
+- Tamil T3 complete: **2 / 36**;
+- Tamil verified: **2 / 36**;
 - English E1/E2/E3 complete: **1 / 36**;
 - fully archived: **1 / 36**.
 
@@ -34,17 +34,22 @@ Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத
 - Tamil T2: **PASS / COMPLETE — 15 / 15**;
 - T2 corrections: **5**;
 - T2 unresolved: **0**;
-- Tamil T3: **NOT STARTED**;
-- English: **BLOCKED**.
+- Tamil T3: **PASS / COMPLETE**;
+- Tamil: **`verified-complete` / FROZEN**;
+- T3 additional corrections: **0**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**.
 
-T2 correction set is fully consolidated into the transcript. The final correction is PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`. All queued odd readings and the final body/source-note separation were directly checked; no unresolved reading remains.
+T3 confirmed that all five T2 corrections are consolidated exactly once, PDF **19–33** / printed **18–32** is continuous with no missing or duplicate page record, all page-boundary continuations are intact, and the final source closing note remains outside the speech body. No unresolved Tamil reading remains.
 
 ## Multi-constituent efficiency policy
 
-For this collection, read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH_PROCESSING_GUIDE.md`.
+Read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH_PROCESSING_GUIDE.md`.
 
-After the current constituent's T3/freeze is complete, eligible consecutive constituents may be advanced through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each speech remains a separate archive. Do not mix gates merely to fill the 25-page allowance.
+Eligible consecutive constituents may be advanced through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each speech remains a separate archive. Do not mix T1/T2/T3/English gates merely to fill the allowance.
+
+At present only constituent 2 is eligible for E1 because constituent 3 has not yet completed Tamil. Therefore the next E1 iteration contains constituent 2 alone: **15 pages**.
 
 ## Exact next incomplete gate
 
-Run constituent 2 **Tamil T3 consolidation / freeze — all 15 pages**. Confirm all five corrections, continuity and boundaries; if clean, mark Tamil `verified-complete`. Do not begin English until T3 passes.
+Run constituent 2 **English E1 first-pass translation — all 15 verified Tamil pages**, derived only from frozen `transcription-ta.md`. Preserve page correspondence, repetition and difficult source wording; do not begin E2 until E1 completes.
