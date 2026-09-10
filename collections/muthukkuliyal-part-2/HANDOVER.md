@@ -15,9 +15,7 @@
 - mapped: **36 / 36**;
 - archives started / source-gated: **6 / 36**;
 - Tamil T1/T2/T3 complete / Tamil verified: **6 / 36**;
-- English E1 complete: **6 / 36**;
-- English E2 complete: **6 / 36**;
-- English E3 complete: **4 / 36**;
+- English E1/E2/E3 complete: **6 / 36**;
 - fully archived: **4 / 36**.
 
 Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
@@ -26,24 +24,30 @@ Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
 ### 5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`
 
-- PDF **54–62** / printed **53–61** — **9 pages**;
+- PDF **54–62** / printed **53–61** — 9 pages;
 - Tamil **`verified-complete` / FROZEN**;
-- English E1 **COMPLETE — 9/9**;
-- English E2 **PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved**;
-- English state **`fidelity-corrections-consolidated`**;
-- English E3 **READY / NOT STARTED**.
+- late source repair during E3: PDF59 `கனிமண்` → `களிமண்`; re-frozen;
+- English E1/E2/E3 **COMPLETE**;
+- E2 **4 corrections / 0 unresolved**;
+- E3 **2 corrections / 0 unresolved**;
+- English **`verified-complete`**;
+- repository closure **READY / NOT STARTED**.
 
 ### 6 / 36 — `திரைப்பட விருது வழங்கும் விழா`
 
-- PDF **63–69** / printed **62–68** — **7 pages**;
+- PDF **63–69** / printed **62–68** — 7 pages;
 - Tamil **`verified-complete` / FROZEN**;
-- English E1 **COMPLETE — 7/7**;
-- English E2 **PASS / COMPLETE — 7/7; 2 corrections; 0 unresolved**;
-- English state **`fidelity-corrections-consolidated`**;
-- English E3 **READY / NOT STARTED**.
+- late source repairs during E3: PDF64 `பெயரைச் சொல்லுவது கூட`; PDF65 `லியாகத் அலிகான்`; re-frozen;
+- English E1/E2/E3 **COMPLETE**;
+- E2 **2 corrections / 0 unresolved**;
+- E3 **2 corrections / 0 unresolved**;
+- English **`verified-complete`**;
+- repository closure **READY / NOT STARTED**.
 
-Combined E2: **16 / 16 pages PASS — 6 confirmed corrections / 0 unresolved fidelity issues**. All corrections are consolidated in the separate translations. Constituent 7 remains excluded.
+Combined E3: **16 / 16 PASS — 4 final English corrections / 0 unresolved**. Three late source-level Tamil readings were repaired directly from the controlling scans and both Tamil layers were re-frozen before a second complete English sweep, which produced **0 further corrections / 0 unresolved issues**.
+
+Constituent 7 remains excluded.
 
 ## Exact next incomplete gate
 
-Run combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Recheck each complete corrected translation against its frozen Tamil source from beginning to end and stop before repository closure or constituent 7.
+Run combined **repository-level archival closure for constituents 5–6**. Synchronize both speech archives, collection controls and the root catalogue, mark both fully archived, and stop before constituent 7 source work.
