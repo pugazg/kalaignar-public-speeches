@@ -23,16 +23,16 @@ Collection-level source/mapping/progress audit.
 - date: **1998-01-13**;
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **IN PROGRESS — 10 / 15**;
+- Tamil T2: **PASS / COMPLETE — 15 / 15**;
 - T2 batch 1 PDF **19–23**: **PASS — 5 / 5; 3 corrections; 0 unresolved**;
 - T2 batch 2 PDF **24–28**: **PASS — 5 / 5; 1 correction; 0 unresolved**;
-- cumulative T2: **4 corrections; 0 unresolved**;
-- T3/English: **BLOCKED**.
+- T2 batch 3 PDF **29–33**: **PASS — 5 / 5; 1 correction; 0 unresolved**;
+- cumulative T2: **5 corrections; 0 unresolved**;
+- Tamil T3: **NOT STARTED**;
+- English: **BLOCKED**.
 
-Batch 1 scan-confirmed corrections were `இசைக்குநர்` → `இயக்குநர்`, `அங்காங்குள்ள` → `ஆங்காங்குள்ள`, and `போது` → `போதாது`.
-
-Batch 2 correction: PDF 26 / printed p.25 `இந்த ஸ்டூடியோவில் இருந்து` → `இந்த ஸ்டுடியோவில் இருந்து`. The source itself retains the earlier same-page `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்`, so both spellings are deliberately preserved.
+The fifth correction is PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`. Batch 3 also directly confirmed `வேதவித்து`, `வாடியவர்`, the source's mismatched `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, all remaining page transitions, and the PDF 33 closing-note separation.
 
 ## Exact next gate
 
-Tamil T2 batch 3 for constituent 2: PDF **29–33** / printed **28–32**. No T3 or English before T2 completes.
+Tamil T3 consolidation / freeze for constituent 2, all **15 pages**. No English before T3 passes.
