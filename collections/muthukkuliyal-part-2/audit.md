@@ -8,64 +8,47 @@ Collection-level source/mapping/progress audit.
 - SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
 - **425 scans**
 - **36 / 36** constituent ranges mapped
+- source PDF binary committed: **No**
 
 ## Closed constituents
 
-Constituents **1–6** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–9** are Tamil + English `verified-complete` with repository closure complete.
 
-## Constituents 7–9 — Tamil T1
+## Constituents 7–9 — final gate record
 
-Combined T1: **COMPLETE — 24/24 pages; missing page records 0; explicit unreadable/unknown placeholders 0**.
+Tamil T1/T2/T3: **PASS / COMPLETE — 24/24 source pages**. Tamil T2 produced **4 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. All expected Tamil page records occur exactly once and in order, all confirmed source readings remain consolidated, and separate source closing notes remain outside the speech bodies.
 
-## Constituents 7–9 — Tamil T2 strict direct-scan audit
+English E1: **COMPLETE — 24/24 pages**. English E2: **PASS / COMPLETE — 24/24; 10 corrections; 0 unresolved**. English E3: **PASS / COMPLETE — 24/24; 0 additional corrections; 0 unresolved**. The final corrected English was re-read against frozen Tamil from beginning to end.
 
-Combined result: **PASS / COMPLETE — 24/24 source pages; 4 substantive corrections; 0 unresolved readings**.
+- **7 / 36:** PDF70–79 / pp.69–78 — Tamil + English `verified-complete`; E2 **4 corrections**; E3 **0 additional corrections**; closure **PASS / COMPLETE**.
+- **8 / 36:** PDF80–88 / pp.79–87 — Tamil + English `verified-complete`; E2 **3 corrections**; E3 **0 additional corrections**; closure **PASS / COMPLETE**.
+- **9 / 36:** PDF89–93 / pp.88–92 — Tamil + English `verified-complete`; E2 **3 corrections**; E3 **0 additional corrections**; closure **PASS / COMPLETE**.
 
-- **7 / 36:** PDF70–79 / pp.69–78 — 10/10; **0 corrections**. PDF72 `தமிழ்நாட்டை என்` confirmed as printed.
-- **8 / 36:** PDF80–88 / pp.79–87 — 9/9; **1 correction**: PDF84 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`. PDF88 `அமைகிறேன்` confirmed as printed.
-- **9 / 36:** PDF89–93 / pp.88–92 — 5/5; **3 corrections**: PDF90 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. Contents/page-title spacing distinction preserved.
+## Repository closure — constituents 7–9
 
-The source PDF remains uncommitted.
+**PASS / COMPLETE — 3 constituents / 24 source pages.**
 
-## Constituents 7–9 — Tamil T3 consolidation/freeze
+- constituent metadata: **synchronized**;
+- READMEs: **synchronized**;
+- Tamil/English verification state: **synchronized**;
+- translation review records: **synchronized**;
+- handovers: **synchronized**;
+- parent collection controls: **synchronized**;
+- root catalogue: **synchronized**;
+- pending transcription/translation work for constituents 7–9: **none**.
 
-Combined result: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved readings**. All 24 page records occur exactly once and in order; all four T2 corrections are consolidated; page-boundary continuations and separate source closing notes remain intact. Constituents 7–9 are **`verified-complete` / FROZEN** at the Tamil layer.
+## Collection totals after closure
 
-## Constituents 7–9 — English E1 first-pass translation
+- mapped: **36/36**;
+- started / source-gated: **9/36 / 9/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **9/36**;
+- English E1/E2/E3 complete: **9/36**;
+- fully archived: **9/36**.
 
-Combined result: **COMPLETE — 24/24 verified Tamil pages**. English page records correspond one-to-one with the frozen Tamil pages; separate source closing notes remain separate; missing English page records: **0**.
+## Next eligible batch
 
-- **7 / 36:** English E1 **10/10 COMPLETE**;
-- **8 / 36:** English E1 **9/9 COMPLETE**;
-- **9 / 36:** English E1 **5/5 COMPLETE**.
-
-## Constituents 7–9 — English E2 independent fidelity review
-
-Combined result: **PASS / COMPLETE — 24/24 pages; 10 confirmed fidelity corrections; 0 unresolved issues**. No frozen Tamil text was changed.
-
-- **7 / 36:** 10/10 E2 PASS; **4 corrections**.
-- **8 / 36:** 9/9 E2 PASS; **3 corrections**.
-- **9 / 36:** 5/5 E2 PASS; **3 corrections**.
-
-## Constituents 7–9 — English E3 final end-to-end verification
-
-Combined result: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved issues**. The complete corrected English was re-read against the frozen Tamil layer from beginning to end. All E2 corrections, page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source-sensitive notes, final bodies, and separate source closing notes were verified. No additional English correction was required.
-
-- **7 / 36:** 10/10 E3 PASS; **0 additional corrections; 0 unresolved**.
-- **8 / 36:** 9/9 E3 PASS; **0 additional corrections; 0 unresolved**.
-- **9 / 36:** 5/5 E3 PASS; **0 additional corrections; 0 unresolved**.
-
-## Collection totals
-
-- mapped / started / source-gated: **36/36 / 9/36 / 9/36**;
-- Tamil T1 complete: **9/36**;
-- Tamil T2 complete: **9/36**;
-- Tamil T3 complete / Tamil verified: **9/36**;
-- English E1 complete: **9/36**;
-- English E2 complete: **9/36**;
-- English E3 complete: **9/36**;
-- fully archived: **6/36**.
+Constituents **10–11** total **19 source pages**: constituent 10 PDF **94–102** / printed **93–101** (**9 pages**) and constituent 11 PDF **103–112** / printed **102–111** (**10 pages**). Adding constituent 12 would raise the iteration to 34 pages, so constituent 12 is excluded under the 25-page batching ceiling.
 
 ## Exact next gate
 
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+Combined **source / duplicate / boundary gate for constituents 10–11 — 19 source pages total**. Stop before Tamil T1.
