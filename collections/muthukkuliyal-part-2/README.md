@@ -11,12 +11,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **9 / 36**
 - Tamil T2 complete: **9 / 36**
 - Tamil T3 complete / Tamil verified: **9 / 36**
-- English E1/E2/E3 complete: **6 / 36**
+- English E1 complete: **9 / 36**
+- English E2/E3 complete: **6 / 36**
 - fully archived: **6 / 36**
 
 Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
 
-## Constituents 7–9 — Tamil T3 complete
+## Constituents 7–9 — English E1 complete
 
 Combined T3 result: **PASS / COMPLETE — 24/24 source pages; 0 additional corrections; 0 unresolved readings**. All four T2 corrections remain consolidated. Page records were confirmed once and in order, page continuations remain intact, no stale superseded reading remains in the speech bodies, and each separate closing note remains outside its speech body.
 
@@ -24,8 +25,10 @@ Combined T3 result: **PASS / COMPLETE — 24/24 source pages; 0 additional corre
 - **8 — முத்தமிழ்ப் பேரவை விழா:** Tamil **`verified-complete` / FROZEN — 9/9**; T3 additional corrections **0**; T2 `எண்ணியெண்ணி` consolidated; PDF88 `அமைகிறேன்` preserved.
 - **9 — புத்தாண்டு இசைவிழா:** Tamil **`verified-complete` / FROZEN — 5/5**; T3 additional corrections **0**; all three T2 corrections consolidated; title-spacing distinction preserved.
 
+English E1 result: **COMPLETE — 24/24 verified Tamil pages**. The three English files were translated only from their frozen Tamil layers, retain PDF/printed-page correspondence and separate closing notes, and remain provisional pending E2.
+
 Constituent 10 remains outside this batch.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
+Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
