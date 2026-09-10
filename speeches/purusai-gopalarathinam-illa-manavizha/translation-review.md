@@ -2,7 +2,8 @@
 
 **English E1:** **COMPLETE — 10 / 10 pages**  
 **English E2:** **PASS / COMPLETE — 10 / 10; 4 corrections; 0 unresolved**  
-**English E3:** **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved**
+**English E3:** **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved**  
+**Repository closure:** **PASS / COMPLETE**
 
 Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against `transcription-ta.md` and consolidated only confirmed fidelity corrections.
 
@@ -15,19 +16,13 @@ Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every 
 
 ## Source-sensitive clarifications
 
-- PDF 72 / printed p.71: the existing source note for the irregular frozen-Tamil phrase `தமிழ்நாட்டை என்` is retained; the Tamil layer is not altered.
-- PDF 76 / printed p.75: added a source note for the irregular frozen-Tamil phrase `சில மாதம் மந்திரிகள்`; the evident referent is translated as “some ministers” without silently changing Tamil.
+- PDF 72 / printed p.71: the irregular frozen-Tamil phrase `தமிழ்நாட்டை என்` remains explicit; the Tamil layer is not altered.
+- PDF 76 / printed p.75: the irregular frozen-Tamil phrase `சில மாதம் மந்திரிகள்` remains source-noted and is translated conservatively as “some ministers”.
 
-All 10 page records and joins, names, titles, numerals, rhetorical force and repetition, performance markers, final body, and separate source closing note passed E2. Unresolved English fidelity issues: **0**.
+## E3 final verification
 
-## E3 final end-to-end verification
+**PASS / COMPLETE — 10/10 pages; 0 additional corrections; 0 unresolved.** The complete corrected English was re-read against the frozen Tamil layer from beginning to end. All E2 corrections, page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source notes, and separate closing-note handling were verified.
 
-**PASS / COMPLETE — 10/10 pages; 0 additional corrections; 0 unresolved.**
+## Closure
 
-- The complete corrected English translation was re-read against the frozen Tamil layer from beginning to end.
-- All E2 corrections are present; page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source notes, and separate closing-note handling were verified.
-- No additional English correction is required.
-
-## Exact next gate
-
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+English is **`verified-complete`** and all corrections are consolidated. Repository-level archival closure is complete, the speech metadata agrees with the frozen Tamil/English layers, and no further English gate is pending.
