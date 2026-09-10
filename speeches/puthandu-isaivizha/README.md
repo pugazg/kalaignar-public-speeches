@@ -16,7 +16,7 @@
 
 The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source closing note is `14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை`. Preserve the contents form `புத்தாண்டு இசை விழா` separately from the constituent heading/closing-note form `புத்தாண்டு இசைவிழா`.
 
-## Tamil workflow
+## Workflow
 
 | Gate | State |
 |---|---|
@@ -27,24 +27,15 @@ The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source c
 | English E1 first-pass translation | **COMPLETE — 5/5** |
 | English E2 independent fidelity review | **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved** |
 | English E3 final verification | **PASS / COMPLETE — 5/5; 0 additional corrections; 0 unresolved** |
-| Repository closure | **NOT STARTED** |
+| English state | **`verified-complete`** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
-T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans. T3 consolidated all three corrections with no additional correction.
+Tamil T2 corrections remain consolidated: PDF90 `குறிப்பிட்டிருக்கின்றார்`, PDF90 `தேர்வுத் தந்து`, and PDF93 `மனப்பான்மை விசுவிற்கும்`. The contents/page-heading spacing distinction remains preserved. T3 found no additional issue.
 
-## English E2 result
+English E2 consolidated three corrections: **“a great wonder of the world”** on PDF90, **“I am not the one saying it.”** on PDF92, and removal of an unsupported motive in the PDF93 closing appreciation sentence. E3 re-read all five corrected pages against frozen Tamil and found **0 additional corrections / 0 unresolved**.
 
-**PASS / COMPLETE — 5/5 pages; 3 corrections; 0 unresolved.**
+## Repository closure
 
-1. PDF 90 / printed p.89: replaced the modernized “world-class wonder” with the closer **“a great wonder of the world”**.
-2. PDF 92 / printed p.91: removed the added implication in “I am not making it up” and restored **“I am not the one saying it.”**
-3. PDF 93 / printed p.92: removed the added motive “whom they wished to honour” and restored the source sense as **“They have remembered all those people and offered each of them their appreciation and affection.”**
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; source identity, page boundaries, title-spacing distinction, closing-note separation, transcription/translation controls, audit and metadata agree. The parent collection and root catalogue are synchronized in the combined constituents 7–9 closure. No transcription or translation work remains pending for this constituent.
 
-Source-sensitive clarification: PDF90 / printed p.89 retains the difficult frozen-Tamil phrase `தேர்வுத் தந்து` and the English remains conservative.
-
-## English E3 result
-
-**PASS / COMPLETE — 5/5 pages; 0 additional corrections; 0 unresolved.** The complete corrected English was re-read against the frozen Tamil layer from beginning to end. All E2 corrections, page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source notes, and the separate closing note were verified. Final English state: **`verified-complete`**.
-
-## Exact next gate
-
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.
