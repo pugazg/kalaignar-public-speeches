@@ -1,10 +1,10 @@
 # புத்தாண்டு இசைவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **5 / 5 pages COMPLETE**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **5 / 5 pages COMPLETE**  
 **Source range:** PDF **89–93** / printed **88–92**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 re-read all five source pages. Three scan-confirmed corrections are consolidated below; T2 unresolved readings: **0**. The constituent heading/closing-note form `புத்தாண்டு இசைவிழா` remains distinct from the contents form `புத்தாண்டு இசை விழா`. This layer is not yet frozen until T3 consolidation.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All 3 T2 corrections are consolidated; T2 unresolved readings: **0**. T3 confirmed all 5 page records once in sequence, preserved page joins and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 89 / printed p.88
 
@@ -68,4 +68,18 @@
   - PDF93 / printed p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`.
 - T2 unresolved readings: **0**.
 - Contents title `புத்தாண்டு இசை விழா` versus page/closing-note `புத்தாண்டு இசைவிழா`: **PRESERVED**.
-- Tamil T3 consolidation/freeze: **READY / NOT STARTED**.
+- Tamil T3 consolidation/freeze: **PASS / COMPLETE — 5/5; 0 additional corrections; 0 unresolved**.
+
+## T3 consolidation/freeze result
+
+- Page records: **5/5, exactly once and in order**.
+- All T2 corrections/confirmed source readings: **CONSOLIDATED / PRESERVED**.
+- Stale superseded readings in speech body: **0**.
+- Missing/duplicated speech pages: **0 / 0**.
+- Separate source closing note: **PRESERVED OUTSIDE SPEECH BODY**.
+- T3 additional corrections: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Exact next gate
+
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
