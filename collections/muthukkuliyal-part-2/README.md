@@ -9,7 +9,7 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - mappings: **36 / 36 complete**
 - speech archives started: **4 / 36**
 - source/duplicate/boundary gate passed: **4 / 36**
-- Tamil T1 complete: **2 / 36**
+- Tamil T1 complete: **4 / 36**
 - Tamil T2 complete: **2 / 36**
 - Tamil T3 complete: **2 / 36**
 - Tamil verified: **2 / 36**
@@ -25,15 +25,15 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 
 ## Active same-gate batch — constituents 3–4
 
-The combined source/duplicate/boundary gate has **PASSED for both constituents independently**:
+Both constituents have passed their independent source/duplicate/boundary gates and have now completed Tamil T1:
 
-- **3 / 36 — `திருவள்ளுவர் விழா`** — `speeches/thiruvalluvar-vizha/` — PDF **34–49** / printed **33–48** — **16 pages** — date **15-01-1998** from separate closing note; role `ஆற்றிய உரை`; venue not stated in inspected opening/closing evidence; Tamil T1 **NOT STARTED**.
-- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — `speeches/indiya-suvishesha-thiruchabai-vizha/` — PDF **50–53** / printed **49–52** — **4 pages** — date **16-01-1998** from separate closing note; role `ஆற்றிய உரை`; venue not stated in inspected opening/closing evidence; Tamil T1 **NOT STARTED**.
+- **3 / 36 — `திருவள்ளுவர் விழா`** — `speeches/thiruvalluvar-vizha/` — PDF **34–49** / printed **33–48** — **16 pages** — Tamil T1 **COMPLETE — 16/16**, state `first-pass-complete`.
+- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — `speeches/indiya-suvishesha-thiruchabai-vizha/` — PDF **50–53** / printed **49–52** — **4 pages** — Tamil T1 **COMPLETE — 4/4**, state `first-pass-complete`.
 
-Direct source inspection confirmed each title, body ending, separate closing note and boundary. Repository title/slug searches and the live `speeches/` tree showed no pre-existing dedicated archive for either item. Each now has its own standard seven-file speech scaffold.
+Combined T1 scope: **20 / 20 source pages complete**. Each page was transcribed into its own speech archive; the two bodies were not merged. Each speech's separate printed closing note remains metadata/evidence rather than spoken body text.
 
-Combined scope: **20 source pages**. Constituent 5 remains excluded because adding its 9 pages would raise the iteration to 29 pages.
+These are first-pass transcriptions only. Neither constituent is Tamil-verified yet. T2 must now visually re-read all 20 pages against the controlling scan and consolidate only source-confirmed corrections. Constituent 5 remains excluded from this batch.
 
 ## Exact next gate
 
-Run combined **Tamil T1 first-pass transcription for constituents 3–4 — 20 source pages total**, preserving separate page records and separate speech archives. Do not start constituent 5.
+Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**, keeping constituent-specific correction logs and page records separate. Stop before T3 and do not start constituent 5.
