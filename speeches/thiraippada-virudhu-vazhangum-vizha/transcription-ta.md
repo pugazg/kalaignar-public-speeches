@@ -4,7 +4,7 @@
 **Source range:** PDF **63–69** / printed **62–68**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All four T2 corrections are consolidated below; T2 unresolved readings: **0**. T3 confirmed all seven page records once in sequence, preserved every page join and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. The original T2 pass logged four corrections and 0 unresolved readings; T3 required 0 additional corrections. During the later English E3 integrity check, direct re-inspection of PDFs 64–65 supplied controlling-scan evidence for two missed Tamil readings: `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட`, and `வியாகத் அலிகானுக்குக்` → `லியாகத் அலிகானுக்குக்`. Both corrections are consolidated below and the Tamil layer has been re-frozen as `verified-complete`.
 
 ## PDF 63 / printed p.62
 
@@ -18,7 +18,7 @@
 
 ## PDF 64 / printed p.63
 
-தேர்தலிலே வேட்பாளராக நிற்கின்ற ஓர் அரசியல் வாதிக்கு அரசு விழாவிலே விருது வழங்கக் கூடாது என்று தேர்தல் ஆணையம் விதி வகுத்திருக்கின்ற காரணத்தால் - எம்.ஜி.ஆர். விருது யாருக்கு வழங்கப்படும் என்று அறிவிக்கப்பட்டதோ அவர் இந்த நிகழ்ச்சியிலே கலந்து கொள்ளவில்லை என்பதைத் தெரிவித்துக் கொள்கிறேன். பெயரைச் சொல்லாது கூட ஒருவேளை தேர்தல் விதிமுறைக்கு விரோதமாக இருக்குமோ என்பதால்தான் அரசியல் நாகரிகத்தோடு பெயரையும் சொல்லாமல் விடுகிறேன்.
+தேர்தலிலே வேட்பாளராக நிற்கின்ற ஓர் அரசியல் வாதிக்கு அரசு விழாவிலே விருது வழங்கக் கூடாது என்று தேர்தல் ஆணையம் விதி வகுத்திருக்கின்ற காரணத்தால் - எம்.ஜி.ஆர். விருது யாருக்கு வழங்கப்படும் என்று அறிவிக்கப்பட்டதோ அவர் இந்த நிகழ்ச்சியிலே கலந்து கொள்ளவில்லை என்பதைத் தெரிவித்துக் கொள்கிறேன். பெயரைச் சொல்லுவது கூட ஒருவேளை தேர்தல் விதிமுறைக்கு விரோதமாக இருக்குமோ என்பதால்தான் அரசியல் நாகரிகத்தோடு பெயரையும் சொல்லாமல் விடுகிறேன்.
 
 சிறந்த படங்கள் என்ற வரிசையிலே ‘இந்தியன்’ படம் முதல் பரிசைப் பெற்றிருக்கிறது. நான் அந்தப் படத்தைப் பார்த்தேன். தம்பி கமல் அவர்கள் அதனைப் பார்க்குமாறு எனக்கு அன்புக் கட்டளை பிறப்பித்தார். படத்தைப் பார்த்தேன். அந்தப் படத்தோடு ஒன்றிப் போகின்ற - மெய்மறந்த நிலைக்கு ஆளானேன். அந்தப் படம் முதல் பரிசைப் பெற்றிருப்பதில் வியப்பு ஏதும் இல்லை என்பதை இங்கே நான் தெரிவித்துக் கொள்கிறேன்.
 
@@ -38,7 +38,7 @@
 
 நான் முதலிலே குறிப்பிட்டதைப் போல - பஞ்சு அருணாசலம் கவிஞர் கண்ணதாசன் விருதினைப் பெற்றிருக்கிறார்.
 
-அண்ணா விருது தம்பி வியாகத் அலிகானுக்குக் கிடைத்திருக்கிறது. அவர் எழுத்தாளர் என்ற முறையிலே அந்த விருதினைப் பெற்றிருக்கிறார். நானும் ஒரு எழுத்தாளன் என்ற முறையிலே அவர் இந்த விருதினைப் பெற்றதற்காகப் பெருமையடைகிறேன்.
+அண்ணா விருது தம்பி லியாகத் அலிகானுக்குக் கிடைத்திருக்கிறது. அவர் எழுத்தாளர் என்ற முறையிலே அந்த விருதினைப் பெற்றிருக்கிறார். நானும் ஒரு எழுத்தாளன் என்ற முறையிலே அவர் இந்த விருதினைப் பெற்றதற்காகப் பெருமையடைகிறேன்.
 
 தம்பி சார்லி நகைச்சுவை எப்படி இருக்க வேண்டும், நகைச்சுவையோடு எப்படிக் கருத்துக்களைக் குழைத்துத் தர வேண்டும் என்பதற்கான இலக்கணமாகத் திகழ்ந்த மறைந்த கலைவாணர் - யாருடைய பெயரால் இந்த அரங்கம் அமைந்திருக்கின்றதோ அந்தப் பெயருக்குச் சொந்தக்காரரான கலைவாணர் விருதினைப் பெற்றிருக்கிறார்.
 
@@ -88,6 +88,10 @@
 
 `30-1-98 அன்று திரைப்பட விருது வழங்கும் விழாவில் ஆற்றிய உரை`
 
+## Late source-evidence corrections / re-freeze
+
+During English E3, direct re-inspection of the controlling scans found two missed frozen-Tamil readings: PDF64 `பெயரைச் சொல்லாது கூட` → **`பெயரைச் சொல்லுவது கூட`**, and PDF65 `வியாகத் அலிகானுக்குக்` → **`லியாகத் அலிகானுக்குக்`**. Both canonical readings were corrected to the scans, all seven page records and joins were rechecked, and the Tamil layer was re-frozen with **0 unresolved Tamil readings**.
+
 ## Exact next gate
 
-Combined constituents **5–6 English E1 first-pass translation — 16 verified Tamil pages total**. Translate only from the frozen Tamil layer and stop before English E2 or constituent 7.
+Combined constituents **5–6 repository-level archival closure** after English E3 verification. Do not start constituent 7 in the same activity.
