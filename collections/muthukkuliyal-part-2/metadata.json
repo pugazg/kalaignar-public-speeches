@@ -27,7 +27,7 @@
     "page_map_state": "complete",
     "constituent_items_total": 36,
     "constituent_items_mapped": 36,
-    "constituent_items_started": 2,
+    "constituent_items_started": 4,
     "constituent_items_t1_complete": 2,
     "constituent_items_t2_complete": 2,
     "constituent_items_t3_complete": 2,
@@ -39,13 +39,17 @@
     "collection_status": "constituent-processing-in-progress",
     "last_archived_constituent_number": 2,
     "active_constituent_number": 3,
-    "active_constituent_slug": null,
+    "active_constituent_slug": "thiruvalluvar-vizha",
     "active_constituent_title_ta": "திருவள்ளுவர் விழா",
-    "active_constituent_status": "not-started",
+    "active_constituent_status": "source-gate-pass-t1-pending",
     "active_constituent_pdf_pages": "34-49",
     "active_constituent_printed_pages": "33-48",
     "active_constituent_pages_total": 16,
+    "active_batch_constituent_numbers": [3, 4],
+    "active_batch_constituent_slugs": ["thiruvalluvar-vizha", "indiya-suvishesha-thiruchabai-vizha"],
+    "active_batch_source_pages_total": 20,
+    "active_batch_gate": "tamil-t1",
     "next_constituent_number": 3,
-    "next_gate": "Multi-constituent source/duplicate/boundary gate for constituents 3-4 — 20 source pages total"
+    "next_gate": "Combined constituents 3-4 Tamil T1 first-pass transcription — 20 source pages total"
   }
 }
