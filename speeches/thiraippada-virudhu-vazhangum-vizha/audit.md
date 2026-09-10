@@ -28,15 +28,22 @@ Confirmed corrections:
 3. PDF 68 / printed p.67: `நான்தோறும்` → **`நாள்தோறும்`**.
 4. PDF 68 / printed p.67: `கூட்டி வைத்து சொல்லியிருக்கிறார்கள்` → **`கூட்டி வைத்தும் சொல்லியிருக்கிறார்கள்`**.
 
-All other PDF 63–69 wording, names, award titles, figures, page joins, final body and separate source note passed direct scan review.
+## Tamil T3 — consolidation/freeze
+
+**PASS / COMPLETE — 7 / 7 pages; 0 additional corrections; 0 unresolved.**
+
+T3 confirmed PDF **63–69** appears exactly once and in order; all four T2 corrections are present in the canonical transcript; every cross-page continuation remains intact; and the separate PDF 69 source note remains outside the spoken body.
+
+Tamil is now **`verified-complete` / FROZEN**. Do not alter it without new source evidence.
 
 ## Current state
 
-- Tamil T1: **COMPLETE — 7/7**;
-- Tamil T2: **PASS / COMPLETE — 7/7; 4 corrections; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- English: **BLOCKED pending frozen Tamil**.
+- Tamil T1/T2/T3: **COMPLETE**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**;
+- repository closure: **NOT STARTED**.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Stop before English or constituent 7.
+Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**, derived only from frozen Tamil. Stop before E2 or constituent 7.
