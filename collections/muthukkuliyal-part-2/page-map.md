@@ -49,15 +49,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 3 | `thiruvalluvar-vizha` | **Tamil `verified-complete` / FROZEN; English E2 16/16 PASS; 6 corrections; 0 unresolved; E3 next** |
-| 4 | `indiya-suvishesha-thiruchabai-vizha` | **Tamil `verified-complete` / FROZEN; English E2 4/4 PASS; 1 correction; 0 unresolved; E3 next** |
+| 3 | `thiruvalluvar-vizha` | **Tamil + English `verified-complete`; repository closure next** |
+| 4 | `indiya-suvishesha-thiruchabai-vizha` | **Tamil + English `verified-complete`; repository closure next** |
 | 5–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **3–4** remain paired under the ≤25-page policy, totaling **20 corrected E2-reviewed English pages**:
+Constituents **3–4** remain paired under the ≤25-page policy, totaling **20 fully verified Tamil/English pages**:
 
-- 3 `thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — E2 **16/16 PASS; 6 corrections; 0 unresolved**;
-- 4 `indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — E2 **4/4 PASS; 1 correction; 0 unresolved**.
+- 3 `thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — E3 **16/16 PASS; 6 final corrections; 0 unresolved**;
+- 4 `indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — E3 **4/4 PASS; 0 additional corrections; 0 unresolved**.
 
-Combined English E2: **20 / 20 pages PASS — 7 corrections / 0 unresolved fidelity issues**. Exact next gate: **combined English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Constituent 5 is not part of this iteration.
+Combined English E3: **20 / 20 pages PASS — 6 final corrections / 0 unresolved fidelity issues**. Exact next gate: **combined repository-level archival closure for constituents 3–4**. Constituent 5 is not part of this iteration.
