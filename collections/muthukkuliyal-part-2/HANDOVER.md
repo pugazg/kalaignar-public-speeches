@@ -18,7 +18,9 @@
 - Tamil T2 complete: **2 / 36**;
 - Tamil T3 complete: **2 / 36**;
 - Tamil verified: **2 / 36**;
-- English E1/E2/E3 complete: **1 / 36**;
+- English E1 complete: **2 / 36**;
+- English E2 complete: **1 / 36**;
+- English E3 complete: **1 / 36**;
 - fully archived: **1 / 36**.
 
 Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` remains **CLOSED / FULLY ARCHIVED**.
@@ -30,26 +32,24 @@ Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத
 - PDF **19–33** / printed **18–32** — **15 pages**;
 - date **1998-01-13** from source closing note;
 - venue unresolved/not stated in inspected source;
-- Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **PASS / COMPLETE — 15 / 15**;
-- T2 corrections: **5**;
-- T2 unresolved: **0**;
-- Tamil T3: **PASS / COMPLETE**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
-- T3 additional corrections: **0**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**.
+- T2 corrections: **5**;
+- Tamil unresolved: **0**;
+- English E1: **COMPLETE — 15 / 15 pages**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED**.
 
-T3 confirmed that all five T2 corrections are consolidated exactly once, PDF **19–33** / printed **18–32** is continuous with no missing or duplicate page record, all page-boundary continuations are intact, and the final source closing note remains outside the speech body. No unresolved Tamil reading remains.
+English E1 was produced only from the frozen Tamil layer and retains PDF/printed-page correspondence. It preserves rhetorical repetition and opening political wordplay, carries `வேதவித்து` as `Vedaviththu` rather than inventing an outside meaning, and explicitly records the quotation-punctuation irregularity `“சாவி’ பத்திரிகையில்` instead of silently treating it as different source wording.
 
 ## Multi-constituent efficiency policy
 
 Read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH_PROCESSING_GUIDE.md`.
 
-Eligible consecutive constituents may be advanced through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each speech remains a separate archive. Do not mix T1/T2/T3/English gates merely to fill the allowance.
+Eligible consecutive constituents may advance through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each remains a separate archive. Do not mix workflow gates merely to fill the allowance.
 
-At present only constituent 2 is eligible for E1 because constituent 3 has not yet completed Tamil. Therefore the next E1 iteration contains constituent 2 alone: **15 pages**.
+Only constituent 2 is currently eligible for E2, so the next E2 iteration is this constituent alone: **15 pages**.
 
 ## Exact next incomplete gate
 
-Run constituent 2 **English E1 first-pass translation — all 15 verified Tamil pages**, derived only from frozen `transcription-ta.md`. Preserve page correspondence, repetition and difficult source wording; do not begin E2 until E1 completes.
+Run constituent 2 **English E2 independent fidelity review — all 15 pages / PDF 19–33 / printed 18–32**. Compare every English page against frozen `transcription-ta.md`, record and consolidate confirmed corrections, and do not begin E3 until E2 passes.
