@@ -14,7 +14,7 @@
 
 - mapped: **36 / 36**;
 - archives started / source-gated: **4 / 36**;
-- Tamil T1 complete: **2 / 36**;
+- Tamil T1 complete: **4 / 36**;
 - Tamil T2 complete: **2 / 36**;
 - Tamil T3 complete / Tamil verified: **2 / 36**;
 - English E1/E2/E3 complete: **2 / 36**;
@@ -24,33 +24,31 @@ Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
 
 ## Active same-gate batch — constituents 3–4
 
-Both source/duplicate/boundary gates are **PASS / COMPLETE** and both standard speech trees now exist.
+Both source/duplicate/boundary gates are **PASS / COMPLETE** and Tamil T1 is now **COMPLETE for both**.
 
 ### 3 / 36 — `திருவள்ளுவர் விழா`
 
 - directory: `speeches/thiruvalluvar-vizha/`;
 - PDF **34–49** / printed **33–48** — **16 pages**;
-- opening: PDF 34 / printed p.33, `திருவள்ளுவர் விழா`;
-- final body: `எனவே முன்கூட்டியே விழித்துக் கொள்ளுங்கள் என்று உங்களை எல்லாம் கேட்டுக் கொள்கிறேன்.`;
-- separate closing note: `15-1-98 அன்று திருவள்ளுவர் விழாவில் ஆற்றிய உரை`;
-- date **1998-01-15**; event `திருவள்ளுவர் விழா`; role `ஆற்றிய உரை`;
-- venue not stated in inspected opening/closing evidence;
-- duplicate gate PASS — no pre-existing dedicated archive;
-- Tamil T1 **NOT STARTED — 0 / 16**.
+- date **1998-01-15**; event `திருவள்ளுவர் விழா`; role `ஆற்றிய உரை`; venue not stated in inspected opening/closing evidence;
+- Tamil T1 **COMPLETE — 16 / 16**;
+- Tamil state **`first-pass-complete`**;
+- Tamil T2 **READY / NOT STARTED — 0 / 16**.
+
+Priority T2 checks include `உரை வேற்றுமை`, `கலனாகிக்`, `திரைபடம்`, `துளைத்தெடுத்து`, names and monetary figures, quoted verse/punctuation, non-obvious page joins, and PDF 47–49 `ராணி`/Pongal material.
 
 ### 4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
 
 - directory: `speeches/indiya-suvishesha-thiruchabai-vizha/`;
 - PDF **50–53** / printed **49–52** — **4 pages**;
-- opening: PDF 50 / printed p.49, `இந்திய சுவிசேஷத் திருச்சபை விழா`;
-- final body: `பெருவிழாவிலே நாம் பூண வேண்டிய உறுதிமொழி என்று கூறி இந்த அளவில் உங்களிடமிருந்து விடை பெறுகிறேன்.`;
-- separate closing note: `16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`;
-- date **1998-01-16**; event `இந்திய சுவிசேஷத் திருச்சபை விழா`; role `ஆற்றிய உரை`;
-- venue not stated in inspected opening/closing evidence;
-- duplicate gate PASS — no pre-existing dedicated archive;
-- Tamil T1 **NOT STARTED — 0 / 4**.
+- date **1998-01-16**; event `இந்திய சுவிசேஷத் திருச்சபை விழா`; role `ஆற்றிய உரை`; venue not stated in inspected opening/closing evidence;
+- Tamil T1 **COMPLETE — 4 / 4**;
+- Tamil state **`first-pass-complete`**;
+- Tamil T2 **READY / NOT STARTED — 0 / 4**.
 
-The separate closing notes are metadata, not body text.
+Priority T2 checks include `கொள்‘கை’யிலும் ‘கை’`, names/denominational wording, the PDF 52 historical-name list, page continuations and final communal-harmony passage.
+
+The separate closing notes for both constituents remain metadata and are not part of the spoken bodies.
 
 ## Multi-constituent efficiency policy
 
@@ -58,4 +56,4 @@ Apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` with `SPEECH_PROCESSING_GUIDE.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T1 first-pass transcription for constituents 3–4 — 20 source pages total**. Transcribe each speech into its own `transcription-ta.md`, preserve page boundaries, synchronize both speech trees and collection controls, and stop before T2. Do not start constituent 5.
+Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**. Re-read all 20 pages directly against the scan, maintain separate correction/unresolved records, consolidate confirmed corrections into each transcript, and stop before T3. Do not start constituent 5.
