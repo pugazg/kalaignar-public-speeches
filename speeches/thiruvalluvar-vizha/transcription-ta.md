@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
 **Source range:** PDF **34–49** / printed **33–48**  
-**Tamil status:** `t2-complete-t3-pending` — T1 **16 / 16 COMPLETE**; T2 **16 / 16 PASS; 4 corrections; 0 unresolved**
+**Tamil status:** `verified-complete` / **FROZEN** — T1/T2/T3 COMPLETE; 16 / 16 pages
 
-> T2 strict visual fidelity audit re-read every source page directly against the scan. Four scan-confirmed T1 corrections have been consolidated. No unresolved Tamil reading remains. The Tamil layer is not yet frozen; T3 consolidation is the next gate.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All four T2 corrections are consolidated in the canonical body; no unresolved Tamil reading remains. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 34 / printed p.33
 
@@ -204,12 +204,12 @@
 
 `15-1-98 அன்று திருவள்ளுவர் விழாவில் ஆற்றிய உரை`
 
-## T2 completion note
+## T3 consolidation / freeze note
 
-Tamil T1 remains **COMPLETE — 16 / 16 pages**. Tamil T2 is **PASS / COMPLETE — 16 / 16 pages; 4 scan-confirmed corrections; 0 unresolved readings**.
+Tamil T1 is **COMPLETE — 16 / 16 pages**. Tamil T2 is **PASS / COMPLETE — 16 / 16 pages; 4 scan-confirmed corrections; 0 unresolved readings**. Tamil T3 is **PASS / COMPLETE — 16 / 16 page records checked; 0 additional corrections; 0 unresolved**.
 
-T2 confirmed the source-sensitive forms `உரை வேற்றுமை` and `கலனாகிக்`, all grant amounts/dates and names/initials, the Tirukkural and poetry quotations, all page-boundary continuations, and the PDF 47–49 `ராணி` / Pongal quotation sequence. The separate closing note remains metadata/evidence and not spoken body text.
+T3 confirmed PDF **34–49** / printed **33–48** occurs once in strict source order with no missing or duplicate page record. The four T2 corrections are consolidated in the body and the superseded readings remain only in this documented correction history, not as live body text. All non-obvious page-boundary continuations and the final body/source-note separation remain intact.
 
-The four T2 corrections consolidated above are: PDF 38 `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`; PDF 40 `திரைபடம்` → `திரைப்படம்`; PDF 41 `துளைத்தெடுத்து` → `துணைத்தெடுத்து`; PDF 44 `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
+The canonical Tamil layer is now **`verified-complete` / FROZEN**. Any later Tamil change requires new controlling-source evidence and dependent English re-verification.
 
-Tamil is **not yet frozen**. Exact next gate: **combined constituents 3–4 Tamil T3 consolidation/freeze — 20 source pages total**.
+Exact next gate: **combined constituents 3–4 English E1 first-pass translation — 20 verified Tamil pages total**.
