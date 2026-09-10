@@ -23,15 +23,20 @@ Opening heading: `திருவள்ளுவர் விழா`. The body e
 
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 16 / 16 pages**;
-- Tamil transcription state: **`first-pass-complete`**;
-- Tamil T2: **READY / NOT STARTED — 0 / 16**;
-- Tamil T3: **BLOCKED**;
+- Tamil T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
+- Tamil transcription state: **`first-pass-complete` pending T3 freeze**;
+- Tamil T3: **READY / NOT STARTED**;
 - English E1/E2/E3: **BLOCKED**.
 
-The complete first-pass body is in `transcription-ta.md`, with one page record for every PDF page **34–49**. The printed closing note is intentionally outside the speech body.
+T2 directly re-read PDF **34–49** against the controlling scans and consolidated four corrections:
 
-T2 must directly re-read every page. Priority rechecks include the source-sensitive forms `உரை வேற்றுமை`, `கலனாகிக்`, `திரைபடம்`, `துளைத்தெடுத்து`, all names/initials and grant figures, quoted Tirukkural/poetry punctuation, non-obvious page-boundary continuations, and the PDF 47–49 `ராணி`/Pongal quotation sequence.
+1. PDF 38: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
+2. PDF 40: `திரைபடம்` → `திரைப்படம்`.
+3. PDF 41: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
+4. PDF 44: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
+
+No unresolved Tamil reading remains. T2 also reconfirmed names, figures, quotations, page continuations, the `ராணி`/Pongal sequence and the final body/source-note boundary.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**. Constituent 3 contributes 16 pages and constituent 4 contributes 4. Keep audit/correction records separate, do not start T3 in the same activity, and do not start constituent 5.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm all corrections are consolidated exactly once, verify complete page order and boundaries, mark Tamil `verified-complete` only if clean, and stop before English or constituent 5.
