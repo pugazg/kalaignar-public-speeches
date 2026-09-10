@@ -1,10 +1,10 @@
 # Thiruvalluvar Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — E1 **16 / 16 pages COMPLETE**; E2 **16 / 16 PASS; 6 corrections; 0 unresolved**  
+**Status:** `verified-complete` — E1 **16 / 16 pages COMPLETE**; E2 **16 / 16 PASS; 6 corrections; 0 unresolved**; E3 **16 / 16 PASS; 6 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` (`verified-complete`)  
 **Source range:** PDF **34–49** / printed **33–48**
 
-> E1 was translated only from the frozen Tamil transcription. E2 then independently compared every English page against that frozen Tamil layer and consolidated six confirmed fidelity corrections. Source-page correspondence, repetitions, names, figures, quotations, source-sensitive wording and the final body/source-note boundary remain preserved. English is not yet finally verified; E3 is the next gate.
+> E1 was translated only from the frozen Tamil transcription. E2 independently reviewed all 16 pages and consolidated six corrections. E3 then rechecked the complete corrected English translation from beginning to end against frozen Tamil, consolidated six final fidelity corrections, and repeated the full verification with no further issue. English is now `verified-complete`.
 
 ## PDF 34 / printed p.33
 
@@ -30,7 +30,7 @@ It was during the period when Anna assumed the responsibility of government and 
 
 Those who had argued that the name “Tamil Nadu” was unnecessary were made to stand in the Assembly. Anna rose and said, “I will say ‘Tamil Nadu’ three times; all of you must say ‘Long live! Long live!’” Thus even those who had argued against the need for the name Tamil Nadu were made to say “Long live! Long live!” That distinction too belongs to Perarignar Anna.
 
-It was also during Anna’s time that, so that the rights of Tamils would not be damaged and so that a situation would not arise in the future in which the Tamil language was completely brought down, the declaration was made in the form of a clarion call that there would henceforth be no place for Hindi domination in Tamil Nadu and that Tamil and English alone would constitute the two-language policy. All of you know that this distinction belongs to the Kazhagam government formed under Anna’s leadership.
+It was also during Anna’s time that, so that the rights of Tamils would not be damaged and so that a situation would not arise in the future in which the Tamil language had utterly declined, the declaration was made in the form of a clarion call that there would henceforth be no place for Hindi domination in Tamil Nadu and that Tamil and English alone would constitute the two-language policy. All of you know that this distinction belongs to the Kazhagam government formed under Anna’s leadership.
 
 Following in Anna’s footsteps, on the basis of the service rendered by us—by me, the Professor and the other ministers—we have carried out many good measures for the growth of Tamil and the growth of Tamil culture,
 
@@ -102,7 +102,7 @@ Three months ago, our ministers Durai Murugan, Mullaivendhan and Aladi Aruna wen
 
 ★ In memory of Veeran Sundaralingam, “Sundaralingam Nagar,” consisting of two hundred houses, has been established for his descendants to live in, at a cost of about sixty lakh rupees! (applause)
 
-★ Likewise, the martyr and dramatist Viswanatha Das—the stage actor who raised the heroic cry against the white ruler, “Kokku parakkuthadi paappa,” and who died on the stage itself while acting—for that martyr Viswanatha Das, the house in which he lived at Tirumangalam in Madurai is being purchased, and a Viswanatha Das memorial hall is being established at a cost of 50 lakh rupees.
+★ Likewise, the martyr and dramatist Viswanatha Das—the stage actor who raised the heroic cry against the white man, “Kokku parakkuthadi paappa,” and who died on the stage itself while acting—for that martyr Viswanatha Das, the house in which he lived at Tirumangalam in Madurai is being purchased, and a Viswanatha Das memorial hall is being established at a cost of 50 lakh rupees.
 
 ★ Our man of literary wealth Kumari Ananthan often enlists my support. In a manner comparable to the line, “Friend, amid the trouble I found happiness,” I accept that trouble and, near the Kamarajar Memorial,
 
@@ -188,21 +188,21 @@ I read it in a weekly. Because I want you to enjoy the pleasure I received, I ha
 Do you know how our Tamilkudimagan, who wrote such an article, begins the article?
 
 “Dawn broke; the birds cried out.
-Breaking my sleepiness, I rose. As usual—
+Stretching myself, I rose. As usual—
 only afterwards did I remember that today was Pongal
 Day. When that memory came, I sprang up.
 This indeed is ‘Tamil Festival Day’. I rose
 thinking that it must be celebrated.”
 
-He says that all the village women apparently know from the very first day of Margazhi itself that Pongal is going to come. (loud laughter) But he alone, on Pongal morning, apparently rose while breaking his sleepiness, and only afterwards remembered that it was Pongal! (loud laughter)
+He says that all the village women apparently know from the very first day of Margazhi itself that Pongal is going to come. (loud laughter) But he alone, on Pongal morning, apparently rose stretching himself, and only afterwards remembered that it was Pongal! (loud laughter)
 
 I did not sleep the whole night. I thought, “Tomorrow morning is Pongal; I must get up early, wear new clothes, welcome all those who come and offer them greetings,” and so I stayed awake all night—
 
 ## PDF 49 / printed p.48
 
-I did not sleep. But he apparently got up in the morning as usual, stretching himself lazily.
+I did not sleep. But he apparently got up in the morning as usual, stretching himself.
 
-If even Tamilkudimagan, who is fostering Tamil, is like this! (loud applause, laughter) Only afterwards did he remember that it was Pongal Day. Only after seeing the sun did he remember it. I say this only as a joke. I told him the same thing. That very morning he came to my house to offer Pongal greetings. As soon as he arrived, I asked him, “What, did you get up at dawn stretching yourself lazily?” He laughed. He said, “Anna, I happened to write it that way; please leave it.” I am not going to leave it. One Tamilkudimagan may be corrected privately—but should we not correct all these Tamil people too? (loud applause)
+If even Tamilkudimagan, who is fostering Tamil, is like this! (loud applause, laughter) Only afterwards did he remember that it was Pongal Day. Only after seeing the sun did he remember it. I say this only as a joke. I told him the same thing. That very morning he came to my house to offer Pongal greetings. As soon as he arrived, I asked him, “What, did you get up at dawn stretching yourself?” He laughed. He said, “Anna, I happened to write it that way; please leave it.” I am not going to leave it. One Tamilkudimagan may be corrected privately—but should we not correct all these Tamil people too? (loud applause)
 
 Therefore all of you must know that Pongal Day is coming from the previous day itself. Only if you know it beforehand can you clean away all the dirt in the house. That is Bhogi—the festival of *removing* and casting away! All the dirt, rubbish and refuse must be cleared. In the same way, all the blind and obsolete customs that have spread through Tamil homes, the Tamil country and Tamil society must be removed. That is the Pongal we must celebrate. Therefore I ask all of you to wake up in advance.
 
@@ -210,19 +210,19 @@ Therefore all of you must know that Pongal Day is coming from the previous day i
 
 `Speech delivered at the Thiruvalluvar function on 15-1-98.`
 
-## E2 independent fidelity review note
+## E3 final end-to-end verification note
 
-English E1 is **COMPLETE — 16 / 16 pages**. English E2 is **PASS / COMPLETE — 16 / 16 pages checked; 6 confirmed corrections; 0 unresolved fidelity issues**.
+English E1 is **COMPLETE — 16 / 16 pages**. English E2 is **PASS / COMPLETE — 16 / 16 pages; 6 corrections; 0 unresolved**. English E3 is **PASS / COMPLETE — 16 / 16 pages; 6 final corrections; 0 unresolved fidelity issues**.
 
-E2 corrections:
+E3 corrections:
 
-1. PDF 34 / printed p.33: `holding the release function and address for the book` → **`delivering an address at the release function for the book`**, restoring the source relationship in `நூல் வெளியீட்டு விழா உரை நிகழ்த்தியும்`.
-2. PDF 38 / printed p.37: generic `must not become merely a “garden”` → **`the kottam must not become a thottam (“garden”)`**, preserving the explicit `கோட்டம்` / `தோட்டம்` wordplay.
-3. PDF 39 / printed p.38: inferred `lies in a ruined state` → **transparent retention of frozen Tamil `கலனாகிக்`**, avoiding an unsupported semantic completion of an opaque verified source form.
-4. PDF 41 / printed p.40: `often keeps prodding me` → **`often enlists my support`** for `என்னைத் துணைத்தெடுத்து`, removing the unsupported “prodding” sense.
-5. PDF 43 / printed p.42: `Professor of self-respect` → **`Professor of ethnic dignity`** for source epithet `இனமானப் பேராசிரியர்`.
-6. PDF 44 / printed p.43: added an English rendering alongside the quoted Tamil Kural, which E1 had preserved only in Tamil, so the quoted source content is not left untranslated in an English layer.
+1. PDF 36 / printed p.35: `the Tamil language was completely brought down` → **`the Tamil language had utterly declined`**, removing a causative agency not present in `அறவே வீழ்ந்து விட்டது`.
+2. PDF 41 / printed p.40: `against the white ruler` → **`against the white man`** for `வெள்ளையனுக்கு எதிராக`, removing the added `ruler` sense.
+3. PDF 48 / printed p.47, quoted article: `Breaking my sleepiness, I rose` → **`Stretching myself, I rose`** for `சோம்பல் முறித்துக் கொண்டே எழுந்தேன்`.
+4. PDF 48 / printed p.47, speaker’s comment: `rose while breaking his sleepiness` → **`rose stretching himself`**, preserving the same repeated source idiom.
+5. PDF 49 / printed p.48: `stretching himself lazily` → **`stretching himself`**, removing the added adverb while retaining `சோம்பல் முறித்து`.
+6. PDF 49 / printed p.48, direct question: `stretching yourself lazily?` → **`stretching yourself?`**, again removing wording not stated by the frozen Tamil.
 
-E2 independently reconfirmed every page PDF **34–49**, all numerical grants and dates, names and institutions, the page-boundary continuations, the `ராணி`/Pongal quotation, `சிற்றார்ப்புழத்தில்` retained transparently as `Sitrarppuzham`, the Bhogi/`போக்கி` wordplay, and the final body/source-note separation.
+After these six corrections were consolidated, E3 repeated the full PDF **34–49** Tamil→English comparison. Names, institutions, all figures and dates, page joins, quoted Kurals and poetry, the `கோட்டம்`/`தோட்டம்` wordplay, opaque `கலனாகிக்` and `சிற்றார்ப்புழத்தில்` transparency, the `ராணி`/Pongal sequence, Bhogi/`போக்கி` wordplay, and final body/source-note separation all passed with **0 further corrections / 0 unresolved issues**.
 
-English remains `fidelity-corrections-consolidated`, not `verified-complete`, until E3. Exact next gate: **combined constituents 3–4 English E3 final end-to-end verification — 20 pages total**.
+English is now **`verified-complete`**. Exact next gate: **combined constituents 3–4 repository-level archival closure**; do not start constituent 5 in the same activity.
