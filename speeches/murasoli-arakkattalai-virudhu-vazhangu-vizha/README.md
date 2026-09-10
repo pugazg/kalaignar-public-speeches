@@ -26,15 +26,16 @@ The opening heading is `முரசொலி அறக்கட்டளை வ
 | Tamil transcription | **`verified-complete` / FROZEN** |
 | English E1 | **COMPLETE — 15 / 15 pages** |
 | English E2 | **PASS / COMPLETE — 15 / 15; 6 corrections; 0 unresolved** |
-| English translation | **`fidelity-corrections-consolidated`** |
-| English E3 | **READY / NOT STARTED** |
+| English E3 | **PASS / COMPLETE — 15 / 15; 2 corrections; 0 unresolved** |
+| English translation | **`verified-complete`** |
+| Repository closure | **READY / NOT STARTED** |
 
-T2 completed in three five-page batches and produced **5** source-confirmed Tamil corrections with **0 unresolved** readings. T3 then confirmed all 15 page records in sequence and froze the Tamil with **0 additional corrections**.
+Tamil T2 produced **5** source-confirmed corrections with **0 unresolved** readings. T3 confirmed the complete 15-page sequence and froze Tamil with **0 additional corrections**.
 
-English E1 covered the complete PDF **19–33** / printed **18–32** range and was derived only from the frozen Tamil layer. E2 then independently compared every English page against that Tamil and produced **6 confirmed corrections / 0 unresolved fidelity issues**. The corrections restore an omitted departure verb on PDF 20, singular source wording on PDF 21, the `அழைத்தார்` relationship on PDF 25, the passive Thuglak relationship on PDF 28, remove added agency from the `கிடைத்திருக்கிறார்கள்` sentence on PDF 31, and restore the first-person closing speech act on PDF 33.
+English E2 independently compared every page against frozen Tamil and consolidated **6** fidelity corrections. E3 then performed a fresh end-to-end verification. Its first sweep made two final refinements: PDF 23 `men of skill` → `people of skill` for `வித்தகர்களுக்கு`, avoiding gender not stated in the frozen Tamil; and PDF 27 `Even if today...` → `Even though today...` for `இருந்தாலும்கூட`, restoring the source's factual concessive force. After consolidation, a second complete 15-page E3 sweep found **0 further corrections / 0 unresolved**.
 
-The frozen Tamil intentionally retains source-supported difficult forms including `வேதவித்து`, `வாடியவர்`, `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`. E2 confirmed their English treatment without importing outside wording. The PDF 30 mismatched quotation punctuation remains explicitly disclosed through a transparency note.
+The verified English continues to preserve the opening `இட ஒதுக்கீடு` / `தொகுதி` wordplay, the PDF 26 repetition, `Vedaviththu` as transliteration only, `வாடியவர்`, the PDF 30 quotation-punctuation transparency note, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, the PDF 32 pressure/close rhetoric, every page boundary, the final body sentence, and the separate closing note.
 
 ## Exact next gate
 
-Run English **E3 final end-to-end verification — all 15 pages / PDF 19–33 / printed 18–32**, rechecking the consolidated English against frozen `transcription-ta.md`. If clean, mark English `verified-complete`; repository closure remains a later gate.
+Run **repository-level archival closure for constituent 2 / 36**. Synchronize all speech and collection controls, update the root catalogue, mark this constituent fully archived, and advance the collection to constituent 3. Do not start constituent 3 source work until closure is complete.
