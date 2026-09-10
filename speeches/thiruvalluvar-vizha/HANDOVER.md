@@ -21,11 +21,14 @@
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 16 / 16 pages**;
 - English E2: **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved**;
-- English state: **`fidelity-corrections-consolidated`**;
-- English E3: **READY / NOT STARTED**.
+- English E3: **PASS / COMPLETE — 16 / 16; 6 final corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository archival closure: **READY / NOT STARTED**.
 
-E2 independently re-read the complete English translation against frozen Tamil and consolidated six corrections: PDF 34 book-release sentence; PDF 38 `கோட்டம்` / `தோட்டம்` wordplay; PDF 39 transparent handling of `கலனாகிக்`; PDF 41 `என்னைத் துணைத்தெடுத்து`; PDF 43 `இனமானப் பேராசிரியர்`; PDF 44 English rendering of the quoted Kural. No unresolved English fidelity issue remains. Preserve `சிற்றார்ப்புழத்தில்` transparently as represented in the E2-reviewed translation unless E3 finds a direct frozen-Tamil fidelity problem.
+E3 rechecked every corrected English page against frozen Tamil, consolidated six final fidelity corrections and then repeated the complete 16-page comparison with no further issue. The final corrections remove an added causative on PDF 36, remove added `ruler` on PDF 41, and correct four PDF 48–49 renderings of `சோம்பல் முறித்தல்`.
+
+Both Tamil and English are verified. Do not reopen either layer without new source/fidelity evidence.
 
 ## Exact next incomplete gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Constituent 3 contributes 16 pages and constituent 4 contributes 4 pages. Do not start repository closure or constituent 5 in the same activity.
+Run combined **repository-level archival closure for constituents 3–4**. Synchronize each speech, the parent collection and the root catalogue; mark both fully archived only if closure checks pass. Do not start constituent 5 in the same activity.
