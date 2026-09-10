@@ -49,15 +49,17 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 3 | `thiruvalluvar-vizha` | **Tamil + English `verified-complete`; repository closure next** |
-| 4 | `indiya-suvishesha-thiruchabai-vizha` | **Tamil + English `verified-complete`; repository closure next** |
+| 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 5–36 | — | not started |
 
-## Active same-gate batch
+## Next planned same-gate batch
 
-Constituents **3–4** remain paired under the ≤25-page policy, totaling **20 fully verified Tamil/English pages**:
+Constituents **5–6** form the next ≤25-page same-gate batch, totaling **16 source pages**:
 
-- 3 `thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — E3 **16/16 PASS; 6 final corrections; 0 unresolved**;
-- 4 `indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — E3 **4/4 PASS; 0 additional corrections; 0 unresolved**.
+- 5 `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு` — PDF **54–62** / printed **53–61** — **9 pages**;
+- 6 `திரைப்பட விருது வழங்கும் விழா` — PDF **63–69** / printed **62–68** — **7 pages**.
 
-Combined English E3: **20 / 20 pages PASS — 6 final corrections / 0 unresolved fidelity issues**. Exact next gate: **combined repository-level archival closure for constituents 3–4**. Constituent 5 is not part of this iteration.
+Neither constituent has been started. Constituent 7 is excluded because adding its 10 pages would raise the batch to 26 pages.
+
+Exact next gate: **combined source/duplicate/boundary gate for constituents 5–6 — 16 source pages total**. Stop before Tamil T1.
