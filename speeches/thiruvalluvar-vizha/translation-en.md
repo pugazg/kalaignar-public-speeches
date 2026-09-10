@@ -1,10 +1,10 @@
 # Thiruvalluvar Function — English translation
 
-**Status:** `first-pass-complete` — E1 **16 / 16 pages COMPLETE**  
+**Status:** `fidelity-corrections-consolidated` — E1 **16 / 16 pages COMPLETE**; E2 **16 / 16 PASS; 6 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` (`verified-complete`)  
 **Source range:** PDF **34–49** / printed **33–48**
 
-> E1 was translated only from the frozen Tamil transcription. Source-page correspondence, repetitions, names, figures, quoted material, source-sensitive wording and the final body/source-note boundary are retained. This is an English first pass, not yet fidelity-verified; E2 must independently compare every English page against the frozen Tamil.
+> E1 was translated only from the frozen Tamil transcription. E2 then independently compared every English page against that frozen Tamil layer and consolidated six confirmed fidelity corrections. Source-page correspondence, repetitions, names, figures, quotations, source-sensitive wording and the final body/source-note boundary remain preserved. English is not yet finally verified; E3 is the next gate.
 
 ## PDF 34 / printed p.33
 
@@ -12,7 +12,7 @@
 
 Following Thai Pongal, in this sequence of Tamil festivals, we are celebrating Thiruvalluvar Day with pride.
 
-On this day, we are presenting the Thiruvalluvar Award; holding the release function and address for the book *The Age of the Great Chola Kings*, prepared and published on behalf of the historical committee functioning under the leadership of C.E. Ramachandran as part of the history of Tamil Nadu; presenting prizes for outstanding books and honouring the fifty-six authors of those books, rather as fifty-six princes of fifty-six countries were honoured in olden times; and providing the monthly assistance given to four elderly Tamil scholars. I am greatly delighted to have received the opportunity to take part, along with all of you, in this distinguished and rare function.
+On this day, we are presenting the Thiruvalluvar Award; delivering an address at the release function for the book *The Age of the Great Chola Kings*, prepared and published on behalf of the historical committee functioning under the leadership of C.E. Ramachandran as part of the history of Tamil Nadu; presenting prizes for outstanding books and honouring the fifty-six authors of those books, rather as fifty-six princes of fifty-six countries were honoured in olden times; and providing the monthly assistance given to four elderly Tamil scholars. I am greatly delighted to have received the opportunity to take part, along with all of you, in this distinguished and rare function.
 
 When our Professor spoke about Sarangapani, who has received the Thiruvalluvar Award, he said that Sarangapani “is like a lamp placed inside a pot.” He added that that itself was good.
 
@@ -56,7 +56,7 @@ renovation work is now under way. Once those works are fully completed, the Indr
 
 ★ Scholar Anna’s house in Kanchipuram has been renovated at a cost of four lakh rupees.
 
-★ Valluvar Kottam—they spoke about it here. Award recipient Sarangapani spoke; Dr. Tamilkudimagan too explained it. Even without explanation, all of you know Valluvar Kottam. But all of you also know what Valluvar Kottam suffered during the five-year period. I am not saying this on the basis of *Murasoli*, or some other partisan paper. In neutral magazines such as *Kalki*, *Kumudam* and *Vikatan*, publications not tied to a political party, photographs were published showing the injustices taking place at Valluvar Kottam. You would have seen all those images. **You saw them; I saw them and shed tears.** With the feeling that Valluvar Kottam must be restored and must remain Valluvar *Kottam*, and must not become merely a “garden,”
+★ Valluvar Kottam—they spoke about it here. Award recipient Sarangapani spoke; Dr. Tamilkudimagan too explained it. Even without explanation, all of you know Valluvar Kottam. But all of you also know what Valluvar Kottam suffered during the five-year period. I am not saying this on the basis of *Murasoli*, or some other partisan paper. In neutral magazines such as *Kalki*, *Kumudam* and *Vikatan*, publications not tied to a political party, photographs were published showing the injustices taking place at Valluvar Kottam. You would have seen all those images. **You saw them; I saw them and shed tears.** With the feeling that Valluvar Kottam must be restored and must remain Valluvar *Kottam*; the *kottam* must not become a *thottam* (“garden”),
 
 ## PDF 39 / printed p.38
 
@@ -66,7 +66,7 @@ it has today been improved at a cost of 84.94 lakh rupees; you can now see the r
 
 ★ This government has provided 43.75 lakh rupees to the International Institute of Tamil Studies in Chennai.
 
-★ The Veerapandiya Kattabomman Fort at Panchalankurichi lies in a ruined state. Work to renovate that Kattabomman Fort is being carried out at a cost of 25 lakh rupees.
+★ The Veerapandiya Kattabomman Fort at Panchalankurichi lies in a state described in the frozen Tamil as `கலனாகிக்`. Work to renovate that Kattabomman Fort is being carried out at a cost of 25 lakh rupees.
 
 ★ Five lakh rupees has been spent for the maintenance of the artistic treasures of the temple at Gangaikonda Cholapuram.
 
@@ -104,7 +104,7 @@ Three months ago, our ministers Durai Murugan, Mullaivendhan and Aladi Aruna wen
 
 ★ Likewise, the martyr and dramatist Viswanatha Das—the stage actor who raised the heroic cry against the white ruler, “Kokku parakkuthadi paappa,” and who died on the stage itself while acting—for that martyr Viswanatha Das, the house in which he lived at Tirumangalam in Madurai is being purchased, and a Viswanatha Das memorial hall is being established at a cost of 50 lakh rupees.
 
-★ Our man of literary wealth Kumari Ananthan often keeps prodding me. In a manner comparable to the line, “Friend, amid the trouble I found happiness,” I accept that trouble and, near the Kamarajar Memorial,
+★ Our man of literary wealth Kumari Ananthan often enlists my support. In a manner comparable to the line, “Friend, amid the trouble I found happiness,” I accept that trouble and, near the Kamarajar Memorial,
 
 ## PDF 42 / printed p.41
 
@@ -122,7 +122,7 @@ In connection with the golden jubilee year of Indian Independence, this assistan
 
 I have mentioned these matters here in order to show that we have a duty of service toward everyone who has fostered Tamil in any field, and to tell you that we will continue to render this service to Tamil.
 
-Our Professor of self-respect spoke here about all the greatness and distinction of Thiruvalluvar. Our elder Sarangapani—perhaps I should not say elder, for he is actually one year younger than I am; I said elder because he is great in Tamil (loud applause)—has written on differences in interpretation. While speaking, the Professor said that the fact that many people have written commentaries on the Tirukkural according to their own thought and understanding adds strength to the Tirukkural and enriches it.
+Our Professor of ethnic dignity spoke here about all the greatness and distinction of Thiruvalluvar. Our elder Sarangapani—perhaps I should not say elder, for he is actually one year younger than I am; I said elder because he is great in Tamil (loud applause)—has written on differences in interpretation. While speaking, the Professor said that the fact that many people have written commentaries on the Tirukkural according to their own thought and understanding adds strength to the Tirukkural and enriches it.
 
 Even in my own case, when it came to finding an interpretation for the Tirukkural, once, while I was speaking with revolutionary poet Bharathidasan, he said, “All the old commentaries
 
@@ -132,6 +132,9 @@ have been written wrongly, to a degree that cannot be accepted,” and he gave o
 
 “தெய்வந் தொழாஅள் கொழுநன் தொழுதெழுவாள்
 பெய்யெனப் பெய்யும் மழை.”
+
+“She who worships not God but rises worshipping her husband—
+rain that falls when told, ‘Fall.’”
 
 Before considering Bharathidasan’s explanation of this Kural, we must first see the explanation that had already been given for it.
 
@@ -207,10 +210,19 @@ Therefore all of you must know that Pongal Day is coming from the previous day i
 
 `Speech delivered at the Thiruvalluvar function on 15-1-98.`
 
-## E1 first-pass note
+## E2 independent fidelity review note
 
-English E1 is **COMPLETE — 16 / 16 pages**. The translation is derived only from the frozen Tamil layer and preserves the complete PDF **34–49** page sequence, all numerical figures, named persons and institutions, quoted passages, and the final body/source-note separation.
+English E1 is **COMPLETE — 16 / 16 pages**. English E2 is **PASS / COMPLETE — 16 / 16 pages checked; 6 confirmed corrections; 0 unresolved fidelity issues**.
 
-The frozen Tamil form `சிற்றார்ப்புழத்தில்` on PDF 48 is opaque in context; E1 therefore preserves it transparently as the transliteration `Sitrarppuzham` rather than silently replacing it with an inferred reading. E2 must review that rendering directly against the frozen Tamil. The source-sensitive `கலனாகிக்` passage is translated conservatively as “lies in a ruined state,” and the PDF 49 Bhogi/`போக்கி` wordplay is retained by explicitly rendering the sense of removing/casting away.
+E2 corrections:
 
-English is not yet verified. Exact next gate: **combined constituents 3–4 English E2 independent fidelity review — 20 pages total**.
+1. PDF 34 / printed p.33: `holding the release function and address for the book` → **`delivering an address at the release function for the book`**, restoring the source relationship in `நூல் வெளியீட்டு விழா உரை நிகழ்த்தியும்`.
+2. PDF 38 / printed p.37: generic `must not become merely a “garden”` → **`the kottam must not become a thottam (“garden”)`**, preserving the explicit `கோட்டம்` / `தோட்டம்` wordplay.
+3. PDF 39 / printed p.38: inferred `lies in a ruined state` → **transparent retention of frozen Tamil `கலனாகிக்`**, avoiding an unsupported semantic completion of an opaque verified source form.
+4. PDF 41 / printed p.40: `often keeps prodding me` → **`often enlists my support`** for `என்னைத் துணைத்தெடுத்து`, removing the unsupported “prodding” sense.
+5. PDF 43 / printed p.42: `Professor of self-respect` → **`Professor of ethnic dignity`** for source epithet `இனமானப் பேராசிரியர்`.
+6. PDF 44 / printed p.43: added an English rendering alongside the quoted Tamil Kural, which E1 had preserved only in Tamil, so the quoted source content is not left untranslated in an English layer.
+
+E2 independently reconfirmed every page PDF **34–49**, all numerical grants and dates, names and institutions, the page-boundary continuations, the `ராணி`/Pongal quotation, `சிற்றார்ப்புழத்தில்` retained transparently as `Sitrarppuzham`, the Bhogi/`போக்கி` wordplay, and the final body/source-note separation.
+
+English remains `fidelity-corrections-consolidated`, not `verified-complete`, until E3. Exact next gate: **combined constituents 3–4 English E3 final end-to-end verification — 20 pages total**.
