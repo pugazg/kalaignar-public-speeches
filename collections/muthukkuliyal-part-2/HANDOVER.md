@@ -16,27 +16,33 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **9 / 36**;
-- Tamil T1 complete: **9 / 36**;
-- Tamil T2 complete: **9 / 36**;
-- Tamil T3 complete / Tamil verified: **9 / 36**;
-- English E1 complete: **9 / 36**;
-- English E2 complete: **9 / 36**;
-- English E3 complete: **9 / 36**;
-- fully archived: **6 / 36**.
+- mapped: **36 / 36**;
+- started / source-gated: **9 / 36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **9 / 36**;
+- English E1/E2/E3 complete: **9 / 36**;
+- fully archived: **9 / 36**.
 
-Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
 
-## Constituents 7–9 — durable English E3 result
+## Constituents 7–9 — durable closure result
 
-Tamil remains **`verified-complete` / FROZEN — 24/24 pages**. Combined English E1: **COMPLETE — 24/24 pages**. Combined English E2: **PASS / COMPLETE — 24/24 pages; 10 confirmed fidelity corrections; 0 unresolved issues**. Combined English E3: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved issues**.
+Combined repository-level archival closure: **PASS / COMPLETE — 3 constituents / 24 source pages**.
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10 E3 PASS; 0 additional corrections; 0 unresolved**.
-- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9 E3 PASS; 0 additional corrections; 0 unresolved**.
-- 9 `புத்தாண்டு இசைவிழா`: **5/5 E3 PASS; 0 additional corrections; 0 unresolved**.
+- **7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`** — PDF **70–79** / printed **69–78** — Tamil + English `verified-complete`; closure complete. PDF72 `தமிழ்நாட்டை என்` remains source-confirmed; date and venue remain unstated.
+- **8 `முத்தமிழ்ப் பேரவை விழா`** — PDF **80–88** / printed **79–87** — Tamil + English `verified-complete`; closure complete. `எண்ணியெண்ணி` is consolidated and PDF88 `அமைகிறேன்` remains source-confirmed.
+- **9 `புத்தாண்டு இசைவிழா`** — PDF **89–93** / printed **88–92** — Tamil + English `verified-complete`; closure complete. All three Tamil T2 corrections and the contents/heading title-spacing distinction remain preserved.
 
-The final corrected English was re-read against the frozen Tamil layer from beginning to end. All E2 corrections, page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source-sensitive notes, and separate closing notes passed final verification. Constituents 7–9 are now English `verified-complete`; repository closure remains pending. Constituent 10 remains outside the batch.
+English E2 across the batch produced **10 confirmed corrections / 0 unresolved**; E3 rechecked all **24/24** corrected English pages and required **0 additional corrections / 0 unresolved**. All constituent metadata, READMEs, audits, translation-review records and handovers are synchronized with the parent collection and root catalogue. No transcription or translation work remains pending for constituents 7–9.
+
+## Next same-gate batch
+
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, constituents **10–11** are the next eligible consecutive batch, totaling **19 source pages**:
+
+- 10 `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா` — PDF **94–102** / printed **93–101** — 9 pages;
+- 11 `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா` — PDF **103–112** / printed **102–111** — 10 pages.
+
+Constituent 12 is excluded because adding its 15 pages would take the iteration to 34 pages, above the 25-page maximum. Constituents 10–11 are not yet source-gated or started.
 
 ## Exact next incomplete gate
 
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+Combined **source / duplicate / boundary gate for constituents 10–11 — 19 source pages total**. Keep both as separate archives and stop before Tamil T1.
