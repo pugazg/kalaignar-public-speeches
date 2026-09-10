@@ -49,15 +49,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 3 | `thiruvalluvar-vizha` | **Tamil `verified-complete` / FROZEN; English E1 16/16 COMPLETE; E2 next** |
-| 4 | `indiya-suvishesha-thiruchabai-vizha` | **Tamil `verified-complete` / FROZEN; English E1 4/4 COMPLETE; E2 next** |
+| 3 | `thiruvalluvar-vizha` | **Tamil `verified-complete` / FROZEN; English E2 16/16 PASS; 6 corrections; 0 unresolved; E3 next** |
+| 4 | `indiya-suvishesha-thiruchabai-vizha` | **Tamil `verified-complete` / FROZEN; English E2 4/4 PASS; 1 correction; 0 unresolved; E3 next** |
 | 5–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **3–4** remain paired under the ≤25-page policy, totaling **20 verified Tamil / E1 English pages**:
+Constituents **3–4** remain paired under the ≤25-page policy, totaling **20 corrected E2-reviewed English pages**:
 
-- 3 `thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — E1 **16/16 COMPLETE**;
-- 4 `indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — E1 **4/4 COMPLETE**.
+- 3 `thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — E2 **16/16 PASS; 6 corrections; 0 unresolved**;
+- 4 `indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — E2 **4/4 PASS; 1 correction; 0 unresolved**.
 
-Combined English E1: **20 / 20 pages COMPLETE**. Exact next gate: **combined English E2 independent fidelity review for constituents 3–4 — 20 pages total**. Constituent 5 is not part of this iteration.
+Combined English E2: **20 / 20 pages PASS — 7 corrections / 0 unresolved fidelity issues**. Exact next gate: **combined English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Constituent 5 is not part of this iteration.
