@@ -24,33 +24,42 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 
 ### 10 / 36 — மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா
 
 - exact range: PDF **94–102** / printed **93–101** — **9 pages**;
-- opening: PDF94, constituent number `10`, title `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா`;
-- ending: PDF102 completes the body before separate source note;
-- source note: `18-4-98 அன்று மதுரையில் வழக்கறிஞர் சங்க 125-ஆவது ஆண்டு விழாவில் ஆற்றிய உரை`;
+- closing note: `18-4-98 அன்று மதுரையில் வழக்கறிஞர் சங்க 125-ஆவது ஆண்டு விழாவில் ஆற்றிய உரை`;
 - date: **18-04-1998**;
 - venue: **மதுரை** at city level only; no more specific venue inferred;
-- source-form distinction: title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` preserved;
-- duplicate search: **PASS — no dedicated archive found**;
-- unresolved source/provenance/boundary issues: **0**.
+- title/closing-note `ஆண்டுவிழா` / `ஆண்டு விழா` distinction preserved;
+- duplicate unresolved: **0**; boundary unresolved: **0**.
 
 ### 11 / 36 — வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா
 
 - exact range: PDF **103–112** / printed **102–111** — **10 pages**;
-- opening: PDF103, constituent number `11`, title `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா`;
-- ending: PDF112 completes the body before separate source note;
-- source note: `18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை`;
+- closing note: `18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை`;
 - date: **18-04-1998**;
-- venue: no separate geographic venue stated in inspected opening/closing evidence;
-- PDF113 begins constituent `12`, independently confirming the end boundary;
-- duplicate search: **PASS — no dedicated archive found**;
-- unresolved source/provenance/boundary issues: **0**.
+- no separate geographic venue stated;
+- PDF113 begins constituent 12 and confirms the end boundary;
+- duplicate unresolved: **0**; boundary unresolved: **0**.
 
-The complete PDF94–112 range was visually checked for sequential source continuity. Tamil speech-body transcription has **not** begun. The source PDF remains uncommitted.
+## Constituents 10–11 — Tamil T1 first-pass transcription
+
+Combined result: **COMPLETE — 19/19 source pages**.
+
+- **10 / 36:** PDF94–102 / pp.93–101 — **9/9 T1 COMPLETE**;
+- **11 / 36:** PDF103–112 / pp.102–111 — **10/10 T1 COMPLETE**;
+- canonical page records: **19/19**, each present exactly once and in source order;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- source closing notes: **preserved separately outside both speech bodies**;
+- T1 source method: direct visual reading of the controlling scans;
+- T2 has **NOT STARTED** and no T2 fidelity claim is made.
+
+T2 attention points include all page-boundary continuations, names/titles/numerals, quotations and unusual source forms. In constituent 11, PDF110 / printed p.109 visibly reads `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.`; T1 preserves it exactly for independent direct-scan re-check.
+
+The source PDF remains uncommitted.
 
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
-- Tamil T1 complete: **9/36**;
+- Tamil T1 complete: **11/36**;
 - Tamil T2 complete: **9/36**;
 - Tamil T3 complete / Tamil verified: **9/36**;
 - English E1/E2/E3 complete: **9/36**;
@@ -58,4 +67,4 @@ The complete PDF94–112 range was visually checked for sequential source contin
 
 ## Exact next gate
 
-Combined **Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**. Stop before T2.
+Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the scans; stop before T3.
