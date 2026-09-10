@@ -11,21 +11,28 @@ The separate closing note is metadata and is not part of the spoken/body transcr
 
 ## T1 first-pass transcription
 
-Status: **COMPLETE — 16 / 16 pages**.
+Status: **COMPLETE — 16 / 16 pages**. All page records PDF **34–49** / printed **33–48** were present before T2.
 
-All page records PDF **34–49** / printed **33–48** are now present in `transcription-ta.md` in source order. T1 was performed from direct rendered page images; no English stage was started.
+## T2 strict visual fidelity audit
 
-Important page-boundary continuations captured in T1 include PDF 34→35 (`அதுதான் நல்லது` → `என்று கூடச் சொன்னார்`), 36→37 (`ஆற்றி` → `வந்திருக்கின்றோம்`), 37→38 (`ஒரு கோடி ரூபாய்` → `செலவிலே`), 38→39 (`அந்த` → `உணர்வோடு`), 41→42 (`காமராஜர் நினைவிடம்,` → `ராஜாஜி நினைவு மண்டபம்...` inside the parenthetical), 43→44 (`பழைய காலத்து உரைகள் எல்லாம்` → `தவறாக...`), 44→45, 45→46, 46→47, 47→48 and 48→49.
+Status: **PASS / COMPLETE — 16 / 16 pages checked; 4 substantive corrections; 0 unresolved readings**.
 
-T2 recheck flags retained rather than silently normalized at T1 include `உரை வேற்றுமை`, `கலனாகிக்`, `திரைபடம்`, `துளைத்தெடுத்து`, names/initials, numerical grant figures, quoted verse/punctuation, and the `ராணி` quotation/pongal passage. These are first-pass readings only until T2 visually confirms or corrects them.
+Confirmed corrections:
+
+1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → **`நீங்களோ கண்டீர்கள்`**.
+2. PDF 40 / printed p.39: `திரைபடம்` → **`திரைப்படம்`**.
+3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → **`துணைத்தெடுத்து`**.
+4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → **`கருதுகிற நேரத்தில்`**.
+
+Every page PDF **34–49** was directly re-read against the scan. T2 also rechecked names/initials, numerical grant figures, quoted Tirukkural/poetry punctuation, source-sensitive wording, the PDF 47–49 `ராணி`/Pongal passage, and all non-obvious page-boundary continuations. No unresolved reading remains. All four corrections are consolidated in `transcription-ta.md`.
 
 ## Tamil workflow
 
 - T1: **COMPLETE — 16 / 16**;
-- T2: **READY / NOT STARTED — 0 / 16**;
-- T3: **BLOCKED** until T2 completes;
+- T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
+- T3: **READY / NOT STARTED**;
 - English: **BLOCKED** until Tamil is frozen.
 
 ## Exact next gate
 
-Run the combined constituents **3–4 Tamil T2 strict visual fidelity audit — 20 source pages total**. Audit every page against the scan, log and consolidate only source-confirmed corrections, keep constituent-specific records separate, and stop before T3.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm the four corrections occur exactly once, verify all page records and joins, freeze the Tamil layer if clean, and stop before English.
