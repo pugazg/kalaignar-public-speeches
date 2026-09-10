@@ -4,7 +4,7 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Constituent:** **5 / 36**  
 **Speech date:** 25-01-1998  
-**Venue:** `சென்னை வள்ளுவர் கோட்டம்` — established by the separate closing note  
+**Venue:** சென்னை வள்ளுவர் கோட்டம்  
 **Source-described role:** `ஆற்றிய பேருரை`
 
 ## Controlling source
@@ -14,27 +14,23 @@
 - Constituent range: PDF **54–62** / printed **53–61** — **9 pages**
 - Source binary committed: **No**
 
-## Source / duplicate / boundary gate
+The source/duplicate/boundary gate passed. The printed heading/contents use `சென்னைப் புறநகர்`; the separate closing note uses `சென்னை புறநகர்`. That source distinction is preserved.
 
-**PASS / COMPLETE.** Direct scan inspection confirmed the numbered opening on PDF 54 / printed p.53, continuous constituent range through PDF 62 / printed p.61, and a separate closing note after the speech body. Repository searches for the exact/obvious title variants found no pre-existing dedicated archive.
-
-The closing note reads:
-
-`25-1-98 அன்று சென்னை வள்ளுவர் கோட்டத்தில் நடைபெற்ற சென்னை - சென்னை புறநகர் வணிகர்கள் சங்க மாநாட்டில் ஆற்றிய பேருரை`
-
-The heading/contents form uses `சென்னைப் புறநகர்`; the closing note prints `சென்னை புறநகர்`. Preserve that source distinction rather than silently normalizing it.
-
-## Workflow state
+## Tamil workflow
 
 | Gate | State |
 |---|---|
-| Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first pass | **READY / NOT STARTED — 0 / 9** |
-| Tamil T2 strict visual audit | **BLOCKED** |
+| Tamil T1 first-pass transcription | **COMPLETE — 9 / 9 pages** |
+| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | **BLOCKED** |
-| English E1/E2/E3 | **BLOCKED pending verified Tamil** |
-| Repository closure | **NOT STARTED** |
+| Tamil state | `first-pass-complete` |
+
+T1 transcribes PDF **54–62** page by page and keeps the PDF 62 closing note outside the spoken body. The transcript remains provisional until T2.
+
+## English workflow
+
+Blocked until Tamil is `verified-complete` / frozen.
 
 ## Exact next gate
 
-Run combined **Tamil T1 first-pass transcription for constituents 5–6 — 16 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, keeping the two speech transcripts separate. Do not start T2 or constituent 7 in the same activity.
+Combined **Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Keep both correction logs separate and do not start T3 in the same activity.
