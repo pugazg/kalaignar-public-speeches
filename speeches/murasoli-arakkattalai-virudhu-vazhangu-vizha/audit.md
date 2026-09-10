@@ -39,30 +39,28 @@ The source itself uses `கோயம்புத்தூர் சென்ட�
 
 ### Batch 3 — PDF 29–33 / printed 28–32
 
-Each page was independently re-read directly against the rendered source scans, including all page transitions PDF 28→29, 29→30, 30→31, 31→32 and 32→33.
-
 Result: **PASS — 5 / 5 pages; 1 correction; 0 unresolved**.
-
-| PDF | Printed | T2 result |
-|---:|---:|---|
-| 29 | 28 | **PASS — no correction** |
-| 30 | 29 | **PASS — no correction** |
-| 31 | 30 | **PASS — 1 correction** |
-| 32 | 31 | **PASS — no correction** |
-| 33 | 32 | **PASS — no correction** |
 
 5. PDF 31 / printed p.30: `நடைபெறுகிறதென்றால்` → **`நடைபெற்றதென்றால்`** in the sentence beginning `அவர்கள் எடுத்துக் காட்டியதைப் போல...`.
 
-The following previously flagged readings were re-read and retained exactly as printed:
+The following previously flagged readings were re-read and retained exactly as printed: PDF 29 `வேதவித்து`, `வாடியவர்`; PDF 30 `“சாவி’ பத்திரிகையில்`; PDF 31 `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`; the complete PDF 32 1967 / கவியரங்கம் passage; and the PDF 33 final body sentence plus separate source closing note.
 
-- PDF 29: **`வேதவித்து`** and **`வாடியவர்`**;
-- PDF 30: mismatched source quotation **`“சாவி’ பத்திரிகையில்`**;
-- PDF 31: **`பாராட்டப் படுகின்ற`** and **`தொடர்ந்திட கிடைத்திருக்கிறார்கள்`**;
-- PDF 32: the complete 1967 / கவியரங்கம் and political-pressure passage;
-- PDF 33: final body sentence **`அவர்களை வாழ்க! வாழ்க! என்று வாழ்த்துகின்றேன்.`** and the separate source closing note.
+## T3 consolidation / freeze
 
-No uncertain glyph or unresolved reading remains anywhere in PDF **19–33** after T2. All five T2 corrections are consolidated into `transcription-ta.md`.
+Status: **PASS / COMPLETE — Tamil `verified-complete`**.
+
+T3 performed a repository-level consolidation check over the complete PDF **19–33** / printed **18–32** transcript. It confirmed:
+
+- all **15** page headings are present once and in sequence;
+- all five T2 corrections are present in the canonical transcript and no superseded reading remains in the speech text;
+- page-boundary continuations are intact, including 23→24, 25→26, 27→28, 28→29, 29→30, 30→31, 31→32 and 32→33;
+- no speech page or paragraph is duplicated or omitted;
+- the body still ends with `அவர்களை வாழ்க! வாழ்க! என்று வாழ்த்துகின்றேன்.`;
+- the printed note `13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை` remains explicitly outside the spoken/body transcription;
+- unresolved Tamil readings: **0**.
+
+T3 required **0 additional text corrections**. The Tamil layer is now frozen. Any later Tamil change requires new source evidence and dependent English re-verification.
 
 ## Exact next gate
 
-Run Tamil **T3 consolidation / freeze** across the complete 15-page transcript. T3 must check continuity, correction consolidation, page boundaries, final body/source-note separation and control consistency. English remains blocked until Tamil becomes `verified-complete`.
+English **E1 first-pass translation — all 15 verified Tamil pages**, derived only from frozen `transcription-ta.md`. Do not translate from OCR, the PDF, outside sources, or historical knowledge.
