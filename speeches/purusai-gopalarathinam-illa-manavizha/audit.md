@@ -36,10 +36,19 @@ T3 confirmed PDF **70–79** appears exactly once and in order, the source-confi
 
 Tamil is now **`verified-complete` / FROZEN**. Later Tamil changes require new direct-source evidence and dependent English re-verification.
 
+## English E1 — first-pass translation
+
+- result: **COMPLETE — 10/10 pages**;
+- translation source: **frozen `transcription-ta.md` only**;
+- missing English page records: **0**;
+- E2 independent fidelity review: **READY / NOT STARTED**.
+
+E1 preserves the Tamil page correspondence, rhetorical structure, names, numerals, performance markers and the separate source closing note. It remains provisional until E2.
+
 ## Current state
 
-Tamil T1/T2/T3 **COMPLETE — 10/10**. Tamil is **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**; E2/E3 and repository closure remain blocked/pending.
+Tamil T1/T2/T3 **COMPLETE — 10/10**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 10/10**; E2 is **READY / NOT STARTED**; E3 and repository closure remain blocked/pending.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
+Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
