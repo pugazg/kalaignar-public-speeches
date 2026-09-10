@@ -8,7 +8,7 @@ Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every 
 
 ## E2 corrections
 
-1. PDF 55 / printed p.54: restored explicit second-person agency in the opening continuation: **“You have offered ... and you have also placed ...”**.
+1. PDF 55 / printed p.54: restored explicit second-person agency while preserving the PDF54→55 continuation: **“your / speeches of greeting and praise have been offered by you, and you have also placed ...”**.
 2. PDF 59 / printed p.58: corrected the scope of `39 இனங்கள்` so the thirty-nine categories cover the stated life-saving and indigenous medicines.
 3. PDF 59 / printed p.58: removed unsupported explanatory wording from `மரவள்ளிக் கிழங்கு கப்பி, திப்பி`, retaining **“tapioca `kappi` and `thippi`”**.
 4. PDF 60 / printed p.59: restored both repeated terms in `வரி இழப்பை, வருவாய் இழப்பை` as **“tax loss and revenue loss”**.
