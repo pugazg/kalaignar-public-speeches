@@ -3,7 +3,8 @@
 **English E1:** **COMPLETE — 9 / 9 pages**  
 **English E2:** **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved**  
 **English E3:** **PASS / COMPLETE — 9 / 9; 2 final corrections; 0 unresolved**  
-**English state:** **`verified-complete`**
+**English state:** **`verified-complete`**  
+**Repository closure:** **PASS / COMPLETE**
 
 Tamil remains **`verified-complete` / FROZEN** after one late direct-scan source correction discovered during E3: PDF59 `கனிமண்` → `களிமண்`.
 
@@ -21,6 +22,6 @@ Tamil remains **`verified-complete` / FROZEN** after one late direct-scan source
 
 After consolidation, E3 repeated the complete PDF54–62 Tamil→English comparison. Figures, percentages, rupee amounts, tax-item lists, names, page joins, election rhetoric, applause markers, source-sensitive transliterations, final body and the separate source closing note all passed with **0 further corrections / 0 unresolved issues**.
 
-## Exact next gate
+## Closure
 
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+English is `verified-complete`, all corrections are consolidated, repository-level archival closure is complete, and no further English gate is pending.
