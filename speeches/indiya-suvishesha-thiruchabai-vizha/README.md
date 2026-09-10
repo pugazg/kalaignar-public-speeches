@@ -27,11 +27,15 @@ PDF 50 / printed p.49 opens under the heading `இந்திய சுவி�
 | Duplicate/source/boundary gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 4 / 4 pages** |
 | Tamil T2 strict visual audit | **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved** |
-| Tamil T3 | **READY / NOT STARTED** |
-| English E1/E2/E3 | **BLOCKED** |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 4 / 4; 0 additional corrections** |
+| Tamil canonical status | **`verified-complete` / FROZEN** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | **BLOCKED** |
 
-T2 directly re-read every page PDF **50–53** against the controlling scans. The `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list (`கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`), all three cross-page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage were confirmed. No source-confirmed correction was required and no unresolved reading remains.
+T2 directly re-read every page PDF **50–53** against the controlling scans and confirmed the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list, all three cross-page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage. No correction was required.
+
+T3 then verified all four page records occur once in strict source order, no page is missing or duplicated, all page continuations and the final body/source-note separation remain intact, and **0 additional corrections** were required.
 
 ## Exact next gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Verify complete page order and boundaries, freeze each Tamil layer independently if clean, and do not begin English or constituent 5 in the same activity.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Translate only from the frozen Tamil layers, keep the two speech archives separate, and do not start E2 or constituent 5 in the same activity.
