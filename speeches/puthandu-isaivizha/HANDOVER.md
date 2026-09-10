@@ -16,10 +16,17 @@
 
 ## Durable state
 
-Tamil T1/T2/T3: **COMPLETE — 5/5; `verified-complete` / FROZEN**. English E1: **5/5 COMPLETE**. English E2: **PASS — 5/5; 3 corrections; 0 unresolved**. English E3: **PASS — 5/5; 0 additional corrections; 0 unresolved**; final English is **`verified-complete`**.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1/T2/T3: **COMPLETE — 5/5**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **5/5 COMPLETE**;
+- English E2: **PASS — 5/5; 3 corrections; 0 unresolved**;
+- English E3: **PASS — 5/5; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**.
 
-All three Tamil T2 corrections remain consolidated: PDF90 `குறிப்பிட்டிருக்கின்றார்` and `தேர்வுத் தந்து`, and PDF93 `மனப்பான்மை விசுவிற்கும்`. The contents `புத்தாண்டு இசை விழா` versus heading/closing-note `புத்தாண்டு இசைவிழா` distinction remains preserved. No Tamil text was changed during E3.
+All three Tamil T2 corrections remain consolidated: PDF90 `குறிப்பிட்டிருக்கின்றார்` and `தேர்வுத் தந்து`, and PDF93 `மனப்பான்மை விசுவிற்கும்`. The contents `புத்தாண்டு இசை விழா` versus heading/closing-note `புத்தாண்டு இசைவிழா` distinction remains preserved. E3 found no further English issue. The combined constituents 7–9 closure synchronized this speech with the parent collection and root catalogue.
 
-## Exact next gate
-
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.
