@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
 **Source range:** PDF 19–33 / printed pp. 18–32  
-**Tamil status:** T1 `first-pass-complete` — 15/15; T2 `in-progress` — 10/15 pages checked
+**Tamil status:** T1 `first-pass-complete` — 15/15; T2 `complete` — 15/15 pages checked; 5 corrections; 0 unresolved
 
-> T1 is complete for all 15 pages. T2 has directly re-read PDF 19–28 / printed 18–27 against the source scans, with 4 scan-confirmed corrections consolidated and 0 unresolved readings. PDF 29–33 remain first-pass only until the final T2 batch passes.
+> T1 is complete for all 15 pages. T2 independently re-read PDF 19–33 / printed 18–32 directly against the source scans. Five scan-confirmed corrections have been consolidated below and no unresolved reading remains. Tamil is not yet frozen; T3 consolidation/freeze is the next gate.
 
 ## PDF 19 / printed p.18
 
@@ -121,7 +121,7 @@
 
 ஈரோடு தமிழன்பன்; அவர் இங்கே சொன்னார். “ஈரோடு என்கிற அடைமொழியையே, கருணாநிதி தான் என்னோடு ஒட்ட வைத்தார்” என்று குறிப்பிட்டார். இங்கே தமிழன்பனின் கவிதைகளையும் கேட்டீர்கள். அவர் எழுதிய கவிதைகளைப் பற்றி விமர்சனங்கள் செய்த நம்முடைய கவிக்கோ அப்துல் ரகுமான் அவர்களுடைய பேச்சையும் கேட்டீர்கள். எப்படிப்பட்ட ஆற்றலாளர்கள் தமிழகத்திலே தமிழை வாழ வைக்க, தமிழர்களுக்குத் தொண்டாற்ற, தமிழ்ப் பணியை தொடர்ந்திட கிடைத்திருக்கிறார்கள் என்பதை எண்ணி எண்ணி நாம் பெருமையடையலாம்.
 
-அவர்கள் எடுத்துக் காட்டியதைப் போல, ஒவ்வொரு கவியரங்கமும், பல்லாயிரக்கணக்கான மக்கள் நிரம்பி வழியக் கூடிய அளவிற்கு நடைபெறுகிறதென்றால், அடுத்து நடைபெறுகின்ற கவியரங்கத்திற்கும் அதே போன்று பெருந்திரளாக மக்கள் வந்தார்கள் என்றால், அதற்கெல்லாம் காரணம், தமிழன்பனைப் போல அப்துல்
+அவர்கள் எடுத்துக் காட்டியதைப் போல, ஒவ்வொரு கவியரங்கமும், பல்லாயிரக்கணக்கான மக்கள் நிரம்பி வழியக் கூடிய அளவிற்கு நடைபெற்றதென்றால், அடுத்து நடைபெறுகின்ற கவியரங்கத்திற்கும் அதே போன்று பெருந்திரளாக மக்கள் வந்தார்கள் என்றால், அதற்கெல்லாம் காரணம், தமிழன்பனைப் போல அப்துல்
 
 ## PDF 32 / printed p.31
 
