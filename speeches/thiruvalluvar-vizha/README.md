@@ -27,18 +27,15 @@ PDF 34 / printed p.33 opens under the heading `திருவள்ளுவர
 | Duplicate/source/boundary gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 16 / 16 pages** |
 | Tamil T2 strict visual audit | **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved** |
-| Tamil T3 | **READY / NOT STARTED** |
-| English E1/E2/E3 | **BLOCKED** |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 16 / 16; 0 additional corrections** |
+| Tamil canonical status | **`verified-complete` / FROZEN** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | **BLOCKED** |
 
-T2 directly re-read every page against the controlling scans. Four source-confirmed corrections were consolidated into `transcription-ta.md`:
+T2 directly re-read every page against the controlling scans and consolidated four source-confirmed corrections: PDF 38 `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`; PDF 40 `திரைபடம்` → `திரைப்படம்`; PDF 41 `துளைத்தெடுத்து` → `துணைத்தெடுத்து`; PDF 44 `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
 
-1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
-2. PDF 40 / printed p.39: `திரைபடம்` → `திரைப்படம்`.
-3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
-4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
-
-All remaining source-sensitive forms, names, figures, quotations and page-boundary continuations were rechecked with **0 unresolved readings**. The separate source closing note remains outside the speech body.
+T3 then checked all 16 page records in strict PDF/printed-page order, confirmed no page was missing or duplicated, confirmed the corrected readings are live in the body while superseded forms survive only in correction history, rechecked page-boundary continuations and the final body/source-note separation, and made **0 additional corrections**.
 
 ## Exact next gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Confirm all T2 corrections are consolidated once, check every page boundary and page record, freeze each Tamil layer independently if clean, and do not begin English or constituent 5 in the same activity.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Translate only from the frozen Tamil layers, keep the two speech archives separate, and do not start E2 or constituent 5 in the same activity.
