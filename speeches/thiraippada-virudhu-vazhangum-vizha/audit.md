@@ -9,26 +9,34 @@
 - duplicate check: **PASS — no existing dedicated archive found**;
 - boundary mapping: **PASS / COMPLETE**;
 - closing note verified separately from speech body;
-- speech date: **30-01-1998**;
-- source-described role: `ஆற்றிய உரை`;
+- date: **30-01-1998**;
+- role: `ஆற்றிய உரை`;
 - venue: **not stated in inspected opening/closing evidence**.
 
 ## Tamil T1
 
 **COMPLETE — 7 / 7 pages.**
 
-The first-pass transcription covers PDF 63–69 in order, preserves page boundaries and keeps the separate PDF 69 closing note outside the spoken/body transcription.
+## Tamil T2 — strict direct-scan fidelity audit
 
-T1 is provisional. No T2 source-fidelity corrections have yet been logged, and no Tamil page is verified/frozen yet.
+**PASS / COMPLETE — 7 / 7 pages; 4 source-confirmed corrections; 0 unresolved.**
+
+Confirmed corrections:
+
+1. PDF 65 / printed p.64: `தனிக்கைக்குப்` → **`தணிக்கைக்குப்`**.
+2. PDF 65 / printed p.64: `தனிக்கையின்` → **`தணிக்கையின்`**.
+3. PDF 68 / printed p.67: `நான்தோறும்` → **`நாள்தோறும்`**.
+4. PDF 68 / printed p.67: `கூட்டி வைத்து சொல்லியிருக்கிறார்கள்` → **`கூட்டி வைத்தும் சொல்லியிருக்கிறார்கள்`**.
+
+All other PDF 63–69 wording, names, award titles, figures, page joins, final body and separate source note passed direct scan review.
 
 ## Current state
 
 - Tamil T1: **COMPLETE — 7/7**;
-- Tamil T2: **READY / NOT STARTED**;
-- Tamil T3: **BLOCKED**;
-- English: **BLOCKED pending Tamil verification**;
-- unresolved T1 source holds: **0 recorded**.
+- Tamil T2: **PASS / COMPLETE — 7/7; 4 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**;
+- English: **BLOCKED pending frozen Tamil**.
 
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Re-read every page independently against the scans, log only source-confirmed corrections, and stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Stop before English or constituent 7.
