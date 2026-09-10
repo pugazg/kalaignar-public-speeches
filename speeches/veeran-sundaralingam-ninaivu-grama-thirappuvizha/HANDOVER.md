@@ -16,8 +16,10 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Duplicate unresolved **0**; boundary unresolved **0**. PDF 112 separately prints `18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை`, establishing date **18-04-1998** and role `ஆற்றிய உரை`. No separate geographic venue is stated; PDF 113 begins constituent 12 and confirms the ending boundary. Tamil T1 has **NOT STARTED**; all later gates are blocked.
+Source / duplicate / boundary gate: **PASS / COMPLETE**. Duplicate unresolved **0**; boundary unresolved **0**. PDF 112 separately prints `18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை`, establishing date **18-04-1998** and role `ஆற்றிய உரை`. No separate geographic venue is stated; PDF 113 begins constituent 12 and confirms the ending boundary.
+
+Tamil T1: **COMPLETE — 10/10 pages**. The canonical transcript covers PDF103–112 exactly once and preserves the separate closing note outside the speech body. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The unusual PDF110 reading `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is intentionally preserved for direct T2 re-check. Tamil remains **not yet verified**; T2 and T3 are pending and English remains blocked.
 
 ## Exact next gate
 
-Combined **Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**. Stop before T2.
+Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Stop before T3.
