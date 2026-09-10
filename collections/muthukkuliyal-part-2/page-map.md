@@ -51,12 +51,12 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil verified/FROZEN; English E1 COMPLETE — 9/9; E2 next** |
-| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil verified/FROZEN; English E1 COMPLETE — 7/7; E2 next** |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil verified/FROZEN; English E1/E2 COMPLETE — E2 4 corrections / 0 unresolved; E3 next** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil verified/FROZEN; English E1/E2 COMPLETE — E2 2 corrections / 0 unresolved; E3 next** |
 | 7–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 pages**. Both Tamil layers are `verified-complete` / FROZEN, and combined English E1 is now **16 / 16 pages COMPLETE**. The two English translations remain provisional pending independent E2 fidelity review.
+Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 pages**. Both Tamil layers are `verified-complete` / FROZEN. Combined English E1 is **16/16 COMPLETE** and combined E2 is **16/16 PASS — 6 corrections / 0 unresolved fidelity issues**. All E2 corrections are consolidated in the two separate English translations.
 
-Exact next gate: **combined English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Constituent 7 remains outside this iteration.
+Exact next gate: **combined English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Constituent 7 remains outside this iteration.
