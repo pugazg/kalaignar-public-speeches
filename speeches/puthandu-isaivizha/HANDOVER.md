@@ -24,8 +24,9 @@
 - Tamil T2: **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved**;
 - Tamil T3: **PASS / COMPLETE — 5/5; 0 additional corrections; 0 unresolved**;
 - Tamil state: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**;
+- English E1: **COMPLETE — 5/5**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED pending E2**;
 - repository closure: **NOT STARTED**.
 
 T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans. Preserve the contents form `புத்தாண்டு இசை விழா` separately from the constituent heading/closing-note form `புத்தாண்டு இசைவிழா`.
@@ -34,4 +35,4 @@ T3 consolidation confirmed all 5 page records exactly once and in order, all T2 
 
 ## Exact next incomplete gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
+Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
