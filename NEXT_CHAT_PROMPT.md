@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 7–9 English E3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 7–9 repository closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection:
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active c
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–6 are CLOSED / FULLY ARCHIVED**. Constituents **7–9 have Tamil T1/T2/T3 COMPLETE and are `verified-complete` / FROZEN — 24/24 pages**. English E1 and E2 are **COMPLETE — 24/24 pages**. Do not alter frozen Tamil unless genuinely new direct-source evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–6 are CLOSED / FULLY ARCHIVED**. Constituents **7–9 have Tamil T1/T2/T3 COMPLETE and are `verified-complete` / FROZEN — 24/24 pages**. English E1, E2 and E3 are **COMPLETE — 24/24 pages**. Do not alter frozen Tamil unless genuinely new direct-source evidence appears.
 
 ## Controlling source
 
@@ -17,11 +17,7 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–6 ar
 - physical scans: **425**
 - source PDF must **not** be committed
 
-For English verification, frozen `transcription-ta.md` is the authoritative Tamil layer. Do not use outside sources to rewrite the speech.
-
-## Mandatory startup
-
-Read `SPEECH_PROCESSING_GUIDE.md`, `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, collection `HANDOVER.md`, this prompt, collection controls, and each constituent 7–9 `README.md`, `metadata.json`, `audit.md`, `HANDOVER.md`, `transcription-ta.md`, `translation-en.md`, and `translation-review.md`.
+For final repository verification, frozen `transcription-ta.md` is the authoritative Tamil layer and the E3-verified `translation-en.md` is the authoritative English layer. Do not use outside sources to rewrite the speech.
 
 ## Durable state
 
@@ -30,23 +26,23 @@ Read `SPEECH_PROCESSING_GUIDE.md`, `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, 
 - Tamil T1/T2/T3 complete / Tamil verified: **9 / 36**
 - English E1 complete: **9 / 36**
 - English E2 complete: **9 / 36**
-- English E3 complete: **6 / 36**
+- English E3 complete: **9 / 36**
 - fully archived: **6 / 36**
 
-### E2 result for active batch
+### E3 result for active batch
 
-Combined English E2: **PASS / COMPLETE — 24/24 pages; 10 confirmed fidelity corrections; 0 unresolved**.
+Combined English E3: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved**.
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10 E2 PASS; 4 corrections; 0 unresolved**. PDF72 `தமிழ்நாட்டை என்` and PDF76 `சில மாதம் மந்திரிகள்` are transparently source-noted.
-- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9 E2 PASS; 3 corrections; 0 unresolved**. `சென்னை` is preserved rather than normalized; unmatched PDF87 source punctuation is explicitly noted.
-- 9 `புத்தாண்டு இசைவிழா`: **5/5 E2 PASS; 3 corrections; 0 unresolved**. Difficult PDF90 `தேர்வுத் தந்து` is explicitly source-noted; title-spacing distinction remains preserved.
+- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10 E3 PASS; 0 additional corrections; 0 unresolved**.
+- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9 E3 PASS; 0 additional corrections; 0 unresolved**.
+- 9 `புத்தாண்டு இசைவிழா`: **5/5 E3 PASS; 0 additional corrections; 0 unresolved**.
+
+All E2 corrections are consolidated. Page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source-sensitive notes, and separate closing notes were verified. Constituents 7–9 are now English `verified-complete`.
 
 ## Exact activity
 
-Perform **combined English E3 final end-to-end verification for constituents 7–9 — all 24 pages**. Re-read each corrected English translation from beginning to end against its frozen Tamil layer. Verify that all E2 corrections are consolidated and catch any remaining omission, addition, reversal, source-sensitive normalization, name/title/numeral error, lost repetition, page-boundary omission, or closing-note contamination. Consolidate only confirmed final corrections and synchronize constituent + collection controls.
+Perform **combined repository-level archival closure for constituents 7–9 — all 24 pages**. Verify final repository consistency, close/archive constituents 7–9, synchronize collection controls, and update the next gate. Do not alter frozen Tamil or final English unless genuinely new direct-source evidence appears.
 
 ## STOP RULE
 
-Stop after combined English E3. **Do not perform repository closure or start constituent 10 in the same activity.**
-
-If E3 passes for all 24 pages, the exact next gate becomes **combined repository-level archival closure for constituents 7–9**.
+Stop after repository closure for constituents 7–9. **Do not start constituent 10 in the same activity.**
