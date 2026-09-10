@@ -14,20 +14,21 @@
 - Constituent range: PDF **89–93** / printed **88–92** — **5 pages**
 - Source binary committed: **No**
 
-The source/duplicate/boundary gate is **PASS / COMPLETE**. PDF 89 / printed p.88; numbered constituent 9 with page heading புத்தாண்டு இசைவிழா; contents form is புத்தாண்டு இசை விழா. The speech body ends on PDF 93 / printed p.92 before the separate source closing note `14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை`.
-The contents entry is `புத்தாண்டு இசை விழா`, while the constituent heading and closing note use `புத்தாண்டு இசைவிழா`; both source forms are preserved without normalization.
+The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source closing note is `14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை`. Preserve the contents form `புத்தாண்டு இசை விழா` separately from the constituent heading/closing-note form `புத்தாண்டு இசைவிழா`.
 
-## Workflow
+## Tamil workflow
 
 | Gate | State |
 |---|---|
-| Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 5/5** |
-| Tamil T2 visual audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | **BLOCKED pending T2** |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
+| Tamil state | `t2-complete` |
 | English E1/E2/E3 | **BLOCKED pending verified Tamil** |
 | Repository closure | **NOT STARTED** |
 
+T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans.
+
 ## Exact next gate
 
-Combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total. Stop before T3, English, repository closure, or constituent 10.
+Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Do not start English, repository closure, or constituent 10 in the same activity.
