@@ -19,17 +19,15 @@
 ## Durable state
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
-- duplicate unresolved: **0**;
-- boundary unresolved: **0**;
+- duplicate unresolved: **0**; boundary unresolved: **0**;
 - Tamil T1: **COMPLETE — 10/10**;
-- missing T1 page records: **0**;
-- Tamil T2: **READY / NOT STARTED**;
-- Tamil T3: **BLOCKED pending T2**;
+- Tamil T2: **PASS / COMPLETE — 10/10; 0 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**;
 - English E1/E2/E3: **BLOCKED pending verified Tamil**;
 - repository closure: **NOT STARTED**.
 
-Do not infer a date or venue from body context. The source closing note remains separate from the speech body. T1 attention points are recorded in `audit.md` and `transcription-ta.md` for direct-scan T2 review.
+No T2 transcription correction was required. PDF72 / printed p.71 `தமிழ்நாட்டை என்` was re-read and confirmed as printed. Do not infer a date or venue from body context. The source closing note remains separate from the speech body.
 
 ## Exact next incomplete gate
 
-Combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total. Stop before T3, English, repository closure, or constituent 10.
+Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Stop before English, repository closure, or constituent 10.
