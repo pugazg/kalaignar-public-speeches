@@ -39,6 +39,8 @@ For audio or video sources, also read:
 | `kalaivanar-nsk-memorial-day` | கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை | Tamil Digital Library MP3, 00:07:23.559 | Not stated in source | **Verified complete - 12/12 audio segments** | **Verified complete - 12/12 timestamp sections** |
 | `desiya-ilainjar-kondatta-thodakka-vizha` | தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.11–17 | 12.01.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | முரசொலி அறக்கட்டளை விருது வழங்கு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.18–32 | 13.01.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
+| `thiruvalluvar-vizha` | திருவள்ளுவர் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.33–48 | 15.01.1998 | **Verified complete - 16/16 speech pages** | **Verified complete - 16/16 speech pages** |
+| `indiya-suvishesha-thiruchabai-vizha` | இந்திய சுவிசேஷத் திருச்சபை விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.49–52 | 16.01.1998 | **Verified complete - 4/4 speech pages** | **Verified complete - 4/4 speech pages** |
 
 ## Repository layout
 
@@ -149,3 +151,19 @@ The archival workflow is complete for constituent **2 / 36** of `முத்த
 Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**. English E2 produced **6 corrections / 0 unresolved**. E3 made two final refinements—`men of skill` → `people of skill` and `Even if today...` → `Even though today...`—then repeated the complete 15-page Tamil→English comparison with **0 further corrections / 0 unresolved**.
 
 The archive preserves the opening `இட ஒதுக்கீடு` / `தொகுதி` wordplay, `Vedaviththu` as transliteration only, the PDF 30 quotation-punctuation transparency note, difficult source-supported wording, rhetorical repetition, every page transition, and the final body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### திருவள்ளுவர் விழா
+
+The archival workflow is complete for constituent **3 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **34–49** / printed pages **33–48**. The separate closing note establishes the speech date as **15.01.1998**, event wording `திருவள்ளுவர் விழா`, and role `ஆற்றிய உரை`. The inspected opening/closing evidence does not state a venue, so no venue is inferred.
+
+Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**. English E2 produced **6 corrections / 0 unresolved**. E3 produced **6 final corrections / 0 unresolved**, then repeated the complete 16-page Tamil→English comparison with **0 further corrections**.
+
+The archive preserves the `கோட்டம்` / `தோட்டம்` wordplay, transparent handling of the opaque frozen forms `கலனாகிக்` and `சிற்றார்ப்புழத்தில்`, the quoted Tirukkural material, the `ராணி`/Pongal sequence, Bhogi/`போக்கி` wordplay, all page transitions, and the final body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### இந்திய சுவிசேஷத் திருச்சபை விழா
+
+The archival workflow is complete for constituent **4 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **50–53** / printed pages **49–52**. The separate closing note establishes the speech date as **16.01.1998**, event wording `இந்திய சுவிசேஷத் திருச்சபை விழா`, and role `ஆற்றிய உரை`. The inspected opening/closing evidence does not state a venue, so no venue is inferred.
+
+Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 required **0 corrections / 0 unresolved**. English E2 produced **1 correction / 0 unresolved**, removing gender not stated in `கிறித்துவப் பெருமக்கள்`; E3 then passed all four pages with **0 additional corrections / 0 unresolved**.
+
+The archive preserves the `கொள்கை` / `கை` wordplay, names and denominational wording, the Caldwell/G.U. Pope/Veeramamunivar list, all page continuations, the religion/religious-fanaticism distinction, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge, and the body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
