@@ -11,34 +11,31 @@
 - Tamil T3: **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
 - canonical Tamil: **`verified-complete` / FROZEN**.
 
-T2 corrections consolidated in the frozen body:
-
-1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
-2. PDF 40 / printed p.39: `திரைபடம்` → `திரைப்படம்`.
-3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
-4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
-
 ## English E1 first pass
 
 Status: **COMPLETE — 16 / 16 pages**.
 
-`translation-en.md` was translated only from frozen `transcription-ta.md`, preserving PDF/printed-page correspondence. E1 carried all names, dates, amounts, quoted Tirukkural/poetry, repetitions, page continuations and the final body/source-note distinction into English.
+## English E2 independent fidelity review
 
-Source-sensitive transparency retained for E2:
+Status: **PASS / COMPLETE — 16 / 16 pages checked; 6 corrections; 0 unresolved fidelity issues**.
 
-- frozen Tamil `சிற்றார்ப்புழத்தில்` on PDF 48 is opaque in context; E1 preserves the form as `Sitrarppuzham` instead of inferring a replacement;
-- `கலனாகிக்` on PDF 39 is rendered conservatively as “lies in a ruined state”;
-- the PDF 49 Bhogi/`போக்கி` wordplay is rendered with the explicit sense of removing/casting away;
-- quoted Tamil Kurals remain visible where useful alongside English explanation.
+Confirmed E2 corrections:
 
-E1 is a first pass only. No English fidelity correction count is asserted yet.
+1. PDF 34 / printed p.33: `holding the release function and address for the book` → `delivering an address at the release function for the book`.
+2. PDF 38 / printed p.37: restored explicit `கோட்டம்` / `தோட்டம்` wordplay as `kottam` / `thottam` (“garden”).
+3. PDF 39 / printed p.38: removed inferred `lies in a ruined state` and retained opaque frozen Tamil `கலனாகிக்` transparently.
+4. PDF 41 / printed p.40: `often keeps prodding me` → `often enlists my support` for `என்னைத் துணைத்தெடுத்து`.
+5. PDF 43 / printed p.42: `Professor of self-respect` → `Professor of ethnic dignity` for `இனமானப் பேராசிரியர்`.
+6. PDF 44 / printed p.43: added an English rendering alongside the quoted Tamil Kural.
+
+E2 independently reconfirmed all numerical grants and dates, names/institutions, page-boundary continuations, quoted material, `ராணி`/Pongal sequence, transparent `சிற்றார்ப்புழத்தில்` handling, Bhogi/`போக்கி` wordplay, and final body/source-note separation.
 
 ## English workflow
 
 - E1: **COMPLETE — 16 / 16**;
-- E2: **READY / NOT STARTED — 0 / 16**;
-- E3: **BLOCKED** until E2 completes.
+- E2: **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved**;
+- E3: **READY / NOT STARTED**.
 
 ## Exact next gate
 
-Run combined **English E2 independent fidelity review for constituents 3–4 — 20 pages total**. Independently compare every English page against the frozen Tamil layer, log and consolidate only confirmed corrections, and stop before E3.
+Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Recheck the corrected English completely against frozen Tamil and stop before repository closure.
