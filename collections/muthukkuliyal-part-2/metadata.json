@@ -34,7 +34,7 @@
     "constituent_items_t3_complete": 6,
     "constituent_items_tamil_verified": 6,
     "constituent_items_e1_complete": 6,
-    "constituent_items_e2_complete": 4,
+    "constituent_items_e2_complete": 6,
     "constituent_items_e3_complete": 4,
     "constituent_items_archived": 4,
     "collection_status": "constituent-processing-in-progress",
@@ -42,7 +42,7 @@
     "active_constituent_number": 5,
     "active_constituent_slug": "chennai-chennai-puranagar-vanigargal-sanga-maanadu",
     "active_constituent_title_ta": "சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு",
-    "active_constituent_status": "english-e1-complete-e2-pending",
+    "active_constituent_status": "english-e2-complete-e3-pending",
     "active_constituent_pdf_pages": "54-62",
     "active_constituent_printed_pages": "53-61",
     "active_constituent_pages_total": 9,
@@ -53,6 +53,9 @@
     "active_constituent_t3_pages_checked": 9,
     "active_constituent_t3_additional_corrections": 0,
     "active_constituent_e1_pages_completed": 9,
+    "active_constituent_e2_pages_checked": 9,
+    "active_constituent_e2_corrections": 4,
+    "active_constituent_e2_unresolved": 0,
     "active_batch_constituent_numbers": [5, 6],
     "active_batch_constituent_slugs": ["chennai-chennai-puranagar-vanigargal-sanga-maanadu", "thiraippada-virudhu-vazhangum-vizha"],
     "active_batch_source_pages_total": 16,
@@ -67,8 +70,11 @@
     "active_batch_t3_additional_corrections": 0,
     "active_batch_t3_unresolved": 0,
     "active_batch_e1_pages_completed": 16,
-    "active_batch_gate": "english-e2",
+    "active_batch_e2_pages_checked": 16,
+    "active_batch_e2_corrections": 6,
+    "active_batch_e2_unresolved": 0,
+    "active_batch_gate": "english-e3",
     "next_constituent_number": 5,
-    "next_gate": "Combined constituents 5-6 English E2 independent fidelity review — 16 pages total"
+    "next_gate": "Combined constituents 5-6 English E3 final end-to-end verification — 16 pages total"
   }
 }
