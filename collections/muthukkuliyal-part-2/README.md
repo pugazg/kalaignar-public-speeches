@@ -12,21 +12,26 @@ The source is a **36-item multi-speech collection**. Controlling PDF: `TVA_BOK_0
 - English E1 complete: **4 / 36**
 - English E2 complete: **4 / 36**
 - English E3 complete: **4 / 36**
-- fully archived: **2 / 36**
+- fully archived: **4 / 36**
 
-Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
+Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
-## Active same-gate batch — constituents 3–4
+## Newly closed constituents
 
-Both constituents now have Tamil and English `verified-complete`:
+- **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages** — Tamil + English `verified-complete`; repository closure **PASS / COMPLETE**.
+- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages** — Tamil + English `verified-complete`; repository closure **PASS / COMPLETE**.
 
-- **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages** — E3 **PASS / COMPLETE — 16/16; 6 final corrections; 0 unresolved**.
-- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages** — E3 **PASS / COMPLETE — 4/4; 0 additional corrections; 0 unresolved**.
+For constituent 3, Tamil T2 produced four corrections, English E2 six corrections, and English E3 six final corrections before a complete second E3 sweep passed with no further issue. For constituent 4, Tamil required no correction, English E2 produced one correction, and English E3 passed with no additional correction. Both have **0 unresolved** Tamil or English fidelity issues.
 
-Combined English E3 scope: **20 / 20 pages PASS — 6 final corrections / 0 unresolved fidelity issues**. All E2/E3 corrections are consolidated in the separate `translation-en.md` files. Both speeches are now translation-complete but remain **not yet fully archived** until repository-level closure synchronizes the speech, collection and root catalogue controls.
+## Next planned same-gate batch — constituents 5–6
 
-Constituent 5 is not part of this batch.
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, the next eligible source-gate batch is:
+
+- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — **9 pages**;
+- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — **7 pages**.
+
+Combined scope: **16 source pages**. Neither constituent has been started yet; constituent 7 is excluded because adding its 10 pages would exceed the 25-page limit.
 
 ## Exact next gate
 
-Run combined **repository-level archival closure for constituents 3–4**. Mark each fully archived only after all closure checks pass, synchronize the root catalogue, and stop before constituent 5.
+Run combined **source/duplicate/boundary gate for constituents 5–6 — 16 source pages total**. Keep the two speech archives separate and do not start Tamil T1 until that gate passes.
