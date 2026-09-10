@@ -11,9 +11,9 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–4** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–6** are Tamil + English `verified-complete` with repository closure complete.
 
-## Active constituents 5–6 — English E3 complete
+## Closure of constituents 5–6
 
 ### 5 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`
 
@@ -23,9 +23,8 @@ Constituents **1–4** are Tamil + English `verified-complete` with repository c
 - English E1 complete;
 - English E2 **9/9 PASS — 4 corrections / 0 unresolved**;
 - English E3 **9/9 PASS — 2 corrections / 0 unresolved**;
-- Tamil + English: **`verified-complete`**.
-
-E3 corrected PDF58 `sales-tax assessment` → `sales-tax levy` and PDF59 `mineral earth` → `clay`.
+- Tamil + English **`verified-complete`**;
+- repository closure **PASS / COMPLETE**.
 
 ### 6 — `திரைப்பட விருது வழங்கும் விழா`
 
@@ -35,22 +34,19 @@ E3 corrected PDF58 `sales-tax assessment` → `sales-tax levy` and PDF59 `minera
 - English E1 complete;
 - English E2 **7/7 PASS — 2 corrections / 0 unresolved**;
 - English E3 **7/7 PASS — 2 corrections / 0 unresolved**;
-- Tamil + English: **`verified-complete`**.
+- Tamil + English **`verified-complete`**;
+- repository closure **PASS / COMPLETE**.
 
-E3 corrected `Viyath Ali Khan` → `Liaqat Ali Khan` and removed unsupported `pioneer` from the Raja Sandow description. The PDF64 Tamil repair confirmed the existing English sense and required no English change.
+Combined E3 was **16/16 PASS — 4 final English corrections / 0 unresolved**. Three late source-level Tamil corrections were repaired and re-frozen before the final second sweep, which produced **0 further corrections / 0 unresolved issues**. Closure synchronization confirms no transcription or translation work remains pending for either constituent.
 
 ## Collection totals
 
 - mapped: **36 / 36**;
 - archives started / source-gated: **6 / 36**;
 - Tamil T1/T2/T3 complete / Tamil verified: **6 / 36**;
-- English E1 complete: **6 / 36**;
-- English E2 complete: **6 / 36**;
-- English E3 complete: **6 / 36**;
-- fully archived: **4 / 36**.
-
-Combined E3: **16 / 16 pages PASS — 4 final English corrections / 0 unresolved**. Three late source-level Tamil corrections were repaired and re-frozen before the final second sweep, which produced **0 further corrections / 0 unresolved issues**.
+- English E1/E2/E3 complete: **6 / 36**;
+- fully archived: **6 / 36**.
 
 ## Exact next gate
 
-Combined **repository-level archival closure for constituents 5–6**. Do not start constituent 7 in the same activity.
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, run the combined **source / duplicate / boundary gate for constituents 7–9 — 24 source pages total**: PDF **70–93** / printed **69–92**. Constituent 10 is excluded because it would exceed the 25-page limit. Stop before Tamil T1.
