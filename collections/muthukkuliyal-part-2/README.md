@@ -9,22 +9,28 @@ The source is a **36-item multi-speech collection**. Controlling PDF: `TVA_BOK_0
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **6 / 36**
 - Tamil T1/T2/T3 complete / Tamil verified: **6 / 36**
-- English E1 complete: **6 / 36**
-- English E2 complete: **6 / 36**
-- English E3 complete: **6 / 36**
-- fully archived: **4 / 36**
+- English E1/E2/E3 complete: **6 / 36**
+- fully archived: **6 / 36**
 
-Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
 
-## Active same-gate batch — constituents 5–6
+## Newly closed constituents 5–6
 
-- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — Tamil **`verified-complete` / FROZEN** after one late scan repair (`கனிமண்` → `களிமண்`); English E1/E2/E3 **COMPLETE**, E3 **9/9 PASS — 2 corrections / 0 unresolved**.
-- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — Tamil **`verified-complete` / FROZEN** after two late scan repairs (`பெயரைச் சொல்லுவது கூட`, `லியாகத் அலிகான்`); English E1/E2/E3 **COMPLETE**, E3 **7/7 PASS — 2 corrections / 0 unresolved**.
+- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — Tamil and English **`verified-complete`**; repository closure **PASS / COMPLETE**. Tamil includes one late scan repair, PDF59 `கனிமண்` → `களிமண்`; E3 is **9/9 PASS — 2 final English corrections / 0 unresolved**.
+- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — Tamil and English **`verified-complete`**; repository closure **PASS / COMPLETE**. Tamil includes two late scan repairs, PDF64 `பெயரைச் சொல்லுவது கூட` and PDF65 `லியாகத் அலிகான்`; E3 is **7/7 PASS — 2 final English corrections / 0 unresolved**.
 
-Combined English E3 result: **16 / 16 pages PASS — 4 final English corrections / 0 unresolved fidelity issues**. During the E3 integrity check, three missed source-level Tamil readings were corrected directly from the controlling scans and both Tamil layers were re-frozen before the final English sweep. A second complete Tamil→English verification then produced **0 further corrections / 0 unresolved issues**.
+All constituent 5–6 speech metadata, READMEs, audits, English review records and handovers are synchronized with their final verified layers. No transcription or translation work remains pending for either archive.
 
-Constituents 5–6 are now verified in both Tamil and English but are **not yet repository-closed**. Constituent 7 remains outside this batch.
+## Next same-gate batch
+
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, the next eligible consecutive group is constituents **7–9**, totaling **24 source pages**:
+
+- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா` — PDF **70–79** / printed **69–78** — 10 pages;
+- 8 `முத்தமிழ்ப் பேரவை விழா` — PDF **80–88** / printed **79–87** — 9 pages;
+- 9 `புத்தாண்டு இசை விழா` — PDF **89–93** / printed **88–92** — 5 pages.
+
+Constituent 10 is excluded because adding its 9 pages would raise the batch to **33 pages**, above the 25-page maximum. Constituents 7–9 have **not** been source-gated or started yet.
 
 ## Exact next gate
 
-Run combined **repository-level archival closure for constituents 5–6**. Synchronize speech archives, collection controls and root catalogue, mark both fully archived, then stop before constituent 7 source work.
+Run the combined **source / duplicate / boundary gate for constituents 7–9 — 24 source pages total**. Keep each constituent as a separate archive and stop before Tamil T1.
