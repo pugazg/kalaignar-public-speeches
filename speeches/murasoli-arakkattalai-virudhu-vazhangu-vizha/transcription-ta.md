@@ -3,9 +3,9 @@
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
 **Source range:** PDF 19–33 / printed pp. 18–32  
-**Tamil status:** T1 `first-pass-complete` — 15/15; T2 `complete` — 15/15 pages checked; 5 corrections; 0 unresolved
+**Tamil status:** `verified-complete` — T1 15/15; T2 15/15 PASS; T3 consolidation/freeze PASS; 5 corrections; 0 unresolved
 
-> T1 is complete for all 15 pages. T2 independently re-read PDF 19–33 / printed 18–32 directly against the source scans. Five scan-confirmed corrections have been consolidated below and no unresolved reading remains. Tamil is not yet frozen; T3 consolidation/freeze is the next gate.
+> T1 transcribed all 15 pages, T2 independently re-read PDF 19–33 / printed 18–32 directly against the source scans, and T3 confirmed the complete correction set, page sequence, page-boundary continuations, body ending and separate source closing note. No unresolved reading remains. This Tamil layer is now frozen; English E1 must derive only from this verified transcription.
 
 ## PDF 19 / printed p.18
 
