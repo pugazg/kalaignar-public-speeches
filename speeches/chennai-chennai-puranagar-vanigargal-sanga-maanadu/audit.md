@@ -27,15 +27,22 @@ Confirmed corrections:
 3. PDF 59 / printed p.58: `வரைப்படங்கள்` → **`வரைபடங்கள்`**.
 4. PDF 59 / printed p.58: `தனிமங்கள்` → **`கனிமங்கள்`**.
 
-All other PDF 54–62 wording, figures, lists, page joins, the heading/contents `சென்னைப் புறநகர்` versus closing-note `சென்னை புறநகர்` distinction, final body and separate source note passed the direct scan check.
+## Tamil T3 — consolidation/freeze
+
+**PASS / COMPLETE — 9 / 9 pages; 0 additional corrections; 0 unresolved.**
+
+T3 confirmed PDF **54–62** appears exactly once and in order; all four T2 corrections are present in the canonical transcript; all cross-page continuations remain intact; the heading/contents `சென்னைப் புறநகர்` versus closing-note `சென்னை புறநகர்` distinction remains source-faithful; and the separate PDF 62 closing note remains outside the spoken body.
+
+Tamil is now **`verified-complete` / FROZEN**. Do not alter it without new source evidence.
 
 ## Current state
 
-- Tamil T1: **COMPLETE — 9/9**;
-- Tamil T2: **PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- English: **BLOCKED pending frozen Tamil**.
+- Tamil T1/T2/T3: **COMPLETE**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**;
+- repository closure: **NOT STARTED**.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Stop before English or constituent 7.
+Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**, derived only from frozen Tamil. Stop before E2 or constituent 7.
