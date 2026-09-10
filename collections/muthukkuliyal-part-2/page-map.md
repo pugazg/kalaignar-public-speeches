@@ -51,15 +51,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil T1 COMPLETE — 9/9; T2 next** |
-| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil T1 COMPLETE — 7/7; T2 next** |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil T1/T2 COMPLETE — 9/9; T2 4 corrections / 0 unresolved; T3 next** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil T1/T2 COMPLETE — 7/7; T2 4 corrections / 0 unresolved; T3 next** |
 | 7–36 | — | not started |
 
 ## Active same-gate batch
 
 Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 source pages**:
 
-- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — source gate PASS; Tamil T1 **9/9 COMPLETE**; date **25-01-1998**; venue **சென்னை வள்ளுவர் கோட்டம்**; role **ஆற்றிய பேருரை**;
-- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — source gate PASS; Tamil T1 **7/7 COMPLETE**; date **30-01-1998**; venue not stated; role **ஆற்றிய உரை**.
+- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — T2 **9/9 PASS; 4 corrections; 0 unresolved**;
+- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — T2 **7/7 PASS; 4 corrections; 0 unresolved**.
 
-Combined Tamil T1: **16 / 16 pages COMPLETE**. Both Tamil layers remain `first-pass-complete`, not verified/frozen. Exact next gate: **combined Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Constituent 7 remains outside this iteration.
+Combined Tamil T2: **16 / 16 pages PASS — 8 corrections / 0 unresolved**. All corrections are consolidated in the separate transcripts. Exact next gate: **combined Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Constituent 7 remains outside this iteration.
