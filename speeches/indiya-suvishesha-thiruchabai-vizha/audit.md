@@ -13,19 +13,28 @@ The separate closing note is metadata and is not part of the spoken/body transcr
 
 Status: **COMPLETE — 4 / 4 pages**.
 
-All page records PDF **50–53** / printed **49–52** are now present in `transcription-ta.md` in source order. T1 was performed from direct rendered page images; no English stage was started.
+## T2 strict visual fidelity audit
 
-T1 preserves the page continuations PDF 50→51 (`விவாதங்கள்தான்` → `அரசியலுக்குத் தேவை...`), PDF 51→52 (`ஆதிக்கத்திற்கு அப்பாற்பட்ட நிலையில் -` → `ஆன்மீகத் துறையில்...`) and PDF 52→53 (`நுழைய` → `விடக்கூடாது...`). The final printed source note remains separate from the body.
+Status: **PASS / COMPLETE — 4 / 4 pages checked; 0 corrections; 0 unresolved readings**.
 
-T2 recheck flags retained rather than silently normalized include the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list (`கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`), punctuation in the religious/communal-harmony passage, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` wording.
+Every page PDF **50–53** was directly re-read against the scan. T2 reconfirmed:
+
+- the `கொள்‘கை’யிலும் ‘கை’` wordplay;
+- names and denominational terminology;
+- the PDF 52 historical-name list `கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`;
+- PDF 50→51, 51→52 and 52→53 continuations;
+- the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` wording;
+- the final body/source-closing-note distinction.
+
+No source-confirmed correction was required and no unresolved Tamil reading remains.
 
 ## Tamil workflow
 
 - T1: **COMPLETE — 4 / 4**;
-- T2: **READY / NOT STARTED — 0 / 4**;
-- T3: **BLOCKED** until T2 completes;
+- T2: **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved**;
+- T3: **READY / NOT STARTED**;
 - English: **BLOCKED** until Tamil is frozen.
 
 ## Exact next gate
 
-Run the combined constituents **3–4 Tamil T2 strict visual fidelity audit — 20 source pages total**. Audit every page against the scan, log and consolidate only source-confirmed corrections, keep constituent-specific records separate, and stop before T3.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Verify complete page sequence and joins, freeze the Tamil layer if clean, and stop before English.
