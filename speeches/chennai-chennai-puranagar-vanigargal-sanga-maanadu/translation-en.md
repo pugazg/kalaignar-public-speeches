@@ -1,10 +1,10 @@
 # Chennai - Chennai Suburban Traders' Association Conference — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **9 / 9 pages COMPLETE**; E2 **9 / 9 PASS; 4 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1 **9 / 9 pages COMPLETE**; E2 **9 / 9 PASS; 4 corrections; 0 unresolved**; E3 **9 / 9 PASS; 2 final corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **54–62** / printed **53–61**
 
-> English E1 was translated only from the frozen Tamil layer. E2 independently compared all nine English pages against that frozen Tamil and consolidated four fidelity corrections. English remains provisional until E3 final end-to-end verification.
+> E1 was translated only from the frozen Tamil layer. E2 independently reviewed all nine pages and consolidated four corrections. During E3, the controlling PDF 59 scan exposed one late Tamil source correction (`கனிமண்` → `களிமண்`); the Tamil layer was corrected and re-frozen before the final English sweep. E3 then consolidated two final English fidelity corrections and completed a second end-to-end comparison with 0 further issues.
 
 ## PDF 54 / printed p.53
 
@@ -44,7 +44,7 @@ We planned to make several important and significant changes in the Commercial T
 
 all again.
 
-Many reforms were made in the system of sales-tax assessment. For that purpose, a Tax Reform Committee was constituted, with representatives of traders, members belonging to other parties in the Legislative Assembly, and members of the ruling party. This government has implemented, as far as possible, all the reforms they proposed. I do not wish to go into those details. Nor is there an occasion today for a long speech. You know the reason. All of you know well amid how many other tasks we have undertaken this work.
+Many reforms were made in the system of sales-tax levy. For that purpose, a Tax Reform Committee was constituted, with representatives of traders, members belonging to other parties in the Legislative Assembly, and members of the ruling party. This government has implemented, as far as possible, all the reforms they proposed. I do not wish to go into those details. Nor is there an occasion today for a long speech. You know the reason. All of you know well amid how many other tasks we have undertaken this work.
 
 That is why I wish to tell you this: whatever your representation may be, this government has never failed to fulfil it. When you asked that there should be only a single-point tax on all goods, the beginning had already been made before 1976; later, in 1989, multi-point tax was removed on nearly sixty commodities and converted into single-point tax; and now it is this government that has created the rule of single-point tax for all commodities. You have experienced this in practice and praised it. Here today as well, you have expressed thanks for it.
 
@@ -56,7 +56,7 @@ cumin, asafoetida, jaggery and `sukkai`—and also for silver toe-rings, anklets
 
 Likewise, among the goods on which sales tax was abolished in 1997-98 were fish feed, coconut shells and pieces, groundnut shells, curd, panchamirtham, educational charts, tourist guides and maps, heavy large sledgehammers, old silver toe-rings and anklets. The 11 per cent tax that had been in force on these goods was completely abolished. Not only that: bamboo screens, winnowing trays and baskets; thirty-nine categories comprising life-saving medicines for the treatment of cancer, leprosy and tuberculosis and indigenous medicines; solar cells; and footwear priced below fifty rupees were all made completely tax-free.
 
-The 4 per cent tax that had been in force on cattle feed, leaf cups, sambrani, cycles for persons with disabilities, mineral earth used for making bricks and tiles, senna leaves, seed husks, leaves of the nilavagai plant, and tapioca `kappi` and `thippi` was completely abolished.
+The 4 per cent tax that had been in force on cattle feed, leaf cups, sambrani, cycles for persons with disabilities, clay used for making bricks and tiles, senna leaves, seed husks, leaves of the nilavagai plant, and tapioca `kappi` and `thippi` was completely abolished.
 
 Minerals—metals, and gold sold to gold-jewellery exporters—
 
@@ -99,6 +99,15 @@ E2 corrections:
 3. PDF 59 / printed p.58: removed unsupported explanatory wording from `மரவள்ளிக் கிழங்கு கப்பி, திப்பி`, retaining the conservative rendering **“tapioca `kappi` and `thippi`”**.
 4. PDF 60 / printed p.59: restored both repeated loss terms in `வரி இழப்பை, வருவாய் இழப்பை` as **“tax loss and revenue loss”** instead of collapsing them into one phrase.
 
-All nine page joins, figures, tax percentages and rupee amounts, names, political/election rhetoric, applause markers, conservative source-sensitive terms, final body and separate source closing note passed E2 with **0 unresolved issues**.
+## E3 final end-to-end verification note
 
-Exact next gate: **combined constituents 5–6 English E3 final end-to-end verification — 16 pages total**. Stop before repository closure or constituent 7.
+English E3 is **PASS / COMPLETE — 9 / 9 pages; 2 final corrections; 0 unresolved fidelity issues**.
+
+E3 corrections:
+
+1. PDF 58 / printed p.57: `system of sales-tax assessment` → **`system of sales-tax levy`** for `விற்பனை வரி விதிப்பு அமைப்பு`, restoring the source's levy/imposition sense.
+2. PDF 59 / printed p.58: after direct-scan correction of frozen Tamil `கனிமண்` → `களிமண்`, English `mineral earth` → **`clay`**.
+
+After the late Tamil repair and these two English corrections were consolidated, E3 repeated the full PDF **54–62** Tamil→English comparison. All figures, percentages, rupee amounts, tax-item lists, names, page joins, election rhetoric, applause markers, source-sensitive transliterations, final body and separate closing note passed with **0 further corrections / 0 unresolved issues**.
+
+English is now **`verified-complete`**. Exact next gate: **combined constituents 5–6 repository-level archival closure**; do not start constituent 7 in the same activity.
