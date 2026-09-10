@@ -21,15 +21,16 @@
 - Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
 - Tamil T2 corrections: **4**; unresolved: **0**;
-- English E1: **COMPLETE — 7 / 7 pages**;
-- English E2: **READY / NOT STARTED**;
-- English E3: **BLOCKED pending E2**;
+- English E1: **COMPLETE — 7 / 7**;
+- English E2: **PASS / COMPLETE — 7 / 7; 2 corrections; 0 unresolved**;
+- English state: **`fidelity-corrections-consolidated`**;
+- English E3: **READY / NOT STARTED**;
 - repository closure: **NOT STARTED**.
 
-E1 was translated only from the frozen Tamil layer and preserves page correspondence, award/film names, election humour, the *Iruvar* wordplay, all page joins and the separate closing note. No venue has been inferred beyond what the source states.
+E2 corrections are consolidated in `translation-en.md`: PDF63 now clearly states the function was not being held with the election in view; PDF67 now reads `a single sculptor is enough to shape a statue`. Election-law wording, film/award names, censorship wording, the *Iruvar* joke, page joins and the separate source note otherwise passed. No venue has been inferred beyond what the source states.
 
 Do not reopen the frozen Tamil layer without new source evidence.
 
 ## Exact next incomplete gate
 
-Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Independently compare the complete English E1 pages against frozen Tamil and stop before E3 or constituent 7.
+Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
