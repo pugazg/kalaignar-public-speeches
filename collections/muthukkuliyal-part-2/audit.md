@@ -19,7 +19,7 @@ Collection-level source/mapping/progress audit.
 
 `முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — PDF **19–33** / printed **18–32** — Tamil + English `verified-complete`, repository closure complete.
 
-## Active constituents 3–4 — Tamil T1 complete
+## Active constituents 3–4 — Tamil T2 complete
 
 ### 3 — `திருவள்ளுவர் விழா`
 
@@ -28,11 +28,17 @@ Collection-level source/mapping/progress audit.
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
 - date **1998-01-15**, event `திருவள்ளுவர் விழா`, role `ஆற்றிய உரை`, venue unstated in inspected opening/closing evidence;
 - Tamil T1: **COMPLETE — 16 / 16**;
-- Tamil state: **`first-pass-complete`**;
-- T2: **READY / NOT STARTED**;
-- closing note remains outside speech body.
+- Tamil T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**.
 
-T1 retained non-obvious page continuations and left source-sensitive forms for T2 rather than silently normalizing them. Priority T2 checks include `உரை வேற்றுமை`, `கலனாகிக்`, `திரைபடம்`, `துளைத்தெடுத்து`, names/initials, grant figures, quoted verse punctuation and the PDF 47–49 `ராணி`/Pongal passage.
+T2 corrections:
+
+1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
+2. PDF 40 / printed p.39: `திரைபடம்` → `திரைப்படம்`.
+3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
+4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
+
+All four are consolidated in the canonical Tamil transcription. Every page and non-obvious page join was directly re-read; no unresolved reading remains.
 
 ### 4 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
 
@@ -41,22 +47,23 @@ T1 retained non-obvious page continuations and left source-sensitive forms for T
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
 - date **1998-01-16**, event `இந்திய சுவிசேஷத் திருச்சபை விழா`, role `ஆற்றிய உரை`, venue unstated in inspected opening/closing evidence;
 - Tamil T1: **COMPLETE — 4 / 4**;
-- Tamil state: **`first-pass-complete`**;
-- T2: **READY / NOT STARTED**;
-- closing note remains outside speech body.
+- Tamil T2: **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**.
 
-T1 preserved the 50→51, 51→52 and 52→53 continuations. Priority T2 checks include the `கொள்‘கை’யிலும் ‘கை’` wordplay, names/denominational terminology, PDF 52 historical-name list and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
+T2 re-read all four pages and confirmed the source-sensitive wordplay, names/denominational terminology, historical-name list, page continuations and final communal-harmony passage. No correction was required.
 
 ## Collection totals
 
 - mapped: **36 / 36**;
 - archives started / source-gated: **4 / 36**;
 - T1 complete: **4 / 36**;
-- T2 complete: **2 / 36**;
+- T2 complete: **4 / 36**;
 - T3 complete / Tamil verified: **2 / 36**;
 - E1/E2/E3 complete: **2 / 36**;
 - fully archived: **2 / 36**.
 
+Combined constituent 3–4 T2 result: **20 / 20 pages checked; 4 corrections; 0 unresolved**.
+
 ## Exact next gate
 
-Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**. Re-read every page directly against the controlling scan, keep correction/unresolved records separate by constituent, consolidate only confirmed readings, and stop before T3. Constituent 5 remains outside this iteration.
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Verify correction consolidation, page order and boundaries, freeze each Tamil layer only if clean, and stop before English. Constituent 5 remains outside this iteration.
