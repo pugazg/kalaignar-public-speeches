@@ -1,10 +1,10 @@
 # Indian Evangelical Church Function — English translation
 
-**Status:** `first-pass-complete` — E1 **4 / 4 pages COMPLETE**  
+**Status:** `fidelity-corrections-consolidated` — E1 **4 / 4 pages COMPLETE**; E2 **4 / 4 PASS; 1 correction; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` (`verified-complete`)  
 **Source range:** PDF **50–53** / printed **49–52**
 
-> E1 was translated only from the frozen Tamil transcription, preserving source-page correspondence, repetitions, names, denominational terminology, the `கொள்கை` / `கை` wordplay, and the final body/source-note boundary. This is an English first pass, not yet fidelity-verified. E2 must independently compare every English page against the frozen Tamil.
+> E1 was translated only from the frozen Tamil transcription. E2 then independently compared every English page against that frozen Tamil layer and consolidated one confirmed fidelity correction. Source-page correspondence, repetitions, names, denominational terminology, the `கொள்கை` / `கை` wordplay, and the final body/source-note boundary remain preserved. English is not yet finally verified; E3 is the next gate.
 
 ## PDF 50 / printed p.49
 
@@ -28,7 +28,7 @@ Even amid British domination—and also in a sphere beyond that domination—
 
 ## PDF 52 / printed p.51
 
-in the spiritual field, in the religious field, and beyond sectarian religious arguments, Christian men and women of eminence have dedicated themselves well to the conviction that knowledge must grow throughout the Indian land and that they must render whatever valuable service they can for that growth of knowledge.
+in the spiritual field, in the religious field, and beyond sectarian religious arguments, Christian people of distinction have dedicated themselves well to the conviction that knowledge must grow throughout the Indian land and that they must render whatever valuable service they can for that growth of knowledge.
 
 As far as Tamil Nadu is concerned, the history of Tamil Nadu records that many Christian elders came forward to foster the Tamil language. As a sign that we must show gratitude to such Christian elders—to those Christian scholars who fostered Tamil—when the World Tamil Conference was held in Tamil Nadu, during the period when our leader Perarignar Anna was Chief Minister, he honoured Christian religious elders and scholars such as Caldwell, G.U. Pope and Veeramamunivar by having statues erected for them on the Chennai seafront, on what is today Kamarajar Salai. All of you know this very well.
 
@@ -46,8 +46,14 @@ Today, at this fine and pleasant celebration of this good Church—at this stirr
 
 `Speech delivered at the Indian Evangelical Church function on 16-1-98.`
 
-## E1 first-pass note
+## E2 independent fidelity review note
 
-English E1 is **COMPLETE — 4 / 4 pages**. The translation is derived only from the frozen Tamil layer and preserves page order and the three cross-page continuations. The source wordplay `கொள்கை - கொள்‘கை’யிலும் ‘கை’ இருக்கிறது` is kept explicitly with the Tamil forms so E2 can judge the English rendering without losing the pun.
+English E1 is **COMPLETE — 4 / 4 pages**. English E2 is **PASS / COMPLETE — 4 / 4 pages checked; 1 confirmed correction; 0 unresolved fidelity issues**.
 
-English is not yet verified. Exact next gate: **combined constituents 3–4 English E2 independent fidelity review — 20 pages total**.
+E2 correction:
+
+1. PDF 52 / printed p.51: `Christian men and women of eminence` → **`Christian people of distinction`**, removing gender that is not stated by frozen Tamil `கிறித்துவப் பெருமக்கள்`.
+
+E2 independently reconfirmed the PDF 50→51, 51→52 and 52→53 continuations; the `கொள்கை` / `கை` wordplay; names and denominational wording; `கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`; the religion/religious-fanaticism contrast; the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge; and the body/source-note separation.
+
+English remains `fidelity-corrections-consolidated`, not `verified-complete`, until E3. Exact next gate: **combined constituents 3–4 English E3 final end-to-end verification — 20 pages total**.
