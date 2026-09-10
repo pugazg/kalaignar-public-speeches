@@ -53,15 +53,19 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 6 | `thiraippada-virudhu-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 7 | `purusai-gopalarathinam-illa-manavizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 10/10; English E1 COMPLETE — 10/10; E2 PASS — 10/10; E3 PASS — 10/10; closure next** |
-| 8 | `muthamizh-peravai-vizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 9/9; English E1 COMPLETE — 9/9; E2 PASS — 9/9; E3 PASS — 9/9; closure next** |
-| 9 | `puthandu-isaivizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 5/5; English E1 COMPLETE — 5/5; E2 PASS — 5/5; E3 PASS — 5/5; closure next** |
+| 7 | `purusai-gopalarathinam-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 8 | `muthamizh-peravai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 10–36 | — | not started |
 
-## Active same-gate batch
+## Newly closed batch
 
-Constituents **7–9** have Tamil T1/T2/T3 **COMPLETE — 24/24 pages** and are **`verified-complete` / FROZEN** at the Tamil layer. English E1 is **COMPLETE — 24/24 pages** (10 + 9 + 5), translated only from frozen Tamil. English E2 is **PASS / COMPLETE — 24/24 pages; 10 corrections; 0 unresolved**. English E3 is **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved**. Final English is `verified-complete`; each source closing note remains separate from the speech body.
+Constituents **7–9** are **CLOSED / FULLY ARCHIVED**. Tamil T1/T2/T3 and English E1/E2/E3 are complete across **24/24 pages**. English E2 consolidated **10 corrections / 0 unresolved** and E3 found **0 additional corrections / 0 unresolved**. Their final Tamil and English layers are `verified-complete`, all constituent controls are synchronized, and each source closing note remains separate from its speech body.
 
 Source-specific identity notes remain unchanged: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
 
-Exact next gate: **combined repository-level archival closure for constituents 7–9 — 24 pages total**. Constituent 10 remains outside this iteration.
+## Next same-gate batch
+
+Constituents **10–11** are the next eligible batch under the 25-page policy: PDF **94–112** / printed **93–111**, totaling **19 pages**. Constituent 12 is excluded because adding its 15 pages would raise the iteration to 34 pages. Constituents 10–11 are not yet source-gated or started.
+
+Exact next gate: **combined source / duplicate / boundary gate for constituents 10–11 — 19 source pages total**. Stop before Tamil T1.
