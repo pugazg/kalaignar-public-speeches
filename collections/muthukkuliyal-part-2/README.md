@@ -12,7 +12,9 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - Tamil T2 complete: **2 / 36**
 - Tamil T3 complete: **2 / 36**
 - Tamil verified: **2 / 36**
-- English E1/E2/E3 complete: **1 / 36**
+- English E1 complete: **2 / 36**
+- English E2 complete: **1 / 36**
+- English E3 complete: **1 / 36**
 - fully archived: **1 / 36**
 
 ## Constituent 1
@@ -26,17 +28,16 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - source gate: **PASS / COMPLETE**;
 - date: **13-01-1998** from source closing note;
 - venue: not stated in inspected source;
-- Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil transcription: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**.
+- English E1: **COMPLETE — 15 / 15**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED**.
 
-T3 confirmed all five T2 corrections, the complete 15-page sequence, page-boundary continuity, final body sentence and separate source closing note, with **0 additional corrections** and **0 unresolved Tamil readings**.
+English E1 was derived only from frozen `transcription-ta.md` and covers the full PDF **19–33** / printed **18–32** range. It preserves page correspondence, rhetorical repetition, names/numbers and source-supported difficult wording. The PDF 30 quotation-mark irregularity around `“சாவி’ பத்திரிகையில்` is handled with an explicit transparency note rather than silently treated as different text.
 
-For later multi-constituent work, apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`: consecutive eligible speeches may share one same-gate iteration up to **25 source pages**, while remaining separate archives.
+For multi-constituent work, apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`: consecutive eligible speeches may share one same-gate iteration up to **25 source pages**, while remaining separate archives. At present only constituent 2 is eligible for E2.
 
 ## Exact next gate
 
-Constituent 2 English **E1 first-pass translation — all 15 verified Tamil pages**, using only frozen `transcription-ta.md`.
+Constituent 2 English **E2 independent fidelity review — all 15 pages**, comparing the complete E1 translation against the frozen Tamil layer.
