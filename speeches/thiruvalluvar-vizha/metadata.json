@@ -80,6 +80,9 @@
     "english_translation_final_verification_through_printed_page": 48,
     "english_translation_final_verification_corrections": 6,
     "english_translation_final_verification_unresolved": 0,
-    "next_gate": "Combined constituents 3-4 repository-level archival closure"
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null
   }
 }
