@@ -15,7 +15,7 @@
 - mapped: **36 / 36**;
 - archives started: **2 / 36**;
 - Tamil T1 complete: **2 / 36**;
-- Tamil T2 complete: **1 / 36**;
+- Tamil T2 complete: **2 / 36**;
 - Tamil T3 complete: **1 / 36**;
 - Tamil verified: **1 / 36**;
 - English E1/E2/E3 complete: **1 / 36**;
@@ -31,15 +31,14 @@ Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத
 - date **1998-01-13** from source closing note;
 - venue unresolved/not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **IN PROGRESS — 10 / 15**;
-- T2 corrections: **4**;
+- Tamil T2: **PASS / COMPLETE — 15 / 15**;
+- T2 corrections: **5**;
 - T2 unresolved: **0**;
-- T3 and English: **BLOCKED**.
+- Tamil T3: **NOT STARTED**;
+- English: **BLOCKED**.
 
-T2 batch 1, PDF **19–23** / printed **18–22**, passed all five pages with **3 corrections / 0 unresolved**.
-
-T2 batch 2, PDF **24–28** / printed **23–27**, passed all five pages with **1 correction / 0 unresolved**. The correction is PDF 26 `இந்த ஸ்டூடியோவில் இருந்து` → `இந்த ஸ்டுடியோவில் இருந்து`. The earlier same-page source form `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` remains unchanged, preserving the scan's inconsistent spellings rather than normalizing them.
+T2 correction set is fully consolidated into the transcript. The final correction is PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`. All queued odd readings and the final body/source-note separation were directly checked; no unresolved reading remains.
 
 ## Exact next incomplete gate
 
-Run constituent 2 **Tamil T2 batch 3 — PDF 29–33 / printed 28–32**. Verify the remaining queued odd readings, all five page transitions, the final body sentence, and the separate closing note. Do not begin T3 or English until T2 completes.
+Run constituent 2 **Tamil T3 consolidation / freeze — all 15 pages**. Confirm all five corrections, continuity and boundaries; if clean, mark Tamil `verified-complete`. Do not begin English until T3 passes.
