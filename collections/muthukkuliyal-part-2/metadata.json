@@ -1,7 +1,13 @@
 {
   "id": "muthukkuliyal-part-2",
-  "title": {"ta": "முத்துக் குளியல்", "part_text": "பாகம் - II"},
-  "creator": {"name_ta": "கலைஞர் மு. கருணாநிதி", "role": "author / speaker collection"},
+  "title": {
+    "ta": "முத்துக் குளியல்",
+    "part_text": "பாகம் - II"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "role": "author / speaker collection"
+  },
   "document_type": "multi-speech-collection",
   "language": "ta",
   "subject_source_text": "சொற்பொழிவுகளின் தொகுப்பு",
@@ -29,7 +35,7 @@
     "constituent_items_mapped": 36,
     "constituent_items_started": 9,
     "constituent_items_source_gated": 9,
-    "constituent_items_t1_complete": 6,
+    "constituent_items_t1_complete": 9,
     "constituent_items_t2_complete": 6,
     "constituent_items_t3_complete": 6,
     "constituent_items_tamil_verified": 6,
@@ -42,20 +48,28 @@
     "active_constituent_number": 7,
     "active_constituent_slug": "purusai-gopalarathinam-illa-manavizha",
     "active_constituent_title_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
-    "active_constituent_status": "source-gated-t1-pending",
+    "active_constituent_status": "t1-complete-t2-pending",
     "active_constituent_pdf_pages": "70-79",
     "active_constituent_printed_pages": "69-78",
     "active_constituent_pages_total": 10,
-    "active_constituent_t1_pages_drafted": 0,
-    "active_batch_constituent_numbers": [7, 8, 9],
-    "active_batch_constituent_slugs": ["purusai-gopalarathinam-illa-manavizha", "muthamizh-peravai-vizha", "puthandu-isaivizha"],
+    "active_constituent_t1_pages_drafted": 10,
+    "active_batch_constituent_numbers": [
+      7,
+      8,
+      9
+    ],
+    "active_batch_constituent_slugs": [
+      "purusai-gopalarathinam-illa-manavizha",
+      "muthamizh-peravai-vizha",
+      "puthandu-isaivizha"
+    ],
     "active_batch_source_pages_total": 24,
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_t1_pages_completed": 0,
-    "active_batch_gate": "tamil-t1",
+    "active_batch_t1_pages_completed": 24,
+    "active_batch_gate": "tamil-t2",
     "next_constituent_number": 7,
-    "next_gate": "Combined constituents 7-9 Tamil T1 first-pass transcription — 24 source pages total"
+    "next_gate": "Combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total"
   }
 }
