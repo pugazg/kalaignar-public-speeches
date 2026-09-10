@@ -15,7 +15,8 @@
 - mapped: **36 / 36**;
 - archives started / source-gated: **6 / 36**;
 - Tamil T1 complete: **6 / 36**;
-- Tamil T2/T3 complete / Tamil verified: **4 / 36**;
+- Tamil T2 complete: **6 / 36**;
+- Tamil T3 complete / Tamil verified: **4 / 36**;
 - English E1/E2/E3 complete: **4 / 36**;
 - fully archived: **4 / 36**.
 
@@ -25,27 +26,24 @@ Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
 ### 5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`
 
-- directory: `speeches/chennai-chennai-puranagar-vanigargal-sanga-maanadu/`;
 - PDF **54–62** / printed **53–61** — **9 pages**;
-- source/duplicate/boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 9 / 9**;
-- Tamil status: **`first-pass-complete`**;
-- Tamil T2: **READY / NOT STARTED**;
-- date **25-01-1998**, venue **சென்னை வள்ளுவர் கோட்டம்**, role **ஆற்றிய பேருரை**;
-- preserve heading/contents `சென்னைப் புறநகர்` versus closing-note `சென்னை புறநகர்`.
+- source/duplicate/boundary **PASS / COMPLETE**;
+- Tamil T1 **9/9 COMPLETE**;
+- Tamil T2 **9/9 PASS — 4 corrections / 0 unresolved**;
+- Tamil status **`t2-complete`**;
+- T3 **READY / NOT STARTED**.
 
 ### 6 / 36 — `திரைப்பட விருது வழங்கும் விழா`
 
-- directory: `speeches/thiraippada-virudhu-vazhangum-vizha/`;
 - PDF **63–69** / printed **62–68** — **7 pages**;
-- source/duplicate/boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 7 / 7**;
-- Tamil status: **`first-pass-complete`**;
-- Tamil T2: **READY / NOT STARTED**;
-- date **30-01-1998**, role **ஆற்றிய உரை**, venue not stated in inspected opening/closing evidence.
+- source/duplicate/boundary **PASS / COMPLETE**;
+- Tamil T1 **7/7 COMPLETE**;
+- Tamil T2 **7/7 PASS — 4 corrections / 0 unresolved**;
+- Tamil status **`t2-complete`**;
+- T3 **READY / NOT STARTED**.
 
-Combined T1: **16 / 16 pages COMPLETE**. English and T3 remain blocked. Constituent 7 remains excluded because the combined 5+6+7 scope would be 26 pages.
+Combined T2: **16 / 16 pages PASS — 8 corrections / 0 unresolved**. All corrections are consolidated in the separate transcripts. English remains blocked until both Tamil layers pass T3. Constituent 7 remains excluded.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Independently re-read every page against the controlling scans, keep correction logs separate, and stop before T3 or constituent 7.
+Run combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Do not start English or constituent 7 in the same activity.
