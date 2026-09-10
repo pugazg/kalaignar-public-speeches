@@ -32,8 +32,11 @@ This establishes speech date **1998-01-13**, event wording `முரசொல�
 - Tamil T2: **PASS / COMPLETE — 15 / 15 pages**;
 - T2 corrections: **5**;
 - T2 unresolved readings: **0**;
-- Tamil T3: **NOT STARTED**;
-- English E1/E2/E3: **BLOCKED until Tamil verified-complete**.
+- Tamil T3: **PASS / COMPLETE**;
+- Tamil transcription: **`verified-complete` / FROZEN**;
+- T3 additional corrections: **0**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**.
 
 ## T2 correction record
 
@@ -43,8 +46,12 @@ This establishes speech date **1998-01-13**, event wording `முரசொல�
 4. PDF 26: `இந்த ஸ்டூடியோவில் இருந்து` → `இந்த ஸ்டுடியோவில் இருந்து`; preserve the earlier same-page `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` exactly as printed.
 5. PDF 31: `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`.
 
-The final T2 batch directly confirmed `வேதவித்து`, `வாடியவர்`, the mismatched source quotation `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, the complete 1967 / கவியரங்கம் passage, and the PDF 33 body/source-note boundary. No unresolved reading remains.
+## T3 freeze result
+
+T3 checked the canonical transcript as one continuous 15-page unit. All five corrections are consolidated, PDF **19–33** / printed **18–32** appears once and in order, the page-boundary continuations remain intact, no paragraph is duplicated or omitted, and the closing note remains outside the speech body. No stale superseded reading or unresolved Tamil reading remains.
+
+The Tamil layer is now frozen. A later Tamil change requires new direct-source evidence and dependent English re-verification.
 
 ## Exact next incomplete gate
 
-Run **Tamil T3 consolidation / freeze — all 15 pages**. Verify all five corrections are present exactly once, the full PDF 19–33 sequence is continuous, no paragraph is duplicated or omitted, page boundaries are intact, and the source closing note remains outside the body. If clean, mark Tamil `verified-complete`. Do not begin English before T3 passes.
+Run **English E1 first-pass translation — all 15 verified Tamil pages** from frozen `transcription-ta.md` only. Preserve page correspondence, rhetoric, repetition and difficult source wording; use a concise transparency note rather than silently repairing a confirmed odd Tamil form. Do not start E2 until E1 is complete.
