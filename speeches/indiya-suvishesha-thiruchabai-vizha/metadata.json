@@ -47,14 +47,17 @@
     "duplicate_check": "pass-no-existing-dedicated-archive",
     "source_inspection": "complete",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "not-started",
+    "tamil_transcription": "first-pass-complete",
     "speech_pages_total": 4,
-    "speech_pages_drafted": 0,
+    "speech_pages_drafted": 4,
+    "tamil_transcription_through_pdf_page": 53,
+    "tamil_transcription_through_printed_page": 52,
     "tamil_visual_audit": "not-started",
+    "strict_reaudit_pages_checked": 0,
     "tamil_consolidation": "not-started",
     "english_translation": "not-started",
     "english_translation_review": "not-started",
     "english_translation_final_verification": "not-started",
-    "next_gate": "Combined constituents 3-4 Tamil T1 first-pass transcription — 20 source pages total"
+    "next_gate": "Combined constituents 3-4 Tamil T2 strict visual fidelity audit — 20 source pages total"
   }
 }
