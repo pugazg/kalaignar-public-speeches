@@ -11,30 +11,33 @@
 
 - `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 - SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- Constituent range: PDF **63–69** / printed **62–68** — **7 pages**
+- PDF **63–69** / printed **62–68** — **7 pages**
 - Source binary committed: **No**
-
-The source/duplicate/boundary gate passed. No venue is inferred because the inspected opening and closing note do not state one.
+- No venue is inferred beyond the inspected source evidence.
 
 ## Tamil workflow
 
 | Gate | State |
 |---|---|
-| Tamil T1 | **COMPLETE — 7 / 7** |
-| Tamil T2 | **PASS / COMPLETE — 7 / 7; 4 corrections; 0 unresolved** |
-| Tamil T3 | **PASS / COMPLETE — 7 / 7; 0 additional corrections; 0 unresolved** |
+| Tamil T1 | **COMPLETE — 7/7** |
+| Tamil T2 | **PASS — 7/7; 4 corrections; 0 unresolved** |
+| Tamil T3 | **PASS — 7/7; 0 additional corrections; 0 unresolved** |
+| Late source repairs | **PDF64 `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட`; PDF65 `வியாகத்` → `லியாகத்`; re-frozen** |
 | Tamil state | **`verified-complete` / FROZEN** |
 
 ## English workflow
 
 | Gate | State |
 |---|---|
-| English E1 | **COMPLETE — 7 / 7** |
-| English E2 | **PASS / COMPLETE — 7 / 7; 2 corrections; 0 unresolved** |
-| English E3 | **READY / NOT STARTED** |
+| English E1 | **COMPLETE — 7/7** |
+| English E2 | **PASS — 7/7; 2 corrections; 0 unresolved** |
+| English E3 | **PASS — 7/7; 2 final corrections; 0 unresolved** |
+| English state | **`verified-complete`** |
 
-E2 independently compared all seven English pages against frozen Tamil and consolidated two corrections: PDF63 clarified that the function was not being held **with the election in view**, rather than suggesting the function itself was not taking place; PDF67 corrected the sculptor analogy to **“a single sculptor is enough to shape a statue.”** Election-law wording, film/award names, censorship language, the `இருவர்` / *Iruvar* joke, page joins and the closing note otherwise passed.
+E3 corrected `Viyath Ali Khan` → `Liaqat Ali Khan` after the source-confirmed Tamil name repair, and removed unsupported `pioneer` from the Raja Sandow description. The PDF64 source repair directly confirmed the existing English sense “even mentioning the name.” A second complete PDF63–69 Tamil→English sweep produced **0 further corrections / 0 unresolved issues**.
+
+Repository closure has **not** yet been run.
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
+Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
