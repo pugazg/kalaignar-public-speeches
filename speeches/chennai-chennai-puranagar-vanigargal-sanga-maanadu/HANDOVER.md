@@ -18,18 +18,18 @@
 ## Durable state
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 9 / 9**;
-- Tamil T2: **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE — 9 / 9; 0 additional corrections; 0 unresolved**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**;
+- Tamil T2 corrections: **4**; unresolved: **0**;
+- English E1: **COMPLETE — 9 / 9 pages**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED pending E2**;
 - repository closure: **NOT STARTED**.
 
-T3 confirmed all nine page records once in order, all four T2 corrections consolidated, every page join intact, and the final source note separated from the speech body. Preserve the source distinction between heading/contents `சென்னைப் புறநகர்` and closing-note `சென்னை புறநகர்`.
+E1 was translated only from the frozen Tamil layer and preserves page correspondence, figures and lists, applause markers, election rhetoric and the separate closing note. Conservative transliteration is retained for source-sensitive list terms that should be independently reconsidered at E2.
 
 Do not reopen the frozen Tamil layer without new source evidence.
 
 ## Exact next incomplete gate
 
-Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2 or constituent 7.
+Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Independently compare the complete English E1 pages against frozen Tamil and stop before E3 or constituent 7.
