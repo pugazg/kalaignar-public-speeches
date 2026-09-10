@@ -23,12 +23,10 @@
 - English E2: **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved**;
 - English E3: **PASS / COMPLETE — 16 / 16; 6 final corrections; 0 unresolved**;
 - English: **`verified-complete`**;
-- repository archival closure: **READY / NOT STARTED**.
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**.
 
-E3 rechecked every corrected English page against frozen Tamil, consolidated six final fidelity corrections and then repeated the complete 16-page comparison with no further issue. The final corrections remove an added causative on PDF 36, remove added `ruler` on PDF 41, and correct four PDF 48–49 renderings of `சோம்பல் முறித்தல்`.
+E3 rechecked every corrected English page against frozen Tamil, consolidated six final fidelity corrections and then repeated the complete 16-page comparison with no further issue. The combined constituents 3–4 closure synchronized this speech with the parent collection and root catalogue.
 
-Both Tamil and English are verified. Do not reopen either layer without new source/fidelity evidence.
-
-## Exact next incomplete gate
-
-Run combined **repository-level archival closure for constituents 3–4**. Synchronize each speech, the parent collection and the root catalogue; mark both fully archived only if closure checks pass. Do not start constituent 5 in the same activity.
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.
