@@ -59,12 +59,17 @@
     "tamil_visual_audit_corrections": 0,
     "tamil_visual_audit_unresolved": 0,
     "tamil_consolidation": "complete",
-    "tamil_consolidation_pages_checked": 4,
-    "tamil_consolidation_corrections": 0,
-    "tamil_consolidation_unresolved": 0,
-    "english_translation": "not-started",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "t3_additional_corrections": 0,
+    "english_translation": "first-pass-complete",
+    "english_translation_pages_completed": 4,
+    "english_translation_through_pdf_page": 53,
+    "english_translation_through_printed_page": 52,
+    "english_translation_source": "frozen transcription-ta.md only",
     "english_translation_review": "not-started",
     "english_translation_final_verification": "not-started",
-    "next_gate": "Combined constituents 3-4 English E1 first-pass translation — 20 verified Tamil pages total"
+    "next_gate": "Combined constituents 3-4 English E2 independent fidelity review — 20 pages total"
   }
 }

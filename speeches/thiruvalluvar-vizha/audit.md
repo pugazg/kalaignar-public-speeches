@@ -3,52 +3,42 @@
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
 **Scope:** PDF **34–49** / printed **33–48**
 
-## Source / duplicate / boundary gate
+## Tamil source closure
 
-**PASS / COMPLETE.** Parent mapping and direct source inspection establish a 16-page constituent. PDF 34 / printed p.33 opens under `திருவள்ளுவர் விழா`; PDF 49 / printed p.48 ends the body with `எனவே முன்கூட்டியே விழித்துக் கொள்ளுங்கள் என்று உங்களை எல்லாம் கேட்டுக் கொள்கிறேன்.` A separate note `15-1-98 அன்று திருவள்ளுவர் விழாவில் ஆற்றிய உரை` establishes date **1998-01-15**, event and role. Venue is not stated in inspected opening/closing evidence. Duplicate search found no pre-existing dedicated archive.
+- source/duplicate/boundary gate: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 16 / 16**;
+- Tamil T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
+- canonical Tamil: **`verified-complete` / FROZEN**.
 
-The separate closing note is metadata and is not part of the spoken/body transcription.
+T2 corrections consolidated in the frozen body:
 
-## T1 first-pass transcription
+1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
+2. PDF 40 / printed p.39: `திரைபடம்` → `திரைப்படம்`.
+3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
+4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
 
-Status: **COMPLETE — 16 / 16 pages**. All page records PDF **34–49** / printed **33–48** were present before T2.
+## English E1 first pass
 
-## T2 strict visual fidelity audit
+Status: **COMPLETE — 16 / 16 pages**.
 
-Status: **PASS / COMPLETE — 16 / 16 pages checked; 4 substantive corrections; 0 unresolved readings**.
+`translation-en.md` was translated only from frozen `transcription-ta.md`, preserving PDF/printed-page correspondence. E1 carried all names, dates, amounts, quoted Tirukkural/poetry, repetitions, page continuations and the final body/source-note distinction into English.
 
-Confirmed corrections:
+Source-sensitive transparency retained for E2:
 
-1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → **`நீங்களோ கண்டீர்கள்`**.
-2. PDF 40 / printed p.39: `திரைபடம்` → **`திரைப்படம்`**.
-3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → **`துணைத்தெடுத்து`**.
-4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → **`கருதுகிற நேரத்தில்`**.
+- frozen Tamil `சிற்றார்ப்புழத்தில்` on PDF 48 is opaque in context; E1 preserves the form as `Sitrarppuzham` instead of inferring a replacement;
+- `கலனாகிக்` on PDF 39 is rendered conservatively as “lies in a ruined state”;
+- the PDF 49 Bhogi/`போக்கி` wordplay is rendered with the explicit sense of removing/casting away;
+- quoted Tamil Kurals remain visible where useful alongside English explanation.
 
-Every page PDF **34–49** was directly re-read against the scan. T2 also rechecked names/initials, numerical grant figures, quoted Tirukkural/poetry punctuation, source-sensitive wording, the PDF 47–49 `ராணி`/Pongal passage, and all non-obvious page-boundary continuations. No unresolved reading remains.
+E1 is a first pass only. No English fidelity correction count is asserted yet.
 
-## T3 consolidation / freeze
+## English workflow
 
-Status: **PASS / COMPLETE — 16 / 16 page records checked; 0 additional corrections; 0 unresolved**.
-
-T3 confirmed:
-
-- page records PDF **34–49** / printed **33–48** occur once each in strict source order;
-- no speech page is missing or duplicated;
-- all four T2 corrections are consolidated in the live body;
-- superseded T1 readings occur only in the documented correction history, not as active body text;
-- all non-obvious cross-page continuations remain intact;
-- the final body sentence and separate closing note remain correctly separated.
-
-The canonical Tamil transcription is now **`verified-complete` / FROZEN**. Any later Tamil change requires new controlling-source evidence and dependent English re-verification.
-
-## Tamil workflow
-
-- T1: **COMPLETE — 16 / 16**;
-- T2: **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
-- T3: **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
-- Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**.
+- E1: **COMPLETE — 16 / 16**;
+- E2: **READY / NOT STARTED — 0 / 16**;
+- E3: **BLOCKED** until E2 completes.
 
 ## Exact next gate
 
-Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2.
+Run combined **English E2 independent fidelity review for constituents 3–4 — 20 pages total**. Independently compare every English page against the frozen Tamil layer, log and consolidate only confirmed corrections, and stop before E3.
