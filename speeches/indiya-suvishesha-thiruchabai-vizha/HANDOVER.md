@@ -23,15 +23,13 @@ Opening heading: `இந்திய சுவிசேஷத் திருச
 
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 4 / 4 pages**;
-- Tamil transcription state: **`first-pass-complete`**;
-- Tamil T2: **READY / NOT STARTED — 0 / 4**;
-- Tamil T3: **BLOCKED**;
+- Tamil T2: **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved**;
+- Tamil transcription state: **`first-pass-complete` pending T3 freeze**;
+- Tamil T3: **READY / NOT STARTED**;
 - English E1/E2/E3: **BLOCKED**.
 
-The complete first-pass body is in `transcription-ta.md`, with one page record for every PDF page **50–53**. The printed closing note is intentionally outside the speech body.
-
-T2 must directly re-read every page. Priority rechecks include `கொள்‘கை’யிலும் ‘கை’`, names/denominational terminology, the PDF 52 `கால்டுவெல்` / `ஜி.யு. போப்` / `வீரமாமுனிவர்` list, the 50→51, 51→52 and 52→53 page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
+T2 directly re-read all four source pages and confirmed the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the historical-name list, all page continuations and the final communal-harmony passage. No correction was required and no unresolved Tamil reading remains.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**. Constituent 3 contributes 16 pages and constituent 4 contributes 4. Keep audit/correction records separate, do not start T3 in the same activity, and do not start constituent 5.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm complete page order and boundaries, mark Tamil `verified-complete` only if clean, and stop before English or constituent 5.
