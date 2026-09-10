@@ -9,7 +9,6 @@
 - SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
 - Actual scans: **425**
 - Classification: **36-item multi-speech collection**
-- Root continuation prompt: `NEXT_CHAT_PROMPT.md`
 
 ## Live-main rule
 
@@ -17,27 +16,25 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**;
-- archives started / source-gated: **9 / 36**;
+- mapped: **36 / 36**; started / source-gated: **9 / 36**;
 - Tamil T1 complete: **9 / 36**;
-- Tamil T2/T3 complete / Tamil verified: **6 / 36**;
+- Tamil T2 complete: **9 / 36**;
+- Tamil T3 complete / Tamil verified: **6 / 36**;
 - English E1/E2/E3 complete: **6 / 36**;
 - fully archived: **6 / 36**.
 
-Constituents **1–6 are CLOSED / FULLY ARCHIVED**. Do not reopen them without genuinely new source evidence.
+Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
 
-## Active same-gate batch — constituents 7–9
+## Constituents 7–9 — durable Tamil T2 result
 
-Source/duplicate/boundary: **PASS / COMPLETE — 24 pages; duplicate unresolved 0; boundary unresolved 0**.
+Combined strict direct-scan T2: **PASS / COMPLETE — 24/24 pages; 4 substantive corrections; 0 unresolved readings**.
 
-Tamil T1: **COMPLETE — 24/24 pages**:
+- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10; 0 corrections**; PDF72 `தமிழ்நாட்டை என்` confirmed.
+- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9; 1 correction** — PDF84 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`; PDF88 `அமைகிறேன்` confirmed.
+- 9 `புத்தாண்டு இசைவிழா`: **5/5; 3 corrections** — PDF90 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`.
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10** — PDF70–79 / pp.69–78;
-- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9** — PDF80–88 / pp.79–87;
-- 9 `புத்தாண்டு இசைவிழா`: **5/5** — PDF89–93 / pp.88–92.
-
-Missing T1 page records: **0**. Explicit unreadable/unknown placeholders: **0**. Each source closing note remains separate from the speech body. T2 attention readings are documented in the three speech audits; do not silently normalize them. Constituent 7 date/venue remain unstated; constituent 9 retains the contents/title spacing distinction.
+Each separate closing note remains outside the speech body. Constituent 7 date/venue remain unstated. Constituent 9 retains `புத்தாண்டு இசை விழா` in contents versus `புத்தாண்டு இசைவிழா` in heading/closing note.
 
 ## Exact next incomplete gate
 
-Combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total. Re-read every one of the 24 source pages directly against the scan and record constituent-specific corrections. Stop after T2; do not start T3, English, repository closure, or constituent 10 in the same activity.
+Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Confirm all T2 corrections are consolidated, audit page boundaries and stale superseded readings, confirm no page missing/duplicated, then mark Tamil verified-complete. Stop before English, repository closure, or constituent 10 in the same activity.
