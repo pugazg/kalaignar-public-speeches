@@ -18,8 +18,19 @@
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
 
-No Tamil speech-body text has been transcribed at this gate.
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 9/9 source pages.**
+
+- canonical page records: PDF **94–102**, each present exactly once and in source order;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate source closing note: preserved outside the speech body;
+- T1 was produced from direct visual reading of the controlling scans;
+- no T2 fidelity claim is made yet.
+
+Source-sensitive T1 items intentionally preserved for T2 re-check include the `“எதிர் பார்ப்பு”` / `‘எதிர்ப்பு’` wordplay on PDF94, page-boundary continuations, names/titles/numerals, and source-specific legal/administrative wording.
 
 ## Exact next gate
 
-Combined **Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**.
+Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the scans; stop before T3.
