@@ -10,7 +10,7 @@
 - Actual scans: **425**
 - Classification: **36-item multi-speech collection**
 
-## Collection state
+## Durable collection state
 
 - mapped: **36 / 36**;
 - archives started: **2 / 36**;
@@ -21,39 +21,25 @@
 - English E1 complete: **2 / 36**;
 - English E2 complete: **2 / 36**;
 - English E3 complete: **2 / 36**;
-- fully archived: **1 / 36**.
+- fully archived: **2 / 36**.
 
-Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` remains **CLOSED / FULLY ARCHIVED**.
+Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` and constituent 2 `முரசொலி அறக்கட்டளை விருது வழங்கு விழா` are both **CLOSED / FULLY ARCHIVED**.
 
-## Active constituent 2 / 36
-
-`முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/`
-
-- PDF **19–33** / printed **18–32** — **15 pages**;
-- date **1998-01-13** from source closing note;
-- venue unresolved/not stated in inspected source;
-- Tamil T1/T2/T3: **COMPLETE**;
-- Tamil: **`verified-complete` / FROZEN**;
-- Tamil T2 corrections: **5**;
-- Tamil unresolved: **0**;
-- English E1: **COMPLETE — 15 / 15 pages**;
-- English E2: **PASS / COMPLETE — 15 / 15 pages; 6 corrections; 0 unresolved**;
-- English E3: **PASS / COMPLETE — 15 / 15 pages; 2 corrections; 0 unresolved**;
-- English: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**.
-
-E2 independently compared every English page with frozen Tamil and consolidated six corrections: PDF 20 restored the departure sense in `பெற்றுச் சென்றிருக்கின்றார்கள்`; PDF 21 restored singular `கொள்கையை`; PDF 25 corrected the `அழைத்தார்` relation; PDF 28 restored the passive Thuglak relation; PDF 31 removed added agency from `கிடைத்திருக்கிறார்கள்`; and PDF 33 restored the explicit first-person closing wish.
-
-E3 then performed a fresh end-to-end Tamil→English verification. Its first sweep corrected PDF 23 `men of skill` → `people of skill` for `வித்தகர்களுக்கு`, and PDF 27 `Even if today...` → `Even though today...` for `இருந்தாலும்கூட`. After consolidation, a second complete 15-page sweep found **0 further corrections and 0 unresolved fidelity issues**.
-
-The final English also reconfirms the opening constituency wordplay, all names/numbers, PDF 26 repetition, `Vedaviththu`, `வாடியவர்`, PDF 30 punctuation transparency, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, PDF 32 pressure/close rhetoric, all page boundaries, final spoken sentence and separate closing note.
+Constituent 2 final evidence: Tamil T2 **5 corrections / 0 unresolved**, T3 **0 additional corrections**; English E2 **6 corrections / 0 unresolved**, E3 **2 corrections / 0 unresolved** followed by a clean complete second E3 sweep. Tamil and English are `verified-complete`, and repository closure is complete.
 
 ## Multi-constituent efficiency policy
 
-Read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH_PROCESSING_GUIDE.md`.
+Read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH_PROCESSING_GUIDE.md`. Consecutive eligible constituents may advance through the **same gate** in one iteration up to **25 source pages**, while each remains a separate archive. Do not mix workflow gates merely to fill the allowance.
 
-Eligible consecutive constituents may advance through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each remains a separate archive. Do not mix workflow gates merely to fill the allowance.
+## Next batch — NOT STARTED
+
+The next source-gate batch is:
+
+- **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages**;
+- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages**.
+
+Combined total: **20 source pages**. Constituent 5 is excluded because adding its 9 pages would make the batch 29 pages.
 
 ## Exact next incomplete gate
 
-Run **repository-level archival closure for constituent 2 / 36**. Confirm all seven standard speech files and all controls agree that Tamil and English are `verified-complete`; update the root catalogue; mark constituent 2 fully archived; set the next constituent to **3 / 36 — `திருவள்ளுவர் விழா`**; then stop before starting constituent 3 source work.
+Run the **multi-constituent source/duplicate/boundary gate for constituents 3–4**. Inspect each opening and ending independently against the controlling PDF, establish only source-supported date/event/role/venue facts, confirm duplicate status and exact boundaries, create separate speech trees only after the source gates pass, and stop before mixing in a later workflow gate.
