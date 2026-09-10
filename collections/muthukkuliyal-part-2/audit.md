@@ -27,15 +27,21 @@ Combined result: **PASS / COMPLETE — 24/24 source pages; 4 substantive correct
 
 The source PDF remains uncommitted.
 
+## Constituents 7–9 — Tamil T3 consolidation/freeze
+
+Combined result: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved readings**.
+
+T3 confirmed all 24 expected PDF page records exactly once and in order; all four T2 corrections are consolidated; no stale superseded reading remains in the speech bodies; page-boundary continuations remain intact; constituent 7 `தமிழ்நாட்டை என்`, constituent 8 `அமைகிறேன்`, and constituent 9 title-spacing distinction remain preserved; and each separate source closing note remains outside its speech body. Constituents 7–9 are now **`verified-complete` / FROZEN** at the Tamil layer.
+
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 9/36 / 9/36**;
 - Tamil T1 complete: **9/36**;
 - Tamil T2 complete: **9/36**;
-- Tamil T3 complete / Tamil verified: **6/36**;
+- Tamil T3 complete / Tamil verified: **9/36**;
 - English E1/E2/E3 complete: **6/36**;
 - fully archived: **6/36**.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Stop before English or constituent 10.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
