@@ -37,8 +37,8 @@
     "constituent_items_source_gated": 9,
     "constituent_items_t1_complete": 9,
     "constituent_items_t2_complete": 9,
-    "constituent_items_t3_complete": 6,
-    "constituent_items_tamil_verified": 6,
+    "constituent_items_t3_complete": 9,
+    "constituent_items_tamil_verified": 9,
     "constituent_items_e1_complete": 6,
     "constituent_items_e2_complete": 6,
     "constituent_items_e3_complete": 6,
@@ -48,7 +48,7 @@
     "active_constituent_number": 7,
     "active_constituent_slug": "purusai-gopalarathinam-illa-manavizha",
     "active_constituent_title_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
-    "active_constituent_status": "t2-complete-t3-pending",
+    "active_constituent_status": "t3-complete-e1-pending",
     "active_constituent_pdf_pages": "70-79",
     "active_constituent_printed_pages": "69-78",
     "active_constituent_pages_total": 10,
@@ -68,11 +68,14 @@
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
     "active_batch_t1_pages_completed": 24,
-    "active_batch_gate": "tamil-t3",
+    "active_batch_gate": "english-e1",
     "next_constituent_number": 7,
-    "next_gate": "Combined Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total",
+    "next_gate": "Combined English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total",
     "active_batch_t2_pages_completed": 24,
     "active_batch_t2_corrections": 4,
-    "active_batch_t2_unresolved": 0
+    "active_batch_t2_unresolved": 0,
+    "active_batch_t3_pages_completed": 24,
+    "active_batch_t3_additional_corrections": 0,
+    "active_batch_t3_unresolved": 0
   }
 }
