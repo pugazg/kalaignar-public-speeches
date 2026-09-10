@@ -1,10 +1,10 @@
 # Muthamizh Peravai Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **9 / 9 pages COMPLETE**; E2 **9 / 9 PASS; 3 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1 **9 / 9 pages COMPLETE**; E2 **9 / 9 PASS; 3 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **80–88** / printed **79–87**
 
-> E1 was translated only from the frozen Tamil layer. E2 independently compared all 9 English pages against that frozen Tamil and consolidated 3 fidelity corrections. English remains provisional until E3 final end-to-end verification.
+> E1 was translated only from the frozen Tamil layer. E2 independently compared all 9 English pages against that frozen Tamil and consolidated 3 fidelity corrections. English E3 final end-to-end verification: **PASS** — no additional corrections required; final English is now `verified-complete`.
 
 ## PDF 80 / printed p.79
 
@@ -81,6 +81,14 @@ wonderful speech here. Indeed, his Tamil played and delighted us here to such an
 **Source closing note (separate from speech body):**  
 Speech delivered at the Muthamizh Peravai function on 3-2-98.
 
+## E3 final verification
+
+- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**.
+- Every English page was re-read from beginning to end against the frozen Tamil layer and the E2-corrected English.
+- PDF/printed-page correspondence, page-boundary continuations, names/titles/numerals, rhetorical force and repetition, performance markers, source-sensitive notes, and the separate source closing note were verified.
+- No frozen Tamil text was changed.
+- Final English state: **`verified-complete`**.
+
 ## E2 fidelity-review note
 
 - English E1: **9/9 COMPLETE**.
@@ -102,4 +110,4 @@ All 9 page joins, names, numerals, rhetorical repetitions, performance markers, 
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.
+Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
