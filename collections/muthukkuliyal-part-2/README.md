@@ -14,7 +14,7 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - Tamil verified: **2 / 36**
 - English E1 complete: **2 / 36**
 - English E2 complete: **2 / 36**
-- English E3 complete: **1 / 36**
+- English E3 complete: **2 / 36**
 - fully archived: **1 / 36**
 
 ## Constituent 1
@@ -32,13 +32,14 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - Tamil transcription: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 15 / 15**;
 - English E2: **PASS / COMPLETE — 15 / 15; 6 corrections; 0 unresolved**;
-- English translation: **`fidelity-corrections-consolidated`**;
-- English E3: **READY / NOT STARTED**.
+- English E3: **PASS / COMPLETE — 15 / 15; 2 corrections; 0 unresolved**;
+- English translation: **`verified-complete`**;
+- repository closure: **READY / NOT STARTED**.
 
-E2 independently compared the complete E1 translation against frozen `transcription-ta.md`. Six confirmed fidelity corrections were consolidated: PDF 20 restored the departure sense in `பெற்றுச் சென்றிருக்கின்றார்கள்`; PDF 21 restored singular `கொள்கையை`; PDF 25 corrected the `அழைத்தார்` relationship; PDF 28 restored the passive Thuglak relationship; PDF 31 removed an added giver from the `கிடைத்திருக்கிறார்கள்` sentence; and PDF 33 restored the explicit first-person closing wish. No unresolved English fidelity issue remains.
+E3 performed a fresh full Tamil→English verification after the six E2 corrections were consolidated. Its first sweep made two final source-fidelity refinements: PDF 23 `men of skill` → `people of skill` for `வித்தகர்களுக்கு`, and PDF 27 `Even if today...` → `Even though today...` for `இருந்தாலும்கூட`. A second complete 15-page sweep then found **0 further corrections / 0 unresolved**.
 
-For multi-constituent work, apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`: consecutive eligible speeches may share one same-gate iteration up to **25 source pages**, while remaining separate archives. At present only constituent 2 is eligible for E3.
+For multi-constituent work, apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`: consecutive eligible speeches may share one same-gate iteration up to **25 source pages**, while remaining separate archives.
 
 ## Exact next gate
 
-Constituent 2 English **E3 final end-to-end verification — all 15 pages**, comparing the consolidated English against frozen Tamil from beginning to end. If E3 passes, English may become `verified-complete`; repository closure remains a separate gate.
+Run **repository-level archival closure for constituent 2 / 36**. Synchronize the speech, collection and root catalogue controls, mark constituent 2 fully archived, advance the collection to **constituent 3 / 36 — `திருவள்ளுவர் விழா`**, and stop before starting constituent 3 source work.
