@@ -35,23 +35,22 @@ This establishes speech date **1998-01-13**, event wording `முரசொல�
 - Tamil T3: **PASS / COMPLETE**;
 - Tamil transcription: **`verified-complete` / FROZEN**;
 - T3 additional corrections: **0**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**.
+- English E1: **COMPLETE — 15 / 15 pages**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED**.
 
-## T2 correction record
+## Tamil freeze record
 
-1. PDF 19: `இசைக்குநர்` → `இயக்குநர்`.
-2. PDF 21: `அங்காங்குள்ள` → `ஆங்காங்குள்ள`.
-3. PDF 22: `போது` → `போதாது` in `அறக்கட்டளை என்று சொன்னால் போதாது;`.
-4. PDF 26: `இந்த ஸ்டூடியோவில் இருந்து` → `இந்த ஸ்டுடியோவில் இருந்து`; preserve the earlier same-page `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` exactly as printed.
-5. PDF 31: `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`.
+All five T2 corrections are consolidated exactly once. PDF **19–33** / printed **18–32** is continuous with no missing or duplicate page record, all page-boundary continuations are intact, and the final source closing note remains outside the speech body. No unresolved Tamil reading remains.
 
-## T3 freeze result
+## English E1 checkpoint
 
-T3 checked the canonical transcript as one continuous 15-page unit. All five corrections are consolidated, PDF **19–33** / printed **18–32** appears once and in order, the page-boundary continuations remain intact, no paragraph is duplicated or omitted, and the closing note remains outside the speech body. No stale superseded reading or unresolved Tamil reading remains.
+`translation-en.md` now contains a complete first-pass English translation for all **15** verified Tamil pages, derived only from frozen `transcription-ta.md`.
 
-The Tamil layer is now frozen. A later Tamil change requires new direct-source evidence and dependent English re-verification.
+E1 preserves page correspondence, names, numerical details, rhetorical repetition and the political `தொகுதி` / constituency wordplay at the opening. It keeps `Vedaviththu` as a transliterated title rather than inventing an outside meaning. PDF 30 includes an explicit transparency note because the frozen Tamil prints the magazine-title quotation as `“சாவி’ பத்திரிகையில்` with mismatched quotation marks; English regularizes only that punctuation and does not supply outside wording.
+
+E1 is not final English. E2 must independently compare every English page against the frozen Tamil and record/consolidate any confirmed corrections before E3.
 
 ## Exact next incomplete gate
 
-Run **English E1 first-pass translation — all 15 verified Tamil pages** from frozen `transcription-ta.md` only. Preserve page correspondence, rhetoric, repetition and difficult source wording; use a concise transparency note rather than silently repairing a confirmed odd Tamil form. Do not start E2 until E1 is complete.
+Run **English E2 independent fidelity review — all 15 pages / PDF 19–33 / printed 18–32**. Check omissions, additions, subject/pronoun relations, repeated rhetoric, names/numbers, difficult frozen forms, page boundaries, the final body sentence and the separate closing note. Do not begin E3 until E2 completes.
