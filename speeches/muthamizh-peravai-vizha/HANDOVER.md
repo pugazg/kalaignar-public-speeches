@@ -16,10 +16,17 @@
 
 ## Durable state
 
-Tamil T1/T2/T3: **COMPLETE — 9/9; `verified-complete` / FROZEN**. English E1: **9/9 COMPLETE**. English E2: **PASS — 9/9; 3 corrections; 0 unresolved**. English E3: **PASS — 9/9; 0 additional corrections; 0 unresolved**; final English is **`verified-complete`**.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1/T2/T3: **COMPLETE — 9/9**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **9/9 COMPLETE**;
+- English E2: **PASS — 9/9; 3 corrections; 0 unresolved**;
+- English E3: **PASS — 9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**.
 
-The single Tamil T2 correction `எண்ணி எண்ணி` → `எண்ணியெண்ணி` remains consolidated. E2 corrections restored the categorical Solomon Pappiah statement, source `சென்னை`, and `சாதாரணமான, சாமான்யமான`; the unmatched PDF87 source parenthesis remains noted and preserved. No Tamil text was changed during E3.
+The Tamil T2 correction `எண்ணி எண்ணி` → `எண்ணியெண்ணி` remains consolidated. PDF88 `அமைகிறேன்` remains source-confirmed. E2 corrections restored the categorical Solomon Pappiah statement, source `சென்னை`, and `சாதாரணமான, சாமான்யமான`; E3 found no further issue. The combined constituents 7–9 closure synchronized this speech with the parent collection and root catalogue.
 
-## Exact next gate
-
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.
