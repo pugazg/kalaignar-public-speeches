@@ -17,25 +17,21 @@
 
 ## Source / duplicate / boundary gate — PASS / COMPLETE
 
-Opening heading: `இந்திய சுவிசேஷத் திருச்சபை விழா` on PDF 50 / printed p.49.
-
-PDF 53 / printed p.52 ends the body with:
-
-`பெருவிழாவிலே நாம் பூண வேண்டிய உறுதிமொழி என்று கூறி இந்த அளவில் உங்களிடமிருந்து விடை பெறுகிறேன்.`
-
-A separate source note follows:
-
-`16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`
-
-This establishes speech date **1998-01-16**, event wording `இந்திய சுவிசேஷத் திருச்சபை விழா`, and role `ஆற்றிய உரை`. Venue remains unset because the inspected opening/closing evidence does not state one. Repository search and the live speech tree show no pre-existing dedicated archive for this constituent.
+Opening heading: `இந்திய சுவிசேஷத் திருச்சபை விழா`. The body ends on PDF 53 / printed p.52 with `பெருவிழாவிலே நாம் பூண வேண்டிய உறுதிமொழி என்று கூறி இந்த அளவில் உங்களிடமிருந்து விடை பெறுகிறேன்.` A separate source note follows: `16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`. This establishes date **1998-01-16**, event `இந்திய சுவிசேஷத் திருச்சபை விழா`, and role `ஆற்றிய உரை`; venue remains unstated.
 
 ## Durable workflow state
 
 - source/duplicate/boundary gate: **PASS / COMPLETE**;
-- Tamil T1: **NOT STARTED — 0 / 4**;
-- Tamil T2/T3: **BLOCKED**;
+- Tamil T1: **COMPLETE — 4 / 4 pages**;
+- Tamil transcription state: **`first-pass-complete`**;
+- Tamil T2: **READY / NOT STARTED — 0 / 4**;
+- Tamil T3: **BLOCKED**;
 - English E1/E2/E3: **BLOCKED**.
+
+The complete first-pass body is in `transcription-ta.md`, with one page record for every PDF page **50–53**. The printed closing note is intentionally outside the speech body.
+
+T2 must directly re-read every page. Priority rechecks include `கொள்‘கை’யிலும் ‘கை’`, names/denominational terminology, the PDF 52 `கால்டுவெல்` / `ஜி.யு. போப்` / `வீரமாமுனிவர்` list, the 50→51, 51→52 and 52→53 page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T1 first-pass transcription for constituents 3–4 — 20 source pages total**. Constituent 3 contributes PDF **34–49** / printed **33–48**; this speech contributes PDF **50–53** / printed **49–52**. Keep the archives separate and do not start constituent 5.
+Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**. Constituent 3 contributes 16 pages and constituent 4 contributes 4. Keep audit/correction records separate, do not start T3 in the same activity, and do not start constituent 5.
