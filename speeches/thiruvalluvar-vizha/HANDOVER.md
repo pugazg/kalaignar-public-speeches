@@ -17,16 +17,15 @@
 ## Durable state
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 16 / 16**;
-- Tamil T2: **PASS — 16 / 16; 4 corrections; 0 unresolved**;
-- Tamil T3: **PASS — 16 / 16; 0 additional corrections; 0 unresolved**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 16 / 16 pages**;
-- English E2: **READY / NOT STARTED**;
-- English E3: **BLOCKED**.
+- English E2: **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved**;
+- English state: **`fidelity-corrections-consolidated`**;
+- English E3: **READY / NOT STARTED**.
 
-English E1 is in `translation-en.md` and was derived only from frozen `transcription-ta.md`. Preserve page correspondence. E2 must independently review the full translation, with special attention to the opaque frozen-Tamil form `சிற்றார்ப்புழத்தில்` retained as `Sitrarppuzham`, the conservative rendering of `கலனாகிக்`, the quotations and numerical grants, the `ராணி`/Pongal sequence, and the Bhogi/`போக்கி` wordplay.
+E2 independently re-read the complete English translation against frozen Tamil and consolidated six corrections: PDF 34 book-release sentence; PDF 38 `கோட்டம்` / `தோட்டம்` wordplay; PDF 39 transparent handling of `கலனாகிக்`; PDF 41 `என்னைத் துணைத்தெடுத்து`; PDF 43 `இனமானப் பேராசிரியர்`; PDF 44 English rendering of the quoted Kural. No unresolved English fidelity issue remains. Preserve `சிற்றார்ப்புழத்தில்` transparently as represented in the E2-reviewed translation unless E3 finds a direct frozen-Tamil fidelity problem.
 
 ## Exact next incomplete gate
 
-Run combined **English E2 independent fidelity review for constituents 3–4 — 20 pages total**. This speech contributes 16 pages and constituent 4 contributes 4 pages. Keep review/correction records separate, do not start E3 in the same activity, and do not start constituent 5.
+Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Constituent 3 contributes 16 pages and constituent 4 contributes 4 pages. Do not start repository closure or constituent 5 in the same activity.
