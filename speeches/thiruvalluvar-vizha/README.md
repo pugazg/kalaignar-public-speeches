@@ -22,10 +22,13 @@ Tamil T1/T2/T3 are complete. T2 consolidated four source-confirmed corrections a
 |---|---|
 | English E1 | **COMPLETE — 16 / 16 pages** |
 | English E2 independent fidelity review | **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved** |
-| English E3 final verification | **READY / NOT STARTED** |
+| English E3 final verification | **PASS / COMPLETE — 16 / 16; 6 final corrections; 0 unresolved** |
+| English state | **`verified-complete`** |
 
-E2 independently compared every English page against frozen `transcription-ta.md` and consolidated six fidelity corrections. These cover the book-release sentence on PDF 34, the `கோட்டம்` / `தோட்டம்` pun on PDF 38, transparent handling of opaque `கலனாகிக்` on PDF 39, `என்னைத் துணைத்தெடுத்து` on PDF 41, the epithet `இனமானப் பேராசிரியர்` on PDF 43, and an English rendering for the quoted Kural on PDF 44. `சிற்றார்ப்புழத்தில்` remains transparently represented as `Sitrarppuzham`. No unresolved English fidelity issue remains, but English is not yet `verified-complete` until E3.
+E3 rechecked the complete corrected English against frozen `transcription-ta.md` from beginning to end. It removed a causative sense not present in PDF 36 Tamil, removed added `ruler` from PDF 41, and corrected four occurrences of the PDF 48–49 `சோம்பல் முறித்தல்` idiom. A complete second E3 sweep then passed with no further issue. The E2 handling of `கோட்டம்` / `தோட்டம்`, opaque `கலனாகிக்`, `என்னைத் துணைத்தெடுத்து`, `இனமானப் பேராசிரியர்`, the quoted Kural and transparent `சிற்றார்ப்புழத்தில்` remains intact.
+
+Tamil and English are now both `verified-complete`. Repository-level closure has not yet been performed.
 
 ## Exact next gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Compare the corrected English from beginning to end against frozen Tamil, keep any final correction records separate by constituent, and do not begin repository closure or constituent 5 in the same activity.
+Run combined **repository-level archival closure for constituents 3–4**. Synchronize speech, collection and root catalogue controls and mark each constituent fully archived only if the closure checks pass. Do not start constituent 5 in the same activity.
