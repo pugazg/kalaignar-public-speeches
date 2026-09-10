@@ -19,43 +19,39 @@ Collection-level source/mapping/progress audit.
 
 `முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — PDF **19–33** / printed **18–32** — Tamil + English `verified-complete`, repository closure complete.
 
-## Source-gated constituents
+## Active constituents 3–4 — Tamil T1 complete
 
-### 3 — SOURCE / DUPLICATE / BOUNDARY GATE PASS
+### 3 — `திருவள்ளுவர் விழா`
 
-`திருவள்ளுவர் விழா` — `speeches/thiruvalluvar-vizha/` — PDF **34–49** / printed **33–48** — **16 pages**.
+`thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — **16 pages**.
 
-- direct opening: PDF 34 / printed p.33, `திருவள்ளுவர் விழா`;
-- final body on PDF 49 / printed p.48: `எனவே முன்கூட்டியே விழித்துக் கொள்ளுங்கள் என்று உங்களை எல்லாம் கேட்டுக் கொள்கிறேன்.`;
-- separate closing note: `15-1-98 அன்று திருவள்ளுவர் விழாவில் ஆற்றிய உரை`;
-- date: **1998-01-15**;
-- event: `திருவள்ளுவர் விழா`;
-- role: `ஆற்றிய உரை`;
-- venue: **not stated in inspected opening/closing evidence**;
-- duplicate gate: **PASS — no pre-existing dedicated speech archive**;
-- Tamil T1: **NOT STARTED — 0 / 16**.
+- source/duplicate/boundary gate: **PASS / COMPLETE**;
+- date **1998-01-15**, event `திருவள்ளுவர் விழா`, role `ஆற்றிய உரை`, venue unstated in inspected opening/closing evidence;
+- Tamil T1: **COMPLETE — 16 / 16**;
+- Tamil state: **`first-pass-complete`**;
+- T2: **READY / NOT STARTED**;
+- closing note remains outside speech body.
 
-### 4 — SOURCE / DUPLICATE / BOUNDARY GATE PASS
+T1 retained non-obvious page continuations and left source-sensitive forms for T2 rather than silently normalizing them. Priority T2 checks include `உரை வேற்றுமை`, `கலனாகிக்`, `திரைபடம்`, `துளைத்தெடுத்து`, names/initials, grant figures, quoted verse punctuation and the PDF 47–49 `ராணி`/Pongal passage.
 
-`இந்திய சுவிசேஷத் திருச்சபை விழா` — `speeches/indiya-suvishesha-thiruchabai-vizha/` — PDF **50–53** / printed **49–52** — **4 pages**.
+### 4 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
 
-- direct opening: PDF 50 / printed p.49, `இந்திய சுவிசேஷத் திருச்சபை விழா`;
-- final body on PDF 53 / printed p.52: `பெருவிழாவிலே நாம் பூண வேண்டிய உறுதிமொழி என்று கூறி இந்த அளவில் உங்களிடமிருந்து விடை பெறுகிறேன்.`;
-- separate closing note: `16-1-98 அன்று இந்திய சுவிசேஷத் திருச்சபை விழாவில் ஆற்றிய உரை`;
-- date: **1998-01-16**;
-- event: `இந்திய சுவிசேஷத் திருச்சபை விழா`;
-- role: `ஆற்றிய உரை`;
-- venue: **not stated in inspected opening/closing evidence**;
-- duplicate gate: **PASS — no pre-existing dedicated speech archive**;
-- Tamil T1: **NOT STARTED — 0 / 4**.
+`indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — **4 pages**.
 
-For both constituents, the printed closing note is metadata and is not part of the spoken/body transcription.
+- source/duplicate/boundary gate: **PASS / COMPLETE**;
+- date **1998-01-16**, event `இந்திய சுவிசேஷத் திருச்சபை விழா`, role `ஆற்றிய உரை`, venue unstated in inspected opening/closing evidence;
+- Tamil T1: **COMPLETE — 4 / 4**;
+- Tamil state: **`first-pass-complete`**;
+- T2: **READY / NOT STARTED**;
+- closing note remains outside speech body.
+
+T1 preserved the 50→51, 51→52 and 52→53 continuations. Priority T2 checks include the `கொள்‘கை’யிலும் ‘கை’` wordplay, names/denominational terminology, PDF 52 historical-name list and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
 
 ## Collection totals
 
 - mapped: **36 / 36**;
 - archives started / source-gated: **4 / 36**;
-- T1 complete: **2 / 36**;
+- T1 complete: **4 / 36**;
 - T2 complete: **2 / 36**;
 - T3 complete / Tamil verified: **2 / 36**;
 - E1/E2/E3 complete: **2 / 36**;
@@ -63,4 +59,4 @@ For both constituents, the printed closing note is metadata and is not part of t
 
 ## Exact next gate
 
-Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, run combined **Tamil T1 first-pass transcription for constituents 3–4 — 20 source pages total**. Keep their page records and archives separate. Constituent 5 remains outside this iteration.
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total**. Re-read every page directly against the controlling scan, keep correction/unresolved records separate by constituent, consolidate only confirmed readings, and stop before T3. Constituent 5 remains outside this iteration.
