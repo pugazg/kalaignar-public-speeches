@@ -102,36 +102,36 @@ speeches/
 
 ### அறப்போர்
 
-The archival text workflow is complete: source identification, 17-page Tamil transcription, strict visual fidelity audit, English translation, English fidelity review, and final Tamil→English verification have all passed. The supplied source itself does not establish the original speech date, venue or event, so those fields remain deliberately unset.
+The archival text workflow is complete.
 
 ### இதய பேரிகை
 
-The archival workflow is complete for the full 32-page body: source inspection and page mapping, Tamil transcription, strict visual Tamil audit, Tamil consolidation/freeze, English translation, English fidelity review with all 19 confirmed corrections consolidated, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**.
+The archival workflow is complete.
 
 ### பூந்தோட்டம்
 
-The archival workflow is complete for the 12-page speech body on PDF pages 6-17 / printed pages 5-16. Both Tamil and English layers are **`verified-complete`**.
+The archival workflow is complete.
 
 ### பள்ளி வாழ்க்கை
 
-The archival workflow is complete for the **76-page body on PDF pages 6-81 / printed pages 5-80**. Both Tamil and English are **`verified-complete`**.
+The archival workflow is complete.
 
 ### கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை
 
-The archival audio workflow is complete for the **443.559-second / 00:07:23.559** Tamil Digital Library MP3. Both Tamil and English are **`verified-complete`**.
+The archival audio workflow is complete.
 
 ### தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா
 
-The archival workflow is complete for constituent **1 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **12–18** / printed pages **11–17**. Repository-level closure is complete.
+Repository-level closure is complete.
 
 ### முரசொலி அறக்கட்டளை விருது வழங்கு விழா
 
-The archival workflow is complete for constituent **2 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **19–33** / printed pages **18–32**. Repository-level closure is complete.
+Repository-level closure is complete.
 
 ### திருவள்ளுவர் விழா
 
-The archival workflow is complete for constituent **3 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **34–49** / printed pages **33–48**. Repository-level closure is complete.
+Repository-level closure is complete.
 
 ### இந்திய சுவிசேஷத் திருச்சபை விழா
 
-The archival workflow is complete for constituent **4 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **50–53** / printed pages **49–52**. Repository-level closure is complete.
+Repository-level closure is complete.
