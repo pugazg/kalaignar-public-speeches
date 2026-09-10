@@ -31,12 +31,12 @@ T3 confirmed all PDF **54–62** page records once in sequence, all four T2 corr
 
 | Gate | State |
 |---|---|
-| English E1 first-pass translation | **READY / NOT STARTED** |
-| English E2 independent fidelity review | **BLOCKED pending E1** |
-| English E3 final verification | **BLOCKED** |
+| English E1 first-pass translation | **COMPLETE — 9 / 9 pages** |
+| English E2 independent fidelity review | **READY / NOT STARTED** |
+| English E3 final verification | **BLOCKED pending E2** |
 
-English must be translated only from the frozen `transcription-ta.md` layer.
+E1 was translated only from the frozen `transcription-ta.md` layer, preserving the nine-page correspondence, figures and lists, rhetorical repetitions, applause markers, final body and separate source closing note. It remains provisional pending E2.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**. Stop before English E2 or constituent 7.
+Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Compare each English page independently against frozen Tamil, consolidate only confirmed corrections, and stop before E3 or constituent 7.
