@@ -1,10 +1,10 @@
 # புரசை கோபாலரத்தினம் இல்ல மணவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **10 / 10 pages COMPLETE**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **10 / 10 pages COMPLETE**  
 **Source range:** PDF **70–79** / printed **69–78**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 re-read all ten source pages. No transcription corrections were required; T2 unresolved readings: **0**. The unusual PDF72 / printed p.71 form `தமிழ்நாட்டை என்` was re-checked and is confirmed as printed. This layer is not yet frozen until T3 consolidation.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. No T2 transcription correction was required; T2 unresolved readings: **0**. T3 confirmed all 10 page records once in sequence, preserved page joins and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 70 / printed p.69
 
@@ -107,4 +107,18 @@
 - T2 corrections: **0**.
 - T2 unresolved readings: **0**.
 - PDF72 / printed p.71 `தமிழ்நாட்டை என்`: **CONFIRMED AS PRINTED**.
-- Tamil T3 consolidation/freeze: **READY / NOT STARTED**.
+- Tamil T3 consolidation/freeze: **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved**.
+
+## T3 consolidation/freeze result
+
+- Page records: **10/10, exactly once and in order**.
+- All T2 corrections/confirmed source readings: **CONSOLIDATED / PRESERVED**.
+- Stale superseded readings in speech body: **0**.
+- Missing/duplicated speech pages: **0 / 0**.
+- Separate source closing note: **PRESERVED OUTSIDE SPEECH BODY**.
+- T3 additional corrections: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Exact next gate
+
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
