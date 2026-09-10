@@ -22,12 +22,16 @@
 - duplicate unresolved: **0**; boundary unresolved: **0**;
 - Tamil T1: **COMPLETE — 9/9**;
 - Tamil T2: **PASS / COMPLETE — 9/9; 1 correction; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- English E1/E2/E3: **BLOCKED pending verified Tamil**;
+- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**;
 - repository closure: **NOT STARTED**.
 
 T2 correction: PDF84 / printed p.83 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`. PDF88 / printed p.87 `அமைகிறேன்` was re-read and confirmed as printed. PDF82→83 and PDF83→84 page-boundary continuations were checked against both scans. The source closing note remains separate from the speech body.
 
+T3 consolidation confirmed all 9 page records exactly once and in order, all T2 corrections/confirmed source forms consolidated, all page continuations intact, no stale superseded reading in the speech body, and the source closing note outside the speech body. **T3 additional corrections: 0; unresolved: 0.**
+
 ## Exact next incomplete gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Stop before English, repository closure, or constituent 10.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
