@@ -20,23 +20,21 @@ The source/duplicate/boundary gate passed. The heading/contents use `சென�
 
 | Gate | State |
 |---|---|
-| Tamil T1 first-pass transcription | **COMPLETE — 9 / 9 pages** |
-| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 9 / 9; 0 additional corrections; 0 unresolved** |
+| Tamil T1 | **COMPLETE — 9 / 9** |
+| Tamil T2 | **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved** |
+| Tamil T3 | **PASS / COMPLETE — 9 / 9; 0 additional corrections; 0 unresolved** |
 | Tamil state | **`verified-complete` / FROZEN** |
-
-T3 confirmed all PDF **54–62** page records once in sequence, all four T2 corrections consolidated, all page continuations intact, and the final body/source-note separation preserved. No additional T3 correction was required.
 
 ## English workflow
 
 | Gate | State |
 |---|---|
-| English E1 first-pass translation | **COMPLETE — 9 / 9 pages** |
-| English E2 independent fidelity review | **READY / NOT STARTED** |
-| English E3 final verification | **BLOCKED pending E2** |
+| English E1 | **COMPLETE — 9 / 9** |
+| English E2 | **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved** |
+| English E3 | **READY / NOT STARTED** |
 
-E1 was translated only from the frozen `transcription-ta.md` layer, preserving the nine-page correspondence, figures and lists, rhetorical repetitions, applause markers, final body and separate source closing note. It remains provisional pending E2.
+E2 independently compared all nine English pages against frozen Tamil and consolidated four corrections: explicit second-person agency on PDF55; scope of `39 இனங்கள்` on PDF59; conservative `tapioca kappi and thippi` on PDF59; and restoration of both `tax loss` and `revenue loss` on PDF60. English is not yet final until E3.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Compare each English page independently against frozen Tamil, consolidate only confirmed corrections, and stop before E3 or constituent 7.
+Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
