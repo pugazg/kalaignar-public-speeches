@@ -17,24 +17,30 @@ Status: **COMPLETE — 4 / 4 pages**.
 
 Status: **PASS / COMPLETE — 4 / 4 pages checked; 0 corrections; 0 unresolved readings**.
 
-Every page PDF **50–53** was directly re-read against the scan. T2 reconfirmed:
+Every page PDF **50–53** was directly re-read against the scan. T2 reconfirmed the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list `கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`, all three page continuations, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` wording, and the final body/source-note distinction.
 
-- the `கொள்‘கை’யிலும் ‘கை’` wordplay;
-- names and denominational terminology;
-- the PDF 52 historical-name list `கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`;
-- PDF 50→51, 51→52 and 52→53 continuations;
-- the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` wording;
-- the final body/source-closing-note distinction.
+## T3 consolidation / freeze
 
-No source-confirmed correction was required and no unresolved Tamil reading remains.
+Status: **PASS / COMPLETE — 4 / 4 page records checked; 0 additional corrections; 0 unresolved**.
+
+T3 confirmed:
+
+- page records PDF **50–53** / printed **49–52** occur once each in strict source order;
+- no speech page is missing or duplicated;
+- all three cross-page continuations remain intact;
+- the source-sensitive wordplay and historical-name list remain unchanged after T2;
+- the final communal-harmony passage and body/source-note separation remain intact.
+
+The canonical Tamil transcription is now **`verified-complete` / FROZEN**. Any later Tamil change requires new controlling-source evidence and dependent English re-verification.
 
 ## Tamil workflow
 
 - T1: **COMPLETE — 4 / 4**;
 - T2: **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved**;
-- T3: **READY / NOT STARTED**;
-- English: **BLOCKED** until Tamil is frozen.
+- T3: **PASS / COMPLETE — 4 / 4; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
 
 ## Exact next gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Verify complete page sequence and joins, freeze the Tamil layer if clean, and stop before English.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2.
