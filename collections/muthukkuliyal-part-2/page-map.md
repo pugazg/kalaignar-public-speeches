@@ -53,15 +53,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 6 | `thiraippada-virudhu-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 7 | `purusai-gopalarathinam-illa-manavizha` | **Tamil T1/T2 COMPLETE — 10/10; T3 next** |
-| 8 | `muthamizh-peravai-vizha` | **Tamil T1/T2 COMPLETE — 9/9; T3 next** |
-| 9 | `puthandu-isaivizha` | **Tamil T1/T2 COMPLETE — 5/5; T3 next** |
+| 7 | `purusai-gopalarathinam-illa-manavizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 10/10; English E1 next** |
+| 8 | `muthamizh-peravai-vizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 9/9; English E1 next** |
+| 9 | `puthandu-isaivizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 5/5; English E1 next** |
 | 10–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **7–9** have Tamil T1/T2 **COMPLETE — 24/24 pages**, with T2 **4 corrections / 0 unresolved**. T3 consolidation/freeze has not started.
+Constituents **7–9** have Tamil T1/T2/T3 **COMPLETE — 24/24 pages** and are **`verified-complete` / FROZEN** at the Tamil layer. T2 logged **4 corrections / 0 unresolved**; T3 required **0 additional corrections / 0 unresolved**. All page records are present exactly once and in order, and each source closing note remains separate from the speech body.
 
 Source-specific identity notes remain unchanged: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
 
-Exact next gate: **combined Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Constituent 10 remains outside this iteration.
+Exact next gate: **combined English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil. Constituent 10 remains outside this iteration.
