@@ -63,7 +63,7 @@
     "ending_verified": true,
     "source_closing_note_verified": true,
     "t3_additional_corrections": 0,
-    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation": "verified-complete",
     "english_translation_pages_completed": 16,
     "english_translation_through_pdf_page": 49,
     "english_translation_through_printed_page": 48,
@@ -74,7 +74,12 @@
     "english_translation_review_through_printed_page": 48,
     "english_translation_review_corrections": 6,
     "english_translation_review_unresolved": 0,
-    "english_translation_final_verification": "not-started",
-    "next_gate": "Combined constituents 3-4 English E3 final end-to-end verification — 20 pages total"
+    "english_translation_final_verification": "verified-complete",
+    "english_translation_final_verification_pages_checked": 16,
+    "english_translation_final_verification_through_pdf_page": 49,
+    "english_translation_final_verification_through_printed_page": 48,
+    "english_translation_final_verification_corrections": 6,
+    "english_translation_final_verification_unresolved": 0,
+    "next_gate": "Combined constituents 3-4 repository-level archival closure"
   }
 }
