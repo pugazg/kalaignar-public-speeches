@@ -30,8 +30,8 @@
     "constituent_items_started": 2,
     "constituent_items_t1_complete": 2,
     "constituent_items_t2_complete": 2,
-    "constituent_items_t3_complete": 1,
-    "constituent_items_tamil_verified": 1,
+    "constituent_items_t3_complete": 2,
+    "constituent_items_tamil_verified": 2,
     "constituent_items_e1_complete": 1,
     "constituent_items_e2_complete": 1,
     "constituent_items_e3_complete": 1,
@@ -41,7 +41,7 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "murasoli-arakkattalai-virudhu-vazhangu-vizha",
     "active_constituent_title_ta": "முரசொலி அறக்கட்டளை விருது வழங்கு விழா",
-    "active_constituent_status": "tamil-t2-complete",
+    "active_constituent_status": "tamil-verified-complete",
     "active_constituent_pdf_pages": "19-33",
     "active_constituent_printed_pages": "18-32",
     "active_constituent_pages_total": 15,
@@ -51,7 +51,9 @@
     "active_constituent_t2_through_printed_page": 32,
     "active_constituent_t2_corrections": 5,
     "active_constituent_t2_unresolved": 0,
+    "active_constituent_t3_complete": true,
+    "active_constituent_t3_additional_corrections": 0,
     "next_constituent_number": 2,
-    "next_gate": "Constituent 2 Tamil T3 consolidation / freeze — all 15 pages"
+    "next_gate": "Constituent 2 English E1 first-pass translation — all 15 verified Tamil pages"
   }
 }
