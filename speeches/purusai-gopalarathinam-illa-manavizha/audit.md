@@ -28,10 +28,18 @@
 
 No T2 transcription correction was required. PDF72 / printed p.71 `தமிழ்நாட்டை என்` was re-read and confirmed as printed.
 
+## Tamil T3 — consolidation/freeze
+
+**PASS / COMPLETE — 10/10 pages; 0 additional corrections; 0 unresolved.**
+
+T3 confirmed PDF **70–79** appears exactly once and in order, the source-confirmed `தமிழ்நாட்டை என்` form remains preserved, all page continuations remain intact, and the separate PDF79 closing note remains outside the speech body. The T3 sweep also confirmed no missing or duplicated page record and no stale superseded T2 reading remains in the speech body.
+
+Tamil is now **`verified-complete` / FROZEN**. Later Tamil changes require new direct-source evidence and dependent English re-verification.
+
 ## Current state
 
-Tamil T1/T2 **COMPLETE — 10/10**. T3 consolidation/freeze is **READY / NOT STARTED**. English remains blocked until verified Tamil.
+Tamil T1/T2/T3 **COMPLETE — 10/10**. Tamil is **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**; E2/E3 and repository closure remain blocked/pending.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Stop before English, repository closure, or constituent 10.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
