@@ -10,26 +10,26 @@
 - canonical Tamil: **`verified-complete` / FROZEN**;
 - Tamil unresolved: **0**.
 
-## English E1 first pass
+## English E1
 
-Status: **COMPLETE — 4 / 4 pages**.
+**COMPLETE — 4 / 4 pages.**
 
-## English E2 independent fidelity review
+## English E2
 
-Status: **PASS / COMPLETE — 4 / 4 pages checked; 1 correction; 0 unresolved fidelity issues**.
+**PASS / COMPLETE — 4 / 4 pages; 1 correction; 0 unresolved fidelity issues.** PDF 52 `Christian men and women of eminence` was corrected to `Christian people of distinction` for `கிறித்துவப் பெருமக்கள்`, removing gender not stated in frozen Tamil.
 
-Confirmed correction:
+## English E3 final end-to-end verification
 
-1. PDF 52 / printed p.51: `Christian men and women of eminence` → **`Christian people of distinction`**, removing gender not stated by frozen Tamil `கிறித்துவப் பெருமக்கள்`.
+**PASS / COMPLETE — 4 / 4 pages; 0 additional corrections; 0 unresolved fidelity issues.**
 
-E2 independently reconfirmed the `கொள்கை` / `கை` wordplay, names and denominational terminology, historical-name list, PDF 50→51, 51→52 and 52→53 continuations, the religion/religious-fanaticism distinction, final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge, and body/source-note separation.
+E3 rechecked the complete corrected English layer against frozen Tamil and reconfirmed the `கொள்கை` / `கை` wordplay, names and denominational terminology, the historical-name list, all three page-boundary continuations, the religion/religious-fanaticism distinction, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge and final body/source-note separation.
 
-## English workflow
+## Current state
 
-- E1: **COMPLETE — 4 / 4**;
-- E2: **PASS / COMPLETE — 4 / 4; 1 correction; 0 unresolved**;
-- E3: **READY / NOT STARTED**.
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- repository archival closure: **READY / NOT STARTED**.
 
 ## Exact next gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Recheck corrected English against frozen Tamil and stop before repository closure.
+Run combined **repository-level archival closure for constituents 3–4** and stop before constituent 5.
