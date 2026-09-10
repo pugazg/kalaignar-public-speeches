@@ -24,13 +24,16 @@ The opening heading is `முரசொலி அறக்கட்டளை வ
 | Tamil T2 strict visual audit | **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE** |
 | Tamil transcription | **`verified-complete` / FROZEN** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | **BLOCKED** |
+| English E1 | **COMPLETE — 15 / 15 pages** |
+| English E2 | **READY / NOT STARTED** |
+| English E3 | **BLOCKED** |
 
-T2 completed in three five-page batches and produced **5** source-confirmed corrections with **0 unresolved** readings. T3 then confirmed all 15 page records in sequence, the complete correction set, every non-obvious page-boundary continuation, the final body sentence, and the separation of the source closing note. T3 required **0 additional text corrections**.
+T2 completed in three five-page batches and produced **5** source-confirmed corrections with **0 unresolved** readings. T3 then confirmed all 15 page records in sequence and froze the Tamil with **0 additional corrections**.
 
-The frozen Tamil intentionally retains scan-confirmed unusual forms including `வேதவித்து`, `வாடியவர்`, `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`.
+English E1 now covers the complete PDF **19–33** / printed **18–32** range and was derived only from the frozen Tamil layer. Page correspondence, rhetorical repetition, political wordplay, names and numerical details were retained. A transparency note records the frozen Tamil's mismatched quotation punctuation in `“சாவி’ பத்திரிகையில்` rather than silently treating it as different wording.
+
+The frozen Tamil intentionally retains scan-confirmed unusual forms including `வேதவித்து`, `வாடியவர்`, `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`; E2 must verify how each is represented in English.
 
 ## Exact next gate
 
-Run English **E1 first-pass translation — all 15 verified Tamil pages**, using only frozen `transcription-ta.md`. Do not translate independently from the PDF, OCR, outside editions, or historical knowledge.
+Run English **E2 independent fidelity review — all 15 pages**, comparing `translation-en.md` page by page against frozen `transcription-ta.md`. Consolidate only confirmed corrections; do not begin E3 until E2 passes.
