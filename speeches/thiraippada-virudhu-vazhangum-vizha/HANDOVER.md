@@ -20,12 +20,16 @@
 - source/duplicate/boundary: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 7 / 7**;
 - Tamil T2: **PASS / COMPLETE — 7 / 7; 4 corrections; 0 unresolved**;
-- Tamil status: **`t2-complete`**;
-- Tamil T3: **READY / NOT STARTED**;
-- English E1/E2/E3: **BLOCKED pending verified/frozen Tamil**.
+- Tamil T3: **PASS / COMPLETE — 7 / 7; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**;
+- repository closure: **NOT STARTED**.
 
-T2 corrections are consolidated in `transcription-ta.md`: PDF65 `தணிக்கைக்குப்`, `தணிக்கையின்`; PDF68 `நாள்தோறும்` and `கூட்டி வைத்தும் சொல்லியிருக்கிறார்கள்`.
+T3 confirmed all seven page records once in order, all four T2 corrections consolidated, every page join intact, and the final source note separated from the speech body. No venue has been inferred beyond what the source states.
+
+Do not reopen the frozen Tamil layer without new source evidence.
 
 ## Exact next incomplete gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Do not start English or constituent 7 in the same activity.
+Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2 or constituent 7.
