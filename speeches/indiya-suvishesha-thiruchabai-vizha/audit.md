@@ -24,12 +24,14 @@
 
 E3 rechecked the complete corrected English layer against frozen Tamil and reconfirmed the `கொள்கை` / `கை` wordplay, names and denominational terminology, the historical-name list, all three page-boundary continuations, the religion/religious-fanaticism distinction, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge and final body/source-note separation.
 
-## Current state
+## Repository closure
+
+**PASS / COMPLETE.**
 
 - Tamil: **`verified-complete` / FROZEN**;
 - English: **`verified-complete`**;
-- repository archival closure: **READY / NOT STARTED**.
+- repository closure: **complete**;
+- archive status: **fully-archived**;
+- pending transcription/translation work: **none**.
 
-## Exact next gate
-
-Run combined **repository-level archival closure for constituents 3–4** and stop before constituent 5.
+Parent collection controls and the root catalogue are synchronized in the combined constituents 3–4 closure. Reopen only on genuinely new source or fidelity evidence.
