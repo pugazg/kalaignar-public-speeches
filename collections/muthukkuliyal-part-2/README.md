@@ -10,8 +10,8 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - speech archives started: **2 / 36**
 - Tamil T1 complete: **2 / 36**
 - Tamil T2 complete: **2 / 36**
-- Tamil T3 complete: **1 / 36**
-- Tamil verified: **1 / 36**
+- Tamil T3 complete: **2 / 36**
+- Tamil verified: **2 / 36**
 - English E1/E2/E3 complete: **1 / 36**
 - fully archived: **1 / 36**
 
@@ -28,11 +28,15 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
 - Tamil T2: **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved**;
-- Tamil T3: **NOT STARTED**;
-- English: **BLOCKED until Tamil verified-complete**.
+- Tamil T3: **PASS / COMPLETE**;
+- Tamil transcription: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**.
 
-The three T2 batches all passed. The final batch, PDF **29–33** / printed **28–32**, added one correction: `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்` on PDF 31 / printed p.30. All previously flagged unusual readings and the final body/source-note boundary were directly confirmed.
+T3 confirmed all five T2 corrections, the complete 15-page sequence, page-boundary continuity, final body sentence and separate source closing note, with **0 additional corrections** and **0 unresolved Tamil readings**.
+
+For later multi-constituent work, apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`: consecutive eligible speeches may share one same-gate iteration up to **25 source pages**, while remaining separate archives.
 
 ## Exact next gate
 
-Constituent 2 Tamil **T3 consolidation / freeze — all 15 pages**. See `page-map.md` and the speech handover for details.
+Constituent 2 English **E1 first-pass translation — all 15 verified Tamil pages**, using only frozen `transcription-ta.md`.
