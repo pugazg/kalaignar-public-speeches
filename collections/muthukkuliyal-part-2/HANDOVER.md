@@ -18,34 +18,41 @@
 - English E1 complete: **4 / 36**;
 - English E2 complete: **4 / 36**;
 - English E3 complete: **4 / 36**;
-- fully archived: **2 / 36**.
+- fully archived: **4 / 36**.
 
-Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
-
-## Active same-gate batch — constituents 3–4
+Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
 ### 3 / 36 — `திருவள்ளுவர் விழா`
 
 - PDF **34–49** / printed **33–48** — **16 pages**;
 - Tamil **`verified-complete` / FROZEN**;
 - English E1/E2/E3 **COMPLETE**;
-- E2 **6 corrections / 0 unresolved**;
-- E3 **6 final corrections / 0 unresolved**;
 - English **`verified-complete`**;
-- repository closure **READY / NOT STARTED**.
+- repository closure **PASS / COMPLETE**;
+- archive status **FULLY ARCHIVED**;
+- pending transcription/translation work **none**.
 
 ### 4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
 
 - PDF **50–53** / printed **49–52** — **4 pages**;
 - Tamil **`verified-complete` / FROZEN**;
 - English E1/E2/E3 **COMPLETE**;
-- E2 **1 correction / 0 unresolved**;
-- E3 **0 additional corrections / 0 unresolved**;
 - English **`verified-complete`**;
-- repository closure **READY / NOT STARTED**.
+- repository closure **PASS / COMPLETE**;
+- archive status **FULLY ARCHIVED**;
+- pending transcription/translation work **none**.
 
-Combined English E3: **20 / 20 pages PASS — 6 final corrections / 0 unresolved fidelity issues**. Both Tamil and English layers are now verified. Constituent 5 remains excluded from this iteration.
+Both speech archives, collection controls and the root catalogue were synchronized during the combined closure. Do not reopen constituents 1–4 without new source/fidelity evidence.
+
+## Next planned same-gate batch
+
+Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`:
+
+- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — **9 pages**;
+- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — **7 pages**.
+
+Combined: **16 source pages**. Neither archive has been started. Constituent 7 is excluded because 5+6+7 would total 26 pages.
 
 ## Exact next incomplete gate
 
-Run combined **repository-level archival closure for constituents 3–4**. Synchronize both speech archives, the parent collection and the root catalogue; mark each fully archived only after closure checks pass. Do not start constituent 5 in the same activity.
+Run combined **source/duplicate/boundary gate for constituents 5–6 — 16 source pages total**. Keep both speech archives separate, synchronize controls after the gate, and stop before Tamil T1.
