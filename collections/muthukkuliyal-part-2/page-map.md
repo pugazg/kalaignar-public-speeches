@@ -51,17 +51,12 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil T1/T2/T3 COMPLETE — 9/9; `verified-complete` / FROZEN; English E1 next** |
-| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil T1/T2/T3 COMPLETE — 7/7; `verified-complete` / FROZEN; English E1 next** |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil verified/FROZEN; English E1 COMPLETE — 9/9; E2 next** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil verified/FROZEN; English E1 COMPLETE — 7/7; E2 next** |
 | 7–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 source pages**:
+Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 pages**. Both Tamil layers are `verified-complete` / FROZEN, and combined English E1 is now **16 / 16 pages COMPLETE**. The two English translations remain provisional pending independent E2 fidelity review.
 
-- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — Tamil T3 **9/9 PASS; 0 additional corrections; 0 unresolved**;
-- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — Tamil T3 **7/7 PASS; 0 additional corrections; 0 unresolved**.
-
-Combined Tamil T3: **16 / 16 pages PASS — 0 additional corrections / 0 unresolved**. Both Tamil layers are `verified-complete` / FROZEN. All eight T2 corrections remain consolidated and both source closing notes remain outside the spoken bodies.
-
-Exact next gate: **combined English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**. Constituent 7 remains outside this iteration.
+Exact next gate: **combined English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Constituent 7 remains outside this iteration.
