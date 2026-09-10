@@ -16,7 +16,7 @@
 - archives started / source-gated: **4 / 36**;
 - Tamil T1 complete: **4 / 36**;
 - Tamil T2 complete: **4 / 36**;
-- Tamil T3 complete / Tamil verified: **2 / 36**;
+- Tamil T3 complete / Tamil verified: **4 / 36**;
 - English E1/E2/E3 complete: **2 / 36**;
 - fully archived: **2 / 36**.
 
@@ -24,7 +24,7 @@ Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
 
 ## Active same-gate batch — constituents 3–4
 
-Both source/duplicate/boundary gates, T1 and T2 are now **PASS / COMPLETE**.
+Both source/duplicate/boundary gates, T1, T2 and T3 are **PASS / COMPLETE**. Both Tamil layers are now **`verified-complete` / FROZEN**.
 
 ### 3 / 36 — `திருவள்ளுவர் விழா`
 
@@ -33,9 +33,11 @@ Both source/duplicate/boundary gates, T1 and T2 are now **PASS / COMPLETE**.
 - date **1998-01-15**; event `திருவள்ளுவர் விழா`; role `ஆற்றிய உரை`; venue not stated in inspected opening/closing evidence;
 - Tamil T1 **COMPLETE — 16 / 16**;
 - Tamil T2 **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved**;
-- Tamil T3 **READY / NOT STARTED**.
+- Tamil T3 **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
+- Tamil **`verified-complete` / FROZEN**;
+- English E1 **READY / NOT STARTED**.
 
-T2 corrections: PDF 38 `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`; PDF 40 `திரைபடம்` → `திரைப்படம்`; PDF 41 `துளைத்தெடுத்து` → `துணைத்தெடுத்து`; PDF 44 `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`. All are consolidated in `transcription-ta.md`.
+T2 corrections: PDF 38 `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`; PDF 40 `திரைபடம்` → `திரைப்படம்`; PDF 41 `துளைத்தெடுத்து` → `துணைத்தெடுத்து`; PDF 44 `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`. T3 confirmed all are consolidated in the live body with no stale superseded reading there.
 
 ### 4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
 
@@ -44,14 +46,16 @@ T2 corrections: PDF 38 `நீங்களே கண்டார்கள்` �
 - date **1998-01-16**; event `இந்திய சுவிசேஷத் திருச்சபை விழா`; role `ஆற்றிய உரை`; venue not stated in inspected opening/closing evidence;
 - Tamil T1 **COMPLETE — 4 / 4**;
 - Tamil T2 **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved**;
-- Tamil T3 **READY / NOT STARTED**.
+- Tamil T3 **PASS / COMPLETE — 4 / 4; 0 additional corrections; 0 unresolved**;
+- Tamil **`verified-complete` / FROZEN**;
+- English E1 **READY / NOT STARTED**.
 
-No unresolved reading remains in either constituent. Their separate closing notes remain metadata rather than speech body text.
+T3 confirmed complete page order, all three page continuations and the final body/source-note separation. No additional correction was required.
 
 ## Multi-constituent efficiency policy
 
-Apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` with `SPEECH_PROCESSING_GUIDE.md`. Constituents 3–4 total **20 source pages**, so they remain one same-gate iteration. Constituent 5 is excluded.
+Apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` with `SPEECH_PROCESSING_GUIDE.md`. Constituents 3–4 total **20 verified Tamil pages**, so they remain one same-gate iteration for English E1. Constituent 5 remains excluded.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total**. Confirm all T2 corrections are consolidated exactly once, verify page sequence/boundaries and absence of missing/duplicate records, mark each Tamil layer `verified-complete` only if clean, synchronize controls, and stop before English or constituent 5.
+Run combined **English E1 first-pass translation for constituents 3–4 — 20 verified Tamil pages total**. Translate only from each frozen `transcription-ta.md`, preserve page correspondence, rhetoric, names, figures and source-sensitive wording, keep the two speech archives separate, synchronize controls after E1, and stop before E2 or constituent 5.
