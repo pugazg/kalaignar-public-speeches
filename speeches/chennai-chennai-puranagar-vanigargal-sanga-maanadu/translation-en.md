@@ -1,11 +1,11 @@
 # Chennai - Chennai Suburban Traders' Association Conference — English translation
 
-**Status:** `blocked-pending-tamil-verification`  
-**Tamil source:** not yet available; Tamil T1 has not started  
+**Status:** `not-started` — English E1 **0 / 9 pages**  
+**Tamil source:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **54–62** / printed **53–61**
 
-English translation must not begin until the Tamil transcription has passed T1, strict visual T2, and T3 consolidation/freeze and is marked `verified-complete`.
+Tamil T1/T2/T3 are complete. English E1 is now authorized and must be translated only from the frozen Tamil layer; do not use the source PDF to silently rewrite or normalize the verified Tamil text.
 
 ## Exact next gate
 
-Combined constituents **5–6 Tamil T1 first-pass transcription — 16 source pages total**.
+Combined constituents **5–6 English E1 first-pass translation — 16 verified Tamil pages total**. Keep each English translation separate and stop before E2 or constituent 7.
