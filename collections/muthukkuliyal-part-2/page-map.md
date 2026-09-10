@@ -53,16 +53,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 6 | `thiraippada-virudhu-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 7–36 | — | not started |
+| 7 | `purusai-gopalarathinam-illa-manavizha` | **SOURCE/DUPLICATE/BOUNDARY PASS — Tamil T1 next; 0/10** |
+| 8 | `muthamizh-peravai-vizha` | **SOURCE/DUPLICATE/BOUNDARY PASS — Tamil T1 next; 0/9** |
+| 9 | `puthandu-isaivizha` | **SOURCE/DUPLICATE/BOUNDARY PASS — Tamil T1 next; 0/5** |
+| 10–36 | — | not started |
 
-## Next same-gate batch
+## Active same-gate batch
 
-Constituents **7–9** are the next eligible group under the ≤25-page policy, totaling **24 source pages**:
+Constituents **7–9** are source-gated and remain paired under the ≤25-page policy at **24 source pages total**. Duplicate unresolved: **0**. Boundary unresolved: **0**. Tamil T1 has not started for any of the three.
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா` — PDF **70–79** / printed **69–78** — 10 pages;
-- 8 `முத்தமிழ்ப் பேரவை விழா` — PDF **80–88** / printed **79–87** — 9 pages;
-- 9 `புத்தாண்டு இசை விழா` — PDF **89–93** / printed **88–92** — 5 pages.
+Source-specific identity notes: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
 
-Constituent 10 is excluded because adding its 9 pages would make the batch **33 pages**. Constituents 7–9 remain **not started**.
-
-Exact next gate: **combined source / duplicate / boundary gate for constituents 7–9 — 24 source pages total**. Stop before Tamil T1.
+Exact next gate: **combined Tamil T1 first-pass transcription for constituents 7–9 — 24 source pages total**. Constituent 10 remains outside this iteration.

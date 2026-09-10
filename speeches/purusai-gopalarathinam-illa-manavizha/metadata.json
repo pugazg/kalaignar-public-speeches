@@ -1,0 +1,54 @@
+{
+  "id": "purusai-gopalarathinam-illa-manavizha",
+  "title": {
+    "ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "contents_title_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "closing_note_event_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "en_transliteration": "Purusai Gopalarathinam Illa Manavizha"
+  },
+  "creator": {"name_ta": "கலைஞர் மு. கருணாநிதி", "name_en": "M. Karunanidhi", "role_source_text": "ஆற்றிய உரை"},
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {"id": "muthukkuliyal-part-2", "title_ta": "முத்துக் குளியல் — பாகம் II", "constituent_number": 7, "constituent_total": 36},
+  "speech": {
+    "date": null,
+    "date_note": "No date is stated in the contents or in the inspected constituent opening/closing note; do not infer one from internal political references.",
+    "venue_ta": null,
+    "venue_note": "No venue is stated in the inspected constituent opening or closing note; do not infer one from the title or body context.",
+    "event_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 79 / printed p.78 states: புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 70,
+    "pdf_page_end": 79,
+    "printed_page_start": 69,
+    "printed_page_end": 78,
+    "speech_pages_total": 10,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 70 / printed p.69; numbered constituent 7 with titled opening புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "ending": "Speech body ends on PDF 79 / printed p.78 before the separate printed source closing note"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 10,
+    "speech_pages_drafted": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Combined constituents 7-9 Tamil T1 first-pass transcription — 24 source pages total"
+  }
+}

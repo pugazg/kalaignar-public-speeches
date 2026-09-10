@@ -13,41 +13,44 @@
 ## Durable collection state
 
 - mapped: **36 / 36**;
-- archives started / source-gated: **6 / 36**;
+- archives started / source-gated: **9 / 36**;
 - Tamil T1/T2/T3 complete / Tamil verified: **6 / 36**;
 - English E1/E2/E3 complete: **6 / 36**;
 - fully archived: **6 / 36**.
 
 Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
 
-## Most recently closed — constituents 5–6
+## Active same-gate batch — constituents 7–9
 
-### 5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`
+Source/duplicate/boundary gate: **PASS / COMPLETE — 24 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
-- PDF **54–62** / printed **53–61** — 9 pages;
-- Tamil and English **`verified-complete`**;
-- late source repair PDF59 `கனிமண்` → `களிமண்`; Tamil re-frozen;
-- English E2 **4 corrections / 0 unresolved**; E3 **2 corrections / 0 unresolved**;
-- repository closure **PASS / COMPLETE**; archive **`fully-archived`**.
+### 7 / 36 — `புரசை கோபாலரத்தினம் இல்ல மணவிழா`
 
-### 6 / 36 — `திரைப்பட விருது வழங்கும் விழா`
+- slug: `purusai-gopalarathinam-illa-manavizha`;
+- PDF **70–79** / printed **69–78** — 10 pages;
+- closing note `புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- date **not stated**; venue **not stated**; role `ஆற்றிய உரை`;
+- Tamil T1 **READY / NOT STARTED — 0/10**.
 
-- PDF **63–69** / printed **62–68** — 7 pages;
-- Tamil and English **`verified-complete`**;
-- late source repairs PDF64 `பெயரைச் சொல்லுவது கூட`; PDF65 `லியாகத் அலிகான்`; Tamil re-frozen;
-- English E2 **2 corrections / 0 unresolved**; E3 **2 corrections / 0 unresolved**;
-- repository closure **PASS / COMPLETE**; archive **`fully-archived`**.
+### 8 / 36 — `முத்தமிழ்ப் பேரவை விழா`
 
-## Next same-gate batch — not started
+- slug: `muthamizh-peravai-vizha`;
+- PDF **80–88** / printed **79–87** — 9 pages;
+- closing note `3-2-98 அன்று முத்தமிழ்ப் பேரவை விழாவில் ஆற்றிய உரை`;
+- date **03-02-1998**; venue **not stated**; role `ஆற்றிய உரை`;
+- Tamil T1 **READY / NOT STARTED — 0/9**.
 
-Constituents **7–9** fit the ≤25-page policy at **24 source pages total**:
+### 9 / 36 — `புத்தாண்டு இசைவிழா`
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா` — PDF **70–79** / printed **69–78** — 10 pages;
-- 8 `முத்தமிழ்ப் பேரவை விழா` — PDF **80–88** / printed **79–87** — 9 pages;
-- 9 `புத்தாண்டு இசை விழா` — PDF **89–93** / printed **88–92** — 5 pages.
+- slug: `puthandu-isaivizha`;
+- PDF **89–93** / printed **88–92** — 5 pages;
+- contents `புத்தாண்டு இசை விழா`; page/closing-note `புத்தாண்டு இசைவிழா` — preserve both;
+- closing note `14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை`;
+- date **14-04-1998**; venue **not stated**; role `ஆற்றிய உரை`;
+- Tamil T1 **READY / NOT STARTED — 0/5**.
 
-Constituent 10 is excluded because adding its 9 pages would make 33 pages. No speech archive for 7–9 has been started by this closure activity.
+Constituent 10 remains excluded because the 7–9 batch already totals 24 pages and adding 9 pages would exceed the 25-page maximum. The source PDF binary must not be committed.
 
 ## Exact next incomplete gate
 
-Run the combined **source / duplicate / boundary gate for constituents 7–9 — 24 source pages total**. Create/maintain separate archives for each constituent and stop before Tamil T1.
+Run combined **Tamil T1 first-pass transcription for constituents 7–9 — 24 source pages total**. Transcribe each complete page once from the scans into its separate canonical transcript, synchronize controls after all 24 pages, and stop before T2 or constituent 10.

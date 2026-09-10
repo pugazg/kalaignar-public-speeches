@@ -13,40 +13,32 @@ Collection-level source/mapping/progress audit.
 
 Constituents **1–6** are Tamil + English `verified-complete` with repository closure complete.
 
-## Closure of constituents 5–6
+## Constituents 7–9 — source / duplicate / boundary gate
 
-### 5 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`
+Combined gate result: **PASS / COMPLETE — 24 source pages; 3 constituents; duplicate unresolved 0; boundary unresolved 0**.
 
-- PDF **54–62** / printed **53–61** — 9 pages;
-- Tamil T1/T2/T3 complete; original T2 **4 corrections / 0 unresolved**;
-- late direct-scan repair during E3: PDF59 `கனிமண்` → **`களிமண்`**; Tamil re-frozen;
-- English E1 complete;
-- English E2 **9/9 PASS — 4 corrections / 0 unresolved**;
-- English E3 **9/9 PASS — 2 corrections / 0 unresolved**;
-- Tamil + English **`verified-complete`**;
-- repository closure **PASS / COMPLETE**.
+### 7 — `புரசை கோபாலரத்தினம் இல்ல மணவிழா`
 
-### 6 — `திரைப்பட விருது வழங்கும் விழா`
+PDF **70–79** / printed **69–78** — **10 pages**. PDF70 opens with the numbered title. PDF79 closes the speech body and then prints `புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை`. No date is stated in the contents or inspected opening/closing note. No venue is stated in the inspected opening/closing evidence. Role: `ஆற்றிய உரை`. Tamil T1 not started.
 
-- PDF **63–69** / printed **62–68** — 7 pages;
-- Tamil T1/T2/T3 complete; original T2 **4 corrections / 0 unresolved**;
-- late direct-scan repairs during E3: PDF64 `பெயரைச் சொல்லாது கூட` → **`பெயரைச் சொல்லுவது கூட`**; PDF65 `வியாகத் அலிகானுக்குக்` → **`லியாகத் அலிகானுக்குக்`**; Tamil re-frozen;
-- English E1 complete;
-- English E2 **7/7 PASS — 2 corrections / 0 unresolved**;
-- English E3 **7/7 PASS — 2 corrections / 0 unresolved**;
-- Tamil + English **`verified-complete`**;
-- repository closure **PASS / COMPLETE**.
+### 8 — `முத்தமிழ்ப் பேரவை விழா`
 
-Combined E3 was **16/16 PASS — 4 final English corrections / 0 unresolved**. Three late source-level Tamil corrections were repaired and re-frozen before the final second sweep, which produced **0 further corrections / 0 unresolved issues**. Closure synchronization confirms no transcription or translation work remains pending for either constituent.
+PDF **80–88** / printed **79–87** — **9 pages**. PDF80 opens with the numbered title. PDF88 closes the speech body and separately prints `3-2-98 அன்று முத்தமிழ்ப் பேரவை விழாவில் ஆற்றிய உரை`. Date: **03-02-1998**. Venue not stated in inspected opening/closing evidence. Role: `ஆற்றிய உரை`. Tamil T1 not started.
+
+### 9 — `புத்தாண்டு இசைவிழா`
+
+PDF **89–93** / printed **88–92** — **5 pages**. Contents title is `புத்தாண்டு இசை விழா`; PDF89 heading and PDF93 closing note use `புத்தாண்டு இசைவிழா`. Both source forms are retained. PDF93 separately prints `14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை`. Date: **14-04-1998**. Venue not stated in inspected opening/closing evidence. Role: `ஆற்றிய உரை`. Tamil T1 not started.
+
+Before these archives were created, the live `speeches/` directory contained no dedicated archive for any of these three constituents. The source PDF remains uncommitted.
 
 ## Collection totals
 
 - mapped: **36 / 36**;
-- archives started / source-gated: **6 / 36**;
+- archives started / source-gated: **9 / 36**;
 - Tamil T1/T2/T3 complete / Tamil verified: **6 / 36**;
 - English E1/E2/E3 complete: **6 / 36**;
 - fully archived: **6 / 36**.
 
 ## Exact next gate
 
-Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, run the combined **source / duplicate / boundary gate for constituents 7–9 — 24 source pages total**: PDF **70–93** / printed **69–92**. Constituent 10 is excluded because it would exceed the 25-page limit. Stop before Tamil T1.
+Run combined **Tamil T1 first-pass transcription for constituents 7–9 — 24 source pages total**. Keep each speech separate and stop before T2 or constituent 10.
