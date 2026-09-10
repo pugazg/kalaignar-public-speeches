@@ -15,7 +15,7 @@
 - date **30-01-1998**; role **`ஆற்றிய உரை`**; venue not stated in inspected opening/closing evidence
 - source binary committed: **No**.
 
-## Durable state
+## Durable final state
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE**;
@@ -25,12 +25,10 @@
 - English E2: **PASS — 7/7; 2 corrections; 0 unresolved**;
 - English E3: **PASS — 7/7; 2 final corrections; 0 unresolved**;
 - English: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**.
+- repository closure: **PASS / COMPLETE**;
+- archive status: **`fully-archived`**;
+- pending transcription/translation work: **none**.
 
 E3 corrected `Viyath Ali Khan` → `Liaqat Ali Khan` and removed unsupported `pioneer` from the Raja Sandow description; the PDF64 Tamil repair directly confirmed the existing English wording. A second complete end-to-end sweep produced 0 further issues.
 
-Do not alter either verified layer without new source evidence.
-
-## Exact next incomplete gate
-
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+This constituent is closed. Do not alter either verified layer unless genuinely new source evidence requires a documented reopen.
