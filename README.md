@@ -41,6 +41,8 @@ For audio or video sources, also read:
 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | முரசொலி அறக்கட்டளை விருது வழங்கு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.18–32 | 13.01.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
 | `thiruvalluvar-vizha` | திருவள்ளுவர் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.33–48 | 15.01.1998 | **Verified complete - 16/16 speech pages** | **Verified complete - 16/16 speech pages** |
 | `indiya-suvishesha-thiruchabai-vizha` | இந்திய சுவிசேஷத் திருச்சபை விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.49–52 | 16.01.1998 | **Verified complete - 4/4 speech pages** | **Verified complete - 4/4 speech pages** |
+| `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.53–61 | 25.01.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
+| `thiraippada-virudhu-vazhangum-vizha` | திரைப்பட விருது வழங்கும் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.62–68 | 30.01.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
 
 ## Repository layout
 
@@ -167,3 +169,19 @@ The archival workflow is complete for constituent **4 / 36** of `முத்த
 Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 required **0 corrections / 0 unresolved**. English E2 produced **1 correction / 0 unresolved**, removing gender not stated in `கிறித்துவப் பெருமக்கள்`; E3 then passed all four pages with **0 additional corrections / 0 unresolved**.
 
 The archive preserves the `கொள்கை` / `கை` wordplay, names and denominational wording, the Caldwell/G.U. Pope/Veeramamunivar list, all page continuations, the religion/religious-fanaticism distinction, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge, and the body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு
+
+The archival workflow is complete for constituent **5 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **54–62** / printed pages **53–61**. The separate closing note establishes the speech date as **25.01.1998**, venue **சென்னை வள்ளுவர் கோட்டம்**, event wording `சென்னை - சென்னை புறநகர் வணிகர்கள் சங்க மாநாடு`, and role `ஆற்றிய பேருரை`. The heading/contents `சென்னைப் புறநகர்` and closing-note `சென்னை புறநகர்` forms are preserved as distinct source readings.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**. During E3 integrity checking, the controlling scan established one late Tamil repair, PDF59 `கனிமண்` → `களிமண்`; the Tamil layer was rechecked and re-frozen. English E2 produced **4 corrections / 0 unresolved** and E3 produced **2 final corrections / 0 unresolved**, including `sales-tax levy` and the dependent `clay` rendering. A second complete nine-page Tamil→English sweep produced no further issue.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### திரைப்பட விருது வழங்கும் விழா
+
+The archival workflow is complete for constituent **6 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **63–69** / printed pages **62–68**. The separate closing note establishes the speech date as **30.01.1998** and role `ஆற்றிய உரை`; the inspected opening/closing evidence does not state a venue, so no venue is inferred.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**. During E3 integrity checking, direct scans established two late Tamil repairs: PDF64 `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட` and PDF65 `வியாகத் அலிகானுக்குக்` → `லியாகத் அலிகானுக்குக்`; Tamil was rechecked and re-frozen. English E2 produced **2 corrections / 0 unresolved** and E3 produced **2 final corrections / 0 unresolved**, including `Liaqat Ali Khan` and removal of unsupported `pioneer` from the Raja Sandow description. A second complete seven-page Tamil→English sweep produced no further issue.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
