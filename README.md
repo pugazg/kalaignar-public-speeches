@@ -38,6 +38,7 @@ For audio or video sources, also read:
 | `palli-vazhkkai` | பள்ளி வாழ்க்கை | First edition, March 1952 | Not stated as a single speech date; compilation source | **Verified complete - 76/76 body pages** | **Verified complete - 76/76 body pages** |
 | `kalaivanar-nsk-memorial-day` | கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை | Tamil Digital Library MP3, 00:07:23.559 | Not stated in source | **Verified complete - 12/12 audio segments** | **Verified complete - 12/12 timestamp sections** |
 | `desiya-ilainjar-kondatta-thodakka-vizha` | தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.11–17 | 12.01.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
+| `murasoli-arakkattalai-virudhu-vazhangu-vizha` | முரசொலி அறக்கட்டளை விருது வழங்கு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.18–32 | 13.01.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
 
 ## Repository layout
 
@@ -140,3 +141,11 @@ The archival workflow is complete for constituent **1 / 36** of `முத்த
 Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent English fidelity review E2, and final end-to-end E3 have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **5** scan-supported corrections with **0 unresolved** readings. English E2 produced **3** confirmed corrections, all consolidated; E3 found **0** further corrections and **0** unresolved issues.
 
 The archive deliberately retains the source-confirmed unusual printed p.13 form `ஐக்கிய இந்தியர் மீது`, with an explicit English transparency note rather than silent source repair. The genuine repeated printed-p.15 passage is also retained. The source PDF is not committed; provenance is preserved through the parent collection metadata and page map. Repository-level closure is complete, and no transcription or translation work is pending for this constituent.
+
+### முரசொலி அறக்கட்டளை விருது வழங்கு விழா
+
+The archival workflow is complete for constituent **2 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **19–33** / printed pages **18–32**. The separate closing note establishes the speech date as **13.01.1998**, event wording `முரசொலி அறக்கட்டளை விருது வழங்கும் விழா`, and role `ஆற்றிய உரை`. The inspected source does not state a venue, so no venue is inferred.
+
+Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**. English E2 produced **6 corrections / 0 unresolved**. E3 made two final refinements—`men of skill` → `people of skill` and `Even if today...` → `Even though today...`—then repeated the complete 15-page Tamil→English comparison with **0 further corrections / 0 unresolved**.
+
+The archive preserves the opening `இட ஒதுக்கீடு` / `தொகுதி` wordplay, `Vedaviththu` as transliteration only, the PDF 30 quotation-punctuation transparency note, difficult source-supported wording, rhetorical repetition, every page transition, and the final body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
