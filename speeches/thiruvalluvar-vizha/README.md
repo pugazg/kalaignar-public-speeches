@@ -27,8 +27,8 @@ Tamil T1/T2/T3 are complete. T2 consolidated four source-confirmed corrections a
 
 E3 rechecked the complete corrected English against frozen `transcription-ta.md` from beginning to end. It removed a causative sense not present in PDF 36 Tamil, removed added `ruler` from PDF 41, and corrected four occurrences of the PDF 48–49 `சோம்பல் முறித்தல்` idiom. A complete second E3 sweep then passed with no further issue. The E2 handling of `கோட்டம்` / `தோட்டம்`, opaque `கலனாகிக்`, `என்னைத் துணைத்தெடுத்து`, `இனமானப் பேராசிரியர்`, the quoted Kural and transparent `சிற்றார்ப்புழத்தில்` remains intact.
 
-Tamil and English are now both `verified-complete`. Repository-level closure has not yet been performed.
+## Repository closure
 
-## Exact next gate
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; all source, transcription, verification and translation controls agree; the parent collection and root catalogue are synchronized as part of the combined constituents 3–4 closure. No transcription or translation work remains pending for this constituent.
 
-Run combined **repository-level archival closure for constituents 3–4**. Synchronize speech, collection and root catalogue controls and mark each constituent fully archived only if the closure checks pass. Do not start constituent 5 in the same activity.
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.
