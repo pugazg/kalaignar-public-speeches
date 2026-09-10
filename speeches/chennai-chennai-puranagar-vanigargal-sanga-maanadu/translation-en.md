@@ -16,7 +16,7 @@ This is not merely a conference of demands; at the beginning, Navamani and the o
 
 ## PDF 55 / printed p.54
 
-You have offered speeches of greeting and praise, and you have also placed a few representations before us.
+speeches of greeting and praise have been offered by you, and you have also placed a few representations before us.
 
 Everyone who spoke said one thing. Madurai Rathinavelu in particular said, “It is precisely to fulfil all the demands that the Chief Minister has brought the entire Cabinet here.” Usually such demands are discussed calmly in a meeting and announcements are made according to the majority decision. I wondered whether I could announce them right here. Of the twenty-six ministers, only seven or eight have come. Therefore, I first wish to tell Rathinavelu and all of you that I am in no position here to take a decision by looking at the majority and announce it. (loud applause)
 
@@ -94,7 +94,7 @@ English E1 is **COMPLETE — 9 / 9 pages**. English E2 is **PASS / COMPLETE — 
 
 E2 corrections:
 
-1. PDF 55 / printed p.54: restored the explicit second-person agency in `வாழ்த்துரைகளையும் பாராட்டுரைகளையும் வழங்கிவிட்டு ... வைத்திருக்கிறீர்கள்` by changing the passive opening to **“You have offered ... and you have also placed ...”**.
+1. PDF 55 / printed p.54: restored the explicit second-person agency in `வாழ்த்துரைகளையும் பாராட்டுரைகளையும் வழங்கிவிட்டு ... வைத்திருக்கிறீர்கள்` while preserving the PDF54→55 page join, yielding **“your / speeches of greeting and praise have been offered by you, and you have also placed ...”**.
 2. PDF 59 / printed p.58: corrected the scope of `39 இனங்கள்` so that the thirty-nine categories cover the stated life-saving and indigenous medicines rather than only the latter.
 3. PDF 59 / printed p.58: removed unsupported explanatory wording from `மரவள்ளிக் கிழங்கு கப்பி, திப்பி`, retaining the conservative rendering **“tapioca `kappi` and `thippi`”**.
 4. PDF 60 / printed p.59: restored both repeated loss terms in `வரி இழப்பை, வருவாய் இழப்பை` as **“tax loss and revenue loss”** instead of collapsing them into one phrase.
