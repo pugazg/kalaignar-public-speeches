@@ -1,10 +1,10 @@
 # Murasoli Trust Award Presentation Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — E1 **15 / 15 pages**; E2 **15 / 15 PASS; 6 corrections; 0 unresolved**  
+**Status:** `verified-complete` — E1 **15 / 15 pages**; E2 **15 / 15 PASS; 6 corrections; 0 unresolved**; E3 **15 / 15 PASS; 2 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` (`verified-complete`)  
 **Source range:** PDF **19–33** / printed **18–32**
 
-> This translation is derived only from the frozen Tamil transcription. E2 independently compared all 15 English pages against that Tamil layer and consolidated six confirmed fidelity corrections. Page correspondence, rhetorical repetition, source-supported odd wording, names and numerical details are retained. E3 final end-to-end verification has not yet begun.
+> This translation is derived only from the frozen Tamil transcription. E2 independently compared all 15 English pages against that Tamil layer and consolidated six confirmed fidelity corrections. E3 then rechecked the complete translation from beginning to end, identified two final source-fidelity refinements, consolidated them, and repeated the full 15-page verification with no further issue. English is now `verified-complete`.
 
 ## PDF 19 / printed p.18
 
@@ -48,7 +48,7 @@ That paper has grown today. Everyone who spoke here praised Murasoli. Even if Mu
 
 ## PDF 23 / printed p.22
 
-if Murasoli has become a paper with the strength to face the impact created by newspapers circulating in lakhs (loud applause), that is not a strength belonging to Murasoli alone; it is not its power alone. It is the strength of lakhs upon lakhs of comrades like you who stand behind the movement through which Murasoli is conducted that is Murasoli’s strength (loud applause). It is because of that strength that today the Trust has attained the distinction of being able to present this award to men of skill, great minds, Tamil scholars and poets.
+if Murasoli has become a paper with the strength to face the impact created by newspapers circulating in lakhs (loud applause), that is not a strength belonging to Murasoli alone; it is not its power alone. It is the strength of lakhs upon lakhs of comrades like you who stand behind the movement through which Murasoli is conducted that is Murasoli’s strength (loud applause). It is because of that strength that today the Trust has attained the distinction of being able to present this award to people of skill, great minds, Tamil scholars and poets.
 
 In 1942, during the period when I published Murasoli as a leaflet, its anniversary was held in Tiruvarur. The Professor and Navalar had been invited to that anniversary. The speeches both of them delivered at that anniversary still resonate in my ears.
 
@@ -82,7 +82,7 @@ Thinking that I would become bound there, become subject to it, and be tied down
 
 ## PDF 27 / printed p.26
 
-In this intervening period, I cannot forget the affection A.S.A. Sami showed me when I was in Coimbatore, the fondness he showed me, and the attachment he had for me. There were even some differences of opinion between him and me. There were also those outside who magnified those differences into something enormous. Yet the affection between us never withered. I have eaten in his home on many days. He treated me with great affection. He never underestimated my ability. Even if today he is in circumstances in which his life has not received that measure of light, the respect and affection shown to me by the members of his family have not diminished in any measure.
+In this intervening period, I cannot forget the affection A.S.A. Sami showed me when I was in Coimbatore, the fondness he showed me, and the attachment he had for me. There were even some differences of opinion between him and me. There were also those outside who magnified those differences into something enormous. Yet the affection between us never withered. I have eaten in his home on many days. He treated me with great affection. He never underestimated my ability. Even though today he is in circumstances in which his life has not received that measure of light, the respect and affection shown to me by the members of his family have not diminished in any measure.
 
 Therefore it is not merely the debt of gratitude I owe him. In the film field, through his fine ability as a director, he took Perarignar Anna’s revolutionary picture Velaikkari to the people of the country through cinema, and, as the director of that film which for the first time brought about a revolution in the film field, it had long been my thought and my long-standing wish that A.S.A. Sami should be honoured. Beyond all those things, he had also been an early teacher to me in the film field, and I wanted to show that affection in return,
 
@@ -114,7 +114,7 @@ On so many tours, my friend Saavi has come with me. Why does he come? Because of
 
 Even if he went to America, or to any part of the world, from there he would
 
-> **E1/E2 transparency note:** The frozen Tamil begins the quoted magazine-title phrase with mismatched quotation marks as `“சாவி’ பத்திரிகையில்`. English regularizes only the quotation punctuation around the title `Saavi`; E2 confirmed that no wording or meaning has been supplied from outside the frozen Tamil.
+> **E1/E2/E3 transparency note:** The frozen Tamil begins the quoted magazine-title phrase with mismatched quotation marks as `“சாவி’ பத்திரிகையில்`. English regularizes only the quotation punctuation around the title `Saavi`; E2 and E3 confirmed that no wording or meaning has been supplied from outside the frozen Tamil.
 
 ## PDF 31 / printed p.30
 
@@ -144,6 +144,6 @@ These awards have been presented to people who are most fitting, in the presence
 
 `Address delivered at the Murasoli Trust award presentation function on 13-1-98.`
 
-## E2 completion note
+## E3 completion note
 
-English E2 independently reviewed all **15 / 15** pages against the frozen Tamil, confirmed **6** fidelity corrections, and consolidated all six into this file. Unresolved English fidelity issues: **0**. The English layer is not yet final: E3 must perform a fresh end-to-end Tamil→English verification before `verified-complete` can be assigned.
+English E3 performed a fresh end-to-end comparison of all **15 / 15** consolidated English pages against frozen `transcription-ta.md`. The first E3 sweep identified two final fidelity refinements: PDF 23 `men of skill` → `people of skill`, avoiding gender not stated in `வித்தகர்களுக்கு`; and PDF 27 `Even if today...` → `Even though today...`, restoring the factual concessive force of `இருந்தாலும்கூட`. Both were consolidated. A second complete PDF **19–33** / printed **18–32** pass then found **0 further corrections and 0 unresolved fidelity issues**. English is now **`verified-complete`**.
