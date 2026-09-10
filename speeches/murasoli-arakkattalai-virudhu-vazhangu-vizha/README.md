@@ -1,41 +1,62 @@
 # முரசொலி அறக்கட்டளை விருது வழங்கு விழா
 
 **Speaker:** கலைஞர் மு. கருணாநிதி  
+**Source type:** Constituent public speech in a printed multi-speech collection  
 **Parent collection:** `முத்துக் குளியல் — பாகம் II`  
+**Constituent:** **2 / 36**  
 **Speech date:** 13-01-1998  
 **Venue:** not stated in the inspected constituent source  
-**Source-described role:** `ஆற்றிய உரை`
+**Source-described role:** `ஆற்றிய உரை`  
+**Archive status:** **CLOSED / FULLY ARCHIVED**
 
 ## Controlling source
 
-- `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
-- SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- Constituent range: PDF **19–33** / printed **18–32** — **15 pages**
+- Parent source: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
+- Parent source SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- Parent source size: `232,470,104` bytes
+- Parent source scans: **425**
+- Constituent range: PDF **19–33** / printed **18–32**
+- Mapped speech pages: **15**
 - Source binary committed: **No**
 
-The opening heading is `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`. PDF 33 / printed p.32 ends the speech body with `அவர்களை வாழ்க! வாழ்க! என்று வாழ்த்துகின்றேன்.` A separate source note states `13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை`; that note is metadata, not speech body text.
+The speech opens on PDF 19 / printed p.18 under the heading `முரசொலி அறக்கட்டளை விருது வழங்கு விழா`.
 
-## Workflow state
+PDF 33 / printed p.32 ends the speech body with `அவர்களை வாழ்க! வாழ்க! என்று வாழ்த்துகின்றேன்.` A separate printed note then states:
+
+`13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை`
+
+That closing note establishes the date, event wording and role. It does not state a venue, so no venue is inferred.
+
+## Final workflow state
 
 | Gate | State |
 |---|---|
 | Duplicate/source gate | **PASS / COMPLETE** |
-| Tamil T1 | **COMPLETE — 15 / 15 pages** |
-| Tamil T2 strict visual audit | **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved** |
+| Tamil T1 | **COMPLETE — 15 / 15** |
+| Tamil T2 strict visual audit | **PASS / COMPLETE — 15 / 15** |
+| Tamil T2 corrections / unresolved | **5 / 0** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE** |
-| Tamil transcription | **`verified-complete` / FROZEN** |
-| English E1 | **COMPLETE — 15 / 15 pages** |
-| English E2 | **PASS / COMPLETE — 15 / 15; 6 corrections; 0 unresolved** |
-| English E3 | **PASS / COMPLETE — 15 / 15; 2 corrections; 0 unresolved** |
-| English translation | **`verified-complete`** |
-| Repository closure | **READY / NOT STARTED** |
+| Tamil | **`verified-complete` / FROZEN** |
+| English E1 | **COMPLETE — 15 / 15** |
+| English E2 fidelity review | **PASS / COMPLETE — 15 / 15** |
+| English E2 corrections / unresolved | **6 / 0** |
+| English E3 final verification | **PASS / COMPLETE — 15 / 15** |
+| English E3 corrections / unresolved | **2 / 0** |
+| English | **`verified-complete`** |
+| Repository-level archival closure | **PASS / COMPLETE** |
 
-Tamil T2 produced **5** source-confirmed corrections with **0 unresolved** readings. T3 confirmed the complete 15-page sequence and froze Tamil with **0 additional corrections**.
+No transcription or translation work is pending for this constituent.
 
-English E2 independently compared every page against frozen Tamil and consolidated **6** fidelity corrections. E3 then performed a fresh end-to-end verification. Its first sweep made two final refinements: PDF 23 `men of skill` → `people of skill` for `வித்தகர்களுக்கு`, avoiding gender not stated in the frozen Tamil; and PDF 27 `Even if today...` → `Even though today...` for `இருந்தாலும்கூட`, restoring the source's factual concessive force. After consolidation, a second complete 15-page E3 sweep found **0 further corrections / 0 unresolved**.
+## Fidelity record
 
-The verified English continues to preserve the opening `இட ஒதுக்கீடு` / `தொகுதி` wordplay, the PDF 26 repetition, `Vedaviththu` as transliteration only, `வாடியவர்`, the PDF 30 quotation-punctuation transparency note, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, the PDF 32 pressure/close rhetoric, every page boundary, the final body sentence, and the separate closing note.
+Tamil T2 produced five source-confirmed corrections and left **0 unresolved readings**. T3 confirmed the complete PDF **19–33** / printed **18–32** sequence, page-boundary continuations, final body sentence and separate closing note, then froze the Tamil with **0 additional corrections**.
 
-## Exact next gate
+English E2 consolidated six confirmed fidelity corrections. E3 then made two final refinements—PDF 23 `men of skill` → `people of skill` for `வித்தகர்களுக்கு`, and PDF 27 `Even if today...` → `Even though today...` for `இருந்தாலும்கூட`—and repeated the entire 15-page Tamil→English comparison with **0 further corrections / 0 unresolved**.
 
-Run **repository-level archival closure for constituent 2 / 36**. Synchronize all speech and collection controls, update the root catalogue, mark this constituent fully archived, and advance the collection to constituent 3. Do not start constituent 3 source work until closure is complete.
+The archive deliberately preserves source-sensitive material including the opening `இட ஒதுக்கீடு` / `தொகுதி` wordplay, PDF 26 repetition, `Vedaviththu` as transliteration only, `வாடியவர்`, the PDF 30 quotation-punctuation transparency note, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, and the PDF 32 pressure/close rhetoric.
+
+## Final archival rule
+
+`transcription-ta.md` and `translation-en.md` are frozen as **`verified-complete`**. Any later textual change requires specific source evidence, an audit record, and reopening of dependent verification gates.
+
+The parent collection now advances to the next unstarted constituents under the repository's ≤25-page same-gate batching policy.
