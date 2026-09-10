@@ -19,22 +19,22 @@
 - mapped: **36 / 36**; started / source-gated: **9 / 36**;
 - Tamil T1 complete: **9 / 36**;
 - Tamil T2 complete: **9 / 36**;
-- Tamil T3 complete / Tamil verified: **6 / 36**;
+- Tamil T3 complete / Tamil verified: **9 / 36**;
 - English E1/E2/E3 complete: **6 / 36**;
 - fully archived: **6 / 36**.
 
 Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
 
-## Constituents 7–9 — durable Tamil T2 result
+## Constituents 7–9 — durable Tamil T3 result
 
-Combined strict direct-scan T2: **PASS / COMPLETE — 24/24 pages; 4 substantive corrections; 0 unresolved readings**.
+Combined T3 consolidation/freeze: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved readings**. All four T2 corrections remain consolidated. All expected page records appear once and in order, page continuations remain intact, no stale superseded T2 reading remains in speech bodies, and each separate closing note remains outside the speech body.
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10; 0 corrections**; PDF72 `தமிழ்நாட்டை என்` confirmed.
-- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9; 1 correction** — PDF84 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`; PDF88 `அமைகிறேன்` confirmed.
-- 9 `புத்தாண்டு இசைவிழா`: **5/5; 3 corrections** — PDF90 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`.
+- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: Tamil **`verified-complete` / FROZEN — 10/10**; PDF72 `தமிழ்நாட்டை என்` preserved; date/venue remain unstated.
+- 8 `முத்தமிழ்ப் பேரவை விழா`: Tamil **`verified-complete` / FROZEN — 9/9**; T2 `எண்ணியெண்ணி` consolidated; PDF88 `அமைகிறேன்` preserved.
+- 9 `புத்தாண்டு இசைவிழா`: Tamil **`verified-complete` / FROZEN — 5/5**; all three T2 corrections consolidated; contents `புத்தாண்டு இசை விழா` versus heading/closing-note `புத்தாண்டு இசைவிழா` preserved.
 
-Each separate closing note remains outside the speech body. Constituent 7 date/venue remain unstated. Constituent 9 retains `புத்தாண்டு இசை விழா` in contents versus `புத்தாண்டு இசைவிழா` in heading/closing note.
+English E1 is now unblocked for constituents 7–9 and must be translated only from each frozen `transcription-ta.md`. Constituent 10 remains outside the batch.
 
 ## Exact next incomplete gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Confirm all T2 corrections are consolidated, audit page boundaries and stale superseded readings, confirm no page missing/duplicated, then mark Tamil verified-complete. Stop before English, repository closure, or constituent 10 in the same activity.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers. Stop before E2, repository closure, or constituent 10 in the same activity.
