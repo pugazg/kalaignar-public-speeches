@@ -9,7 +9,7 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - mappings: **36 / 36 complete**
 - speech archives started: **2 / 36**
 - Tamil T1 complete: **2 / 36**
-- Tamil T2 complete: **1 / 36**
+- Tamil T2 complete: **2 / 36**
 - Tamil T3 complete: **1 / 36**
 - Tamil verified: **1 / 36**
 - English E1/E2/E3 complete: **1 / 36**
@@ -27,11 +27,12 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - date: **13-01-1998** from source closing note;
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **IN PROGRESS — 10 / 15; 4 corrections; 0 unresolved**;
-- T3/English: **BLOCKED**.
+- Tamil T2: **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved**;
+- Tamil T3: **NOT STARTED**;
+- English: **BLOCKED until Tamil verified-complete**.
 
-T2 batch 1 covered PDF **19–23** / printed **18–22**: **5/5 PASS; 3 corrections; 0 unresolved**. T2 batch 2 covered PDF **24–28** / printed **23–27**: **5/5 PASS; 1 correction; 0 unresolved**. The scan-confirmed batch-2 correction preserves the distinct source spelling `இந்த ஸ்டுடியோவில்` while leaving the earlier `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` unchanged.
+The three T2 batches all passed. The final batch, PDF **29–33** / printed **28–32**, added one correction: `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்` on PDF 31 / printed p.30. All previously flagged unusual readings and the final body/source-note boundary were directly confirmed.
 
 ## Exact next gate
 
-Constituent 2 Tamil **T2 batch 3 — PDF 29–33 / printed 28–32**. See `page-map.md` and the speech handover for details.
+Constituent 2 Tamil **T3 consolidation / freeze — all 15 pages**. See `page-map.md` and the speech handover for details.
