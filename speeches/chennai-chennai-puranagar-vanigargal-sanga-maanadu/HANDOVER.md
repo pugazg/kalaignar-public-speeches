@@ -19,18 +19,18 @@
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE**;
+- Tamil late source repair: PDF59 `கனிமண்` → `களிமண்`; re-frozen;
 - Tamil: **`verified-complete` / FROZEN**;
-- Tamil T2 corrections: **4**; unresolved: **0**;
-- English E1: **COMPLETE — 9 / 9**;
-- English E2: **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved**;
-- English state: **`fidelity-corrections-consolidated`**;
-- English E3: **READY / NOT STARTED**;
-- repository closure: **NOT STARTED**.
+- English E1: **COMPLETE — 9/9**;
+- English E2: **PASS — 9/9; 4 corrections; 0 unresolved**;
+- English E3: **PASS — 9/9; 2 final corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **READY / NOT STARTED**.
 
-E2 corrections are consolidated in `translation-en.md`: explicit second-person agency on PDF55; `39 இனங்கள்` scope and conservative `tapioca kappi and thippi` on PDF59; and `tax loss and revenue loss` on PDF60. All figures/lists, page joins, election rhetoric and the separate source note passed. Preserve the heading/contents `சென்னைப் புறநகர்` versus closing-note `சென்னை புறநகர்` distinction.
+E3 corrected PDF58 `sales-tax assessment` → `sales-tax levy` and PDF59 `mineral earth` → `clay`; a second complete end-to-end sweep produced 0 further issues. Preserve the source distinction between heading/contents `சென்னைப் புறநகர்` and closing-note `சென்னை புறநகர்`.
 
-Do not reopen the frozen Tamil layer without new source evidence.
+Do not alter either verified layer without new source evidence.
 
 ## Exact next incomplete gate
 
-Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
+Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
