@@ -22,15 +22,21 @@ The source/duplicate/boundary gate passed. No venue is inferred because the insp
 |---|---|
 | Tamil T1 first-pass transcription | **COMPLETE — 7 / 7 pages** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 7 / 7; 4 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| Tamil state | `t2-complete` |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 7 / 7; 0 additional corrections; 0 unresolved** |
+| Tamil state | **`verified-complete` / FROZEN** |
 
-T2 independently re-read PDF **63–69** against the scans. Confirmed corrections were: PDF65 `தனிக்கைக்குப்` → `தணிக்கைக்குப்` and `தனிக்கையின்` → `தணிக்கையின்`; PDF68 `நான்தோறும்` → `நாள்தோறும்`; and `கூட்டி வைத்து சொல்லியிருக்கிறார்கள்` → `கூட்டி வைத்தும் சொல்லியிருக்கிறார்கள்`. No unresolved Tamil reading remains at T2.
+T3 confirmed all PDF **63–69** page records once in sequence, all four T2 corrections consolidated, all page continuations intact, and the final body/source-note separation preserved. No additional T3 correction was required.
 
 ## English workflow
 
-Blocked until Tamil passes T3 and becomes `verified-complete` / frozen.
+| Gate | State |
+|---|---|
+| English E1 first-pass translation | **READY / NOT STARTED** |
+| English E2 independent fidelity review | **BLOCKED pending E1** |
+| English E3 final verification | **BLOCKED** |
+
+English must be translated only from the frozen `transcription-ta.md` layer.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 5–6 — 16 source pages total**. Do not start English or constituent 7 in the same activity.
+Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**. Stop before English E2 or constituent 7.
