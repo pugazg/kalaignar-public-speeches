@@ -6,19 +6,10 @@
     "closing_note_event_ta": "திரைப்பட விருது வழங்கும் விழா",
     "en_transliteration": "Thiraippada Virudhu Vazhangum Vizha"
   },
-  "creator": {
-    "name_ta": "கலைஞர் மு. கருணாநிதி",
-    "name_en": "M. Karunanidhi",
-    "role_source_text": "ஆற்றிய உரை"
-  },
+  "creator": {"name_ta": "கலைஞர் மு. கருணாநிதி", "name_en": "M. Karunanidhi", "role_source_text": "ஆற்றிய உரை"},
   "document_type": "public-speech-constituent",
   "language": "ta",
-  "parent_collection": {
-    "id": "muthukkuliyal-part-2",
-    "title_ta": "முத்துக் குளியல் — பாகம் II",
-    "constituent_number": 6,
-    "constituent_total": 36
-  },
+  "parent_collection": {"id": "muthukkuliyal-part-2", "title_ta": "முத்துக் குளியல் — பாகம் II", "constituent_number": 6, "constituent_total": 36},
   "speech": {
     "date": "1998-01-30",
     "date_source_text": "30-1-98",
@@ -47,13 +38,17 @@
     "duplicate_check": "pass-no-existing-dedicated-archive",
     "source_inspection": "complete",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "first-pass-complete",
+    "tamil_transcription": "t2-complete",
     "speech_pages_total": 7,
     "speech_pages_drafted": 7,
     "tamil_transcription_through_pdf_page": 69,
     "tamil_transcription_through_printed_page": 68,
-    "tamil_visual_audit": "not-started",
-    "strict_reaudit_pages_checked": 0,
+    "tamil_visual_audit": "complete",
+    "strict_reaudit_pages_checked": 7,
+    "tamil_visual_audit_through_pdf_page": 69,
+    "tamil_visual_audit_through_printed_page": 68,
+    "tamil_visual_audit_corrections": 4,
+    "tamil_visual_audit_unresolved": 0,
     "tamil_consolidation": "not-started",
     "english_translation": "blocked-pending-tamil-verification",
     "english_translation_pages_completed": 0,
@@ -62,6 +57,6 @@
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Combined constituents 5-6 Tamil T2 strict direct-scan fidelity audit — 16 source pages total"
+    "next_gate": "Combined constituents 5-6 Tamil T3 consolidation/freeze — 16 source pages total"
   }
 }
