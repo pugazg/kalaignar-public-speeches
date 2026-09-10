@@ -56,14 +56,14 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 7 | `purusai-gopalarathinam-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 8 | `muthamizh-peravai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 9/9; Tamil T1 next** |
-| 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 10/10; Tamil T1 next** |
+| 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **Tamil T1 COMPLETE — 9/9; T2 next** |
+| 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **Tamil T1 COMPLETE — 10/10; T2 next** |
 | 12–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **10–11** have completed the combined source / duplicate / boundary gate across **19/19 source pages** with **0 duplicate unresolved / 0 boundary unresolved**. Their dedicated archive controls are created; Tamil T1 has not started.
+Constituents **10–11** have completed Tamil T1 across **19/19 source pages** after the already-passed source / duplicate / boundary gate. Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**; both separate source closing notes remain outside their speech bodies.
 
-Source-specific identity notes: constituent 10 PDF102 separately establishes `18-4-98`, city-level `மதுரையில்`, and `ஆற்றிய உரை`, while preserving the page-title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction. Constituent 11 PDF112 separately establishes `18-4-98` and `ஆற்றிய உரை`; no geographic venue is inferred, and PDF113 visibly starts constituent 12.
+Source-specific identity notes remain unchanged. Constituent 10 preserves the title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction. Constituent 11 preserves the directly visible PDF110 / p.109 wording `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` for T2 re-check. Constituent 12 remains outside this iteration.
 
-Exact next gate: **combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**. Stop before T2.
+Exact next gate: **combined Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Stop before T3.
