@@ -22,13 +22,17 @@ The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source c
 |---|---|
 | Tamil T1 first-pass transcription | **COMPLETE — 9/9** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9/9; 1 correction; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| Tamil state | `t2-complete` |
-| English E1/E2/E3 | **BLOCKED pending verified Tamil** |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved** |
+| Tamil state | **`verified-complete` / FROZEN** |
+| English E1 first-pass translation | **READY / NOT STARTED** |
+| English E2 independent fidelity review | **BLOCKED pending E1** |
+| English E3 final verification | **BLOCKED** |
 | Repository closure | **NOT STARTED** |
 
 T2 correction: PDF84 / printed p.83 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`. PDF88 / printed p.87 `அமைகிறேன்` was re-read and confirmed as printed. PDF82→83 and PDF83→84 page-boundary continuations were checked against both scans.
 
+T3 confirmed PDF **80–88** appears exactly once and in order, the single T2 correction is consolidated, all page continuations remain intact, PDF88 `அமைகிறேன்` remains preserved, and the separate PDF88 closing note remains outside the speech body. No additional T3 correction was required. English must now be derived only from the frozen `transcription-ta.md`.
+
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Do not start English, repository closure, or constituent 10 in the same activity.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
