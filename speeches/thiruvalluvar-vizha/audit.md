@@ -34,12 +34,14 @@ Confirmed E3 corrections:
 
 After consolidation, E3 repeated the entire PDF **34–49** comparison against frozen Tamil. All names, institutions, figures, dates, page joins, quotations, source-sensitive wordplay, transparent opaque forms, the `ராணி`/Pongal sequence and final body/source-note separation passed with **0 further corrections / 0 unresolved issues**.
 
-## Current state
+## Repository closure
+
+**PASS / COMPLETE.**
 
 - Tamil: **`verified-complete` / FROZEN**;
 - English: **`verified-complete`**;
-- repository archival closure: **READY / NOT STARTED**.
+- repository closure: **complete**;
+- archive status: **fully-archived**;
+- pending transcription/translation work: **none**.
 
-## Exact next gate
-
-Run combined **repository-level archival closure for constituents 3–4** and stop before constituent 5.
+Parent collection controls and the root catalogue are synchronized in the combined constituents 3–4 closure. Reopen only on genuinely new source or fidelity evidence.
