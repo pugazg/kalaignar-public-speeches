@@ -2,7 +2,7 @@
 
 **English E1:** **COMPLETE — 10 / 10 pages**  
 **English E2:** **PASS / COMPLETE — 10 / 10; 4 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved**
 
 Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against `transcription-ta.md` and consolidated only confirmed fidelity corrections.
 
@@ -20,6 +20,14 @@ Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every 
 
 All 10 page records and joins, names, titles, numerals, rhetorical force and repetition, performance markers, final body, and separate source closing note passed E2. Unresolved English fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 10/10 pages; 0 additional corrections; 0 unresolved.**
+
+- The complete corrected English translation was re-read against the frozen Tamil layer from beginning to end.
+- All E2 corrections are present; page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source notes, and separate closing-note handling were verified.
+- No additional English correction is required.
+
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.
+Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
