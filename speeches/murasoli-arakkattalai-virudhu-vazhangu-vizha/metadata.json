@@ -52,16 +52,16 @@
     "speech_pages_drafted": 15,
     "tamil_transcription_through_pdf_page": 33,
     "tamil_transcription_through_printed_page": 32,
-    "tamil_visual_audit": "in-progress",
-    "strict_reaudit_pages_checked": 10,
-    "tamil_visual_audit_through_pdf_page": 28,
-    "tamil_visual_audit_through_printed_page": 27,
-    "tamil_visual_audit_corrections": 4,
+    "tamil_visual_audit": "complete",
+    "strict_reaudit_pages_checked": 15,
+    "tamil_visual_audit_through_pdf_page": 33,
+    "tamil_visual_audit_through_printed_page": 32,
+    "tamil_visual_audit_corrections": 5,
     "tamil_visual_audit_unresolved": 0,
     "tamil_consolidation": "not-started",
     "english_translation": "not-started",
     "english_translation_review": "not-started",
     "english_translation_final_verification": "not-started",
-    "next_gate": "Tamil T2 batch 3 — PDF 29-33 / printed 28-32"
+    "next_gate": "Tamil T3 consolidation / freeze — all 15 pages"
   }
 }
