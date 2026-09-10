@@ -39,6 +39,12 @@ Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத
 
 T2 correction set is fully consolidated into the transcript. The final correction is PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`. All queued odd readings and the final body/source-note separation were directly checked; no unresolved reading remains.
 
+## Multi-constituent efficiency policy
+
+For this collection, read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH_PROCESSING_GUIDE.md`.
+
+After the current constituent's T3/freeze is complete, eligible consecutive constituents may be advanced through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each speech remains a separate archive. Do not mix gates merely to fill the 25-page allowance.
+
 ## Exact next incomplete gate
 
 Run constituent 2 **Tamil T3 consolidation / freeze — all 15 pages**. Confirm all five corrections, continuity and boundaries; if clean, mark Tamil `verified-complete`. Do not begin English until T3 passes.
