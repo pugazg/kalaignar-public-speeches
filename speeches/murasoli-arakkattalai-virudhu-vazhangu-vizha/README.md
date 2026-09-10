@@ -21,12 +21,18 @@ The opening heading is `முரசொலி அறக்கட்டளை வ
 |---|---|
 | Duplicate/source gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 15 / 15 pages** |
-| Tamil T2 strict visual audit | **IN PROGRESS — 10 / 15 pages; 4 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **BLOCKED** |
+| Tamil T2 strict visual audit | **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **NOT STARTED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-T2 batch 1 covered PDF **19–23** / printed **18–22** and passed with **3 corrections / 0 unresolved**. T2 batch 2 covered PDF **24–28** / printed **23–27** and passed with **1 correction / 0 unresolved**. The batch-2 correction preserves the source's later spelling `இந்த ஸ்டுடியோவில்` while retaining the earlier same-page `கோயம்புத்தூர் சென்ட்ரல் ஸ்டூடியோவில்` exactly as printed.
+T2 batch results:
+
+- PDF **19–23** / printed **18–22** — **5/5 PASS; 3 corrections; 0 unresolved**;
+- PDF **24–28** / printed **23–27** — **5/5 PASS; 1 correction; 0 unresolved**;
+- PDF **29–33** / printed **28–32** — **5/5 PASS; 1 correction; 0 unresolved**.
+
+Cumulative T2 corrections: **5**. The final batch corrected PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` to source-confirmed `நடைபெற்றதென்றால்`. The flagged readings `வேதவித்து`, `வாடியவர்`, `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்` were directly re-read and retained as printed.
 
 ## Exact next gate
 
-Complete Tamil **T2 batch 3 — PDF 29–33 / printed 28–32**. English remains blocked until Tamil is `verified-complete`.
+Run Tamil **T3 consolidation / freeze — all 15 pages**. Confirm the complete correction set, continuity, page boundaries and body/source-note separation, then mark Tamil `verified-complete` if clean. English remains blocked until that gate passes.
