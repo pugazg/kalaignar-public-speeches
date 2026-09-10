@@ -45,10 +45,26 @@ Tamil is now **`verified-complete` / FROZEN**. Later Tamil changes require new d
 
 E1 preserves the Tamil page correspondence, rhetorical structure, names, numerals, performance markers and the separate source closing note. It remains provisional until E2.
 
+## English E2 — independent fidelity review
+
+- result: **PASS / COMPLETE — 10/10 pages**;
+- confirmed fidelity corrections: **4**;
+- unresolved fidelity issues: **0**;
+- missing/duplicated English page records: **0 / 0**.
+
+1. PDF 70 / printed p.69: restored the omitted bride descriptor as **“the Tamil maiden Malarvizhi”**.
+2. PDF 71 / printed p.70: removed an unsupported institutional normalization and rendered it conservatively as **“the most backward people”**.
+3. PDF 76 / printed p.75: restored the stronger relationship term as **“a close friend”** rather than the weaker “a dear friend”.
+4. PDF 78 / printed p.77: corrected the village saying to **“The little girl who knew nothing, they say, latched the door.”** rather than saying she put the bolt “on herself”.
+
+Source-sensitive clarifications:
+- PDF 72 / printed p.71: the existing source note for the irregular frozen-Tamil phrase `தமிழ்நாட்டை என்` is retained; the Tamil layer is not altered.
+- PDF 76 / printed p.75: added a source note for the irregular frozen-Tamil phrase `சில மாதம் மந்திரிகள்`; the evident referent is translated as “some ministers” without silently changing Tamil.
+
 ## Current state
 
-Tamil T1/T2/T3 **COMPLETE — 10/10**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 10/10**; E2 is **READY / NOT STARTED**; E3 and repository closure remain blocked/pending.
+Tamil T1/T2/T3 **COMPLETE — 10/10**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 10/10**; English E2 is **PASS / COMPLETE — 10/10; 4 corrections; 0 unresolved**; English E3 is **READY / NOT STARTED**; repository closure remains pending.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

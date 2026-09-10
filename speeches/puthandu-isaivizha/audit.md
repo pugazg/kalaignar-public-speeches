@@ -45,10 +45,24 @@ Tamil is now **`verified-complete` / FROZEN**. Later Tamil changes require new d
 
 E1 preserves the Tamil page correspondence, rhetorical structure, names, numerals, performance markers and the separate source closing note. It remains provisional until E2.
 
+## English E2 — independent fidelity review
+
+- result: **PASS / COMPLETE — 5/5 pages**;
+- confirmed fidelity corrections: **3**;
+- unresolved fidelity issues: **0**;
+- missing/duplicated English page records: **0 / 0**.
+
+1. PDF 90 / printed p.89: replaced the modernized “world-class wonder” with the closer **“a great wonder of the world”**.
+2. PDF 92 / printed p.91: removed the added implication in “I am not making it up” and restored **“I am not the one saying it.”**
+3. PDF 93 / printed p.92: removed the added motive “whom they wished to honour” and restored the source sense as **“They have remembered all those people and offered each of them their appreciation and affection.”**
+
+Source-sensitive clarifications:
+- PDF 90 / printed p.89: added a source note for the difficult frozen-Tamil phrase `தேர்வுத் தந்து`; English retains the conservative sense “selected … and gave it” without altering Tamil.
+
 ## Current state
 
-Tamil T1/T2/T3 **COMPLETE — 5/5**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 5/5**; E2 is **READY / NOT STARTED**; E3 and repository closure remain blocked/pending.
+Tamil T1/T2/T3 **COMPLETE — 5/5**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 5/5**; English E2 is **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved**; English E3 is **READY / NOT STARTED**; repository closure remains pending.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

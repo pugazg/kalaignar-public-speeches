@@ -1,10 +1,10 @@
 # Muthamizh Peravai Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **9 / 9 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **9 / 9 pages COMPLETE**; E2 **9 / 9 PASS; 3 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **80–88** / printed **79–87**
 
-> E1 was translated only from the frozen Tamil layer. Page correspondence, names, award titles, rhetorical repetitions, applause/laughter markers, cross-page continuations, and the separate source closing note are preserved. This translation remains provisional until E2 independent fidelity review.
+> E1 was translated only from the frozen Tamil layer. E2 independently compared all 9 English pages against that frozen Tamil and consolidated 3 fidelity corrections. English remains provisional until E3 final end-to-end verification.
 
 ## PDF 80 / printed p.79
 
@@ -32,7 +32,7 @@ Before I expressed in this Muthamizh Peravai the idea that such an award should 
 
 awarded. (applause) Therefore, after I myself became Chief Minister, I announced the Rajarathna Award at a Muthamizh Peravai function, and for many years now that award has been given to many vidwans. In that line, today Mahalingam Pillai has received the award. I congratulate him; I commend him.
 
-The recipient of the Iyarselvam Award is Solomon Pappiah. This award should perhaps have been given to him much earlier. On behalf of this Peravai I express my regret to him for the delay, because there can hardly be anyone in Tamil Nadu who does not know Solomon Pappiah.
+The recipient of the Iyarselvam Award is Solomon Pappiah. This award should perhaps have been given to him much earlier. On behalf of this Peravai I express my regret to him for the delay, because there can be no one in Tamil Nadu who does not know Solomon Pappiah.
 
 I want to tell you one thing. I get up at 5:30 in the morning, finish my morning walk—the thing they call “walking”—by 6:30, return home, and sit down to write the Udanpirappu letter for the Murasoli newspaper. At that time the Tirukkural is broadcast on Sun TV. Some writers say that when they are writing there must not be any sound beside them. I am not like that. Whatever sound may be heard, once I begin writing I continue without worrying about it. But some sounds become sounds that encourage my writing. In that way, every day, the sound of Solomon Pappiah's Tirukkural, while I am writing, gives encouragement to my writing. (applause) I am not saying this merely in order to honour him in this gathering
 
@@ -40,7 +40,7 @@ I want to tell you one thing. I get up at 5:30 in the morning, finish my morning
 
 as a courtesy. My wife and members of my household are here. Solomon Pappiah may ask them and find out whether I have truly said this before or whether I am saying it merely out of courtesy.
 
-To that extent, every day it is the Tirukkural. Many people have written commentaries on the Tirukkural. I too have written a commentary on all 1,330 Kural couplets. I have drawn Kural Oviyam. For two hundred or three hundred Kural couplets I have shaped little stories and written Kural Oviyam so that the Kural may be easily understood. But beyond all that, every day he presents the Tirukkural in a way that stays in the mind and can be understood even by small children. There may be a difference of opinion between him and me regarding the word-by-word meaning he gives. It is a difference, not a contradiction. A difference is one thing; a contradiction is another. Contradiction is like oil and water. Difference is like milk and water. Milk and water may be different, but when poured together they mingle as one. I will not speak in “Madras” slang. (loud laughter) In the same way, however much you try to mix oil and water, they will remain separate. Thus, even where there is some difference without contradiction, how sweetly he recites the Kural, how sweetly he gives its explanation—I keep writing while marvelling at it again and again.
+To that extent, every day it is the Tirukkural. Many people have written commentaries on the Tirukkural. I too have written a commentary on all 1,330 Kural couplets. I have drawn Kural Oviyam. For two hundred or three hundred Kural couplets I have shaped little stories and written Kural Oviyam so that the Kural may be easily understood. But beyond all that, every day he presents the Tirukkural in a way that stays in the mind and can be understood even by small children. There may be a difference of opinion between him and me regarding the word-by-word meaning he gives. It is a difference, not a contradiction. A difference is one thing; a contradiction is another. Contradiction is like oil and water. Difference is like milk and water. Milk and water may be different, but when poured together they mingle as one. I will not speak in “Chennai” slang. (loud laughter) In the same way, however much you try to mix oil and water, they will remain separate. Thus, even where there is some difference without contradiction, how sweetly he recites the Kural, how sweetly he gives its explanation—I keep writing while marvelling at it again and again.
 
 ## PDF 85 / printed p.84
 
@@ -56,13 +56,15 @@ Kumbakonam Singaram Pillai, who receives the Mridanga Selvam Award, trained unde
 
 Azhaganambia Pillai in the gurukula tradition and learned the mridangam. He became famous for playing mridangam with tambura sruti for Thiruvavaduthurai Rajarathinam Pillai and Thiruvenkadu T. P. Subramania Pillai. Since every one of these recipients is worthy of the award, I am repeatedly duty-bound to congratulate and commend them.
 
-At this function our friend Deccan Murthy has contributed one lakh rupees to the building fund. This is not a wealthy Peravai. It is an ordinary, modest Peravai. For 23 years, every year when I come, they have been telling me that a building is needed. I too have been saying, “We shall see, we shall see. You undertake the effort. I will do what I can and stand by you.” For 23 years they did not engage in any such effort. Somehow this year they have taken up the effort and have asked the government to allot a site for this Peravai. I have assured them that the necessary action will be taken. (applause)
+At this function our friend Deccan Murthy has contributed one lakh rupees to the building fund. This is not a wealthy Peravai. It is an ordinary, common Peravai. For 23 years, every year when I come, they have been telling me that a building is needed. I too have been saying, “We shall see, we shall see. You undertake the effort. I will do what I can and stand by you.” For 23 years they did not engage in any such effort. Somehow this year they have taken up the effort and have asked the government to allot a site for this Peravai. I have assured them that the necessary action will be taken. (applause)
 
 That site will be allotted soon. (loud applause) To carry out the work of raising a building on it, our Deccan has given one lakh rupees here. I too thought—our Moopanar, who is to speak next, in competition with him (loud laughter)—Moopanar says that whatever
 
 ## PDF 87 / printed p.86
 
 is needed, announce it on my behalf) Moopanar says to announce however much is needed. It is election time. I do not wish to say too much. (loud applause) I am happy to tell you that he too is giving one lakh rupees. (loud applause)
+
+> **Source note:** The frozen Tamil itself contains the unmatched closing parenthesis after `கூறுகிறார்)` at this PDF 87 continuation; E2 preserves it rather than silently repairing the source punctuation.
 
 Since both of them are giving, I state here that one lakh rupees will be given from the Chief Minister's Fund as well. (loud applause)
 
@@ -79,13 +81,25 @@ wonderful speech here. Indeed, his Tamil played and delighted us here to such an
 **Source closing note (separate from speech body):**  
 Speech delivered at the Muthamizh Peravai function on 3-2-98.
 
-## E1 checkpoint
+## E2 fidelity-review note
 
 - English E1: **9/9 COMPLETE**.
+- English E2: **PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved**.
 - Translation source: **frozen `transcription-ta.md` only**.
 - Missing English page records: **0**.
-- E2 review: **NOT STARTED**.
+
+### E2 corrections
+
+1. PDF 83 / printed p.82: restored the categorical force as **“there can be no one in Tamil Nadu who does not know Solomon Pappiah”** rather than “hardly anyone”.
+2. PDF 84 / printed p.83: restored the source city name as **“I will not speak in ‘Chennai’ slang.”** instead of “Madras”.
+3. PDF 86 / printed p.85: removed the added connotation “modest” and rendered the paired descriptors as **“ordinary, common”**.
+
+### Source-sensitive clarifications
+
+- PDF 87 / printed p.86: added a source note that the frozen Tamil itself carries the unmatched closing parenthesis in `கூறுகிறார்)`; English preserves it rather than silently repairing source punctuation.
+
+All 9 page joins, names, numerals, rhetorical repetitions, performance markers, final body and separate source closing note passed E2. Unresolved English fidelity issues: **0**.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

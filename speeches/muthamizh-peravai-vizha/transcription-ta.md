@@ -102,4 +102,4 @@
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

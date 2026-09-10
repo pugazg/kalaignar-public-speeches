@@ -41,6 +41,16 @@ Combined result: **COMPLETE — 24/24 verified Tamil pages**. Each constituent r
 - **8 / 36:** English E1 **9/9 COMPLETE**;
 - **9 / 36:** English E1 **5/5 COMPLETE**.
 
+## Constituents 7–9 — English E2 independent fidelity review
+
+Combined result: **PASS / COMPLETE — 24/24 pages; 10 confirmed fidelity corrections; 0 unresolved issues**.
+
+- **7 / 36:** 10/10 E2 PASS; **4 corrections** — restored `செந்தமிழ்ச் செல்வி`, avoided unsupported institutional normalization of `மிகவும் பின்தங்கிய மக்களுக்கு`, restored the stronger `உயிர்த்தோழி` relationship term, and corrected the PDF78 village saying. Source notes transparently retain PDF72 `தமிழ்நாட்டை என்` and PDF76 `சில மாதம் மந்திரிகள்`.
+- **8 / 36:** 9/9 E2 PASS; **3 corrections** — restored the categorical Solomon Pappiah statement, `சென்னை` rather than “Madras”, and the paired `சாதாரணமான, சாமான்யமான` descriptors. The unmatched PDF87 source parenthesis is noted and preserved.
+- **9 / 36:** 5/5 E2 PASS; **3 corrections** — corrected `உலக மகா ஆச்சரியம்`, removed the added implication from `நான் கூறவில்லை`, and removed the unsupported motive in the closing appreciation sentence. The difficult PDF90 `தேர்வுத் தந்து` is explicitly noted.
+
+All page records and joins, names/titles/numerals, rhetorical force and repetition, performance markers, final bodies, and separate source closing notes passed E2. No frozen Tamil text was changed.
+
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 9/36 / 9/36**;
@@ -48,9 +58,10 @@ Combined result: **COMPLETE — 24/24 verified Tamil pages**. Each constituent r
 - Tamil T2 complete: **9/36**;
 - Tamil T3 complete / Tamil verified: **9/36**;
 - English E1 complete: **9/36**;
-- English E2/E3 complete: **6/36**;
+- English E2 complete: **9/36**;
+- English E3 complete: **6/36**;
 - fully archived: **6/36**.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

@@ -82,4 +82,4 @@
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

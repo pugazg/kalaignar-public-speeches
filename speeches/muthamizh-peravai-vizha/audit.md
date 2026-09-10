@@ -45,10 +45,24 @@ Tamil is now **`verified-complete` / FROZEN**. Later Tamil changes require new d
 
 E1 preserves the Tamil page correspondence, rhetorical structure, names, numerals, performance markers and the separate source closing note. It remains provisional until E2.
 
+## English E2 — independent fidelity review
+
+- result: **PASS / COMPLETE — 9/9 pages**;
+- confirmed fidelity corrections: **3**;
+- unresolved fidelity issues: **0**;
+- missing/duplicated English page records: **0 / 0**.
+
+1. PDF 83 / printed p.82: restored the categorical force as **“there can be no one in Tamil Nadu who does not know Solomon Pappiah”** rather than “hardly anyone”.
+2. PDF 84 / printed p.83: restored the source city name as **“I will not speak in ‘Chennai’ slang.”** instead of “Madras”.
+3. PDF 86 / printed p.85: removed the added connotation “modest” and rendered the paired descriptors as **“ordinary, common”**.
+
+Source-sensitive clarifications:
+- PDF 87 / printed p.86: added a source note that the frozen Tamil itself carries the unmatched closing parenthesis in `கூறுகிறார்)`; English preserves it rather than silently repairing source punctuation.
+
 ## Current state
 
-Tamil T1/T2/T3 **COMPLETE — 9/9**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 9/9**; E2 is **READY / NOT STARTED**; E3 and repository closure remain blocked/pending.
+Tamil T1/T2/T3 **COMPLETE — 9/9**. Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 9/9**; English E2 is **PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved**; English E3 is **READY / NOT STARTED**; repository closure remains pending.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

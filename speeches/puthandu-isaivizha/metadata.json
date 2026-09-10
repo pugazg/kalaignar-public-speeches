@@ -2,46 +2,41 @@
   "id": "puthandu-isaivizha",
   "title": {
     "ta": "புத்தாண்டு இசைவிழா",
-    "contents_title_ta": "புத்தாண்டு இசை விழா",
-    "closing_note_event_ta": "புத்தாண்டு இசைவிழா",
-    "en_transliteration": "Puthandu Isaivizha"
+    "en": "Puthandu Isaivizha"
   },
   "creator": {
     "name_ta": "கலைஞர் மு. கருணாநிதி",
-    "name_en": "M. Karunanidhi",
-    "role_source_text": "ஆற்றிய உரை"
+    "role": "speaker"
   },
-  "document_type": "public-speech-constituent",
-  "language": "ta",
   "parent_collection": {
     "id": "muthukkuliyal-part-2",
-    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "title_ta": "முத்துக் குளியல்",
+    "part_text": "பாகம் - II",
     "constituent_number": 9,
     "constituent_total": 36
   },
-  "speech": {
-    "date": "1998-04-14",
-    "venue_ta": null,
-    "venue_note": "No venue is stated in the inspected constituent opening or closing note; do not infer one from body context.",
-    "event_ta": "புத்தாண்டு இசைவிழா",
-    "role_ta": "ஆற்றிய உரை",
-    "source_note": "PDF 93 / printed p.92 states: 14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை",
-    "date_source_text": "14-4-98"
-  },
+  "language": "ta",
+  "document_type": "public-speech",
   "source": {
     "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
     "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
-    "file_size_bytes": 232470104,
-    "source_pdf_pages_total": 425,
+    "binary_committed": false,
     "pdf_page_start": 89,
     "pdf_page_end": 93,
     "printed_page_start": 88,
     "printed_page_end": 92,
-    "speech_pages_total": 5,
-    "binary_committed": false,
-    "scan_status": "primary source supplied by repository owner",
-    "opening": "PDF 89 / printed p.88; numbered constituent 9 with page heading புத்தாண்டு இசைவிழா; contents form is புத்தாண்டு இசை விழா",
-    "ending": "Speech body ends on PDF 93 / printed p.92 before the separate printed source closing note"
+    "speech_pages": 5,
+    "printed_to_pdf_offset": 1,
+    "contents_title_ta": "புத்தாண்டு இசை விழா",
+    "heading_ta": "புத்தாண்டு இசைவிழா",
+    "closing_note_ta": "14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை"
+  },
+  "event": {
+    "date": "1998-04-14",
+    "date_source": "source closing note",
+    "venue": null,
+    "venue_source": "not stated in inspected opening/closing evidence",
+    "role_ta": "ஆற்றிய உரை"
   },
   "workflow": {
     "duplicate_check": "pass-no-existing-dedicated-archive",
@@ -52,13 +47,13 @@
     "speech_pages_drafted": 5,
     "tamil_visual_audit": "complete",
     "tamil_consolidation": "complete",
-    "english_translation": "first-pass-complete",
-    "english_translation_review": "not-started",
-    "english_translation_final_verification": "blocked-pending-e2",
+    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation_review": "complete",
+    "english_translation_final_verification": "not-started",
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Combined English E2 independent fidelity review for constituents 7–9 — 24 pages total",
+    "next_gate": "Combined English E3 final end-to-end verification for constituents 7–9 — 24 pages total",
     "tamil_transcription_through_pdf_page": 93,
     "tamil_transcription_through_printed_page": 92,
     "strict_reaudit_pages_checked": 5,
@@ -71,6 +66,9 @@
     "source_closing_note_verified": true,
     "t3_additional_corrections": 0,
     "english_translation_source": "frozen transcription-ta.md only",
-    "english_translation_pages_completed": 5
+    "english_translation_pages_completed": 5,
+    "english_translation_review_pages_checked": 5,
+    "english_translation_review_corrections": 3,
+    "english_translation_review_unresolved": 0
   }
 }

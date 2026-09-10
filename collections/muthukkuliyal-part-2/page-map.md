@@ -53,15 +53,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 6 | `thiraippada-virudhu-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 7 | `purusai-gopalarathinam-illa-manavizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 10/10; English E1 COMPLETE — 10/10; E2 next** |
-| 8 | `muthamizh-peravai-vizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 9/9; English E1 COMPLETE — 9/9; E2 next** |
-| 9 | `puthandu-isaivizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 5/5; English E1 COMPLETE — 5/5; E2 next** |
+| 7 | `purusai-gopalarathinam-illa-manavizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 10/10; English E1 COMPLETE — 10/10; E2 PASS — 10/10; E3 next** |
+| 8 | `muthamizh-peravai-vizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 9/9; English E1 COMPLETE — 9/9; E2 PASS — 9/9; E3 next** |
+| 9 | `puthandu-isaivizha` | **Tamil VERIFIED-COMPLETE / FROZEN — 5/5; English E1 COMPLETE — 5/5; E2 PASS — 5/5; E3 next** |
 | 10–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **7–9** have Tamil T1/T2/T3 **COMPLETE — 24/24 pages** and are **`verified-complete` / FROZEN** at the Tamil layer. English E1 is also **COMPLETE — 24/24 pages** (10 + 9 + 5), translated only from frozen Tamil. E2 is ready / not started. Each source closing note remains separate from the speech body.
+Constituents **7–9** have Tamil T1/T2/T3 **COMPLETE — 24/24 pages** and are **`verified-complete` / FROZEN** at the Tamil layer. English E1 is **COMPLETE — 24/24 pages** (10 + 9 + 5), translated only from frozen Tamil. English E2 is **PASS / COMPLETE — 24/24 pages; 10 corrections; 0 unresolved**. E3 is ready / not started. Each source closing note remains separate from the speech body.
 
 Source-specific identity notes remain unchanged: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
 
-Exact next gate: **combined English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Constituent 10 remains outside this iteration.
+Exact next gate: **combined English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Constituent 10 remains outside this iteration.

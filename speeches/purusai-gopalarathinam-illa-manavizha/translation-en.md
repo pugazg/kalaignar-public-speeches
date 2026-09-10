@@ -1,16 +1,16 @@
 # Purusai Gopalarathinam House Wedding — English translation
 
-**Status:** `first-pass-complete` — English E1 **10 / 10 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **10 / 10 pages COMPLETE**; E2 **10 / 10 PASS; 4 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **70–79** / printed **69–78**
 
-> E1 was translated only from the frozen Tamil layer. Page correspondence, political rhetoric, repetitions, numerals, applause markers, the separate closing note, and the source-supported irregular reading on PDF 72 are retained transparently. This translation remains provisional until E2 independent fidelity review.
+> E1 was translated only from the frozen Tamil layer. E2 independently compared all 10 English pages against that frozen Tamil and consolidated 4 fidelity corrections. English remains provisional until E3 final end-to-end verification.
 
 ## PDF 70 / printed p.69
 
 ### Purusai Gopalarathinam House Wedding
 
-With the warm good wishes of all of us, the wedding ceremony has been completed here between Malarvizhi, the daughter of Gopalarathinam, who is Parasuraman's brother, and Muralidharan, the son of Subramaniam of Ellaikkudaiyur, Mettur taluk, Salem district.
+With the warm good wishes of all of us, the wedding ceremony has been completed here between the Tamil maiden Malarvizhi, the daughter of Gopalarathinam, who is Parasuraman's brother, and Muralidharan, the son of Subramaniam of Ellaikkudaiyur, Mettur taluk, Salem district.
 
 Those who spoke before me have all explained whose family function this is.
 
@@ -22,7 +22,7 @@ was sitting somewhere! Such is Parasuraman, a man without guile. By taking part 
 
 As far as this constituency is concerned, brother Murasoli Maran has been fielded as the DMK candidate in Central Chennai. Looking at all of you here, I cannot ask, “Vote only in the Central Chennai constituency!” You have come from Salem district. You have come from Chengalpattu. You have come from Chennai and North Chennai. I know very well who most of those who have come here are. I also know very well that most of you here are people who received the 20 per cent reservation under the DMK government. (loud applause)
 
-That reservation could not be obtained despite struggle after struggle and even after many people were sacrificed to bullets. As soon as I assumed the responsibility of government in 1989, I called everyone who had to be called and spoke with them, and issued the order that “20 per cent reservation shall henceforth be provided to the Most Backward Classes.”
+That reservation could not be obtained despite struggle after struggle and even after many people were sacrificed to bullets. As soon as I assumed the responsibility of government in 1989, I called everyone who had to be called and spoke with them, and issued the order that “20 per cent reservation shall henceforth be provided to the most backward people.”
 
 ## PDF 72 / printed p.71
 
@@ -34,7 +34,7 @@ The movement that has politically evolved as a successor to that Dravidian Movem
 
 Although the DMK assumed responsibility for government under Anna's leadership in 1967, before that—before the twenty years of Congress rule—you know that the Justice Party had once taken responsibility for governing the Madras Presidency, the Madras State, which included Tamil Nadu, some parts of Kerala, some parts of Andhra and some parts of Karnataka. That Justice Party's tradition is the DMK's tradition; the DMK is its political heir.
 
-> **Source note:** At this point the frozen Tamil contains the irregular phrase `தமிழ்நாட்டை என்`. E1 does not silently rewrite that source difficulty; the surrounding sentence is rendered conservatively from the evident structure.
+> **Source note:** At this point the frozen Tamil contains the irregular phrase `தமிழ்நாட்டை என்`. The English does not silently rewrite that source difficulty; the surrounding sentence is rendered conservatively from the evident structure.
 
 What was the policy of the Justice Party? Equality and social justice. That is why, in those days, the Justice Party placed the symbol of a balance scale on its flag. It placed that symbol because equality and social justice had to be given to everyone. That movement, called the “Justice Party” in English, has its political heir today in the Dravida Munnetra Kazhagam; I am duty-bound to point that out to you.
 
@@ -66,11 +66,13 @@ You know what kind of government the previous one was. Our Deputy Speaker, broth
 
 that. They themselves described it on their own television channel as a “wedding without precedent in history.” On their own television they broadcast, “There has never been a wedding like this anywhere in the world, and there never will be one again.” This is a fact known to the whole town.
 
-But what happened? The next year that lady said, “He is not my foster son at all”! They printed invitations saying it was the wedding of foster son Sudhakaran, distributed them not merely to the ordinary people here but even to the Prime Minister of India and the President, conducted the wedding here with great pomp, and a year later said, “He is not my foster son.” In the whole world, there can be no one except Jayalalithaa clever enough to change in the next year what she said a year earlier. One day she would call someone a dear friend. The next day she would say, “Not a friend, but a sister not born of the same womb.” She would say, “I cannot live separated from her.” Some ministers went and asked, “Amma, is it not because of her that you have acquired a bad name? Could you not stay apart from her for a while?” That Amma asked in return, “Would you live apart from your wife?” A sudden question, a thunderbolt question! All the ministers were stunned. “Just as you cannot live apart from your wife, I cannot live apart from Sasikala,” she replied in a single
+But what happened? The next year that lady said, “He is not my foster son at all”! They printed invitations saying it was the wedding of foster son Sudhakaran, distributed them not merely to the ordinary people here but even to the Prime Minister of India and the President, conducted the wedding here with great pomp, and a year later said, “He is not my foster son.” In the whole world, there can be no one except Jayalalithaa clever enough to change in the next year what she said a year earlier. One day she would call someone a close friend. The next day she would say, “Not a friend, but a sister not born of the same womb.” She would say, “I cannot live separated from her.” Some ministers went and asked, “Amma, is it not because of her that you have acquired a bad name? Could you not stay apart from her for a while?” That Amma asked in return, “Would you live apart from your wife?” A sudden question, a thunderbolt question! All the ministers were stunned. “Just as you cannot live apart from your wife, I cannot live apart from Sasikala,” she replied in a single
 
 ## PDF 77 / printed p.76
 
 word and drove them all away—the former Chief Minister Jayalalithaa, that great lady.
+
+> **Source note:** The frozen Tamil contains the irregular phrase `சில மாதம் மந்திரிகள்` on PDF 76; E2 conservatively retains the evident referent as “some ministers” without altering the frozen Tamil layer.
 
 You know all the corruption that took place under her government. I do not wish to list every item. I shall give just one example; you may understand from it.
 
@@ -84,7 +86,7 @@ An unknown person in America sends one crore rupees to Madam Jayalalithaa—
 
 an unknown person. A man whose address is unknown sends it. A man walking along the street sends one crore rupees!
 
-When asked, “What did you do?” she said, “I deposited it in the bank.” They asked, “Why did you deposit it? When an unknown person sent it, should you not have sent it back to that person?” She said, “I did not know the sender's address. So I immediately called the auditor and asked, ‘What can I do?’ I told the auditor, ‘One crore rupees has come like this. I do not know who sent it; I do not know what to do.’ The auditor said, ‘Deposit it in the bank in your own name.’” Thus, says Jayalalithaa, after calling the auditor and finding out what to do, she deposited it in the bank in her own name. In the villages they say, “The little girl who knew nothing put the bolt on herself.” In the same way, this Amma supposedly deposited it in her own name.
+When asked, “What did you do?” she said, “I deposited it in the bank.” They asked, “Why did you deposit it? When an unknown person sent it, should you not have sent it back to that person?” She said, “I did not know the sender's address. So I immediately called the auditor and asked, ‘What can I do?’ I told the auditor, ‘One crore rupees has come like this. I do not know who sent it; I do not know what to do.’ The auditor said, ‘Deposit it in the bank in your own name.’” Thus, says Jayalalithaa, after calling the auditor and finding out what to do, she deposited it in the bank in her own name. In the villages they say, “The little girl who knew nothing, they say, latched the door.” In the same way, this Amma supposedly deposited it in her own name.
 
 Think about it for a moment. This is a wedding. AIADMK members may also have come here. Parasuraman may have invited them too. It is election time; he would have invited everyone. They too may have come.
 
@@ -101,13 +103,27 @@ Corrupt acts of this kind were not one or two; they took place to the tune of ma
 **Source closing note (separate from speech body):**  
 Speech delivered at the wedding in the house of Purusai Gopalarathinam.
 
-## E1 checkpoint
+## E2 fidelity-review note
 
 - English E1: **10/10 COMPLETE**.
+- English E2: **PASS / COMPLETE — 10/10; 4 corrections; 0 unresolved**.
 - Translation source: **frozen `transcription-ta.md` only**.
 - Missing English page records: **0**.
-- E2 review: **NOT STARTED**.
+
+### E2 corrections
+
+1. PDF 70 / printed p.69: restored the omitted bride descriptor as **“the Tamil maiden Malarvizhi”**.
+2. PDF 71 / printed p.70: removed an unsupported institutional normalization and rendered it conservatively as **“the most backward people”**.
+3. PDF 76 / printed p.75: restored the stronger relationship term as **“a close friend”** rather than the weaker “a dear friend”.
+4. PDF 78 / printed p.77: corrected the village saying to **“The little girl who knew nothing, they say, latched the door.”** rather than saying she put the bolt “on herself”.
+
+### Source-sensitive clarifications
+
+- PDF 72 / printed p.71: the existing source note for the irregular frozen-Tamil phrase `தமிழ்நாட்டை என்` is retained; the Tamil layer is not altered.
+- PDF 76 / printed p.75: added a source note for the irregular frozen-Tamil phrase `சில மாதம் மந்திரிகள்`; the evident referent is translated as “some ministers” without silently changing Tamil.
+
+All 10 page joins, names, numerals, rhetorical repetitions, performance markers, final body and separate source closing note passed E2. Unresolved English fidelity issues: **0**.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.

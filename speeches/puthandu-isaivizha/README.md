@@ -25,12 +25,23 @@ The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source c
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 5/5; 0 additional corrections; 0 unresolved** |
 | Tamil state | **`verified-complete` / FROZEN** |
 | English E1 first-pass translation | **COMPLETE — 5/5** |
-| English E2 independent fidelity review | **READY / NOT STARTED** |
-| English E3 final verification | **BLOCKED pending E2** |
+| English E2 independent fidelity review | **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved** |
+| English E3 final verification | **READY / NOT STARTED** |
 | Repository closure | **NOT STARTED** |
 
 T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans.
 
+## English E2 result
+
+**PASS / COMPLETE — 5/5 pages; 3 corrections; 0 unresolved.**
+
+1. PDF 90 / printed p.89: replaced the modernized “world-class wonder” with the closer **“a great wonder of the world”**.
+2. PDF 92 / printed p.91: removed the added implication in “I am not making it up” and restored **“I am not the one saying it.”**
+3. PDF 93 / printed p.92: removed the added motive “whom they wished to honour” and restored the source sense as **“They have remembered all those people and offered each of them their appreciation and affection.”**
+
+Source-sensitive clarifications:
+- PDF 90 / printed p.89: added a source note for the difficult frozen-Tamil phrase `தேர்வுத் தந்து`; English retains the conservative sense “selected … and gave it” without altering Tamil.
+
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
+Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.
