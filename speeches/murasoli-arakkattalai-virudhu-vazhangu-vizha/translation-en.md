@@ -1,10 +1,10 @@
 # Murasoli Trust Award Presentation Function — English translation
 
-**Status:** `first-pass-complete` — E1 **15 / 15 pages**  
+**Status:** `fidelity-corrections-consolidated` — E1 **15 / 15 pages**; E2 **15 / 15 PASS; 6 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` (`verified-complete`)  
 **Source range:** PDF **19–33** / printed **18–32**
 
-> This E1 translation is derived only from the frozen Tamil transcription. Page correspondence, rhetorical repetition, source-supported odd wording, names and numerical details are retained. E2 fidelity review has not yet begun.
+> This translation is derived only from the frozen Tamil transcription. E2 independently compared all 15 English pages against that Tamil layer and consolidated six confirmed fidelity corrections. Page correspondence, rhetorical repetition, source-supported odd wording, names and numerical details are retained. E3 final end-to-end verification has not yet begun.
 
 ## PDF 19 / printed p.18
 
@@ -16,7 +16,7 @@ My plight is that, whoever allots whichever constituency, I am the one who has t
 
 ## PDF 20 / printed p.19
 
-Here, in a physically weakened state, with tears in his eyes but at the same time with joy welling up in his heart, A.S.A. Sami came to this stage and received the award and the purse of one lakh rupees presented on behalf of the Murasoli Trust. He lives in Tirupattur in North Arcot district. Wishing that he should come here, we were engaged in efforts to bring him and informed him of this announcement. Though he came with the desire to come and see all of us, the journey left him weakened and physically exhausted, and today he was admitted to a hospital in Chennai. However much we told him, “You need not come here; take rest,” he would not listen. He came to this stage, saw all of us, and received in our presence the award that had been presented to him.
+Here, in a physically weakened state, with tears in his eyes but at the same time with joy welling up in his heart, A.S.A. Sami came to this stage and received the award and the purse of one lakh rupees presented on behalf of the Murasoli Trust. He lives in Tirupattur in North Arcot district. Wishing that he should come here, we were engaged in efforts to bring him and informed him of this announcement. Though he came with the desire to come and see all of us, the journey left him weakened and physically exhausted, and today he was admitted to a hospital in Chennai. However much we told him, “You need not come here; take rest,” he would not listen. He came to this stage, saw all of us, received in our presence the award that had been presented to him, and left.
 
 Our journal editor, the long-time sovereign of letters Saavi, received the award and gave his thanks here as an acceptance speech, briefly but with flavour.
 
@@ -30,7 +30,7 @@ and, on behalf of that Trust, these functions are being held every year with the
 
 I mentioned that Murasoli’s golden jubilee was in ’92. Murasoli was started in Tiruvarur in 1942. When it began, it did not begin as the large daily newspaper that appears today. To say more, it did not even begin as a weekly. It appeared from Tiruvarur as a leaflet—once a month, twice a month if necessary, and three times a month if there was further need.
 
-Because I was a student, that leaflet was published under the pen name “Cheran”; some four thousand or five thousand copies were printed and sent free of charge to our movement organisations here and there. That was the period when we were engaged in that effort to spread the principles.
+Because I was a student, that leaflet was published under the pen name “Cheran”; some four thousand or five thousand copies were printed and sent free of charge to our movement organisations here and there. That was the period when we were engaged in that effort to spread the principle.
 
 After that, it blossomed in Tiruvarur as a weekly. When it did so, there were times when debt troubles and shortage of money distressed me to the extent that I could not take the printed copies of Murasoli out of the press on the appointed day. At such times, I pawned my sisters’ jewellery from my house and raised money,
 
@@ -68,7 +68,7 @@ In 1944, I spent one year in the Kudi Arasu office under the protective care of 
 
 If I am to give a comparison, before that, Perarignar Anna, who had been editor at the Viduthalai office, was paid 50 rupees. I was paid 40 rupees. I worked there for a year. It was only after that that the invitation from A.S.A. Sami came to me.
 
-There was a man called Tabla Muthukrishnan who was working at the radio station in Tiruchi; R.M.V. and S.S.R., who are seated here, know him well. He came to Erode saying that A.S.A. Sami had invited me and took me with him. After obtaining Periyar’s permission, I took Erode Subbaiah with me as a companion and went to Coimbatore. In Coimbatore I met A.S.A. Sami. At that time he was a young man who had not even completed thirty or thirty-five years of age. I was about nine years younger than he was. He said that I should write dialogue for the films he directed. He was then going to direct the film Rajakumari. It was on that very day, through that film, that my dear friend M.G.R. and I were introduced to one another for the first time. In that film my dear friend M.G.R. acted as the hero. Some among you, the older ones, may still remember. In it, when M.G.R. leapt onto a platform to fight with a sword, the entire cinema hall would thunder. Applause would rise to that extent. The reason was that, when M.G.R. made his appearance in that way, he would be wearing a black costume,
+There was a man called Tabla Muthukrishnan who was working at the radio station in Tiruchi; R.M.V. and S.S.R., who are seated here, know him well. He came to Erode saying that A.S.A. Sami had asked for me and invited me. After obtaining Periyar’s permission, I took Erode Subbaiah with me as a companion and went to Coimbatore. In Coimbatore I met A.S.A. Sami. At that time he was a young man who had not even completed thirty or thirty-five years of age. I was about nine years younger than he was. He said that I should write dialogue for the films he directed. He was then going to direct the film Rajakumari. It was on that very day, through that film, that my dear friend M.G.R. and I were introduced to one another for the first time. In that film my dear friend M.G.R. acted as the hero. Some among you, the older ones, may still remember. In it, when M.G.R. leapt onto a platform to fight with a sword, the entire cinema hall would thunder. Applause would rise to that extent. The reason was that, when M.G.R. made his appearance in that way, he would be wearing a black costume,
 
 ## PDF 26 / printed p.25
 
@@ -90,7 +90,7 @@ Therefore it is not merely the debt of gratitude I owe him. In the film field, t
 
 to offer a tribute of gratitude. I convey my congratulations and appreciation to younger brother Murasoli Maran and all the friends in the Murasoli Trust for fulfilling that wish of mine by presenting him with an award and a purse of one lakh rupees.
 
-Next, our editor Saavi. Everyone who spoke here in praise has mentioned the friendship between him and me. He is not merely a humour writer; he is a writer possessed of deep patriotism. He had even received the opportunity to move closely with the noble Gandhi. When Gandhi undertook his journey of sacrifice in the North, Saavi, who had gone to see him as a journal editor, compiled all the conversations he had with Gandhi and wrote an entire book about that journey. It is a book that creates a fresh awakening in our hearts as we read it. The testimonial from Thuglak has mentioned the Washington Thirumanam that he wrote.
+Next, our editor Saavi. Everyone who spoke here in praise has mentioned the friendship between him and me. He is not merely a humour writer; he is a writer possessed of deep patriotism. He had even received the opportunity to move closely with the noble Gandhi. When Gandhi undertook his journey of sacrifice in the North, Saavi, who had gone to see him as a journal editor, compiled all the conversations he had with Gandhi and wrote an entire book about that journey. It is a book that creates a fresh awakening in our hearts as we read it. The Washington Thirumanam that he wrote is mentioned in the Thuglak testimonial.
 
 How many times has that play been staged in Tamil Nadu? Not only in Tamil Nadu; it is impossible to count how many performances have been held even in places such as Bombay and in other states. The play has been staged to that extent. I myself have watched Saavi’s Washington
 
@@ -114,13 +114,13 @@ On so many tours, my friend Saavi has come with me. Why does he come? Because of
 
 Even if he went to America, or to any part of the world, from there he would
 
-> **E1 transparency note:** The frozen Tamil begins the quoted magazine-title phrase with mismatched quotation marks as `“சாவி’ பத்திரிகையில்`. The English regularizes only the quotation punctuation around the title `Saavi`; no wording is supplied from outside the frozen Tamil.
+> **E1/E2 transparency note:** The frozen Tamil begins the quoted magazine-title phrase with mismatched quotation marks as `“சாவி’ பத்திரிகையில்`. English regularizes only the quotation punctuation around the title `Saavi`; E2 confirmed that no wording or meaning has been supplied from outside the frozen Tamil.
 
 ## PDF 31 / printed p.30
 
 never fail to contact me. Even here, when he is in Chennai, he and I speak by telephone every day. Such a dear friend. A simple friend. A friend whose feeling of friendship never changes in any circumstance. To Saavi—not merely because he is a friend. He is a good writer. He has created many writers and, as writers themselves praise him, he is acclaimed as the “patriarch of writers.” By presenting this award to him, the Murasoli Trust takes pride. I am duty-bound to point out here that, by presenting that award, I too take pride.
 
-Erode Tamilanban; he said here, “It was Karunanidhi who attached the qualifier ‘Erode’ to me.” You also heard Tamilanban’s poems here. You heard the speech of our Kavikko Abdul Rahman, who offered criticism of the poems he had written. We can take pride, thinking again and again, about the kind of talented people Tamil Nadu has been given to keep Tamil alive, to serve Tamils, and to carry on Tamil work.
+Erode Tamilanban; he said here, “It was Karunanidhi who attached the qualifier ‘Erode’ to me.” You also heard Tamilanban’s poems here. You heard the speech of our Kavikko Abdul Rahman, who offered criticism of the poems he had written. We can take pride, thinking again and again, about the kind of talented people there are in Tamil Nadu to keep Tamil alive, to serve Tamils, and to carry on Tamil work.
 
 As they pointed out, if each poetry gathering took place with thousands upon thousands of people overflowing the venue, and if the next poetry gathering too drew the same great multitude, the reason for all of that was people such as Tamilanban and Abdul
 
@@ -138,12 +138,12 @@ I often say that literary events like these help me greatly to cool the heat of 
 
 reason too, I convey my appreciation to them.
 
-These awards have been presented to people who are most fitting, in the presence of fitting people such as yourselves. Long live them! Long live them! That is my wish.
+These awards have been presented to people who are most fitting, in the presence of fitting people such as yourselves. I wish them, “Long live! Long live!”
 
 ### Source closing note — not part of the spoken/body translation
 
 `Address delivered at the Murasoli Trust award presentation function on 13-1-98.`
 
-## E1 completion note
+## E2 completion note
 
-English E1 is complete for all **15 / 15** verified Tamil pages. This is a first-pass translation only. No E2 fidelity review has yet been performed, and no English wording should be treated as final until E2 corrections, if any, are consolidated and E3 passes.
+English E2 independently reviewed all **15 / 15** pages against the frozen Tamil, confirmed **6** fidelity corrections, and consolidated all six into this file. Unresolved English fidelity issues: **0**. The English layer is not yet final: E3 must perform a fresh end-to-end Tamil→English verification before `verified-complete` can be assigned.
