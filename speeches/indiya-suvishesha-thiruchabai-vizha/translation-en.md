@@ -1,9 +1,9 @@
 # Indiya Suvishesha Thiruchabai Vizha — English translation
 
-**Status:** `not-started`  
-**Tamil prerequisite:** NOT MET — Tamil T1/T2/T3 are incomplete  
+**Status:** `not-started` / **E1 READY**  
+**Tamil prerequisite:** MET — Tamil T1/T2/T3 complete; `transcription-ta.md` is `verified-complete` / FROZEN  
 **Source range:** PDF **50–53** / printed **49–52**
 
-English translation is blocked until `transcription-ta.md` becomes `verified-complete` after Tamil T1, T2 and T3.
+English E1 may now begin, but it must be translated **only from the frozen Tamil transcription**, not directly from the PDF, OCR, or another edition.
 
-Do not translate directly from the PDF, OCR, or another edition.
+Exact next gate: combined constituents **3–4 English E1 first-pass translation — 20 verified Tamil pages total**.
