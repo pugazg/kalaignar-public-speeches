@@ -14,18 +14,21 @@
 - Constituent range: PDF **70–79** / printed **69–78** — **10 pages**
 - Source binary committed: **No**
 
-The source/duplicate/boundary gate is **PASS / COMPLETE**. PDF 70 / printed p.69; numbered constituent 7 with titled opening புரசை கோபாலரத்தினம் இல்ல மணவிழா. The speech body ends on PDF 79 / printed p.78 before the separate source closing note `புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை`.
-## Workflow
+The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source closing note is `புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை`. Do not infer a date or venue from body context. The source closing note remains separate from the speech body.
+
+## Tamil workflow
 
 | Gate | State |
 |---|---|
-| Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 10/10** |
-| Tamil T2 visual audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | **BLOCKED pending T2** |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 10/10; 0 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
+| Tamil state | `t2-complete` |
 | English E1/E2/E3 | **BLOCKED pending verified Tamil** |
 | Repository closure | **NOT STARTED** |
 
+No T2 transcription correction was required. PDF72 / printed p.71 `தமிழ்நாட்டை என்` was re-read and confirmed as printed.
+
 ## Exact next gate
 
-Combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total. Stop before T3, English, repository closure, or constituent 10.
+Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Do not start English, repository closure, or constituent 10 in the same activity.
