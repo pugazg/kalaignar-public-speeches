@@ -22,17 +22,15 @@ The opening heading is `முரசொலி அறக்கட்டளை வ
 | Duplicate/source gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 15 / 15 pages** |
 | Tamil T2 strict visual audit | **PASS / COMPLETE — 15 / 15; 5 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **NOT STARTED** |
-| English E1/E2/E3 | **BLOCKED** |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE** |
+| Tamil transcription | **`verified-complete` / FROZEN** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | **BLOCKED** |
 
-T2 batch results:
+T2 completed in three five-page batches and produced **5** source-confirmed corrections with **0 unresolved** readings. T3 then confirmed all 15 page records in sequence, the complete correction set, every non-obvious page-boundary continuation, the final body sentence, and the separation of the source closing note. T3 required **0 additional text corrections**.
 
-- PDF **19–23** / printed **18–22** — **5/5 PASS; 3 corrections; 0 unresolved**;
-- PDF **24–28** / printed **23–27** — **5/5 PASS; 1 correction; 0 unresolved**;
-- PDF **29–33** / printed **28–32** — **5/5 PASS; 1 correction; 0 unresolved**.
-
-Cumulative T2 corrections: **5**. The final batch corrected PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` to source-confirmed `நடைபெற்றதென்றால்`. The flagged readings `வேதவித்து`, `வாடியவர்`, `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்` were directly re-read and retained as printed.
+The frozen Tamil intentionally retains scan-confirmed unusual forms including `வேதவித்து`, `வாடியவர்`, `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, and `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`.
 
 ## Exact next gate
 
-Run Tamil **T3 consolidation / freeze — all 15 pages**. Confirm the complete correction set, continuity, page boundaries and body/source-note separation, then mark Tamil `verified-complete` if clean. English remains blocked until that gate passes.
+Run English **E1 first-pass translation — all 15 verified Tamil pages**, using only frozen `transcription-ta.md`. Do not translate independently from the PDF, OCR, outside editions, or historical knowledge.
