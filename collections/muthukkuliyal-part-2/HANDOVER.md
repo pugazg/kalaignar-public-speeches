@@ -19,7 +19,7 @@
 - Tamil T3 complete: **2 / 36**;
 - Tamil verified: **2 / 36**;
 - English E1 complete: **2 / 36**;
-- English E2 complete: **1 / 36**;
+- English E2 complete: **2 / 36**;
 - English E3 complete: **1 / 36**;
 - fully archived: **1 / 36**.
 
@@ -34,13 +34,18 @@ Constituent 1 `தேசிய இளைஞர் கொண்டாட்டத
 - venue unresolved/not stated in inspected source;
 - Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
-- T2 corrections: **5**;
+- Tamil T2 corrections: **5**;
 - Tamil unresolved: **0**;
 - English E1: **COMPLETE — 15 / 15 pages**;
-- English E2: **READY / NOT STARTED**;
-- English E3: **BLOCKED**.
+- English E2: **PASS / COMPLETE — 15 / 15 pages**;
+- E2 corrections: **6**;
+- E2 unresolved: **0**;
+- English: **`fidelity-corrections-consolidated`**;
+- English E3: **READY / NOT STARTED**.
 
-English E1 was produced only from the frozen Tamil layer and retains PDF/printed-page correspondence. It preserves rhetorical repetition and opening political wordplay, carries `வேதவித்து` as `Vedaviththu` rather than inventing an outside meaning, and explicitly records the quotation-punctuation irregularity `“சாவி’ பத்திரிகையில்` instead of silently treating it as different source wording.
+E2 independently compared every English page with frozen Tamil. Six corrections are consolidated: PDF 20 restored the departure sense in `பெற்றுச் சென்றிருக்கின்றார்கள்`; PDF 21 restored singular `கொள்கையை`; PDF 25 corrected the `அழைத்தார்` relation; PDF 28 restored the passive Thuglak relation; PDF 31 removed added agency from `கிடைத்திருக்கிறார்கள்`; and PDF 33 restored the explicit first-person closing wish. E2 found **0 unresolved** English fidelity issues.
+
+The review also confirmed the opening constituency wordplay, `Vedaviththu` as transliteration only, `வாடியவர்`, the PDF 30 quotation-punctuation transparency note, `பாராட்டப் படுகின்ற`, the difficult `தொடர்ந்திட கிடைத்திருக்கிறார்கள்` sentence, the PDF 32 pressure/close rhetoric, every cross-page continuation, and the separate source closing note.
 
 ## Multi-constituent efficiency policy
 
@@ -48,8 +53,8 @@ Read and apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` together with `SPEECH
 
 Eligible consecutive constituents may advance through the **same gate** in one iteration up to a combined maximum of **25 source pages**, while each remains a separate archive. Do not mix workflow gates merely to fill the allowance.
 
-Only constituent 2 is currently eligible for E2, so the next E2 iteration is this constituent alone: **15 pages**.
+Only constituent 2 is currently eligible for E3, so the next E3 iteration contains this constituent alone: **15 pages**.
 
 ## Exact next incomplete gate
 
-Run constituent 2 **English E2 independent fidelity review — all 15 pages / PDF 19–33 / printed 18–32**. Compare every English page against frozen `transcription-ta.md`, record and consolidate confirmed corrections, and do not begin E3 until E2 passes.
+Run constituent 2 **English E3 final end-to-end verification — all 15 pages / PDF 19–33 / printed 18–32**. Recompare the consolidated English against frozen Tamil from beginning to end, including all six E2 correction sites and every page boundary. If clean, mark English `verified-complete`; repository-level archival closure remains a separate subsequent gate.
