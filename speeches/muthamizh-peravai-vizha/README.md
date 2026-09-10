@@ -14,19 +14,18 @@
 - Constituent range: PDF **80–88** / printed **79–87** — **9 pages**
 - Source binary committed: **No**
 
-The source/duplicate/boundary gate is **PASS / COMPLETE**. PDF80 opens with the titled constituent `முத்தமிழ்ப் பேரவை விழா`. PDF88 contains the final body followed by the separate note `3-2-98 அன்று முத்தமிழ்ப் பேரவை விழாவில் ஆற்றிய உரை`. No venue is stated there or in the opening, so none is inferred.
-
+The source/duplicate/boundary gate is **PASS / COMPLETE**. PDF 80 / printed p.79; numbered constituent 8 with titled opening முத்தமிழ்ப் பேரவை விழா. The speech body ends on PDF 88 / printed p.87 before the separate source closing note `3-2-98 அன்று முத்தமிழ்ப் பேரவை விழாவில் ஆற்றிய உரை`.
 ## Workflow
 
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED — 0/9** |
-| Tamil T2 visual audit | **BLOCKED pending T1** |
+| Tamil T1 first-pass transcription | **COMPLETE — 9/9** |
+| Tamil T2 visual audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | **BLOCKED pending T2** |
 | English E1/E2/E3 | **BLOCKED pending verified Tamil** |
 | Repository closure | **NOT STARTED** |
 
 ## Exact next gate
 
-Combined **Tamil T1 first-pass transcription for constituents 7–9 — 24 source pages total**. Keep all three transcripts separate and stop before T2 or constituent 10.
+Combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total. Stop before T3, English, repository closure, or constituent 10.
