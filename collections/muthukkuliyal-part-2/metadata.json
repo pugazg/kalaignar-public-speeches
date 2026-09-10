@@ -41,23 +41,19 @@
     "constituent_items_tamil_verified": 9,
     "constituent_items_e1_complete": 9,
     "constituent_items_e2_complete": 9,
-    "constituent_items_e3_complete": 6,
+    "constituent_items_e3_complete": 9,
     "constituent_items_archived": 6,
     "collection_status": "constituent-processing-in-progress",
     "last_archived_constituent_number": 6,
     "active_constituent_number": 7,
     "active_constituent_slug": "purusai-gopalarathinam-illa-manavizha",
     "active_constituent_title_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
-    "active_constituent_status": "e2-complete-e3-pending",
+    "active_constituent_status": "e3-complete-closure-pending",
     "active_constituent_pdf_pages": "70-79",
     "active_constituent_printed_pages": "69-78",
     "active_constituent_pages_total": 10,
     "active_constituent_t1_pages_drafted": 10,
-    "active_batch_constituent_numbers": [
-      7,
-      8,
-      9
-    ],
+    "active_batch_constituent_numbers": [7, 8, 9],
     "active_batch_constituent_slugs": [
       "purusai-gopalarathinam-illa-manavizha",
       "muthamizh-peravai-vizha",
@@ -68,9 +64,9 @@
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
     "active_batch_t1_pages_completed": 24,
-    "active_batch_gate": "english-e3",
+    "active_batch_gate": "repository-closure",
     "next_constituent_number": 7,
-    "next_gate": "Combined English E3 final end-to-end verification for constituents 7–9 — 24 pages total",
+    "next_gate": "Combined repository-level archival closure for constituents 7–9 — 24 pages total",
     "active_batch_t2_pages_completed": 24,
     "active_batch_t2_corrections": 4,
     "active_batch_t2_unresolved": 0,
@@ -80,6 +76,9 @@
     "active_batch_e1_pages_completed": 24,
     "active_batch_e2_pages_checked": 24,
     "active_batch_e2_corrections": 10,
-    "active_batch_e2_unresolved": 0
+    "active_batch_e2_unresolved": 0,
+    "active_batch_e3_pages_checked": 24,
+    "active_batch_e3_corrections": 0,
+    "active_batch_e3_unresolved": 0
   }
 }
