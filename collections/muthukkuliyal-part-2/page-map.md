@@ -48,9 +48,9 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | # | Speech slug | Current state |
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T2 IN PROGRESS — 10/15 checked; 4 corrections; 0 unresolved; PDF 29–33 next** |
+| 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **T2 PASS / COMPLETE — 15/15 checked; 5 corrections; 0 unresolved; T3 next** |
 | 3–36 | — | not started |
 
 ## Active mapped item
 
-Constituent 2: PDF **19–33** / printed **18–32** — Tamil T1 **15/15 complete**; T2 **10/15 complete**. Exact next gate: **T2 batch 3 — PDF 29–33 / printed 28–32**.
+Constituent 2: PDF **19–33** / printed **18–32** — Tamil T1 **15/15 complete**; T2 **15/15 PASS / COMPLETE**. Exact next gate: **T3 consolidation / freeze — all 15 pages**.
