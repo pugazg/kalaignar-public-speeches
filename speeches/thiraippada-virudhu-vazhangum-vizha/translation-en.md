@@ -1,10 +1,10 @@
 # Film Awards Presentation Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **7 / 7 pages COMPLETE**  
+**Status:** `fidelity-corrections-consolidated` — English E1 **7 / 7 pages COMPLETE**; E2 **7 / 7 PASS; 2 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **63–69** / printed **62–68**
 
-> English E1 was translated only from the frozen Tamil layer. This is a first-pass translation and has not yet undergone independent E2 fidelity review. Page correspondence and the separation of the source closing note are preserved.
+> English E1 was translated only from the frozen Tamil layer. E2 independently compared all seven English pages against that frozen Tamil and consolidated two fidelity corrections. English remains provisional until E3 final end-to-end verification.
 
 ## PDF 63 / printed p.62
 
@@ -14,7 +14,7 @@ Panchu Arunachalam said that whenever an election comes, a film-awards function 
 
 For the purpose of presenting these awards, the films have been viewed over the past five or six months under the chairmanship of Justice Gokul; it has been decided who should receive which prizes; the entire list has been prepared; and just when it was about to be released, the election announcement came. Is this not also an election? Is selecting who should receive the awards not an election too? This election and that election have come together.
 
-This film-awards function is not being held because of the election. Indeed, precisely so that it should not be used for the election, the M.G.R. Award that was to be presented today has not been presented, in accordance with the Election Commission's wish or order. Because
+This film-awards function is not being held with the election in view. Indeed, precisely so that it should not be used for the election, the M.G.R. Award that was to be presented today has not been presented, in accordance with the Election Commission's wish or order. Because
 
 ## PDF 64 / printed p.63
 
@@ -68,7 +68,7 @@ Vadivelu has been selected as Best Comedian. Vadivelu need not even act comicall
 
 Success in the film world cannot be obtained merely through one person who participates in it. A director alone, an actor alone, an actress alone, a dialogue writer alone, a music director alone or a playback singer alone—no single individual can achieve a film's success by himself or herself.
 
-For example, one person is enough for a sculptor to shape a statue. If that sculptor has a chisel and a stone, he can shape a statue. Likewise, for a painter, a little paste, colour and a brush are enough to create a painting. But a film must emerge through the efforts of many people and the labour of many people; it must bring success. In such a great undertaking, it is only when everyone comes together, joins as one and gives their cooperation that unmatched success can be achieved. This is something we have learned through experience.
+For example, a single sculptor is enough to shape a statue. If that sculptor has a chisel and a stone, he can shape a statue. Likewise, for a painter, a little paste, colour and a brush are enough to create a painting. But a film must emerge through the efforts of many people and the labour of many people; it must bring success. In such a great undertaking, it is only when everyone comes together, joins as one and gives their cooperation that unmatched success can be achieved. This is something we have learned through experience.
 
 In that sense, when I see all of you from the film industry in this hall, the happiness I feel,
 
@@ -88,8 +88,15 @@ Therefore, with that sense of gratitude, as one who belongs there as well as her
 
 `Speech delivered at the Film Awards Presentation Function on 30-1-98.`
 
-## E1 status note
+## E2 fidelity-review note
 
-English E1 is **COMPLETE — 7 / 7 pages**. No E2 fidelity review has yet been performed. The frozen Tamil page order, award names, film titles, names, humour and wordplay, page joins, final body and separate source closing note have been carried into this first-pass translation.
+English E1 is **COMPLETE — 7 / 7 pages**. English E2 is **PASS / COMPLETE — 7 / 7 pages; 2 corrections; 0 unresolved fidelity issues**.
 
-Exact next gate: **combined constituents 5–6 English E2 independent fidelity review — 16 pages total**. Stop before E3 or constituent 7.
+E2 corrections:
+
+1. PDF 63 / printed p.62: `இந்தத் தேர்தலை முன்னிட்டு ... நடைபெறவில்லை` was clarified from the potentially contradictory **“is not being held because of the election”** to **“is not being held with the election in view”**, preserving the source's distinction between the function itself and using it for electoral purposes.
+2. PDF 67 / printed p.66: corrected `ஒரு சிலையை ஒரு சிற்பி வடிப்பதற்கு ஒருவரே போதும்` from **“one person is enough for a sculptor to shape a statue”** to **“a single sculptor is enough to shape a statue”**, removing an unintended extra-person relationship.
+
+All seven page joins, election-law wording, film and award titles, names, censorship wording, the *Iruvar* joke, collaborative-filmmaking analogy, political/art-world rhetoric, final body and separate source closing note passed E2 with **0 unresolved issues**.
+
+Exact next gate: **combined constituents 5–6 English E3 final end-to-end verification — 16 pages total**. Stop before repository closure or constituent 7.
