@@ -1,7 +1,11 @@
 # Purusai Gopalarathinam House Wedding — English translation
 
-**Status:** `blocked-pending-tamil-verification`  
-**Tamil source:** not yet transcribed  
+**Status:** `not-started` — English E1 **0 / 10 pages**  
+**Tamil source:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **70–79** / printed **69–78**
 
-English translation must not begin until Tamil T1, T2 and T3 are complete and `transcription-ta.md` is frozen as `verified-complete`.
+Tamil T1/T2/T3 are complete. English E1 is now authorized and must be translated only from the frozen Tamil layer; do not use the source PDF to silently rewrite or normalize the verified Tamil text.
+
+## Exact next gate
+
+Combined constituents **7–9 English E1 first-pass translation — 24 verified Tamil pages total**. Keep each English translation separate and stop before E2, repository closure, or constituent 10.
