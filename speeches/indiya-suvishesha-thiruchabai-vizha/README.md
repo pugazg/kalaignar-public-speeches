@@ -26,14 +26,12 @@ PDF 50 / printed p.49 opens under the heading `இந்திய சுவி�
 |---|---|
 | Duplicate/source/boundary gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 4 / 4 pages** |
-| Tamil T2 strict visual audit | **READY / NOT STARTED** |
-| Tamil T3 | **BLOCKED** |
+| Tamil T2 strict visual audit | **PASS / COMPLETE — 4 / 4; 0 corrections; 0 unresolved** |
+| Tamil T3 | **READY / NOT STARTED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-T1 directly transcribed all PDF **50–53** / printed **49–52** page records into `transcription-ta.md`. This is a first pass, not a verified/frozen Tamil layer. The separate source closing note is preserved as evidence but is not included as speech body text.
-
-T2 should re-read every page and specifically recheck the `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list, cross-page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage.
+T2 directly re-read every page PDF **50–53** against the controlling scans. The `கொள்‘கை’யிலும் ‘கை’` wordplay, names and denominational terminology, the PDF 52 historical-name list (`கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`), all three cross-page continuations, and the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` passage were confirmed. No source-confirmed correction was required and no unresolved reading remains.
 
 ## Exact next gate
 
-Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Constituent 3 contributes **16 pages** and this speech contributes **4 pages**. Keep their corrections and audit trails separate and do not start T3 or constituent 5.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Verify complete page order and boundaries, freeze each Tamil layer independently if clean, and do not begin English or constituent 5 in the same activity.
