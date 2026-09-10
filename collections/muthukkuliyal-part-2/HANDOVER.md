@@ -13,46 +13,40 @@
 ## Durable collection state
 
 - mapped: **36 / 36**;
-- archives started / source-gated: **4 / 36**;
+- archives started / source-gated: **6 / 36**;
 - Tamil T1/T2/T3 complete / Tamil verified: **4 / 36**;
-- English E1 complete: **4 / 36**;
-- English E2 complete: **4 / 36**;
-- English E3 complete: **4 / 36**;
+- English E1/E2/E3 complete: **4 / 36**;
 - fully archived: **4 / 36**.
 
 Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
-### 3 / 36 — `திருவள்ளுவர் விழா`
+## Active same-gate batch — constituents 5–6
 
-- PDF **34–49** / printed **33–48** — **16 pages**;
-- Tamil **`verified-complete` / FROZEN**;
-- English E1/E2/E3 **COMPLETE**;
-- English **`verified-complete`**;
-- repository closure **PASS / COMPLETE**;
-- archive status **FULLY ARCHIVED**;
-- pending transcription/translation work **none**.
+### 5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`
 
-### 4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`
+- directory: `speeches/chennai-chennai-puranagar-vanigargal-sanga-maanadu/`;
+- PDF **54–62** / printed **53–61** — **9 pages**;
+- source/duplicate/boundary: **PASS / COMPLETE**;
+- date: **25-01-1998**;
+- venue: **சென்னை வள்ளுவர் கோட்டம்**;
+- role: **ஆற்றிய பேருரை**;
+- heading/contents form `சென்னைப் புறநகர்`, closing-note form `சென்னை புறநகர்` — preserve both;
+- Tamil T1: **READY / NOT STARTED — 0 / 9**;
+- later Tamil/English gates: **BLOCKED**.
 
-- PDF **50–53** / printed **49–52** — **4 pages**;
-- Tamil **`verified-complete` / FROZEN**;
-- English E1/E2/E3 **COMPLETE**;
-- English **`verified-complete`**;
-- repository closure **PASS / COMPLETE**;
-- archive status **FULLY ARCHIVED**;
-- pending transcription/translation work **none**.
+### 6 / 36 — `திரைப்பட விருது வழங்கும் விழா`
 
-Both speech archives, collection controls and the root catalogue were synchronized during the combined closure. Do not reopen constituents 1–4 without new source/fidelity evidence.
+- directory: `speeches/thiraippada-virudhu-vazhangum-vizha/`;
+- PDF **63–69** / printed **62–68** — **7 pages**;
+- source/duplicate/boundary: **PASS / COMPLETE**;
+- date: **30-01-1998**;
+- venue: **not stated in inspected opening/closing evidence**;
+- role: **ஆற்றிய உரை**;
+- Tamil T1: **READY / NOT STARTED — 0 / 7**;
+- later Tamil/English gates: **BLOCKED**.
 
-## Next planned same-gate batch
-
-Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`:
-
-- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — **9 pages**;
-- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — **7 pages**.
-
-Combined: **16 source pages**. Neither archive has been started. Constituent 7 is excluded because 5+6+7 would total 26 pages.
+Both duplicate checks passed with no existing dedicated archive. Both constituent boundaries and separate source closing notes are established with **0 unresolved holds**. Constituent 7 remains excluded because the combined 5+6+7 scope would be 26 pages.
 
 ## Exact next incomplete gate
 
-Run combined **source/duplicate/boundary gate for constituents 5–6 — 16 source pages total**. Keep both speech archives separate, synchronize controls after the gate, and stop before Tamil T1.
+Run combined **Tamil T1 first-pass transcription for constituents 5–6 — 16 source pages total**. Keep each speech in its own archive, preserve page boundaries and printed wording, and stop before Tamil T2 or constituent 7.

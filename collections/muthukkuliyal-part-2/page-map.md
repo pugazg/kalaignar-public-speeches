@@ -51,15 +51,17 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5–36 | — | not started |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **source/duplicate/boundary PASS; Tamil T1 next — 0/9** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **source/duplicate/boundary PASS; Tamil T1 next — 0/7** |
+| 7–36 | — | not started |
 
-## Next planned same-gate batch
+## Active same-gate batch
 
-Constituents **5–6** form the next ≤25-page same-gate batch, totaling **16 source pages**:
+Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 source pages**:
 
-- 5 `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு` — PDF **54–62** / printed **53–61** — **9 pages**;
-- 6 `திரைப்பட விருது வழங்கும் விழா` — PDF **63–69** / printed **62–68** — **7 pages**.
+- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — source gate **PASS / COMPLETE**; date **25-01-1998**; venue **சென்னை வள்ளுவர் கோட்டம்**; role **ஆற்றிய பேருரை**;
+- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — source gate **PASS / COMPLETE**; date **30-01-1998**; venue not stated; role **ஆற்றிய உரை**.
 
-Neither constituent has been started. Constituent 7 is excluded because adding its 10 pages would raise the batch to 26 pages.
+Duplicate searches found no existing dedicated archive for either speech. Combined unresolved source/boundary count: **0**. Tamil T1 has not started.
 
-Exact next gate: **combined source/duplicate/boundary gate for constituents 5–6 — 16 source pages total**. Stop before Tamil T1.
+Exact next gate: **combined Tamil T1 first-pass transcription for constituents 5–6 — 16 source pages total**. Constituent 7 remains outside this iteration.

@@ -7,7 +7,7 @@ The source is a **36-item multi-speech collection**. Controlling PDF: `TVA_BOK_0
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **4 / 36**
+- speech archives started / source-gated: **6 / 36**
 - Tamil T1/T2/T3 complete / Tamil verified: **4 / 36**
 - English E1 complete: **4 / 36**
 - English E2 complete: **4 / 36**
@@ -16,22 +16,17 @@ The source is a **36-item multi-speech collection**. Controlling PDF: `TVA_BOK_0
 
 Constituents **1–4 are CLOSED / FULLY ARCHIVED**.
 
-## Newly closed constituents
+## Active same-gate batch — constituents 5–6
 
-- **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages** — Tamil + English `verified-complete`; repository closure **PASS / COMPLETE**.
-- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages** — Tamil + English `verified-complete`; repository closure **PASS / COMPLETE**.
+The combined source / duplicate / boundary gate has passed for both separate speech archives:
 
-For constituent 3, Tamil T2 produced four corrections, English E2 six corrections, and English E3 six final corrections before a complete second E3 sweep passed with no further issue. For constituent 4, Tamil required no correction, English E2 produced one correction, and English E3 passed with no additional correction. Both have **0 unresolved** Tamil or English fidelity issues.
+- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — **9 pages** — source gate **PASS / COMPLETE**. The closing note establishes **25-01-1998**, venue `சென்னை வள்ளுவர் கோட்டம்`, event wording `சென்னை - சென்னை புறநகர் வணிகர்கள் சங்க மாநாடு`, and role `ஆற்றிய பேருரை`. The heading/contents form `சென்னைப் புறநகர்` and closing-note form `சென்னை புறநகர்` are preserved as distinct source readings.
+- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — **7 pages** — source gate **PASS / COMPLETE**. The closing note establishes **30-01-1998**, event wording `திரைப்பட விருது வழங்கும் விழா`, and role `ஆற்றிய உரை`; no venue is stated in the inspected opening/closing evidence.
 
-## Next planned same-gate batch — constituents 5–6
+Repository duplicate searches found no existing dedicated archive for either constituent. Combined boundary/duplicate unresolved count: **0**. Tamil T1 has **not started** for either speech.
 
-Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, the next eligible source-gate batch is:
-
-- **5 / 36 — `சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு`** — PDF **54–62** / printed **53–61** — **9 pages**;
-- **6 / 36 — `திரைப்பட விருது வழங்கும் விழா`** — PDF **63–69** / printed **62–68** — **7 pages**.
-
-Combined scope: **16 source pages**. Neither constituent has been started yet; constituent 7 is excluded because adding its 10 pages would exceed the 25-page limit.
+Constituent 7 remains outside this batch because constituents 5+6+7 would total 26 source pages.
 
 ## Exact next gate
 
-Run combined **source/duplicate/boundary gate for constituents 5–6 — 16 source pages total**. Keep the two speech archives separate and do not start Tamil T1 until that gate passes.
+Run combined **Tamil T1 first-pass transcription for constituents 5–6 — 16 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Keep both speech transcripts separate and stop before Tamil T2 or constituent 7.
