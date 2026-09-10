@@ -24,15 +24,19 @@ Collection-level source/mapping/progress audit.
 - venue: not stated in inspected source;
 - Tamil T1: **COMPLETE — 15 / 15**;
 - Tamil T2: **PASS / COMPLETE — 15 / 15**;
-- T2 batch 1 PDF **19–23**: **PASS — 5 / 5; 3 corrections; 0 unresolved**;
-- T2 batch 2 PDF **24–28**: **PASS — 5 / 5; 1 correction; 0 unresolved**;
-- T2 batch 3 PDF **29–33**: **PASS — 5 / 5; 1 correction; 0 unresolved**;
 - cumulative T2: **5 corrections; 0 unresolved**;
-- Tamil T3: **NOT STARTED**;
-- English: **BLOCKED**.
+- Tamil T3: **PASS / COMPLETE**;
+- Tamil: **`verified-complete` / FROZEN**;
+- T3 additional corrections: **0**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **BLOCKED**.
 
-The fifth correction is PDF 31 / printed p.30 `நடைபெறுகிறதென்றால்` → `நடைபெற்றதென்றால்`. Batch 3 also directly confirmed `வேதவித்து`, `வாடியவர்`, the source's mismatched `“சாவி’ பத்திரிகையில்`, `பாராட்டப் படுகின்ற`, `தொடர்ந்திட கிடைத்திருக்கிறார்கள்`, all remaining page transitions, and the PDF 33 closing-note separation.
+T3 verified the complete PDF **19–33** sequence, all five T2 corrections, all non-obvious page-boundary continuations, the final body sentence, and the separate closing note. No stale superseded reading, omitted/duplicated page, or unresolved Tamil reading remains.
+
+## Multi-constituent batching policy
+
+`docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` permits consecutive eligible constituents to advance through the **same gate** in one iteration up to **25 source pages**, without merging their archival identities.
 
 ## Exact next gate
 
-Tamil T3 consolidation / freeze for constituent 2, all **15 pages**. No English before T3 passes.
+English E1 for constituent 2: translate all **15 verified Tamil pages** from frozen `transcription-ta.md` only.
