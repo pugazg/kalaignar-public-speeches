@@ -47,7 +47,7 @@
     "duplicate_check": "pass-no-existing-match",
     "source_inspection": "complete",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "first-pass-complete",
+    "tamil_transcription": "verified-complete",
     "speech_pages_total": 15,
     "speech_pages_drafted": 15,
     "tamil_transcription_through_pdf_page": 33,
@@ -58,10 +58,15 @@
     "tamil_visual_audit_through_printed_page": 32,
     "tamil_visual_audit_corrections": 5,
     "tamil_visual_audit_unresolved": 0,
-    "tamil_consolidation": "not-started",
+    "tamil_consolidation": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "t3_additional_corrections": 0,
     "english_translation": "not-started",
+    "english_translation_source": "frozen transcription-ta.md only",
     "english_translation_review": "not-started",
     "english_translation_final_verification": "not-started",
-    "next_gate": "Tamil T3 consolidation / freeze — all 15 pages"
+    "next_gate": "English E1 first-pass translation — all 15 verified Tamil pages"
   }
 }
