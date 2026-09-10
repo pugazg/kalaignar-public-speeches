@@ -24,8 +24,9 @@
 - Tamil T2: **PASS / COMPLETE — 9/9; 1 correction; 0 unresolved**;
 - Tamil T3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
 - Tamil state: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**;
+- English E1: **COMPLETE — 9/9**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED pending E2**;
 - repository closure: **NOT STARTED**.
 
 T2 correction: PDF84 / printed p.83 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`. PDF88 / printed p.87 `அமைகிறேன்` was re-read and confirmed as printed. PDF82→83 and PDF83→84 page-boundary continuations were checked against both scans. The source closing note remains separate from the speech body.
@@ -34,4 +35,4 @@ T3 consolidation confirmed all 9 page records exactly once and in order, all T2 
 
 ## Exact next incomplete gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
+Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
