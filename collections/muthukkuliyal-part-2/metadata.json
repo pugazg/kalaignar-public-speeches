@@ -33,7 +33,7 @@
     "constituent_items_t3_complete": 2,
     "constituent_items_tamil_verified": 2,
     "constituent_items_e1_complete": 2,
-    "constituent_items_e2_complete": 1,
+    "constituent_items_e2_complete": 2,
     "constituent_items_e3_complete": 1,
     "constituent_items_archived": 1,
     "collection_status": "constituent-processing-in-progress",
@@ -41,7 +41,7 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "murasoli-arakkattalai-virudhu-vazhangu-vizha",
     "active_constituent_title_ta": "முரசொலி அறக்கட்டளை விருது வழங்கு விழா",
-    "active_constituent_status": "english-e1-complete",
+    "active_constituent_status": "english-e2-complete",
     "active_constituent_pdf_pages": "19-33",
     "active_constituent_printed_pages": "18-32",
     "active_constituent_pages_total": 15,
@@ -56,7 +56,12 @@
     "active_constituent_e1_pages_completed": 15,
     "active_constituent_e1_through_pdf_page": 33,
     "active_constituent_e1_through_printed_page": 32,
+    "active_constituent_e2_pages_checked": 15,
+    "active_constituent_e2_through_pdf_page": 33,
+    "active_constituent_e2_through_printed_page": 32,
+    "active_constituent_e2_corrections": 6,
+    "active_constituent_e2_unresolved": 0,
     "next_constituent_number": 2,
-    "next_gate": "Constituent 2 English E2 independent fidelity review — all 15 pages"
+    "next_gate": "Constituent 2 English E3 final end-to-end verification — all 15 pages"
   }
 }
