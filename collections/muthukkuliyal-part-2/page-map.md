@@ -49,15 +49,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 |---:|---|---|
 | 1 | `desiya-ilainjar-kondatta-thodakka-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 3 | — | **NOT STARTED — next source-gate batch** |
-| 4 | — | **NOT STARTED — next source-gate batch** |
+| 3 | `thiruvalluvar-vizha` | **SOURCE / DUPLICATE / BOUNDARY GATE PASS — Tamil T1 next; 0/16** |
+| 4 | `indiya-suvishesha-thiruchabai-vizha` | **SOURCE / DUPLICATE / BOUNDARY GATE PASS — Tamil T1 next; 0/4** |
 | 5–36 | — | not started |
 
-## Next same-gate batch
+## Active same-gate batch
 
-Constituents **3–4** total **20 source pages** and therefore fit the ≤25-page policy:
+Constituents **3–4** remain paired under the ≤25-page policy, totaling **20 source pages**:
 
-- 3 `திருவள்ளுவர் விழா` — PDF **34–49** / printed **33–48** — 16 pages;
-- 4 `இந்திய சுவிசேஷத் திருச்சபை விழா` — PDF **50–53** / printed **49–52** — 4 pages.
+- 3 `thiruvalluvar-vizha` — PDF **34–49** / printed **33–48** — 16 pages;
+- 4 `indiya-suvishesha-thiruchabai-vizha` — PDF **50–53** / printed **49–52** — 4 pages.
 
-Exact next gate: **multi-constituent source/duplicate/boundary gate for constituents 3–4**.
+Both source gates are complete. Exact next gate: **combined Tamil T1 first-pass transcription for constituents 3–4 — 20 source pages total**. Constituent 5 is not part of this iteration.
