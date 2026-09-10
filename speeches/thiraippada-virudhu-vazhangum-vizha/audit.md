@@ -13,37 +13,31 @@
 - role: `ஆற்றிய உரை`;
 - venue: **not stated in inspected opening/closing evidence**.
 
-## Tamil T1
+## Tamil T1/T2/T3
+
+- T1: **COMPLETE — 7 / 7**;
+- T2: **PASS / COMPLETE — 7 / 7; 4 corrections; 0 unresolved**;
+- T3: **PASS / COMPLETE — 7 / 7; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**.
+
+T2 corrections remain consolidated: PDF65 `தணிக்கைக்குப்`, `தணிக்கையின்`; PDF68 `நாள்தோறும்`, `கூட்டி வைத்தும் சொல்லியிருக்கிறார்கள்`. T3 confirmed every page join and the separate source-note boundary.
+
+## English E1 — first-pass translation
 
 **COMPLETE — 7 / 7 pages.**
 
-## Tamil T2 — strict direct-scan fidelity audit
+E1 was derived only from frozen `transcription-ta.md`, with one English section corresponding to each frozen Tamil page PDF **63–69**. Film and award names, the election framing and humour, the *Iruvar* wordplay, all page joins, final body and separate source closing note are retained.
 
-**PASS / COMPLETE — 7 / 7 pages; 4 source-confirmed corrections; 0 unresolved.**
-
-Confirmed corrections:
-
-1. PDF 65 / printed p.64: `தனிக்கைக்குப்` → **`தணிக்கைக்குப்`**.
-2. PDF 65 / printed p.64: `தனிக்கையின்` → **`தணிக்கையின்`**.
-3. PDF 68 / printed p.67: `நான்தோறும்` → **`நாள்தோறும்`**.
-4. PDF 68 / printed p.67: `கூட்டி வைத்து சொல்லியிருக்கிறார்கள்` → **`கூட்டி வைத்தும் சொல்லியிருக்கிறார்கள்`**.
-
-## Tamil T3 — consolidation/freeze
-
-**PASS / COMPLETE — 7 / 7 pages; 0 additional corrections; 0 unresolved.**
-
-T3 confirmed PDF **63–69** appears exactly once and in order; all four T2 corrections are present in the canonical transcript; every cross-page continuation remains intact; and the separate PDF 69 source note remains outside the spoken body.
-
-Tamil is now **`verified-complete` / FROZEN**. Do not alter it without new source evidence.
+E1 is provisional. No independent English fidelity review has yet been performed.
 
 ## Current state
 
-- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**;
+- English E1: **COMPLETE — 7 / 7**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED pending E2**;
 - repository closure: **NOT STARTED**.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 5–6 — 16 verified Tamil pages total**, derived only from frozen Tamil. Stop before E2 or constituent 7.
+Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Compare every English page against frozen Tamil, consolidate only confirmed corrections, and stop before E3 or constituent 7.
