@@ -30,8 +30,8 @@
     "constituent_items_started": 4,
     "constituent_items_t1_complete": 4,
     "constituent_items_t2_complete": 4,
-    "constituent_items_t3_complete": 2,
-    "constituent_items_tamil_verified": 2,
+    "constituent_items_t3_complete": 4,
+    "constituent_items_tamil_verified": 4,
     "constituent_items_e1_complete": 2,
     "constituent_items_e2_complete": 2,
     "constituent_items_e3_complete": 2,
@@ -41,7 +41,7 @@
     "active_constituent_number": 3,
     "active_constituent_slug": "thiruvalluvar-vizha",
     "active_constituent_title_ta": "திருவள்ளுவர் விழா",
-    "active_constituent_status": "tamil-t2-complete-t3-pending",
+    "active_constituent_status": "tamil-verified-english-e1-pending",
     "active_constituent_pdf_pages": "34-49",
     "active_constituent_printed_pages": "33-48",
     "active_constituent_pages_total": 16,
@@ -51,6 +51,9 @@
     "active_constituent_t2_through_printed_page": 48,
     "active_constituent_t2_corrections": 4,
     "active_constituent_t2_unresolved": 0,
+    "active_constituent_t3_pages_checked": 16,
+    "active_constituent_t3_corrections": 0,
+    "active_constituent_t3_unresolved": 0,
     "active_batch_constituent_numbers": [3, 4],
     "active_batch_constituent_slugs": ["thiruvalluvar-vizha", "indiya-suvishesha-thiruchabai-vizha"],
     "active_batch_source_pages_total": 20,
@@ -58,8 +61,11 @@
     "active_batch_t2_pages_checked": 20,
     "active_batch_t2_corrections": 4,
     "active_batch_t2_unresolved": 0,
-    "active_batch_gate": "tamil-t3",
+    "active_batch_t3_pages_checked": 20,
+    "active_batch_t3_corrections": 0,
+    "active_batch_t3_unresolved": 0,
+    "active_batch_gate": "english-e1",
     "next_constituent_number": 3,
-    "next_gate": "Combined constituents 3-4 Tamil T3 consolidation/freeze — 20 source pages total"
+    "next_gate": "Combined constituents 3-4 English E1 first-pass translation — 20 verified Tamil pages total"
   }
 }
