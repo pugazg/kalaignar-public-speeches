@@ -21,11 +21,14 @@
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 4 / 4 pages**;
 - English E2: **PASS / COMPLETE — 4 / 4; 1 correction; 0 unresolved**;
-- English state: **`fidelity-corrections-consolidated`**;
-- English E3: **READY / NOT STARTED**.
+- English E3: **PASS / COMPLETE — 4 / 4; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository archival closure: **READY / NOT STARTED**.
 
-E2 independently compared the whole English translation against frozen Tamil and consolidated one correction on PDF 52: `Christian men and women of eminence` → `Christian people of distinction` for `கிறித்துவப் பெருமக்கள்`. The `கொள்கை` / `கை` wordplay, historical-name list, denominational wording, all three page continuations, the communal-harmony pledge and body/source-note boundary passed with no unresolved issue.
+E2 removed unsupported gender from the PDF 52 rendering of `கிறித்துவப் பெருமக்கள்`. E3 then rechecked all four pages against frozen Tamil and found no further issue. The `கொள்கை` / `கை` wordplay, historical-name list, denominational wording, all page continuations, communal-harmony pledge and body/source-note boundary remain verified.
+
+Both Tamil and English are verified. Do not reopen either layer without new source/fidelity evidence.
 
 ## Exact next incomplete gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Constituent 3 contributes 16 pages and this speech contributes 4 pages. Do not start repository closure or constituent 5 in the same activity.
+Run combined **repository-level archival closure for constituents 3–4**. Synchronize each speech, the parent collection and the root catalogue; mark both fully archived only if closure checks pass. Do not start constituent 5 in the same activity.
