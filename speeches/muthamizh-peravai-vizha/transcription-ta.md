@@ -1,10 +1,10 @@
 # முத்தமிழ்ப் பேரவை விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **9 / 9 pages COMPLETE**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **9 / 9 pages COMPLETE**  
 **Source range:** PDF **80–88** / printed **79–87**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 re-read all nine source pages. One scan-confirmed correction is consolidated below; T2 unresolved readings: **0**. PDF88 / printed p.87 `அமைகிறேன்` is confirmed as printed. This layer is not yet frozen until T3 consolidation.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All 1 T2 correction is consolidated; T2 unresolved readings: **0**. T3 confirmed all 9 page records once in sequence, preserved page joins and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 80 / printed p.79
 
@@ -88,4 +88,18 @@
 - T2 unresolved readings: **0**.
 - PDF88 / printed p.87 `அமைகிறேன்`: **CONFIRMED AS PRINTED**.
 - Page-boundary continuations at PDF82→83 and PDF83→84 were re-checked against both scans.
-- Tamil T3 consolidation/freeze: **READY / NOT STARTED**.
+- Tamil T3 consolidation/freeze: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**.
+
+## T3 consolidation/freeze result
+
+- Page records: **9/9, exactly once and in order**.
+- All T2 corrections/confirmed source readings: **CONSOLIDATED / PRESERVED**.
+- Stale superseded readings in speech body: **0**.
+- Missing/duplicated speech pages: **0 / 0**.
+- Separate source closing note: **PRESERVED OUTSIDE SPEECH BODY**.
+- T3 additional corrections: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Exact next gate
+
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
