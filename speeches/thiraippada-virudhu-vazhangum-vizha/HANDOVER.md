@@ -12,22 +12,23 @@
 - `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 - SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
 - PDF **63–69** / printed **62–68** — **7 pages**
-- source binary committed: **No**
+- speech date **30-01-1998**;
+- source role **`ஆற்றிய உரை`**;
+- venue **not stated in inspected opening/closing evidence**;
+- source binary committed: **No**.
 
 ## Durable state
 
-- constituent: **6 / 36**;
-- source/duplicate/boundary gate: **PASS / COMPLETE**;
-- speech date: **30-01-1998**;
-- venue: **not stated in inspected opening/closing evidence**;
-- role: **ஆற்றிய உரை**;
-- duplicate search: **PASS — no existing dedicated archive**;
-- Tamil T1: **READY / NOT STARTED — 0 / 7**;
-- Tamil T2/T3 and English: **BLOCKED**;
-- unresolved source-boundary issues: **0**.
+- source/duplicate/boundary: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 7 / 7 pages**;
+- Tamil status: **`first-pass-complete`**;
+- Tamil T2: **READY / NOT STARTED**;
+- Tamil T3: **BLOCKED**;
+- English E1/E2/E3: **BLOCKED pending verified/frozen Tamil**;
+- unresolved T1 holds: **0 recorded**.
 
-The separate closing note must remain outside the speech body. Do not infer a venue from contextual references in the body.
+The transcript preserves all seven page records and the separate PDF 69 source note.
 
 ## Exact next incomplete gate
 
-Run combined **Tamil T1 first-pass transcription for constituents 5–6 — 16 source pages total**. This speech contributes 7 pages. Keep constituent 5 separate and do not start T2 or constituent 7 in the same activity.
+Combined **Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Do not start T3 or constituent 7 in that activity.
