@@ -8,11 +8,9 @@ The source is a **36-item multi-speech collection**. Controlling PDF: `TVA_BOK_0
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **4 / 36**
-- Tamil T1 complete: **4 / 36**
-- Tamil T2 complete: **4 / 36**
-- Tamil T3 complete / Tamil verified: **4 / 36**
+- Tamil T1/T2/T3 complete / Tamil verified: **4 / 36**
 - English E1 complete: **4 / 36**
-- English E2 complete: **2 / 36**
+- English E2 complete: **4 / 36**
 - English E3 complete: **2 / 36**
 - fully archived: **2 / 36**
 
@@ -20,13 +18,13 @@ Constituents 1 and 2 remain **CLOSED / FULLY ARCHIVED**.
 
 ## Active same-gate batch — constituents 3–4
 
-Both Tamil layers are `verified-complete` / FROZEN, and English E1 is now complete:
+Both Tamil layers are `verified-complete` / FROZEN, English E1 is complete, and English E2 has now passed for both:
 
-- **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages** — Tamil T1/T2/T3 complete; E1 **16/16 COMPLETE**; E2 next.
-- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages** — Tamil T1/T2/T3 complete; E1 **4/4 COMPLETE**; E2 next.
+- **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages** — E2 **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**.
+- **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages** — E2 **PASS / COMPLETE — 4/4; 1 correction; 0 unresolved**.
 
-Combined English E1 scope: **20 / 20 verified Tamil pages complete**. Both translations were derived only from their frozen Tamil layers and remain separate. Constituent 5 is not part of this iteration.
+Combined English E2 scope: **20 / 20 pages checked — 7 corrections / 0 unresolved fidelity issues**. All confirmed corrections are consolidated in the separate `translation-en.md` files. English remains not finally verified until E3. Constituent 5 is not part of this batch.
 
 ## Exact next gate
 
-Run combined **English E2 independent fidelity review for constituents 3–4 — 20 pages total**. Compare every English page against frozen Tamil, keep correction/unresolved records separate by constituent, consolidate only confirmed corrections, and stop before E3 or constituent 5.
+Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end, keep any final correction records separate by constituent, and stop before repository closure or constituent 5.
