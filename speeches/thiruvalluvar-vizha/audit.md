@@ -11,31 +11,35 @@
 - Tamil T3: **PASS / COMPLETE — 16 / 16; 0 additional corrections; 0 unresolved**;
 - canonical Tamil: **`verified-complete` / FROZEN**.
 
-## English E1 first pass
+## English E1
 
-Status: **COMPLETE — 16 / 16 pages**.
+**COMPLETE — 16 / 16 pages.**
 
-## English E2 independent fidelity review
+## English E2
 
-Status: **PASS / COMPLETE — 16 / 16 pages checked; 6 corrections; 0 unresolved fidelity issues**.
+**PASS / COMPLETE — 16 / 16 pages; 6 corrections; 0 unresolved fidelity issues.** Corrections covered the PDF 34 book-release relationship, PDF 38 `கோட்டம்` / `தோட்டம்` wordplay, transparent `கலனாகிக்` handling on PDF 39, `என்னைத் துணைத்தெடுத்து` on PDF 41, `இனமானப் பேராசிரியர்` on PDF 43, and an English rendering of the quoted Kural on PDF 44.
 
-Confirmed E2 corrections:
+## English E3 final end-to-end verification
 
-1. PDF 34 / printed p.33: `holding the release function and address for the book` → `delivering an address at the release function for the book`.
-2. PDF 38 / printed p.37: restored explicit `கோட்டம்` / `தோட்டம்` wordplay as `kottam` / `thottam` (“garden”).
-3. PDF 39 / printed p.38: removed inferred `lies in a ruined state` and retained opaque frozen Tamil `கலனாகிக்` transparently.
-4. PDF 41 / printed p.40: `often keeps prodding me` → `often enlists my support` for `என்னைத் துணைத்தெடுத்து`.
-5. PDF 43 / printed p.42: `Professor of self-respect` → `Professor of ethnic dignity` for `இனமானப் பேராசிரியர்`.
-6. PDF 44 / printed p.43: added an English rendering alongside the quoted Tamil Kural.
+**PASS / COMPLETE — 16 / 16 pages; 6 final corrections; 0 unresolved fidelity issues.**
 
-E2 independently reconfirmed all numerical grants and dates, names/institutions, page-boundary continuations, quoted material, `ராணி`/Pongal sequence, transparent `சிற்றார்ப்புழத்தில்` handling, Bhogi/`போக்கி` wordplay, and final body/source-note separation.
+Confirmed E3 corrections:
 
-## English workflow
+1. PDF 36 / printed p.35: `the Tamil language was completely brought down` → `the Tamil language had utterly declined` for `அறவே வீழ்ந்து விட்டது`.
+2. PDF 41 / printed p.40: `against the white ruler` → `against the white man` for `வெள்ளையனுக்கு எதிராக`.
+3. PDF 48 / printed p.47: quoted `Breaking my sleepiness, I rose` → `Stretching myself, I rose` for `சோம்பல் முறித்துக் கொண்டே எழுந்தேன்`.
+4. PDF 48 / printed p.47: `rose while breaking his sleepiness` → `rose stretching himself`.
+5. PDF 49 / printed p.48: `stretching himself lazily` → `stretching himself`.
+6. PDF 49 / printed p.48: `stretching yourself lazily?` → `stretching yourself?`.
 
-- E1: **COMPLETE — 16 / 16**;
-- E2: **PASS / COMPLETE — 16 / 16; 6 corrections; 0 unresolved**;
-- E3: **READY / NOT STARTED**.
+After consolidation, E3 repeated the entire PDF **34–49** comparison against frozen Tamil. All names, institutions, figures, dates, page joins, quotations, source-sensitive wordplay, transparent opaque forms, the `ராணி`/Pongal sequence and final body/source-note separation passed with **0 further corrections / 0 unresolved issues**.
+
+## Current state
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- repository archival closure: **READY / NOT STARTED**.
 
 ## Exact next gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total**. Recheck the corrected English completely against frozen Tamil and stop before repository closure.
+Run combined **repository-level archival closure for constituents 3–4** and stop before constituent 5.
