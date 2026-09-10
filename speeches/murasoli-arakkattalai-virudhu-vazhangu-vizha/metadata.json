@@ -63,13 +63,18 @@
     "ending_verified": true,
     "source_closing_note_verified": true,
     "t3_additional_corrections": 0,
-    "english_translation": "first-pass-complete",
+    "english_translation": "fidelity-corrections-consolidated",
     "english_translation_pages_completed": 15,
     "english_translation_through_pdf_page": 33,
     "english_translation_through_printed_page": 32,
     "english_translation_source": "frozen transcription-ta.md only",
-    "english_translation_review": "not-started",
+    "english_translation_review": "review-complete",
+    "english_translation_review_pages_checked": 15,
+    "english_translation_review_through_pdf_page": 33,
+    "english_translation_review_through_printed_page": 32,
+    "english_translation_review_corrections": 6,
+    "english_translation_review_unresolved": 0,
     "english_translation_final_verification": "not-started",
-    "next_gate": "English E2 independent fidelity review — all 15 pages"
+    "next_gate": "English E3 final end-to-end verification — all 15 pages"
   }
 }
