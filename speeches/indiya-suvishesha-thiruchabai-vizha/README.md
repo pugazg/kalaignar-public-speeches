@@ -22,10 +22,13 @@ Tamil T1/T2/T3 are complete. Tamil is **`verified-complete` / FROZEN** with 0 un
 |---|---|
 | English E1 | **COMPLETE — 4 / 4 pages** |
 | English E2 independent fidelity review | **PASS / COMPLETE — 4 / 4; 1 correction; 0 unresolved** |
-| English E3 final verification | **READY / NOT STARTED** |
+| English E3 final verification | **PASS / COMPLETE — 4 / 4; 0 additional corrections; 0 unresolved** |
+| English state | **`verified-complete`** |
 
-E2 independently compared every English page against frozen `transcription-ta.md`. One correction was consolidated on PDF 52: `Christian men and women of eminence` → `Christian people of distinction`, removing gender not stated in `கிறித்துவப் பெருமக்கள்`. The `கொள்கை` / `கை` wordplay, historical-name list, denominational terminology, all page joins and the final communal-harmony pledge passed. English is not yet `verified-complete` until E3.
+E2 consolidated one PDF 52 correction, removing gender not stated in `கிறித்துவப் பெருமக்கள்`. E3 then rechecked all four corrected English pages against frozen Tamil and found no additional correction or unresolved issue. The `கொள்கை` / `கை` wordplay, historical-name list, denominational terminology, all page joins, religion/religious-fanaticism contrast, final communal-harmony pledge and body/source-note boundary all passed.
+
+Tamil and English are now both `verified-complete`. Repository-level closure has not yet been performed.
 
 ## Exact next gate
 
-Run combined **English E3 final end-to-end verification for constituents 3–4 — 20 pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Compare the corrected English completely against frozen Tamil and do not begin repository closure or constituent 5 in the same activity.
+Run combined **repository-level archival closure for constituents 3–4**. Synchronize speech, collection and root catalogue controls and mark each constituent fully archived only if the closure checks pass. Do not start constituent 5 in the same activity.
