@@ -20,23 +20,21 @@ The source/duplicate/boundary gate passed. No venue is inferred because the insp
 
 | Gate | State |
 |---|---|
-| Tamil T1 first-pass transcription | **COMPLETE — 7 / 7 pages** |
-| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 7 / 7; 4 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 7 / 7; 0 additional corrections; 0 unresolved** |
+| Tamil T1 | **COMPLETE — 7 / 7** |
+| Tamil T2 | **PASS / COMPLETE — 7 / 7; 4 corrections; 0 unresolved** |
+| Tamil T3 | **PASS / COMPLETE — 7 / 7; 0 additional corrections; 0 unresolved** |
 | Tamil state | **`verified-complete` / FROZEN** |
-
-T3 confirmed all PDF **63–69** page records once in sequence, all four T2 corrections consolidated, all page continuations intact, and the final body/source-note separation preserved. No additional T3 correction was required.
 
 ## English workflow
 
 | Gate | State |
 |---|---|
-| English E1 first-pass translation | **COMPLETE — 7 / 7 pages** |
-| English E2 independent fidelity review | **READY / NOT STARTED** |
-| English E3 final verification | **BLOCKED pending E2** |
+| English E1 | **COMPLETE — 7 / 7** |
+| English E2 | **PASS / COMPLETE — 7 / 7; 2 corrections; 0 unresolved** |
+| English E3 | **READY / NOT STARTED** |
 
-E1 was translated only from the frozen `transcription-ta.md` layer. It preserves page correspondence, film/award names, the election humour, the `இருவர்` / *Iruvar* wordplay, all page joins, final body and separate source closing note. It remains provisional pending E2.
+E2 independently compared all seven English pages against frozen Tamil and consolidated two corrections: PDF63 clarified that the function was not being held **with the election in view**, rather than suggesting the function itself was not taking place; PDF67 corrected the sculptor analogy to **“a single sculptor is enough to shape a statue.”** Election-law wording, film/award names, censorship language, the `இருவர்` / *Iruvar* joke, page joins and the closing note otherwise passed.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Compare each English page independently against frozen Tamil, consolidate only confirmed corrections, and stop before E3 or constituent 7.
+Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
