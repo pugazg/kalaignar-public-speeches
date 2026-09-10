@@ -22,21 +22,20 @@ Collection-level source/mapping/progress audit.
 - duplicate/source gate: **PASS**;
 - date: **1998-01-13**;
 - venue: not stated in inspected source;
-- Tamil T1: **COMPLETE — 15 / 15**;
-- Tamil T2: **PASS / COMPLETE — 15 / 15**;
-- cumulative T2: **5 corrections; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
-- T3 additional corrections: **0**;
-- English E1: **READY / NOT STARTED**;
-- English E2/E3: **BLOCKED**.
+- T2 corrections: **5**;
+- Tamil unresolved: **0**;
+- English E1: **COMPLETE — 15 / 15 pages**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED**.
 
-T3 verified the complete PDF **19–33** sequence, all five T2 corrections, all non-obvious page-boundary continuations, the final body sentence, and the separate closing note. No stale superseded reading, omitted/duplicated page, or unresolved Tamil reading remains.
+The E1 translation was derived only from the frozen Tamil transcription. It retains page correspondence, repetition, names and numeric details. The difficult title `வேதவித்து` is represented as `Vedaviththu` without assigning an outside meaning, and the source's mismatched quotation punctuation `“சாவி’ பத்திரிகையில்` is disclosed through an English transparency note.
 
 ## Multi-constituent batching policy
 
-`docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` permits consecutive eligible constituents to advance through the **same gate** in one iteration up to **25 source pages**, without merging their archival identities.
+`docs/MULTI_CONSTITUENT_BATCHING_POLICY.md` permits consecutive eligible constituents to advance through the **same gate** in one iteration up to **25 source pages**, without merging their archival identities. Only constituent 2 is currently eligible for E2.
 
 ## Exact next gate
 
-English E1 for constituent 2: translate all **15 verified Tamil pages** from frozen `transcription-ta.md` only.
+English **E2 independent fidelity review** for constituent 2, all **15 pages / PDF 19–33 / printed 18–32**. E3 remains blocked until E2 passes and confirmed corrections are consolidated.
