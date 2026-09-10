@@ -18,8 +18,19 @@
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
 
-No Tamil speech-body text has been transcribed at this gate.
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 10/10 source pages.**
+
+- canonical page records: PDF **103–112**, each present exactly once and in source order;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate source closing note: preserved outside the speech body;
+- T1 was produced from direct visual reading of the controlling scans;
+- no T2 fidelity claim is made yet.
+
+Source-supported unusual forms are preserved rather than silently normalized. In particular PDF110 / printed p.109 visibly reads `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` and is retained as printed. Page-boundary continuations, historical names, quotations, place-name variants, and source punctuation remain candidates for the required T2 re-read.
 
 ## Exact next gate
 
-Combined **Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**.
+Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the scans; stop before T3.
