@@ -33,15 +33,24 @@ Combined result: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 
 
 T3 confirmed all 24 expected PDF page records exactly once and in order; all four T2 corrections are consolidated; no stale superseded reading remains in the speech bodies; page-boundary continuations remain intact; constituent 7 `தமிழ்நாட்டை என்`, constituent 8 `அமைகிறேன்`, and constituent 9 title-spacing distinction remain preserved; and each separate source closing note remains outside its speech body. Constituents 7–9 are now **`verified-complete` / FROZEN** at the Tamil layer.
 
+## Constituents 7–9 — English E1 first-pass translation
+
+Combined result: **COMPLETE — 24/24 verified Tamil pages**. Each constituent retains its own English file and PDF/printed-page headings; all translations were derived only from frozen Tamil; separate source closing notes remain separate; missing English page records: **0**. E2 has not started.
+
+- **7 / 36:** English E1 **10/10 COMPLETE**;
+- **8 / 36:** English E1 **9/9 COMPLETE**;
+- **9 / 36:** English E1 **5/5 COMPLETE**.
+
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 9/36 / 9/36**;
 - Tamil T1 complete: **9/36**;
 - Tamil T2 complete: **9/36**;
 - Tamil T3 complete / Tamil verified: **9/36**;
-- English E1/E2/E3 complete: **6/36**;
+- English E1 complete: **9/36**;
+- English E2/E3 complete: **6/36**;
 - fully archived: **6/36**.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, repository closure, or constituent 10.
+Combined **English E2 independent fidelity review for constituents 7–9 — 24 pages total**. Compare each English page independently against the frozen Tamil layer, consolidate only confirmed corrections, and stop before E3, repository closure, or constituent 10.
