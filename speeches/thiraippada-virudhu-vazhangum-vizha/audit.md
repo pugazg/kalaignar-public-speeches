@@ -31,10 +31,6 @@ E3 corrections:
 
 The PDF64 late Tamil repair directly confirms the existing English sense “even mentioning the name” and required no English change. After consolidation, E3 repeated the full PDF63–69 comparison. Election-law wording, film/award titles, names, censorship wording, the *Iruvar* joke, collaborative-filmmaking analogy, political/art-world rhetoric, page joins, final body and separate closing note all passed with **0 further corrections / 0 unresolved fidelity issues**.
 
-## Current state
+## Repository closure
 
-Tamil and English are both **`verified-complete`**. Repository closure: **READY / NOT STARTED**.
-
-## Exact next gate
-
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+**PASS / COMPLETE.** Tamil and English are both `verified-complete`, metadata and control files are synchronized, archive status is **`fully-archived`**, and no transcription or translation work remains pending.
