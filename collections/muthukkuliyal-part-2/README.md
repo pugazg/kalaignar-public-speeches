@@ -15,31 +15,24 @@ The source is a **36-item multi-speech collection**, not one continuous speech. 
 - English E1 complete: **2 / 36**
 - English E2 complete: **2 / 36**
 - English E3 complete: **2 / 36**
-- fully archived: **1 / 36**
+- fully archived: **2 / 36**
 
-## Constituent 1
+## Closed constituents
 
-`தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` — PDF 12–18 / printed 11–17 — **CLOSED / FULLY ARCHIVED**.
+1. `தேசிய இளைஞர் கொண்டாட்டத் தொடக்கவிழா` — PDF **12–18** / printed **11–17** — **CLOSED / FULLY ARCHIVED**.
+2. `முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — PDF **19–33** / printed **18–32** — **CLOSED / FULLY ARCHIVED**.
 
-## Active constituent 2
+For constituent 2, Tamil T2 produced **5 corrections / 0 unresolved**; Tamil T3 passed with **0 additional corrections**. English E2 produced **6 corrections / 0 unresolved**. English E3 produced **2 final corrections / 0 unresolved**, then repeated the complete 15-page comparison with no further issue. Both Tamil and English are `verified-complete`.
 
-`முரசொலி அறக்கட்டளை விருது வழங்கு விழா` — `speeches/murasoli-arakkattalai-virudhu-vazhangu-vizha/` — PDF **19–33** / printed **18–32** — 15 pages.
+## Next eligible same-gate batch
 
-- source gate: **PASS / COMPLETE**;
-- date: **13-01-1998** from source closing note;
-- venue: not stated in inspected source;
-- Tamil T1/T2/T3: **COMPLETE**;
-- Tamil transcription: **`verified-complete` / FROZEN**;
-- English E1: **COMPLETE — 15 / 15**;
-- English E2: **PASS / COMPLETE — 15 / 15; 6 corrections; 0 unresolved**;
-- English E3: **PASS / COMPLETE — 15 / 15; 2 corrections; 0 unresolved**;
-- English translation: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**.
+The ≤25-page multi-constituent policy now permits the next two consecutive speeches to share the same source gate:
 
-E3 performed a fresh full Tamil→English verification after the six E2 corrections were consolidated. Its first sweep made two final source-fidelity refinements: PDF 23 `men of skill` → `people of skill` for `வித்தகர்களுக்கு`, and PDF 27 `Even if today...` → `Even though today...` for `இருந்தாலும்கூட`. A second complete 15-page sweep then found **0 further corrections / 0 unresolved**.
+- constituent **3 / 36 — `திருவள்ளுவர் விழா`** — PDF **34–49** / printed **33–48** — **16 pages**;
+- constituent **4 / 36 — `இந்திய சுவிசேஷத் திருச்சபை விழா`** — PDF **50–53** / printed **49–52** — **4 pages**.
 
-For multi-constituent work, apply `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`: consecutive eligible speeches may share one same-gate iteration up to **25 source pages**, while remaining separate archives.
+Combined scope: **20 source pages**. Both remain **NOT STARTED** and must retain separate speech archives. Constituent 5 would raise the combined total to 29 pages, so it is excluded from this batch.
 
 ## Exact next gate
 
-Run **repository-level archival closure for constituent 2 / 36**. Synchronize the speech, collection and root catalogue controls, mark constituent 2 fully archived, advance the collection to **constituent 3 / 36 — `திருவள்ளுவர் விழா`**, and stop before starting constituent 3 source work.
+Run the **multi-constituent source/duplicate/boundary gate for constituents 3–4 — 20 source pages total**. Establish each constituent's opening/ending, source-supported date/event/role/venue facts, duplicate status and exact boundaries independently. Do not mix T1 into the source-gate iteration merely to fill capacity.
