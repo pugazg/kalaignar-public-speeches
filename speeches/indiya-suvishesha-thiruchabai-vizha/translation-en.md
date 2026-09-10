@@ -1,10 +1,10 @@
 # Indian Evangelical Church Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — E1 **4 / 4 pages COMPLETE**; E2 **4 / 4 PASS; 1 correction; 0 unresolved**  
+**Status:** `verified-complete` — E1 **4 / 4 pages COMPLETE**; E2 **4 / 4 PASS; 1 correction; 0 unresolved**; E3 **4 / 4 PASS; 0 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` (`verified-complete`)  
 **Source range:** PDF **50–53** / printed **49–52**
 
-> E1 was translated only from the frozen Tamil transcription. E2 then independently compared every English page against that frozen Tamil layer and consolidated one confirmed fidelity correction. Source-page correspondence, repetitions, names, denominational terminology, the `கொள்கை` / `கை` wordplay, and the final body/source-note boundary remain preserved. English is not yet finally verified; E3 is the next gate.
+> E1 was translated only from the frozen Tamil transcription. E2 independently compared every English page against that frozen Tamil layer and consolidated one confirmed correction. E3 then rechecked the complete corrected translation from beginning to end and found no further correction or unresolved fidelity issue. English is now `verified-complete`.
 
 ## PDF 50 / printed p.49
 
@@ -46,14 +46,10 @@ Today, at this fine and pleasant celebration of this good Church—at this stirr
 
 `Speech delivered at the Indian Evangelical Church function on 16-1-98.`
 
-## E2 independent fidelity review note
+## E3 final end-to-end verification note
 
-English E1 is **COMPLETE — 4 / 4 pages**. English E2 is **PASS / COMPLETE — 4 / 4 pages checked; 1 confirmed correction; 0 unresolved fidelity issues**.
+English E1 is **COMPLETE — 4 / 4 pages**. English E2 is **PASS / COMPLETE — 4 / 4 pages; 1 correction; 0 unresolved**. English E3 is **PASS / COMPLETE — 4 / 4 pages; 0 additional corrections; 0 unresolved fidelity issues**.
 
-E2 correction:
+E3 independently rechecked the complete corrected English layer against frozen Tamil from PDF **50–53**. It reconfirmed all three page-boundary continuations, the `கொள்கை` / `கை` wordplay, names and denominational terminology, `கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`, the religion/religious-fanaticism contrast, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge, and the final body/source-note separation. No further correction was required.
 
-1. PDF 52 / printed p.51: `Christian men and women of eminence` → **`Christian people of distinction`**, removing gender that is not stated by frozen Tamil `கிறித்துவப் பெருமக்கள்`.
-
-E2 independently reconfirmed the PDF 50→51, 51→52 and 52→53 continuations; the `கொள்கை` / `கை` wordplay; names and denominational wording; `கால்டுவெல்`, `ஜி.யு. போப்`, `வீரமாமுனிவர்`; the religion/religious-fanaticism contrast; the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge; and the body/source-note separation.
-
-English remains `fidelity-corrections-consolidated`, not `verified-complete`, until E3. Exact next gate: **combined constituents 3–4 English E3 final end-to-end verification — 20 pages total**.
+English is now **`verified-complete`**. Exact next gate: **combined constituents 3–4 repository-level archival closure**; do not start constituent 5 in the same activity.
