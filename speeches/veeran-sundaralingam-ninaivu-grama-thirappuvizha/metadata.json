@@ -47,10 +47,10 @@
     "duplicate_check": "pass-no-existing-dedicated-archive",
     "source_inspection": "complete",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "not-started",
+    "tamil_transcription": "first-pass-complete",
     "speech_pages_total": 10,
-    "speech_pages_drafted": 0,
-    "tamil_visual_audit": "blocked-pending-t1",
+    "speech_pages_drafted": 10,
+    "tamil_visual_audit": "not-started",
     "tamil_consolidation": "blocked-pending-t2",
     "opening_verified": true,
     "ending_verified": true,
@@ -61,6 +61,10 @@
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total"
+    "tamil_transcription_through_pdf_page": 112,
+    "tamil_transcription_through_printed_page": 111,
+    "t1_pages_completed": 10,
+    "t1_unreadable_or_unknown": 0,
+    "next_gate": "Combined Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total"
   }
 }
