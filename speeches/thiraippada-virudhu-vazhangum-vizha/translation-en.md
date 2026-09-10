@@ -1,10 +1,10 @@
 # Film Awards Presentation Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **7 / 7 pages COMPLETE**; E2 **7 / 7 PASS; 2 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1 **7 / 7 pages COMPLETE**; E2 **7 / 7 PASS; 2 corrections; 0 unresolved**; E3 **7 / 7 PASS; 2 final corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` — **`verified-complete` / FROZEN**  
 **Source range:** PDF **63–69** / printed **62–68**
 
-> English E1 was translated only from the frozen Tamil layer. E2 independently compared all seven English pages against that frozen Tamil and consolidated two fidelity corrections. English remains provisional until E3 final end-to-end verification.
+> E1 was translated only from the frozen Tamil layer. E2 independently reviewed all seven pages and consolidated two corrections. During E3, direct re-inspection of the controlling scans exposed two late Tamil source corrections on PDFs 64–65; the Tamil layer was corrected and re-frozen before the final English sweep. E3 then consolidated two final English fidelity corrections and completed a second end-to-end comparison with 0 further issues.
 
 ## PDF 63 / printed p.62
 
@@ -34,11 +34,11 @@ There is nothing surprising either in the award for Best Actor going to Kalaigna
 
 Likewise, there is nothing surprising in the special prize for Best Actor going to my younger brother Vijayakanth.
 
-Among film directors, my younger brother R.K. Selvamani makes and directs revolutionary films with the idealistic resolve to dare anything, not fear censorship, and not mind even if a film is banned because of censorship itself. He has received the Raja Sandow Award, named after the late pioneer who served as a guide to film directors.
+Among film directors, my younger brother R.K. Selvamani makes and directs revolutionary films with the idealistic resolve to dare anything, not fear censorship, and not mind even if a film is banned because of censorship itself. He has received the Raja Sandow Award, named after the late Raja Sandow, who served as a guide to film directors.
 
 As I mentioned at the outset, Panchu Arunachalam has received the Kannadasan Award.
 
-The Anna Award has gone to my younger brother Viyath Ali Khan. He has received that award in his capacity as a writer. As I too am a writer, I take pride in his receiving this award.
+The Anna Award has gone to my younger brother Liaqat Ali Khan. He has received that award in his capacity as a writer. As I too am a writer, I take pride in his receiving this award.
 
 My younger brother Charlie has received the Kalaivanar Award, named after the late Kalaivanar—the man who stood as a model for what comedy should be and how ideas should be blended into humour, and whose name this auditorium bears.
 
@@ -97,6 +97,20 @@ E2 corrections:
 1. PDF 63 / printed p.62: `இந்தத் தேர்தலை முன்னிட்டு ... நடைபெறவில்லை` was clarified from the potentially contradictory **“is not being held because of the election”** to **“is not being held with the election in view”**, preserving the source's distinction between the function itself and using it for electoral purposes.
 2. PDF 67 / printed p.66: corrected `ஒரு சிலையை ஒரு சிற்பி வடிப்பதற்கு ஒருவரே போதும்` from **“one person is enough for a sculptor to shape a statue”** to **“a single sculptor is enough to shape a statue”**, removing an unintended extra-person relationship.
 
-All seven page joins, election-law wording, film and award titles, names, censorship wording, the *Iruvar* joke, collaborative-filmmaking analogy, political/art-world rhetoric, final body and separate source closing note passed E2 with **0 unresolved issues**.
+## E3 final end-to-end verification note
 
-Exact next gate: **combined constituents 5–6 English E3 final end-to-end verification — 16 pages total**. Stop before repository closure or constituent 7.
+English E3 is **PASS / COMPLETE — 7 / 7 pages; 2 final corrections; 0 unresolved fidelity issues**.
+
+Late Tamil source repairs before the final sweep:
+
+- PDF64: `பெயரைச் சொல்லாது கூட` → **`பெயரைச் சொல்லுவது கூட`**; the existing English sense “even mentioning the name” was thereby directly confirmed by the scan and required no English change.
+- PDF65: `வியாகத் அலிகானுக்குக்` → **`லியாகத் அலிகானுக்குக்`**.
+
+E3 corrections:
+
+1. PDF65: **`Viyath Ali Khan` → `Liaqat Ali Khan`**, following the corrected source reading `லியாகத் அலிகான்`.
+2. PDF65: removed the unsupported descriptive addition **`pioneer`** from Raja Sandow; the sentence now renders only the source relationship, **“the late Raja Sandow, who served as a guide to film directors.”**
+
+After the late Tamil repairs and these two English corrections were consolidated, E3 repeated the full PDF **63–69** Tamil→English comparison. Election-law wording, film and award titles, names, censorship wording, the *Iruvar* joke, collaborative-filmmaking analogy, political/art-world rhetoric, every page join, final body and separate source closing note passed with **0 further corrections / 0 unresolved issues**.
+
+English is now **`verified-complete`**. Exact next gate: **combined constituents 5–6 repository-level archival closure**; do not start constituent 7 in the same activity.
