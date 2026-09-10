@@ -19,24 +19,33 @@
 - T3: **PASS / COMPLETE — 9 / 9; 0 additional corrections; 0 unresolved**;
 - Tamil: **`verified-complete` / FROZEN**.
 
-T2 corrections remain consolidated: PDF55 `அமைச்சரவைக் கூட்டத்தைக்`; PDF59 `சுற்றுலா வழிகாட்டி`, `வரைபடங்கள்`, `கனிமங்கள்`. T3 confirmed all page records/joins and the separate source-note boundary.
+Tamil T2 corrections remain consolidated: PDF55 `அமைச்சரவைக் கூட்டத்தைக்`; PDF59 `சுற்றுலா வழிகாட்டி`, `வரைபடங்கள்`, `கனிமங்கள்`.
 
-## English E1 — first-pass translation
+## English E1
 
-**COMPLETE — 9 / 9 pages.**
+**COMPLETE — 9 / 9 pages**, derived only from frozen Tamil.
 
-E1 was derived only from frozen `transcription-ta.md`, with one English section corresponding to each frozen Tamil page PDF **54–62**. The figures and tax lists, political/election wordplay, applause markers, final body and separate source closing note are retained. Source-sensitive list terms such as `sukkai`, `kappi` and `thippi` are kept conservatively rather than silently normalized.
+## English E2 — independent fidelity review
 
-E1 is provisional. No independent English fidelity review has yet been performed.
+**PASS / COMPLETE — 9 / 9 pages; 4 corrections; 0 unresolved.**
+
+Corrections:
+
+1. PDF55: restored explicit second-person agency in `வாழ்த்துரைகளையும் பாராட்டுரைகளையும் வழங்கிவிட்டு ... வைத்திருக்கிறீர்கள்`.
+2. PDF59: corrected the scope of `39 இனங்கள்` across the stated life-saving and indigenous medicines.
+3. PDF59: removed unsupported explanatory wording from `மரவள்ளிக் கிழங்கு கப்பி, திப்பி`, retaining `tapioca kappi and thippi` conservatively.
+4. PDF60: restored both `வரி இழப்பை, வருவாய் இழப்பை` as `tax loss and revenue loss`.
+
+All figures, percentages, rupee amounts, tax-item lists, names, political/election rhetoric, page joins, applause markers, final body and separate closing note passed E2 with **0 unresolved fidelity issues**.
 
 ## Current state
 
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 9 / 9**;
-- English E2: **READY / NOT STARTED**;
-- English E3: **BLOCKED pending E2**;
+- English E2: **PASS / COMPLETE — 9 / 9; 4 corrections; 0 unresolved**;
+- English E3: **READY / NOT STARTED**;
 - repository closure: **NOT STARTED**.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 5–6 — 16 pages total**. Compare every English page against frozen Tamil, consolidate only confirmed corrections, and stop before E3 or constituent 7.
+Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
