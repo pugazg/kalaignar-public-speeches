@@ -51,17 +51,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **source/duplicate/boundary PASS; Tamil T1 next — 0/9** |
-| 6 | `thiraippada-virudhu-vazhangum-vizha` | **source/duplicate/boundary PASS; Tamil T1 next — 0/7** |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil T1 COMPLETE — 9/9; T2 next** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil T1 COMPLETE — 7/7; T2 next** |
 | 7–36 | — | not started |
 
 ## Active same-gate batch
 
 Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 source pages**:
 
-- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — source gate **PASS / COMPLETE**; date **25-01-1998**; venue **சென்னை வள்ளுவர் கோட்டம்**; role **ஆற்றிய பேருரை**;
-- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — source gate **PASS / COMPLETE**; date **30-01-1998**; venue not stated; role **ஆற்றிய உரை**.
+- 5 `chennai-chennai-puranagar-vanigargal-sanga-maanadu` — PDF **54–62** / printed **53–61** — source gate PASS; Tamil T1 **9/9 COMPLETE**; date **25-01-1998**; venue **சென்னை வள்ளுவர் கோட்டம்**; role **ஆற்றிய பேருரை**;
+- 6 `thiraippada-virudhu-vazhangum-vizha` — PDF **63–69** / printed **62–68** — source gate PASS; Tamil T1 **7/7 COMPLETE**; date **30-01-1998**; venue not stated; role **ஆற்றிய உரை**.
 
-Duplicate searches found no existing dedicated archive for either speech. Combined unresolved source/boundary count: **0**. Tamil T1 has not started.
-
-Exact next gate: **combined Tamil T1 first-pass transcription for constituents 5–6 — 16 source pages total**. Constituent 7 remains outside this iteration.
+Combined Tamil T1: **16 / 16 pages COMPLETE**. Both Tamil layers remain `first-pass-complete`, not verified/frozen. Exact next gate: **combined Tamil T2 strict direct-scan fidelity audit for constituents 5–6 — 16 source pages total**. Constituent 7 remains outside this iteration.
