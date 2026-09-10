@@ -106,64 +106,32 @@ The archival text workflow is complete: source identification, 17-page Tamil tra
 
 ### இதய பேரிகை
 
-The archival text workflow is complete for the full 32-page body: source inspection and page mapping, Tamil transcription, strict visual Tamil audit, Tamil consolidation/freeze, English translation, English fidelity review with all 19 confirmed corrections consolidated, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**.
-
-The source is a printed multi-section booklet whose title page does not explicitly label it as `பேச்சு`; it is therefore archived as one source unit without inventing a single speech event. The scan does not establish a single speech date, venue, event, occasion or audience. The exact printer name on PDF page 3 also remains unresolved because a later library stamp obscures part of the printed line; this is a bibliographic limitation rather than pending text work.
+The archival workflow is complete for the full 32-page body: source inspection and page mapping, Tamil transcription, strict visual Tamil audit, Tamil consolidation/freeze, English translation, English fidelity review with all 19 confirmed corrections consolidated, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**.
 
 ### பூந்தோட்டம்
 
-The archival workflow is complete for the 12-page speech body on PDF pages 6-17 / printed pages 5-16. The source explicitly states that தோழர் மு.கருணாநிதி delivered the speech at சென்னை கிண்டி இன்ஜினியரிங் கல்லூரி on **06.12.1951**. It does not separately name an event/occasion or define the audience, so those fields remain unset.
-
-Tamil transcription, strict visual audit, Tamil consolidation/freeze, English translation, independent fidelity review, and final end-to-end Tamil→English verification have all passed. Both Tamil and English layers are **`verified-complete`**. E2 produced one confirmed English correction; E3 found no additional correction. The source PDF is not committed under repository policy; provenance is preserved in metadata through filename, SHA-256, file size, page count and page map.
-
-A later **post-freeze review of printed p.16** reopened both layers under documented evidence. A fresh inspection of the controlling scan established that the print reads `மாடப்புறா`, not the frozen `மாட்டுப்புறா`, giving one scan-confirmed Tamil correction; `மானிடம்`, previously left untranslated as an uncertain form, was established to be the ordinary noun for *humanity* and is now translated, with its note removed. Tamil was re-consolidated and re-frozen, and the dependent English layer was re-verified through a fresh E2 of the affected page plus a complete 12-page E3. Both layers remain **`verified-complete`**.
+The archival workflow is complete for the 12-page speech body on PDF pages 6-17 / printed pages 5-16. Both Tamil and English layers are **`verified-complete`**.
 
 ### பள்ளி வாழ்க்கை
 
-The archival workflow is complete for the **76-page body on PDF pages 6-81 / printed pages 5-80**. The March 1952 first edition is a printed compilation rather than one securely identified single speech event. PDF page 5 says that speeches delivered by Kalaignar M. Karunanidhi at **திருவாரூர் நகராண்மைக் கழக உயர்நிலைப்பள்ளி** and **வேறு சில இடங்களிலும்** were collected by **தோழர் மு. நமச்சிவாயம்**. Component-speech dates and one common venue/event/occasion/audience are not supplied by the source and are therefore not inferred.
-
-Tamil T1, strict visual T2, final Tamil consolidation/freeze T3, full English translation, 16-batch independent English fidelity review, and the final 76-page E3 Tamil→English verification have all passed. Both Tamil and English are **`verified-complete`**. E3 checked all 75 internal page transitions and found no additional correction after E2 consolidation.
-
-The source uses traditional pre-1978 Tamil glyph forms; the archival Tamil resolves those to scan-supported underlying characters while retaining genuine source-supported irregular wording rather than silently modernizing it. Detailed T2 evidence and the T3 final verification record are retained with the speech. The source PDF is not committed; its filename, SHA-256, size, page count and page map remain preserved in metadata.
+The archival workflow is complete for the **76-page body on PDF pages 6-81 / printed pages 5-80**. Both Tamil and English are **`verified-complete`**.
 
 ### கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை
 
-The archival audio workflow is complete for the **443.559-second / 00:07:23.559** Tamil Digital Library MP3. Source identity is preserved through filename, URL, SHA-256, byte size and decoded technical metadata; the audio binary is not committed.
-
-Tamil T1, strict direct-listening T2, Tamil consolidation/freeze T3, full English E1, four-batch English fidelity review E2, and continuous final Tamil→English verification E3 have all passed. Both Tamil and English are **`verified-complete`**.
-
-A critical corrective audit restored the final approximately 25 seconds after an earlier false conclusion that the recording ended abruptly. The complete speech ends by describing any peace brought into the struggling recipients' lives as the offering Kalaignar places at Kalaivanar's feet. The controlling tail-correction record and a project learnings document are retained to prevent recurrence.
-
-The recording establishes the venue as **கலைவாணர் அரங்கம், சென்னை** but does not state an exact speech date. Secondary chronology is retained only as context; `speech.date` remains `null`. E3 checked all 12 timestamp sections from the opening salutations through the true end and found no new correction after E2 consolidation.
+The archival audio workflow is complete for the **443.559-second / 00:07:23.559** Tamil Digital Library MP3. Both Tamil and English are **`verified-complete`**.
 
 ### தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா
 
-The archival workflow is complete for constituent **1 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **12–18** / printed pages **11–17**. The constituent's own closing note establishes the speech date as **12.01.1998**, the venue as **சென்னை ஜவகர்லால் நேரு விளையாட்டரங்கம்**, the event wording as `தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா`, and the role as `தலைமை உரை`.
-
-Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent English fidelity review E2, and final end-to-end E3 have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **5** scan-supported corrections with **0 unresolved** readings. English E2 produced **3** confirmed corrections, all consolidated; E3 found **0** further corrections and **0** unresolved issues.
-
-The archive deliberately retains the source-confirmed unusual printed p.13 form `ஐக்கிய இந்தியர் மீது`, with an explicit English transparency note rather than silent source repair. The genuine repeated printed-p.15 passage is also retained. The source PDF is not committed; provenance is preserved through the parent collection metadata and page map. Repository-level closure is complete, and no transcription or translation work is pending for this constituent.
+The archival workflow is complete for constituent **1 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **12–18** / printed pages **11–17**. Repository-level closure is complete.
 
 ### முரசொலி அறக்கட்டளை விருது வழங்கு விழா
 
-The archival workflow is complete for constituent **2 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **19–33** / printed pages **18–32**. The separate closing note establishes the speech date as **13.01.1998**, event wording `முரசொலி அறக்கட்டளை விருது வழங்கும் விழா`, and role `ஆற்றிய உரை`. The inspected source does not state a venue, so no venue is inferred.
-
-Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**. English E2 produced **6 corrections / 0 unresolved**. E3 made two final refinements—`men of skill` → `people of skill` and `Even if today...` → `Even though today...`—then repeated the complete 15-page Tamil→English comparison with **0 further corrections / 0 unresolved**.
-
-The archive preserves the opening `இட ஒதுக்கீடு` / `தொகுதி` wordplay, `Vedaviththu` as transliteration only, the PDF 30 quotation-punctuation transparency note, difficult source-supported wording, rhetorical repetition, every page transition, and the final body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+The archival workflow is complete for constituent **2 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **19–33** / printed pages **18–32**. Repository-level closure is complete.
 
 ### திருவள்ளுவர் விழா
 
-The archival workflow is complete for constituent **3 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **34–49** / printed pages **33–48**. The separate closing note establishes the speech date as **15.01.1998**, event wording `திருவள்ளுவர் விழா`, and role `ஆற்றிய உரை`. The inspected opening/closing evidence does not state a venue, so no venue is inferred.
-
-Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**. English E2 produced **6 corrections / 0 unresolved**. E3 produced **6 final corrections / 0 unresolved**, then repeated the complete 16-page Tamil→English comparison with **0 further corrections**.
-
-The archive preserves the `கோட்டம்` / `தோட்டம்` wordplay, transparent handling of the opaque frozen forms `கலனாகிக்` and `சிற்றார்ப்புழத்தில்`, the quoted Tirukkural material, the `ராணி`/Pongal sequence, Bhogi/`போக்கி` wordplay, all page transitions, and the final body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+The archival workflow is complete for constituent **3 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **34–49** / printed pages **33–48**. Repository-level closure is complete.
 
 ### இந்திய சுவிசேஷத் திருச்சபை விழா
 
-The archival workflow is complete for constituent **4 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **50–53** / printed pages **49–52**. The separate closing note establishes the speech date as **16.01.1998**, event wording `இந்திய சுவிசேஷத் திருச்சபை விழா`, and role `ஆற்றிய உரை`. The inspected opening/closing evidence does not state a venue, so no venue is inferred.
-
-Tamil T1, strict direct-scan T2, Tamil consolidation/freeze T3, English E1, independent E2 fidelity review, and final E3 end-to-end verification have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 required **0 corrections / 0 unresolved**. English E2 produced **1 correction / 0 unresolved**, removing gender not stated in `கிறித்துவப் பெருமக்கள்`; E3 then passed all four pages with **0 additional corrections / 0 unresolved**.
-
-The archive preserves the `கொள்கை` / `கை` wordplay, names and denominational wording, the Caldwell/G.U. Pope/Veeramamunivar list, all page continuations, the religion/religious-fanaticism distinction, the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge, and the body/source-note distinction. Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+The archival workflow is complete for constituent **4 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **50–53** / printed pages **49–52**. Repository-level closure is complete.
