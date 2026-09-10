@@ -15,7 +15,7 @@
 - date **25-01-1998**; venue **சென்னை வள்ளுவர் கோட்டம்**; role **`ஆற்றிய பேருரை`**
 - source binary committed: **No**.
 
-## Durable state
+## Durable final state
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE**;
@@ -25,12 +25,10 @@
 - English E2: **PASS — 9/9; 4 corrections; 0 unresolved**;
 - English E3: **PASS — 9/9; 2 final corrections; 0 unresolved**;
 - English: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**.
+- repository closure: **PASS / COMPLETE**;
+- archive status: **`fully-archived`**;
+- pending transcription/translation work: **none**.
 
 E3 corrected PDF58 `sales-tax assessment` → `sales-tax levy` and PDF59 `mineral earth` → `clay`; a second complete end-to-end sweep produced 0 further issues. Preserve the source distinction between heading/contents `சென்னைப் புறநகர்` and closing-note `சென்னை புறநகர்`.
 
-Do not alter either verified layer without new source evidence.
-
-## Exact next incomplete gate
-
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+This constituent is closed. Do not alter either verified layer unless genuinely new source evidence requires a documented reopen.
