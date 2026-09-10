@@ -51,14 +51,18 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 2 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 3 | `thiruvalluvar-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **Tamil + English verified-complete; E3 9/9 PASS — 2 corrections / 0 unresolved; repository closure next** |
-| 6 | `thiraippada-virudhu-vazhangum-vizha` | **Tamil + English verified-complete; E3 7/7 PASS — 2 corrections / 0 unresolved; repository closure next** |
+| 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 6 | `thiraippada-virudhu-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 7–36 | — | not started |
 
-## Active same-gate batch
+## Next same-gate batch
 
-Constituents **5–6** remain paired under the ≤25-page policy, totaling **16 pages**. Combined English E3 is **16/16 PASS — 4 final corrections / 0 unresolved**. During E3, direct scan integrity checks exposed three missed source-level Tamil readings: constituent 5 PDF59 `கனிமண்` → `களிமண்`; constituent 6 PDF64 `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட`; constituent 6 PDF65 `வியாகத்` → `லியாகத்`. Both Tamil layers were corrected, rechecked and re-frozen before the final English sweep.
+Constituents **7–9** are the next eligible group under the ≤25-page policy, totaling **24 source pages**:
 
-Both constituents are now verified in Tamil and English but not yet repository-closed.
+- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா` — PDF **70–79** / printed **69–78** — 10 pages;
+- 8 `முத்தமிழ்ப் பேரவை விழா` — PDF **80–88** / printed **79–87** — 9 pages;
+- 9 `புத்தாண்டு இசை விழா` — PDF **89–93** / printed **88–92** — 5 pages.
 
-Exact next gate: **combined repository-level archival closure for constituents 5–6**. Constituent 7 remains outside this iteration.
+Constituent 10 is excluded because adding its 9 pages would make the batch **33 pages**. Constituents 7–9 remain **not started**.
+
+Exact next gate: **combined source / duplicate / boundary gate for constituents 7–9 — 24 source pages total**. Stop before Tamil T1.
