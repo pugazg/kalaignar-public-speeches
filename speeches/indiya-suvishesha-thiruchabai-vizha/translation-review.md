@@ -2,7 +2,8 @@
 
 **English E1:** COMPLETE — **4 / 4 pages**  
 **English E2:** **PASS / COMPLETE — 4 / 4 pages; 1 correction; 0 unresolved**  
-**English E3:** **PASS / COMPLETE — 4 / 4 pages; 0 final corrections; 0 unresolved**
+**English E3:** **PASS / COMPLETE — 4 / 4 pages; 0 final corrections; 0 unresolved**  
+**Repository closure:** **PASS / COMPLETE**
 
 ## Review basis
 
@@ -24,8 +25,6 @@ E3 checked all four pages and required **0 additional corrections / 0 unresolved
 - the final `மத நல்லிணக்கம் காண்போம்; மனித நேயம் காப்போம்` pledge;
 - the body/source-closing-note distinction.
 
-English is now **`verified-complete`**.
+## Closure
 
-## Exact next gate
-
-Combined constituents **3–4 repository-level archival closure**. Synchronize speech, collection and root catalogue controls for both verified constituents, mark both fully archived if all closure checks pass, and do not start constituent 5 in the same activity.
+English is **`verified-complete`** and all corrections are consolidated. Repository-level archival closure is complete, the speech metadata agrees with the frozen Tamil/English layers, and no further English gate is pending.
