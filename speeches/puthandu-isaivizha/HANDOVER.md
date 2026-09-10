@@ -10,40 +10,16 @@
 ## Controlling source
 
 - `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
-- SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- PDF **89–93** / printed **88–92** — **5 pages**
-- closing note: `14-4-98 அன்று புத்தாண்டு இசைவிழாவில் ஆற்றிய உரை`
-- speech date: **14-04-1998**; venue: **not stated**; role: `ஆற்றிய உரை`
-- source binary committed: **No**
+- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- PDF **89–93** / printed **88–92**; **5 pages**
+- Source PDF binary is not committed.
 
 ## Durable state
 
-- source/duplicate/boundary: **PASS / COMPLETE**;
-- duplicate unresolved: **0**; boundary unresolved: **0**;
-- Tamil T1: **COMPLETE — 5/5**;
-- Tamil T2: **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE — 5/5; 0 additional corrections; 0 unresolved**;
-- Tamil state: **`verified-complete` / FROZEN**;
-- English E1: **COMPLETE — 5/5**;
-- English E2: **PASS / COMPLETE — 5/5; 3 corrections; 0 unresolved**;
-- English E3: **READY / NOT STARTED**;
-- repository closure: **NOT STARTED**.
+Tamil T1/T2/T3: **COMPLETE — 5/5; `verified-complete` / FROZEN**. English E1: **5/5 COMPLETE**. English E2: **PASS — 5/5; 3 corrections; 0 unresolved**. English E3: **PASS — 5/5; 0 additional corrections; 0 unresolved**; final English is **`verified-complete`**.
 
-T2 corrections: PDF90 / p.89 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 / p.89 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 / p.92 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. All were resolved directly from the controlling scans. Preserve the contents form `புத்தாண்டு இசை விழா` separately from the constituent heading/closing-note form `புத்தாண்டு இசைவிழா`.
+All three Tamil T2 corrections remain consolidated: PDF90 `குறிப்பிட்டிருக்கின்றார்` and `தேர்வுத் தந்து`, and PDF93 `மனப்பான்மை விசுவிற்கும்`. The contents `புத்தாண்டு இசை விழா` versus heading/closing-note `புத்தாண்டு இசைவிழா` distinction remains preserved. No Tamil text was changed during E3.
 
-T3 consolidation confirmed all 5 page records exactly once and in order, all T2 corrections/confirmed source forms consolidated, all page continuations intact, no stale superseded reading in the speech body, and the source closing note outside the speech body. **T3 additional corrections: 0; unresolved: 0.**
+## Exact next gate
 
-## English E2 result
-
-E2 independently compared all **5/5** English pages against frozen `transcription-ta.md`: **PASS / COMPLETE; 3 confirmed corrections; 0 unresolved fidelity issues**.
-
-1. PDF 90 / printed p.89: replaced the modernized “world-class wonder” with the closer **“a great wonder of the world”**.
-2. PDF 92 / printed p.91: removed the added implication in “I am not making it up” and restored **“I am not the one saying it.”**
-3. PDF 93 / printed p.92: removed the added motive “whom they wished to honour” and restored the source sense as **“They have remembered all those people and offered each of them their appreciation and affection.”**
-
-Source-sensitive clarifications:
-- PDF 90 / printed p.89: added a source note for the difficult frozen-Tamil phrase `தேர்வுத் தந்து`; English retains the conservative sense “selected … and gave it” without altering Tamil.
-
-## Exact next incomplete gate
-
-Combined **English E3 final end-to-end verification for constituents 7–9 — 24 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 10.
+Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
