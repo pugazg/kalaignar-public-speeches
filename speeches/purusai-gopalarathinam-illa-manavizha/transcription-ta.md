@@ -1,10 +1,10 @@
 # புரசை கோபாலரத்தினம் இல்ல மணவிழா — Tamil transcription
 
-**Status:** `first-pass-complete` — Tamil T1 **10 / 10 pages COMPLETE**  
+**Status:** `t2-complete` — Tamil T1/T2 **10 / 10 pages COMPLETE**  
 **Source range:** PDF **70–79** / printed **69–78**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed directly from the controlling scans. T2 strict visual fidelity audit has not started. Source-supported unusual wording is preserved rather than silently normalized.
+> Tamil T1 is complete and strict direct-scan T2 re-read all ten source pages. No transcription corrections were required; T2 unresolved readings: **0**. The unusual PDF72 / printed p.71 form `தமிழ்நாட்டை என்` was re-checked and is confirmed as printed. This layer is not yet frozen until T3 consolidation.
 
 ## PDF 70 / printed p.69
 
@@ -100,9 +100,11 @@
 புரசை கோபாலரத்தினம் இல்ல  
 மணவிழாவில் ஆற்றிய உரை
 
-## T1 handoff to T2
+## T2 audit result
 
-- Tamil T1: **10/10 COMPLETE**.
-- Missing page records: **0**.
-- T2 attention: PDF72 / printed p.71 visibly reads the syntactically unusual `தமிழ்நாட்டை என்`; preserve unless the direct-scan T2 re-read establishes otherwise.
-- T2 strict direct-scan fidelity audit: **NOT STARTED**.
+- Tamil T1/T2: **10/10 COMPLETE**.
+- Strict direct-scan pages checked: **10/10**.
+- T2 corrections: **0**.
+- T2 unresolved readings: **0**.
+- PDF72 / printed p.71 `தமிழ்நாட்டை என்`: **CONFIRMED AS PRINTED**.
+- Tamil T3 consolidation/freeze: **READY / NOT STARTED**.
