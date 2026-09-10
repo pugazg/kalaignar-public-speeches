@@ -53,15 +53,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 4 | `indiya-suvishesha-thiruchabai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 5 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 6 | `thiraippada-virudhu-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 7 | `purusai-gopalarathinam-illa-manavizha` | **SOURCE/DUPLICATE/BOUNDARY PASS — Tamil T1 next; 0/10** |
-| 8 | `muthamizh-peravai-vizha` | **SOURCE/DUPLICATE/BOUNDARY PASS — Tamil T1 next; 0/9** |
-| 9 | `puthandu-isaivizha` | **SOURCE/DUPLICATE/BOUNDARY PASS — Tamil T1 next; 0/5** |
+| 7 | `purusai-gopalarathinam-illa-manavizha` | **Tamil T1 COMPLETE — 10/10; T2 next** |
+| 8 | `muthamizh-peravai-vizha` | **Tamil T1 COMPLETE — 9/9; T2 next** |
+| 9 | `puthandu-isaivizha` | **Tamil T1 COMPLETE — 5/5; T2 next** |
 | 10–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **7–9** are source-gated and remain paired under the ≤25-page policy at **24 source pages total**. Duplicate unresolved: **0**. Boundary unresolved: **0**. Tamil T1 has not started for any of the three.
+Constituents **7–9** have Tamil T1 **COMPLETE — 24/24 pages** with **0 missing page records**. Source/duplicate/boundary remains PASS with duplicate unresolved **0** and boundary unresolved **0**. T2 has not started.
 
-Source-specific identity notes: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
+Source-specific identity notes remain unchanged: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
 
-Exact next gate: **combined Tamil T1 first-pass transcription for constituents 7–9 — 24 source pages total**. Constituent 10 remains outside this iteration.
+Exact next gate: **combined Tamil T2 strict direct-scan fidelity audit for constituents 7–9 — 24 source pages total**. Constituent 10 remains outside this iteration.
