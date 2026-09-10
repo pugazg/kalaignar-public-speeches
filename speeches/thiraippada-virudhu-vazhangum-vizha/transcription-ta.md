@@ -1,10 +1,10 @@
 # திரைப்பட விருது வழங்கும் விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **7 / 7 pages COMPLETE**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **7 / 7 pages COMPLETE**  
 **Source range:** PDF **63–69** / printed **62–68**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 has re-read all seven pages. Four source-confirmed corrections are consolidated below; T2 unresolved readings: **0**. This layer is not yet frozen until T3 consolidation.
+> Tamil T1, strict direct-scan T2, and T3 consolidation/freeze are complete. All four T2 corrections are consolidated below; T2 unresolved readings: **0**. T3 confirmed all seven page records once in sequence, preserved every page join and the separate closing note, and required **0 additional corrections**. This Tamil layer is now `verified-complete` / FROZEN.
 
 ## PDF 63 / printed p.62
 
@@ -90,4 +90,4 @@
 
 ## Exact next gate
 
-Combined constituents **5–6 Tamil T3 consolidation/freeze — 16 source pages total**.
+Combined constituents **5–6 English E1 first-pass translation — 16 verified Tamil pages total**. Translate only from the frozen Tamil layer and stop before English E2 or constituent 7.
