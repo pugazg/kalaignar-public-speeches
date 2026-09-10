@@ -1,0 +1,66 @@
+{
+  "id": "veeran-sundaralingam-ninaivu-grama-thirappuvizha",
+  "title": {
+    "ta": "வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா",
+    "contents_title_ta": "வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா",
+    "closing_note_event_ta": "வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து",
+    "en_transliteration": "Veeran Sundaralingam Ninaivu Grama Thirappuvizha"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 11,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": "1998-04-18",
+    "date_source_text": "18-4-98",
+    "venue_ta": null,
+    "venue_note": "No separate geographic venue is stated in the inspected opening/closing evidence; do not infer one from the memorial-village event wording.",
+    "event_ta": "வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 112 / printed p.111 states: 18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 103,
+    "pdf_page_end": 112,
+    "printed_page_start": 102,
+    "printed_page_end": 111,
+    "speech_pages_total": 10,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 103 / printed p.102; numbered constituent 11 with titled opening வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா",
+    "ending": "Speech body ends on PDF 112 / printed p.111 before the separate printed source closing note; PDF 113 begins constituent 12"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 10,
+    "speech_pages_drafted": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total"
+  }
+}

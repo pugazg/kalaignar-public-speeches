@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection:
 
@@ -30,42 +30,30 @@ Read completely before source-dependent work:
 6. `collections/muthukkuliyal-part-2/metadata.json`
 7. `collections/muthukkuliyal-part-2/audit.md`
 8. `collections/muthukkuliyal-part-2/page-map.md`
+9. constituent 10 README/metadata/audit/HANDOVER/transcription
+10. constituent 11 README/metadata/audit/HANDOVER/transcription
 
 ## Durable state
 
 - mapped: **36 / 36**
-- started / source-gated: **9 / 36**
+- started / source-gated: **11 / 36**
 - Tamil T1/T2/T3 complete / Tamil verified: **9 / 36**
 - English E1/E2/E3 complete: **9 / 36**
 - fully archived: **9 / 36**
+- combined constituents 10–11 source gate: **PASS / COMPLETE — 19/19 pages; duplicate unresolved 0; boundary unresolved 0**
 
-Constituents **7–9** were closed in the preceding batch after Tamil and English both reached `verified-complete`. Their combined English E2 result was **10 corrections / 0 unresolved** and E3 was **24/24 PASS with 0 additional corrections / 0 unresolved**.
+### Constituent 10
 
-## Next same-gate batch
+`மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா` — `speeches/madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha/` — PDF **94–102** / printed **93–101** — **9 pages**. Separate closing note establishes **18-04-1998**, city-level venue **மதுரை**, and role `ஆற்றிய உரை`. Preserve title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction.
 
-Under the 25-page batching policy, process constituents **10–11** together:
+### Constituent 11
 
-- **10 — `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா`**: PDF **94–102** / printed **93–101** — **9 pages**;
-- **11 — `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா`**: PDF **103–112** / printed **102–111** — **10 pages**.
-
-Combined source pages: **19**. Constituent 12 has 15 pages and is excluded because 9 + 10 + 15 = **34**, above the 25-page maximum.
+`வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா` — `speeches/veeran-sundaralingam-ninaivu-grama-thirappuvizha/` — PDF **103–112** / printed **102–111** — **10 pages**. Separate closing note establishes **18-04-1998** and role `ஆற்றிய உரை`; no separate geographic venue is stated. PDF113 begins constituent 12.
 
 ## Exact activity
 
-Run the combined **source / duplicate / boundary gate for constituents 10–11 — all 19 source pages**.
-
-For each constituent independently:
-
-- visually inspect its opening and ending source pages;
-- confirm exact title, date/event/venue/role evidence without inference;
-- confirm PDF/printed-page boundaries and page count;
-- verify the final speech-body boundary and any separate printed closing note;
-- run the duplicate check against existing dedicated archives;
-- create/synchronize the separate constituent archive controls required by the processing guide;
-- record unresolved source/provenance/boundary issues explicitly rather than guessing.
+Perform combined **Tamil T1 first-pass transcription for constituents 10–11 — all 19 source pages**. Transcribe visually from the controlling scans, preserve PDF/printed page boundaries, source-supported wording, punctuation, repetitions and unusual forms, keep source closing notes separate, and record genuinely unreadable text explicitly rather than guessing. Synchronize both constituent controls and collection controls after all 19 pages are drafted.
 
 ## STOP RULE
 
-Stop after the combined source/duplicate/boundary gate. **Do not start Tamil T1 for constituents 10–11, constituent 12, English work, or repository closure in the same activity.**
-
-If both source gates pass, the exact next gate becomes **combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**.
+Stop after Tamil T1 for constituents 10–11. **Do not start T2, constituent 12, English work, or repository closure in the same activity.**

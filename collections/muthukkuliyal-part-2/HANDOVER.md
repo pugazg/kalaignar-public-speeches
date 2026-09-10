@@ -16,33 +16,22 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**;
-- started / source-gated: **9 / 36**;
+- mapped: **36 / 36**; started / source-gated: **11 / 36**;
 - Tamil T1/T2/T3 complete / Tamil verified: **9 / 36**;
 - English E1/E2/E3 complete: **9 / 36**;
 - fully archived: **9 / 36**.
 
 Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
 
-## Constituents 7–9 — durable closure result
+## Constituents 10–11 — durable source-gate result
 
-Combined repository-level archival closure: **PASS / COMPLETE — 3 constituents / 24 source pages**.
+Combined source / duplicate / boundary gate: **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
-- **7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`** — PDF **70–79** / printed **69–78** — Tamil + English `verified-complete`; closure complete. PDF72 `தமிழ்நாட்டை என்` remains source-confirmed; date and venue remain unstated.
-- **8 `முத்தமிழ்ப் பேரவை விழா`** — PDF **80–88** / printed **79–87** — Tamil + English `verified-complete`; closure complete. `எண்ணியெண்ணி` is consolidated and PDF88 `அமைகிறேன்` remains source-confirmed.
-- **9 `புத்தாண்டு இசைவிழா`** — PDF **89–93** / printed **88–92** — Tamil + English `verified-complete`; closure complete. All three Tamil T2 corrections and the contents/heading title-spacing distinction remain preserved.
+- 10 `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா`: PDF **94–102** / printed **93–101** — 9 pages; closing note establishes **18-04-1998**, city-level **மதுரை**, and role `ஆற்றிய உரை`; no more specific venue inferred. Archive: `speeches/madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha/`.
+- 11 `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா`: PDF **103–112** / printed **102–111** — 10 pages; closing note establishes **18-04-1998** and role `ஆற்றிய உரை`; no separate geographic venue inferred. PDF113 begins constituent 12. Archive: `speeches/veeran-sundaralingam-ninaivu-grama-thirappuvizha/`.
 
-English E2 across the batch produced **10 confirmed corrections / 0 unresolved**; E3 rechecked all **24/24** corrected English pages and required **0 additional corrections / 0 unresolved**. All constituent metadata, READMEs, audits, translation-review records and handovers are synchronized with the parent collection and root catalogue. No transcription or translation work remains pending for constituents 7–9.
-
-## Next same-gate batch
-
-Under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`, constituents **10–11** are the next eligible consecutive batch, totaling **19 source pages**:
-
-- 10 `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா` — PDF **94–102** / printed **93–101** — 9 pages;
-- 11 `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா` — PDF **103–112** / printed **102–111** — 10 pages.
-
-Constituent 12 is excluded because adding its 15 pages would take the iteration to 34 pages, above the 25-page maximum. Constituents 10–11 are not yet source-gated or started.
+Both dedicated archive directories and standard control placeholders are created. Tamil T1 is **NOT STARTED**. Constituent 12 remains outside the batch.
 
 ## Exact next incomplete gate
 
-Combined **source / duplicate / boundary gate for constituents 10–11 — 19 source pages total**. Keep both as separate archives and stop before Tamil T1.
+Combined **Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**. Stop before T2.

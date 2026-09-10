@@ -8,47 +8,54 @@ Collection-level source/mapping/progress audit.
 - SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
 - **425 scans**
 - **36 / 36** constituent ranges mapped
-- source PDF binary committed: **No**
 
 ## Closed constituents
 
 Constituents **1–9** are Tamil + English `verified-complete` with repository closure complete.
 
-## Constituents 7–9 — final gate record
+## Constituents 7–9 — durable completion summary
 
-Tamil T1/T2/T3: **PASS / COMPLETE — 24/24 source pages**. Tamil T2 produced **4 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. All expected Tamil page records occur exactly once and in order, all confirmed source readings remain consolidated, and separate source closing notes remain outside the speech bodies.
+Tamil T1/T2/T3: **24/24 COMPLETE / VERIFIED**. Tamil T2 made **4 corrections / 0 unresolved**; T3 made **0 additional corrections**. English E1: **24/24 COMPLETE**. English E2: **24/24 PASS; 10 corrections / 0 unresolved**. English E3: **24/24 PASS; 0 additional corrections / 0 unresolved**. Repository closure is complete for all three.
 
-English E1: **COMPLETE — 24/24 pages**. English E2: **PASS / COMPLETE — 24/24; 10 corrections; 0 unresolved**. English E3: **PASS / COMPLETE — 24/24; 0 additional corrections; 0 unresolved**. The final corrected English was re-read against frozen Tamil from beginning to end.
+## Constituents 10–11 — source / duplicate / boundary gate
 
-- **7 / 36:** PDF70–79 / pp.69–78 — Tamil + English `verified-complete`; E2 **4 corrections**; E3 **0 additional corrections**; closure **PASS / COMPLETE**.
-- **8 / 36:** PDF80–88 / pp.79–87 — Tamil + English `verified-complete`; E2 **3 corrections**; E3 **0 additional corrections**; closure **PASS / COMPLETE**.
-- **9 / 36:** PDF89–93 / pp.88–92 — Tamil + English `verified-complete`; E2 **3 corrections**; E3 **0 additional corrections**; closure **PASS / COMPLETE**.
+Combined result: **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
-## Repository closure — constituents 7–9
+### 10 / 36 — மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா
 
-**PASS / COMPLETE — 3 constituents / 24 source pages.**
+- exact range: PDF **94–102** / printed **93–101** — **9 pages**;
+- opening: PDF94, constituent number `10`, title `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா`;
+- ending: PDF102 completes the body before separate source note;
+- source note: `18-4-98 அன்று மதுரையில் வழக்கறிஞர் சங்க 125-ஆவது ஆண்டு விழாவில் ஆற்றிய உரை`;
+- date: **18-04-1998**;
+- venue: **மதுரை** at city level only; no more specific venue inferred;
+- source-form distinction: title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` preserved;
+- duplicate search: **PASS — no dedicated archive found**;
+- unresolved source/provenance/boundary issues: **0**.
 
-- constituent metadata: **synchronized**;
-- READMEs: **synchronized**;
-- Tamil/English verification state: **synchronized**;
-- translation review records: **synchronized**;
-- handovers: **synchronized**;
-- parent collection controls: **synchronized**;
-- root catalogue: **synchronized**;
-- pending transcription/translation work for constituents 7–9: **none**.
+### 11 / 36 — வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா
 
-## Collection totals after closure
+- exact range: PDF **103–112** / printed **102–111** — **10 pages**;
+- opening: PDF103, constituent number `11`, title `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா`;
+- ending: PDF112 completes the body before separate source note;
+- source note: `18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை`;
+- date: **18-04-1998**;
+- venue: no separate geographic venue stated in inspected opening/closing evidence;
+- PDF113 begins constituent `12`, independently confirming the end boundary;
+- duplicate search: **PASS — no dedicated archive found**;
+- unresolved source/provenance/boundary issues: **0**.
 
-- mapped: **36/36**;
-- started / source-gated: **9/36 / 9/36**;
-- Tamil T1/T2/T3 complete / Tamil verified: **9/36**;
+The complete PDF94–112 range was visually checked for sequential source continuity. Tamil speech-body transcription has **not** begun. The source PDF remains uncommitted.
+
+## Collection totals
+
+- mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
+- Tamil T1 complete: **9/36**;
+- Tamil T2 complete: **9/36**;
+- Tamil T3 complete / Tamil verified: **9/36**;
 - English E1/E2/E3 complete: **9/36**;
 - fully archived: **9/36**.
 
-## Next eligible batch
-
-Constituents **10–11** total **19 source pages**: constituent 10 PDF **94–102** / printed **93–101** (**9 pages**) and constituent 11 PDF **103–112** / printed **102–111** (**10 pages**). Adding constituent 12 would raise the iteration to 34 pages, so constituent 12 is excluded under the 25-page batching ceiling.
-
 ## Exact next gate
 
-Combined **source / duplicate / boundary gate for constituents 10–11 — 19 source pages total**. Stop before Tamil T1.
+Combined **Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**. Stop before T2.

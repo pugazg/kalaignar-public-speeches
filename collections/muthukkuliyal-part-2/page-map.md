@@ -56,16 +56,14 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 7 | `purusai-gopalarathinam-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 8 | `muthamizh-peravai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 10–36 | — | not started |
+| 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 9/9; Tamil T1 next** |
+| 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 10/10; Tamil T1 next** |
+| 12–36 | — | not started |
 
-## Newly closed batch
+## Active same-gate batch
 
-Constituents **7–9** are **CLOSED / FULLY ARCHIVED**. Tamil T1/T2/T3 and English E1/E2/E3 are complete across **24/24 pages**. English E2 consolidated **10 corrections / 0 unresolved** and E3 found **0 additional corrections / 0 unresolved**. Their final Tamil and English layers are `verified-complete`, all constituent controls are synchronized, and each source closing note remains separate from its speech body.
+Constituents **10–11** have completed the combined source / duplicate / boundary gate across **19/19 source pages** with **0 duplicate unresolved / 0 boundary unresolved**. Their dedicated archive controls are created; Tamil T1 has not started.
 
-Source-specific identity notes remain unchanged: constituent 7 has no date in the contents or inspected opening/closing note; constituent 8 closing note establishes `3-2-98`; constituent 9 contents uses `புத்தாண்டு இசை விழா` while its page heading and closing note use `புத்தாண்டு இசைவிழா`.
+Source-specific identity notes: constituent 10 PDF102 separately establishes `18-4-98`, city-level `மதுரையில்`, and `ஆற்றிய உரை`, while preserving the page-title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction. Constituent 11 PDF112 separately establishes `18-4-98` and `ஆற்றிய உரை`; no geographic venue is inferred, and PDF113 visibly starts constituent 12.
 
-## Next same-gate batch
-
-Constituents **10–11** are the next eligible batch under the 25-page policy: PDF **94–112** / printed **93–111**, totaling **19 pages**. Constituent 12 is excluded because adding its 15 pages would raise the iteration to 34 pages. Constituents 10–11 are not yet source-gated or started.
-
-Exact next gate: **combined source / duplicate / boundary gate for constituents 10–11 — 19 source pages total**. Stop before Tamil T1.
+Exact next gate: **combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**. Stop before T2.
