@@ -16,10 +16,17 @@
 
 ## Durable state
 
-Tamil T1/T2/T3: **COMPLETE — 10/10; `verified-complete` / FROZEN**. English E1: **10/10 COMPLETE**. English E2: **PASS — 10/10; 4 corrections; 0 unresolved**. English E3: **PASS — 10/10; 0 additional corrections; 0 unresolved**; final English is **`verified-complete`**.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1/T2/T3: **COMPLETE — 10/10**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **10/10 COMPLETE**;
+- English E2: **PASS — 10/10; 4 corrections; 0 unresolved**;
+- English E3: **PASS — 10/10; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**.
 
-E2 corrections remain consolidated: PDF70 bride descriptor, PDF71 conservative `மிகவும் பின்தங்கிய மக்களுக்கு`, PDF76 `close friend`, and PDF78 village saying. Source-sensitive notes for PDF72 `தமிழ்நாட்டை என்` and PDF76 `சில மாதம் மந்திரிகள்` remain explicit. No Tamil text was changed during E3.
+PDF72 `தமிழ்நாட்டை என்` remains preserved as source-confirmed. All four E2 corrections remain consolidated and E3 found no further issue. The combined constituents 7–9 closure synchronized this speech with the parent collection and root catalogue.
 
-## Exact next gate
-
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.
