@@ -10,22 +10,22 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **9 / 36**
 - Tamil T1 complete: **9 / 36**
 - Tamil T2 complete: **9 / 36**
-- Tamil T3 complete / Tamil verified: **6 / 36**
+- Tamil T3 complete / Tamil verified: **9 / 36**
 - English E1/E2/E3 complete: **6 / 36**
 - fully archived: **6 / 36**
 
 Constituents **1–6 are CLOSED / FULLY ARCHIVED**.
 
-## Constituents 7–9 — Tamil T2 complete
+## Constituents 7–9 — Tamil T3 complete
 
-Combined T2 result: **PASS / COMPLETE — 24/24 source pages; 4 substantive corrections; 0 unresolved readings**.
+Combined T3 result: **PASS / COMPLETE — 24/24 source pages; 0 additional corrections; 0 unresolved readings**. All four T2 corrections remain consolidated. Page records were confirmed once and in order, page continuations remain intact, no stale superseded reading remains in the speech bodies, and each separate closing note remains outside its speech body.
 
-- **7 — புரசை கோபாலரத்தினம் இல்ல மணவிழா:** 10/10 re-read; **0 corrections**; `தமிழ்நாட்டை என்` on PDF72 confirmed as printed.
-- **8 — முத்தமிழ்ப் பேரவை விழா:** 9/9 re-read; **1 correction** — PDF84 `எண்ணி எண்ணி` → `எண்ணியெண்ணி`; PDF88 `அமைகிறேன்` confirmed as printed.
-- **9 — புத்தாண்டு இசைவிழா:** 5/5 re-read; **3 corrections** — PDF90 `குறிப்பிடிருக்கிறார்` → `குறிப்பிட்டிருக்கின்றார்`; PDF90 `தேர்வு தந்து` → `தேர்வுத் தந்து`; PDF93 `பண்பான்மை விஸ்விற்கும்` → `மனப்பான்மை விசுவிற்கும்`. Title-spacing distinction remains preserved.
+- **7 — புரசை கோபாலரத்தினம் இல்ல மணவிழா:** Tamil **`verified-complete` / FROZEN — 10/10**; T3 additional corrections **0**; PDF72 `தமிழ்நாட்டை என்` preserved.
+- **8 — முத்தமிழ்ப் பேரவை விழா:** Tamil **`verified-complete` / FROZEN — 9/9**; T3 additional corrections **0**; T2 `எண்ணியெண்ணி` consolidated; PDF88 `அமைகிறேன்` preserved.
+- **9 — புத்தாண்டு இசைவிழா:** Tamil **`verified-complete` / FROZEN — 5/5**; T3 additional corrections **0**; all three T2 corrections consolidated; title-spacing distinction preserved.
 
 Constituent 10 remains outside this batch.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 7–9 — 24 source pages total**. Stop before English, repository closure, or constituent 10.
+Combined **English E1 first-pass translation for constituents 7–9 — 24 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 10.
