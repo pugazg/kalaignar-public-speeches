@@ -2,40 +2,46 @@
   "id": "purusai-gopalarathinam-illa-manavizha",
   "title": {
     "ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
-    "en": "Purusai Gopalarathinam House Wedding"
+    "contents_title_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "closing_note_event_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "en_transliteration": "Purusai Gopalarathinam Illa Manavizha"
   },
   "creator": {
     "name_ta": "கலைஞர் மு. கருணாநிதி",
-    "role": "speaker"
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "ஆற்றிய உரை"
   },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
   "parent_collection": {
     "id": "muthukkuliyal-part-2",
-    "title_ta": "முத்துக் குளியல்",
-    "part_text": "பாகம் - II",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
     "constituent_number": 7,
     "constituent_total": 36
   },
-  "language": "ta",
-  "document_type": "public-speech",
+  "speech": {
+    "date": null,
+    "venue_ta": null,
+    "venue_note": "No venue is stated in the inspected constituent opening or closing note; do not infer one from body context.",
+    "event_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 79 / printed p.78 states: புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை",
+    "date_note": "No date is stated in the contents or in the inspected constituent opening/closing note; do not infer one from internal political references."
+  },
   "source": {
     "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
     "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
-    "binary_committed": false,
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
     "pdf_page_start": 70,
     "pdf_page_end": 79,
     "printed_page_start": 69,
     "printed_page_end": 78,
-    "speech_pages": 10,
-    "printed_to_pdf_offset": 1,
-    "heading_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழா",
-    "closing_note_ta": "புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை"
-  },
-  "event": {
-    "date": null,
-    "date_source": "not stated in contents or inspected opening/closing evidence",
-    "venue": null,
-    "venue_source": "not stated in inspected opening/closing evidence",
-    "role_ta": "ஆற்றிய உரை"
+    "speech_pages_total": 10,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 70 / printed p.69; numbered constituent 7 with titled opening புரசை கோபாலரத்தினம் இல்ல மணவிழா",
+    "ending": "Speech body ends on PDF 79 / printed p.78 before the separate printed source closing note"
   },
   "workflow": {
     "duplicate_check": "pass-no-existing-dedicated-archive",
@@ -46,13 +52,13 @@
     "speech_pages_drafted": 10,
     "tamil_visual_audit": "complete",
     "tamil_consolidation": "complete",
-    "english_translation": "fidelity-corrections-consolidated",
-    "english_translation_review": "complete",
-    "english_translation_final_verification": "not-started",
+    "english_translation": "verified-complete",
+    "english_translation_review": "review-complete",
+    "english_translation_final_verification": "verified-complete",
     "repository_closure": "not-started",
     "archive_status": "in-progress",
-    "pending_transcription_or_translation_work": true,
-    "next_gate": "Combined English E3 final end-to-end verification for constituents 7–9 — 24 pages total",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": "Combined repository-level archival closure for constituents 7–9 — 24 pages total",
     "tamil_transcription_through_pdf_page": 79,
     "tamil_transcription_through_printed_page": 78,
     "strict_reaudit_pages_checked": 10,
@@ -66,8 +72,17 @@
     "t3_additional_corrections": 0,
     "english_translation_source": "frozen transcription-ta.md only",
     "english_translation_pages_completed": 10,
+    "english_translation_through_pdf_page": 79,
+    "english_translation_through_printed_page": 78,
     "english_translation_review_pages_checked": 10,
+    "english_translation_review_through_pdf_page": 79,
+    "english_translation_review_through_printed_page": 78,
     "english_translation_review_corrections": 4,
-    "english_translation_review_unresolved": 0
+    "english_translation_review_unresolved": 0,
+    "english_translation_final_verification_pages_checked": 10,
+    "english_translation_final_verification_through_pdf_page": 79,
+    "english_translation_final_verification_through_printed_page": 78,
+    "english_translation_final_verification_corrections": 0,
+    "english_translation_final_verification_unresolved": 0
   }
 }
