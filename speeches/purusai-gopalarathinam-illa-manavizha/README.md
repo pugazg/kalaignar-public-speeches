@@ -16,7 +16,7 @@
 
 The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source closing note is `புரசை கோபாலரத்தினம் இல்ல மணவிழாவில் ஆற்றிய உரை`. Do not infer a date or venue from body context. The source closing note remains separate from the speech body.
 
-## Tamil workflow
+## Workflow
 
 | Gate | State |
 |---|---|
@@ -27,29 +27,15 @@ The source/duplicate/boundary gate is **PASS / COMPLETE**. The separate source c
 | English E1 first-pass translation | **COMPLETE — 10/10** |
 | English E2 independent fidelity review | **PASS / COMPLETE — 10/10; 4 corrections; 0 unresolved** |
 | English E3 final verification | **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved** |
-| Repository closure | **NOT STARTED** |
+| English state | **`verified-complete`** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
-No T2 transcription correction was required. PDF72 / printed p.71 `தமிழ்நாட்டை என்` was re-read and confirmed as printed.
+Tamil T2 required no correction. PDF72 / printed p.71 `தமிழ்நாட்டை என்` was re-read and confirmed as printed. T3 confirmed PDF **70–79** appears exactly once and in order, all continuations remain intact, and the separate PDF79 closing note remains outside the speech body.
 
-T3 confirmed PDF **70–79** appears exactly once and in order, the source-confirmed `தமிழ்நாட்டை என்` form remains preserved, all page continuations remain intact, and the separate PDF79 closing note remains outside the speech body. No additional T3 correction was required.
+English E2 consolidated four corrections: the omitted bride descriptor on PDF70, the conservative rendering of `மிகவும் பின்தங்கிய மக்களுக்கு` on PDF71, `close friend` on PDF76, and the PDF78 village saying. E3 then re-read all ten corrected English pages against frozen Tamil and found **0 additional corrections / 0 unresolved**.
 
-## English E2 result
+## Repository closure
 
-**PASS / COMPLETE — 10/10 pages; 4 corrections; 0 unresolved.**
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; source identity, page boundaries, closing-note separation, transcription/translation controls, audit and metadata agree. The parent collection and root catalogue are synchronized in the combined constituents 7–9 closure. No transcription or translation work remains pending for this constituent.
 
-1. PDF 70 / printed p.69: restored the omitted bride descriptor as **“the Tamil maiden Malarvizhi”**.
-2. PDF 71 / printed p.70: removed an unsupported institutional normalization and rendered it conservatively as **“the most backward people”**.
-3. PDF 76 / printed p.75: restored the stronger relationship term as **“a close friend”** rather than the weaker “a dear friend”.
-4. PDF 78 / printed p.77: corrected the village saying to **“The little girl who knew nothing, they say, latched the door.”** rather than saying she put the bolt “on herself”.
-
-Source-sensitive clarifications:
-- PDF 72 / printed p.71: the irregular frozen-Tamil phrase `தமிழ்நாட்டை என்` is retained; the Tamil layer is not altered.
-- PDF 76 / printed p.75: the irregular frozen-Tamil phrase `சில மாதம் மந்திரிகள்` is retained and translated conservatively as “some ministers”.
-
-## English E3 result
-
-**PASS / COMPLETE — 10/10 pages; 0 additional corrections; 0 unresolved.** The complete corrected English was re-read against the frozen Tamil layer from beginning to end. All E2 corrections, page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source notes, and the separate closing note were verified. Final English state: **`verified-complete`**.
-
-## Exact next gate
-
-Combined **repository-level archival closure for constituents 7–9 — 24 pages total**. Verify final repository consistency and close/archive the batch; do not start constituent 10.
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.
