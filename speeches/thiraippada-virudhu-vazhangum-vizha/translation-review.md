@@ -2,17 +2,23 @@
 
 **English E1:** **COMPLETE — 7 / 7 pages**  
 **English E2:** **PASS / COMPLETE — 7 / 7; 2 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 7 / 7; 2 final corrections; 0 unresolved**  
+**English state:** **`verified-complete`**
 
-Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against `transcription-ta.md` and consolidated two fidelity corrections.
+Tamil remains **`verified-complete` / FROZEN** after two late direct-scan source corrections discovered during E3: PDF64 `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட`, and PDF65 `வியாகத் அலிகானுக்குக்` → `லியாகத் அலிகானுக்குக்`.
 
 ## E2 corrections
 
-1. PDF 63 / printed p.62: clarified `இந்தத் தேர்தலை முன்னிட்டு ... நடைபெறவில்லை` from the potentially contradictory **“is not being held because of the election”** to **“is not being held with the election in view”**.
-2. PDF 67 / printed p.66: corrected `ஒரு சிலையை ஒரு சிற்பி வடிப்பதற்கு ஒருவரே போதும்` to **“a single sculptor is enough to shape a statue”**, removing an unintended extra-person relationship.
+1. PDF63: clarified `இந்தத் தேர்தலை முன்னிட்டு ... நடைபெறவில்லை` as **“is not being held with the election in view”**.
+2. PDF67: corrected the sculptor analogy to **“a single sculptor is enough to shape a statue.”**
 
-Election-law wording, film and award titles, names, censorship wording, the *Iruvar* joke, collaborative-filmmaking analogy, political/art-world rhetoric, all page joins, final body and separate source closing note passed E2. Unresolved English fidelity issues: **0**.
+## E3 corrections
+
+1. PDF65: `Viyath Ali Khan` → **`Liaqat Ali Khan`**, following corrected Tamil `லியாகத் அலிகான்`.
+2. PDF65: removed unsupported **`pioneer`** from the Raja Sandow description; English now renders only the source relationship, **“the late Raja Sandow, who served as a guide to film directors.”**
+
+The PDF64 late Tamil correction directly confirms the existing English sense “even mentioning the name,” so no English change was needed there. After consolidation, E3 repeated the complete PDF63–69 Tamil→English comparison. Election-law wording, film and award titles, names, censorship wording, the *Iruvar* joke, collaborative-filmmaking analogy, political/art-world rhetoric, every page join, final body and the separate source closing note all passed with **0 further corrections / 0 unresolved issues**.
 
 ## Exact next gate
 
-Combined constituents **5–6 English E3 final end-to-end verification — 16 pages total**. Recheck the complete corrected English against frozen Tamil from beginning to end and stop before repository closure or constituent 7.
+Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
