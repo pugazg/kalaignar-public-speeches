@@ -43,6 +43,9 @@ For audio or video sources, also read:
 | `indiya-suvishesha-thiruchabai-vizha` | இந்திய சுவிசேஷத் திருச்சபை விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.49–52 | 16.01.1998 | **Verified complete - 4/4 speech pages** | **Verified complete - 4/4 speech pages** |
 | `chennai-chennai-puranagar-vanigargal-sanga-maanadu` | சென்னை - சென்னைப் புறநகர் வணிகர்கள் சங்க மாநாடு | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.53–61 | 25.01.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
 | `thiraippada-virudhu-vazhangum-vizha` | திரைப்பட விருது வழங்கும் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.62–68 | 30.01.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
+| `purusai-gopalarathinam-illa-manavizha` | புரசை கோபாலரத்தினம் இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.69–78 | Not stated in source | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
+| `muthamizh-peravai-vizha` | முத்தமிழ்ப் பேரவை விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.79–87 | 03.02.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
+| `puthandu-isaivizha` | புத்தாண்டு இசைவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.88–92 | 14.04.1998 | **Verified complete - 5/5 speech pages** | **Verified complete - 5/5 speech pages** |
 
 ## Repository layout
 
@@ -183,5 +186,29 @@ Repository-level closure is complete and no transcription or translation work is
 The archival workflow is complete for constituent **6 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **63–69** / printed pages **62–68**. The separate closing note establishes the speech date as **30.01.1998** and role `ஆற்றிய உரை`; the inspected opening/closing evidence does not state a venue, so no venue is inferred.
 
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both Tamil and English are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**. During E3 integrity checking, direct scans established two late Tamil repairs: PDF64 `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட` and PDF65 `வியாகத் அலிகானுக்குக்` → `லியாகத் அலிகானுக்குக்`; Tamil was rechecked and re-frozen. English E2 produced **2 corrections / 0 unresolved** and E3 produced **2 final corrections / 0 unresolved**, including `Liaqat Ali Khan` and removal of unsupported `pioneer` from the Raja Sandow description. A second complete seven-page Tamil→English sweep produced no further issue.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### புரசை கோபாலரத்தினம் இல்ல மணவிழா
+
+The archival workflow is complete for constituent **7 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **70–79** / printed pages **69–78**. The source establishes the event/role wording through its closing note but does **not** establish a date or venue in the contents or inspected opening/closing evidence; those fields therefore remain unset rather than inferred from body context.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 required **0 corrections / 0 unresolved** and directly confirmed the unusual PDF72 form `தமிழ்நாட்டை என்`. English E2 produced **4 corrections / 0 unresolved**; E3 passed all ten pages with **0 additional corrections / 0 unresolved**.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### முத்தமிழ்ப் பேரவை விழா
+
+The archival workflow is complete for constituent **8 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **80–88** / printed pages **79–87**. The separate closing note establishes the date as **03.02.1998** and event/role wording; the inspected source does not state a venue, so no venue is inferred.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **1 correction / 0 unresolved** (`எண்ணி எண்ணி` → `எண்ணியெண்ணி`) and directly reconfirmed PDF88 `அமைகிறேன்`. English E2 produced **3 corrections / 0 unresolved**; E3 passed all nine pages with **0 additional corrections / 0 unresolved**.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### புத்தாண்டு இசைவிழா
+
+The archival workflow is complete for constituent **9 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **89–93** / printed pages **88–92**. The separate closing note establishes the date as **14.04.1998**. The archive preserves the contents form `புத்தாண்டு இசை விழா` separately from the page-heading/closing-note form `புத்தாண்டு இசைவிழா`; the inspected source does not state a venue.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **3 corrections / 0 unresolved**, all consolidated; English E2 produced **3 corrections / 0 unresolved**; E3 passed all five pages with **0 additional corrections / 0 unresolved**.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.
