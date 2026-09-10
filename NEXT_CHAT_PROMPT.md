@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection:
 
@@ -37,10 +37,12 @@ Read completely before source-dependent work:
 
 - mapped: **36 / 36**
 - started / source-gated: **11 / 36**
-- Tamil T1/T2/T3 complete / Tamil verified: **9 / 36**
+- Tamil T1 complete: **11 / 36**
+- Tamil T2/T3 complete / Tamil verified: **9 / 36**
 - English E1/E2/E3 complete: **9 / 36**
 - fully archived: **9 / 36**
-- combined constituents 10–11 source gate: **PASS / COMPLETE — 19/19 pages; duplicate unresolved 0; boundary unresolved 0**
+- constituents 10–11 source gate: **PASS / COMPLETE — 19/19 pages; duplicate unresolved 0; boundary unresolved 0**
+- constituents 10–11 Tamil T1: **COMPLETE — 19/19 pages; missing records 0; explicit unreadable/unknown placeholders 0**
 
 ### Constituent 10
 
@@ -48,12 +50,12 @@ Read completely before source-dependent work:
 
 ### Constituent 11
 
-`வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா` — `speeches/veeran-sundaralingam-ninaivu-grama-thirappuvizha/` — PDF **103–112** / printed **102–111** — **10 pages**. Separate closing note establishes **18-04-1998** and role `ஆற்றிய உரை`; no separate geographic venue is stated. PDF113 begins constituent 12.
+`வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா` — `speeches/veeran-sundaralingam-ninaivu-grama-thirappuvizha/` — PDF **103–112** / printed **102–111** — **10 pages**. Separate closing note establishes **18-04-1998** and role `ஆற்றிய உரை`; no separate geographic venue is stated. PDF113 begins constituent 12. T1 intentionally preserves PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` as visibly printed.
 
 ## Exact activity
 
-Perform combined **Tamil T1 first-pass transcription for constituents 10–11 — all 19 source pages**. Transcribe visually from the controlling scans, preserve PDF/printed page boundaries, source-supported wording, punctuation, repetitions and unusual forms, keep source closing notes separate, and record genuinely unreadable text explicitly rather than guessing. Synchronize both constituent controls and collection controls after all 19 pages are drafted.
+Perform combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — all 19 source pages**. Visually re-read every included page in full against the controlling scans; verify every line, names, punctuation, numerals, quotations, repetitions and page-boundary continuations. Create crops/enhancements only where an actual reading remains uncertain. Apply only scan-confirmed corrections to `transcription-ta.md`, log constituent-specific corrections in `audit.md`, and leave unresolved readings explicit rather than guessing.
 
 ## STOP RULE
 
-Stop after Tamil T1 for constituents 10–11. **Do not start T2, constituent 12, English work, or repository closure in the same activity.**
+Stop after Tamil T2 for constituents 10–11. **Do not start T3, constituent 12, English work, or repository closure in the same activity.**
