@@ -22,7 +22,7 @@ Original T2 corrections remain consolidated: PDF55 `அமைச்சரவை�
 - E3: **PASS — 9/9; 2 final corrections; 0 unresolved**;
 - English: **`verified-complete`**.
 
-E2 corrections restored PDF55 second-person agency, corrected PDF59 `39 இனங்கள்` scope, kept `கப்பி, திப்பி` conservative, and restored PDF60 `tax loss and revenue loss`.
+E2 restored PDF55 second-person agency, corrected PDF59 `39 இனங்கள்` scope, kept `கப்பி, திப்பி` conservative, and restored PDF60 `tax loss and revenue loss`.
 
 E3 corrections:
 
@@ -31,10 +31,6 @@ E3 corrections:
 
 After consolidation, E3 repeated the full PDF54–62 comparison. All page joins, figures, percentages, rupee amounts, tax-item lists, names, election rhetoric, applause markers, source-sensitive terms, final body and separate closing note passed with **0 further corrections / 0 unresolved fidelity issues**.
 
-## Current state
+## Repository closure
 
-Tamil and English are both **`verified-complete`**. Repository closure: **READY / NOT STARTED**.
-
-## Exact next gate
-
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+**PASS / COMPLETE.** Tamil and English are both `verified-complete`, metadata and control files are synchronized, archive status is **`fully-archived`**, and no transcription or translation work remains pending.
