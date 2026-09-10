@@ -36,8 +36,6 @@
 
 E3 corrected `sales-tax assessment` → `sales-tax levy` on PDF58 and, after the late Tamil source repair, `mineral earth` → `clay` on PDF59. A second complete PDF54–62 Tamil→English sweep produced **0 further corrections / 0 unresolved issues**.
 
-Repository closure has **not** yet been run.
+## Repository closure
 
-## Exact next gate
-
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; all workflow controls agree with the final layers; no transcription or translation work is pending. Reopen only if genuinely new source evidence appears.
