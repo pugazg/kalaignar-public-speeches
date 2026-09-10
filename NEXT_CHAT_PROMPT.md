@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 7–9 repository closure
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 source gate
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection:
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active c
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–6 are CLOSED / FULLY ARCHIVED**. Constituents **7–9 have Tamil T1/T2/T3 COMPLETE and are `verified-complete` / FROZEN — 24/24 pages**. English E1, E2 and E3 are **COMPLETE — 24/24 pages**. Do not alter frozen Tamil unless genuinely new direct-source evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–9 are CLOSED / FULLY ARCHIVED**. Do not reopen them without genuinely new controlling-source or fidelity evidence.
 
 ## Controlling source
 
@@ -16,33 +16,56 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–6 ar
 - size: **232,470,104 bytes**
 - physical scans: **425**
 - source PDF must **not** be committed
+- constituent body relationship: **PDF scan = printed page + 1**
 
-For final repository verification, frozen `transcription-ta.md` is the authoritative Tamil layer and the E3-verified `translation-en.md` is the authoritative English layer. Do not use outside sources to rewrite the speech.
+## Mandatory startup
+
+Read completely before source-dependent work:
+
+1. `SPEECH_PROCESSING_GUIDE.md`
+2. `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`
+3. `collections/muthukkuliyal-part-2/HANDOVER.md`
+4. this `NEXT_CHAT_PROMPT.md`
+5. `collections/muthukkuliyal-part-2/README.md`
+6. `collections/muthukkuliyal-part-2/metadata.json`
+7. `collections/muthukkuliyal-part-2/audit.md`
+8. `collections/muthukkuliyal-part-2/page-map.md`
 
 ## Durable state
 
 - mapped: **36 / 36**
 - started / source-gated: **9 / 36**
 - Tamil T1/T2/T3 complete / Tamil verified: **9 / 36**
-- English E1 complete: **9 / 36**
-- English E2 complete: **9 / 36**
-- English E3 complete: **9 / 36**
-- fully archived: **6 / 36**
+- English E1/E2/E3 complete: **9 / 36**
+- fully archived: **9 / 36**
 
-### E3 result for active batch
+Constituents **7–9** were closed in the preceding batch after Tamil and English both reached `verified-complete`. Their combined English E2 result was **10 corrections / 0 unresolved** and E3 was **24/24 PASS with 0 additional corrections / 0 unresolved**.
 
-Combined English E3: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved**.
+## Next same-gate batch
 
-- 7 `புரசை கோபாலரத்தினம் இல்ல மணவிழா`: **10/10 E3 PASS; 0 additional corrections; 0 unresolved**.
-- 8 `முத்தமிழ்ப் பேரவை விழா`: **9/9 E3 PASS; 0 additional corrections; 0 unresolved**.
-- 9 `புத்தாண்டு இசைவிழா`: **5/5 E3 PASS; 0 additional corrections; 0 unresolved**.
+Under the 25-page batching policy, process constituents **10–11** together:
 
-All E2 corrections are consolidated. Page correspondence, names/titles/numerals, rhetorical force and repetition, performance markers, source-sensitive notes, and separate closing notes were verified. Constituents 7–9 are now English `verified-complete`.
+- **10 — `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா`**: PDF **94–102** / printed **93–101** — **9 pages**;
+- **11 — `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா`**: PDF **103–112** / printed **102–111** — **10 pages**.
+
+Combined source pages: **19**. Constituent 12 has 15 pages and is excluded because 9 + 10 + 15 = **34**, above the 25-page maximum.
 
 ## Exact activity
 
-Perform **combined repository-level archival closure for constituents 7–9 — all 24 pages**. Verify final repository consistency, close/archive constituents 7–9, synchronize collection controls, and update the next gate. Do not alter frozen Tamil or final English unless genuinely new direct-source evidence appears.
+Run the combined **source / duplicate / boundary gate for constituents 10–11 — all 19 source pages**.
+
+For each constituent independently:
+
+- visually inspect its opening and ending source pages;
+- confirm exact title, date/event/venue/role evidence without inference;
+- confirm PDF/printed-page boundaries and page count;
+- verify the final speech-body boundary and any separate printed closing note;
+- run the duplicate check against existing dedicated archives;
+- create/synchronize the separate constituent archive controls required by the processing guide;
+- record unresolved source/provenance/boundary issues explicitly rather than guessing.
 
 ## STOP RULE
 
-Stop after repository closure for constituents 7–9. **Do not start constituent 10 in the same activity.**
+Stop after the combined source/duplicate/boundary gate. **Do not start Tamil T1 for constituents 10–11, constituent 12, English work, or repository closure in the same activity.**
+
+If both source gates pass, the exact next gate becomes **combined Tamil T1 first-pass transcription for constituents 10–11 — 19 source pages total**.
