@@ -26,14 +26,19 @@ PDF 34 / printed p.33 opens under the heading `திருவள்ளுவர
 |---|---|
 | Duplicate/source/boundary gate | **PASS / COMPLETE** |
 | Tamil T1 | **COMPLETE — 16 / 16 pages** |
-| Tamil T2 strict visual audit | **READY / NOT STARTED** |
-| Tamil T3 | **BLOCKED** |
+| Tamil T2 strict visual audit | **PASS / COMPLETE — 16 / 16; 4 corrections; 0 unresolved** |
+| Tamil T3 | **READY / NOT STARTED** |
 | English E1/E2/E3 | **BLOCKED** |
 
-T1 directly transcribed all PDF **34–49** / printed **33–48** page records into `transcription-ta.md`. This is a first pass, not a verified/frozen Tamil layer. The separate source closing note is preserved as evidence but is not included as speech body text.
+T2 directly re-read every page against the controlling scans. Four source-confirmed corrections were consolidated into `transcription-ta.md`:
 
-T2 should re-read every page and specifically recheck source-sensitive or unusual first-pass forms including `உரை வேற்றுமை`, `கலனாகிக்`, `துளைத்தெடுத்து`, the quoted Tirukkural/poetry punctuation, grant amounts and dates, cross-page joins, and the quoted `ராணி` passage on PDF 47–49.
+1. PDF 38 / printed p.37: `நீங்களே கண்டார்கள்` → `நீங்களோ கண்டீர்கள்`.
+2. PDF 40 / printed p.39: `திரைபடம்` → `திரைப்படம்`.
+3. PDF 41 / printed p.40: `துளைத்தெடுத்து` → `துணைத்தெடுத்து`.
+4. PDF 44 / printed p.43: `தருகிற நேரத்தில்` → `கருதுகிற நேரத்தில்`.
+
+All remaining source-sensitive forms, names, figures, quotations and page-boundary continuations were rechecked with **0 unresolved readings**. The separate source closing note remains outside the speech body.
 
 ## Exact next gate
 
-Run combined **Tamil T2 strict visual fidelity audit for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. This speech contributes **16 pages**; constituent 4 contributes **4 pages**. Keep their corrections and audit trails separate and do not start T3 or constituent 5.
+Run combined **Tamil T3 consolidation/freeze for constituents 3–4 — 20 source pages total** under `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`. Confirm all T2 corrections are consolidated once, check every page boundary and page record, freeze each Tamil layer independently if clean, and do not begin English or constituent 5 in the same activity.
