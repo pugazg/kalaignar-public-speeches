@@ -36,8 +36,6 @@
 
 E3 corrected `Viyath Ali Khan` → `Liaqat Ali Khan` after the source-confirmed Tamil name repair, and removed unsupported `pioneer` from the Raja Sandow description. The PDF64 source repair directly confirmed the existing English sense “even mentioning the name.” A second complete PDF63–69 Tamil→English sweep produced **0 further corrections / 0 unresolved issues**.
 
-Repository closure has **not** yet been run.
+## Repository closure
 
-## Exact next gate
-
-Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; all workflow controls agree with the final layers; no transcription or translation work is pending. Reopen only if genuinely new source evidence appears.
