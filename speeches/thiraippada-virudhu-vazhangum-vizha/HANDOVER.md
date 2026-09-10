@@ -19,18 +19,18 @@
 
 - source/duplicate/boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE**;
+- Tamil late source repairs: PDF64 `பெயரைச் சொல்லாது கூட` → `பெயரைச் சொல்லுவது கூட`; PDF65 `வியாகத்` → `லியாகத்`; re-frozen;
 - Tamil: **`verified-complete` / FROZEN**;
-- Tamil T2 corrections: **4**; unresolved: **0**;
-- English E1: **COMPLETE — 7 / 7**;
-- English E2: **PASS / COMPLETE — 7 / 7; 2 corrections; 0 unresolved**;
-- English state: **`fidelity-corrections-consolidated`**;
-- English E3: **READY / NOT STARTED**;
-- repository closure: **NOT STARTED**.
+- English E1: **COMPLETE — 7/7**;
+- English E2: **PASS — 7/7; 2 corrections; 0 unresolved**;
+- English E3: **PASS — 7/7; 2 final corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **READY / NOT STARTED**.
 
-E2 corrections are consolidated in `translation-en.md`: PDF63 now clearly states the function was not being held with the election in view; PDF67 now reads `a single sculptor is enough to shape a statue`. Election-law wording, film/award names, censorship wording, the *Iruvar* joke, page joins and the separate source note otherwise passed. No venue has been inferred beyond what the source states.
+E3 corrected `Viyath Ali Khan` → `Liaqat Ali Khan` and removed unsupported `pioneer` from the Raja Sandow description; the PDF64 Tamil repair directly confirmed the existing English wording. A second complete end-to-end sweep produced 0 further issues.
 
-Do not reopen the frozen Tamil layer without new source evidence.
+Do not alter either verified layer without new source evidence.
 
 ## Exact next incomplete gate
 
-Combined **English E3 final end-to-end verification for constituents 5–6 — 16 pages total**. Stop before repository closure or constituent 7.
+Combined constituents **5–6 repository-level archival closure**. Do not start constituent 7 in the same activity.
