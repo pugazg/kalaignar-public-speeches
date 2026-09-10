@@ -49,18 +49,20 @@ The following previously flagged readings were re-read and retained exactly as p
 
 Status: **PASS / COMPLETE — Tamil `verified-complete`**.
 
-T3 performed a repository-level consolidation check over the complete PDF **19–33** / printed **18–32** transcript. It confirmed:
+T3 confirmed all **15** page headings in sequence, all five T2 corrections, all non-obvious page-boundary continuations, no missing/duplicate paragraph or page, the final body sentence, and the separate source closing note. T3 required **0 additional corrections**. Unresolved Tamil readings: **0**.
 
-- all **15** page headings are present once and in sequence;
-- all five T2 corrections are present in the canonical transcript and no superseded reading remains in the speech text;
-- page-boundary continuations are intact, including 23→24, 25→26, 27→28, 28→29, 29→30, 30→31, 31→32 and 32→33;
-- no speech page or paragraph is duplicated or omitted;
-- the body still ends with `அவர்களை வாழ்க! வாழ்க! என்று வாழ்த்துகின்றேன்.`;
-- the printed note `13-1-98 அன்று முரசொலி அறக்கட்டளை விருது வழங்கும் விழாவில் ஆற்றிய உரை` remains explicitly outside the spoken/body transcription;
-- unresolved Tamil readings: **0**.
+The Tamil layer is frozen. Any later Tamil change requires new source evidence and dependent English re-verification.
 
-T3 required **0 additional text corrections**. The Tamil layer is now frozen. Any later Tamil change requires new source evidence and dependent English re-verification.
+## E1 English first pass
+
+Status: **COMPLETE — 15 / 15 pages**.
+
+The English first pass was produced only from frozen `transcription-ta.md`, retaining PDF/printed-page correspondence. E1 preserved rhetorical repetition, names, numerical details and the opening `தொகுதி` political wordplay. `வேதவித்து` is carried as the transliterated title `Vedaviththu` rather than assigned an outside meaning.
+
+PDF 30 contains a transparency note for the frozen Tamil's mismatched quotation punctuation `“சாவி’ பத்திரிகையில்`; the English regularizes only the quotation punctuation around `Saavi` and does not infer additional wording.
+
+E1 has **not** been fidelity-reviewed. Its wording remains provisional until E2 is complete and any confirmed corrections are consolidated.
 
 ## Exact next gate
 
-English **E1 first-pass translation — all 15 verified Tamil pages**, derived only from frozen `transcription-ta.md`. Do not translate from OCR, the PDF, outside sources, or historical knowledge.
+Run English **E2 independent fidelity review — all 15 pages**, comparing `translation-en.md` directly against frozen `transcription-ta.md`. E3 remains blocked until E2 completes.
