@@ -16,17 +16,18 @@
 
 ## Durable state
 
-- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- source / duplicate / boundary: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 15/15**;
 - Tamil T2: **PASS / COMPLETE — 15/15; 1 correction; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- Tamil is not yet frozen; English remains blocked pending verified Tamil;
-- separate source closing note remains outside the speech body;
+- Tamil T3: **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**; E2/E3 remain blocked;
+- source closing note remains outside the speech body;
 - source PDF binary remains uncommitted;
 - constituent 13 remains outside this activity.
 
-T2 correction is consolidated in `transcription-ta.md`: PDF121 / printed p.120 `“சக்கரவர்த்தி திருமகன்”, என்ற` → `“சக்கரவர்த்தி திருமகன்” என்ற`. The re-read source-odd forms `அஃதன்னியில்`, `சுயமரியாதைக் காரராக`, `அந்தப் பகுத்ததை`, `நிலமை`, and `அடுத்து ஆண்டுத் தொடக்கத்திலே` are retained as printed.
+T3 confirmed the **1/1** T2 correction is consolidated, stale superseded readings **0**, canonical page records **15/15** exactly once and ordered, missing/duplicate page records **0/0**, page-boundary continuations **PASS**, and separate closing-note handling **PASS**. No Tamil change was made during T3.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.
+**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 13, or repository closure.

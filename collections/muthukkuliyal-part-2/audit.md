@@ -215,6 +215,28 @@ T2 attention points are recorded in the constituent audit, including PDF114 `அ
 - English E1 / E2 / E3 complete and English verified: **11/36**;
 - fully archived: **11/36**.
 
+## Constituent 12 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved.**
+
+- T2 correction consolidated: **1/1**;
+- stale superseded readings: **0**;
+- canonical page records: **15/15**, exactly once and in source order;
+- missing / duplicated page records: **0 / 0**;
+- page-boundary continuations: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil state: **`verified-complete`**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 12 T3
+
+- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
+- Tamil T1 complete: **12/36**;
+- Tamil T2 complete: **12/36**;
+- Tamil T3 complete / Tamil verified: **12/36**;
+- English E1 / E2 / E3 complete and English verified: **11/36**;
+- fully archived: **11/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.
+**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Stop before E2, constituent 13, or repository closure.

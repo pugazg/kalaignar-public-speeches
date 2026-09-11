@@ -19,7 +19,7 @@
 - mapped: **36 / 36**; started / source-gated: **12 / 36**;
 - Tamil T1 complete: **12 / 36**;
 - Tamil T2 complete: **12 / 36**;
-- Tamil T3 complete / Tamil verified: **11 / 36**;
+- Tamil T3 complete / Tamil verified: **12 / 36**;
 - English E1 complete: **11 / 36**;
 - English E2 complete: **11 / 36**;
 - English E3 complete: **11 / 36**;
@@ -83,6 +83,12 @@ Tamil T2: **PASS / COMPLETE — 15/15 source pages; 1 correction; 0 unresolved**
 
 Constituent 13 remains outside the batch. The source PDF binary remains uncommitted.
 
+## Constituent 12 — durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`. The **1/1** T2 correction is consolidated; stale superseded readings **0**; canonical page records **15/15** exactly once and ordered; missing/duplicate page records **0/0**; page-boundary continuations and separate closing-note handling **PASS**. Tamil is now **`verified-complete` / FROZEN**.
+
+English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 13 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.
+**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Stop before E2, constituent 13, or repository closure.

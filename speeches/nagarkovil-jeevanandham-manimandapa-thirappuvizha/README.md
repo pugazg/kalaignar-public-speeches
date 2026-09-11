@@ -34,14 +34,21 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 15/15** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 15/15; 1 correction; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending prior English gate |
 | Repository closure | not started |
 
 Tamil T1 contains all **15/15** canonical page records for PDF **113–127** / printed **112–126**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
 
 Tamil T2 re-read all **15/15** source pages directly against the controlling scans and made **1 scan-confirmed correction / 0 unresolved**: on PDF 121 / printed p.120, the unsupported comma in `“சக்கரவர்த்தி திருமகன்”, என்ற` was removed to match the source: `“சக்கரவர்த்தி திருமகன்” என்ற`. The separate source closing note remains outside the speech body. Source-odd forms including `அஃதன்னியில்`, `சுயமரியாதைக் காரராக`, `அந்தப் பகுத்ததை`, `நிலமை`, and `அடுத்து ஆண்டுத் தொடக்கத்திலே` were re-read and retained as printed.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved.**
+
+T3 confirmed the single T2 correction is present, no stale superseded reading remains, all PDF **113–127** page records occur exactly once and in order, page-boundary continuations pass, and the separate source closing note remains outside the speech body. Tamil is now **`verified-complete` / FROZEN**. Any later Tamil change requires documented source evidence and dependent English re-verification.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Confirm the T2 correction is consolidated, check stale readings/page order/boundaries/closing-note separation, and stop before English and constituent 13.
+**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 13, or repository closure.

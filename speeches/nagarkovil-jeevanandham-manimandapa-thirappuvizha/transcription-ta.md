@@ -1,10 +1,10 @@
 # நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 15 / 15 pages; 1 correction; 0 unresolved**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **15 / 15 pages COMPLETE**  
 **Source range:** PDF **113–127** / printed **112–126**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 15 source pages directly against the scans and consolidated 1 source-proven punctuation correction with 0 unresolved readings. Tamil is not yet frozen; T3 has not started.
+> Tamil T1/T2/T3 are complete. T3 confirmed the single T2 correction is consolidated, all PDF 113–127 page records occur exactly once and in order, page-boundary continuations and separate closing-note handling remain intact, and no stale superseded reading remains. T3 additional corrections: **0**; unresolved readings: **0**. This Tamil layer is now **`verified-complete` / FROZEN**.
 
 ## PDF 113 / printed p.112
 
@@ -164,8 +164,22 @@
 - Source-odd forms re-read and retained as printed: PDF114 `அஃதன்னியில்`; PDF122 `சுயமரியாதைக் காரராக` and later `சுயமரியாதைக்காரராக`; PDF125 `அந்தப் பகுத்ததை` and `நிலமை`; PDF127 `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
 - Page-boundary continuations: **PASS**.
 - Names, numerals, quotations, repetitions and separate closing-note handling: **PASS**.
-- Tamil T3 consolidation/freeze: **NOT STARTED**.
+- Tamil T3 consolidation/freeze: **PASS / COMPLETE**.
+
+## T3 consolidation / freeze result
+
+- Tamil T1/T2/T3: **15 / 15 COMPLETE**.
+- T2 corrections consolidated: **1/1**.
+- Stale superseded readings remaining: **0**.
+- Canonical page records: PDF **113–127**, each exactly once and in source order.
+- Missing / duplicated page records: **0 / 0**.
+- Page-boundary continuations: **PASS**.
+- Separate closing note: **PASS — remains outside the speech body**.
+- Source-odd forms confirmed at T2 remain preserved unchanged.
+- T3 additional corrections: **0**.
+- T3 unresolved readings: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
 
 ## Exact next gate
 
-Tamil T3 consolidation/freeze for constituent 12 — **15 source pages total**. Stop before English and do not start constituent 13.
+**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from the frozen Tamil layer and stop before E2, constituent 13, or repository closure.

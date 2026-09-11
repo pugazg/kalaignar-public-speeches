@@ -62,6 +62,19 @@ Source-odd readings explicitly re-read and retained as printed:
 
 Page-boundary continuations checked: PDF113→114, 114→115, 115→116, 117→118, 118→119, 120→121, 122→123, 123→124, 124→125, 125→126 and 126→127 — **PASS**. The source closing note remains separate from the speech body. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved.**
+
+- T2 correction consolidated: **1/1**;
+- stale superseded readings: **0**;
+- canonical page records: **15/15**, exactly once and in source order;
+- missing / duplicated page records: **0 / 0**;
+- page-boundary continuations: **PASS**;
+- separate source closing note: **PASS — remains outside speech body**;
+- T2-confirmed source-odd forms remain preserved unchanged;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.
+**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen Tamil and stop before E2, constituent 13, or repository closure.
