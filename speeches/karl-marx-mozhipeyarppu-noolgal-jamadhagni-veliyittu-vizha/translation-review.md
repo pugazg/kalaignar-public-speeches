@@ -26,8 +26,9 @@ All **7/7** E2 corrections remain consolidated. E3 made one final source-fidelit
 
 Page correspondence, all other joins, names/titles/numerals, quotations, verse, rhetoric/repetition, printed dates/chronology, Jenny letter, Kural wording, source-sensitive notes and the separate source closing note all pass. Frozen Tamil changes during E3: **0**.
 
-**English state:** **`verified-complete`**.
+**English state:** **`verified-complete`**.  
+**Repository closure:** **PASS / COMPLETE**.
 
-## Exact next gate
+## Closure
 
-**Repository-level archival closure for constituent 14 — 17 pages total.**
+English is **`verified-complete`**. All **7/7** E2 corrections and the **1/1** E3 correction remain consolidated. Repository-level archival closure is complete, the speech metadata agrees with the frozen Tamil/final English layers, and no further English gate is pending.

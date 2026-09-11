@@ -50,6 +50,7 @@ For audio or video sources, also read:
 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.102–111 | 18.04.1998 | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.112–126 | 19.04.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
 | `may-thina-vizha` | மே தின விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.127–143 | 01.05.1998 | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
+| `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.144–160 | 02.05.1998 | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
 
 ## Repository layout
 
@@ -248,5 +249,15 @@ The archival workflow is complete for constituent **13 / 36** of `முத்�
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **5 corrections / 0 unresolved**; E3 passed all 17 pages with **0 additional corrections / 0 unresolved**.
 
 The archive deliberately preserves the source's printed **1881 / 1884 chronology**, incomplete `உடன் பிறவா...?` fragment, `ஆலந்தூர் / ஆலந்தார்` variation, `திருவாய் மலர்ந்துளி`, incomplete `“உதிர்ந்த. . .”` / `தெரு. . .` fragments, and other documented source-sensitive forms without silently correcting or reconstructing them.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா
+
+The archival workflow is complete for constituent **14 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **145–161** / printed pages **144–160**. The separate closing note establishes the date as **02.05.1998**, event wording `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`; no geographic venue is stated in the inspected opening/closing evidence, so none is inferred. PDF 162 begins constituent 15 and confirms the ending boundary.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **2 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **7 corrections / 0 unresolved**; E3 produced **1 additional correction / 0 unresolved**, correcting the PDF152→153 clause attachment around `அரசின் கெடுபிடிகளால்` / `பத்திரிகையின் கொள்கைகளைப் பற்றி`.
+
+The archive deliberately preserves the source-sensitive printed **1821** and **1812** dates, the **165 / 180 / 100 years** chronology, `அச்சியற்றப்பட` / `அச்சியற்றப்பட்டாலும்`, `தேவை தின்றச் செய்தது`, `மாதரசு ஜென்னி`, Kural form `ஆகித்தற் கொண்டான்`, `நாலைந்து ஆண்டுகள்`, and the separate closing-note form `மொழி பெயர்த்த` without silently correcting or reconstructing them.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.

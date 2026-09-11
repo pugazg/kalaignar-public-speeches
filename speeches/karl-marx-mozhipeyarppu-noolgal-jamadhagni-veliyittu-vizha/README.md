@@ -40,7 +40,7 @@
 | English E1 | **COMPLETE — 17/17** |
 | English E2 | **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved** |
 | English E3 | **PASS / COMPLETE — 17/17; 1 additional correction; 0 unresolved** |
-| Repository closure | not started |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 Tamil T1 contains all **17/17** canonical page records for PDF **145–161** / printed **144–160**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
 
@@ -72,6 +72,10 @@ E2 independently compared every English page against frozen Tamil and consolidat
 
 E3 re-read the complete E2-corrected English against frozen Tamil. All **7/7** E2 corrections remain present. One final correction was made to the PDF152→153 clause attachment around `அரசின் கெடுபிடிகளால்` / `பத்திரிகையின் கொள்கைகளைப் பற்றி`; all other page correspondence, joins, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. English is now **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; source identity, PDF **145–161** / printed **144–160** range, closing-note separation, Tamil T2 **2 corrections**, Tamil T3 **0 additional corrections**, English E2 **7 corrections**, English E3 **1 additional correction**, canonical page order, translation review, audit and metadata all agree. All **7/7** E2 corrections and the **1/1** E3 correction remain consolidated. The parent collection, page map and root catalogue are synchronized. No transcription or translation work remains pending for this constituent.
+
+The archive preserves the source-sensitive printed **1821** and **1812** dates, the **165 / 180 / 100 years** chronology, `அச்சியற்றப்பட` / `அச்சியற்றப்பட்டாலும்`, `தேவை தின்றச் செய்தது`, `மாதரசு ஜென்னி`, Kural form `ஆகித்தற் கொண்டான்`, `நாலைந்து ஆண்டுகள்`, and closing-note `மொழி பெயர்த்த` wording without silent normalization.
+
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.

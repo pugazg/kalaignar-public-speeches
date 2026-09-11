@@ -60,8 +60,9 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **English E3 PASS / COMPLETE — English verified-complete; repository closure next; Tamil FROZEN** |
-| 15–36 | — | not started |
+| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 15–16 | — | **not started — next same-gate source/duplicate/boundary batch; 22 pages total** |
+| 17–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -75,8 +76,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **PASS / COMPLETE — 17/17 pages.** Constituent 13 is now closed / fully archived with Tamil and English `verified-complete`. Source range, page order, correction counts, final English, frozen Tamil, closing-note separation and repository controls agree. Fully archived total: **13 / 36**.
 
-## Active constituent
+## Constituent 14 — archival closure
 
-Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed English E3: **PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved**. All **7/7** E2 corrections remain consolidated. Tamil is **`verified-complete` / FROZEN** and English is now **`verified-complete`**. Repository closure has **NOT STARTED**.
+**PASS / COMPLETE — 17/17 pages.** Constituent 14 is now closed / fully archived with Tamil and English `verified-complete`. Source range, page order, correction counts, final English, frozen Tamil, quotations / verse / Jenny letter / Kural, closing-note separation and repository controls agree. Fully archived total: **14 / 36**.
 
-Exact next gate: **repository-level archival closure for constituent 14 — 17 pages total**. Constituent 15 remains outside this iteration.
+## Next same-gate batch
+
+Constituents **15–16 together** — **22 source pages total**, within the 25-page same-gate cap:
+
+- **15** `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`: PDF **162–172** / printed **161–171** — **11 pages**.
+- **16** `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`: PDF **173–183** / printed **172–182** — **11 pages**.
+
+Next gate: source / duplicate / boundary. Stop before Tamil T1.

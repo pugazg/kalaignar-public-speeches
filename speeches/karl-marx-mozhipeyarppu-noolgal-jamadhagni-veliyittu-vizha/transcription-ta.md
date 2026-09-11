@@ -283,6 +283,6 @@ Page-boundary continuations checked: **145→146, 146→147, 147→148, 151→15
 - T3 unresolved readings: **0**.
 - Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## Repository closure
 
-**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 15, or repository closure.
+**PASS / COMPLETE — FULLY ARCHIVED.** The frozen Tamil speech body was not changed during repository closure. Source range, **17/17** canonical page records, **2/2** T2 corrections, **0** T3 additional corrections, page ordering / joins, quotations / verse / Jenny letter / Kural, source-sensitive forms and separate closing-note handling agree with the final archive controls.

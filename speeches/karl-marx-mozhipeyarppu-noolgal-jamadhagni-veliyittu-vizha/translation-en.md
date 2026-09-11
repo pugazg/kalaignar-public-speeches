@@ -296,6 +296,6 @@ Speech delivered on 2-5-98 at the release function for Karl Marx's books transla
 - Frozen Tamil changes during E3: **0**.
 - Final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Verify all constituent and collection controls, final Tamil/English states, correction counts, page ordering, source range and closing-note separation. Stop before constituent 15.
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during repository closure. All **7/7** E2 corrections and the **1/1** E3 correction remain consolidated. Page correspondence, page joins, quotations / verse, Jenny letter, Kural wording, source-sensitive notes and separate closing-note handling agree with the final archive controls.

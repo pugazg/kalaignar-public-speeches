@@ -23,9 +23,9 @@
 - English E1 complete: **14 / 36**;
 - English E2 complete: **14 / 36**;
 - English E3 complete: **14 / 36**;
-- fully archived: **13 / 36**.
+- fully archived: **14 / 36**.
 
-Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -217,6 +217,17 @@ English E3: **PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unreso
 
 Repository closure is **READY / NOT STARTED**. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 14 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 17/17 pages** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`. The archive is now **FULLY ARCHIVED**. Metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source range, correction counts, page ordering and separate closing-note handling agree. Parent collection controls, page map and root catalogue are synchronized. No unresolved Tamil or English issue remains. The source PDF binary remains uncommitted.
+
+Tamil: **`verified-complete` / FROZEN** — T2 **2 corrections**, T3 **0 additional corrections**. English: **`verified-complete`** — E2 **7 corrections**, E3 **1 additional correction**.
+
 ## Exact next incomplete gate
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.
+Process constituents **15–16 together** through the source / duplicate / boundary gate — **22 source pages total**:
+
+- **15:** `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, PDF **162–172** / printed **161–171** — **11 pages**;
+- **16:** `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`, PDF **173–183** / printed **172–182** — **11 pages**.
+
+Stop before Tamil T1. The source PDF remains uncommitted.

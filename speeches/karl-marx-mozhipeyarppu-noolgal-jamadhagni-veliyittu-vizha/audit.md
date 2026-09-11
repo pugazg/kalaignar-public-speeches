@@ -143,6 +143,28 @@ Correction details are recorded in `translation-review.md`. Source-sensitive pri
 - frozen Tamil changes: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.
+**PASS / COMPLETE.**
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- repository closure: **complete**;
+- archive status: **fully-archived**;
+- pending transcription/translation work: **none**;
+- source range: PDF **145–161** / printed **144–160** — **17 pages**;
+- Tamil T2 corrections: **2 / 2 consolidated**;
+- Tamil T3 additional corrections: **0**;
+- English E2 corrections: **7 / 7 consolidated**;
+- English E3 additional corrections: **1 / 1 consolidated**;
+- unresolved Tamil / English issues: **0 / 0**;
+- canonical Tamil / English page records: **17/17 / 17/17**, complete and ordered;
+- page-boundary continuations / joins: **PASS**;
+- quotations / verse / Jenny letter / Kural wording: **PASS**;
+- separate source closing note: **PASS**;
+- source-sensitive dates / chronology / unusual forms: **preserved without normalization**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- parent collection / page-map / root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+Reopen only on genuinely new source or fidelity evidence.

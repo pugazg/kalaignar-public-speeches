@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–13** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–14** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -446,6 +446,36 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **14/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — repository closure
+
+**PASS / COMPLETE — 17/17 pages.**
+
+- repository closure: **complete / fully-archived**;
+- Tamil page records: **17/17**, complete and ordered;
+- English page records: **17/17**, complete and ordered;
+- Tamil T2 corrections: **2 / 2 consolidated**;
+- Tamil T3 additional corrections: **0**;
+- English E2 corrections: **7 / 7 consolidated**;
+- English E3 additional corrections: **1 / 1 consolidated**;
+- unresolved Tamil / English issues: **0 / 0**;
+- page joins / quotations / verse / Jenny letter / Kural: **PASS**;
+- separate closing-note handling: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- parent collection / page-map / root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 14 closure
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **14/36**;
+- English E1 / E2 / E3 complete and English verified: **14/36**;
+- fully archived: **14/36**.
+
 ## Exact next gate
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.
+Constituents **15–16 together** — **22 source pages total** — source / duplicate / boundary gate:
+
+- 15: `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, PDF **162–172** / printed **161–171** — **11 pages**;
+- 16: `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`, PDF **173–183** / printed **172–182** — **11 pages**.
+
+The combined batch is **22 pages**, within the 25-page same-gate limit. Stop before Tamil T1.

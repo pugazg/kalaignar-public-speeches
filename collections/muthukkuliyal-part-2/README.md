@@ -14,9 +14,9 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E1 complete: **14 / 36**
 - English E2 complete: **14 / 36**
 - English E3 complete: **13 / 36**
-- fully archived: **13 / 36**
+- fully archived: **14 / 36**
 
-Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -84,12 +84,19 @@ Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 ad
 
 Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 14 — English E3 complete / English verified
+## Constituent 14 — repository closure
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 and E2 remain complete. English E3 is now **PASS / COMPLETE — 17/17; 1 additional correction; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
+**PASS / COMPLETE — FULLY ARCHIVED.** Final consistency checking confirmed that constituent 14 agrees across metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, PDF **145–161** / printed **144–160** source range, canonical page order, closing-note separation and correction counts.
 
-All **7/7** E2 corrections remain consolidated. E3 corrected the PDF152→153 clause attachment around government restrictions / newspaper policy. Page correspondence and joins, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. Final English state: **`verified-complete`**. Repository closure is ready but has not started. Constituent 15 remains outside the active batch.
+Tamil remains **`verified-complete` / FROZEN** with **2 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English remains **`verified-complete`** with **7 E2 corrections / 1 E3 additional correction / 0 unresolved**. All corrections are consolidated. Source PDF remains uncommitted.
+
+Collection state is now **14 / 36 fully archived**. Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.
+Process constituents **15–16 together** through the source / duplicate / boundary gate — **22 source pages total**, within the 25-page same-gate cap:
+
+- **15 — திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171** — **11 pages**.
+- **16 — ஆம்பூர் சம்பங்கி இல்ல மணவிழா:** PDF **173–183** / printed **172–182** — **11 pages**.
+
+Stop after the source gates; do not begin Tamil T1 in the same activity.

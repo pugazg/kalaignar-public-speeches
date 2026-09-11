@@ -19,18 +19,18 @@
 - source / duplicate / boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE — 17/17**;
 - Tamil: **`verified-complete` / FROZEN**;
+- Tamil T2: **2 corrections / 0 unresolved**;
+- Tamil T3: **0 additional corrections / 0 unresolved**;
 - English E1: **COMPLETE — 17/17**;
 - English E2: **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved**;
 - English E3: **PASS / COMPLETE — 17/17; 1 additional correction; 0 unresolved**;
 - English: **`verified-complete`**;
-- all **7/7** E2 corrections remain consolidated;
-- E3 final correction: PDF152→153 clause attachment around government restrictions / newspaper policy;
-- page correspondence / joins, quotations/verse, Jenny letter, Kural and separate closing note: **PASS**;
-- frozen Tamil changes during E3: **0**;
-- repository closure: **READY / NOT STARTED**;
-- source PDF remains uncommitted;
-- constituent 15 remains outside this activity.
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**;
+- page correspondence / joins, quotations / verse / Jenny letter / Kural and separate source closing note: **PASS**;
+- source PDF binary remains uncommitted.
 
-## Exact next gate
+This constituent is closed. Tamil and English are both `verified-complete`; source identity, PDF **145–161** / printed **144–160** range, closing-note separation, correction counts, canonical page order, translation review, audit and metadata agree. All **7/7** E2 corrections and the **1/1** E3 correction remain consolidated. The parent collection, page map and root catalogue are synchronized.
 
-**Repository-level archival closure for constituent 14 — 17 pages total.** Synchronize final archive controls and stop before constituent 15.
+Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.
