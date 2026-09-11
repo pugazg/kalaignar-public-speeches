@@ -2,9 +2,9 @@
 
 **English E1:** **COMPLETE — 15 / 15 pages**  
 **English E2:** **PASS / COMPLETE — 15 / 15; 6 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 15 / 15; 0 additional corrections; 0 unresolved**
 
-Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against the frozen Tamil layer and consolidated only confirmed English-fidelity corrections. Frozen Tamil changes during E2: **0**.
+Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against the frozen Tamil layer and consolidated only confirmed English-fidelity corrections. E3 then re-read the complete E2-corrected English against frozen Tamil from beginning to end. Frozen Tamil changes during E2/E3: **0**.
 
 ## E2 corrections
 
@@ -25,6 +25,12 @@ Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every 
 
 All **15/15** page records, page joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive wording, and the separate source closing note were reviewed. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved.**
+
+All **6/6** E2 corrections remain consolidated. PDF/printed-page correspondence, page joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and the separate source closing note all pass. No new English-fidelity correction was required during E3. Final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 12 — 15 pages total.**
+**Repository-level archival closure for constituent 12 — 15 pages total.**

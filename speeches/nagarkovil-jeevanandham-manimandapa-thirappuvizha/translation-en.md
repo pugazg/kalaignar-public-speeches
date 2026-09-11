@@ -1,10 +1,10 @@
 # Nagarkovil Jeevanandham Memorial Hall Opening — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **15 / 15 COMPLETE**; E2 **15 / 15 PASS; 6 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1/E2/E3 **15 / 15 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **113–127** / printed **112–126**
 
-> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 15 English pages against that frozen Tamil and consolidated **6 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification. Frozen Tamil changes during E2: **0**.
+> E1 was translated only from the frozen Tamil layer. E2 independently checked all 15 pages and consolidated 6 corrections. E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end, found **0 additional fidelity corrections** and **0 unresolved issues**, and confirmed all 6/6 E2 corrections remain present. Final English state: **`verified-complete`**.
 
 ## PDF 113 / printed p.112
 
@@ -180,6 +180,17 @@ Speech delivered on 19-4-98 at Nagarkovil at the opening ceremony of the Jeevana
 5. PDF125 / printed p.124: `சமத்துவம், சமதர்மம்` — changed “equality and social justice” to **“equality and egalitarianism.”**
 6. PDF125 / printed p.124: `கலந்து கொள்ள வேண்டிய நிலமை இருந்தது` — changed the assertive “took part even then” to **“there arose a situation in which ... had to take part, even then,”** preserving the modal/source wording.
 
+## E3 final end-to-end verification
+
+- English E3: **PASS / COMPLETE — 15/15 pages**.
+- E3 additional corrections: **0**.
+- E3 unresolved issues: **0**.
+- Every E2-corrected English page was re-read against frozen Tamil from beginning to end.
+- All **6/6 E2 corrections** remain present.
+- PDF/printed-page correspondence, page joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and the separate closing note: **PASS**.
+- Frozen Tamil changes: **0**.
+- Final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 13 or repository closure.
+**Repository-level archival closure for constituent 12 — 15 pages total.** Verify all constituent and collection controls, final Tamil/English states, correction counts, page ordering, source range, closing-note separation, and root catalogue synchronization. Stop before constituent 13.

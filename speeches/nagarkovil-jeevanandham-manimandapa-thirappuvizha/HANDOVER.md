@@ -21,13 +21,15 @@
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 15/15**;
 - English E2: **PASS / COMPLETE — 15/15; 6 corrections; 0 unresolved**;
-- English E3: **READY / NOT STARTED**;
-- all six E2 corrections are consolidated in `translation-en.md`;
-- page joins and separate source closing note: **PASS**;
-- frozen Tamil changes during E2: **0**;
+- English E3: **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- all **6/6** E2 corrections remain consolidated;
+- page correspondence / joins and separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- repository closure: **READY / NOT STARTED**;
 - source PDF binary remains uncommitted;
 - constituent 13 remains outside this activity.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 13 or repository closure.
+**Repository-level archival closure for constituent 12 — 15 pages total.** Synchronize final archive controls and root catalogue, then stop before constituent 13.

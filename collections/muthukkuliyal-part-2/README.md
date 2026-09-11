@@ -68,12 +68,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; du
 
 Constituent 13 remains outside the active batch.
 
-## Constituent 12 — English E2 complete
+## Constituent 12 — English E3 complete / English verified
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 remains **COMPLETE — 15/15**. English E2 is now **PASS / COMPLETE — 15/15; 6 corrections; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`.
+Tamil remains **`verified-complete` / FROZEN**. English E1 and E2 remain complete. English E3 is now **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`.
 
-All six confirmed E2 corrections are consolidated. Page-boundary continuations and separate closing-note handling pass. Frozen Tamil changes during E2: **0**. English E3 is **READY / NOT STARTED**. Constituent 13 remains outside the active batch.
+All **6/6** E2 corrections remain consolidated. Page correspondence and joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. Final English state: **`verified-complete`**. Repository closure is ready but has not started. Constituent 13 remains outside the active batch.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Stop before constituent 13 or repository closure.
+**Repository-level archival closure for constituent 12 — 15 pages total.** Stop before constituent 13.

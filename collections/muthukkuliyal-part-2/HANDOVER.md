@@ -22,7 +22,7 @@
 - Tamil T3 complete / Tamil verified: **12 / 36**;
 - English E1 complete: **12 / 36**;
 - English E2 complete: **12 / 36**;
-- English E3 complete: **11 / 36**;
+- English E3 complete: **12 / 36**;
 - fully archived: **11 / 36**.
 
 Constituents **1–11 are CLOSED / FULLY ARCHIVED**.
@@ -101,6 +101,12 @@ English E2: **PASS / COMPLETE — 15/15 pages; 6 corrections; 0 unresolved** for
 
 English E3 is **READY / NOT STARTED**. Constituent 13 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 12 — durable English E3 result
+
+English E3: **PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`. All **6/6** E2 corrections remain consolidated; page correspondence / joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes and separate closing-note handling all pass. Frozen Tamil changes during E3 **0**. Final English state is **`verified-complete`**.
+
+Repository closure is **READY / NOT STARTED**. Constituent 13 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Stop before constituent 13 or repository closure.
+**Repository-level archival closure for constituent 12 — 15 pages total.** Stop before constituent 13.
