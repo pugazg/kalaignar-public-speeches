@@ -20,8 +20,29 @@
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
 
-No Tamil speech-body text has been transcribed at this gate. The source PDF remains uncommitted.
+The source PDF remains uncommitted.
+
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 15/15 source pages.**
+
+- PDF/printed page records: **15/15**, PDF **113–127** / printed **112–126**, each present once and in source order;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- opening/title and page boundaries: **preserved**;
+- separate source closing note: **preserved outside the speech body**;
+- T1 source method: **direct visual reading of the controlling scans**;
+- Tamil T2: **NOT STARTED**; no final source-fidelity claim is made at T1.
+
+### T2 attention points carried forward
+
+These are **legible first-pass source readings to re-check**, not T1 corrections or unresolved substitutions:
+
+- PDF114 / printed p.113: `அஃதன்னியில்`;
+- PDF122 / printed p.121: `சுயமரியாதைக் காரராக`, with later `சுயமரியாதைக்காரராக` on the same page;
+- PDF125 / printed p.124: `அந்தப் பகுத்ததை` and `நிலமை`;
+- PDF127 / printed p.126: `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13.
+**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.

@@ -16,8 +16,12 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Duplicate unresolved **0**; boundary unresolved **0**. PDF 113 is the numbered/titled opening. PDF 127 completes the body before the separate note `19-4-98 அன்று நாகர்கோவிலில் ஜீவானந்தம் மணிமண்டபத் திறப்பு விழாவில் ஆற்றிய உரை`, establishing date **19-04-1998**, city-level venue **நாகர்கோவில்**, event wording and role `ஆற்றிய உரை`. The title `திறப்புவிழா` versus closing-note `திறப்பு விழா` distinction is preserved. PDF 128 begins constituent 13 `மே தின விழா`. Tamil T1 has **NOT STARTED**; all later gates are blocked.
+Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1 first-pass transcription is now **COMPLETE — 15/15 source pages**, PDF **113–127** / printed **112–126**. Canonical page records: **15/15**, in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**, so the Tamil layer is not yet verified/frozen.
+
+Carry these legible source forms into T2 for strict re-check rather than normalizing them: PDF114 `அஃதன்னியில்`; PDF122 `சுயமரியாதைக் காரராக` versus later `சுயமரியாதைக்காரராக`; PDF125 `அந்தப் பகுத்ததை` and `நிலமை`; PDF127 `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
+
+The source PDF binary remains uncommitted. Constituent 13 remains outside this activity.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13.
+**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.

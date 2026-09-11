@@ -169,13 +169,31 @@ The constituent 11 PDF103→104 causative correction remains present, and PDF110
 - Tamil speech-body transcription: **NOT STARTED**;
 - source PDF: **uncommitted**.
 
-## Collection totals after constituent 12 source gate
+## Constituent 12 — Tamil T1 first-pass transcription
+
+**COMPLETE — 15/15 source pages.**
+
+- constituent: `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`;
+- range: PDF **113–127** / printed **112–126**;
+- canonical page records: **15/15**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- source closing note: **preserved separately outside the speech body**;
+- T1 source method: **direct visual reading of the controlling scans**;
+- Tamil T2: **NOT STARTED**;
+- no T2 correction/fidelity claim has been made yet.
+
+T2 attention points are recorded in the constituent audit, including PDF114 `அஃதன்னியில்`, PDF122 `சுயமரியாதைக் காரராக`, PDF125 `அந்தப் பகுத்ததை` / `நிலமை`, and PDF127 `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
+
+## Collection totals after constituent 12 T1
 
 - mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 / T2 / T3 complete and Tamil verified: **11/36**;
+- Tamil T1 complete: **12/36**;
+- Tamil T2 complete: **11/36**;
+- Tamil T3 complete / Tamil verified: **11/36**;
 - English E1 / E2 / E3 complete and English verified: **11/36**;
 - fully archived: **11/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13.
+**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.

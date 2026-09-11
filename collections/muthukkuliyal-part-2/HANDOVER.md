@@ -17,7 +17,7 @@
 ## Durable collection state
 
 - mapped: **36 / 36**; started / source-gated: **12 / 36**;
-- Tamil T1 complete: **11 / 36**;
+- Tamil T1 complete: **12 / 36**;
 - Tamil T2 complete: **11 / 36**;
 - Tamil T3 complete / Tamil verified: **11 / 36**;
 - English E1 complete: **11 / 36**;
@@ -71,6 +71,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; du
 - Tamil T1 is **NOT STARTED**. Constituent 13 remains outside the batch.
 - Source PDF remains uncommitted.
 
+## Constituent 12 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 15/15 source pages** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126**. Canonical page records are **15/15**, complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 is **NOT STARTED**, so constituent 12 is not yet Tamil-verified/frozen.
+
+Carry the documented source-odd T1 readings into strict T2 re-check without normalization. Constituent 13 remains outside the batch. The source PDF binary remains uncommitted.
+
 ## Exact next incomplete gate
 
-**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13.
+**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.

@@ -8,7 +8,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **12 / 36**
-- Tamil T1 complete: **11 / 36**
+- Tamil T1 complete: **12 / 36**
 - Tamil T2 complete: **11 / 36**
 - Tamil T3 complete / Tamil verified: **11 / 36**
 - English E1 complete: **11 / 36**
@@ -68,6 +68,19 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; du
 
 Constituent 13 remains outside the active batch.
 
+## Constituent 12 — Tamil T1 complete
+
+Tamil T1 first-pass transcription: **COMPLETE — 15/15 source pages** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126**.
+
+- canonical page records: **15/15**, each once and in source order;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate source closing note: **preserved outside the speech body**;
+- Tamil T2: **NOT STARTED**;
+- source PDF: **uncommitted**.
+
+T2 should re-check the source-odd but legible T1 forms documented in the constituent audit rather than silently normalizing them. Constituent 13 remains outside the active batch.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13 in the same activity.
+**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.

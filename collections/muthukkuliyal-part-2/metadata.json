@@ -35,7 +35,7 @@
     "constituent_items_mapped": 36,
     "constituent_items_started": 12,
     "constituent_items_source_gated": 12,
-    "constituent_items_t1_complete": 11,
+    "constituent_items_t1_complete": 12,
     "constituent_items_t2_complete": 11,
     "constituent_items_t3_complete": 11,
     "constituent_items_tamil_verified": 11,
@@ -48,7 +48,7 @@
     "active_constituent_number": 12,
     "active_constituent_slug": "nagarkovil-jeevanandham-manimandapa-thirappuvizha",
     "active_constituent_title_ta": "நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா",
-    "active_constituent_status": "source-gated-t1-pending",
+    "active_constituent_status": "t1-complete-t2-pending",
     "active_constituent_pdf_pages": "113-127",
     "active_constituent_printed_pages": "112-126",
     "active_constituent_pages_total": 15,
@@ -62,10 +62,11 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t1",
+    "active_batch_gate": "tamil-t2",
     "next_constituent_number": 12,
-    "next_gate": "Tamil T1 first-pass transcription for constituent 12 — 15 source pages total",
-    "active_constituent_t1_pages_drafted": 0,
-    "active_batch_t1_pages_completed": 0
+    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total",
+    "active_constituent_t1_pages_drafted": 15,
+    "active_batch_t1_pages_completed": 15,
+    "active_batch_t1_unreadable_or_unknown": 0
   }
 }
