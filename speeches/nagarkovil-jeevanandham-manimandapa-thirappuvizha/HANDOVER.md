@@ -19,17 +19,18 @@
 - source / duplicate / boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE — 15/15**;
 - Tamil: **`verified-complete` / FROZEN**;
+- Tamil T2: **1 correction / 0 unresolved**;
+- Tamil T3: **0 additional corrections / 0 unresolved**;
 - English E1: **COMPLETE — 15/15**;
 - English E2: **PASS / COMPLETE — 15/15; 6 corrections; 0 unresolved**;
 - English E3: **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved**;
 - English: **`verified-complete`**;
-- all **6/6** E2 corrections remain consolidated;
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**;
 - page correspondence / joins and separate source closing note: **PASS**;
-- frozen Tamil changes during E3: **0**;
-- repository closure: **READY / NOT STARTED**;
-- source PDF binary remains uncommitted;
-- constituent 13 remains outside this activity.
+- source PDF binary remains uncommitted.
 
-## Exact next gate
+This constituent is closed. Tamil and English are both `verified-complete`; source identity, PDF **113–127** / printed **112–126** range, closing-note separation, correction counts, canonical page order, translation review, audit and metadata agree. All **6/6** E2 corrections remain consolidated. The parent collection, page map and root catalogue are synchronized. No transcription or translation work remains pending for this constituent.
 
-**Repository-level archival closure for constituent 12 — 15 pages total.** Synchronize final archive controls and root catalogue, then stop before constituent 13.
+Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.

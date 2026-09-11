@@ -48,6 +48,7 @@ For audio or video sources, also read:
 | `puthandu-isaivizha` | புத்தாண்டு இசைவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.88–92 | 14.04.1998 | **Verified complete - 5/5 speech pages** | **Verified complete - 5/5 speech pages** |
 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.93–101 | 18.04.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.102–111 | 18.04.1998 | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
+| `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.112–126 | 19.04.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
 
 ## Repository layout
 
@@ -228,5 +229,13 @@ Repository-level closure is complete and no transcription or translation work is
 The archival workflow is complete for constituent **11 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **103–112** / printed pages **102–111**. The separate closing note establishes the date as **18.04.1998**; no separate geographic venue is stated in the inspected opening/closing evidence. PDF 113 begins constituent 12 and confirms the ending boundary.
 
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**. English E2 produced **4 corrections / 0 unresolved**; E3 added **1 final correction / 0 unresolved**, restoring the causative sense across PDF103→104 as “reminded people / of Sundaralingam”. The source-confirmed PDF110 / printed p.109 form `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains preserved and explicitly source-noted in English.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா
+
+The archival workflow is complete for constituent **12 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **113–127** / printed pages **112–126**. The separate closing note establishes the date as **19.04.1998**, the city-level venue as **நாகர்கோவில்**, event wording `ஜீவானந்தம் மணிமண்டபத் திறப்பு விழா`, and role `ஆற்றிய உரை`. PDF 128 begins constituent 13 and confirms the ending boundary.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **1 correction / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **6 corrections / 0 unresolved**; E3 passed all 15 pages with **0 additional corrections / 0 unresolved**. The archive preserves the source-confirmed unusual forms `அஃதன்னியில்`, `சுயமரியாதைக் காரராக`, `அந்தப் பகுத்ததை`, `நிலமை`, and `அடுத்து ஆண்டுத் தொடக்கத்திலே` without silently normalizing them.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.

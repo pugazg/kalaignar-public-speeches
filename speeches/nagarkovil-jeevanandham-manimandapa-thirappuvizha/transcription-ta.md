@@ -180,6 +180,6 @@
 - T3 unresolved readings: **0**.
 - Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## Repository closure
 
-**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from the frozen Tamil layer and stop before E2, constituent 13, or repository closure.
+**PASS / COMPLETE — FULLY ARCHIVED.** The frozen Tamil speech body was not changed during repository closure. Source range, **15/15** canonical page records, the **1/1** T2 correction, **0** T3 additional corrections, page ordering / joins, source-sensitive forms and separate closing-note handling agree with the final archive controls.

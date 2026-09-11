@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–11** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–12** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -299,6 +299,30 @@ T2 attention points are recorded in the constituent audit, including PDF114 `அ
 - English E3 complete / English verified: **12/36**;
 - fully archived: **11/36**.
 
+## Constituent 12 — repository closure
+
+**PASS / COMPLETE — 15/15 pages.**
+
+- repository closure: **complete / fully-archived**;
+- Tamil page records: **15/15**, complete and ordered;
+- English page records: **15/15**, complete and ordered;
+- Tamil T2 corrections: **1 / 1 consolidated**;
+- Tamil T3 additional corrections: **0**;
+- English E2 corrections: **6 / 6 consolidated**;
+- English E3 additional corrections: **0**;
+- unresolved Tamil / English issues: **0 / 0**;
+- separate closing-note handling: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- parent collection / page-map / root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 12 closure
+
+- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **12/36**;
+- English E1 / E2 / E3 complete and English verified: **12/36**;
+- fully archived: **12/36**.
+
 ## Exact next gate
 
-**Repository-level archival closure for constituent 12 — 15 pages total.** Stop before constituent 13.
+Constituent **13** alone — `மே தினவிழா`, PDF **128–144** / printed **127–143** — **17 pages**: source / duplicate / boundary gate. Constituent 14 is excluded because 17 + 17 pages would exceed the 25-page batch cap.
