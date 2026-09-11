@@ -23,9 +23,9 @@
 - English E1 complete: **11 / 36**;
 - English E2 complete: **11 / 36**;
 - English E3 complete: **11 / 36**;
-- fully archived: **9 / 36**.
+- fully archived: **11 / 36**.
 
-Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–11 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -50,8 +50,14 @@ Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresol
 
 ## Constituents 10–11 — durable English E3 result
 
-Combined English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**. Constituent 10 required **0** additional corrections; constituent 11 required **1** E3 correction across PDF103→104 to restore the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain present. Frozen Tamil was not changed. Both English layers are now **`verified-complete`**. Repository closure is **READY / NOT STARTED**; constituent 12 remains outside the active batch.
+Combined English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**. Constituent 10 required **0** additional corrections; constituent 11 required **1** E3 correction across PDF103→104 to restore the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain present. Frozen Tamil was not changed. Both English layers are now **`verified-complete`**. Repository closure is **PASS / COMPLETE — FULLY ARCHIVED**; constituent 12 was not started in this activity.
+
+## Constituents 10–11 — durable repository closure result
+
+Combined repository-level archival closure: **PASS / COMPLETE — 19/19 pages**. Both constituent archives are now **FULLY ARCHIVED**. Metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, correction counts, page ordering and separate closing-note handling agree. Parent collection controls, page-map and root catalogue are synchronized. No unresolved Tamil or English issue remains. The source PDF binary remains uncommitted.
+
+Constituent 11 retains the E3 PDF103→104 causative correction restoring `நினைவுபடுத்தியிருக்கிறேன்` as “reminded people / of Sundaralingam”, and PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted.
 
 ## Exact next incomplete gate
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+Constituent **12** alone — `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**: source / duplicate / boundary gate. Do not combine constituent 13; 15 + 17 pages would exceed the 25-page batch cap.

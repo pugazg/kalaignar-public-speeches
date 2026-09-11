@@ -46,6 +46,8 @@ For audio or video sources, also read:
 | `purusai-gopalarathinam-illa-manavizha` | புரசை கோபாலரத்தினம் இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.69–78 | Not stated in source | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
 | `muthamizh-peravai-vizha` | முத்தமிழ்ப் பேரவை விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.79–87 | 03.02.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
 | `puthandu-isaivizha` | புத்தாண்டு இசைவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.88–92 | 14.04.1998 | **Verified complete - 5/5 speech pages** | **Verified complete - 5/5 speech pages** |
+| `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.93–101 | 18.04.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
+| `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.102–111 | 18.04.1998 | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
 
 ## Repository layout
 
@@ -210,5 +212,21 @@ Repository-level closure is complete and no transcription or translation work is
 The archival workflow is complete for constituent **9 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **89–93** / printed pages **88–92**. The separate closing note establishes the date as **14.04.1998**. The archive preserves the contents form `புத்தாண்டு இசை விழா` separately from the page-heading/closing-note form `புத்தாண்டு இசைவிழா`; the inspected source does not state a venue.
 
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **3 corrections / 0 unresolved**, all consolidated; English E2 produced **3 corrections / 0 unresolved**; E3 passed all five pages with **0 additional corrections / 0 unresolved**.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா
+
+The archival workflow is complete for constituent **10 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **94–102** / printed pages **93–101**. The separate closing note establishes the date as **18.04.1998** and the venue at **மதுரை** city level only; no more specific venue is inferred. The source-faithful distinction between title `ஆண்டுவிழா` and closing-note `ஆண்டு விழா` is preserved.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **6 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 and E3 required **0 corrections**. Page correspondence, page joins and the separate closing note all pass.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா
+
+The archival workflow is complete for constituent **11 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **103–112** / printed pages **102–111**. The separate closing note establishes the date as **18.04.1998**; no separate geographic venue is stated in the inspected opening/closing evidence. PDF 113 begins constituent 12 and confirms the ending boundary.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**. English E2 produced **4 corrections / 0 unresolved**; E3 added **1 final correction / 0 unresolved**, restoring the causative sense across PDF103→104 as “reminded people / of Sundaralingam”. The source-confirmed PDF110 / printed p.109 form `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains preserved and explicitly source-noted in English.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.

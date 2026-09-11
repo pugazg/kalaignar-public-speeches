@@ -14,9 +14,9 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E1 complete: **11 / 36**
 - English E2 complete: **11 / 36**
 - English E3 complete: **11 / 36**
-- fully archived: **9 / 36**
+- fully archived: **11 / 36**
 
-Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–11 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -45,8 +45,14 @@ Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresol
 
 ## Constituents 10–11 — English E3 complete / English verified
 
-Combined English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**. Constituent 10: **9/9; 0 additional corrections**. Constituent 11: **10/10; 1 additional correction** across PDF103→104 restoring the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain consolidated, frozen Tamil remained unchanged, page correspondence/joins and both separate closing notes pass, and both English layers are now **`verified-complete`**. Repository closure is **READY / NOT STARTED**.
+Combined English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**. Constituent 10: **9/9; 0 additional corrections**. Constituent 11: **10/10; 1 additional correction** across PDF103→104 restoring the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain consolidated, frozen Tamil remained unchanged, page correspondence/joins and both separate closing notes pass, and both English layers are now **`verified-complete`**. Repository closure is **PASS / COMPLETE — FULLY ARCHIVED**.
+
+## Constituents 10–11 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** Final consistency checking confirmed that both constituent archives agree across metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, page order, closing-note separation, correction counts and workflow states. Constituent 10 remains PDF **94–102** / printed **93–101** with Tamil T2 **6 corrections**, English E2 **0**, English E3 **0**. Constituent 11 remains PDF **103–112** / printed **102–111** with Tamil T2 **5 corrections**, English E2 **4**, English E3 **1**. The PDF103→104 causative correction is consolidated, and PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted.
+
+Collection state is now **11 / 36 fully archived**. Constituents **1–11 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+Constituent **12** alone — `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**: perform the source / duplicate / boundary gate. Constituent 13 adds 17 pages, so **12+13 must not be combined** under the 25-page batch cap.

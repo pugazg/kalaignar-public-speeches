@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–9** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–11** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -113,7 +113,7 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - frozen Tamil changes: **0**;
 - page correspondence, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and separate closing notes: **PASS**;
 - final English state for constituents 10–11: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**.
+- repository closure: **PASS / COMPLETE**.
 
 ## Collection totals
 
@@ -124,8 +124,34 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - English E1 complete: **11/36**;
 - English E2 complete: **11/36**;
 - English E3 complete: **11/36**;
-- fully archived: **9/36**.
+- fully archived: **11/36**.
+
+## Constituents 10–11 — repository closure
+
+**PASS / COMPLETE — 19/19 pages.**
+
+- constituent 10 repository closure: **complete / fully-archived**;
+- constituent 11 repository closure: **complete / fully-archived**;
+- Tamil page records: **19/19**, complete and ordered;
+- English page records: **19/19**, complete and ordered;
+- combined Tamil T2 corrections: **11 / 11 consolidated**;
+- combined English E2 corrections: **4 / 4 consolidated**;
+- combined English E3 additional corrections: **1 / 1 consolidated**;
+- unresolved Tamil / English issues: **0 / 0**;
+- separate closing-note handling: **PASS** for both;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- parent collection / page-map / root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+The constituent 11 PDF103→104 causative correction remains present, and PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted.
+
+## Collection totals after closure
+
+- mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **11/36**;
+- English E1 / E2 / E3 complete and English verified: **11/36**;
+- fully archived: **11/36**.
 
 ## Exact next gate
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+Constituent **12** alone — `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**: source / duplicate / boundary gate. Constituent 13 is excluded from this batch because its additional 17 pages would exceed the 25-page cap.
