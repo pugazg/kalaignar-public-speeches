@@ -67,18 +67,6 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - source closing notes remain separate from speech bodies;
 - Tamil T3: **PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved**; Tamil verified count is now **11/36**.
 
-## Collection totals
-
-- mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
-- Tamil T1 complete: **11/36**;
-- Tamil T2 complete: **11/36**;
-- Tamil T3 complete / Tamil verified: **11/36**;
-- English E1/E2/E3 complete: **9/36**;
-- fully archived: **9/36**.
-
-## Exact next gate
-
-Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
 ## Constituents 10–11 — Tamil T3 consolidation / freeze
 
 - result: **PASS / COMPLETE — 19/19 source pages**;
@@ -91,4 +79,16 @@ Combined **English E1 first-pass translation for constituents 10–11 — 19 ver
 - T3 unresolved readings: **0**;
 - Tamil state for constituents 10–11: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
-.
+
+## Collection totals
+
+- mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
+- Tamil T1 complete: **11/36**;
+- Tamil T2 complete: **11/36**;
+- Tamil T3 complete / Tamil verified: **11/36**;
+- English E1/E2/E3 complete: **9/36**;
+- fully archived: **9/36**.
+
+## Exact next gate
+
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
