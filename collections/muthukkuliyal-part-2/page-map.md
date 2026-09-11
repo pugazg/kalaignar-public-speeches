@@ -59,7 +59,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 13 | — | **not started — next source/duplicate/boundary gate; 17 pages** |
+| 13 | `may-thina-vizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 17/17; Tamil T1 next** |
 | 14–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -70,6 +70,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **PASS / COMPLETE — 15/15 pages.** Constituent 12 is now closed / fully archived with Tamil and English `verified-complete`. Source range, page order, correction counts, final English, frozen Tamil, closing-note separation and repository controls agree. Fully archived total: **12 / 36**.
 
-## Next same-gate batch
+## Active constituent
 
-Constituent **13** alone: `மே தினவிழா`, PDF **128–144** / printed **127–143** — **17 pages**. Next gate: source / duplicate / boundary. Constituent 14 is not part of the batch because adding its 17 pages would exceed the 25-page cap.
+Constituent **13** `மே தின விழா` has completed the source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; 0 duplicate unresolved; 0 boundary unresolved**. Dedicated archive: `speeches/may-thina-vizha/`.
+
+Source-specific identity notes: collection contents use `மே தினவிழா`; PDF 128 page heading is `மே தின விழா`; PDF 144 separately prints `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`; PDF 145 starts constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
+
+Exact next gate: **Tamil T1 first-pass transcription for constituent 13 — 17 source pages total**. Constituent 14 remains outside this iteration.

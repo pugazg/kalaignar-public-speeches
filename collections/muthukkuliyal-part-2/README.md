@@ -7,13 +7,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **12 / 36**
+- speech archives started / source-gated: **13 / 36**
 - Tamil T1 complete: **12 / 36**
 - Tamil T2 complete: **12 / 36**
 - Tamil T3 complete / Tamil verified: **12 / 36**
 - English E1 complete: **12 / 36**
 - English E2 complete: **12 / 36**
-- English E3 complete: **11 / 36**
+- English E3 complete: **12 / 36**
 - fully archived: **12 / 36**
 
 Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
@@ -76,6 +76,20 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 13 — source gate complete
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **13 — மே தின விழா:** PDF **128–144** / printed **127–143** — **17 pages**.
+- PDF 128 is the numbered opening with page heading `மே தின விழா`; collection contents use `மே தினவிழா`.
+- PDF 144 completes the speech body before the separate note `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`.
+- The closing note establishes **01-05-1998**, event wording `மே தின விழா`, and role `ஆற்றிய உரை`; no geographic venue is stated or inferred.
+- PDF 145 begins constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, confirming the end boundary.
+- Dedicated archive: `speeches/may-thina-vizha/`.
+- Tamil T1: **NOT STARTED**.
+
+Constituent 14 remains outside the active batch.
+
 ## Exact next gate
 
-Constituent **13** alone — `மே தினவிழா`, PDF **128–144** / printed **127–143** — **17 pages**: perform the source / duplicate / boundary gate. Constituent 14 adds another 17 pages, so **13+14 must not be combined** under the 25-page batch cap.
+**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.

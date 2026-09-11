@@ -323,6 +323,30 @@ T2 attention points are recorded in the constituent audit, including PDF114 `அ
 - English E1 / E2 / E3 complete and English verified: **12/36**;
 - fully archived: **12/36**.
 
+## Constituent 13 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **128–144** / printed **127–143** — **17 pages**;
+- opening: PDF 128 / printed p.127, constituent number `13`, page heading `மே தின விழா`;
+- collection contents form: `மே தினவிழா`; page-heading form: `மே தின விழா`; spacing difference preserved;
+- ending: PDF 144 / printed p.143 completes the body before the separate source note;
+- closing note: `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`;
+- date: **01-05-1998**;
+- venue: **not stated** in the inspected opening/closing evidence;
+- event/role: `மே தின விழா` / `ஆற்றிய உரை`;
+- PDF 145 begins constituent `14`, heading `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, confirming the end boundary;
+- duplicate search: **PASS — no dedicated archive found**;
+- Tamil speech-body transcription: **NOT STARTED**;
+- source PDF: **uncommitted**.
+
+## Collection totals after constituent 13 source gate
+
+- mapped / started / source-gated: **36/36 / 13/36 / 13/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **12/36**;
+- English E1 / E2 / E3 complete and English verified: **12/36**;
+- fully archived: **12/36**.
+
 ## Exact next gate
 
-Constituent **13** alone — `மே தினவிழா`, PDF **128–144** / printed **127–143** — **17 pages**: source / duplicate / boundary gate. Constituent 14 is excluded because 17 + 17 pages would exceed the 25-page batch cap.
+**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.

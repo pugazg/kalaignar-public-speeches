@@ -16,7 +16,7 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **12 / 36**;
+- mapped: **36 / 36**; started / source-gated: **13 / 36**;
 - Tamil T1 complete: **12 / 36**;
 - Tamil T2 complete: **12 / 36**;
 - Tamil T3 complete / Tamil verified: **12 / 36**;
@@ -113,6 +113,19 @@ Repository-level archival closure: **PASS / COMPLETE — 15/15 pages** for `ந�
 
 Tamil: **`verified-complete` / FROZEN** — T2 **1 correction**, T3 **0 additional corrections**. English: **`verified-complete`** — E2 **6 corrections**, E3 **0 additional corrections**.
 
+## Constituent 13 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- `மே தின விழா`: PDF **128–144** / printed **127–143** — **17 pages**.
+- PDF 128 is the numbered/titled opening; collection contents use `மே தினவிழா` while the page heading uses `மே தின விழா`.
+- PDF 144 completes the body before `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`, directly establishing **01-05-1998**, event wording and role `ஆற்றிய உரை`.
+- No geographic venue is stated in the inspected opening/closing evidence.
+- PDF 145 begins constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, confirming the ending boundary.
+- Dedicated archive: `speeches/may-thina-vizha/`.
+- Tamil T1 is **NOT STARTED**.
+- Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-Constituent **13** alone — `மே தினவிழா`, PDF **128–144** / printed **127–143** — **17 pages**: source / duplicate / boundary gate. Do not combine constituent 14; 17 + 17 pages would exceed the 25-page batch cap.
+**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.
