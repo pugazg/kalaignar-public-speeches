@@ -58,6 +58,18 @@ The title `ஆண்டுவிழா` versus closing-note `ஆண்டு வ
 - The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains source-faithful.
 - Tamil state: **`verified-complete` / FROZEN**.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 9/9 pages.**
+
+- translation source: **frozen `transcription-ta.md` only**;
+- English page records: **9/9**, exactly once and in source order;
+- missing English page records: **0**;
+- separate source closing note: **preserved outside speech body**;
+- PDF94 / printed p.93 Tamil expectation/opposition wordplay is kept transparent with the source Tamil forms.
+- English E2 independent fidelity review: **READY / NOT STARTED**;
+- no frozen Tamil text changed during E1.
+
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
+Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.

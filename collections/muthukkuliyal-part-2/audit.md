@@ -80,15 +80,27 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - Tamil state for constituents 10–11: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
 
+## Constituents 10–11 — English E1 first-pass translation
+
+- result: **COMPLETE — 19/19 pages**;
+- constituent 10: **9/9 COMPLETE**;
+- constituent 11: **10/10 COMPLETE**;
+- translation source: **frozen Tamil `transcription-ta.md` only**;
+- missing English page records: **0**;
+- separate closing notes: **preserved outside both speech bodies**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**.
+
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
 - Tamil T1 complete: **11/36**;
 - Tamil T2 complete: **11/36**;
 - Tamil T3 complete / Tamil verified: **11/36**;
-- English E1/E2/E3 complete: **9/36**;
+- English E1 complete: **11/36**;
+- English E2/E3 complete: **9/36**;
 - fully archived: **9/36**.
 
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
+Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.

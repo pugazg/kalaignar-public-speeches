@@ -29,8 +29,9 @@ The title/closing-note spacing distinction `ஆண்டுவிழா` versus 
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9/9; 6 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved** |
 | Tamil state | **`verified-complete` / FROZEN** |
-| English E1 first-pass translation | **READY / NOT STARTED** |
-| English E2/E3 | **BLOCKED pending E1** |
+| English E1 first-pass translation | **COMPLETE — 9/9** |
+| English E2 independent fidelity review | **READY / NOT STARTED** |
+| English E3 final verification | **BLOCKED pending E2** |
 | Repository closure | not started |
 
 Tamil T1 covers every source page exactly once from PDF **94–102** / printed **93–101**. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The source closing note remains separate from the speech body.
@@ -38,6 +39,8 @@ Tamil T1 covers every source page exactly once from PDF **94–102** / printed *
 Tamil T2 re-read every source page directly against the controlling scans and applied **6 scan-confirmed corrections** with **0 unresolved readings**. The title `ஆண்டுவிழா` / closing-note `ஆண்டு விழா` distinction remains source-faithful.
 Tamil T3 consolidated the T2-corrected transcript with **0 additional corrections / 0 unresolved**. PDF **94–102** occurs exactly once and in order; all 6 T2 corrections are present; stale superseded readings are absent; page joins and closing-note separation pass. The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains source-faithful. Tamil is now **`verified-complete` / FROZEN**. English must be translated only from this frozen Tamil layer.
 
+English E1 is now **COMPLETE — 9/9 pages**, translated only from the frozen Tamil layer. E2 has not started and no English fidelity-pass claim is made yet.
+
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
+Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.

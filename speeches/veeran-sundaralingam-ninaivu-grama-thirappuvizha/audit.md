@@ -57,6 +57,18 @@ PDF110 / printed p.109 `நீங்கள் சொல்வார்களா 
 - PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains confirmed as printed.
 - Tamil state: **`verified-complete` / FROZEN**.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 10/10 pages.**
+
+- translation source: **frozen `transcription-ta.md` only**;
+- English page records: **10/10**, exactly once and in source order;
+- missing English page records: **0**;
+- separate source closing note: **preserved outside speech body**;
+- PDF110 / printed p.109 source-confirmed irregular Tamil remains explicitly source-noted in English; no Tamil normalization was made.
+- English E2 independent fidelity review: **READY / NOT STARTED**;
+- no frozen Tamil text changed during E1.
+
 ## Exact next gate
 
-Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
+Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
