@@ -1,10 +1,10 @@
 # Release Function for Karl Marx's Translated Works (Jamadhagni) — English translation
 
-**Status:** `first-pass-complete` — English E1 **17 / 17 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **17 / 17 COMPLETE**; E2 **17 / 17 PASS; 7 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **145–161** / printed **144–160**
 
-> English E1 was translated only from the frozen Tamil layer. Page correspondence, argument structure, rhetoric, quotations, verse, repetitions, names/titles, numerals, source-sensitive dates and unusual forms are preserved. English E2 has **NOT STARTED**; no final English-fidelity claim is made at this checkpoint. Frozen Tamil changes during E1: **0**.
+> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 17 English pages against frozen Tamil and consolidated **7 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification. Frozen Tamil changes during E2: **0**.
 
 ## PDF 145 / printed p.144
 
@@ -60,7 +60,7 @@ I was only the person who provided medical care. It was these publishers who car
 
 ## PDF 149 / printed p.148
 
-By providing this funding, I have merely expressed my sense of duty that Tamil, Tamil literature, and new ideas of this kind that ought to move about in Tamil Nadu should be given encouragement; nothing more.
+By providing this funding, I have merely expressed my sense of duty that Tamil, Tamil literature, and new ideas of this kind that ought to circulate in Tamil Nadu should be given encouragement; nothing more.
 
 The person who wrote the preface to this book called `Capital` at that time—the person who wrote the preface to `Capital` on 5 November 1886, the preface to the English edition—was Friedrich Engels.
 
@@ -82,7 +82,7 @@ It is true that they possess a small amount of property.
 
 But they too engage in labour. Their property does not primarily function as capital that grows by exploiting others.
 
-Likewise, money kept locked away in a box for moneylending does not become capital.
+Likewise, money used in moneylending and kept locked away in a box does not become capital.
 
 Ordinary interest-bearing loans are mainly borrowed for expenses that arise from time to time. None of these constitutes capital that exploits labour. Through banks and insurance companies, capitalists obtain a portion of capital. In short, capital means money employed in exploiting human labour.”
 
@@ -124,7 +124,7 @@ policy Marx also says another idea very beautifully:
 
 Subscribers means readers. When Thanthai Periyar started and ran the journal `Kudi Arasu`, people asked: Will this sell? Will people accept it? Will people be able to digest this idea? Periyar is said to have replied:
 
-“Whether it sells or not, I will print the `Kudi Arasu` newspaper. Whether anyone buys it or not, I do not care. I will print at least one copy of the paper, and I alone will sit on the front platform and read that one copy myself.” (Applause)
+“Whether it sells or not, I will print the `Kudi Arasu` newspaper. Whether anyone buys it or not, I do not care. I will print at least one copy of the paper, and I alone will sit on the veranda and read that one copy myself.” (Applause)
 
 Karl Marx expresses this same idea. Readers must not determine a newspaper's policy; the newspaper must determine the readers' policies. In his book, Saminatha Sarma very beautifully points to this breadth of Marx's thought.
 
@@ -169,7 +169,7 @@ Our beloved Nallakannu, who spoke here, said that we can dispel and remove certa
 
 But our friend Sankarayya, who spoke and left, said, “It is only temporary.” Whether temporary or permanent, we all have the great duty of protecting Tamils, workers, the labouring masses, and this society without allowing such illusions to bewilder the minds of Tamils.
 
-He said, “The two of us have united.” Forgetting that we too are on this stage, he said, “The two of us (CPI, CPM) have united.” Then he himself remembered and extended an invitation that you too should come. We are already together, are we not? So I do not know how you can say that the two of you have united and then invite us. Everyone must join together and strive to defeat the illusion that has arisen as an obstacle to the future advancement of this society.
+He said, “The two of us have united.” Forgetting that we too are on this stage, he said, “The two of us (CPI, CPM) have united.” Then he himself remembered and extended an invitation that you too should come. We are already together, are we not? So I do not know how you can say that the two of you have united and then invite us. Everyone must join together and strive to defeat the illusion that has arisen, for the future advancement of this society.
 
 This feeling in me is not of today or yesterday. I am not now coming forward to tell you who I am merely by making use of this opportunity to speak at the release of `Capital`.
 
@@ -202,7 +202,7 @@ communist. That is why, in 1983, nearly fifteen years ago, why was there a need 
 
 `Kural Oviyam` was written and published in 1983. I will read only the lines I wrote there about Karl Marx.
 
-One hundred and sixty-five years ago—I say 165 because this was written fifteen years ago. But in fact, one hundred and eighty years ago—at the present point, a hundred years ago, the sculptor of egalitarianism Karl Marx, who had raised thought to the skies and become a grave beneath the earth, we have come to know his doctrines. A body of people still raises the flag of struggle in many countries of this world, labouring with the eagerness to see when the goal of putting his ideas of common ownership into practice will succeed.
+One hundred and sixty-five years ago—I say 165 because this was written fifteen years ago. But in fact, one hundred and eighty years ago—at the present point, a hundred years ago, the sculptor of egalitarianism Karl Marx, whose sky-high thought had come to a stop as he became a grave beneath the earth—we have come to know his doctrines. A body of people still raises the flag of struggle in many countries of this world, labouring with the eagerness to see when the goal of putting his ideas of common ownership into practice will succeed.
 
 That great man—born into an ordinary family, living a very simple life, repeatedly caught in the cruel grip of poverty, and performing his duty without rest until he closed his eyes at the age of sixty-five—had a close friend like Engels; yet many do not know the greatness of the queenly woman Jenny, the lamp of the family, who stayed by his side and conducted family life with him until the end.
 
@@ -235,7 +235,7 @@ But there are some reasons why communism, in the name of communism, has not spre
 
 principles, according to Periyar's principles, and as I see it, must be developed in a manner suited to this soil. I ask that we recognize and think about this and undertake our efforts in that manner.
 
-In India there are many national peoples distinguished by language, art, culture, civilization, race and so on. Those many national peoples have many cultures. They have many languages. Taking all these into account, I point out here that if we try to shape communism in a manner suited to this soil, we can spread it here. Brother Naganathan deserves all the praise we can give him for providing all of us with this book, a treasury like a precious trove. Jamadhagni, who translated this book into Tamil, deserves all the praise we can give him. He spent many years in prison. He was a man of sacrifice. He dedicated not only himself but his entire family to the freedom of India. His dear daughter Shanthi and Shanthi's dear husband Naganathan have now come forward to publish the workers' literature that this man of sacrifice laboured over and wrote in abundance continuously for four or five years, thereby spreading his fame. On my own behalf and on behalf of all of you, I convey to them my thanks, appreciation and greetings, and take my leave.
+In India there are many nationalities, with distinctions of language, art, culture, cultural tradition, ethnicity and so on. Those many national peoples have many cultures. They have many languages. Taking all these into account, I point out here that if we make the effort in a manner suited to this soil, we can spread communism here. Brother Naganathan deserves all the praise we can give him for providing all of us with this book, a treasury like a precious trove. Jamadhagni, who translated this book into Tamil, deserves all the praise we can give him. He spent many years in prison. He was a man of sacrifice. He dedicated not only himself but his entire family to the freedom of India. His dear daughter Shanthi and Shanthi's dear husband Naganathan have now come forward to publish the workers' literature that this man of sacrifice laboured over and wrote in abundance continuously for four or five years, thereby spreading his fame. On my own behalf and on behalf of all of you, I convey to them my thanks, appreciation and greetings, and take my leave.
 
 **Source closing note (separate from speech body):**  
 Speech delivered on 2-5-98 at the release function for Karl Marx's books translated by Jamadhagni.
@@ -247,7 +247,7 @@ Speech delivered on 2-5-98 at the release function for Karl Marx's books transla
 - Missing English page records: **0**.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive notes
 
@@ -265,6 +265,26 @@ Speech delivered on 2-5-98 at the release function for Karl Marx's books transla
 - PDF161: `நாலைந்து ஆண்டுகள்` is rendered “four or five years.”
 - The separate closing note remains outside the speech body.
 
+## E2 fidelity-review result
+
+- English E1: **17/17 COMPLETE**.
+- English E2: **PASS / COMPLETE — 17/17 pages; 7 corrections; 0 unresolved**.
+- Translation source: **frozen `transcription-ta.md` only**.
+- Missing English page records: **0**.
+- Page-boundary continuations and the separate source closing note: **PASS**.
+- Frozen Tamil changes during E2: **0**.
+- English E3 final verification: **READY / NOT STARTED**.
+
+### E2 corrections
+
+1. PDF149 / printed p.148: `தமிழகத்திலே நடமாடவேண்டிய ... புதிய கருத்துக்கள்` — “ideas ... that ought to move about in Tamil Nadu” → **“ideas ... that ought to circulate in Tamil Nadu.”**
+2. PDF150 / p.149: `பெட்டியிலே பூட்டி வைக்கப்படும் வட்டி வியாபாரமும்` — clarified “money kept ... for moneylending” to **“money used in moneylending and kept locked away in a box.”**
+3. PDF153 / p.152: `திண்ணையிலே` — “front platform” → **“veranda.”**
+4. PDF156 / p.155: `இந்தச் சமுதாயத்தினுடைய எதிர்கால ஏற்றத்திற்கு ஏற்பட்டுவிட்ட மாயையை` — removed the unsupported inserted phrase **“as an obstacle”**; the English now keeps “for the future advancement of this society” as the purpose of the collective effort.
+5. PDF158 / p.157: `வானளாவிய சிந்தனையை நிறுத்திக் கொண்டு பூமிக்குள் கல்லறையாகி விட்ட` — replaced the interpretive “raised thought to the skies” with a more source-faithful **“whose sky-high thought had come to a stop as he became a grave beneath the earth.”**
+6. PDF161 / p.160: `மொழி, கலை, கலாச்சாரம், பண்பாடு, இனம்` — “language, art, culture, civilization, race” → **“language, art, culture, cultural tradition, ethnicity”**, preserving the source's separate `கலாச்சாரம்` / `பண்பாடு` items without introducing “civilization.”
+7. PDF161 / p.160: `இந்த மண்ணுக்கு ஏற்ற வகையில் கம்யூனிசத்தை நாம் முயன்றால் இங்கே பரப்ப முடியும்` — removed the added verb **“shape”**; now **“if we make the effort in a manner suited to this soil, we can spread communism here.”**
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 14 — 17 pages total.** Compare every English page against frozen Tamil, consolidate only confirmed fidelity corrections, and stop before E3, constituent 15, or repository closure.
+**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 15 or repository closure.

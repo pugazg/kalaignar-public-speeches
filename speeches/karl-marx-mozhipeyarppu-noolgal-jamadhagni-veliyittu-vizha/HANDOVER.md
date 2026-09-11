@@ -20,17 +20,14 @@
 - Tamil T1/T2/T3: **COMPLETE — 17/17**;
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 17/17**;
-- English E2: **READY / NOT STARTED**;
-- English E3: **BLOCKED pending E2**;
-- English page records: **17/17**, complete and ordered;
-- missing English page records: **0**;
-- separate source closing note remains outside the speech body;
-- frozen Tamil changes during E1: **0**;
+- English E2: **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved**;
+- English E3: **READY / NOT STARTED**;
+- all **7/7** E2 corrections are consolidated in `translation-en.md`;
+- page joins / quotations / verse / Jenny letter / Kural / separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
 - source PDF remains uncommitted;
 - constituent 15 remains outside this activity.
 
-English E1 translated only from frozen `transcription-ta.md`. Source-sensitive dates, chronology, quotations, verse, Jenny letter, Kural wording and unusual forms are documented in `translation-en.md`; no Tamil repair or normalization was made during E1.
-
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 14 — 17 pages total.** Compare every English page against frozen Tamil; consolidate only fidelity corrections; stop before E3, constituent 15, or repository closure.
+**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 15 or repository closure.

@@ -12,7 +12,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T2 complete: **14 / 36**
 - Tamil T3 complete / Tamil verified: **14 / 36**
 - English E1 complete: **14 / 36**
-- English E2 complete: **13 / 36**
+- English E2 complete: **14 / 36**
 - English E3 complete: **13 / 36**
 - fully archived: **13 / 36**
 
@@ -84,18 +84,12 @@ Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 ad
 
 Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 14 — English E1 complete
+## Constituent 14 — English E2 complete
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 is now **COMPLETE — 17/17 pages** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, PDF **145–161** / printed **144–160**.
+Tamil remains **`verified-complete` / FROZEN**. English E1 remains **COMPLETE — 17/17**. English E2 is now **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
 
-- English page records: **17/17**, exactly once and ordered;
-- missing English page records: **0**;
-- translation source: **frozen Tamil only**;
-- separate source closing note: **preserved outside speech body**;
-- frozen Tamil changes during E1: **0**;
-- English E2: **READY / NOT STARTED**;
-- constituent 15 remains outside the batch.
+All seven confirmed E2 corrections are consolidated. Page-boundary continuations, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E2: **0**. English E3 is **READY / NOT STARTED**. Constituent 15 remains outside the active batch.
 
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.
+**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.

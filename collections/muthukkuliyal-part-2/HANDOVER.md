@@ -21,7 +21,7 @@
 - Tamil T2 complete: **14 / 36**;
 - Tamil T3 complete / Tamil verified: **14 / 36**;
 - English E1 complete: **14 / 36**;
-- English E2 complete: **13 / 36**;
+- English E2 complete: **14 / 36**;
 - English E3 complete: **13 / 36**;
 - fully archived: **13 / 36**.
 
@@ -205,6 +205,12 @@ English E1: **COMPLETE — 17/17 pages** for `காரல் மார்க்
 
 Source-sensitive dates, chronology, unusual spellings, quotations, verse, Jenny letter and Kural wording are explicitly documented rather than silently repaired. English E2 is **READY / NOT STARTED**. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 14 — durable English E2 result
+
+English E2: **PASS / COMPLETE — 17/17 pages; 7 corrections; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`. All seven corrections are consolidated in `translation-en.md`; page joins, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass; frozen Tamil changes during E2 **0**.
+
+English E3 is **READY / NOT STARTED**. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.
+**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.

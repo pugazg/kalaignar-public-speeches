@@ -113,6 +113,20 @@ No speech-body Tamil was changed during T3.
 
 E1 is a first pass and does not claim final English fidelity.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 17/17 pages; 7 corrections; 0 unresolved.**
+
+- comparison source: **frozen Tamil `transcription-ta.md`**;
+- English pages checked: **17/17**;
+- confirmed corrections consolidated: **7/7**;
+- unresolved English-fidelity issues: **0**;
+- page-boundary continuations / quotations / verse / Jenny letter / Kural: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes: **0**.
+
+Correction details are recorded in `translation-review.md`. Source-sensitive printed dates, chronology and unusual Tamil forms were preserved rather than historically or linguistically normalized.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.
+**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.

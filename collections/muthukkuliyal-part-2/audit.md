@@ -406,6 +406,26 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E2 / E3 complete and English verified: **13/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — English E2 independent fidelity review
+
+**PASS / COMPLETE — 17/17 pages; 7 corrections; 0 unresolved.**
+
+- English pages checked: **17/17**;
+- confirmed fidelity corrections: **7/7 consolidated**;
+- unresolved English-fidelity issues: **0**;
+- page joins / quotations / verse / Jenny letter / Kural / closing-note separation: **PASS**;
+- frozen Tamil changes: **0**;
+- English E3: **READY / NOT STARTED**.
+
+## Collection totals after constituent 14 E2
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **14/36**;
+- English E1 complete: **14/36**;
+- English E2 complete: **14/36**;
+- English E3 complete / English verified: **13/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.
+**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.
