@@ -252,6 +252,14 @@ Combined Tamil T3: **PASS / COMPLETE — 22/22 pages; 0 additional corrections; 
 
 Constituents 15–16 are now Tamil **`verified-complete` / FROZEN**. No speech-body Tamil was changed during T3. English E1 is **READY / NOT STARTED** and must translate only from the frozen `transcription-ta.md` files. Constituents 1–14 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
 
+## Constituents 15–16 — durable English completion result
+
+English E1: **COMPLETE — 22/22 pages**. English E2: **PASS / COMPLETE — 22/22; 5 corrections; 0 unresolved**. English E3: **PASS / COMPLETE — 22/22; 1 additional correction; 0 unresolved**.
+
+Constituent 15 has **2 E2 corrections + 1 E3 correction**; constituent 16 has **3 E2 corrections + 0 E3 corrections**. All E2 corrections and the E3 correction are consolidated. Page correspondence / joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording, constituent-16 no-date handling and both separate closing notes pass. Frozen Tamil changes throughout E1/E2/E3: **0**.
+
+Both constituents now have Tamil **`verified-complete` / FROZEN** and English **`verified-complete`**. Repository closure is **READY / NOT STARTED**. Constituents 1–14 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.** Stop before E2, constituent 17, or repository closure.
+**Repository closure for constituents 15–16 together.** Stop before constituent 17.

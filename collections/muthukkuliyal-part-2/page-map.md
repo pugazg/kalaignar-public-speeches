@@ -61,8 +61,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **Tamil verified-complete / FROZEN — English E1 next** |
-| 16 | `ambur-sampangi-illa-manavizha` | **Tamil verified-complete / FROZEN — English E1 next** |
+| 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **Tamil + English verified-complete — closure next** |
+| 16 | `ambur-sampangi-illa-manavizha` | **Tamil + English verified-complete — closure next** |
 | 17–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -102,6 +102,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **PASS / COMPLETE — 22/22 source pages; 0 additional corrections; 0 unresolved.** All **9/9** T2 corrections are consolidated; stale superseded readings are absent from canonical speech bodies; page records are complete, unique and ordered; page joins and both separate closing notes pass. Both Tamil layers are **`verified-complete` / FROZEN**.
 
+## Constituents 15–16 — English completion
+
+English E1 **22/22 COMPLETE**; English E2 **22/22 PASS — 5 corrections / 0 unresolved**; English E3 **22/22 PASS — 1 additional correction / 0 unresolved**. Frozen Tamil changes during English work: **0**. Both English layers are **`verified-complete`**.
+
 ## Next same-gate batch
 
-Constituents **15–16 together** — English E1 first-pass translation — **22 verified Tamil pages total**. Stop before E2 / constituent 17.
+Constituents **15–16 together** — repository closure. Stop before constituent 17.

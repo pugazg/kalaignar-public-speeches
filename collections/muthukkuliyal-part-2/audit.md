@@ -582,6 +582,41 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - fully archived: **14/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 15–16 — English E1 / E2 / E3
+
+### E1
+
+**COMPLETE — 22/22 pages.** Constituent 15 **11/11**, constituent 16 **11/11**. Translation source was frozen Tamil only; missing English page records **0**; frozen Tamil changes **0**; both separate closing notes preserved.
+
+### E2
+
+**PASS / COMPLETE — 22/22 pages; 5 corrections; 0 unresolved.**
+
+- constituent 15: **2 corrections**;
+- constituent 16: **3 corrections**;
+- all **5/5** E2 corrections consolidated;
+- page correspondence / joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording and separate closing-note handling: **PASS**;
+- frozen Tamil changes during E2: **0**.
+
+### E3
+
+**PASS / COMPLETE — 22/22 pages; 1 additional correction; 0 unresolved.**
+
+- constituent 15: **1 additional correction** — `நூல்கள்` final English title/closing-note term **Works → Books**;
+- constituent 16: **0 additional corrections**;
+- all E2 corrections retained;
+- final page correspondence / joins and source-sensitive handling: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state for constituents 15–16: **`verified-complete`**.
+
+## Collection totals after constituents 15–16 E3
+
+- mapped / started / source-gated: **36/36 / 16/36 / 16/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **16/36**;
+- English E1/E2/E3 complete / English verified: **16/36**;
+- fully archived: **14/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.**
+**Repository closure for constituents 15–16 together.**

@@ -150,6 +150,33 @@ Combined Tamil T3: **PASS / COMPLETE — 22/22 source pages; 0 additional correc
 
 Collection state: Tamil T1/T2/T3 complete / Tamil verified **16/36**; English E1/E2/E3 complete / English verified **14/36**; fully archived **14/36**. Source PDF remains uncommitted.
 
+## Constituents 15–16 — English E1 complete
+
+Combined English E1: **COMPLETE — 22/22 pages** — constituent 15 **11/11**, constituent 16 **11/11**. Translation authority was frozen Tamil only. Page correspondence and both separate closing notes are preserved. Frozen Tamil changes during E1: **0**.
+
+## Constituents 15–16 — English E2 complete
+
+Combined English E2: **PASS / COMPLETE — 22/22 pages; 5 corrections; 0 unresolved**.
+
+- constituent 15: **2 corrections**;
+- constituent 16: **3 corrections**;
+- all **5/5** corrections are consolidated in the final English;
+- page correspondence / joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording and both separate closing notes: **PASS**;
+- frozen Tamil changes during E2: **0**.
+
+## Constituents 15–16 — English E3 complete / English verified
+
+Combined English E3: **PASS / COMPLETE — 22/22 pages; 1 additional correction; 0 unresolved**.
+
+- constituent 15: **1 additional correction** — final title/closing-note rendering of `நூல்கள்` changed from **Works** to **Books**;
+- constituent 16: **0 additional corrections**;
+- all **5/5** E2 corrections remain consolidated;
+- page correspondence / joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording, constituent-16 no-date handling and both separate closing notes: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- both English layers are now **`verified-complete`**.
+
+Collection state: Tamil verified **16/36**; English E1/E2/E3 complete / English verified **16/36**; fully archived **14/36**. Repository closure for constituents 15–16 is **READY / NOT STARTED**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, constituent 17, or repository closure.
+**Repository closure for constituents 15–16 together.** Stop before constituent 17.
