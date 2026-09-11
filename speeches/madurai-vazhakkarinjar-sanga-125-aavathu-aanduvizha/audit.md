@@ -70,6 +70,18 @@ The title `ஆண்டுவிழா` versus closing-note `ஆண்டு வ
 - English E2 independent fidelity review: **READY / NOT STARTED**;
 - no frozen Tamil text changed during E1.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 9/9 pages; 0 corrections; 0 unresolved.**
+
+- every English page was compared independently against frozen `transcription-ta.md`;
+- omissions / additions / reversals found: **0**;
+- names, titles, numerals, rhetoric, repetition, applause markers and page-boundary continuations: **PASS**;
+- separate source closing note: **PASS**;
+- PDF94 expectation/opposition wordplay remains transparent through the retained Tamil source forms;
+- frozen Tamil changes: **0**;
+- English E3: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.

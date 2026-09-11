@@ -69,6 +69,22 @@ PDF110 / printed p.109 `நீங்கள் சொல்வார்களா 
 - English E2 independent fidelity review: **READY / NOT STARTED**;
 - no frozen Tamil text changed during E1.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 10/10 pages; 4 corrections; 0 unresolved.**
+
+Confirmed corrections consolidated in `translation-en.md`:
+
+1. PDF104 / printed p.103: `நினைவு ஊட்டியவன் நான்` — “one who recalled him” → **“one who reminded people of him”**.
+2. PDF105 / printed p.104: `தடந்தோள் தட்டிய` — restored **“slapped his broad shoulders in challenge”**.
+3. PDF107 / printed p.106: `தீப்பந்தத்தை கட்டிக் கொண்டு` — restored **“having tied a firebrand to themselves”**.
+4. PDF111 / printed p.110: `மாறிய நிலையை வரலாற்றுச் சான்றுகளோடு எடுத்துச் செல்லி` — corrected to **“set out this changed condition with historical evidence”**.
+
+- PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains explicitly source-noted and was not normalized;
+- all page records, page joins, names/titles/numerals, historical quotations, rhetoric/repetition and the separate closing note: **PASS**;
+- frozen Tamil changes: **0**;
+- English E3: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.

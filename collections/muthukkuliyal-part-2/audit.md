@@ -91,6 +91,18 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - frozen Tamil changes during E1: **0**;
 - English E2: **READY / NOT STARTED**.
 
+## Constituents 10–11 — English E2 independent fidelity review
+
+- result: **PASS / COMPLETE — 19/19 pages**;
+- constituent 10: **9/9; 0 corrections; 0 unresolved**;
+- constituent 11: **10/10; 4 corrections; 0 unresolved**;
+- combined confirmed English corrections: **4**;
+- combined unresolved English-fidelity issues: **0**;
+- corrections consolidated in canonical `translation-en.md`: **4/4**;
+- frozen Tamil changes: **0**;
+- page correspondence, page joins and separate closing notes: **PASS**;
+- English E3: **READY / NOT STARTED**.
+
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
@@ -98,9 +110,10 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - Tamil T2 complete: **11/36**;
 - Tamil T3 complete / Tamil verified: **11/36**;
 - English E1 complete: **11/36**;
-- English E2/E3 complete: **9/36**;
+- English E2 complete: **11/36**;
+- English E3 complete: **9/36**;
 - fully archived: **9/36**.
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.

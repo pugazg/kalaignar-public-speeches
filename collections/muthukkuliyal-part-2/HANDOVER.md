@@ -21,7 +21,8 @@
 - Tamil T2 complete: **11 / 36**;
 - Tamil T3 complete / Tamil verified: **11 / 36**;
 - English E1 complete: **11 / 36**;
-- English E2/E3 complete: **9 / 36**;
+- English E2 complete: **11 / 36**;
+- English E3 complete: **9 / 36**;
 - fully archived: **9 / 36**.
 
 Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
@@ -43,6 +44,10 @@ Combined Tamil T3: **PASS / COMPLETE — 19/19 pages; 0 additional corrections; 
 
 Combined English E1: **COMPLETE — 19/19 pages**. Constituent 10: **9/9**; constituent 11: **10/10**. Translation used only frozen `transcription-ta.md`; both separate closing notes remain outside the speech bodies. E2 is **READY / NOT STARTED**. Constituent 12 remains outside the active batch.
 
+## Constituents 10–11 — durable English E2 result
+
+Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10 required **0** corrections; constituent 11 required **4**. All four corrections are consolidated. Frozen Tamil was not changed. English E3 is **READY / NOT STARTED**. Constituent 12 remains outside the active batch.
+
 ## Exact next incomplete gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.

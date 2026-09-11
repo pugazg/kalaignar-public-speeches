@@ -30,8 +30,8 @@ The title/closing-note spacing distinction `ஆண்டுவிழா` versus 
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved** |
 | Tamil state | **`verified-complete` / FROZEN** |
 | English E1 first-pass translation | **COMPLETE — 9/9** |
-| English E2 independent fidelity review | **READY / NOT STARTED** |
-| English E3 final verification | **BLOCKED pending E2** |
+| English E2 independent fidelity review | **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved** |
+| English E3 final verification | **READY / NOT STARTED** |
 | Repository closure | not started |
 
 Tamil T1 covers every source page exactly once from PDF **94–102** / printed **93–101**. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The source closing note remains separate from the speech body.
@@ -41,6 +41,8 @@ Tamil T3 consolidated the T2-corrected transcript with **0 additional correction
 
 English E1 is now **COMPLETE — 9/9 pages**, translated only from the frozen Tamil layer. E2 has not started and no English fidelity-pass claim is made yet.
 
+English E2 independently reviewed all **9/9 pages** against frozen Tamil. E2 found **0 corrections / 0 unresolved**. PDF94 expectation/opposition wordplay and the separate closing note remain intact. English remains provisional until E3.
+
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.

@@ -12,7 +12,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T2 complete: **11 / 36**
 - Tamil T3 complete / Tamil verified: **11 / 36**
 - English E1 complete: **11 / 36**
-- English E2 complete: **9 / 36**
+- English E2 complete: **11 / 36**
 - English E3 complete: **9 / 36**
 - fully archived: **9 / 36**
 
@@ -39,6 +39,10 @@ Combined Tamil T3 result: **PASS / COMPLETE — 19/19 source pages; 0 additional
 
 Combined English E1: **COMPLETE — 19/19 pages** — constituent 10 **9/9**, constituent 11 **10/10**. Translation authority was the frozen Tamil layer only. Page correspondence and separate closing notes are preserved. English E2 is **READY / NOT STARTED**; no English fidelity-pass claim is made yet.
 
+## Constituents 10–11 — English E2 complete
+
+Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10: **9/9, 0 corrections**. Constituent 11: **10/10, 4 corrections**. All corrections are consolidated in `translation-en.md`; frozen Tamil remained unchanged. English E3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
