@@ -39,6 +39,21 @@ Re-read every page in full. In particular verify:
 
 Page joins requiring explicit T2 review: **173→174, 174→175, 175→176, 181→182**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 11/11 source pages; 4 corrections; 0 unresolved.**
+
+Every page from PDF **173–183** / printed **172–182** was re-read directly against the controlling scan. Names, numerals, punctuation, repetitions, source-sensitive forms, page-boundary continuations and the separate closing note were checked.
+
+### Scan-confirmed corrections
+
+1. PDF178 / p.177: `கழகத்தின் துணைக்காரர்கள் பலரும்` → `கழகத்தின் தளகர்த்தர்கள் பலரும்`.
+2. PDF181 / p.180: `வயல்களுக்கு போய்ச் சேர முடியாத` → `வயல்களுக்குப் போய்ச் சேர முடியாத`.
+3. PDF181 / p.180: `அந்தப் பணியை மேலும் தொடர்ந்து தான் இந்த ஆண்டு` → `அந்தப் பணியை மேலும் தொடர்ந்துதான் இந்த ஆண்டு`.
+4. PDF182 / p.181: `வயல்களுக்கு சென்று மேலும் அதிக விளைச்சலை` → `வயல்களுக்குச் சென்று மேலும் அதிக விளைச்சலை`.
+
+Documented source-sensitive readings were retained as printed. Page joins **173→174, 174→175, 175→176, 181→182**: **PASS**. Separate closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.**

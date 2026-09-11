@@ -240,6 +240,12 @@ Direct T1 scan reread also repaired constituent-15 source-gate metadata: the sou
 
 Source PDF remains uncommitted.
 
+## Constituents 15–16 — durable Tamil T2 result
+
+Combined Tamil T2: **PASS / COMPLETE — 22/22 source pages; 9 corrections; 0 unresolved**. Constituent 15: **5 corrections**; constituent 16: **4 corrections**. All corrections are consolidated in the canonical Tamil files. Documented page joins and both separate closing notes pass. Source-sensitive readings were retained exactly where the scans supported them.
+
+Tamil T3 has **NOT STARTED**; constituents 15–16 are therefore not yet Tamil-verified/frozen. Constituents 1–14 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total.** Keep both constituents separate archival units. Stop before T3 and constituent 17.
+**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.** Keep the constituents as separate archival units. Stop before English, constituent 17, or repository closure.

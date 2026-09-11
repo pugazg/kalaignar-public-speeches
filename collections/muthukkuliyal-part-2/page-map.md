@@ -61,8 +61,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **Tamil T1 COMPLETE — 11/11; T2 next** |
-| 16 | `ambur-sampangi-illa-manavizha` | **Tamil T1 COMPLETE — 11/11; T2 next** |
+| 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **Tamil T2 PASS — 11/11; 5 corrections; T3 next** |
+| 16 | `ambur-sampangi-illa-manavizha` | **Tamil T2 PASS — 11/11; 4 corrections; T3 next** |
 | 17–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -94,6 +94,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **COMPLETE — 22/22 source pages.** Constituent 15 **11/11**; constituent 16 **11/11**. Missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing notes preserved. Constituent 15 source title was corrected by direct scan evidence from `கல்வி` to `கல்கி`, and its closing-note form to `பரிவுத் தொகை`.
 
+## Constituents 15–16 — Tamil T2
+
+**PASS / COMPLETE — 22/22 source pages; 9 corrections; 0 unresolved.** Constituent 15: **5 corrections**; constituent 16: **4 corrections**. All corrections are consolidated; page joins and separate closing notes pass.
+
 ## Next same-gate batch
 
-Constituents **15–16 together** — Tamil T2 strict direct-scan fidelity audit — **22 source pages total**. Stop before T3 / constituent 17.
+Constituents **15–16 together** — Tamil T3 consolidation/freeze — **22 source pages total**. Stop before English / constituent 17.

@@ -47,6 +47,22 @@ Re-read every page in full. In particular verify without silent normalization:
 
 Page joins requiring explicit T2 review: **162→163, 163→164, 164→165, 165→166, 166→167, 167→168, 169→170, 171→172**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 11/11 source pages; 5 corrections; 0 unresolved.**
+
+Every page from PDF **162–172** / printed **161–171** was re-read directly against the controlling scan. Names, numerals, punctuation, quotations, repetitions, source-sensitive forms, page-boundary continuations and the separate closing note were checked.
+
+### Scan-confirmed corrections
+
+1. PDF163 / p.162: `தமிழகமாக எப்படி பணியாற்றுவது` → `தமிழுக்காக எப்படிப் பணியாற்றுவது`.
+2. PDF165 / p.164: `கல்கி அவர்கள் தலைமையேத்தி` → `கல்கி அவர்கள் தலைமைதாங்கி`.
+3. PDF166 / p.165: `தமிழ் மொழியின் மீது மாத்திரமல்ல` → `தமிழ் மொழியின்மீது மாத்திரமல்ல`.
+4. PDF166 / p.165: removed the unsupported comma in `ஈடுபட்டவர் என்பதையும், பலமுறை`.
+5. PDF168 / p.167: `திராவிடக் கழக மாநாட்டில்` → `திராவிடர் கழக மாநாட்டில்`.
+
+Documented source-sensitive readings were retained as printed. Page joins **162→163, 163→164, 164→165, 165→166, 166→167, 167→168, 169→170, 171→172**: **PASS**. Separate closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.**

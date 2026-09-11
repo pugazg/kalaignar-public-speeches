@@ -49,13 +49,13 @@
     "duplicate_check": "pass-no-existing-dedicated-archive",
     "source_inspection": "complete",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "first-pass-complete",
+    "tamil_transcription": "t2-complete",
     "speech_pages_total": 11,
     "speech_pages_drafted": 11,
     "t1_pages_completed": 11,
     "t1_unreadable_or_unknown": 0,
-    "tamil_visual_audit": "not-started",
-    "tamil_consolidation": "blocked-pending-t2",
+    "tamil_visual_audit": "complete",
+    "tamil_consolidation": "not-started",
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
@@ -65,6 +65,11 @@
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total"
+    "next_gate": "Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total",
+    "strict_reaudit_pages_checked": 11,
+    "tamil_visual_audit_through_pdf_page": 172,
+    "tamil_visual_audit_through_printed_page": 171,
+    "tamil_visual_audit_corrections": 5,
+    "tamil_visual_audit_unresolved": 0
   }
 }

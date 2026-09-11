@@ -36,7 +36,7 @@
     "constituent_items_started": 16,
     "constituent_items_source_gated": 16,
     "constituent_items_t1_complete": 16,
-    "constituent_items_t2_complete": 14,
+    "constituent_items_t2_complete": 16,
     "constituent_items_t3_complete": 14,
     "constituent_items_tamil_verified": 14,
     "constituent_items_e1_complete": 14,
@@ -48,7 +48,7 @@
     "active_constituent_number": 15,
     "active_constituent_slug": "thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha",
     "active_constituent_title_ta": "திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா",
-    "active_constituent_status": "t1-complete-t2-pending",
+    "active_constituent_status": "t2-complete-t3-pending",
     "active_constituent_pdf_pages": "162-172",
     "active_constituent_printed_pages": "161-171",
     "active_constituent_pages_total": 11,
@@ -64,8 +64,13 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t2",
+    "active_batch_gate": "tamil-t3",
     "next_constituent_number": 15,
-    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total"
+    "next_gate": "Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total",
+    "active_batch_t1_pages_completed": 22,
+    "active_batch_t1_unreadable_or_unknown": 0,
+    "active_batch_t2_pages_completed": 22,
+    "active_batch_t2_corrections": 9,
+    "active_batch_t2_unresolved": 0
   }
 }
