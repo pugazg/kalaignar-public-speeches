@@ -299,6 +299,30 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **13/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **145–161** / printed **144–160** — **17 pages**;
+- opening: PDF 145 / printed p.144, constituent `14`, heading `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`;
+- contents form: `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`;
+- closing note: `2-5-98 அன்று ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`;
+- date: **02-05-1998**;
+- venue: **not stated** in the inspected opening/closing evidence;
+- event/role: source-supported from the closing note; no additional metadata inferred;
+- PDF 162 begins constituent 15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, confirming the end boundary;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- Tamil T1: **NOT STARTED**.
+
+## Collection totals after constituent 14 source gate
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **13/36**;
+- English E1 / E2 / E3 complete and English verified: **13/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-Constituent **14** alone — `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`, PDF **145–161** / printed **144–160** — **17 pages**: source / duplicate / boundary gate. Constituent 15 is excluded because **17 + 11 = 28 pages**, exceeding the 25-page batch cap.
+**Tamil T1 first-pass transcription for constituent 14 — 17 source pages total.** Stop before T2 and do not start constituent 15.

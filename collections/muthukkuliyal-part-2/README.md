@@ -7,13 +7,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **13 / 36**
+- speech archives started / source-gated: **14 / 36**
 - Tamil T1 complete: **13 / 36**
 - Tamil T2 complete: **13 / 36**
 - Tamil T3 complete / Tamil verified: **13 / 36**
 - English E1 complete: **13 / 36**
 - English E2 complete: **13 / 36**
-- English E3 complete: **12 / 36**
+- English E3 complete: **13 / 36**
 - fully archived: **13 / 36**
 
 Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
@@ -84,6 +84,22 @@ Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 ad
 
 Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 14 — source gate complete
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **14 — காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா:** PDF **145–161** / printed **144–160** — **17 pages**.
+- PDF 145 is the numbered/titled opening.
+- Collection contents use `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`; the page heading uses `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
+- PDF 161 completes the speech body before the separate note `2-5-98 அன்று ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`.
+- The closing note directly establishes **02-05-1998**, event wording and role `ஆற்றிய உரை`; no geographic venue is stated, so none is inferred.
+- The page-heading/contents `மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி)` wording and closing-note `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள்` wording are preserved separately.
+- PDF 162 begins constituent 15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, confirming the end boundary.
+- Dedicated archive: `speeches/karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha/`.
+- Tamil T1: **NOT STARTED**.
+
+Constituent 15 remains outside the active batch because 17 + 11 pages would exceed the 25-page cap.
+
 ## Exact next gate
 
-Constituent **14** alone — `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`, PDF **145–161** / printed **144–160** — **17 pages**: perform the source / duplicate / boundary gate. Constituent 15 adds another **11 pages**, so **14+15 must not be combined** under the 25-page batch cap.
+**Tamil T1 first-pass transcription for constituent 14 — 17 source pages total.** Stop before T2 and do not start constituent 15.

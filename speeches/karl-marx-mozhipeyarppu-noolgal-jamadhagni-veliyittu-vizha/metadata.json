@@ -1,0 +1,66 @@
+{
+  "id": "karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha",
+  "title": {
+    "ta": "காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா",
+    "contents_title_ta": "காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா",
+    "closing_note_event_ta": "ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழா",
+    "en_transliteration": "Karl Marx Mozhipeyarppu Noolgal (Jamadhagni) Veliyittu Vizha"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 14,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": "1998-05-02",
+    "date_source_text": "2-5-98",
+    "venue_ta": null,
+    "venue_note": "No geographic venue is stated in the inspected numbered/titled opening or separate closing note; do not infer one.",
+    "event_ta": "காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 161 / printed p.160 states: 2-5-98 அன்று ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 145,
+    "pdf_page_end": 161,
+    "printed_page_start": 144,
+    "printed_page_end": 160,
+    "speech_pages_total": 17,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 145 / printed p.144; numbered constituent 14 with page heading காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா",
+    "ending": "Speech body ends on PDF 161 / printed p.160 before the separate printed source closing note; PDF 162 begins constituent 15"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 17,
+    "speech_pages_drafted": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 first-pass transcription for constituent 14 — 17 source pages total"
+  }
+}
