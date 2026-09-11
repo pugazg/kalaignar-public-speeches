@@ -58,7 +58,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **Tamil T1 COMPLETE — 15/15; T2 next** |
+| 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **Tamil T2 PASS / COMPLETE — 15/15; 1 correction; 0 unresolved; T3 next** |
 | 13–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -67,6 +67,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **12** `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா` has completed Tamil T1: **15/15 source pages**, PDF **113–127** / printed **112–126**. Missing page records: **0**; explicit unreadable/unknown placeholders: **0**; separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
+Constituent **12** `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா` has completed Tamil T2: **PASS / COMPLETE — 15/15 source pages; 1 correction; 0 unresolved**, PDF **113–127** / printed **112–126**. The correction is consolidated; page boundaries and separate closing-note handling pass. Tamil T3 has **NOT STARTED**.
 
-Exact next gate: **Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total**. Constituent 13 remains outside this iteration.
+Exact next gate: **Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total**. Constituent 13 remains outside this iteration.

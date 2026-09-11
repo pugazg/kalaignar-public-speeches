@@ -33,13 +33,15 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 15/15** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 15/15; 1 correction; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
-Tamil T1 now contains all **15/15** canonical page records for PDF **113–127** / printed **112–126**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The separate source closing note remains outside the speech body. T1 is a first-pass transcription only; no T2 fidelity claim has been made.
+Tamil T1 contains all **15/15** canonical page records for PDF **113–127** / printed **112–126**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
+
+Tamil T2 re-read all **15/15** source pages directly against the controlling scans and made **1 scan-confirmed correction / 0 unresolved**: on PDF 121 / printed p.120, the unsupported comma in `“சக்கரவர்த்தி திருமகன்”, என்ற` was removed to match the source: `“சக்கரவர்த்தி திருமகன்” என்ற`. The separate source closing note remains outside the speech body. Source-odd forms including `அஃதன்னியில்`, `சுயமரியாதைக் காரராக`, `அந்தப் பகுத்ததை`, `நிலமை`, and `அடுத்து ஆண்டுத் தொடக்கத்திலே` were re-read and retained as printed.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Re-read every page against the controlling scan, consolidate only source-proven corrections, and stop before T3 and constituent 13.
+**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Confirm the T2 correction is consolidated, check stale readings/page order/boundaries/closing-note separation, and stop before English and constituent 13.

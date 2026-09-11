@@ -43,6 +43,25 @@ These are **legible first-pass source readings to re-check**, not T1 corrections
 - PDF125 / printed p.124: `அந்தப் பகுத்ததை` and `நிலமை`;
 - PDF127 / printed p.126: `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 15/15 source pages; 1 correction; 0 unresolved.**
+
+Every page from PDF **113–127** / printed **112–126** was re-read directly against the controlling scan. Names, numerals, punctuation, repetitions, page-boundary continuations and the separate source closing note were checked.
+
+Scan-confirmed correction consolidated into `transcription-ta.md`:
+
+1. PDF121 / printed p.120: `“சக்கரவர்த்தி திருமகன்”, என்ற` → **`“சக்கரவர்த்தி திருமகன்” என்ற`** — removed an unsupported comma after the closing quotation mark.
+
+Source-odd readings explicitly re-read and retained as printed:
+
+- PDF114 / p.113: `அஃதன்னியில்`;
+- PDF122 / p.121: `சுயமரியாதைக் காரராக` and later `சுயமரியாதைக்காரராக`;
+- PDF125 / p.124: `அந்தப் பகுத்ததை` and `நிலமை`;
+- PDF127 / p.126: `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
+
+Page-boundary continuations checked: PDF113→114, 114→115, 115→116, 117→118, 118→119, 120→121, 122→123, 123→124, 124→125, 125→126 and 126→127 — **PASS**. The source closing note remains separate from the speech body. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.
+**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.

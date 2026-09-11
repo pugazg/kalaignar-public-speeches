@@ -18,7 +18,7 @@
 
 - mapped: **36 / 36**; started / source-gated: **12 / 36**;
 - Tamil T1 complete: **12 / 36**;
-- Tamil T2 complete: **11 / 36**;
+- Tamil T2 complete: **12 / 36**;
 - Tamil T3 complete / Tamil verified: **11 / 36**;
 - English E1 complete: **11 / 36**;
 - English E2 complete: **11 / 36**;
@@ -77,6 +77,12 @@ Tamil T1: **COMPLETE — 15/15 source pages** for `நாகர்கோவி�
 
 Carry the documented source-odd T1 readings into strict T2 re-check without normalization. Constituent 13 remains outside the batch. The source PDF binary remains uncommitted.
 
+## Constituent 12 — durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 15/15 source pages; 1 correction; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126**. The single scan-confirmed correction on PDF121 / p.120 removes the unsupported comma in `“சக்கரவர்த்தி திருமகன்”, என்ற` → `“சக்கரவர்த்தி திருமகன்” என்ற`. All documented source-odd T1 forms were re-read and retained as printed. Page boundaries and closing-note separation pass. Tamil T3 is **NOT STARTED**; constituent 12 is therefore not yet verified/frozen.
+
+Constituent 13 remains outside the batch. The source PDF binary remains uncommitted.
+
 ## Exact next incomplete gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.
+**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.

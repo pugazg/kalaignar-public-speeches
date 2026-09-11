@@ -119,7 +119,7 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 
 - mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
 - Tamil T1 complete: **11/36**;
-- Tamil T2 complete: **11/36**;
+- Tamil T2 complete: **12/36**;
 - Tamil T3 complete / Tamil verified: **11/36**;
 - English E1 complete: **11/36**;
 - English E2 complete: **11/36**;
@@ -194,6 +194,27 @@ T2 attention points are recorded in the constituent audit, including PDF114 `அ
 - English E1 / E2 / E3 complete and English verified: **11/36**;
 - fully archived: **11/36**.
 
+## Constituent 12 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 15/15 source pages; 1 correction; 0 unresolved.**
+
+- full direct-scan re-read: PDF **113–127** / printed **112–126**;
+- correction consolidated: PDF121 / p.120 `“சக்கரவர்த்தி திருமகன்”, என்ற` → `“சக்கரவர்த்தி திருமகன்” என்ற`;
+- documented source-odd T1 forms: **re-read / retained as printed**;
+- page-boundary continuations: **PASS**;
+- separate source closing note: **PASS / remains outside speech body**;
+- unresolved Tamil readings: **0**;
+- Tamil T3: **NOT STARTED**.
+
+## Collection totals after constituent 12 T2
+
+- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
+- Tamil T1 complete: **12/36**;
+- Tamil T2 complete: **12/36**;
+- Tamil T3 complete / Tamil verified: **11/36**;
+- English E1 / E2 / E3 complete and English verified: **11/36**;
+- fully archived: **11/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 12 — 15 source pages total.** Stop before T3 and do not start constituent 13.
+**Tamil T3 consolidation/freeze for constituent 12 — 15 source pages total.** Stop before English and do not start constituent 13.

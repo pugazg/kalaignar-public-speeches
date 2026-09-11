@@ -1,10 +1,10 @@
 # நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா — Tamil transcription
 
-**Status:** `first-pass-complete` — Tamil T1 **15 / 15 pages COMPLETE**; T2 pending  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 15 / 15 pages; 1 correction; 0 unresolved**; T3 pending  
 **Source range:** PDF **113–127** / printed **112–126**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Source spelling, punctuation, repetitions, unusual forms, PDF/printed-page boundaries, and the separate closing note are preserved. Tamil T2 has **NOT STARTED**; no final fidelity claim is made at this checkpoint.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 15 source pages directly against the scans and consolidated 1 source-proven punctuation correction with 0 unresolved readings. Tamil is not yet frozen; T3 has not started.
 
 ## PDF 113 / printed p.112
 
@@ -84,7 +84,7 @@
 
 நம்மைப் பெருமைப்படுத்திக் கொள்வது போலாகுமே என்ற காரணத்திற்காக.
 
-அதைப்போலவே மூதறிஞர் ராஜாஜி மறைந்த போது, அவருக்காக ஒரு நினைவுச் சின்னம் எழுப்ப வேண்டும் என்ற கோரிக்கை வந்தது. சில பேர் சொன்னார்கள்; “ஏற்கனவே ராஜாஜி மண்டபம் பெரிய அளவில் இருக்கிறது” என்று. இருந்தாலும் அவருடைய மறைவுக்குப் பின்னர் ஒரு நினைவுச் சின்னம் வேண்டும் என்று அதையும் கிண்டியிலே காந்தி மண்டபத்திற்கு இன்னொரு பக்கத்திலே - ஒரு பக்கத்திலே காமராஜர் மண்டபம் - இன்னொரு பக்கத்திலே ராஜாஜி மண்டபத்தை எழுப்பியவனும் நான்தான். “அதற்கு என்ன சின்னம் வைக்கலாம்” என்று கேட்டபோது நான் சொன்னேன்: “எனக்கும் இராமாயணத்துக்கும் எவ்வளவு தூரம் என்று உங்களுக்குத் தெரியும். இருந்தாலும் கூட, ‘ராஜாஜி இராமாயணத்திலே மிகுந்த பற்றுடையவர். “சக்கரவர்த்தி திருமகன்”, என்ற ஒரு தொடரோவியமே எழுதியவர். எனவே அந்த மண்டபத்தினுடைய முகப்பு ராமருடைய கிரீடம் போல் இருக்க வேண்டும்” என்று அதற்கு வரைபடம் வரைந்து கொடுத்தவனே நான்தான் என்பதையும் தெரிவித்துக் கொள்கின்றேன்.
+அதைப்போலவே மூதறிஞர் ராஜாஜி மறைந்த போது, அவருக்காக ஒரு நினைவுச் சின்னம் எழுப்ப வேண்டும் என்ற கோரிக்கை வந்தது. சில பேர் சொன்னார்கள்; “ஏற்கனவே ராஜாஜி மண்டபம் பெரிய அளவில் இருக்கிறது” என்று. இருந்தாலும் அவருடைய மறைவுக்குப் பின்னர் ஒரு நினைவுச் சின்னம் வேண்டும் என்று அதையும் கிண்டியிலே காந்தி மண்டபத்திற்கு இன்னொரு பக்கத்திலே - ஒரு பக்கத்திலே காமராஜர் மண்டபம் - இன்னொரு பக்கத்திலே ராஜாஜி மண்டபத்தை எழுப்பியவனும் நான்தான். “அதற்கு என்ன சின்னம் வைக்கலாம்” என்று கேட்டபோது நான் சொன்னேன்: “எனக்கும் இராமாயணத்துக்கும் எவ்வளவு தூரம் என்று உங்களுக்குத் தெரியும். இருந்தாலும் கூட, ‘ராஜாஜி இராமாயணத்திலே மிகுந்த பற்றுடையவர். “சக்கரவர்த்தி திருமகன்” என்ற ஒரு தொடரோவியமே எழுதியவர். எனவே அந்த மண்டபத்தினுடைய முகப்பு ராமருடைய கிரீடம் போல் இருக்க வேண்டும்” என்று அதற்கு வரைபடம் வரைந்து கொடுத்தவனே நான்தான் என்பதையும் தெரிவித்துக் கொள்கின்றேன்.
 
 இப்படி தேசத்தியாகிகள் யாராக இருந்தாலும் அண்மையிலே கூட பெரியவர் பக்தவத்சலம் அவர்களுக்கு நினைவு மண்டபத்தை எழுப்பித் திறந்து வைத்தேன். இன்றைக்கு எப்படி ஜீவா அவர்களின் குடும்பத்தினர் கலந்து கொண்டிருக்கிறார்களோ, அதைப் போல பக்தவத்சலம் அவர்களுடைய குடும்பத்தாரும் அந்த விழாவிலே கலந்து கொண்டு நன்றிப் பெருக்குடன் நினைவு கூர்ந்தார்கள். உரையாற்றினார்கள்.
 
@@ -154,8 +154,18 @@
 - Missing page records: **0**.
 - Explicit unreadable/unknown placeholders: **0**.
 - Source closing note: **preserved separately outside the speech body**.
-- Tamil T2 strict direct-scan fidelity audit: **NOT STARTED**.
+
+## T2 checkpoint
+
+- Tamil T2 strict direct-scan fidelity audit: **PASS / COMPLETE — 15/15 source pages**.
+- Scan-confirmed corrections: **1**.
+- Unresolved readings: **0**.
+- Correction: PDF 121 / printed p.120 — removed the unsupported comma in `“சக்கரவர்த்தி திருமகன்”, என்ற` → **`“சக்கரவர்த்தி திருமகன்” என்ற`**.
+- Source-odd forms re-read and retained as printed: PDF114 `அஃதன்னியில்`; PDF122 `சுயமரியாதைக் காரராக` and later `சுயமரியாதைக்காரராக`; PDF125 `அந்தப் பகுத்ததை` and `நிலமை`; PDF127 `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
+- Page-boundary continuations: **PASS**.
+- Names, numerals, quotations, repetitions and separate closing-note handling: **PASS**.
+- Tamil T3 consolidation/freeze: **NOT STARTED**.
 
 ## Exact next gate
 
-Tamil T2 strict direct-scan fidelity audit for constituent 12 — **15 source pages total**. Stop before T3 and do not start constituent 13.
+Tamil T3 consolidation/freeze for constituent 12 — **15 source pages total**. Stop before English and do not start constituent 13.
