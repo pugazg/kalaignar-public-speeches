@@ -39,7 +39,7 @@
 | English E1 | **COMPLETE — 17/17** |
 | English E2 | **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved** |
 | English E3 | **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** |
-| Repository closure | not started |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 Tamil T1 contains all **17/17** canonical page records for PDF **128–144** / printed **127–143**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
 
@@ -71,6 +71,10 @@ E2 independently compared every English page against frozen Tamil and consolidat
 
 E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end. All **5/5** E2 corrections remain present. Page correspondence and joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and the separate closing note all pass. Frozen Tamil changes during E3: **0**. English is now **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; source identity, PDF **128–144** / printed **127–143** range, closing-note separation, Tamil T2 **5 corrections**, Tamil T3 **0 additional corrections**, English E2 **5 corrections**, English E3 **0 additional corrections**, canonical page order, translation review, audit and metadata all agree. All **5/5** E2 corrections remain consolidated. The parent collection, page map and root catalogue are synchronized. No transcription or translation work remains pending for this constituent.
+
+The archive continues to preserve the source's printed **1881 / 1884 chronology**, incomplete fragments, `ஆலந்தூர் / ஆலந்தார்` distinction, and other documented source-odd readings without silent normalization.
+
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.

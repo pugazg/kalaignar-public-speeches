@@ -23,9 +23,9 @@
 - English E1 complete: **13 / 36**;
 - English E2 complete: **13 / 36**;
 - English E3 complete: **13 / 36**;
-- fully archived: **12 / 36**.
+- fully archived: **13 / 36**.
 
-Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -161,6 +161,12 @@ English E3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unres
 
 Repository closure is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 13 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 17/17 pages** for `மே தின விழா`. The archive is now **FULLY ARCHIVED**. Metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source range, correction counts, page ordering and separate closing-note handling agree. Parent collection controls, page map and root catalogue are synchronized. No unresolved Tamil or English issue remains. The source PDF binary remains uncommitted.
+
+Tamil: **`verified-complete` / FROZEN** — T2 **5 corrections**, T3 **0 additional corrections**. English: **`verified-complete`** — E2 **5 corrections**, E3 **0 additional corrections**.
+
 ## Exact next incomplete gate
 
-**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.
+Constituent **14** alone — `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`, PDF **145–161** / printed **144–160** — **17 pages**: source / duplicate / boundary gate. Do not combine constituent 15; **17 + 11 = 28 pages** would exceed the 25-page batch cap.

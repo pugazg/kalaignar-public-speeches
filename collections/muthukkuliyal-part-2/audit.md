@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–12** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–13** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -275,6 +275,30 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **13/36**;
 - fully archived: **12/36**.
 
+## Constituent 13 — repository closure
+
+**PASS / COMPLETE — 17/17 pages.**
+
+- repository closure: **complete / fully-archived**;
+- Tamil page records: **17/17**, complete and ordered;
+- English page records: **17/17**, complete and ordered;
+- Tamil T2 corrections: **5 / 5 consolidated**;
+- Tamil T3 additional corrections: **0**;
+- English E2 corrections: **5 / 5 consolidated**;
+- English E3 additional corrections: **0**;
+- unresolved Tamil / English issues: **0 / 0**;
+- separate closing-note handling: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- parent collection / page-map / root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 13 closure
+
+- mapped / started / source-gated: **36/36 / 13/36 / 13/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **13/36**;
+- English E1 / E2 / E3 complete and English verified: **13/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.
+Constituent **14** alone — `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`, PDF **145–161** / printed **144–160** — **17 pages**: source / duplicate / boundary gate. Constituent 15 is excluded because **17 + 11 = 28 pages**, exceeding the 25-page batch cap.

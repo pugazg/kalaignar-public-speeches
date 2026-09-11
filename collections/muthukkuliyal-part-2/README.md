@@ -14,9 +14,9 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E1 complete: **13 / 36**
 - English E2 complete: **13 / 36**
 - English E3 complete: **12 / 36**
-- fully archived: **12 / 36**
+- fully archived: **13 / 36**
 
-Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -76,12 +76,14 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 13 — English E3 complete / English verified
+## Constituent 13 — repository closure
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 and E2 remain complete. English E3 is now **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** for `மே தின விழா`.
+**PASS / COMPLETE — FULLY ARCHIVED.** Final consistency checking confirmed that constituent 13 agrees across metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, PDF **128–144** / printed **127–143** source range, canonical page order, closing-note separation and correction counts.
 
-All **5/5** E2 corrections remain consolidated. Page correspondence and joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. Final English state: **`verified-complete`**. Repository closure is ready but has not started. Constituent 14 remains outside the active batch.
+Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English remains **`verified-complete`** with **5 E2 corrections / 0 E3 additional corrections / 0 unresolved**. All corrections are consolidated. Source PDF remains uncommitted.
+
+Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.
+Constituent **14** alone — `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`, PDF **145–161** / printed **144–160** — **17 pages**: perform the source / duplicate / boundary gate. Constituent 15 adds another **11 pages**, so **14+15 must not be combined** under the 25-page batch cap.

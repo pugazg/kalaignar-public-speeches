@@ -131,6 +131,27 @@ Correction details are recorded in `translation-review.md`. Source-odd chronolog
 - frozen Tamil changes: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.
+**PASS / COMPLETE.**
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- repository closure: **complete**;
+- archive status: **fully-archived**;
+- pending transcription/translation work: **none**;
+- source range: PDF **128–144** / printed **127–143** — **17 pages**;
+- Tamil T2 corrections: **5 / 5 consolidated**;
+- Tamil T3 additional corrections: **0**;
+- English E2 corrections: **5 / 5 consolidated**;
+- English E3 additional corrections: **0**;
+- unresolved Tamil / English issues: **0 / 0**;
+- canonical Tamil / English page records: **17/17 / 17/17**, complete and ordered;
+- page-boundary continuations / joins: **PASS**;
+- separate source closing note: **PASS**;
+- source-odd chronology / incomplete fragments: **preserved without normalization**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- parent collection / page-map / root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+Reopen only on genuinely new source or fidelity evidence.

@@ -234,6 +234,6 @@ Speech delivered at the May Day celebration on 1-5-98.
 - Frozen Tamil changes: **0**.
 - Final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 13 — 17 pages total.** Verify all constituent and collection controls, final Tamil/English states, correction counts, page ordering, source range, closing-note separation, and root catalogue synchronization. Stop before constituent 14.
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during repository closure. All **5/5** E2 corrections remain consolidated; E3 added **0** further corrections. Page correspondence, page joins, source-sensitive notes and separate closing-note handling agree with the final archive controls.

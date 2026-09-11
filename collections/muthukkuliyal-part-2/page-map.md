@@ -59,8 +59,9 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 13 | `may-thina-vizha` | **English E3 PASS / COMPLETE — English verified-complete; repository closure next; Tamil FROZEN** |
-| 14–36 | — | not started |
+| 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 14 | — | **not started — next source/duplicate/boundary gate; 17 pages** |
+| 15–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -70,8 +71,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **PASS / COMPLETE — 15/15 pages.** Constituent 12 is now closed / fully archived with Tamil and English `verified-complete`. Source range, page order, correction counts, final English, frozen Tamil, closing-note separation and repository controls agree. Fully archived total: **12 / 36**.
 
-## Active constituent
+## Constituent 13 — archival closure
 
-Constituent **13** `மே தின விழா` has completed English E3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved**. All **5/5** E2 corrections remain consolidated. Tamil is **`verified-complete` / FROZEN** and English is now **`verified-complete`**. Repository closure has **NOT STARTED**.
+**PASS / COMPLETE — 17/17 pages.** Constituent 13 is now closed / fully archived with Tamil and English `verified-complete`. Source range, page order, correction counts, final English, frozen Tamil, closing-note separation and repository controls agree. Fully archived total: **13 / 36**.
 
-Exact next gate: **repository-level archival closure for constituent 13 — 17 pages total**. Constituent 14 remains outside this iteration.
+## Next same-gate batch
+
+Constituent **14** alone: `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டுவிழா`, PDF **145–161** / printed **144–160** — **17 pages**. Next gate: source / duplicate / boundary. Constituent 15 is not part of the batch because adding its 11 pages would make **28 pages**, exceeding the 25-page cap.
