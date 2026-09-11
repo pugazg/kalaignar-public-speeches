@@ -310,7 +310,7 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - date: **02-05-1998**;
 - venue: **not stated** in the inspected opening/closing evidence;
 - event/role: source-supported from the closing note; no additional metadata inferred;
-- PDF 162 begins constituent 15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, confirming the end boundary;
+- PDF 162 begins constituent 15 `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, confirming the end boundary;
 - duplicate search: **PASS — no existing dedicated archive found**;
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**;
@@ -478,9 +478,9 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 ### Constituent 15
 
 - exact range: PDF **162–172** / printed **161–171** — **11 pages**;
-- opening: PDF 162 / printed p.161, constituent `15`, heading `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`;
+- opening: PDF 162 / printed p.161, constituent `15`, heading `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`;
 - contents date: `15-05-98`;
-- closing note: `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை`;
+- closing note: `15-5-98 அன்று திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத் தொகை வழங்கும் விழாவில் ஆற்றிய உரை`;
 - date: **15-05-1998**;
 - venue: **not stated** in the inspected opening/closing evidence;
 - event/role: source-supported from the separate closing note;
@@ -513,6 +513,30 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - fully archived: **14/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 15–16 — Tamil T1 first-pass transcription
+
+**COMPLETE — 22/22 source pages.**
+
+- constituent 15: **11/11**, PDF 162–172 / printed 161–171;
+- constituent 16: **11/11**, PDF 173–183 / printed 172–182;
+- canonical page records: **22/22**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing notes: **preserved outside both speech bodies**;
+- source method: **direct visual reading of controlling scans**;
+- source-gate repair for constituent 15: `கல்வி` → `கல்கி`; `பரிவு தொகை` → `பரிவுத் தொகை`; corrected slug `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha`;
+- constituent 14 boundary documentation synchronized only; constituent 14 remains CLOSED / FULLY ARCHIVED;
+- Tamil T2: **NOT STARTED**.
+
+## Collection totals after constituents 15–16 T1
+
+- mapped / started / source-gated: **36/36 / 16/36 / 16/36**;
+- Tamil T1 complete: **16/36**;
+- Tamil T2 / T3 complete and Tamil verified: **14/36**;
+- English E1 / E2 / E3 complete and English verified: **14/36**;
+- fully archived: **14/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituents 15–16 together — 22 source pages total.** Stop before T2 and do not start constituent 17.
+**Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total.** Stop before T3 and constituent 17.

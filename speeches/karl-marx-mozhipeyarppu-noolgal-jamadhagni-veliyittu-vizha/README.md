@@ -24,7 +24,7 @@
 - the closing note directly establishes date **02-05-1998**, event wording `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`;
 - the closing note's `மொழி பெயர்த்த` wording is preserved separately from the page-heading/contents `மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி)` wording;
 - no geographic venue is stated in the inspected opening/closing evidence, so none is inferred;
-- PDF 162 opens constituent `15` with heading `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, independently confirming the ending boundary;
+- PDF 162 opens constituent `15` with heading `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, independently confirming the ending boundary;
 - repository and owner-wide duplicate/title/slug searches found no existing dedicated archive for this constituent;
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.

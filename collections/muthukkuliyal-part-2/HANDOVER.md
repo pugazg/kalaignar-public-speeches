@@ -176,7 +176,7 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; du
 - PDF 161 completes the body before `2-5-98 அன்று ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`, directly establishing **02-05-1998**, event wording and role `ஆற்றிய உரை`.
 - No geographic venue is stated in the inspected opening/closing evidence.
 - The contents/page-heading spacing distinction and the page-heading `மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி)` versus closing-note `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள்` wording are preserved.
-- PDF 162 begins constituent 15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, confirming the ending boundary.
+- PDF 162 begins constituent 15 `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, confirming the ending boundary.
 - Dedicated archive: `speeches/karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha/`.
 - Source PDF remains uncommitted.
 - Tamil T1: **NOT STARTED**.
@@ -227,11 +227,19 @@ Tamil: **`verified-complete` / FROZEN** — T2 **2 corrections**, T3 **0 additio
 
 Combined source / duplicate / boundary gate: **PASS / COMPLETE — 22/22 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
-- **15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`:** PDF **162–172** / printed **161–171** — **11 pages**. PDF 162 is the numbered/titled opening. PDF 172 completes the body before `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை`, directly establishing **15-05-1998**, event wording and role `ஆற்றிய உரை`. No geographic venue is stated in the inspected opening/closing evidence. The `பரிவுத்தொகை` / `பரிவு தொகை` distinction is preserved. Dedicated archive: `speeches/thiru-vi-ka-kalvi-noolgalukku-parivuthogai-vazhangum-vizha/`.
+- **15 `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`:** PDF **162–172** / printed **161–171** — **11 pages**. PDF 162 is the numbered/titled opening. PDF 172 completes the body before `15-5-98 அன்று திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத் தொகை வழங்கும் விழாவில் ஆற்றிய உரை`, directly establishing **15-05-1998**, event wording and role `ஆற்றிய உரை`. No geographic venue is stated in the inspected opening/closing evidence. The `பரிவுத்தொகை` / `பரிவு தொகை` distinction is preserved. Dedicated archive: `speeches/thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha/`.
 - **16 `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`:** PDF **173–183** / printed **172–182** — **11 pages**. PDF 173 page heading is `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`; the opening body directly supports venue `ஆம்பூர் சம்பங்கி இல்லம்`. PDF 183 completes the body before `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`. No date is stated in contents/opening/closing evidence, so none is inferred. PDF 184 begins constituent 17. Dedicated archive: `speeches/ambur-sampangi-illa-manavizha/`.
 
 Tamil T1 is **NOT STARTED** for either constituent. The source PDF binary remains uncommitted.
 
+## Constituents 15–16 — durable Tamil T1 result
+
+Combined Tamil T1: **COMPLETE — 22/22 source pages**. Constituent 15 is PDF **162–172** / printed **161–171**, **11/11**; constituent 16 is PDF **173–183** / printed **172–182**, **11/11**. Canonical page records **22/22**, missing **0**, explicit unreadable/unknown placeholders **0**. Both separate closing notes remain outside speech bodies. Tamil T2 has **NOT STARTED**.
+
+Direct T1 scan reread also repaired constituent-15 source-gate metadata: the source title is `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, not the earlier `கல்வி` reading; PDF172 uses `பரிவுத் தொகை`. The corrected archive is `speeches/thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha/`; the pre-T1 `...-kalvi-...` directory is removed. Constituent 14 remains CLOSED / FULLY ARCHIVED; only its PDF162 next-boundary label was synchronized.
+
+Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituents 15–16 together — 22 source pages total.** Keep both as separate archival units. Stop before T2 and do not start constituent 17.
+**Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total.** Keep both constituents separate archival units. Stop before T3 and constituent 17.

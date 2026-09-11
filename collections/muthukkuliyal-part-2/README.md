@@ -96,14 +96,30 @@ Collection state is now **14 / 36 fully archived**. Constituents **1–14 are CL
 
 Combined source / duplicate / boundary gate: **PASS / COMPLETE — 22/22 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
-- **15 — திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171**. Closing note `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை` establishes **15-05-1998** and role; no geographic venue stated. `பரிவுத்தொகை` / `பரிவு தொகை` preserved.
+- **15 — திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171**. Closing note `15-5-98 அன்று திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத் தொகை வழங்கும் விழாவில் ஆற்றிய உரை` establishes **15-05-1998** and role; no geographic venue stated. `பரிவுத்தொகை` / `பரிவு தொகை` preserved.
 - **16 — ஆம்பூர் சம்பங்கி இல்ல மணவிழா:** PDF **173–183** / printed **172–182**. Page heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`; opening body directly supports venue `ஆம்பூர் சம்பங்கி இல்லம்`. Closing note `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`; date not stated and not inferred.
 - PDF 184 begins constituent 17.
-- dedicated archives: `speeches/thiru-vi-ka-kalvi-noolgalukku-parivuthogai-vazhangum-vizha/`, `speeches/ambur-sampangi-illa-manavizha/`.
+- dedicated archives: `speeches/thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha/`, `speeches/ambur-sampangi-illa-manavizha/`.
 - Tamil T1 **NOT STARTED** for both; source PDF remains uncommitted.
 
 Collection state: source-gated **16 / 36**; Tamil verified **14 / 36**; English verified **14 / 36**; fully archived **14 / 36**.
 
+## Constituents 15–16 — Tamil T1 complete
+
+Combined Tamil T1: **COMPLETE — 22/22 source pages**.
+
+- constituent 15: PDF **162–172** / printed **161–171** — **11/11** canonical page records;
+- constituent 16: PDF **173–183** / printed **172–182** — **11/11** canonical page records;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- both separate source closing notes remain outside speech bodies;
+- T1 method: direct visual reading of the controlling scans;
+- constituent-15 source-gate repair: `கல்வி` → `கல்கி`; closing note `பரிவு தொகை` → `பரிவுத் தொகை`; corrected archive slug `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha`;
+- constituent 14 remains CLOSED; only its PDF162 boundary label was synchronized to the newly proven source title;
+- Tamil T2: **READY / NOT STARTED** for both.
+
+Collection state: source-gated **16 / 36**; Tamil T1 complete **16 / 36**; Tamil verified **14 / 36**; English verified **14 / 36**; fully archived **14 / 36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **Tamil T1 for constituents 15–16 together — 22 source pages total**. Stop after T1; do not begin T2, constituent 17, English work, or repository closure.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total**. Re-read every page line by line, apply only source-proven corrections, and stop before T3, constituent 17, English work, or repository closure.

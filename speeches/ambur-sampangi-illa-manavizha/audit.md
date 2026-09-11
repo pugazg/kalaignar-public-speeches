@@ -4,19 +4,41 @@
 **Scope:** PDF **173–183** / printed **172–182** — **11 pages**
 
 ## Source / duplicate / boundary gate
-**PASS / COMPLETE.**
-- opening: PDF 173 / printed p.172, constituent `16`, heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`;
-- contents title/date: `ஆம்பூர் சம்பங்கி இல்ல மணவிழா` / **not stated**;
-- opening-body venue evidence: `ஆம்பூர் சம்பங்கி இல்லத்தில் நடைபெறுகின்ற இந்த மணவிழா நிகழ்ச்சியில்`;
-- range: PDF 173–183 = printed 172–182;
-- ending: PDF 183 / printed p.182 before the separate note;
-- closing note: `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`;
-- date: **not stated**; none inferred;
-- venue: `ஆம்பூர் சம்பங்கி இல்லம்`;
-- PDF 184 opens constituent 17 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை`;
-- duplicate search: **PASS**; duplicate unresolved **0**; boundary unresolved **0**.
 
-No Tamil speech-body transcription has started. Source PDF remains uncommitted.
+**PASS / COMPLETE.** Opening, venue evidence, ending, separate closing note and PDF184 next-constituent boundary remain verified. Date remains **not stated** and is not inferred. Duplicate unresolved **0**; boundary unresolved **0**.
+
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 11/11 source pages.**
+
+- canonical records: PDF **173–183** / printed **172–182**, **11/11**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: preserved outside speech body;
+- method: direct visual reading of the controlling scans;
+- Tamil T2: **NOT STARTED**.
+
+### T2 attention points
+
+Re-read every page in full. In particular verify:
+
+- PDF173 heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`, names `சங்கீதா`, `இராதாகிருஷ்ணன்`, `பாலாஜி`;
+- PDF173→174 page join `இப்படியே போனால் / மனோகரனுடைய பேரன்...`;
+- PDF174 source-odd `பூட்டுத் தாக்கிலே` and `செலக்ட் ஹோட்டல்`;
+- PDF174→175 `‘பராசக்தி’ / படத்திற்கு` join;
+- PDF175 `வடஆற்காட்டிலிருந்து` and the two-name introduction `சம்பங்கி / இராமு`;
+- PDF175→176 `விழாவுக்குக்கூட / நான் வந்தேன்`;
+- PDF176 quote `“நீரடித்து நீர் விலகாது”`;
+- PDF177 name `தம்பி சகி`, `அப்துல் லத்தீப்`, repeated `துரைமுருகன்`;
+- PDF178 `1956-இல்`, `ஜனநாயக பேரியக்கம்`;
+- PDF179 `57-ஆம் ஆண்டு`, `67-இல்`, `துர்ப்பாக்கியம்`, `இலட்சோப லட்சம்`, `தளகர்த்தர்கள்`;
+- PDF180 `பன்னிரெண்டு கோடி ரூபாய்` / `இருபது கோடி ரூபாய்`;
+- PDF181 source-odd `வகைப்படுத்த` and PDF181→182 `அவைகளைப் / பத்திரிகைகள்` join;
+- PDF182 `காந்தாரியின் நினைப்பு`, quoted press question;
+- PDF183 `பதவி... துண்டை` / `கொள்கை... வேட்டியை` comparison and separate closing note.
+
+Page joins requiring explicit T2 review: **173→174, 174→175, 175→176, 181→182**.
 
 ## Exact next gate
-**Tamil T1 for constituents 15–16 together — 22 source pages total.**
+
+**Tamil T2 strict direct-scan fidelity audit for constituents 15–16 together — 22 source pages total.**

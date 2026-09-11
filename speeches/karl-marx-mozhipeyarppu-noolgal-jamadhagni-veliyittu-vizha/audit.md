@@ -17,7 +17,7 @@
 - event/role: `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழா` / `ஆற்றிய உரை`, directly source-supported;
 - contents/page-heading `வெளியீட்டுவிழா` / `வெளியீட்டு விழா` spacing distinction retained;
 - page-heading `மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி)` versus closing-note `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள்` wording retained as separate source evidence;
-- PDF 162 opens constituent `15` with heading `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, independently confirming the end boundary;
+- PDF 162 opens constituent `15` with heading `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, independently confirming the end boundary;
 - duplicate search: **PASS — no existing dedicated archive found**;
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
