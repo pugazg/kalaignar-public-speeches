@@ -117,7 +117,7 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 
 ## Collection totals
 
-- mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
+- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
 - Tamil T1 complete: **11/36**;
 - Tamil T2 complete: **11/36**;
 - Tamil T3 complete / Tamil verified: **11/36**;
@@ -147,11 +147,35 @@ The constituent 11 PDF103→104 causative correction remains present, and PDF110
 
 ## Collection totals after closure
 
-- mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
+- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **11/36**;
+- English E1 / E2 / E3 complete and English verified: **11/36**;
+- fully archived: **11/36**.
+
+## Constituent 12 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 15/15 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **113–127** / printed **112–126** — **15 pages**;
+- opening: PDF 113 / printed p.112, constituent number `12`, title `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`;
+- ending: PDF 127 / printed p.126 completes the body before the separate source note;
+- closing note: `19-4-98 அன்று நாகர்கோவிலில் ஜீவானந்தம் மணிமண்டபத் திறப்பு விழாவில் ஆற்றிய உரை`;
+- date: **19-04-1998**;
+- venue: **நாகர்கோவில்** at city level from `நாகர்கோவிலில்`; no more specific venue inferred;
+- event/role: `ஜீவானந்தம் மணிமண்டபத் திறப்பு விழா` / `ஆற்றிய உரை`;
+- title/closing-note `திறப்புவிழா` / `திறப்பு விழா` distinction preserved;
+- PDF 128 begins constituent `13`, heading `மே தின விழா`, confirming the end boundary;
+- repository duplicate/title/slug search: **PASS — no dedicated archive found**;
+- Tamil speech-body transcription: **NOT STARTED**;
+- source PDF: **uncommitted**.
+
+## Collection totals after constituent 12 source gate
+
+- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
 - Tamil T1 / T2 / T3 complete and Tamil verified: **11/36**;
 - English E1 / E2 / E3 complete and English verified: **11/36**;
 - fully archived: **11/36**.
 
 ## Exact next gate
 
-Constituent **12** alone — `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**: source / duplicate / boundary gate. Constituent 13 is excluded from this batch because its additional 17 pages would exceed the 25-page cap.
+**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13.

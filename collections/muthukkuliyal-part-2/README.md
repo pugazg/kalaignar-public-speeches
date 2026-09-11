@@ -7,7 +7,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **11 / 36**
+- speech archives started / source-gated: **12 / 36**
 - Tamil T1 complete: **11 / 36**
 - Tamil T2 complete: **11 / 36**
 - Tamil T3 complete / Tamil verified: **11 / 36**
@@ -53,6 +53,21 @@ Combined English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction;
 
 Collection state is now **11 / 36 fully archived**. Constituents **1–11 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 12 — source gate complete
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **12 — நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா:** PDF **113–127** / printed **112–126** — **15 pages**.
+- PDF 113 is the numbered/titled opening.
+- PDF 127 completes the speech body before the separate note `19-4-98 அன்று நாகர்கோவிலில் ஜீவானந்தம் மணிமண்டபத் திறப்பு விழாவில் ஆற்றிய உரை`.
+- The closing note directly establishes **19-04-1998**, city-level **நாகர்கோவில்**, event wording and role `ஆற்றிய உரை`; no more specific venue is inferred.
+- Title `திறப்புவிழா` versus closing-note `திறப்பு விழா` spacing is preserved.
+- PDF 128 begins constituent 13 `மே தின விழா`, confirming the end boundary.
+- Dedicated archive: `speeches/nagarkovil-jeevanandham-manimandapa-thirappuvizha/`.
+- Tamil T1: **NOT STARTED**.
+
+Constituent 13 remains outside the active batch.
+
 ## Exact next gate
 
-Constituent **12** alone — `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**: perform the source / duplicate / boundary gate. Constituent 13 adds 17 pages, so **12+13 must not be combined** under the 25-page batch cap.
+**Tamil T1 first-pass transcription for constituent 12 — 15 source pages total.** Stop before T2 and do not start constituent 13 in the same activity.

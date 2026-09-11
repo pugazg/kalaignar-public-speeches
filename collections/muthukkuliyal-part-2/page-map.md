@@ -58,13 +58,17 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 12 | — | **not started — next source/duplicate/boundary gate; 15 pages** |
+| 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 15/15; Tamil T1 next** |
 | 13–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
 **PASS / COMPLETE — 19/19 pages.** Constituents 10–11 are now closed / fully archived with Tamil and English `verified-complete`. Their source ranges, page order, correction counts, final English, frozen Tamil, closing-note separation and repository controls agree. Fully archived total: **11 / 36**.
 
-## Next same-gate batch
+## Active constituent
 
-Constituent **12** alone: `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**. Next gate: source / duplicate / boundary. Constituent 13 is not part of the batch because adding its 17 pages would exceed the 25-page cap.
+Constituent **12** `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா` has completed the source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; 0 duplicate unresolved; 0 boundary unresolved**. Dedicated archive: `speeches/nagarkovil-jeevanandham-manimandapa-thirappuvizha/`.
+
+Source-specific identity notes: PDF 113 is the titled opening; PDF 127 separately prints `19-4-98 அன்று நாகர்கோவிலில் ஜீவானந்தம் மணிமண்டபத் திறப்பு விழாவில் ஆற்றிய உரை`; title `திறப்புவிழா` versus closing-note `திறப்பு விழா` is preserved; PDF 128 starts constituent 13 `மே தின விழா`.
+
+Exact next gate: **Tamil T1 first-pass transcription for constituent 12 — 15 source pages total**. Constituent 13 remains outside this iteration.
