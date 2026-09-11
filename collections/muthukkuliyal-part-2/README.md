@@ -11,7 +11,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **13 / 36**
 - Tamil T2 complete: **13 / 36**
 - Tamil T3 complete / Tamil verified: **13 / 36**
-- English E1 complete: **12 / 36**
+- English E1 complete: **13 / 36**
 - English E2 complete: **12 / 36**
 - English E3 complete: **12 / 36**
 - fully archived: **12 / 36**
@@ -76,14 +76,18 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 13 — Tamil T3 complete / Tamil verified
+## Constituent 13 — English E1 complete
 
-Tamil T3 is **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved** for `மே தின விழா`, PDF **128–144** / printed **127–143**.
+Tamil remains **`verified-complete` / FROZEN**. English E1 is now **COMPLETE — 17/17 pages** for `மே தின விழா`, PDF **128–144** / printed **127–143**.
 
-All **5/5** T2 corrections are consolidated; stale superseded readings are absent; canonical page records are complete and ordered; page-boundary continuations and separate closing-note handling pass. Documented source-odd forms and the printed 1881/1884 chronology remain unchanged. Tamil is now **`verified-complete` / FROZEN**.
-
-English E1 is **READY / NOT STARTED**. Constituent 14 remains outside the active batch.
+- English page records: **17/17**, exactly once and ordered;
+- missing English page records: **0**;
+- translation source: **frozen Tamil only**;
+- separate source closing note: **preserved outside the speech body**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**;
+- constituent 14 remains outside the batch.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total.** Stop before E2, constituent 14, or repository closure.
+**English E2 independent fidelity review for constituent 13 — 17 pages total.** Stop before E3, constituent 14, or repository closure.

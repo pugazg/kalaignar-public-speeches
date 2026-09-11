@@ -20,7 +20,7 @@
 - Tamil T1 complete: **13 / 36**;
 - Tamil T2 complete: **13 / 36**;
 - Tamil T3 complete / Tamil verified: **13 / 36**;
-- English E1 complete: **12 / 36**;
+- English E1 complete: **13 / 36**;
 - English E2 complete: **12 / 36**;
 - English E3 complete: **12 / 36**;
 - fully archived: **12 / 36**.
@@ -143,6 +143,12 @@ Tamil T3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresol
 
 English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 13 — durable English E1 result
+
+English E1: **COMPLETE — 17/17 pages** for `மே தின விழா`, PDF **128–144** / printed **127–143**. Translation used only frozen `transcription-ta.md`; English page records are **17/17**, complete and ordered; missing records **0**; separate closing note remains outside the speech body; frozen Tamil changes during E1 **0**.
+
+Source-sensitive E1 notes explicitly preserve the printed 1881/1884 chronology, incomplete phrases, source-odd forms and the `ஆலந்தூர்` / `ஆலந்தார்` distinction rather than repairing them. English E2 is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total.** Stop before E2, constituent 14, or repository closure.
+**English E2 independent fidelity review for constituent 13 — 17 pages total.** Stop before E3, constituent 14, or repository closure.
