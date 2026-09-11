@@ -33,7 +33,7 @@ Repository duplicate search found no existing dedicated archive for this constit
 | English E2 independent fidelity review | **PASS / COMPLETE — 10/10; 4 corrections; 0 unresolved** |
 | English E3 final verification | **PASS / COMPLETE — 10/10; 1 additional correction; 0 unresolved** |
 | English state | **`verified-complete`** |
-| Repository closure | **READY / NOT STARTED** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 Tamil T1 covers every source page exactly once from PDF **103–112** / printed **102–111**. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The separate closing note remains outside the speech body.
 
@@ -42,10 +42,12 @@ Tamil T3 consolidated the T2-corrected transcript with **0 additional correction
 
 English E1 is **COMPLETE — 10/10 pages**, translated only from the frozen Tamil layer.
 
-English E2 independently reviewed all **10/10 pages** against frozen Tamil. E2 consolidated **4 confirmed English corrections / 0 unresolved** on PDFs 104, 105, 107 and 111. PDF110's irregular frozen-Tamil sentence remains explicitly source-noted and unaltered. English remains provisional until E3.
+English E2 independently reviewed all **10/10 pages** against frozen Tamil. E2 consolidated **4 confirmed English corrections / 0 unresolved** on PDFs 104, 105, 107 and 111. PDF110's irregular frozen-Tamil sentence remains explicitly source-noted and unaltered. At the E2 checkpoint, English remained provisional pending E3.
 
 English E3 re-read the complete corrected English against frozen Tamil from beginning to end. E3 applied **1 additional fidelity correction / 0 unresolved** across the PDF103→104 page boundary, restoring the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain present; PDF110's irregular frozen-Tamil sentence remains explicitly source-noted and unaltered. Final English state is **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; source identity, PDF **103–112** / printed **102–111** range, closing-note separation, correction counts, canonical page order, translation review, audit and metadata agree. The E3 causative correction across PDF103→104 remains consolidated, and PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted. The parent collection and root catalogue are synchronized in the combined constituents 10–11 closure. No transcription or translation work remains pending for this constituent.
+
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.

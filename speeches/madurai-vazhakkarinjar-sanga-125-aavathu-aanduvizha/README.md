@@ -33,7 +33,7 @@ The title/closing-note spacing distinction `ஆண்டுவிழா` versus 
 | English E2 independent fidelity review | **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved** |
 | English E3 final verification | **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved** |
 | English state | **`verified-complete`** |
-| Repository closure | **READY / NOT STARTED** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 Tamil T1 covers every source page exactly once from PDF **94–102** / printed **93–101**. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The source closing note remains separate from the speech body.
 
@@ -42,10 +42,12 @@ Tamil T3 consolidated the T2-corrected transcript with **0 additional correction
 
 English E1 is **COMPLETE — 9/9 pages**, translated only from the frozen Tamil layer.
 
-English E2 independently reviewed all **9/9 pages** against frozen Tamil. E2 found **0 corrections / 0 unresolved**. PDF94 expectation/opposition wordplay and the separate closing note remain intact. English remains provisional until E3.
+English E2 independently reviewed all **9/9 pages** against frozen Tamil. E2 found **0 corrections / 0 unresolved**. PDF94 expectation/opposition wordplay and the separate closing note remain intact. At the E2 checkpoint, English remained provisional pending E3.
 
 English E3 re-read the complete corrected English against frozen Tamil from beginning to end. E3 found **0 additional corrections / 0 unresolved**. PDF94 expectation/opposition wordplay and the separate closing note remain intact. Final English state is **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil and English are both `verified-complete`; source identity, PDF **94–102** / printed **93–101** range, title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction, closing-note separation, correction counts, canonical page order, translation review, audit and metadata agree. The parent collection and root catalogue are synchronized in the combined constituents 10–11 closure. No transcription or translation work remains pending for this constituent.
+
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.

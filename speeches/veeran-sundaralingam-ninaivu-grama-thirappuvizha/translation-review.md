@@ -4,6 +4,7 @@
 **English E2:** **PASS / COMPLETE — 10 / 10; 4 corrections; 0 unresolved**  
 **English E3:** **PASS / COMPLETE — 10 / 10; 1 additional correction; 0 unresolved**  
 **English state:** **`verified-complete`**
+**Repository closure:** **PASS / COMPLETE**
 
 Tamil remains **`verified-complete` / FROZEN**. E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end.
 
@@ -13,6 +14,6 @@ Tamil remains **`verified-complete` / FROZEN**. E3 re-read the complete E2-corre
 
 All four E2 corrections remain consolidated. PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains explicitly source-noted and unaltered. Page correspondence and joins, names/titles/numerals, historical quotations, rhetoric/repetition, and the separate source closing note all pass. Frozen Tamil changes: **0**.
 
-## Exact next gate
+## Closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+English is **`verified-complete`** and all corrections are consolidated. Repository-level archival closure is complete, the speech metadata agrees with the frozen Tamil/final English layers, and no further English gate is pending.

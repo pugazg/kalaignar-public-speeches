@@ -97,6 +97,16 @@ Confirmed corrections consolidated in `translation-en.md`:
 - frozen Tamil changes: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+**PASS / COMPLETE.**
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- repository closure: **complete**;
+- archive status: **fully-archived**;
+- pending transcription/translation work: **none**.
+
+Tamil and English are both `verified-complete`; source identity, PDF **103–112** / printed **102–111** range, closing-note separation, correction counts, canonical page order, translation review, audit and metadata agree. The E3 causative correction across PDF103→104 remains consolidated, and PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted. The parent collection and root catalogue are synchronized in the combined constituents 10–11 closure. No transcription or translation work remains pending for this constituent.
+
+Reopen only on genuinely new source or fidelity evidence.

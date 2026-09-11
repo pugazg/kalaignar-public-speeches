@@ -25,7 +25,9 @@
 - English E2: **PASS / COMPLETE — 10/10; 4 corrections; 0 unresolved**;
 - English E3: **PASS / COMPLETE — 10/10; 1 additional correction; 0 unresolved**;
 - English: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**;
+- repository archival closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**;
 - PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is **CONFIRMED AS PRINTED**;
 - source closing note remains outside the speech body; PDF113 begins constituent 12.
 
@@ -37,6 +39,6 @@ English E2 independently checked every English page against the frozen Tamil lay
 
 English E3 re-read the complete E2-corrected English against frozen Tamil. E3 applied **1 additional fidelity correction / 0 unresolved** across the PDF103→104 page boundary, restoring the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain present; PDF110's irregular frozen-Tamil sentence remains explicitly source-noted and unaltered. No frozen Tamil text changed. Final English is **`verified-complete`**.
 
-## Exact next gate
+This constituent is closed. Tamil and English are both `verified-complete`; source identity, PDF **103–112** / printed **102–111** range, closing-note separation, correction counts, canonical page order, translation review, audit and metadata agree. The E3 causative correction across PDF103→104 remains consolidated, and PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted. The parent collection and root catalogue are synchronized in the combined constituents 10–11 closure. No transcription or translation work remains pending for this constituent.
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.
