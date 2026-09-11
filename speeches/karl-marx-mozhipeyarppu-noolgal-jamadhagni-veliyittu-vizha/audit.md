@@ -99,6 +99,20 @@ Page-boundary continuations **145→146, 146→147, 147→148, 151→152, 152→
 
 No speech-body Tamil was changed during T3.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 17/17 pages.**
+
+- translation source: **frozen `transcription-ta.md` only**;
+- English page records: **17/17**, PDF **145–161** / printed **144–160**, exactly once and in source order;
+- missing English page records: **0**;
+- separate source closing note: **preserved outside the speech body**;
+- frozen Tamil changes during E1: **0**;
+- source-sensitive dates / chronology / unusual forms: **preserved without Tamil repair**;
+- English E2: **NOT STARTED**.
+
+E1 is a first pass and does not claim final English fidelity.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Translate only from frozen Tamil and stop before E2, constituent 15, or repository closure.
+**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.

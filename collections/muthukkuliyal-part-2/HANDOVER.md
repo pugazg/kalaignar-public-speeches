@@ -20,7 +20,7 @@
 - Tamil T1 complete: **14 / 36**;
 - Tamil T2 complete: **14 / 36**;
 - Tamil T3 complete / Tamil verified: **14 / 36**;
-- English E1 complete: **13 / 36**;
+- English E1 complete: **14 / 36**;
 - English E2 complete: **13 / 36**;
 - English E3 complete: **13 / 36**;
 - fully archived: **13 / 36**.
@@ -199,6 +199,12 @@ Tamil T3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresol
 
 English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 14 — durable English E1 result
+
+English E1: **COMPLETE — 17/17 pages** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, PDF **145–161** / printed **144–160**. Translation used only frozen `transcription-ta.md`; English page records are **17/17**, complete and ordered; missing records **0**; separate closing note remains outside the speech body; frozen Tamil changes during E1 **0**.
+
+Source-sensitive dates, chronology, unusual spellings, quotations, verse, Jenny letter and Kural wording are explicitly documented rather than silently repaired. English E2 is **READY / NOT STARTED**. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Stop before E2, constituent 15, or repository closure.
+**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.

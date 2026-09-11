@@ -386,6 +386,26 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **13/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — English E1 first-pass translation
+
+**COMPLETE — 17/17 pages.**
+
+- English source: **frozen `transcription-ta.md` only**;
+- English page records: **17/17**, complete and ordered;
+- missing English page records: **0**;
+- separate source closing note: **preserved outside speech body**;
+- frozen Tamil changes during E1: **0**;
+- source-sensitive dates / chronology / quotations / verse / Jenny letter / Kural: **documented; no silent Tamil repair**;
+- English E2: **NOT STARTED**.
+
+## Collection totals after constituent 14 E1
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **14/36**;
+- English E1 complete: **14/36**;
+- English E2 / E3 complete and English verified: **13/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Stop before E2, constituent 15, or repository closure.
+**English E2 independent fidelity review for constituent 14 — 17 pages total.** Stop before E3, constituent 15, or repository closure.

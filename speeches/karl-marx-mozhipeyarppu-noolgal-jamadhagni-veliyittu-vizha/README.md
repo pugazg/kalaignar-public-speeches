@@ -37,8 +37,9 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 17/17** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending prior English gate |
+| English E1 | **COMPLETE — 17/17** |
+| English E2 | **READY / NOT STARTED** |
+| English E3 | blocked pending E2 |
 | Repository closure | not started |
 
 Tamil T1 contains all **17/17** canonical page records for PDF **145–161** / printed **144–160**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
@@ -51,6 +52,14 @@ Tamil T2 re-read all **17/17** source pages directly against the controlling sca
 
 Both **2/2** T2 corrections are consolidated; stale superseded readings are absent; all canonical page records are complete and ordered; documented page-boundary continuations, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Documented source-sensitive spellings, printed dates and chronology remain unchanged. Tamil is now **`verified-complete` / FROZEN**.
 
+## English E1 first-pass translation
+
+**COMPLETE — 17/17 pages.**
+
+English E1 was translated only from frozen `transcription-ta.md`. All PDF **145–161** / printed **144–160** English page records are present exactly once and in order; missing page records: **0**. The separate source closing note remains outside the speech body. Frozen Tamil changes during E1: **0**.
+
+Source-sensitive notes in `translation-en.md` preserve the printed dates/chronology, unusual spellings, verse, Jenny letter, Kural wording and closing-note wording instead of silently repairing the source.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 15, or repository closure.
+**English E2 independent fidelity review for constituent 14 — 17 pages total.** Compare every English page against frozen Tamil and stop before E3, constituent 15, or repository closure.
