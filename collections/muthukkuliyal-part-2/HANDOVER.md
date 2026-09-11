@@ -17,7 +17,7 @@
 ## Durable collection state
 
 - mapped: **36 / 36**; started / source-gated: **13 / 36**;
-- Tamil T1 complete: **12 / 36**;
+- Tamil T1 complete: **13 / 36**;
 - Tamil T2 complete: **12 / 36**;
 - Tamil T3 complete / Tamil verified: **12 / 36**;
 - English E1 complete: **12 / 36**;
@@ -123,9 +123,14 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; du
 - No geographic venue is stated in the inspected opening/closing evidence.
 - PDF 145 begins constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, confirming the ending boundary.
 - Dedicated archive: `speeches/may-thina-vizha/`.
-- Tamil T1 is **NOT STARTED**.
 - Source PDF remains uncommitted.
+
+## Constituent 13 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 17/17 source pages** for `மே தின விழா`, PDF **128–144** / printed **127–143**. Canonical page records are **17/17**, complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 is **NOT STARTED**, so constituent 13 is not yet Tamil-verified/frozen.
+
+Carry the documented source-odd T1 readings into strict T2 re-check without normalization. Constituent 14 remains outside the batch. The source PDF binary remains uncommitted.
 
 ## Exact next incomplete gate
 
-**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.
+**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.

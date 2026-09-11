@@ -8,7 +8,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **13 / 36**
-- Tamil T1 complete: **12 / 36**
+- Tamil T1 complete: **13 / 36**
 - Tamil T2 complete: **12 / 36**
 - Tamil T3 complete / Tamil verified: **12 / 36**
 - English E1 complete: **12 / 36**
@@ -76,20 +76,21 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 13 — source gate complete
+## Constituent 13 — Tamil T1 complete
 
-Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
+Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
 - **13 — மே தின விழா:** PDF **128–144** / printed **127–143** — **17 pages**.
-- PDF 128 is the numbered opening with page heading `மே தின விழா`; collection contents use `மே தினவிழா`.
-- PDF 144 completes the speech body before the separate note `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`.
-- The closing note establishes **01-05-1998**, event wording `மே தின விழா`, and role `ஆற்றிய உரை`; no geographic venue is stated or inferred.
-- PDF 145 begins constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, confirming the end boundary.
+- Tamil T1: **COMPLETE — 17/17**.
+- canonical page records: **17/17**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate source closing note: **preserved outside the speech body**;
+- Tamil T2: **READY / NOT STARTED**.
 - Dedicated archive: `speeches/may-thina-vizha/`.
-- Tamil T1: **NOT STARTED**.
 
 Constituent 14 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.
+**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.

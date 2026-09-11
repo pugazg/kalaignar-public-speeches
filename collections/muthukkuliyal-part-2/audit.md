@@ -117,187 +117,14 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 
 ## Collection totals
 
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 complete: **11/36**;
-- Tamil T2 complete: **12/36**;
-- Tamil T3 complete / Tamil verified: **11/36**;
-- English E1 complete: **11/36**;
-- English E2 complete: **11/36**;
-- English E3 complete: **11/36**;
-- fully archived: **11/36**.
-
-## Constituents 10–11 — repository closure
-
-**PASS / COMPLETE — 19/19 pages.**
-
-- constituent 10 repository closure: **complete / fully-archived**;
-- constituent 11 repository closure: **complete / fully-archived**;
-- Tamil page records: **19/19**, complete and ordered;
-- English page records: **19/19**, complete and ordered;
-- combined Tamil T2 corrections: **11 / 11 consolidated**;
-- combined English E2 corrections: **4 / 4 consolidated**;
-- combined English E3 additional corrections: **1 / 1 consolidated**;
-- unresolved Tamil / English issues: **0 / 0**;
-- separate closing-note handling: **PASS** for both;
-- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
-- parent collection / page-map / root catalogue synchronization: **PASS**;
-- source PDF remains **uncommitted**.
-
-The constituent 11 PDF103→104 causative correction remains present, and PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted.
-
-## Collection totals after closure
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 / T2 / T3 complete and Tamil verified: **11/36**;
-- English E1 / E2 / E3 complete and English verified: **11/36**;
-- fully archived: **11/36**.
-
-## Constituent 12 — source / duplicate / boundary gate
-
-**PASS / COMPLETE — 15/15 source pages; duplicate unresolved 0; boundary unresolved 0.**
-
-- exact range: PDF **113–127** / printed **112–126** — **15 pages**;
-- opening: PDF 113 / printed p.112, constituent number `12`, title `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`;
-- ending: PDF 127 / printed p.126 completes the body before the separate source note;
-- closing note: `19-4-98 அன்று நாகர்கோவிலில் ஜீவானந்தம் மணிமண்டபத் திறப்பு விழாவில் ஆற்றிய உரை`;
-- date: **19-04-1998**;
-- venue: **நாகர்கோவில்** at city level from `நாகர்கோவிலில்`; no more specific venue inferred;
-- event/role: `ஜீவானந்தம் மணிமண்டபத் திறப்பு விழா` / `ஆற்றிய உரை`;
-- title/closing-note `திறப்புவிழா` / `திறப்பு விழா` distinction preserved;
-- PDF 128 begins constituent `13`, heading `மே தின விழா`, confirming the end boundary;
-- repository duplicate/title/slug search: **PASS — no dedicated archive found**;
-- Tamil speech-body transcription: **NOT STARTED**;
-- source PDF: **uncommitted**.
-
-## Constituent 12 — Tamil T1 first-pass transcription
-
-**COMPLETE — 15/15 source pages.**
-
-- constituent: `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`;
-- range: PDF **113–127** / printed **112–126**;
-- canonical page records: **15/15**, complete and ordered;
-- missing page records: **0**;
-- explicit unreadable/unknown placeholders: **0**;
-- source closing note: **preserved separately outside the speech body**;
-- T1 source method: **direct visual reading of the controlling scans**;
-- Tamil T2: **NOT STARTED**;
-- no T2 correction/fidelity claim has been made yet.
-
-T2 attention points are recorded in the constituent audit, including PDF114 `அஃதன்னியில்`, PDF122 `சுயமரியாதைக் காரராக`, PDF125 `அந்தப் பகுத்ததை` / `நிலமை`, and PDF127 `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
-
-## Collection totals after constituent 12 T1
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 complete: **12/36**;
-- Tamil T2 complete: **11/36**;
-- Tamil T3 complete / Tamil verified: **11/36**;
-- English E1 / E2 / E3 complete and English verified: **11/36**;
-- fully archived: **11/36**.
-
-## Constituent 12 — Tamil T2 strict direct-scan fidelity audit
-
-**PASS / COMPLETE — 15/15 source pages; 1 correction; 0 unresolved.**
-
-- full direct-scan re-read: PDF **113–127** / printed **112–126**;
-- correction consolidated: PDF121 / p.120 `“சக்கரவர்த்தி திருமகன்”, என்ற` → `“சக்கரவர்த்தி திருமகன்” என்ற`;
-- documented source-odd T1 forms: **re-read / retained as printed**;
-- page-boundary continuations: **PASS**;
-- separate source closing note: **PASS / remains outside speech body**;
-- unresolved Tamil readings: **0**;
-- Tamil T3: **NOT STARTED**.
-
-## Collection totals after constituent 12 T2
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 complete: **12/36**;
-- Tamil T2 complete: **12/36**;
-- Tamil T3 complete / Tamil verified: **11/36**;
-- English E1 / E2 / E3 complete and English verified: **11/36**;
-- fully archived: **11/36**.
-
-## Constituent 12 — Tamil T3 consolidation / freeze
-
-**PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved.**
-
-- T2 correction consolidated: **1/1**;
-- stale superseded readings: **0**;
-- canonical page records: **15/15**, exactly once and in source order;
-- missing / duplicated page records: **0 / 0**;
-- page-boundary continuations: **PASS**;
-- separate source closing note: **PASS**;
-- frozen Tamil state: **`verified-complete`**;
-- English E1: **READY / NOT STARTED**.
-
-## Collection totals after constituent 12 T3
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 complete: **12/36**;
+- mapped / started / source-gated: **36/36 / 13/36 / 13/36**;
+- Tamil T1 complete: **13/36**;
 - Tamil T2 complete: **12/36**;
 - Tamil T3 complete / Tamil verified: **12/36**;
-- English E1 / E2 / E3 complete and English verified: **11/36**;
-- fully archived: **11/36**.
-
-## Constituent 12 — English E1 first-pass translation
-
-**COMPLETE — 15/15 pages.**
-
-- English source: **frozen `transcription-ta.md` only**;
-- English page records: **15/15**, complete and ordered;
-- missing English page records: **0**;
-- separate source closing note: **preserved outside speech body**;
-- frozen Tamil changes during E1: **0**;
-- source-sensitive forms: **explicitly noted; no silent Tamil repair**;
-- English E2: **NOT STARTED**.
-
-## Collection totals after constituent 12 E1
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 / T2 / T3 complete and Tamil verified: **12/36**;
-- English E1 complete: **12/36**;
-- English E2 complete: **11/36**;
-- English E3 complete / English verified: **11/36**;
-- fully archived: **11/36**.
-
-## Constituent 12 — English E2 independent fidelity review
-
-**PASS / COMPLETE — 15/15 pages; 6 corrections; 0 unresolved.**
-
-- English pages checked: **15/15**;
-- confirmed fidelity corrections: **6/6 consolidated**;
-- unresolved English-fidelity issues: **0**;
-- page joins / closing-note separation: **PASS**;
-- frozen Tamil changes: **0**;
-- English E3: **READY / NOT STARTED**.
-
-## Collection totals after constituent 12 E2
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 / T2 / T3 complete and Tamil verified: **12/36**;
 - English E1 complete: **12/36**;
 - English E2 complete: **12/36**;
-- English E3 complete / English verified: **11/36**;
-- fully archived: **11/36**.
-
-## Constituent 12 — English E3 final end-to-end verification
-
-**PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved.**
-
-- all **6/6** E2 corrections remain consolidated;
-- page correspondence / joins: **PASS**;
-- names / titles / numerals / quotations / rhetoric / repetition: **PASS**;
-- source-sensitive notes / separate closing note: **PASS**;
-- frozen Tamil changes during E3: **0**;
-- final English state: **`verified-complete`**;
-- repository closure: **READY / NOT STARTED**.
-
-## Collection totals after constituent 12 E3
-
-- mapped / started / source-gated: **36/36 / 12/36 / 12/36**;
-- Tamil T1 / T2 / T3 complete and Tamil verified: **12/36**;
-- English E1 complete: **12/36**;
-- English E2 complete: **12/36**;
-- English E3 complete / English verified: **12/36**;
-- fully archived: **11/36**.
+- English E3 complete: **12/36**;
+- fully archived: **12/36**.
 
 ## Constituent 12 — repository closure
 
@@ -327,26 +154,27 @@ T2 attention points are recorded in the constituent audit, including PDF114 `அ
 
 **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0.**
 
-- exact range: PDF **128–144** / printed **127–143** — **17 pages**;
-- opening: PDF 128 / printed p.127, constituent number `13`, page heading `மே தின விழா`;
-- collection contents form: `மே தினவிழா`; page-heading form: `மே தின விழா`; spacing difference preserved;
-- ending: PDF 144 / printed p.143 completes the body before the separate source note;
-- closing note: `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`;
-- date: **01-05-1998**;
-- venue: **not stated** in the inspected opening/closing evidence;
-- event/role: `மே தின விழா` / `ஆற்றிய உரை`;
-- PDF 145 begins constituent `14`, heading `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, confirming the end boundary;
-- duplicate search: **PASS — no dedicated archive found**;
-- Tamil speech-body transcription: **NOT STARTED**;
-- source PDF: **uncommitted**.
+## Constituent 13 — Tamil T1 first-pass transcription
 
-## Collection totals after constituent 13 source gate
+**COMPLETE — 17/17 source pages.**
+
+- PDF/printed page records: **17/17**, PDF **128–144** / printed **127–143**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate source closing note: **preserved outside the speech body**;
+- T1 source method: **direct visual reading of controlling scans**;
+- Tamil T2: **NOT STARTED**.
+
+T2 attention points are recorded in the constituent `audit.md`; no source-odd form was silently normalized at T1.
+
+## Collection totals after constituent 13 T1
 
 - mapped / started / source-gated: **36/36 / 13/36 / 13/36**;
-- Tamil T1 / T2 / T3 complete and Tamil verified: **12/36**;
+- Tamil T1 complete: **13/36**;
+- Tamil T2 / T3 complete and Tamil verified: **12/36**;
 - English E1 / E2 / E3 complete and English verified: **12/36**;
 - fully archived: **12/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.
+**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.

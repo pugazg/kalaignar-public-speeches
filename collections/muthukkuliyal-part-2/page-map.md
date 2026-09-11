@@ -59,7 +59,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 13 | `may-thina-vizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 17/17; Tamil T1 next** |
+| 13 | `may-thina-vizha` | **Tamil T1 COMPLETE — 17/17; T2 next** |
 | 14–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -72,8 +72,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **13** `மே தின விழா` has completed the source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; 0 duplicate unresolved; 0 boundary unresolved**. Dedicated archive: `speeches/may-thina-vizha/`.
+Constituent **13** `மே தின விழா` has completed Tamil T1: **COMPLETE — 17/17 source pages**. Canonical page records are complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
 
-Source-specific identity notes: collection contents use `மே தினவிழா`; PDF 128 page heading is `மே தின விழா`; PDF 144 separately prints `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`; PDF 145 starts constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
-
-Exact next gate: **Tamil T1 first-pass transcription for constituent 13 — 17 source pages total**. Constituent 14 remains outside this iteration.
+Exact next gate: **Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total**. Constituent 14 remains outside this iteration.

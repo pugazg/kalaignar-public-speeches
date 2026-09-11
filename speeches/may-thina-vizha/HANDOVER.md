@@ -16,8 +16,12 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Duplicate unresolved **0**; boundary unresolved **0**. PDF 128 is the numbered opening with page heading `மே தின விழா`; the contents form `மே தினவிழா` is retained separately. PDF 144 completes the body before the separate note `1-5-98 அன்று மே தின விழாவில் ஆற்றிய உரை`, establishing date **01-05-1998**, event wording `மே தின விழா`, and role `ஆற்றிய உரை`. No geographic venue is stated in the inspected opening/closing evidence. PDF 145 begins constituent 14 `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`. Tamil T1 has **NOT STARTED**; all later gates are blocked.
+Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1 first-pass transcription is now **COMPLETE — 17/17 source pages**, PDF **128–144** / printed **127–143**. Canonical page records: **17/17**, in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**, so the Tamil layer is not yet verified/frozen.
+
+Carry these legible source forms into T2 for strict re-check rather than normalizing them: PDF129 `1881-ஆம் ஆண்டு அக்டோபர் திங்கள் 7-ஆம் நாள்` versus later `முடிவு செய்தது 1884-ஆம் ஆண்டு`; PDF133 `பிரிமியர்` and `இந்த சைதைத் தொகுதியினுடைய முகப்பில்`; PDF135 `கிண்டர் கார்டன்`; PDF141 `அவரும் அவருடைய உடன் பிறவா...?`; PDF142 `திருவாய் மலர்ந்துளி`, `“உதிர்ந்த. . .”`, `தெரு. . .`; PDF143 `நீ தேடி வந்த கோழையுள்ள நாடு ஈதல்லவே`; PDF144 `சந்து பொந்துகளில்`.
+
+The source PDF binary remains uncommitted. Constituent 14 remains outside this activity.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 13 — 17 source pages total.** Stop before T2 and do not start constituent 14.
+**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.
