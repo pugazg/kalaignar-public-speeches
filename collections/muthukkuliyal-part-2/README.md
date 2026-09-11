@@ -9,7 +9,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **13 / 36**
 - Tamil T1 complete: **13 / 36**
-- Tamil T2 complete: **12 / 36**
+- Tamil T2 complete: **13 / 36**
 - Tamil T3 complete / Tamil verified: **12 / 36**
 - English E1 complete: **12 / 36**
 - English E2 complete: **12 / 36**
@@ -76,21 +76,14 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 13 — Tamil T1 complete
+## Constituent 13 — Tamil T2 complete
 
-Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
+Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**. Tamil T1 remains **COMPLETE — 17/17**.
 
-- **13 — மே தின விழா:** PDF **128–144** / printed **127–143** — **17 pages**.
-- Tamil T1: **COMPLETE — 17/17**.
-- canonical page records: **17/17**, complete and ordered;
-- missing page records: **0**;
-- explicit unreadable/unknown placeholders: **0**;
-- separate source closing note: **preserved outside the speech body**;
-- Tamil T2: **READY / NOT STARTED**.
-- Dedicated archive: `speeches/may-thina-vizha/`.
+Tamil T2 is now **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved** for `மே தின விழா`, PDF **128–144** / printed **127–143**. All five scan-confirmed corrections are consolidated. Page-boundary continuations and separate closing-note handling pass. Source-odd forms and the printed 1881/1884 chronology were re-read and retained as printed.
 
-Constituent 14 remains outside the active batch.
+Tamil T3 is **READY / NOT STARTED**. Constituent 14 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.
+**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.

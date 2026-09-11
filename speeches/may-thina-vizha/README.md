@@ -34,13 +34,15 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 17/17** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
-Tamil T1 now contains all **17/17** canonical page records for PDF **128–144** / printed **127–143**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The separate source closing note remains outside the speech body. T1 is a first-pass transcription only; no T2 fidelity claim has been made.
+Tamil T1 contains all **17/17** canonical page records for PDF **128–144** / printed **127–143**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
+
+Tamil T2 re-read all **17/17** source pages directly against the controlling scans and made **5 scan-confirmed corrections / 0 unresolved**: PDF129 `இன்றைக்கும் கூட` → `இன்றைக்கும்கூட`; PDF137 comma → full stop after `மாத்திரமல்ல`; PDF138 `பகுதி செயலாளர்` → `பகுதிச் செயலாளர்`; PDF140 restored the opening quotation mark before `கருணாநிதியை`; PDF144 comma → full stop after `என்றாயே`. The separate source closing note remains outside the speech body. Documented source-odd forms and the 1881/1884 chronology were re-read and retained as printed.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Re-read every page against the controlling scan, consolidate only source-proven corrections, and stop before T3 and constituent 14.
+**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Confirm all five T2 corrections are consolidated, check stale readings/page order/boundaries/closing-note separation, and stop before English, constituent 14, or repository closure.

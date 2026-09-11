@@ -16,12 +16,17 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1 first-pass transcription is now **COMPLETE — 17/17 source pages**, PDF **128–144** / printed **127–143**. Canonical page records: **17/17**, in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**, so the Tamil layer is not yet verified/frozen.
+- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 17/17**;
+- Tamil T2: **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**;
+- Tamil is not yet frozen; English remains blocked pending verified Tamil;
+- separate source closing note remains outside the speech body;
+- source PDF binary remains uncommitted;
+- constituent 14 remains outside this activity.
 
-Carry these legible source forms into T2 for strict re-check rather than normalizing them: PDF129 `1881-ஆம் ஆண்டு அக்டோபர் திங்கள் 7-ஆம் நாள்` versus later `முடிவு செய்தது 1884-ஆம் ஆண்டு`; PDF133 `பிரிமியர்` and `இந்த சைதைத் தொகுதியினுடைய முகப்பில்`; PDF135 `கிண்டர் கார்டன்`; PDF141 `அவரும் அவருடைய உடன் பிறவா...?`; PDF142 `திருவாய் மலர்ந்துளி`, `“உதிர்ந்த. . .”`, `தெரு. . .`; PDF143 `நீ தேடி வந்த கோழையுள்ள நாடு ஈதல்லவே`; PDF144 `சந்து பொந்துகளில்`.
-
-The source PDF binary remains uncommitted. Constituent 14 remains outside this activity.
+T2 corrections are consolidated in `transcription-ta.md`: PDF129 `இன்றைக்கும் கூட` → `இன்றைக்கும்கூட`; PDF137 comma → full stop after `மாத்திரமல்ல`; PDF138 `பகுதி செயலாளர்` → `பகுதிச் செயலாளர்`; PDF140 restored the opening quotation before `கருணாநிதியை`; PDF144 comma → full stop after `என்றாயே`. Documented source-odd readings, including the printed 1881/1884 chronology, were re-read and retained rather than normalized.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.
+**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.

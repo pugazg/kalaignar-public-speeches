@@ -18,7 +18,7 @@
 
 - mapped: **36 / 36**; started / source-gated: **13 / 36**;
 - Tamil T1 complete: **13 / 36**;
-- Tamil T2 complete: **12 / 36**;
+- Tamil T2 complete: **13 / 36**;
 - Tamil T3 complete / Tamil verified: **12 / 36**;
 - English E1 complete: **12 / 36**;
 - English E2 complete: **12 / 36**;
@@ -131,6 +131,12 @@ Tamil T1: **COMPLETE — 17/17 source pages** for `மே தின விழா
 
 Carry the documented source-odd T1 readings into strict T2 re-check without normalization. Constituent 14 remains outside the batch. The source PDF binary remains uncommitted.
 
+## Constituent 13 — durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 17/17 source pages; 5 corrections; 0 unresolved** for `மே தின விழா`, PDF **128–144** / printed **127–143**. All five scan-confirmed corrections are consolidated in `transcription-ta.md`; page-boundary continuations and separate closing-note handling pass; documented source-odd forms and the printed 1881/1884 chronology were retained as printed.
+
+Tamil T3 is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.
+**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.

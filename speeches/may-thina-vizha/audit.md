@@ -46,6 +46,32 @@ These are **legible first-pass source readings to re-check**, not T1 corrections
 - PDF143 / printed p.142: `நீ தேடி வந்த கோழையுள்ள நாடு ஈதல்லவே`;
 - PDF144 / printed p.143: `சந்து பொந்துகளில்`.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 17/17 source pages; 5 corrections; 0 unresolved.**
+
+Every page from PDF **128–144** / printed **127–143** was re-read directly against the controlling scan. Names, numerals, punctuation, repetitions, page-boundary continuations and the separate source closing note were checked.
+
+### Scan-confirmed corrections
+
+1. PDF129 / p.128: `இன்றைக்கும் கூட` → **`இன்றைக்கும்கூட`**.
+2. PDF137 / p.136: `மாத்திரமல்ல, கை உயர்த்தி` → **`மாத்திரமல்ல. கை உயர்த்தி`**.
+3. PDF138 / p.137: `பகுதி செயலாளர்` → **`பகுதிச் செயலாளர்`**.
+4. PDF140 / p.139: restored the printed opening quote: `ஏழைகள் “கருணாநிதியை நம்பத் தயாராக இல்லை”`.
+5. PDF144 / p.143: `என்றாயே, எங்கே போச்சு?` → **`என்றாயே. எங்கே போச்சு?`**.
+
+### Source-odd readings retained
+
+- PDF129 / p.128: `1881-ஆம் ஆண்டு அக்டோபர் திங்கள் 7-ஆம் நாள்`, while the same passage later prints `முடிவு செய்தது 1884-ஆம் ஆண்டு`;
+- PDF133 / p.132: `பிரிமியர்`, `இந்த சைதைத் தொகுதியினுடைய முகப்பில்`;
+- PDF135 / p.134: `கிண்டர் கார்டன்`;
+- PDF141 / p.140: `அவரும் அவருடைய உடன் பிறவா...?` and later `ஆலந்தார்`;
+- PDF142 / p.141: `திருவாய் மலர்ந்துளி`, `“உதிர்ந்த. . .”`, `தெரு. . .`;
+- PDF143 / p.142: `நீ தேடி வந்த கோழையுள்ள நாடு ஈதல்லவே`;
+- PDF144 / p.143: `சந்து பொந்துகளில்`.
+
+Page-boundary continuations checked: PDF129→130, 130→131, 131→132, 132→133, 135→136, 136→137, 138→139, 140→141 and 143→144 — **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 13 — 17 source pages total.** Stop before T3 and do not start constituent 14.
+**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.
