@@ -16,7 +16,7 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **13 / 36**;
+- mapped: **36 / 36**; started / source-gated: **16 / 36**;
 - Tamil T1 complete: **14 / 36**;
 - Tamil T2 complete: **14 / 36**;
 - Tamil T3 complete / Tamil verified: **14 / 36**;
@@ -223,11 +223,15 @@ Repository-level archival closure: **PASS / COMPLETE — 17/17 pages** for `க�
 
 Tamil: **`verified-complete` / FROZEN** — T2 **2 corrections**, T3 **0 additional corrections**. English: **`verified-complete`** — E2 **7 corrections**, E3 **1 additional correction**.
 
-## Exact next incomplete gate
+## Constituents 15–16 — durable source-gate result
 
-Process constituents **15–16 together** through the source / duplicate / boundary gate — **22 source pages total**:
+Combined source / duplicate / boundary gate: **PASS / COMPLETE — 22/22 source pages; duplicate unresolved 0; boundary unresolved 0**.
 
-- **15:** `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, PDF **162–172** / printed **161–171** — **11 pages**;
-- **16:** `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`, PDF **173–183** / printed **172–182** — **11 pages**.
+- **15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`:** PDF **162–172** / printed **161–171** — **11 pages**. PDF 162 is the numbered/titled opening. PDF 172 completes the body before `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை`, directly establishing **15-05-1998**, event wording and role `ஆற்றிய உரை`. No geographic venue is stated in the inspected opening/closing evidence. The `பரிவுத்தொகை` / `பரிவு தொகை` distinction is preserved. Dedicated archive: `speeches/thiru-vi-ka-kalvi-noolgalukku-parivuthogai-vazhangum-vizha/`.
+- **16 `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`:** PDF **173–183** / printed **172–182** — **11 pages**. PDF 173 page heading is `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`; the opening body directly supports venue `ஆம்பூர் சம்பங்கி இல்லம்`. PDF 183 completes the body before `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`. No date is stated in contents/opening/closing evidence, so none is inferred. PDF 184 begins constituent 17. Dedicated archive: `speeches/ambur-sampangi-illa-manavizha/`.
 
-Stop before Tamil T1. The source PDF remains uncommitted.
+Tamil T1 is **NOT STARTED** for either constituent. The source PDF binary remains uncommitted.
+
+## Exact next gate
+
+**Tamil T1 first-pass transcription for constituents 15–16 together — 22 source pages total.** Keep both as separate archival units. Stop before T2 and do not start constituent 17.

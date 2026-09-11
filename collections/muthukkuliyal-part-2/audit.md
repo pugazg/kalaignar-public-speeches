@@ -471,11 +471,48 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **14/36**;
 - fully archived: **14/36**.
 
+## Constituents 15–16 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 22/22 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+### Constituent 15
+
+- exact range: PDF **162–172** / printed **161–171** — **11 pages**;
+- opening: PDF 162 / printed p.161, constituent `15`, heading `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`;
+- contents date: `15-05-98`;
+- closing note: `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை`;
+- date: **15-05-1998**;
+- venue: **not stated** in the inspected opening/closing evidence;
+- event/role: source-supported from the separate closing note;
+- page-heading/contents `பரிவுத்தொகை` vs closing-note `பரிவு தொகை` distinction preserved;
+- PDF 173 begins constituent 16 `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+### Constituent 16
+
+- exact range: PDF **173–183** / printed **172–182** — **11 pages**;
+- opening: PDF 173 / printed p.172, constituent `16`, heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`;
+- contents title/date: `ஆம்பூர் சம்பங்கி இல்ல மணவிழா` / **not stated**;
+- opening body directly states `ஆம்பூர் சம்பங்கி இல்லத்தில் நடைபெறுகின்ற இந்த மணவிழா நிகழ்ச்சியில்`, supporting venue `ஆம்பூர் சம்பங்கி இல்லம்`;
+- closing note: `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- date: **not stated** in contents, numbered/titled opening, or separate closing note; none inferred;
+- event/role: source-supported from opening/closing evidence;
+- contents `ஆம்பூர் சம்பங்கி இல்ல மணவிழா` vs page heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை` distinction preserved;
+- PDF 184 begins constituent 17 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை`;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+## Collection totals after constituents 15–16 source gate
+
+- mapped / started / source-gated: **36/36 / 16/36 / 16/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **14/36**;
+- English E1 / E2 / E3 complete and English verified: **14/36**;
+- fully archived: **14/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-Constituents **15–16 together** — **22 source pages total** — source / duplicate / boundary gate:
-
-- 15: `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`, PDF **162–172** / printed **161–171** — **11 pages**;
-- 16: `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`, PDF **173–183** / printed **172–182** — **11 pages**.
-
-The combined batch is **22 pages**, within the 25-page same-gate limit. Stop before Tamil T1.
+**Tamil T1 first-pass transcription for constituents 15–16 together — 22 source pages total.** Stop before T2 and do not start constituent 17.
