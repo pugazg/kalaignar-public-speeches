@@ -71,6 +71,18 @@ Documented source-sensitive readings were retained as printed. Page joins **173�
 
 No speech-body Tamil was modified during T3.
 
+## English E1 first-pass translation
+
+**COMPLETE — 11/11 pages.** Translation source: frozen Tamil only. Missing English page records **0**; frozen Tamil changes **0**; separate closing note preserved.
+
+## English E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 3 corrections; 0 unresolved.** Confirmed corrections are documented in `translation-review.md` and consolidated in final English. E2 preserved the `இராமு` / `ராமு` distinction and corrected two clause/object renderings. Frozen Tamil changes during E2: **0**.
+
+## English E3 final end-to-end verification
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.** All E2 corrections remain present; final page correspondence, joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.**
+**Repository closure for constituents 15–16 together.**
