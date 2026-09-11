@@ -103,6 +103,18 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - page correspondence, page joins and separate closing notes: **PASS**;
 - English E3: **READY / NOT STARTED**.
 
+## Constituents 10–11 — English E3 final end-to-end verification
+
+- result: **PASS / COMPLETE — 19/19 pages**;
+- constituent 10: **9/9; 0 additional corrections; 0 unresolved**;
+- constituent 11: **10/10; 1 additional correction; 0 unresolved**;
+- E3 additional correction: PDF103→104 / pp.102→103 `நினைவுபடுத்தியிருக்கிறேன்` — restored causative sense as **“reminded people / of Sundaralingam”** while preserving the page boundary;
+- all **4/4 E2 corrections** remain consolidated;
+- frozen Tamil changes: **0**;
+- page correspondence, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and separate closing notes: **PASS**;
+- final English state for constituents 10–11: **`verified-complete`**;
+- repository closure: **READY / NOT STARTED**.
+
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
@@ -111,9 +123,9 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - Tamil T3 complete / Tamil verified: **11/36**;
 - English E1 complete: **11/36**;
 - English E2 complete: **11/36**;
-- English E3 complete: **9/36**;
+- English E3 complete: **11/36**;
 - fully archived: **9/36**.
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.

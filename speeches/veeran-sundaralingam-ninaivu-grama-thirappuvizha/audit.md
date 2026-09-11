@@ -85,6 +85,18 @@ Confirmed corrections consolidated in `translation-en.md`:
 - frozen Tamil changes: **0**;
 - English E3: **READY / NOT STARTED**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 10/10 pages; 1 additional correction; 0 unresolved.**
+
+- complete corrected English re-read against frozen `transcription-ta.md` from beginning to end;
+- additional E3 correction: PDF103→104 / pp.102→103 `நினைவுபடுத்தியிருக்கிறேன்` — “remembered / Sundaralingam” → **“reminded people / of Sundaralingam”**, preserving the page boundary and restoring the causative sense;
+- all **4/4 E2 corrections** remain consolidated;
+- PDF110 / p.109 irregular frozen-Tamil sentence remains explicitly source-noted and unaltered;
+- page correspondence, page joins, names/titles/numerals, rhetoric/repetition, performance markers, source-sensitive notes, and the separate source closing note: **PASS**;
+- frozen Tamil changes: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.

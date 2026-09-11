@@ -1,14 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 English E3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 repository closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–9 are CLOSED / FULLY ARCHIVED**. Constituents **10–11 have frozen verified Tamil and English E2 corrections consolidated**.
-
-## Verification authority
-
-For E3, re-read the complete corrected `translation-en.md` from beginning to end against each constituent's frozen `transcription-ta.md`. Do not alter frozen Tamil. Do not use the PDF, OCR, outside editions, or historical knowledge to silently repair either layer.
+Fetch live `main` first and preserve newer durable work. Constituents **1–9 are CLOSED / FULLY ARCHIVED**. Constituents **10–11 now have Tamil and English `verified-complete`**.
 
 ## Durable state
 
@@ -17,18 +13,22 @@ For E3, re-read the complete corrected `translation-en.md` from beginning to end
 - Tamil T1/T2/T3 complete / Tamil verified: **11 / 36**
 - English E1 complete: **11 / 36**
 - English E2 complete: **11 / 36**
-- English E3 complete: **9 / 36**
+- English E3 complete / English verified: **11 / 36**
 - fully archived: **9 / 36**
-- constituents 10–11 English E1: **COMPLETE — 19/19**
-- constituents 10–11 English E2: **PASS / COMPLETE — 19/19; 4 corrections; 0 unresolved**
-- constituent 10 E2: **9/9; 0 corrections; 0 unresolved**
-- constituent 11 E2: **10/10; 4 corrections; 0 unresolved**
-- PDF110 / p.109 frozen Tamil `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted in English.
+- constituents 10–11 English E2: **PASS — 19/19; 4 corrections; 0 unresolved**
+- constituents 10–11 English E3: **PASS — 19/19; 1 additional correction; 0 unresolved**
+- constituent 10 English: **verified-complete — 9/9**
+- constituent 11 English: **verified-complete — 10/10**
+- constituent 11 E3 correction: PDF103→104 restored the causative sense of `நினைவுபடுத்தியிருக்கிறேன்` as “reminded people / of Sundaralingam”
+- PDF110 / p.109 frozen Tamil `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed and explicitly source-noted in English
+- source PDF remains **uncommitted**
 
 ## Exact activity
 
-Perform combined **English E3 final end-to-end verification for constituents 10–11 — all 19 pages**. Re-read every corrected English page against frozen Tamil, confirm all E2 corrections remain present, verify page correspondence and joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and separate closing notes, and record any genuinely new English correction. Mark English `verified-complete` only if the full gate passes.
+Perform combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify that each constituent's metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source range, closing-note separation, correction counts, and workflow states agree. Mark repository closure complete / fully archived only if the consistency gate passes. Synchronize collection metadata/README/audit/HANDOVER/page-map and the root catalogue/README as required.
 
 ## STOP RULE
 
-Stop after English E3. **Do not start repository closure, constituent 12, or alter frozen Tamil in the same activity.**
+Stop after repository closure for constituents 10–11. **Do not start constituent 12 in the same activity.**
+
+If closure passes, the next workflow batch is constituent **12** alone: `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126** — **15 pages**. Constituent 13 adds 17 pages, so 12+13 would exceed the 25-page batch cap.

@@ -113,4 +113,4 @@
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.

@@ -13,7 +13,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T3 complete / Tamil verified: **11 / 36**
 - English E1 complete: **11 / 36**
 - English E2 complete: **11 / 36**
-- English E3 complete: **9 / 36**
+- English E3 complete: **11 / 36**
 - fully archived: **9 / 36**
 
 Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
@@ -43,6 +43,10 @@ Combined English E1: **COMPLETE — 19/19 pages** — constituent 10 **9/9**, co
 
 Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10: **9/9, 0 corrections**. Constituent 11: **10/10, 4 corrections**. All corrections are consolidated in `translation-en.md`; frozen Tamil remained unchanged. English E3 is **READY / NOT STARTED**.
 
+## Constituents 10–11 — English E3 complete / English verified
+
+Combined English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**. Constituent 10: **9/9; 0 additional corrections**. Constituent 11: **10/10; 1 additional correction** across PDF103→104 restoring the causative sense of `நினைவுபடுத்தியிருக்கிறேன்`. All four E2 corrections remain consolidated, frozen Tamil remained unchanged, page correspondence/joins and both separate closing notes pass, and both English layers are now **`verified-complete`**. Repository closure is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
