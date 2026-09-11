@@ -21,7 +21,7 @@
 - Tamil T2 complete: **13 / 36**;
 - Tamil T3 complete / Tamil verified: **13 / 36**;
 - English E1 complete: **13 / 36**;
-- English E2 complete: **12 / 36**;
+- English E2 complete: **13 / 36**;
 - English E3 complete: **12 / 36**;
 - fully archived: **12 / 36**.
 
@@ -149,6 +149,12 @@ English E1: **COMPLETE — 17/17 pages** for `மே தின விழா`, PD
 
 Source-sensitive E1 notes explicitly preserve the printed 1881/1884 chronology, incomplete phrases, source-odd forms and the `ஆலந்தூர்` / `ஆலந்தார்` distinction rather than repairing them. English E2 is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 13 — durable English E2 result
+
+English E2: **PASS / COMPLETE — 17/17 pages; 5 corrections; 0 unresolved** for `மே தின விழா`. All five corrections are consolidated in `translation-en.md`; page joins and separate closing-note handling pass; frozen Tamil changes during E2 **0**.
+
+English E3 is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E2 independent fidelity review for constituent 13 — 17 pages total.** Stop before E3, constituent 14, or repository closure.
+**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Stop before constituent 14 or repository closure.

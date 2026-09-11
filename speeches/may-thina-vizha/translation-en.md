@@ -1,10 +1,10 @@
 # May Day Celebration — English translation
 
-**Status:** `first-pass-complete` — English E1 **17 / 17 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **17 / 17 COMPLETE**; E2 **17 / 17 PASS; 5 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **128–144** / printed **127–143**
 
-> English E1 was translated only from the frozen Tamil layer. Page correspondence, argument structure, rhetoric, repetitions, names/titles, numerals, political/historical wording, and source-sensitive forms are preserved. English E2 has **NOT STARTED**; no final English-fidelity claim is made at this checkpoint. Frozen Tamil changes during E1: **0**.
+> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 17 English pages against frozen Tamil and consolidated **5 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification. Frozen Tamil changes during E2: **0**.
 
 ## PDF 128 / printed p.127
 
@@ -100,7 +100,7 @@ Accepting the request made in the Legislative Assembly by comrade Varadarajan of
 
 Beyond all these things, as our trade-union leaders and the Labour Welfare Minister here have pointed out, workers who are not organized do not receive many workers' welfare schemes. In order that these benefits may reach them, committees were set up in the 1997–98 Budget to study the problems of these workers.
 
-As recommended by those committees, the government has decided to establish an Unorganized Workers Welfare Board this year. Who are the workers who are to benefit through this Board? Load workers, match workers, handloom workers without unions, power-loom workers, brick-manufacturing workers, workers engaged in dyeing, cashew-breaking workers, rope-making workers, pandal-erecting workers, appalam-making workers,
+As recommended by those committees, the government has decided to establish an Unorganized Workers Welfare Board this year. Who are the workers who are to benefit through this Board? load-carrying workers, match-industry workers, handloom workers without unions, power-loom workers, brick-manufacturing workers, workers engaged in dyeing, cashew-shelling workers, rope-making workers, pandal-erecting workers, appalam-making workers,
 
 ## PDF 137 / printed p.136
 
@@ -112,7 +112,7 @@ On this important day, on behalf of this movement, although I am the leader of t
 
 ## PDF 138 / printed p.137
 
-in the capacity of an affiliated auxiliary organization—the T.Mu.S. organization—I voice before you not a resolution, but an opinion. I ask that this be accepted as the resolution of this May Day public meeting.
+I speak here before you in relation to its affiliated auxiliary organization, the T.Mu.S., and voice not a resolution, but an opinion. I ask that this be accepted as the resolution of this May Day public meeting.
 
 One-party rule in India is no more.
 
@@ -144,7 +144,7 @@ Madam Jayalalithaa, while speaking today at a wedding function held in connectio
 
 ## PDF 140 / printed p.139
 
-said, “Karunanidhi does not care about the poor at all. The poor will never respect Karunanidhi. The poor are ‘not prepared to trust Karunanidhi.’” This “friend of the poor”—whether she is a friend of the poor or an owner of seven bungalows (Applause)—says this. The newspapers have printed in huge letters Jayalalithaa's words: “‘The poor are not prepared to trust Karunanidhi.’ I am the guardian of the poor.” I read them.
+said that Karunanidhi does not care about the poor at all, that the poor will never respect Karunanidhi, and that the poor are “not prepared to trust Karunanidhi.” This “friend of the poor”—whether she is a friend of the poor or an owner of seven bungalows (Applause)—says this. The newspapers have printed in huge letters Jayalalithaa's words: “‘The poor are not prepared to trust Karunanidhi.’ I am the guardian of the poor.” I read them.
 
 Do we not know about this “friend of the poor”?
 
@@ -152,7 +152,7 @@ E. V. A. Vallimuthu of Kovilpatti was the presidium chairman of the A.D.M.K. bot
 
 ## PDF 141 / printed p.140
 
-In contrast, a few weeks later, a millionaire named Subburam Reddy died over here in Andhra. As soon as she heard of his death, Jayalalithaa, who was then Chief Minister, boarded the special aircraft that had been purchased for the government—the private plane costing 20 crore rupees—and she and her “not-born-with-her...?” companion, the two of them, went to Nellore or some other town in Andhra, paid homage to Subburam Reddy, and returned on that aircraft.
+In contrast, a few weeks later, a millionaire named Subburam Reddy died over here in Andhra. As soon as she heard of his death, Jayalalithaa, who was then Chief Minister, boarded the special aircraft that had been purchased for the government—the private plane costing 20 crore rupees—and she and her “not-born-with-her...?”—the two of them—went to Nellore or some other town in Andhra, paid homage to Subburam Reddy, and returned on that aircraft.
 
 Poor Subburam Reddy. A millionaire poor man. So, it was possible to go there by aircraft. But Vallimuthu, who had been the party's presidium chairman, died in Kovilpatti. She had no mind to go there.
 
@@ -166,7 +166,7 @@ Is Alandar in America? Yet this
 
 What kind of speech is that Navalar Nedunchezhiyan making? A man who received wonderful titles from that lady! He stands as the very illustration of all those rare expressions that “blossomed” from Madam Jayalalithaa's sacred mouth. “Fallen. . .” You complete the rest. (Applause) Street. . . You complete the remainder. After receiving titles like these, Navalar Nedunchezhiyan is now cursing: “Are you filing a case against me? Will you prosper?” There is a case against Navalar Nedunchezhiyan, but he has not been arrested. If he goes to court and proves himself innocent, we will be happy.
 
-What case? Others may have the T.V. case, the TANSI case, the coal case, the bungalow case, the asset-accumulation case; his case is the shoe case. (Loud laughter) I will say it respectfully: the footwear case. That too is a case concerning the purchase of footwear for children on behalf of the government. It is a corruption case. When Indira Kumari said that 4 lakh shoes should be bought, the case is that the Justice Minister signed saying, “Buy 9 lakh,” because there would not be enough scope for greater corruption with only that amount.
+What case? Others may have the T.V. case, the TANSI case, the coal case, the bungalow case, the asset-accumulation case; his case is the shoe case. (Loud laughter) I will say it respectfully: the footwear case. That too is a case concerning the purchase of footwear for children on behalf of the government. It is a corruption case. When Indira Kumari, who committed that corruption, said that 4 lakh shoes should be bought, the case is that the Justice Minister signed saying, “Buy 9 lakh,” because there would not be enough scope for greater corruption with only that amount.
 
 ## PDF 143 / printed p.142
 
@@ -192,7 +192,7 @@ Speech delivered at the May Day celebration on 1-5-98.
 - Missing English page records: **0**.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive notes
 
@@ -205,6 +205,24 @@ Speech delivered at the May Day celebration on 1-5-98.
 - PDF143 / printed p.142: `இந்திப் பெண்ணே ... நீ தேடி வந்த கோழையுள்ள நாடு ஈதல்லவே` is translated directly as the slogan printed in the frozen Tamil, without contextual expansion.
 - PDF144 / printed p.143: `சந்து பொந்துகளில்` is rendered conservatively as “lanes and by-lanes,” without converting it into an inferred legal metaphor.
 
+## E2 fidelity-review result
+
+- English E1: **17/17 COMPLETE**.
+- English E2: **PASS / COMPLETE — 17/17 pages; 5 corrections; 0 unresolved**.
+- Translation source: **frozen `transcription-ta.md` only**.
+- Missing English page records: **0**.
+- Page-boundary continuations and the separate source closing note: **PASS**.
+- Frozen Tamil changes during E2: **0**.
+- English E3 final verification: **READY / NOT STARTED**.
+
+### E2 corrections
+
+1. PDF136 / printed p.135: `சுமை தூக்கும் தொழிலாளர்`, `தீப்பெட்டித் தொழிலாளர்`, and `முந்திரி உடைக்கும் தொழிலாளர்` — changed the awkward “Load workers / match workers / cashew-breaking workers” to **“load-carrying workers / match-industry workers / cashew-shelling workers.”**
+2. PDF137→138 / printed pp.136→137: corrected the page-boundary syntax around `சார்புடைய ஒரு துணை அமைப்பு - தொ.மு.ச. அமைப்பு என்கிற முறையில்` so the English no longer makes the speaker himself grammatically “an affiliated auxiliary organization.”
+3. PDF139→140 / printed pp.138→139: corrected the reported-speech quotation structure for Jayalalithaa's three claims so only the source-marked `“கருணாநிதியை நம்பத் தயாராக இல்லை”` remains directly quoted.
+4. PDF141 / printed p.140: removed the added noun **“companion”** from the deliberately incomplete source fragment `அவரும் அவருடைய உடன் பிறவா...?`; the English now preserves the incompleteness without supplying a missing noun.
+5. PDF142 / printed p.141: restored the explicit source attribution in `அந்த ஊழல் செய்த இந்திரகுமாரி` as **“Indira Kumari, who committed that corruption,”** rather than omitting that clause.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 13 — 17 pages total.** Compare every English page against frozen Tamil, consolidate only confirmed fidelity corrections, and stop before E3, constituent 14, or repository closure.
+**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 14 or repository closure.

@@ -59,7 +59,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 13 | `may-thina-vizha` | **English E1 COMPLETE — 17/17; E2 next; Tamil FROZEN** |
+| 13 | `may-thina-vizha` | **English E2 PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved; E3 next; Tamil FROZEN** |
 | 14–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -72,6 +72,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **13** `மே தின விழா` has completed English E1: **COMPLETE — 17/17 pages**, translated only from frozen Tamil. Missing English page records: **0**; separate closing-note handling: **PASS**; frozen Tamil changes: **0**. English E2 has **NOT STARTED**.
+Constituent **13** `மே தின விழா` has completed English E2: **PASS / COMPLETE — 17/17 pages; 5 corrections; 0 unresolved**. All confirmed corrections are consolidated; page joins and separate closing-note handling pass; frozen Tamil changes: **0**. English E3 has **NOT STARTED**.
 
-Exact next gate: **English E2 independent fidelity review for constituent 13 — 17 pages total**. Constituent 14 remains outside this iteration.
+Exact next gate: **English E3 final end-to-end verification for constituent 13 — 17 pages total**. Constituent 14 remains outside this iteration.

@@ -102,6 +102,20 @@ No speech-body Tamil was changed during T3.
 
 Source-sensitive E1 handling is documented in `translation-en.md`. The printed 1881/1884 chronology, incomplete fragments and other source-odd readings were translated conservatively without altering frozen Tamil. E1 is a first pass and does not claim final English fidelity.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 17/17 pages; 5 corrections; 0 unresolved.**
+
+- comparison source: **frozen Tamil `transcription-ta.md`**;
+- English pages checked: **17/17**;
+- confirmed corrections consolidated: **5/5**;
+- unresolved English-fidelity issues: **0**;
+- page-boundary continuations: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes: **0**.
+
+Correction details are recorded in `translation-review.md`. Source-odd chronology, incomplete fragments and source spellings were preserved rather than normalized.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 13 — 17 pages total.** Stop before E3, constituent 14, or repository closure.
+**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Stop before constituent 14 or repository closure.
