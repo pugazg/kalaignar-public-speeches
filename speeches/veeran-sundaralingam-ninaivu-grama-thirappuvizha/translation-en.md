@@ -1,10 +1,10 @@
 # Veeran Sundaralingam Memorial Village Opening — English translation
 
-**Status:** `first-pass-complete` — English E1 **10 / 10 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **10 / 10 COMPLETE**; E2 **10 / 10 PASS; 4 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **103–112** / printed **102–111**
 
-> This first-pass translation was produced only from the frozen Tamil layer. Page correspondence, paragraph sequence, rhetoric, repetitions, historical names, quotations, source-sensitive wording, and the separate closing note are retained. No E2 fidelity claim is made yet.
+> E1 was translated only from the frozen Tamil layer. E2 independently compared all 10 English pages against that frozen Tamil and consolidated **4 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification.
 
 ## PDF 103 / printed p.102
 
@@ -18,13 +18,13 @@ Dr Krishnasamy, our Member of the Legislative Assembly who has taken the leading
 
 Sundaralingam. He appears to have brought notes taken from a book I wrote; I too have brought notes on exactly the same passages. From this alone you can understand the unity between us. If I remind you that fourteen years ago Krishnasamy stood in the Pollachi parliamentary election on behalf of the Dravida Munnetra Kazhagam, all of you can understand how this unity of thought came about.
 
-About fifteen years ago, in the magazine “Kungumam,” I created a serialized illustrated narrative called “Paayum Puli Pandaraka Vanniyan.” The very first chapter of that serial was a chapter introducing Veeran Sundaralingam. Many of you may not have been able to read it. But as one who recalled him as long as fifteen years ago, I now remind you of it. That is what Krishnasamy also reminded you of here. I had written it there. While Krishnasamy was reading it, you became somewhat restless and, carried away by joy, forgot yourselves and raised slogans. Because of that, many among you did not listen carefully to what I had written and what he had read. Therefore, I shall read it myself:
+About fifteen years ago, in the magazine “Kungumam,” I created a serialized illustrated narrative called “Paayum Puli Pandaraka Vanniyan.” The very first chapter of that serial was a chapter introducing Veeran Sundaralingam. Many of you may not have been able to read it. But as one who reminded people of him as long as fifteen years ago, I now remind you of it. That is what Krishnasamy also reminded you of here. I had written it there. While Krishnasamy was reading it, you became somewhat restless and, carried away by joy, forgot yourselves and raised slogans. Because of that, many among you did not listen carefully to what I had written and what he had read. Therefore, I shall read it myself:
 
 “Sundaralingam, the close friend of Veerapandiya Kattabomman's beloved commander Vellaiyathevan and a warrior equal to him, was one of the lions on the battlefront of Panchalang-
 
 ## PDF 105 / printed p.104
 
-kurichi. Born in an oppressed community, Sundaralingam was a great broad-shouldered warrior who rose in defiance so that foreigners should not occupy this Tamil soil.”
+kurichi. Born in an oppressed community, Sundaralingam was a great warrior who slapped his broad shoulders in challenge so that foreigners should not occupy this Tamil soil.”
 
 This appears on page 13 of the book “Paayum Puli Pandaraka Vanniyan.”
 
@@ -48,7 +48,7 @@ The name of the British gentleman Hamilton thus finally changed to the extent of
 
 British domination was gradually spreading. The British officers had decided to encircle Kattabomman's valour, his fort, and—as he had pointed out—the people of this region, and to seize the fort itself, and they were making preparations for that. The British possessed weapons and cannons that Kattabomman did not have. At the stage when they had reached a final decision to surround Kattabomman's fort and capture it, Vellaiyathevan had gone out of town for a wedding. Then the news reached Sundaralingam that the British had laid siege to the fort and were going to split it apart layer by layer.
 
-Sundaralingam had a “muraippen,” a customary marriage-relative, named Vadivu. The two planned how to defeat the British scheme. Both disguised themselves as goat-herders. The British had stored explosives with which they planned to destroy Kattabomman's fort. Sundaralingam and his marriage-relative Vadivu reasoned that if those explosives could be rendered useless, the fort would be saved. They made their plan, went inside the explosives depot carrying a firebrand, caused all the explosives stored there to explode and be destroyed, and they too
+Sundaralingam had a “muraippen,” a customary marriage-relative, named Vadivu. The two planned how to defeat the British scheme. Both disguised themselves as goat-herders. The British had stored explosives with which they planned to destroy Kattabomman's fort. Sundaralingam and his marriage-relative Vadivu reasoned that if those explosives could be rendered useless, the fort would be saved. They made their plan, went inside the explosives depot having tied a firebrand to themselves, caused all the explosives stored there to explode and be destroyed, and they too
 
 ## PDF 108 / printed p.107
 
@@ -76,7 +76,7 @@ Therefore, whether they are backward people, most backward people, oppressed peo
 
 ## PDF 111 / printed p.110
 
-What does this history tell us? What does Sundaralingam's history tell us? Vellaiyathevan and Sundaralingam were great warriors who, in the same army, clasped hands, put their arms over one another's shoulders, and led the fighting. Why has that condition changed today? The purpose is nothing other than to carry this changed condition through historical evidence and bring back that old condition once again.
+What does this history tell us? What does Sundaralingam's history tell us? Vellaiyathevan and Sundaralingam were great warriors who, in the same army, clasped hands, put their arms over one another's shoulders, and led the fighting. Why has that condition changed today? The purpose is nothing other than to set out this changed condition with historical evidence and bring back that old condition once again.
 
 In particular, reminding people of the old warriors and the martyrs of earlier times is one of our greatest responsibilities. When Krishnasamy spoke here, he said, “In the fifty years since independence, did anyone remember all these people?” When the man who asked whether anyone remembered them said that, I thought he would point to me and say, “This one man alone remembered them.” I understand that he left it without pointing me out because you would know it without being told.
 
@@ -90,6 +90,25 @@ take it that the reason and the foundation for all this is that he had been in t
 
 **Source closing note (separate from speech body):**  
 Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial Village.
+
+## E2 fidelity-review result
+
+- English E1: **10/10 COMPLETE**.
+- English E2: **PASS / COMPLETE — 10/10 pages; 4 corrections; 0 unresolved**.
+- Translation source: **frozen `transcription-ta.md` only**.
+- Missing English page records: **0**.
+- Page-boundary continuations and the separate source closing note: **PASS**.
+- PDF110 / printed p.109 irregular frozen-Tamil sentence remains explicitly source-noted and was not normalized.
+- No frozen Tamil text was changed.
+- English E3 final verification: **READY / NOT STARTED**.
+
+### E2 corrections
+
+1. PDF104 / printed p.103: `நினைவு ஊட்டியவன் நான்` — changed “one who recalled him” to **“one who reminded people of him”**, preserving the causative sense.
+2. PDF105 / printed p.104: `தடந்தோள் தட்டிய` — restored the source's martial bodily image as **“slapped his broad shoulders in challenge”** rather than the more generic “broad-shouldered warrior who rose in defiance”.
+3. PDF107 / printed p.106: `தீப்பந்தத்தை கட்டிக் கொண்டு` — restored the tied-on action as **“having tied a firebrand to themselves”** rather than merely “carrying a firebrand”.
+4. PDF111 / printed p.110: `மாறிய நிலையை வரலாற்றுச் சான்றுகளோடு எடுத்துச் செல்லி` — replaced the awkward “carry this changed condition through historical evidence” with **“set out this changed condition with historical evidence”**.
+
 
 ## E1 checkpoint
 
@@ -107,4 +126,4 @@ Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.

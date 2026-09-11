@@ -1,10 +1,10 @@
 # Madurai Bar Association 125th Anniversary — English translation
 
-**Status:** `first-pass-complete` — English E1 **9 / 9 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **9 / 9 COMPLETE**; E2 **9 / 9 PASS; 0 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **94–102** / printed **93–101**
 
-> This first-pass translation was produced only from the frozen Tamil layer. Page correspondence, paragraph sequence, rhetoric, repetitions, names, numerals, quotations, applause markers, and the separate source closing note are retained. No E2 fidelity claim is made yet.
+> E1 was translated only from the frozen Tamil layer. E2 independently compared all 9 English pages against that frozen Tamil and found **0 fidelity corrections / 0 unresolved issues**. English remains provisional until E3 final end-to-end verification.
 
 ## PDF 94 / printed p.93
 
@@ -99,6 +99,17 @@ Therefore, as far as this demand is concerned, it is not in my hands; but it is 
 **Source closing note (separate from speech body):**  
 Speech delivered on 18-4-98 at Madurai at the 125th anniversary function of the Bar Association.
 
+## E2 fidelity-review result
+
+- English E1: **9/9 COMPLETE**.
+- English E2: **PASS / COMPLETE — 9/9 pages; 0 corrections; 0 unresolved**.
+- Translation source: **frozen `transcription-ta.md` only**.
+- Page correspondence, paragraph order, names/titles/numerals, rhetorical force, repetitions, applause markers, page-boundary continuations, and the separate source closing note were independently checked.
+- PDF94 / printed p.93 expectation/opposition wordplay remains transparent through the retained Tamil source forms.
+- No frozen Tamil text was changed.
+- English E3 final verification: **READY / NOT STARTED**.
+
+
 ## E1 checkpoint
 
 - English E1: **COMPLETE — 9/9 pages**.
@@ -114,4 +125,4 @@ Speech delivered on 18-4-98 at Madurai at the 125th anniversary function of the 
 
 ## Exact next gate
 
-Combined **English E2 independent fidelity review for constituents 10–11 — 19 pages total**. Compare every English page independently against the frozen Tamil layer and stop before E3, repository closure, or constituent 12.
+Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
