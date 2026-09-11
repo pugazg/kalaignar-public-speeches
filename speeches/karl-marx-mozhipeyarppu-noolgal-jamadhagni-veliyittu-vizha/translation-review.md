@@ -2,7 +2,7 @@
 
 **English E1:** **COMPLETE — 17 / 17 pages**  
 **English E2:** **PASS / COMPLETE — 17 / 17; 7 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 17 / 17; 1 additional correction; 0 unresolved**
 
 Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against frozen Tamil and consolidated only confirmed fidelity corrections. Frozen Tamil changes during E2: **0**.
 
@@ -18,6 +18,16 @@ Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every 
 
 All **17/17** page records, page joins, names/titles/numerals, quotations, verse, rhetoric/repetition, source-sensitive dates and chronology, Jenny letter, Kural wording, and the separate source closing note were reviewed. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved.**
+
+All **7/7** E2 corrections remain consolidated. E3 made one final source-fidelity correction across PDF152→153: `அரசின் கெடுபிடிகளால்` now correctly belongs with the circumstances that forced Marx to leave, while `பத்திரிகையின் கொள்கைகளைப் பற்றி` begins the following thought on newspaper policy. The English preserves the original page boundary.
+
+Page correspondence, all other joins, names/titles/numerals, quotations, verse, rhetoric/repetition, printed dates/chronology, Jenny letter, Kural wording, source-sensitive notes and the separate source closing note all pass. Frozen Tamil changes during E3: **0**.
+
+**English state:** **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.**
+**Repository-level archival closure for constituent 14 — 17 pages total.**

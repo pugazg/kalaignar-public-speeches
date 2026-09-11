@@ -60,7 +60,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **English E2 PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved; E3 next; Tamil FROZEN** |
+| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **English E3 PASS / COMPLETE — English verified-complete; repository closure next; Tamil FROZEN** |
 | 15–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -77,6 +77,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed English E2: **PASS / COMPLETE — 17/17 pages; 7 corrections; 0 unresolved**. All confirmed corrections are consolidated; page joins, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass; frozen Tamil changes: **0**. English E3 has **NOT STARTED**.
+Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed English E3: **PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved**. All **7/7** E2 corrections remain consolidated. Tamil is **`verified-complete` / FROZEN** and English is now **`verified-complete`**. Repository closure has **NOT STARTED**.
 
-Exact next gate: **English E3 final end-to-end verification for constituent 14 — 17 pages total**. Constituent 15 remains outside this iteration.
+Exact next gate: **repository-level archival closure for constituent 14 — 17 pages total**. Constituent 15 remains outside this iteration.

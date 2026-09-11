@@ -426,6 +426,26 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E3 complete / English verified: **13/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — English E3 final end-to-end verification
+
+**PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved.**
+
+- all **7/7** E2 corrections remain consolidated;
+- E3 final correction: PDF152→153 clause attachment around government restrictions / newspaper policy;
+- page correspondence / joins: **PASS**;
+- names / titles / numerals / quotations / verse / rhetoric / repetition: **PASS**;
+- source-sensitive dates / chronology / Jenny letter / Kural / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**;
+- repository closure: **READY / NOT STARTED**.
+
+## Collection totals after constituent 14 E3
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **14/36**;
+- English E1 / E2 / E3 complete and English verified: **14/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.
+**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.

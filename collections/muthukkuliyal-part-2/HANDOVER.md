@@ -22,7 +22,7 @@
 - Tamil T3 complete / Tamil verified: **14 / 36**;
 - English E1 complete: **14 / 36**;
 - English E2 complete: **14 / 36**;
-- English E3 complete: **13 / 36**;
+- English E3 complete: **14 / 36**;
 - fully archived: **13 / 36**.
 
 Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
@@ -211,6 +211,12 @@ English E2: **PASS / COMPLETE — 17/17 pages; 7 corrections; 0 unresolved** for
 
 English E3 is **READY / NOT STARTED**. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 14 — durable English E3 result
+
+English E3: **PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`. All **7/7** E2 corrections remain consolidated. E3 corrected the PDF152→153 clause attachment around `அரசின் கெடுபிடிகளால்` / `பத்திரிகையின் கொள்கைகளைப் பற்றி`; all page correspondence / joins, quotations/verse, source-sensitive dates/chronology, Jenny letter, Kural wording and separate closing-note handling pass. Frozen Tamil changes during E3 **0**. Final English state is **`verified-complete`**.
+
+Repository closure is **READY / NOT STARTED**. Constituent 15 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.
+**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.

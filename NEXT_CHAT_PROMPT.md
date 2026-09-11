@@ -1,34 +1,37 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 14 English E3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 14 repository closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Constituents **1–13 are CLOSED / FULLY ARCHIVED**. Constituent **14 has completed English E2**. Tamil is **`verified-complete` / FROZEN**.
+Fetch live `main` first. Constituents **1–13 are CLOSED / FULLY ARCHIVED**. Constituent **14 has completed Tamil and English verification**. Do not start constituent 15 until constituent 14 repository closure is complete.
 
 ## Durable state
 
 - mapped / started / source-gated: **36/36 / 14/36 / 14/36**
 - Tamil T1/T2/T3 complete / verified: **14/36**
-- English E1 complete: **14/36**
-- English E2 complete: **14/36**
-- English E3 complete / verified: **13/36**
+- English E1/E2/E3 complete / verified: **14/36**
 - fully archived: **13/36**
 
-### E2 corrections to verify remain present
+### Constituent 14
 
-1. PDF149: `நடமாடவேண்டிய` → “circulate.”
-2. PDF150: clarified `வட்டி வியாபாரம்` / money kept locked in a box.
-3. PDF153: `திண்ணை` → “veranda.”
-4. PDF156: removed unsupported “as an obstacle.”
-5. PDF158: source-faithful treatment of `வானளாவிய சிந்தனையை நிறுத்திக் கொண்டு...`.
-6. PDF161: `கலாச்சாரம், பண்பாடு, இனம்` → “culture, cultural tradition, ethnicity.”
-7. PDF161: removed unsupported “shape” from the communism/soil sentence.
+- source range: PDF **145–161** / printed **144–160**
+- Tamil: **`verified-complete` / FROZEN**
+- Tamil T2 corrections: **2**
+- Tamil T3 additional corrections: **0**
+- English E1: **COMPLETE — 17/17**
+- English E2: **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved**
+- English E3: **PASS / COMPLETE — 17/17; 1 additional correction; 0 unresolved**
+- English: **`verified-complete`**
+- page ordering / joins: **PASS**
+- separate source closing note: **PASS**
+- frozen Tamil changes during English stages: **0**
+- repository closure: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **English E3 final end-to-end verification for constituent 14 — all 17 pages**. Re-read the complete E2-corrected English against frozen Tamil; confirm all seven E2 corrections remain present; check omissions/additions/reversals, names/titles/numerals, quotations, verse, rhetoric/repetition, page joins, source-sensitive dates/chronology, Jenny letter, Kural wording and separate closing-note handling. Apply only any genuinely necessary final fidelity corrections and record them.
+Perform **repository-level archival closure for constituent 14 — 17 pages total**. Verify and synchronize constituent metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source range, page ordering, correction counts and separate closing-note handling. Synchronize parent collection controls, page map and root catalogue. Mark constituent 14 **CLOSED / FULLY ARCHIVED** only if everything agrees.
 
 ## STOP RULE
 
-Stop after English E3. Do not start constituent 15, repository closure, or alter frozen Tamil in the same activity.
+Stop after constituent 14 repository closure. **Do not start constituent 15 in the same activity.**

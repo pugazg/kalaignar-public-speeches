@@ -127,6 +127,22 @@ E1 is a first pass and does not claim final English fidelity.
 
 Correction details are recorded in `translation-review.md`. Source-sensitive printed dates, chronology and unusual Tamil forms were preserved rather than historically or linguistically normalized.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved.**
+
+- complete E2-corrected English re-read against frozen Tamil: **17/17 pages**;
+- E2 corrections still consolidated: **7/7**;
+- E3 additional corrections: **1**;
+- final correction: PDF152→153 clause attachment around government restrictions / newspaper policy;
+- E3 unresolved English-fidelity issues: **0**;
+- page correspondence / joins: **PASS**;
+- names / titles / numerals / quotations / verse / rhetoric / repetition: **PASS**;
+- source-sensitive dates / chronology / Jenny letter / Kural: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.
+**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.

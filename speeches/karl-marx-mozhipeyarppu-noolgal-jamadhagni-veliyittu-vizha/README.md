@@ -39,7 +39,7 @@
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 17/17** |
 | English E2 | **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved** |
-| English E3 | **READY / NOT STARTED** |
+| English E3 | **PASS / COMPLETE — 17/17; 1 additional correction; 0 unresolved** |
 | Repository closure | not started |
 
 Tamil T1 contains all **17/17** canonical page records for PDF **145–161** / printed **144–160**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
@@ -66,6 +66,12 @@ Source-sensitive notes in `translation-en.md` preserve the printed dates/chronol
 
 E2 independently compared every English page against frozen Tamil and consolidated seven confirmed fidelity corrections, covering source-sensitive wording on PDFs 149, 150, 153, 156, 158 and 161. Page joins, quotations/verse, Jenny letter, Kural wording, dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E2: **0**.
 
+## English E3 final end-to-end verification
+
+**PASS / COMPLETE — 17/17 pages; 1 additional correction; 0 unresolved.**
+
+E3 re-read the complete E2-corrected English against frozen Tamil. All **7/7** E2 corrections remain present. One final correction was made to the PDF152→153 clause attachment around `அரசின் கெடுபிடிகளால்` / `பத்திரிகையின் கொள்கைகளைப் பற்றி`; all other page correspondence, joins, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.
+**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.

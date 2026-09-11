@@ -1,10 +1,10 @@
 # Release Function for Karl Marx's Translated Works (Jamadhagni) — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **17 / 17 COMPLETE**; E2 **17 / 17 PASS; 7 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1/E2/E3 **17 / 17 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **145–161** / printed **144–160**
 
-> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 17 English pages against frozen Tamil and consolidated **7 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification. Frozen Tamil changes during E2: **0**.
+> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 17 pages against frozen Tamil and consolidated **7 fidelity corrections**. E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end, made **1 final fidelity correction** to the PDF152→153 page-boundary syntax, and finished with **0 unresolved issues**. All **7/7** E2 corrections remain present. Final English state: **`verified-complete`**.
 
 ## PDF 145 / printed p.144
 
@@ -114,11 +114,11 @@ An idea he set forth in that newspaper is one that should remain forever engrave
 
 “There must not be the idea that people exist for the government. What is needed is the idea that the government exists for the people,” he says.
 
-After this he stopped the Rhineland newspaper and circumstances forced him to go elsewhere. Because of the government's restrictions, regarding the newspaper's
+After this he stopped the Rhineland newspaper, and because of the government's restrictions circumstances forced him to go elsewhere. About the newspaper's
 
 ## PDF 153 / printed p.152
 
-policy Marx also says another idea very beautifully:
+policies, Marx also says another idea very beautifully:
 
 “Subscribers must not determine the policy of the newspaper. The newspaper must determine the policies of the subscribers.”
 
@@ -285,6 +285,17 @@ Speech delivered on 2-5-98 at the release function for Karl Marx's books transla
 6. PDF161 / p.160: `மொழி, கலை, கலாச்சாரம், பண்பாடு, இனம்` — “language, art, culture, civilization, race” → **“language, art, culture, cultural tradition, ethnicity”**, preserving the source's separate `கலாச்சாரம்` / `பண்பாடு` items without introducing “civilization.”
 7. PDF161 / p.160: `இந்த மண்ணுக்கு ஏற்ற வகையில் கம்யூனிசத்தை நாம் முயன்றால் இங்கே பரப்ப முடியும்` — removed the added verb **“shape”**; now **“if we make the effort in a manner suited to this soil, we can spread communism here.”**
 
+## E3 final end-to-end verification
+
+- English E3: **PASS / COMPLETE — 17/17 pages**.
+- E2 corrections retained: **7/7**.
+- E3 additional corrections: **1**.
+- E3 unresolved issues: **0**.
+- Final E3 correction: PDF152→153 / printed pp.151→152 — the E2 English had attached `அரசின் கெடுபிடிகளால்` to the following sentence on newspaper policy. E3 now reads **“because of the government's restrictions circumstances forced him to go elsewhere. About the newspaper's / policies...”**, preserving the source's page boundary while restoring the intended clause attachment.
+- PDF/printed-page correspondence, all other page joins, names/titles/numerals, quotations, verse, rhetoric/repetition, source-sensitive dates/chronology, Jenny letter, Kural wording, and the separate closing note: **PASS**.
+- Frozen Tamil changes during E3: **0**.
+- Final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 15 or repository closure.
+**Repository-level archival closure for constituent 14 — 17 pages total.** Verify all constituent and collection controls, final Tamil/English states, correction counts, page ordering, source range and closing-note separation. Stop before constituent 15.

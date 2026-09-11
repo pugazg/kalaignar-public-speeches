@@ -84,12 +84,12 @@ Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 ad
 
 Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 14 — English E2 complete
+## Constituent 14 — English E3 complete / English verified
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 remains **COMPLETE — 17/17**. English E2 is now **PASS / COMPLETE — 17/17; 7 corrections; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
+Tamil remains **`verified-complete` / FROZEN**. English E1 and E2 remain complete. English E3 is now **PASS / COMPLETE — 17/17; 1 additional correction; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`.
 
-All seven confirmed E2 corrections are consolidated. Page-boundary continuations, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E2: **0**. English E3 is **READY / NOT STARTED**. Constituent 15 remains outside the active batch.
+All **7/7** E2 corrections remain consolidated. E3 corrected the PDF152→153 clause attachment around government restrictions / newspaper policy. Page correspondence and joins, quotations/verse, Jenny letter, Kural wording, source-sensitive dates/chronology and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. Final English state: **`verified-complete`**. Repository closure is ready but has not started. Constituent 15 remains outside the active batch.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 14 — 17 pages total.** Stop before constituent 15 or repository closure.
+**Repository-level archival closure for constituent 14 — 17 pages total.** Stop before constituent 15.
