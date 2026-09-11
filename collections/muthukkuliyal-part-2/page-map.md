@@ -56,14 +56,14 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 7 | `purusai-gopalarathinam-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 8 | `muthamizh-peravai-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **Tamil T2 PASS — 9/9; 6 corrections; 0 unresolved; T3 next** |
-| 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **Tamil T2 PASS — 10/10; 5 corrections; 0 unresolved; T3 next** |
+| 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **Tamil T3 PASS — 9/9; verified-complete / FROZEN; English E1 next** |
+| 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **Tamil T3 PASS — 10/10; verified-complete / FROZEN; English E1 next** |
 | 12–36 | — | not started |
 
 ## Active same-gate batch
 
-Constituents **10–11** have completed Tamil T1 and Tamil T2 across **19/19 source pages** after the already-passed source / duplicate / boundary gate. T2 result: **PASS / COMPLETE — 11 corrections; 0 unresolved**. Canonical page records remain complete and ordered; both separate source closing notes remain outside their speech bodies.
+Constituents **10–11** have completed Tamil T1/T2/T3 across **19/19 source pages** after the already-passed source / duplicate / boundary gate. T2 result: **PASS / COMPLETE — 11 corrections; 0 unresolved**. T3 result: **PASS / COMPLETE — 0 additional corrections; 0 unresolved**. Canonical page records are complete and ordered; both separate source closing notes remain outside their speech bodies. Tamil is **`verified-complete` / FROZEN**.
 
 Source-specific identity notes remain unchanged. Constituent 10 preserves the title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction. Constituent 11 preserves the directly visible PDF110 / p.109 wording `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.`, confirmed as printed during T2. Constituent 12 remains outside this iteration.
 
-Exact next gate: **combined Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English or constituent 12.
+Exact next gate: **combined English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Stop before E2, repository closure, or constituent 12.

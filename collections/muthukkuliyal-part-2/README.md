@@ -10,7 +10,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **11 / 36**
 - Tamil T1 complete: **11 / 36**
 - Tamil T2 complete: **11 / 36**
-- Tamil T3 complete / Tamil verified: **9 / 36**
+- Tamil T3 complete / Tamil verified: **11 / 36**
 - English E1 complete: **9 / 36**
 - English E2 complete: **9 / 36**
 - English E3 complete: **9 / 36**
@@ -22,7 +22,7 @@ Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
 
 Combined Tamil T3: **PASS / COMPLETE — 24/24 source pages; 0 additional corrections; 0 unresolved readings**. Combined English E2: **PASS / COMPLETE — 24/24 pages; 10 confirmed fidelity corrections; 0 unresolved issues**. Combined English E3: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved issues**. Constituents 7–9 are Tamil and English `verified-complete` and repository-closed.
 
-## Constituents 10–11 — Tamil T2 complete
+## Constituents 10–11 — Tamil T3 complete / Tamil verified
 
 Combined Tamil T1 result: **COMPLETE — 19/19 source pages; missing page records 0; explicit unreadable/unknown placeholders 0**.
 
@@ -33,6 +33,8 @@ Combined Tamil T2 result: **PASS / COMPLETE — 19/19 source pages; 11 scan-conf
 
 Combined source / duplicate / boundary gate remains **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0**. Constituent 12 remains outside this batch.
 
+Combined Tamil T3 result: **PASS / COMPLETE — 19/19 source pages; 0 additional corrections; 0 unresolved readings**. All 11 T2 corrections are consolidated, stale superseded readings are absent, page records are complete and ordered, page-boundary joins pass, and both closing notes remain separate. Constituents 10–11 are now Tamil **`verified-complete` / FROZEN**. English E1 is ready and has not started.
+
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Consolidate the corrected Tamil, verify no stale readings or missing/duplicated page records, and stop before English or constituent 12.
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.

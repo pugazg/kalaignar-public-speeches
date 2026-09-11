@@ -1,10 +1,10 @@
 # வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **10 / 10 pages COMPLETE**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **10 / 10 pages COMPLETE**  
 **Source range:** PDF **103–112** / printed **102–111**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 re-read all ten source pages. T2 applied **5 scan-confirmed corrections** with **0 unresolved readings**. PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` was re-read and is confirmed as printed. This layer is not yet frozen until T3 consolidation.
+> Tamil T1/T2/T3 are complete. T3 confirmed every T2 correction is consolidated, all PDF 103–112 page records occur exactly once and in order, page-boundary continuations and closing-note separation are intact, and no stale superseded reading remains. T3 additional corrections: **0**; unresolved readings: **0**. This Tamil layer is now **`verified-complete` / FROZEN**.
 
 ## PDF 103 / printed p.102
 
@@ -88,15 +88,19 @@
 
 `18-4-98 அன்று வீரன் சுந்தரலிங்கம் நினைவு கிராமத்தைத் திறந்து வைத்து ஆற்றிய உரை`
 
-## T2 audit result
+## T3 consolidation / freeze result
 
-- Tamil T1/T2: **10/10 COMPLETE**.
-- Strict direct-scan pages checked: **10/10**.
-- T2 corrections: **5**.
-- T2 unresolved readings: **0**.
-- PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.`: **CONFIRMED AS PRINTED**.
-- Tamil T3 consolidation/freeze: **READY / NOT STARTED**.
+- Tamil T1/T2/T3: **10 / 10 COMPLETE**.
+- T2 corrections consolidated: **5/5**.
+- Stale superseded readings remaining: **0**.
+- Canonical page records: PDF **103–112**, each exactly once and in order.
+- Page-boundary continuations: **PASS**.
+- Separate closing note: **PASS — remains outside the speech body**.
+- PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.`: **CONFIRMED AS PRINTED / PRESERVED**.
+- T3 additional corrections: **0**.
+- T3 unresolved readings: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Consolidate the T2-corrected Tamil and stop before English or constituent 12.
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.

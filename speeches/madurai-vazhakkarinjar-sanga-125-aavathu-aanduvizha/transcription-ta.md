@@ -1,10 +1,10 @@
 # மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T1/T2 **9 / 9 pages COMPLETE**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **9 / 9 pages COMPLETE**  
 **Source range:** PDF **94–102** / printed **93–101**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is complete and strict direct-scan T2 re-read all nine source pages. T2 applied **6 scan-confirmed corrections** with **0 unresolved readings**. This layer is not yet frozen until T3 consolidation.
+> Tamil T1/T2/T3 are complete. T3 confirmed every T2 correction is consolidated, all PDF 94–102 page records occur exactly once and in order, page-boundary continuations and closing-note separation are intact, and no stale superseded reading remains. T3 additional corrections: **0**; unresolved readings: **0**. This Tamil layer is now **`verified-complete` / FROZEN**.
 
 ## PDF 94 / printed p.93
 
@@ -98,15 +98,19 @@
 
 `18-4-98 அன்று மதுரையில் வழக்கறிஞர் சங்க 125-ஆவது ஆண்டு விழாவில் ஆற்றிய உரை`
 
-## T2 audit result
+## T3 consolidation / freeze result
 
-- Tamil T1/T2: **9/9 COMPLETE**.
-- Strict direct-scan pages checked: **9/9**.
-- T2 corrections: **6**.
-- T2 unresolved readings: **0**.
-- The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains preserved.
-- Tamil T3 consolidation/freeze: **READY / NOT STARTED**.
+- Tamil T1/T2/T3: **9 / 9 COMPLETE**.
+- T2 corrections consolidated: **6/6**.
+- Stale superseded readings remaining: **0**.
+- Canonical page records: PDF **94–102**, each exactly once and in order.
+- Page-boundary continuations: **PASS**.
+- Separate closing note: **PASS — remains outside the speech body**.
+- Title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா`: **PRESERVED**.
+- T3 additional corrections: **0**.
+- T3 unresolved readings: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Consolidate the T2-corrected Tamil and stop before English or constituent 12.
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.

@@ -1,63 +1,32 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 Tamil T3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 10–11 English E1
 
-Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection:
-
-`collections/muthukkuliyal-part-2/`
+Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–9 are CLOSED / FULLY ARCHIVED**. Do not reopen them without genuinely new controlling-source or fidelity evidence.
+Fetch live `main` first and preserve newer durable work. Constituents **1–9 are CLOSED / FULLY ARCHIVED**. Constituents **10–11 have frozen verified Tamil**.
 
-## Controlling source
+## Translation authority
 
-`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
-
-- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- size: **232,470,104 bytes**
-- physical scans: **425**
-- source PDF must **not** be committed
-- constituent body relationship: **PDF scan = printed page + 1**
-
-## Mandatory startup
-
-Read completely before work:
-
-1. `SPEECH_PROCESSING_GUIDE.md`
-2. `docs/MULTI_CONSTITUENT_BATCHING_POLICY.md`
-3. `collections/muthukkuliyal-part-2/HANDOVER.md`
-4. this `NEXT_CHAT_PROMPT.md`
-5. `collections/muthukkuliyal-part-2/README.md`
-6. `collections/muthukkuliyal-part-2/metadata.json`
-7. `collections/muthukkuliyal-part-2/audit.md`
-8. `collections/muthukkuliyal-part-2/page-map.md`
-9. constituent 10 README/metadata/audit/HANDOVER/transcription
-10. constituent 11 README/metadata/audit/HANDOVER/transcription
+For English E1, translate **only from each constituent's frozen `transcription-ta.md`**. The controlling PDF remains provenance and must not be committed; do not independently translate from OCR, the PDF, outside editions, or historical knowledge.
 
 ## Durable state
 
 - mapped: **36 / 36**
 - started / source-gated: **11 / 36**
-- Tamil T1 complete: **11 / 36**
-- Tamil T2 complete: **11 / 36**
-- Tamil T3 complete / Tamil verified: **9 / 36**
+- Tamil T1/T2/T3 complete / Tamil verified: **11 / 36**
 - English E1/E2/E3 complete: **9 / 36**
 - fully archived: **9 / 36**
-- constituents 10–11 source gate: **PASS / COMPLETE — 19/19; duplicate unresolved 0; boundary unresolved 0**
-- constituents 10–11 Tamil T1: **COMPLETE — 19/19; missing records 0; unreadable/unknown 0**
-- constituents 10–11 Tamil T2: **PASS / COMPLETE — 19/19; 11 corrections; 0 unresolved**
-
-### Constituent 10
-
-`மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா` — PDF **94–102** / printed **93–101** — **9 pages**. T2: **6 corrections / 0 unresolved**. Preserve the title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction.
-
-### Constituent 11
-
-`வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா` — PDF **103–112** / printed **102–111** — **10 pages**. T2: **5 corrections / 0 unresolved**. PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` was directly re-read and is **CONFIRMED AS PRINTED**. PDF113 begins constituent 12.
+- constituents 10–11 T2: **PASS — 19/19; 11 corrections; 0 unresolved**
+- constituents 10–11 T3: **PASS — 19/19; 0 additional corrections; 0 unresolved**
+- constituent 10: PDF **94–102** / printed **93–101** — **9 frozen Tamil pages**
+- constituent 11: PDF **103–112** / printed **102–111** — **10 frozen Tamil pages**
+- PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed in frozen Tamil.
 
 ## Exact activity
 
-Perform combined **Tamil T3 consolidation/freeze for constituents 10–11 — all 19 source pages**. Confirm every T2 correction is present, search for stale superseded readings, verify page records occur exactly once and in order, recheck page-boundary continuations and closing-note separation, then mark Tamil `verified-complete` / FROZEN only if all checks pass.
+Perform combined **English E1 first-pass translation for constituents 10–11 — all 19 verified Tamil pages**. Preserve page correspondence, paragraph order, rhetoric, repetition, names, titles, numerals, quotations, performance markers, difficult source forms, and separate closing notes. Use a concise labelled translator/source note rather than silently repairing an odd frozen Tamil form.
 
 ## STOP RULE
 
-Stop after Tamil T3 for constituents 10–11. **Do not start English E1, constituent 12, or repository closure in the same activity.**
+Stop after English E1. **Do not start E2, constituent 12, repository closure, or alter frozen Tamil in the same activity.**

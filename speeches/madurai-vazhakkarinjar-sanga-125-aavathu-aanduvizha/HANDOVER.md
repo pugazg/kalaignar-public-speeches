@@ -19,13 +19,14 @@
 - source / duplicate / boundary: **PASS / COMPLETE**; duplicate unresolved **0**; boundary unresolved **0**;
 - Tamil T1: **COMPLETE — 9/9**;
 - Tamil T2: **PASS / COMPLETE — 9/9; 6 corrections; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- Tamil is not yet frozen; English remains blocked pending verified Tamil;
+- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**; E2/E3 remain blocked;
 - title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` remains preserved;
 - source closing note remains outside the speech body.
 
-T2 corrections are fully consolidated into `transcription-ta.md`; no unresolved reading remains.
+T2 corrections are fully consolidated into `transcription-ta.md`; T3 found **0 stale superseded readings, 0 missing/duplicate page records, 0 additional corrections, and 0 unresolved readings**. Page-boundary continuations and separate closing-note handling pass. The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains source-faithful.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.

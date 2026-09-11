@@ -19,13 +19,14 @@
 - source / duplicate / boundary: **PASS / COMPLETE**; duplicate unresolved **0**; boundary unresolved **0**;
 - Tamil T1: **COMPLETE — 10/10**;
 - Tamil T2: **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- Tamil is not yet frozen; English remains blocked pending verified Tamil;
+- Tamil T3: **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**; E2/E3 remain blocked;
 - PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is **CONFIRMED AS PRINTED**;
 - source closing note remains outside the speech body; PDF113 begins constituent 12.
 
-T2 corrections are fully consolidated into `transcription-ta.md`; no unresolved reading remains.
+T2 corrections are fully consolidated into `transcription-ta.md`; T3 found **0 stale superseded readings, 0 missing/duplicate page records, 0 additional corrections, and 0 unresolved readings**. Page-boundary continuations and separate closing-note handling pass. PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains confirmed as printed.
 
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.

@@ -46,6 +46,18 @@ Scan-confirmed corrections consolidated into `transcription-ta.md`:
 
 The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains preserved. Page boundaries, names, numerals, quotations, repetitions, and the separate closing note were rechecked. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.**
+
+- all **6/6** T2 corrections are present in the canonical transcript;
+- stale superseded readings: **0**;
+- canonical page records: **9/9**, exactly once and in source order;
+- page-boundary continuations: **PASS**;
+- separate source closing note: **PASS — remains outside speech body**;
+- The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains source-faithful.
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.
+Combined **English E1 first-pass translation for constituents 10–11 — 19 verified Tamil pages total**. Translate only from the frozen Tamil layers and stop before E2, repository closure, or constituent 12.
