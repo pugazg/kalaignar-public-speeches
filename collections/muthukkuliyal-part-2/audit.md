@@ -559,6 +559,29 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - fully archived: **14/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 15–16 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 22/22 source pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **9/9** — constituent 15 **5/5**, constituent 16 **4/4**;
+- stale superseded readings in canonical speech bodies: **0**;
+- canonical page records: **22/22**, each exactly once and in source order;
+- missing / duplicate page records: **0 / 0**;
+- documented page-boundary continuations: **PASS**;
+- separate source closing notes: **PASS**;
+- T3 additional corrections: **0**;
+- T3 unresolved readings: **0**;
+- Tamil state for constituents 15–16: **`verified-complete` / FROZEN**;
+- no speech-body Tamil changed during T3.
+
+## Collection totals after constituents 15–16 T3
+
+- mapped / started / source-gated: **36/36 / 16/36 / 16/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **16/36**;
+- English E1 / E2 / E3 complete and English verified: **14/36**;
+- fully archived: **14/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.**
+**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.**

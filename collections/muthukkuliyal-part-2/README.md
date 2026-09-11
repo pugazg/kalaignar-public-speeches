@@ -133,6 +133,23 @@ Combined Tamil T2: **PASS / COMPLETE — 22/22 source pages; 9 corrections; 0 un
 
 Collection state: Tamil T1 **16/36**; Tamil T2 **16/36**; Tamil T3 / Tamil verified **14/36**; English verified **14/36**; fully archived **14/36**. Source PDF remains uncommitted.
 
+## Constituents 15–16 — Tamil T3 complete / Tamil verified
+
+Combined Tamil T3: **PASS / COMPLETE — 22/22 source pages; 0 additional corrections; 0 unresolved**.
+
+- constituent 15: **11/11**, all **5/5** T2 corrections consolidated;
+- constituent 16: **11/11**, all **4/4** T2 corrections consolidated;
+- combined T2 corrections consolidated: **9/9**;
+- stale superseded readings in canonical speech bodies: **0**;
+- canonical page records: **22/22**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- documented page-boundary continuations and both separate closing notes: **PASS**;
+- no speech-body Tamil changed during T3;
+- both Tamil layers are now **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+Collection state: Tamil T1/T2/T3 complete / Tamil verified **16/36**; English E1/E2/E3 complete / English verified **14/36**; fully archived **14/36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total**. Stop before English, constituent 17, or repository closure.
+Perform **English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2, constituent 17, or repository closure.
