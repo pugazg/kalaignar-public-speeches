@@ -27,10 +27,24 @@
 - explicit unreadable/unknown placeholders: **0**;
 - separate source closing note: preserved outside the speech body;
 - T1 was produced from direct visual reading of the controlling scans;
-- no T2 fidelity claim is made yet.
+- at the T1 checkpoint, no T2 fidelity claim had yet been made.
 
 Source-supported unusual forms are preserved rather than silently normalized. In particular PDF110 / printed p.109 visibly reads `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` and is retained as printed. Page-boundary continuations, historical names, quotations, place-name variants, and source punctuation remain candidates for the required T2 re-read.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 10/10 source pages; 5 corrections; 0 unresolved.**
+
+Scan-confirmed corrections consolidated into `transcription-ta.md`:
+
+1. PDF104 / printed p.103: `அதிலே குறிப்பிடப்பட்டிருக்கின்றேன்.` → **`அதிலே குறிப்பிட்டிருக்கின்றேன்.`**
+2. PDF105 / printed p.104: `தாழ்த்தப்பட்ட சமூகத்திலே பிறந்து` → **`தாழ்த்தப்பட்ட சமுதாயத்திலே பிறந்து`**.
+3. PDF107 / printed p.106: `அதை தாள்தாளாகப் பிளக்கப் போகிறார்கள்` → **`அதைத் தாள்தாளாகப் பிளக்கப் போகிறார்கள்`**.
+4. PDF108 / printed p.107: `மக்களுக்கு முழுமையான சுதந்திரம் கிடைக்கவில்லை.` → **`மக்களுக்கு முழுமையான சுதந்திரம் கிடைத்துவிடவில்லை.`**
+5. PDF112 / printed p.111: `வயிற்றை தடவிப் பார்த்துக் கொள்வதைப் போல` → **`வயிற்றைத் தடவிப் பார்த்துக் கொள்வதைப் போல`**.
+
+PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` was re-read directly and is **CONFIRMED AS PRINTED**; it is intentionally not normalized. Page boundaries, historical names, quotations, place-name forms, punctuation, and the separate closing note were rechecked. Unresolved readings: **0**.
+
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the scans; stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.

@@ -16,10 +16,16 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Duplicate unresolved **0**; boundary unresolved **0**. PDF 102 separately prints `18-4-98 அன்று மதுரையில் வழக்கறிஞர் சங்க 125-ஆவது ஆண்டு விழாவில் ஆற்றிய உரை`, establishing date **18-04-1998**, city-level venue **மதுரை**, and role `ஆற்றிய உரை`.
+- source / duplicate / boundary: **PASS / COMPLETE**; duplicate unresolved **0**; boundary unresolved **0**;
+- Tamil T1: **COMPLETE — 9/9**;
+- Tamil T2: **PASS / COMPLETE — 9/9; 6 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**;
+- Tamil is not yet frozen; English remains blocked pending verified Tamil;
+- title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` remains preserved;
+- source closing note remains outside the speech body.
 
-Tamil T1: **COMPLETE — 9/9 pages**. The canonical transcript covers PDF94–102 exactly once and preserves the separate closing note outside the speech body. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. Tamil remains **not yet verified**; T2 and T3 are pending and English remains blocked.
+T2 corrections are fully consolidated into `transcription-ta.md`; no unresolved reading remains.
 
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.

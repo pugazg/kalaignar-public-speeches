@@ -50,21 +50,32 @@ Combined result: **COMPLETE — 19/19 source pages**.
 - explicit unreadable/unknown placeholders: **0**;
 - source closing notes: **preserved separately outside both speech bodies**;
 - T1 source method: direct visual reading of the controlling scans;
-- T2 has **NOT STARTED** and no T2 fidelity claim is made.
+- at the T1 checkpoint, T2 had **NOT STARTED** and no T2 fidelity claim had yet been made.
 
-T2 attention points include all page-boundary continuations, names/titles/numerals, quotations and unusual source forms. In constituent 11, PDF110 / printed p.109 visibly reads `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.`; T1 preserves it exactly for independent direct-scan re-check.
+At the T1 checkpoint, T2 attention points included all page-boundary continuations, names/titles/numerals, quotations and unusual source forms. T2 has now re-read these; constituent 11 PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is confirmed as printed.
 
 The source PDF remains uncommitted.
+
+## Constituents 10–11 — Tamil T2 strict direct-scan fidelity audit
+
+Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unresolved**.
+
+- constituent 10: **9/9 checked; 6 corrections; 0 unresolved**;
+- constituent 11: **10/10 checked; 5 corrections; 0 unresolved**;
+- all scan-confirmed corrections are consolidated in the two canonical `transcription-ta.md` files;
+- PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is confirmed as printed and retained;
+- source closing notes remain separate from speech bodies;
+- Tamil T3 is **READY / NOT STARTED**; Tamil verified count remains **9/36** until T3 passes.
 
 ## Collection totals
 
 - mapped / started / source-gated: **36/36 / 11/36 / 11/36**;
 - Tamil T1 complete: **11/36**;
-- Tamil T2 complete: **9/36**;
+- Tamil T2 complete: **11/36**;
 - Tamil T3 complete / Tamil verified: **9/36**;
 - English E1/E2/E3 complete: **9/36**;
 - fully archived: **9/36**.
 
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the scans; stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.

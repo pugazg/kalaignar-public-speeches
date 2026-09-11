@@ -9,7 +9,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **11 / 36**
 - Tamil T1 complete: **11 / 36**
-- Tamil T2 complete: **9 / 36**
+- Tamil T2 complete: **11 / 36**
 - Tamil T3 complete / Tamil verified: **9 / 36**
 - English E1 complete: **9 / 36**
 - English E2 complete: **9 / 36**
@@ -22,15 +22,17 @@ Constituents **1–9 are CLOSED / FULLY ARCHIVED**.
 
 Combined Tamil T3: **PASS / COMPLETE — 24/24 source pages; 0 additional corrections; 0 unresolved readings**. Combined English E2: **PASS / COMPLETE — 24/24 pages; 10 confirmed fidelity corrections; 0 unresolved issues**. Combined English E3: **PASS / COMPLETE — 24/24 pages; 0 additional corrections; 0 unresolved issues**. Constituents 7–9 are Tamil and English `verified-complete` and repository-closed.
 
-## Constituents 10–11 — Tamil T1 complete
+## Constituents 10–11 — Tamil T2 complete
 
-Combined Tamil T1 result: **COMPLETE — 19/19 source pages; missing page records 0; explicit unreadable/unknown placeholders 0**. Both transcriptions were produced directly from the controlling scans. No T2 fidelity claim is made yet.
+Combined Tamil T1 result: **COMPLETE — 19/19 source pages; missing page records 0; explicit unreadable/unknown placeholders 0**.
 
-- **10 — மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா:** PDF **94–102** / printed **93–101** — **9/9 T1 COMPLETE**. The separate closing note remains outside the body. The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction is preserved.
-- **11 — வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா:** PDF **103–112** / printed **102–111** — **10/10 T1 COMPLETE**. The separate closing note remains outside the body. The source-supported unusual PDF110 / printed p.109 wording `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is retained for mandatory T2 re-check.
+Combined Tamil T2 result: **PASS / COMPLETE — 19/19 source pages; 11 scan-confirmed corrections; 0 unresolved readings**. Constituent 10 required **6** corrections; constituent 11 required **5**.
+
+- **10 — மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா:** PDF **94–102** / printed **93–101** — **9/9 T2 PASS / COMPLETE — 6 corrections; 0 unresolved**. The separate closing note remains outside the body. The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction is preserved.
+- **11 — வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா:** PDF **103–112** / printed **102–111** — **10/10 T2 PASS / COMPLETE — 5 corrections; 0 unresolved**. The separate closing note remains outside the body. PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` was re-read and is confirmed as printed.
 
 Combined source / duplicate / boundary gate remains **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0**. Constituent 12 remains outside this batch.
 
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the controlling scans and stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Consolidate the corrected Tamil, verify no stale readings or missing/duplicated page records, and stop before English or constituent 12.

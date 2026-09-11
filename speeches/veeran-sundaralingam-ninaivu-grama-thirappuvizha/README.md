@@ -26,13 +26,14 @@ Repository duplicate search found no existing dedicated archive for this constit
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 10/10** |
-| Tamil T2 strict direct-scan audit | **NOT STARTED / READY** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
 Tamil T1 covers every source page exactly once from PDF **103–112** / printed **102–111**. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The separate closing note remains outside the speech body.
 
+Tamil T2 re-read every source page directly against the controlling scans and applied **5 scan-confirmed corrections** with **0 unresolved readings**. PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` was re-read and confirmed as printed.
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read every page directly against the controlling scans and stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Consolidate the T2-corrected Tamil and stop before English, repository closure, or constituent 12.

@@ -27,10 +27,25 @@
 - explicit unreadable/unknown placeholders: **0**;
 - separate source closing note: preserved outside the speech body;
 - T1 was produced from direct visual reading of the controlling scans;
-- no T2 fidelity claim is made yet.
+- at the T1 checkpoint, no T2 fidelity claim had yet been made.
 
 Source-sensitive T1 items intentionally preserved for T2 re-check include the `“எதிர் பார்ப்பு”` / `‘எதிர்ப்பு’` wordplay on PDF94, page-boundary continuations, names/titles/numerals, and source-specific legal/administrative wording.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 9/9 source pages; 6 corrections; 0 unresolved.**
+
+Scan-confirmed corrections consolidated into `transcription-ta.md`:
+
+1. PDF95 / printed p.94: `என்பதை உங்களுக்குக் குறிப்பிட்டு விரும்புகிறேன்.` → **`என்பதை உங்களுக்குக் குறிப்பிட விரும்புகிறேன்.`**
+2. PDF96 / printed p.95: restored the omitted question **`எங்களுடைய குரலை எப்படித்தான் எதிரொலிப்பது?`**
+3. PDF96 / printed p.95: removed unsupported `எங்களுடைய` before **`அரசாங்கத்தின் கவனத்தை எப்படித்தான் திருப்புவது?`**
+4. PDF98 / printed p.97: `வழக்கறிஞர்களை எல்லாம்` → **`வழக்கறிஞர்களை யெல்லாம்`**, preserving the printed source form.
+5. PDF100 / printed p.99: `இக்கட்டுக்குரியதாக` → **`சிக்கலுக்குரியதாக`**.
+6. PDF102 / printed p.101: `அது நடைபெற்று கொண்டிருக்கும்போதே` → **`அது நடைபெற்றுக் கொண்டிருக்கும்போதே`**.
+
+The title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` distinction remains preserved. Page boundaries, names, numerals, quotations, repetitions, and the separate closing note were rechecked. Unresolved readings: **0**.
+
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read all 19 pages directly against the scans; stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Stop before English, repository closure, or constituent 12.

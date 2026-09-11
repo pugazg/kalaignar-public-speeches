@@ -26,13 +26,14 @@ The title/closing-note spacing distinction `ஆண்டுவிழா` versus 
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 9/9** |
-| Tamil T2 strict direct-scan audit | **NOT STARTED / READY** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9/9; 6 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
 Tamil T1 covers every source page exactly once from PDF **94–102** / printed **93–101**. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The source closing note remains separate from the speech body.
 
+Tamil T2 re-read every source page directly against the controlling scans and applied **6 scan-confirmed corrections** with **0 unresolved readings**. The title `ஆண்டுவிழா` / closing-note `ஆண்டு விழா` distinction remains source-faithful.
 ## Exact next gate
 
-Combined **Tamil T2 strict direct-scan fidelity audit for constituents 10–11 — 19 source pages total**. Re-read every page directly against the controlling scans and stop before T3.
+Combined **Tamil T3 consolidation/freeze for constituents 10–11 — 19 source pages total**. Consolidate the T2-corrected Tamil and stop before English, repository closure, or constituent 12.
