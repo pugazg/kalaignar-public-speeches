@@ -58,7 +58,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 9 | `puthandu-isaivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **Tamil T3 PASS / COMPLETE — Tamil verified-complete / FROZEN; English E1 next** |
+| 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **English E1 COMPLETE — 15/15; E2 next; Tamil FROZEN** |
 | 13–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -67,6 +67,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **12** `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா` has completed Tamil T3: **PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+Constituent **12** `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா` has completed English E1: **COMPLETE — 15/15 pages**, translated only from frozen Tamil. Missing English page records: **0**; separate closing-note handling: **PASS**; frozen Tamil changes: **0**. English E2 has **NOT STARTED**.
 
-Exact next gate: **English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total**. Constituent 13 remains outside this iteration.
+Exact next gate: **English E2 independent fidelity review for constituent 12 — 15 pages total**. Constituent 13 remains outside this iteration.

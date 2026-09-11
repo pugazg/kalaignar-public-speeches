@@ -35,8 +35,9 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 15/15** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 15/15; 1 correction; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending prior English gate |
+| English E1 | **COMPLETE — 15/15** |
+| English E2 | **READY / NOT STARTED** |
+| English E3 | blocked pending E2 |
 | Repository closure | not started |
 
 Tamil T1 contains all **15/15** canonical page records for PDF **113–127** / printed **112–126**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
@@ -49,6 +50,14 @@ Tamil T2 re-read all **15/15** source pages directly against the controlling sca
 
 T3 confirmed the single T2 correction is present, no stale superseded reading remains, all PDF **113–127** page records occur exactly once and in order, page-boundary continuations pass, and the separate source closing note remains outside the speech body. Tamil is now **`verified-complete` / FROZEN**. Any later Tamil change requires documented source evidence and dependent English re-verification.
 
+## English E1 first-pass translation
+
+**COMPLETE — 15/15 pages.**
+
+English E1 was translated only from frozen `transcription-ta.md`. All PDF **113–127** / printed **112–126** English page records are present exactly once and in order; missing page records: **0**. The separate source closing note remains outside the speech body. Frozen Tamil changes during E1: **0**.
+
+Source-sensitive Tamil forms documented during T2/T3 were not silently normalized; concise E1 notes record how `அஃதன்னியில்`, the two Self-Respect spellings, `அந்தப் பகுத்ததை`, `நிலமை`, and `அடுத்து ஆண்டுத் தொடக்கத்திலே` were handled in English.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 13, or repository closure.
+**English E2 independent fidelity review for constituent 12 — 15 pages total.** Compare every English page against frozen Tamil and stop before E3, constituent 13, or repository closure.

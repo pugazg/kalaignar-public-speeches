@@ -75,6 +75,19 @@ Page-boundary continuations checked: PDF113→114, 114→115, 115→116, 117→1
 - T2-confirmed source-odd forms remain preserved unchanged;
 - Tamil state: **`verified-complete` / FROZEN**.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 15/15 pages.**
+
+- translation source: **frozen `transcription-ta.md` only**;
+- English page records: **15/15**, PDF **113–127** / printed **112–126**, exactly once and in source order;
+- missing English page records: **0**;
+- separate source closing note: **preserved outside the speech body**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **NOT STARTED**.
+
+Source-sensitive E1 handling is documented in `translation-en.md`; no difficult Tamil form was silently repaired. E1 is a first pass and does not claim final English fidelity.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen Tamil and stop before E2, constituent 13, or repository closure.
+**English E2 independent fidelity review for constituent 12 — 15 pages total.** Stop before E3, constituent 13, or repository closure.

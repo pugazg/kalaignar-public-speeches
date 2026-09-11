@@ -17,17 +17,20 @@
 ## Durable state
 
 - source / duplicate / boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 15/15**;
-- Tamil T2: **PASS / COMPLETE — 15/15; 1 correction; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved**;
+- Tamil T1/T2/T3: **COMPLETE — 15/15**;
 - Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**; E2/E3 remain blocked;
-- source closing note remains outside the speech body;
+- English E1: **COMPLETE — 15/15**;
+- English E2: **READY / NOT STARTED**;
+- English E3: **BLOCKED pending E2**;
+- English page records: **15/15**, complete and ordered;
+- missing English page records: **0**;
+- separate source closing note remains outside the speech body;
+- frozen Tamil changes during E1: **0**;
 - source PDF binary remains uncommitted;
 - constituent 13 remains outside this activity.
 
-T3 confirmed the **1/1** T2 correction is consolidated, stale superseded readings **0**, canonical page records **15/15** exactly once and ordered, missing/duplicate page records **0/0**, page-boundary continuations **PASS**, and separate closing-note handling **PASS**. No Tamil change was made during T3.
+English E1 translated only from frozen `transcription-ta.md`. Source-sensitive wording is explicitly noted in `translation-en.md`; no Tamil repair or normalization was made during E1.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 13, or repository closure.
+**English E2 independent fidelity review for constituent 12 — 15 pages total.** Compare every English page against frozen Tamil; consolidate only fidelity corrections; stop before E3, constituent 13, or repository closure.

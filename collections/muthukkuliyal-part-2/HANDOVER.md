@@ -20,7 +20,7 @@
 - Tamil T1 complete: **12 / 36**;
 - Tamil T2 complete: **12 / 36**;
 - Tamil T3 complete / Tamil verified: **12 / 36**;
-- English E1 complete: **11 / 36**;
+- English E1 complete: **12 / 36**;
 - English E2 complete: **11 / 36**;
 - English E3 complete: **11 / 36**;
 - fully archived: **11 / 36**.
@@ -89,6 +89,12 @@ Tamil T3: **PASS / COMPLETE — 15/15 pages; 0 additional corrections; 0 unresol
 
 English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 13 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 12 — durable English E1 result
+
+English E1: **COMPLETE — 15/15 pages** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126**. Translation used only frozen `transcription-ta.md`; English page records are **15/15**, complete and ordered; missing records **0**; separate closing note remains outside the speech body; frozen Tamil changes during E1 **0**.
+
+English E2 is **READY / NOT STARTED**. E1 source-sensitive notes explicitly preserve transparency around unusual frozen-Tamil forms rather than repairing them. Constituent 13 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Stop before E2, constituent 13, or repository closure.
+**English E2 independent fidelity review for constituent 12 — 15 pages total.** Stop before E3, constituent 13, or repository closure.

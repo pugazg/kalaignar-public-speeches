@@ -11,7 +11,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **12 / 36**
 - Tamil T2 complete: **12 / 36**
 - Tamil T3 complete / Tamil verified: **12 / 36**
-- English E1 complete: **11 / 36**
+- English E1 complete: **12 / 36**
 - English E2 complete: **11 / 36**
 - English E3 complete: **11 / 36**
 - fully archived: **11 / 36**
@@ -68,12 +68,18 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; du
 
 Constituent 13 remains outside the active batch.
 
-## Constituent 12 — Tamil T3 complete / Tamil frozen
+## Constituent 12 — English E1 complete
 
-Tamil T1: **COMPLETE — 15/15**. Tamil T2: **PASS / COMPLETE — 15/15; 1 correction; 0 unresolved**. Tamil T3 is now **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`.
+Tamil remains **`verified-complete` / FROZEN**. English E1 is now **COMPLETE — 15/15 pages** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126**.
 
-T3 confirmed **1/1** T2 correction consolidated, stale superseded readings **0**, canonical page records **15/15** exactly once and ordered, missing/duplicate records **0/0**, page-boundary continuations **PASS**, and separate source closing-note handling **PASS**. Tamil is now **`verified-complete` / FROZEN**. English E1 is ready but has not started. Constituent 13 remains outside the active batch.
+- English page records: **15/15**, exactly once and ordered;
+- missing English page records: **0**;
+- translation source: **frozen Tamil only**;
+- separate source closing note: **preserved outside the speech body**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**;
+- constituent 13 remains outside the batch.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 12 — 15 verified Tamil pages total.** Translate only from frozen Tamil and stop before E2, constituent 13, or repository closure.
+**English E2 independent fidelity review for constituent 12 — 15 pages total.** Stop before E3, constituent 13, or repository closure.
