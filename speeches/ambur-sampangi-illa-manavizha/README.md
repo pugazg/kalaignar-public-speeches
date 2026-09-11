@@ -25,8 +25,9 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 11/11** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 11/11; 4 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending prior English gate |
 | Repository closure | not started |
 
 Tamil T1 contains all **11/11** canonical page records, each once and in source order. Missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body.
@@ -35,6 +36,12 @@ Tamil T1 contains all **11/11** canonical page records, each once and in source 
 
 **PASS / COMPLETE — 11/11 source pages; 4 corrections; 0 unresolved.** All source-proven corrections are consolidated in `transcription-ta.md`. Documented page joins and the separate source closing note pass. Tamil is **not yet frozen**; T3 has not started.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.**
+
+All **4/4** T2 corrections are consolidated; stale superseded readings are absent from the canonical speech body; all canonical page records are complete, unique and ordered; documented page-boundary continuations and the separate closing note pass. Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil was changed during T3.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.** Stop before English, constituent 17, or repository closure.
+**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.** Translate only from frozen `transcription-ta.md`; stop before E2, constituent 17, or repository closure.

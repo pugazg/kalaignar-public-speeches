@@ -1,10 +1,10 @@
 # ஆம்பூர் சம்பங்கி இல்ல மணவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 11 / 11 pages; 4 corrections; 0 unresolved**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **11 / 11 pages COMPLETE**  
 **Source range:** PDF **173–183** / printed **172–182**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 11 source pages directly against the scans and consolidated **4 source-proven corrections** with **0 unresolved readings**. Tamil is not yet frozen; T3 has not started.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 11 source pages and consolidated **4 source-proven corrections** with **0 unresolved readings**. Tamil T3 confirms the corrections are present, stale superseded readings are absent from the canonical speech body, all canonical page records occur exactly once and in order, documented page-boundary continuations and the separate source closing note pass, with **0 additional corrections / 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**.
 
 ## PDF 173 / printed p.172
 
@@ -116,6 +116,21 @@ Source-sensitive readings retained as printed include PDF173 heading `ஆம்�
 
 Page-boundary continuations **173→174, 174→175, 175→176, 181→182**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 11/11 source pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **4/4**.
+- stale superseded readings in canonical speech body: **0**.
+- canonical page records: **11/11**, each exactly once and in source order.
+- missing / duplicate page records: **0 / 0**.
+- documented page-boundary continuations: **PASS** — **173→174, 174→175, 175→176, 181→182**.
+- separate source closing note: **PASS**.
+- date remains unstated; venue / event / closing-note distinctions remain unchanged
+- T3 additional corrections: **0**.
+- T3 unresolved readings: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.** Stop before English, constituent 17, or repository closure.
+**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` files and stop before E2, constituent 17, or repository closure.

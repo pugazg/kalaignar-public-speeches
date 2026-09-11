@@ -1,10 +1,10 @@
 # திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 11 / 11 pages; 5 corrections; 0 unresolved**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **11 / 11 pages COMPLETE**  
 **Source range:** PDF **162–172** / printed **161–171**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 11 source pages directly against the scans and consolidated **5 source-proven corrections** with **0 unresolved readings**. Tamil is not yet frozen; T3 has not started.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 11 source pages and consolidated **5 source-proven corrections** with **0 unresolved readings**. Tamil T3 confirms the corrections are present, stale superseded readings are absent from the canonical speech body, all canonical page records occur exactly once and in order, documented page-boundary continuations and the separate source closing note pass, with **0 additional corrections / 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**.
 
 ## PDF 162 / printed p.161
 
@@ -143,6 +143,20 @@ Source-sensitive readings retained as printed include PDF162 `கல்கி �
 
 Page-boundary continuations **162→163, 163→164, 164→165, 165→166, 166→167, 167→168, 169→170, 171→172**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 11/11 source pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **5/5**.
+- stale superseded readings in canonical speech body: **0**.
+- canonical page records: **11/11**, each exactly once and in source order.
+- missing / duplicate page records: **0 / 0**.
+- documented page-boundary continuations: **PASS** — **162→163, 163→164, 164→165, 165→166, 166→167, 167→168, 169→170, 171→172**.
+- separate source closing note: **PASS**.
+- T3 additional corrections: **0**.
+- T3 unresolved readings: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 15–16 together — 22 source pages total.** Stop before English, constituent 17, or repository closure.
+**English E1 first-pass translation for constituents 15–16 together — 22 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` files and stop before E2, constituent 17, or repository closure.
