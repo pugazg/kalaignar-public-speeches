@@ -1,10 +1,10 @@
 # காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 17 / 17 pages; 2 corrections; 0 unresolved**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **17 / 17 pages COMPLETE**  
 **Source range:** PDF **145–161** / printed **144–160**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 17 source pages directly against the scans and consolidated **2 source-proven corrections** with **0 unresolved readings**. Tamil is not yet frozen; T3 has not started.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 17 source pages and consolidated **2 source-proven corrections** with **0 unresolved readings**. Tamil T3 confirmed both 2/2 corrections are present, stale superseded readings are absent, all 17 canonical page records occur exactly once and in order, page-boundary continuations, quotations/verse, Jenny letter, Kural wording, source-sensitive forms, and the separate source closing note all pass. T3 made **0 additional corrections / 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**.
 
 ## PDF 145 / printed p.144
 
@@ -267,6 +267,22 @@ The following source-sensitive readings were re-read and retained as printed rat
 
 Page-boundary continuations checked: **145→146, 146→147, 147→148, 151→152, 152→153, 153→154, 156→157, 157→158, 158→159, 159→160, 160→161 — PASS**. Quotations, verse blocks, Jenny letter punctuation, names/numerals, and separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 17/17 source pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **2/2**.
+- stale superseded readings: **0**.
+- canonical page records: **17/17**, each exactly once and in source order.
+- missing / duplicate page records: **0 / 0**.
+- documented page-boundary continuations: **PASS**.
+- quotations / verse blocks / Jenny letter / Kural wording: **PASS**.
+- separate source closing note: **PASS**.
+- documented source-sensitive spellings, dates and chronology: **retained unchanged**.
+- T3 additional corrections: **0**.
+- T3 unresolved readings: **0**.
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.
+**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 15, or repository closure.

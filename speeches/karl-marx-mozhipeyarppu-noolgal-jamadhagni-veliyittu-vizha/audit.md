@@ -81,6 +81,24 @@ Every page from PDF **145–161** / printed **144–160** was re-read directly a
 
 Page-boundary continuations **145→146, 146→147, 147→148, 151→152, 152→153, 153→154, 156→157, 157→158, 158→159, 159→160, 160→161**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 17/17 source pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **2/2**;
+- stale superseded readings: **0**;
+- canonical page records: **17/17**, exactly once and ordered;
+- missing / duplicate canonical page records: **0 / 0**;
+- documented page-boundary continuations: **PASS**;
+- quotations / verse blocks / Jenny letter / Kural wording: **PASS**;
+- separate source closing note: **PASS**;
+- source-sensitive spellings / dates / chronology: **retained unchanged**;
+- T3 additional corrections: **0**;
+- T3 unresolved readings: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+No speech-body Tamil was changed during T3.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.
+**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Translate only from frozen Tamil and stop before E2, constituent 15, or repository closure.

@@ -36,14 +36,21 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 17/17** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending prior English gate |
 | Repository closure | not started |
 
 Tamil T1 contains all **17/17** canonical page records for PDF **145–161** / printed **144–160**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
 
 Tamil T2 re-read all **17/17** source pages directly against the controlling scans and made **2 scan-confirmed corrections / 0 unresolved**: PDF145 `இரண்டு மணி நேரம்` → `இரண்டரை மணி நேரம்`; PDF156 `எழுதி கேட்டபொழுதே` → `எழுதிக் கேட்டபொழுதே`. The separate source closing note remains outside the speech body. Documented source-sensitive spellings, dates, quotations, verse, Jenny letter, Kural form, and closing-note wording were re-read and retained as printed.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved.**
+
+Both **2/2** T2 corrections are consolidated; stale superseded readings are absent; all canonical page records are complete and ordered; documented page-boundary continuations, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Documented source-sensitive spellings, printed dates and chronology remain unchanged. Tamil is now **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Confirm both T2 corrections are consolidated, check stale readings/page order/boundaries/closing-note separation, and stop before English, constituent 15, or repository closure.
+**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Translate only from frozen `transcription-ta.md` and stop before E2, constituent 15, or repository closure.

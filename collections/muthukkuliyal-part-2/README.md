@@ -10,7 +10,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **14 / 36**
 - Tamil T1 complete: **14 / 36**
 - Tamil T2 complete: **14 / 36**
-- Tamil T3 complete / Tamil verified: **13 / 36**
+- Tamil T3 complete / Tamil verified: **14 / 36**
 - English E1 complete: **13 / 36**
 - English E2 complete: **13 / 36**
 - English E3 complete: **13 / 36**
@@ -84,14 +84,14 @@ Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 ad
 
 Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 14 — Tamil T2 complete
+## Constituent 14 — Tamil T3 complete / Tamil verified
 
-Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**. Tamil T1 remains **COMPLETE — 17/17**.
+Tamil T3 is **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, PDF **145–161** / printed **144–160**.
 
-Tamil T2 is now **PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, PDF **145–161** / printed **144–160**. Both scan-confirmed corrections are consolidated. Page-boundary continuations, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Documented source-sensitive forms and printed dates were re-read and retained as printed.
+Both **2/2** T2 corrections are consolidated; stale superseded readings are absent; canonical page records are complete and ordered; documented page-boundary continuations, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Documented source-sensitive spellings, dates and chronology remain unchanged. Tamil is now **`verified-complete` / FROZEN**.
 
-Tamil T3 is **READY / NOT STARTED**. Constituent 15 remains outside the active batch.
+English E1 is **READY / NOT STARTED**. Constituent 15 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.
+**English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total.** Stop before E2, constituent 15, or repository closure.

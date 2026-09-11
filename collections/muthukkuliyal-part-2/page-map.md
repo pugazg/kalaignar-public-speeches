@@ -60,7 +60,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **Tamil T2 PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved; T3 next** |
+| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **Tamil T3 PASS / COMPLETE — Tamil verified-complete / FROZEN; English E1 next** |
 | 15–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -77,6 +77,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed Tamil T2: **PASS / COMPLETE — 17/17 source pages; 2 corrections; 0 unresolved**. Both corrections are consolidated; page-boundary continuations, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Tamil T3 has **NOT STARTED**.
+Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed Tamil T3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved**. Both **2/2** T2 corrections are consolidated; stale readings **0**; canonical page records are complete and ordered; documented page joins, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Tamil is now **`verified-complete` / FROZEN**. English E1 has **NOT STARTED**.
 
-Exact next gate: **Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total**. Constituent 15 remains outside this iteration.
+Exact next gate: **English E1 first-pass translation for constituent 14 — 17 verified Tamil pages total**. Constituent 15 remains outside this iteration.
