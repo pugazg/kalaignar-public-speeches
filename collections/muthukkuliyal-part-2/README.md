@@ -9,7 +9,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **14 / 36**
 - Tamil T1 complete: **14 / 36**
-- Tamil T2 complete: **13 / 36**
+- Tamil T2 complete: **14 / 36**
 - Tamil T3 complete / Tamil verified: **13 / 36**
 - English E1 complete: **13 / 36**
 - English E2 complete: **13 / 36**
@@ -84,21 +84,14 @@ Tamil remains **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 ad
 
 Collection state is now **13 / 36 fully archived**. Constituents **1–13 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 14 — Tamil T1 complete
+## Constituent 14 — Tamil T2 complete
 
-Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**.
+Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**. Tamil T1 remains **COMPLETE — 17/17**.
 
-- **14 — காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா:** PDF **145–161** / printed **144–160** — **17 pages**.
-- Tamil T1: **COMPLETE — 17/17**.
-- canonical page records: **17/17**, complete and ordered;
-- missing page records: **0**;
-- explicit unreadable/unknown placeholders: **0**;
-- separate source closing note: **preserved outside the speech body**;
-- Tamil T2: **READY / NOT STARTED**.
-- Dedicated archive: `speeches/karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha/`.
+Tamil T2 is now **PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, PDF **145–161** / printed **144–160**. Both scan-confirmed corrections are consolidated. Page-boundary continuations, quotations/verse, Jenny letter, Kural wording and separate closing-note handling pass. Documented source-sensitive forms and printed dates were re-read and retained as printed.
 
-Constituent 15 remains outside the active batch.
+Tamil T3 is **READY / NOT STARTED**. Constituent 15 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.
+**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.

@@ -35,13 +35,15 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 17/17** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
-Tamil T1 now contains all **17/17** canonical page records for PDF **145–161** / printed **144–160**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**. The separate source closing note remains outside the speech body. T1 is a first-pass transcription only; no T2 fidelity claim has been made.
+Tamil T1 contains all **17/17** canonical page records for PDF **145–161** / printed **144–160**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
+
+Tamil T2 re-read all **17/17** source pages directly against the controlling scans and made **2 scan-confirmed corrections / 0 unresolved**: PDF145 `இரண்டு மணி நேரம்` → `இரண்டரை மணி நேரம்`; PDF156 `எழுதி கேட்டபொழுதே` → `எழுதிக் கேட்டபொழுதே`. The separate source closing note remains outside the speech body. Documented source-sensitive spellings, dates, quotations, verse, Jenny letter, Kural form, and closing-note wording were re-read and retained as printed.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Re-read every page against the controlling scan, consolidate only source-proven corrections, and stop before T3 and constituent 15.
+**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Confirm both T2 corrections are consolidated, check stale readings/page order/boundaries/closing-note separation, and stop before English, constituent 15, or repository closure.

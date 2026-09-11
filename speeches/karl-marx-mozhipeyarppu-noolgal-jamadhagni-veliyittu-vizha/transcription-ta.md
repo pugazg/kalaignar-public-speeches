@@ -1,10 +1,10 @@
 # காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா — Tamil transcription
 
-**Status:** `first-pass-complete` — Tamil T1 **17 / 17 pages COMPLETE**; T2 pending  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 17 / 17 pages; 2 corrections; 0 unresolved**; T3 pending  
 **Source range:** PDF **145–161** / printed **144–160**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Source spelling, punctuation, repetitions, unusual forms, PDF/printed-page boundaries, and the separate closing note are preserved. Tamil T2 has **NOT STARTED**; no final fidelity claim is made at this checkpoint.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 17 source pages directly against the scans and consolidated **2 source-proven corrections** with **0 unresolved readings**. Tamil is not yet frozen; T3 has not started.
 
 ## PDF 145 / printed p.144
 
@@ -12,7 +12,7 @@
 
 ### காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா
 
-சற்றொப்ப இரண்டு மணி நேரம் கலைவாணர் அரங்கத்தில் நாமெல்லாம் பல்வேறு செய்திகளைப் பரிமாறிக் கொள்கின்ற வாய்ப்பினைப் பெற்று விரைவில் உங்களுக்கெல்லாம் இந்த மண்டபத்திலிருந்து விடுதலை அளிப்பேன் என்ற உறுதியையும் வழங்கி என்னுடைய உரையைத் தொடங்குகின்றேன்.
+சற்றொப்ப இரண்டரை மணி நேரம் கலைவாணர் அரங்கத்தில் நாமெல்லாம் பல்வேறு செய்திகளைப் பரிமாறிக் கொள்கின்ற வாய்ப்பினைப் பெற்று விரைவில் உங்களுக்கெல்லாம் இந்த மண்டபத்திலிருந்து விடுதலை அளிப்பேன் என்ற உறுதியையும் வழங்கி என்னுடைய உரையைத் தொடங்குகின்றேன்.
 
 “காண்பதெல்லாம் தொழிலாளி செய்தான் - அவன் காணத் தகுந்தது வறுமையா? பூணத் தகுந்தது பொறுமையா?” என்ற கேள்வியைப் புரட்சிக் கவிஞர் பாரதிதாசன் எழுப்பினார். இந்தக் கேள்விக்கு விடை காணும் அந்த வழியைத்தான் நூற்றாண்டுக் காலமாக உலகத்திலே உள்ள பல சிந்தனையாளர்கள் தேடித் தேடி அதிலே மாபெரும் சிந்தனையாளனாகக் காரல் மார்க்ஸ் தோன்றி இந்த மூலதனத்தை இந்தியாவிலேயே முதன்முதலாக நம்முடைய இந்திய மொழியில் - அதுவும் நம்முடைய தமிழ் மொழியிலேயே முழுவதும் மொழியாக்கம் செய்து தந்த பெருமை - அந்தப் பெருமையை நாமெல்லாம் பெற்று மகிழ்கின்ற இந்த நல்ல வாய்ப்பான நேரத்தில் இல்லை என்றாலும் கூட அந்தப் பெரும் மொழிபெயர்ப்பாளர் ஜமதக்னி அவர்களுக்குத்
 
@@ -173,7 +173,7 @@
 
 இந்த உணர்வு எனக்கு இன்று நேற்றல்ல, ஏதோ, இன்றைக்கு ‘மூலதனம்’ நூலினை வெளியிட்டுப் பேசுகிற இந்த வாய்ப்பைப் பயன்படுத்திக்கொண்டு, நான் யார் என்பதை உங்களுக்குத் தெரிவிக்க நான் முன்வரவில்லை.
 
-மே தின வாழ்த்து என்னிடம் 30 ஆண்டுகளுக்கு முன்னர் எழுதி கேட்டபொழுதே நான் எழுதிய வாழ்த்து,
+மே தின வாழ்த்து என்னிடம் 30 ஆண்டுகளுக்கு முன்னர் எழுதிக் கேட்டபொழுதே நான் எழுதிய வாழ்த்து,
 
 ## PDF 157 / printed p.156
 
@@ -252,8 +252,21 @@
 - Missing page records: **0**.
 - Explicit unreadable/unknown placeholders: **0**.
 - Source closing note: **preserved separately outside the speech body**.
-- Tamil T2 strict direct-scan fidelity audit: **NOT STARTED**.
+- At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 is now complete.
+
+## T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 17/17 source pages; 2 corrections; 0 unresolved.**
+
+Scan-confirmed corrections consolidated into the canonical Tamil:
+
+1. PDF145 / printed p.144: `சற்றொப்ப இரண்டு மணி நேரம்` → **`சற்றொப்ப இரண்டரை மணி நேரம்`**.
+2. PDF156 / printed p.155: `30 ஆண்டுகளுக்கு முன்னர் எழுதி கேட்டபொழுதே` → **`30 ஆண்டுகளுக்கு முன்னர் எழுதிக் கேட்டபொழுதே`**.
+
+The following source-sensitive readings were re-read and retained as printed rather than normalized: PDF147 `அச்சியற்றப்பட` / `அச்சியற்றப்பட்டாலும்`; PDF149 `Das Capital` and `விவிலியம் (கிறித்துவ மறை நூல்)`; PDF150 `காரல்மார்க்ஸ்`, `ட்ரியர்`, `வைதீகத்தின் மூலஸ்தானமாகவும்`; PDF151 `கெதே`, `ஹிர்ஷெல் மார்க்ஸ்`, and `1821-ஆம் ஆண்டு ஆகஸ்டு மாதம் 24-ஆம் தேதி`; PDF152 `ரைன்லாந்து கெஜட்` and `1812-ஆம் ஆண்டு ஜனவரித் திங்கள் முதல் நாள்`; PDF154 `வளமையினருகே வறுமை; பலத்தினருகே பயம்;`; PDF155 `தேவை தின்றச் செய்தது`; PDF158 `165 ஆண்டுகளுக்கு முன்பு` / `180 ஆண்டுகளுக்கு முன்பு` and `மாதரசு ஜென்னி`; PDF160 Kural `ஆகித்தற் கொண்டான்`; PDF161 `நாலைந்து ஆண்டுகள்`; and the separate closing-note form `மொழி பெயர்த்த`.
+
+Page-boundary continuations checked: **145→146, 146→147, 147→148, 151→152, 152→153, 153→154, 156→157, 157→158, 158→159, 159→160, 160→161 — PASS**. Quotations, verse blocks, Jenny letter punctuation, names/numerals, and separate source closing note: **PASS**. Unresolved readings: **0**.
 
 ## Exact next gate
 
-Tamil T2 strict direct-scan fidelity audit for constituent 14 — **17 source pages total**. Stop before T3 and do not start constituent 15.
+**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.

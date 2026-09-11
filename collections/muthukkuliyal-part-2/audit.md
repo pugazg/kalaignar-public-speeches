@@ -344,6 +344,28 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **13/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 17/17 pages; 2 corrections; 0 unresolved.**
+
+- Tamil pages checked: **17/17**;
+- confirmed scan corrections: **2/2 consolidated**;
+- unresolved Tamil readings: **0**;
+- page-boundary continuations: **PASS**;
+- quotations / verse / Jenny letter / Kural: **PASS**;
+- separate closing note: **PASS**;
+- source-sensitive spellings / dates: **retained as printed**;
+- Tamil T3: **READY / NOT STARTED**.
+
+## Collection totals after constituent 14 T2
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 complete: **14/36**;
+- Tamil T2 complete: **14/36**;
+- Tamil T3 complete / Tamil verified: **13/36**;
+- English E1 / E2 / E3 complete and English verified: **13/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.
+**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.

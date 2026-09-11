@@ -53,6 +53,34 @@ These are legible first-pass source readings to re-check, not normalized correct
 - PDF160 / p.159: Kural form `ஆகித்தற் கொண்டான்`;
 - PDF161 / p.160: `நாலைந்து ஆண்டுகள்` and separate closing-note form `மொழி பெயர்த்த`.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 17/17 source pages; 2 corrections; 0 unresolved.**
+
+Every page from PDF **145–161** / printed **144–160** was re-read directly against the controlling scan. Names, numerals, punctuation, quotations, verse, repetitions, Jenny letter, Kural wording, page-boundary continuations and the separate source closing note were checked.
+
+### Scan-confirmed corrections
+
+1. PDF145 / p.144: `சற்றொப்ப இரண்டு மணி நேரம்` → **`சற்றொப்ப இரண்டரை மணி நேரம்`**.
+2. PDF156 / p.155: `30 ஆண்டுகளுக்கு முன்னர் எழுதி கேட்டபொழுதே` → **`30 ஆண்டுகளுக்கு முன்னர் எழுதிக் கேட்டபொழுதே`**.
+
+### Source-sensitive readings retained
+
+- PDF147 / p.146: `அச்சியற்றப்பட` / `அச்சியற்றப்பட்டாலும்`;
+- PDF149 / p.148: `Das Capital`, `விவிலியம் (கிறித்துவ மறை நூல்)`, Engels quotation punctuation;
+- PDF150 / p.149: `காரல்மார்க்ஸ்`, `ட்ரியர்`, `வைதீகத்தின் மூலஸ்தானமாகவும்`;
+- PDF151 / p.150: `கெதே`, `ஹிர்ஷெல் மார்க்ஸ்`, `1821-ஆம் ஆண்டு ஆகஸ்டு மாதம் 24-ஆம் தேதி`;
+- PDF152 / p.151: `ரைன்லாந்து கெஜட்`, `1812-ஆம் ஆண்டு ஜனவரித் திங்கள் முதல் நாள்`;
+- PDF154 / p.153: `வளமையினருகே வறுமை; பலத்தினருகே பயம்;`;
+- PDF155 / p.154: `தேவை தின்றச் செய்தது`;
+- PDF157 / p.156: both printed verse blocks;
+- PDF158 / p.157: `165 ஆண்டுகளுக்கு முன்பு` / `180 ஆண்டுகளுக்கு முன்பு`, `மாதரசு ஜென்னி`;
+- PDF159–160 / pp.158–159: Jenny letter and page-boundary continuation;
+- PDF160 / p.159: Kural `ஆகித்தற் கொண்டான்`;
+- PDF161 / p.160: `நாலைந்து ஆண்டுகள்` and closing-note `மொழி பெயர்த்த`.
+
+Page-boundary continuations **145→146, 146→147, 147→148, 151→152, 152→153, 153→154, 156→157, 157→158, 158→159, 159→160, 160→161**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.
+**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.

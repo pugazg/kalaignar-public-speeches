@@ -16,12 +16,17 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1 first-pass transcription is now **COMPLETE — 17/17 source pages**, PDF **145–161** / printed **144–160**. Canonical page records: **17/17**, in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**, so the Tamil layer is not yet verified/frozen.
+- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 17/17**;
+- Tamil T2: **PASS / COMPLETE — 17/17; 2 corrections; 0 unresolved**;
+- Tamil T3: **READY / NOT STARTED**;
+- Tamil is not yet frozen; English remains blocked pending verified Tamil;
+- separate source closing note remains outside the speech body;
+- source PDF binary remains uncommitted;
+- constituent 15 remains outside this activity.
 
-Carry source-odd forms, printed chronology/date forms, quotations, poems, Jenny letter punctuation, and the `மொழி பெயர்த்த` closing-note wording into strict T2 re-check without normalization. Page-boundary continuations requiring explicit T2 review include **145→146, 146→147, 147→148, 151→152, 152→153, 153→154, 156→157, 157→158, 158→159, 159→160, and 160→161**.
-
-The source PDF binary remains uncommitted. Constituent 15 remains outside this activity.
+T2 corrections are consolidated in `transcription-ta.md`: PDF145 `இரண்டு மணி நேரம்` → `இரண்டரை மணி நேரம்`; PDF156 `எழுதி கேட்டபொழுதே` → `எழுதிக் கேட்டபொழுதே`. All documented source-sensitive forms, dates, quotations, verse, Jenny letter, Kural wording and closing-note `மொழி பெயர்த்த` form were re-read and retained rather than normalized.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.
+**Tamil T3 consolidation/freeze for constituent 14 — 17 source pages total.** Stop before English, constituent 15, or repository closure.
