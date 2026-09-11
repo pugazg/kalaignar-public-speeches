@@ -196,6 +196,26 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **12/36**;
 - fully archived: **12/36**.
 
+## Constituent 13 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **5/5**;
+- stale superseded readings: **0**;
+- canonical page records: **17/17**, complete and ordered;
+- missing / duplicate page records: **0 / 0**;
+- page-boundary continuations / separate closing note: **PASS**;
+- source-odd readings and printed 1881/1884 chronology: **retained unchanged**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 13 T3
+
+- mapped / started / source-gated: **36/36 / 13/36 / 13/36**;
+- Tamil T1 / T2 / T3 complete and Tamil verified: **13/36**;
+- English E1 / E2 / E3 complete and English verified: **12/36**;
+- fully archived: **12/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.
+**English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total.** Stop before E2, constituent 14, or repository closure.

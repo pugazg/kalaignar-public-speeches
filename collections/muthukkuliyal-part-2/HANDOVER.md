@@ -19,7 +19,7 @@
 - mapped: **36 / 36**; started / source-gated: **13 / 36**;
 - Tamil T1 complete: **13 / 36**;
 - Tamil T2 complete: **13 / 36**;
-- Tamil T3 complete / Tamil verified: **12 / 36**;
+- Tamil T3 complete / Tamil verified: **13 / 36**;
 - English E1 complete: **12 / 36**;
 - English E2 complete: **12 / 36**;
 - English E3 complete: **12 / 36**;
@@ -137,6 +137,12 @@ Tamil T2: **PASS / COMPLETE — 17/17 source pages; 5 corrections; 0 unresolved*
 
 Tamil T3 is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 13 — durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved** for `மே தின விழா`. All **5/5** T2 corrections are consolidated; stale superseded readings **0**; canonical page records **17/17** exactly once and ordered; missing/duplicate page records **0/0**; page-boundary continuations and separate closing-note handling **PASS**. Tamil is now **`verified-complete` / FROZEN**.
+
+English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.
+**English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total.** Stop before E2, constituent 14, or repository closure.

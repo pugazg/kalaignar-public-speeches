@@ -10,7 +10,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **13 / 36**
 - Tamil T1 complete: **13 / 36**
 - Tamil T2 complete: **13 / 36**
-- Tamil T3 complete / Tamil verified: **12 / 36**
+- Tamil T3 complete / Tamil verified: **13 / 36**
 - English E1 complete: **12 / 36**
 - English E2 complete: **12 / 36**
 - English E3 complete: **12 / 36**
@@ -76,14 +76,14 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 13 — Tamil T2 complete
+## Constituent 13 — Tamil T3 complete / Tamil verified
 
-Source / duplicate / boundary gate remains **PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0**. Tamil T1 remains **COMPLETE — 17/17**.
+Tamil T3 is **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved** for `மே தின விழா`, PDF **128–144** / printed **127–143**.
 
-Tamil T2 is now **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved** for `மே தின விழா`, PDF **128–144** / printed **127–143**. All five scan-confirmed corrections are consolidated. Page-boundary continuations and separate closing-note handling pass. Source-odd forms and the printed 1881/1884 chronology were re-read and retained as printed.
+All **5/5** T2 corrections are consolidated; stale superseded readings are absent; canonical page records are complete and ordered; page-boundary continuations and separate closing-note handling pass. Documented source-odd forms and the printed 1881/1884 chronology remain unchanged. Tamil is now **`verified-complete` / FROZEN**.
 
-Tamil T3 is **READY / NOT STARTED**. Constituent 14 remains outside the active batch.
+English E1 is **READY / NOT STARTED**. Constituent 14 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.
+**English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total.** Stop before E2, constituent 14, or repository closure.

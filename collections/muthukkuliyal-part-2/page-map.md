@@ -59,7 +59,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 10 | `madurai-vazhakkarinjar-sanga-125-aavathu-aanduvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 13 | `may-thina-vizha` | **Tamil T2 PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved; T3 next** |
+| 13 | `may-thina-vizha` | **Tamil T3 PASS / COMPLETE — Tamil verified-complete / FROZEN; English E1 next** |
 | 14–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -72,6 +72,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **13** `மே தின விழா` has completed Tamil T2: **PASS / COMPLETE — 17/17 source pages; 5 corrections; 0 unresolved**. All five corrections are consolidated; page-boundary continuations and separate closing-note handling pass. Tamil T3 has **NOT STARTED**.
+Constituent **13** `மே தின விழா` has completed Tamil T3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved**. All **5/5** T2 corrections are consolidated; stale readings **0**; canonical page records are complete and ordered; page joins and separate closing-note handling pass. Tamil is now **`verified-complete` / FROZEN**. English E1 has **NOT STARTED**.
 
-Exact next gate: **Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total**. Constituent 14 remains outside this iteration.
+Exact next gate: **English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total**. Constituent 14 remains outside this iteration.

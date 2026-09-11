@@ -19,14 +19,19 @@
 - source / duplicate / boundary gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 17/17**;
 - Tamil T2: **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved**;
-- Tamil T3: **READY / NOT STARTED**;
-- Tamil is not yet frozen; English remains blocked pending verified Tamil;
-- separate source closing note remains outside the speech body;
-- source PDF binary remains uncommitted;
+- Tamil T3: **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- all **5/5** T2 corrections are consolidated;
+- stale superseded readings: **0**;
+- canonical page records: **17/17**, complete and ordered;
+- page-boundary continuations / separate closing note: **PASS**;
+- English E1: **READY / NOT STARTED**;
+- English E2/E3: **blocked pending prior English gate**;
+- source PDF remains uncommitted;
 - constituent 14 remains outside this activity.
 
-T2 corrections are consolidated in `transcription-ta.md`: PDF129 `இன்றைக்கும் கூட` → `இன்றைக்கும்கூட`; PDF137 comma → full stop after `மாத்திரமல்ல`; PDF138 `பகுதி செயலாளர்` → `பகுதிச் செயலாளர்`; PDF140 restored the opening quotation before `கருணாநிதியை`; PDF144 comma → full stop after `என்றாயே`. Documented source-odd readings, including the printed 1881/1884 chronology, were re-read and retained rather than normalized.
+Documented source-odd readings and the printed 1881/1884 chronology remain source-faithful and unchanged. No speech-body Tamil was modified during T3.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 13 — 17 source pages total.** Stop before English, constituent 14, or repository closure.
+**English E1 first-pass translation for constituent 13 — 17 verified Tamil pages total.** Translate only from frozen `transcription-ta.md`; stop before E2, constituent 14, or repository closure.
