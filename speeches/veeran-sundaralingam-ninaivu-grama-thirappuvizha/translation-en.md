@@ -1,10 +1,10 @@
 # Veeran Sundaralingam Memorial Village Opening — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **10 / 10 COMPLETE**; E2 **10 / 10 PASS; 4 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1/E2/E3 **10 / 10 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **103–112** / printed **102–111**
 
-> E1 was translated only from the frozen Tamil layer. E2 independently compared all 10 English pages against that frozen Tamil and consolidated **4 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification.
+> E1 was translated only from the frozen Tamil layer. E2 independently checked all 10 pages and consolidated 4 corrections. E3 re-read the complete English against frozen Tamil from beginning to end, applied **1 additional fidelity correction**, and closed with **0 unresolved issues**. Final English state: **`verified-complete`**.
 
 ## PDF 103 / printed p.102
 
@@ -12,11 +12,11 @@
 
 A function that brings delight to the heart is taking place here with great dignity, distinction, fervour, and uplift. After 1972, I came to this region with Manali Kandasamy and Suppu and conducted the Veerapandiya Kattabomman festival. Accepting the demands placed then, I gave an assurance that I would rebuild Veerapandiya Kattabomman's Panchalankurichi fort, which had been lost, destroyed, and buried under the earth. Fulfilling that assurance, I built the fort and its bastions, and erected memorials for all the commanders who stood shoulder to shoulder with Veerapandiya Kattabomman and took part in the freedom struggle. As one of those memorials, it was I who even then erected the ceremonial gateway for Veeran Sundaralingam. In that capacity, I am very happy to take part in this event.
 
-Dr Krishnasamy, our Member of the Legislative Assembly who has taken the leading place here, spoke about all the occasions on which I have remembered
+Dr Krishnasamy, our Member of the Legislative Assembly who has taken the leading place here, spoke about all the occasions on which I have reminded people
 
 ## PDF 104 / printed p.103
 
-Sundaralingam. He appears to have brought notes taken from a book I wrote; I too have brought notes on exactly the same passages. From this alone you can understand the unity between us. If I remind you that fourteen years ago Krishnasamy stood in the Pollachi parliamentary election on behalf of the Dravida Munnetra Kazhagam, all of you can understand how this unity of thought came about.
+of Sundaralingam. He appears to have brought notes taken from a book I wrote; I too have brought notes on exactly the same passages. From this alone you can understand the unity between us. If I remind you that fourteen years ago Krishnasamy stood in the Pollachi parliamentary election on behalf of the Dravida Munnetra Kazhagam, all of you can understand how this unity of thought came about.
 
 About fifteen years ago, in the magazine “Kungumam,” I created a serialized illustrated narrative called “Paayum Puli Pandaraka Vanniyan.” The very first chapter of that serial was a chapter introducing Veeran Sundaralingam. Many of you may not have been able to read it. But as one who reminded people of him as long as fifteen years ago, I now remind you of it. That is what Krishnasamy also reminded you of here. I had written it there. While Krishnasamy was reading it, you became somewhat restless and, carried away by joy, forgot yourselves and raised slogans. Because of that, many among you did not listen carefully to what I had written and what he had read. Therefore, I shall read it myself:
 
@@ -91,6 +91,23 @@ take it that the reason and the foundation for all this is that he had been in t
 **Source closing note (separate from speech body):**  
 Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial Village.
 
+## E3 final end-to-end verification
+
+- English E3: **PASS / COMPLETE — 10/10 pages**.
+- E3 additional corrections: **1**.
+- E3 unresolved issues: **0**.
+- Every corrected English page was re-read against frozen Tamil from beginning to end.
+- All **4/4 E2 corrections** remain present.
+- PDF/printed-page correspondence, page joins, names/titles/numerals, historical quotations, rhetoric/repetition, source-sensitive notes, and the separate closing note: **PASS**.
+- PDF110 / printed p.109 irregular frozen-Tamil sentence remains explicitly source-noted and unaltered.
+- Frozen Tamil changes: **0**.
+- Final English state: **`verified-complete`**.
+
+### E3 additional correction
+
+1. PDF103→104 / printed pp.102→103: `சுந்தரலிங்கத்தை நான் எப்பொழுதெல்லாம் நினைவுபடுத்தியிருக்கிறேன்` — changed “all the occasions on which I have remembered / Sundaralingam” to **“all the occasions on which I have reminded people / of Sundaralingam”**, restoring the causative sense while preserving the source page boundary.
+
+
 ## E2 fidelity-review result
 
 - English E1: **10/10 COMPLETE**.
@@ -126,4 +143,4 @@ Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.

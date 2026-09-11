@@ -1,10 +1,10 @@
 # Madurai Bar Association 125th Anniversary — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **9 / 9 COMPLETE**; E2 **9 / 9 PASS; 0 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1/E2/E3 **9 / 9 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **94–102** / printed **93–101**
 
-> E1 was translated only from the frozen Tamil layer. E2 independently compared all 9 English pages against that frozen Tamil and found **0 fidelity corrections / 0 unresolved issues**. English remains provisional until E3 final end-to-end verification.
+> E1 was translated only from the frozen Tamil layer. E2 independently checked all 9 pages and required 0 corrections. E3 re-read the complete English against frozen Tamil from beginning to end and found **0 additional corrections / 0 unresolved issues**. Final English state: **`verified-complete`**.
 
 ## PDF 94 / printed p.93
 
@@ -99,6 +99,18 @@ Therefore, as far as this demand is concerned, it is not in my hands; but it is 
 **Source closing note (separate from speech body):**  
 Speech delivered on 18-4-98 at Madurai at the 125th anniversary function of the Bar Association.
 
+## E3 final end-to-end verification
+
+- English E3: **PASS / COMPLETE — 9/9 pages**.
+- E3 additional corrections: **0**.
+- E3 unresolved issues: **0**.
+- Every corrected English page was re-read against frozen Tamil from beginning to end.
+- E2 correction state: **0 corrections required / preserved**.
+- PDF/printed-page correspondence, page joins, names/titles/numerals, rhetoric/repetition, applause markers, source-sensitive wordplay, and the separate closing note: **PASS**.
+- Frozen Tamil changes: **0**.
+- Final English state: **`verified-complete`**.
+
+
 ## E2 fidelity-review result
 
 - English E1: **9/9 COMPLETE**.
@@ -125,4 +137,4 @@ Speech delivered on 18-4-98 at Madurai at the 125th anniversary function of the 
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.

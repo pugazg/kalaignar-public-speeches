@@ -2,16 +2,15 @@
 
 **English E1:** **COMPLETE — 9 / 9 pages**  
 **English E2:** **PASS / COMPLETE — 9 / 9; 0 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 9 / 9; 0 additional corrections; 0 unresolved**  
+**English state:** **`verified-complete`**
 
-Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against the frozen Tamil layer.
+Tamil remains **`verified-complete` / FROZEN**. E3 re-read the complete E2-reviewed English against frozen Tamil from beginning to end.
 
-## E2 result
+## E3 result
 
-No English correction was required. Page correspondence, paragraph sequence, names/titles/numerals, rhetoric, repetition, applause markers, page-boundary continuations, and the separate source closing note all passed.
-
-PDF94 / printed p.93 retains the Tamil source forms `எதிர் பார்ப்பு` and `எதிர்ப்பு` in the English page so the source wordplay remains transparent.
+No additional English correction was required. Page correspondence and joins, names/titles/numerals, rhetoric/repetition, applause markers, PDF94 expectation/opposition wordplay, and the separate source closing note all pass. Frozen Tamil changes: **0**.
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.

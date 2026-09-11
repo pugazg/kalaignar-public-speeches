@@ -2,23 +2,17 @@
 
 **English E1:** **COMPLETE — 10 / 10 pages**  
 **English E2:** **PASS / COMPLETE — 10 / 10; 4 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 10 / 10; 1 additional correction; 0 unresolved**  
+**English state:** **`verified-complete`**
 
-Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against the frozen Tamil layer and consolidated only confirmed English-fidelity corrections.
+Tamil remains **`verified-complete` / FROZEN**. E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end.
 
-## E2 corrections
+## E3 additional correction
 
-1. PDF104 / printed p.103: `நினைவு ஊட்டியவன் நான்` — “one who recalled him” → **“one who reminded people of him”**.
-2. PDF105 / printed p.104: `தடந்தோள் தட்டிய` — restored the bodily martial image as **“slapped his broad shoulders in challenge”**.
-3. PDF107 / printed p.106: `தீப்பந்தத்தை கட்டிக் கொண்டு` — “carrying a firebrand” → **“having tied a firebrand to themselves”**.
-4. PDF111 / printed p.110: `மாறிய நிலையை வரலாற்றுச் சான்றுகளோடு எடுத்துச் செல்லி` — “carry this changed condition through historical evidence” → **“set out this changed condition with historical evidence”**.
+1. PDF103→104 / printed pp.102→103: `சுந்தரலிங்கத்தை நான் எப்பொழுதெல்லாம் நினைவுபடுத்தியிருக்கிறேன்` — “all the occasions on which I have remembered / Sundaralingam” → **“all the occasions on which I have reminded people / of Sundaralingam”**. The correction restores the causative sense and preserves the page boundary.
 
-## Source-sensitive clarification
-
-PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains source-confirmed, internally irregular frozen Tamil. Its conservative E1 rendering and explicit source note are retained; Tamil was not altered.
-
-All 10 page records, page joins, names/titles/numerals, historical quotations, rhetoric/repetition, and the separate source closing note were reviewed. Unresolved English-fidelity issues: **0**.
+All four E2 corrections remain consolidated. PDF110 / printed p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains explicitly source-noted and unaltered. Page correspondence and joins, names/titles/numerals, historical quotations, rhetoric/repetition, and the separate source closing note all pass. Frozen Tamil changes: **0**.
 
 ## Exact next gate
 
-Combined **English E3 final end-to-end verification for constituents 10–11 — 19 pages total**. Re-read the complete E2-corrected English against frozen Tamil and stop before repository closure or constituent 12.
+Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
