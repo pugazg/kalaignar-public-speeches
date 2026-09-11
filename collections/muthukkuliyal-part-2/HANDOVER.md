@@ -22,7 +22,7 @@
 - Tamil T3 complete / Tamil verified: **13 / 36**;
 - English E1 complete: **13 / 36**;
 - English E2 complete: **13 / 36**;
-- English E3 complete: **12 / 36**;
+- English E3 complete: **13 / 36**;
 - fully archived: **12 / 36**.
 
 Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
@@ -155,6 +155,12 @@ English E2: **PASS / COMPLETE — 17/17 pages; 5 corrections; 0 unresolved** for
 
 English E3 is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
 
+## Constituent 13 — durable English E3 result
+
+English E3: **PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved** for `மே தின விழா`. All **5/5** E2 corrections remain consolidated; page correspondence / joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes and separate closing-note handling all pass. Frozen Tamil changes during E3 **0**. Final English state is **`verified-complete`**.
+
+Repository closure is **READY / NOT STARTED**. Constituent 14 remains outside the batch. Source PDF remains uncommitted.
+
 ## Exact next incomplete gate
 
-**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Stop before constituent 14 or repository closure.
+**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.

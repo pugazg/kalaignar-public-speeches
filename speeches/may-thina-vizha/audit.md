@@ -116,6 +116,21 @@ Source-sensitive E1 handling is documented in `translation-en.md`. The printed 1
 
 Correction details are recorded in `translation-review.md`. Source-odd chronology, incomplete fragments and source spellings were preserved rather than normalized.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved.**
+
+- complete E2-corrected English re-read against frozen Tamil: **17/17 pages**;
+- E2 corrections still consolidated: **5/5**;
+- E3 additional corrections: **0**;
+- E3 unresolved English-fidelity issues: **0**;
+- page correspondence / joins: **PASS**;
+- names / titles / numerals / quotations / rhetoric / repetition: **PASS**;
+- source-sensitive notes: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Stop before constituent 14 or repository closure.
+**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.

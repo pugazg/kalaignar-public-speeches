@@ -38,7 +38,7 @@
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 17/17** |
 | English E2 | **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved** |
-| English E3 | **READY / NOT STARTED** |
+| English E3 | **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** |
 | Repository closure | not started |
 
 Tamil T1 contains all **17/17** canonical page records for PDF **128–144** / printed **127–143**, each once and in source order. Missing page records: **0**. Explicit unreadable/unknown placeholders: **0**.
@@ -65,6 +65,12 @@ Source-sensitive notes in `translation-en.md` explicitly preserve the printed 18
 
 E2 independently compared every English page against frozen Tamil and consolidated five confirmed fidelity corrections. These cover worker-category wording on PDF136, page-boundary syntax on PDF137→138, Jayalalithaa reported-speech quotation structure on PDF139→140, the deliberately incomplete `உடன் பிறவா...?` fragment on PDF141, and the omitted `அந்த ஊழல் செய்த இந்திரகுமாரி` attribution on PDF142. Page joins and separate closing-note handling pass. Frozen Tamil changes during E2: **0**.
 
+## English E3 final end-to-end verification
+
+**PASS / COMPLETE — 17/17 pages; 0 additional corrections; 0 unresolved.**
+
+E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end. All **5/5** E2 corrections remain present. Page correspondence and joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and the separate closing note all pass. Frozen Tamil changes during E3: **0**. English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Stop before constituent 14 or repository closure.
+**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.

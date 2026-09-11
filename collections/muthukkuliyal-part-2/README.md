@@ -76,12 +76,12 @@ Tamil remains **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 add
 
 Collection state is now **12 / 36 fully archived**. Constituents **1–12 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 13 — English E2 complete
+## Constituent 13 — English E3 complete / English verified
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 remains **COMPLETE — 17/17**. English E2 is now **PASS / COMPLETE — 17/17; 5 corrections; 0 unresolved** for `மே தின விழா`.
+Tamil remains **`verified-complete` / FROZEN**. English E1 and E2 remain complete. English E3 is now **PASS / COMPLETE — 17/17; 0 additional corrections; 0 unresolved** for `மே தின விழா`.
 
-All five confirmed E2 corrections are consolidated. Page-boundary continuations and separate closing-note handling pass. Frozen Tamil changes during E2: **0**. English E3 is **READY / NOT STARTED**. Constituent 14 remains outside the active batch.
+All **5/5** E2 corrections remain consolidated. Page correspondence and joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. Final English state: **`verified-complete`**. Repository closure is ready but has not started. Constituent 14 remains outside the active batch.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Stop before constituent 14 or repository closure.
+**Repository-level archival closure for constituent 13 — 17 pages total.** Stop before constituent 14.

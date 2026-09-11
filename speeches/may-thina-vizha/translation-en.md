@@ -1,10 +1,10 @@
 # May Day Celebration — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1 **17 / 17 COMPLETE**; E2 **17 / 17 PASS; 5 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E1/E2/E3 **17 / 17 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **128–144** / printed **127–143**
 
-> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 17 English pages against frozen Tamil and consolidated **5 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification. Frozen Tamil changes during E2: **0**.
+> E1 was translated only from frozen Tamil. E2 independently checked all 17 pages and consolidated **5 fidelity corrections**. E3 re-read the complete E2-corrected English against frozen Tamil from beginning to end, found **0 additional corrections** and **0 unresolved issues**, and confirmed all **5/5** E2 corrections remain present. Final English state: **`verified-complete`**.
 
 ## PDF 128 / printed p.127
 
@@ -223,6 +223,17 @@ Speech delivered at the May Day celebration on 1-5-98.
 4. PDF141 / printed p.140: removed the added noun **“companion”** from the deliberately incomplete source fragment `அவரும் அவருடைய உடன் பிறவா...?`; the English now preserves the incompleteness without supplying a missing noun.
 5. PDF142 / printed p.141: restored the explicit source attribution in `அந்த ஊழல் செய்த இந்திரகுமாரி` as **“Indira Kumari, who committed that corruption,”** rather than omitting that clause.
 
+## E3 final end-to-end verification
+
+- English E3: **PASS / COMPLETE — 17/17 pages**.
+- E3 additional corrections: **0**.
+- E3 unresolved issues: **0**.
+- Every E2-corrected English page was re-read against frozen Tamil from beginning to end.
+- All **5/5 E2 corrections** remain present.
+- PDF/printed-page correspondence, page joins, names/titles/numerals, quotations, rhetoric/repetition, source-sensitive notes, and the separate closing note: **PASS**.
+- Frozen Tamil changes: **0**.
+- Final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 13 — 17 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 14 or repository closure.
+**Repository-level archival closure for constituent 13 — 17 pages total.** Verify all constituent and collection controls, final Tamil/English states, correction counts, page ordering, source range, closing-note separation, and root catalogue synchronization. Stop before constituent 14.
