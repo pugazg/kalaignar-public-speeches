@@ -1,6 +1,6 @@
 # Function to Present Ex Gratia Grants for the Works of Thiru. Vi. Ka. and Kalki — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 11 / 11 pages**; E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 11 / 11 pages; 2 corrections; 0 unresolved**; E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **162–172** / printed **161–171**
 
@@ -88,7 +88,7 @@ The then British lord Wellington, filled with uncontrollable anger, ordered the 
 
 and said: immediately go and meet the Governor and make him withdraw the deportation of Thiru. Vi. Ka. If Lord Wellington refuses to listen, all of you come out of the ministry. We do not want the responsibility of office. Theagaraya sent them with that instruction. Hearing it, the Raja of Panagal and the ministers in his cabinet immediately met Wellington and firmly told him that Thiru. Vi. Ka. must not be deported. Wellington angrily asked, “Who are you to say that Thiru. Vi. Ka. should not be deported? I will deport him.” They replied, “Then here are our resignation letters,” and threw down their letters of resignation. Wellington yielded to that and, with no other course, withdrew the deportation order that was to have been carried out that day. That is the history of Tamil Nadu. (Applause)
 
-The Justice Party has been criticised as though it was a party that wagged its tail for the white man. It was the Justice Party that, through this very incident, shattered that criticism even then. The name of that party’s current is the Dravidian movement. I can give any number of examples to show that this Dravidian movement has never failed to remember national leaders and freedom fighters.
+The Justice Party has been criticised as though it was a party that wagged its tail for the white man. It was the Justice Party that, through this very incident, shattered that criticism even then. That party is what is called the Dravidian movement. I can give any number of examples to show that this Dravidian movement has never failed to remember national leaders and freedom fighters.
 
 What is now being observed is India’s golden jubilee of Independence. We are in the golden-jubilee year of Independence.
 
@@ -106,7 +106,7 @@ At that point, the question that will remain in our minds will be: India, or the
 
 Whether what was done was right or wrong may be discussed now. If tomorrow India faces danger from other countries, I wish to remind you here that India will forget all political animosities and stand as one — that we will stand as one. (Loud applause)
 
-Because this function is for Thiru. Vi. Ka. and Professor Kalki — patriots of this country, national
+Because this function is for Thiru. Vi. Ka. and Professor Kalki — people devoted to this country, patriots and
 
 ## PDF 172 / printed p.171
 
@@ -126,7 +126,7 @@ The name and fame of Thiru. Vi. Ka., and the name and fame of Professor Kalki, a
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -134,6 +134,15 @@ The name and fame of Thiru. Vi. Ka., and the name and fame of Professor Kalki, a
 - PDF167 `தேசீயப் பாட்டோடு` is rendered literally as **“with the national song”**; the frozen Tamil remains controlling.
 - Names, movement labels, numerals and the PDF172 `பரிவுத் தொகை` closing-note wording are not silently reconciled with external history or modern usage.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 2 corrections; 0 unresolved.**
+
+1. PDF170 / printed p.169: replaced the awkward E1 clause **“The name of that party’s current is the Dravidian movement”** with **“That party is what is called the Dravidian movement”**, preserving `அந்தக் கட்சியினுடைய பேருதான் திராவிட இயக்கம்`.
+2. PDF171→172 / printed pp.170→171: revised **“patriots of this country, national / devotees and devotees of Tamil”** to **“people devoted to this country, patriots and / devotees of Tamil”** so `இந்த நாட்டின் பற்றாளர்கள் - தேச பக்தர்கள் - தமிழ் பக்தர்கள்` remains three distinct source descriptors while retaining the page boundary.
+
+All **11/11** English page records, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and the separate closing note were compared against frozen Tamil. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 15–16 together — 22 English pages total.**
+**English E3 final end-to-end verification for constituents 15–16 together — 22 English pages total.**

@@ -1,6 +1,6 @@
 # Ambur Sampangi Family Wedding — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 11 / 11 pages**; E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 11 / 11 pages; 3 corrections; 0 unresolved**; E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **173–183** / printed **172–182**
 
@@ -22,7 +22,7 @@ I wish to point out that I have such attachment and affection for this family th
 
 I also took part in the wedding of Selvi, the sister of both Manoharan and Anandan, and blessed the couple. I took part in the wedding of Sampangi’s other son, our younger brother Raju, and blessed that couple as well. All these are evidence that my participation in functions held in this family is something natural.
 
-When I think of Ambur, I cannot forget Sampangi and Ramu. Around 1950, nearly forty-eight years ago, I met them in Chennai. Before that I did not know that this was Sampangi or that this was Ramu. At the time I was writing screenplay and dialogue for the films *Manamagal* and *Parasakthi*.
+When I think of Ambur, I cannot forget Sampangi and Iramu. Around 1950, nearly forty-eight years ago, I met them in Chennai. Before that I did not know that this was Sampangi or that this was Ramu. At the time I was writing screenplay and dialogue for the films *Manamagal* and *Parasakthi*.
 
 Kalaivanar N.S.K. told me that if I wrote dialogue from home I would face disturbances. He sent his secretary, a man named Chellamuthu, with me and arranged a room in a hotel called Select Hotel in the North Chennai area of Chennai city, asking me to sit there in solitude and write the dialogue. Similarly, for *Parasakthi*, produced by Perumal, who was born in “Pootu Thaakku” in this same North Arcot district,
 
@@ -30,7 +30,7 @@ Kalaivanar N.S.K. told me that if I wrote dialogue from home I would face distur
 
 I was writing the dialogue for some scenes there. At that time, two young men staying in the room opposite mine sent word through a boy working at the hotel that they wished to meet me. The boy came to me and said, “Two people from somewhere in North Arcot are staying here. They want to meet you.” I said, “Ask them to come.”
 
-Then both of them came and introduced themselves: “I am Sampangi; this is Ramu.” They explained to me their attachment to the Dravidian movement. You can all directly see how the meeting that took place that day at Select Hotel continued until Sampangi and Ramu passed away, and how it has continued even after them.
+Then both of them came and introduced themselves: “I am Sampangi; this is Iramu.” They explained to me their attachment to the Dravidian movement. You can all directly see how the meeting that took place that day at Select Hotel continued until Sampangi and Iramu passed away, and how it has continued even after them.
 
 As friend Mullai Vadivelu illustrated, and as our younger brother Durai Murugan and others pointed out here, I know very, very well how much Sampangi and Ramu worked in this region to develop and strengthen the Dravidian movement and this political movement called the DMK. That is why, whenever Sampangi or Ramu invited me to any function connected with Ambur, I never hesitated to come. You all know that I even came to the opening of the hotel he built here,
 
@@ -62,7 +62,7 @@ If, after having held office three times, the DMK is in office today for the fou
 
 ## PDF 180 / printed p.179
 
-There is no need to list all the achievements this government is carrying out. You know them very well. When we speak of these things through advertisements, it is not for you, nor for the general public. It is to identify them to those who are still dancing about saying the DMK government must be brought down and sent home, jumping about and engaging in conspiratorial work toward that end. It is with that purpose that we show the achievements of the DMK government and the extent to which this government is connected with the people.
+There is no need to list all the achievements this government is carrying out. You know them very well. When we speak of these things through advertisements, it is not for you, nor for the general public. It is to show these achievements to those who are still dancing about saying the DMK government must be brought down and sent home, jumping about and engaging in conspiratorial work toward that end. It is with that purpose that we show the achievements of the DMK government and the extent to which this government is connected with the people.
 
 You may think that our younger brother Durai Murugan came with me from Chennai to this wedding because he travelled here by train from Chennai. But the place Durai Murugan had been for the last three days was Thanjavur district. Why? Durai Murugan and the Local Administration Minister, our younger brother Ko. Si. Mani, had gone there and returned after inspecting and encouraging the work being carried out in Thanjavur district. If that work is being carried out there, it is not work undertaken only for Thanjavur district. It is work for the whole of Tamil Nadu. Last year, work costing twelve crore rupees was carried out. Continuing and further expanding it, work costing twenty crore rupees is being carried out in Thanjavur district this year.
 
@@ -86,7 +86,7 @@ Whenever journalists meet me, they ask me about it. Wherever they meet me — wh
 
 Governments come and go. As Anna said, office is like the towel placed over one’s upper body. Even if it falls, a person can still walk about. But principle is like the dhoti tied around one’s waist. A person cannot walk about after losing it.
 
-So we live for principle; ours is a movement that exists for principle. Our thought is that it is enough if this movement remains. That is our goal. No one will ever release themselves from that goal, from the DMK. One of the great pillars of this firm movement in this region was my dear friend Sampangi. With the hope that the family lamps lit today in Sampangi’s home will blaze brightly and help spread the greatness of this family further and further, I bless the bride and groom.
+So we live for principle; ours is a movement that exists for principle. Our thought is that it is enough if this movement remains. That is our goal. No one will ever separate themselves from that ideal or from the DMK. One of the great pillars of this firm movement in this region was my dear friend Sampangi. With the hope that the family lamps lit today in Sampangi’s home will blaze brightly and help spread the greatness of this family further and further, I bless the bride and groom.
 
 ### Source closing note — not part of speech body
 
@@ -100,7 +100,7 @@ So we live for principle; ours is a movement that exists for principle. Our thou
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -110,6 +110,16 @@ So we live for principle; ours is a movement that exists for principle. Our thou
 - PDF181 source `வகைப்படுத்த` is rendered literally as **“classify”** rather than silently replacing it with a more expected canal-work verb.
 - The source gives no date for constituent 16; none is introduced in English.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 3 corrections; 0 unresolved.**
+
+1. PDF174–175 / printed pp.173–174: preserved the frozen Tamil distinction `இராமு` / `ராமு` by using **Iramu** for the `இராமு` occurrences while retaining **Ramu** where the source prints `ராமு`.
+2. PDF180 / printed p.179: **“identify them to those”** → **“show these achievements to those”**, restoring the object of `அவர்களுக்கு அவைகளை அடையாளம் காட்ட`.
+3. PDF183 / printed p.182: **“release themselves from that goal, from the DMK”** → **“separate themselves from that ideal or from the DMK”**, preserving the paired source phrase `அந்த இலட்சியத்திலிருந்து தி.மு.கழகத்திலிருந்து`.
+
+All **11/11** English page records, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and the separate closing note were compared against frozen Tamil. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 15–16 together — 22 English pages total.**
+**English E3 final end-to-end verification for constituents 15–16 together — 22 English pages total.**
