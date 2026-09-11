@@ -2,18 +2,24 @@
 
 **English E1:** **COMPLETE — 11 / 11 pages**  
 **English E2:** **PASS / COMPLETE — 11 / 11; 3 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 11 / 11; 0 additional corrections; 0 unresolved**
 
-Tamil remains **`verified-complete` / FROZEN**. E2 independently compared every English page against frozen Tamil. Frozen Tamil changes during E2: **0**.
+Tamil remains **`verified-complete` / FROZEN**. Frozen Tamil changes during E1/E2/E3: **0**.
 
 ## E2 corrections
 
 1. PDF174–175 / pp.173–174: preserved the printed `இராமு` / `ராமு` distinction as **Iramu / Ramu**.
 2. PDF180 / p.179: restored the object of `அவர்களுக்கு அவைகளை அடையாளம் காட்ட` as **“show these achievements to those...”**
-3. PDF183 / p.182: revised the paired `அந்த இலட்சியத்திலிருந்து தி.மு.கழகத்திலிருந்து` clause to **“separate themselves from that ideal or from the DMK.”**
+3. PDF183 / p.182: revised `அந்த இலட்சியத்திலிருந்து தி.மு.கழகத்திலிருந்து` to **“separate themselves from that ideal or from the DMK.”**
 
-All page correspondence, joins, rhetoric/repetition, names/titles/numerals, source-sensitive wording and the separate closing note pass. Unresolved issues: **0**.
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.**
+
+All **3/3** E2 corrections remain consolidated. Page correspondence, joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording, no-date handling and separate closing-note handling all pass. Frozen Tamil changes during E3: **0**.
+
+**English state:** **`verified-complete`**.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 15–16 together — 22 English pages total.**
+**Repository closure for constituents 15–16 together.**

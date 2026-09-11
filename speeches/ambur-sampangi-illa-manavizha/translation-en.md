@@ -1,6 +1,6 @@
 # Ambur Sampangi Family Wedding — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 11 / 11 pages; 3 corrections; 0 unresolved**; E3 pending  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 11 / 11 pages; 0 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **173–183** / printed **172–182**
 
@@ -120,6 +120,19 @@ So we live for principle; ours is a movement that exists for principle. Our thou
 
 All **11/11** English page records, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and the separate closing note were compared against frozen Tamil. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.**
+
+- E2 corrections retained: **3/3**.
+- E3 additional corrections: **0**.
+- Page correspondence: **11/11**, complete and ordered.
+- Page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and separate closing-note handling: **PASS**.
+- Source date remains **not stated**; none was introduced in English.
+- Frozen Tamil changes during E3: **0**.
+- Final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 15–16 together — 22 English pages total.**
+**Repository closure for constituents 15–16 together.** Do not alter frozen Tamil or verified English; do not start constituent 17 in the same activity.
+
