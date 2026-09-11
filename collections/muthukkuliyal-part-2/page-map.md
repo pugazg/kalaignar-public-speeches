@@ -61,7 +61,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 15–16 | — | **not started — next same-gate source/duplicate/boundary batch; 22 pages total** |
+| 15 | `thiru-vi-ka-kalvi-noolgalukku-parivuthogai-vazhangum-vizha` | **source-gated — Tamil T1 pending** |
+| 16 | `ambur-sampangi-illa-manavizha` | **source-gated — Tamil T1 pending** |
 | 17–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -80,11 +81,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **PASS / COMPLETE — 17/17 pages.** Constituent 14 is now closed / fully archived with Tamil and English `verified-complete`. Source range, page order, correction counts, final English, frozen Tamil, quotations / verse / Jenny letter / Kural, closing-note separation and repository controls agree. Fully archived total: **14 / 36**.
 
+## Constituents 15–16 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 22/22 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- **15 — திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171** — **11 pages**. PDF 172 closes with `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை`; date **15-05-1998**; no venue stated.
+- **16 — ஆம்பூர் சம்பங்கி இல்ல மணவிழா:** PDF **173–183** / printed **172–182** — **11 pages**. Page heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`; opening body supports venue `ஆம்பூர் சம்பங்கி இல்லம்`; closing note `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`; date not stated.
+- PDF 184 begins constituent 17 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை`.
+- Tamil T1 is **NOT STARTED** for both; source PDF remains uncommitted.
+
 ## Next same-gate batch
 
-Constituents **15–16 together** — **22 source pages total**, within the 25-page same-gate cap:
-
-- **15** `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`: PDF **162–172** / printed **161–171** — **11 pages**.
-- **16** `ஆம்பூர் சம்பங்கி இல்ல மணவிழா`: PDF **173–183** / printed **172–182** — **11 pages**.
-
-Next gate: source / duplicate / boundary. Stop before Tamil T1.
+Constituents **15–16 together** — Tamil T1 — **22 source pages total**. Stop before T2 / constituent 17.

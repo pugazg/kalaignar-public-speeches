@@ -7,13 +7,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **14 / 36**
+- speech archives started / source-gated: **16 / 36**
 - Tamil T1 complete: **14 / 36**
 - Tamil T2 complete: **14 / 36**
 - Tamil T3 complete / Tamil verified: **14 / 36**
 - English E1 complete: **14 / 36**
 - English E2 complete: **14 / 36**
-- English E3 complete: **13 / 36**
+- English E3 complete: **14 / 36**
 - fully archived: **14 / 36**
 
 Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
@@ -92,11 +92,18 @@ Tamil remains **`verified-complete` / FROZEN** with **2 T2 corrections / 0 T3 ad
 
 Collection state is now **14 / 36 fully archived**. Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 15–16 — source gate complete
+
+Combined source / duplicate / boundary gate: **PASS / COMPLETE — 22/22 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **15 — திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171**. Closing note `15-5-98 அன்று திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவு தொகை வழங்கும் விழாவில் ஆற்றிய உரை` establishes **15-05-1998** and role; no geographic venue stated. `பரிவுத்தொகை` / `பரிவு தொகை` preserved.
+- **16 — ஆம்பூர் சம்பங்கி இல்ல மணவிழா:** PDF **173–183** / printed **172–182**. Page heading `ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை`; opening body directly supports venue `ஆம்பூர் சம்பங்கி இல்லம்`. Closing note `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`; date not stated and not inferred.
+- PDF 184 begins constituent 17.
+- dedicated archives: `speeches/thiru-vi-ka-kalvi-noolgalukku-parivuthogai-vazhangum-vizha/`, `speeches/ambur-sampangi-illa-manavizha/`.
+- Tamil T1 **NOT STARTED** for both; source PDF remains uncommitted.
+
+Collection state: source-gated **16 / 36**; Tamil verified **14 / 36**; English verified **14 / 36**; fully archived **14 / 36**.
+
 ## Exact next gate
 
-Process constituents **15–16 together** through the source / duplicate / boundary gate — **22 source pages total**, within the 25-page same-gate cap:
-
-- **15 — திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171** — **11 pages**.
-- **16 — ஆம்பூர் சம்பங்கி இல்ல மணவிழா:** PDF **173–183** / printed **172–182** — **11 pages**.
-
-Stop after the source gates; do not begin Tamil T1 in the same activity.
+Perform **Tamil T1 for constituents 15–16 together — 22 source pages total**. Stop after T1; do not begin T2, constituent 17, English work, or repository closure.

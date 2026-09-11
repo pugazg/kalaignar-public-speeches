@@ -1,0 +1,68 @@
+{
+  "id": "ambur-sampangi-illa-manavizha",
+  "title": {
+    "ta": "ஆம்பூர் சம்பங்கி இல்ல மணவிழா",
+    "contents_title_ta": "ஆம்பூர் சம்பங்கி இல்ல மணவிழா",
+    "page_heading_ta": "ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை",
+    "closing_note_event_ta": "ஆம்பூர் சம்பங்கி இல்ல மணவிழா",
+    "en_transliteration": "Ambur Sampangi Illa Manavizha"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 16,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": null,
+    "date_source_text": null,
+    "date_note": "No date is stated in the collection contents, numbered/titled opening, or separate closing note; do not infer one.",
+    "venue_ta": "ஆம்பூர் சம்பங்கி இல்லம்",
+    "venue_note": "Opening body on PDF 173 / printed p.172 states: ஆம்பூர் சம்பங்கி இல்லத்தில் நடைபெறுகின்ற இந்த மணவிழா நிகழ்ச்சியில்",
+    "event_ta": "ஆம்பூர் சம்பங்கி இல்ல மணவிழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 183 / printed p.182 states: ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 173,
+    "pdf_page_end": 183,
+    "printed_page_start": 172,
+    "printed_page_end": 182,
+    "speech_pages_total": 11,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 173 / printed p.172; numbered constituent 16 with page heading ஆம்பூர் சம்பங்கி இல்ல மணவிழா உரை",
+    "ending": "Speech body ends on PDF 183 / printed p.182 before the separate closing note; PDF 184 begins constituent 17"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 11,
+    "speech_pages_drafted": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 for constituents 15–16 together — 22 source pages total"
+  }
+}
