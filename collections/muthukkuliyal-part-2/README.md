@@ -37,11 +37,11 @@ Combined Tamil T3 result: **PASS / COMPLETE — 19/19 source pages; 0 additional
 
 ## Constituents 10–11 — English E1 complete
 
-Combined English E1: **COMPLETE — 19/19 pages** — constituent 10 **9/9**, constituent 11 **10/10**. Translation authority was the frozen Tamil layer only. Page correspondence and separate closing notes are preserved. English E2 is **READY / NOT STARTED**; no English fidelity-pass claim is made yet.
+Combined English E1: **COMPLETE — 19/19 pages** — constituent 10 **9/9**, constituent 11 **10/10**. Translation authority was the frozen Tamil layer only. Page correspondence and separate closing notes are preserved. At the E1 checkpoint, English E2 had not yet started; E2 has since passed completely.
 
 ## Constituents 10–11 — English E2 complete
 
-Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10: **9/9, 0 corrections**. Constituent 11: **10/10, 4 corrections**. All corrections are consolidated in `translation-en.md`; frozen Tamil remained unchanged. English E3 is **READY / NOT STARTED**.
+Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10: **9/9, 0 corrections**. Constituent 11: **10/10, 4 corrections**. All corrections are consolidated in `translation-en.md`; frozen Tamil remained unchanged. At the E2 checkpoint, English E3 had not yet started; E3 has since passed completely.
 
 ## Constituents 10–11 — English E3 complete / English verified
 

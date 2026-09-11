@@ -119,7 +119,7 @@ Speech delivered on 18-4-98 at Madurai at the 125th anniversary function of the 
 - Page correspondence, paragraph order, names/titles/numerals, rhetorical force, repetitions, applause markers, page-boundary continuations, and the separate source closing note were independently checked.
 - PDF94 / printed p.93 expectation/opposition wordplay remains transparent through the retained Tamil source forms.
 - No frozen Tamil text was changed.
-- English E3 final verification: **READY / NOT STARTED**.
+- At the E2 checkpoint, English E3 had **not yet started**; E3 is now complete.
 
 
 ## E1 checkpoint
@@ -128,13 +128,13 @@ Speech delivered on 18-4-98 at Madurai at the 125th anniversary function of the 
 - Translation source: **frozen `transcription-ta.md` only**.
 - Missing English page records: **0**.
 - Separate source closing note: **preserved outside the speech body**.
-- English E2 independent fidelity review: **READY / NOT STARTED**.
+- At the E1 checkpoint, English E2 had **not yet started**; E2 is now complete.
 - No frozen Tamil text was changed.
 
 ### Source-sensitive note
 
 - PDF94 / printed p.93: the expectation/opposition wordplay depends on the Tamil forms “எதிர் பார்ப்பு” and “எதிர்ப்பு”; both source forms are retained in the English page so the wordplay is transparent.
 
-## Exact next gate
+## Repository closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during repository closure. Page correspondence, correction consolidation, source-sensitive notes and separate closing-note handling agree with the final archive controls.

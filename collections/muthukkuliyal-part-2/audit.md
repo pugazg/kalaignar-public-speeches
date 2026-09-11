@@ -78,7 +78,7 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - T3 additional corrections: **0**;
 - T3 unresolved readings: **0**;
 - Tamil state for constituents 10–11: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**.
+- At the Tamil T3 checkpoint, English E1 had **not yet started**; E1 is now complete.
 
 ## Constituents 10–11 — English E1 first-pass translation
 
@@ -89,7 +89,7 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - missing English page records: **0**;
 - separate closing notes: **preserved outside both speech bodies**;
 - frozen Tamil changes during E1: **0**;
-- English E2: **READY / NOT STARTED**.
+- At the E1 checkpoint, English E2 had **not yet started**; E2 is now complete.
 
 ## Constituents 10–11 — English E2 independent fidelity review
 
@@ -101,7 +101,7 @@ Combined result: **PASS / COMPLETE — 19/19 source pages; 11 corrections; 0 unr
 - corrections consolidated in canonical `translation-en.md`: **4/4**;
 - frozen Tamil changes: **0**;
 - page correspondence, page joins and separate closing notes: **PASS**;
-- English E3: **READY / NOT STARTED**.
+- At the E2 checkpoint, English E3 had **not yet started**; E3 is now complete.
 
 ## Constituents 10–11 — English E3 final end-to-end verification
 

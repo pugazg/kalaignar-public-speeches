@@ -66,7 +66,7 @@ PDF110 / printed p.109 `நீங்கள் சொல்வார்களா 
 - missing English page records: **0**;
 - separate source closing note: **preserved outside speech body**;
 - PDF110 / printed p.109 source-confirmed irregular Tamil remains explicitly source-noted in English; no Tamil normalization was made.
-- English E2 independent fidelity review: **READY / NOT STARTED**;
+- At the E1 checkpoint, English E2 had **not yet started**; E2 is now complete.
 - no frozen Tamil text changed during E1.
 
 ## English E2 — independent fidelity review
@@ -83,7 +83,7 @@ Confirmed corrections consolidated in `translation-en.md`:
 - PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains explicitly source-noted and was not normalized;
 - all page records, page joins, names/titles/numerals, historical quotations, rhetoric/repetition and the separate closing note: **PASS**;
 - frozen Tamil changes: **0**;
-- English E3: **READY / NOT STARTED**.
+- At the E2 checkpoint, English E3 had **not yet started**; E3 is now complete.
 
 ## English E3 — final end-to-end verification
 

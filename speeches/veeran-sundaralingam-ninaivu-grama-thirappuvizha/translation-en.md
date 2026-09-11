@@ -117,7 +117,7 @@ Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial
 - Page-boundary continuations and the separate source closing note: **PASS**.
 - PDF110 / printed p.109 irregular frozen-Tamil sentence remains explicitly source-noted and was not normalized.
 - No frozen Tamil text was changed.
-- English E3 final verification: **READY / NOT STARTED**.
+- At the E2 checkpoint, English E3 had **not yet started**; E3 is now complete.
 
 ### E2 corrections
 
@@ -133,7 +133,7 @@ Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial
 - Translation source: **frozen `transcription-ta.md` only**.
 - Missing English page records: **0**.
 - Separate source closing note: **preserved outside the speech body**.
-- English E2 independent fidelity review: **READY / NOT STARTED**.
+- At the E1 checkpoint, English E2 had **not yet started**; E2 is now complete.
 - No frozen Tamil text was changed.
 
 ### Source-sensitive notes
@@ -141,6 +141,6 @@ Speech delivered on 18-4-98 while inaugurating the Veeran Sundaralingam Memorial
 - PDF107 / printed p.106: `முறைப்பெண்` is retained as “muraippen” with a concise explanation rather than silently imposing a modern kinship label.
 - PDF110 / printed p.109: the source-confirmed irregular sentence `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` remains explicit and is translated conservatively without repairing the Tamil.
 
-## Exact next gate
+## Repository closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during repository closure. Page correspondence, correction consolidation, source-sensitive notes and separate closing-note handling agree with the final archive controls.

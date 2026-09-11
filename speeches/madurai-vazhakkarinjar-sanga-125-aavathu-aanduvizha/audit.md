@@ -67,7 +67,7 @@ The title `ஆண்டுவிழா` versus closing-note `ஆண்டு வ
 - missing English page records: **0**;
 - separate source closing note: **preserved outside speech body**;
 - PDF94 / printed p.93 Tamil expectation/opposition wordplay is kept transparent with the source Tamil forms.
-- English E2 independent fidelity review: **READY / NOT STARTED**;
+- At the E1 checkpoint, English E2 had **not yet started**; E2 is now complete.
 - no frozen Tamil text changed during E1.
 
 ## English E2 — independent fidelity review
@@ -80,7 +80,7 @@ The title `ஆண்டுவிழா` versus closing-note `ஆண்டு வ
 - separate source closing note: **PASS**;
 - PDF94 expectation/opposition wordplay remains transparent through the retained Tamil source forms;
 - frozen Tamil changes: **0**;
-- English E3: **READY / NOT STARTED**.
+- At the E2 checkpoint, English E3 had **not yet started**; E3 is now complete.
 
 ## English E3 — final end-to-end verification
 

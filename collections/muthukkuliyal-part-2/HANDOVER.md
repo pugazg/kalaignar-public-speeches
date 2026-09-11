@@ -38,15 +38,15 @@ Combined Tamil T2: **PASS / COMPLETE — 19/19 source pages; 11 scan-confirmed c
 - 10 `மதுரை வழக்கறிஞர் சங்க 125-ஆவது ஆண்டுவிழா`: PDF **94–102** / printed **93–101** — **9/9 T2 PASS / COMPLETE — 6 corrections; 0 unresolved**. The separate closing note remains outside the speech body; title `ஆண்டுவிழா` versus closing-note `ஆண்டு விழா` remains source-faithful.
 - 11 `வீரன் சுந்தரலிங்கம் நினைவு கிராமத் திறப்புவிழா`: PDF **103–112** / printed **102–111** — **10/10 T2 PASS / COMPLETE — 5 corrections; 0 unresolved**. The separate closing note remains outside the speech body; PDF110 / p.109 `நீங்கள் சொல்வார்களா என்று கேட்டார்கள்.` is confirmed as printed and retained.
 
-Combined Tamil T3: **PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved**. All 11 T2 corrections are consolidated; stale superseded readings are absent; page records are complete and ordered; page-boundary continuations and closing-note separation pass. Tamil for constituents 10–11 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**. Constituent 12 remains outside the active batch.
+Combined Tamil T3: **PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved**. All 11 T2 corrections are consolidated; stale superseded readings are absent; page records are complete and ordered; page-boundary continuations and closing-note separation pass. Tamil for constituents 10–11 is now **`verified-complete` / FROZEN**. At the Tamil T3 checkpoint, English E1 had not yet started; E1 has since completed. Constituent 12 remained outside that batch.
 
 ## Constituents 10–11 — durable English E1 result
 
-Combined English E1: **COMPLETE — 19/19 pages**. Constituent 10: **9/9**; constituent 11: **10/10**. Translation used only frozen `transcription-ta.md`; both separate closing notes remain outside the speech bodies. E2 is **READY / NOT STARTED**. Constituent 12 remains outside the active batch.
+Combined English E1: **COMPLETE — 19/19 pages**. Constituent 10: **9/9**; constituent 11: **10/10**. Translation used only frozen `transcription-ta.md`; both separate closing notes remain outside the speech bodies. At the E1 checkpoint, E2 had not yet started; E2 has since completed. Constituent 12 remained outside that batch.
 
 ## Constituents 10–11 — durable English E2 result
 
-Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10 required **0** corrections; constituent 11 required **4**. All four corrections are consolidated. Frozen Tamil was not changed. English E3 is **READY / NOT STARTED**. Constituent 12 remains outside the active batch.
+Combined English E2: **PASS / COMPLETE — 19/19 pages; 4 corrections; 0 unresolved**. Constituent 10 required **0** corrections; constituent 11 required **4**. All four corrections are consolidated. Frozen Tamil was not changed. At the E2 checkpoint, English E3 had not yet started; E3 has since completed. Constituent 12 remained outside that batch.
 
 ## Constituents 10–11 — durable English E3 result
 

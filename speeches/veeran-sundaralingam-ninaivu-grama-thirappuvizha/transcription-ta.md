@@ -101,6 +101,6 @@
 - T3 unresolved readings: **0**.
 - Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## Repository closure
 
-Combined **repository-level archival closure for constituents 10–11 — 19 pages total**. Verify final repository consistency, close/archive both constituents, synchronize collection/root controls, and do not start constituent 12 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** The frozen Tamil speech body was not changed during repository closure. Source range, canonical page order, correction counts and separate closing-note handling agree with the final archive controls.
