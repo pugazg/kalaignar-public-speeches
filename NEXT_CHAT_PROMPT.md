@@ -1,28 +1,17 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 12 English E2
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 12 English E3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–11 are CLOSED / FULLY ARCHIVED**. Constituent **12 has completed English E1**. Its Tamil layer is **`verified-complete` / FROZEN** and must not be altered without genuinely new controlling-source evidence.
-
-## Source layers
-
-Primary source: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
-
-- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- physical scans: **425**
-- source PDF must **not** be committed
-- constituent 12: PDF **113–127** / printed **112–126**
-- frozen Tamil: `speeches/nagarkovil-jeevanandham-manimandapa-thirappuvizha/transcription-ta.md`
-- E1 English: `speeches/nagarkovil-jeevanandham-manimandapa-thirappuvizha/translation-en.md`
+Fetch live `main` first and preserve newer durable work. Constituents **1–11 are CLOSED / FULLY ARCHIVED**. Constituent **12 has completed English E2**. Its Tamil layer is **`verified-complete` / FROZEN**.
 
 ## Durable state
 
 - mapped / started / source-gated: **36/36 / 12/36 / 12/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **12/36**
 - English E1 complete: **12/36**
-- English E2 complete: **11/36**
+- English E2 complete: **12/36**
 - English E3 complete / English verified: **11/36**
 - fully archived: **11/36**
 
@@ -30,30 +19,26 @@ Primary source: `TVA_BOK_0065802_முத்துக்குளியல்_�
 
 - Tamil: **`verified-complete` / FROZEN**
 - English E1: **COMPLETE — 15/15**
-- English page records: **15/15**, complete and ordered
-- missing English page records: **0**
-- E1 source: **frozen Tamil only**
-- separate source closing note: **preserved outside speech body**
-- frozen Tamil changes during E1: **0**
-- English E2: **READY / NOT STARTED**
+- English E2: **PASS / COMPLETE — 15/15; 6 corrections; 0 unresolved**
+- all E2 corrections consolidated: **6/6**
+- frozen Tamil changes during E2: **0**
+- page joins / separate closing note: **PASS**
+- English E3: **READY / NOT STARTED**
 - constituent 13 remains outside the batch
 
-### E2 attention points
+### E2 corrections to verify remain present
 
-Perform an independent page-by-page Tamil→English fidelity review. Check especially:
-
-- PDF114 `அஃதன்னியில்` rendered contextually as “In addition”;
-- PDF117 the political joke around whether Velayudham's party will be in power next year;
-- PDF120→121 the page-boundary continuation “honouring / ourselves”;
-- PDF121 the Rajaji / `சக்கரவர்த்தி திருமகன்` passage and quotation structure;
-- PDF122 the two frozen-Tamil spellings `சுயமரியாதைக் காரராக` / `சுயமரியாதைக்காரராக`, both rendered “Self-Respect activist”;
-- PDF125 the source-odd `அந்தப் பகுத்ததை`, the Valluvar quotation, and `நிலமை`;
-- PDF126→127 the page-boundary continuation for the Thiruvalluvar statue and `அடுத்து ஆண்டுத் தொடக்கத்திலே`.
+1. PDF116 `இங்கு ஒருமுறை உங்கள் முன்னால்` → “here before you on this occasion”.
+2. PDF116 `நிறைவேறுமா நிறைவேறாதா` → “whether ... will be fulfilled or not”.
+3. PDF117→118 `நாடாளுமன்ற உறுப்பினர்` correctly attaches to Dennis, not Kumaradas.
+4. PDF125 `நூலோர் தொகுத்தவற்றுள்` → “the authors of the texts have compiled”.
+5. PDF125 `சமத்துவம், சமதர்மம்` → “equality and egalitarianism”.
+6. PDF125 `கலந்து கொள்ள வேண்டிய நிலமை இருந்தது` preserves the modal “had to take part”.
 
 ## Exact activity
 
-Perform **English E2 independent fidelity review for constituent 12 — all 15 pages**. Compare every English page against frozen Tamil, identify omissions/additions/reversals/softening/strengthening/mistranslated names or source-sensitive wording, apply only confirmed fidelity corrections to `translation-en.md`, record them in `translation-review.md`, and synchronize constituent/collection controls.
+Perform **English E3 final end-to-end verification for constituent 12 — all 15 pages**. Re-read the complete E2-corrected English from beginning to end against frozen Tamil; confirm all six E2 corrections remain present; check omissions/additions/reversals, names/titles/numerals, quotations, rhetoric/repetition, page joins, source-sensitive notes, and separate closing-note handling. Apply only any genuinely necessary final fidelity corrections and record them.
 
 ## STOP RULE
 
-Stop after English E2 for constituent 12. **Do not start E3, constituent 13, repository closure, or alter frozen Tamil in the same activity.**
+Stop after English E3 for constituent 12. **Do not start constituent 13, repository closure, or alter frozen Tamil in the same activity.**

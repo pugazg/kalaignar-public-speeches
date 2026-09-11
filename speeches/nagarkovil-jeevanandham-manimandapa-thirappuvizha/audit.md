@@ -88,6 +88,20 @@ Page-boundary continuations checked: PDF113→114, 114→115, 115→116, 117→1
 
 Source-sensitive E1 handling is documented in `translation-en.md`; no difficult Tamil form was silently repaired. E1 is a first pass and does not claim final English fidelity.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 15/15 pages; 6 corrections; 0 unresolved.**
+
+- comparison source: **frozen Tamil `transcription-ta.md`**;
+- English pages checked: **15/15**;
+- confirmed corrections consolidated: **6/6**;
+- unresolved English-fidelity issues: **0**;
+- page-boundary continuations: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes: **0**.
+
+Correction details are recorded in `translation-review.md`.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 12 — 15 pages total.** Stop before E3, constituent 13, or repository closure.
+**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Stop before constituent 13 or repository closure.

@@ -12,7 +12,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T2 complete: **12 / 36**
 - Tamil T3 complete / Tamil verified: **12 / 36**
 - English E1 complete: **12 / 36**
-- English E2 complete: **11 / 36**
+- English E2 complete: **12 / 36**
 - English E3 complete: **11 / 36**
 - fully archived: **11 / 36**
 
@@ -68,18 +68,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 15/15 source pages; du
 
 Constituent 13 remains outside the active batch.
 
-## Constituent 12 — English E1 complete
+## Constituent 12 — English E2 complete
 
-Tamil remains **`verified-complete` / FROZEN**. English E1 is now **COMPLETE — 15/15 pages** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`, PDF **113–127** / printed **112–126**.
+Tamil remains **`verified-complete` / FROZEN**. English E1 remains **COMPLETE — 15/15**. English E2 is now **PASS / COMPLETE — 15/15; 6 corrections; 0 unresolved** for `நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா`.
 
-- English page records: **15/15**, exactly once and ordered;
-- missing English page records: **0**;
-- translation source: **frozen Tamil only**;
-- separate source closing note: **preserved outside the speech body**;
-- frozen Tamil changes during E1: **0**;
-- English E2: **READY / NOT STARTED**;
-- constituent 13 remains outside the batch.
+All six confirmed E2 corrections are consolidated. Page-boundary continuations and separate closing-note handling pass. Frozen Tamil changes during E2: **0**. English E3 is **READY / NOT STARTED**. Constituent 13 remains outside the active batch.
 
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 12 — 15 pages total.** Stop before E3, constituent 13, or repository closure.
+**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Stop before constituent 13 or repository closure.

@@ -1,10 +1,10 @@
 # Nagarkovil Jeevanandham Memorial Hall Opening — English translation
 
-**Status:** `first-pass-complete` — English E1 **15 / 15 pages COMPLETE**; E2 pending  
+**Status:** `fidelity-corrections-consolidated` — English E1 **15 / 15 COMPLETE**; E2 **15 / 15 PASS; 6 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **113–127** / printed **112–126**
 
-> English E1 was translated only from the frozen Tamil layer. Page correspondence, argument structure, rhetoric, repetitions, historical names/titles and source-sensitive wording are preserved. English E2 has **NOT STARTED**; no final English-fidelity claim is made at this checkpoint. Frozen Tamil changes during E1: **0**.
+> English E1 was translated only from the frozen Tamil layer. E2 independently compared all 15 English pages against that frozen Tamil and consolidated **6 fidelity corrections** with **0 unresolved issues**. English remains provisional until E3 final end-to-end verification. Frozen Tamil changes during E2: **0**.
 
 ## PDF 113 / printed p.112
 
@@ -40,9 +40,9 @@ In this way, various welfare schemes worth approximately nine crore rupees are b
 
 Assembly, or representatives of local bodies—have placed many demands before us here.
 
-When the Legislative Assembly is in session, it is the convention that no announcement should be made outside it. If you ask whether our Members of the Legislative Assembly do not know this convention, they do know it. Even so, they have placed some demands directly before you, as though saying: “You said I did not argue in the Assembly. I may have argued and it may not have appeared in the newspapers; I am placing these demands once again before you here only to prove that I will argue for them.” In that manner, they have put forward many views and many demands here.
+When the Legislative Assembly is in session, it is the convention that no announcement should be made outside it. If you ask whether our Members of the Legislative Assembly do not know this convention, they do know it. Even so, they have placed some demands directly before you, as though saying: “You said I did not argue in the Assembly. I may have argued and it may not have appeared in the newspapers; I am placing these demands here before you on this occasion only to prove that I will argue for them.” In that manner, they have put forward many views and many demands here.
 
-I am not one who rejects those demands. I can only say that they will be fulfilled. If I were to announce exactly when they would be fulfilled, these very people might tomorrow incite someone in the Assembly and have them ask, “When the Assembly is in session, how could the Chief Minister announce all these things outside?” It is because of that concern that I have not stated categorically here whether and when their demands will be fulfilled. Even though I have not announced it, I am bound to tell you that all of them will certainly be fulfilled soon and, at the same time, at the appropriate time.
+I am not one who rejects those demands. I can only say that they will be fulfilled. If I were to announce exactly when they would be fulfilled, these very people might tomorrow incite someone in the Assembly and have them ask, “When the Assembly is in session, how could the Chief Minister announce all these things outside?” It is because of that concern that I have not stated categorically here whether their demands will be fulfilled or not. Even though I have not announced it, I am bound to tell you that all of them will certainly be fulfilled soon and, at the same time, at the appropriate time.
 
 ## PDF 117 / printed p.116
 
@@ -52,11 +52,11 @@ When medical colleges were announced this year for Thoothukudi and Vellore, our 
 
 When speaking of Nagarkovil, he specified that “because facilities are not available this year, it will be announced next year.” If, in the meantime, the necessary facilities become available, I wish to state here that there is even the possibility of starting it this year, even without making a separate announcement.
 
-Another matter is one general problem—and several problems. The water problem. The dam problem. Our Members of Parliament, Members of the Rajya Sabha and Members of the Legislative Assembly have all raised these problems. Our friend Kumaradas, Member of Parliament
+Another matter is one general problem—and several problems. The water problem. The dam problem. Our Members of Parliament, Members of the Rajya Sabha and Members of the Legislative Assembly have all raised these problems. Our friend Kumaradas,
 
 ## PDF 118 / printed p.117
 
-Dennis, Moses, and all our friends who spoke have said that it would be most fitting for a memorial hall for the great leader Kamaraj to be established in the coastal area at Kanyakumari, at the place where his ashes were immersed.
+Member of Parliament Dennis, Moses, and all our friends who spoke have said that it would be most fitting for a memorial hall for the great leader Kamaraj to be established in the coastal area at Kanyakumari, at the place where his ashes were immersed.
 
 I have no two views about its being situated in the coastal area. On one occasion, the then Prime Minister Indira Gandhi told me personally, and also announced publicly, that “there should not be a large number of buildings packed closely along the seashore.” After that announcement, even the Supreme Court expressed a view, and the principle that “there should not be buildings along the seashore” came to be adopted as a norm. Even so, you are not unaware of the respect we have had for the great leader Kamaraj despite our many differences of policy.
 
@@ -119,11 +119,11 @@ At this time, as I inaugurate Jeevanandham's memorial hall, his life is one that
 girls—and would eat only after sharing that sundal with all of them. This is an incident of historical significance that is highlighted even in the story of his youthful life.
 
 “Sharing one's food and sustaining many lives is the foremost
-of all the virtues that learned works have gathered.”
+of all that the authors of the texts have compiled.”
 
-Thus said Valluvar. It is for that Valluvar that we are erecting a statue at the Kumari point. It was because elder brother Jeeva acquired, even in his youth, that practice of sharing what he received and eating together in the path of Valluvar, that he was able to join himself to the communist movement, whose principle was that there must be equality and social justice for everyone!
+Thus said Valluvar. It is for that Valluvar that we are erecting a statue at the Kumari point. It was because elder brother Jeeva acquired, even in his youth, that practice of sharing what he received and eating together in the path of Valluvar, that he was able to join himself to the communist movement, whose principle was that there must be equality and egalitarianism for everyone!
 
-It was because of the conviction he held even in his youth that untouchability must be abolished that elder brother Jeevanandham took part even then in the struggle conducted at Vaikom by Thanthai Periyar to abolish untouchability.
+It was because of the conviction he held even in his youth that untouchability must be abolished that there arose a situation in which elder brother Jeevanandham too had to take part, even then, in the struggle conducted at Vaikom by Thanthai Periyar to abolish untouchability.
 
 All these are principles that the youth who are to become the future rulers of our society must read and follow. I do not have to tell the people of this district all these principles as though they were new. That is because Kanyakumari district is, among the various districts of Tamil Nadu, one of the few
 
@@ -151,7 +151,7 @@ Speech delivered on 19-4-98 at Nagarkovil at the opening ceremony of the Jeevana
 - Missing English page records: **0**.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive notes
 
@@ -161,6 +161,25 @@ Speech delivered on 19-4-98 at Nagarkovil at the opening ceremony of the Jeevana
 - PDF125 / printed p.124: frozen Tamil `நிலமை` is retained unchanged in Tamil; the English conveys the sentence's source-supported sense without orthographic modernization.
 - PDF127 / printed p.126: `அடுத்து ஆண்டுத் தொடக்கத்திலே` is rendered directly as “at the beginning of the next year.”
 
+## E2 fidelity-review result
+
+- English E1: **15/15 COMPLETE**.
+- English E2: **PASS / COMPLETE — 15/15 pages; 6 corrections; 0 unresolved**.
+- Translation source: **frozen `transcription-ta.md` only**.
+- Missing English page records: **0**.
+- Page-boundary continuations and the separate source closing note: **PASS**.
+- Frozen Tamil changes during E2: **0**.
+- English E3 final verification: **READY / NOT STARTED**.
+
+### E2 corrections
+
+1. PDF116 / printed p.115: `இங்கு ஒருமுறை உங்கள் முன்னால்` — removed unsupported “once again” and rendered it as **“here before you on this occasion.”**
+2. PDF116 / printed p.115: `கோரிக்கைகள் நிறைவேறுமா நிறைவேறாதா` — changed “whether and when their demands will be fulfilled” to **“whether their demands will be fulfilled or not.”**
+3. PDF117→118 / printed pp.116→117: corrected the page-boundary attachment of `நாடாளுமன்ற உறுப்பினர்`; **Kumaradas** is no longer labelled MP, and the title now correctly attaches to **Dennis**.
+4. PDF125 / printed p.124: `நூலோர் தொகுத்தவற்றுள்` — changed “learned works have gathered” to **“the authors of the texts have compiled,”** restoring the human agent in the Valluvar quotation.
+5. PDF125 / printed p.124: `சமத்துவம், சமதர்மம்` — changed “equality and social justice” to **“equality and egalitarianism.”**
+6. PDF125 / printed p.124: `கலந்து கொள்ள வேண்டிய நிலமை இருந்தது` — changed the assertive “took part even then” to **“there arose a situation in which ... had to take part, even then,”** preserving the modal/source wording.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 12 — 15 pages total.** Compare every English page against frozen Tamil, record and consolidate only fidelity corrections, and stop before E3, constituent 13, or repository closure.
+**English E3 final end-to-end verification for constituent 12 — 15 pages total.** Re-read the complete E2-corrected English against frozen Tamil and stop before constituent 13 or repository closure.
