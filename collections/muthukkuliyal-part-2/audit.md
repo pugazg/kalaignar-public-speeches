@@ -323,6 +323,27 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - English E1 / E2 / E3 complete and English verified: **13/36**;
 - fully archived: **13/36**.
 
+## Constituent 14 — Tamil T1 first-pass transcription
+
+**COMPLETE — 17/17 source pages.**
+
+- PDF/printed page records: **17/17**, PDF **145–161** / printed **144–160**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate source closing note: **preserved outside the speech body**;
+- T1 source method: **direct visual reading of controlling scans**;
+- Tamil T2: **NOT STARTED**.
+
+T2 attention points are recorded in the constituent `audit.md`; no source-odd form, printed chronology/date, quotation, or closing-note wording was silently normalized at T1.
+
+## Collection totals after constituent 14 T1
+
+- mapped / started / source-gated: **36/36 / 14/36 / 14/36**;
+- Tamil T1 complete: **14/36**;
+- Tamil T2 / T3 complete and Tamil verified: **13/36**;
+- English E1 / E2 / E3 complete and English verified: **13/36**;
+- fully archived: **13/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 14 — 17 source pages total.** Stop before T2 and do not start constituent 15.
+**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.

@@ -60,7 +60,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 11 | `veeran-sundaralingam-ninaivu-grama-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **SOURCE / DUPLICATE / BOUNDARY PASS — 17/17; Tamil T1 next** |
+| 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **Tamil T1 COMPLETE — 17/17; T2 next** |
 | 15–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -77,6 +77,6 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 ## Active constituent
 
-Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed the source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 pages; duplicate unresolved 0; boundary unresolved 0**. Dedicated archive: `speeches/karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha/`. Tamil T1 has **NOT STARTED**.
+Constituent **14** `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா` has completed Tamil T1: **COMPLETE — 17/17 source pages**. Canonical page records are complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**; the separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
 
-Exact next gate: **Tamil T1 first-pass transcription for constituent 14 — 17 source pages total**. Constituent 15 remains outside this iteration.
+Exact next gate: **Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total**. Constituent 15 remains outside this iteration.

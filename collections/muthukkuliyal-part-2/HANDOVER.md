@@ -17,7 +17,7 @@
 ## Durable collection state
 
 - mapped: **36 / 36**; started / source-gated: **13 / 36**;
-- Tamil T1 complete: **13 / 36**;
+- Tamil T1 complete: **14 / 36**;
 - Tamil T2 complete: **13 / 36**;
 - Tamil T3 complete / Tamil verified: **13 / 36**;
 - English E1 complete: **13 / 36**;
@@ -181,6 +181,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 17/17 source pages; du
 - Source PDF remains uncommitted.
 - Tamil T1: **NOT STARTED**.
 
+## Constituent 14 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 17/17 source pages** for `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`, PDF **145–161** / printed **144–160**. Canonical page records are **17/17**, complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 is **NOT STARTED**, so constituent 14 is not yet Tamil-verified/frozen.
+
+Carry the documented source-odd forms, printed chronology/date forms, quotation punctuation, poems, Jenny letter, Kural wording and closing-note `மொழி பெயர்த்த` form into strict T2 re-check without normalization. Constituent 15 remains outside the batch. The source PDF binary remains uncommitted.
+
 ## Exact next incomplete gate
 
-**Tamil T1 first-pass transcription for constituent 14 — 17 source pages total.** Stop before T2 and do not start constituent 15.
+**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.

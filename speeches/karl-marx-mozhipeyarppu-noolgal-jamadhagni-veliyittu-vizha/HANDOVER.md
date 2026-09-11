@@ -16,8 +16,12 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Duplicate unresolved **0**; boundary unresolved **0**. PDF 145 is the numbered/titled opening `காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா`. PDF 161 completes the body before the separate note `2-5-98 அன்று ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`, establishing date **02-05-1998**, event wording and role `ஆற்றிய உரை`. No geographic venue is stated in the inspected opening/closing evidence. The contents/page-heading `வெளியீட்டுவிழா` / `வெளியீட்டு விழா` spacing distinction and the page-heading `மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி)` versus closing-note `ஜமதக்னி மொழி பெயர்த்த காரல் மார்க்சின் நூல்கள்` wording are preserved. PDF 162 begins constituent 15 `திரு.வி.க. - கல்வி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா`. Tamil T1 has **NOT STARTED**; all later gates are blocked.
+Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1 first-pass transcription is now **COMPLETE — 17/17 source pages**, PDF **145–161** / printed **144–160**. Canonical page records: **17/17**, in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**, so the Tamil layer is not yet verified/frozen.
+
+Carry source-odd forms, printed chronology/date forms, quotations, poems, Jenny letter punctuation, and the `மொழி பெயர்த்த` closing-note wording into strict T2 re-check without normalization. Page-boundary continuations requiring explicit T2 review include **145→146, 146→147, 147→148, 151→152, 152→153, 153→154, 156→157, 157→158, 158→159, 159→160, and 160→161**.
+
+The source PDF binary remains uncommitted. Constituent 15 remains outside this activity.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 14 — 17 source pages total.** Stop before T2 and do not start constituent 15.
+**Tamil T2 strict direct-scan fidelity audit for constituent 14 — 17 source pages total.** Stop before T3 and do not start constituent 15.
