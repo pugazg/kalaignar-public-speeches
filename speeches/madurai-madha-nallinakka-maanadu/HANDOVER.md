@@ -20,8 +20,12 @@ Tamil T1: **COMPLETE — 18/18**. Canonical page records cover PDF **270–287**
 
 Tamil T2: **PASS / COMPLETE — 18/18; 1 correction; 0 unresolved**. PDF279 / p.278 `ஆலோசித்து வருகிறேன்` was corrected to source-proven `ஆலோசித்து வருகின்றேன்`. All page joins, source-sensitive quotations / English-letter text and the separate closing note pass.
 
-Tamil T3: **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved**. Tamil is **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+Tamil T3: **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved**. Tamil is **`verified-complete` / FROZEN**.
+
+English E1: **COMPLETE — 18/18 pages**. Translation authority was frozen `transcription-ta.md` only. English page records are complete, unique and ordered across PDF **270–287** / printed **269–286**; missing records **0**. The full printed English Indira Gandhi letter is preserved verbatim, its Tamil rendering is preserved in sequence and translated into English, page-boundary continuations and the separate closing note are retained, and frozen Tamil changes during E1 are **0**.
+
+English E2 is **READY / NOT STARTED**. Constituent 25 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English and constituent 25.
+**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.** Stop before E3, constituent 25, or repository closure.
