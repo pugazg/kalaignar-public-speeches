@@ -17,7 +17,7 @@
 ## Durable collection state
 
 - mapped: **36 / 36**; started / source-gated: **26 / 36**;
-- Tamil T1 complete: **25 / 36**;
+- Tamil T1 complete: **26 / 36**;
 - Tamil T2 complete: **25 / 36**;
 - Tamil T3 complete / Tamil verified: **25 / 36**;
 - English E1 complete: **25 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **25 / 36**;
 - fully archived: **25 / 36**.
 
-Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has source / duplicate / boundary gate PASS / COMPLETE — 20/20 pages; Tamil T1 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T1 COMPLETE — 20/20 source pages; Tamil T2 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -746,6 +746,16 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 20/20 source pages; du
 
 Collection state: mapped **36/36**; started / source-gated **26/36**; Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
 
+## Constituent 26 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 20/20 source pages** for `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`, PDF **295–314** / printed **294–313**. Canonical page records are **20/20**, complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body; source title variants remain distinct.
+
+Explicit page joins requiring T2 confirmation: **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**.
+
+T2 source-sensitive attention is recorded in the constituent transcript, including `செய்தவைக்காக`, `அச்சியற்றவில்லை`, `கப்யாசம்- புண்டரீ காட்சம்`, `நீ சொல்லேன் விளக்கம்`, `தப்பித்தான் வாழ்ந்திருக்கிறார்`, `போராட்ட தளகர்த்தர்`, `தமிழகக்காக`, and `இந்தவிழா`.
+
+Collection state: mapped **36/36**; started / source-gated **26/36**; Tamil T1 **26/36**; Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 26 — all 20 source pages, PDF 295–314 / printed 294–313.** Stop before T2.
+**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
