@@ -72,6 +72,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
 | 26–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -378,6 +379,18 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 7/7 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **25 / 36**.
 
+## Constituent 26 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 20/20 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- contents: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா` / `12-09-98`;
+- opening: PDF295 / p.294, numbered constituent 26, page heading `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`;
+- closing note on PDF314 / p.313: `12-9-98 அன்று சென்னையில் ஆழ்வார்கள் ஆய்வு மைய விழாவில் ஆற்றிய உரை`;
+- prior / next boundaries: PDF294 closes constituent 25; PDF315 opens constituent 27;
+- title variants are preserved separately;
+- dedicated archive: `speeches/chennai-aazhvargal-aaivu-maiya-vizha-urai/`;
+- Tamil T1 is **READY / NOT STARTED**.
+
 ## Next same-gate batch
 
-Constituent **26** only — source / duplicate / boundary gate — mapped PDF **295–314** / printed **294–313** — **20 source pages**.
+Constituent **26** only — Tamil T1 first-pass transcription — **20 source pages total**, PDF **295–314** / printed **294–313**. Stop before T2.
