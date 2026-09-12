@@ -1,6 +1,6 @@
 # அன்னை தெரசா நூல் வெளியீட்டு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 7 / 7 source pages; 1 correction; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 7 / 7 source pages; 0 additional corrections; 0 unresolved**  
 **Source range:** PDF **288–294** / printed **287–293**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -108,6 +108,22 @@ All mapped pages PDF **288–294** were re-read directly against the controlling
 
 Explicit page-boundary continuations **288→289** and **290→291**: **PASS**. Canonical page records remain **7/7**, complete, unique and ordered. Missing / duplicate page records: **0 / 0**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 7/7 source pages; 0 additional corrections; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- stale superseded canonical speech-body reading `அண்டபிரண்டத்திற்கும்`: **absent**;
+- source-proven canonical reading `அண்டபகிரண்டத்திற்கும்`: **present**;
+- canonical page records: **7/7**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit joins **288→289** and **290→291**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- laughter / applause markers and source-sensitive spacing/forms: **PASS**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
+**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.**
