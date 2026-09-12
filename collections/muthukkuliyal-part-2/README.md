@@ -12,11 +12,11 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T2 complete: **24 / 36**
 - Tamil T3 complete / Tamil verified: **24 / 36**
 - English E1 complete: **24 / 36**
-- English E2 complete: **23 / 36**
+- English E2 complete: **24 / 36**
 - English E3 complete: **23 / 36**
 - fully archived: **23 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E1 COMPLETE — 18/18 pages; Tamil remains `verified-complete` / FROZEN; English E2 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E2 PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved; Tamil remains `verified-complete` / FROZEN; English E3 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -594,8 +594,14 @@ Collection state after Tamil T3: source-gated **24/36**; Tamil T1/T2/T3 complete
 
 **COMPLETE — 18/18 pages.** Translation used only frozen `transcription-ta.md`; English page records are **18/18**, complete and ordered across PDF **270–287** / printed **269–286**; missing records **0**. The full printed English Indira Gandhi letter is preserved verbatim; its Tamil rendering is preserved in sequence and translated into English. Page-boundary continuations, rhetoric / repetition, source-sensitive wording, applause marker and the separate closing note are retained for independent E2 checking. Frozen Tamil changes during E1: **0**.
 
-Collection state: source-gated **24/36**; Tamil verified **24/36**; English E1 complete **24/36**; English E2/E3 complete / English verified **23/36**; fully archived **23/36**.
+Collection state after E1: source-gated **24/36**; Tamil verified **24/36**; English E1 complete **24/36**; English E2/E3 complete / English verified **23/36**; fully archived **23/36**.
+
+## Constituent 24 — English E2 complete
+
+**PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.** All five confirmed corrections are consolidated in `translation-en.md`: PDF273 governor title, PDF274 participant list, PDF275→276 Thiru. Vi. K. article/page-boundary meaning, PDF281 federalism wording, and PDF286 dismissal-threat subject/logic. The full printed English Indira Gandhi letter and its Tamil rendering, Articles 356 / 355, exact page correspondence / joins, rhetoric / repetition, applause marker and the separate closing note pass. Frozen Tamil changes during E2: **0**.
+
+Collection state: source-gated **24/36**; Tamil verified **24/36**; English E1/E2 complete **24/36**; English E3 complete / English verified **23/36**; fully archived **23/36**.
 
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
+**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
