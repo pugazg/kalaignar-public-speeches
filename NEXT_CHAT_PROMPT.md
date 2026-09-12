@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 19–20 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 19–20 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–18 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source or fidelity evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–18 are CLOSED / FULLY ARCHIVED**. Constituents **19–20 have passed the source / duplicate / boundary gate**.
 
 ## Controlling source
 
@@ -14,42 +14,43 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–18 a
 - size: **232,470,104 bytes**
 - physical scans: **425**
 - source PDF must **not** be committed
-- stable constituent-body relationship: **PDF scan = printed page + 1**
+- stable relationship: **PDF scan = printed page + 1**
 
 ## Durable state
 
-- mapped: **36 / 36**
-- started / source-gated: **18 / 36**
-- Tamil T1/T2/T3 complete / Tamil verified: **18 / 36**
-- English E1/E2/E3 complete / English verified: **18 / 36**
-- fully archived: **18 / 36**
-- constituents 17–18 repository closure: **PASS / COMPLETE — 21/21 pages**
-- source PDF remains **uncommitted**
+- mapped: **36/36**
+- started / source-gated: **20/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **18/36**
+- English E1/E2/E3 complete / English verified: **18/36**
+- fully archived: **18/36**
 
-## Exact next activity
+### Constituent 19
+`திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா` — `speeches/thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha/`
 
-Process constituents **19–20 together** through the **source / duplicate / boundary gate**.
+- source gate: **PASS / COMPLETE — 11/11**
+- PDF **205–215** / printed **204–214**
+- page heading: `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`
+- closing note: `14-7-98 அன்று திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழாவில் ஆற்றிய உரை`
+- date: **14-07-1998**
+- venue: `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி`, directly source-supported
+- Tamil T1: **NOT STARTED**
 
-### 19 — திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா
-- contents date: **14-07-98**
-- PDF **205–215**
-- printed **204–214**
-- **11 pages**
+### Constituent 20
+`பேராயர் எஸ்ரா சற்குணம் மணிவிழா` — `speeches/perayar-ezra-sargunam-manivizha/`
 
-### 20 — பேராயர் எஸ்ரா சற்குணம் மணிவிழா
-- contents date: **18-07-98**
-- PDF **216–227**
-- printed **215–226**
-- **12 pages**
+- source gate: **PASS / COMPLETE — 12/12**
+- PDF **216–227** / printed **215–226**
+- page heading: `பேராயர் எஸ்ரா சற்குணம் மணிவிழா உரை`
+- closing note: `18-7-98 அன்று பேராயர் எஸ்ரா சற்குணம் மணிவிழாவில் ஆற்றிய உரை`
+- date: **18-07-1998**
+- venue: **not explicitly stated; do not infer**
+- PDF228 begins constituent 21
+- Tamil T1: **NOT STARTED**
 
-Combined source range: **23 pages**.
+## Exact activity
 
-For each constituent, verify the numbered/titled opening, exact ending boundary, separate closing note if present, date / venue / event / role evidence, duplicate status, and PDF/printed-page relationship. Do not infer metadata that the source does not establish. Keep the speeches as separate archival units.
-
-## Batch rule
-
-Do **not** add constituent 21. Constituents 19–20 total **23 pages**; constituent 21 adds **19 pages**, exceeding the **25-page batch cap**.
+Perform **Tamil T1 for constituents 19–20 together — all 23 source pages**. Keep the constituents as separate archival units, preserve exact page boundaries and source wording, and keep separate closing notes outside speech bodies.
 
 ## STOP RULE
 
-Stop after the source / duplicate / boundary gate for constituents 19–20. **Do not begin Tamil T1 in the same activity.**
+Stop after Tamil T1 for constituents 19–20. **Do not start T2, constituent 21, English work, or repository closure in the same activity.**

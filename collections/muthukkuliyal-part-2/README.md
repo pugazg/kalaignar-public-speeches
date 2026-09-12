@@ -264,12 +264,18 @@ English E1: **COMPLETE — 21/21 pages**. English E2: **PASS / COMPLETE — 21/2
 
 Collection state is now **18 / 36 fully archived**. Constituents **1–18 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 19–20 — source gate complete
+
+Combined source / duplicate / boundary gate: **PASS / COMPLETE — 23/23 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **19 — திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா:** PDF **205–215** / printed **204–214** — **11 pages**. PDF205 opens numbered constituent 19 with heading `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`. PDF215 ends the speech before `14-7-98 அன்று திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழாவில் ஆற்றிய உரை`, establishing **14-07-1998**, the Tiruvannamalai Arunai Engineering College graduation event and role `ஆற்றிய உரை`. Venue recorded conservatively as `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி`, directly supported by the source wording.
+- **20 — பேராயர் எஸ்ரா சற்குணம் மணிவிழா:** PDF **216–227** / printed **215–226** — **12 pages**. PDF216 heading is `பேராயர் எஸ்ரா சற்குணம் மணிவிழா உரை`; PDF227 ends before `18-7-98 அன்று பேராயர் எஸ்ரா சற்குணம் மணிவிழாவில் ஆற்றிய உரை`, establishing **18-07-1998**, event and role. No geographic venue is explicitly stated; none is inferred.
+- PDF228 begins constituent 21 `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`.
+- dedicated archives: `speeches/thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha/`, `speeches/perayar-ezra-sargunam-manivizha/`.
+- Tamil T1: **NOT STARTED** for both; source PDF remains uncommitted.
+
+Collection state: source-gated **20/36**; Tamil verified **18/36**; English verified **18/36**; fully archived **18/36**.
+
 ## Exact next gate
 
-Process constituents **19–20 together** through the **source / duplicate / boundary gate**:
-
-- **19 — திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா:** PDF **205–215** / printed **204–214** — **11 pages**;
-- **20 — பேராயர் எஸ்ரா சற்குணம் மணிவிழா:** PDF **216–227** / printed **215–226** — **12 pages**;
-- combined: **23 source pages**, within the 25-page batch cap.
-
-Stop before Tamil T1.
+Perform **Tamil T1 for constituents 19–20 together — 23 source pages total**. Stop before T2 / constituent 21.

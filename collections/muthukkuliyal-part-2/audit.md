@@ -783,6 +783,44 @@ Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCH
 
 Fully archived total: **18 / 36**. Constituents **1–18 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 19–20 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 23/23 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+### Constituent 19
+
+- exact range: PDF **205–215** / printed **204–214** — **11 pages**;
+- opening: PDF205 / printed p.204, constituent `19`, heading `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`;
+- closing note: `14-7-98 அன்று திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழாவில் ஆற்றிய உரை`;
+- date: **14-07-1998**;
+- venue/event: `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`; venue recorded as `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி`, directly source-supported;
+- role: `ஆற்றிய உரை`;
+- PDF216 begins constituent 20;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+### Constituent 20
+
+- exact range: PDF **216–227** / printed **215–226** — **12 pages**;
+- opening: PDF216 / printed p.215, constituent `20`, heading `பேராயர் எஸ்ரா சற்குணம் மணிவிழா உரை`;
+- closing note: `18-7-98 அன்று பேராயர் எஸ்ரா சற்குணம் மணிவிழாவில் ஆற்றிய உரை`;
+- date: **18-07-1998**;
+- event/role: `பேராயர் எஸ்ரா சற்குணம் மணிவிழா` / `ஆற்றிய உரை`;
+- venue: **not explicitly stated** in the inspected opening/closing evidence; none inferred;
+- PDF228 begins constituent 21 `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+## Collection totals after constituents 19–20 source gate
+
+- mapped / started / source-gated: **36/36 / 20/36 / 20/36**;
+- Tamil T1/T2/T3 complete and Tamil verified: **18/36**;
+- English E1/E2/E3 complete and English verified: **18/36**;
+- fully archived: **18/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Constituents 19–20 source / duplicate / boundary gate — 23 source pages total.** Stop before Tamil T1.
+**Tamil T1 for constituents 19–20 together — 23 source pages total.**

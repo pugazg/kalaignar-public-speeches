@@ -321,12 +321,15 @@ Repository-level archival closure: **PASS / COMPLETE — 21/21 pages**. Both con
 
 Collection state: **18 / 36 fully archived**. Constituents **1–18 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 19–20 — durable source-gate result
+
+Combined source / duplicate / boundary gate: **PASS / COMPLETE — 23/23 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **19 `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`:** PDF **205–215** / printed **204–214** — **11 pages**. PDF205 is the numbered/titled opening. PDF215 completes the body before `14-7-98 அன்று திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழாவில் ஆற்றிய உரை`, directly establishing **14-07-1998**, the Tiruvannamalai Arunai Engineering College graduation event and role. Dedicated archive: `speeches/thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha/`.
+- **20 `பேராயர் எஸ்ரா சற்குணம் மணிவிழா`:** PDF **216–227** / printed **215–226** — **12 pages**. PDF216 is the numbered/titled opening. PDF227 completes the body before `18-7-98 அன்று பேராயர் எஸ்ரா சற்குணம் மணிவிழாவில் ஆற்றிய உரை`, directly establishing **18-07-1998**, event and role. No geographic venue is explicitly stated; none is inferred. PDF228 begins constituent 21. Dedicated archive: `speeches/perayar-ezra-sargunam-manivizha/`.
+
+Tamil T1 is **NOT STARTED** for either constituent. Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Process constituents **19–20 together** through source / duplicate / boundary:
-
-- 19 `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா` — PDF **205–215** / printed **204–214** — **11 pages**;
-- 20 `பேராயர் எஸ்ரா சற்குணம் மணிவிழா` — PDF **216–227** / printed **215–226** — **12 pages**;
-- combined **23 pages**.
-
-Stop before Tamil T1.
+**Tamil T1 for constituents 19–20 together — 23 source pages total.** Stop before T2 / constituent 21.

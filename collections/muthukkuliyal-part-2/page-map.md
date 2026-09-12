@@ -65,7 +65,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 17 | `nellikuppam-pugazhendhi-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 19–20 | — | **not started — next source/duplicate/boundary batch; 23 pages** |
+| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **source-gated — Tamil T1 pending** |
+| 20 | `perayar-ezra-sargunam-manivizha` | **source-gated — Tamil T1 pending** |
 | 21–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -138,6 +139,15 @@ English E1 **22/22 COMPLETE**; English E2 **22/22 PASS — 5 corrections / 0 unr
 
 English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unresolved**; English E3 **21/21 PASS — 0 additional corrections / 0 unresolved**. Both Tamil and English layers are **`verified-complete`**. Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**. Fully archived total: **18 / 36**.
 
+## Constituents 19–20 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 23/23 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- 19 — PDF **205–215** / printed **204–214** — closing note `14-7-98 அன்று திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழாவில் ஆற்றிய உரை`; date **14-07-1998**; venue/event wording directly supports `திருவண்ணாமலை அருணை பொறியியல் கல்லூரி`.
+- 20 — PDF **216–227** / printed **215–226** — closing note `18-7-98 அன்று பேராயர் எஸ்ரா சற்குணம் மணிவிழாவில் ஆற்றிய உரை`; date **18-07-1998**; no explicit geographic venue.
+- PDF228 begins constituent 21.
+- Tamil T1 has **NOT STARTED** for either constituent.
+
 ## Next same-gate batch
 
-Constituents **19–20 together** — source / duplicate / boundary gate — **23 source pages total**. Constituent 21 adds another **19 pages**, so it must not be included under the 25-page batch cap.
+Constituents **19–20 together** — Tamil T1 — **23 source pages total**. Stop before T2 / constituent 21.
