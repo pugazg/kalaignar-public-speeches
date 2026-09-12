@@ -72,7 +72,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **Tamil T1 COMPLETE — Tamil T2 pending** |
+| 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **Tamil T2 PASS / COMPLETE — Tamil T3 pending** |
 | 26–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -395,6 +395,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **COMPLETE — 20/20 source pages.** Canonical page records cover PDF **295–314** / printed **294–313** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Page joins requiring T2 confirmation are recorded in `transcription-ta.md`.
 
+## Constituent 26 — Tamil T2
+
+**PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved.** PDF296 sandhi and PDF303 source spelling were corrected and consolidated. Canonical page order / explicit joins, source-sensitive readings, title variants and separate closing-note handling pass.
+
 ## Next same-gate batch
 
-Constituent **26** only — Tamil T2 strict direct-scan fidelity audit — **20 source pages total**. Stop before T3 / constituent 27.
+Constituent **26** only — Tamil T3 consolidation/freeze — **20 source pages total**. Stop before English / constituent 27.
