@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has source / duplicate / boundary gate PASS / COMPLETE — 20/20 source pages**.
 
 ## Controlling source
 
@@ -19,36 +19,35 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–25 a
 ## Durable collection state
 
 - mapped: **36/36**
-- started / source-gated: **25/36**
+- started / source-gated: **26/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **25/36**
 - English E1/E2/E3 complete / English verified: **25/36**
 - fully archived: **25/36**
 
-## Constituent 26 map
+## Constituent 26
 
-Contents mapping currently records:
+`சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை` — `speeches/chennai-aazhvargal-aaivu-maiya-vizha-urai/`
 
-- contents title: **`சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா`**
-- contents date: **12-09-98**
-- printed pages: **294–313**
-- mapped PDF scans: **295–314**
-- mapped extent: **20 pages**
-- prior boundary: PDF294 / printed p.293 closes constituent 25
-- PDF295 / printed p.294 was previously observed beginning constituent 26 with page heading **`சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`**
-
-Treat the scans as controlling. Verify exact title variants, date / venue / event / role, opening and ending boundaries, page count and any separate closing note rather than assuming the contents wording is identical to the page heading.
+- source gate: **PASS / COMPLETE — 20/20**
+- PDF **295–314** / printed **294–313**
+- contents title: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா`
+- page heading: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`
+- closing note: `12-9-98 அன்று சென்னையில் ஆழ்வார்கள் ஆய்வு மைய விழாவில் ஆற்றிய உரை`
+- date: **12-09-1998**
+- venue: `சென்னை`
+- event: `ஆழ்வார்கள் ஆய்வு மைய விழா`
+- role: `ஆற்றிய உரை`
+- prior boundary: PDF294 closes constituent 25
+- next boundary: PDF315 begins constituent 27 `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- title variants are source-backed and must not be silently normalized
+- Tamil T1: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform the **source / duplicate / boundary gate for constituent 26 only**:
-
-1. inspect PDF **295–314** directly;
-2. verify the mapped 20-page boundary, including PDF294 before it and PDF315 after it;
-3. establish exact title / title variants and only source-supported date, venue, event and role;
-4. search live `main` for any existing dedicated archive before creating one;
-5. create the standard seven constituent files only if no duplicate exists;
-6. synchronize collection controls and set Tamil T1 as the next gate.
+Perform **Tamil T1 first-pass transcription for constituent 26 — all 20 source pages**. Transcribe PDF **295–314** / printed **294–313** from the controlling scans, preserve page headings and source-sensitive wording, keep the separate closing note outside the speech body, record page-boundary continuations that require T2 confirmation, and explicitly mark any genuinely unreadable/unknown text rather than guessing.
 
 ## STOP RULE
 
-Stop after the constituent 26 source / duplicate / boundary gate. **Do not begin Tamil T1 in the same activity.**
+Stop after Tamil T1 for constituent 26. **Do not start Tamil T2, constituent 27, English work, or repository closure in the same activity.**
