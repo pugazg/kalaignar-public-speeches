@@ -16,8 +16,12 @@
 
 Source / duplicate / boundary gate: **PASS / COMPLETE**. All mapped scans PDF **288–294** were directly inspected. PDF288 is the numbered/titled opening `அன்னை தெரசா நூல் வெளியீட்டு விழா`. PDF294 completes the speech body before the separate closing note `5-9-98 அன்று சென்னையில் அன்னை தெரசா நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`, directly establishing **05-09-1998**, venue `சென்னை`, event and role. PDF287 belongs to closed constituent 24. PDF295 begins constituent 26 `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`. Duplicate unresolved **0**; boundary unresolved **0**.
 
-Tamil T1: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 7/7 source pages** for `அன்னை தெரசா நூல் வெளியீட்டு விழா`, PDF **288–294** / printed **287–293**. Canonical page records are complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Explicit continuations **288→289** and **290→291** are flagged for T2. Source pixels remain controlling; this is not yet a final fidelity claim.
+
+Tamil T2 is **READY / NOT STARTED**. English remains blocked pending verified Tamil. Constituent 26 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 25 — 7 source pages total.** Stop before T2 and constituent 26.
+**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 and constituent 26.
