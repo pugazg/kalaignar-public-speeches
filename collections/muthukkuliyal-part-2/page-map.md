@@ -65,9 +65,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 17 | `nellikuppam-pugazhendhi-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **Tamil + English verified-complete — repository closure next** |
-| 20 | `perayar-ezra-sargunam-manivizha` | **Tamil + English verified-complete — repository closure next** |
-| 21–36 | — | not started |
+| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 21 | — | **not started — next source/duplicate/boundary gate; 19 pages** |
+| 22–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -172,6 +173,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 23/23 pages; 0 additional corrections; 0 unresolved.** All **8/8** E2 corrections remain consolidated; stale superseded E1 readings are absent; exact page correspondence / joins, semantic completeness and both separate closing notes pass. Both English layers are **`verified-complete`**. Frozen Tamil changes during E1/E2/E3: **0**.
 
+## Constituents 19–20 — archival closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 23/23 pages.** Both Tamil and English layers remain verified-complete. Fully archived total: **20 / 36**.
+
 ## Next same-gate batch
 
-Constituents **19–20 together** — repository closure. Stop before constituent 21.
+Constituent **21** only — source / duplicate / boundary gate — **19 source pages total**. Constituent 22 adds **9 pages**, so **19 + 9 = 28** exceeds the 25-page batch cap.

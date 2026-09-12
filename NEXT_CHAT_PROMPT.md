@@ -1,39 +1,44 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 19–20 repository closure
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 21 source gate
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–18 are CLOSED / FULLY ARCHIVED**. Constituents **19–20 now have Tamil and English `verified-complete`**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source or fidelity evidence appears.
+
+## Controlling source
+
+`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
+
+- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- size: **232,470,104 bytes**
+- physical scans: **425**
+- source PDF must **not** be committed
+- stable constituent-body relationship: **PDF scan = printed page + 1**
 
 ## Durable state
 
-- mapped / started / source-gated: **36/36 / 20/36 / 20/36**
+- mapped: **36/36**
+- started / source-gated: **20/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **20/36**
 - English E1/E2/E3 complete / English verified: **20/36**
-- fully archived: **18/36**
-- frozen Tamil changes during English E1/E2/E3: **0**
+- fully archived: **20/36**
 
-### Constituent 19
-`திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`
-- PDF **205–215** / printed **204–214** — **11 pages**
-- Tamil T2 **1 correction**, T3 **0 additional**, unresolved **0**
-- English E2 **3 corrections**, E3 **0 additional**, unresolved **0**
-- Tamil: **`verified-complete` / FROZEN**
-- English: **`verified-complete`**
+## Exact next activity
 
-### Constituent 20
-`பேராயர் எஸ்ரா சற்குணம் மணிவிழா`
-- PDF **216–227** / printed **215–226** — **12 pages**
-- Tamil T2 **7 corrections**, T3 **0 additional**, unresolved **0**
-- English E2 **5 corrections**, E3 **0 additional**, unresolved **0**
-- Tamil: **`verified-complete` / FROZEN**
-- English: **`verified-complete`**
+Process constituent **21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா** through the **source / duplicate / boundary gate**.
 
-## Exact activity
+- contents date: **19-07-98**
+- PDF **228–246**
+- printed **227–245**
+- **19 source pages**
 
-Perform **repository closure for constituents 19–20 together**. Confirm metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, canonical page order, both separate closing notes and all correction counts agree. Mark each archive fully archived only if every check passes. Synchronize collection controls, root catalogue and page map.
+Verify the numbered/titled opening, exact ending boundary, separate closing note if present, date / venue / event / role evidence, duplicate status, and PDF/printed-page relationship. Do not infer metadata that the source does not establish.
+
+## Batch rule
+
+Do **not** include constituent 22. Constituent 21 is **19 pages** and constituent 22 is **9 pages**; together they total **28 pages**, exceeding the **25-page batch cap**.
 
 ## STOP RULE
 
-Stop after repository closure for constituents 19–20. **Do not start constituent 21 in the same activity.**
+Stop after the source / duplicate / boundary gate for constituent 21. **Do not begin Tamil T1 or constituent 22 in the same activity.**
