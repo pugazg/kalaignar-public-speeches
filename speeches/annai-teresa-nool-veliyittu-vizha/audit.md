@@ -1,0 +1,29 @@
+# அன்னை தெரசா நூல் வெளியீட்டு விழா — source-fidelity audit
+
+**Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`  
+**Scope:** PDF **288–294** / printed **287–293** — **7 pages**
+
+## Source / duplicate / boundary gate
+
+**PASS / COMPLETE.**
+
+- contents title/date: `அன்னை தெரசா நூல் வெளியீட்டு விழா` / `05-09-98`;
+- opening: PDF288 / printed p.287, constituent `25`, titled opening `அன்னை தெரசா நூல் வெளியீட்டு விழா`;
+- all mapped scans PDF **288–294** directly inspected;
+- ending: PDF294 / printed p.293 before `5-9-98 அன்று சென்னையில் அன்னை தெரசா நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`;
+- date: **05-09-1998**;
+- venue: `சென்னை`;
+- event/role: `அன்னை தெரசா நூல் வெளியீட்டு விழா` / `ஆற்றிய உரை`;
+- separate closing note: **present and outside the speech body**;
+- prior boundary: PDF287 / printed p.286 is constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`;
+- next boundary: PDF295 / printed p.294 begins constituent 26 `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`;
+- PDF/printed-page relationship remains **PDF scan = printed page + 1**;
+- duplicate search against live `main`: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+Tamil T1 has **NOT STARTED**.
+
+## Exact next gate
+
+**Tamil T1 for constituent 25 — 7 source pages total.**
