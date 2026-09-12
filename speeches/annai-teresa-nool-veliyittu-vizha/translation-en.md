@@ -1,6 +1,6 @@
 # Mother Teresa Book Release Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 7/7 pages**  
+**Status:** `fidelity-corrections-consolidated` — English E2 **PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **288–294** / printed **287–293**
 
@@ -16,9 +16,9 @@ It is not appropriate that Vincent Chinnadurai has given this book the title *An
 
 ## PDF 289 / printed p.288
 
-even on the Moon and Mars, Mother Teresa will be an angel there too. (Applause) On the Moon we may see mountains. We may see sand, springs, and blocks of ice. We cannot see love. Since Mother Teresa had the power to shower that love everywhere, she is not needed only by the Earth. Wherever human beings discover new places in which to live, throughout that vast cosmos she will be an angel of love.
+even on the Moon and Mars, Mother Teresa will be an angel there too. (Applause) On the Moon we may see mountains. We may see sand, springs, and blocks of ice. We cannot see love. Since Mother Teresa had the power to shower that love everywhere, she is not needed only by the Earth. Wherever human beings discover new places in which to live, throughout that vast cosmos she can be an angel of love.
 
-All those who spoke here about her have explained her greatness. Even without anyone having to tell them, everyone knows about Mother Teresa. Just as honey does not become cloying when tasted again and again, praise of Mother Teresa does not become cloying to anyone.
+All those who spoke here about her have spoken about her. Even without anyone having to tell them, everyone knows about Mother Teresa. Just as honey does not become cloying when tasted again and again, praise of Mother Teresa does not become cloying to anyone.
 
 Mother Teresa was born into an ordinary family. In keeping with the manner in which Vincent has celebrated her in beautiful poetic lines, as stated in this book:
 
@@ -51,7 +51,7 @@ When he was asked, “You are celebrating your 80th birthday while holding the o
 
 yet neither he nor Pandit Nehru, with whom I was closely acquainted, immediately comes to mind on this eightieth birthday. What keeps moving like a shadow across my heart is only the name of Mother Teresa.” There is a historical note recording that P. C. Roy said this.
 
-Those who know Indian history will understand what kind of man P. C. Roy was, and what an iron heart he possessed. He was influential enough to address Pandit Nehru simply by name. Roy was eighty years old. Mother Teresa was then fifty. Even at that time, Mother Teresa had earned such renown that this fifty-year-old lady could be the one who remained as waves of memory in his heart.
+Those who know Indian history will understand what kind of man P. C. Roy was, and what an iron heart he possessed. He was influential enough to address Pandit Nehru simply by name. Roy was eighty years old. Mother Teresa was then fifty. Even at that time, Mother Teresa had earned such renown that he could say that this fifty-year-old lady was there in his heart as waves of memory.
 
 Brother Valampuri John mentioned it here: how many times she came to Tamil Nadu, how many times she spoke, and how many neighbourhoods of poor and simple people she visited to perform her share of service. When the Kazhagam government created the new Slum Clearance Board scheme for poor and simple people, in 1970 or 1971 Mother Teresa wished to see those Slum Clearance Board homes. Her meeting and conversation then with my dear brother Arangannal, who was Chairman of the Slum Clearance Board at the time, became a historic event.
 
@@ -63,11 +63,11 @@ On this day when we honour her fame, I am immensely happy to release this beauti
 
 Father Joe Anthony, who delivered the welcome address, raised a question mark here and left. If I do not place a full stop after it, the situation will become quite different. So I wish to answer that question mark and place a full stop.
 
-When there is one government at the Centre and another in the State, the movement to which I belong has, not just today or yesterday but from the very beginning, accepted the approach that the State government should cooperate with the Central government administratively, argue with the Centre for the needs of the State, and maintain relations with the Central government.
+When there is a government at the Centre and a government in the State, the movement to which I belong has, not just today or yesterday but from the very beginning, accepted the approach that the State government should cooperate with the Central government administratively, argue with the Centre for the needs of the State, and maintain relations with the Central government.
 
 ## PDF 293 / printed p.292
 
-That is why, when Indira Gandhi came to a function held in front of Rajaji Hall to unveil a portrait of Arignar Anna, I said in her presence: “Madam, we will extend our hand for a relationship with you. At the same time, we will raise our voice for our rights.” Those words have not worn away. They have not been impaired, shattered, or damaged. That is what I wish to say again.
+That is why, when Indira Gandhi came to a function held in front of Rajaji Hall to unveil a portrait of Arignar Anna, I said in her presence: “Madam, we will extend our hand for a relationship with you. At the same time, we will raise our voice for our rights.” That word has not worn away. It has not been impaired, shattered, or damaged. That is what I wish to say again.
 
 Supporting the government at the Centre is one thing. Supporting the party that runs that government is another. Therefore, my dear people, I think and believe that you have all the capability, strength, skill, and power needed to understand the difference between a government and a party.
 
@@ -97,6 +97,30 @@ Therefore, merely because we have come to power, we will not withdraw from that 
 - frozen-Tamil `அண்டபகிரண்டத்திற்கும்` is rendered semantically as **“throughout that vast cosmos”** without altering the Tamil layer;
 - frozen Tamil changes during E1: **0**.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved.**
+
+Confirmed corrections consolidated into the English layer:
+
+1. PDF289 / printed p.288: `she will be an angel of love` → **`she can be an angel of love`**, restoring the source potentiality in `இருக்கக்கூடியவர்தான்`.
+2. PDF289 / printed p.288: `have explained her greatness` → **`have spoken about her`**, removing the unsupported added idea `greatness`.
+3. PDF291 / printed p.290: revised the P. C. Roy memory sentence so the English preserves the source logic that he could say the fifty-year-old Mother Teresa was present in his heart as waves of memory.
+4. PDF292 / printed p.291: `one government at the Centre and another in the State` → **`a government at the Centre and a government in the State`**, removing an unsupported implication that the two governments must be politically different.
+5. PDF293 / printed p.292: `Those words have not worn away` → **`That word has not worn away`**, restoring the singular `அந்தச் சொல்`.
+
+E2 verification result:
+
+- pages checked: **7/7**, PDF **288–294** / printed **287–293**;
+- missing / duplicate English page records: **0 / 0**;
+- page correspondence / explicit joins **288→289**, **290→291**: **PASS**;
+- names / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive Thirana / Konsaka / Pojaksiyu renderings: **PASS / no outside normalization**;
+- laughter / applause markers: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 25 — 7 pages total.**
+**English E3 final end-to-end verification for constituent 25 — all 7 pages.**
