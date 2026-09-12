@@ -20,12 +20,12 @@
 - Tamil T1 complete: **25 / 36**;
 - Tamil T2 complete: **25 / 36**;
 - Tamil T3 complete / Tamil verified: **25 / 36**;
-- English E1 complete: **24 / 36**;
-- English E2 complete: **24 / 36**;
-- English E3 complete / English verified: **24 / 36**;
-- fully archived: **24 / 36**.
+- English E1 complete: **25 / 36**;
+- English E2 complete: **25 / 36**;
+- English E3 complete / English verified: **25 / 36**;
+- fully archived: **25 / 36**.
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T3 PASS / COMPLETE — 7/7 pages; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 is next and has not started**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -706,6 +706,29 @@ Tamil for constituent 25 is now **`verified-complete` / FROZEN**. English E1 is 
 
 Collection state: mapped **36/36**; started / source-gated **25/36**; Tamil T1/T2/T3 / Tamil verified **25/36**; English verified **24/36**; fully archived **24/36**.
 
+## Constituent 25 — durable English E1 result
+
+English E1: **COMPLETE — 7/7 pages** from frozen Tamil only. Missing English page records **0**; page correspondence / joins, rhetoric / repetition / quotation structure, laughter-applause markers and separate closing-note handling pass. Frozen Tamil changes during E1: **0**.
+
+## Constituent 25 — durable English E2 result
+
+English E2: **PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved**. All five confirmed corrections are consolidated in `translation-en.md`; frozen Tamil changes during E2: **0**.
+
+## Constituent 25 — durable English E3 result
+
+English E3: **PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved**. All **5/5** E2 corrections remain consolidated; PDF288 ten-minute sentence was finalized to preserve `பத்தே நிமிடங்கள்` in natural English. English is **`verified-complete`**; frozen Tamil changes during E3: **0**.
+
+## Constituent 25 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 7/7 pages**. Constituent 25 is now **FULLY ARCHIVED**.
+
+- Tamil T2 **1**, T3 **0**; English E2 **5**, E3 **1**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, page order / joins, metadata, README, audit, HANDOVER, translation-review, parent collection controls and separate closing note agree;
+- source PDF remains uncommitted.
+
+Collection state: **25 / 36 fully archived**. Constituents **1–25 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 and constituent 26.
+**Source / duplicate / boundary gate for constituent 26 — mapped PDF 295–314 / printed 294–313 — 20 source pages.**
