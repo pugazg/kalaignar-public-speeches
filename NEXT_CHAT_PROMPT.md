@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 Tamil T3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T2 PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has completed Tamil T3 and its Tamil layer is `verified-complete` / FROZEN**.
 
 ## Controlling source
 
@@ -20,9 +20,7 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–25 a
 
 - mapped: **36/36**
 - started / source-gated: **26/36**
-- Tamil T1 complete: **26/36**
-- Tamil T2 complete: **26/36**
-- Tamil T3 complete / Tamil verified: **25/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **26/36**
 - English E1/E2/E3 complete / English verified: **25/36**
 - fully archived: **25/36**
 
@@ -33,21 +31,25 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–25 a
 - source gate: **PASS / COMPLETE — 20/20**
 - Tamil T1: **COMPLETE — 20/20**
 - Tamil T2: **PASS / COMPLETE — 20/20; 2 corrections; 0 unresolved**
+- Tamil T3: **PASS / COMPLETE — 20/20; 0 additional corrections; 0 unresolved**
+- Tamil state: **`verified-complete` / FROZEN**
 - PDF **295–314** / printed **294–313**
-- T2 correction 1: PDF296 / p.295 `அந்த அளவிற்கு தேன் குடத்திலே` → **`அந்த அளவிற்குத் தேன் குடத்திலே`**
-- T2 correction 2: PDF303 / p.302 `குரு வியாக்கியானம் செய்கிறாரே` → **`குரு வியாக்யானம் செய்கிறாரே`**
+- T2 corrections retained:
+  - PDF296 / p.295 `அந்த அளவிற்குத் தேன் குடத்திலே`
+  - PDF303 / p.302 `குரு வியாக்யானம் செய்கிறாரே`
+- stale superseded canonical body readings: **0**
 - canonical page records: **20/20**, complete, unique and ordered
-- missing / duplicate page records: **0 / 0**
 - explicit joins: **PASS**
+- source-sensitive readings / chronology / numeral forms: **PASS**
 - title variants: **PASS / preserved separately**
 - separate closing note: **PASS**
-- source-sensitive T1 readings and printed numeral / chronology forms: **PASS / retained**
-- Tamil T3: **READY / NOT STARTED**
+- speech-body Tamil changes during T3: **0**
+- English E1: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages**. Confirm both T2 corrections are consolidated, search the canonical speech body for stale superseded readings, verify the 20 page records and their order, all explicit joins, names / numerals / punctuation / quotations / repetitions / laughter-applause markers, source-sensitive readings, title variants and the separate closing note. Mark Tamil `verified-complete` / FROZEN only if all checks pass.
+Perform **English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages**. Translate only from frozen `transcription-ta.md`; preserve PDF/printed-page correspondence, rhetoric, repetition, quotations, laughter/applause markers, source-sensitive names/forms, chronology/numerals, and the separate closing note. Do not silently normalize unusual Tamil.
 
 ## STOP RULE
 
-Stop after Tamil T3 for constituent 26. **Do not start English E1, constituent 27, or repository closure in the same activity.**
+Stop after English E1 for constituent 26. **Do not start English E2, constituent 27, or repository closure in the same activity.**
