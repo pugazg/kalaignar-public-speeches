@@ -22,8 +22,10 @@ Tamil T1: **COMPLETE — 7/7 source pages** for `அன்னை தெரசா
 
 Tamil T2: **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved**. PDF289 / p.288 `அண்டபிரண்டத்திற்கும்` was corrected to source-proven `அண்டபகிரண்டத்திற்கும்`. Both explicit page joins, names / numerals / punctuation / quotations / repetitions / applause-laughter markers, source-sensitive forms and the separate closing note pass.
 
-Tamil T3 is **READY / NOT STARTED**. English remains blocked pending verified Tamil. Constituent 26 remains outside the active batch.
+Tamil T3: **PASS / COMPLETE — 7/7; 0 additional corrections; 0 unresolved**. The **1/1** T2 correction remains consolidated, the stale superseded canonical speech-body reading is absent, and no speech-body Tamil changed during T3. Canonical page records / joins, names / numerals / punctuation / quotations / repetitions, laughter / applause markers, source-sensitive forms and the separate closing note pass.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**. Constituent 26 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 25 — 7 source pages total.** Stop before English and constituent 26.
+**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 and constituent 26.
