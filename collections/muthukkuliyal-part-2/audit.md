@@ -1610,6 +1610,28 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 
 No transcription or translation work remains for constituent 24.
 
+## Constituent 24 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **1 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **5 / 1 corrections**, unresolved **0**;
+- PDF **270–287** / printed **269–286**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- constituent metadata / README / audit / HANDOVER / translation-review: **PASS**;
+- parent collection metadata / README / audit / page-map / HANDOVER: **PASS**;
+- root catalogue entry: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 24 closure
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **24/36**;
+- English E1/E2/E3 complete / English verified: **24/36**;
+- fully archived: **24/36**.
+
 ## Exact next gate
 
-**Repository-level archival closure for constituent 24.**
+**Source / duplicate / boundary gate for constituent 25 — `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF 288–294 / printed 287–293.**
