@@ -892,6 +892,29 @@ Combined page-boundary continuations and both separate closing notes: **PASS**. 
 - fully archived: **18/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 19–20 — English E1 first-pass translation
+
+**COMPLETE — 23/23 pages.**
+
+### Constituent 19
+- **11/11** English page records, PDF 205–215 / printed 204–214;
+- missing page records: **0**;
+- source-sensitive educational counts, `சும்மாதான்` wordplay, quotas, engineering-truthfulness comparison and Tiruvannamalai narrative retained for E2 review.
+
+### Constituent 20
+- **12/12** English page records, PDF 216–227 / printed 215–226;
+- missing page records: **0**;
+- source-sensitive name/wordplay passages, social-justice argument, first-graduate scheme / community list, court / reservation material, Samathuvapuram passage and `ஆர்.எம்.வீ.` wording retained for E2 review.
+
+Combined page correspondence / joins and both separate closing notes: **PASS**. Translation authority was frozen Tamil only. Frozen Tamil changes during E1: **0**. English E2 has **NOT STARTED**.
+
+## Collection totals after constituents 19–20 E1
+
+- Tamil verified: **20/36**;
+- English E1 complete: **20/36**;
+- English E2/E3 complete and English verified: **18/36**;
+- fully archived: **18/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.**
+**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**

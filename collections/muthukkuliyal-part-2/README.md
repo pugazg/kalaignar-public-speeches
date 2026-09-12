@@ -318,6 +318,21 @@ Combined Tamil T3: **PASS / COMPLETE — 23/23 source pages; 0 additional correc
 
 Collection state: Tamil T1/T2/T3 complete / Tamil verified **20/36**; English verified **18/36**; fully archived **18/36**. Source PDF remains uncommitted.
 
+## Constituents 19–20 — English E1 complete
+
+Combined English E1: **COMPLETE — 23/23 verified Tamil pages**.
+
+- constituent 19: PDF **205–215** / printed **204–214** — **11/11** English page records;
+- constituent 20: PDF **216–227** / printed **215–226** — **12/12** English page records;
+- missing English page records: **0**;
+- translation authority: frozen `transcription-ta.md` only;
+- page correspondence and both separate source closing notes: **PASS**;
+- names / titles / numerals / rhetoric / repetition / source-sensitive wording carried forward for E2 review;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**.
+
+Collection state: Tamil verified **20/36**; English E1 complete **20/36**; English E2/E3 complete / English verified **18/36**; fully archived **18/36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2 / constituent 21.
+Perform **English E2 independent fidelity review for constituents 19–20 together — 23 English pages total**. Stop before E3 / constituent 21.

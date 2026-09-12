@@ -358,6 +358,20 @@ Canonical page records are **23/23**, complete, unique and ordered; all page joi
 
 English E1 is **READY / NOT STARTED** and must translate only from the frozen `transcription-ta.md` files. Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
 
+## Constituents 19–20 — durable English E1 result
+
+English E1 is **COMPLETE — 23/23 pages**.
+
+- constituent 19: **11/11** pages, PDF **205–215** / printed **204–214**;
+- constituent 20: **12/12** pages, PDF **216–227** / printed **215–226**;
+- missing English page records: **0**;
+- both translations use only frozen `transcription-ta.md`;
+- page correspondence, page joins and separate closing notes: **PASS**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**.
+
+Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Constituents 19–20 remain in progress with Tamil **`verified-complete` / FROZEN** and English E1 complete. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.** Stop before E2 / constituent 21.
+**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.** Stop before E3 / constituent 21.

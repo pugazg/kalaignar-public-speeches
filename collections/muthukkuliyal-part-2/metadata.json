@@ -39,7 +39,7 @@
     "constituent_items_t2_complete": 20,
     "constituent_items_t3_complete": 20,
     "constituent_items_tamil_verified": 20,
-    "constituent_items_e1_complete": 18,
+    "constituent_items_e1_complete": 20,
     "constituent_items_e2_complete": 18,
     "constituent_items_e3_complete": 18,
     "constituent_items_archived": 18,
@@ -48,7 +48,7 @@
     "active_constituent_number": 19,
     "active_constituent_slug": "thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha",
     "active_constituent_title_ta": "திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா",
-    "active_constituent_status": "t3-complete-e1-pending",
+    "active_constituent_status": "english-e1-complete-e2-pending",
     "active_constituent_pdf_pages": "205-215",
     "active_constituent_printed_pages": "204-214",
     "active_constituent_pages_total": 11,
@@ -64,9 +64,9 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "english-e1",
+    "active_batch_gate": "english-e2",
     "next_constituent_number": 19,
-    "next_gate": "English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total",
+    "next_gate": "English E2 independent fidelity review for constituents 19–20 together — 23 English pages total",
     "constituent_items_english_verified": 18,
     "active_batch_t1_pages_completed": 23,
     "active_batch_t1_unreadable_or_unknown": 0,
@@ -75,6 +75,9 @@
     "active_batch_t2_unresolved": 0,
     "active_batch_t3_pages_completed": 23,
     "active_batch_t3_additional_corrections": 0,
-    "active_batch_t3_unresolved": 0
+    "active_batch_t3_unresolved": 0,
+    "active_batch_e1_pages_completed": 23,
+    "active_batch_e1_missing_pages": 0,
+    "active_batch_frozen_tamil_changes_during_e1": 0
   }
 }
