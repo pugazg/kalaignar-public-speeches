@@ -24,8 +24,18 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 20/20 source pages; du
 - PDF315 opens constituent 27 `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`;
 - source title variants are intentionally recorded separately;
 - no existing dedicated archive was found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 20/20 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 20/20 source pages** for `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`, PDF **295–314** / printed **294–313**. Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Source title variants remain separately preserved.
+
+Explicit continuations for T2: **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**.
+
+T2 source-sensitive attention includes `செய்தவைக்காக`, `அச்சியற்றவில்லை`, `கம்பனடிப்பொடி`, `கப்யாசம்- புண்டரீ காட்சம்`, `நீ சொல்லேன் விளக்கம்`, `தப்பித்தான் வாழ்ந்திருக்கிறார்`, `சொத்தன்று`, `கிருமிகண்ட சோழன்`, `போராட்ட தளகர்த்தர்`, `தமிழகக்காக`, `இந்தவிழா`, plus source punctuation / spacing around quotes and parentheticals.
+
+Tamil T2 is **READY / NOT STARTED**. Constituent 27 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 26 — PDF 295–314 / printed 294–313, all 20 pages.** Stop before T2.
+**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
