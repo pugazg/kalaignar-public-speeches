@@ -85,6 +85,25 @@ T2 source-sensitive attention points and page-boundary continuations are recorde
 
 All five corrections are consolidated. Semantic completeness, page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter and Tamil rendering, Articles **356 / 355**, source-sensitive wording, applause marker and separate closing note: **PASS**. Frozen Tamil changes during E2: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved.**
+
+- all **5/5** E2 corrections remain consolidated;
+- PDF274 / p.273: `Muslim men, mothers and elders` → `Muslim people, mothers and elders`, removing the male-specific narrowing of `முஸ்லிம் பெருமக்களும்`;
+- stale superseded English speech-body readings: **0**;
+- English page records: **18/18**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- semantic completeness / page correspondence / explicit joins: **PASS**;
+- names / titles / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- full printed English Indira Gandhi letter + Tamil rendering: **PASS**;
+- Articles **356 / 355**, applause marker, source-sensitive wording and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- English state: **`verified-complete`**.
+
+No transcription or translation work remains. Repository closure is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
+**Repository-level archival closure for constituent 24.**
