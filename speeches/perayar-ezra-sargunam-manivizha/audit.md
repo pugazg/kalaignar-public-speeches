@@ -90,6 +90,17 @@ All **5/5** E2 corrections remain consolidated. Stale superseded E1 readings are
 
 Frozen Tamil changes during E1/E2/E3: **0**. English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 19–20 together.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **7 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **5 / 0 corrections**, unresolved **0**;
+- PDF **216–227** / printed **215–226** source range: **PASS**;
+- canonical page order / joins: **PASS**;
+- separate closing-note handling: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Archive state: **FULLY ARCHIVED**.
