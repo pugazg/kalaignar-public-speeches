@@ -1,6 +1,6 @@
 # அன்னை தெரசா நூல் வெளியீட்டு விழா — Tamil transcription
 
-**Status:** `first-pass-complete` — Tamil T1 **7 / 7 source pages COMPLETE**  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 7 / 7 source pages; 1 correction; 0 unresolved**  
 **Source range:** PDF **288–294** / printed **287–293**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -16,7 +16,7 @@
 
 ## PDF 289 / printed p.288
 
-காலத்திற்குள் சென்று வாழவிருக்கின்ற சந்திர மண்டலத்திற்கும் செவ்வாய் மண்டலத்திற்கும் கூட அன்னை தெரசா தேவதைதான். (கைத்தட்டல்) ஏனென்றால் சந்திர மண்டலத்திலே மலைகளைக் காணலாம். மணலைக் காணலாம், நீரூற்றுக்களைக் காணலாம்; பனிக்கட்டிகளைக் காணலாம். அன்பைக் காண முடியாது. அந்த அன்பை அங்கெல்லாம் பொழியக்கூடிய ஆற்றல் வாய்ந்தவர் அன்னை தெரசா என்பதால் அவர் பூமிக்கு மாத்திரம் தேவையல்ல. புதிது புதிதாக மனிதன் கண்டுபிடித்து வாழக்கூடிய இடங்கள் எங்கெங்கு உண்டோ அந்த அண்டபிரண்டத்திற்கும் அன்புத் தேவதையாக இருக்கக்கூடியவர்தான் அன்னை தெரசா அவர்கள்.
+காலத்திற்குள் சென்று வாழவிருக்கின்ற சந்திர மண்டலத்திற்கும் செவ்வாய் மண்டலத்திற்கும் கூட அன்னை தெரசா தேவதைதான். (கைத்தட்டல்) ஏனென்றால் சந்திர மண்டலத்திலே மலைகளைக் காணலாம். மணலைக் காணலாம், நீரூற்றுக்களைக் காணலாம்; பனிக்கட்டிகளைக் காணலாம். அன்பைக் காண முடியாது. அந்த அன்பை அங்கெல்லாம் பொழியக்கூடிய ஆற்றல் வாய்ந்தவர் அன்னை தெரசா என்பதால் அவர் பூமிக்கு மாத்திரம் தேவையல்ல. புதிது புதிதாக மனிதன் கண்டுபிடித்து வாழக்கூடிய இடங்கள் எங்கெங்கு உண்டோ அந்த அண்டபகிரண்டத்திற்கும் அன்புத் தேவதையாக இருக்கக்கூடியவர்தான் அன்னை தெரசா அவர்கள்.
 
 அவர்களைப் பற்றி இங்கே உரையாற்றியவர்கள் எல்லாம் விளக்கியிருக்கிறார்கள். யாரும் எடுத்துச் சொல்லாமலே அன்னை தெரசா அவர்களைப் பற்றி அனைவரும் அறிந்திருக்கிறார்கள். திரும்பத் திரும்ப அதைச் சொல்லும்போது எப்படி தேன் தெவிட்டுவதில்லையோ அதுபோல அன்னை தெரசா அவர்களைப் பற்றிய புகழுரைகள் யாருக்கும் தெவிட்டுவதில்லை.
 
@@ -94,8 +94,20 @@
 - explicit page-boundary continuations requiring T2 confirmation: **288→289**, **290→291**;
 - source-sensitive items for T2 attention include `அண்டபிரண்டத்திற்கும்`, `திரானாவின்`, `சிலையெடுக்கப்பட்ட`, `ஆக்னஸ் கொன்சகா பொஜாக்ஸியு`, `அரும்பாகவே இருந்து மறைந்தார்`, `பற்றிப்பேசிய`, `வைக்கா விட்டால்`, and the source spacing / punctuation around the political closing passage.
 
-This is a **first-pass transcription**, not yet a final fidelity claim. Source pixels remain controlling.
+At the T1 checkpoint this remained a first-pass transcription; Tamil T2 is now complete.
+
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.**
+
+Scan-confirmed correction consolidated into canonical Tamil:
+
+1. PDF289 / printed p.288: `அண்டபிரண்டத்திற்கும்` → **`அண்டபகிரண்டத்திற்கும்`**, restoring the printed source form.
+
+All mapped pages PDF **288–294** were re-read directly against the controlling scans. Names, numerals, punctuation, rhetorical repetition, quotation structure, applause/laughter markers, source-sensitive spacing/forms and the separate source closing note were checked.
+
+Explicit page-boundary continuations **288→289** and **290→291**: **PASS**. Canonical page records remain **7/7**, complete, unique and ordered. Missing / duplicate page records: **0 / 0**. Unresolved readings: **0**.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.**
+**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
