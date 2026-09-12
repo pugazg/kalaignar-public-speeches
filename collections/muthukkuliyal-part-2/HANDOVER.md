@@ -385,6 +385,19 @@ English E2 is **PASS / COMPLETE — 23/23 pages; 8 corrections; 0 unresolved**.
 
 Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Constituents 19–20 retain Tamil **`verified-complete` / FROZEN**. Source PDF remains uncommitted.
 
+## Constituents 19–20 — durable English E3 result
+
+English E3 is **PASS / COMPLETE — 23/23 pages; 0 additional corrections; 0 unresolved**.
+
+- constituent 19: **11/11**, all **3/3** E2 corrections remain consolidated;
+- constituent 20: **12/12**, all **5/5** E2 corrections remain consolidated;
+- stale superseded E1 readings: **0**;
+- page correspondence / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, source-sensitive wording and both separate closing notes: **PASS**;
+- frozen Tamil changes during E1/E2/E3: **0**;
+- both English layers are now **`verified-complete`**.
+
+Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Constituents 19–20 now have Tamil and English **`verified-complete`** and are ready for repository closure. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.** Stop before repository closure / constituent 21.
+**Repository closure for constituents 19–20 together.** Stop before constituent 21.

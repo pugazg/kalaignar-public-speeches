@@ -943,6 +943,31 @@ Combined page correspondence / joins, names / titles / numerals, rhetoric / repe
 - English E3 complete / English verified: **18/36**;
 - fully archived: **18/36**.
 
+## Constituents 19–20 — English E3 final end-to-end verification
+
+**PASS / COMPLETE — 23/23 pages; 0 additional corrections; 0 unresolved.**
+
+### Constituent 19
+- **11/11** pages verified;
+- all **3/3** E2 corrections retained;
+- stale superseded E1 readings: **0**;
+- page correspondence / joins, semantic completeness, source-sensitive wording and separate closing note: **PASS**.
+
+### Constituent 20
+- **12/12** pages verified;
+- all **5/5** E2 corrections retained;
+- stale superseded E1 readings: **0**;
+- page correspondence / joins, semantic completeness, social-justice scheme details, source-sensitive wording and separate closing note: **PASS**.
+
+Frozen Tamil changes during E1/E2/E3: **0**. Both English layers are **`verified-complete`**.
+
+## Collection totals after constituents 19–20 E3
+
+- Tamil verified: **20/36**;
+- English E1/E2/E3 complete / English verified: **20/36**;
+- fully archived: **18/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**
+**Repository closure for constituents 19–20 together.**
