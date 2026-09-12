@@ -1705,6 +1705,31 @@ No transcription or translation work remains for constituent 24.
 - fully archived: **24/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 25 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 7/7 source pages; 0 additional corrections; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- stale superseded canonical speech-body reading `அண்டபிரண்டத்திற்கும்`: **0**;
+- source-proven canonical reading `அண்டபகிரண்டத்திற்கும்`: **present**;
+- canonical page records: **7/7**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit joins **288→289**, **290→291**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- laughter / applause markers and source-sensitive forms: **PASS**;
+- separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 25 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 25/36 / 25/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **25/36**;
+- English E1/E2/E3 complete / English verified: **24/36**;
+- fully archived: **24/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
+**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 / constituent 26.
