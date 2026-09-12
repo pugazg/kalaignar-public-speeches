@@ -34,8 +34,16 @@ Explicit continuations for T2: **295→296, 296→297, 297→298, 298→299, 299
 
 T2 source-sensitive attention includes `செய்தவைக்காக`, `அச்சியற்றவில்லை`, `கம்பனடிப்பொடி`, `கப்யாசம்- புண்டரீ காட்சம்`, `நீ சொல்லேன் விளக்கம்`, `தப்பித்தான் வாழ்ந்திருக்கிறார்`, `சொத்தன்று`, `கிருமிகண்ட சோழன்`, `போராட்ட தளகர்த்தர்`, `தமிழகக்காக`, `இந்தவிழா`, plus source punctuation / spacing around quotes and parentheticals.
 
-Tamil T2 is **READY / NOT STARTED**. Constituent 27 remains outside the active batch.
+Tamil T2: **PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved**.
+
+- PDF296 / p.295 `அந்த அளவிற்கு தேன் குடத்திலே` → `அந்த அளவிற்குத் தேன் குடத்திலே`;
+- PDF303 / p.302 `குரு வியாக்கியானம் செய்கிறாரே` → `குரு வியாக்யானம் செய்கிறாரே`;
+- all mapped scans PDF **295–314** directly re-read;
+- canonical page order / explicit joins, names / numerals / punctuation / quotations / repetitions, laughter-applause markers, source-sensitive forms, title variants and the separate closing note: **PASS**;
+- unresolved readings: **0**.
+
+Tamil T3 is **READY / NOT STARTED**. English remains blocked pending verified Tamil. Constituent 27 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
+**Tamil T3 consolidation/freeze for constituent 26 — 20 source pages total.** Stop before English and constituent 27.
