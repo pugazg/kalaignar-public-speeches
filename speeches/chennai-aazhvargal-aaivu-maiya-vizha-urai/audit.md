@@ -41,6 +41,26 @@
 
 Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved.**
+
+1. PDF296 / printed p.295: `அந்த அளவிற்கு தேன் குடத்திலே` → `அந்த அளவிற்குத் தேன் குடத்திலே`.
+2. PDF303 / printed p.302: `குரு வியாக்கியானம் செய்கிறாரே` → `குரு வியாக்யானம் செய்கிறாரே`.
+
+Verification result:
+
+- pages checked: PDF **295–314** / printed **294–313** — **20/20**;
+- canonical page records: **20/20**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page joins **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- laughter / applause markers: **PASS**;
+- source title variants: **PASS / preserved separately**;
+- separate closing note: **PASS**;
+- source-sensitive T1 readings and chronology / numeral forms: **PASS / retained as printed**;
+- unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.**
+**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.**
