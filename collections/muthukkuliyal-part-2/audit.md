@@ -617,6 +617,26 @@ T2 attention points are recorded in the constituent `audit.md`; no source-odd fo
 - fully archived: **14/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 15–16 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+Final closure consistency:
+
+- source ranges: **22/22 pages — PASS**;
+- Tamil canonical pages: **22/22 — PASS**;
+- Tamil verified/frozen: **16/36 total**;
+- English final pages: **22/22 — PASS**;
+- English verified: **16/36 total**;
+- constituent 15 correction ledger: Tamil T2 **5**, T3 **0**, English E2 **2**, E3 **1**, unresolved **0**;
+- constituent 16 correction ledger: Tamil T2 **4**, T3 **0**, English E2 **3**, E3 **0**, unresolved **0**;
+- both separate closing notes: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF binary: **uncommitted**.
+
+Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituents 15–16 together.**
+**Constituents 17–18 source / duplicate / boundary gate — 21 source pages total.** Stop before Tamil T1.

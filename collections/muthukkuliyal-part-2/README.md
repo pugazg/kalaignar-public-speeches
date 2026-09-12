@@ -177,6 +177,23 @@ Combined English E3: **PASS / COMPLETE — 22/22 pages; 1 additional correction;
 
 Collection state: Tamil verified **16/36**; English E1/E2/E3 complete / English verified **16/36**; fully archived **14/36**. Repository closure for constituents 15–16 is **READY / NOT STARTED**. Source PDF remains uncommitted.
 
+## Constituents 15–16 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** Final consistency checking confirms both archives agree across metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, canonical page order, closing-note separation and correction counts.
+
+- **15 — திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா:** PDF **162–172** / printed **161–171** — Tamil T2 **5 corrections**, T3 **0**; English E2 **2 corrections**, E3 **1**; unresolved **0**.
+- **16 — ஆம்பூர் சம்பங்கி இல்ல மணவிழா:** PDF **173–183** / printed **172–182** — Tamil T2 **4 corrections**, T3 **0**; English E2 **3 corrections**, E3 **0**; unresolved **0**.
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Collection state is now **16 / 36 fully archived**. Constituents **1–16 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituents 15–16 together.** Stop before constituent 17.
+Process constituents **17–18 together** through the **source / duplicate / boundary gate**:
+
+- **17 — நெல்லிக்குப்பம் புகழேந்தி மணவிழா:** PDF **184–193** / printed **183–192** — **10 pages**;
+- **18 — இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா:** PDF **194–204** / printed **193–203** — **11 pages**;
+- combined: **21 source pages**, within the 25-page batch cap.
+
+Stop before Tamil T1.

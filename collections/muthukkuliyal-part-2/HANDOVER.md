@@ -260,6 +260,23 @@ Constituent 15 has **2 E2 corrections + 1 E3 correction**; constituent 16 has **
 
 Both constituents now have Tamil **`verified-complete` / FROZEN** and English **`verified-complete`**. Repository closure is **READY / NOT STARTED**. Constituents 1–14 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
 
+## Constituents 15–16 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 22/22 pages**. Both constituent archives are now **FULLY ARCHIVED**. Metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, correction counts, canonical page ordering and separate closing-note handling agree. No unresolved Tamil or English issue remains. Source PDF remains uncommitted.
+
+- constituent 15: Tamil T2 **5**, T3 **0**; English E2 **2**, E3 **1**;
+- constituent 16: Tamil T2 **4**, T3 **0**; English E2 **3**, E3 **0**;
+- frozen Tamil changes during English work and closure: **0**;
+- verified English body changes during closure: **0**.
+
+Collection state: **16 / 36 fully archived**. Constituents **1–16 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituents 15–16 together.** Stop before constituent 17.
+Process constituents **17–18 together** through source / duplicate / boundary:
+
+- 17 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா` — PDF **184–193** / printed **183–192** — **10 pages**;
+- 18 `இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா` — PDF **194–204** / printed **193–203** — **11 pages**;
+- combined **21 pages**.
+
+Stop before Tamil T1.

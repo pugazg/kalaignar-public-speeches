@@ -51,6 +51,8 @@ For audio or video sources, also read:
 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | நாகர்கோவில் ஜீவானந்தம் மணிமண்டபத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.112–126 | 19.04.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
 | `may-thina-vizha` | மே தின விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.127–143 | 01.05.1998 | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.144–160 | 02.05.1998 | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
+| `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.161–171 | 15.05.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
+| `ambur-sampangi-illa-manavizha` | ஆம்பூர் சம்பங்கி இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.172–182 | Not stated in source | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
 
 ## Repository layout
 
@@ -259,5 +261,22 @@ The archival workflow is complete for constituent **14 / 36** of `முத்�
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **2 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **7 corrections / 0 unresolved**; E3 produced **1 additional correction / 0 unresolved**, correcting the PDF152→153 clause attachment around `அரசின் கெடுபிடிகளால்` / `பத்திரிகையின் கொள்கைகளைப் பற்றி`.
 
 The archive deliberately preserves the source-sensitive printed **1821** and **1812** dates, the **165 / 180 / 100 years** chronology, `அச்சியற்றப்பட` / `அச்சியற்றப்பட்டாலும்`, `தேவை தின்றச் செய்தது`, `மாதரசு ஜென்னி`, Kural form `ஆகித்தற் கொண்டான்`, `நாலைந்து ஆண்டுகள்`, and the separate closing-note form `மொழி பெயர்த்த` without silently correcting or reconstructing them.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+
+### திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா
+
+The archival workflow is complete for constituent **15 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **162–172** / printed pages **161–171**. The separate closing note establishes the date as **15.05.1998**, event wording `திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத் தொகை வழங்கும் விழா`, and role `ஆற்றிய உரை`; no geographic venue is stated in the inspected opening/closing evidence, so none is inferred. The archive preserves the page-heading/contents `பரிவுத்தொகை` versus closing-note `பரிவுத் தொகை` distinction.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **2 corrections / 0 unresolved**; E3 produced **1 additional correction / 0 unresolved**, rendering frozen Tamil `நூல்கள்` directly as **Books** rather than the broader **Works** in the final English title/closing note.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### ஆம்பூர் சம்பங்கி இல்ல மணவிழா
+
+The archival workflow is complete for constituent **16 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **173–183** / printed pages **172–182**. The source does **not** state a date in the contents, numbered/titled opening, or separate closing note, so no date is inferred. The opening body directly supports venue `ஆம்பூர் சம்பங்கி இல்லம்`; the separate closing note establishes event/role wording `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **3 corrections / 0 unresolved**; E3 passed all 11 pages with **0 additional corrections / 0 unresolved**. The final English preserves the frozen Tamil `இராமு` / `ராமு` distinction as **Iramu / Ramu** where printed.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.

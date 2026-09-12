@@ -61,9 +61,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 12 | `nagarkovil-jeevanandham-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 13 | `may-thina-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **Tamil + English verified-complete — closure next** |
-| 16 | `ambur-sampangi-illa-manavizha` | **Tamil + English verified-complete — closure next** |
-| 17–36 | — | not started |
+| 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 17–18 | — | **not started — next source/duplicate/boundary batch; 21 pages** |
+| 19–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -106,6 +107,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 English E1 **22/22 COMPLETE**; English E2 **22/22 PASS — 5 corrections / 0 unresolved**; English E3 **22/22 PASS — 1 additional correction / 0 unresolved**. Frozen Tamil changes during English work: **0**. Both English layers are **`verified-complete`**.
 
+## Constituents 15–16 — archival closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 22/22 pages.** Both constituents now have Tamil and English `verified-complete`; correction counts, page order, source ranges and closing-note handling agree. Fully archived total: **16 / 36**.
+
 ## Next same-gate batch
 
-Constituents **15–16 together** — repository closure. Stop before constituent 17.
+Constituents **17–18 together** — source / duplicate / boundary gate — **21 source pages total**. Constituent 19 adds another 11 pages, so **17+18+19 = 32 pages** and must not be combined under the 25-page cap.
