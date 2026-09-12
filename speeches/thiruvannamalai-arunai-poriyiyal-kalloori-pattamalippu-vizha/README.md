@@ -35,8 +35,8 @@
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 11/11; 1 correction; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 11/11** |
-| English E2 | **READY / NOT STARTED** |
-| English E3 | blocked pending E2 |
+| English E2 | **PASS / COMPLETE — 11/11; 3 corrections; 0 unresolved** |
+| English E3 | **READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T1 result
@@ -59,6 +59,12 @@ All **1/1** T2 corrections remain consolidated. Canonical page records are compl
 
 **COMPLETE — 11/11 pages.** Translation authority was the frozen `transcription-ta.md` only. English page records are complete and ordered; missing English page records **0**; the separate source closing note remains outside the speech body; frozen Tamil changes during E1 **0**. English E2 has **NOT STARTED**.
 
+## English E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 3 corrections; 0 unresolved.**
+
+Every English page was compared directly against frozen Tamil. Confirmed fidelity/page-correspondence corrections are consolidated in `translation-en.md`; names / titles / numerals, rhetoric / repetition, source-sensitive wording and the separate closing note pass. Frozen Tamil changes during E2: **0**. English E3 has **NOT STARTED**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.** Stop before E3 / constituent 21.
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.** Stop before repository closure / constituent 21.

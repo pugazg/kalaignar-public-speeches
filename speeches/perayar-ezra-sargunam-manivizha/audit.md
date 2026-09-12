@@ -70,6 +70,18 @@ Tamil state: **`verified-complete` / FROZEN**.
 - frozen Tamil changes during E1: **0**;
 - English E2: **NOT STARTED**.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 12/12 pages; 5 corrections; 0 unresolved.**
+
+1. PDF220: `caste and religious divisions, rubbish` → **`the rubbish of caste and religious divisions`**.
+2. PDF221: V.P. Singh / Mandal sentence revised to preserve the source causality of the government falling over the announcement.
+3. PDF221→222: page-boundary continuation restored at `தாழ்த்தப் / பட்ட மக்கள்`.
+4. PDF224→225: page-boundary continuation restored at `பதினைந்து / சதவிகிதம்`.
+5. PDF226→227: page-boundary continuation restored at `நச்சு எண்ணம் / படைத்தவர்கள்`.
+
+All corrections are consolidated in `translation-en.md`. Page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and the separate closing note: **PASS**. Frozen Tamil changes during E2: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**

@@ -64,6 +64,16 @@ Tamil state: **`verified-complete` / FROZEN**.
 - frozen Tamil changes during E1: **0**;
 - English E2: **NOT STARTED**.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 3 corrections; 0 unresolved.**
+
+1. PDF210→211: source page-boundary continuation restored at `அடுத்துத் தொடர்ந்து / பெறவிருக்கின்ற`.
+2. PDF212: `Tiruvannamalai legend` → **`Tiruvannamalai Purana`**.
+3. PDF214→215: source page-boundary continuation restored at `இந்த நாட்டு மக்களின் / தலை எழுத்தை`.
+
+All corrections are consolidated in `translation-en.md`. Page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and the separate closing note: **PASS**. Frozen Tamil changes during E2: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**

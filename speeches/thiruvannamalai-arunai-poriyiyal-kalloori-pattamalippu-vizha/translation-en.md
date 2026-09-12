@@ -1,6 +1,6 @@
 # Thiruvannamalai Arunai Engineering College Graduation Ceremony — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 11 / 11 pages**; E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 11 / 11 pages; 3 corrections; 0 unresolved**; E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **205–215** / printed **204–214**
 
@@ -58,11 +58,11 @@ As the friends who spoke here pointed out, from 1997–98 onward, 15 percent of 
 
 In order to honour soldiers who lost their precious lives in military service, this government has extended a helping hand to their children by increasing from three to ten the engineering-college seats that had until now been reserved for them. The reason I state all these details is to show the extent to which, in engineering and in other fields of professional education, this government has introduced innovations and framed schemes so that ordinary, common, poor and rural students can benefit.
 
-In that way, those who studied in engineering college and are leaving today after receiving their degrees may, as younger brother Durai Murugan noted here, send their descendants to this same college for training. Or they may send them to many other colleges. Whoever they may be, whether they are engineers receiving these degrees now or engineers who will receive them in the future, what I ask of all of them is this:
+In that way, those who studied in engineering college and are leaving today after receiving their degrees may, as younger brother Durai Murugan noted here, send their descendants to this same college for training. Or they may send them to many other colleges. Whoever they may be—whether engineers receiving these degrees now, or those who will subsequently
 
 ## PDF 211 / printed p.210
 
-Although it is unavoidable that you use this excellent and skilful capacity you have acquired for your own well-being and family life, I ask you to use it also for social life, social uplift and social progress.
+receive them—what I ask of all of them is this: although it is unavoidable that you use this excellent and skilful capacity you have acquired for your own well-being and family life, I ask you to use it also for social life, social uplift and social progress.
 
 Engineering has risen to this level today. It has advanced to the level of computers and to the level of software. In a period before this field had developed, the Kallanai was raised by Karikala Chola. The Brihadisvara Temple at Thanjavur came into being under Rajaraja Chola. At that time there were none of these scientific innovations. Such opportunities and facilities did not exist. Yet, even in an age without them, those structures were built with skill and have stood firm and sound for nearly a thousand years and more, serving even today as places visited by people from across the world. If they shine today in an astonishing manner, we can see to what extent engineering had developed even in that age.
 
@@ -76,7 +76,7 @@ Whatever the level of skill, if truthfulness is absent, we become people who hav
 
 For example, if a doctor treats two or three people for illness and makes a mistake, the number who ultimately die may be one, two, or five or six. But if a large hall is built and a contractor enters into an agreement, claims that it has been built solidly, yet fails to mix the soil and cement that should be mixed, instead using too much soil and too little cement, then when that hall collapses the engineer may have to bear responsibility for hundreds of lives. That is why the most important thing I have to say in this field is that one must not falsely say, “We have built it well.”
 
-There are so many stories about why one must not lie. There is the Harischandra Purana itself. Why go that far? There is the Tiruvannamalai legend itself. One day in Tiruvannamalai, a quarrel arose between Brahma and Vishnu over who was greater. Vishnu said, “I am the greater one.” Brahma said, “I am the
+There are so many stories about why one must not lie. There is the Harischandra Purana itself. Why go that far? There is the Tiruvannamalai Purana itself. One day in Tiruvannamalai, a quarrel arose between Brahma and Vishnu over who was greater. Vishnu said, “I am the greater one.” Brahma said, “I am the
 
 ## PDF 213 / printed p.212
 
@@ -96,9 +96,11 @@ Likewise, he cursed the screw-pine flower that it should no longer be a flower f
 
 Thus this land of Tiruvannamalai is a land that teaches what punishment follows from lying. You who go from this land as engineers must never even dream of falsehood or entertain it in thought; you must think about all the dangers that can arise from falsehood and discharge your duty.
 
-For a responsible task has been entrusted to you today. What I gave you was not merely a degree, nor merely a prize. What I have given is, in a sense, the destiny of the people of this country, placed in your hands. You must reflect on that and act accordingly.
+For a responsible task has been entrusted to you today. What I gave you was not merely a degree, nor merely a prize; what I have given concerns the people of this country—
 
 ## PDF 215 / printed p.214
+
+their destiny has been placed in your hands. You must reflect on the fact that it has been given in that sense and act accordingly.
 
 By acting in that way, you must add more and more honour to Arunai Engineering College. If someone asks, “Which college did you study in?” and you say, “I studied at the Arunai Engineering College founded and run by younger brother Velu,” that will be fame for you and fame for Velu. And therefore, I say, fame for me too—and I congratulate all of you.
 
@@ -114,7 +116,7 @@ By acting in that way, you must add more and more honour to Arunai Engineering C
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -126,6 +128,16 @@ By acting in that way, you must add more and more honour to Arunai Engineering C
 - The Brahma / Vishnu / screw-pine narrative is translated as source narrative; no external mythological reconciliation is introduced.
 - PDF214 `கனவும் நினைக்காமல்` is preserved as **never even dream of falsehood or entertain it in thought**.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 3 corrections; 0 unresolved.**
+
+1. PDF210→211 / printed pp.209→210: restored the source page-boundary continuation so `அடுத்துத் தொடர்ந்து / பெறவிருக்கின்ற` remains a continuation across the two English page records rather than being completed early on PDF210.
+2. PDF212 / printed p.211: **“Tiruvannamalai legend”** → **“Tiruvannamalai Purana”**, preserving the source term `திருவண்ணாமலை புராணம்` and its parallel with `அரிச்சந்திர புராணம்`.
+3. PDF214→215 / printed pp.213→214: restored the source page-boundary continuation for `இந்த நாட்டு மக்களின் / தலை எழுத்தை`, keeping **destiny** on the PDF215 English record instead of completing the thought on PDF214.
+
+All **11/11** English pages were independently checked against frozen Tamil. Educational counts, `சும்மாதான்` wordplay, quota figures, names / titles / numerals, rhetoric / repetition, the doctor/engineer comparison, the Brahma/Vishnu/தாழம்பூ narrative, page joins and the separate closing note pass. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**

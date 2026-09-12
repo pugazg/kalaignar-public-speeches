@@ -1,6 +1,6 @@
 # Bishop Ezra Sargunam Sixtieth-Birthday Celebration — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 12 / 12 pages**; E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 12 / 12 pages; 5 corrections; 0 unresolved**; E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **216–227** / printed **215–226**
 
@@ -44,7 +44,7 @@ At this good function, something born of one fine thought of Ezra's
 
 ## PDF 220 / printed p.219
 
-has also been enabled to function here. That is the Indian Social Justice Movement, which we have launched here today. That I unveiled the board is only a matter of ceremony. What has been linked with this function here is something acceptable to all the leaders seated here, including our people's leader Moopanar, and acceptable to people of every religion. Younger brother Balasundaram, who spoke under the title “Indian Social Justice Movement” and then left, said, “Kalaignar, if complete social justice—an egalitarian society without highs and lows—is not created in Tamil Nadu in your time, it will never happen at any later time.” The reason he said that is not that I alone can do it. He said it out of an eagerness that it should somehow be completed within my time. But I wish to point out: this is not something that can be completed within some particular one-year or two-year period. For if we are to remove the cruelties that struck this society thousands of years ago—the rubbish that became so mixed into it as to press down this entire society and push it to the bottom—that cannot be accomplished in one or two years. If even five years' rubbish cannot be completely removed in two years (loud applause), then the caste and religious divisions, rubbish, customs,
+has also been enabled to function here. That is the Indian Social Justice Movement, which we have launched here today. That I unveiled the board is only a matter of ceremony. What has been linked with this function here is something acceptable to all the leaders seated here, including our people's leader Moopanar, and acceptable to people of every religion. Younger brother Balasundaram, who spoke under the title “Indian Social Justice Movement” and then left, said, “Kalaignar, if complete social justice—an egalitarian society without highs and lows—is not created in Tamil Nadu in your time, it will never happen at any later time.” The reason he said that is not that I alone can do it. He said it out of an eagerness that it should somehow be completed within my time. But I wish to point out: this is not something that can be completed within some particular one-year or two-year period. For if we are to remove the cruelties that struck this society thousands of years ago—the rubbish that became so mixed into it as to press down this entire society and push it to the bottom—that cannot be accomplished in one or two years. If even five years' rubbish cannot be completely removed in two years (loud applause), then the rubbish of caste and religious divisions, customs,
 
 ## PDF 221 / printed p.220
 
@@ -52,9 +52,11 @@ scriptures, scriptural cruelties and social injustices that have destroyed and d
 
 Gautama Buddha laboured so that such things might be done throughout India; Mahavira laboured; countless Jain ascetics laboured. Saivite greats laboured; the Alvars laboured; all the great leaders who arose as revolutionaries laboured. As far as Tamil Nadu is concerned, Thanthai Periyar, Perarignar Anna, Perunthalaivar Kamarajar and others all laboured. It is not right to think that I can finish in one or two years something that could not be completed even after all their labour! But we must not simply sit idle, wringing our hands and folding them, asking how it can be done. We must continue to do our work; we must sprout forth and set out across the land to establish social justice.
 
-There are many ways in which we can establish social justice today. We had to wait for many years to implement the recommendations of the Mandal Commission report. V.P. Singh's government itself had to fall for it to be announced. After that, the seed sown then by V.P. Singh was followed to some extent during the Congress government by Prime Minister Narasimha Rao, and today the benefit of the Mandal Commission has reached backward and oppressed people throughout India. But it is not complete. As our Dheeran said, we are working so that it becomes complete.
+There are many ways in which we can establish social justice today. We had to wait for many years to implement the recommendations of the Mandal Commission report. A situation arose in which V.P. Singh's government itself fell over announcing it. After that, the seed sown then by V.P. Singh was followed to some extent during the Congress government by Prime Minister Narasimha Rao, and today the benefit of the Mandal Commission has reached backward and oppressed
 
 ## PDF 222 / printed p.221
+
+people throughout India. But it is not complete. As our Dheeran said, we are working so that it becomes complete.
 
 Therefore, in a period when we have to struggle for many years to obtain social justice, we are doing what we can. There are so many obstacles. If we work for backward people, most backward people, oppressed people and people of minority communities—if we seek social justice for them—we do not think that those from communities that have already advanced should suffer social injustice. No one should understand it that way.
 
@@ -72,11 +74,11 @@ What was that scheme? In a family, whatever caste they belonged to—whether bac
 
 Mukkulathor, Yadava, or whoever they might be—if there had been no graduate or diploma-holder in the family and a person was becoming the first graduate, then even if he had obtained five marks fewer than required for admission to a medical college or engineering college, he should be admitted. (Applause) I announced a scheme that such a person should be selected; it came into operation, and because of it roughly 300 to 400 people obtained places that year. Among those who obtained places were backward people, oppressed people and most backward people; there were also people from the advanced classes I mentioned. Those who obtained places in that way were happy. They expressed thanks. But some people opposed it and went to court. While that case was proceeding, the government was dismissed in 1991. The case that proceeded in court resulted in a judgment against that government scheme, and it was abandoned. For the next five years no one thought about it.
 
-After that, as Dheeran mentioned here, 15 percent of seats were reserved for rural students entering professional education—whether medicine, engineering or agricultural education. It was introduced in engineering colleges last year and in medical colleges this year. That too faced danger. People went to court.
+After that, as Dheeran mentioned here, for rural students entering professional education—whether medicine, engineering or agricultural education—a reservation of fifteen
 
 ## PDF 225 / printed p.224
 
-They litigated. We waited anxiously, wondering what judgment would come. Fortunately, the High Court judgment stated that the government's reservation of 15 percent for rural students was valid. (Loud applause)
+percent was introduced: in engineering colleges last year and in medical colleges this year. That too faced danger. People went to court. They litigated. We waited anxiously, wondering what judgment would come. Fortunately, the High Court judgment stated that the government's reservation of 15 percent for rural students was valid. (Loud applause)
 
 Therefore, if some people have gone even to the courts as an obstacle to social justice, you must think about whether we can obtain social justice easily.
 
@@ -86,11 +88,11 @@ There is one more thing. What I spoke of was education and economics. Beyond the
 
 Only at the level of the mind can we see a pure victory in these matters. That is why this government is creating Samathuvapurams in every district today.
 
-If one hundred houses are built in a Samathuvapuram, most of them are for oppressed communities and, on a proportional basis, all other people too—including those belonging to advanced castes—have a place there. When we began constructing houses for Samathuvapurams, we had a doubt: would anyone come to live there? But today people are competing to come. I went to the foundation-laying ceremony of a Samathuvapuram in the village of Poigai in Vellore. Its inauguration is to take place in another month. Even then many people had applied and registered to live in those houses. Who are they? There are oppressed people among them; there are backward people; and, I say this with some surprise, some families from advanced communities—particularly from the Brahmin community—have also agreed to come and live together with them in the Samathuvapuram. If that is so, our ideas are gradually succeeding today. But not completely. Preventing complete success are some mischief-makers and antisocial elements who think they can survive, and can lead things themselves, only if some dispute arises—people with such poisonous thinking
+If one hundred houses are built in a Samathuvapuram, most of them are for oppressed communities and, on a proportional basis, all other people too—including those belonging to advanced castes—have a place there. When we began constructing houses for Samathuvapurams, we had a doubt: would anyone come to live there? But today people are competing to come. I went to the foundation-laying ceremony of a Samathuvapuram in the village of Poigai in Vellore. Its inauguration is to take place in another month. Even then many people had applied and registered to live in those houses. Who are they? There are oppressed people among them; there are backward people; and, I say this with some surprise, some families from advanced communities—particularly from the Brahmin community—have also agreed to come and live together with them in the Samathuvapuram. If that is so, our ideas are gradually succeeding today. But not completely. Preventing complete success are some mischief-makers and antisocial elements who think they can survive, and can lead things themselves, only if some dispute arises—such poisonous thoughts—
 
 ## PDF 227 / printed p.226
 
-do not come forward to allow it. All of us belonging to various movements who labour to uproot all that and achieve social harmony and religious harmony are, on this one issue, functioning as a single movement.
+those who harbour them do not come forward to allow it. All of us belonging to various movements who labour to uproot all that and achieve social harmony and religious harmony are, on this one issue, functioning as a single movement.
 
 That is why, just as our R.M.V. spoke openly, our Bishop has today launched the Indian Social Justice Movement here with the cooperation and shared consent of all of us. If this social justice is to succeed, we need many more bishops. By “bishop” I do not say that they must come only from that religion. Society needs many thousands more people with the great qualities of a bishop. Saying “we need them, we need them,” I offer, on behalf of all of you and on behalf of Tamil Nadu, my warm wishes to Bishop Ezra Sargunam and his spouse, who stand before us as an initial step and an initiator capable of fulfilling that need, receiving our affectionate good wishes.
 
@@ -106,7 +108,7 @@ That is why, just as our R.M.V. spoke openly, our Bishop has today launched the 
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -120,6 +122,18 @@ That is why, just as our R.M.V. spoke openly, our Bishop has today launched the 
 - PDF225 `யார் தேர் இழுப்பது` is rendered as **who is to pull the temple car**.
 - PDF227 `ஆர்.எம்.வீ.` remains **R.M.V.** and `ஆரம்பக் கர்த்தாவாக` is rendered as **an initiator**.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 12/12 pages; 5 corrections; 0 unresolved.**
+
+1. PDF220 / printed p.219: **“caste and religious divisions, rubbish”** → **“the rubbish of caste and religious divisions”**, preserving the source syntactic relationship in `சாதி, மத பேத குப்பைகளை`.
+2. PDF221 / printed p.220: revised the V.P. Singh sentence to **“A situation arose in which V.P. Singh's government itself fell over announcing it”**, avoiding the E1 implication that the government had to fall before the Mandal announcement.
+3. PDF221→222 / printed pp.220→221: restored the source page-boundary continuation for `தாழ்த்தப் / பட்ட மக்கள்`; the English phrase now continues across the corresponding two page records.
+4. PDF224→225 / printed pp.223→224: restored the source page-boundary continuation at `பதினைந்து / சதவிகிதம்`, so **fifteen / percent** now crosses the English page records in the same place.
+5. PDF226→227 / printed pp.225→226: restored the source continuation at `நச்சு எண்ணம் / படைத்தவர்கள்`, keeping the thought split across the two English page records.
+
+All **12/12** English pages were independently checked against frozen Tamil. The மணிவிழா/மணவிழா wordplay, `பிளாஷ்பேக்`, Ezra-name discussion, Quaid-e-Millat reference, social-justice argument, 1989 first-graduate scheme and community list, five-mark concession, 15-percent rural reservation, Samathuvapuram discussion, `ஆர்.எம்.வீ.`, rhetoric / repetition and the separate closing note pass. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**
