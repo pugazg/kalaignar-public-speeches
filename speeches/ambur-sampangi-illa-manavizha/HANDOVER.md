@@ -13,6 +13,7 @@
 - source PDF remains uncommitted.
 
 ## Durable state
+- source / duplicate / boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE — 11/11**;
 - Tamil: **`verified-complete` / FROZEN**;
 - Tamil T2: **4 corrections / 0 unresolved**;
@@ -21,12 +22,13 @@
 - English E2: **PASS / COMPLETE — 11/11; 3 corrections; 0 unresolved**;
 - English E3: **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved**;
 - English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**;
 - frozen Tamil changes during E1/E2/E3: **0**;
-- source date remains **not stated**;
-- repository closure: **READY / NOT STARTED**;
+- page correspondence / joins and separate source closing note: **PASS**;
 - source PDF remains uncommitted.
 
-All **3/3** E2 corrections remain consolidated. E3 found no further fidelity correction. Page correspondence / joins, source-sensitive wording, no-date handling and separate closing-note handling pass.
+The source date remains **not stated** and is not inferred; venue remains directly supported as `ஆம்பூர் சம்பங்கி இல்லம்`.
 
-## Exact next gate
-**Repository closure for constituents 15–16 together.** Do not alter frozen Tamil or verified English; do not start constituent 17 in the same activity.
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.

@@ -91,6 +91,17 @@ No speech-body Tamil was modified during T3.
 
 **PASS / COMPLETE — 11/11 pages; 1 additional corrections; 0 unresolved.** All E2 corrections remain present; final page correspondence, joins, names/titles/numerals, rhetoric/repetition, source-sensitive wording and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 15–16 together.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- frozen Tamil: **`verified-complete`**, T2 **5 corrections**, T3 **0 additional corrections**, unresolved **0**;
+- final English: **`verified-complete`**, E2 **2 corrections**, E3 **1 additional corrections**, unresolved **0**;
+- source range / canonical page order: **PASS**;
+- separate closing-note handling: **PASS**;
+- metadata / README / audit / HANDOVER / translation review: **consistent**;
+- frozen Tamil changes during English work: **0**;
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Archive state: **FULLY ARCHIVED**. No pending transcription or translation work remains.

@@ -20,6 +20,6 @@ All **3/3** E2 corrections remain consolidated. Page correspondence, joins, name
 
 **English state:** **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 15–16 together.**
+**PASS / COMPLETE — FULLY ARCHIVED.** English remains **`verified-complete`**. All **3/3** E2 corrections and **0/0** E3 additional corrections remain consolidated. Frozen Tamil remained unchanged throughout English work and closure. No further English gate is pending.

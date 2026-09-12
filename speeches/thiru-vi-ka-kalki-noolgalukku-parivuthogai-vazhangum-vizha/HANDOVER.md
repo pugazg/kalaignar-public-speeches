@@ -13,19 +13,22 @@
 - source PDF remains uncommitted.
 
 ## Durable state
+- source / duplicate / boundary: **PASS / COMPLETE**;
 - Tamil T1/T2/T3: **COMPLETE — 11/11**;
 - Tamil: **`verified-complete` / FROZEN**;
 - Tamil T2: **5 corrections / 0 unresolved**;
 - Tamil T3: **0 additional corrections / 0 unresolved**;
 - English E1: **COMPLETE — 11/11**;
 - English E2: **PASS / COMPLETE — 11/11; 2 corrections; 0 unresolved**;
-- English E3: **PASS / COMPLETE — 11/11; 1 additional correction; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 11/11; 1 additional corrections; 0 unresolved**;
 - English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- pending transcription or translation work: **none**;
 - frozen Tamil changes during E1/E2/E3: **0**;
-- repository closure: **READY / NOT STARTED**;
+- page correspondence / joins and separate source closing note: **PASS**;
 - source PDF remains uncommitted.
 
-E3's additional correction renders frozen Tamil `நூல்கள்` directly as **Books** in the English title/closing note rather than the broader **Works**. All **2/2** E2 corrections remain consolidated. Page correspondence / joins, source-sensitive wording and separate closing-note handling pass.
+E3's additional correction renders frozen Tamil `நூல்கள்` directly as **Books** in the English title/closing note rather than the broader **Works**.
 
-## Exact next gate
-**Repository closure for constituents 15–16 together.** Do not alter frozen Tamil or verified English; do not start constituent 17 in the same activity.
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.

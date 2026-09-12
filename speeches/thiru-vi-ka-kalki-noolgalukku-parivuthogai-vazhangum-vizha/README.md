@@ -37,7 +37,7 @@
 | English E1 | **COMPLETE — 11/11** |
 | English E2 | **PASS / COMPLETE — 11/11; 2 corrections; 0 unresolved** |
 | English E3 | **PASS / COMPLETE — 11/11; 1 additional corrections; 0 unresolved** |
-| Repository closure | not started |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 Tamil T1 contains all **11/11** canonical page records, each once and in source order. Missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body.
 
@@ -63,6 +63,10 @@ All **5/5** T2 corrections are consolidated; stale superseded readings are absen
 
 **PASS / COMPLETE — 11/11 pages; 1 additional corrections; 0 unresolved.** All E2 corrections remain consolidated. Page correspondence, joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. English is now **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 15–16 together.** Do not alter frozen Tamil or verified English; do not start constituent 17 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** Final consistency checking confirms metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source range, page order, closing-note separation and correction counts agree. Tamil and English remain **`verified-complete`**. Frozen Tamil and verified English speech bodies were not changed during closure. Source PDF remains uncommitted.
+
+No transcription or translation work remains pending for this constituent.
+
+Do not reopen this archive without genuinely new controlling-source or fidelity evidence.
