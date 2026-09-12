@@ -35,8 +35,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 7/7** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
@@ -44,6 +44,10 @@
 
 **COMPLETE — 7/7 source pages.** Canonical page records cover PDF **288–294** / printed **287–293** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Explicit page-boundary continuations **288→289** and **290→291** are recorded for T2 confirmation. This is a first-pass transcription; source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.** PDF289 / printed p.288: `அண்டபிரண்டத்திற்கும்` → `அண்டபகிரண்டத்திற்கும்`. The correction is consolidated. Explicit joins **288→289** and **290→291**, names / numerals / punctuation / repetitions / quotations / applause-laughter markers / source-sensitive forms and the separate closing note all pass.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 / constituent 26.
+**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
