@@ -1852,6 +1852,32 @@ All 20 scans were re-read directly. Canonical page records remain complete, uniq
 - fully archived: **25/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 26 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 20/20 source pages; 0 additional corrections; 0 unresolved.**
+
+- both **2/2** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings: **0**;
+- canonical page records: **20/20**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page joins: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- laughter / applause markers: **PASS**;
+- source-sensitive readings / chronology / numeral forms: **PASS**;
+- contents / page-heading / closing-note title variants: **PASS / preserved separately**;
+- separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 26 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 26/36 / 26/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **26/36**;
+- English E1/E2/E3 complete / English verified: **25/36**;
+- fully archived: **25/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.** Stop before English / constituent 27.
+**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.** Stop before E2 / constituent 27.
