@@ -1548,7 +1548,7 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - Tamil rendering of the letter: **preserved in source sequence and translated into English**;
 - explicit page-boundary continuations, rhetoric / repetition, source-sensitive wording, applause marker and separate closing note: **preserved for E2 checking**;
 - frozen Tamil changes during E1: **0**;
-- English E2: **READY / NOT STARTED**.
+- English E2: **PASS / COMPLETE — 18/18; 5 corrections; 0 unresolved**.
 
 ## Collection totals after constituent 24 E1
 
@@ -1559,6 +1559,30 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **23/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 24 — English E2 independent fidelity review
+
+**PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.**
+
+- PDF273 / p.272: unsupported `Lieutenant` removed from governor title;
+- PDF274 / p.273: participant list restored to `Muslim men, mothers and elders`;
+- PDF275→276 / pp.274→275: Thiru. Vi. K. article/page-boundary meaning repaired;
+- PDF281 / p.280: `federation at the Centre` → `federalism at the Centre`;
+- PDF286 / p.285: dismissal-threat subject/logic corrected;
+- all **5/5** corrections consolidated in `translation-en.md`;
+- full printed English Indira Gandhi letter + Tamil rendering: **PASS**;
+- Articles **356 / 355**, page correspondence / joins, rhetoric / repetition, names / titles / numerals, applause marker and separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
+## Collection totals after constituent 24 E2
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **24/36**;
+- English E1/E2 complete: **24/36**;
+- English E3 complete / English verified: **23/36**;
+- fully archived: **23/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
+**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
