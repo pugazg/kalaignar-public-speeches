@@ -38,8 +38,8 @@
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 18/18** |
 | English E2 | **PASS / COMPLETE — 18/18; 5 corrections; 0 unresolved** |
-| English E3 | **READY / NOT STARTED** |
-| Repository closure | not started |
+| English E3 | **PASS / COMPLETE — 18/18; 1 additional correction; 0 unresolved** |
+| Repository closure | **READY / NOT STARTED** |
 
 ## Tamil T1
 
@@ -63,8 +63,14 @@ Tamil remains **`verified-complete` / FROZEN**.
 
 **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.** All five confirmed fidelity corrections are consolidated in `translation-en.md`: PDF273 governor title; PDF274 participant-list fidelity; PDF275→276 Thiru. Vi. K. article/page-boundary repair; PDF281 `federalism at the Centre`; and PDF286 dismissal-threat subject/logic. The full printed English Indira Gandhi letter, its Tamil rendering, Articles 356 / 355, rhetoric / repetition, page joins, applause marker and the separate closing note pass. Frozen Tamil changes during E2: **0**.
 
-English E3 is **READY / NOT STARTED**.
+## English E3
+
+**PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved.** All **5/5** E2 corrections remain consolidated. E3 made one final fidelity correction on PDF274 / printed p.273: `Muslim men, mothers and elders` → `Muslim people, mothers and elders`, removing an unsupported male-specific narrowing of `முஸ்லிம் பெருமக்களும்`. English page records are complete, unique and ordered; semantic completeness / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter and its Tamil rendering, Articles 356 / 355, applause marker and separate closing note all pass. Frozen Tamil changes during E3: **0**.
+
+English is now **`verified-complete`**. No transcription or translation work remains for constituent 24.
+
+Repository closure is **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
+**Repository-level archival closure for constituent 24.**
