@@ -37,7 +37,7 @@
 | English E1 | **COMPLETE — 11/11** |
 | English E2 | **PASS / COMPLETE — 11/11; 3 corrections; 0 unresolved** |
 | English E3 | **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved** |
-| Repository closure | not started |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1 result
 
@@ -71,6 +71,17 @@ Every English page was compared directly against frozen Tamil. Confirmed fidelit
 
 English is now **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 19–20 together.** Stop before constituent 21.
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- PDF **205–215** / printed **204–214** — **11/11** canonical pages;
+- Tamil: **`verified-complete` / FROZEN** — T2 **1 correction**, T3 **0 additional corrections**, unresolved **0**;
+- English: **`verified-complete`** — E2 **3 corrections**, E3 **0 additional corrections**, unresolved **0**;
+- source range / canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending for this constituent.
