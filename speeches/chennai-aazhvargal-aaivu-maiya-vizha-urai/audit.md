@@ -22,9 +22,25 @@
 - duplicate search against live `main`: **PASS — no existing dedicated archive found**;
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**;
-- Tamil T1: **NOT STARTED**;
+- Tamil T1: **COMPLETE — 20/20**;
 - source PDF remains **uncommitted**.
+
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 20/20 source pages.**
+
+- canonical page records: PDF **295–314** / printed **294–313**, **20/20**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- contents / page-heading / closing-note title variants: **preserved separately**;
+- explicit page-boundary continuations flagged for T2: **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**;
+- source-sensitive T2 attention includes `செய்தவைக்காக`, `அச்சியற்றவில்லை`, `கம்பனடிப்பொடி`, `கப்யாசம்- புண்டரீ காட்சம்`, `நீ சொல்லேன் விளக்கம்`, `தப்பித்தான் வாழ்ந்திருக்கிறார்`, `சொத்தன்று`, `கிருமிகண்ட சோழன்`, `போராட்ட தளகர்த்தர்`, `தமிழகக்காக`, `இந்தவிழா`;
+- method: direct visual reading of the controlling scans;
+- Tamil T2: **READY / NOT STARTED**.
+
+Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 26 — all 20 source pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.**
