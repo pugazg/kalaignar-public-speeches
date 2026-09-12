@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–20** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–21** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -1109,6 +1109,33 @@ All **5/5** corrections are consolidated; canonical page records are complete / 
 
 Collection totals: mapped **36/36**; source-gated / Tamil verified / English verified / fully archived **21/36**.
 
+## Constituent 22 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 9/9 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **247–255** / printed **246–254** — **9 pages**;
+- contents title/date: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `28-08-98`;
+- opening: PDF247 / printed p.246, constituent `22`, titled opening `காஞ்சி மணிமொழியார் இல்ல மணவிழா`;
+- ending: PDF255 / printed p.254 completes the speech body before `28-8-98 அன்று காஞ்சி மணிமொழியார் இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- date: **28-08-1998**;
+- event/role: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `ஆற்றிய உரை`;
+- venue: **not explicitly stated** in the numbered/titled opening or separate closing note; none inferred;
+- separate closing note: **present and kept outside the speech body**;
+- PDF256 / printed p.255 begins constituent 23 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, confirming the end boundary;
+- PDF/printed-page relationship: **PDF scan = printed page + 1**;
+- duplicate search against live `main`: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- Tamil T1: **NOT STARTED**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 22 source gate
+
+- mapped / started / source-gated: **36/36 / 22/36 / 22/36**;
+- Tamil T1/T2/T3 complete and Tamil verified: **21/36**;
+- English E1/E2/E3 complete and English verified: **21/36**;
+- fully archived: **21/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 22 — mapped PDF 247–255 / printed 246–254.** Stop before Tamil T1 / constituent 23.
+**Tamil T1 for constituent 22 — 9 source pages total.** Stop before T2 / constituent 23.

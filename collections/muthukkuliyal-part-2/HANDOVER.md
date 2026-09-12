@@ -16,7 +16,7 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **21 / 36**;
+- mapped: **36 / 36**; started / source-gated: **22 / 36**;
 - Tamil T1 complete: **21 / 36**;
 - Tamil T2 complete: **21 / 36**;
 - Tamil T3 complete / Tamil verified: **21 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **21 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 is the next mapped item and has not started**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has passed the source / duplicate / boundary gate; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -476,6 +476,23 @@ Repository-level archival closure: **PASS / COMPLETE — 19/19 pages**. Constitu
 
 Collection state: **21 / 36 fully archived**. Constituents **1–21 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 22 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 9/9 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- `காஞ்சி மணிமொழியார் இல்ல மணவிழா`: PDF **247–255** / printed **246–254** — **9 pages**.
+- Contents entry: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `28-08-98` / printed start **246**.
+- PDF247 is the numbered/titled opening: constituent `22`, heading `காஞ்சி மணிமொழியார் இல்ல மணவிழா`.
+- PDF255 / printed p.254 completes the speech body before the separate closing note `28-8-98 அன்று காஞ்சி மணிமொழியார் இல்ல மணவிழாவில் ஆற்றிய உரை`.
+- The closing note directly establishes **28-08-1998**, event `காஞ்சி மணிமொழியார் இல்ல மணவிழா`, and role `ஆற்றிய உரை`.
+- No geographic venue is explicitly stated in the numbered/titled opening or separate closing note; none is inferred.
+- PDF256 / printed p.255 begins constituent 23 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, confirming the ending boundary.
+- PDF/printed-page relationship remains **PDF scan = printed page + 1** throughout the mapped range.
+- Duplicate search: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/kanchi-manimozhiyar-illa-manavizha/`.
+- Source PDF remains uncommitted.
+- Tamil T1: **NOT STARTED**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 22 — `காஞ்சி மணிமொழியார் இல்ல மணவிழா`, mapped PDF 247–255 / printed 246–254.** Stop before Tamil T1 / constituent 23.
+**Tamil T1 for constituent 22 — 9 source pages total.** Stop before T2 / constituent 23.

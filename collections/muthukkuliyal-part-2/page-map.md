@@ -68,7 +68,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 22–36 | — | not started |
+| 22 | `kanchi-manimozhiyar-illa-manavizha` | **Source gate complete — Tamil T1 pending** |
+| 23–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -216,6 +217,17 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 19/19 pages.** Tamil and English remain verified-complete. Fully archived total: **21 / 36**.
 
+## Constituent 22 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 9/9 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **247–255** / printed **246–254** — **9 pages**.
+- Contents entry: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `28-08-98`.
+- Opening: PDF247 / printed p.246, constituent `22`, titled opening `காஞ்சி மணிமொழியார் இல்ல மணவிழா`.
+- Closing note: `28-8-98 அன்று காஞ்சி மணிமொழியார் இல்ல மணவிழாவில் ஆற்றிய உரை`; date **28-08-1998**; event/role directly supported; no geographic venue stated.
+- PDF256 / printed p.255 begins constituent 23 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`.
+- Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
+
 ## Next same-gate batch
 
-Constituent **22** — source / duplicate / boundary gate — mapped PDF **247–255** / printed **246–254**. Stop before Tamil T1 / constituent 23.
+Constituent **22** only — Tamil T1 first-pass transcription — **9 source pages total**. Stop before T2 / constituent 23.
