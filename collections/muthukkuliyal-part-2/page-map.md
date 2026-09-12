@@ -70,7 +70,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 24 | `madurai-madha-nallinakka-maanadu` | **Tamil verified-complete / FROZEN — English E1 pending** |
+| 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 25–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -334,6 +334,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved.** All **5/5** E2 corrections remain consolidated. PDF274 / p.273 `Muslim men, mothers and elders` → `Muslim people, mothers and elders`. English is now **`verified-complete`**; frozen Tamil changes during E3 **0**.
 
+## Constituent 24 — archival closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 18/18 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **24 / 36**.
+
 ## Next same-gate batch
 
-Constituent **24** only — repository-level archival closure. Constituent 25 remains outside the batch.
+Constituent **25** — source / duplicate / boundary gate for `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF **288–294** / printed **287–293** — **7 pages**. No constituent 25 source-gate claim has yet been made.
