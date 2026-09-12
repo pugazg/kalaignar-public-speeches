@@ -1,6 +1,6 @@
 # Madurai Religious Harmony Conference — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E1/E2 **18 / 18 pages COMPLETE**  
+**Status:** `verified-complete` — English E1/E2/E3 **18 / 18 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **270–287** / printed **269–286**
 
@@ -62,7 +62,7 @@ The reason I mention this here is that, even in Akbar's time, an effort was made
 
 But this festival is held only in Delhi. This flower festival should be held in the capital of every State. In Tamil Nadu, it should be held not only in the capital city of Chennai, but also in Madurai and Tiruchi. In this way, even though Hindus and Muslims belong to different religions, the feeling that they should live without religious division and associate with one another in unity of mind must grow.
 
-Even today I saw a report in the newspapers. As our Communist Party of India leader Nallakannu pointed out, you may have heard that, when Vinayaka Chaturthi processions for Vigneswara were held in many places, at Kayalpattinam — a town where only Muslims live — something notable happened. I have visited that town many times. Thousands upon thousands of Muslim people live there. When the Vinayaka procession passed through that area today, Muslim men, mothers and elders welcomed the procession, honoured it with garlands, and expressed their support and welcome.
+Even today I saw a report in the newspapers. As our Communist Party of India leader Nallakannu pointed out, you may have heard that, when Vinayaka Chaturthi processions for Vigneswara were held in many places, at Kayalpattinam — a town where only Muslims live — something notable happened. I have visited that town many times. Thousands upon thousands of Muslim people live there. When the Vinayaka procession passed through that area today, Muslim people, mothers and elders welcomed the procession, honoured it with garlands, and expressed their support and welcome.
 
 ## PDF 275 / printed p.274
 
@@ -249,6 +249,31 @@ Fidelity-proven English corrections consolidated into the canonical translation:
 
 Semantic completeness, exact page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter, its following Tamil rendering, Articles **356 / 355**, source-sensitive wording, applause marker and the separate closing note: **PASS**. Frozen Tamil changes during E2: **0**. Unresolved English readings: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved.**
+
+Final verification re-read the complete English sequence PDF **270–287** against frozen Tamil from beginning to end and confirmed all **5/5** E2 corrections remained consolidated.
+
+Additional E3 correction:
+
+1. PDF274 / printed p.273: `Muslim men, mothers and elders` → **`Muslim people, mothers and elders`**, removing the male-specific narrowing of source `முஸ்லிம் பெருமக்களும்` while retaining `தாய்மார்களும், பெரியோர்களும்` as `mothers and elders`.
+
+Final verification result:
+
+- English page records: **18/18**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- all **5/5** E2 corrections: **present**;
+- stale superseded English speech-body readings: **0**;
+- semantic completeness / page correspondence / explicit joins: **PASS**;
+- names / titles / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- full printed English Indira Gandhi letter: **PASS / preserved verbatim**;
+- following Tamil rendering: **PASS / retained in sequence and translated**;
+- Articles **356 / 355**, applause marker, source-sensitive wording and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
+**Repository-level archival closure for constituent 24.**
