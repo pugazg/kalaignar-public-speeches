@@ -36,8 +36,9 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 7/7** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 7/7; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending E1/E2 |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -48,6 +49,12 @@
 
 **PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.** PDF289 / printed p.288: `அண்டபிரண்டத்திற்கும்` → `அண்டபகிரண்டத்திற்கும்`. The correction is consolidated. Explicit joins **288→289** and **290→291**, names / numerals / punctuation / repetitions / quotations / applause-laughter markers / source-sensitive forms and the separate closing note all pass.
 
+## Tamil T3
+
+**PASS / COMPLETE — 7/7 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; stale superseded canonical speech-body reading `அண்டபிரண்டத்திற்கும்` is absent; `அண்டபகிரண்டத்திற்கும்` is present. Canonical page records are complete, unique and ordered; explicit joins **288→289** and **290→291**, names / numerals / punctuation / quotations / repetitions, laughter / applause markers, source-sensitive forms and the separate closing note all pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
+**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.**
