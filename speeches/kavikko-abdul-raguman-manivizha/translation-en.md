@@ -1,6 +1,6 @@
 # Kavikko Abdul Raguman Sixtieth-Birthday Celebration — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 19 / 19 pages; 0 corrections; 0 unresolved**; English E3 pending  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 19 / 19 pages; 0 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **228–246** / printed **227–245**
 
@@ -380,6 +380,20 @@ The printed song wording **“Hindu Muslim sikki saayi, aapas pe hai bhai, bhai�
 
 Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved.**
+
+- all E1/E2 English speech-body readings remain consolidated;
+- stale superseded English speech-body readings: **0**;
+- English page records: **19/19**, complete, unique and ordered;
+- exact page correspondence / joins: **PASS**;
+- semantic completeness: **PASS**;
+- names / titles / numerals, rhetoric / repetition, quotation / verse lineation, humour / wordplay and source-sensitive wording: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E1/E2/E3: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 21 — 19 pages.**
+**Repository closure for constituent 21.**
