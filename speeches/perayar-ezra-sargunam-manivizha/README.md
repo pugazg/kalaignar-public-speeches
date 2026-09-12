@@ -33,13 +33,14 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 12/12** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 12/12; 7 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 12/12; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending prior English gate |
 | Repository closure | not started |
 
 ## Tamil T1 result
 
-**COMPLETE — 12/12 source pages.** Canonical page records are complete and in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**; the separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
+**COMPLETE — 12/12 source pages.** Canonical page records are complete and in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**; the separate source closing note remains outside the speech body. At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 and T3 are now complete.
 
 ## Tamil T2 strict direct-scan fidelity audit
 
@@ -47,6 +48,12 @@
 
 Every page was re-read directly against the controlling scans. All confirmed corrections are consolidated in `transcription-ta.md`; page-boundary continuations and the separate source closing note pass. Tamil T3 has **NOT STARTED**.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 12/12 pages; 0 additional corrections; 0 unresolved.**
+
+All **7/7** T2 corrections remain consolidated. Canonical page records are complete, unique and ordered; all page joins, source-sensitive readings and the separate closing note pass. Tamil is now **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.** Stop before E2 / constituent 21.

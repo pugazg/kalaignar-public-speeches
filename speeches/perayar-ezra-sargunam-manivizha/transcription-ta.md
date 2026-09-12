@@ -1,10 +1,10 @@
 # பேராயர் எஸ்ரா சற்குணம் மணிவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 12 / 12 pages; 7 corrections; 0 unresolved**; Tamil T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **12 / 12 pages COMPLETE**  
 **Source range:** PDF **216–227** / printed **215–226**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 12 source pages directly and consolidated **7 corrections** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 12 source pages directly and consolidated **7 corrections** with **0 unresolved**. Tamil T3 confirms all seven corrections, complete / unique / ordered page records, all page joins and the separate closing note, with **0 additional corrections / 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**.
 
 ## PDF 216 / printed p.215
 
@@ -131,6 +131,21 @@ The full PDF216–227 sequence was re-read line by line. Source-sensitive readin
 
 All contiguous page-boundary continuations **216→217 through 226→227**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 12/12 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **7/7** T2 corrections remain consolidated;
+- stale superseded readings in canonical speech body: **0**;
+- canonical page records: **12/12**, each exactly once and in source order;
+- missing / duplicate page records: **0 / 0**;
+- contiguous page joins **216→217 through 226→227**: **PASS**;
+- names / numerals / quotations / source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- T3 additional corrections: **0**;
+- unresolved readings: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.** Translate only from frozen `transcription-ta.md`; stop before E2 / constituent 21.

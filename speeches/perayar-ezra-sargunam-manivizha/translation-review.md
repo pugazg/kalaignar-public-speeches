@@ -1,5 +1,10 @@
 # Bishop Ezra Sargunam Sixtieth-Birthday Celebration — English translation review
 
-**Status:** blocked. English E1 has not started because Tamil is not yet verified.
+**English E1:** **READY / NOT STARTED**  
+**English E2:** **BLOCKED pending E1**  
+**English E3:** **BLOCKED pending E2**
 
-No English fidelity review or final verification is authorized at the current gate.
+Tamil is **`verified-complete` / FROZEN**. No English translation or fidelity-review work has started.
+
+## Exact next gate
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.**

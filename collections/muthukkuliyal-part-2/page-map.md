@@ -65,8 +65,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 17 | `nellikuppam-pugazhendhi-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **Tamil T2 PASS — 11/11; 1 correction; T3 next** |
-| 20 | `perayar-ezra-sargunam-manivizha` | **Tamil T2 PASS — 12/12; 7 corrections; T3 next** |
+| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **Tamil verified-complete / FROZEN — English E1 next** |
+| 20 | `perayar-ezra-sargunam-manivizha` | **Tamil verified-complete / FROZEN — English E1 next** |
 | 21–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -156,6 +156,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 23/23 source pages; 8 corrections; 0 unresolved.** Constituent 19: **1**; constituent 20: **7**. All corrections are consolidated; page joins and both separate closing notes pass.
 
+## Constituents 19–20 — Tamil T3
+
+**PASS / COMPLETE — 23/23 source pages; 0 additional corrections; 0 unresolved.** All **8/8** T2 corrections remain consolidated. Canonical page records are complete, unique and ordered; all joins, source-sensitive forms and both separate closing notes pass. Both Tamil layers are **`verified-complete` / FROZEN**.
+
 ## Next same-gate batch
 
-Constituents **19–20 together** — Tamil T3 consolidation/freeze — **23 source pages total**. Stop before English / constituent 21.
+Constituents **19–20 together** — English E1 first-pass translation — **23 verified Tamil pages total**. Stop before E2 / constituent 21.

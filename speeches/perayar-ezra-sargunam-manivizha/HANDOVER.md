@@ -16,12 +16,13 @@
 - source / duplicate / boundary: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 12/12**;
 - Tamil T2: **PASS / COMPLETE — 12/12; 7 corrections; 0 unresolved**;
-- T2 corrections are consolidated on PDF217, PDF220, PDF224, PDF226 and PDF227;
-- canonical page records: **12/12**, complete and ordered;
-- page joins / separate closing note: **PASS**;
-- Tamil T3: **READY / NOT STARTED**;
-- English remains blocked pending verified Tamil;
+- Tamil T3: **PASS / COMPLETE — 12/12; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- all **7/7** T2 corrections remain consolidated;
+- canonical page records: **12/12**, complete, unique and ordered;
+- all page joins and separate closing note: **PASS**;
+- English E1: **READY / NOT STARTED**;
 - source PDF remains uncommitted.
 
 ## Exact next gate
-**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.** Stop before E2 / constituent 21.

@@ -1,10 +1,10 @@
 # திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 11 / 11 pages; 1 correction; 0 unresolved**; Tamil T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **11 / 11 pages COMPLETE**  
 **Source range:** PDF **205–215** / printed **204–214**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 11 source pages directly and consolidated **1 correction** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 11 source pages directly and consolidated **1 correction** with **0 unresolved**. Tamil T3 confirms the corrected canonical text, complete / unique / ordered page records, all page joins and the separate closing note, with **0 additional corrections / 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**.
 
 ## PDF 205 / printed p.204
 
@@ -133,6 +133,21 @@ The full PDF205–215 sequence was re-read line by line. Source-sensitive readin
 
 All contiguous page-boundary continuations **205→206 through 214→215**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 11/11 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **1/1** T2 correction remains consolidated: PDF213 / printed p.212 `தலைமையைக் காண` → `தலையைக் காண`;
+- stale superseded reading in canonical speech body: **0**;
+- canonical page records: **11/11**, each exactly once and in source order;
+- missing / duplicate page records: **0 / 0**;
+- contiguous page joins **205→206 through 214→215**: **PASS**;
+- names / numerals / quotations / source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- T3 additional corrections: **0**;
+- unresolved readings: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.** Translate only from frozen `transcription-ta.md`; stop before E2 / constituent 21.

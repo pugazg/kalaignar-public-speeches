@@ -869,6 +869,29 @@ Combined page-boundary continuations and both separate closing notes: **PASS**. 
 - Tamil T3 complete / Tamil verified: **18/36**;
 - English verified / fully archived: **18/36 / 18/36**.
 
+## Constituents 19–20 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 23/23 source pages; 0 additional corrections; 0 unresolved.**
+
+- constituent 19: **11/11**; T2 **1 correction**, all retained;
+- constituent 20: **12/12**; T2 **7 corrections**, all retained;
+- stale superseded readings in canonical speech bodies: **0**;
+- canonical page records: **23/23**, each exactly once and in source order;
+- missing / duplicate page records: **0 / 0**;
+- contiguous page-boundary continuations: **PASS**;
+- names / numerals / quotations / source-sensitive forms: **PASS**;
+- separate source closing notes: **PASS**;
+- T3 unresolved readings: **0**;
+- Tamil state for constituents 19–20: **`verified-complete` / FROZEN**.
+
+## Collection totals after constituents 19–20 T3
+
+- mapped / started / source-gated: **36/36 / 20/36 / 20/36**;
+- Tamil T1/T2/T3 complete and Tamil verified: **20/36**;
+- English E1/E2/E3 complete and English verified: **18/36**;
+- fully archived: **18/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.**
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.**

@@ -49,6 +49,14 @@ Source-sensitive readings retained as printed include `பிளாஷ்பே�
 
 All contiguous page-boundary continuations and the separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 12/12 source pages; 0 additional corrections; 0 unresolved.**
+
+All **7/7** T2 corrections remain consolidated; stale superseded readings are absent from the canonical speech body. Canonical page records are complete, unique and ordered; all contiguous page joins, names / numerals / quotations / source-sensitive forms and the separate closing note pass.
+
+Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.**
+**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.**
