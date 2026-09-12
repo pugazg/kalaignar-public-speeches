@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–22** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–23** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -1537,6 +1537,28 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **23/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 24 — English E1 first-pass translation
+
+**COMPLETE — 18/18 pages.**
+
+- English records: PDF **270–287** / printed **269–286**, **18/18**, complete, unique and ordered;
+- missing English page records: **0**;
+- translation authority: frozen `transcription-ta.md` only;
+- full printed English Indira Gandhi letter: **preserved verbatim**;
+- Tamil rendering of the letter: **preserved in source sequence and translated into English**;
+- explicit page-boundary continuations, rhetoric / repetition, source-sensitive wording, applause marker and separate closing note: **preserved for E2 checking**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**.
+
+## Collection totals after constituent 24 E1
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **24/36**;
+- English E1 complete: **24/36**;
+- English E2/E3 complete / English verified: **23/36**;
+- fully archived: **23/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
