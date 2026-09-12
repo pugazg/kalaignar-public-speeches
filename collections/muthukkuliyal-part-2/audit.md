@@ -722,6 +722,30 @@ Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCH
 - fully archived: **16/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 17–18 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 21/21 source pages; 2 additional corrections; 0 unresolved.**
+
+- constituent 17: **10/10**, T2 **5 corrections**, T3 **2 additional corrections**;
+- constituent 18: **11/11**, T2 **0 corrections**, T3 **0 additional corrections**;
+- T3 corrections on constituent 17:
+  - PDF188 / p.187 `இன்னைக்கு` → `இன்றைக்கு`;
+  - PDF190 / p.189 `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`;
+- canonical page records: **21/21**, each exactly once and in source order;
+- missing / duplicate page records: **0 / 0**;
+- contiguous page-boundary continuations: **PASS**;
+- separate source closing notes: **PASS**;
+- T3 unresolved readings: **0**;
+- Tamil state for constituents 17–18: **`verified-complete` / FROZEN**.
+
+## Collection totals after constituents 17–18 T3
+
+- mapped / started / source-gated: **36/36 / 18/36 / 18/36**;
+- Tamil T1/T2/T3 complete and Tamil verified: **18/36**;
+- English E1/E2/E3 complete and English verified: **16/36**;
+- fully archived: **16/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.**
+**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.**

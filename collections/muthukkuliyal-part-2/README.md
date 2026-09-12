@@ -227,6 +227,21 @@ Combined Tamil T2: **PASS / COMPLETE — 21/21 source pages; 5 corrections; 0 un
 
 Collection state: Tamil T1 **18/36**; Tamil T2 **18/36**; Tamil T3 / Tamil verified **16/36**; English verified **16/36**; fully archived **16/36**. Source PDF remains uncommitted.
 
+## Constituents 17–18 — Tamil T3 complete / Tamil verified
+
+Combined Tamil T3: **PASS / COMPLETE — 21/21 source pages; 2 additional corrections; 0 unresolved**.
+
+- constituent 17: **10/10**, all **5/5** T2 corrections retained plus **2 T3 corrections** — PDF188 `இன்னைக்கு` → `இன்றைக்கு`; PDF190 `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`;
+- constituent 18: **11/11**, T2 **0 corrections**, T3 **0 additional corrections**;
+- canonical page records: **21/21**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- all contiguous page joins and both separate closing notes: **PASS**;
+- unresolved readings: **0**;
+- both Tamil layers are now **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+Collection state: Tamil T1/T2/T3 complete / Tamil verified **18/36**; English E1/E2/E3 complete / English verified **16/36**; fully archived **16/36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total**. Stop before English / constituent 19.
+Perform **English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2 / constituent 19.

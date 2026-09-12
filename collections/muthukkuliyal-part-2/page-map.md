@@ -63,8 +63,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 17 | `nellikuppam-pugazhendhi-manavizha` | **Tamil T2 PASS — 10/10; 5 corrections; T3 next** |
-| 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **Tamil T2 PASS — 11/11; 0 corrections; T3 next** |
+| 17 | `nellikuppam-pugazhendhi-manavizha` | **Tamil verified-complete / FROZEN — English E1 next** |
+| 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **Tamil verified-complete / FROZEN — English E1 next** |
 | 19–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -129,6 +129,10 @@ English E1 **22/22 COMPLETE**; English E2 **22/22 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 21/21 source pages; 5 corrections; 0 unresolved.** Constituent 17: **5 corrections**; constituent 18: **0 corrections**. All confirmed corrections are consolidated; page joins and separate closing notes pass.
 
+## Constituents 17–18 — Tamil T3
+
+**PASS / COMPLETE — 21/21 source pages; 2 additional corrections; 0 unresolved.** Constituent 17 received the two T3 scan-proven corrections on PDF188 / PDF190; constituent 18 required none. Page records are complete, unique and ordered; all joins and both separate closing notes pass. Both Tamil layers are **`verified-complete` / FROZEN**.
+
 ## Next same-gate batch
 
-Constituents **17–18 together** — Tamil T3 consolidation/freeze — **21 source pages total**. Stop before English / constituent 19.
+Constituents **17–18 together** — English E1 first-pass translation — **21 verified Tamil pages total**. Stop before E2 / constituent 19.
