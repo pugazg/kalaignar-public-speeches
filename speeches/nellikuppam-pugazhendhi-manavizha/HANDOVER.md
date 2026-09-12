@@ -18,11 +18,17 @@
 - Tamil T2: **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved**;
 - Tamil T3: **PASS / COMPLETE — 10/10; 2 additional corrections; 0 unresolved**;
 - Tamil: **`verified-complete` / FROZEN**;
-- T3 corrected PDF188 `இன்னைக்கு` → `இன்றைக்கு` and PDF190 `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`;
-- canonical page records: **10/10**, complete, unique and ordered;
-- all page joins and separate closing note: **PASS**;
-- English E1: **READY / NOT STARTED**;
+- English E1: **COMPLETE — 10/10**;
+- English E2: **PASS / COMPLETE — 10/10; 3 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 10/10; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- frozen Tamil changes during E1/E2/E3 and closure: **0**;
+- verified English speech-body changes during closure: **0**;
+- page correspondence / joins and separate source closing note: **PASS**;
 - source PDF remains uncommitted.
 
-## Exact next gate
-**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Stop before E2 / constituent 19.
+T3's two late Tamil corrections are preserved: PDF188 `இன்னைக்கு` → `இன்றைக்கு`; PDF190 `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`. E2 English preserves `இனமானப் பேராசிரியர்` as **Inamana Perasiriyar** and the `செயலாளர் / செயல்புரிகின்றவர்` wordplay as **secretary / person who acts**.
+
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.

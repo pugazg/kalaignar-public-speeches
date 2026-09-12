@@ -142,6 +142,8 @@ Final consolidation checks:
 
 The earlier T2 carry-forward of `தபதி அழகிரிசாமி` is superseded by the T3 scan-confirmed source reading `தளபதி அழகிரிசாமி`.
 
-## Exact next gate
+## Repository closure
 
-**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Translate only from frozen `transcription-ta.md`; stop before E2 / constituent 19.
+**PASS / COMPLETE — FULLY ARCHIVED.** The frozen Tamil speech body was not changed during closure. Source range, **10/10** canonical page records, T2 **5 corrections**, T3 **2 additional corrections**, page ordering / joins and separate closing-note handling agree with final archive controls.
+
+Tamil remains **`verified-complete` / FROZEN**.

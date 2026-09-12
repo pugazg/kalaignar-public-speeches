@@ -18,11 +18,18 @@
 - Tamil T2: **PASS / COMPLETE — 11/11; 0 corrections; 0 unresolved**;
 - Tamil T3: **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved**;
 - Tamil: **`verified-complete` / FROZEN**;
-- canonical page records: **11/11**, complete, unique and ordered;
-- all page joins and separate closing note: **PASS**;
-- date **08-07-1998**, venue **இராஜபாளையம்**, event / role evidence unchanged;
-- English E1: **READY / NOT STARTED**;
+- English E1: **COMPLETE — 11/11**;
+- English E2: **PASS / COMPLETE — 11/11; 2 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE**;
+- archive status: **FULLY ARCHIVED**;
+- frozen Tamil changes during E1/E2/E3 and closure: **0**;
+- verified English speech-body changes during closure: **0**;
+- page correspondence / joins and separate source closing note: **PASS**;
+- date **08-07-1998**, venue **இராஜபாளையம்**;
 - source PDF remains uncommitted.
 
-## Exact next gate
-**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Stop before E2 / constituent 19.
+E2 retained the source-sensitive chronology / wording and corrected the Tirunellikaval route clause plus `பெரிய இராஜ குடும்பம்` → **great royal family**. E3 found no further correction.
+
+This constituent is closed. Do not reopen either language layer without genuinely new controlling-source or fidelity evidence.

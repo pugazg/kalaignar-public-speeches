@@ -35,9 +35,10 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 11/11** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 11/11; 0 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending prior English gate |
-| Repository closure | not started |
+| English E1 | **COMPLETE — 11/11** |
+| English E2 | **PASS / COMPLETE — 11/11; 2 corrections; 0 unresolved** |
+| English E3 | **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1 result
 
@@ -55,6 +56,20 @@ T2 required no textual correction, and T3 found no additional source-proven corr
 
 Tamil is now **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## English E1 first-pass translation
 
-**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Stop before E2 / constituent 19.
+**COMPLETE — 11/11 pages.** Translation authority was frozen `transcription-ta.md` only. Page correspondence and the separate source closing note are preserved. Frozen Tamil changes during E1: **0**.
+
+## English E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 2 corrections; 0 unresolved.** All confirmed corrections are consolidated in `translation-en.md`. Page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and separate closing-note handling pass. Frozen Tamil changes during E2: **0**.
+
+## English E3 final end-to-end verification
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.** All E2 corrections remain consolidated; stale superseded readings are absent from the canonical English body. Frozen Tamil changes during E3: **0**. English is **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** Metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source range, page order, closing-note separation and correction counts agree. Frozen Tamil and verified English speech bodies were not changed during closure. Source PDF remains uncommitted.
+
+No transcription or translation work remains pending for this constituent.

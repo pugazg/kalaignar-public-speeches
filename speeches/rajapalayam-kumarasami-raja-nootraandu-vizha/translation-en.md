@@ -146,7 +146,8 @@ All **11/11** English page records, page joins, names/titles/numerals, rhetoric/
 - frozen Tamil changes during E3: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 17–18 together.** Do not alter frozen Tamil or verified English; do not start constituent 19 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during closure. All **2/2** E2 corrections and **0/0** E3 additional corrections remain consolidated. Page correspondence / joins, source-sensitive wording and separate closing-note handling agree with final archive controls.
 
+English remains **`verified-complete`**.

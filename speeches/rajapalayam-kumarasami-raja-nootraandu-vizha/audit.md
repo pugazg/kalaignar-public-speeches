@@ -50,6 +50,29 @@ T3 confirmed the T2 result without further textual correction. Canonical page re
 
 Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## English E1
 
-**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.**
+**COMPLETE — 11/11 pages.** Translation source: frozen Tamil only; missing English page records **0**; frozen Tamil changes **0**; separate closing note preserved.
+
+## English E2
+
+**PASS / COMPLETE — 11/11 pages; 2 corrections; 0 unresolved.** E2 corrected the Tirunellikaval route clause and rendered `பெரிய இராஜ குடும்பம்` as `great royal family`. All confirmed corrections are consolidated. Frozen Tamil changes during E2: **0**.
+
+## English E3
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.** All E2 corrections remain consolidated; page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and separate closing-note handling pass. Frozen Tamil changes during E3: **0**. English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil: **`verified-complete` / FROZEN** — T2 **0 corrections**, T3 **0 additional corrections**, unresolved **0**;
+- English: **`verified-complete`** — E2 **2 corrections**, E3 **0 additional corrections**, unresolved **0**;
+- source range / canonical page order: **PASS**;
+- separate closing-note handling: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil changes during English work: **0**;
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Archive state: **FULLY ARCHIVED**.
