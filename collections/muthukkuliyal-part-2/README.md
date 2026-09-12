@@ -8,7 +8,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **25 / 36**
-- Tamil T1 complete: **24 / 36**
+- Tamil T1 complete: **25 / 36**
 - Tamil T2 complete: **24 / 36**
 - Tamil T3 complete / Tamil verified: **24 / 36**
 - English E1 complete: **24 / 36**
@@ -16,7 +16,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E3 complete: **24 / 36**
 - fully archived: **24 / 36**
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has passed the source / duplicate / boundary gate — 7/7 pages; Tamil T1 is READY / NOT STARTED**.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T1 COMPLETE — 7/7 source pages; Tamil T2 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -631,8 +631,14 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 7/7 source pages; dupl
 - Dedicated archive: `speeches/annai-teresa-nool-veliyittu-vizha/`.
 - Tamil T1: **NOT STARTED**; source PDF remains uncommitted.
 
-Collection state: source-gated **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+Collection state after source gate: source-gated **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+
+## Constituent 25 — Tamil T1 complete
+
+**COMPLETE — 7/7 source pages.** Canonical page records cover PDF **288–294** / printed **287–293** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Explicit page-boundary continuations **288→289** and **290→291** are recorded for T2. Source pixels remain controlling.
+
+Collection state: source-gated **25/36**; Tamil T1 complete **25/36**; Tamil T2/T3 complete / Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 25 — 7 source pages total.** Stop before T2 / constituent 26.
+**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 / constituent 26.
