@@ -14,10 +14,10 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. PDF205 is the numbered/titled opening. PDF215 completes the body before `14-7-98 அன்று திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழாவில் ஆற்றிய உரை`, directly establishing **14-07-1998**, the Tiruvannamalai Arunai Engineering College graduation event and role. PDF216 begins constituent 20. Duplicate unresolved **0**; boundary unresolved **0**.
+Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1: **COMPLETE — 11/11**. Canonical page records **11/11**, missing **0**, explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
 
-Tamil T1: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+T2 must re-read every page directly against the scans, with particular attention to the source-sensitive forms / joins recorded in `transcription-ta.md`, including the PDF205→206 `அந்த மன / ஆறுதலோடு` join, all education-institution counts, `அனைத்திந்தியாவிற்கும்`, `கணினி இயந்திரத் தகவல் பலகை`, `அழுத்தம் திருத்தமாக`, the doctor/engineer comparison, the Brahma/Vishnu/தாழம்பூ narrative and `கனவும் நினைக்காமல்`.
 
 ## Exact next gate
 
-**Tamil T1 for constituents 19–20 together — 23 source pages total.** Stop before T2 and constituent 21.
+**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.** Stop before T3 / constituent 21.

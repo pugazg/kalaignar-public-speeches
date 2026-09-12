@@ -20,6 +20,17 @@
 
 Tamil T1 has **NOT STARTED**.
 
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 12/12 source pages.**
+
+- canonical records: PDF **216–227** / printed **215–226**, **12/12**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: preserved outside speech body;
+- method: direct visual reading of controlling scans;
+- Tamil T2: **NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T1 for constituents 19–20 together — 23 source pages total.**
+**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.**

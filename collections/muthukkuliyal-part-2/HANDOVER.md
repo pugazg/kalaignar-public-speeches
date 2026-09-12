@@ -330,6 +330,12 @@ Combined source / duplicate / boundary gate: **PASS / COMPLETE — 23/23 source 
 
 Tamil T1 is **NOT STARTED** for either constituent. Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
 
+## Constituents 19–20 — durable Tamil T1 result
+
+Combined Tamil T1: **COMPLETE — 23/23 source pages**. Constituent 19 is PDF **205–215** / printed **204–214**, **11/11**; constituent 20 is PDF **216–227** / printed **215–226**, **12/12**. Canonical page records **23/23**, missing **0**, explicit unreadable/unknown placeholders **0**. Both separate closing notes remain outside speech bodies. Tamil T2 has **NOT STARTED**.
+
+Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T1 for constituents 19–20 together — 23 source pages total.** Stop before T2 / constituent 21.
+**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.** Stop before T3 / constituent 21.

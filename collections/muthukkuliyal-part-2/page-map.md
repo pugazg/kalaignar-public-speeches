@@ -65,8 +65,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 17 | `nellikuppam-pugazhendhi-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **source-gated — Tamil T1 pending** |
-| 20 | `perayar-ezra-sargunam-manivizha` | **source-gated — Tamil T1 pending** |
+| 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **Tamil T1 COMPLETE — 11/11; T2 next** |
+| 20 | `perayar-ezra-sargunam-manivizha` | **Tamil T1 COMPLETE — 12/12; T2 next** |
 | 21–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -148,6 +148,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 - PDF228 begins constituent 21.
 - Tamil T1 has **NOT STARTED** for either constituent.
 
+## Constituents 19–20 — Tamil T1
+
+**COMPLETE — 23/23 source pages.** Constituent 19 **11/11**; constituent 20 **12/12**. Missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing notes preserved.
+
 ## Next same-gate batch
 
-Constituents **19–20 together** — Tamil T1 — **23 source pages total**. Stop before T2 / constituent 21.
+Constituents **19–20 together** — Tamil T2 strict direct-scan fidelity audit — **23 source pages total**. Stop before T3 / constituent 21.

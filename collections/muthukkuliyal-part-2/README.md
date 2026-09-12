@@ -276,6 +276,20 @@ Combined source / duplicate / boundary gate: **PASS / COMPLETE — 23/23 source 
 
 Collection state: source-gated **20/36**; Tamil verified **18/36**; English verified **18/36**; fully archived **18/36**.
 
+## Constituents 19–20 — Tamil T1 complete
+
+Combined Tamil T1: **COMPLETE — 23/23 source pages**.
+
+- constituent 19: PDF **205–215** / printed **204–214** — **11/11** canonical page records;
+- constituent 20: PDF **216–227** / printed **215–226** — **12/12** canonical page records;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- both separate source closing notes remain outside speech bodies;
+- T1 method: direct visual reading of the controlling scans;
+- Tamil T2: **READY / NOT STARTED** for both.
+
+Collection state: source-gated **20/36**; Tamil T1 complete **20/36**; Tamil verified **18/36**; English verified **18/36**; fully archived **18/36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **Tamil T1 for constituents 19–20 together — 23 source pages total**. Stop before T2 / constituent 21.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total**. Stop before T3 / constituent 21.
