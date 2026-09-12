@@ -20,8 +20,10 @@ Source / duplicate / boundary gate: **PASS / COMPLETE**. All mapped scans PDF **
 
 Tamil T1: **COMPLETE — 7/7 source pages** for `அன்னை தெரசா நூல் வெளியீட்டு விழா`, PDF **288–294** / printed **287–293**. Canonical page records are complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Explicit continuations **288→289** and **290→291** are flagged for T2. Source pixels remain controlling; this is not yet a final fidelity claim.
 
-Tamil T2 is **READY / NOT STARTED**. English remains blocked pending verified Tamil. Constituent 26 remains outside the active batch.
+Tamil T2: **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved**. PDF289 / p.288 `அண்டபிரண்டத்திற்கும்` was corrected to source-proven `அண்டபகிரண்டத்திற்கும்`. Both explicit page joins, names / numerals / punctuation / quotations / repetitions / applause-laughter markers, source-sensitive forms and the separate closing note pass.
+
+Tamil T3 is **READY / NOT STARTED**. English remains blocked pending verified Tamil. Constituent 26 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 and constituent 26.
+**Tamil T3 consolidation/freeze for constituent 25 — 7 source pages total.** Stop before English and constituent 26.
