@@ -10,13 +10,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **26 / 36**
 - Tamil T1 complete: **26 / 36**
 - Tamil T2 complete: **26 / 36**
-- Tamil T3 complete / Tamil verified: **25 / 36**
+- Tamil T3 complete / Tamil verified: **26 / 36**
 - English E1 complete: **25 / 36**
 - English E2 complete: **25 / 36**
 - English E3 complete: **25 / 36**
 - fully archived: **25 / 36**
 
-Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T2 PASS / COMPLETE — 20/20 pages; 2 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T3 PASS / COMPLETE — 20/20 pages; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -710,6 +710,14 @@ Collection state: source-gated **26/36**; Tamil T1 **26/36**; Tamil T2/T3 / Tami
 
 Collection state: source-gated **26/36**; Tamil T1/T2 **26/36**; Tamil T3 / Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
 
+## Constituent 26 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 20/20 source pages; 0 additional corrections; 0 unresolved.** Both **2/2** T2 corrections remain consolidated; stale superseded canonical speech-body readings are absent. Canonical page records are complete, unique and ordered; explicit joins, names / numerals / punctuation / quotations / repetitions, laughter-applause markers, source-sensitive readings, chronology / numeral forms, title variants and separate closing-note handling pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
+Collection state: source-gated **26/36**; Tamil T1/T2/T3 complete / Tamil verified **26/36**; English verified **25/36**; fully archived **25/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.** Stop before English / constituent 27.
+**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.** Stop before E2 / constituent 27.
