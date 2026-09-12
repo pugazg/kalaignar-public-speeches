@@ -1,10 +1,10 @@
 # இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 11 / 11 pages; 0 corrections; 0 unresolved**; T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **11 / 11 pages COMPLETE**  
 **Source range:** PDF **194–204** / printed **193–203**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 11 source pages directly against the scans with **0 corrections** and **0 unresolved readings**. Tamil is not yet frozen; T3 has not started.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 11 source pages and confirmed the T1 Tamil with **0 corrections / 0 unresolved**. Tamil T3 consolidation confirms complete ordered page records, page joins, source-sensitive readings and the separate closing note, and now marks Tamil **`verified-complete` / FROZEN**.
 
 ## PDF 194 / printed p.193
 
@@ -127,6 +127,21 @@ Source-sensitive readings retained as printed include `ஆரத்தெழு�
 
 All contiguous page-boundary continuations **194→195 through 203→204**: **PASS**. Separate source closing note: **PASS**. Date / venue / event / role evidence remains unchanged. Unresolved readings: **0**.
 
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 11/11 source pages; 0 additional corrections; 0 unresolved.**
+
+- T2 corrections consolidated: **0/0**;
+- canonical page records: **11/11**, each exactly once and in source order;
+- missing / duplicate page records: **0 / 0**;
+- contiguous page joins **194→195 through 203→204**: **PASS**;
+- separate source closing note: **PASS**;
+- source-sensitive readings and the **89-90 / 89 / 1995 / 95** chronology remain unchanged;
+- date / venue / event / role evidence remains unchanged;
+- T3 additional corrections: **0**;
+- unresolved readings: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.
+**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Translate only from frozen `transcription-ta.md`; stop before E2 / constituent 19.

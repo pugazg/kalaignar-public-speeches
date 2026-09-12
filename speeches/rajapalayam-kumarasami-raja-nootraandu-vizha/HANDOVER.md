@@ -13,9 +13,16 @@
 - source PDF remains uncommitted.
 
 ## Durable state
-
-Source / duplicate / boundary gate remains **PASS / COMPLETE**. Tamil T1 is **COMPLETE — 11/11**. Tamil T2 is **PASS / COMPLETE — 11/11; 0 corrections; 0 unresolved**. The T1 Tamil was confirmed source-faithful on full direct-scan reread. All contiguous page joins and the separate PDF204 closing note pass. Date / venue / event / role evidence remains unchanged. Tamil T3 has **NOT STARTED**, so Tamil is not yet frozen.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 11/11**;
+- Tamil T2: **PASS / COMPLETE — 11/11; 0 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- canonical page records: **11/11**, complete, unique and ordered;
+- all page joins and separate closing note: **PASS**;
+- date **08-07-1998**, venue **இராஜபாளையம்**, event / role evidence unchanged;
+- English E1: **READY / NOT STARTED**;
+- source PDF remains uncommitted.
 
 ## Exact next gate
-
-**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.
+**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Stop before E2 / constituent 19.

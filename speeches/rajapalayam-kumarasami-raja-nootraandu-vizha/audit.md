@@ -42,6 +42,14 @@ Every page from PDF **194–204** / printed **193–203** was re-read directly a
 
 T1 was confirmed as source-faithful with **0 source-proven textual corrections**. Documented source-sensitive readings were retained as printed. All page joins **194→195 through 203→204**: **PASS**. Separate closing note: **PASS**. Date / venue / event / role evidence remains unchanged. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 11/11 source pages; 0 additional corrections; 0 unresolved.**
+
+T3 confirmed the T2 result without further textual correction. Canonical page records are **11/11**, complete, unique and ordered. All joins **194→195 through 203→204** and the separate closing note pass. Source-sensitive readings and date / venue / event / role evidence remain unchanged. Unresolved readings **0**.
+
+Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.**
+**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.**
