@@ -2,7 +2,7 @@
 
 **English E1:** **COMPLETE — 7/7 pages**  
 **English E2:** **PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved**
 
 Tamil remains **`verified-complete` / FROZEN**. English E2 independently compared all seven English page records against frozen `transcription-ta.md`. All confirmed E2 corrections are consolidated in `translation-en.md`; frozen Tamil changes during E2: **0**.
 
@@ -45,6 +45,30 @@ Tamil remains **`verified-complete` / FROZEN**. English E2 independently compare
 - separate source closing note: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## E3 final verification
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. E3 identified one final wording issue:
+
+1. **PDF288 / printed p.287 — ten-minute emphasis / English grammar**  
+   E2: `You need take part in the function for only ten minutes`  
+   Corrected: **`You need only take part in the function for ten minutes`**  
+   Reason: preserves the emphasis of `பத்தே நிமிடங்கள்` while removing unidiomatic English.
+
+Final end-to-end result:
+
+- English pages checked: **7/7**;
+- missing / duplicate page records: **0 / 0**;
+- stale superseded speech-body readings: **0**;
+- semantic completeness / page correspondence / joins: **PASS**;
+- names / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- source-sensitive Thirana / Konsaka / Pojaksiyu: **PASS / no outside normalization**;
+- laughter / applause markers and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 25 — all 7 pages.**
+**Repository-level archival closure for constituent 25.**
