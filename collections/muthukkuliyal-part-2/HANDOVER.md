@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **22 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E3 PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved; Tamil and English are both `verified-complete`; repository closure is NEXT**.
+Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 is the next mapped item and has not started**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -529,6 +529,17 @@ English E2: **PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved**. Corr
 
 English E3: **PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings **0**; frozen Tamil changes during E3 **0**. English is **`verified-complete`**.
 
+## Constituent 22 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 9/9 pages**. Constituent 22 is now **FULLY ARCHIVED**.
+
+- Tamil T2 **3**, T3 **0**; English E2 **4**, E3 **0**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, page order / joins, metadata, README, audit, HANDOVER, translation-review, root catalogue and separate closing note agree;
+- source PDF remains uncommitted.
+
+Collection state: **22 / 36 fully archived**. Constituents **1–22 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituent 22.**
+**Source / duplicate / boundary gate for constituent 23 — `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, mapped PDF 256–269 / printed 255–268.** Stop before Tamil T1 / constituent 24.

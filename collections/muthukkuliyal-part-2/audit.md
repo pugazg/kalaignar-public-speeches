@@ -1259,6 +1259,21 @@ All corrections are consolidated; canonical page order, explicit joins and separ
 - English E1/E2/E3 complete / English verified: **22/36**;
 - fully archived: **21/36**.
 
+## Constituent 22 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **3 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **4 / 0 corrections**, unresolved **0**;
+- PDF **247–255** / printed **246–254**: **PASS**;
+- canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review / root catalogue: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Collection totals: mapped **36/36**; source-gated / Tamil verified / English verified / fully archived **22/36**.
+
 ## Exact next gate
 
-**Repository closure for constituent 22.**
+**Source / duplicate / boundary gate for constituent 23 — mapped PDF 256–269 / printed 255–268.** Stop before Tamil T1 / constituent 24.

@@ -17,6 +17,9 @@ Tamil remains **`verified-complete` / FROZEN**. Frozen Tamil changes during E1/E
 
 **PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.** All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings are absent; page records / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording, applause marker and the separate closing note pass.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 22.**
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil remains frozen; English remains **`verified-complete`**. Closure introduced **0** Tamil and **0** English speech-body changes. Metadata, page mapping, separate closing note and repository controls agree.
+
+No English review work remains pending.
+

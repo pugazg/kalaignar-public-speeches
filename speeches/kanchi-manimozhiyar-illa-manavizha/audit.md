@@ -56,6 +56,19 @@ All corrections are consolidated in `transcription-ta.md`. Canonical page record
 
 **PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.** All **4/4** E2 corrections remain consolidated; stale superseded English body readings **0**; page correspondence / joins and semantic completeness pass; frozen Tamil changes during E3 **0**. English is **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 22.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **3 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **4 / 0 corrections**, unresolved **0**;
+- PDF **247–255** / printed **246–254** source range: **PASS**;
+- canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- root catalogue entry: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Archive state: **FULLY ARCHIVED**. No transcription or translation work remains pending.
+

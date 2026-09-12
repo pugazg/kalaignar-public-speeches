@@ -14,9 +14,9 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E1 complete: **22 / 36**
 - English E2 complete: **22 / 36**
 - English E3 complete: **21 / 36**
-- fully archived: **21 / 36**
+- fully archived: **22 / 36**
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E3 PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved; Tamil and English are both `verified-complete`; repository closure is NEXT**.
+Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 is the next mapped item and has not started**.
 
 ## Constituents 7–9 — closed archive
 
@@ -485,6 +485,12 @@ English is now **`verified-complete`**.
 
 Collection state: Tamil verified **22/36**; English E1/E2/E3 complete / English verified **22/36**; fully archived **21/36**.
 
+## Constituent 22 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 9/9 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **3 corrections**, T3 **0 additional**, unresolved **0**. English remains **`verified-complete`** with E2 **4 corrections**, E3 **0 additional**, unresolved **0**. Source range, page order / joins, separate closing note, metadata, README, audit, HANDOVER, translation-review and root catalogue agree. Frozen Tamil / verified English speech-body changes during closure: **0 / 0**. Source PDF remains uncommitted.
+
+Collection state: **22 / 36 fully archived**. Constituents **1–22 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituent 22.**
+**Source / duplicate / boundary gate for constituent 23 — `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, mapped PDF 256–269 / printed 255–268.** Stop before Tamil T1 / constituent 24.
