@@ -16,7 +16,7 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **24 / 36**;
+- mapped: **36 / 36**; started / source-gated: **25 / 36**;
 - Tamil T1 complete: **24 / 36**;
 - Tamil T2 complete: **24 / 36**;
 - Tamil T3 complete / Tamil verified: **24 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **24 / 36**;
 - fully archived: **24 / 36**.
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **24 passed repository-level archival closure; Tamil and English remain `verified-complete`; closure introduced **0 / 0** Tamil / English speech-body changes.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has passed the source / duplicate / boundary gate — 7/7 pages; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -666,6 +666,26 @@ Repository-level archival closure: **PASS / COMPLETE — 18/18 pages**. Constitu
 
 Collection state: **24 / 36 fully archived**. Constituents **1–24 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 25 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 7/7 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- `அன்னை தெரசா நூல் வெளியீட்டு விழா`: PDF **288–294** / printed **287–293** — **7 pages**.
+- Contents entry: `அன்னை தெரசா நூல் வெளியீட்டு விழா` / `05-09-98` / printed start **287**.
+- All mapped scans PDF **288–294** were directly inspected.
+- PDF288 is the numbered/titled opening: constituent `25`, heading `அன்னை தெரசா நூல் வெளியீட்டு விழா`.
+- PDF294 / printed p.293 completes the speech body before the separate closing note `5-9-98 அன்று சென்னையில் அன்னை தெரசா நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`.
+- The closing note directly establishes **05-09-1998**, venue `சென்னை`, event `அன்னை தெரசா நூல் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`.
+- PDF287 belongs to closed constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`.
+- PDF295 / printed p.294 begins constituent 26 `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`, confirming the ending boundary.
+- PDF/printed-page relationship remains **PDF scan = printed page + 1**.
+- Duplicate search: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/annai-teresa-nool-veliyittu-vizha/`.
+- Source PDF remains uncommitted.
+- Tamil T1: **NOT STARTED**.
+
+Collection state: mapped **36/36**; started / source-gated **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 25 — `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF 288–294 / printed 287–293.** The contents map gives date **05-09-98**, but the source gate must independently inspect the mapped scans before treating source details as verified.
+**Tamil T1 for constituent 25 — 7 source pages total.** Stop before T2 and constituent 26.
