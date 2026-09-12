@@ -24,8 +24,21 @@ Tamil T2: **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved**. PDF289 / p.28
 
 Tamil T3: **PASS / COMPLETE — 7/7; 0 additional corrections; 0 unresolved**. The **1/1** T2 correction remains consolidated, the stale superseded canonical speech-body reading is absent, and no speech-body Tamil changed during T3. Canonical page records / joins, names / numerals / punctuation / quotations / repetitions, laughter / applause markers, source-sensitive forms and the separate closing note pass.
 
-Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**. Constituent 26 remains outside the active batch.
+Tamil remains **`verified-complete` / FROZEN**.
 
-## Exact next gate
+English E1: **COMPLETE — 7/7** from frozen Tamil only; missing pages **0**; frozen Tamil changes **0**.
 
-**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 and constituent 26.
+English E2: **PASS / COMPLETE — 7/7; 5 corrections; 0 unresolved**. All corrections are consolidated; frozen Tamil changes **0**.
+
+English E3: **PASS / COMPLETE — 7/7; 1 additional correction; 0 unresolved**. English is **`verified-complete`**; frozen Tamil changes **0**.
+
+Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+
+- Tamil T2 **1**, T3 **0**; English E2 **5**, E3 **1**; unresolved **0**;
+- source range PDF **288–294** / printed **287–293** agrees across controls;
+- page order / joins and separate closing-note handling: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted per repository policy;
+- no transcription or translation work remains pending for constituent 25.
+
+Constituent 26 is the next collection item and remains **NOT STARTED**.
