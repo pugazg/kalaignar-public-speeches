@@ -1,6 +1,6 @@
 # Nellikuppam Pugazhendhi Wedding — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 10 / 10 pages; 3 corrections; 0 unresolved**; E3 pending  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 10 / 10 pages; 0 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **184–193** / printed **183–192**
 
@@ -118,6 +118,20 @@ Therefore, one cannot grow merely by being a speaker. That speaker must be a sec
 
 All **10/10** English page records, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and the separate closing note were independently compared against frozen Tamil. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 10/10 pages; 0 additional corrections; 0 unresolved.**
+
+- all **3/3** E2 corrections remain consolidated;
+- stale superseded E1 readings in the canonical English speech body: **0**;
+- English page records: **10/10**, complete and ordered;
+- page correspondence / joins: **PASS**;
+- names / titles / numerals, rhetoric / repetition and source-sensitive wording: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 17–18 together — 21 English pages total.**
+**Repository closure for constituents 17–18 together.** Do not alter frozen Tamil or verified English; do not start constituent 19 in the same activity.
+

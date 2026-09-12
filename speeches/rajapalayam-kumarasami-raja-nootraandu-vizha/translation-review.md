@@ -2,17 +2,21 @@
 
 **English E1:** **COMPLETE — 11 / 11 pages**  
 **English E2:** **PASS / COMPLETE — 11 / 11; 2 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 11 / 11; 0 additional corrections; 0 unresolved**
 
-Tamil remains **`verified-complete` / FROZEN**. Frozen Tamil changes during E1/E2: **0**.
+Tamil remains **`verified-complete` / FROZEN**. Frozen Tamil changes during E1/E2/E3: **0**.
 
 ## E2 corrections
 
-1. PDF199 / p.198: Tirunellikaval route clause revised to preserve the source sequence of walking seven miles to Tirunellikaval in order to board the train.
-2. PDF202 / p.201: `பெரிய இராஜ குடும்பம்` corrected from **“great Raja family”** to **“great royal family.”**
+1. PDF199 / p.198: Tirunellikaval journey clause revised to preserve the source sequence.
+2. PDF202 / p.201: `பெரிய இராஜ குடும்பம்` rendered as **great royal family**.
 
-All page correspondence, joins, names/titles/numerals, the **89-90 / 89 / 1995 / 95 / 98** chronology, source-sensitive wording and separate closing-note handling pass. Unresolved issues: **0**.
+## E3 final verification
+
+**PASS / COMPLETE — 11/11; 0 additional corrections; 0 unresolved.** All **2/2** E2 corrections remain consolidated; stale E1 readings are absent from the canonical English body; page correspondence, joins, names/titles/numerals, source-sensitive chronology and wording, and separate closing-note handling pass.
+
+**English state:** **`verified-complete`**.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 17–18 together — 21 English pages total.**
+**Repository closure for constituents 17–18 together.**

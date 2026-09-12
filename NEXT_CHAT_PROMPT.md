@@ -1,18 +1,22 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 17–18 English E3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 17–18 repository closure
 
-Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. Constituents **1–16 are CLOSED / FULLY ARCHIVED**. Constituents **17–18 have completed English E2**; frozen Tamil must remain unchanged.
+Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`.
+
+## LIVE MAIN IS AUTHORITATIVE
+Fetch live `main` first. Constituents **1–16 are CLOSED / FULLY ARCHIVED**. Constituents **17–18 now have Tamil and English `verified-complete`**.
 
 ## Durable state
-- Tamil verified: **18/36**
-- English E1 complete: **18/36**
-- English E2 complete: **18/36**
-- English E3 complete / English verified: **16/36**
-- constituent 17 E2: **10/10; 3 corrections; 0 unresolved**
-- constituent 18 E2: **11/11; 2 corrections; 0 unresolved**
-- frozen Tamil changes during E1/E2: **0**
+- mapped / started / source-gated: **36/36 / 18/36 / 18/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **18/36**
+- English E1/E2/E3 complete / English verified: **18/36**
+- fully archived: **16/36**
+- constituent 17: Tamil T2 **5**, T3 **2**; English E2 **3**, E3 **0**; unresolved **0**
+- constituent 18: Tamil T2 **0**, T3 **0**; English E2 **2**, E3 **0**; unresolved **0**
+- frozen Tamil changes during English work: **0**
+- source PDF remains uncommitted
 
 ## Exact activity
-Perform **English E3 final end-to-end verification for constituents 17–18 together — all 21 English pages**. Confirm all **5/5** E2 corrections remain consolidated, re-read final English against frozen Tamil, verify page correspondence, joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and both separate closing notes, and mark English `verified-complete` only if all checks pass.
+Perform **repository closure for constituents 17–18 together**. Confirm metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, page order, closing-note separation and correction counts all agree; mark both archives fully archived only if all checks pass; synchronize parent collection controls, root catalogue and page map.
 
 ## STOP RULE
-Stop after E3 unless the repository owner explicitly authorizes repository closure in the same activity. Do not alter frozen Tamil or start constituent 19.
+Stop after repository closure for constituents 17–18. **Do not start constituent 19 in the same activity.**
