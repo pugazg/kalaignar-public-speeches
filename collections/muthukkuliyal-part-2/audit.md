@@ -1661,6 +1661,27 @@ No transcription or translation work remains for constituent 24.
 - English E1/E2/E3 complete / English verified: **24/36**;
 - fully archived: **24/36**.
 
+## Constituent 25 — Tamil T1 first-pass transcription
+
+**COMPLETE — 7/7 source pages.**
+
+- canonical records: PDF **288–294** / printed **287–293**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: preserved outside the speech body;
+- explicit page-boundary continuations **288→289** and **290→291** flagged for T2;
+- source method: direct visual reading of controlling scans;
+- Tamil T2: **NOT STARTED**.
+
+## Collection totals after constituent 25 T1
+
+- mapped / started / source-gated: **36/36 / 25/36 / 25/36**;
+- Tamil T1 complete: **25/36**;
+- Tamil T2/T3 complete / Tamil verified: **24/36**;
+- English E1/E2/E3 complete / English verified: **24/36**;
+- fully archived: **24/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T1 for constituent 25 — 7 source pages total.** Stop before T2 / constituent 26.
+**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 / constituent 26.
