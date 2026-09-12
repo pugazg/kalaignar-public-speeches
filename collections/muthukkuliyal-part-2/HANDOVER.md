@@ -18,14 +18,14 @@
 
 - mapped: **36 / 36**; started / source-gated: **21 / 36**;
 - Tamil T1 complete: **21 / 36**;
-- Tamil T2 complete: **20 / 36**;
+- Tamil T2 complete: **21 / 36**;
 - Tamil T3 complete / Tamil verified: **20 / 36**;
 - English E1 complete: **20 / 36**;
 - English E2 complete: **20 / 36**;
 - English E3 complete / English verified: **20 / 36**;
 - fully archived: **20 / 36**.
 
-Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T1 COMPLETE — 19/19; Tamil T2 is READY / NOT STARTED**.
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T2 PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -433,6 +433,18 @@ Tamil T1: **COMPLETE — 19/19 source pages** for `கவிக்கோ அப�
 
 Tamil T2 is **READY / NOT STARTED**. Constituent 22 remains outside the batch. The source PDF binary remains uncommitted.
 
+## Constituent 21 — durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 19/19 source pages; 5 corrections; 0 unresolved**.
+
+- PDF228 / p.227: `விரைவாகவும்` → `விரிவாகவும்`;
+- PDF229 / p.228: `பெயரை திடீரென்று` → `பெயரைத் திடீரென்று`;
+- PDF237 / p.236: page-end `இந்த,` → `இந்து,`;
+- PDF238 / p.237: `ஓன் சைடு` → `ஒன் சைடு`;
+- PDF238 / p.237: `ஆர்கியுமென்டாம்` → `ஆர்கியுமெண்டாம்`.
+
+All **5/5** corrections are consolidated. Canonical page records remain **19/19**, complete, unique and ordered; page joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and the separate closing note pass. Unresolved readings: **0**. Tamil T3 has **NOT STARTED**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 21 — 19 source pages total.** Stop before T3 / constituent 22.
+**Tamil T3 consolidation/freeze for constituent 21 — 19 source pages total.** Stop before English / constituent 22.

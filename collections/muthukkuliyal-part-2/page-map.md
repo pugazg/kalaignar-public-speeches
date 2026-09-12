@@ -67,7 +67,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 21 | `kavikko-abdul-raguman-manivizha` | **Tamil T1 complete — T2 pending** |
+| 21 | `kavikko-abdul-raguman-manivizha` | **Tamil T2 complete — T3 pending** |
 | 22–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -192,6 +192,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **COMPLETE — 19/19 source pages.** Canonical records cover PDF **228–246** / printed **227–245** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Tamil T2 has **NOT STARTED**.
 
+## Constituent 21 — Tamil T2
+
+**PASS / COMPLETE — 19/19 source pages; 5 corrections; 0 unresolved.** Corrections: PDF228 **1**, PDF229 **1**, PDF237 **1**, PDF238 **2**. All are consolidated. Canonical page order / joins and separate closing-note handling pass.
+
 ## Next same-gate batch
 
-Constituent **21** only — Tamil T2 strict direct-scan fidelity audit — **19 source pages total**. Constituent 22 remains outside the batch.
+Constituent **21** only — Tamil T3 consolidation/freeze — **19 source pages total**. Constituent 22 remains outside the batch.

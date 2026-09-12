@@ -1034,6 +1034,30 @@ T2 attention points are recorded in the constituent `transcription-ta.md`; sourc
 - fully archived: **20/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 21 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 19/19 source pages; 5 corrections; 0 unresolved.**
+
+Scan-confirmed corrections:
+
+1. PDF228 / p.227: `இந்த அரசு விரைவாகவும், வேகமாகவும்` → **`இந்த அரசு விரிவாகவும், வேகமாகவும்`**.
+2. PDF229 / p.228: `ஒரு வணிக நிலையத்தின் பெயரை திடீரென்று மாற்றினால்` → **`ஒரு வணிக நிலையத்தின் பெயரைத் திடீரென்று மாற்றினால்`**.
+3. PDF237 / p.236: page-end `இந்த,` → **`இந்து,`**, restoring the continuation into PDF238.
+4. PDF238 / p.237: `ஓன் சைடு` → **`ஒன் சைடு`**.
+5. PDF238 / p.237: `ஆர்கியுமென்டாம்` → **`ஆர்கியுமெண்டாம்`**.
+
+All **5/5** corrections are consolidated; canonical page records are complete / unique / ordered; page-boundary joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and separate closing-note handling: **PASS**. Unresolved readings: **0**. Tamil T3 has **NOT STARTED**.
+
+## Collection totals after constituent 21 T2
+
+- mapped / started / source-gated: **36/36 / 21/36 / 21/36**;
+- Tamil T1 complete: **21/36**;
+- Tamil T2 complete: **21/36**;
+- Tamil T3 complete / Tamil verified: **20/36**;
+- English E1/E2/E3 complete / English verified: **20/36**;
+- fully archived: **20/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 21 — 19 source pages total.** Stop before T3 / constituent 22.
+**Tamil T3 consolidation/freeze for constituent 21 — 19 source pages total.** Stop before English / constituent 22.
