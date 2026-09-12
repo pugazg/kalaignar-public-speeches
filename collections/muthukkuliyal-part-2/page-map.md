@@ -68,7 +68,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 22 | `kanchi-manimozhiyar-illa-manavizha` | **English E2 complete — E3 pending; Tamil FROZEN** |
+| 22 | `kanchi-manimozhiyar-illa-manavizha` | **Tamil + English verified-complete — repository closure pending** |
 | 23–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -248,6 +248,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.** Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated; frozen Tamil changes during E2 **0**.
 
+## Constituent 22 — English E3
+
+**PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.** All **4/4** E2 corrections remain consolidated; stale superseded English body readings are absent; page correspondence / joins and separate closing-note handling pass. English is **`verified-complete`**.
+
 ## Next same-gate batch
 
-Constituent **22** only — English E3 final verification — **9 pages total**. Constituent 23 remains outside the batch.
+Constituent **22** only — repository-level archival closure. Do not start constituent 23 in the closure activity.

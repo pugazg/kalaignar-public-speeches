@@ -1241,6 +1241,24 @@ All corrections are consolidated; canonical page order, explicit joins and separ
 - English E3 complete / English verified: **21/36**;
 - fully archived: **21/36**.
 
+## Constituent 22 — English E3 final verification
+
+**PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.**
+
+- all **4/4** E2 corrections remain consolidated;
+- stale superseded English speech-body readings: **0**;
+- page correspondence / joins and semantic completeness: **PASS**;
+- names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording and applause marker: **PASS**;
+- separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state: **`verified-complete`**.
+
+## Collection totals after constituent 22 English E3
+
+- Tamil verified: **22/36**;
+- English E1/E2/E3 complete / English verified: **22/36**;
+- fully archived: **21/36**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 22 — 9 pages.**
+**Repository closure for constituent 22.**

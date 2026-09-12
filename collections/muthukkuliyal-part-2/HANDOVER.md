@@ -22,10 +22,10 @@
 - Tamil T3 complete / Tamil verified: **22 / 36**;
 - English E1 complete: **22 / 36**;
 - English E2 complete: **22 / 36**;
-- English E3 complete / English verified: **21 / 36**;
+- English E3 complete / English verified: **22 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E2 PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved; English E3 is READY / NOT STARTED; Tamil remains `verified-complete` / FROZEN**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E3 PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved; Tamil and English are both `verified-complete`; repository closure is NEXT**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -525,6 +525,10 @@ English E1: **COMPLETE — 9/9 pages** from frozen Tamil only. Missing English p
 
 English E2: **PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved**. Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated; frozen Tamil changes during E2 **0**.
 
+## Constituent 22 — durable English E3 result
+
+English E3: **PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings **0**; frozen Tamil changes during E3 **0**. English is **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 22 — 9 pages.**
+**Repository closure for constituent 22.**

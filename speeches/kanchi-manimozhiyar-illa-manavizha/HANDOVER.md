@@ -23,7 +23,8 @@
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 9/9**;
 - English E2: **PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved**;
-- English E3: **READY / NOT STARTED**;
+- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
 - source PDF remains uncommitted.
 
 ## Durable Tamil T3 / frozen-Tamil result
@@ -40,6 +41,10 @@ English E1: **COMPLETE — 9/9 pages** from frozen Tamil only. English page reco
 
 English E2: **PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved**. Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated; frozen Tamil changes during E2 **0**.
 
+## Durable English E3 result
+
+English E3: **PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings **0**; frozen Tamil changes during E3 **0**. English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 22 — 9 pages.**
+**Repository closure for constituent 22.**

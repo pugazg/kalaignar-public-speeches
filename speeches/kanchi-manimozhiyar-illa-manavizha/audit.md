@@ -52,6 +52,10 @@ All corrections are consolidated in `transcription-ta.md`. Canonical page record
 
 **PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.** Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated. Frozen Tamil changes during E2 **0**.
 
+## English E3 — final verification
+
+**PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.** All **4/4** E2 corrections remain consolidated; stale superseded English body readings **0**; page correspondence / joins and semantic completeness pass; frozen Tamil changes during E3 **0**. English is **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 22 — 9 pages.**
+**Repository closure for constituent 22.**

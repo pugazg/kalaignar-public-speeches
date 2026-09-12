@@ -1,6 +1,6 @@
 # Kanchi Manimozhiyar House Wedding — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 9 / 9 pages; 4 corrections; 0 unresolved**; English E3 pending  
+**Status:** `verified-complete` — English E1/E2/E3 **9 / 9 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **247–255** / printed **246–254**
 
@@ -128,6 +128,21 @@ Fidelity-proven English corrections consolidated into the canonical translation:
 
 Page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording, applause marker and separate closing note: **PASS**. Frozen Tamil changes during E2: **0**. Unresolved English readings: **0**.
 
+## English E3 — final verification
+
+**PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved.**
+
+- all **4/4** E2 corrections remain consolidated;
+- stale superseded English speech-body readings: **0**;
+- English page records: **9/9**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- exact page correspondence / joins: **PASS**;
+- semantic completeness: **PASS**;
+- names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording and applause marker: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 22 — 9 pages.**
+**Repository closure for constituent 22.**
