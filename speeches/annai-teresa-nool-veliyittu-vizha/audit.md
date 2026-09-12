@@ -22,8 +22,19 @@
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
 
-Tamil T1 has **NOT STARTED**.
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 7/7 source pages.**
+
+- canonical records: PDF **288–294** / printed **287–293**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note: preserved outside the speech body;
+- explicit page-boundary continuations flagged for T2: **288→289**, **290→291**;
+- source-sensitive T2 attention includes `அண்டபிரண்டத்திற்கும்`, `திரானாவின்`, `சிலையெடுக்கப்பட்ட`, `ஆக்னஸ் கொன்சகா பொஜாக்ஸியு`, `அரும்பாகவே இருந்து மறைந்தார்`, `பற்றிப்பேசிய`, `வைக்கா விட்டால்`, and source punctuation/spacing in the political closing.
+
+This T1 layer is not yet a final fidelity claim.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 25 — 7 source pages total.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.**
