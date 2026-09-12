@@ -1058,6 +1058,29 @@ All **5/5** corrections are consolidated; canonical page records are complete / 
 - fully archived: **20/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 21 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 19/19 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **5/5** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings: **0**;
+- canonical page records: **19/19**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- page-boundary joins: **PASS**;
+- names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 21 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 21/36 / 21/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **21/36**;
+- English E1/E2/E3 complete / English verified: **20/36**;
+- fully archived: **20/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 21 — 19 source pages total.** Stop before English / constituent 22.
+**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.

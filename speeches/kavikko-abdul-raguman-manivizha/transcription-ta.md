@@ -1,10 +1,10 @@
 # கவிக்கோ அப்துல் ரகுமான் மணிவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 19 / 19 pages; 5 corrections; 0 unresolved**; Tamil T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **19 / 19 pages COMPLETE**  
 **Source range:** PDF **228–246** / printed **227–245**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 19 source pages directly and consolidated **5 corrections** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 19 source pages directly and consolidated **5 corrections** with **0 unresolved**. Tamil T3 confirms all five corrections, complete / unique / ordered page records, all page joins and the separate closing note, with **0 additional corrections / 0 unresolved**. Tamil is now **`verified-complete` / FROZEN**.
 
 ## PDF 228 / printed p.227
 
@@ -359,7 +359,7 @@
 - Missing page records: **0**.
 - Explicit unreadable/unknown placeholders: **0**.
 - Source closing note: **preserved separately outside the speech body**.
-- At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 is now complete.
+- At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 and T3 are now complete.
 
 ### T2 attention points
 
@@ -381,6 +381,14 @@ Source-sensitive readings retained as printed include `மணி விழாவ
 
 All page records PDF **228–246** remain complete, unique and ordered. Page-boundary continuations, including **228→229**, **229→230**, **233→234**, **237→238**, **239→240**, **244→245**, and **245→246**, are **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 19/19 source pages; 0 additional corrections; 0 unresolved.**
+
+All **5/5** T2 corrections remain consolidated; stale superseded readings are absent from the canonical speech body. Canonical page records are **19/19**, complete, unique and ordered; missing / duplicate page records are **0 / 0**. All page-boundary joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and the separate closing note pass.
+
+No speech-body Tamil changed during T3. Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 21 — 19 source pages total.** Stop before English / constituent 22.
+**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.

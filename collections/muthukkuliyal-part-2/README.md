@@ -10,13 +10,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **21 / 36**
 - Tamil T1 complete: **21 / 36**
 - Tamil T2 complete: **21 / 36**
-- Tamil T3 complete / Tamil verified: **20 / 36**
+- Tamil T3 complete / Tamil verified: **21 / 36**
 - English E1 complete: **20 / 36**
 - English E2 complete: **20 / 36**
 - English E3 complete: **20 / 36**
 - fully archived: **20 / 36**
 
-Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T2 PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T3 PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -403,6 +403,14 @@ Collection state: source-gated **21/36**; Tamil T1 complete **21/36**; Tamil ver
 
 Collection state: source-gated **21/36**; Tamil T1 complete **21/36**; Tamil T2 complete **21/36**; Tamil verified **20/36**; English verified **20/36**; fully archived **20/36**.
 
+## Constituent 21 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 19/19 source pages; 0 additional corrections; 0 unresolved.** All **5/5** T2 corrections remain consolidated; stale superseded speech-body readings are absent; canonical page records are complete, unique and ordered; page joins, source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
+Collection state: source-gated **21/36**; Tamil T1/T2/T3 complete / Tamil verified **21/36**; English verified **20/36**; fully archived **20/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 21 — all 19 source pages.** Stop before English / constituent 22.
+**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.

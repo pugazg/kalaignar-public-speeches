@@ -13,21 +13,18 @@
 - source PDF remains uncommitted.
 
 ## Durable state
-
-Source / duplicate / boundary gate: **PASS / COMPLETE**.
-
-Tamil T1: **COMPLETE — 19/19**. Canonical page records **19/19**, missing **0**, explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body.
-
-Tamil T2: **PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved**. The five scan-proven corrections are consolidated in `transcription-ta.md`:
-
-1. PDF228: `விரைவாகவும்` → `விரிவாகவும்`;
-2. PDF229: `பெயரை திடீரென்று` → `பெயரைத் திடீரென்று`;
-3. PDF237: page-end `இந்த,` → `இந்து,`;
-4. PDF238: `ஓன் சைடு` → `ஒன் சைடு`;
-5. PDF238: `ஆர்கியுமென்டாம்` → `ஆர்கியுமெண்டாம்`.
-
-All canonical page records, source-sensitive readings, page-boundary joins and the separate closing note pass. Tamil T3 has **NOT STARTED**.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 19/19**;
+- Tamil T2: **PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- all **5/5** T2 corrections remain consolidated;
+- stale superseded body readings: **0**;
+- canonical page records: **19/19**, complete, unique and ordered;
+- page joins, source-sensitive readings and separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- English E1: **READY / NOT STARTED**;
+- source PDF remains uncommitted.
 
 ## Exact next gate
-
-**Tamil T3 consolidation/freeze for constituent 21 — 19 source pages total.** Confirm all **5/5** T2 corrections remain consolidated, verify no stale superseded body readings remain, and freeze Tamil only if unresolved readings remain **0**. Stop before English / constituent 22.
+**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.

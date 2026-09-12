@@ -19,13 +19,13 @@
 - mapped: **36 / 36**; started / source-gated: **21 / 36**;
 - Tamil T1 complete: **21 / 36**;
 - Tamil T2 complete: **21 / 36**;
-- Tamil T3 complete / Tamil verified: **20 / 36**;
+- Tamil T3 complete / Tamil verified: **21 / 36**;
 - English E1 complete: **20 / 36**;
 - English E2 complete: **20 / 36**;
 - English E3 complete / English verified: **20 / 36**;
 - fully archived: **20 / 36**.
 
-Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T2 PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T3 PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -445,6 +445,14 @@ Tamil T2: **PASS / COMPLETE — 19/19 source pages; 5 corrections; 0 unresolved*
 
 All **5/5** corrections are consolidated. Canonical page records remain **19/19**, complete, unique and ordered; page joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and the separate closing note pass. Unresolved readings: **0**. Tamil T3 has **NOT STARTED**. Source PDF remains uncommitted.
 
+## Constituent 21 — durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 19/19 source pages; 0 additional corrections; 0 unresolved**.
+
+All **5/5** T2 corrections remain consolidated. Stale superseded readings in the canonical speech body: **0**. Canonical page records are **19/19**, complete, unique and ordered; missing / duplicate records **0 / 0**. All page joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil for constituent 21 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from the frozen `transcription-ta.md`. Constituent 22 remains outside the active batch. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 21 — 19 source pages total.** Stop before English / constituent 22.
+**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.

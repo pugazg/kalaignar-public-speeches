@@ -16,24 +16,7 @@
 
 ## Source / duplicate / boundary gate
 
-**PASS / COMPLETE.**
-
-- contents entry: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா` / `19-07-98` / printed start **227**;
-- PDF228 / printed p.227 opens numbered constituent `21` with heading `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`;
-- PDF246 / printed p.245 ends the speech body before the separate note `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`;
-- no geographic venue is explicitly stated in the inspected opening/closing evidence, so none is inferred;
-- PDF247 / printed p.246 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`;
-- duplicate unresolved **0**; boundary unresolved **0**.
-
-## Tamil T1
-
-**COMPLETE — 19/19 source pages.** Missing page records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the body.
-
-## Tamil T2
-
-**PASS / COMPLETE — 19/19 source pages; 5 corrections; 0 unresolved.**
-
-Corrections: PDF228 **1**, PDF229 **1**, PDF237 **1**, PDF238 **2**. All are consolidated in the canonical Tamil. Complete page order / joins, names, numerals, punctuation, quotations / verse lineation, repetitions, source-sensitive forms and the separate closing note: **PASS**.
+**PASS / COMPLETE.** Opening, ending, date/event/role, boundary into constituent 22, page relationship, duplicate check and separate closing-note handling remain verified; no geographic venue is inferred.
 
 ## Workflow
 
@@ -42,10 +25,21 @@ Corrections: PDF228 **1**, PDF229 **1**, PDF237 **1**, PDF238 **2**. All are con
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 19/19** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending prior English gate |
 | Repository closure | not started |
+
+## Tamil T2 result
+
+All five source-proven T2 corrections remain consolidated: PDF228 **1**, PDF229 **1**, PDF237 **1**, PDF238 **2**.
+
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved.** All **5/5** T2 corrections remain consolidated; stale superseded speech-body readings are absent. Canonical page records are complete, unique and ordered; all page joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 21 — all 19 source pages.** Stop before English / constituent 22.
+**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.
