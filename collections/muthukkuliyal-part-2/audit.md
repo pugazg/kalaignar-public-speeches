@@ -1201,6 +1201,27 @@ All corrections are consolidated; canonical page order, explicit joins and separ
 - fully archived: **21/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 22 — English E1
+
+**COMPLETE — 9/9 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **9/9**, complete, unique and ordered;
+- missing English page records: **0**;
+- exact page correspondence: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **NOT STARTED**.
+
+## Collection totals after constituent 22 English E1
+
+- mapped / started / source-gated: **36/36 / 22/36 / 22/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **22/36**;
+- English E1 complete: **22/36**;
+- English E2/E3 complete / English verified: **21/36**;
+- fully archived: **21/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 22 — 9 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 22 — 9 pages.**

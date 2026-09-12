@@ -20,12 +20,12 @@
 - Tamil T1 complete: **22 / 36**;
 - Tamil T2 complete: **22 / 36**;
 - Tamil T3 complete / Tamil verified: **22 / 36**;
-- English E1 complete: **21 / 36**;
+- English E1 complete: **22 / 36**;
 - English E2 complete: **21 / 36**;
 - English E3 complete / English verified: **21 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has Tamil T3 PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E1 COMPLETE — 9/9; English E2 is READY / NOT STARTED; Tamil remains `verified-complete` / FROZEN**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -517,6 +517,10 @@ All **3/3** T2 corrections remain consolidated. Stale superseded readings in the
 
 Tamil for constituent 22 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 23 remains outside the active batch. Source PDF remains uncommitted.
 
+## Constituent 22 — durable English E1 result
+
+English E1: **COMPLETE — 9/9 pages** from frozen Tamil only. Missing English page records **0**; exact page correspondence and separate closing-note handling **PASS**; frozen Tamil changes **0**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 22 — 9 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 22 — 9 pages.**

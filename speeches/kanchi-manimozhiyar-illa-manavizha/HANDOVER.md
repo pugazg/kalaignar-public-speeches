@@ -21,15 +21,20 @@
 - canonical page records / explicit joins / separate closing note: **PASS**;
 - Tamil T3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
 - Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**;
+- English E1: **COMPLETE — 9/9**;
+- English E2: **READY / NOT STARTED**;
 - source PDF remains uncommitted.
 
 ## Durable Tamil T3 / frozen-Tamil result
 
 All **3/3** T2 corrections remain consolidated. Stale superseded canonical speech-body readings: **0**. Canonical page records are **9/9**, complete, unique and ordered; explicit joins, source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
 
-Tamil is now **`verified-complete` / FROZEN**. English E1 must translate only from frozen `transcription-ta.md`. Constituent 23 remains outside the active batch.
+Tamil is now **`verified-complete` / FROZEN**. English E1 was translated only from frozen `transcription-ta.md`: **COMPLETE — 9/9**, missing records **0**, frozen Tamil changes **0**. Constituent 23 remains outside the active batch.
+
+## Durable English E1 result
+
+English E1: **COMPLETE — 9/9 pages** from frozen Tamil only. English page records are complete, unique and ordered; exact page correspondence and separate closing-note handling pass; missing English page records **0**; frozen Tamil changes **0**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 22 — 9 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 22 — 9 pages.**
