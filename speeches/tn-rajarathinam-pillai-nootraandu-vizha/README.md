@@ -32,7 +32,7 @@
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 14/14** |
 | English E2 | **PASS / COMPLETE — 14/14; 4 corrections; 0 unresolved** |
-| English E3 | **READY / NOT STARTED** |
+| English E3 | **PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved** |
 | Repository closure | not started |
 
 ## Tamil T2
@@ -53,6 +53,12 @@ Tamil is now **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 14/1
 
 **PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved.** Corrections: PDF259 **1**, PDF263 **1**, PDF265 **1**, PDF268 **1**. All are consolidated. Exact page correspondence / joins, semantic completeness, source-sensitive terminology, applause / laughter markers and the separate closing note pass. Frozen Tamil changes during E2 **0**.
 
+## English E3
+
+**PASS / COMPLETE — 14/14 pages; 0 additional corrections; 0 unresolved.** All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings are absent; exact page correspondence / joins, semantic completeness, source-sensitive terminology, applause / laughter markers and the separate closing note pass. Frozen Tamil changes during E3 **0**.
+
+English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 23 — 14 pages.**
+**Repository closure for constituent 23.**

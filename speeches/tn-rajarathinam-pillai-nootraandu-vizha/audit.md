@@ -75,6 +75,18 @@ All **8/8** corrections are consolidated. Canonical page records, documented pag
 - page correspondence / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive terminology, applause / laughter markers and separate closing note: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## English E3 — final verification
+
+**PASS / COMPLETE — 14/14 pages; 0 additional corrections; 0 unresolved.**
+
+- all **4/4** E2 corrections remain consolidated;
+- stale superseded English speech-body readings: **0**;
+- page correspondence / joins and semantic completeness: **PASS**;
+- names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive terminology, applause / laughter markers: **PASS**;
+- separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 23 — 14 pages.**
+**Repository closure for constituent 23.**

@@ -36,6 +36,10 @@ English E1: **COMPLETE — 14/14 pages** from frozen Tamil only. English page re
 
 English E2: **PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved**. Corrections: PDF259 **1**, PDF263 **1**, PDF265 **1**, PDF268 **1**. All are consolidated; exact page correspondence / joins, semantic completeness, source-sensitive terminology, applause / laughter markers and separate closing-note handling pass. Frozen Tamil changes during E2 **0**.
 
+## Durable English E3 result
+
+English E3: **PASS / COMPLETE — 14/14 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings **0**; frozen Tamil changes during E3 **0**. English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final verification for constituent 23 — 14 pages.**
+**Repository closure for constituent 23.**
