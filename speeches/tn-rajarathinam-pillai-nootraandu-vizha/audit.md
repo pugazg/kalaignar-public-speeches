@@ -20,6 +20,21 @@
 
 T2 source-sensitive attention points and explicit page-boundary continuations are recorded in `transcription-ta.md`. Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 14/14 source pages; 8 corrections; 0 unresolved.**
+
+- PDF256 / p.255: `கடமைப்பட்டிருக்கிறேன்` → `கடமைப் பட்டிருக்கிறேன்`;
+- PDF257 / p.256: `பாராட்டுக்குரியது` → `பாராட்டுக் குரியது`;
+- PDF261 / p.260: `பேசும்போது` → `பேசும் போது`;
+- PDF261 / p.260: `கழற்றி வைத்துவிட்டு` → `கழற்றி வைத்து விட்டு`;
+- PDF264 / p.263: `இல்லாவிட்டாலும்` → `இல்லா விட்டாலும்`;
+- PDF265 / p.264: first `முத்தமிழ்ப் பேரவை சார்பாக` → `முத்தமிழ்ப்பேரவை சார்பாக`;
+- PDF266 / p.265: `தரமணி` → `தர மணி` in the printed wordplay;
+- PDF269 / p.268: `வளர்ந்து கொண்டு` → `வளர்ந்துகொண்டு`.
+
+All **8/8** corrections are consolidated. Canonical page records, documented page joins, source-sensitive forms and the separate closing note pass. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 23 — 14 source pages total.**
+**Tamil T3 consolidation/freeze for constituent 23 — 14 source pages total.**

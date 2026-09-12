@@ -28,11 +28,15 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 14/14** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 14/14; 8 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
+## Tamil T2
+
+**PASS / COMPLETE — 14/14 source pages; 8 corrections; 0 unresolved.** Corrections: PDF256 **1**, PDF257 **1**, PDF261 **2**, PDF264 **1**, PDF265 **1**, PDF266 **1**, PDF269 **1**. All are consolidated. Canonical page records remain complete, unique and ordered; explicit joins and the separate closing note pass.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 23 — all 14 source pages.** Stop before T3 / constituent 24.
+**Tamil T3 consolidation/freeze for constituent 23 — all 14 source pages.** Stop before English / constituent 24.

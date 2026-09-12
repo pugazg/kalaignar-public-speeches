@@ -69,7 +69,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **Tamil T1 complete — T2 pending** |
+| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **Tamil T2 complete — T3 pending** |
 | 24–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -273,6 +273,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **COMPLETE — 14/14 source pages.** Canonical records cover PDF **256–269** / printed **255–268** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Tamil T2 has **NOT STARTED**.
 
+## Constituent 23 — Tamil T2
+
+**PASS / COMPLETE — 14/14 source pages; 8 corrections; 0 unresolved.** Corrections: PDF256 **1**, PDF257 **1**, PDF261 **2**, PDF264 **1**, PDF265 **1**, PDF266 **1**, PDF269 **1**. All are consolidated; canonical page order, joins and separate closing-note handling pass.
+
 ## Next same-gate batch
 
-Constituent **23** only — Tamil T2 strict direct-scan fidelity audit — **14 source pages total**. Stop before T3 / constituent 24.
+Constituent **23** only — Tamil T3 consolidation/freeze — **14 source pages total**. Stop before English / constituent 24.

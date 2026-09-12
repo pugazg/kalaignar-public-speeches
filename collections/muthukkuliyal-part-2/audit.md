@@ -1324,6 +1324,30 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **22/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 23 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 14/14 source pages; 8 corrections; 0 unresolved.**
+
+- PDF256 / p.255: **1** correction;
+- PDF257 / p.256: **1** correction;
+- PDF261 / p.260: **2** corrections;
+- PDF264 / p.263: **1** correction;
+- PDF265 / p.264: **1** correction;
+- PDF266 / p.265: **1** correction;
+- PDF269 / p.268: **1** correction;
+- all corrections consolidated;
+- canonical page records / documented joins / source-sensitive forms / separate closing note: **PASS**.
+
+## Collection totals after constituent 23 T2
+
+- mapped / started / source-gated: **36/36 / 23/36 / 23/36**;
+- Tamil T1 complete: **23/36**;
+- Tamil T2 complete: **23/36**;
+- Tamil T3 complete / Tamil verified: **22/36**;
+- English E1/E2/E3 complete / English verified: **22/36**;
+- fully archived: **22/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 23 — 14 source pages total.** Stop before T3 / constituent 24.
+**Tamil T3 consolidation/freeze for constituent 23 — 14 source pages total.** Stop before English / constituent 24.
