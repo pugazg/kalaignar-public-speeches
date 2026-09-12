@@ -1,67 +1,60 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 24 repository closure
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 25 source gate
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil and English both `verified-complete`; repository closure is READY / NOT STARTED**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source evidence appears.
 
-## Constituent 24 durable state
+## Controlling source
 
-`speeches/madurai-madha-nallinakka-maanadu/`
+`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-- PDF **270–287** / printed **269–286** — **18 pages**
-- source / duplicate / boundary gate: **PASS / COMPLETE**
-- Tamil T1: **COMPLETE — 18/18**
-- Tamil T2: **PASS / COMPLETE — 18/18; 1 correction; 0 unresolved**
-- Tamil T3: **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved**
-- Tamil: **`verified-complete` / FROZEN**
-- English E1: **COMPLETE — 18/18**
-- English E2: **PASS / COMPLETE — 18/18; 5 corrections; 0 unresolved**
-- English E3: **PASS / COMPLETE — 18/18; 1 additional correction; 0 unresolved**
-- English: **`verified-complete`**
-- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**
-- unresolved Tamil / English issues: **0 / 0**
-- source PDF binary: **uncommitted**, per repository policy
-
-### English E2 corrections
-
-1. PDF273 — unsupported `Lieutenant` removed from Delhi governor title.
-2. PDF274 — participant list restored.
-3. PDF275→276 — Thiru. Vi. K. article/page-boundary meaning repaired.
-4. PDF281 — `federation at the Centre` → `federalism at the Centre`.
-5. PDF286 — dismissal-threat subject/logic corrected.
-
-### English E3 correction
-
-- PDF274 / printed p.273 — `Muslim men, mothers and elders` → `Muslim people, mothers and elders`, restoring the breadth of `முஸ்லிம் பெருமக்களும்`.
+- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- size: **232,470,104 bytes**
+- physical scans: **425**
+- source PDF must **not** be committed
+- stable constituent relationship: **PDF scan = printed page + 1**
 
 ## Durable collection state
 
-- mapped / started / source-gated: **36/36 / 24/36 / 24/36**
+- mapped: **36/36**
+- started / source-gated: **24/36 / 24/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **24/36**
 - English E1/E2/E3 complete / English verified: **24/36**
-- fully archived: **23/36**
+- fully archived: **24/36**
+- constituents **1–24: CLOSED / FULLY ARCHIVED**
+
+Constituent 24 `மதுரை மத நல்லிணக்க மாநாடு` is repository-closed with Tamil and English both `verified-complete`. Closure introduced **0 / 0** Tamil / English speech-body changes.
+
+## Constituent 25 — mapped candidate only
+
+From the already-completed collection page map:
+
+- number: **25**
+- contents title: **`அன்னை தெரசா நூல் வெளியீட்டு விழா`**
+- contents date: **05-09-98**
+- mapped printed pages: **287–293**
+- mapped PDF scans: **288–294**
+- mapped extent: **7 pages**
+
+These are **mapping/contents facts only**. The constituent 25 source gate has **NOT STARTED**. Do not promote the contents date, any venue, role, exact opening/ending, or other bibliographic facts to verified source facts until the mapped scans are directly inspected.
 
 ## Exact activity
 
-Perform **repository-level archival closure for constituent 24 only**.
+Perform **source / duplicate / boundary gate for constituent 25 only**.
 
-Synchronize and verify:
+Using the controlling source, directly inspect PDF **288–294** and the adjacent boundary scans as needed. Establish and record only what the source supports:
 
-- constituent `metadata.json`;
-- constituent `README.md`;
-- constituent `audit.md`;
-- constituent `translation-review.md`;
-- constituent `HANDOVER.md`;
-- frozen Tamil `transcription-ta.md`;
-- final English `translation-en.md`;
-- source ranges, page counts, correction counts and separate closing-note handling;
-- parent collection `metadata.json`, `README.md`, `audit.md`, `page-map.md`, `HANDOVER.md`;
-- root catalogue / repository controls as required by the processing guide.
-
-Mark constituent 24 **FULLY ARCHIVED** only if all closure checks agree. Closure must introduce **0 Tamil and 0 English speech-body changes**.
+- exact numbered/titled opening;
+- exact speech ending and any separate closing note;
+- whether date / venue / event / role are explicitly stated;
+- confirmation or correction of PDF **288–294** / printed **287–293**;
+- confirmation that PDF287 belongs to constituent 24 and that the next constituent begins after constituent 25;
+- duplicate search against live `main`;
+- stable slug and dedicated speech directory only if the source gate passes;
+- source-gate metadata / README / audit / HANDOVER / parent collection controls.
 
 ## STOP RULE
 
-Stop after repository closure for constituent 24. **Do not start constituent 25 in the same activity.**
+Stop after the **constituent 25 source / duplicate / boundary gate**. **Do not begin Tamil T1 in the same activity.**
