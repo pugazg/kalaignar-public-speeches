@@ -1,6 +1,6 @@
 # Bishop Ezra Sargunam Sixtieth-Birthday Celebration — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 12 / 12 pages; 5 corrections; 0 unresolved**; E3 pending  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 12 / 12 pages; 0 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **216–227** / printed **215–226**
 
@@ -134,6 +134,20 @@ That is why, just as our R.M.V. spoke openly, our Bishop has today launched the 
 
 All **12/12** English pages were independently checked against frozen Tamil. The மணிவிழா/மணவிழா wordplay, `பிளாஷ்பேக்`, Ezra-name discussion, Quaid-e-Millat reference, social-justice argument, 1989 first-graduate scheme and community list, five-mark concession, 15-percent rural reservation, Samathuvapuram discussion, `ஆர்.எம்.வீ.`, rhetoric / repetition and the separate closing note pass. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 12/12 pages; 0 additional corrections; 0 unresolved.**
+
+- all **5/5** E2 corrections remain consolidated;
+- stale superseded E1 readings in the canonical English speech body: **0**;
+- English page records: **12/12**, complete, unique and ordered;
+- exact page correspondence / joins: **PASS**;
+- semantic completeness: **PASS**;
+- names / titles / numerals, rhetoric / repetition and source-sensitive wording: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E1/E2/E3: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**
+**Repository closure for constituents 19–20 together.** Do not alter frozen Tamil or verified English; do not start constituent 21 in the same activity.

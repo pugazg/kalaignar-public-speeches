@@ -1,6 +1,6 @@
 # Thiruvannamalai Arunai Engineering College Graduation Ceremony — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 11 / 11 pages; 3 corrections; 0 unresolved**; E3 pending  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 11 / 11 pages; 0 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **205–215** / printed **204–214**
 
@@ -138,6 +138,20 @@ By acting in that way, you must add more and more honour to Arunai Engineering C
 
 All **11/11** English pages were independently checked against frozen Tamil. Educational counts, `சும்மாதான்` wordplay, quota figures, names / titles / numerals, rhetoric / repetition, the doctor/engineer comparison, the Brahma/Vishnu/தாழம்பூ narrative, page joins and the separate closing note pass. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
 
+## E3 final end-to-end verification
+
+**PASS / COMPLETE — 11/11 pages; 0 additional corrections; 0 unresolved.**
+
+- all **3/3** E2 corrections remain consolidated;
+- stale superseded E1 readings in the canonical English speech body: **0**;
+- English page records: **11/11**, complete, unique and ordered;
+- exact page correspondence / joins: **PASS**;
+- semantic completeness: **PASS**;
+- names / titles / numerals, rhetoric / repetition and source-sensitive wording: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E1/E2/E3: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**
+**Repository closure for constituents 19–20 together.** Do not alter frozen Tamil or verified English; do not start constituent 21 in the same activity.
