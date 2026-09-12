@@ -333,6 +333,19 @@ Combined English E1: **COMPLETE — 23/23 verified Tamil pages**.
 
 Collection state: Tamil verified **20/36**; English E1 complete **20/36**; English E2/E3 complete / English verified **18/36**; fully archived **18/36**. Source PDF remains uncommitted.
 
+## Constituents 19–20 — English E2 complete
+
+Combined English E2: **PASS / COMPLETE — 23/23 pages; 8 corrections; 0 unresolved**.
+
+- constituent 19: **11/11; 3 corrections** — two page-boundary correspondence repairs plus `Tiruvannamalai Purana`;
+- constituent 20: **12/12; 5 corrections** — caste/religious-rubbish syntax, V.P. Singh/Mandal causality, and three page-boundary correspondence repairs;
+- all confirmed corrections are consolidated in the final English drafts;
+- page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and both separate closing notes: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- English E3: **READY / NOT STARTED**.
+
+Collection state: Tamil verified **20/36**; English E1/E2 complete **20/36**; English E3 complete / English verified **18/36**; fully archived **18/36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **English E2 independent fidelity review for constituents 19–20 together — 23 English pages total**. Stop before E3 / constituent 21.
+Perform **English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total**. Stop before repository closure / constituent 21.

@@ -372,6 +372,19 @@ English E1 is **COMPLETE — 23/23 pages**.
 
 Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Constituents 19–20 remain in progress with Tamil **`verified-complete` / FROZEN** and English E1 complete. Source PDF remains uncommitted.
 
+## Constituents 19–20 — durable English E2 result
+
+English E2 is **PASS / COMPLETE — 23/23 pages; 8 corrections; 0 unresolved**.
+
+- constituent 19: **3 corrections** — PDF210→211 continuation, PDF212 **Tiruvannamalai Purana**, PDF214→215 continuation;
+- constituent 20: **5 corrections** — PDF220 syntax, PDF221 V.P. Singh/Mandal causality, and PDF221→222 / PDF224→225 / PDF226→227 continuations;
+- all corrections are consolidated in `translation-en.md`;
+- page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and both separate closing notes: **PASS**;
+- frozen Tamil changes during E1/E2: **0**;
+- English E3: **READY / NOT STARTED**.
+
+Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Constituents 19–20 retain Tamil **`verified-complete` / FROZEN**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.** Stop before E3 / constituent 21.
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.** Stop before repository closure / constituent 21.

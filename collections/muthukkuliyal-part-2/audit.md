@@ -915,6 +915,34 @@ Combined page correspondence / joins and both separate closing notes: **PASS**. 
 - English E2/E3 complete and English verified: **18/36**;
 - fully archived: **18/36**.
 
+## Constituents 19–20 — English E2 independent fidelity review
+
+**PASS / COMPLETE — 23/23 pages; 8 corrections; 0 unresolved.**
+
+### Constituent 19
+- **11/11** pages checked against frozen Tamil;
+- corrections: **3**;
+- PDF210→211 and PDF214→215 page-boundary continuations restored;
+- PDF212 `திருவண்ணாமலை புராணம்` preserved as **Tiruvannamalai Purana**;
+- unresolved: **0**.
+
+### Constituent 20
+- **12/12** pages checked against frozen Tamil;
+- corrections: **5**;
+- PDF220 `சாதி, மத பேத குப்பைகளை` syntax corrected;
+- PDF221 V.P. Singh / Mandal causality corrected;
+- PDF221→222, PDF224→225, PDF226→227 page-boundary continuations restored;
+- unresolved: **0**.
+
+Combined page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and both separate source closing notes: **PASS**. Frozen Tamil changes during E2: **0**.
+
+## Collection totals after constituents 19–20 E2
+
+- Tamil verified: **20/36**;
+- English E1/E2 complete: **20/36**;
+- English E3 complete / English verified: **18/36**;
+- fully archived: **18/36**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**
+**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**
