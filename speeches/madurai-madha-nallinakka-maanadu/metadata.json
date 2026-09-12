@@ -57,13 +57,13 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "english_translation": "first-pass-complete",
-    "english_translation_review": "not-started",
-    "english_translation_final_verification": "blocked-pending-e2",
+    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation_review": "review-complete",
+    "english_translation_final_verification": "not-started",
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer",
+    "next_gate": "English E3 final end-to-end verification for constituent 24 — all 18 pages",
     "t1_unreadable_or_unknown": 0,
     "strict_reaudit_pages_checked": 18,
     "tamil_visual_audit_through_pdf_page": 287,
@@ -78,6 +78,12 @@
     "english_translation_through_pdf_page": 287,
     "english_translation_through_printed_page": 286,
     "english_translation_missing_pages": 0,
-    "frozen_tamil_changes_during_e1": 0
+    "frozen_tamil_changes_during_e1": 0,
+    "english_translation_review_pages_checked": 18,
+    "english_translation_review_through_pdf_page": 287,
+    "english_translation_review_through_printed_page": 286,
+    "english_translation_review_corrections": 5,
+    "english_translation_review_unresolved": 0,
+    "frozen_tamil_changes_during_e2": 0
   }
 }
