@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 24 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 24 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has passed the source / duplicate / boundary gate**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T1 COMPLETE — 18/18**.
 
 ## Controlling source
 
@@ -20,7 +20,8 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–23 a
 
 - mapped: **36/36**
 - started / source-gated: **24/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **23/36**
+- Tamil T1 complete: **24/36**
+- Tamil T2/T3 complete / Tamil verified: **23/36**
 - English E1/E2/E3 complete / English verified: **23/36**
 - fully archived: **23/36**
 
@@ -29,25 +30,19 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–23 a
 `மதுரை மத நல்லிணக்க மாநாடு` — `speeches/madurai-madha-nallinakka-maanadu/`
 
 - source gate: **PASS / COMPLETE — 18/18**
-- contents date: **29-08-98**
-- PDF **270–287**
-- printed **269–286**
-- **18 source pages**
-- page heading: `மதுரை மத நல்லிணக்க மாநாடு`
-- closing note: `29-8-98 அன்று மதுரையில் மத நல்லிணக்க மாநாட்டில் ஆற்றிய உரை`
-- date: **29-08-1998**
-- venue: `மதுரை`
-- event: `மத நல்லிணக்க மாநாடு`
-- role: `ஆற்றிய உரை`
-- PDF288 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`
-- duplicate unresolved: **0**
-- boundary unresolved: **0**
-- Tamil T1: **NOT STARTED**
+- Tamil T1: **COMPLETE — 18/18**
+- canonical page records: **18/18**, PDF **270–287** / printed **269–286**
+- missing page records: **0**
+- explicit unreadable/unknown placeholders: **0**
+- separate closing note: preserved outside body
+- Tamil T2: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T1 for constituent 24 — all 18 source pages**. Preserve exact source wording and page boundaries, and keep the separate closing note outside the speech body.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituent 24 — all 18 source pages**. Re-read each page directly against source pixels. Confirm exact wording, source-sensitive forms, names, numerals, punctuation, quotations, repetitions, English-letter text, applause markers and all page-boundary continuations. Apply only scan-proven corrections. Keep the separate closing note outside the speech body.
+
+Explicit joins requiring attention: **270→271, 271→272, 275→276, 276→277, 277→278, 278→279, 279→280, 281→282, 282→283, 285→286, 286→287**.
 
 ## STOP RULE
 
-Stop after Tamil T1 for constituent 24. **Do not start Tamil T2, constituent 25, English work, or repository closure in the same activity.**
+Stop after Tamil T2 for constituent 24. **Do not start T3, constituent 25, English work, or repository closure in the same activity.**

@@ -33,12 +33,16 @@
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED** |
-| Tamil T2 strict direct-scan audit | blocked pending T1 |
+| Tamil T1 first-pass transcription | **COMPLETE — 18/18** |
+| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | blocked pending T2 |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 18/18 source pages.** Canonical page records cover PDF **270–287** / printed **269–286** in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Source pixels remain controlling.
+
 ## Exact next gate
 
-**Tamil T1 for constituent 24 — 18 source pages total.** Preserve exact page boundaries and keep the separate closing note outside the speech body. Stop before T2 / constituent 25.
+**Tamil T2 strict direct-scan fidelity audit for constituent 24 — all 18 source pages.** Stop before T3 / constituent 25.

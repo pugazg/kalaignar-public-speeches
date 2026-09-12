@@ -1474,6 +1474,28 @@ Collection totals: mapped **36/36**; source-gated / Tamil verified / English ver
 - English E1/E2/E3 complete / English verified: **23/36**;
 - fully archived: **23/36**.
 
+## Constituent 24 — Tamil T1 first-pass transcription
+
+**COMPLETE — 18/18 source pages.**
+
+- canonical records: PDF **270–287** / printed **269–286**, **18/18**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- source method: **direct visual reading of controlling scans**;
+- Tamil T2: **NOT STARTED**.
+
+T2 source-sensitive attention points and explicit page-boundary continuations are recorded in the constituent `transcription-ta.md`. Source pixels remain controlling and no T2 fidelity claim has yet been made.
+
+## Collection totals after constituent 24 T1
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1 complete: **24/36**;
+- Tamil T2/T3 complete / Tamil verified: **23/36**;
+- English E1/E2/E3 complete / English verified: **23/36**;
+- fully archived: **23/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T1 for constituent 24 — 18 source pages total.** Stop before T2 / constituent 25.
+**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.** Stop before T3 / constituent 25.

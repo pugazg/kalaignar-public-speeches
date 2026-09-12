@@ -21,8 +21,19 @@
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
 
-Tamil T1 has **NOT STARTED**.
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 18/18 source pages.**
+
+- canonical page records: PDF **270–287** / printed **269–286**, **18/18**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- method: direct visual reading of controlling scans;
+- Tamil T2: **NOT STARTED**.
+
+T2 source-sensitive attention points and page-boundary continuations are recorded in `transcription-ta.md`. Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 24 — 18 source pages total.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.**

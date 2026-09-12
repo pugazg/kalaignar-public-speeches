@@ -70,7 +70,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 24 | `madurai-madha-nallinakka-maanadu` | **Source gate complete — Tamil T1 pending** |
+| 24 | `madurai-madha-nallinakka-maanadu` | **Tamil T1 complete — T2 pending** |
 | 25–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -310,6 +310,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 - PDF288 / printed p.287 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`.
 - Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
 
+## Constituent 24 — Tamil T1
+
+**COMPLETE — 18/18 source pages.** Canonical records cover PDF **270–287** / printed **269–286** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Tamil T2 has **NOT STARTED**.
+
 ## Next same-gate batch
 
-Constituent **24** only — Tamil T1 first-pass transcription — **18 source pages total**. Stop before T2 / constituent 25.
+Constituent **24** only — Tamil T2 strict direct-scan fidelity audit — **18 source pages total**. Stop before T3 / constituent 25.
