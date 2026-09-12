@@ -7,7 +7,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **24 / 36**
+- speech archives started / source-gated: **25 / 36**
 - Tamil T1 complete: **24 / 36**
 - Tamil T2 complete: **24 / 36**
 - Tamil T3 complete / Tamil verified: **24 / 36**
@@ -16,7 +16,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E3 complete: **24 / 36**
 - fully archived: **24 / 36**
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **24 passed repository-level archival closure with Tamil and English both `verified-complete`; closure introduced **0 / 0** Tamil / English speech-body changes.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has passed the source / duplicate / boundary gate — 7/7 pages; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -616,6 +616,23 @@ Collection state after E3: source-gated **24/36**; Tamil verified **24/36**; Eng
 
 Collection state: source-gated **24/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**. Constituents **1–24 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 25 — source gate complete
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 7/7 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **25 — அன்னை தெரசா நூல் வெளியீட்டு விழா:** PDF **288–294** / printed **287–293** — **7 pages**.
+- Contents entry: `அன்னை தெரசா நூல் வெளியீட்டு விழா` / `05-09-98`.
+- All mapped scans PDF **288–294** were directly inspected.
+- PDF288 opens numbered constituent 25 with titled opening `அன்னை தெரசா நூல் வெளியீட்டு விழா`.
+- PDF294 ends the speech body before the separate closing note `5-9-98 அன்று சென்னையில் அன்னை தெரசா நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`, establishing **05-09-1998**, venue `சென்னை`, event and role `ஆற்றிய உரை`.
+- PDF287 belongs to closed constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`.
+- PDF295 begins constituent 26 `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`.
+- Duplicate search against live `main`: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/annai-teresa-nool-veliyittu-vizha/`.
+- Tamil T1: **NOT STARTED**; source PDF remains uncommitted.
+
+Collection state: source-gated **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 25 — `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF 288–294 / printed 287–293.**
+**Tamil T1 for constituent 25 — 7 source pages total.** Stop before T2 / constituent 26.
