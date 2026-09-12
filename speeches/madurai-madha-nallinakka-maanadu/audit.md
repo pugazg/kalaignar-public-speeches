@@ -102,8 +102,20 @@ All five corrections are consolidated. Semantic completeness, page correspondenc
 - unresolved English issues: **0**;
 - English state: **`verified-complete`**.
 
-No transcription or translation work remains. Repository closure is **READY / NOT STARTED**.
+## Repository closure
 
-## Exact next gate
+**PASS / COMPLETE — FULLY ARCHIVED.**
 
-**Repository-level archival closure for constituent 24.**
+- Tamil T2 / T3: **1 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **5 / 1 corrections**, unresolved **0**;
+- PDF **270–287** / printed **269–286** source range: **PASS**;
+- canonical Tamil / English page records: **18/18 / 18/18**, complete, unique and ordered;
+- documented page-boundary joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- root catalogue entry: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Archive state: **FULLY ARCHIVED**. No transcription or translation work remains pending.
+
