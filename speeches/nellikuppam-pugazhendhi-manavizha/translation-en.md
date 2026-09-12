@@ -1,6 +1,6 @@
 # Nellikuppam Pugazhendhi Wedding — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 10 / 10 pages**; E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 10 / 10 pages; 3 corrections; 0 unresolved**; E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **184–193** / printed **183–192**
 
@@ -38,7 +38,7 @@ But I cannot refrain from expressing one regret. There was once a time when, in 
 
 greatly valued social consciousness, language consciousness, ethnic consciousness and national consciousness, and wished to commit themselves to a movement on the basis of principle and work in it. I will not say that this has been turned completely upside down today. I only wish to say that it has fallen behind to some extent.
 
-You know how deeply, in our youth, people like us involved ourselves in this movement on the basis of principle. You also know that those of us who joined it still remain in this movement with the same firmness to this day. A few may have changed. That may be their nature, or it may be a disorder caused by opportunism. But when the battalion of youth blossomed under Anna's leadership, I, who grew up holding their hands, our party's general secretary, the self-respect Professor, and others still continue to walk with the same firmness on the foundation of Periyar's principles and along Perarignar Anna's path of ideals.
+You know how deeply, in our youth, people like us involved ourselves in this movement on the basis of principle. You also know that those of us who joined it still remain in this movement with the same firmness to this day. A few may have changed. That may be their nature, or it may be a disorder caused by opportunism. But when the battalion of youth blossomed under Anna's leadership, I, who grew up holding their hands, our party's general secretary, the Inamana Perasiriyar, and others still continue to walk with the same firmness on the foundation of Periyar's principles and along Perarignar Anna's path of ideals.
 
 How do young people generally think today? After finishing their studies, once their student days are over, a young person begins to think. Many plan what they should study in order to shape their lives, complete their studies, think about what professional education they should pursue, and then
 
@@ -78,13 +78,13 @@ When it became clear that no one could come, I, who had gone to the railway stat
 
 and sent them by bus: “Both of you come to Tiruvarur; those who had agreed to come are unable to do so.” They came and took part. Only then did I feel relieved.
 
-Only those who organise meetings know the pain caused when someone agrees to attend a meeting and then does not come. That is why our comrades should not merely be speakers; they should also be functionaries who act. That does not mean I am now inviting Pugazhendhi to come tomorrow itself saying, “I am contesting for the post of town secretary in Nellikuppam.”
+Only those who organise meetings know the pain caused when someone agrees to attend a meeting and then does not come. That is why our comrades should not merely be speakers; they should also be secretaries. That does not mean I am now inviting Pugazhendhi to come tomorrow itself saying, “I am contesting for the post of town secretary in Nellikuppam.”
 
 A secretary must be one who acts. Our speakers should not merely be performers who say, “I will go only to the concert.” They must also be people who work. When they go to various places, after meetings are over they should sit and talk with our branch organisations, union organisations, district organisations, area organisations and town organisations, asking how work is proceeding there: Have you enrolled members? The leader and the general secretary keep issuing statements, do they not? Have you brought the membership forms? How many forms did you bring? How many members have you enrolled? When are you going to send them to party headquarters? They must involve themselves in such activities as well.
 
 ## PDF 193 / printed p.192
 
-Therefore, one cannot grow merely by being a speaker. That speaker must become a functionary — a person who acts. If I stand before you today as the leader of the DMK, I could not have reached this position had I grown merely as a speaker. The reason I am today the chief volunteer of the DMK is that my life began then as a volunteer; that is why I am today the chief volunteer of this party. Through our younger brother Nellikuppam Pugazhendhi I say this to all the speakers in the party: rather than asking others about one's speech by saying, “Do you know how I spoke?” our dear party cadres should conduct themselves in such a way that our actions themselves are praised. I offer this, at this wedding — the life-union ceremony of our younger brother Pugazhendhi and Delsi — as a message to all the young people in the party, and I wish the bride and groom many long years of life.
+Therefore, one cannot grow merely by being a speaker. That speaker must be a secretary — a person who acts. If I stand before you today as the leader of the DMK, I could not have reached this position had I grown merely as a speaker. The reason I am today the chief volunteer of the DMK is that my life began then as a volunteer; that is why I am today the chief volunteer of this party. Through our younger brother Nellikuppam Pugazhendhi I say this to all the speakers in the party: rather than asking others about one's speech by saying, “Do you know how I spoke?” our dear party cadres should conduct themselves in such a way that our actions themselves are praised. I offer this, at this wedding — the life-union ceremony of our younger brother Pugazhendhi and Delsi — as a message to all the young people in the party, and I wish the bride and groom many long years of life.
 
 ### Source closing note — not part of speech body
 
@@ -98,7 +98,7 @@ Therefore, one cannot grow merely by being a speaker. That speaker must become a
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -108,6 +108,16 @@ Therefore, one cannot grow merely by being a speaker. That speaker must become a
 - PDF193 `டெல்சி` is preserved as **Delsi**.
 - The closing note's source-described role — conducting the wedding and delivering the speech — is preserved.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 10/10 pages; 3 corrections; 0 unresolved.**
+
+1. PDF187 / printed p.186: **“the self-respect Professor”** → **“the Inamana Perasiriyar”**, preserving the source epithet `இனமானப் பேராசிரியர்` rather than forcing an explanatory English gloss.
+2. PDF192 / printed p.191: **“functionaries who act”** → **“secretaries”**, restoring the direct `செயலாளர்களாகவும்` wording and the speech's ensuing wordplay on `செயலாளர் / செயல்புரிகின்றவர்`.
+3. PDF193 / printed p.192: **“functionary — a person who acts”** → **“secretary — a person who acts”**, preserving the same repeated source term `செயலாளர்`.
+
+All **10/10** English page records, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive notes and the separate closing note were independently compared against frozen Tamil. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 17–18 together — 21 English pages total.**
+**English E3 final end-to-end verification for constituents 17–18 together — 21 English pages total.**

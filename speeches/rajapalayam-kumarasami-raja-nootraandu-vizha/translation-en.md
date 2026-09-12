@@ -1,6 +1,6 @@
 # Rajapalayam Kumarasami Raja Centenary Celebration — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 11 / 11 pages**; E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 11 / 11 pages; 2 corrections; 0 unresolved**; E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **194–204** / printed **193–203**
 
@@ -54,7 +54,7 @@ Because, at the centenary celebration being held for one former Chief Minister, 
 
 former Chief Minister's centenary is being announced by me, the present Chief Minister; that is precisely why I say this is very appropriate. If you look at Kumarasami Raja's life and read it without leaving out a single line, as our Mullaivendhan pointed out while speaking here:
 
-“Kumarasami Raja too had to lose his office for certain principles. Kalaignar too had to lose his in the same way.” This is not the only incident. Even in youth I see many incidents in his life that correspond with mine. Kumarasami Raja himself wrote in his biographical notes that when he was studying in high school he walked seven miles from Rajapalayam to Srivilliputhur to study. Moopanar knows this. There are 15 kal between Thirukkuvalai, where I was born, and Tiruvarur. I had to go to a village called Tirunellikaval and walk seven miles to board the train. I too walked seven miles, boarded the train, and went to Tiruvarur to study.
+“Kumarasami Raja too had to lose his office for certain principles. Kalaignar too had to lose his in the same way.” This is not the only incident. Even in youth I see many incidents in his life that correspond with mine. Kumarasami Raja himself wrote in his biographical notes that when he was studying in high school he walked seven miles from Rajapalayam to Srivilliputhur to study. Moopanar knows this. There are 15 kal between Thirukkuvalai, where I was born, and Tiruvarur. I had to walk seven miles to the village of Tirunellikaval there in order to board the train. I too walked seven miles, boarded the train, and went to Tiruvarur to study.
 
 So these seven miles form a very strong similarity between Kumarasami Raja and me. I even wonder whether that one similarity too may be a reason I came to take part in this function. Another thing: he too failed the S.S.L.C.
 
@@ -82,7 +82,7 @@ Kumarasami
 
 Raja is the one through whom we learn that a century ago, in this district and in other districts, Iyers and Iyengars themselves were divided by caste hostility. Such caste differences, religious differences, religious clashes and caste clashes have existed in Tamil Nadu for a century. There were many people who grieved over them and thought they must end, that they must be removed. When we think that people like Kumarasami Raja were among them, we can understand how great the task before us is.
 
-If he had wished in his youth, he was born into a great Raja family. He was wealthy, with lands and gardens in abundance. Yet instead of desiring that pleasant and comfortable life, he was imprisoned once for a year and another time for nine months, dedicating himself to the country and the people. That such an impulse arose in him in his youth is striking. Reading those memories of his youth makes me wonder with concern: will the young people of Tamil Nadu today reform themselves? Will they think, “We too should become like Kumarasami Raja”? For I am a person filled with great sorrow and concern.
+If he had wished in his youth, he was born into a great royal family. He was wealthy, with lands and gardens in abundance. Yet instead of desiring that pleasant and comfortable life, he was imprisoned once for a year and another time for nine months, dedicating himself to the country and the people. That such an impulse arose in him in his youth is striking. Reading those memories of his youth makes me wonder with concern: will the young people of Tamil Nadu today reform themselves? Will they think, “We too should become like Kumarasami Raja”? For I am a person filled with great sorrow and concern.
 
 My concern is about how today's young people are going to be of use in protecting this country, society, language and people in the future. Some fifty years ago, young people
 
@@ -112,7 +112,7 @@ Our Ramasubramania Raja has placed a few requests here. There are two or three r
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -124,6 +124,15 @@ Our Ramasubramania Raja has placed a few requests here. There are two or three r
 - PDF203 source-odd `உல்லாச புரியே` is rendered literally as **“a pleasure-city itself”** rather than silently replacing the Tamil.
 - PDF204 `பப்ளிக் சர்வண்ட்` and `கிரீன்வேஸ் சாலை` are preserved as **Public Servant** and **Greenways Road**.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 11/11 pages; 2 corrections; 0 unresolved.**
+
+1. PDF199 / printed p.198: revised the Tirunellikaval journey clause to **“I had to walk seven miles to the village of Tirunellikaval there in order to board the train”**, preserving the source sequence `திருநெல்லிக்காவல் ... இரயிலேற ஏழு மைல் தூரம் நான் நடந்தே செல்லவேண்டும்`.
+2. PDF202 / printed p.201: **“great Raja family”** → **“great royal family”**, directly rendering `பெரிய இராஜ குடும்பம்` as an adjectival description rather than treating `இராஜ` as a family name.
+
+All **11/11** English page records, page joins, names/titles/numerals, rhetoric/repetition, source-sensitive chronology and wording, and the separate closing note were independently compared against frozen Tamil. Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituents 17–18 together — 21 English pages total.**
+**English E3 final end-to-end verification for constituents 17–18 together — 21 English pages total.**
