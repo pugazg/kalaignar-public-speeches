@@ -70,7 +70,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 24 | `madurai-madha-nallinakka-maanadu` | **Tamil T2 complete — T3 pending** |
+| 24 | `madurai-madha-nallinakka-maanadu` | **Tamil verified-complete / FROZEN — English E1 pending** |
 | 25–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -318,6 +318,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved.** PDF279 / printed p.278 `ஆலோசித்து வருகிறேன்` → `ஆலோசித்து வருகின்றேன்`. Page order / joins and separate closing-note handling pass.
 
+## Constituent 24 — Tamil T3
+
+**PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; stale superseded reading is absent; canonical page records are complete, unique and ordered; documented joins and separate closing-note handling pass. Tamil is **`verified-complete` / FROZEN**.
+
 ## Next same-gate batch
 
-Constituent **24** only — Tamil T3 consolidation/freeze — **18 source pages total**. Stop before English / constituent 25.
+Constituent **24** only — English E1 first-pass translation from frozen Tamil — **18 verified Tamil pages total**. Constituent 25 remains outside the batch.

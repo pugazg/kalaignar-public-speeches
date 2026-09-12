@@ -19,13 +19,13 @@
 - mapped: **36 / 36**; started / source-gated: **23 / 36**;
 - Tamil T1 complete: **24 / 36**;
 - Tamil T2 complete: **24 / 36**;
-- Tamil T3 complete / Tamil verified: **23 / 36**;
+- Tamil T3 complete / Tamil verified: **24 / 36**;
 - English E1 complete: **23 / 36**;
 - English E2 complete: **23 / 36**;
 - English E3 complete / English verified: **23 / 36**;
 - fully archived: **23 / 36**.
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T2 PASS / COMPLETE — 18/18; 1 correction; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T3 PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -635,6 +635,14 @@ Tamil T2: **PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved**
 
 Tamil T3: **READY / NOT STARTED**. Constituent 25 remains outside the active batch.
 
+## Constituent 24 — durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved**.
+
+The **1/1** T2 correction remains consolidated. Stale superseded canonical speech-body reading: **0**. Canonical page records are **18/18**, complete, unique and ordered; missing / duplicate records **0 / 0**. Documented joins, source-sensitive quoted material, the English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, applause marker and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil for constituent 24 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 25 remains outside the active batch. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English / constituent 25.
+**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**

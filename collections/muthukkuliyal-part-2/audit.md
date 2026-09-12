@@ -1515,6 +1515,28 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **23/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 24 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- stale superseded canonical speech-body reading: **0**;
+- canonical page records: **18/18**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- documented page-boundary joins: **PASS**;
+- source-sensitive quoted material, English-letter text, Articles 356 / 355, applause marker and separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 24 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **24/36**;
+- English E1/E2/E3 complete / English verified: **23/36**;
+- fully archived: **23/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English / constituent 25.
+**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**

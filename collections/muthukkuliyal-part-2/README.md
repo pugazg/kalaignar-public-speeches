@@ -10,13 +10,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **24 / 36**
 - Tamil T1 complete: **24 / 36**
 - Tamil T2 complete: **24 / 36**
-- Tamil T3 complete / Tamil verified: **23 / 36**
+- Tamil T3 complete / Tamil verified: **24 / 36**
 - English E1 complete: **23 / 36**
 - English E2 complete: **23 / 36**
 - English E3 complete: **23 / 36**
 - fully archived: **23 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T2 PASS / COMPLETE — 18/18; 1 correction; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T3 PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -582,6 +582,14 @@ Collection state: source-gated **24/36**; Tamil T1 complete **24/36**; Tamil T2/
 
 Collection state: source-gated **24/36**; Tamil T1 **24/36**; Tamil T2 **24/36**; Tamil verified **23/36**; English verified **23/36**; fully archived **23/36**.
 
+## Constituent 24 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; stale superseded speech-body reading is absent; canonical page records are complete, unique and ordered; documented joins, source-sensitive quoted material, English-letter text, Articles 356 / 355, applause marker and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
+Collection state: source-gated **24/36**; Tamil T1/T2/T3 complete / Tamil verified **24/36**; English verified **23/36**; fully archived **23/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English / constituent 25.
+**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**

@@ -20,7 +20,7 @@ Tamil T1: **COMPLETE — 18/18**. Canonical page records cover PDF **270–287**
 
 Tamil T2: **PASS / COMPLETE — 18/18; 1 correction; 0 unresolved**. PDF279 / p.278 `ஆலோசித்து வருகிறேன்` was corrected to source-proven `ஆலோசித்து வருகின்றேன்`. All page joins, source-sensitive quotations / English-letter text and the separate closing note pass.
 
-Tamil T3: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+Tamil T3: **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved**. Tamil is **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
 
 ## Exact next gate
 

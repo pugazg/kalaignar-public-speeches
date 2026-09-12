@@ -1,10 +1,10 @@
 # மதுரை மத நல்லிணக்க மாநாடு — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 18 / 18 pages; 1 correction; 0 unresolved**; Tamil T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **18 / 18 pages COMPLETE**  
 **Source range:** PDF **270–287** / printed **269–286**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 18 source pages directly and consolidated **1 scan-proven correction** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 18 source pages directly and consolidated **1 scan-proven correction** with **0 unresolved**. Tamil T3 consolidation/freeze is **PASS / COMPLETE** with **0 additional corrections** and **0 unresolved**. The canonical Tamil layer is now **`verified-complete` / FROZEN**.
 
 ## PDF 270 / printed p.269
 
@@ -236,6 +236,21 @@ All mapped pages PDF **270–287** were re-read directly. The `Phool Walon Ki Sa
 
 Explicit page-boundary continuations **270→271, 271→272, 275→276, 276→277, 277→278, 278→279, 279→280, 281→282, 282→283, 285→286, 286→287**: **PASS**. Canonical page records remain **18/18**, complete, unique and ordered. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- stale superseded canonical speech-body reading `ஆலோசித்து வருகிறேன்`: **absent**;
+- canonical page records: **18/18**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit joins **270→271, 271→272, 275→276, 276→277, 277→278, 278→279, 279→280, 281→282, 282→283, 285→286, 286→287**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- `Phool Walon Ki Sair`, திரு.வி.க. quotation, 16.4.74 resolution, English Indira Gandhi letter and Tamil rendering, Articles 356 / 355, applause marker and source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 24 — all 18 source pages.** Stop before English / constituent 25.
+**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**

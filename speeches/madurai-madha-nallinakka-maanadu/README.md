@@ -35,8 +35,9 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 18/18** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 18/18; 1 correction; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending E1/E2 |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -47,6 +48,12 @@
 
 **PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved.** PDF279 / printed p.278: `ஆலோசித்து வருகிறேன்` → `ஆலோசித்து வருகின்றேன்`. The correction is consolidated; page order / joins, source-sensitive quoted material, English-letter text and the separate closing note pass.
 
+## Tamil T3
+
+**PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; the stale superseded reading is absent; canonical page records are complete, unique and ordered; documented joins, source-sensitive quoted material, English-letter text, Articles 356 / 355, applause marker and the separate closing note all pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 24 — all 18 source pages.** Stop before English / constituent 25.
+**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**
