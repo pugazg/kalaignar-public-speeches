@@ -51,6 +51,19 @@ All **1/1** T2 corrections remain consolidated; stale superseded readings are ab
 
 Tamil state: **`verified-complete` / FROZEN**.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 11/11 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **11/11**, complete and ordered;
+- missing English page records: **0**;
+- page correspondence / joins: **PASS**;
+- names / titles / numerals / rhetoric / repetition / source-sensitive wording: carried forward for E2 review;
+- separate source closing note: **preserved outside speech body**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **NOT STARTED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.**
+**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.**

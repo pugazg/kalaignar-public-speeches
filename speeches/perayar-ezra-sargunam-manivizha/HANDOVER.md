@@ -1,28 +1,18 @@
 # HANDOVER — பேராயர் எஸ்ரா சற்குணம் மணிவிழா
 
-## Repository
-- Repository: `pugazg/kalaignar-public-speeches`
-- Branch: `main`
-- Speech directory: `speeches/perayar-ezra-sargunam-manivizha/`
-- Parent collection: `collections/muthukkuliyal-part-2/`
-
-## Controlling source
-- `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
-- SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- PDF **216–227** / printed **215–226** — **12 pages**
-- source PDF remains uncommitted.
-
 ## Durable state
 - source / duplicate / boundary: **PASS / COMPLETE**;
-- Tamil T1: **COMPLETE — 12/12**;
-- Tamil T2: **PASS / COMPLETE — 12/12; 7 corrections; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE — 12/12; 0 additional corrections; 0 unresolved**;
+- Tamil T1/T2/T3: **COMPLETE**;
 - Tamil: **`verified-complete` / FROZEN**;
-- all **7/7** T2 corrections remain consolidated;
-- canonical page records: **12/12**, complete, unique and ordered;
-- all page joins and separate closing note: **PASS**;
-- English E1: **READY / NOT STARTED**;
+- English E1: **COMPLETE — 12/12**;
+- English page records: **12/12**, complete and ordered;
+- missing English page records: **0**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**;
 - source PDF remains uncommitted.
 
+Source range remains PDF **216–227** / printed **215–226**. English E1 was translated only from frozen Tamil and preserves the source-sensitive name/wordplay passages, social-justice argument, 1989 first-graduate scheme, community list, court/reservation passages, Samathuvapuram discussion and `ஆர்.எம்.வீ.` / `ஆரம்பக் கர்த்தாவாக` wording for independent E2 review.
+
 ## Exact next gate
-**English E1 first-pass translation for constituents 19–20 together — 23 verified Tamil pages total.** Stop before E2 / constituent 21.
+**English E2 independent fidelity review for constituents 19–20 together — 23 English pages total.** Stop before E3 / constituent 21.
