@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 19–20 Tamil T2
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 19–20 Tamil T3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–18 are CLOSED / FULLY ARCHIVED**. Constituents **19–20 have completed Tamil T1 — 23/23 pages**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–18 are CLOSED / FULLY ARCHIVED**. Constituents **19–20 have completed Tamil T2 — 23/23 pages; 8 corrections; 0 unresolved**.
 
 ## Controlling source
 
@@ -20,36 +20,29 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–18 a
 
 - mapped / started / source-gated: **36/36 / 20/36 / 20/36**
 - Tamil T1 complete: **20/36**
-- Tamil T2/T3 complete / Tamil verified: **18/36**
-- English E1/E2/E3 complete / English verified: **18/36**
+- Tamil T2 complete: **20/36**
+- Tamil T3 complete / Tamil verified: **18/36**
+- English verified: **18/36**
 - fully archived: **18/36**
 
 ### Constituent 19
-
-`திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா` — `speeches/thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha/`
-
+`திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா`
 - PDF **205–215** / printed **204–214** — **11 pages**
-- T1: **COMPLETE — 11/11**
-- missing / explicit unknown page records: **0 / 0**
-- closing note preserved separately
-- T2: **NOT STARTED**
+- T2: **PASS / COMPLETE — 11/11; 1 correction; 0 unresolved**
+- correction: PDF213 `தலைமையைக் காண` → `தலையைக் காண`
+- T3: **NOT STARTED**
 
 ### Constituent 20
-
-`பேராயர் எஸ்ரா சற்குணம் மணிவிழா` — `speeches/perayar-ezra-sargunam-manivizha/`
-
+`பேராயர் எஸ்ரா சற்குணம் மணிவிழா`
 - PDF **216–227** / printed **215–226** — **12 pages**
-- T1: **COMPLETE — 12/12**
-- missing / explicit unknown page records: **0 / 0**
-- closing note preserved separately
-- T2: **NOT STARTED**
+- T2: **PASS / COMPLETE — 12/12; 7 corrections; 0 unresolved**
+- corrections: PDF217 (3), PDF220 (1), PDF224 (1), PDF226 (1), PDF227 (1)
+- T3: **NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — all 23 source pages**. Re-read every page visually, line by line. Verify names, numerals, punctuation, quotations, repetitions, source-sensitive forms, all page-boundary continuations and the separate closing notes. Apply only source-proven corrections and record correction counts / unresolved readings in each audit.
-
-Use the T2 attention-point lists already recorded in the two `transcription-ta.md` files.
+Perform **Tamil T3 consolidation/freeze for constituents 19–20 together — all 23 source pages**. Confirm all **8/8** T2 corrections remain consolidated, check for stale superseded readings, verify complete / unique / ordered canonical page records, all page-boundary joins, names / numerals / quotations / source-sensitive forms, and both separate closing notes. Apply an additional correction only if directly proven by the controlling scan. Mark each Tamil layer `verified-complete` / FROZEN only if unresolved readings are **0**.
 
 ## STOP RULE
 
-Stop after Tamil T2 for constituents 19–20. **Do not start T3, constituent 21, English work, or repository closure in the same activity.**
+Stop after Tamil T3 for constituents 19–20. **Do not start English, constituent 21, or repository closure in the same activity.**

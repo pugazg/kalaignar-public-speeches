@@ -31,6 +31,24 @@ Tamil T1 has **NOT STARTED**.
 - method: direct visual reading of controlling scans;
 - Tamil T2: **NOT STARTED**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 12/12 source pages; 7 corrections; 0 unresolved.**
+
+Scan-confirmed corrections consolidated into canonical Tamil:
+
+1. `அவர்களுக்குத்தான் வரும்` → **`அவர்களுக்குத் தான் வரும்`** (PDF217 / p.216).
+2. `ஒரு சொல்லைச் சொல்ல` → **`ஒரு சொல்லை சொல்ல`** (PDF217 / p.216).
+3. `ஈகைக் குணம் படைத்த` → **`ஈகை குணம் படைத்த`** (PDF217 / p.216).
+4. `இங்கே செயல்படும் பெற்றிருக்கின்றது` → **`இங்கே செயல்படவும் பெற்றிருக்கின்றது`** (PDF220 / p.219).
+5. `நடைபெற வழக்கு` → **`நடைபெற்ற வழக்கு`** (PDF224 / p.223).
+6. `அந்த வீடுகளில் குடியேற` → **`அந்த வீடுகளிலே குடியேற`** (PDF226 / p.225).
+7. `அதனால் தான் நம்முடைய ஆர்.எம்.வீ.` → **`அதனால்தான் நம்முடைய ஆர்.எம்.வீ.`** (PDF227 / p.226).
+
+Source-sensitive readings retained as printed include `பிளாஷ்பேக்`, `ஆசைச் சொல்லாக`, `இருகுறிப் பெயராக`, `காயிதேமில்லத்`, `என் காலத்திற்குள்ளாக யாவது`, `கௌதம புத்தர்`, the first-graduate scheme, `யார் தேர் இழுப்பது`, `ஆர்.எம்.வீ.` and `ஆரம்பக் கர்த்தாவாக`.
+
+All contiguous page-boundary continuations and the separate source closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.**

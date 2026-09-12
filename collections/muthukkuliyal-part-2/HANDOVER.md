@@ -336,6 +336,18 @@ Combined Tamil T1: **COMPLETE — 23/23 source pages**. Constituent 19 is PDF **
 
 Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
 
+## Constituents 19–20 — durable Tamil T2 result
+
+Combined Tamil T2: **PASS / COMPLETE — 23/23 source pages; 8 corrections; 0 unresolved**.
+
+- constituent 19: **1 correction** on PDF213 (`தலைமையைக் காண` → `தலையைக் காண`);
+- constituent 20: **7 corrections** across PDF217 / 220 / 224 / 226 / 227;
+- canonical page records remain **23/23**, complete and ordered;
+- all contiguous page joins and both separate closing notes: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
+
+Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.** Stop before T3 / constituent 21.
+**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.

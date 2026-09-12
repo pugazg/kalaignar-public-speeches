@@ -1,10 +1,10 @@
 # திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா — Tamil transcription
 
-**Status:** `first-pass-complete` — Tamil T1 **COMPLETE — 11 / 11 pages**; Tamil T2 pending  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 11 / 11 pages; 1 correction; 0 unresolved**; Tamil T3 pending  
 **Source range:** PDF **205–215** / printed **204–214**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Source pixels remain controlling. T2 has **NOT STARTED**; this first pass is not a final fidelity claim.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 11 source pages directly and consolidated **1 correction** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
 
 ## PDF 205 / printed p.204
 
@@ -82,7 +82,7 @@
 
 பெரியவர்”, என்று. இவர்கள் சண்டை போடுவதைப் பார்த்த பரமசிவன் அவர்களிடத்தில் வந்து, “என்ன சண்டை போடுகிறீர்கள்?” என்று கேட்டார். “யார் பெரியவர் என்பதிலே சண்டை” என்றார்கள். “இதற்கு ஏன் சண்டை போடுகிறீர்கள். நான் உபாயம் சொல்கிறேன் அதை நீங்கள் செய்வீர்களா?” என்று கேட்டார். அதற்கு இவர்கள் “என்ன?” என்று கேட்டார்கள். “என்னுடைய தலை முடியையும் காலடியையும் யார் முதலில் பார்த்துவிட்டு வந்து முதலில் என்னிடத்திலே சொல்கிறார்களோ அவர்கள்தான் பெரியவர், உயர்ந்தவர்,” என்று பரமசிவன் சொன்னார். உடனடியாக மகாவிஷ்ணு பன்றி அவதாரம் எடுத்து சிவனுடைய காலடியை பார்ப்பதற்காகப் பூமியைக் குடைந்து கொண்டு சென்றார். காரணம் பரமசிவன் வானத்திற்கும் பூமிக்குமாக விஸ்வரூபம் எடுத்து நின்றார்.
 
-பிரம்மதேவன் சிவனுடைய தலைமுடியைப் பார்ப்பதற்காக அன்னபட்சி உருவமெடுத்து மேலே பறந்தார். ஒருவர் மேலே பறக்கிறார், தலைமையைக் காண. இன்னொருவர் கீழே குடைகிறார் பன்றி உருவத்தில் காலடியைக் காண.
+பிரம்மதேவன் சிவனுடைய தலைமுடியைப் பார்ப்பதற்காக அன்னபட்சி உருவமெடுத்து மேலே பறந்தார். ஒருவர் மேலே பறக்கிறார், தலையைக் காண. இன்னொருவர் கீழே குடைகிறார் பன்றி உருவத்தில் காலடியைக் காண.
 
 இப்படி இருவரும் முயற்சித்துக் கொண்டிருக்கிற நேரத்தில் பரமசிவன் தலையில் இருந்து ஒரு தாழம்பூ மேலே இருந்து கீழே விழுகிறது. அதை அன்னபட்சி உருவத்தில் இருந்த பிரம்மா பார்த்துவிட்டு, “எங்கிருந்து வருகிறாய்?” என்று கேட்டார். அதற்கு “பரமசிவன் தலையிலிருந்து வருகிறேன்” என்று சொன்னது தாழம்பூ. இதுதான் சரி என்று அந்தத் தாழம்பூவை அன்னபட்சி வடிவத்தில் உள்ள பிரம்ம தேவன், “நீ தலையிலேதானே இருந்தாய்?” என்று கேட்க; அதற்கு “ஆமாம்” என்று தாழம்பூ சொன்னது. “அப்படியானால் சிவனிடத்திலே ஒரு பொய் சொல்லிவிடு. நான் உன்னை தலையிலே பார்த்ததாகச் சொல்லிவிடு” என்று பிரம்மா சொன்னார்.
 
@@ -115,12 +115,24 @@
 - Missing page records: **0**.
 - Explicit unreadable/unknown placeholders: **0**.
 - Source closing note: **preserved separately outside the speech body**.
-- Tamil T2: **NOT STARTED**.
+- At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 is now complete.
 
 ### T2 attention points
 
 Re-read every page in full. In particular verify PDF205→206 `அந்த மன / ஆறுதலோடு`; PDF207 `சும்மாதான்` and the 38/5/3/30/33/87 counts; PDF208 the 128/21/35/72/97/67/74 counts; PDF209 `அனைத்திந்தியாவிற்கும்`, `கணினி இயந்திரத் தகவல் பலகை` and `பத்து முதல் நிலை`; PDF210 the 15-percent / three-to-ten military-family quota wording; PDF211 `அழுத்தம் திருத்தமாக`; PDF212 the doctor/engineer comparison and cement-mix sentence; PDF213–214 the Brahma/Vishnu/தாழம்பூ narrative; PDF214 `கனவும் நினைக்காமல்`; and the separate closing note.
 
+## T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 11/11 source pages; 1 correction; 0 unresolved.**
+
+Scan-confirmed correction consolidated into canonical Tamil:
+
+1. PDF213 / printed p.212: `தலைமையைக் காண` → **`தலையைக் காண`**.
+
+The full PDF205–215 sequence was re-read line by line. Source-sensitive readings retained as printed include `சும்மாதான்`, all education-institution counts, `அனைத்திந்தியாவிற்கும்`, `கணினி இயந்திரத் தகவல் பலகை`, `பத்து முதல் நிலை`, `அழுத்தம் திருத்தமாக`, the doctor/engineer comparison, the Brahma/Vishnu/தாழம்பூ narrative and `கனவும் நினைக்காமல்`.
+
+All contiguous page-boundary continuations **205→206 through 214→215**: **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.** Stop before T3 / constituent 21.
+**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.

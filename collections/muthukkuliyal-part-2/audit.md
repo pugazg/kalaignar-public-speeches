@@ -843,6 +843,32 @@ Fully archived total: **18 / 36**. Constituents **1–18 are CLOSED / FULLY ARCH
 - fully archived: **18/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 19–20 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 23/23 source pages; 8 corrections; 0 unresolved.**
+
+### Constituent 19
+- **11/11** pages re-read;
+- correction: PDF213 / p.212 `தலைமையைக் காண` → `தலையைக் காண`;
+- corrections: **1**; unresolved: **0**.
+
+### Constituent 20
+- **12/12** pages re-read;
+- PDF217: three source-form corrections (`அவர்களுக்குத் தான்`, `ஒரு சொல்லை சொல்ல`, `ஈகை குணம்`);
+- PDF220: `செயல்படவும் பெற்றிருக்கின்றது`;
+- PDF224: `நடைபெற்ற வழக்கு`;
+- PDF226: `அந்த வீடுகளிலே குடியேற`;
+- PDF227: `அதனால்தான் நம்முடைய ஆர்.எம்.வீ.`;
+- corrections: **7**; unresolved: **0**.
+
+Combined page-boundary continuations and both separate closing notes: **PASS**. Source PDF remains uncommitted.
+
+## Collection totals after constituents 19–20 T2
+- mapped / started / source-gated: **36/36 / 20/36 / 20/36**;
+- Tamil T1/T2 complete: **20/36**;
+- Tamil T3 complete / Tamil verified: **18/36**;
+- English verified / fully archived: **18/36 / 18/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.**

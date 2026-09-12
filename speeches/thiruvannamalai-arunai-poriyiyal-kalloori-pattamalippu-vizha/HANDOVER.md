@@ -13,11 +13,15 @@
 - source PDF remains uncommitted.
 
 ## Durable state
-
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1: **COMPLETE — 11/11**. Canonical page records **11/11**, missing **0**, explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
-
-T2 must re-read every page directly against the scans, with particular attention to the source-sensitive forms / joins recorded in `transcription-ta.md`, including the PDF205→206 `அந்த மன / ஆறுதலோடு` join, all education-institution counts, `அனைத்திந்தியாவிற்கும்`, `கணினி இயந்திரத் தகவல் பலகை`, `அழுத்தம் திருத்தமாக`, the doctor/engineer comparison, the Brahma/Vishnu/தாழம்பூ narrative and `கனவும் நினைக்காமல்`.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 11/11**;
+- Tamil T2: **PASS / COMPLETE — 11/11; 1 correction; 0 unresolved**;
+- T2 correction: PDF213 `தலைமையைக் காண` → `தலையைக் காண`;
+- canonical page records: **11/11**, complete and ordered;
+- page joins / separate closing note: **PASS**;
+- Tamil T3: **READY / NOT STARTED**;
+- English remains blocked pending verified Tamil;
+- source PDF remains uncommitted.
 
 ## Exact next gate
-
-**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.** Stop before T3 / constituent 21.
+**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.** Stop before English / constituent 21.

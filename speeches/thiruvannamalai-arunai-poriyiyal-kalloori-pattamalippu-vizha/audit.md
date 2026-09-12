@@ -31,6 +31,18 @@ Tamil T1 has **NOT STARTED**.
 - method: direct visual reading of controlling scans;
 - Tamil T2: **NOT STARTED**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 11/11 source pages; 1 correction; 0 unresolved.**
+
+Scan-confirmed corrections consolidated into canonical Tamil:
+
+1. `தலைமையைக் காண` → **`தலையைக் காண`** (PDF213 / p.212).
+
+Source-sensitive readings retained as printed include `சும்மாதான்`, the numeric education counts, `அனைத்திந்தியாவிற்கும்`, `கணினி இயந்திரத் தகவல் பலகை`, `அழுத்தம் திருத்தமாக`, the Brahma/Vishnu/தாழம்பூ narrative and `கனவும் நினைக்காமல்`.
+
+All contiguous page-boundary continuations and the separate source closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 19–20 together — 23 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 19–20 together — 23 source pages total.**
