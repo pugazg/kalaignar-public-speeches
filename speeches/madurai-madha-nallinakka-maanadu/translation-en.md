@@ -1,6 +1,6 @@
 # Madurai Religious Harmony Conference — English translation
 
-**Status:** `first-pass-complete` — English E1 **18 / 18 pages COMPLETE**  
+**Status:** `fidelity-corrections-consolidated` — English E1/E2 **18 / 18 pages COMPLETE**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **270–287** / printed **269–286**
 
@@ -52,7 +52,7 @@ Since 1961, the Government of Tamil Nadu has sent pankhas and cultural troupes a
 
 Even last year, two pankhas were carried in this flower-sellers' procession, and, in particular, an artistic performance was presented by the troupe of Dr. Somasundaram from Madurai.
 
-Madurai Somasundaram received first prize for that artistic performance, and, in my capacity as Chief Minister, I received letters of appreciation from the Lieutenant Governor and the Chief Minister of Delhi for having sent that cultural troupe.
+Madurai Somasundaram received first prize for that artistic performance, and, in my capacity as Chief Minister, I received letters of appreciation from the Governor and the Chief Minister of Delhi for having sent that cultural troupe.
 
 This year too, the flower-sellers' procession is to be held in New Delhi on October 11. We have received a message from there requesting us to send a cultural troupe this year also to take part in the festival. Accepting that request, the Government of Tamil Nadu has provided 55,000 rupees for sending the cultural troupe there and for Hindus and Muslims to come together and conduct that flower-sellers' procession. I wish to inform you of this as well.
 
@@ -62,7 +62,7 @@ The reason I mention this here is that, even in Akbar's time, an effort was made
 
 But this festival is held only in Delhi. This flower festival should be held in the capital of every State. In Tamil Nadu, it should be held not only in the capital city of Chennai, but also in Madurai and Tiruchi. In this way, even though Hindus and Muslims belong to different religions, the feeling that they should live without religious division and associate with one another in unity of mind must grow.
 
-Even today I saw a report in the newspapers. As our Communist Party of India leader Nallakannu pointed out, you may have heard that, when Vinayaka Chaturthi processions for Vigneswara were held in many places, at Kayalpattinam — a town where only Muslims live — something notable happened. I have visited that town many times. Thousands upon thousands of Muslim people live there. When the Vinayaka procession passed through that area today, Muslim men and women, elders and others welcomed the procession, honoured it with garlands, and expressed their support and welcome.
+Even today I saw a report in the newspapers. As our Communist Party of India leader Nallakannu pointed out, you may have heard that, when Vinayaka Chaturthi processions for Vigneswara were held in many places, at Kayalpattinam — a town where only Muslims live — something notable happened. I have visited that town many times. Thousands upon thousands of Muslim people live there. When the Vinayaka procession passed through that area today, Muslim men, mothers and elders welcomed the procession, honoured it with garlands, and expressed their support and welcome.
 
 ## PDF 275 / printed p.274
 
@@ -72,11 +72,11 @@ For some, this may raise questions such as: Did they worship God? Did they worsh
 
 I put aside, as a secondary matter, whether I am an atheist or a theist — I rejoice in the fact that atheists or theists, both of them, are together. Muslims and Christians welcoming Vinayaka Chaturthi and rejoicing in it, and likewise, on another day, a situation arising in which Hindus take part in an Islamic festival — no one can say that these are contradictions.
 
-What are we speaking about here? Religious harmony. I am duty-bound to cite this here as one path suited to that harmony. This religious harmony did not begin today or yesterday; Thiru. Vi. K., in an article written “To the youth...”, points out how, amid so many differences, it grew and became strong—
+What are we speaking about here? Religious harmony. I am duty-bound to cite this here as one path suited to that harmony. This religious harmony did not begin today or yesterday; how it grew and became strong amid so many differences is something Thiru. Vi. K.—
 
 ## PDF 276 / printed p.275
 
-—among young people.
+—mentions in an article he wrote, “To the youth...”.
 
 He says: “Who is a Tamil? One may say that those who from time immemorial have had Tamil as their mother tongue, and those who settled in Tamil Nadu and established their lives here, are Tamils. Among them there may be Saivites; there may be Vaishnavites; there may be Arugars; (Arugar means Jains), there may be Buddhists; there may be theists; there may be atheists. It must never be forgotten that all of them are Tamils. Here the condition of the Sangam age comes to mind. They were not all people of one doctrine. That is, the Tamil Sangam age, that Sangam period, comes to mind. In the Sangam period, everyone was not of one doctrine. Among them were Saivites, Vaishnavites, Arugars, Buddhists and others. All of them lived with brotherly affection. What was the reason? Their thought did not dwell upon religious difference or other differences. They thought of themselves as Tamils — brothers — and, with hearts of unity, served Mother Tamil. Were Cheran Senguttuvan, Ilango Adigal and Seethalai Sattanar, these three, followers of one religious doctrine? No. One was a Saivite; another was an Arugar; another was a Buddhist. What spiritual fellowship existed among them!
 
@@ -122,7 +122,7 @@ After that, some changes occurred in the Congress party. Therefore there was a w
 
 In 1974, on the basis of the report submitted by the Rajamannar Committee, I moved a resolution in the Tamil Nadu Legislative Assembly and that resolution was passed by the Assembly. This was the resolution:-
 
-“This House, having taken up for consideration the views of the Government of Tamil Nadu on State autonomy and on the recommendations of the Rajamannar Committee, together with the report of the Rajamannar Committee, resolves that, in order to preserve the unity of the Indian nation, which contains diverse languages, civilisations and cultures, to advance economic development, and to enable State administrations which are in close contact with the people to function without obstruction, the Central Government should accept the views placed by the Government of Tamil Nadu on State autonomy and on the recommendations of the Rajamannar Committee, and that the Constitution of India should be amended immediately on the basis of creating a true federal system with federation at the Centre and autonomy in the States.” I moved this resolution in the Legislative Assembly on 16.4.74, and it was passed.
+“This House, having taken up for consideration the views of the Government of Tamil Nadu on State autonomy and on the recommendations of the Rajamannar Committee, together with the report of the Rajamannar Committee, resolves that, in order to preserve the unity of the Indian nation, which contains diverse languages, civilisations and cultures, to advance economic development, and to enable State administrations which are in close contact with the people to function without obstruction, the Central Government should accept the views placed by the Government of Tamil Nadu on State autonomy and on the recommendations of the Rajamannar Committee, and that the Constitution of India should be amended immediately on the basis of creating a true federal system with federalism at the Centre and autonomy in the States.” I moved this resolution in the Legislative Assembly on 16.4.74, and it was passed.
 
 I sent the resolution that had been passed to the then Prime Minister of India, Mother Indira Gandhi.
 
@@ -198,7 +198,7 @@ Therefore, this conference declares unequivocally that the responsibility for se
 
 There must be a change from the attitude that only those in the States are people who commit offences while everyone at the Centre is a pure self-radiant being. This resolution emphasises that point here.
 
-Anyone and everyone says, “For that I will dismiss the State Government, I will dismiss it.” If that is consolation for them and a threat to us, we cannot go on enduring it. On coming to power at the Centre today, they proclaimed a “stable government”. Is the government now in office at the Centre a stable government? It is a government that staggers every day. This government came under the name “stable government”. The name this government has earned today is “a government that yields to pressures”. That is the name the Central Government of today has earned.
+Anyone and everyone will speak. If, for that, “I will dismiss the State Government, I will dismiss it” is consolation for them and a threat to us, we cannot go on enduring this. On coming to power at the Centre today, they proclaimed a “stable government”. Is the government now in office at the Centre a stable government? It is a government that staggers every day. This government came under the name “stable government”. The name this government has earned today is “a government that yields to pressures”. That is the name the Central Government of today has earned.
 
 You may have read the story of the rat and the frog that tied their legs together and became companions. That story is today being enacted in the coalition-party government at the Centre—
 
@@ -235,6 +235,20 @@ You may have read the story of the rat and the frog that tied their legs togethe
 - The applause marker on PDF270 and the separate closing note on PDF287 are preserved on their source pages.
 - Explicit page-boundary continuations 270→271, 271→272, 275→276, 276→277, 277→278, 278→279, 279→280, 281→282, 282→283, 285→286 and 286→287 are preserved in the English page sequence.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.**
+
+Fidelity-proven English corrections consolidated into the canonical translation:
+
+1. PDF273 / printed p.272: `Lieutenant Governor and the Chief Minister of Delhi` → **`Governor and the Chief Minister of Delhi`**, removing the unsupported `Lieutenant` title and translating only the frozen Tamil `டெல்லி மாநில ஆளுநர் மற்றும் முதலமைச்சர்`.
+2. PDF274 / printed p.273: `Muslim men and women, elders and others` → **`Muslim men, mothers and elders`**, restoring the source list `முஸ்லிம் பெருமக்களும், தாய்மார்களும், பெரியோர்களும்` and removing the unsupported `others`.
+3. PDF275→276 / printed pp.274→275: repaired the page-boundary sentence around `திரு.வி.க. அவர்கள் / இளைஞர்களுக்கு...` so that `“To the youth...”` remains on PDF276 and functions as the wording of the article rather than being mistranslated as `among young people`.
+4. PDF281 / printed p.280: `federation at the Centre` → **`federalism at the Centre`**, restoring the governing-principle sense of `மத்தியில் கூட்டாட்சி` inside the quoted 16.4.74 resolution.
+5. PDF286 / printed p.285: corrected the subject/logic of `கண்டவர்கள் எல்லாம் சொல்வார்கள் அதற்காக மாநில அரசைக் கலைக்கிறேன்...` so the English no longer makes “anyone and everyone” themselves the speakers threatening dismissal of the State Government.
+
+Semantic completeness, exact page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter, its following Tamil rendering, Articles **356 / 355**, source-sensitive wording, applause marker and the separate closing note: **PASS**. Frozen Tamil changes during E2: **0**. Unresolved English readings: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
+**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
