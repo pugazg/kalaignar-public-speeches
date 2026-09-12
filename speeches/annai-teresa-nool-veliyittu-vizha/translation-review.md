@@ -69,6 +69,8 @@ Final end-to-end result:
 - unresolved English issues: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 25.**
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil remains frozen; English remains **`verified-complete`**. Closure introduced **0 Tamil and 0 English speech-body changes**. Metadata, page mapping, correction counts and separate closing-note handling agree.
+
+No English review work remains pending.
