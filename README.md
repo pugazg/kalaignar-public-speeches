@@ -318,3 +318,38 @@ Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 addition
 The archival workflow is complete for constituent **20 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **216–227** / printed pages **215–226**. The separate closing note establishes **18.07.1998**, event `பேராயர் எஸ்ரா சற்குணம் மணிவிழா`, and role `ஆற்றிய உரை`; no geographic venue is explicitly stated and none is inferred.
 
 Tamil is **`verified-complete` / FROZEN** with **7 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### கவிக்கோ அப்துல் ரகுமான் மணிவிழா
+
+The archival workflow is complete for constituent **21 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **228–246** / printed pages **227–245**. The separate closing note establishes **19.07.1998** and event/role wording; no geographic venue is explicitly stated and none is inferred.
+
+Tamil is **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **0 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### காஞ்சி மணிமொழியார் இல்ல மணவிழா
+
+The archival workflow is complete for constituent **22 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **247–255** / printed pages **246–254**. The separate closing note establishes **28.08.1998** and event/role wording; no geographic venue is explicitly stated and none is inferred.
+
+Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **4 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா
+
+The archival workflow is complete for constituent **23 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **256–269** / printed pages **255–268**. The separate closing note establishes **27.08.1998** and event/role wording; no geographic venue is explicitly stated and none is inferred.
+
+Tamil is **`verified-complete` / FROZEN** with **8 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **4 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### மதுரை மத நல்லிணக்க மாநாடு
+
+The archival workflow is complete for constituent **24 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **270–287** / printed pages **269–286**. The separate closing note establishes **29.08.1998**, venue **மதுரை**, event `மத நல்லிணக்க மாநாடு`, and role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 1 E3 additional correction / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### அன்னை தெரசா நூல் வெளியீட்டு விழா
+
+The archival workflow is complete for constituent **25 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **288–294** / printed pages **287–293**. The separate closing note establishes **05.09.1998**, venue **சென்னை**, event `அன்னை தெரசா நூல் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 1 E3 additional correction / 0 unresolved**. The English layer preserves source-sensitive **Thirana / Konsaka / Pojaksiyu** renderings without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
