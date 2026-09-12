@@ -11,12 +11,12 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **25 / 36**
 - Tamil T2 complete: **25 / 36**
 - Tamil T3 complete / Tamil verified: **25 / 36**
-- English E1 complete: **24 / 36**
-- English E2 complete: **24 / 36**
-- English E3 complete: **24 / 36**
-- fully archived: **24 / 36**
+- English E1 complete: **25 / 36**
+- English E2 complete: **25 / 36**
+- English E3 complete: **25 / 36**
+- fully archived: **25 / 36**
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T3 PASS / COMPLETE — 7/7 pages; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 is next and has not started**.
 
 ## Constituents 7–9 — closed archive
 
@@ -653,6 +653,24 @@ Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT START
 
 Collection state: source-gated **25/36**; Tamil T1/T2/T3 complete / Tamil verified **25/36**; English verified **24/36**; fully archived **24/36**.
 
+## Constituent 25 — English E1 complete
+
+**COMPLETE — 7/7 pages.** Translation authority was frozen Tamil only; missing English records **0**; page correspondence, explicit joins **288→289** and **290→291**, rhetoric / repetition / quotations, laughter-applause markers and separate closing-note handling pass. Frozen Tamil changes during E1: **0**.
+
+## Constituent 25 — English E2 complete
+
+**PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved.** All five corrections are consolidated: source potentiality restored; unsupported `greatness` removed; P. C. Roy memory-sentence logic repaired; unsupported Centre/State `another` removed; singular `அந்தச் சொல்` restored as `That word`. Frozen Tamil changes during E2: **0**.
+
+## Constituent 25 — English E3 complete / English verified
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.** PDF288 ten-minute sentence was finalized as `You need only take part in the function for ten minutes`. All **5/5** E2 corrections remain consolidated; English is **`verified-complete`**; frozen Tamil changes during E3: **0**.
+
+## Constituent 25 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 7/7 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **1 correction**, T3 **0 additional**, unresolved **0**. English remains **`verified-complete`** with E2 **5 corrections**, E3 **1 additional**, unresolved **0**. Source range, page order / joins, separate closing note, constituent controls and parent collection controls agree. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+Collection state: mapped **36/36**; source-gated **25/36**; Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**. Constituents **1–25 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 / constituent 26.
+**Source / duplicate / boundary gate for constituent 26 — mapped PDF 295–314 / printed 294–313.**
