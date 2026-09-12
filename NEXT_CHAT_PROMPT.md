@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 25 Tamil T2
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 25 Tamil T3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has completed Tamil T1 — 7/7 source pages**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has completed Tamil T2 — PASS / COMPLETE 7/7; 1 correction; 0 unresolved**.
 
 ## Controlling source
 
@@ -21,7 +21,8 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–24 a
 - mapped: **36/36**
 - started / source-gated: **25/36**
 - Tamil T1 complete: **25/36**
-- Tamil T2/T3 complete / Tamil verified: **24/36**
+- Tamil T2 complete: **25/36**
+- Tamil T3 complete / Tamil verified: **24/36**
 - English E1/E2/E3 complete / English verified: **24/36**
 - fully archived: **24/36**
 
@@ -31,17 +32,19 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–24 a
 
 - source gate: **PASS / COMPLETE — 7/7**
 - Tamil T1: **COMPLETE — 7/7**
+- Tamil T2: **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved**
 - PDF **288–294** / printed **287–293**
-- missing page records: **0**
-- explicit unreadable/unknown placeholders: **0**
-- separate closing note remains outside the speech body
-- explicit page-boundary continuations requiring T2 confirmation: **288→289**, **290→291**
-- T1 source-sensitive attention includes `அண்டபிரண்டத்திற்கும்`, `திரானாவின்`, `சிலையெடுக்கப்பட்ட`, `ஆக்னஸ் கொன்சகா பொஜாக்ஸியு`, `அரும்பாகவே இருந்து மறைந்தார்`, `பற்றிப்பேசிய`, `வைக்கா விட்டால்`, and source punctuation/spacing in the political closing passage.
+- T2 correction: PDF289 / printed p.288 `அண்டபிரண்டத்திற்கும்` → **`அண்டபகிரண்டத்திற்கும்`**
+- explicit joins **288→289** and **290→291**: **PASS**
+- canonical page records: **7/7**, complete, unique and ordered
+- missing / duplicate records: **0 / 0**
+- separate closing note: **PASS**
+- Tamil T3: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages**. Re-read PDF **288–294** line by line against the controlling scan, verify the two page joins, names/numerals/punctuation/repetition/source-sensitive forms, and the separate closing note. Apply only scan-confirmed corrections to canonical `transcription-ta.md`; document correction count and unresolved readings.
+Perform **Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages**. Confirm the T2 correction is consolidated, search for the stale superseded reading, verify page records/order/joins, names/numerals/punctuation/quotations/repetitions/source-sensitive forms and the separate closing note. Mark Tamil `verified-complete` / FROZEN only if all checks pass.
 
 ## STOP RULE
 
-Stop after Tamil T2 for constituent 25. **Do not start Tamil T3, constituent 26, English work, or repository closure in the same activity.**
+Stop after Tamil T3 for constituent 25. **Do not start English E1, constituent 26, or repository closure in the same activity.**
