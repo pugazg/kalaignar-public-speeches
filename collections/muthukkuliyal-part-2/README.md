@@ -13,10 +13,10 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T3 complete / Tamil verified: **24 / 36**
 - English E1 complete: **24 / 36**
 - English E2 complete: **24 / 36**
-- English E3 complete: **23 / 36**
+- English E3 complete: **24 / 36**
 - fully archived: **23 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E2 PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved; Tamil remains `verified-complete` / FROZEN; English E3 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E3 PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved; Tamil and English are `verified-complete`; repository closure is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -600,8 +600,16 @@ Collection state after E1: source-gated **24/36**; Tamil verified **24/36**; Eng
 
 **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.** All five confirmed corrections are consolidated in `translation-en.md`: PDF273 governor title, PDF274 participant list, PDF275→276 Thiru. Vi. K. article/page-boundary meaning, PDF281 federalism wording, and PDF286 dismissal-threat subject/logic. The full printed English Indira Gandhi letter and its Tamil rendering, Articles 356 / 355, exact page correspondence / joins, rhetoric / repetition, applause marker and the separate closing note pass. Frozen Tamil changes during E2: **0**.
 
-Collection state: source-gated **24/36**; Tamil verified **24/36**; English E1/E2 complete **24/36**; English E3 complete / English verified **23/36**; fully archived **23/36**.
+Collection state after E2: source-gated **24/36**; Tamil verified **24/36**; English E1/E2 complete **24/36**; English E3 complete / English verified **23/36**; fully archived **23/36**.
+
+## Constituent 24 — English E3 complete / English verified
+
+**PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved.** All **5/5** E2 corrections remain consolidated. E3 corrected PDF274 / printed p.273 `Muslim men, mothers and elders` → `Muslim people, mothers and elders` to avoid narrowing `முஸ்லிம் பெருமக்களும்`. English page records are complete, unique and ordered; semantic completeness / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, applause marker and the separate closing note all pass. Frozen Tamil changes during E3: **0**.
+
+English is now **`verified-complete`**.
+
+Collection state: source-gated **24/36**; Tamil verified **24/36**; English E1/E2/E3 complete / English verified **24/36**; fully archived **23/36**.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
+**Repository-level archival closure for constituent 24.**
