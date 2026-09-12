@@ -26,8 +26,10 @@ English E1: **COMPLETE — 18/18 pages**. Translation authority was frozen `tran
 
 English E2: **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved**. All five fidelity corrections are consolidated in `translation-en.md`; page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter and its Tamil rendering, Articles 356 / 355, source-sensitive wording, applause marker and separate closing-note handling pass. Frozen Tamil changes during E2: **0**.
 
-English E3 is **READY / NOT STARTED**. Constituent 25 remains outside the active batch.
+English E3: **PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved**. All **5/5** E2 corrections remain consolidated. E3 corrected PDF274 / p.273 `Muslim men, mothers and elders` → `Muslim people, mothers and elders` to avoid narrowing `முஸ்லிம் பெருமக்களும்`. English page records, semantic completeness, explicit joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, applause marker and separate closing note pass. Frozen Tamil changes during E3: **0**.
+
+English is now **`verified-complete`**. No transcription or translation work remains for constituent 24. Repository closure is **READY / NOT STARTED**. Constituent 25 remains outside the active batch.
 
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 24 — all 18 pages.** Stop before constituent 25 or repository closure.
+**Repository-level archival closure for constituent 24.** Stop before constituent 25.
