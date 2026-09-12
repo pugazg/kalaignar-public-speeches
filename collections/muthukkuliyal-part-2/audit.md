@@ -1012,6 +1012,28 @@ Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
 - English E1/E2/E3 complete and English verified: **20/36**;
 - fully archived: **20/36**.
 
+## Constituent 21 — Tamil T1 first-pass transcription
+
+**COMPLETE — 19/19 source pages.**
+
+- canonical records: PDF **228–246** / printed **227–245**, **19/19**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- source method: **direct visual reading of controlling scans**;
+- Tamil T2: **NOT STARTED**.
+
+T2 attention points are recorded in the constituent `transcription-ta.md`; source pixels remain controlling and no T2 fidelity claim has yet been made.
+
+## Collection totals after constituent 21 T1
+
+- mapped / started / source-gated: **36/36 / 21/36 / 21/36**;
+- Tamil T1 complete: **21/36**;
+- Tamil T2/T3 complete / Tamil verified: **20/36**;
+- English E1/E2/E3 complete / English verified: **20/36**;
+- fully archived: **20/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T1 for constituent 21 — 19 source pages total.** Stop before T2 and constituent 22.
+**Tamil T2 strict direct-scan fidelity audit for constituent 21 — 19 source pages total.** Stop before T3 / constituent 22.
