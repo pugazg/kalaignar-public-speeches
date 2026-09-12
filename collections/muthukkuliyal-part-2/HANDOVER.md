@@ -398,6 +398,18 @@ English E3 is **PASS / COMPLETE — 23/23 pages; 0 additional corrections; 0 unr
 
 Constituents 1–18 remain CLOSED / FULLY ARCHIVED. Constituents 19–20 now have Tamil and English **`verified-complete`** and are ready for repository closure. Source PDF remains uncommitted.
 
+## Constituents 19–20 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 23/23 pages**. Both constituent archives are now **FULLY ARCHIVED**.
+
+- constituent 19: Tamil T2 **1**, T3 **0**; English E2 **3**, E3 **0**; unresolved **0**;
+- constituent 20: Tamil T2 **7**, T3 **0**; English E2 **5**, E3 **0**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source ranges, canonical page order / joins, metadata, README, audit, HANDOVER, translation-review and both separate closing notes agree;
+- source PDF remains uncommitted.
+
+Collection state: **20 / 36 fully archived**. Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituents 19–20 together.** Stop before constituent 21.
+Process constituent **21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா** through source / duplicate / boundary — PDF **228–246** / printed **227–245**, **19 pages**. Stop before Tamil T1.

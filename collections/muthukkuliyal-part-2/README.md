@@ -7,16 +7,16 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **16 / 36**
-- Tamil T1 complete: **14 / 36**
-- Tamil T2 complete: **14 / 36**
-- Tamil T3 complete / Tamil verified: **14 / 36**
-- English E1 complete: **14 / 36**
-- English E2 complete: **14 / 36**
-- English E3 complete: **14 / 36**
-- fully archived: **14 / 36**
+- speech archives started / source-gated: **20 / 36**
+- Tamil T1 complete: **20 / 36**
+- Tamil T2 complete: **20 / 36**
+- Tamil T3 complete / Tamil verified: **20 / 36**
+- English E1 complete: **20 / 36**
+- English E2 complete: **20 / 36**
+- English E3 complete: **20 / 36**
+- fully archived: **20 / 36**
 
-Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -362,6 +362,20 @@ Combined English E3: **PASS / COMPLETE — 23/23 pages; 0 additional corrections
 
 Collection state: Tamil verified **20/36**; English E1/E2/E3 complete / English verified **20/36**; fully archived **18/36**. Repository closure for constituents 19–20 is **READY / NOT STARTED**. Source PDF remains uncommitted.
 
+## Constituents 19–20 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 23/23 pages.**
+
+- constituent 19: Tamil T2 **1**, T3 **0**; English E2 **3**, E3 **0**; unresolved **0**;
+- constituent 20: Tamil T2 **7**, T3 **0**; English E2 **5**, E3 **0**; unresolved **0**;
+- both Tamil layers remain **`verified-complete` / FROZEN**;
+- both English layers remain **`verified-complete`**;
+- source ranges, canonical page order / joins, both separate closing notes and correction ledgers: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Collection state is now **20 / 36 fully archived**. Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-Perform **repository closure for constituents 19–20 together**. Stop before constituent 21.
+Process **constituent 21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா** through the **source / duplicate / boundary gate** — PDF **228–246** / printed **227–245**, **19 pages**. Stop before Tamil T1.

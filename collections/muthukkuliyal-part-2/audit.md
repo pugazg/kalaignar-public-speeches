@@ -968,6 +968,23 @@ Frozen Tamil changes during E1/E2/E3: **0**. Both English layers are **`verified
 - fully archived: **18/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 19–20 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- source coverage: **23/23 pages — PASS**;
+- constituent 19 correction ledger: Tamil T2 **1**, T3 **0**, English E2 **3**, E3 **0**, unresolved **0**;
+- constituent 20 correction ledger: Tamil T2 **7**, T3 **0**, English E2 **5**, E3 **0**, unresolved **0**;
+- Tamil verified total: **20/36**;
+- English verified total: **20/36**;
+- fully archived total: **20/36**;
+- both separate closing notes: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF binary: **uncommitted**.
+
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituents 19–20 together.**
+**Constituent 21 source / duplicate / boundary gate — 19 source pages total.** Stop before Tamil T1.
