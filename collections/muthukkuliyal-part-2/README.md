@@ -11,12 +11,12 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **23 / 36**
 - Tamil T2 complete: **23 / 36**
 - Tamil T3 complete / Tamil verified: **23 / 36**
-- English E1 complete: **22 / 36**
+- English E1 complete: **23 / 36**
 - English E2 complete: **22 / 36**
 - English E3 complete: **22 / 36**
 - fully archived: **22 / 36**
 
-Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has Tamil T3 PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has English E1 COMPLETE — 14/14; English E2 is READY / NOT STARTED; Tamil remains `verified-complete` / FROZEN**.
 
 ## Constituents 7–9 — closed archive
 
@@ -528,6 +528,12 @@ Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT START
 
 Collection state: source-gated **23/36**; Tamil T1/T2/T3 complete / Tamil verified **23/36**; English verified **22/36**; fully archived **22/36**.
 
+## Constituent 23 — English E1
+
+**COMPLETE — 14/14 verified Tamil pages.** Translation authority was frozen Tamil only; English page records are complete, unique and ordered; page correspondence, source-sensitive terminology, applause / laughter markers and separate closing-note handling pass; missing English page records **0**; frozen Tamil changes during E1 **0**.
+
+Collection state: source-gated **23/36**; Tamil verified **23/36**; English E1 complete **23/36**; English verified **22/36**; fully archived **22/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 23 — 14 pages.**

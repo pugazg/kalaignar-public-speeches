@@ -50,6 +50,19 @@ All **8/8** corrections are consolidated. Canonical page records, documented pag
 - Tamil state: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 14/14 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **14/14**, complete, unique and ordered;
+- missing English page records: **0**;
+- exact PDF/printed-page correspondence: **PASS**;
+- rhetoric / repetition, names / titles / numerals, quotation structure, source-sensitive terminology and applause markers: **PRESERVED**;
+- separate source closing note: **preserved outside speech body**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **NOT STARTED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 23 — 14 pages.**

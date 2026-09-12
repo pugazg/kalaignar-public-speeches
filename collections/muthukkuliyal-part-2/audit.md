@@ -1371,6 +1371,28 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **22/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 23 — English E1
+
+**COMPLETE — 14/14 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **14/14**, complete, unique and ordered;
+- missing English page records: **0**;
+- exact page correspondence: **PASS**;
+- rhetoric / repetition, names / titles / numerals, quotation structure, source-sensitive terminology, applause / laughter markers: **PRESERVED**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **NOT STARTED**.
+
+## Collection totals after constituent 23 English E1
+
+- mapped / started / source-gated: **36/36 / 23/36 / 23/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **23/36**;
+- English E1 complete: **23/36**;
+- English E2/E3 complete / English verified: **22/36**;
+- fully archived: **22/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 23 — 14 pages.**
