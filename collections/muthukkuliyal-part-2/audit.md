@@ -1809,6 +1809,30 @@ No transcription or translation work remains for constituent 25.
 - English E1/E2/E3 complete / English verified: **25/36**;
 - fully archived: **25/36**.
 
+## Constituent 26 — Tamil T1 first-pass transcription
+
+**COMPLETE — 20/20 source pages.**
+
+- PDF **295–314** / printed **294–313**;
+- canonical page records: **20/20**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- contents / page-heading / closing-note title variants: **preserved separately**;
+- explicit page joins flagged for T2: **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**;
+- source-sensitive T2 attention recorded in constituent `transcription-ta.md`;
+- direct visual method; source pixels remain controlling;
+- Tamil T2: **READY / NOT STARTED**.
+
+## Collection totals after constituent 26 Tamil T1
+
+- mapped / started / source-gated: **36/36 / 26/36 / 26/36**;
+- Tamil T1 complete: **26/36**;
+- Tamil T2/T3 complete / Tamil verified: **25/36**;
+- English E1/E2/E3 complete / English verified: **25/36**;
+- fully archived: **25/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 26 — all 20 source pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
