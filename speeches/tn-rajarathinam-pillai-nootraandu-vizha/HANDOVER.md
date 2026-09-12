@@ -20,8 +20,14 @@ Tamil T1: **COMPLETE — 14/14**. Canonical page records cover PDF **256–269**
 
 Tamil T2: **PASS / COMPLETE — 14/14; 8 corrections; 0 unresolved**. Corrections: PDF256 **1**, PDF257 **1**, PDF261 **2**, PDF264 **1**, PDF265 **1**, PDF266 **1**, PDF269 **1**. All are consolidated; canonical page records, explicit joins and the separate closing note pass.
 
-Tamil T3: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+Tamil T3: **PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved**. Tamil is **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
+## Durable Tamil T3 / frozen-Tamil result
+
+All **8/8** T2 corrections remain consolidated. Stale superseded canonical speech-body readings: **0**. Canonical page records are **14/14**, complete, unique and ordered; documented joins, names / numerals / punctuation / quotations / repetitions / applause markers / source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 must translate only from frozen `transcription-ta.md`. Constituent 24 remains outside the active batch.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 23 — 14 source pages total.** Stop before English / constituent 24.
+**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**

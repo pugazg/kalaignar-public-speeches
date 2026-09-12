@@ -1,40 +1,36 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 23 Tamil T3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 23 English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has Tamil T2 PASS / COMPLETE**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has Tamil T3 complete and Tamil `verified-complete` / FROZEN**.
 
-## Controlling source
+## Frozen Tamil authority
 
-`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
-
-- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- size: **232,470,104 bytes**
-- physical scans: **425**
-- source PDF must **not** be committed
-
-## Constituent 23 durable state
-
-`டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`
+`speeches/tn-rajarathinam-pillai-nootraandu-vizha/transcription-ta.md`
 
 - PDF **256–269** / printed **255–268** — **14 pages**
-- source gate: **PASS / COMPLETE**
-- Tamil T1: **COMPLETE — 14/14**
-- Tamil T2: **PASS / COMPLETE — 14/14; 8 corrections; 0 unresolved**
-- T2 correction distribution: PDF256 **1**, PDF257 **1**, PDF261 **2**, PDF264 **1**, PDF265 **1**, PDF266 **1**, PDF269 **1**
-- canonical page records: **14/14**, complete, unique and ordered
-- explicit joins **256→257, 257→258, 258→259, 261→262, 262→263, 263→264, 264→265, 267→268, 268→269**: **PASS**
-- separate closing note: **PASS**
-- Tamil T3: **READY / NOT STARTED**
+- T1: **COMPLETE — 14/14**
+- T2: **PASS / COMPLETE — 14/14; 8 corrections; 0 unresolved**
+- T3: **PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved**
+- Tamil: **`verified-complete` / FROZEN**
+- all **8/8** T2 corrections consolidated
+- canonical page records / documented joins / separate closing note: **PASS**
+
+## Durable collection state
+
+- mapped / started / source-gated: **36/36 / 23/36 / 23/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **23/36**
+- English E1/E2/E3 complete / English verified: **22/36**
+- fully archived: **22/36**
 
 ## Exact activity
 
-Perform **Tamil T3 consolidation/freeze for constituent 23 — all 14 source pages**. Confirm all **8/8** T2 corrections remain consolidated; check for stale superseded readings; verify page records, joins, names, numerals, punctuation, quotations, repetitions, applause markers, source-sensitive forms and the separate closing note. Apply an additional correction only if directly proven by the controlling scan.
+Perform **English E1 first-pass translation for constituent 23 — all 14 verified Tamil pages**.
 
-Mark Tamil `verified-complete` / FROZEN only if unresolved readings remain **0**.
+Translate **only from frozen `transcription-ta.md`**. Preserve exact page correspondence, rhetoric, repetition, names / titles / numerals, quotation structure, source-sensitive wording, applause markers, and the separate closing note.
 
 ## STOP RULE
 
-Stop after Tamil T3 for constituent 23. **Do not start English, constituent 24, or repository closure in the same activity.**
+Stop after English E1 for constituent 23. **Do not start E2, constituent 24, repository closure, or alter frozen Tamil in the same activity.**

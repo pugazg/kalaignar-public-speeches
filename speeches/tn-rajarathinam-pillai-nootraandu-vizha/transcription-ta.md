@@ -1,10 +1,10 @@
 # டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 14 / 14 pages; 8 corrections; 0 unresolved**; Tamil T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **14 / 14 pages COMPLETE**  
 **Source range:** PDF **256–269** / printed **255–268**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 14 source pages directly and consolidated **8 scan-proven corrections** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 14 source pages directly and consolidated **8 scan-proven corrections** with **0 unresolved**. Tamil T3 consolidation/freeze is **PASS / COMPLETE** with **0 additional corrections** and **0 unresolved**. The canonical Tamil layer is now **`verified-complete` / FROZEN**.
 
 ## PDF 256 / printed p.255
 
@@ -167,6 +167,20 @@ All mapped pages PDF **256–269** were re-read directly. Source-sensitive forms
 
 Canonical page records remain **14/14**, complete, unique and ordered. Explicit joins **256→257**, **257→258**, **258→259**, **261→262**, **262→263**, **263→264**, **264→265**, **267→268**, and **268→269** are **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 14/14 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **8/8** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings: **0**;
+- canonical page records: **14/14**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary joins **256→257**, **257→258**, **258→259**, **261→262**, **262→263**, **263→264**, **264→265**, **267→268**, **268→269**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions / applause markers / source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 23 — all 14 source pages.** Stop before English / constituent 24.
+**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**

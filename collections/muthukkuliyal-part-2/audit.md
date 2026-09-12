@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–21** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–22** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -1348,6 +1348,29 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **22/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 23 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 14/14 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **8/8** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings: **0**;
+- canonical page records: **14/14**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- documented page-boundary joins: **PASS**;
+- names / numerals / punctuation / quotations / repetitions / applause markers / source-sensitive forms: **PASS**;
+- separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 23 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 23/36 / 23/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **23/36**;
+- English E1/E2/E3 complete / English verified: **22/36**;
+- fully archived: **22/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 23 — 14 source pages total.** Stop before English / constituent 24.
+**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**

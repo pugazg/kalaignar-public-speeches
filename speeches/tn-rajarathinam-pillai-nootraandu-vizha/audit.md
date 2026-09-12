@@ -35,6 +35,21 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 
 All **8/8** corrections are consolidated. Canonical page records, documented page joins, source-sensitive forms and the separate closing note pass. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 14/14 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **8/8** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings: **0**;
+- canonical page records: **14/14**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- documented page-boundary joins: **PASS**;
+- names / numerals / punctuation / quotations / repetitions / applause markers / source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 23 — 14 source pages total.**
+**English E1 first-pass translation for constituent 23 — 14 verified Tamil pages total.**
