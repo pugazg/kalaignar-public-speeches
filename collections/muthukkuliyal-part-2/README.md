@@ -11,12 +11,12 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **24 / 36**
 - Tamil T2 complete: **24 / 36**
 - Tamil T3 complete / Tamil verified: **24 / 36**
-- English E1 complete: **23 / 36**
+- English E1 complete: **24 / 36**
 - English E2 complete: **23 / 36**
 - English E3 complete: **23 / 36**
 - fully archived: **23 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T3 PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E1 COMPLETE — 18/18 pages; Tamil remains `verified-complete` / FROZEN; English E2 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -586,10 +586,16 @@ Collection state: source-gated **24/36**; Tamil T1 **24/36**; Tamil T2 **24/36**
 
 **PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; stale superseded speech-body reading is absent; canonical page records are complete, unique and ordered; documented joins, source-sensitive quoted material, English-letter text, Articles 356 / 355, applause marker and the separate closing note pass. No speech-body Tamil changed during T3.
 
-Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+Tamil remains **`verified-complete` / FROZEN**.
 
-Collection state: source-gated **24/36**; Tamil T1/T2/T3 complete / Tamil verified **24/36**; English verified **23/36**; fully archived **23/36**.
+Collection state after Tamil T3: source-gated **24/36**; Tamil T1/T2/T3 complete / Tamil verified **24/36**; English verified **23/36**; fully archived **23/36**.
+
+## Constituent 24 — English E1 complete
+
+**COMPLETE — 18/18 pages.** Translation used only frozen `transcription-ta.md`; English page records are **18/18**, complete and ordered across PDF **270–287** / printed **269–286**; missing records **0**. The full printed English Indira Gandhi letter is preserved verbatim; its Tamil rendering is preserved in sequence and translated into English. Page-boundary continuations, rhetoric / repetition, source-sensitive wording, applause marker and the separate closing note are retained for independent E2 checking. Frozen Tamil changes during E1: **0**.
+
+Collection state: source-gated **24/36**; Tamil verified **24/36**; English E1 complete **24/36**; English E2/E3 complete / English verified **23/36**; fully archived **23/36**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
