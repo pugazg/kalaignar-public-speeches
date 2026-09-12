@@ -1,10 +1,10 @@
 # கவிக்கோ அப்துல் ரகுமான் மணிவிழா — Tamil transcription
 
-**Status:** \`first-pass-in-progress\` — Tamil T1 **6 / 19 pages transcribed**  
+**Status:** `first-pass-complete` — Tamil T1 **COMPLETE — 19 / 19 pages**; Tamil T2 pending  
 **Source range:** PDF **228–246** / printed **227–245**  
-**Controlling source:** \`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf\`
+**Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 is being transcribed visually from the controlling scans. Source pixels remain controlling. T2 has **NOT STARTED**; no final fidelity claim is made at this stage.
+> Tamil T1 was transcribed visually from the controlling scans. Source pixels remain controlling. T2 has **NOT STARTED**; this first pass is not a final fidelity claim.
 
 ## PDF 228 / printed p.227
 
@@ -350,7 +350,7 @@
 
 ### Source closing note — not part of speech body
 
-\`19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை\`
+`19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`
 
 ## T1 checkpoint
 
@@ -363,7 +363,7 @@
 
 ### T2 attention points
 
-Re-read every page in full. In particular verify PDF228 \`மணி விழாவையொட்டி\`, \`உற்சாகமும், ஊக்கமும்\`; PDF229 \`வடமொழியிலேயுள்ள\`, \`ஜெயலட்சுமி சில்க் ஹவுஸ்\`, \`ஜெயலட்சுமி பட்டுமாளிகை\`; PDF230 \`ராசாசி\`, \`இராஜேந்திரன்\`, \`நான் மாத்திரம் செய்த பாவம் என்ன?\`; PDF231 \`விதை போல் விழுந்தவன்\`, \`முத்தமிழின் முகவரி\`; PDF232 \`ஒரு பேச்சாளி\`, \`குறளோவியம்\`; PDF234 \`கூடத்தைப் / படிக்கவேண்டும்\`, \`உறையைக் / கிழிக்கத் தானே வேண்டும்\`; PDF235 \`அணைந்த நெருப்புக் தான்\`, \`தேங்கிய நீர்தான்\`; PDF236–237 the \`அநாதை\` / identity-mark passages and \`நெகட்டிவ்\` / \`பாசிட்டிவ்\` wording; PDF238 \`இந்து முஸ்லீம் சிக்கி சாயி, ஆபஸ் பே ஹை பாயி, பாயி\`, \`பக்கவாதம்\`, \`ஓன் சைடு ஆர்கியுமென்டாம்\`; PDF239 the \`ஓடும் நீரில் / கிழிக்கும் கோடல்லவா?\` image; PDF240 \`காயம்படும் ஓலைதான்\`, \`காயம்படும் கல் தான்\`, \`காயம்படும் மூங்கில் தான்\`; PDF241–242 \`கண்ணில்லாதவனின் கண்ணீர்\` and \`ஏழையின் சிரிப்பில் இறைவனைக் காண்போம்\`; PDF243–245 the \`அண்ணா சாலை\` poem, especially \`மாற்றான் வீட்டுச் சாக்கடையும்\`; PDF245 \`ஸ்ரீமான் சுப்பிரமணிய பாரதி கவிதா மண்டலம்\`, \`கனகசுப்புரத்தினம்\`; PDF246 \`மகாபலிபுரம்\` / \`மாமல்லபுரம்\` and the separate closing note.
+Re-read every page in full. In particular verify PDF228 `மணி விழாவையொட்டி`, `உற்சாகமும், ஊக்கமும்`; PDF229 `வடமொழியிலேயுள்ள`, `ஜெயலட்சுமி சில்க் ஹவுஸ்`, `ஜெயலட்சுமி பட்டுமாளிகை`; PDF230 `ராசாசி`, `இராஜேந்திரன்`, `நான் மாத்திரம் செய்த பாவம் என்ன?`; PDF231 `விதை போல் விழுந்தவன்`, `முத்தமிழின் முகவரி`; PDF232 `ஒரு பேச்சாளி`, `குறளோவியம்`; PDF234 `கூடத்தைப் / படிக்கவேண்டும்`, `உறையைக் / கிழிக்கத் தானே வேண்டும்`; PDF235 `அணைந்த நெருப்புக் தான்`, `தேங்கிய நீர்தான்`; PDF236–237 the `அநாதை` / identity-mark passages and `நெகட்டிவ்` / `பாசிட்டிவ்` wording; PDF238 `இந்து முஸ்லீம் சிக்கி சாயி, ஆபஸ் பே ஹை பாயி, பாயி`, `பக்கவாதம்`, `ஓன் சைடு ஆர்கியுமென்டாம்`; PDF239 the `ஓடும் நீரில் / கிழிக்கும் கோடல்லவா?` image; PDF240 `காயம்படும் ஓலைதான்`, `காயம்படும் கல் தான்`, `காயம்படும் மூங்கில் தான்`; PDF241–242 `கண்ணில்லாதவனின் கண்ணீர்` and `ஏழையின் சிரிப்பில் இறைவனைக் காண்போம்`; PDF243–245 the `அண்ணா சாலை` poem, especially `மாற்றான் வீட்டுச் சாக்கடையும்`; PDF245 `ஸ்ரீமான் சுப்பிரமணிய பாரதி கவிதா மண்டலம்`, `கனகசுப்புரத்தினம்`; PDF246 `மகாபலிபுரம்` / `மாமல்லபுரம்` and the separate closing note.
 
 ## Exact next gate
 
