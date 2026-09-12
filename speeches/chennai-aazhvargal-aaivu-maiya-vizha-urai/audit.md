@@ -61,6 +61,26 @@ Verification result:
 - source-sensitive T1 readings and chronology / numeral forms: **PASS / retained as printed**;
 - unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 20/20 source pages; 0 additional corrections; 0 unresolved.**
+
+- both **2/2** T2 corrections remain consolidated;
+- stale `அந்த அளவிற்கு தேன் குடத்திலே`: **0** in canonical speech body;
+- stale `குரு வியாக்கியானம் செய்கிறாரே`: **0** in canonical speech body;
+- source-proven corrected readings: **present**;
+- canonical page records: **20/20**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- laughter / applause markers: **PASS**;
+- source-sensitive readings / chronology / numeral forms: **PASS**;
+- contents / page-heading / closing-note title variants: **PASS / preserved separately**;
+- separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.**
+**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.**
