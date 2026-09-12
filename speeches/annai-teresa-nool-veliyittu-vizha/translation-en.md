@@ -1,6 +1,6 @@
 # Mother Teresa Book Release Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E2 **PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **288–294** / printed **287–293**
 
@@ -10,7 +10,7 @@
 
 ## Mother Teresa Book Release Function
 
-Until yesterday, an hour consisted of sixty minutes. From today, an hour consists of ten minutes. If you ask why, only brother Valampuri John and Vincent Chinnadurai know its true meaning. When they invited me to this function, they said, “You need take part in the function for only ten minutes, release the book, and then you may leave.” I came at exactly ten o’clock. Sixty minutes have passed. Therefore, from today the reckoning of time changes. (Laughter) From now on, an hour does not mean sixty minutes. According to the reckoning of Valampuri John and Vincent, it means ten minutes. (Loud laughter) I ask all of you to make a note of that.
+Until yesterday, an hour consisted of sixty minutes. From today, an hour consists of ten minutes. If you ask why, only brother Valampuri John and Vincent Chinnadurai know its true meaning. When they invited me to this function, they said, “You need only take part in the function for ten minutes, release the book, and then you may leave.” I came at exactly ten o’clock. Sixty minutes have passed. Therefore, from today the reckoning of time changes. (Laughter) From now on, an hour does not mean sixty minutes. According to the reckoning of Valampuri John and Vincent, it means ten minutes. (Loud laughter) I ask all of you to make a note of that.
 
 It is not appropriate that Vincent Chinnadurai has given this book the title *Angel of the Earth*. You may find that surprising! Mother Teresa is not needed only by the Earth. Within another century, when human beings go on to live
 
@@ -121,6 +121,28 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. E3 made one final wording correction:
+
+1. PDF288 / printed p.287: `You need take part in the function for only ten minutes` → **`You need only take part in the function for ten minutes`**, restoring natural English while keeping the source emphasis of `பத்தே நிமிடங்கள்`.
+
+Final verification result:
+
+- English page records: **7/7**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- all **5/5** E2 corrections: **present**;
+- stale superseded English speech-body readings: **0**;
+- semantic completeness / page correspondence / explicit joins **288→289**, **290→291**: **PASS**;
+- names / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- source-sensitive Thirana / Konsaka / Pojaksiyu renderings: **PASS / no outside normalization**;
+- laughter / applause markers and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 25 — all 7 pages.**
+**Repository-level archival closure for constituent 25.**
