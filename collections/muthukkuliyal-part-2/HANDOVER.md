@@ -21,11 +21,11 @@
 - Tamil T2 complete: **24 / 36**;
 - Tamil T3 complete / Tamil verified: **24 / 36**;
 - English E1 complete: **24 / 36**;
-- English E2 complete: **23 / 36**;
+- English E2 complete: **24 / 36**;
 - English E3 complete / English verified: **23 / 36**;
 - fully archived: **23 / 36**.
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E1 COMPLETE — 18/18 pages; Tamil remains `verified-complete` / FROZEN; English E2 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E2 PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved; Tamil remains `verified-complete` / FROZEN; English E3 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -647,8 +647,12 @@ Tamil for constituent 24 remains **`verified-complete` / FROZEN**.
 
 English E1: **COMPLETE — 18/18 pages** for `மதுரை மத நல்லிணக்க மாநாடு`, PDF **270–287** / printed **269–286**. Translation used only frozen `transcription-ta.md`; English page records are **18/18**, complete and ordered; missing records **0**. The full printed English Indira Gandhi letter is preserved verbatim, its Tamil rendering is preserved in sequence and translated into English, explicit page-boundary continuations / rhetoric / repetition / source-sensitive wording / applause marker / separate closing note are retained, and frozen Tamil changes during E1 are **0**.
 
-English E2 is **READY / NOT STARTED**. Constituent 25 remains outside the active batch. Source PDF remains uncommitted.
+## Constituent 24 — durable English E2 result
+
+English E2: **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved**. The five corrections are consolidated in `translation-en.md`: PDF273 governor title, PDF274 participant list, PDF275→276 Thiru. Vi. K. article/page-boundary meaning, PDF281 federalism wording, and PDF286 dismissal-threat subject/logic. Full printed English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, page correspondence / joins, rhetoric / repetition, names / titles / numerals, applause marker and separate closing-note handling pass. Frozen Tamil changes during E2: **0**.
+
+English E3 is **READY / NOT STARTED**. Constituent 25 remains outside the active batch. Source PDF remains uncommitted.
 
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
+**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
