@@ -181,6 +181,7 @@ Semantic completeness, exact page correspondence / joins, names / titles / numer
 - frozen Tamil changes during E3: **0**;
 - English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 23.**
+**PASS / COMPLETE — FULLY ARCHIVED.** English remains **`verified-complete`**. Repository closure introduced **0** English speech-body changes.
+

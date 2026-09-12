@@ -23,9 +23,9 @@
 - English E1 complete: **23 / 36**;
 - English E2 complete: **23 / 36**;
 - English E3 complete / English verified: **23 / 36**;
-- fully archived: **22 / 36**.
+- fully archived: **23 / 36**.
 
-Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has English E3 PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved; Tamil and English are both `verified-complete`; repository closure is NEXT**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 is the next mapped item and has not started**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -590,6 +590,17 @@ English E2: **PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved**. Co
 
 English E3: **PASS / COMPLETE — 14/14 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings **0**; frozen Tamil changes during E3 **0**. English is **`verified-complete`**.
 
+## Constituent 23 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 14/14 pages**. Constituent 23 is now **FULLY ARCHIVED**.
+
+- Tamil T2 **8**, T3 **0**; English E2 **4**, E3 **0**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, page order / joins, metadata, README, audit, HANDOVER, translation-review, root catalogue and separate closing note agree;
+- source PDF remains uncommitted.
+
+Collection state: **23 / 36 fully archived**. Constituents **1–23 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituent 23.**
+**Source / duplicate / boundary gate for constituent 24 — `மதுரை மத நல்லிணக்க மாநாடு`, mapped PDF 270–287 / printed 269–286.** Stop before Tamil T1 / constituent 25.

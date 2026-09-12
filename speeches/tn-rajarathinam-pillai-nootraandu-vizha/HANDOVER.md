@@ -40,6 +40,14 @@ English E2: **PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved**. Co
 
 English E3: **PASS / COMPLETE — 14/14 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; stale superseded English speech-body readings **0**; frozen Tamil changes during E3 **0**. English is now **`verified-complete`**.
 
-## Exact next gate
+## Durable repository closure result
 
-**Repository closure for constituent 23.**
+Repository-level archival closure: **PASS / COMPLETE — 14/14 pages**. Constituent 23 is now **FULLY ARCHIVED**.
+
+- Tamil T2 **8**, T3 **0**; English E2 **4**, E3 **0**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, canonical page order / joins, metadata, README, audit, HANDOVER, translation-review, root catalogue and separate closing note agree;
+- source PDF remains uncommitted.
+
+No transcription or translation work remains pending for constituent 23.
+

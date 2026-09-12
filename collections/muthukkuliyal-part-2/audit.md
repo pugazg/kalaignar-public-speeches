@@ -1431,6 +1431,21 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - English E1/E2/E3 complete / English verified: **23/36**;
 - fully archived: **22/36**.
 
+## Constituent 23 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **8 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **4 / 0 corrections**, unresolved **0**;
+- PDF **256–269** / printed **255–268**: **PASS**;
+- canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review / root catalogue: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Collection totals: mapped **36/36**; source-gated / Tamil verified / English verified / fully archived **23/36**.
+
 ## Exact next gate
 
-**Repository closure for constituent 23.**
+**Source / duplicate / boundary gate for constituent 24 — mapped PDF 270–287 / printed 269–286.** Stop before Tamil T1 / constituent 25.

@@ -87,6 +87,19 @@ All **8/8** corrections are consolidated. Canonical page records, documented pag
 - frozen Tamil changes during E3: **0**;
 - English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 23.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **8 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **4 / 0 corrections**, unresolved **0**;
+- PDF **256–269** / printed **255–268** source range: **PASS**;
+- canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- root catalogue entry: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Archive state: **FULLY ARCHIVED**. No transcription or translation work remains pending.
+

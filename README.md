@@ -59,6 +59,7 @@ For audio or video sources, also read:
 | `perayar-ezra-sargunam-manivizha` | பேராயர் எஸ்ரா சற்குணம் மணிவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.215–226 | 18.07.1998 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 | `kavikko-abdul-raguman-manivizha` | கவிக்கோ அப்துல் ரகுமான் மணிவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.227–245 | 19.07.1998 | **Verified complete - 19/19 speech pages** | **Verified complete - 19/19 speech pages** |
 | `kanchi-manimozhiyar-illa-manavizha` | காஞ்சி மணிமொழியார் இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.246–254 | 28.08.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
+| `tn-rajarathinam-pillai-nootraandu-vizha` | டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.255–268 | 27.08.1998 | **Verified complete - 14/14 speech pages** | **Verified complete - 14/14 speech pages** |
 
 ## Repository layout
 

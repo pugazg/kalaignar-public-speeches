@@ -69,7 +69,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **Tamil + English verified-complete — repository closure pending** |
+| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -293,6 +293,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 14/14 pages; 0 additional corrections; 0 unresolved.** All **4/4** E2 corrections remain consolidated; stale superseded English body readings are absent; page correspondence / joins and separate closing-note handling pass. English is **`verified-complete`**.
 
+## Constituent 23 — archival closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 14/14 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **23 / 36**.
+
 ## Next same-gate batch
 
-Constituent **23** only — repository-level archival closure. Do not start constituent 24 in the closure activity.
+Constituent **24** — source / duplicate / boundary gate — mapped PDF **270–287** / printed **269–286**. Inspect next-boundary PDF **288**. Stop before Tamil T1 / constituent 25.

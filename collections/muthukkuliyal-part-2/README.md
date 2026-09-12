@@ -13,10 +13,10 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T3 complete / Tamil verified: **23 / 36**
 - English E1 complete: **23 / 36**
 - English E2 complete: **23 / 36**
-- English E3 complete: **22 / 36**
-- fully archived: **22 / 36**
+- English E3 complete: **23 / 36**
+- fully archived: **23 / 36**
 
-Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has English E3 PASS / COMPLETE — 14/14; 0 additional corrections; 0 unresolved; Tamil and English are both `verified-complete`; repository closure is NEXT**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 is the next mapped item and has not started**.
 
 ## Constituents 7–9 — closed archive
 
@@ -548,6 +548,12 @@ English is now **`verified-complete`**.
 
 Collection state: Tamil verified **23/36**; English E1/E2/E3 complete / English verified **23/36**; fully archived **22/36**.
 
+## Constituent 23 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 14/14 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **8 corrections**, T3 **0 additional**, unresolved **0**. English remains **`verified-complete`** with E2 **4 corrections**, E3 **0 additional**, unresolved **0**. Source range, page order / joins, separate closing note, metadata, README, audit, HANDOVER, translation-review and root catalogue agree. Frozen Tamil / verified English speech-body changes during closure: **0 / 0**. Source PDF remains uncommitted.
+
+Collection state: **23 / 36 fully archived**. Constituents **1–23 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituent 23.**
+**Source / duplicate / boundary gate for constituent 24 — `மதுரை மத நல்லிணக்க மாநாடு`, mapped PDF 270–287 / printed 269–286.** Stop before Tamil T1 / constituent 25.
