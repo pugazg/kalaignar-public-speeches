@@ -14,9 +14,9 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E1 complete: **24 / 36**
 - English E2 complete: **24 / 36**
 - English E3 complete: **24 / 36**
-- fully archived: **23 / 36**
+- fully archived: **24 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E3 PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved; Tamil and English are `verified-complete`; repository closure is READY / NOT STARTED**.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **24 passed repository-level archival closure with Tamil and English both `verified-complete`; closure introduced **0 / 0** Tamil / English speech-body changes.
 
 ## Constituents 7–9 — closed archive
 
@@ -608,8 +608,14 @@ Collection state after E2: source-gated **24/36**; Tamil verified **24/36**; Eng
 
 English is now **`verified-complete`**.
 
-Collection state: source-gated **24/36**; Tamil verified **24/36**; English E1/E2/E3 complete / English verified **24/36**; fully archived **23/36**.
+Collection state after E3: source-gated **24/36**; Tamil verified **24/36**; English E1/E2/E3 complete / English verified **24/36**; fully archived **23/36**.
+
+## Constituent 24 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 18/18 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **1 correction**, T3 **0 additional**, unresolved **0**. English remains **`verified-complete`** with E2 **5 corrections**, E3 **1 additional**, unresolved **0**. Source range, page order / joins, separate closing note, constituent metadata / README / audit / HANDOVER / translation-review, parent collection controls and root catalogue agree. Frozen Tamil / verified English speech-body changes during closure: **0 / 0**. Source PDF remains uncommitted.
+
+Collection state: source-gated **24/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**. Constituents **1–24 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Repository-level archival closure for constituent 24.**
+**Source / duplicate / boundary gate for constituent 25 — `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF 288–294 / printed 287–293.**
