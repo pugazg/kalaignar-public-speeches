@@ -16,5 +16,6 @@ Tamil remains **`verified-complete` / FROZEN**. Frozen Tamil changes during E1/E
 
 **English state:** **`verified-complete`**.
 
-## Exact next gate
-**Repository closure for constituents 19–20 together.**
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** English remains **`verified-complete`**. All **3/3** E2 corrections remain consolidated; E3 required **0** additional corrections. Frozen Tamil remained unchanged throughout English work and closure. No further English gate is pending.

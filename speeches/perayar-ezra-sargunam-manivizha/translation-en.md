@@ -148,6 +148,8 @@ All **12/12** English pages were independently checked against frozen Tamil. The
 - frozen Tamil changes during E1/E2/E3: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituents 19–20 together.** Do not alter frozen Tamil or verified English; do not start constituent 21 in the same activity.
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during closure. All **5/5** E2 corrections remain consolidated; E3 required **0** additional corrections. Page correspondence / joins, semantic completeness, source-sensitive wording and separate closing-note handling agree with final archive controls.
+
+English remains **`verified-complete`**.
