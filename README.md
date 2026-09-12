@@ -55,6 +55,8 @@ For audio or video sources, also read:
 | `ambur-sampangi-illa-manavizha` | ஆம்பூர் சம்பங்கி இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.172–182 | Not stated in source | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
 | `nellikuppam-pugazhendhi-manavizha` | நெல்லிக்குப்பம் புகழேந்தி மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.183–192 | 06.07.1998 | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.193–203 | 08.07.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
+| `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.204–214 | 14.07.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
+| `perayar-ezra-sargunam-manivizha` | பேராயர் எஸ்ரா சற்குணம் மணிவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.215–226 | 18.07.1998 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 
 ## Repository layout
 
@@ -299,3 +301,16 @@ The archival workflow is complete for constituent **18 / 36** of `முத்�
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 and T3 required **0 corrections / 0 unresolved**. English E2 produced **2 corrections / 0 unresolved**; E3 passed all 11 pages with **0 additional corrections / 0 unresolved**. The archive preserves the source-sensitive **89-90 / 89 / 1995 / 95 / 98** chronology, `15 கல்`, `பின்னை வடை`, `கோமியம்`, `உல்லாச புரியே`, `பப்ளிக் சர்வண்ட்` and `கிரீன்வேஸ் சாலை` without silently rewriting the frozen Tamil.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+
+### திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா
+
+The archival workflow is complete for constituent **19 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **205–215** / printed pages **204–214**. The separate closing note establishes **14.07.1998**, the Tiruvannamalai Arunai Engineering College graduation event, and the source-described role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **3 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
+
+### பேராயர் எஸ்ரா சற்குணம் மணிவிழா
+
+The archival workflow is complete for constituent **20 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **216–227** / printed pages **215–226**. The separate closing note establishes **18.07.1998**, event `பேராயர் எஸ்ரா சற்குணம் மணிவிழா`, and role `ஆற்றிய உரை`; no geographic venue is explicitly stated and none is inferred.
+
+Tamil is **`verified-complete` / FROZEN** with **7 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Repository-level closure is complete; no transcription or translation work remains pending.
