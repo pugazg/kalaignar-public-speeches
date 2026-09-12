@@ -1274,6 +1274,34 @@ All corrections are consolidated; canonical page order, explicit joins and separ
 
 Collection totals: mapped **36/36**; source-gated / Tamil verified / English verified / fully archived **22/36**.
 
+## Constituent 23 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 14/14 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **256–269** / printed **255–268** — **14 pages**;
+- contents title/date: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` / `27-08-98`;
+- all mapped scans PDF **256–269** directly inspected;
+- opening: PDF256 / printed p.255, constituent `23`, titled opening `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`;
+- ending: PDF269 / printed p.268 completes the speech body before `27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
+- date: **27-08-1998**;
+- event/role: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` / `ஆற்றிய உரை`;
+- venue: **not explicitly stated** in the numbered/titled opening or separate closing note; none inferred;
+- separate closing note: **present and kept outside the speech body**;
+- PDF270 / printed p.269 begins constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`;
+- PDF/printed-page relationship: **PDF scan = printed page + 1**;
+- duplicate search against live `main`: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- Tamil T1: **NOT STARTED**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 23 source gate
+
+- mapped / started / source-gated: **36/36 / 23/36 / 23/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **22/36**;
+- English E1/E2/E3 complete / English verified: **22/36**;
+- fully archived: **22/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 23 — mapped PDF 256–269 / printed 255–268.** Stop before Tamil T1 / constituent 24.
+**Tamil T1 for constituent 23 — 14 source pages total.** Stop before T2 / constituent 24.

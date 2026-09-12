@@ -16,7 +16,7 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **22 / 36**;
+- mapped: **36 / 36**; started / source-gated: **23 / 36**;
 - Tamil T1 complete: **22 / 36**;
 - Tamil T2 complete: **22 / 36**;
 - Tamil T3 complete / Tamil verified: **22 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **22 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 is the next mapped item and has not started**.
+Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has passed the source / duplicate / boundary gate; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -540,6 +540,24 @@ Repository-level archival closure: **PASS / COMPLETE — 9/9 pages**. Constituen
 
 Collection state: **22 / 36 fully archived**. Constituents **1–22 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 23 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 14/14 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`: PDF **256–269** / printed **255–268** — **14 pages**.
+- Contents entry: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` / `27-08-98` / printed start **255**.
+- All mapped scans PDF **256–269** were directly inspected.
+- PDF256 is the numbered/titled opening: constituent `23`, heading `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`.
+- PDF269 / printed p.268 completes the speech body before the separate closing note `27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`.
+- The closing note directly establishes **27-08-1998**, event `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, and role `ஆற்றிய உரை`.
+- No geographic venue is explicitly stated in the numbered/titled opening or separate closing note; none is inferred.
+- PDF270 / printed p.269 begins constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`, confirming the ending boundary.
+- PDF/printed-page relationship remains **PDF scan = printed page + 1**.
+- Duplicate search: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/tn-rajarathinam-pillai-nootraandu-vizha/`.
+- Source PDF remains uncommitted.
+- Tamil T1: **NOT STARTED**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 23 — `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, mapped PDF 256–269 / printed 255–268.** Stop before Tamil T1 / constituent 24.
+**Tamil T1 for constituent 23 — 14 source pages total.** Stop before T2 / constituent 24.

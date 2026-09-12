@@ -1,0 +1,68 @@
+{
+  "id": "tn-rajarathinam-pillai-nootraandu-vizha",
+  "title": {
+    "ta": "டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
+    "contents_title_ta": "டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
+    "page_heading_ta": "டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
+    "closing_note_event_ta": "டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
+    "en_transliteration": "T.N. Rajarathinam Pillai Centenary Celebration"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 23,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": "1998-08-27",
+    "date_source_text": "27-8-98",
+    "venue_ta": null,
+    "venue_note": "The numbered/titled opening and separate closing note do not explicitly state a geographic venue; do not infer one.",
+    "event_ta": "டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 269 / printed p.268 states: 27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 256,
+    "pdf_page_end": 269,
+    "printed_page_start": 255,
+    "printed_page_end": 268,
+    "speech_pages_total": 14,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 256 / printed p.255; numbered constituent 23 with titled opening டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
+    "ending": "Speech body ends on PDF 269 / printed p.268 before the separate printed source closing note; PDF 270 begins constituent 24"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 14,
+    "speech_pages_drafted": 0,
+    "t1_pages_completed": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 for constituent 23 — 14 source pages total"
+  }
+}

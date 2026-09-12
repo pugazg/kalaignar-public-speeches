@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 23 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 23 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source or fidelity evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has passed the source / duplicate / boundary gate**.
 
 ## Controlling source
 
@@ -16,38 +16,38 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–22 a
 - source PDF must **not** be committed
 - stable constituent-body relationship: **PDF scan = printed page + 1**
 
-## Durable collection state
+## Durable state
 
 - mapped: **36/36**
-- started / source-gated: **22/36**
+- started / source-gated: **23/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **22/36**
 - English E1/E2/E3 complete / English verified: **22/36**
 - fully archived: **22/36**
 
-## Next mapped constituent
+## Constituent 23
 
-**23 — `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`**
+`டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` — `speeches/tn-rajarathinam-pillai-nootraandu-vizha/`
 
+- source gate: **PASS / COMPLETE — 14/14**
 - contents date: **27-08-98**
-- mapped printed pages: **255–268**
-- mapped PDF scans: **256–269**
-- mapped extent: **14 pages**
-- PDF270 / printed p.269 is mapped as the start of constituent 24: `மதுரை மத நல்லிணக்க மாநாடு`
+- PDF **256–269**
+- printed **255–268**
+- **14 source pages**
+- page heading: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`
+- closing note: `27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`
+- date: **27-08-1998**
+- venue: **not explicitly stated in the numbered/titled opening or separate closing note; do not infer**
+- event: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`
+- role: `ஆற்றிய உரை`
+- PDF270 begins constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **NOT STARTED**
 
 ## Exact activity
 
-Perform the **source / duplicate / boundary gate for constituent 23 only**.
-
-1. Inspect mapped scans **256–269** and next-boundary scan **270** directly.
-2. Confirm the exact numbered/titled opening.
-3. Confirm the exact speech-body ending and preserve any separate closing note outside the body.
-4. Establish date / venue / event / role only from explicit source evidence; do not infer unsupported geographic metadata.
-5. Confirm the PDF/printed-page relationship.
-6. Search live `main` for duplicate or pre-existing dedicated archive evidence before creating a new speech directory.
-7. Create a dedicated archive only after the gate passes.
-
-Source pixels are controlling. Do not silently normalize or context-correct source wording.
+Perform **Tamil T1 for constituent 23 — all 14 source pages**. Preserve exact source wording and page boundaries, and keep the separate closing note outside the speech body.
 
 ## STOP RULE
 
-Stop after the constituent-23 source / duplicate / boundary gate. **Do not start Tamil T1, constituent 24, English work, or repository closure in the same activity.**
+Stop after Tamil T1 for constituent 23. **Do not start Tamil T2, constituent 24, English work, or repository closure in the same activity.**

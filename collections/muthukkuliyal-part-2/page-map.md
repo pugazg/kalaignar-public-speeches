@@ -69,7 +69,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 23–36 | — | not started |
+| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **Source gate complete — Tamil T1 pending** |
+| 24–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -256,6 +257,18 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 9/9 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **22 / 36**.
 
+## Constituent 23 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 14/14 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **256–269** / printed **255–268** — **14 pages**.
+- Contents entry: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` / `27-08-98`.
+- All mapped scans PDF **256–269** directly inspected.
+- Opening: PDF256 / printed p.255, constituent `23`, titled opening `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`.
+- Closing note: `27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`; date **27-08-1998**; event/role directly supported; no geographic venue stated.
+- PDF270 / printed p.269 begins constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`.
+- Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
+
 ## Next same-gate batch
 
-Constituent **23** — source / duplicate / boundary gate — mapped PDF **256–269** / printed **255–268**. Inspect next-boundary PDF **270**. Stop before Tamil T1 / constituent 24.
+Constituent **23** only — Tamil T1 first-pass transcription — **14 source pages total**. Stop before T2 / constituent 24.
