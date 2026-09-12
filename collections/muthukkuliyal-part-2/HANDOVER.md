@@ -16,16 +16,16 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **23 / 36**;
+- mapped: **36 / 36**; started / source-gated: **24 / 36**;
 - Tamil T1 complete: **24 / 36**;
 - Tamil T2 complete: **24 / 36**;
 - Tamil T3 complete / Tamil verified: **24 / 36**;
-- English E1 complete: **23 / 36**;
+- English E1 complete: **24 / 36**;
 - English E2 complete: **23 / 36**;
 - English E3 complete / English verified: **23 / 36**;
 - fully archived: **23 / 36**.
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T3 PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E1 COMPLETE — 18/18 pages; Tamil remains `verified-complete` / FROZEN; English E2 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -641,8 +641,14 @@ Tamil T3: **PASS / COMPLETE — 18/18 source pages; 0 additional corrections; 0 
 
 The **1/1** T2 correction remains consolidated. Stale superseded canonical speech-body reading: **0**. Canonical page records are **18/18**, complete, unique and ordered; missing / duplicate records **0 / 0**. Documented joins, source-sensitive quoted material, the English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, applause marker and the separate closing note pass. No speech-body Tamil changed during T3.
 
-Tamil for constituent 24 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 25 remains outside the active batch. Source PDF remains uncommitted.
+Tamil for constituent 24 remains **`verified-complete` / FROZEN**.
+
+## Constituent 24 — durable English E1 result
+
+English E1: **COMPLETE — 18/18 pages** for `மதுரை மத நல்லிணக்க மாநாடு`, PDF **270–287** / printed **269–286**. Translation used only frozen `transcription-ta.md`; English page records are **18/18**, complete and ordered; missing records **0**. The full printed English Indira Gandhi letter is preserved verbatim, its Tamil rendering is preserved in sequence and translated into English, explicit page-boundary continuations / rhetoric / repetition / source-sensitive wording / applause marker / separate closing note are retained, and frozen Tamil changes during E1 are **0**.
+
+English E2 is **READY / NOT STARTED**. Constituent 25 remains outside the active batch. Source PDF remains uncommitted.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
