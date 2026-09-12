@@ -1,10 +1,10 @@
 # காஞ்சி மணிமொழியார் இல்ல மணவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 9 / 9 pages; 3 corrections; 0 unresolved**; Tamil T3 pending  
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **9 / 9 pages COMPLETE**  
 **Source range:** PDF **247–255** / printed **246–254**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 9 source pages directly and consolidated **3 scan-proven corrections** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 9 source pages directly and consolidated **3 scan-proven corrections** with **0 unresolved**. Tamil T3 consolidation/freeze is **PASS / COMPLETE** with **0 additional corrections** and **0 unresolved**. The canonical Tamil layer is now **`verified-complete` / FROZEN**.
 
 ## PDF 247 / printed p.246
 
@@ -122,6 +122,20 @@ Source-sensitive readings retained as printed include `உங்களை யெ
 
 Canonical page records PDF **247–255** remain complete, unique and ordered. Explicit source continuations **247→248**, **248→249**, **250→251**, **251→252**, and **253→254** are **PASS**. Separate source closing note: **PASS**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 9/9 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings: **0**;
+- canonical page records: **9/9**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary joins **247→248**, **248→249**, **250→251**, **251→252**, **253→254**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions / source-sensitive forms: **PASS**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 22 — all 9 source pages.** Stop before English / constituent 23.
+**English E1 first-pass translation for constituent 22 — 9 verified Tamil pages total.**

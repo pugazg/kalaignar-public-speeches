@@ -68,7 +68,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 22 | `kanchi-manimozhiyar-illa-manavizha` | **Tamil T2 complete — T3 pending** |
+| 22 | `kanchi-manimozhiyar-illa-manavizha` | **Tamil verified-complete / FROZEN — English E1 pending** |
 | 23–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -236,6 +236,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 9/9 source pages; 3 corrections; 0 unresolved.** Corrections: PDF249 **1**, PDF251 **1**, PDF252 **1**. All are consolidated. Canonical page order / explicit joins and separate closing-note handling pass.
 
+## Constituent 22 — Tamil T3
+
+**PASS / COMPLETE — 9/9 source pages; 0 additional corrections; 0 unresolved.** All **3/3** T2 corrections remain consolidated; stale superseded body readings are absent; canonical page records are complete, unique and ordered; explicit joins and separate closing-note handling pass. Tamil is **`verified-complete` / FROZEN**.
+
 ## Next same-gate batch
 
-Constituent **22** only — Tamil T3 consolidation/freeze — **9 source pages total**. Stop before English / constituent 23.
+Constituent **22** only — English E1 first-pass translation from frozen Tamil — **9 verified Tamil pages total**. Constituent 23 remains outside the batch.
