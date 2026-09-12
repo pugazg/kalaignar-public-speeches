@@ -65,6 +65,55 @@ This T1 layer is not yet a final fidelity claim.
 - Tamil state: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
 
-## Exact next gate
+## English E1 — first-pass translation
 
-**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.**
+**COMPLETE — 7/7 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **7/7**, complete and ordered;
+- missing pages: **0**;
+- explicit joins **288→289**, **290→291**: retained;
+- rhetoric / repetition / quotation structure / laughter-applause markers: retained;
+- separate closing note: retained outside speech body;
+- frozen Tamil changes during E1: **0**.
+
+## English E2 — fidelity review
+
+**PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved.**
+
+1. PDF289: `will be an angel of love` → `can be an angel of love`.
+2. PDF289: removed unsupported `greatness`.
+3. PDF291: repaired P. C. Roy memory-sentence logic.
+4. PDF292: removed unsupported `another` from Centre/State government wording.
+5. PDF293: `Those words` → `That word`, restoring singular `அந்தச் சொல்`.
+
+All corrections are consolidated; frozen Tamil changes during E2: **0**.
+
+## English E3 — final verification
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.**
+
+- PDF288: `You need take part in the function for only ten minutes` → `You need only take part in the function for ten minutes`;
+- all **5/5** E2 corrections remain consolidated;
+- English page records: **7/7**, complete, unique and ordered;
+- missing / duplicate records: **0 / 0**;
+- semantic completeness / page correspondence / explicit joins: **PASS**;
+- names / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive names: **PASS / no outside normalization**;
+- laughter / applause markers and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3 corrections: **1 / 0**; unresolved **0**;
+- English E2 / E3 corrections: **5 / 1**; unresolved **0**;
+- PDF **288–294** / printed **287–293**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
