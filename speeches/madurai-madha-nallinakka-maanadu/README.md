@@ -39,7 +39,7 @@
 | English E1 | **COMPLETE — 18/18** |
 | English E2 | **PASS / COMPLETE — 18/18; 5 corrections; 0 unresolved** |
 | English E3 | **PASS / COMPLETE — 18/18; 1 additional correction; 0 unresolved** |
-| Repository closure | **READY / NOT STARTED** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -69,8 +69,9 @@ Tamil remains **`verified-complete` / FROZEN**.
 
 English is now **`verified-complete`**. No transcription or translation work remains for constituent 24.
 
-Repository closure is **READY / NOT STARTED**.
+## Repository closure
 
-## Exact next gate
+**PASS / COMPLETE — FULLY ARCHIVED — 18/18 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **1 correction**, T3 **0 additional**, unresolved **0**. English remains **`verified-complete`** with E2 **5 corrections**, E3 **1 additional**, unresolved **0**. Source range, canonical page order / joins, separate closing note, metadata, README, audit, HANDOVER, translation-review and root catalogue agree. Frozen Tamil / verified English speech-body changes during closure: **0 / 0**. Source PDF remains uncommitted.
 
-**Repository-level archival closure for constituent 24.**
+No transcription or translation work remains pending for constituent 24.
+
