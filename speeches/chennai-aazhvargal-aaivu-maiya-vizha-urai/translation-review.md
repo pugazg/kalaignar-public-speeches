@@ -1,5 +1,11 @@
 # Chennai - Aazhvargal Research Centre Function Speech — English translation review
 
-**Status:** blocked.
+**English E1:** **READY / NOT STARTED**  
+**English E2:** **BLOCKED pending E1**  
+**English E3:** **BLOCKED pending E2**
 
-Tamil transcription has not started. No English translation, fidelity review, or final verification is authorized at the current gate.
+Tamil is **`verified-complete` / FROZEN**. No English translation or fidelity-review work has started.
+
+## Exact next gate
+
+**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.**
