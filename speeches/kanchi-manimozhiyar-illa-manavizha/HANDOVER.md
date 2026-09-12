@@ -14,12 +14,15 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**.
-
-Tamil T1: **COMPLETE — 9/9**. Canonical page records cover PDF **247–255** / printed **246–254**, each once and in source order. Missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Source method: direct visual reading of the controlling scans.
-
-Tamil T2: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 9/9**;
+- Tamil T2: **PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved**;
+- all **3/3** corrections consolidated;
+- canonical page records / explicit joins / separate closing note: **PASS**;
+- Tamil T3: **READY / NOT STARTED**;
+- English blocked pending verified Tamil;
+- source PDF remains uncommitted.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.** Stop before T3 and constituent 23.
+**Tamil T3 consolidation/freeze for constituent 22 — 9 source pages total.** Stop before English and constituent 23.

@@ -1158,6 +1158,26 @@ T2 attention points and page-boundary continuations are recorded in the constitu
 - fully archived: **21/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 22 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 9/9 source pages; 3 corrections; 0 unresolved.**
+
+1. PDF249 / p.248: `மிக துல்லியமாகக்` → **`மிகத் துல்லியமாகக்`**.
+2. PDF251 / p.250: `அப்படிப்பட்ட தமிழ்க் குடும்பம்` → **`அப்படிப்பட்ட தமிழ்க்குடும்பம்`**.
+3. PDF252 / p.251: `தங்கள் இல்லங்களில்` → **`தங்கள் இல்லங்களிலே`**.
+
+All corrections are consolidated; canonical page order, explicit joins and separate closing-note handling pass.
+
+## Collection totals after constituent 22 T2
+
+- mapped / started / source-gated: **36/36 / 22/36 / 22/36**;
+- Tamil T1 complete: **22/36**;
+- Tamil T2 complete: **22/36**;
+- Tamil T3 complete / Tamil verified: **21/36**;
+- English E1/E2/E3 complete / English verified: **21/36**;
+- fully archived: **21/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.** Stop before T3 / constituent 23.
+**Tamil T3 consolidation/freeze for constituent 22 — 9 source pages total.** Stop before English / constituent 23.

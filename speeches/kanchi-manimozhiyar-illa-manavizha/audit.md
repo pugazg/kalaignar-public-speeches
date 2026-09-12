@@ -7,29 +7,20 @@
 
 **PASS / COMPLETE.**
 
-- contents title/date: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `28-08-98`;
-- opening: PDF247 / printed p.246, constituent `22`, titled opening `காஞ்சி மணிமொழியார் இல்ல மணவிழா`;
-- ending: PDF255 / printed p.254 before `28-8-98 அன்று காஞ்சி மணிமொழியார் இல்ல மணவிழாவில் ஆற்றிய உரை`;
-- date: **28-08-1998**;
-- event/role: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `ஆற்றிய உரை`;
-- venue: **not explicitly stated**; none inferred;
-- PDF256 / printed p.255 begins constituent 23;
-- duplicate unresolved: **0**;
-- boundary unresolved: **0**.
-
 ## Tamil T1 — first-pass transcription
 
-**COMPLETE — 9/9 source pages.**
+**COMPLETE — 9/9 source pages.** Canonical records cover PDF **247–255** / printed **246–254**, complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body.
 
-- canonical records: PDF **247–255** / printed **246–254**, **9/9**, complete and ordered;
-- missing page records: **0**;
-- explicit unreadable/unknown placeholders: **0**;
-- separate closing note: preserved outside speech body;
-- method: direct visual reading of controlling scans;
-- Tamil T2: **NOT STARTED**.
+## Tamil T2 — strict direct-scan fidelity audit
 
-T2 attention points and page-boundary continuations are recorded in `transcription-ta.md`. Source pixels remain controlling and no T2 fidelity claim has yet been made.
+**PASS / COMPLETE — 9/9 source pages; 3 corrections; 0 unresolved.**
+
+1. PDF249 / p.248: `மிக துல்லியமாகக்` → **`மிகத் துல்லியமாகக்`**.
+2. PDF251 / p.250: `அப்படிப்பட்ட தமிழ்க் குடும்பம்` → **`அப்படிப்பட்ட தமிழ்க்குடும்பம்`**.
+3. PDF252 / p.251: `தங்கள் இல்லங்களில்` → **`தங்கள் இல்லங்களிலே`**.
+
+All corrections are consolidated in `transcription-ta.md`. Canonical page records remain complete, unique and ordered. Explicit page-boundary continuations **247→248**, **248→249**, **250→251**, **251→252**, **253→254**, source-sensitive forms, and the separate closing note all pass. Unresolved readings: **0**.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.**
+**Tamil T3 consolidation/freeze for constituent 22 — 9 source pages total.**

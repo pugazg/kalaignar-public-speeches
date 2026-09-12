@@ -20,7 +20,17 @@
 
 ## Tamil T1
 
-**COMPLETE — 9/9 source pages.** Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body. Source pixels remain controlling.
+**COMPLETE — 9/9 source pages.** Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate source closing note remains outside the speech body.
+
+## Tamil T2
+
+**PASS / COMPLETE — 9/9 source pages; 3 corrections; 0 unresolved.**
+
+- PDF249 / p.248: `மிக துல்லியமாகக்` → `மிகத் துல்லியமாகக்`;
+- PDF251 / p.250: `அப்படிப்பட்ட தமிழ்க் குடும்பம்` → `அப்படிப்பட்ட தமிழ்க்குடும்பம்`;
+- PDF252 / p.251: `தங்கள் இல்லங்களில்` → `தங்கள் இல்லங்களிலே`.
+
+All three corrections are consolidated. Canonical page records remain complete, unique and ordered; explicit page joins and the separate source closing note pass.
 
 ## Workflow
 
@@ -28,11 +38,11 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 9/9** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 22 — all 9 source pages.** Stop before T3 / constituent 23.
+**Tamil T3 consolidation/freeze for constituent 22 — all 9 source pages.** Stop before English / constituent 23.

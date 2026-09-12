@@ -18,14 +18,14 @@
 
 - mapped: **36 / 36**; started / source-gated: **22 / 36**;
 - Tamil T1 complete: **22 / 36**;
-- Tamil T2 complete: **21 / 36**;
+- Tamil T2 complete: **22 / 36**;
 - Tamil T3 complete / Tamil verified: **21 / 36**;
 - English E1 complete: **21 / 36**;
 - English E2 complete: **21 / 36**;
 - English E3 complete / English verified: **21 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has Tamil T1 COMPLETE — 9/9; Tamil T2 is READY / NOT STARTED**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has Tamil T2 PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -499,6 +499,16 @@ Tamil T1: **COMPLETE — 9/9 source pages** for `காஞ்சி மணிம
 
 Tamil T2 is **READY / NOT STARTED**. Constituent 23 remains outside the batch. The source PDF binary remains uncommitted.
 
+## Constituent 22 — durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 9/9 source pages; 3 corrections; 0 unresolved**.
+
+- PDF249 / p.248: `மிக துல்லியமாகக்` → `மிகத் துல்லியமாகக்`;
+- PDF251 / p.250: `அப்படிப்பட்ட தமிழ்க் குடும்பம்` → `அப்படிப்பட்ட தமிழ்க்குடும்பம்`;
+- PDF252 / p.251: `தங்கள் இல்லங்களில்` → `தங்கள் இல்லங்களிலே`.
+
+All **3/3** corrections are consolidated. Canonical page records remain **9/9**, complete, unique and ordered; explicit page joins, source-sensitive forms and the separate closing note pass. Unresolved readings: **0**. Tamil T3 has **NOT STARTED**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.** Stop before T3 / constituent 23.
+**Tamil T3 consolidation/freeze for constituent 22 — 9 source pages total.** Stop before English / constituent 23.

@@ -9,14 +9,14 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **22 / 36**
 - Tamil T1 complete: **22 / 36**
-- Tamil T2 complete: **21 / 36**
+- Tamil T2 complete: **22 / 36**
 - Tamil T3 complete / Tamil verified: **21 / 36**
 - English E1 complete: **21 / 36**
 - English E2 complete: **21 / 36**
 - English E3 complete: **21 / 36**
 - fully archived: **21 / 36**
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has Tamil T1 COMPLETE — 9/9; Tamil T2 is READY / NOT STARTED**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has Tamil T2 PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -451,6 +451,12 @@ Collection state: source-gated **22/36**; Tamil verified **21/36**; English veri
 
 Collection state: source-gated **22/36**; Tamil T1 complete **22/36**; Tamil T2/T3 complete / Tamil verified **21/36**; English verified **21/36**; fully archived **21/36**.
 
+## Constituent 22 — Tamil T2 complete
+
+**PASS / COMPLETE — 9/9 source pages; 3 corrections; 0 unresolved.** Corrections: PDF249 **1**, PDF251 **1**, PDF252 **1**. All are consolidated. Canonical page records remain complete, unique and ordered; explicit page joins, source-sensitive forms and the separate closing note pass.
+
+Collection state: source-gated **22/36**; Tamil T1 **22/36**; Tamil T2 **22/36**; Tamil verified **21/36**; English verified **21/36**; fully archived **21/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.** Stop before T3 / constituent 23.
+**Tamil T3 consolidation/freeze for constituent 22 — 9 source pages total.** Stop before English / constituent 23.
