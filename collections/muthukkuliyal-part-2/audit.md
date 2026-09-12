@@ -1833,6 +1833,25 @@ No transcription or translation work remains for constituent 25.
 - fully archived: **25/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 26 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved.**
+
+1. PDF296 / printed p.295: `அந்த அளவிற்கு தேன் குடத்திலே` → `அந்த அளவிற்குத் தேன் குடத்திலே`.
+2. PDF303 / printed p.302: `குரு வியாக்கியானம் செய்கிறாரே` → `குரு வியாக்யானம் செய்கிறாரே`.
+
+All 20 scans were re-read directly. Canonical page records remain complete, unique and ordered; explicit joins, names / numerals / punctuation / quotations / repetitions, laughter-applause markers, source-sensitive readings, title variants and separate closing-note handling pass. Unresolved readings: **0**.
+
+## Collection totals after constituent 26 T2
+
+- mapped / started / source-gated: **36/36 / 26/36 / 26/36**;
+- Tamil T1 complete: **26/36**;
+- Tamil T2 complete: **26/36**;
+- Tamil T3 complete / Tamil verified: **25/36**;
+- English E1/E2/E3 complete / English verified: **25/36**;
+- fully archived: **25/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
+**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.** Stop before English / constituent 27.
