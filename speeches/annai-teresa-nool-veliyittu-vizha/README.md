@@ -37,9 +37,10 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 7/7** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 7/7; 1 correction; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 7/7; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending E1/E2 |
-| Repository closure | not started |
+| English E1 | **COMPLETE — 7/7** |
+| English E2 fidelity review | **PASS / COMPLETE — 7/7; 5 corrections; 0 unresolved** |
+| English E3 final verification | **PASS / COMPLETE — 7/7; 1 additional correction; 0 unresolved** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -55,6 +56,20 @@
 
 Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
 
-## Exact next gate
+## English E1
 
-**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.**
+**COMPLETE — 7/7 pages.** Translation authority was frozen `transcription-ta.md` only. English page records are complete and ordered; missing records **0**. Explicit joins **288→289** and **290→291**, rhetoric / repetition / quotation structure, laughter / applause markers and the separate closing note were retained. Source-sensitive Thirana / Konsaka / Pojaksiyu renderings were kept without outside normalization. Frozen Tamil changes during E1: **0**.
+
+## English E2
+
+**PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved.** Corrections restored source potentiality, removed an unsupported evaluative addition, repaired the P. C. Roy memory sentence, removed an unsupported Centre/State implication, and restored singular rhetoric. All **5/5** corrections are consolidated. Frozen Tamil changes during E2: **0**.
+
+## English E3
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.** E3 repaired the PDF288 ten-minute sentence to `You need only take part in the function for ten minutes`, preserving `பத்தே நிமிடங்கள்` while removing unidiomatic English. English is now **`verified-complete`**. Frozen Tamil changes during E3: **0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**. Source range, page order / joins, correction counts, metadata, audit trail, translation review and separate closing note agree. Closure introduced **0 Tamil and 0 English speech-body changes**. The source PDF remains uncommitted per repository policy.
+
+No transcription or translation work remains pending for constituent 25.
