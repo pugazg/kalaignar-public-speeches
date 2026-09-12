@@ -49,6 +49,19 @@ Every page from PDF **184–193** / printed **183–192** was re-read directly a
 
 Documented source-sensitive readings were retained as printed. All page joins **184→185 through 192→193**: **PASS**. Separate closing note: **PASS**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 10/10 source pages; 2 additional corrections; 0 unresolved.**
+
+T3 performed a final source-sensitive reconciliation before freeze and found two stale carry-forwards not corrected at T2:
+
+1. PDF188 / p.187: `இன்னைக்கு அங்கே பெரியவர்களாக இருக்கிறார்கள்` → `இன்றைக்கு அங்கே பெரியவர்களாக இருக்கிறார்கள்`.
+2. PDF190 / p.189: `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`.
+
+All **5/5** T2 corrections remain consolidated. The two T3 corrections are also consolidated. Canonical page records **10/10**, missing / duplicate **0 / 0**. All joins **184→185 through 192→193** and the separate closing note pass. Unresolved readings **0**.
+
+Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.**
+**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.**

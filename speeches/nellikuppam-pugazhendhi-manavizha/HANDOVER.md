@@ -13,11 +13,16 @@
 - source PDF remains uncommitted.
 
 ## Durable state
-
-Source / duplicate / boundary gate remains **PASS / COMPLETE**. Tamil T1 is **COMPLETE — 10/10**. Tamil T2 is **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved**. All five corrections are consolidated in `transcription-ta.md`. All contiguous page joins and the separate PDF193 closing note pass. Tamil T3 has **NOT STARTED**, so Tamil is not yet frozen.
-
-T2 corrections: PDF184 `ஆவலைத் தெரிவிக்க`; PDF185 `தலைமைக் கழகத்தின்` and `ஒளிவிட்டுப் பிரகாசித்துக்`; PDF192 `தலைவரும், பொதுச்செயலாளரும்`; PDF193 source closing quote in `தெரியுமா’ என்று`. Unresolved readings: **0**.
+- source / duplicate / boundary: **PASS / COMPLETE**;
+- Tamil T1: **COMPLETE — 10/10**;
+- Tamil T2: **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 10/10; 2 additional corrections; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- T3 corrected PDF188 `இன்னைக்கு` → `இன்றைக்கு` and PDF190 `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`;
+- canonical page records: **10/10**, complete, unique and ordered;
+- all page joins and separate closing note: **PASS**;
+- English E1: **READY / NOT STARTED**;
+- source PDF remains uncommitted.
 
 ## Exact next gate
-
-**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.
+**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.** Stop before E2 / constituent 19.
