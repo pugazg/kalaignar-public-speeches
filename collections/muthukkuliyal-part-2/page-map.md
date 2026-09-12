@@ -71,7 +71,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 25–36 | — | not started |
+| 25 | `annai-teresa-nool-veliyittu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 26–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -338,6 +339,17 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 18/18 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **24 / 36**.
 
+## Constituent 25 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 7/7 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **288–294** / printed **287–293** — **7 pages**.
+- Contents entry: `அன்னை தெரசா நூல் வெளியீட்டு விழா` / `05-09-98`.
+- Opening: PDF288 / printed p.287, constituent `25`, titled opening `அன்னை தெரசா நூல் வெளியீட்டு விழா`.
+- Closing note: `5-9-98 அன்று சென்னையில் அன்னை தெரசா நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`; date **05-09-1998**; venue `சென்னை`; event/role directly supported.
+- PDF287 belongs to constituent 24; PDF295 / printed p.294 begins constituent 26 `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`.
+- Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
+
 ## Next same-gate batch
 
-Constituent **25** — source / duplicate / boundary gate for `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF **288–294** / printed **287–293** — **7 pages**. No constituent 25 source-gate claim has yet been made.
+Constituent **25** only — Tamil T1 first-pass transcription — **7 source pages total**. Stop before T2 / constituent 26.
