@@ -58,8 +58,21 @@ T2 source-sensitive attention points and page-boundary continuations are recorde
 - separate closing note: **PASS**;
 - speech-body Tamil changes during T3: **0**;
 - Tamil state: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**.
+- English E1: **COMPLETE — 18/18**.
+
+## English E1 — first-pass translation
+
+**COMPLETE — 18/18 pages.**
+
+- English page records: PDF **270–287** / printed **269–286**, **18/18**, complete, unique and ordered;
+- missing English page records: **0**;
+- translation authority: frozen `transcription-ta.md` only;
+- full printed English Indira Gandhi letter: **preserved verbatim**;
+- following Tamil rendering of the letter: **preserved in source sequence and translated into English**;
+- rhetoric / repetition / names / titles / numerals / quotation structure / applause marker / separate closing note: **preserved for E2 review**;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 24 — 18 verified Tamil pages total.**
+**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
