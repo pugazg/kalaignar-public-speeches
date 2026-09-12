@@ -17,7 +17,7 @@
 ## Durable collection state
 
 - mapped: **36 / 36**; started / source-gated: **25 / 36**;
-- Tamil T1 complete: **24 / 36**;
+- Tamil T1 complete: **25 / 36**;
 - Tamil T2 complete: **24 / 36**;
 - Tamil T3 complete / Tamil verified: **24 / 36**;
 - English E1 complete: **24 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **24 / 36**;
 - fully archived: **24 / 36**.
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has passed the source / duplicate / boundary gate — 7/7 pages; Tamil T1 is READY / NOT STARTED**.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T1 COMPLETE — 7/7 source pages; Tamil T2 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -684,8 +684,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 7/7 source pages; dupl
 - Source PDF remains uncommitted.
 - Tamil T1: **NOT STARTED**.
 
-Collection state: mapped **36/36**; started / source-gated **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+## Constituent 25 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 7/7 source pages** for `அன்னை தெரசா நூல் வெளியீட்டு விழா`, PDF **288–294** / printed **287–293**. Canonical records are complete and ordered; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Explicit continuations **288→289** and **290→291** are flagged for T2. Source pixels remain controlling.
+
+Collection state: mapped **36/36**; started / source-gated **25/36**; Tamil T1 **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 25 — 7 source pages total.** Stop before T2 and constituent 26.
+**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 and constituent 26.
