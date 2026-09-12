@@ -48,6 +48,10 @@ All corrections are consolidated in `transcription-ta.md`. Canonical page record
 - frozen Tamil changes during E1: **0**;
 - English E2: **NOT STARTED**.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.** Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated. Frozen Tamil changes during E2 **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 22 — 9 pages.**
+**English E3 final verification for constituent 22 — 9 pages.**

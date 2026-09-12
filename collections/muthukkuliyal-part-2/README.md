@@ -12,11 +12,11 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T2 complete: **22 / 36**
 - Tamil T3 complete / Tamil verified: **22 / 36**
 - English E1 complete: **22 / 36**
-- English E2 complete: **21 / 36**
+- English E2 complete: **22 / 36**
 - English E3 complete: **21 / 36**
 - fully archived: **21 / 36**
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E1 COMPLETE — 9/9; English E2 is READY / NOT STARTED; Tamil remains `verified-complete` / FROZEN**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has English E2 PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved; English E3 is READY / NOT STARTED; Tamil remains `verified-complete` / FROZEN**.
 
 ## Constituents 7–9 — closed archive
 
@@ -471,6 +471,12 @@ Collection state: source-gated **22/36**; Tamil T1/T2/T3 complete / Tamil verifi
 
 Collection state: source-gated **22/36**; Tamil verified **22/36**; English E1 complete **22/36**; English verified **21/36**; fully archived **21/36**.
 
+## Constituent 22 — English E2
+
+**PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.** Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated; page correspondence / joins, semantic completeness, source-sensitive wording, applause marker and separate closing note pass. Frozen Tamil changes during E2 **0**.
+
+Collection state: Tamil verified **22/36**; English E1 **22/36**; English E2 **22/36**; English verified **21/36**; fully archived **21/36**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 22 — 9 pages.**
+**English E3 final verification for constituent 22 — 9 pages.**

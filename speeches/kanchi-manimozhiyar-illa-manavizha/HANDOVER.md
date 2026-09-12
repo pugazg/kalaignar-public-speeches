@@ -22,7 +22,8 @@
 - Tamil T3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 9/9**;
-- English E2: **READY / NOT STARTED**;
+- English E2: **PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved**;
+- English E3: **READY / NOT STARTED**;
 - source PDF remains uncommitted.
 
 ## Durable Tamil T3 / frozen-Tamil result
@@ -35,6 +36,10 @@ Tamil is now **`verified-complete` / FROZEN**. English E1 was translated only fr
 
 English E1: **COMPLETE — 9/9 pages** from frozen Tamil only. English page records are complete, unique and ordered; exact page correspondence and separate closing-note handling pass; missing English page records **0**; frozen Tamil changes **0**.
 
+## Durable English E2 result
+
+English E2: **PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved**. Corrections: PDF252 **1**, PDF253 **2**, PDF255 **1**. All are consolidated; frozen Tamil changes during E2 **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 22 — 9 pages.**
+**English E3 final verification for constituent 22 — 9 pages.**

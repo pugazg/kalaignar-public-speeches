@@ -1222,6 +1222,25 @@ All corrections are consolidated; canonical page order, explicit joins and separ
 - fully archived: **21/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 22 — English E2 independent fidelity review
+
+**PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.**
+
+- PDF252: **1** correction;
+- PDF253: **2** corrections;
+- PDF255: **1** correction;
+- all corrections consolidated;
+- page correspondence / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording, applause marker and separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**.
+
+## Collection totals after constituent 22 English E2
+
+- Tamil verified: **22/36**;
+- English E1 complete: **22/36**;
+- English E2 complete: **22/36**;
+- English E3 complete / English verified: **21/36**;
+- fully archived: **21/36**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 22 — 9 pages.**
+**English E3 final verification for constituent 22 — 9 pages.**

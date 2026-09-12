@@ -41,8 +41,8 @@ All three corrections are consolidated. Canonical page records remain complete, 
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9/9; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 9/9** |
-| English E2 | **READY / NOT STARTED** |
-| English E3 | blocked pending E2 |
+| English E2 | **PASS / COMPLETE — 9/9; 4 corrections; 0 unresolved** |
+| English E3 | **READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T3
@@ -55,6 +55,10 @@ All three corrections are consolidated. Canonical page records remain complete, 
 
 **COMPLETE — 9/9 verified Tamil pages.** Translation authority was frozen `transcription-ta.md` only. English page records are complete, unique and ordered; exact PDF/printed-page correspondence and the separate closing note are preserved. Missing English page records **0**. Frozen Tamil changes during E1 **0**.
 
+## English E2
+
+**PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.** The four fidelity corrections are consolidated; exact page correspondence / joins, semantic completeness, source-sensitive wording and the separate closing note pass. Frozen Tamil changes during E2 **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 22 — 9 pages.**
+**English E3 final verification for constituent 22 — 9 pages.**

@@ -1,6 +1,6 @@
 # Kanchi Manimozhiyar House Wedding — English translation
 
-**Status:** `e1-complete` — English E1 **COMPLETE — 9 / 9 pages**; English E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 9 / 9 pages; 4 corrections; 0 unresolved**; English E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **247–255** / printed **246–254**
 
@@ -58,7 +58,7 @@ Whether the marriages in our homes are reform marriages, Self-Respect marriages,
 
 sense of self-respect does not wither away. That alone is what we desire, nothing else.
 
-I want to say one thing. When the Minister for People's Welfare, Arcot Veerasamy, briefly offered his greetings, he said — as he usually does, and as he does at all weddings — that children should be had in moderation, giving the kind of blessing appropriate to his People's Welfare portfolio. Maran also pointed out that this is a second-generation marriage.
+I want to say one thing. When the Minister for People's Welfare, Arcot Veerasamy, briefly offered his greetings, he said — as he usually does, and as he does at all weddings — that they should have only a limited number of children, giving the kind of blessing appropriate to his People's Welfare portfolio. Maran also pointed out that this is a second-generation marriage.
 
 Even though the first-generation marriage took place as a Self-Respect marriage, it was not an inter-caste marriage. It was a marriage within caste. Now the second generation too is taking place in the same way. Therefore I ask that, at least in the third generation, the children born to our Ilavarasu and Kalaiyarasi should introduce inter-caste marriage in their homes. (Applause.)
 
@@ -72,9 +72,9 @@ Even today I saw an article in a weekly magazine asking: “If a hundred houses 
 
 I can ask in return: because Rajaji took one hundred Adi Dravidars and carried out temple entry, was caste abolished? No. But can one therefore say that carrying out temple entry was wrong? One cannot.
 
-When Madurai Vaidyanatha Iyer took one hundred Adi Dravidars into the Madurai Meenakshi Amman Temple and carried out temple entry, did caste disappear? It did not. But can that effort, that action, be criticised for that reason?
+When Madurai Vaidyanathayyar took one hundred Adi Dravidars into the Madurai Meenakshi Amman Temple and carried out temple entry, did caste disappear? It did not. But can that effort, that action, be criticised for that reason?
 
-Why stop there? In Puduvai, Subramania Bharathiyar brought in a Harijan boy named Kanakalingam, made the Iyers stand around him, and conducted a sacred-thread ceremony for that Adi Dravida boy. “Look, I am making this Adi Dravida boy into an Iyer. If a sacred thread is put on him, he becomes an Iyer, does he not?” — saying this, he conducted the sacred-thread
+Why stop there? In Puduvai, Subramania Bharathiyar brought in a Harijan boy named Kanakalingam, made all the Iyers stand around him, and conducted a sacred-thread ceremony for that Adi Dravida boy. “Look, I am making this Adi Dravida boy into an Iyer. If a sacred thread is put on him, he becomes an Iyer, does he not?” — saying this, he conducted the sacred-thread
 
 ## PDF 254 / printed p.253
 
@@ -86,7 +86,7 @@ Thanthai Periyar said: “I run the `Kudi Arasu` newspaper. I do not care whethe
 
 ## PDF 255 / printed p.254
 
-The family that belongs to such a policy — a steadfast family, a family that stands upright like a hill — is the family of Kanchi Manimozhiyar. In the home of Natarajan, the younger brother of Ilanchezhiyan, who shines as one of the distinguished members of that family, his son Ilavarasu and Thirunavukkarasu's daughter Kalaiyarasi are enjoying this happiness today. I wish that they may enjoy this same happiness forever, gain every kind of prosperity in life, shine as lights of their home, and serve the nation.
+The family that belongs to such a policy — a steadfast family, a family that stands upright like a hill — is the family of Kanchi Manimozhiyar. In the home of Natarajan, the younger brother of Ilanchezhiyan, who shines as one of the distinguished members of that family, his son Ilavarasu and Thirunavukkarasu's daughter Kalaiyarasi are enjoying this happiness today. I wish that they may enjoy this same happiness forever, gain every kind of prosperity in life, shine as lights to their home and as workers in service of the nation.
 
 ### Source closing note — not part of speech body
 
@@ -100,7 +100,7 @@ The family that belongs to such a policy — a steadfast family, a family that s
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -115,6 +115,19 @@ The family that belongs to such a policy — a steadfast family, a family that s
 - The Periyar quotation preserves its repetition and first-person emphasis.
 - `ஆல் போல் பரந்து` is rendered as “spread wide like a banyan tree,” preserving the source image.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 9/9 pages; 4 corrections; 0 unresolved.**
+
+Fidelity-proven English corrections consolidated into the canonical translation:
+
+1. PDF252 / printed p.251: `children should be had in moderation` → **`they should have only a limited number of children`**, restoring the direct sense of `குழந்தைகளை அளவோடு பெற`.
+2. PDF253 / printed p.252: first `Madurai Vaidyanatha Iyer` → **`Madurai Vaidyanathayyar`**, preserving frozen Tamil `மதுரை வைத்தியநாதய்யர்` separately from the later `மதுரை வைத்தியநாத அய்யர்`.
+3. PDF253 / printed p.252: `made the Iyers stand around him` → **`made all the Iyers stand around him`**, restoring source `ஐயர்களையெல்லாம்`.
+4. PDF255 / printed p.254: `shine as lights of their home, and serve the nation` → **`shine as lights to their home and as workers in service of the nation`**, restoring the parallel source construction `வீட்டிற்கு விளக்குகளாய் நாட்டிற்குத் தொண்டர்களாக`.
+
+Page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording, applause marker and separate closing note: **PASS**. Frozen Tamil changes during E2: **0**. Unresolved English readings: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 22 — 9 pages.**
+**English E3 final verification for constituent 22 — 9 pages.**
