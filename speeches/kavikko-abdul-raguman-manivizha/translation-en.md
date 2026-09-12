@@ -1,6 +1,6 @@
 # Kavikko Abdul Raguman Sixtieth-Birthday Celebration — English translation
 
-**Status:** `e1-complete` — English E1 **COMPLETE — 19 / 19 pages**; English E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 19 / 19 pages; 0 corrections; 0 unresolved**; English E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **228–246** / printed **227–245**
 
@@ -354,7 +354,7 @@ I found one error in that too. Where does he say it should be created? He has wr
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -370,6 +370,16 @@ I found one error in that too. Where does he say it should be created? He has wr
 - PDF245 preserves `ஸ்ரீமான் சுப்பிரமணிய பாரதி கவிதா மண்டலம்`, `கனகசுப்புரத்தினம்`, and the request to create the Poetry Circle without outside historical reconciliation.
 - PDF246 preserves the source's **Mahabalipuram / Mamallapuram** correction.
 
+## E2 independent fidelity review
+
+**PASS / COMPLETE — 19/19 pages; 0 corrections; 0 unresolved.**
+
+Every English page was independently checked against the frozen Tamil layer. English page records remain **19/19**, complete, unique and ordered, with exact PDF/printed-page correspondence. The review confirmed semantic completeness, all documented page-boundary continuations, names / titles / numerals, rhetoric / repetition, quotation and verse structure, source-sensitive wording, humour / wordplay, applause / laughter markers, and the separate closing note.
+
+The printed song wording **“Hindu Muslim sikki saayi, aapas pe hai bhai, bhai”** remains source-faithful and was not externally corrected. The Tamil `பக்கவாதம்` / `ஒரு பக்க வாதம்` wordplay remains explicitly explained rather than flattened. The repeated `மாற்றான்` imagery and the **Mahabalipuram / Mamallapuram** contrast remain intact.
+
+Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 21 — 19 pages.**
+**English E3 final end-to-end verification for constituent 21 — 19 pages.**
