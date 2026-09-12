@@ -37,8 +37,8 @@
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 18/18; 1 correction; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 18/18; 0 additional corrections; 0 unresolved** |
 | English E1 | **COMPLETE — 18/18** |
-| English E2 | **READY / NOT STARTED** |
-| English E3 | blocked pending E2 |
+| English E2 | **PASS / COMPLETE — 18/18; 5 corrections; 0 unresolved** |
+| English E3 | **READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -59,8 +59,12 @@ Tamil remains **`verified-complete` / FROZEN**.
 
 **COMPLETE — 18/18 pages.** Translation was produced only from frozen `transcription-ta.md`; English page records cover PDF **270–287** / printed **269–286** exactly once and in source order. Missing English page records **0**. The full printed English Indira Gandhi letter is preserved verbatim; its following Tamil rendering is preserved in sequence and translated into English. Rhetoric, repetition, names / titles / numerals, quotation structure, applause marker, explicit page-boundary continuations and the separate closing note are retained. Frozen Tamil changes during E1: **0**.
 
-English E2 is **READY / NOT STARTED**.
+## English E2
+
+**PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.** All five confirmed fidelity corrections are consolidated in `translation-en.md`: PDF273 governor title; PDF274 participant-list fidelity; PDF275→276 Thiru. Vi. K. article/page-boundary repair; PDF281 `federalism at the Centre`; and PDF286 dismissal-threat subject/logic. The full printed English Indira Gandhi letter, its Tamil rendering, Articles 356 / 355, rhetoric / repetition, page joins, applause marker and the separate closing note pass. Frozen Tamil changes during E2: **0**.
+
+English E3 is **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
+**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
