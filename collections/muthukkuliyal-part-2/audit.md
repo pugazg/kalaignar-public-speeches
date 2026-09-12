@@ -1730,6 +1730,55 @@ No transcription or translation work remains for constituent 24.
 - fully archived: **24/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 25 — English E1
+
+**COMPLETE — 7/7 pages; missing records 0; frozen Tamil changes 0.**
+
+## Constituent 25 — English E2 fidelity review
+
+**PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved.**
+
+- PDF289 potentiality restored;
+- PDF289 unsupported evaluative addition removed;
+- PDF291 P. C. Roy memory logic repaired;
+- PDF292 unsupported Centre/State implication removed;
+- PDF293 singular rhetoric restored;
+- all corrections consolidated;
+- frozen Tamil changes during E2: **0**.
+
+## Constituent 25 — English E3 final verification
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.**
+
+- PDF288 ten-minute emphasis / English grammar corrected;
+- all **5/5** E2 corrections remain consolidated;
+- page correspondence / joins / names / numerals / rhetoric / repetition / quotations / source-sensitive names / laughter-applause markers / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state: **`verified-complete`**.
+
+## Constituent 25 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **1 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **5 / 1 corrections**, unresolved **0**;
+- PDF **288–294** / printed **287–293**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- constituent metadata / README / audit / HANDOVER / translation-review: **PASS**;
+- parent collection metadata / README / audit / page-map / HANDOVER: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 25 closure
+
+- mapped / started / source-gated: **36/36 / 25/36 / 25/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **25/36**;
+- English E1/E2/E3 complete / English verified: **25/36**;
+- fully archived: **25/36**.
+
+No transcription or translation work remains for constituent 25.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 / constituent 26.
+**Source / duplicate / boundary gate for constituent 26 — mapped PDF 295–314 / printed 294–313.**
