@@ -274,6 +274,6 @@ Final verification result:
 - unresolved English issues: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository-level archival closure for constituent 24.**
+**PASS / COMPLETE — FULLY ARCHIVED.** English remains **`verified-complete`**. Repository closure introduced **0** English speech-body changes.
