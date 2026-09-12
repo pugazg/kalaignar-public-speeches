@@ -57,6 +57,7 @@ For audio or video sources, also read:
 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.193–203 | 08.07.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.204–214 | 14.07.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
 | `perayar-ezra-sargunam-manivizha` | பேராயர் எஸ்ரா சற்குணம் மணிவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.215–226 | 18.07.1998 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
+| `kavikko-abdul-raguman-manivizha` | கவிக்கோ அப்துல் ரகுமான் மணிவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.227–245 | 19.07.1998 | **Verified complete - 19/19 speech pages** | **Verified complete - 19/19 speech pages** |
 
 ## Repository layout
 

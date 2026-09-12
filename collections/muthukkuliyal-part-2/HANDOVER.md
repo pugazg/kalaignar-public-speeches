@@ -20,12 +20,12 @@
 - Tamil T1 complete: **21 / 36**;
 - Tamil T2 complete: **21 / 36**;
 - Tamil T3 complete / Tamil verified: **21 / 36**;
-- English E1 complete: **20 / 36**;
-- English E2 complete: **20 / 36**;
-- English E3 complete / English verified: **20 / 36**;
-- fully archived: **20 / 36**.
+- English E1 complete: **21 / 36**;
+- English E2 complete: **21 / 36**;
+- English E3 complete / English verified: **21 / 36**;
+- fully archived: **21 / 36**.
 
-Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has Tamil T3 PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 is the next mapped item and has not started**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -453,6 +453,29 @@ All **5/5** T2 corrections remain consolidated. Stale superseded readings in the
 
 Tamil for constituent 21 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from the frozen `transcription-ta.md`. Constituent 22 remains outside the active batch. Source PDF remains uncommitted.
 
+## Constituent 21 — durable English E1 result
+
+English E1: **COMPLETE — 19/19 pages** from frozen Tamil only. Missing English page records **0**; page correspondence / joins and separate closing-note handling **PASS**; frozen Tamil changes **0**.
+
+## Constituent 21 — durable English E2 result
+
+English E2: **PASS / COMPLETE — 19/19 pages; 0 corrections; 0 unresolved**. Independent fidelity review required no speech-body correction. Frozen Tamil changes **0**.
+
+## Constituent 21 — durable English E3 result
+
+English E3: **PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved**. English is **`verified-complete`**. Frozen Tamil changes during E1/E2/E3 **0**.
+
+## Constituent 21 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 19/19 pages**. Constituent 21 is now **FULLY ARCHIVED**.
+
+- Tamil T2 **5**, T3 **0**; English E2 **0**, E3 **0**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, canonical page order / joins, metadata, README, audit, HANDOVER, translation-review, root catalogue and separate closing note agree;
+- source PDF remains uncommitted.
+
+Collection state: **21 / 36 fully archived**. Constituents **1–21 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.
+**Source / duplicate / boundary gate for constituent 22 — `காஞ்சி மணிமொழியார் இல்ல மணவிழா`, mapped PDF 247–255 / printed 246–254.** Stop before Tamil T1 / constituent 23.

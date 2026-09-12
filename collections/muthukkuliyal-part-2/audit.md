@@ -1081,6 +1081,34 @@ All **5/5** corrections are consolidated; canonical page records are complete / 
 - fully archived: **20/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 21 — English E1
+
+**COMPLETE — 19/19 pages.** Translation authority: frozen Tamil only. Missing English page records **0**; page correspondence / joins and separate closing-note handling **PASS**; frozen Tamil changes during E1 **0**.
+
+## Constituent 21 — English E2
+
+**PASS / COMPLETE — 19/19 pages; 0 corrections; 0 unresolved.** Independent fidelity review found no speech-body correction necessary. Semantic completeness, names / titles / numerals, rhetoric / repetition, quotation / verse lineation, source-sensitive wording, humour / wordplay, applause / laughter markers and the separate closing note all pass. Frozen Tamil changes during E2 **0**.
+
+## Constituent 21 — English E3
+
+**PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved.** Stale superseded English speech-body readings **0**; page correspondence / joins and semantic completeness pass; English state **`verified-complete`**; frozen Tamil changes during E1/E2/E3 **0**.
+
+## Constituent 21 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **5 / 0 corrections**, unresolved **0**;
+- English E2 / E3: **0 / 0 corrections**, unresolved **0**;
+- PDF **228–246** / printed **227–245** source range: **PASS**;
+- canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- root catalogue entry: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Collection totals: mapped **36/36**; source-gated / Tamil verified / English verified / fully archived **21/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.
+**Source / duplicate / boundary gate for constituent 22 — mapped PDF 247–255 / printed 246–254.** Stop before Tamil T1 / constituent 23.

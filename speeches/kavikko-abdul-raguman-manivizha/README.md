@@ -16,7 +16,14 @@
 
 ## Source / duplicate / boundary gate
 
-**PASS / COMPLETE.** Opening, ending, date/event/role, boundary into constituent 22, page relationship, duplicate check and separate closing-note handling remain verified; no geographic venue is inferred.
+**PASS / COMPLETE.**
+
+- PDF228 / printed p.227 opens numbered constituent `21` with heading `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`;
+- PDF246 / printed p.245 ends the speech body before the separate note `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`;
+- the closing note establishes date **19-07-1998**, event `கவிக்கோ அப்துல் ரகுமான் மணிவிழா`, and role `ஆற்றிய உரை`;
+- no geographic venue is explicitly stated in the inspected opening/closing evidence, so none is inferred;
+- PDF247 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`;
+- duplicate unresolved **0**; boundary unresolved **0**.
 
 ## Workflow
 
@@ -26,20 +33,38 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 19/19** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 19/19; 5 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending prior English gate |
-| Repository closure | not started |
+| English E1 | **COMPLETE — 19/19** |
+| English E2 | **PASS / COMPLETE — 19/19; 0 corrections; 0 unresolved** |
+| English E3 | **PASS / COMPLETE — 19/19; 0 additional corrections; 0 unresolved** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
-## Tamil T2 result
+## Tamil completion
 
-All five source-proven T2 corrections remain consolidated: PDF228 **1**, PDF229 **1**, PDF237 **1**, PDF238 **2**.
+Tamil is **`verified-complete` / FROZEN**. All **5/5** T2 corrections remain consolidated; T3 required **0** additional corrections; unresolved readings **0**.
 
-## Tamil T3 consolidation / freeze
+## English E1
 
-**PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved.** All **5/5** T2 corrections remain consolidated; stale superseded speech-body readings are absent. Canonical page records are complete, unique and ordered; all page joins, names / numerals / punctuation / quotations / verse lineation / repetitions / source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+**COMPLETE — 19/19 pages.** Translation authority was frozen `transcription-ta.md` only. Page records are complete and ordered; the separate source closing note remains outside the speech body; frozen Tamil changes during E1 **0**.
 
-Tamil is now **`verified-complete` / FROZEN**.
+## English E2
 
-## Exact next gate
+**PASS / COMPLETE — 19/19 pages; 0 corrections; 0 unresolved.** Independent fidelity review confirmed page correspondence / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, quotation / verse lineation, source-sensitive wording, humour / wordplay and the separate closing note.
 
-**English E1 first-pass translation for constituent 21 — 19 verified Tamil pages total.** Stop before E2 / constituent 22.
+## English E3
+
+**PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved.** Stale superseded English speech-body readings: **0**. English is **`verified-complete`**. Frozen Tamil changes during E1/E2/E3: **0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- PDF **228–246** / printed **227–245** — **19/19** canonical pages;
+- Tamil: **`verified-complete` / FROZEN** — T2 **5 corrections**, T3 **0 additional corrections**, unresolved **0**;
+- English: **`verified-complete`** — E2 **0 corrections**, E3 **0 additional corrections**, unresolved **0**;
+- source range / canonical page order / joins: **PASS**;
+- separate closing note: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending for this constituent.

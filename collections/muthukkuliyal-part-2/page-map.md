@@ -67,7 +67,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 21 | `kavikko-abdul-raguman-manivizha` | **Tamil verified-complete / FROZEN — English E1 pending** |
+| 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -200,6 +200,22 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 19/19 source pages; 0 additional corrections; 0 unresolved.** All **5/5** T2 corrections remain consolidated; stale superseded body readings are absent; canonical page records are complete, unique and ordered; all joins and the separate closing note pass. Tamil is **`verified-complete` / FROZEN**.
 
+## Constituent 21 — English E1
+
+**COMPLETE — 19/19 verified Tamil pages.** Missing English page records **0**; page correspondence and separate closing-note handling pass; frozen Tamil changes during E1 **0**.
+
+## Constituent 21 — English E2
+
+**PASS / COMPLETE — 19/19 pages; 0 corrections; 0 unresolved.** Independent fidelity review passed without speech-body changes; frozen Tamil changes during E2 **0**.
+
+## Constituent 21 — English E3
+
+**PASS / COMPLETE — 19/19 pages; 0 additional corrections; 0 unresolved.** English is **`verified-complete`**; frozen Tamil changes during E1/E2/E3 **0**.
+
+## Constituent 21 — archival closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 19/19 pages.** Tamil and English remain verified-complete. Fully archived total: **21 / 36**.
+
 ## Next same-gate batch
 
-Constituent **21** only — English E1 first-pass translation from frozen Tamil — **19 verified Tamil pages total**. Constituent 22 remains outside the batch.
+Constituent **22** — source / duplicate / boundary gate — mapped PDF **247–255** / printed **246–254**. Stop before Tamil T1 / constituent 23.

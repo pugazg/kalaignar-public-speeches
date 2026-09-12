@@ -394,6 +394,8 @@ Frozen Tamil changes during E2: **0**. Unresolved English-fidelity issues: **0**
 - frozen Tamil changes during E1/E2/E3: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 21.**
+**PASS / COMPLETE — FULLY ARCHIVED.** The verified English speech body was not changed during closure. English E2 required **0** corrections and E3 required **0** additional corrections. Page correspondence / joins, semantic completeness, source-sensitive wording, quotation / verse structure, humour / wordplay and separate closing-note handling agree with the final archive controls.
+
+English remains **`verified-complete`**. Frozen Tamil remained unchanged throughout English work and closure.
