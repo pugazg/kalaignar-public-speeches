@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has source / duplicate / boundary gate PASS / COMPLETE — 20/20 source pages**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T1 COMPLETE — 20/20 source pages**.
 
 ## Controlling source
 
@@ -20,7 +20,8 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–25 a
 
 - mapped: **36/36**
 - started / source-gated: **26/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **25/36**
+- Tamil T1 complete: **26/36**
+- Tamil T2/T3 complete / Tamil verified: **25/36**
 - English E1/E2/E3 complete / English verified: **25/36**
 - fully archived: **25/36**
 
@@ -29,25 +30,24 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–25 a
 `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை` — `speeches/chennai-aazhvargal-aaivu-maiya-vizha-urai/`
 
 - source gate: **PASS / COMPLETE — 20/20**
+- Tamil T1: **COMPLETE — 20/20**
 - PDF **295–314** / printed **294–313**
-- contents title: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா`
-- page heading: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`
-- closing note: `12-9-98 அன்று சென்னையில் ஆழ்வார்கள் ஆய்வு மைய விழாவில் ஆற்றிய உரை`
-- date: **12-09-1998**
-- venue: `சென்னை`
-- event: `ஆழ்வார்கள் ஆய்வு மைய விழா`
-- role: `ஆற்றிய உரை`
-- prior boundary: PDF294 closes constituent 25
-- next boundary: PDF315 begins constituent 27 `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
-- duplicate unresolved: **0**
-- boundary unresolved: **0**
-- title variants are source-backed and must not be silently normalized
-- Tamil T1: **READY / NOT STARTED**
+- canonical page records: **20/20**, complete and ordered
+- missing page records: **0**
+- explicit unreadable / unknown placeholders: **0**
+- title variants preserved:
+  - contents: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா`
+  - page heading: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`
+  - closing-note event: `ஆழ்வார்கள் ஆய்வு மைய விழா`
+- separate closing note: **preserved outside the speech body**
+- explicit page-boundary continuations for T2: **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**
+- source-sensitive T2 attention includes `செய்தவைக்காக`, `அச்சியற்றவில்லை`, `கம்பனடிப்பொடி`, `கப்யாசம்- புண்டரீ காட்சம்`, `நீ சொல்லேன் விளக்கம்`, `தப்பித்தான் வாழ்ந்திருக்கிறார்`, `சொத்தன்று`, `கிருமிகண்ட சோழன்`, `போராட்ட தளகர்த்தர்`, `தமிழகக்காக`, `இந்தவிழா`, and punctuation / spacing around quotations and parentheticals
+- Tamil T2: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T1 first-pass transcription for constituent 26 — all 20 source pages**. Transcribe PDF **295–314** / printed **294–313** from the controlling scans, preserve page headings and source-sensitive wording, keep the separate closing note outside the speech body, record page-boundary continuations that require T2 confirmation, and explicitly mark any genuinely unreadable/unknown text rather than guessing.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages**. Re-read PDF **295–314** line by line against the controlling scans. Verify every name, numeral, punctuation mark, repeated phrase, quotation, laughter/applause marker, source-sensitive form, page-boundary continuation and the separate closing note. Apply only scan-confirmed corrections to `transcription-ta.md`; do not silently modernize or normalize unusual source wording. Record exact T2 correction count and unresolved readings.
 
 ## STOP RULE
 
-Stop after Tamil T1 for constituent 26. **Do not start Tamil T2, constituent 27, English work, or repository closure in the same activity.**
+Stop after Tamil T2 for constituent 26. **Do not begin Tamil T3, constituent 27, English work, or repository closure in the same activity.**
