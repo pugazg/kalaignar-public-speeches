@@ -9,14 +9,14 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **26 / 36**
 - Tamil T1 complete: **26 / 36**
-- Tamil T2 complete: **25 / 36**
+- Tamil T2 complete: **26 / 36**
 - Tamil T3 complete / Tamil verified: **25 / 36**
 - English E1 complete: **25 / 36**
 - English E2 complete: **25 / 36**
 - English E3 complete: **25 / 36**
 - fully archived: **25 / 36**
 
-Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T1 COMPLETE — 20/20 source pages; Tamil T2 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T2 PASS / COMPLETE — 20/20 pages; 2 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -698,6 +698,18 @@ Explicit page joins flagged for T2: **295→296, 296→297, 297→298, 298→299
 
 Collection state: source-gated **26/36**; Tamil T1 **26/36**; Tamil T2/T3 / Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
 
+## Constituent 26 — Tamil T2 complete
+
+**PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved.**
+
+- PDF296 / p.295: `அந்த அளவிற்கு தேன் குடத்திலே` → `அந்த அளவிற்குத் தேன் குடத்திலே`;
+- PDF303 / p.302: `குரு வியாக்கியானம் செய்கிறாரே` → `குரு வியாக்யானம் செய்கிறாரே`;
+- all mapped pages PDF **295–314** re-read directly;
+- canonical page order / explicit joins, names / numerals / punctuation / quotations / repetitions, laughter-applause markers, source-sensitive readings, title variants and separate closing note: **PASS**;
+- unresolved readings: **0**.
+
+Collection state: source-gated **26/36**; Tamil T1/T2 **26/36**; Tamil T3 / Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
+**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.** Stop before English / constituent 27.
