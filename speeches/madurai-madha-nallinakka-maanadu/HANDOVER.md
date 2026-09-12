@@ -18,8 +18,10 @@ Source / duplicate / boundary gate: **PASS / COMPLETE**. All mapped scans PDF **
 
 Tamil T1: **COMPLETE — 18/18**. Canonical page records cover PDF **270–287** / printed **269–286**, each once and in source order. Missing page records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Source method: direct visual reading of the controlling scans.
 
-Tamil T2: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+Tamil T2: **PASS / COMPLETE — 18/18; 1 correction; 0 unresolved**. PDF279 / p.278 `ஆலோசித்து வருகிறேன்` was corrected to source-proven `ஆலோசித்து வருகின்றேன்`. All page joins, source-sensitive quotations / English-letter text and the separate closing note pass.
+
+Tamil T3: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.** Stop before T3 and constituent 25.
+**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English and constituent 25.

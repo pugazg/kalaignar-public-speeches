@@ -1,10 +1,10 @@
 # மதுரை மத நல்லிணக்க மாநாடு — Tamil transcription
 
-**Status:** `t1-complete` — Tamil T1 **COMPLETE — 18 / 18 pages**; Tamil T2 pending  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 18 / 18 pages; 1 correction; 0 unresolved**; Tamil T3 pending  
 **Source range:** PDF **270–287** / printed **269–286**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Source pixels remain controlling. This is a first-pass transcription and is not yet a final fidelity claim.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 re-read all 18 source pages directly and consolidated **1 scan-proven correction** with **0 unresolved**. Source pixels remain controlling; Tamil T3 has **NOT STARTED**.
 
 ## PDF 270 / printed p.269
 
@@ -102,7 +102,7 @@
 
 ## PDF 279 / printed p.278
 
-ஆண்டு நான் ஆட்சிப் பொறுப்பேற்ற நேரத்தில் சில வாரங்களுக்கெல்லாம் டெல்லிக்குச் சென்றேன். டெல்லியில் 69 மார்ச் திங்கள் 17-ஆம் தேதி - ஐம்பதுக்கு மேற்பட்ட இந்திய மாநிலங்களிலே உள்ள பல்வேறு பத்திரிகை செய்தியாளர்கள் - என்னைச் சந்தித்து உங்களுடைய தலைவர் அறிஞர் அண்ணா அவர்கள் அடிக்கடிச் சொல்வார்களே, மாநிலங்களுக்கு அதிக அதிகாரம் - அதைப்பற்றி என்ன செய்யவிருக்கிறீர்கள் என்று கேட்டபோது - நான் அவர்களுக்கு அளித்த பதில்தான் - “மைய - மாநில உறவுகள் குறித்து ஆராய்ந்து மைய அரசிலிருந்து மாநிலங்களுக்கு மாற்றப்படக் கூடிய அதிகாரங்களைப் பரிந்துரைப்பதற்காக நிபுணர் குழு ஒன்றினை அமைப்பது பற்றி நான் ஆலோசித்து வருகிறேன்”, என்று குறிப்பிட்டேன்.
+ஆண்டு நான் ஆட்சிப் பொறுப்பேற்ற நேரத்தில் சில வாரங்களுக்கெல்லாம் டெல்லிக்குச் சென்றேன். டெல்லியில் 69 மார்ச் திங்கள் 17-ஆம் தேதி - ஐம்பதுக்கு மேற்பட்ட இந்திய மாநிலங்களிலே உள்ள பல்வேறு பத்திரிகை செய்தியாளர்கள் - என்னைச் சந்தித்து உங்களுடைய தலைவர் அறிஞர் அண்ணா அவர்கள் அடிக்கடிச் சொல்வார்களே, மாநிலங்களுக்கு அதிக அதிகாரம் - அதைப்பற்றி என்ன செய்யவிருக்கிறீர்கள் என்று கேட்டபோது - நான் அவர்களுக்கு அளித்த பதில்தான் - “மைய - மாநில உறவுகள் குறித்து ஆராய்ந்து மைய அரசிலிருந்து மாநிலங்களுக்கு மாற்றப்படக் கூடிய அதிகாரங்களைப் பரிந்துரைப்பதற்காக நிபுணர் குழு ஒன்றினை அமைப்பது பற்றி நான் ஆலோசித்து வருகின்றேன்”, என்று குறிப்பிட்டேன்.
 
 குறிப்பிட்டது மாத்திரமல்ல; டெல்லியிலிருந்து திரும்பியவுடன் 1969 ஆகஸ்ட் 19-ஆம் நாள் டாக்டர் பி.வி.ராஜமன்னார் அவர்களைத் தலைவராகவும், டாக்டர் லெட்சுமணசாமி முதலியார் அவர்களையும், சந்திரா ரெட்டி அவர்களையும் உறுப்பினர்களாகக் கொண்ட மூவர் குழு ஒன்றை அரசின் சார்பில் அமைத்தேன்.
 
@@ -216,7 +216,7 @@ Yours Sincerely,
 - Explicit unreadable/unknown placeholders: **0**.
 - Separate source closing note: **preserved outside the speech body**.
 - Source method: **direct visual reading of the controlling scans**.
-- Tamil T2 has **NOT STARTED**.
+- At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 is now complete.
 
 ### T2 attention points
 
@@ -224,6 +224,18 @@ Re-read the complete PDF270–287 sequence directly against source pixels. Parti
 
 Explicit page-boundary continuations requiring T2 confirmation: **270→271**, **271→272**, **275→276**, **276→277**, **277→278**, **278→279**, **279→280**, **281→282**, **282→283**, **285→286**, **286→287**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved.**
+
+Scan-confirmed correction consolidated into canonical Tamil:
+
+1. PDF279 / printed p.278: `ஆலோசித்து வருகிறேன்` → **`ஆலோசித்து வருகின்றேன்`**, restoring the printed wording in the quoted 17-03-1969 Delhi statement.
+
+All mapped pages PDF **270–287** were re-read directly. The `Phool Walon Ki Sair` passage, the long திரு.வி.க. quotation, the 16.4.74 State Autonomy resolution, the full English Indira Gandhi letter and Tamil rendering, Article **356 / 355** references, source-sensitive spacing/forms, applause marker and the separate closing note were checked against source pixels.
+
+Explicit page-boundary continuations **270→271, 271→272, 275→276, 276→277, 277→278, 278→279, 279→280, 281→282, 282→283, 285→286, 286→287**: **PASS**. Canonical page records remain **18/18**, complete, unique and ordered. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 24 — all 18 source pages.** Stop before T3 / constituent 25.
+**Tamil T3 consolidation/freeze for constituent 24 — all 18 source pages.** Stop before English / constituent 25.

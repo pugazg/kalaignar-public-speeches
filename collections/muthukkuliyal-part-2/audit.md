@@ -1496,6 +1496,25 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 - fully archived: **23/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 24 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved.**
+
+- PDF279 / p.278: `ஆலோசித்து வருகிறேன்` → `ஆலோசித்து வருகின்றேன்`;
+- all mapped pages PDF **270–287** directly re-read;
+- page order / joins, source-sensitive quotations, English-letter text, Articles 356 / 355 and separate closing note: **PASS**;
+- unresolved readings: **0**.
+
+## Collection totals after constituent 24 T2
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1 complete: **24/36**;
+- Tamil T2 complete: **24/36**;
+- Tamil T3 complete / Tamil verified: **23/36**;
+- English E1/E2/E3 complete / English verified: **23/36**;
+- fully archived: **23/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.** Stop before T3 / constituent 25.
+**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English / constituent 25.

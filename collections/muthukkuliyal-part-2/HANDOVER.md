@@ -18,14 +18,14 @@
 
 - mapped: **36 / 36**; started / source-gated: **23 / 36**;
 - Tamil T1 complete: **24 / 36**;
-- Tamil T2 complete: **23 / 36**;
+- Tamil T2 complete: **24 / 36**;
 - Tamil T3 complete / Tamil verified: **23 / 36**;
 - English E1 complete: **23 / 36**;
 - English E2 complete: **23 / 36**;
 - English E3 complete / English verified: **23 / 36**;
 - fully archived: **23 / 36**.
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T1 COMPLETE — 18/18; Tamil T2 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T2 PASS / COMPLETE — 18/18; 1 correction; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -624,6 +624,17 @@ Tamil T1: **COMPLETE — 18/18 source pages** for `மதுரை மத நல
 
 Tamil T2 is **READY / NOT STARTED**. Constituent 25 remains outside the batch. The source PDF binary remains uncommitted.
 
+## Constituent 24 — durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved**.
+
+- PDF279 / printed p.278: `ஆலோசித்து வருகிறேன்` → `ஆலோசித்து வருகின்றேன்`;
+- all mapped pages PDF **270–287** were re-read directly;
+- page order / explicit joins, source-sensitive quoted material, English-letter text and the separate closing note: **PASS**;
+- source PDF remains uncommitted.
+
+Tamil T3: **READY / NOT STARTED**. Constituent 25 remains outside the active batch.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.** Stop before T3 / constituent 25.
+**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English / constituent 25.

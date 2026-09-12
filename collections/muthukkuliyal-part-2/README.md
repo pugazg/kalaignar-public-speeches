@@ -9,14 +9,14 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **24 / 36**
 - Tamil T1 complete: **24 / 36**
-- Tamil T2 complete: **23 / 36**
+- Tamil T2 complete: **24 / 36**
 - Tamil T3 complete / Tamil verified: **23 / 36**
 - English E1 complete: **23 / 36**
 - English E2 complete: **23 / 36**
 - English E3 complete: **23 / 36**
 - fully archived: **23 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T1 COMPLETE — 18/18; Tamil T2 is READY / NOT STARTED**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has Tamil T2 PASS / COMPLETE — 18/18; 1 correction; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -576,6 +576,12 @@ Collection state: source-gated **24/36**; Tamil verified **23/36**; English veri
 
 Collection state: source-gated **24/36**; Tamil T1 complete **24/36**; Tamil T2/T3 complete / Tamil verified **23/36**; English verified **23/36**; fully archived **23/36**.
 
+## Constituent 24 — Tamil T2 complete
+
+**PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved.** PDF279 / printed p.278: `ஆலோசித்து வருகிறேன்` → `ஆலோசித்து வருகின்றேன்`. All **18/18** pages were re-read directly; page order / joins, the திரு.வி.க. quotation, 16.4.74 resolution, Indira Gandhi letter + Tamil rendering, source-sensitive forms and the separate closing note pass.
+
+Collection state: source-gated **24/36**; Tamil T1 **24/36**; Tamil T2 **24/36**; Tamil verified **23/36**; English verified **23/36**; fully archived **23/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.** Stop before T3 / constituent 25.
+**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.** Stop before English / constituent 25.

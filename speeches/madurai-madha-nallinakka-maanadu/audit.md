@@ -34,6 +34,16 @@
 
 T2 source-sensitive attention points and page-boundary continuations are recorded in `transcription-ta.md`. Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 18/18 source pages; 1 correction; 0 unresolved.**
+
+- PDF279 / printed p.278: `ஆலோசித்து வருகிறேன்` → `ஆலோசித்து வருகின்றேன்`;
+- all mapped pages PDF **270–287** re-read directly;
+- page records / explicit joins: **PASS**;
+- `Phool Walon Ki Sair`, திரு.வி.க. quotation, 16.4.74 resolution, English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, source-sensitive forms and separate closing note: **PASS**;
+- unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 24 — 18 source pages total.**
+**Tamil T3 consolidation/freeze for constituent 24 — 18 source pages total.**
