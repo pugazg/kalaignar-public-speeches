@@ -1,6 +1,6 @@
 # சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 20 / 20 source pages; 2 corrections; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 20 / 20 source pages; 0 additional corrections; 0 unresolved**  
 **Source range:** PDF **295–314** / printed **294–313**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -195,6 +195,25 @@ Source-sensitive T1 readings `செய்தவைக்காக`, `அச்�
 
 Canonical page records remain **20/20**, complete, unique and ordered. Missing / duplicate page records: **0 / 0**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 20/20 source pages; 0 additional corrections; 0 unresolved.**
+
+- both **2/2** T2 corrections remain consolidated;
+- stale superseded canonical speech-body reading `அந்த அளவிற்கு தேன் குடத்திலே`: **absent**;
+- stale superseded canonical speech-body reading `குரு வியாக்கியானம் செய்கிறாரே`: **absent**;
+- source-proven canonical readings `அந்த அளவிற்குத் தேன் குடத்திலே` and `குரு வியாக்யானம் செய்கிறாரே`: **present**;
+- canonical page records: **20/20**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations recorded at T1/T2: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- laughter / applause markers: **PASS**;
+- source-sensitive readings and printed chronology / numeral forms: **PASS**;
+- contents / page-heading / closing-note title variants: **PASS / preserved separately**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 26 — all 20 source pages.** Stop before English / constituent 27.
+**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.**
