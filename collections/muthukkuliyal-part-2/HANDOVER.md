@@ -16,7 +16,7 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **25 / 36**;
+- mapped: **36 / 36**; started / source-gated: **26 / 36**;
 - Tamil T1 complete: **25 / 36**;
 - Tamil T2 complete: **25 / 36**;
 - Tamil T3 complete / Tamil verified: **25 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **25 / 36**;
 - fully archived: **25 / 36**.
 
-Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 is next and has not started**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has source / duplicate / boundary gate PASS / COMPLETE — 20/20 pages; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -729,6 +729,23 @@ Repository-level archival closure: **PASS / COMPLETE — 7/7 pages**. Constituen
 
 Collection state: **25 / 36 fully archived**. Constituents **1–25 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 26 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 20/20 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- contents entry: `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா` / `12-09-98` / printed start **294**;
+- PDF295 / p.294 is numbered constituent `26` with page heading `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`;
+- all mapped scans PDF **295–314** were directly inspected for continuity;
+- PDF314 / p.313 completes the speech body before the separate closing note `12-9-98 அன்று சென்னையில் ஆழ்வார்கள் ஆய்வு மைய விழாவில் ஆற்றிய உரை`;
+- the closing note directly establishes **12-09-1998**, venue `சென்னை`, event `ஆழ்வார்கள் ஆய்வு மைய விழா`, role `ஆற்றிய உரை`;
+- PDF294 closes constituent 25; PDF315 begins constituent 27 `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`;
+- title variants across contents / page heading / closing note are intentionally preserved;
+- dedicated archive: `speeches/chennai-aazhvargal-aaivu-maiya-vizha-urai/`;
+- source PDF remains uncommitted;
+- Tamil T1: **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; started / source-gated **26/36**; Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 26 — mapped PDF 295–314 / printed 294–313 — 20 source pages.**
+**Tamil T1 first-pass transcription for constituent 26 — all 20 source pages, PDF 295–314 / printed 294–313.** Stop before T2.
