@@ -36,7 +36,7 @@
     "constituent_items_started": 26,
     "constituent_items_source_gated": 26,
     "constituent_items_t1_complete": 26,
-    "constituent_items_t2_complete": 25,
+    "constituent_items_t2_complete": 26,
     "constituent_items_t3_complete": 25,
     "constituent_items_tamil_verified": 25,
     "constituent_items_e1_complete": 25,
@@ -48,7 +48,7 @@
     "active_constituent_number": 26,
     "active_constituent_slug": "chennai-aazhvargal-aaivu-maiya-vizha-urai",
     "active_constituent_title_ta": "சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை",
-    "active_constituent_status": "t1-complete-t2-pending",
+    "active_constituent_status": "t2-complete-t3-pending",
     "active_constituent_pdf_pages": "295-314",
     "active_constituent_printed_pages": "294-313",
     "active_constituent_pages_total": 20,
@@ -62,11 +62,14 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t2",
+    "active_batch_gate": "tamil-t3",
     "next_constituent_number": 26,
-    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages",
+    "next_gate": "Tamil T3 consolidation/freeze for constituent 26 — 20 source pages total",
     "constituent_items_english_verified": 25,
     "active_batch_t1_pages_completed": 20,
-    "active_batch_t1_unreadable_or_unknown": 0
+    "active_batch_t1_unreadable_or_unknown": 0,
+    "active_batch_t2_pages_checked": 20,
+    "active_batch_t2_corrections": 2,
+    "active_batch_t2_unresolved": 0
   }
 }
