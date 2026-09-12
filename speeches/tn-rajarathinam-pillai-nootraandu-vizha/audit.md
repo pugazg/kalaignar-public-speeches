@@ -5,24 +5,21 @@
 
 ## Source / duplicate / boundary gate
 
-**PASS / COMPLETE.**
+**PASS / COMPLETE.** Date **27-08-1998**, event and role are supported by the separate closing note; no geographic venue is inferred. PDF270 begins constituent 24.
 
-- contents title/date: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` / `27-08-98`;
-- opening: PDF256 / printed p.255, constituent `23`, titled opening `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`;
-- all mapped scans PDF **256–269** were directly inspected;
-- ending: PDF269 / printed p.268 before `27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
-- date: **27-08-1998**;
-- event/role: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` / `ஆற்றிய உரை`;
-- venue: **not explicitly stated** in the numbered/titled opening or separate closing note; none inferred;
-- separate closing note: **present and outside the speech body**;
-- PDF270 / printed p.269 begins constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`;
-- PDF/printed-page relationship remains **PDF scan = printed page + 1**;
-- duplicate search against live `main`: **PASS — no existing dedicated archive found**;
-- duplicate unresolved: **0**;
-- boundary unresolved: **0**.
+## Tamil T1 — first-pass transcription
 
-Tamil T1 has **NOT STARTED**.
+**COMPLETE — 14/14 source pages.**
+
+- canonical page records: PDF **256–269** / printed **255–268**, **14/14**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- method: direct visual reading of controlling scans;
+- Tamil T2: **NOT STARTED**.
+
+T2 source-sensitive attention points and explicit page-boundary continuations are recorded in `transcription-ta.md`. Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 23 — 14 source pages total.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 23 — 14 source pages total.**

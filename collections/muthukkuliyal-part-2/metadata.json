@@ -35,7 +35,7 @@
     "constituent_items_mapped": 36,
     "constituent_items_started": 23,
     "constituent_items_source_gated": 23,
-    "constituent_items_t1_complete": 22,
+    "constituent_items_t1_complete": 23,
     "constituent_items_t2_complete": 22,
     "constituent_items_t3_complete": 22,
     "constituent_items_tamil_verified": 22,
@@ -48,7 +48,7 @@
     "active_constituent_number": 23,
     "active_constituent_slug": "tn-rajarathinam-pillai-nootraandu-vizha",
     "active_constituent_title_ta": "டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா",
-    "active_constituent_status": "source-gate-complete-t1-pending",
+    "active_constituent_status": "t1-complete-t2-pending",
     "active_constituent_pdf_pages": "256-269",
     "active_constituent_printed_pages": "255-268",
     "active_constituent_pages_total": 14,
@@ -62,9 +62,11 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t1",
+    "active_batch_gate": "tamil-t2",
     "next_constituent_number": 23,
-    "next_gate": "Tamil T1 for constituent 23 — 14 source pages total",
-    "constituent_items_english_verified": 22
+    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituent 23 — 14 source pages total",
+    "constituent_items_english_verified": 22,
+    "active_batch_t1_pages_completed": 14,
+    "active_batch_t1_unreadable_or_unknown": 0
   }
 }

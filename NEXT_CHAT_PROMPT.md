@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 23 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 23 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has passed the source / duplicate / boundary gate**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has Tamil T1 COMPLETE — 14/14**.
 
 ## Controlling source
 
@@ -20,7 +20,8 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–22 a
 
 - mapped: **36/36**
 - started / source-gated: **23/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **22/36**
+- Tamil T1 complete: **23/36**
+- Tamil T2/T3 complete / Tamil verified: **22/36**
 - English E1/E2/E3 complete / English verified: **22/36**
 - fully archived: **22/36**
 
@@ -29,25 +30,21 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–22 a
 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா` — `speeches/tn-rajarathinam-pillai-nootraandu-vizha/`
 
 - source gate: **PASS / COMPLETE — 14/14**
-- contents date: **27-08-98**
-- PDF **256–269**
-- printed **255–268**
-- **14 source pages**
-- page heading: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`
-- closing note: `27-8-98 அன்று டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`
-- date: **27-08-1998**
-- venue: **not explicitly stated in the numbered/titled opening or separate closing note; do not infer**
-- event: `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`
-- role: `ஆற்றிய உரை`
-- PDF270 begins constituent 24 `மதுரை மத நல்லிணக்க மாநாடு`
-- duplicate unresolved: **0**
-- boundary unresolved: **0**
-- Tamil T1: **NOT STARTED**
+- Tamil T1: **COMPLETE — 14/14**
+- canonical page records: **14/14**, PDF **256–269** / printed **255–268**
+- missing page records: **0**
+- explicit unreadable/unknown placeholders: **0**
+- separate closing note: preserved outside body
+- Tamil T2: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T1 for constituent 23 — all 14 source pages**. Preserve exact source wording and page boundaries, and keep the separate closing note outside the speech body.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituent 23 — all 14 source pages**. Re-read each page directly against source pixels. Confirm exact wording, source-sensitive forms, names, numerals, punctuation, quotations, repetitions, applause markers and all page-boundary continuations. Apply only scan-proven corrections. Keep the separate closing note outside the speech body.
+
+Explicit joins requiring attention: **256→257, 257→258, 258→259, 261→262, 262→263, 263→264, 264→265, 267→268, 268→269**.
+
+Particular source-sensitive forms to reconfirm include `சங்கரநாராயணனாக`, `நடத்தியதாக வேண்டும்`, `நடைபெறிருக்க வேண்டிய`, `எஸ்.எஸ்.பி. லிங்கம்`, the Anna quotation on PDF259, `கிராப்பு`, `ஷேர்வானி`, `மடாலயத்திலே கார்வார்`, `தமிழ்ச் சாகித்தியங்களுடைய`, `சீற்றத்தோடு`, `நல்லி குப்புசாமி`, `இராஜரத்னா / இராஜரத்தினா`, `40 மனை`, `எம்.ஏ.எம்.`, `நல்லி செட்டியார்`, and `சொல்லப்படி`.
 
 ## STOP RULE
 
-Stop after Tamil T1 for constituent 23. **Do not start Tamil T2, constituent 24, English work, or repository closure in the same activity.**
+Stop after Tamil T2 for constituent 23. **Do not start T3, constituent 24, English work, or repository closure in the same activity.**

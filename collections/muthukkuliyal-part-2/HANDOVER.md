@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **22 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has passed the source / duplicate / boundary gate; Tamil T1 is READY / NOT STARTED**.
+Constituents **1–22 are CLOSED / FULLY ARCHIVED**. Constituent **23 has Tamil T1 COMPLETE — 14/14; Tamil T2 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -558,6 +558,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 14/14 source pages; du
 - Source PDF remains uncommitted.
 - Tamil T1: **NOT STARTED**.
 
+## Constituent 23 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 14/14 source pages** for `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`, PDF **256–269** / printed **255–268**. Canonical page records are **14/14**, complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Source pixels remain controlling; this T1 layer is not yet a final fidelity claim.
+
+Tamil T2 is **READY / NOT STARTED**. Constituent 24 remains outside the batch. The source PDF binary remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T1 for constituent 23 — 14 source pages total.** Stop before T2 / constituent 24.
+**Tamil T2 strict direct-scan fidelity audit for constituent 23 — 14 source pages total.** Stop before T3 / constituent 24.
