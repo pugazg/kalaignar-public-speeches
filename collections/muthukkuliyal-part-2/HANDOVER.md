@@ -19,13 +19,13 @@
 - mapped: **36 / 36**; started / source-gated: **25 / 36**;
 - Tamil T1 complete: **25 / 36**;
 - Tamil T2 complete: **25 / 36**;
-- Tamil T3 complete / Tamil verified: **24 / 36**;
+- Tamil T3 complete / Tamil verified: **25 / 36**;
 - English E1 complete: **24 / 36**;
 - English E2 complete: **24 / 36**;
 - English E3 complete / English verified: **24 / 36**;
 - fully archived: **24 / 36**.
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T2 PASS / COMPLETE — 7/7 pages; 1 correction; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T3 PASS / COMPLETE — 7/7 pages; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -698,8 +698,14 @@ Tamil T2: **PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved**.
 - names / numerals / punctuation / quotations / repetitions / applause-laughter markers / source-sensitive forms and the separate closing note: **PASS**;
 - canonical page records remain **7/7**, complete, unique and ordered.
 
-Collection state: mapped **36/36**; started / source-gated **25/36**; Tamil T1/T2 **25/36**; Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+## Constituent 25 — durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 7/7 source pages; 0 additional corrections; 0 unresolved**. The **1/1** T2 correction remains consolidated. Stale superseded canonical speech-body reading is absent. Canonical page records are complete, unique and ordered; missing / duplicate records **0 / 0**. Explicit joins **288→289** and **290→291**, names / numerals / punctuation / quotations / repetitions, laughter / applause markers, source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil for constituent 25 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 26 remains outside the active batch.
+
+Collection state: mapped **36/36**; started / source-gated **25/36**; Tamil T1/T2/T3 / Tamil verified **25/36**; English verified **24/36**; fully archived **24/36**.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 25 — 7 source pages total.** Stop before English and constituent 26.
+**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 and constituent 26.
