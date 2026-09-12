@@ -1682,6 +1682,29 @@ No transcription or translation work remains for constituent 24.
 - fully archived: **24/36**;
 - source PDF remains **uncommitted**.
 
+## Constituent 25 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.**
+
+- PDF289 / printed p.288: `அண்டபிரண்டத்திற்கும்` → `அண்டபகிரண்டத்திற்கும்`;
+- all mapped pages PDF **288–294** re-read directly;
+- explicit page joins **288→289**, **290→291**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions / applause-laughter markers / source-sensitive forms: **PASS**;
+- separate closing note: **PASS**;
+- canonical page records: **7/7**, complete, unique and ordered;
+- missing / duplicate records: **0 / 0**;
+- unresolved readings: **0**.
+
+## Collection totals after constituent 25 T2
+
+- mapped / started / source-gated: **36/36 / 25/36 / 25/36**;
+- Tamil T1 complete: **25/36**;
+- Tamil T2 complete: **25/36**;
+- Tamil T3 complete / Tamil verified: **24/36**;
+- English E1/E2/E3 complete / English verified: **24/36**;
+- fully archived: **24/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.** Stop before T3 / constituent 26.
+**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
