@@ -33,6 +33,22 @@ Tamil T1 has **NOT STARTED**.
 - T2 attention: page joins and source-sensitive forms listed in `transcription-ta.md`;
 - Tamil T2: **NOT STARTED**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 10/10 source pages; 5 corrections; 0 unresolved.**
+
+Every page from PDF **184–193** / printed **183–192** was re-read directly against the controlling scan. Names, numerals, punctuation, quotations, repetitions, source-sensitive forms, all contiguous page joins and the separate closing note were checked.
+
+### Scan-confirmed corrections
+
+1. PDF184 / p.183: `ஆவலைக் தெரிவிக்க` → `ஆவலைத் தெரிவிக்க`.
+2. PDF185 / p.184: `தலைமைக்கழகத்தின்` → `தலைமைக் கழகத்தின்`.
+3. PDF185 / p.184: `ஒளிவிடும் பிரகாசித்துக்` → `ஒளிவிட்டுப் பிரகாசித்துக்`.
+4. PDF192 / p.191: `தலைவர், பொதுச்செயலாளரும்` → `தலைவரும், பொதுச்செயலாளரும்`.
+5. PDF193 / p.192: restored the source closing quotation mark in `எப்படி பேசினேன் தெரியுமா’ என்று`.
+
+Documented source-sensitive readings were retained as printed. All page joins **184→185 through 192→193**: **PASS**. Separate closing note: **PASS**. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.**

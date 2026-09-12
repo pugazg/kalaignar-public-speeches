@@ -286,6 +286,12 @@ Combined Tamil T1: **COMPLETE — 21/21 source pages**. Constituent 17 is PDF **
 
 Constituents 1–16 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
 
+## Constituents 17–18 — durable Tamil T2 result
+
+Combined Tamil T2: **PASS / COMPLETE — 21/21 source pages; 5 corrections; 0 unresolved**. Constituent 17: **5 corrections**; constituent 18: **0 corrections**. All source-proven corrections are consolidated. All contiguous page joins and both separate closing notes pass. Source-sensitive readings were retained exactly where the scans supported them.
+
+Tamil T3 has **NOT STARTED**; constituents 17–18 are therefore not yet Tamil-verified/frozen. Constituents 1–16 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.** Stop before T3 / constituent 19.
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Keep the constituents as separate archival units. Stop before English / constituent 19.

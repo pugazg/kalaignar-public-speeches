@@ -34,6 +34,14 @@ Tamil T1 has **NOT STARTED**.
 - T2 attention: page joins and source-sensitive forms listed in `transcription-ta.md`;
 - Tamil T2: **NOT STARTED**.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 11/11 source pages; 0 corrections; 0 unresolved.**
+
+Every page from PDF **194–204** / printed **193–203** was re-read directly against the controlling scan. Names, numerals, punctuation, quotations, repetitions, source-sensitive forms, all contiguous page joins and the separate closing note were checked.
+
+T1 was confirmed as source-faithful with **0 source-proven textual corrections**. Documented source-sensitive readings were retained as printed. All page joins **194→195 through 203→204**: **PASS**. Separate closing note: **PASS**. Date / venue / event / role evidence remains unchanged. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.**

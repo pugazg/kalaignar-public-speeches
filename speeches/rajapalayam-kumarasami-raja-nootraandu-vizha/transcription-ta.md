@@ -1,10 +1,10 @@
 # இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா — Tamil transcription
 
-**Status:** `first-pass-complete` — Tamil T1 **COMPLETE — 11 / 11 pages**; Tamil T2 pending  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 11 / 11 pages; 0 corrections; 0 unresolved**; T3 pending  
 **Source range:** PDF **194–204** / printed **193–203**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-> Tamil T1 was transcribed visually from the controlling scans. Source pixels remain controlling. T2 has **NOT STARTED**; this first pass is not a final fidelity claim.
+> Tamil T1 was transcribed visually from the controlling scans. Tamil T2 has now re-read all 11 source pages directly against the scans with **0 corrections** and **0 unresolved readings**. Tamil is not yet frozen; T3 has not started.
 
 ## PDF 194 / printed p.193
 
@@ -111,12 +111,22 @@
 - Missing page records: **0**.
 - Explicit unreadable/unknown placeholders: **0**.
 - Source closing note: **preserved separately outside the speech body**.
-- Tamil T2: **NOT STARTED**.
+- At the T1 checkpoint, Tamil T2 had **NOT STARTED**; T2 is now complete.
 
 ### T2 attention points
 
 Re-read every page in full. In particular verify source-sensitive forms and page joins: PDF194 `ஆரத்தெழுந்து`; PDF195 `அழகர்ராஜா` and quoted government promise; PDF196 `விஸ்வநாத்தாஸ்`, `மணி மண்டபம்`; PDF197 opening quotation mark and the **89-90 / 89 / 1995 / 95** chronology; PDF198 **25-ஆம் தேதி**, `ஓமந்தூரார்`, `ஆசியாவின் ஜோதி`; PDF199 `15 கல்`, `திருநெல்லிக்காவல்`; PDF200 `பெயிலானவர்`, `பாதிப் பல்லை`; PDF201 the `அய்யர் / அய்யங்கார்` passage, `பின்னை வடை`, `கோமியம்`; PDF202 prison-duration / youth passage; PDF203 `உல்லாச புரியே`, `பி.எஸ்.`; PDF204 `பப்ளிக் சர்வண்ட்`, `கிரீன்வேஸ் சாலை`.
 
+## T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 11/11 source pages; 0 corrections; 0 unresolved.**
+
+Every page from PDF **194–204** / printed **193–203** was re-read directly against the controlling scan. The T1 Tamil was confirmed without source-proven textual correction.
+
+Source-sensitive readings retained as printed include `ஆரத்தெழுந்து`, `அழகர்ராஜா`, `விஸ்வநாத்தாஸ்`, `மணி மண்டபம்`, the **89-90 / 89 / 1995 / 95** chronology, `ஓமந்தூரார்`, `ஆசியாவின் ஜோதி`, `15 கல்`, `திருநெல்லிக்காவல்`, `பெயிலானவர்`, `பாதிப் பல்லை`, `பின்னை வடை`, `கோமியம்`, the prison-duration passage, `உல்லாச புரியே`, `பி.எஸ்.`, `பப்ளிக் சர்வண்ட்` and `கிரீன்வேஸ் சாலை`.
+
+All contiguous page-boundary continuations **194→195 through 203→204**: **PASS**. Separate source closing note: **PASS**. Date / venue / event / role evidence remains unchanged. Unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.** Stop before T3 / constituent 19.
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.

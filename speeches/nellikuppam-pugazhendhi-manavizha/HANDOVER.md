@@ -14,10 +14,10 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1: **COMPLETE — 10/10**. Canonical page records **10/10**, missing **0**, explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
+Source / duplicate / boundary gate remains **PASS / COMPLETE**. Tamil T1 is **COMPLETE — 10/10**. Tamil T2 is **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved**. All five corrections are consolidated in `transcription-ta.md`. All contiguous page joins and the separate PDF193 closing note pass. Tamil T3 has **NOT STARTED**, so Tamil is not yet frozen.
 
-T2 must re-read every page directly against the scans, with particular attention to the source-sensitive forms / joins recorded in `transcription-ta.md`, including `வாழ்க்கைத்துணை - ஆவலைக் தெரிவிக்க`, `முகிழ்த்தெழுந்தபோது`, `முகதாட்சண்யம்`, `தபதி அழகிரிசாமி`, membership-form questions and `டெல்சி`.
+T2 corrections: PDF184 `ஆவலைத் தெரிவிக்க`; PDF185 `தலைமைக் கழகத்தின்` and `ஒளிவிட்டுப் பிரகாசித்துக்`; PDF192 `தலைவரும், பொதுச்செயலாளரும்`; PDF193 source closing quote in `தெரியுமா’ என்று`. Unresolved readings: **0**.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.** Stop before T3 / constituent 19.
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.

@@ -214,6 +214,19 @@ Combined Tamil T1: **COMPLETE — 21/21 source pages**.
 
 Collection state: source-gated **18/36**; Tamil T1 complete **18/36**; Tamil verified **16/36**; English verified **16/36**; fully archived **16/36**. Source PDF remains uncommitted.
 
+## Constituents 17–18 — Tamil T2 complete
+
+Combined Tamil T2: **PASS / COMPLETE — 21/21 source pages; 5 corrections; 0 unresolved**.
+
+- constituent 17: **10/10 checked; 5 corrections; 0 unresolved**;
+- constituent 18: **11/11 checked; 0 corrections; 0 unresolved**;
+- all **5/5** source-proven corrections are consolidated in constituent 17's canonical Tamil;
+- all contiguous page-boundary continuations and both separate closing notes: **PASS**;
+- source-sensitive readings were retained as printed rather than normalized;
+- Tamil T3: **READY / NOT STARTED**.
+
+Collection state: Tamil T1 **18/36**; Tamil T2 **18/36**; Tamil T3 / Tamil verified **16/36**; English verified **16/36**; fully archived **16/36**. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Perform **Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total**. Stop before T3 / constituent 19.
+Perform **Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total**. Stop before English / constituent 19.

@@ -14,10 +14,8 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1: **COMPLETE — 11/11**. Canonical page records **11/11**, missing **0**, explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
-
-T2 must re-read every page directly against the scans, with particular attention to the source-sensitive forms / joins recorded in `transcription-ta.md`, including `ஆரத்தெழுந்து`, `விஸ்வநாத்தாஸ்`, the 89-90 / 1995 / 95 chronology, `பின்னை வடை`, `கோமியம்`, `உல்லாச புரியே`, `பப்ளிக் சர்வண்ட்` and `கிரீன்வேஸ் சாலை`.
+Source / duplicate / boundary gate remains **PASS / COMPLETE**. Tamil T1 is **COMPLETE — 11/11**. Tamil T2 is **PASS / COMPLETE — 11/11; 0 corrections; 0 unresolved**. The T1 Tamil was confirmed source-faithful on full direct-scan reread. All contiguous page joins and the separate PDF204 closing note pass. Date / venue / event / role evidence remains unchanged. Tamil T3 has **NOT STARTED**, so Tamil is not yet frozen.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.** Stop before T3 / constituent 19.
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.

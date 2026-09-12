@@ -700,6 +700,28 @@ Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCH
 - fully archived: **16/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 17–18 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 21/21 source pages; 5 corrections; 0 unresolved.**
+
+- constituent 17: **10/10; 5 corrections; 0 unresolved**;
+- constituent 18: **11/11; 0 corrections; 0 unresolved**;
+- combined confirmed Tamil corrections: **5/5 consolidated**;
+- all contiguous page-boundary continuations: **PASS**;
+- separate source closing notes: **PASS**;
+- source-sensitive / source-odd readings: **retained as printed**;
+- Tamil T3: **NOT STARTED**.
+
+## Collection totals after constituents 17–18 T2
+
+- mapped / started / source-gated: **36/36 / 18/36 / 18/36**;
+- Tamil T1 complete: **18/36**;
+- Tamil T2 complete: **18/36**;
+- Tamil T3 complete / Tamil verified: **16/36**;
+- English E1/E2/E3 complete and English verified: **16/36**;
+- fully archived: **16/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.**
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.**

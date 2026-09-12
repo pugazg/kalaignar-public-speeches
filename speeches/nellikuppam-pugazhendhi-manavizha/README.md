@@ -33,8 +33,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 10/10** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 10/10; 5 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
@@ -42,6 +42,10 @@
 
 **COMPLETE — 10/10 source pages.** Canonical page records are complete and in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**; the separate source closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
 
+## Tamil T2 result
+
+**PASS / COMPLETE — 10/10 source pages; 5 corrections; 0 unresolved.** All source-proven corrections, if any, are consolidated in `transcription-ta.md`. All contiguous page joins and the separate source closing note pass. Tamil is **not yet frozen**; T3 has not started.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.** Stop before T3 / constituent 19.
+**Tamil T3 consolidation/freeze for constituents 17–18 together — 21 source pages total.** Stop before English / constituent 19.
