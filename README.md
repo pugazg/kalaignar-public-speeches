@@ -53,6 +53,8 @@ For audio or video sources, also read:
 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | காரல் மார்க்சின் மொழிபெயர்ப்பு நூல்கள் (ஜமதக்னி) வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.144–160 | 02.05.1998 | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | திரு.வி.க. - கல்கி நூல்களுக்குப் பரிவுத்தொகை வழங்கும் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.161–171 | 15.05.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
 | `ambur-sampangi-illa-manavizha` | ஆம்பூர் சம்பங்கி இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.172–182 | Not stated in source | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
+| `nellikuppam-pugazhendhi-manavizha` | நெல்லிக்குப்பம் புகழேந்தி மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.183–192 | 06.07.1998 | **Verified complete - 10/10 speech pages** | **Verified complete - 10/10 speech pages** |
+| `rajapalayam-kumarasami-raja-nootraandu-vizha` | இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.193–203 | 08.07.1998 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
 
 ## Repository layout
 
@@ -278,5 +280,22 @@ Repository-level closure is complete and no transcription or translation work is
 The archival workflow is complete for constituent **16 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **173–183** / printed pages **172–182**. The source does **not** state a date in the contents, numbered/titled opening, or separate closing note, so no date is inferred. The opening body directly supports venue `ஆம்பூர் சம்பங்கி இல்லம்`; the separate closing note establishes event/role wording `ஆம்பூர் சம்பங்கி இல்ல மணவிழாவில் ஆற்றிய உரை`.
 
 Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **4 corrections / 0 unresolved**; T3 produced **0 additional corrections / 0 unresolved**. English E2 produced **3 corrections / 0 unresolved**; E3 passed all 11 pages with **0 additional corrections / 0 unresolved**. The final English preserves the frozen Tamil `இராமு` / `ராமு` distinction as **Iramu / Ramu** where printed.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+
+### நெல்லிக்குப்பம் புகழேந்தி மணவிழா
+
+The archival workflow is complete for constituent **17 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **184–193** / printed pages **183–192**. The separate closing note establishes the date as **06.07.1998** and the source-described role `மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`; the inspected opening/closing evidence does not explicitly state a geographic venue, so none is inferred.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 produced **5 corrections / 0 unresolved**; T3 produced **2 additional corrections / 0 unresolved**, correcting PDF188 `இன்னைக்கு` → `இன்றைக்கு` and PDF190 `தபதி அழகிரிசாமிக்கு` → `தளபதி அழகிரிசாமிக்கு`. English E2 produced **3 corrections / 0 unresolved**; E3 passed all ten pages with **0 additional corrections / 0 unresolved**. The final English preserves `இனமானப் பேராசிரியர்` as **Inamana Perasiriyar** and retains the source wordplay around `செயலாளர் / செயல்புரிகின்றவர்`.
+
+Repository-level closure is complete and no transcription or translation work is pending for this constituent.
+
+### இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா
+
+The archival workflow is complete for constituent **18 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **194–204** / printed pages **193–203**. The separate closing note establishes **08.07.1998**, venue **இராஜபாளையம்**, event wording `குமாரசாமி ராஜா நூற்றாண்டு விழா`, and role `ஆற்றிய உரை`.
+
+Tamil T1/T2/T3 and English E1/E2/E3 have all passed. Both language layers are **`verified-complete`**. Tamil T2 and T3 required **0 corrections / 0 unresolved**. English E2 produced **2 corrections / 0 unresolved**; E3 passed all 11 pages with **0 additional corrections / 0 unresolved**. The archive preserves the source-sensitive **89-90 / 89 / 1995 / 95 / 98** chronology, `15 கல்`, `பின்னை வடை`, `கோமியம்`, `உல்லாச புரியே`, `பப்ளிக் சர்வண்ட்` and `கிரீன்வேஸ் சாலை` without silently rewriting the frozen Tamil.
 
 Repository-level closure is complete and no transcription or translation work is pending for this constituent.

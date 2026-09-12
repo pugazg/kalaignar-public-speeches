@@ -242,6 +242,34 @@ Combined Tamil T3: **PASS / COMPLETE — 21/21 source pages; 2 additional correc
 
 Collection state: Tamil T1/T2/T3 complete / Tamil verified **18/36**; English E1/E2/E3 complete / English verified **16/36**; fully archived **16/36**. Source PDF remains uncommitted.
 
+## Constituents 17–18 — English completion
+
+English E1: **COMPLETE — 21/21 pages**. English E2: **PASS / COMPLETE — 21/21 pages; 5 corrections; 0 unresolved**. English E3: **PASS / COMPLETE — 21/21 pages; 0 additional corrections; 0 unresolved**.
+
+- constituent 17: E1 **10/10**, E2 **3 corrections**, E3 **0 additional corrections**;
+- constituent 18: E1 **11/11**, E2 **2 corrections**, E3 **0 additional corrections**;
+- all **5/5** E2 corrections are consolidated;
+- page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and both separate closing notes: **PASS**;
+- frozen Tamil changes during E1/E2/E3: **0**;
+- both English layers are **`verified-complete`**.
+
+## Constituents 17–18 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 21/21 pages.** Final consistency checking confirms both archives agree across metadata, README, audit, HANDOVER, frozen Tamil, final English, translation review, source ranges, canonical page order, closing-note separation and correction counts.
+
+- constituent 17: Tamil T2 **5**, T3 **2**; English E2 **3**, E3 **0**; unresolved **0**;
+- constituent 18: Tamil T2 **0**, T3 **0**; English E2 **2**, E3 **0**; unresolved **0**;
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+Collection state is now **18 / 36 fully archived**. Constituents **1–18 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-Perform **English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total**. Translate only from frozen Tamil and stop before E2 / constituent 19.
+Process constituents **19–20 together** through the **source / duplicate / boundary gate**:
+
+- **19 — திருவண்ணாமலை அருணை பொறியியல் கல்லூரி பட்டமளிப்பு விழா:** PDF **205–215** / printed **204–214** — **11 pages**;
+- **20 — பேராயர் எஸ்ரா சற்குணம் மணிவிழா:** PDF **216–227** / printed **215–226** — **12 pages**;
+- combined: **23 source pages**, within the 25-page batch cap.
+
+Stop before Tamil T1.

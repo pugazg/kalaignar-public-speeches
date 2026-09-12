@@ -63,9 +63,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 17 | `nellikuppam-pugazhendhi-manavizha` | **Tamil verified-complete / FROZEN — English E1 next** |
-| 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **Tamil verified-complete / FROZEN — English E1 next** |
-| 19–36 | — | not started |
+| 17 | `nellikuppam-pugazhendhi-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 19–20 | — | **not started — next source/duplicate/boundary batch; 23 pages** |
+| 21–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -133,6 +134,10 @@ English E1 **22/22 COMPLETE**; English E2 **22/22 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 21/21 source pages; 2 additional corrections; 0 unresolved.** Constituent 17 received the two T3 scan-proven corrections on PDF188 / PDF190; constituent 18 required none. Page records are complete, unique and ordered; all joins and both separate closing notes pass. Both Tamil layers are **`verified-complete` / FROZEN**.
 
+## Constituents 17–18 — English completion / archival closure
+
+English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unresolved**; English E3 **21/21 PASS — 0 additional corrections / 0 unresolved**. Both Tamil and English layers are **`verified-complete`**. Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**. Fully archived total: **18 / 36**.
+
 ## Next same-gate batch
 
-Constituents **17–18 together** — English E1 first-pass translation — **21 verified Tamil pages total**. Stop before E2 / constituent 19.
+Constituents **19–20 together** — source / duplicate / boundary gate — **23 source pages total**. Constituent 21 adds another **19 pages**, so it must not be included under the 25-page batch cap.

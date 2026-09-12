@@ -746,6 +746,43 @@ Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCH
 - fully archived: **16/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 17–18 — English E1 / E2 / E3
+
+### E1
+**COMPLETE — 21/21 pages.** Constituent 17 **10/10**, constituent 18 **11/11**. Translation source was frozen Tamil only; missing English page records **0**; frozen Tamil changes **0**.
+
+### E2
+**PASS / COMPLETE — 21/21 pages; 5 corrections; 0 unresolved.**
+- constituent 17: **3 corrections**;
+- constituent 18: **2 corrections**;
+- all **5/5** corrections consolidated;
+- page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and separate closing-note handling: **PASS**;
+- frozen Tamil changes during E2: **0**.
+
+### E3
+**PASS / COMPLETE — 21/21 pages; 0 additional corrections; 0 unresolved.**
+- all E2 corrections retained;
+- stale superseded E1 readings in canonical English bodies: **0**;
+- final page correspondence / joins and source-sensitive handling: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state for constituents 17–18: **`verified-complete`**.
+
+## Constituents 17–18 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- source ranges: **21/21 pages — PASS**;
+- Tamil verified: **18/36 total**;
+- English verified: **18/36 total**;
+- constituent 17 correction ledger: Tamil T2 **5**, T3 **2**, English E2 **3**, E3 **0**, unresolved **0**;
+- constituent 18 correction ledger: Tamil T2 **0**, T3 **0**, English E2 **2**, E3 **0**, unresolved **0**;
+- both separate closing notes: **PASS**;
+- metadata / README / audit / HANDOVER / translation-review consistency: **PASS**;
+- frozen Tamil / verified English body changes during closure: **0 / 0**;
+- source PDF binary: **uncommitted**.
+
+Fully archived total: **18 / 36**. Constituents **1–18 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 17–18 together — 21 verified Tamil pages total.**
+**Constituents 19–20 source / duplicate / boundary gate — 23 source pages total.** Stop before Tamil T1.
