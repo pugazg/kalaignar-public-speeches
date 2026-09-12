@@ -8,7 +8,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **26 / 36**
-- Tamil T1 complete: **25 / 36**
+- Tamil T1 complete: **26 / 36**
 - Tamil T2 complete: **25 / 36**
 - Tamil T3 complete / Tamil verified: **25 / 36**
 - English E1 complete: **25 / 36**
@@ -16,7 +16,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E3 complete: **25 / 36**
 - fully archived: **25 / 36**
 
-Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has source / duplicate / boundary gate PASS / COMPLETE — 20/20 pages; Tamil T1 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T1 COMPLETE — 20/20 source pages; Tamil T2 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -690,6 +690,14 @@ Collection state: mapped **36/36**; source-gated **25/36**; Tamil verified **25/
 
 Collection state: source-gated **26/36**; Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
 
+## Constituent 26 — Tamil T1 complete
+
+**COMPLETE — 20/20 source pages.** Canonical page records cover PDF **295–314** / printed **294–313** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body; contents / page-heading / closing-note title variants remain distinct.
+
+Explicit page joins flagged for T2: **295→296, 296→297, 297→298, 298→299, 299→300, 300→301, 301→302, 303→304, 304→305, 305→306, 307→308, 308→309, 309→310, 310→311, 311→312, 312→313, 313→314**.
+
+Collection state: source-gated **26/36**; Tamil T1 **26/36**; Tamil T2/T3 / Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 26 — all 20 source pages, PDF 295–314 / printed 294–313.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 26 — all 20 source pages.** Stop before T3 / constituent 27.
