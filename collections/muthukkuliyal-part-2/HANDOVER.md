@@ -23,9 +23,9 @@
 - English E1 complete: **24 / 36**;
 - English E2 complete: **24 / 36**;
 - English E3 complete / English verified: **24 / 36**;
-- fully archived: **23 / 36**.
+- fully archived: **24 / 36**.
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has English E3 PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved; Tamil and English are `verified-complete`; repository closure is READY / NOT STARTED**.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **24 passed repository-level archival closure; Tamil and English remain `verified-complete`; closure introduced **0 / 0** Tamil / English speech-body changes.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -655,8 +655,17 @@ English E2: **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved**. Th
 
 English E3: **PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved**. All **5/5** E2 corrections remain consolidated. E3 corrected PDF274 / printed p.273 `Muslim men, mothers and elders` → `Muslim people, mothers and elders`, restoring the breadth of `முஸ்லிம் பெருமக்களும்`. Stale superseded English speech-body readings: **0**. English page records, semantic completeness, explicit joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, applause marker and separate closing-note handling pass. Frozen Tamil changes during E3: **0**.
 
-English for constituent 24 is now **`verified-complete`**. No transcription or translation work remains. Repository closure is **READY / NOT STARTED**. Constituent 25 remains outside the active batch. Source PDF remains uncommitted.
+## Constituent 24 — durable repository closure result
+
+Repository-level archival closure: **PASS / COMPLETE — 18/18 pages**. Constituent 24 is now **FULLY ARCHIVED**.
+
+- Tamil T2 **1**, T3 **0**; English E2 **5**, E3 **1**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, canonical page order / joins, metadata, README, audit, HANDOVER, translation-review, parent collection controls, root catalogue and separate closing note agree;
+- source PDF remains uncommitted.
+
+Collection state: **24 / 36 fully archived**. Constituents **1–24 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Repository-level archival closure for constituent 24.**
+**Source / duplicate / boundary gate for constituent 25 — `அன்னை தெரசா நூல் வெளியீட்டு விழா`, mapped PDF 288–294 / printed 287–293.** The contents map gives date **05-09-98**, but the source gate must independently inspect the mapped scans before treating source details as verified.
