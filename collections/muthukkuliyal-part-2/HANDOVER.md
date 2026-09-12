@@ -19,13 +19,13 @@
 - mapped: **36 / 36**; started / source-gated: **26 / 36**;
 - Tamil T1 complete: **26 / 36**;
 - Tamil T2 complete: **26 / 36**;
-- Tamil T3 complete / Tamil verified: **25 / 36**;
+- Tamil T3 complete / Tamil verified: **26 / 36**;
 - English E1 complete: **25 / 36**;
 - English E2 complete: **25 / 36**;
 - English E3 complete / English verified: **25 / 36**;
 - fully archived: **25 / 36**.
 
-Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T2 PASS / COMPLETE — 20/20 pages; 2 corrections; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has Tamil T3 PASS / COMPLETE — 20/20 pages; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -768,6 +768,14 @@ Tamil T2: **PASS / COMPLETE — 20/20 source pages; 2 corrections; 0 unresolved*
 
 Collection state: mapped **36/36**; started / source-gated **26/36**; Tamil T1/T2 **26/36**; Tamil verified **25/36**; English verified **25/36**; fully archived **25/36**.
 
+## Constituent 26 — durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 20/20 source pages; 0 additional corrections; 0 unresolved**. Both **2/2** T2 corrections remain consolidated. Stale superseded canonical speech-body readings are absent. Canonical page records are complete, unique and ordered; missing / duplicate records **0 / 0**. Explicit joins, names / numerals / punctuation / quotations / repetitions, laughter-applause markers, source-sensitive readings, chronology / numeral forms, title variants and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil for constituent 26 is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 27 remains outside the active batch.
+
+Collection state: mapped **36/36**; started / source-gated **26/36**; Tamil T1/T2/T3 / Tamil verified **26/36**; English verified **25/36**; fully archived **25/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 26 — 20 source pages total.** Stop before English and constituent 27.
+**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.** Stop before E2 and constituent 27.
