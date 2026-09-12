@@ -28,8 +28,14 @@ English E2: **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved**. Al
 
 English E3: **PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved**. All **5/5** E2 corrections remain consolidated. E3 corrected PDF274 / p.273 `Muslim men, mothers and elders` → `Muslim people, mothers and elders` to avoid narrowing `முஸ்லிம் பெருமக்களும்`. English page records, semantic completeness, explicit joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter + Tamil rendering, Articles 356 / 355, applause marker and separate closing note pass. Frozen Tamil changes during E3: **0**.
 
-English is now **`verified-complete`**. No transcription or translation work remains for constituent 24. Repository closure is **READY / NOT STARTED**. Constituent 25 remains outside the active batch.
+## Durable repository closure result
 
-## Exact next gate
+Repository-level archival closure: **PASS / COMPLETE — 18/18 pages**. Constituent 24 is now **FULLY ARCHIVED**.
 
-**Repository-level archival closure for constituent 24.** Stop before constituent 25.
+- Tamil T2 **1**, T3 **0**; English E2 **5**, E3 **1**; unresolved **0**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source range, canonical page order / joins, metadata, README, audit, HANDOVER, translation-review, root catalogue and separate closing note agree;
+- source PDF remains uncommitted.
+
+No transcription or translation work remains pending for constituent 24. Constituent 25 remains outside this completed activity.
+
