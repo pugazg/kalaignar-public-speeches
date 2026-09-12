@@ -71,7 +71,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 25 | `annai-teresa-nool-veliyittu-vizha` | **Tamil verified-complete / FROZEN — English E1 pending** |
+| 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 26–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -362,6 +362,22 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — 7/7 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; stale superseded canonical body reading is absent; canonical page records / joins and separate closing-note handling pass. Tamil is **`verified-complete` / FROZEN**.
 
+## Constituent 25 — English E1
+
+**COMPLETE — 7/7 pages.** Frozen Tamil only; missing English page records **0**; frozen Tamil changes **0**.
+
+## Constituent 25 — English E2
+
+**PASS / COMPLETE — 7/7 pages; 5 corrections; 0 unresolved.** All corrections are consolidated; frozen Tamil changes **0**.
+
+## Constituent 25 — English E3
+
+**PASS / COMPLETE — 7/7 pages; 1 additional correction; 0 unresolved.** All E2 corrections remain consolidated; English is **`verified-complete`**; frozen Tamil changes **0**.
+
+## Constituent 25 — archival closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 7/7 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **25 / 36**.
+
 ## Next same-gate batch
 
-Constituent **25** only — English E1 first-pass translation from frozen Tamil — **7 verified Tamil pages total**. Stop before E2 / constituent 26.
+Constituent **26** only — source / duplicate / boundary gate — mapped PDF **295–314** / printed **294–313** — **20 source pages**.
