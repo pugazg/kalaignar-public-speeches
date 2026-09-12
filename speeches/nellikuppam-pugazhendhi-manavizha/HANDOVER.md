@@ -14,10 +14,10 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. PDF184 is the numbered/titled opening; PDF193 completes the body before `6-7-98 அன்று நெல்லிக்குப்பம் புகழேந்தி மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`; PDF194 begins constituent 18. Date is **06-07-1998**. No geographic venue is explicitly stated and none is inferred. Duplicate unresolved **0**; boundary unresolved **0**.
+Source / duplicate / boundary gate: **PASS / COMPLETE**. Tamil T1: **COMPLETE — 10/10**. Canonical page records **10/10**, missing **0**, explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Tamil T2 has **NOT STARTED**.
 
-Tamil T1: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+T2 must re-read every page directly against the scans, with particular attention to the source-sensitive forms / joins recorded in `transcription-ta.md`, including `வாழ்க்கைத்துணை - ஆவலைக் தெரிவிக்க`, `முகிழ்த்தெழுந்தபோது`, `முகதாட்சண்யம்`, `தபதி அழகிரிசாமி`, membership-form questions and `டெல்சி`.
 
 ## Exact next gate
 
-**Tamil T1 for constituents 17–18 together — 21 source pages total.** Stop before T2 and constituent 19.
+**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.** Stop before T3 / constituent 19.

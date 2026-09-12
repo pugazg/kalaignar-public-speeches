@@ -678,6 +678,28 @@ Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCH
 - fully archived: **16/36**;
 - source PDF remains **uncommitted**.
 
+## Constituents 17–18 — Tamil T1 first-pass transcription
+
+**COMPLETE — 21/21 source pages.**
+
+- constituent 17: **10/10**, PDF 184–193 / printed 183–192;
+- constituent 18: **11/11**, PDF 194–204 / printed 193–203;
+- canonical page records: **21/21**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing notes: **preserved outside both speech bodies**;
+- source method: **direct visual reading of controlling scans**;
+- Tamil T2: **NOT STARTED**.
+
+## Collection totals after constituents 17–18 T1
+
+- mapped / started / source-gated: **36/36 / 18/36 / 18/36**;
+- Tamil T1 complete: **18/36**;
+- Tamil T2/T3 complete and Tamil verified: **16/36**;
+- English E1/E2/E3 complete and English verified: **16/36**;
+- fully archived: **16/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Tamil T1 for constituents 17–18 together — 21 source pages total.**
+**Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — 21 source pages total.**

@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 17–18 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 17–18 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–16 are CLOSED / FULLY ARCHIVED**. Constituents **17–18 have passed the source / duplicate / boundary gate**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–16 are CLOSED / FULLY ARCHIVED**. Constituents **17–18 have completed Tamil T1 — 21/21 pages**.
 
 ## Controlling source
 
@@ -18,39 +18,38 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–16 a
 
 ## Durable state
 
-- mapped: **36/36**
-- started / source-gated: **18/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **16/36**
+- mapped / started / source-gated: **36/36 / 18/36 / 18/36**
+- Tamil T1 complete: **18/36**
+- Tamil T2/T3 complete / Tamil verified: **16/36**
 - English E1/E2/E3 complete / English verified: **16/36**
 - fully archived: **16/36**
 
 ### Constituent 17
+
 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா` — `speeches/nellikuppam-pugazhendhi-manavizha/`
 
-- source gate: **PASS / COMPLETE — 10/10**
-- PDF **184–193** / printed **183–192**
-- page heading: `நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை`
-- closing note: `6-7-98 அன்று நெல்லிக்குப்பம் புகழேந்தி மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`
-- date: **06-07-1998**
-- venue: **not explicitly stated; do not infer**
-- Tamil T1: **NOT STARTED**
+- PDF **184–193** / printed **183–192** — **10 pages**
+- T1: **COMPLETE — 10/10**
+- missing / explicit unknown page records: **0 / 0**
+- closing note preserved separately
+- T2: **NOT STARTED**
 
 ### Constituent 18
+
 `இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா` — `speeches/rajapalayam-kumarasami-raja-nootraandu-vizha/`
 
-- source gate: **PASS / COMPLETE — 11/11**
-- PDF **194–204** / printed **193–203**
-- page heading: `இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழா`
-- closing note: `8-7-98 அன்று இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழாவில் ஆற்றிய உரை`
-- date: **08-07-1998**
-- venue: **இராஜபாளையம்**
-- PDF205 begins constituent 19
-- Tamil T1: **NOT STARTED**
+- PDF **194–204** / printed **193–203** — **11 pages**
+- T1: **COMPLETE — 11/11**
+- missing / explicit unknown page records: **0 / 0**
+- closing note preserved separately
+- T2: **NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T1 for constituents 17–18 together — all 21 source pages**. Keep the constituents as separate archival units, preserve exact page boundaries and source wording, and keep separate closing notes outside speech bodies.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituents 17–18 together — all 21 source pages**. Re-read every page visually, line by line. Verify names, numerals, punctuation, quotations, repetitions, source-sensitive forms, all page-boundary continuations and the separate closing notes. Apply only source-proven corrections and record the correction counts / unresolved readings in each audit.
+
+Use the T2 attention-point lists already recorded in the two `transcription-ta.md` files.
 
 ## STOP RULE
 
-Stop after Tamil T1 for constituents 17–18. **Do not start T2, constituent 19, English work, or repository closure in the same activity.**
+Stop after Tamil T2 for constituents 17–18. **Do not start T3, constituent 19, English work, or repository closure in the same activity.**
