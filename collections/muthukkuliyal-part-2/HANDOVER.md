@@ -16,16 +16,16 @@
 
 ## Durable collection state
 
-- mapped: **36 / 36**; started / source-gated: **16 / 36**;
-- Tamil T1 complete: **14 / 36**;
-- Tamil T2 complete: **14 / 36**;
-- Tamil T3 complete / Tamil verified: **14 / 36**;
-- English E1 complete: **14 / 36**;
-- English E2 complete: **14 / 36**;
-- English E3 complete: **14 / 36**;
-- fully archived: **14 / 36**.
+- mapped: **36 / 36**; started / source-gated: **21 / 36**;
+- Tamil T1 complete: **20 / 36**;
+- Tamil T2 complete: **20 / 36**;
+- Tamil T3 complete / Tamil verified: **20 / 36**;
+- English E1 complete: **20 / 36**;
+- English E2 complete: **20 / 36**;
+- English E3 complete / English verified: **20 / 36**;
+- fully archived: **20 / 36**.
 
-Constituents **1–14 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 is source-gated; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -410,6 +410,23 @@ Repository-level archival closure: **PASS / COMPLETE — 23/23 pages**. Both con
 
 Collection state: **20 / 36 fully archived**. Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 21 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- `கவிக்கோ அப்துல் ரகுமான் மணிவிழா`: PDF **228–246** / printed **227–245** — **19 pages**.
+- Contents entry: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா` / `19-07-98` / printed start **227**.
+- PDF228 is the numbered/titled opening: constituent `21`, heading `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`.
+- PDF246 / printed p.245 completes the speech body before the separate closing note `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`.
+- The closing note directly establishes **19-07-1998**, event `கவிக்கோ அப்துல் ரகுமான் மணிவிழா`, and role `ஆற்றிய உரை`.
+- No geographic venue is explicitly stated in the numbered/titled opening or separate closing note; none is inferred.
+- PDF247 / printed p.246 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`, confirming the ending boundary.
+- PDF/printed-page relationship remains **PDF scan = printed page + 1** throughout the mapped range.
+- Duplicate search: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/kavikko-abdul-raguman-manivizha/`.
+- Source PDF remains uncommitted.
+- Tamil T1: **NOT STARTED**.
+
 ## Exact next gate
 
-Process constituent **21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா** through source / duplicate / boundary — PDF **228–246** / printed **227–245**, **19 pages**. Stop before Tamil T1.
+**Tamil T1 for constituent 21 — 19 source pages total.** Stop before T2 and constituent 22.

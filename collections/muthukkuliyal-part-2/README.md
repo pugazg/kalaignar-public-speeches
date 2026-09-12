@@ -7,7 +7,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **20 / 36**
+- speech archives started / source-gated: **21 / 36**
 - Tamil T1 complete: **20 / 36**
 - Tamil T2 complete: **20 / 36**
 - Tamil T3 complete / Tamil verified: **20 / 36**
@@ -16,7 +16,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E3 complete: **20 / 36**
 - fully archived: **20 / 36**
 
-Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 is source-gated; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -376,6 +376,21 @@ Collection state: Tamil verified **20/36**; English E1/E2/E3 complete / English 
 
 Collection state is now **20 / 36 fully archived**. Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 21 — source gate complete
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா:** PDF **228–246** / printed **227–245** — **19 pages**.
+- Contents entry: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா` / `19-07-98`.
+- PDF228 opens numbered constituent 21 with heading `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`.
+- PDF246 ends the speech body before the separate closing note `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`, establishing **19-07-1998**, event and role `ஆற்றிய உரை`.
+- No geographic venue is explicitly stated in the inspected opening/closing evidence; none is inferred.
+- PDF247 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`.
+- Dedicated archive: `speeches/kavikko-abdul-raguman-manivizha/`.
+- Tamil T1: **NOT STARTED**; source PDF remains uncommitted.
+
+Collection state: source-gated **21/36**; Tamil verified **20/36**; English verified **20/36**; fully archived **20/36**.
+
 ## Exact next gate
 
-Process **constituent 21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா** through the **source / duplicate / boundary gate** — PDF **228–246** / printed **227–245**, **19 pages**. Stop before Tamil T1.
+**Tamil T1 for constituent 21 — 19 source pages total.** Stop before T2 / constituent 22.

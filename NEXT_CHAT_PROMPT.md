@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 21 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 21 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source or fidelity evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–20 are CLOSED / FULLY ARCHIVED**. Constituent **21 has passed the source / duplicate / boundary gate**.
 
 ## Controlling source
 
@@ -19,21 +19,34 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–20 a
 ## Durable state
 
 - mapped: **36/36**
-- started / source-gated: **20/36**
+- started / source-gated: **21/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **20/36**
 - English E1/E2/E3 complete / English verified: **20/36**
 - fully archived: **20/36**
 
-## Exact next activity
+## Constituent 21
 
-Process constituent **21 — கவிக்கோ அப்துல் ரகுமான் மணிவிழா** through the **source / duplicate / boundary gate**.
+`கவிக்கோ அப்துல் ரகுமான் மணிவிழா` — `speeches/kavikko-abdul-raguman-manivizha/`
 
+- source gate: **PASS / COMPLETE — 19/19**
 - contents date: **19-07-98**
 - PDF **228–246**
 - printed **227–245**
 - **19 source pages**
+- page heading: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`
+- closing note: `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`
+- date: **19-07-1998**
+- venue: **not explicitly stated in the numbered/titled opening or separate closing note; do not infer**
+- event: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா`
+- role: `ஆற்றிய உரை`
+- PDF247 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **NOT STARTED**
 
-Verify the numbered/titled opening, exact ending boundary, separate closing note if present, date / venue / event / role evidence, duplicate status, and PDF/printed-page relationship. Do not infer metadata that the source does not establish.
+## Exact activity
+
+Perform **Tamil T1 for constituent 21 — all 19 source pages**. Preserve exact source wording and page boundaries, and keep the separate closing note outside the speech body.
 
 ## Batch rule
 
@@ -41,4 +54,4 @@ Do **not** include constituent 22. Constituent 21 is **19 pages** and constituen
 
 ## STOP RULE
 
-Stop after the source / duplicate / boundary gate for constituent 21. **Do not begin Tamil T1 or constituent 22 in the same activity.**
+Stop after Tamil T1 for constituent 21. **Do not start Tamil T2, constituent 22, English work, or repository closure in the same activity.**

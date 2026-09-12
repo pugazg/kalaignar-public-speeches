@@ -11,7 +11,7 @@ Collection-level source/mapping/progress audit.
 
 ## Closed constituents
 
-Constituents **1–14** are Tamil + English `verified-complete` with repository closure complete.
+Constituents **1–20** are Tamil + English `verified-complete` with repository closure complete.
 
 ## Constituents 7–9 — durable completion summary
 
@@ -985,6 +985,33 @@ Frozen Tamil changes during E1/E2/E3: **0**. Both English layers are **`verified
 
 Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 21 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **228–246** / printed **227–245** — **19 pages**;
+- contents title/date: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா` / `19-07-98`;
+- opening: PDF228 / printed p.227, constituent `21`, heading `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`;
+- ending: PDF246 / printed p.245 completes the speech body before `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`;
+- date: **19-07-1998**;
+- event/role: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா` / `ஆற்றிய உரை`;
+- venue: **not explicitly stated** in the numbered/titled opening or separate closing note; none inferred;
+- separate closing note: **present and kept outside the speech body**;
+- PDF247 / printed p.246 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`, confirming the end boundary;
+- PDF/printed-page relationship: **PDF scan = printed page + 1**;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- Tamil T1: **NOT STARTED**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 21 source gate
+
+- mapped / started / source-gated: **36/36 / 21/36 / 21/36**;
+- Tamil T1/T2/T3 complete and Tamil verified: **20/36**;
+- English E1/E2/E3 complete and English verified: **20/36**;
+- fully archived: **20/36**.
+
 ## Exact next gate
 
-**Constituent 21 source / duplicate / boundary gate — 19 source pages total.** Stop before Tamil T1.
+**Tamil T1 for constituent 21 — 19 source pages total.** Stop before T2 and constituent 22.

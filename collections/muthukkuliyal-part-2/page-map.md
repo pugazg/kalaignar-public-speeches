@@ -67,7 +67,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 21 | — | **not started — next source/duplicate/boundary gate; 19 pages** |
+| 21 | `kavikko-abdul-raguman-manivizha` | **source-gated — Tamil T1 pending** |
 | 22–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -177,6 +177,17 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 23/23 pages.** Both Tamil and English layers remain verified-complete. Fully archived total: **20 / 36**.
 
+## Constituent 21 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **228–246** / printed **227–245** — **19 pages**.
+- Contents entry: `கவிக்கோ அப்துல் ரகுமான் மணிவிழா` / `19-07-98`.
+- Opening: PDF228 / printed p.227, constituent `21`, heading `கவிக்கோ அப்துல் ரகுமான் மணிவிழா உரை`.
+- Closing note: `19-7-98 அன்று கவிக்கோ அப்துல் ரகுமான் மணிவிழாவில் ஆற்றிய உரை`; date **19-07-1998**; event/role directly supported; no geographic venue stated.
+- PDF247 / printed p.246 begins constituent 22 `காஞ்சி மணிமொழியார் இல்ல மணவிழா`.
+- Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
+
 ## Next same-gate batch
 
-Constituent **21** only — source / duplicate / boundary gate — **19 source pages total**. Constituent 22 adds **9 pages**, so **19 + 9 = 28** exceeds the 25-page batch cap.
+Constituent **21** only — Tamil T1 — **19 source pages total**. Constituent 22 remains outside the batch.
