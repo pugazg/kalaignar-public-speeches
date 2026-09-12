@@ -68,7 +68,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 19 | `thiruvannamalai-arunai-poriyiyal-kalloori-pattamalippu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 22 | `kanchi-manimozhiyar-illa-manavizha` | **Source gate complete — Tamil T1 pending** |
+| 22 | `kanchi-manimozhiyar-illa-manavizha` | **Tamil T1 complete — T2 pending** |
 | 23–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -228,6 +228,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 - PDF256 / printed p.255 begins constituent 23 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`.
 - Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
 
+## Constituent 22 — Tamil T1
+
+**COMPLETE — 9/9 source pages.** Canonical records cover PDF **247–255** / printed **246–254** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Tamil T2 has **NOT STARTED**.
+
 ## Next same-gate batch
 
-Constituent **22** only — Tamil T1 first-pass transcription — **9 source pages total**. Stop before T2 / constituent 23.
+Constituent **22** only — Tamil T2 strict direct-scan fidelity audit — **9 source pages total**. Stop before T3 / constituent 23.

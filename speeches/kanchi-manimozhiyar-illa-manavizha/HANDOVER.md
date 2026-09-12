@@ -14,10 +14,12 @@
 
 ## Durable state
 
-Source / duplicate / boundary gate: **PASS / COMPLETE**. PDF247 is the numbered/titled opening `காஞ்சி மணிமொழியார் இல்ல மணவிழா`. PDF255 completes the body before the separate closing note `28-8-98 அன்று காஞ்சி மணிமொழியார் இல்ல மணவிழாவில் ஆற்றிய உரை`, directly establishing **28-08-1998**, event and role. No geographic venue is explicitly stated in the numbered/titled opening or separate closing note, so none is inferred. PDF256 begins constituent 23 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`. Duplicate unresolved **0**; boundary unresolved **0**.
+Source / duplicate / boundary gate: **PASS / COMPLETE**.
 
-Tamil T1: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
+Tamil T1: **COMPLETE — 9/9**. Canonical page records cover PDF **247–255** / printed **246–254**, each once and in source order. Missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Source method: direct visual reading of the controlling scans.
+
+Tamil T2: **READY / NOT STARTED**. English remains blocked pending verified Tamil.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 22 — 9 source pages total.** Stop before T2 and constituent 23.
+**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.** Stop before T3 and constituent 23.

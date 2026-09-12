@@ -12,16 +12,24 @@
 - ending: PDF255 / printed p.254 before `28-8-98 அன்று காஞ்சி மணிமொழியார் இல்ல மணவிழாவில் ஆற்றிய உரை`;
 - date: **28-08-1998**;
 - event/role: `காஞ்சி மணிமொழியார் இல்ல மணவிழா` / `ஆற்றிய உரை`;
-- venue: **not explicitly stated** in the numbered/titled opening or separate closing note; none inferred;
-- separate closing note: **present and outside the speech body**;
-- PDF256 / printed p.255 begins constituent 23 `டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா`;
-- PDF/printed-page relationship remains **PDF scan = printed page + 1**;
-- duplicate search against live `main`: **PASS — no existing dedicated archive found**;
+- venue: **not explicitly stated**; none inferred;
+- PDF256 / printed p.255 begins constituent 23;
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**.
 
-Tamil T1 has **NOT STARTED**.
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 9/9 source pages.**
+
+- canonical records: PDF **247–255** / printed **246–254**, **9/9**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable/unknown placeholders: **0**;
+- separate closing note: preserved outside speech body;
+- method: direct visual reading of controlling scans;
+- Tamil T2: **NOT STARTED**.
+
+T2 attention points and page-boundary continuations are recorded in `transcription-ta.md`. Source pixels remain controlling and no T2 fidelity claim has yet been made.
 
 ## Exact next gate
 
-**Tamil T1 for constituent 22 — 9 source pages total.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.**

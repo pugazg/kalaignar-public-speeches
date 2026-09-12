@@ -17,7 +17,7 @@
 ## Durable collection state
 
 - mapped: **36 / 36**; started / source-gated: **22 / 36**;
-- Tamil T1 complete: **21 / 36**;
+- Tamil T1 complete: **22 / 36**;
 - Tamil T2 complete: **21 / 36**;
 - Tamil T3 complete / Tamil verified: **21 / 36**;
 - English E1 complete: **21 / 36**;
@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **21 / 36**;
 - fully archived: **21 / 36**.
 
-Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has passed the source / duplicate / boundary gate; Tamil T1 is READY / NOT STARTED**.
+Constituents **1–21 are CLOSED / FULLY ARCHIVED**. Constituent **22 has Tamil T1 COMPLETE — 9/9; Tamil T2 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -493,6 +493,12 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 9/9 source pages; dupl
 - Source PDF remains uncommitted.
 - Tamil T1: **NOT STARTED**.
 
+## Constituent 22 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 9/9 source pages** for `காஞ்சி மணிமொழியார் இல்ல மணவிழா`, PDF **247–255** / printed **246–254**. Canonical page records are **9/9**, complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Source pixels remain controlling; this T1 layer is not yet a final fidelity claim.
+
+Tamil T2 is **READY / NOT STARTED**. Constituent 23 remains outside the batch. The source PDF binary remains uncommitted.
+
 ## Exact next gate
 
-**Tamil T1 for constituent 22 — 9 source pages total.** Stop before T2 / constituent 23.
+**Tamil T2 strict direct-scan fidelity audit for constituent 22 — 9 source pages total.** Stop before T3 / constituent 23.
