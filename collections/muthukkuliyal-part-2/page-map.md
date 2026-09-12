@@ -69,7 +69,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 20 | `perayar-ezra-sargunam-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **English E1 complete — E2 pending; Tamil FROZEN** |
+| 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **English E2 complete — E3 pending; Tamil FROZEN** |
 | 24–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -285,6 +285,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **COMPLETE — 14/14 verified Tamil pages.** English page records are complete, unique and ordered; missing records **0**; page correspondence, source-sensitive terminology, applause / laughter markers and separate closing-note handling pass; frozen Tamil changes during E1 **0**.
 
+## Constituent 23 — English E2
+
+**PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved.** Corrections: PDF259 **1**, PDF263 **1**, PDF265 **1**, PDF268 **1**. All are consolidated; frozen Tamil changes during E2 **0**.
+
 ## Next same-gate batch
 
-Constituent **23** only — English E2 independent fidelity review — **14 pages total**. Constituent 24 remains outside the batch.
+Constituent **23** only — English E3 final verification — **14 pages total**. Constituent 24 remains outside the batch.

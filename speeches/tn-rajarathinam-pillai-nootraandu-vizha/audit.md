@@ -63,6 +63,18 @@ All **8/8** corrections are consolidated. Canonical page records, documented pag
 - frozen Tamil changes during E1: **0**;
 - English E2: **NOT STARTED**.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved.**
+
+- PDF259 / p.258: orchestra clause fidelity correction;
+- PDF263 / p.262: removed unsupported `alone` from the `uruppadi` wordplay;
+- PDF265 / p.264: `Memorial Hall` → `Memorial Building`;
+- PDF268 / p.267: reflexive correction `destroy oneself` → `destroying themselves`;
+- all corrections consolidated;
+- page correspondence / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive terminology, applause / laughter markers and separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 23 — 14 pages.**
+**English E3 final verification for constituent 23 — 14 pages.**

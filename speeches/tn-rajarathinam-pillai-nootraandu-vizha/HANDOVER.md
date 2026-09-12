@@ -32,6 +32,10 @@ Tamil remains **`verified-complete` / FROZEN**. English E1 was translated only f
 
 English E1: **COMPLETE — 14/14 pages** from frozen Tamil only. English page records are complete, unique and ordered; exact page correspondence, source-sensitive terminology, applause markers and separate closing-note handling pass; missing English page records **0**; frozen Tamil changes **0**.
 
+## Durable English E2 result
+
+English E2: **PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved**. Corrections: PDF259 **1**, PDF263 **1**, PDF265 **1**, PDF268 **1**. All are consolidated; exact page correspondence / joins, semantic completeness, source-sensitive terminology, applause / laughter markers and separate closing-note handling pass. Frozen Tamil changes during E2 **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 23 — 14 pages.**
+**English E3 final verification for constituent 23 — 14 pages.**

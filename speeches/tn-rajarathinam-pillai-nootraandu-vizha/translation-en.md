@@ -1,6 +1,6 @@
 # T.N. Rajarathinam Pillai Centenary Celebration — English translation
 
-**Status:** `e1-complete` — English E1 **COMPLETE — 14 / 14 pages**; English E2 pending  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 14 / 14 pages; 4 corrections; 0 unresolved**; English E3 pending  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **256–269** / printed **255–268**
 
@@ -38,7 +38,7 @@ We have listened with delight and rejoiced in our hearts when Anna praised T.N. 
 
 At that function, after blessing the children, Anna referred to T.N.R.'s performance and said:
 
-“When Westerners play an orchestra, the musical pleasure heard when each instrument is played is one thing; the musical pleasure heard when all of them are played together is another. Likewise, when Rajarathinam's playing is heard from a distance, at times it sounds like the music of a flute. At times it seems like the nayanam. At times it sounds like the music of an orchestra. No other musical genius in the world possesses this ability; Rajarathinam alone has it.”
+“When Westerners play each instrument in an orchestra, the musical pleasure heard then is one thing; the musical pleasure heard when all of them are played together is another. Likewise, when Rajarathinam's playing is heard from a distance, at times it sounds like the music of a flute. At times it seems like the nayanam. At times it sounds like the music of an orchestra. No other musical genius in the world possesses this ability; Rajarathinam alone has it.”
 
 That is what Anna said at that function.
 
@@ -74,7 +74,7 @@ We have seen this many years ago: after listening to a concert, when people came
 
 the concert the next day, they would say, “He sang well. At the end he sang two or three `uruppadi`; those too were good.” What does `uruppadi` mean? When we count out clothes to a washerman, we say how many `uruppadi` we have given him: “I gave ten `uruppadi`; bring back all ten `uruppadi` properly.” It was in that same way that Tamil songs had come to be called `uruppadi`.
 
-Perhaps Tamil songs were given that name because they alone were the worthwhile `uruppadi`; I do not know. The man who angrily opposed this in those days, who acted with the determination that it had to be corrected, and who put that correction into practice, was the late Thiruvavaduthuraiyar. When I think of that, I feel proud.
+Perhaps that name came to be used for Tamil song because this itself was the worthwhile `uruppadi`; I do not know. The man who angrily opposed this in those days, who acted with the determination that it had to be corrected, and who put that correction into practice, was the late Thiruvavaduthuraiyar. When I think of that, I feel proud.
 
 Once I had the good fortune to travel with him from Chidambaram to Kanchipuram. You know that Chidambaram Jayaraman, the Isai Chithar, was my brother-in-law. In 1944 I married his younger sister Padmavathi. In 1945, at Kanchipuram, Arignar Anna and a friend named Ponnappar together conducted a music festival. The name of that
 
@@ -92,7 +92,7 @@ In the year he died, a ceremony to unveil his portrait was held at R.R. Sabha un
 
 My request was not rejected then, but it was not implemented. Only after I became Chief Minister did we decide, on behalf of the Muthamizh Peravai, that a `Rajarathna` award should be presented to outstanding masters of music, and all of you know very well that it has been presented since then.
 
-Even now, a building for the Muthamizh Peravai is to be established in Chennai. At a Muthamizh Peravai function I stated that the building would be named “Rajarathinam Memorial Hall.” I wish to state here that this will be fulfilled and that efforts toward it have already been undertaken. (Loud applause.)
+Even now, a building for the Muthamizh Peravai is to be established in Chennai. At a Muthamizh Peravai function I stated that the building would be named “Rajarathinam Memorial Building.” I wish to state here that this will be fulfilled and that efforts toward it have already been undertaken. (Loud applause.)
 
 ## PDF 266 / printed p.265
 
@@ -118,7 +118,7 @@ he can speak about all these matters here. I too am seventy-five. Even so, I con
 
 T.N.R. was a man who ought to have lived for many more years before passing away. If he died at the age of fifty-eight without even having a Mani Vizha, what was the reason? Likewise, when do you think Kalaivanar N.S.K. died? Kalaivanar N.S.K. died at the age of forty-nine, before even a golden-jubilee celebration could take place.
 
-We must think about the reason for all this. We foster music, we become masters, we give joy to everyone. But we must find within our own bodies the strength needed for that. We must not destroy ourselves. If we realise that destroying ourselves means destroying art, destroying society, and reducing with our own hands the service that we ought to render to this society, no one will engage in actions that destroy oneself.
+We must think about the reason for all this. We foster music, we become masters, we give joy to everyone. But we must find within our own bodies the strength needed for that. We must not destroy ourselves. If we realise that destroying ourselves means destroying art, destroying society, and reducing with our own hands the service that we ought to render to this society, no one will engage in the act of destroying themselves.
 
 Especially in the world of music — and particularly nayanam artists — they have to struggle greatly to obtain that musical training. They have to struggle greatly to take part in those musical performances.
 
@@ -140,7 +140,7 @@ I had been thinking of saying this. I sat wondering whether I should say it. But
 - Translation authority: frozen Tamil `transcription-ta.md` only.
 - Separate source closing note: **preserved outside the speech body**.
 - Frozen Tamil changes during E1: **0**.
-- English E2: **NOT STARTED**.
+- At the E1 checkpoint, English E2 had **NOT STARTED**; E2 is now complete.
 
 ### Source-sensitive translation notes
 
@@ -153,6 +153,19 @@ I had been thinking of saying this. I sat wondering whether I should say it. But
 - Applause / laughter markers are preserved on their source pages.
 - The separate closing note is translated once and kept outside the speech body.
 
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 14/14 pages; 4 corrections; 0 unresolved.**
+
+Fidelity-proven English corrections consolidated into the canonical translation:
+
+1. PDF259 / printed p.258: `When Westerners play an orchestra, ... each instrument ...` → **`When Westerners play each instrument in an orchestra, ...`**, restoring the source's instrument-by-instrument contrast before the combined orchestra.
+2. PDF263 / printed p.262: `because they alone were the worthwhile uruppadi` → **`because this itself was the worthwhile uruppadi`**, removing the unsupported `alone` and preserving `இதுதான் உருப்படியானது`.
+3. PDF265 / printed p.264: `Rajarathinam Memorial Hall` → **`Rajarathinam Memorial Building`**, preserving source `நினைவு மாளிகை` without narrowing it to a hall.
+4. PDF268 / printed p.267: `actions that destroy oneself` → **`the act of destroying themselves`**, restoring the source's reflexive sense while keeping the plural rhetorical subject.
+
+Semantic completeness, exact page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, source-sensitive wording, applause / laughter markers and the separate closing note: **PASS**. Frozen Tamil changes during E2: **0**. Unresolved English readings: **0**.
+
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 23 — 14 pages.**
+**English E3 final verification for constituent 23 — 14 pages.**
