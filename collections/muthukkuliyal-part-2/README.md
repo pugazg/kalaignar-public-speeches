@@ -10,13 +10,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **25 / 36**
 - Tamil T1 complete: **25 / 36**
 - Tamil T2 complete: **25 / 36**
-- Tamil T3 complete / Tamil verified: **24 / 36**
+- Tamil T3 complete / Tamil verified: **25 / 36**
 - English E1 complete: **24 / 36**
 - English E2 complete: **24 / 36**
 - English E3 complete: **24 / 36**
 - fully archived: **24 / 36**
 
-Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T2 PASS / COMPLETE — 7/7 pages; 1 correction; 0 unresolved; Tamil T3 is READY / NOT STARTED**.
+Constituents **1–24 are CLOSED / FULLY ARCHIVED**. Constituent **25 has Tamil T3 PASS / COMPLETE — 7/7 pages; Tamil is `verified-complete` / FROZEN; English E1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -643,8 +643,16 @@ Collection state after T1: source-gated **25/36**; Tamil T1 complete **25/36**; 
 
 **PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.** PDF289 / printed p.288: `அண்டபிரண்டத்திற்கும்` → `அண்டபகிரண்டத்திற்கும்`. All mapped scans were re-read directly; explicit joins **288→289** and **290→291**, names / numerals / punctuation / quotations / repetitions / applause-laughter markers / source-sensitive forms and the separate closing note pass.
 
-Collection state: source-gated **25/36**; Tamil T1 **25/36**; Tamil T2 **25/36**; Tamil T3 / Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+Collection state after T2: source-gated **25/36**; Tamil T1/T2 **25/36**; Tamil T3 / Tamil verified **24/36**; English verified **24/36**; fully archived **24/36**.
+
+## Constituent 25 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 7/7 source pages; 0 additional corrections; 0 unresolved.** The **1/1** T2 correction remains consolidated; stale superseded canonical speech-body reading is absent; canonical page records are complete, unique and ordered; explicit joins **288→289** and **290→291**, names / numerals / punctuation / quotations / repetitions, laughter / applause markers, source-sensitive forms and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
+Collection state: source-gated **25/36**; Tamil T1/T2/T3 complete / Tamil verified **25/36**; English verified **24/36**; fully archived **24/36**.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 25 — all 7 source pages.** Stop before English / constituent 26.
+**English E1 first-pass translation for constituent 25 — 7 verified Tamil pages total.** Stop before E2 / constituent 26.
