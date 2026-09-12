@@ -637,6 +637,47 @@ Final closure consistency:
 
 Fully archived total: **16 / 36**. Constituents **1–16 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 17–18 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 21/21 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+### Constituent 17
+
+- exact range: PDF **184–193** / printed **183–192** — **10 pages**;
+- opening: PDF184 / printed p.183, constituent `17`, heading `நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை`;
+- contents title/date: `நெல்லிக்குப்பம் புகழேந்தி மணவிழா` / `06-07-98`;
+- closing note: `6-7-98 அன்று நெல்லிக்குப்பம் புகழேந்தி மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`;
+- date: **06-07-1998**;
+- venue: **not explicitly stated**; `நெல்லிக்குப்பம்` is not a locative venue statement in the inspected opening/closing evidence, so none is inferred;
+- source role/function: `மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`;
+- PDF194 begins constituent 18;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+### Constituent 18
+
+- exact range: PDF **194–204** / printed **193–203** — **11 pages**;
+- opening: PDF194 / printed p.193, constituent `18`, heading `இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழா`;
+- contents title/date: `இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா` / `08-07-98`;
+- heading/content distinction `இராஜபாளையத்தில்` vs `இராஜபாளையம்`: preserved;
+- closing note: `8-7-98 அன்று இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
+- date: **08-07-1998**;
+- venue: **இராஜபாளையம்**, directly established by `இராஜபாளையத்தில்`;
+- event/role: `குமாரசாமி ராஜா நூற்றாண்டு விழா` / `ஆற்றிய உரை`;
+- PDF205 begins constituent 19;
+- duplicate search: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**.
+
+## Collection totals after constituents 17–18 source gate
+
+- mapped / started / source-gated: **36/36 / 18/36 / 18/36**;
+- Tamil T1/T2/T3 complete and Tamil verified: **16/36**;
+- English E1/E2/E3 complete and English verified: **16/36**;
+- fully archived: **16/36**;
+- source PDF remains **uncommitted**.
+
 ## Exact next gate
 
-**Constituents 17–18 source / duplicate / boundary gate — 21 source pages total.** Stop before Tamil T1.
+**Tamil T1 for constituents 17–18 together — 21 source pages total.**

@@ -271,12 +271,15 @@ Repository-level archival closure: **PASS / COMPLETE — 22/22 pages**. Both con
 
 Collection state: **16 / 36 fully archived**. Constituents **1–16 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 17–18 — durable source-gate result
+
+Combined source / duplicate / boundary gate: **PASS / COMPLETE — 21/21 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **17 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா`:** PDF **184–193** / printed **183–192** — **10 pages**. PDF184 is the numbered/titled opening. PDF193 completes the body before `6-7-98 அன்று நெல்லிக்குப்பம் புகழேந்தி மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`, directly establishing **06-07-1998** and the wedding-conducting speech role. No geographic venue is explicitly stated; none is inferred. Dedicated archive: `speeches/nellikuppam-pugazhendhi-manavizha/`.
+- **18 `இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா`:** PDF **194–204** / printed **193–203** — **11 pages**. PDF194 page heading is `இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழா`. PDF204 completes the body before `8-7-98 அன்று இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழாவில் ஆற்றிய உரை`, directly establishing **08-07-1998**, **இராஜபாளையம்**, event and role. PDF205 begins constituent 19. Dedicated archive: `speeches/rajapalayam-kumarasami-raja-nootraandu-vizha/`.
+
+Tamil T1 is **NOT STARTED** for either constituent. Constituents 1–16 remain CLOSED / FULLY ARCHIVED. Source PDF remains uncommitted.
+
 ## Exact next gate
 
-Process constituents **17–18 together** through source / duplicate / boundary:
-
-- 17 `நெல்லிக்குப்பம் புகழேந்தி மணவிழா` — PDF **184–193** / printed **183–192** — **10 pages**;
-- 18 `இராஜபாளையம் குமாரசாமி ராஜா நூற்றாண்டு விழா` — PDF **194–204** / printed **193–203** — **11 pages**;
-- combined **21 pages**.
-
-Stop before Tamil T1.
+**Tamil T1 for constituents 17–18 together — 21 source pages total.** Stop before T2 / constituent 19.

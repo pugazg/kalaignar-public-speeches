@@ -1,0 +1,68 @@
+{
+  "id": "nellikuppam-pugazhendhi-manavizha",
+  "title": {
+    "ta": "நெல்லிக்குப்பம் புகழேந்தி மணவிழா",
+    "contents_title_ta": "நெல்லிக்குப்பம் புகழேந்தி மணவிழா",
+    "page_heading_ta": "நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை",
+    "closing_note_event_ta": "நெல்லிக்குப்பம் புகழேந்தி மணவிழா",
+    "en_transliteration": "Nellikuppam Pugazhendhi Manavizha"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 17,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": "1998-07-06",
+    "date_source_text": "6-7-98",
+    "venue_ta": null,
+    "venue_note": "The opening and closing evidence does not explicitly state a geographic venue. நெல்லிக்குப்பம் appears as part of the source title/name phrase, not an explicit locative venue statement; do not infer one.",
+    "event_ta": "நெல்லிக்குப்பம் புகழேந்தி மணவிழா",
+    "role_ta": "மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை",
+    "source_note": "PDF 193 / printed p.192 states: 6-7-98 அன்று நெல்லிக்குப்பம் புகழேந்தி மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 184,
+    "pdf_page_end": 193,
+    "printed_page_start": 183,
+    "printed_page_end": 192,
+    "speech_pages_total": 10,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 184 / printed p.183; numbered constituent 17 with page heading நெல்லிக்குப்பம் புகழேந்தி மணவிழா உரை",
+    "ending": "Speech body ends on PDF 193 / printed p.192 before the separate printed source closing note; PDF 194 begins constituent 18"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 10,
+    "speech_pages_drafted": 0,
+    "t1_pages_completed": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 for constituents 17–18 together — 21 source pages total"
+  }
+}

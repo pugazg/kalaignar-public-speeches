@@ -63,7 +63,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 14 | `karl-marx-mozhipeyarppu-noolgal-jamadhagni-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 15 | `thiru-vi-ka-kalki-noolgalukku-parivuthogai-vazhangum-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 16 | `ambur-sampangi-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 17–18 | — | **not started — next source/duplicate/boundary batch; 21 pages** |
+| 17 | `nellikuppam-pugazhendhi-manavizha` | **source-gated — Tamil T1 pending** |
+| 18 | `rajapalayam-kumarasami-raja-nootraandu-vizha` | **source-gated — Tamil T1 pending** |
 | 19–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -111,6 +112,15 @@ English E1 **22/22 COMPLETE**; English E2 **22/22 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 22/22 pages.** Both constituents now have Tamil and English `verified-complete`; correction counts, page order, source ranges and closing-note handling agree. Fully archived total: **16 / 36**.
 
+## Constituents 17–18 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 21/21 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- 17 — PDF **184–193** / printed **183–192** — closing note `6-7-98 அன்று நெல்லிக்குப்பம் புகழேந்தி மணவிழாவை நடத்தி வைத்து ஆற்றிய உரை`; date **06-07-1998**; no explicit geographic venue.
+- 18 — PDF **194–204** / printed **193–203** — closing note `8-7-98 அன்று இராஜபாளையத்தில் குமாரசாமி ராஜா நூற்றாண்டு விழாவில் ஆற்றிய உரை`; date **08-07-1998**; venue **இராஜபாளையம்**.
+- PDF205 begins constituent 19.
+- Tamil T1 has **NOT STARTED** for either constituent.
+
 ## Next same-gate batch
 
-Constituents **17–18 together** — source / duplicate / boundary gate — **21 source pages total**. Constituent 19 adds another 11 pages, so **17+18+19 = 32 pages** and must not be combined under the 25-page cap.
+Constituents **17–18 together** — Tamil T1 — **21 source pages total**. Stop before T2 / constituent 19.
