@@ -1,0 +1,68 @@
+{
+  "id": "chennai-aazhvargal-aaivu-maiya-vizha-urai",
+  "title": {
+    "ta": "சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை",
+    "contents_title_ta": "சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா",
+    "page_heading_ta": "சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை",
+    "closing_note_event_ta": "ஆழ்வார்கள் ஆய்வு மைய விழா",
+    "en_transliteration": "Chennai - Aazhvargal Research Centre Function Speech"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-2",
+    "title_ta": "முத்துக் குளியல் — பாகம் II",
+    "constituent_number": 26,
+    "constituent_total": 36
+  },
+  "speech": {
+    "date": "1998-09-12",
+    "date_source_text": "12-9-98",
+    "venue_ta": "சென்னை",
+    "venue_note": "The separate closing note explicitly states சென்னையில்.",
+    "event_ta": "ஆழ்வார்கள் ஆய்வு மைய விழா",
+    "role_ta": "ஆற்றிய உரை",
+    "source_note": "PDF 314 / printed p.313 states: 12-9-98 அன்று சென்னையில் ஆழ்வார்கள் ஆய்வு மைய விழாவில் ஆற்றிய உரை"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf",
+    "sha256": "48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2",
+    "file_size_bytes": 232470104,
+    "source_pdf_pages_total": 425,
+    "pdf_page_start": 295,
+    "pdf_page_end": 314,
+    "printed_page_start": 294,
+    "printed_page_end": 313,
+    "speech_pages_total": 20,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "opening": "PDF 295 / printed p.294; numbered constituent 26 with page heading சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை",
+    "ending": "Speech body ends on PDF 314 / printed p.313 before the separate printed source closing note; PDF 315 begins constituent 27"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "not-started",
+    "speech_pages_total": 20,
+    "speech_pages_drafted": 0,
+    "t1_pages_completed": 0,
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "english_translation": "blocked-pending-tamil-verification",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-e2",
+    "repository_closure": "not-started",
+    "archive_status": "in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 first-pass transcription for constituent 26 — all 20 source pages"
+  }
+}
