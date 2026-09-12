@@ -71,8 +71,20 @@ T2 source-sensitive attention points and page-boundary continuations are recorde
 - following Tamil rendering of the letter: **preserved in source sequence and translated into English**;
 - rhetoric / repetition / names / titles / numerals / quotation structure / applause marker / separate closing note: **preserved for E2 review**;
 - frozen Tamil changes during E1: **0**;
-- English E2: **READY / NOT STARTED**.
+- English E2: **PASS / COMPLETE — 18/18; 5 corrections; 0 unresolved**.
+
+## English E2 — independent fidelity review
+
+**PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.**
+
+1. PDF273 / p.272: removed unsupported `Lieutenant` from the Delhi governor title.
+2. PDF274 / p.273: restored `முஸ்லிம் பெருமக்களும், தாய்மார்களும், பெரியோர்களும்` as `Muslim men, mothers and elders`; removed unsupported `others`.
+3. PDF275→276 / pp.274→275: repaired the Thiru. Vi. K. page-boundary sentence so `“To the youth...”` remains the article wording on PDF276 rather than being rendered as `among young people`.
+4. PDF281 / p.280: `federation at the Centre` → `federalism at the Centre`.
+5. PDF286 / p.285: corrected the subject/logic around the State-government dismissal threat so `anyone and everyone` are no longer made the speakers issuing that threat.
+
+All five corrections are consolidated. Semantic completeness, page correspondence / joins, names / titles / numerals, rhetoric / repetition, quotation structure, the full printed English Indira Gandhi letter and Tamil rendering, Articles **356 / 355**, source-sensitive wording, applause marker and separate closing note: **PASS**. Frozen Tamil changes during E2: **0**.
 
 ## Exact next gate
 
-**English E2 independent fidelity review for constituent 24 — all 18 English pages against the frozen Tamil layer.**
+**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
