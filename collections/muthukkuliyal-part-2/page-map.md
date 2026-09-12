@@ -71,7 +71,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 25 | `annai-teresa-nool-veliyittu-vizha` | **Tamil T1 COMPLETE — Tamil T2 pending** |
+| 25 | `annai-teresa-nool-veliyittu-vizha` | **Tamil T2 PASS / COMPLETE — Tamil T3 pending** |
 | 26–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
@@ -354,6 +354,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **COMPLETE — 7/7 source pages.** Canonical records cover PDF **288–294** / printed **287–293** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**; separate closing note preserved outside the speech body. Explicit joins **288→289** and **290→291** are flagged for T2.
 
+## Constituent 25 — Tamil T2
+
+**PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.** PDF289 / printed p.288 `அண்டபிரண்டத்திற்கும்` → `அண்டபகிரண்டத்திற்கும்`. Explicit joins **288→289** and **290→291**, canonical page order and separate closing-note handling pass.
+
 ## Next same-gate batch
 
-Constituent **25** only — Tamil T2 strict direct-scan fidelity audit — **7 source pages total**. Stop before T3 / constituent 26.
+Constituent **25** only — Tamil T3 consolidation/freeze — **7 source pages total**. Stop before English / constituent 26.
