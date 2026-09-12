@@ -4,11 +4,14 @@
 - Tamil: **`verified-complete` / FROZEN**;
 - English E1: **COMPLETE — 12/12**;
 - English E2: **PASS / COMPLETE — 12/12; 5 corrections; 0 unresolved**;
-- E2 corrections: PDF220 caste/religious-rubbish syntax; PDF221 V.P. Singh/Mandal causality; PDF221→222, PDF224→225 and PDF226→227 page-boundary continuations;
-- page correspondence / joins, source-sensitive social-justice material and separate closing note: **PASS**;
-- frozen Tamil changes during E1/E2: **0**;
-- English E3: **READY / NOT STARTED**;
+- English E3: **PASS / COMPLETE — 12/12; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- all **5/5** E2 corrections remain consolidated;
+- stale superseded E1 readings: **0**;
+- page correspondence / joins, semantic completeness, source-sensitive social-justice material and separate closing note: **PASS**;
+- frozen Tamil changes during E1/E2/E3: **0**;
+- repository closure: **NEXT**;
 - source PDF remains uncommitted.
 
 ## Exact next gate
-**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.** Stop before repository closure / constituent 21.
+**Repository closure for constituents 19–20 together.** Stop before constituent 21.

@@ -82,6 +82,14 @@ Tamil state: **`verified-complete` / FROZEN**.
 
 All corrections are consolidated in `translation-en.md`. Page correspondence / joins, names / titles / numerals, rhetoric / repetition, source-sensitive wording and the separate closing note: **PASS**. Frozen Tamil changes during E2: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 12/12 pages; 0 additional corrections; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. Stale superseded E1 readings are absent from the canonical English body. English page records are complete, unique and ordered; exact page correspondence / joins, semantic completeness, names / titles / numerals, rhetoric / repetition, source-sensitive wording and the separate source closing note all pass.
+
+Frozen Tamil changes during E1/E2/E3: **0**. English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituents 19–20 together — 23 English pages total.**
+**Repository closure for constituents 19–20 together.**
