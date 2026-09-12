@@ -2,7 +2,7 @@
 
 **English E1:** **COMPLETE — 18/18 pages**  
 **English E2:** **PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved**
 
 Tamil remains **`verified-complete` / FROZEN**. English E2 independently compared all 18 English pages against frozen `transcription-ta.md`. All confirmed E2 corrections are consolidated in `translation-en.md`; frozen Tamil changes during E2: **0**.
 
@@ -43,6 +43,33 @@ Tamil remains **`verified-complete` / FROZEN**. English E2 independently compare
 - applause marker / separate closing note: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## E3 final verification
+
+**PASS / COMPLETE — 18/18 pages; 1 additional correction; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. E3 identified one remaining narrowing:
+
+1. **PDF274 / printed p.273 — source breadth restored**  
+   E2: `Muslim men, mothers and elders`  
+   Corrected: **`Muslim people, mothers and elders`**  
+   Reason: `முஸ்லிம் பெருமக்களும்` does not specifically narrow the first group to men.
+
+Final end-to-end result:
+
+- English pages checked: **18/18**;
+- missing / duplicate page records: **0 / 0**;
+- stale superseded speech-body readings: **0**;
+- semantic completeness / page correspondence / joins: **PASS**;
+- names / titles / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- full printed English Indira Gandhi letter: **PASS / verbatim**;
+- following Tamil rendering: **PASS / retained and translated**;
+- Articles **356 / 355**, applause marker, source-sensitive wording and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
+No transcription or translation work remains for constituent 24.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 24 — all 18 pages.**
+**Repository-level archival closure for constituent 24.**
