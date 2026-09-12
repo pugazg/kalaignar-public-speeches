@@ -326,6 +326,10 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **COMPLETE — 18/18 pages.** English records cover PDF **270–287** / printed **269–286** exactly once and in source order; missing records **0**. Translation authority was frozen `transcription-ta.md` only. The full printed English Indira Gandhi letter and its following Tamil rendering are both preserved in sequence; the Tamil rendering is translated into English. Frozen Tamil changes during E1: **0**.
 
+## Constituent 24 — English E2
+
+**PASS / COMPLETE — 18/18 pages; 5 corrections; 0 unresolved.** Corrections: PDF273 **1**, PDF274 **1**, PDF275→276 **1**, PDF281 **1**, PDF286 **1**. All are consolidated; frozen Tamil changes during E2 **0**.
+
 ## Next same-gate batch
 
-Constituent **24** only — English E2 independent fidelity review against frozen Tamil — **18 English pages total**. Constituent 25 remains outside the batch.
+Constituent **24** only — English E3 final end-to-end verification — **18 pages total**. Constituent 25 remains outside the batch.
