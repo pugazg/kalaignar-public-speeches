@@ -1446,6 +1446,34 @@ T2 source-sensitive attention points and explicit page-boundary continuations ar
 
 Collection totals: mapped **36/36**; source-gated / Tamil verified / English verified / fully archived **23/36**.
 
+## Constituent 24 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 18/18 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- exact range: PDF **270–287** / printed **269–286** — **18 pages**;
+- contents title/date: `மதுரை மத நல்லிணக்க மாநாடு` / `29-08-98`;
+- all mapped scans PDF **270–287** directly inspected;
+- opening: PDF270 / printed p.269, constituent `24`, titled opening `மதுரை மத நல்லிணக்க மாநாடு`;
+- ending: PDF287 / printed p.286 completes the speech body before `29-8-98 அன்று மதுரையில் மத நல்லிணக்க மாநாட்டில் ஆற்றிய உரை`;
+- date: **29-08-1998**;
+- venue: `மதுரை`;
+- event/role: `மத நல்லிணக்க மாநாடு` / `ஆற்றிய உரை`;
+- separate closing note: **present and kept outside the speech body**;
+- PDF288 / printed p.287 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`;
+- PDF/printed-page relationship: **PDF scan = printed page + 1**;
+- duplicate search against live `main`: **PASS — no existing dedicated archive found**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- Tamil T1: **NOT STARTED**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 24 source gate
+
+- mapped / started / source-gated: **36/36 / 24/36 / 24/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **23/36**;
+- English E1/E2/E3 complete / English verified: **23/36**;
+- fully archived: **23/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 24 — mapped PDF 270–287 / printed 269–286.** Stop before Tamil T1 / constituent 25.
+**Tamil T1 for constituent 24 — 18 source pages total.** Stop before T2 / constituent 25.

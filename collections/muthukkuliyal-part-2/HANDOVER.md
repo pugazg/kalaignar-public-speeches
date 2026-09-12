@@ -25,7 +25,7 @@
 - English E3 complete / English verified: **23 / 36**;
 - fully archived: **23 / 36**.
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 is the next mapped item and has not started**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has passed the source / duplicate / boundary gate; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 10–11 — durable Tamil T3 / frozen-Tamil result
 
@@ -601,6 +601,23 @@ Repository-level archival closure: **PASS / COMPLETE — 14/14 pages**. Constitu
 
 Collection state: **23 / 36 fully archived**. Constituents **1–23 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 24 — durable source-gate result
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 18/18 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- `மதுரை மத நல்லிணக்க மாநாடு`: PDF **270–287** / printed **269–286** — **18 pages**.
+- Contents entry: `மதுரை மத நல்லிணக்க மாநாடு` / `29-08-98` / printed start **269**.
+- All mapped scans PDF **270–287** were directly inspected.
+- PDF270 is the numbered/titled opening: constituent `24`, heading `மதுரை மத நல்லிணக்க மாநாடு`.
+- PDF287 / printed p.286 completes the speech body before the separate closing note `29-8-98 அன்று மதுரையில் மத நல்லிணக்க மாநாட்டில் ஆற்றிய உரை`.
+- The closing note directly establishes **29-08-1998**, venue `மதுரை`, event `மத நல்லிணக்க மாநாடு`, and role `ஆற்றிய உரை`.
+- PDF288 / printed p.287 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`, confirming the ending boundary.
+- PDF/printed-page relationship remains **PDF scan = printed page + 1**.
+- Duplicate search: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/madurai-madha-nallinakka-maanadu/`.
+- Source PDF remains uncommitted.
+- Tamil T1: **NOT STARTED**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 24 — `மதுரை மத நல்லிணக்க மாநாடு`, mapped PDF 270–287 / printed 269–286.** Stop before Tamil T1 / constituent 25.
+**Tamil T1 for constituent 24 — 18 source pages total.** Stop before T2 / constituent 25.

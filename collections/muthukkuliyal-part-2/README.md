@@ -7,7 +7,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **23 / 36**
+- speech archives started / source-gated: **24 / 36**
 - Tamil T1 complete: **23 / 36**
 - Tamil T2 complete: **23 / 36**
 - Tamil T3 complete / Tamil verified: **23 / 36**
@@ -16,7 +16,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - English E3 complete: **23 / 36**
 - fully archived: **23 / 36**
 
-Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 is the next mapped item and has not started**.
+Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has passed the source / duplicate / boundary gate; Tamil T1 is READY / NOT STARTED**.
 
 ## Constituents 7–9 — closed archive
 
@@ -554,6 +554,22 @@ Collection state: Tamil verified **23/36**; English E1/E2/E3 complete / English 
 
 Collection state: **23 / 36 fully archived**. Constituents **1–23 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 24 — source gate complete
+
+Source / duplicate / boundary gate: **PASS / COMPLETE — 18/18 source pages; duplicate unresolved 0; boundary unresolved 0**.
+
+- **24 — மதுரை மத நல்லிணக்க மாநாடு:** PDF **270–287** / printed **269–286** — **18 pages**.
+- Contents entry: `மதுரை மத நல்லிணக்க மாநாடு` / `29-08-98`.
+- All mapped scans PDF **270–287** were directly inspected.
+- PDF270 opens numbered constituent 24 with titled opening `மதுரை மத நல்லிணக்க மாநாடு`.
+- PDF287 ends the speech body before the separate closing note `29-8-98 அன்று மதுரையில் மத நல்லிணக்க மாநாட்டில் ஆற்றிய உரை`, establishing **29-08-1998**, venue `மதுரை`, event and role `ஆற்றிய உரை`.
+- PDF288 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`.
+- Duplicate search against live `main`: **PASS — no existing dedicated archive found**.
+- Dedicated archive: `speeches/madurai-madha-nallinakka-maanadu/`.
+- Tamil T1: **NOT STARTED**; source PDF remains uncommitted.
+
+Collection state: source-gated **24/36**; Tamil verified **23/36**; English verified **23/36**; fully archived **23/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 24 — `மதுரை மத நல்லிணக்க மாநாடு`, mapped PDF 270–287 / printed 269–286.** Stop before Tamil T1 / constituent 25.
+**Tamil T1 for constituent 24 — 18 source pages total.** Stop before T2 / constituent 25.

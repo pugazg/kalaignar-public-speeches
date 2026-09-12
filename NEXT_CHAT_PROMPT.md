@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 24 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 24 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source or fidelity evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–23 are CLOSED / FULLY ARCHIVED**. Constituent **24 has passed the source / duplicate / boundary gate**.
 
 ## Controlling source
 
@@ -16,38 +16,38 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–23 a
 - source PDF must **not** be committed
 - stable constituent-body relationship: **PDF scan = printed page + 1**
 
-## Durable collection state
+## Durable state
 
 - mapped: **36/36**
-- started / source-gated: **23/36**
+- started / source-gated: **24/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **23/36**
 - English E1/E2/E3 complete / English verified: **23/36**
 - fully archived: **23/36**
 
-## Next mapped constituent
+## Constituent 24
 
-**24 — `மதுரை மத நல்லிணக்க மாநாடு`**
+`மதுரை மத நல்லிணக்க மாநாடு` — `speeches/madurai-madha-nallinakka-maanadu/`
 
+- source gate: **PASS / COMPLETE — 18/18**
 - contents date: **29-08-98**
-- mapped printed pages: **269–286**
-- mapped PDF scans: **270–287**
-- mapped extent: **18 pages**
-- PDF288 / printed p.287 is mapped as the start of constituent 25: `அன்னை தெரசா நூல் வெளியீட்டு விழா`
+- PDF **270–287**
+- printed **269–286**
+- **18 source pages**
+- page heading: `மதுரை மத நல்லிணக்க மாநாடு`
+- closing note: `29-8-98 அன்று மதுரையில் மத நல்லிணக்க மாநாட்டில் ஆற்றிய உரை`
+- date: **29-08-1998**
+- venue: `மதுரை`
+- event: `மத நல்லிணக்க மாநாடு`
+- role: `ஆற்றிய உரை`
+- PDF288 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **NOT STARTED**
 
 ## Exact activity
 
-Perform the **source / duplicate / boundary gate for constituent 24 only**.
-
-1. Inspect mapped scans **270–287** and next-boundary scan **288** directly.
-2. Confirm the exact numbered/titled opening.
-3. Confirm the exact speech-body ending and preserve any separate closing note outside the body.
-4. Establish date / venue / event / role only from explicit source evidence; do not infer unsupported geographic metadata.
-5. Confirm the PDF/printed-page relationship.
-6. Search live `main` for duplicate or pre-existing dedicated archive evidence before creating a new speech directory.
-7. Create a dedicated archive only after the gate passes.
-
-Source pixels are controlling. Do not silently normalize or context-correct source wording.
+Perform **Tamil T1 for constituent 24 — all 18 source pages**. Preserve exact source wording and page boundaries, and keep the separate closing note outside the speech body.
 
 ## STOP RULE
 
-Stop after the constituent-24 source / duplicate / boundary gate. **Do not start Tamil T1, constituent 25, English work, or repository closure in the same activity.**
+Stop after Tamil T1 for constituent 24. **Do not start Tamil T2, constituent 25, English work, or repository closure in the same activity.**

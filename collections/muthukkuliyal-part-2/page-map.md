@@ -70,7 +70,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 21 | `kavikko-abdul-raguman-manivizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 22 | `kanchi-manimozhiyar-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 24–36 | — | not started |
+| 24 | `madurai-madha-nallinakka-maanadu` | **Source gate complete — Tamil T1 pending** |
+| 25–36 | — | not started |
 
 ## Constituents 10–11 — archival closure
 
@@ -297,6 +298,18 @@ English E1 **21/21 COMPLETE**; English E2 **21/21 PASS — 5 corrections / 0 unr
 
 **PASS / COMPLETE — FULLY ARCHIVED — 14/14 pages.** Tamil and English remain verified-complete; correction counts, page order, source range and closing-note handling agree. Fully archived total: **23 / 36**.
 
+## Constituent 24 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 18/18 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **270–287** / printed **269–286** — **18 pages**.
+- Contents entry: `மதுரை மத நல்லிணக்க மாநாடு` / `29-08-98`.
+- All mapped scans PDF **270–287** directly inspected.
+- Opening: PDF270 / printed p.269, constituent `24`, titled opening `மதுரை மத நல்லிணக்க மாநாடு`.
+- Closing note: `29-8-98 அன்று மதுரையில் மத நல்லிணக்க மாநாட்டில் ஆற்றிய உரை`; date **29-08-1998**; venue `மதுரை`; event/role directly supported.
+- PDF288 / printed p.287 begins constituent 25 `அன்னை தெரசா நூல் வெளியீட்டு விழா`.
+- Tamil T1 has **NOT STARTED**; source PDF remains uncommitted.
+
 ## Next same-gate batch
 
-Constituent **24** — source / duplicate / boundary gate — mapped PDF **270–287** / printed **269–286**. Inspect next-boundary PDF **288**. Stop before Tamil T1 / constituent 25.
+Constituent **24** only — Tamil T1 first-pass transcription — **18 source pages total**. Stop before T2 / constituent 25.
