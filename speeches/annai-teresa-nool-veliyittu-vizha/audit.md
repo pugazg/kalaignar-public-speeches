@@ -35,6 +35,19 @@
 
 This T1 layer is not yet a final fidelity claim.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 7/7 source pages; 1 correction; 0 unresolved.**
+
+- PDF289 / printed p.288: `அண்டபிரண்டத்திற்கும்` → `அண்டபகிரண்டத்திற்கும்`;
+- all mapped pages PDF **288–294** re-read directly against source pixels;
+- explicit page joins **288→289** and **290→291**: **PASS**;
+- names / numerals / punctuation / quotations / repetitions / applause-laughter markers / source-sensitive forms: **PASS**;
+- separate closing note: **PASS**;
+- canonical page records: **7/7**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 25 — all 7 source pages.**
+**Tamil T3 consolidation/freeze for constituent 25 — 7 source pages total.**
