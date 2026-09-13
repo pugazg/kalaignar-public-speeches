@@ -13,7 +13,7 @@
 - started / source-gated: **29/36**
 - Tamil T1 complete: **28/36**
 - Tamil T2 complete: **29/36**
-- Tamil T3 complete / Tamil verified: **28/36**
+- Tamil T3 complete / Tamil verified: **29/36**
 - English verified: **28/36**
 - fully archived: **28/36**
 - constituents **1–28 CLOSED / FULLY ARCHIVED**
@@ -119,6 +119,20 @@ Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verifi
 
 Collection state: mapped/source-gated **36/36 / 29/36**; Tamil T1/T2 **29/36**; Tamil T3 / Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — durable Tamil T3 / frozen-Tamil result
+
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**.
+- All **3/3** T2 corrections remain consolidated.
+- Superseded T1 body readings are absent.
+- Canonical page records remain complete / unique / ordered.
+- All seven joins pass.
+- Source-sensitive names/forms/quotations/numerals remain preserved.
+- Title/action distinction and separate closing note remain intact.
+- Speech-body Tamil changes during T3: **0**.
+- Tamil: **`verified-complete` / FROZEN**.
+
+Collection state: mapped/source-gated **36/36 / 29/36**; Tamil T1/T2/T3 / Tamil verified **29/36**; English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.** Stop before English / constituent 30.
+**English E1 first-pass translation for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages, from frozen Tamil only.** Stop before E2 / constituent 30.
