@@ -60,6 +60,24 @@ Corrections:
 - separate closing note: **PASS**;
 - unresolved: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 13/13 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **5/5** T2 corrections remain consolidated;
+- superseded T1 speech-body readings: **0**;
+- canonical records: **13/13**, complete / unique / ordered;
+- all twelve joins: **PASS**;
+- names / titles / musical-person names / `யாழ்` / `கமகம்`: **PASS**;
+- Tamil Thai / Bharathidasan / `துப்பறியும் சாம்பு` / Tirukkural quotations: **PASS**;
+- English phrases / applause-laughter markers: **PASS**;
+- contents / page-heading / closing-note variants and separate closing note: **PASS**;
+- T3 additional source corrections: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- T3 speech-body changes: **0**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 13 source pages.**
+**English E1 first-pass translation — all 13 pages from frozen Tamil only.**
