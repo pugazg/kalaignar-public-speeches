@@ -789,43 +789,63 @@ Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0** for both constituents.
 
 ## Constituents 35–36 — source / duplicate / boundary gates
 
-**PASS / COMPLETE — 17/17 source pages total; duplicate unresolved 0; boundary unresolved 0.**
+**PASS / COMPLETE — 17/17 source pages; duplicate unresolved 0; boundary unresolved 0.**
 
-- constituent 35: PDF **408–415** / printed **407–414**, all **7/7** joins PASS;
-- constituent 36: PDF **416–424** / printed **415–423**, all **8/8** joins PASS;
-- terminal PDF425: non-speech back-cover portrait / publisher page;
-- source binaries remain uncommitted.
+## Constituents 35–36 — Tamil T1 / T2
 
-## Constituents 35–36 — Tamil T1
+- Tamil T1: **17/17 COMPLETE**;
+- Tamil T2: **17/17 PASS / COMPLETE; 3 corrections; 0 unresolved**;
+- constituent 35 corrections: **3**;
+- constituent 36 corrections: **0**;
+- all **15/15** joins: **PASS**.
 
-**COMPLETE — 17/17 canonical page records; missing 0; unreadable/unknown 0.**
+## Constituents 35–36 — Tamil T3
 
-## Constituents 35–36 — Tamil T2
+**PASS / COMPLETE — 17/17; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
 
-**PASS / COMPLETE — 17/17 source pages; 3 corrections; 0 unresolved.**
+- constituent 35: **8/8**, all **3/3** T2 corrections consolidated, Tamil **`verified-complete` / FROZEN**;
+- constituent 36: **9/9**, Tamil **`verified-complete` / FROZEN**;
+- speech-body Tamil changes during T3: **0**.
+
+## Constituents 35–36 — English E1 / E2 / E3
+
+**PASS / COMPLETE — 17/17 English page records; 0 unresolved.**
 
 ### Constituent 35
-- **8/8 PASS / COMPLETE**;
-- PDF410 / p.409: `இன்னைக்கும்` → `இன்றைக்கும்`;
-- PDF412 / p.411: `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
-- PDF415 / p.414: `கேட்டின்ற` → `கேட்கின்ற`;
-- all **7/7** joins / source-sensitive checks: **PASS**.
+- E1: **8/8 COMPLETE**;
+- E2: **8/8; 0 corrections; 0 unresolved**;
+- E3: **8/8; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**.
 
 ### Constituent 36
-- **9/9 PASS / COMPLETE**;
-- corrections: **0**;
-- all **8/8** joins / source-sensitive names, quotations, anecdotes, applause markers, title-spacing distinction and separate closing note: **PASS**.
+- E1: **9/9 COMPLETE**;
+- E2: **9/9; 0 corrections; 0 unresolved**;
+- E3: **9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**.
 
-## Collection totals after final Tamil T2
+Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0** for both constituents.
+
+## Constituents 35–36 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 17/17 pages.**
+
+- Tamil / English: **verified-complete** for both;
+- closure speech-body changes: Tamil **0**, English **0**;
+- terminal PDF425: **non-speech / PASS**;
+- source binaries remain uncommitted;
+- no transcription or translation work remains pending.
+
+## Collection closure totals
 
 - mapped: **36/36**;
 - source-gated: **36/36**;
-- Tamil T1 complete: **36/36**;
-- Tamil T2 complete: **36/36**;
-- Tamil T3 complete / Tamil verified: **34/36**;
-- English verified: **34/36**;
-- fully archived: **34/36**.
+- Tamil T1: **36/36**;
+- Tamil T2: **36/36**;
+- Tamil T3 / Tamil verified: **36/36**;
+- English E1/E2/E3 / English verified: **36/36**;
+- fully archived: **36/36**;
+- constituents **1–36: CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituents 35 and 36 — 17 pages total.**
+**None — collection closure PASS / COMPLETE.**
