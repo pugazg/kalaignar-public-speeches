@@ -1,10 +1,10 @@
 # அய்யணன் அம்பலம் படத்திறப்பு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 8 / 8 source pages; 1 correction; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 8 / 8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **400–407** / printed **399–406**  
 **Controlling transcription source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2_part_001_pages_380-425.pdf` — extract **21–28**
 
-Tamil T1 is complete. Tamil T2 strict direct-scan fidelity audit is **PASS / COMPLETE**; the attached split-PDF scan pixels remain controlling. Tamil T3 has **not** begun.
+Tamil T1 and T2 are complete. Tamil T3 consolidation / freeze is **PASS / COMPLETE**. The T2 correction remains consolidated; no speech-body Tamil changed during T3.
 
 ## PDF 400 / printed p.399
 
@@ -95,4 +95,17 @@ Correction consolidated into the canonical transcription:
 
 All **7/7** page joins, source punctuation, quotations, repetitions, names, numerals, the Pasumpon Thevar quotation, source-sensitive spacing/forms, the event-title / closing-action distinction, and the separate closing note were rechecked directly against the attached split-PDF scans.
 
-Tamil T3 consolidation / freeze: **READY / NOT STARTED**.
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- PDF401 retains the corrected source reading `எடுத்துக்காட்டியதைப் போல்`;
+- canonical page records remain **8/8**, complete / unique / ordered;
+- all **7/7** joins remain intact;
+- source-sensitive punctuation, quotations, repetitions, names, numerals, the Pasumpon Thevar quotation, event-title / closing-action distinction, and separate closing note remain intact;
+- venue remains **not explicitly stated / not inferred**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+English E1: **READY / NOT STARTED**.
