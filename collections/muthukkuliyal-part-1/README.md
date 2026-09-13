@@ -10,7 +10,8 @@ Received so far:
 
 - split 001 — `...part_001_pages_1-17.pdf` — scans **1–17**, 17 pages, **48,686,831** bytes, SHA-256 `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d`;
 - split 002 — `...part_002_pages_18-33.pdf` — scans **18–33**, 16 pages, **47,901,860** bytes, SHA-256 `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861`;
-- continuity: **PASS — exact 1–33 coverage, no gap / no overlap**;
+- split 003 — `...part_003_pages_34-49.pdf` — scans **34–49**, 16 pages, **48,934,218** bytes, SHA-256 `a5b47180a171b161f45d6c796ef5c90d5f1a66478191fdc36401dc5d69f41549`;
+- continuity: **PASS — exact 1–49 coverage, no gap / no overlap**;
 - parsed text layer: **none**; rendered scan pixels are controlling;
 - source / split binaries: **not committed**.
 
@@ -49,27 +50,46 @@ Split 002 covers original scans **18–33** / printed pages **17–32**.
 
 - constituent 1 `வள்ளுவர் வழி எது?` — PDF **18–28** / printed **17–27** — **11/11 source-gated / PASS**;
 - constituent 2 `வள்ளுவர்க்கோர் ஆலயம்` — PDF **29–32** / printed **28–31** — **4/4 source-gated / PASS**;
-- constituent 3 `கம்பர் விழா (1)` — opening confirmed at PDF **33** / printed **32**; source gate remains incomplete pending later pages;
-- all boundaries available in this split agree with the contents map.
+- constituent 3 `கம்பர் விழா (1)` — opening confirmed at PDF **33** / printed **32**.
 
-Constituent 1 closing note:
-`1972-ஆம் ஆண்டு அக்டோபர் திங்கள் 4-ஆம் நாள் / காந்தியடிகள் - வள்ளுவர் விழாவில் / நாவலர் வெளியிட்டுப் பேசியது.`
+## Split 003 source findings
 
-Constituent 2 closing note:
-`1973-ஆம் ஆண்டு ஏப்ரல் திங்கள் 27-ஆம் நாள் / மயிலை வள்ளுவர் நினைவாலயம் திருப்பணி / அடிக்கல் நாட்டு விழாவில் பேசியது.`
+Split 003 covers original scans **34–49** / printed pages **33–48** and continues seamlessly from split 002.
+
+### Constituent 3 — `கம்பர் விழா (1)`
+
+**SOURCE-GATED / PASS — 9/9 pages total.**
+
+- full range: PDF **33–41** / printed **32–40**;
+- PDF33 is in split 002; PDF34–41 are split 003 extract pages 1–8;
+- cross-split join **33→34 PASS**;
+- all joins **8/8 PASS**;
+- closing note on PDF41:
+  `1969-ஆம் ஆண்டு ஏப்ரல் திங்கள் / காரைக்குடி கம்பர் விழாவில் / ஆற்றிய உரை.`;
+- source gives **April 1969 only; exact day not stated**;
+- source-explicit venue / event / role: **காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
+- duplicate / boundary unresolved: **0 / 0**.
+
+### Constituent 4 — `கம்பர் விழா (2)`
+
+- opening PDF **42** / printed **41**: **VERIFIED**;
+- current inspected coverage: PDF **42–49** / printed **41–48** — **8 pages**;
+- available joins **42→43 ... 48→49 = 7/7 PASS**;
+- provisional full range from contents: PDF **42–56** / printed **41–55** — **15 pages**;
+- source gate remains **INCOMPLETE** because PDF50–56 are not yet supplied.
 
 ## Workflow state
 
-- source splits received: **2/39**;
-- original scan coverage received: **1–33 / 641**;
+- source splits received: **3/39**;
+- original scan coverage received: **1–49 / 641**;
 - contents: **CAPTURED 61/61**;
-- page map: **PROVISIONAL FROM CONTENTS; boundaries directly verified through constituent 2**;
-- source/body offset: **CONFIRMED — PDF = printed + 1 through scan 33**;
-- constituent source gates: **2/61 complete**;
-- active source intake: constituent **3**, opening confirmed only;
+- page map: **PROVISIONAL FROM CONTENTS; boundaries directly verified through constituent 3**;
+- source/body offset: **CONFIRMED — PDF = printed + 1 through scan 49**;
+- constituent source gates: **3/61 complete**;
+- active source intake: constituent **4**, PDF42–49 inspected;
 - Tamil transcription: **NOT STARTED**;
 - English translation: **NOT STARTED**.
 
 ## Exact next activity
 
-Ingest the **next split beginning at original scan 34**, continue constituent 3 from PDF **33** / printed p.32, verify its closing boundary, and continue source intake only. **Do not begin transcription yet.**
+Ingest the **next split beginning at original scan 50**, continue `கம்பர் விழா (2)`, verify its closing note / boundary when PDF56 becomes available, and continue source intake only. **Do not begin transcription yet.**
