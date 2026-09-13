@@ -1,86 +1,74 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 32 Tamil T3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 33 source gate
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–31 are CLOSED / FULLY ARCHIVED**. Constituent **32 Tamil T1/T2 are COMPLETE and Tamil T3 is READY**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–32 are CLOSED / FULLY ARCHIVED**. Constituent **33 has not yet been source-gated**.
 
 ## Controlling source
 
 `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
 - SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- size: **232,470,104 bytes**
+- physical scans: **425**
 - source PDF must **not** be committed
-- stable constituent-body relationship: **PDF scan = printed page + 1**
+- stable constituent-body relationship for this collection: **PDF scan = printed page + 1**
 
 ## Durable collection state
 
-- mapped / source-gated: **36/36 / 32/36**
-- Tamil T1 complete: **32/36**
-- Tamil T2 complete: **32/36**
-- Tamil T3 complete / Tamil verified: **31/36**
-- English E1/E2/E3 complete / English verified: **31/36**
-- fully archived: **31/36**
-- constituents **1–31: CLOSED / FULLY ARCHIVED**
-- constituent **32: Tamil T3 READY**
+- mapped: **36/36**
+- source-gated / started: **32/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **32/36**
+- English E1/E2/E3 complete / English verified: **32/36**
+- fully archived: **32/36**
+- constituents **1–32: CLOSED / FULLY ARCHIVED**
 
-## Constituent 31 closure
+## Constituent 32 closure
 
-`சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா` is **FULLY ARCHIVED**.
+`சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா` is **FULLY ARCHIVED**.
 
-- PDF **364–371** / printed **363–370**
+- PDF **372–390** / printed **371–389**
 - Tamil T2: **3 corrections**
 - Tamil T3: **0 additional source corrections / 0 consolidation repairs**
-- English E2: **2 corrections**
-- English E3: **0 additional corrections**
+- English E2: **7 corrections**
+- English E3: **1 additional correction**
 - unresolved: **0**
+- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**
 - closure speech-body changes: Tamil **0**, English **0**
 - root catalogue synchronization: **PASS**
 
-## Constituent 32
+## Constituent 33 mapped contents row
 
-`சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`  
-Directory: `speeches/chennai-erodu-tamizhanban-noolgal-veliyittu-vizha/`
+Contents title: **`சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`**
 
-- source range: PDF **372–390** / printed **371–389** — **19 pages**
-- source gate: **PASS / COMPLETE**
-- Tamil T1: **COMPLETE — 19/19**
-- Tamil T2: **PASS / COMPLETE — 19/19; 3 corrections; 0 unresolved**
-- all **18/18** joins: **PASS**
-- Tamil T3: **READY / NOT STARTED**
-- separate source closing note remains outside speech body
-- contents `வெளியீட்டுவிழா` versus page-heading / closing-note `வெளியீட்டு விழா` remain preserved separately
-- embedded poem lineation remains preserved
-
-### Constituent 32 T2 corrections
-
-1. PDF383 / p.382: `அவரே இராவணனாக நடித்து தமிழகமெங்கும்` → `அவரே இராவணனாக நடித்துத் தமிழகமெங்கும்`
-2. PDF386 / p.385: `நானே வரிகளில் ஒரு கவிதை` → `நான்கே வரிகளில் ஒரு கவிதை`
-3. PDF390 / p.389: restored printed typo contrast `‘உன் திருமணத்திற்கு’ ... ‘உன் திருமணத்திற்கு’` → `‘உன் திருமணத்திற்கு’ ... ‘உன் திருணமத்திற்கு’`
-
-T2 also passed:
-- all embedded poems / source lineation;
-- `கவுதமன்` / அகல்யா–இந்திரன் passage;
-- `சுப்பிரமணியர் துதி அமுது` / `கதர் இராட்டினப் பாட்டு`;
-- Bharathi / Bharathidasan quotations;
-- `நடவு செய்த தோழர்கூலி` stanza;
-- `இராமன் / இராவணர்களோடு` stanza;
-- `நீதி தேவன் மயக்கம்`;
-- Nehru / Srinivasa Iyengar references;
-- `தென்னவன் காதை`;
-- applause markers;
-- `சிராஜுல் மில்லத் அப்துல் சமது`;
-- title-spacing variants and separate closing note.
+- contents date: **03-11-98**
+- printed pages: **390–398**
+- expected PDF scans: **391–399**
+- expected source pages: **9**
+- prior boundary: PDF390 / printed p.389 closes constituent 32
+- next mapped constituent 34 begins at printed p.399 / PDF400
+- actual page heading, ending/closing note, date/venue/event/role wording, and all internal joins must be verified from source pixels during the gate
 
 ## Exact activity
 
-Perform **Tamil T3 consolidation / freeze for constituent 32 — all 19 pages**.
+Perform **source / duplicate / boundary gate for constituent 33 only — expected PDF 391–399 / printed 390–398, 9 pages**.
 
-Verify all **3/3** T2 corrections remain consolidated, superseded T1 body readings are absent, canonical page records remain complete / unique / ordered, all 18 joins pass, and all source-sensitive poems, quotations, names, historical/literary references, applause markers, title-spacing variants and separate closing-note handling remain intact. Make only confirmed consolidation repairs if needed; do not reopen T2 source reading unless a genuine inconsistency is found.
+Required checks:
 
-If T3 passes, mark Tamil **`verified-complete` / FROZEN** and leave English E1 as the next activity.
+1. inspect PDF390 / printed p.389 as the prior-boundary witness;
+2. inspect PDF391 and verify constituent number / actual page heading;
+3. inspect every candidate scan PDF391–399 for continuity and all eight internal joins;
+4. inspect PDF399 for speech ending and separate closing note;
+5. inspect PDF400 as the next-boundary witness for constituent 34;
+6. establish source-backed date / venue / event / role from the closing note;
+7. preserve any contents / page-heading / closing-note wording or spacing variants separately;
+8. check live `main` for any existing dedicated archive / duplicate;
+9. record duplicate unresolved and boundary unresolved explicitly;
+10. create/synchronize the constituent control files only after the source identity and range are established;
+11. do **not** commit the source PDF.
 
 ## STOP RULE
 
-Stop after constituent 32 Tamil T3. **Do not begin English E1 or constituent 33 source gate in the same activity.**
+Stop after constituent 33 source / duplicate / boundary gate. **Do not begin Tamil T1 in the same activity.**
