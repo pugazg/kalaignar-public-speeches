@@ -13,7 +13,7 @@
 - started / source-gated: **34/36**
 - Tamil T1 complete: **34/36**
 - Tamil T2 complete: **34/36**
-- Tamil T3 complete / Tamil verified: **32/36**
+- Tamil T3 complete / Tamil verified: **34/36**
 - English verified: **32/36**
 - fully archived: **32/36**
 - constituents **1–32 CLOSED / FULLY ARCHIVED**
@@ -385,27 +385,33 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **33–34 Tamil T1 and T2 are now durable on live `main`**.
+Constituents **33–34 Tamil T3 are now PASS / COMPLETE and frozen**.
 
 ### Constituent 33
 - PDF **391–399** / printed **390–398** — **9/9**;
 - Tamil T1: **COMPLETE — 9/9**;
 - Tamil T2: **PASS / COMPLETE — 9/9; 2 corrections; 0 unresolved**;
-- corrections: PDF395 `நரேந்திரபூர்` → `நரேந்தர்பூர்`; `ரதிஷ்யாம்ஷா` → `ரதிஷியாம்ஷா`;
-- Tamil T3: **READY / NOT STARTED**.
+- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- all **2/2** T2 corrections remain consolidated;
+- speech-body Tamil changes during T3: **0**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
 
 ### Constituent 34
 - PDF **400–407** / printed **399–406** — **8/8**;
 - Tamil T1: **COMPLETE — 8/8**;
 - Tamil T2: **PASS / COMPLETE — 8/8; 1 correction; 0 unresolved**;
-- correction: PDF401 `எடுத்துக்காட்டியதைப் போல` → `எடுத்துக்காட்டியதைப் போல்`;
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- the T2 correction remains consolidated;
 - venue remains **not explicitly stated / not inferred**;
-- Tamil T3: **READY / NOT STARTED**.
+- speech-body Tamil changes during T3: **0**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
 
-Combined batch: **17/17 T1 complete; 17/17 T2 checked; 3 corrections; 0 unresolved**.
+Combined batch: **17/17 T3 complete; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**.
 
-Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1 **34/36**; Tamil T2 **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1/T2/T3 / Tamil verified **34/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total.**
+**English E1 first-pass translation for constituents 33 and 34 — 17 pages total, frozen Tamil authority only.**
