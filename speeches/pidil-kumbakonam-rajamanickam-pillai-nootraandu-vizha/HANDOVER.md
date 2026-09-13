@@ -30,6 +30,15 @@
 - separate closing note remains outside speech body;
 - Tamil T2: **READY / NOT STARTED**.
 
+## Durable Tamil T2 result
+
+- Tamil T2: **PASS / COMPLETE — 9/9**;
+- corrections: **0**;
+- unresolved: **0**;
+- all **8/8** joins: **PASS**;
+- source-sensitive names/forms, quotations, anecdotes, applause markers, title-spacing distinction and separate closing note: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 36 — all 9 pages.**
+**Tamil T3 consolidation / freeze for constituent 36 — all 9 pages.**
