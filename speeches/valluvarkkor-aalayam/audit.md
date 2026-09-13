@@ -1,23 +1,16 @@
 # Audit — வள்ளுவர்க்கோர் ஆலயம்
 
-## Source / duplicate / boundary gate
-
-**PASS / COMPLETE — 4/4 source pages; duplicate unresolved 0; boundary unresolved 0.**
-
-- original PDF **29–32** / printed **28–31**;
-- split 002 extract **12–15**;
-- opening PDF29: **PASS** — numbered constituent 2 / expected title;
-- all **3/3** internal joins: **PASS**;
-- ending PDF32 + separate closing note: **PASS**;
-- prior boundary PDF28: constituent 1 closes;
-- next boundary PDF33: constituent 3 begins;
-- live-main duplicate: **none found / PASS**;
-- source binaries committed: **No**.
-
-Closing note preserved exactly:
-
-`1973-ஆம் ஆண்டு ஏப்ரல் திங்கள் 27-ஆம் நாள்
-மயிலை வள்ளுவர் நினைவாலயம் திருப்பணி
-அடிக்கல் நாட்டு விழாவில் பேசியது.`
-
-Tamil T1: **NOT STARTED — blocked pending full collection source intake**.
+- source / duplicate / boundary gate: **PASS / COMPLETE — 4/4**;
+- PDF **29–32** / printed **28–31**;
+- joins: **3/3 PASS**;
+- Tamil T1: **4/4 COMPLETE**;
+- Tamil T2: **4/4 PASS; unresolved 0**;
+- Tamil T3: **4/4 PASS; additional source corrections 0; consolidation repairs 0; unresolved 0**;
+- Tamil final: **`verified-complete` / FROZEN**;
+- English E1: **4/4 COMPLETE**;
+- E2: **4/4 PASS; corrections 0; unresolved 0**;
+- E3: **4/4 PASS; additional corrections 0; unresolved 0**;
+- English final: **`verified-complete`**;
+- repository closure: **FULLY ARCHIVED**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source binary committed: **No**.
