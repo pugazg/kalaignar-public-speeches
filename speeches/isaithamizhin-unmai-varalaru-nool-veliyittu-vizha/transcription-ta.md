@@ -1,6 +1,6 @@
 # ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 13/13 source pages; 5 corrections; 0 unresolved**  
+**Status:** `verified-complete` — Tamil T3 **PASS / COMPLETE — 13/13 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **351–363** / printed **350–362**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -171,6 +171,30 @@ T2 verification result:
 
 This completes T2 only; Tamil is **not yet frozen**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 13/13 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+T3 consolidation verified:
+
+- all **5/5** T2 corrections remain present in the canonical speech body;
+- all superseded T1 speech-body readings are absent;
+- canonical page records: **13/13**, complete / unique / ordered;
+- all twelve joins **351→352, 352→353, 353→354, 354→355, 355→356, 356→357, 357→358, 358→359, 359→360, 360→361, 361→362, 362→363**: **PASS**;
+- names / titles / musical-person names: **PASS**;
+- `யாழ்` / `கமகம்` passages: **PASS**;
+- Tamil Thai quotation / Bharathidasan reference / `துப்பறியும் சாம்பு`: **PASS**;
+- Tirukkural quotations: **PASS**;
+- English phrases `Contribution of Tamil to Karnatic Music`, `New light on the Musical History of Tamil Nadu`, `Out of the Way`: **PASS**;
+- applause / laughter markers: **PASS**;
+- contents / page-heading / closing-note spacing variants: **PASS / preserved separately**;
+- separate source closing note: **PASS / outside speech body**;
+- additional source corrections at T3: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**.
+
+Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed during T3.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 30 — all 13 pages.**
+**English E1 first-pass translation for constituent 30 — all 13 pages from frozen `transcription-ta.md` only.**
