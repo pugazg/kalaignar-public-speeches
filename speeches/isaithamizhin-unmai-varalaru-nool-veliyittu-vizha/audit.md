@@ -38,6 +38,28 @@
 - method: direct visual reading of the controlling scans;
 - this is T1 only; no T2 fidelity claim is made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 13/13 source pages; 5 corrections; 0 unresolved.**
+
+Corrections:
+1. PDF355 / p.354: `கிரேக்க நாடு கதை` → `கிரேக்க நாட்டு கதை`.
+2. PDF356 / p.355: `இதற்கு எல்லாம்` → `இதற்கெல்லாம்`.
+3. PDF358 / p.357: `எழுதியினார்` → `எழுதினார்`.
+4. PDF362 / p.361: `பாடப்படாதினால்` → `பாட்டுப்பாடினால்`.
+5. PDF363 / p.362: removed unsupported full stop before `(கைத்தட்டல்)`.
+
+- direct source scans checked: **13/13**;
+- canonical records complete / unique / ordered: **13/13**;
+- missing / duplicate: **0 / 0**;
+- all twelve joins: **PASS**;
+- names / titles / musical-person names / `யாழ்` / `கமகம்`: **PASS**;
+- Tamil Thai / Bharathidasan / `துப்பறியும் சாம்பு` / Tirukkural quotations: **PASS**;
+- English phrases and applause/laughter markers: **PASS**;
+- contents / page-heading / closing-note variants: **PASS**;
+- separate closing note: **PASS**;
+- unresolved: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 13 source pages.**
+**Tamil T3 consolidation / freeze — all 13 source pages.**
