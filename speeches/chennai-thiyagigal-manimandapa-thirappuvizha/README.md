@@ -36,7 +36,7 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
-| English E1/E2/E3 | **E1 READY / NOT STARTED** |
+| English E1/E2/E3 | **E1 COMPLETE — 8/8; E2 READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -67,6 +67,14 @@ All **3/3** T2 corrections remain consolidated; superseded T1 body readings are 
 
 Tamil is now **`verified-complete` / FROZEN**.
 
+## English E1
+
+**COMPLETE — 8/8 pages.**
+
+Translation authority was frozen `transcription-ta.md` only. English page records preserve PDF **343–350** / printed **342–349**, all seven joins, rhetoric / repetition / quotations, source-sensitive names and titles, Periyar/Anna/Gandhi passages, the Ganapathi recollection, quantities **50 / 1250 / 250 / 1000**, Bharathi quotations, title/action distinction and the separate closing note. Missing English page records: **0**. Frozen Tamil changes during E1: **0**.
+
+English E2 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 29 — all 8 pages, using only frozen `transcription-ta.md`.**
+**English E2 page-by-page fidelity review for constituent 29 — all 8 English page records against frozen Tamil.**
