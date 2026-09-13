@@ -73,7 +73,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **Tamil verified-complete / FROZEN — English E1 pending** |
+| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
 | 29–36 | — | not started |
 
@@ -84,8 +84,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - Tamil T1 complete: **27/36**
 - Tamil T2 complete: **27/36**
 - Tamil T3 complete / Tamil verified: **27/36**
-- English E1/E2/E3 complete / English verified: **26/36**
-- fully archived: **26/36**
+- English E1/E2/E3 complete / English verified: **27/36**
+- fully archived: **27/36**
 - constituents **1–26: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
@@ -128,6 +128,16 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved.** All T2 corrections remain consolidated; superseded canonical body readings are absent; canonical page records / joins, source-sensitive readings, Tamil poem, Exnora wordplay, title variants and separate closing-note handling pass. Tamil is **`verified-complete` / FROZEN**.
 
+## Constituent 27 — English / archival closure
+
+- English E1: **COMPLETE — 16/16**
+- English E2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**
+- English E3: **PASS / COMPLETE — 16/16; 2 additional corrections; 0 unresolved**
+- English state: **`verified-complete`**
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**
+- Tamil / English closure speech-body changes: **0 / 0**
+- root catalogue synchronization: **PASS**
+
 ## Next same-gate batch
 
-Constituent **27** only — English E1 first-pass translation from frozen Tamil — **16 verified Tamil pages**. Stop before E2 / constituent 28 Tamil T1.
+Constituent **28** only — Tamil T1 first-pass transcription — **12 source pages**, PDF **331–342** / printed **330–341**.
