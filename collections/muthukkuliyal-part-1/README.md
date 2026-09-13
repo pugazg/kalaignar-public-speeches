@@ -1,108 +1,128 @@
 # முத்துக் குளியல் — பாகம் I
 
-Source-intake layer for `முத்துக் குளியல் / பாகம் - I` by **கலைஞர் மு. கருணாநிதி**.
+Source-first archival workflow for `முத்துக் குளியல் / பாகம் - I` by **கலைஞர் மு. கருணாநிதி**.
 
-## Source plan
+## Controlling source model
 
-The repository owner confirms that the original PDF has **641 pages** and is approximately **1.82 GB**. Because the original cannot be attached directly, it has been split into **39 exact-range PDF pieces**, each no larger than about 49 MB. These splits together are to be treated as **one controlling source**, not as independent editions.
+The repository owner confirms that the original PDF has **641 scans** and is approximately **1.82 GB**. It has been split into **39 exact-range PDF pieces**. The pieces are treated as **one controlling source**, not as independent editions.
 
-Received so far:
+Source binaries are **not committed**. Rendered scan pixels are controlling; OCR, web copies and alternate editions are not used for source transcription or fidelity review.
 
-- split 001 — `...part_001_pages_1-17.pdf` — scans **1–17**, 17 pages, **48,686,831** bytes, SHA-256 `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d`;
-- split 002 — `...part_002_pages_18-33.pdf` — scans **18–33**, 16 pages, **47,901,860** bytes, SHA-256 `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861`;
-- split 003 — `...part_003_pages_34-49.pdf` — scans **34–49**, 16 pages, **48,934,218** bytes, SHA-256 `a5b47180a171b161f45d6c796ef5c90d5f1a66478191fdc36401dc5d69f41549`;
-- continuity: **PASS — exact 1–49 coverage, no gap / no overlap**;
-- parsed text layer: **none**; rendered scan pixels are controlling;
-- source / split binaries: **not committed**.
+## Publication identity
 
-## Bibliographic identity from split 001
+- title — **முத்துக் குளியல் — பாகம் I**;
+- author — **கலைஞர் மு. கருணாநிதி**;
+- subject — **சொற்பொழிவுகளின் தொகுப்பு**;
+- publisher — **பூம்புகார் பதிப்பகம்**;
+- publication no. — **450**;
+- price — **ரூ. 200/-**;
+- print run — **2000**;
+- source gives both:
+  - `முதற் பதிப்பு : மே 2000`;
+  - `காலம் : ஜூன் 2000`.
+  
+These two source month statements remain separate and are not silently reconciled.
 
-- title: **முத்துக் குளியல் — பாகம் I**;
-- author: **கலைஞர் மு. கருணாநிதி**;
-- subject: **சொற்பொழிவுகளின் தொகுப்பு**;
-- publisher: **பூம்புகார் பதிப்பகம்**;
-- publication no.: **450**;
-- price: **ரூ. 200/-**;
-- print run: **2000**;
-- size: **14 x 21 C.M.**;
-- type size: **14 புள்ளி**;
-- rights: **ஆசிரியருக்கே**;
-- printer: **ஈகிள் பிரஸ், சென்னை - 13**.
+## Split ledger
 
-The source contains two different month statements and they must not be silently reconciled:
+| Split | Original scans | Pages | Bytes | SHA-256 | State |
+|---|---:|---:|---:|---|---|
+| 001 | 1–17 | 17 | 48,686,831 | `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d` | PASS |
+| 002 | 18–33 | 16 | 47,901,860 | `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861` | PASS |
+| 003 | 34–49 | 16 | 48,934,218 | `a5b47180a171b161f45d6c796ef5c90d5f1a66478191fdc36401dc5d69f41549` | PASS |
+| 004 | 50–65 | 16 | 46,954,298 | `6848c3cd48611d60294215dd42aacd263fb0941c6b267e1efad4256edc1bbf2b` | PASS |
 
-- scan 3: **`முதற் பதிப்பு : மே 2000`**;
-- scan 5: **`காலம் : ஜூன் 2000`**.
+Continuous coverage is now **1–65 / 641**, with **no gap / no overlap**. The body relation **PDF scan = printed page + 1** is confirmed through scan 65.
 
-## Front matter / contents
+## Contents
 
-Split 001 is entirely front matter. Scans **12–16** contain the complete contents, listing **61 constituent speeches**. No speech body begins inside scans 1–17.
+The complete contents were captured from split 001: **61/61 constituents**.
 
-The numbered-page relation **PDF scan = printed page + 1** is now **CONFIRMED for the speech body**: scan 18 is printed p.17 and opens constituent 1; scan 29 is printed p.28 and opens constituent 2; scan 33 is printed p.32 and opens constituent 3.
+A later direct-scan fidelity review corrected the first contents/title reading from the provisional `வள்ளுவர் வழி எது?` to the source-supported **`வள்ளலார் வழி எது?`**. The closing-note event likewise reads **`வள்ளலார் விழா`**.
 
-The foreword states that the speeches are issued as **two volumes, Part I and Part II**. The publisher's note describes the collection as selected speeches from 1969 onward, chosen for continuing relevance across art, literature, society, politics and economics.
+See `page-map.md` for all 61 mapped ranges.
 
-See `page-map.md` for the full **61-item contents inventory** and provisional ranges.
+## Incremental per-split workflow
 
-## Split 002 source findings
+Each supplied split is processed immediately to the maximum durable state supported by its pages:
 
-Split 002 covers original scans **18–33** / printed pages **17–32**.
+**source gate → Tamil T1 → T2 → T3/freeze → English E1 → E2 → E3 → repository closure** for every fully bounded constituent.
 
-- constituent 1 `வள்ளுவர் வழி எது?` — PDF **18–28** / printed **17–27** — **11/11 source-gated / PASS**;
-- constituent 2 `வள்ளுவர்க்கோர் ஆலயம்` — PDF **29–32** / printed **28–31** — **4/4 source-gated / PASS**;
-- constituent 3 `கம்பர் விழா (1)` — opening confirmed at PDF **33** / printed **32**.
+When a constituent crosses a split boundary, the supplied pages are verified immediately and only the missing tail / closing boundary / final closure is carried forward.
 
-## Split 003 source findings
+## Closed constituents
 
-Split 003 covers original scans **34–49** / printed pages **33–48** and continues seamlessly from split 002.
+### 1 — `வள்ளலார் வழி எது?`
 
-### Constituent 3 — `கம்பர் விழா (1)`
+- directory — `speeches/vallalar-vazhi-ethu/`;
+- PDF **18–28** / printed **17–27** — **11/11**;
+- Tamil — **verified-complete / FROZEN**;
+- English — **verified-complete**;
+- repository closure — **FULLY ARCHIVED**.
 
-**SOURCE-GATED / PASS — 9/9 pages total.**
+### 2 — `வள்ளுவர்க்கோர் ஆலயம்`
 
-- full range: PDF **33–41** / printed **32–40**;
-- PDF33 is in split 002; PDF34–41 are split 003 extract pages 1–8;
-- cross-split join **33→34 PASS**;
-- all joins **8/8 PASS**;
-- closing note on PDF41:
-  `1969-ஆம் ஆண்டு ஏப்ரல் திங்கள் / காரைக்குடி கம்பர் விழாவில் / ஆற்றிய உரை.`;
-- source gives **April 1969 only; exact day not stated**;
-- source-explicit venue / event / role: **காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
-- duplicate / boundary unresolved: **0 / 0**.
+- directory — `speeches/valluvarkkor-aalayam/`;
+- PDF **29–32** / printed **28–31** — **4/4**;
+- Tamil — **verified-complete / FROZEN**;
+- English — **verified-complete**;
+- repository closure — **FULLY ARCHIVED**.
 
-### Constituent 4 — `கம்பர் விழா (2)`
+### 3 — `கம்பர் விழா (1)`
 
-- opening PDF **42** / printed **41**: **VERIFIED**;
-- current inspected coverage: PDF **42–49** / printed **41–48** — **8 pages**;
-- available joins **42→43 ... 48→49 = 7/7 PASS**;
-- provisional full range from contents: PDF **42–56** / printed **41–55** — **15 pages**;
-- source gate remains **INCOMPLETE** because PDF50–56 are not yet supplied.
+- directory — `speeches/kambar-vizha-1/`;
+- PDF **33–41** / printed **32–40** — **9/9**;
+- all **8/8** joins PASS, including cross-split **33→34**;
+- source gives **April 1969** only; exact day not stated;
+- Tamil / English — **verified-complete**;
+- repository closure — **FULLY ARCHIVED**.
 
-## Workflow state
+### 4 — `கம்பர் விழா (2)`
 
-- source splits received: **3/39**;
-- original scan coverage received: **1–49 / 641**;
-- contents: **CAPTURED 61/61**;
-- page map: **PROVISIONAL FROM CONTENTS; boundaries directly verified through constituent 3**;
-- source/body offset: **CONFIRMED — PDF = printed + 1 through scan 49**;
-- constituent source gates: **3/61 complete**;
-- active source intake: constituent **4**, PDF42–49 inspected;
-- Tamil transcription: **NOT STARTED**;
-- English translation: **NOT STARTED**.
+- directory — `speeches/kambar-vizha-2/`;
+- PDF **42–56** / printed **41–55** — **15/15**;
+- split 003 supplies PDF42–49; split 004 supplies PDF50–56;
+- all **14/14** joins PASS, including cross-split **49→50**;
+- closing note — **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
+- Tamil / English — **verified-complete**;
+- repository closure — **FULLY ARCHIVED**.
 
-## Revised per-split processing policy
+### 5 — `ஏழையின் சிரிப்பில்`
 
-The collection no longer waits for all 39 source pieces before transcription.
+- directory — `speeches/ezhaiyin-sirippil/`;
+- PDF **57–63** / printed **56–62** — **7/7**;
+- all **6/6** joins PASS;
+- closing note — **1969-11-27 / சண்டிகார் / குருநானக் 500-ஆவது ஆண்டு பிறந்த தின விழா / ஆற்றிய உரை**;
+- Tamil / English — **verified-complete**;
+- repository closure — **FULLY ARCHIVED**.
 
-For every split:
-- inspect and source-gate all supplied pages;
-- fully process any complete constituent through **T1 → T2 → T3 → English E1/E2/E3 → repository closure**;
-- for a constituent crossing the split boundary, process the supplied pages now and carry forward only the missing tail / final boundary / final closure work.
+## Active partial constituent
 
-Current implication:
-- constituents **1–3** can be closed now;
-- constituent **4** can be processed for PDF **42–49**, but cannot be finally closed until PDF **50–56** is supplied.
+### 6 — `கலை வளர்ப்போம்`
+
+- directory — `speeches/kalai-valarppom/`;
+- provisional full range — PDF **64–69** / printed **63–68** — 6 pages;
+- supplied so far — PDF **64–65** / printed **63–64** — **2/6**;
+- opening/title — **VERIFIED**;
+- join **64→65 — PASS**;
+- Tamil T1 on supplied pages — **2/2 COMPLETE**;
+- Tamil T2 on supplied pages — **2/2 PASS / 0 unresolved**;
+- Tamil T3 / freeze — **blocked only by missing PDF66–69**;
+- English — blocked pending frozen Tamil.
+
+The PDF64–65 checkpoint is durable and does not need to be re-read when the next split arrives unless a new fidelity issue appears.
+
+## Current collection state
+
+- splits received — **4/39**;
+- scans covered — **1–65 / 641**;
+- contents — **61/61**;
+- source-gated — **5/61 complete**;
+- Tamil verified — **5/61**;
+- English verified — **5/61**;
+- fully archived — **5/61**;
+- active partial — **6 / 61, PDF64–65 T2-verified**.
 
 ## Exact next activity
 
-Process constituents **1–3 from T1 through repository closure**, then checkpoint constituent 4 pages **42–49** to the highest safe durable state.
+Ingest the next split beginning at **original scan 66**. Complete `கலை வளர்ப்போம்` PDF66–69, verify its closing note and next boundary, then perform **T3 → English E1/E2/E3 → repository closure**. Continue processing every later fully bounded constituent in that split through closure before moving on.
