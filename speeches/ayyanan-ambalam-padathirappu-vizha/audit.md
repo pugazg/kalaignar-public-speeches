@@ -18,6 +18,18 @@ Closing note: `15-11-98 அன்று அய்யணன் அம்பலம
 
 No venue is supplied by the closing note; none is inferred.
 
+## Tamil T1
+
+**COMPLETE — 8/8; missing 0; unreadable/unknown 0.**
+
+## Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 8/8; 1 correction; 0 unresolved.**
+
+- PDF401: `எடுத்துக்காட்டியதைப் போல` → `எடுத்துக்காட்டியதைப் போல்`;
+- all **7/7** joins: **PASS**;
+- punctuation / quotations / repetitions / names / numerals / Pasumpon Thevar quotation / source-sensitive forms / title-action distinction / separate closing note: **PASS**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — all 8 pages.**
+**Tamil T3 consolidation / freeze — all 8 pages.**
