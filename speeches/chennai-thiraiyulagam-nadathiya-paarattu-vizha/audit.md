@@ -109,6 +109,50 @@ Verification result:
 - frozen Tamil changes during E1: **0**;
 - English E2: **READY / NOT STARTED**.
 
-## Exact next gate
+## English E2 — fidelity review
 
-**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.**
+**PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved.**
+
+1. PDF332: source `திருவிழா` restored as a festival; unsupported `great public function` removed.
+2. PDF334: emphatic `நான்தான்` restored as `It is I who am indebted`.
+3. PDF334: numeral form `45-46` restored.
+4. PDF336: unsupported `Relief` removed from `Chief Minister's Fund`.
+5. PDF337: added `known each other` formulation removed.
+6. PDF338: numeral form `4000` restored.
+7. PDF338: unsupported `in shame` gloss removed from repeated `முக்காடு` image.
+8. PDF342: closing-note agency `திரையுலகம் நடத்திய` restored as `conducted by the film industry`.
+
+All corrections are consolidated; frozen Tamil changes during E2: **0**.
+
+## English E3 — final verification
+
+**PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved.**
+
+- PDF339: restored both the tear-causing clause and explicit command-to-speak structure;
+- PDF340: tightened the Anjugaththai rhetorical contrast without adding `too`;
+- all **8/8** E2 corrections remain consolidated;
+- English page records: **12/12**, complete, unique and ordered;
+- missing / duplicate records: **0 / 0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / titles / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Anna / Anjugam anecdote and Sivaji recollections: **PASS**;
+- cheque amount / English phrase / Bharathidasan quotation: **PASS**;
+- applause / laughter markers and title distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **11 corrections / 0 additional source corrections + 1 consolidation repair**; unresolved **0**;
+- English E2 / E3: **8 / 2**; unresolved **0**;
+- PDF **331–342** / printed **330–341**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- title distinction, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation and separate closing note: **PASS**;
+- root catalogue synchronization: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
