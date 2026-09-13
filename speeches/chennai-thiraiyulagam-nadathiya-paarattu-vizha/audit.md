@@ -92,6 +92,23 @@ Verification result:
 - Tamil state: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
 
+## English E1 — first-pass translation
+
+**COMPLETE — 12/12 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **12/12**, complete and ordered;
+- missing English page records: **0**;
+- PDF/printed-page correspondence: **PASS**;
+- rhetoric / repetition / quotation structure / applause-laughter markers: retained;
+- source-sensitive names/titles/forms: retained without outside normalization;
+- Anna / Anjugam anecdote and Sivaji recollections: retained;
+- cheque amount, English phrase and Bharathidasan quotation: retained;
+- contents/page-heading versus closing-note title spacing distinction: retained;
+- separate source closing note: outside speech body;
+- frozen Tamil changes during E1: **0**;
+- English E2: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.**
+**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.**
