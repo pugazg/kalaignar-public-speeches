@@ -9,7 +9,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **29 / 36**
 - Tamil T1 complete: **29 / 36**
-- Tamil T2 complete: **28 / 36**
+- Tamil T2 complete: **29 / 36**
 - Tamil T3 complete / Tamil verified: **28 / 36**
 - English E1 complete: **28 / 36**
 - English E2 complete: **28 / 36**
@@ -137,6 +137,12 @@ Collection state: mapped **36/36**; source-gated **29/36**; Tamil verified **28/
 
 Collection state: source-gated **29/36**; Tamil T1 **29/36**; Tamil T2/T3 / Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — Tamil T2 complete
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.** Direct-scan corrections: PDF344 `மிகவும்` → `மிகுந்த`; PDF346 `நன்றிகூற` → `நன்றிகூறக்`; PDF347 `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`. All seven page joins pass; canonical records remain complete / unique / ordered; title/action distinction and separate closing note remain preserved.
+
+Collection state: source-gated **29/36**; Tamil T1/T2 **29/36**; Tamil T3 / Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.** Stop before T3 / constituent 30.
+**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.** Stop before English / constituent 30.
