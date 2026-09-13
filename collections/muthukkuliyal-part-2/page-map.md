@@ -75,7 +75,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English E2 COMPLETE — English E3 pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English verified-complete — repository closure pending** |
 | 30–36 | — | not started |
 
 ## Current processing status
@@ -87,7 +87,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - Tamil T3 complete / Tamil verified: **29/36**
 - English E1 complete: **29/36**
 - English E2 complete: **29/36**
-- English E3 complete / English verified: **28/36**
+- English E3 complete / English verified: **29/36**
 - fully archived: **28/36**
 - constituents **1–28: CLOSED / FULLY ARCHIVED**
 
@@ -96,7 +96,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English E2 COMPLETE — English E3 pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English verified-complete — repository closure pending** |
 
 ## Constituent 27 — source / duplicate / boundary gate
 
@@ -228,6 +228,18 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - page correspondence / all seven joins: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## Constituent 29 — English E3
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.**
+
+- all **5/5** E2 corrections remain consolidated;
+- PDF345 inherited-task structure restored;
+- English page records remain complete / unique / ordered;
+- stale superseded English body readings: **0**;
+- all seven joins: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English is **`verified-complete`**.
+
 ## Next activity
 
-Constituent **29** only — English E3 final end-to-end verification — **8 pages**. Stop before constituent 30 / closure.
+Constituent **29** only — **repository closure**. Stop before constituent 30 source gate.
