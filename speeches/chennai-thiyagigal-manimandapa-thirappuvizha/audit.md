@@ -41,6 +41,17 @@
 
 Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+Corrections:
+1. PDF344 / p.343: `மிகவும்` → `மிகுந்த`.
+2. PDF346 / p.345: `நன்றிகூற` → `நன்றிகூறக்`.
+3. PDF347 / p.346: `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`.
+
+All PDF **343–350** scans were checked directly against the controlling source. All seven joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350** pass. Canonical page records: **8/8**; missing / duplicate: **0 / 0**; unresolved: **0**. Separate closing note and title/action distinction remain preserved.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.**
+**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.**
