@@ -1,8 +1,8 @@
 {
-  "id": "karuthuch-suthanthiram",
+  "id": "kalaivanar",
   "title": {
-    "ta": "கருத்துச் சுதந்திரம்",
-    "en": "Freedom of Opinion"
+    "ta": "கலைவாணர்",
+    "en": "Kalaivanar"
   },
   "creator": {
     "name_ta": "கலைஞர் மு. கருணாநிதி",
@@ -13,21 +13,21 @@
   "parent_collection": {
     "id": "muthukkuliyal-part-1",
     "title_ta": "முத்துக் குளியல் — பாகம் I",
-    "constituent_number": 14,
+    "constituent_number": 16,
     "constituent_total": 61
   },
   "speech": {
-    "date": "1974-01-26",
-    "closing_note_source_text": "1974-ஆம் ஆண்டு சனவரி 26-ஆம் நாள் பல்கலைக் கழகப் புதுநூல் வெளியீட்டு விழாவில் ஆற்றிய உரை."
+    "date": "1972-09-04",
+    "closing_note_source_text": "1972-ஆம் ஆண்டு செப்டம்பர் 4-ஆம் நாள் சென்னை சிறுவர் அரங்கத்துக்குக் கலைவாணர் அரங்கம் என்று பெயர் சூட்டிக் கலைவாணர் விழாவில் பேசியது."
   },
   "source": {
     "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
     "original_pdf_pages_user_confirmed": 641,
-    "pdf_page_start": 113,
-    "pdf_page_end": 118,
-    "printed_page_start": 112,
-    "printed_page_end": 117,
-    "speech_pages_total": 6,
+    "pdf_page_start": 121,
+    "pdf_page_end": 125,
+    "printed_page_start": 120,
+    "printed_page_end": 124,
+    "speech_pages_total": 5,
     "binary_committed": false
   },
   "workflow": {
@@ -36,24 +36,24 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "internal_joins_checked": 5,
+    "internal_joins_checked": 4,
     "internal_joins_unresolved": 0,
     "tamil_transcription": "verified-complete",
     "tamil_visual_audit": "complete",
     "tamil_consolidation": "complete",
     "tamil_frozen": true,
-    "t1_pages_completed": 6,
-    "t2_pages_checked": 6,
+    "t1_pages_completed": 5,
+    "t2_pages_checked": 5,
     "t2_unresolved": 0,
-    "t3_pages_completed": 6,
+    "t3_pages_completed": 5,
     "t3_unresolved": 0,
     "english_translation": "verified-complete",
     "english_translation_review": "review-complete",
     "english_translation_final_verification": "verified-complete",
-    "e1_pages_completed": 6,
-    "e2_pages_checked": 6,
+    "e1_pages_completed": 5,
+    "e2_pages_checked": 5,
     "e2_unresolved": 0,
-    "e3_pages_checked": 6,
+    "e3_pages_checked": 5,
     "e3_unresolved": 0,
     "repository_closure": "complete",
     "archive_status": "fully-archived",

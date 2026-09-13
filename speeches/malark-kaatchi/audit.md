@@ -1,11 +1,11 @@
-# Audit — கருத்துச் சுதந்திரம்
+# Audit — மலர்க் காட்சி
 
-**CLOSED / FULLY ARCHIVED — PDF113–118 / 6 pages.**
+**CLOSED / FULLY ARCHIVED — PDF119–120 / 2 pages.**
 
 - source gate — **PASS / COMPLETE**;
 - Tamil T1/T2/T3 — **COMPLETE / PASS / PASS**;
 - Tamil — **verified-complete / FROZEN**;
-- internal joins — **5/5 PASS**;
+- internal joins — **1/1 PASS**;
 - ending / closing note — **VERIFIED**;
 - English E1/E2/E3 — **COMPLETE / PASS / PASS**;
 - English — **verified-complete**;
