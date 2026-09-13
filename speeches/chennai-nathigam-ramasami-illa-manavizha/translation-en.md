@@ -1,6 +1,6 @@
 # Chennai - Nathigam Ramasami Family Wedding — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 8/8 pages; 2 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 8/8 pages; 0 additional corrections; 0 unresolved**  
 **Authority:** frozen `transcription-ta.md` only  
 **Source range:** PDF **364–371** / printed **363–370**
 
@@ -115,6 +115,30 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 8/8 pages; 0 additional corrections; 0 unresolved.**
+
+All **2/2** E2 corrections remain consolidated. Final verification confirms:
+
+- English page records: **8/8**, complete / unique / ordered;
+- missing / duplicate records: **0 / 0**;
+- all seven page joins: **PASS**;
+- stale superseded E1 speech-body readings: **0**;
+- semantic completeness: **PASS**;
+- rhetoric / repetition / quotation structure: **PASS**;
+- `vaa` / `vaa...r` rhetorical contrast: **PASS**;
+- numerals `144` / `1976`: **PASS**;
+- Bharathi quotation forms: **PASS**;
+- source-sensitive historical names: **PASS / no outside normalization**;
+- `Petromax` / applause marker: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- additional English corrections at E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 31 — all 8 pages.**
+**Repository closure for constituent 31.**
+
