@@ -740,6 +740,38 @@ Source-sensitive punctuation, quotations, repetitions, applause markers, names, 
 - English verified: **32/36**;
 - fully archived: **32/36**.
 
+## Constituents 33–34 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 17/17 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+### Constituent 33
+- T3: **9/9 PASS / COMPLETE**;
+- all **2/2** T2 corrections remain consolidated;
+- canonical records: **9/9**, complete / unique / ordered;
+- all **8/8** joins: **PASS**;
+- stale superseded T1 body readings: **0**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil: **`verified-complete` / FROZEN**.
+
+### Constituent 34
+- T3: **8/8 PASS / COMPLETE**;
+- the **1/1** T2 correction remains consolidated;
+- canonical records: **8/8**, complete / unique / ordered;
+- all **7/7** joins: **PASS**;
+- venue non-inference / title-action distinction / separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil: **`verified-complete` / FROZEN**.
+
+## Collection totals after constituents 33–34 Tamil T3
+
+- mapped: **36/36**;
+- source-gated: **34/36**;
+- Tamil T1 complete: **34/36**;
+- Tamil T2 complete: **34/36**;
+- Tamil T3 complete / Tamil verified: **34/36**;
+- English verified: **32/36**;
+- fully archived: **32/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituents 33 and 34 — 17 pages total, PDF 391–407 / printed 390–406.**
+**English E1 first-pass translation for constituents 33 and 34 — 17 pages total, frozen Tamil authority only.**
