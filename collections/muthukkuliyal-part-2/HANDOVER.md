@@ -12,7 +12,7 @@
 - mapped: **36/36**
 - started / source-gated: **29/36**
 - Tamil T1 complete: **28/36**
-- Tamil T2 complete: **28/36**
+- Tamil T2 complete: **29/36**
 - Tamil T3 complete / Tamil verified: **28/36**
 - English verified: **28/36**
 - fully archived: **28/36**
@@ -108,6 +108,17 @@ Directory: `speeches/chennai-thiyagigal-manimandapa-thirappuvizha/`
 
 Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — durable Tamil T1 / T2 result
+
+- Tamil T1: **COMPLETE — 8/8**; missing / unreadable **0 / 0**.
+- Tamil T2: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**.
+- Corrections: PDF344 `மிகவும்` → `மிகுந்த`; PDF346 `நன்றிகூற` → `நன்றிகூறக்`; PDF347 `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`.
+- All seven page-boundary continuations pass.
+- Canonical records remain complete, unique and ordered.
+- Separate closing note and title/action distinction remain preserved.
+
+Collection state: mapped/source-gated **36/36 / 29/36**; Tamil T1/T2 **29/36**; Tamil T3 / Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.**
+**Tamil T3 consolidation/freeze for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.** Stop before English / constituent 30.
