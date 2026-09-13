@@ -94,7 +94,7 @@
     "constituent_items_english_verified": 0,
     "constituent_items_archived": 0,
     "transcription_started": false,
-    "next_gate": "Ingest split beginning at original scan 50; continue constituent 4 கம்பர் விழா (2) from PDF 42 / printed 41, verify its closing note and boundary at PDF56 / printed55 if available. Continue source intake only; do not start transcription.",
+    "next_gate": "Process constituents 1-3 from Tamil T1 through repository closure, then process constituent 4 PDF42-49 to a durable page-level checkpoint; do not wait for all 39 splits.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": 4,
     "active_constituent_title_ta": "கம்பர் விழா (2)",
@@ -102,6 +102,14 @@
     "active_constituent_pdf_start": 42,
     "active_constituent_printed_start": 41,
     "active_constituent_pages_inspected": 8,
-    "active_constituent_pages_expected_from_contents": 15
+    "active_constituent_pages_expected_from_contents": 15,
+    "processing_policy": "incremental-per-split-maximal-durable-state",
+    "wait_for_all_splits_before_transcription": false,
+    "fully_bounded_constituents_ready_for_full_workflow": [
+      1,
+      2,
+      3
+    ],
+    "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure"
   }
 }
