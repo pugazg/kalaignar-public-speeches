@@ -10,13 +10,13 @@
 
 ## Durable collection state
 - mapped: **36/36**
-- started / source-gated: **29/36**
-- Tamil T1 complete: **28/36**
-- Tamil T2 complete: **29/36**
-- Tamil T3 complete / Tamil verified: **29/36**
-- English verified: **28/36**
-- fully archived: **28/36**
-- constituents **1–28 CLOSED / FULLY ARCHIVED**
+- started / source-gated: **34/36**
+- Tamil T1 complete: **32/36**
+- Tamil T2 complete: **32/36**
+- Tamil T3 complete / Tamil verified: **32/36**
+- English verified: **32/36**
+- fully archived: **32/36**
+- constituents **1–32 CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27
 
@@ -356,6 +356,33 @@ Constituents **1–32 are CLOSED / FULLY ARCHIVED**.
 
 Collection state: mapped **36/36**; source-gated **32/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
+## Constituents 33–34 — durable source-gate result
+
+### 33 — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`
+- source gate: **PASS / COMPLETE — 9/9**;
+- PDF **391–399** / printed **390–398**; slice extract **12–20**;
+- all **8** joins: **PASS**;
+- prior boundary PDF390 / next boundary PDF400: **PASS**;
+- closing note: `3-11-98 அன்று சென்னையில் திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டத்தில் ஆற்றிய உரை`;
+- date / venue / event / role: **1998-11-03 / சென்னை / திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம் / ஆற்றிய உரை**;
+- duplicate unresolved **0**; boundary unresolved **0**;
+- Tamil T1: **READY / NOT STARTED**.
+
+### 34 — `அய்யணன் அம்பலம் படத்திறப்பு விழா`
+- source gate: **PASS / COMPLETE — 8/8**;
+- PDF **400–407** / printed **399–406**; slice extract **21–28**;
+- all **7** joins: **PASS**;
+- prior boundary PDF399 / next boundary PDF408: **PASS**;
+- PDF408 begins constituent 35 `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`;
+- closing note: `15-11-98 அன்று அய்யணன் அம்பலம் படத்தை திறந்து வைத்து ஆற்றிய உரை`;
+- date / event / role: **1998-11-15 / அய்யணன் அம்பலம் படத்திறப்பு விழா / படத்தை திறந்து வைத்து ஆற்றிய உரை**;
+- venue: **not explicit; not inferred**;
+- title/action distinction preserved;
+- duplicate unresolved **0**; boundary unresolved **0**;
+- Tamil T1: **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
+
 ## Exact next gate
 
-**Constituent 33 source / duplicate / boundary gate — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`, PDF 391–399 / printed 390–398, 9 pages.**
+**Constituent 33 Tamil T1 first-pass transcription — all 9 pages, PDF 391–399 / printed 390–398.** Constituent 34 remains Tamil T1-ready.
