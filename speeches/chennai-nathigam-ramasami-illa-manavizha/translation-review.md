@@ -54,6 +54,10 @@ All **2/2** E2 corrections remain consolidated. Final end-to-end checks confirm 
 
 English is **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 31.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+Closure confirms Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**. Source range PDF **364–371** / printed **363–370**, all seven joins, Tamil T2/T3 counts, English E2/E3 counts, rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker and separate closing-note handling all agree.
+
+Closure introduced **0 Tamil and 0 English speech-body changes**. Source PDF remains uncommitted. No transcription or translation work remains pending for constituent 31.
