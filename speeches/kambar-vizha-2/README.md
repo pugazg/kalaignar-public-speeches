@@ -2,25 +2,27 @@
 
 Constituent **4 / 61** of `முத்துக் குளியல் — பாகம் I`.
 
-**CLOSED / FULLY ARCHIVED — Tamil + English verified-complete after fidelity repair.**
+**CLOSED / FULLY ARCHIVED — Tamil + English verified-complete — closure revalidated after source-fidelity repair.**
 
-- PDF **42–56** / printed **41–55** — **15/15**;
+- PDF **42–56** / printed **41–55** — **15/15 explicit page sections**;
 - split boundary: PDF42–49 in split 003; PDF50–56 in split 004;
 - all **14/14** joins: **PASS**, including cross-split **49→50**;
 - closing note: **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
-- Tamil: **`verified-complete` / FROZEN — 15/15**;
-- English: **`verified-complete` — 15/15**;
+- Tamil T1/T2/T3: **COMPLETE / PASS / PASS**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1/E2/E3: **COMPLETE / PASS / PASS**;
+- English: **`verified-complete`**;
 - unresolved: **0**;
-- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
 - source binaries: **not committed**.
 
-## Fidelity repair
+## Post-closure fidelity repair
 
-A final page-heading validation found that **PDF54 / printed p.53** had been omitted from the initially committed transcription and translation.
+Final page-count validation found that the earlier archived files exposed only **14 page headings for the 15-page source range**. Direct scan review repaired PDF53–56:
 
-The omitted page was restored directly from split 004. It contains:
-- விபீடணன்'s explanation of the origin of Ravana's back scar;
-- two Kamban verses;
-- the prose continuation into PDF55.
+- restored the omitted **PDF54 / printed p.53** section;
+- restored Vibhishana's explanation of Ravana's back scar and both following Kamban quotations;
+- corrected the shifted PDF55 / PDF56 boundaries;
+- restored visible source parenthetical forms in the quoted verses;
+- updated and reverified the English translation to the same 15/15 structure.
 
-The former PDF54 and PDF55 sections were remapped to **PDF55** and **PDF56** respectively. Tamil and English now each have **15/15 explicit page sections**. No unresolved issue remains.
+Closure is now **REVALIDATED / PASS / COMPLETE**. No work remains pending for constituent 4.
