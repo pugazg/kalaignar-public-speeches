@@ -41,6 +41,57 @@
 
 Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 12/12 source pages; 11 corrections; 0 unresolved.**
+
+1. PDF331 / printed p.330: `ஏ.வி.எம். சரவணன்` → `எ.வி.எம். சரவணன்`.
+2. PDF331 / printed p.330: `கலியரசு வைரமுத்து` → `கவியரசு வைரமுத்து`.
+3. PDF334 / printed p.333: `50 ஆண்டு காலக் கடந்து விட்டவன்` → `50 ஆண்டுகளைக் கடந்து விட்டவன்`.
+4. PDF336 / printed p.335: `பாடங்களை எல்லாம் மாணவர்களும்` → `பாடங்களை எல்லா மாணவர்களும்`.
+5. PDF337 / printed p.336: `இன்னும் அந்தப் பொருளாளர் நினைப்பு` → `இன்னும் அந்த பொருளாளர் நினைப்பு`.
+6. PDF339 / printed p.338: `பல்லாண்டு காலம் வாழவேண்டுமென்று` → `பல்லாண்டுக் காலம் வாழவேண்டுமென்று`.
+7. PDF341 / printed p.340: `விழாக்குழுவினர் எத்தனை சிரமங்கள்` → `விழாக்குழுவினர் எத்தகைய சிரமங்கள்`.
+8. PDF341 / printed p.340: `ஏ.வி.எம். சரவணனும்` → `எ.வி.எம். சரவணனும்`.
+9. PDF342 / printed p.341: `இதயமார்ந்த நன்றியைத் தெரிவித்துக் கொள்கிறேன்` → `இதயமார்ந்த நன்றியைத் தெரிவித்துக்கொள்கின்றேன்`.
+10. PDF342 / printed p.341: non-source comma removed in Bharathidasan attribution: `சிரிப்பாய்”, - என்றான்` → `சிரிப்பாய்” - என்றான்`.
+11. PDF342 / printed p.341: `நிரூபித்துக் காட்டியிருக்கின்றார்கள்` → `நிரூபித்துக்காட்டியிருக்கின்றார்கள்`.
+
+Verification result:
+
+- pages checked: PDF **331–342** / printed **330–341** — **12/12**;
+- canonical page records: **12/12**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations: **PASS**;
+- names / titles / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- Anna / Anjugam anecdote and Sivaji recollections: **PASS**;
+- cheque amount, English phrase and Bharathidasan quotation: **PASS**;
+- title spacing distinction and separate closing note: **PASS / preserved**;
+- unresolved readings: **0**.
+
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 12/12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved.**
+
+- T3 consolidation check found T2 correction #8 had remained stale in the canonical body as `ஏ.வி.எம். சரவணனும்`;
+- the canonical body was repaired to the already source-verified T2 reading `எ.வி.எம். சரவணனும்`;
+- all **11/11** T2 corrections are now consolidated;
+- superseded canonical speech-body readings: **absent**;
+- corrected canonical readings: **present**;
+- canonical page records: **12/12**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations: **PASS**;
+- names / titles / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- source-sensitive anecdotes, names/forms, chronology/numerals, cheque amount, English phrase and Bharathidasan quotation: **PASS**;
+- contents/page-heading versus closing-note title spacing distinction: **PASS / preserved separately**;
+- separate closing note: **PASS / outside speech body**;
+- additional source corrections discovered during T3: **0**;
+- speech-body Tamil changes during T3: **1**, solely to consolidate already approved T2 correction #8;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 28 — all 12 source pages.**
+**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.**
