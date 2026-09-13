@@ -61,6 +61,11 @@ For audio or video sources, also read:
 | `kanchi-manimozhiyar-illa-manavizha` | காஞ்சி மணிமொழியார் இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.246–254 | 28.08.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
 | `tn-rajarathinam-pillai-nootraandu-vizha` | டி.என். இராஜரத்தினம் பிள்ளை நூற்றாண்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.255–268 | 27.08.1998 | **Verified complete - 14/14 speech pages** | **Verified complete - 14/14 speech pages** |
 | `madurai-madha-nallinakka-maanadu` | மதுரை மத நல்லிணக்க மாநாடு | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.269–286 | 29.08.1998 | **Verified complete - 18/18 speech pages** | **Verified complete - 18/18 speech pages** |
+| `annai-teresa-nool-veliyittu-vizha` | அன்னை தெரசா நூல் வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.287–293 | 05.09.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
+| `chennai-aazhvargal-aaivu-maiya-vizha-urai` | சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.294–313 | 12.09.1998 | **Verified complete - 20/20 speech pages** | **Verified complete - 20/20 speech pages** |
+| `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.314–329 | 26.09.1998 | **Verified complete - 16/16 speech pages** | **Verified complete - 16/16 speech pages** |
+| `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.330–341 | 27.09.1998 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
+| `chennai-thiyagigal-manimandapa-thirappuvizha` | சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.342–349 | 23.10.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
 
 ## Repository layout
 
@@ -374,3 +379,12 @@ Tamil is **`verified-complete` / FROZEN** with **6 T2 corrections / 0 T3 additio
 The archival workflow is complete for constituent **28 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **331–342** / printed pages **330–341**. The separate closing note establishes **27.09.1998**, venue **சென்னை**, event `திரையுலகம் நடத்திய பாராட்டு விழா`, and role `ஆற்றிய உரை`. The archive preserves the contents/page-heading form `பாராட்டுவிழா` separately from the closing-note form `பாராட்டு விழா`.
 
 Tamil is **`verified-complete` / FROZEN** with **11 T2 corrections / 0 T3 additional source corrections / 1 T3 consolidation repair / 0 unresolved**. English is **`verified-complete`** with **8 E2 corrections / 2 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive names/titles/forms, the Anna/Anjugam anecdote, Sivaji recollections, cheque amount, `My Dear Old Man, How are you`, Bharathidasan’s quotation, applause/laughter markers and the title distinction without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா
+
+The archival workflow is complete for constituent **29 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **343–350** / printed pages **342–349**. The separate closing note establishes **23.10.1998**, venue **சென்னை**, the action wording `தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து`, and role `ஆற்றிய உரை`; the contents/page heading `தியாகிகள் மணிமண்டபத் திறப்புவிழா` is preserved separately from that closing-note action wording.
+
+Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 1 E3 additional correction / 0 unresolved**. The English layer preserves source-sensitive names/forms, the Periyar/Anna/Gandhi passages, the Ganapathi recollection, quantities **50 / 1250 / 250 / 1000**, Bharathi quotations, the title/action distinction and separate closing-note handling without outside normalization.
+
+Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
