@@ -81,8 +81,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 33 | `chennai-thiripura-orumaippattu-thina-koottam` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 34 | `ayyanan-ambalam-padathirappu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 35 | `kanchipuram-cvm-annamalai-illa-manavizha` | **Tamil T2 complete / T3 ready** |
-| 36 | `pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha` | **Tamil T2 complete / T3 ready** |
+| 35 | `kanchipuram-cvm-annamalai-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 36 | `pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 
 ## Current processing status
 
@@ -90,12 +90,12 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - started / source-gated: **36/36**
 - Tamil T1 complete: **36/36**
 - Tamil T2 complete: **36/36**
-- Tamil T3 complete / Tamil verified: **34/36**
-- English E1 complete: **34/36**
-- English E2 complete: **34/36**
-- English E3 complete / English verified: **34/36**
-- fully archived: **34/36**
-- constituents **1–34: CLOSED / FULLY ARCHIVED**
+- Tamil T3 complete / Tamil verified: **36/36**
+- English E1 complete: **36/36**
+- English E2 complete: **36/36**
+- English E3 complete / English verified: **36/36**
+- fully archived: **36/36**
+- constituents **1–36: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
@@ -381,14 +381,18 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 
 ## Current batch status
 
-Constituents **35–36 Tamil T2 are PASS / COMPLETE**.
+Constituents **35–36 are CLOSED / FULLY ARCHIVED**.
 
-- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — **8/8 T2**, **3 corrections**, **0 unresolved**, all **7** joins PASS.
-- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — **9/9 T2**, **0 corrections**, **0 unresolved**, all **8** joins PASS.
-- combined final batch: **17/17 T2; 3 corrections; 0 unresolved**.
-- title-spacing distinction and separate closing-note handling remain preserved.
-- source / derivative binaries remain uncommitted.
+- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — PDF **408–415** / printed **407–414** — Tamil + English **verified-complete**, fully archived.
+- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — PDF **416–424** / printed **415–423** — Tamil + English **verified-complete**, fully archived.
+- final batch T3: **17/17**, 0 additional source corrections, 0 consolidation repairs, 0 unresolved.
+- final batch English E1/E2/E3: **17/17**, 0 corrections, 0 unresolved.
+- closure speech-body changes: Tamil **0**, English **0**.
+- terminal PDF425 is non-speech.
+- source binaries remain uncommitted.
 
-## Next activity
+## Collection closure
 
-Tamil T3 consolidation / freeze for **constituents 35 and 36 together — 17 pages total**, PDF **408–424** / printed **407–423**.
+**PASS / COMPLETE — 36/36 constituents fully archived.**
+
+There is no remaining constituent work in `முத்துக் குளியல் — பாகம் II`.
