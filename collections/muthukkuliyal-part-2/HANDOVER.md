@@ -10,13 +10,13 @@
 
 ## Durable collection state
 - mapped: **36/36**
-- started / source-gated: **28/36**
-- Tamil T1 complete: **27/36**
-- Tamil T2 complete: **27/36**
-- Tamil T3 complete / Tamil verified: **27/36**
-- English verified: **27/36**
-- fully archived: **27/36**
-- constituents **1–27 CLOSED / FULLY ARCHIVED**
+- started / source-gated: **29/36**
+- Tamil T1 complete: **28/36**
+- Tamil T2 complete: **28/36**
+- Tamil T3 complete / Tamil verified: **28/36**
+- English verified: **28/36**
+- fully archived: **28/36**
+- constituents **1–28 CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27
 
@@ -89,6 +89,25 @@ Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
 
 Collection state: mapped **36/36**; started/source-gated **28/36**; Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**. Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
 
+## Constituent 29 — durable source gate
+
+`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`  
+Directory: `speeches/chennai-thiyagigal-manimandapa-thirappuvizha/`
+
+- source / duplicate / boundary gate: **PASS / COMPLETE — 8/8**
+- range: PDF **343–350** / printed **342–349**
+- date / venue / event / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `திறந்து வைத்து ஆற்றிய உரை`
+- closing note: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`
+- explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**
+- prior boundary: PDF342 / printed p.341 closes constituent 28
+- next boundary: PDF351 / printed p.350 begins constituent 30 `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- title versus closing-note action wording: **preserved separately**
+- Tamil T1: **READY / NOT STARTED**
+
+Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gate for constituent 29 — `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`, mapped PDF 343–350 / printed 342–349.**
+**Tamil T1 first-pass transcription for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.**
