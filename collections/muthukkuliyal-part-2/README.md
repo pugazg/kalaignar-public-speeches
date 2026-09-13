@@ -264,10 +264,38 @@ English E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved*
 
 Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**. Tamil remains **`verified-complete` / FROZEN**; English is **`verified-complete`**. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
 
-Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 remain source-gated / Tamil T1-ready**.
+Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 Tamil T1 are COMPLETE / Tamil T2-ready**.
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
+## Constituents 31–32 — Tamil T1 complete
+
+### Constituent 31 — `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா`
+
+**COMPLETE — 8/8 source pages.**
+
+- canonical page records: PDF **364–371** / printed **363–370**, complete and ordered;
+- missing / unreadable-unknown placeholders: **0 / 0**;
+- all **7** page joins retained;
+- separate closing note remains outside the speech body;
+- T2 source-sensitive attention is recorded in `transcription-ta.md`;
+- Tamil T2: **READY / NOT STARTED**.
+
+### Constituent 32 — `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`
+
+**COMPLETE — 19/19 source pages.**
+
+- canonical page records: PDF **372–390** / printed **371–389**, complete and ordered;
+- missing / unreadable-unknown placeholders: **0 / 0**;
+- all **18** page joins retained;
+- embedded poem lineation and quotations retained;
+- contents `வெளியீட்டுவிழா` versus page-heading / closing-note `வெளியீட்டு விழா` remains preserved;
+- separate closing note remains outside the speech body;
+- T2 source-sensitive attention is recorded in `transcription-ta.md`;
+- Tamil T2: **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **32/36**; Tamil T2/T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+
 ## Exact next gate
 
-**Constituent 31 Tamil T1 first-pass transcription — `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா`, PDF 364–371 / printed 363–370, all 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 31 — PDF 364–371 / printed 363–370, all 8 pages.** Constituent 32 remains Tamil T2-ready.
