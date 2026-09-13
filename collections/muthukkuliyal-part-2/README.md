@@ -330,8 +330,22 @@ Tamil is now **`verified-complete` / FROZEN**. T3 speech-body changes: **0**. En
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **30/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
+
+## Constituent 31 — English E1 / E2 / E3 complete
+
+- E1: **COMPLETE — 8/8** from frozen Tamil only.
+- E2: **PASS / COMPLETE — 8/8; 2 corrections; 0 unresolved**.
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**.
+- All **2/2** E2 corrections remain consolidated.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Repository closure: **PENDING**.
+
+Constituent **32** remains Tamil T3-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 31 — PDF 364–371 / printed 363–370, all 8 pages from frozen Tamil only.**
+**Repository closure for constituent 31.**
