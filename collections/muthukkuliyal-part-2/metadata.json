@@ -36,7 +36,7 @@
     "constituent_items_started": 32,
     "constituent_items_source_gated": 32,
     "constituent_items_t1_complete": 30,
-    "constituent_items_t2_complete": 29,
+    "constituent_items_t2_complete": 30,
     "constituent_items_t3_complete": 29,
     "constituent_items_tamil_verified": 29,
     "constituent_items_e1_complete": 29,
@@ -48,7 +48,7 @@
     "active_constituent_number": 30,
     "active_constituent_slug": "isaithamizhin-unmai-varalaru-nool-veliyittu-vizha",
     "active_constituent_title_ta": "‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா",
-    "active_constituent_status": "t1-complete-t2-pending",
+    "active_constituent_status": "t2-complete-t3-pending",
     "active_constituent_pdf_pages": "351-363",
     "active_constituent_printed_pages": "350-362",
     "active_constituent_pages_total": 13,
@@ -66,11 +66,14 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t2",
+    "active_batch_gate": "tamil-t3",
     "next_constituent_number": 30,
-    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituent 30 — PDF 351–363 / printed 350–362, 13 pages",
+    "next_gate": "Tamil T3 consolidation / freeze for constituent 30 — PDF 351–363 / printed 350–362, 13 pages",
     "constituent_items_english_verified": 29,
     "active_batch_t1_pages_completed": 13,
-    "active_batch_t1_unreadable_or_unknown": 0
+    "active_batch_t1_unreadable_or_unknown": 0,
+    "active_batch_t2_pages_checked": 13,
+    "active_batch_t2_corrections": 5,
+    "active_batch_t2_unresolved": 0
   }
 }
