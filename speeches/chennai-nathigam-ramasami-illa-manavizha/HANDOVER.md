@@ -21,8 +21,19 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 8/8; duplicate unresol
 - prior boundary: PDF363 / printed p.362 closes constituent 30;
 - next boundary: PDF372 / printed p.371 begins constituent 32 `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`;
 - no existing dedicated archive found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 8/8 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 8/8 source pages**.
+
+- canonical page records: **8/8**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all 7 page joins retained for T2;
+- separate closing note remains outside the speech body;
+- source-sensitive T2 attention is recorded in `transcription-ta.md`.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 31 — all 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 31 — all 8 pages.**
