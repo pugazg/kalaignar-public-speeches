@@ -39,6 +39,27 @@ Corrections:
 
 All **7/7** joins, source-sensitive forms and separate closing-note handling: **PASS**.
 
-## Exact next gate
+## Tamil T3 consolidation / freeze
 
-**Tamil T3 consolidation / freeze — all 8 pages.**
+**PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections consolidated;
+- canonical records **8/8**, complete / unique / ordered;
+- all **7/7** joins: **PASS**;
+- stale superseded T1 body readings: **0**;
+- speech-body Tamil changes: **0**;
+- final Tamil state: **`verified-complete` / FROZEN**.
+
+## English E1 / E2 / E3
+
+- E1: **COMPLETE — 8/8**;
+- E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- semantic completeness / names / numerals / quotations / reservation terminology / wordplay / applause marker / separate closing note: **PASS**;
+- English: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+Closure speech-body changes: Tamil **0**, English **0**. Source binary remains uncommitted. No transcription or translation work remains pending.
