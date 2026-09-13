@@ -27,6 +27,17 @@
 - separate closing note remains outside speech body;
 - Tamil T2: **READY / NOT STARTED**.
 
+## Durable Tamil T2 result
+
+- Tamil T2: **PASS / COMPLETE — 8/8**;
+- corrections: **3**;
+- unresolved: **0**;
+- PDF410 `இன்னைக்கும்` → `இன்றைக்கும்`;
+- PDF412 `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
+- PDF415 `கேட்டின்ற` → `கேட்கின்ற`;
+- all **7/7** joins and separate closing note: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 35 — all 8 pages.**
+**Tamil T3 consolidation / freeze for constituent 35 — all 8 pages.**
