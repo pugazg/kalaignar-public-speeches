@@ -12,8 +12,8 @@
 
 - mapped: **36/36**
 - started / source-gated: **34/36**
-- Tamil T1 complete: **32/36**
-- Tamil T2 complete: **32/36**
+- Tamil T1 complete: **34/36**
+- Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **32/36**
 - English E1/E2/E3 complete / English verified: **32/36**
 - fully archived: **32/36**
@@ -710,15 +710,36 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **32/36**;
 - fully archived: **32/36**.
 
-## Current batch audit status
+## Constituents 33–34 — Tamil T1 / T2 result
 
-- live `main` reverted the unverified constituent 33 T1 draft;
-- constituent 33 canonical T1 body: **0/9 committed**;
-- constituent 34 canonical T1 body: **0/8 committed**;
-- source gates for both constituents remain **PASS / COMPLETE**;
-- no T2/T3/English work has begun for either constituent;
-- controlling transcription source remains the user-supplied split PDF only.
+**PASS / COMPLETE — 17/17 source pages; 3 T2 corrections; 0 unresolved.**
+
+### Constituent 33
+- Tamil T1: **9/9 COMPLETE**; missing / unreadable-unknown **0 / 0**;
+- Tamil T2: **9/9 PASS / COMPLETE; 2 corrections; 0 unresolved**;
+- PDF395 `நரேந்திரபூர்` → `நரேந்தர்பூர்`;
+- PDF395 `ரதிஷ்யாம்ஷா` → `ரதிஷியாம்ஷா`;
+- all **8/8** joins: **PASS**.
+
+### Constituent 34
+- Tamil T1: **8/8 COMPLETE**; missing / unreadable-unknown **0 / 0**;
+- Tamil T2: **8/8 PASS / COMPLETE; 1 correction; 0 unresolved**;
+- PDF401 `எடுத்துக்காட்டியதைப் போல` → `எடுத்துக்காட்டியதைப் போல்`;
+- all **7/7** joins: **PASS**;
+- venue remains **not explicitly stated / not inferred**.
+
+Source-sensitive punctuation, quotations, repetitions, applause markers, names, numerals, constituent 33 resolution quotation, constituent 34 Pasumpon Thevar quotation, title/action distinction and separate closing notes: **PASS**.
+
+## Collection totals after constituents 33–34 Tamil T2
+
+- mapped: **36/36**;
+- source-gated: **34/36**;
+- Tamil T1 complete: **34/36**;
+- Tamil T2 complete: **34/36**;
+- Tamil T3 complete / Tamil verified: **32/36**;
+- English verified: **32/36**;
+- fully archived: **32/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituents 33 and 34 — 17 pages total, PDF 391–407 / printed 390–406.**
+**Tamil T3 consolidation / freeze for constituents 33 and 34 — 17 pages total, PDF 391–407 / printed 390–406.**
