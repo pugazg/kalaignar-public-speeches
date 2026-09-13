@@ -96,6 +96,20 @@ All PDF **343–350** scans were checked directly against the controlling source
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.**
+
+- all **5/5** E2 corrections remain consolidated;
+- PDF345 inherited-task structure restored: `continued to undertake` → `inherited the task of continuing`;
+- English page records: **8/8**, complete / unique / ordered;
+- stale superseded English speech-body readings: **0**;
+- all seven joins: **PASS**;
+- semantic completeness / rhetoric / quotations / source-sensitive names and forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
+**Repository closure for constituent 29.**
