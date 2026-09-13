@@ -184,7 +184,7 @@ Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified 
 - root catalogue synchronization: **PASS**;
 - source PDF remains uncommitted.
 
-Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**. Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
+Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**. Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituents 30–32 — durable source-gate result
 
@@ -196,7 +196,7 @@ All three requested source / duplicate / boundary gates are **PASS / COMPLETE**.
 
 Boundary witnesses: PDF350 closes constituent 29; PDF364 opens constituent 31; PDF372 opens constituent 32; PDF391 opens constituent 33 `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 30 — durable Tamil T1 result
 
@@ -212,7 +212,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verifi
 
 Constituents **31–32** remain source-gated / Tamil T1-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 30 — durable Tamil T2 result
 
@@ -227,7 +227,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **3
 
 Constituents **31–32** remain source-gated / Tamil T1-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 30 — durable Tamil T3 / frozen result
 
@@ -244,8 +244,24 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Constituents **31–32** remain source-gated / Tamil T1-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+
+## Constituent 30 — durable English / closure result
+
+- English E1: **COMPLETE — 13/13**.
+- English E2: **PASS / COMPLETE — 13/13; 4 corrections; 0 unresolved**.
+- English E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved**.
+- Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- Source range / page order / all 12 joins / source-sensitive names and musical terminology / quotations / `yazh` / `gamakam` / Tamil Thai / Bharathidasan / `Thuppariyum Sambu` / Tirukkural / source English phrases / applause-laughter markers / title variants / separate closing note: **PASS**.
+- Source PDF remains uncommitted.
+
+Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 remain source-gated / Tamil T1-ready**.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 30 — all 13 pages from frozen Tamil only.**
+**Constituent 31 Tamil T1 first-pass transcription — all 8 pages, PDF 364–371 / printed 363–370.**
