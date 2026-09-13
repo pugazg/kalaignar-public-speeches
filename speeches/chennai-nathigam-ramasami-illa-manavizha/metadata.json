@@ -60,10 +60,10 @@
     "english_translation": "verified-complete",
     "english_translation_review": "review-complete",
     "english_translation_final_verification": "verified-complete",
-    "repository_closure": "not-started",
-    "archive_status": "in-progress",
-    "pending_transcription_or_translation_work": true,
-    "next_gate": "Repository closure for constituent 31",
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null,
     "t1_unreadable_or_unknown": 0,
     "tamil_frozen": true,
     "t2_pages_checked": 8,
@@ -83,6 +83,8 @@
     "e3_pages_checked": 8,
     "e3_additional_corrections": 0,
     "e3_unresolved": 0,
-    "e3_frozen_tamil_changes": 0
+    "e3_frozen_tamil_changes": 0,
+    "closure_tamil_speech_body_changes": 0,
+    "closure_english_speech_body_changes": 0
   }
 }
