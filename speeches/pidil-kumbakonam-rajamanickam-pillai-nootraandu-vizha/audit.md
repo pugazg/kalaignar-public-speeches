@@ -22,6 +22,14 @@ Title-spacing distinction: contents/page heading `நூற்றாண்டு
 
 Tamil T1: **READY / NOT STARTED — 0/9**.
 
+## Tamil T1
+
+**COMPLETE — 9/9; missing 0; unreadable/unknown 0.**
+
+- canonical records: complete / ordered;
+- all **8/8** source-gated joins retained;
+- source-sensitive names / quotations / repetitions / applause markers / title-spacing distinction / separate closing note retained for T2 review.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — all 9 pages.**
+**Tamil T2 strict direct-scan fidelity audit — all 9 pages.**
