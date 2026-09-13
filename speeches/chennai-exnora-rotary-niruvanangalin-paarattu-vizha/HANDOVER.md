@@ -46,8 +46,10 @@ Tamil T2: **PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved*
 - canonical page order / joins, names, numerals, punctuation, quotations, repetitions, applause-laughter markers, Tamil poem, Exnora wordplay, source-sensitive forms, title variants and separate closing note: **PASS**;
 - unresolved readings: **0**.
 
-Tamil T3 is **READY / NOT STARTED**. Constituent 28 remains source-gated with Tamil T1 not started.
+Tamil T3: **PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved**. All **6/6** T2 corrections remain consolidated; superseded readings are absent; canonical page records are complete, unique and ordered. Page joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers, Tamil poem, Exnora wordplay, source-sensitive readings, chronology/numeral forms, title variants and the separate closing note pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 28 remains source-gated with Tamil T1 not started.
 
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.** Stop before constituent 28 Tamil T1 / English work.
+**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.** Stop before E2 / constituent 28 Tamil T1.
