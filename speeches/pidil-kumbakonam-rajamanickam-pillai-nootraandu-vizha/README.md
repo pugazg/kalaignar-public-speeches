@@ -53,6 +53,14 @@ Preserve the source title-spacing distinction: contents/page heading use `நூ
 - separate source closing note remains outside speech body;
 - Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
 
+## Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 9/9 source pages; 0 corrections; 0 unresolved.**
+
+Every canonical page was rechecked against the attached scan pixels. All **8/8** joins, source-sensitive names/forms, quotations, numerals, repetitions, applause markers, Nero/fiddle anecdote, `சங்கீத கலாநிதி` passage, Karaikudi competition anecdote, Travancore elephant anecdote, N.S.K. side-accompaniment anecdote, title-spacing distinction and separate closing note all pass.
+
+No T1 correction was required. Unreadable / unknown after T2: **0**. Tamil T3: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 9 pages, PDF 416–424 / printed 415–423.**
+**Tamil T3 consolidation / freeze — all 9 pages.**
