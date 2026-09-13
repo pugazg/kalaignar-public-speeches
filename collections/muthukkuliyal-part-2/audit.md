@@ -422,6 +422,29 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **29/36**;
 - fully archived: **29/36**.
 
+## Constituent 30 — Tamil T1 first-pass transcription
+
+**COMPLETE — 13/13 source pages.**
+
+- canonical records: PDF **351–363** / printed **350–362**, **13/13**, complete and ordered;
+- missing records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all **12** joins retained;
+- separate closing note: preserved outside speech body;
+- contents / page-heading / closing-note spacing variants: preserved separately;
+- source-sensitive names/forms, quotations, English phrases, `யாழ்` / `கமகம்` passages, Tirukkural material and applause/laughter markers recorded for T2;
+- source pixels remain controlling;
+- T2 fidelity claim: **not yet made**.
+
+## Collection totals after constituent 30 Tamil T1
+
+- mapped: **36/36**;
+- started / source-gated: **32/36**;
+- Tamil T1 complete: **30/36**;
+- Tamil T2/T3 complete / Tamil verified: **29/36**;
+- English verified: **29/36**;
+- fully archived: **29/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 30 — PDF 351–363 / printed 350–362, 13 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages.**
