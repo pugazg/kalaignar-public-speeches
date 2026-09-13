@@ -576,6 +576,30 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **30/36**;
 - fully archived: **30/36**.
 
+## Constituent 31 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 speech-body readings: **0**;
+- canonical records: **8/8**, complete / unique / ordered;
+- all **7** joins: **PASS**;
+- source-sensitive rhetoric / numerals / Bharathi quotation forms / historical names / `பெட்ரோமாக்ஸ்` / applause marker / separate closing note: **PASS**;
+- T3 additional source corrections: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**;
+- T3 speech-body changes: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Collection totals after constituent 31 Tamil T3
+
+- mapped / source-gated: **36/36 / 32/36**;
+- Tamil T1/T2 complete: **32/36**;
+- Tamil T3 complete / Tamil verified: **31/36**;
+- English verified: **30/36**;
+- fully archived: **30/36**;
+- constituent **32** remains Tamil T3-ready.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 31 — PDF 364–371 / printed 363–370, 8 pages.**
+**English E1 first-pass translation for constituent 31 — all 8 pages from frozen Tamil only.**
