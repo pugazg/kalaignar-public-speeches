@@ -37,6 +37,11 @@ For audio or video sources, also read:
 | `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 | `palli-vazhkkai` | பள்ளி வாழ்க்கை | First edition, March 1952 | Not stated as a single speech date; compilation source | **Verified complete - 76/76 body pages** | **Verified complete - 76/76 body pages** |
 | `kalaivanar-nsk-memorial-day` | கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழாவில் கலைஞர் உரை | Tamil Digital Library MP3, 00:07:23.559 | Not stated in source | **Verified complete - 12/12 audio segments** | **Verified complete - 12/12 timestamp sections** |
+| `vallalar-vazhi-ethu` | வள்ளலார் வழி எது? | `முத்துக் குளியல் — பாகம் I`; constituent pp.17–27 | 04.10.1972 | **Verified complete - 11/11 speech pages** | **Verified complete - 11/11 speech pages** |
+| `valluvarkkor-aalayam` | வள்ளுவர்க்கோர் ஆலயம் | `முத்துக் குளியல் — பாகம் I`; constituent pp.28–31 | 27.04.1973 | **Verified complete - 4/4 speech pages** | **Verified complete - 4/4 speech pages** |
+| `kambar-vizha-1` | கம்பர் விழா (1) | `முத்துக் குளியல் — பாகம் I`; constituent pp.32–40 | April 1969; exact day not stated | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
+| `kambar-vizha-2` | கம்பர் விழா (2) | `முத்துக் குளியல் — பாகம் I`; constituent pp.41–55 | 04.04.1974 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
+| `ezhaiyin-sirippil` | ஏழையின் சிரிப்பில் | `முத்துக் குளியல் — பாகம் I`; constituent pp.56–62 | 27.11.1969 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
 | `desiya-ilainjar-kondatta-thodakka-vizha` | தேசிய இளைஞர் கொண்டாட்டத் தொடக்க விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.11–17 | 12.01.1998 | **Verified complete - 7/7 speech pages** | **Verified complete - 7/7 speech pages** |
 | `murasoli-arakkattalai-virudhu-vazhangu-vizha` | முரசொலி அறக்கட்டளை விருது வழங்கு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.18–32 | 13.01.1998 | **Verified complete - 15/15 speech pages** | **Verified complete - 15/15 speech pages** |
 | `thiruvalluvar-vizha` | திருவள்ளுவர் விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.33–48 | 15.01.1998 | **Verified complete - 16/16 speech pages** | **Verified complete - 16/16 speech pages** |
@@ -460,3 +465,22 @@ Terminal PDF **425** is a non-speech back-cover portrait / publisher page. Repos
 ### முத்துக் குளியல் — பாகம் II — collection closure
 
 The full **36 / 36 constituent** collection is now **CLOSED / FULLY ARCHIVED**: source-gated **36/36**, Tamil verified **36/36**, English verified **36/36**, fully archived **36/36**. The source PDF remains uncommitted.
+
+
+### முத்துக் குளியல் — பாகம் I — incremental archive status
+
+Part I is being processed incrementally from the repository owner's **39 exact-range split PDFs** of the user-confirmed **641-scan** original. Splits **001–004** now give continuous source coverage through PDF scan **65**.
+
+Constituents **1–5 are CLOSED / FULLY ARCHIVED** with Tamil and English verified-complete:
+
+- `வள்ளலார் வழி எது?` — PDF18–28;
+- `வள்ளுவர்க்கோர் ஆலயம்` — PDF29–32;
+- `கம்பர் விழா (1)` — PDF33–41;
+- `கம்பர் விழா (2)` — PDF42–56;
+- `ஏழையின் சிரிப்பில்` — PDF57–63.
+
+Direct scan review corrected the initial provisional constituent-1 reading from `வள்ளுவர் வழி எது?` to **`வள்ளலார் வழி எது?`**.
+
+Constituent **6 — `கலை வளர்ப்போம்`** has a durable partial checkpoint at PDF **64–65**: Tamil T1 **2/2 complete**, Tamil T2 **2/2 pass / 0 unresolved**. Its remaining PDF66–69 is required before T3 freeze and English closure.
+
+Part I source binaries remain uncommitted.
