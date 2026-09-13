@@ -466,6 +466,24 @@ Final verification confirms:
 - unresolved English issues: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 32.**
+**PASS / COMPLETE — FULLY ARCHIVED — 19/19 pages.**
+
+Closure revalidated:
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- source range: PDF **372–390** / printed **371–389**;
+- canonical Tamil and English page order: **PASS**;
+- all **18/18** joins: **PASS**;
+- Tamil T2: **3 corrections / 0 unresolved**;
+- Tamil T3: **0 additional source corrections / 0 consolidation repairs / 0 unresolved**;
+- English E2: **7 corrections / 0 unresolved**;
+- English E3: **1 additional correction / 0 unresolved**;
+- embedded poems / source lineation / Bharathi-Bharathidasan / Gautama-Ahalya-Indra / Ravana-Rama / `Neethi Devan Mayakkam` / `Thennavan Kaathai`: **PASS**;
+- applause markers / printed typo contrast / title-spacing variants / separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted.
+
+No transcription or translation work remains pending for constituent 32.
