@@ -49,9 +49,9 @@
     "active_constituent_slug": null,
     "active_constituent_title_ta": null,
     "active_constituent_status": "none-collection-closed",
-    "active_constituent_pdf_pages": "408-415",
-    "active_constituent_printed_pages": "407-414",
-    "active_constituent_pages_total": 8,
+    "active_constituent_pdf_pages": null,
+    "active_constituent_printed_pages": null,
+    "active_constituent_pages_total": null,
     "active_batch_constituent_numbers": [
       35,
       36
