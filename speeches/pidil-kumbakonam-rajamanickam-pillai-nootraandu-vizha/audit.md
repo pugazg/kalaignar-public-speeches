@@ -30,6 +30,12 @@ Tamil T1: **READY / NOT STARTED — 0/9**.
 - all **8/8** source-gated joins retained;
 - source-sensitive names / quotations / repetitions / applause markers / title-spacing distinction / separate closing note retained for T2 review.
 
+## Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved.**
+
+All **8/8** joins, source-sensitive names/forms, quotations, numerals, repetitions, applause markers, anecdotes, title-spacing distinction and separate closing-note handling: **PASS**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 9 pages.**
+**Tamil T3 consolidation / freeze — all 9 pages.**
