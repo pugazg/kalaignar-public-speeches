@@ -29,6 +29,17 @@ Closing note: `3-11-98 அன்று சென்னையில் திர�
 - all **8/8** joins: **PASS**;
 - punctuation / quotations / repetitions / applause markers / names / numerals / resolution quotation / separate closing note: **PASS**.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **2/2** T2 corrections remain consolidated;
+- canonical records: **9/9**, complete / unique / ordered;
+- all **8/8** joins: **PASS**;
+- stale superseded T1 body readings: **0**;
+- speech-body Tamil changes during T3: **0**;
+- final Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 9 pages.**
+**English E1 first-pass translation — all 9 pages, frozen Tamil authority only.**
