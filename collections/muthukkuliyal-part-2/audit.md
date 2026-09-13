@@ -516,6 +516,34 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - constituents **1–30: CLOSED / FULLY ARCHIVED**;
 - constituents **31–32: source-gated / Tamil T1-ready**.
 
+## Constituents 31–32 — Tamil T1 first-pass transcription
+
+**COMPLETE — 27/27 source pages total; missing 0; unreadable/unknown 0.**
+
+### Constituent 31
+- PDF **364–371** / printed **363–370** — **8/8**;
+- all **7** page joins retained;
+- separate closing note outside speech body;
+- T2 source-sensitive forms flagged in `transcription-ta.md`;
+- T2: **READY / NOT STARTED**.
+
+### Constituent 32
+- PDF **372–390** / printed **371–389** — **19/19**;
+- all **18** page joins retained;
+- embedded poem lineation, quotations and source-sensitive names/forms retained;
+- contents/page-heading/closing-note spacing variants preserved;
+- separate closing note outside speech body;
+- T2: **READY / NOT STARTED**.
+
+## Collection totals after Tamil T1 constituents 31–32
+
+- mapped: **36/36**;
+- started / source-gated: **32/36**;
+- Tamil T1 complete: **32/36**;
+- Tamil T2/T3 complete / Tamil verified: **30/36**;
+- English verified: **30/36**;
+- fully archived: **30/36**.
+
 ## Exact next gate
 
-**Constituent 31 Tamil T1 first-pass transcription — PDF 364–371 / printed 363–370, 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 31 — PDF 364–371 / printed 363–370, 8 pages.**
