@@ -34,8 +34,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 12/12** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
@@ -49,6 +49,16 @@ T2 source-sensitive attention includes the Anna / Anjugam anecdote; Sivaji recol
 
 This is a first-pass layer, not yet a final fidelity claim. Source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 12/12 source pages; 11 corrections; 0 unresolved.**
+
+Scan-confirmed corrections were consolidated on PDF331, PDF334, PDF336, PDF337, PDF339, PDF341 and PDF342. They include the source forms `எ.வி.எம். சரவணன்`, `கவியரசு வைரமுத்து`, `50 ஆண்டுகளைக் கடந்து விட்டவன்`, `எல்லா மாணவர்களும்`, `அந்த பொருளாளர்`, `பல்லாண்டுக் காலம்`, `எத்தகைய சிரமங்கள்`, `தெரிவித்துக்கொள்கின்றேன்`, the source punctuation of Bharathidasan’s quotation, and `நிரூபித்துக்காட்டியிருக்கின்றார்கள்`.
+
+All **12** scans were re-read directly. Canonical page order / explicit joins, names/titles, numerals, punctuation, quotations, repetitions, applause/laughter markers, the Anna/Anjugam anecdote, Sivaji recollections, the cheque amount, `My Dear Old Man, How are you`, Bharathidasan’s quotation, title variants and the separate closing note all pass. Unresolved readings: **0**.
+
+Tamil T3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 28 — all 12 source pages.**
+**Tamil T3 consolidation/freeze for constituent 28 — all 12 source pages.**
