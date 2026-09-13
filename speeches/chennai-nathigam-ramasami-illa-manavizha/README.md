@@ -36,7 +36,7 @@
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
 | English E1/E2/E3 | **E1 COMPLETE — 8/8; E2 PASS / COMPLETE — 8/8; 2 corrections; E3 PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved — English verified-complete** |
-| Repository closure | not started |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -80,6 +80,12 @@ English E3: **PASS / COMPLETE — 8/8 pages; 0 additional corrections; 0 unresol
 
 English is now **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 31.**
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** with T2 **3 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **2 corrections**, E3 **0 additional corrections**, unresolved **0**.
+
+Source range PDF **364–371** / printed **363–370**, all **7** joins, the `vaa` / `vaa...r` rhetorical contrast, numerals, Bharathi quotation forms, historical names, `Petromax`, applause marker, and separate source closing note all pass closure revalidation.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending for constituent 31.
