@@ -39,8 +39,20 @@ Tamil T1: **COMPLETE — 8/8 source pages** for `சென்னை - திய�
 - explicit continuations for T2: **343→344, 344→345, 345→346, 346→347, 348→349, 349→350**;
 - T2 source-sensitive attention is recorded in the constituent transcript, including names/titles, unusual source forms, quotations and numerals.
 
-Tamil T2 is **READY / NOT STARTED**.
+Tamil T2 is **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**. Tamil T3 is **READY / NOT STARTED**.
+
+## Durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved**.
+
+- PDF344 / p.343: `மிகவும்` → `மிகுந்த`;
+- PDF346 / p.345: `நன்றிகூற` → `நன்றிகூறக்`;
+- PDF347 / p.346: `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`;
+- all seven page joins pass;
+- canonical records remain complete / unique / ordered;
+- separate closing note and title/action distinction remain preserved;
+- source PDF remains uncommitted.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.** Stop before T3 / constituent 30.
+**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.** Stop before English / constituent 30.
