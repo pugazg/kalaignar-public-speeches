@@ -1,6 +1,6 @@
 # Chennai - Martyrs' Memorial Opening Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 8/8 pages**  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **343–350** / printed **342–349**
 
@@ -18,7 +18,7 @@ When I spoke at that event, I accepted Ilakkiya Selvar Kumari Ananthan's idea an
 
 could be established quickly. In particular, Mullai Vendhan stayed out of my sight because, if he came before my eyes, I would ask what had happened to the memorial hall; but he has brought this work to a very successful conclusion.
 
-For the past four or five days it has been raining continuously. I was deeply worried. I wondered how this event would take place. But, as Ilakkiya Selvar pointed out here, when Perunthalaivar Kamarajar was laid to rest, the rain poured down just like this. Even when we came at midnight to look for a place for the burial, the rain kept pouring. Perhaps the tears the sky shed that day continue in remembrance of the martyrs; I take the rain falling even at the moment when the Martyrs' Memorial Hall is being opened as a sign of that.
+For the past four or five days it has been raining continuously. I was deeply worried. I wondered how this event would take place. But, as Ilakkiya Selvar pointed out here, when Perunthalaivar Kamarajar was laid to rest, the rain poured down just like this. Even when we came at midnight to look for a place, the rain kept pouring. Perhaps the tears the sky shed that day continue in remembrance of the martyrs; I take the rain falling even at the moment when the Martyrs' Memorial Hall is being opened as a sign of that.
 
 Everyone pointed out that this government is one that honours martyrs. It is not only after a government is formed that we honour martyrs. As Nallakannu stated here, even before we formed a government, in my youth, nearly fifty years ago, I wrote a small book about Ganapathi, the heroic fighter who fought in Malaysia and died for that very cause, titled `Kayitril Thongiya Ganapathi`—“Ganapathi Who Hung from the Rope.” I wrote it that very day in a flood of emotion. After writing and handing it over in half an hour, I left Chennai
 
@@ -34,21 +34,21 @@ You will not have forgotten that Thanthai Periyar, in the early period, was a le
 
 and issued a statement. He issued a statement that India should be named “Gandhi Nadu.” In his path, the portraits Perarignar Anna drew in words about Gandhiji, and the speeches he delivered over the radio, are things that still resonate in our ears today.
 
-Therefore, the Dravidian movement—particularly the movement nurtured by Thanthai Periyar and guided by Perarignar Anna—has this memorial hall standing here as an enduring example.
+Therefore, as far as the Dravidian movement is concerned—particularly the movement nurtured by Thanthai Periyar and the movement guided by Perarignar Anna—this memorial hall has been created here as an enduring example of these two movements.
 
-They have laboured greatly and created this hall within five or six months. Of the photographs placed here, one can say that, except for perhaps ten or fifteen, all the rest were collected and supplied by Ilakkiya Selvar Kumari Ananthan. For that, I am duty-bound to thank him not merely on behalf of the martyrs seated at this function, but also on behalf of the martyrs who have not come to this function and the families of martyrs who have passed away.
+They have laboured greatly and created this hall within five or six months. Of the photographs placed here, one can say that, except for ten or fifteen, all the rest were collected and supplied by Ilakkiya Selvar Kumari Ananthan. For that, I am duty-bound to thank him not merely on behalf of the martyrs seated at this function, but also on behalf of the martyrs who have not come to this function and the families of martyrs who have passed away.
 
 This hall has been designed to accommodate one thousand two hundred and fifty photographs. At this opening event today, the number of photographs displayed is only two hundred and fifty. The remaining one thousand photographs
 
 ## PDF 347 / printed p.346
 
-must be placed here. They said that many photographs, including those of women freedom fighters, have still not reached us. In the work of collecting all of them, I request the martyrs living in various places—or, if they are not themselves martyrs, their descendants and those engaged in public social work—to investigate, search for and identify them, and send them either through Ilakkiya Selvar Kumari Ananthan or directly to the government.
+must be placed here. They said that the photographs of various people, including those of women freedom fighters, have still not arrived. In the work of collecting all of them, I request the martyrs living in various places—or, if they are not themselves martyrs, their descendants and those engaged in public social work—to investigate, search for and identify them, and send them either through Ilakkiya Selvar Kumari Ananthan or directly to the government.
 
 While I was seated on the stage, I told brother Mullai Vendhan one more thing. There is no space below each photograph to write ten lines about each martyr. Only the town and the name can be written there. Therefore, I have told Mullai Vendhan that a short historical summary of about ten lines on each martyr should be printed in book form, that those books should be given a low price, and that the books should be kept here so that people coming to this memorial hall can buy them and benefit from them. The reason is that, as beloved Samad and Nallakannu pointed out here, the photographs of the martyrs are placed here not merely to glorify the people to whom those photographs belong, but to show our gratitude to them and to remind us of our duty.
 
 ## PDF 348 / printed p.347
 
-But, most importantly, the reason these photographs are placed here and a memorial hall has been built is so that the young people and youth who enter this hall may look at these photographs and learn lessons. When they think about the accounts and histories of how these people set aside every comfort and hardship, paid no heed to their own lives, and dedicated themselves to the freedom of the country, future young people must acquire the desire that one day their own photograph too should find a place in some such memorial hall. That is the purpose of this memorial hall and nothing else.
+But, most importantly, the reason these photographs are placed here and a memorial hall has been built is so that the young people and youth who enter this hall may look at these photographs and learn lessons. When they think about the accounts and histories of how these people set aside all joys and sorrows, paid no heed to their own lives, and dedicated themselves to the freedom of the country, future young people must acquire the desire that one day their own photograph too should find a place in some such memorial hall. That is the purpose of this memorial hall and nothing else.
 
 For most of today's young people give their minds over to entertainments and celebrations. That does not mean I am one who argues that a country or society should have no entertainments at all, no celebrations at all, no joyful occasions at all. There may be joyful occasions. There may be entertainments. There may be celebrations. But when a situation arises in which the country must be protected, the language must be protected, and society must be protected, there must arise in all young people, in all
 
@@ -86,6 +86,34 @@ The freedom this country won must not be wasted. The ways by which the freedom w
 - frozen Tamil changes during E1: **0**;
 - this is an E1 first-pass translation, not yet an E2 fidelity claim.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved.**
+
+Confirmed E2 corrections consolidated into the English translation:
+
+1. PDF344 / printed p.343: removed the unsupported gloss `for the burial` from `look for a place for the burial`; frozen Tamil says only `இடம் பார்ப்பதற்கு`.
+2. PDF346 / printed p.345: restored the source's explicit dual-movement wording, including `இந்த இரண்டு இயக்கங்களும்`, instead of collapsing it into one movement.
+3. PDF346 / printed p.345: removed unsupported hedge `perhaps` from `except for perhaps ten or fifteen`; frozen Tamil states `ஒரு பத்துப் பதினைந்து படங்களைத் தவிர`.
+4. PDF347 / printed p.346: removed unsupported quantity `many` from the sentence about photographs still not having arrived; frozen Tamil does not quantify them.
+5. PDF348 / printed p.347: `set aside every comfort and hardship` → **`set aside all joys and sorrows`**, restoring the paired source expression `சுக துக்கங்களையெல்லாம்`.
+
+E2 verification result:
+
+- pages checked: **8/8**, PDF **343–350** / printed **342–349**;
+- missing / duplicate English page records: **0 / 0**;
+- PDF/printed-page correspondence and all seven joins: **PASS**;
+- semantic completeness: **PASS**;
+- rhetoric / repetition / quotation structure: **PASS**;
+- names / titles / source-sensitive forms: **PASS / no outside normalization**;
+- Periyar / Anna / Gandhi passages and Ganapathi recollection: **PASS**;
+- quantities **50 / 1250 / 250 / 1000**: **PASS**;
+- Bharathi quotations: **PASS**;
+- title/action distinction: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 29 — all 8 English page records against frozen Tamil.**
+**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
