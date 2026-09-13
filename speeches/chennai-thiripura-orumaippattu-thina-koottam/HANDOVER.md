@@ -27,6 +27,21 @@
 - speech-body Tamil changes during T3: **0**;
 - Tamil: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## Durable English / repository-closure result
 
-**English E1 first-pass translation for constituent 33 — all 9 pages, from frozen Tamil only.**
+- English E1: **COMPLETE — 9/9**;
+- English E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- Tamil: **`verified-complete` / FROZEN**; T2 **2**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
+- source range / page order / all **8** joins: **PASS**;
+- resolution quotations / rhetoric / source-sensitive names/forms / numerals / applause markers / separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted;
+- no transcription or translation work remains pending for constituent 33.
+
+## Next collection gate
+
+Constituents **35–36** source / duplicate / boundary processing.
