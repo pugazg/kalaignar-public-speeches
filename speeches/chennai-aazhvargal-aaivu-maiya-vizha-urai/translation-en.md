@@ -1,6 +1,6 @@
 # Chennai - Aazhvargal Research Centre Function Speech — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E2 **PASS / COMPLETE — 20/20 pages; 8 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 20/20 pages; 2 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **295–314** / printed **294–313**
 
@@ -10,7 +10,7 @@
 
 ## Chennai - Aazhvargal Research Centre Function Speech
 
-Today, with the affectionate greetings of all of you, I, elder Sivaraman, Dr. Silamboli Chellappan, and Dr. Mrs. Radha Thiagarajan have received awards on behalf of the Aazhvargal Research Centre. Quite apart from the distinction of the awards presented here, I feel that those who spoke about the awards and about those of us who received them have praised us very highly—and especially praised and extolled me.
+Today, with the affectionate greetings of all of you, I, elder Sivaraman, Dr. Silamboli Chellappan, and Dr. (Mrs.) Radha Thiagarajan have received awards on behalf of the Aazhvargal Research Centre. Quite apart from the distinction of the awards presented here, I feel that those who spoke about the awards and about those of us who received them have praised us very highly—and especially praised and extolled me.
 
 Our People’s Leader Moopanar said here that these awards have been given not for what you have done in the past, but for what you still have to achieve. That is the truth. The beautiful Tamil words spoken here, the descriptive phrases, the descriptions Jagathrakshakan poured forth in abundance, and brother Valampuri John, with his distinctive command of Tamil, raining words in this hall—
 
@@ -18,7 +18,7 @@ Our People’s Leader Moopanar said here that these awards have been given not f
 
 all of them showered such a rain of affection that I wondered whether I might get soaked and submerged in it. I do not think all this was for the work I have done so far, or for the energy, ability, scholarship, or labour they found in me. Whether it was brother R.M.V. speaking, the others speaking in praise, or Moopanar himself speaking, I understand all of it to be nothing other than pats on the back intended to put me to work still more for this society.
 
-To that extent I have been praised here. To go further, I stand before you in something of a daze, not knowing what to say or how to begin speaking. To that extent I now appear before you like a fly fallen into a pot of honey—not a fly that fell in, but one that was lifted up and thrown into it.
+To that extent I have been praised here. If I were to say more, I stand before you in something of a daze, not knowing what to say or how to begin speaking. To that extent I now appear before you like a fly fallen into a pot of honey—not a fly that fell in, but one that was lifted up and thrown into it.
 
 When brother R.M.V. spoke about the Ramanujar Award given to me, he said: “We did not print in the invitation that we are presenting this to Kalaignar. We stated that he has agreed to receive it.” That is not something I can accept—not the award, but the words Veerappan used are what I cannot accept. Because once, the man described as “Kambanadippodi,”
 
@@ -206,6 +206,32 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 20/20 pages; 2 additional corrections; 0 unresolved.**
+
+All **8/8** E2 corrections remain consolidated. E3 made two final wording corrections:
+
+1. PDF295 / printed p.294: `Dr. Mrs. Radha Thiagarajan` → **`Dr. (Mrs.) Radha Thiagarajan`**, preserving both source honorifics in natural English.
+2. PDF296 / printed p.295: `To go further` → **`If I were to say more`**, restoring the idiomatic sense of `இன்னும் சொல்லப் போனால்`.
+
+Final verification result:
+
+- English page records: **20/20**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- all **8/8** E2 corrections: **present**;
+- stale superseded English speech-body readings: **0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- chronology / numeral forms: **PASS**;
+- laughter / applause markers: **PASS**;
+- contents / page-heading / closing-note title distinctions: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 26 — all 20 pages.**
+**Repository-level archival closure for constituent 26.**
