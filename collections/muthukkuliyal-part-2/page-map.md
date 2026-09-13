@@ -78,21 +78,21 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 31 | `chennai-nathigam-ramasami-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **Tamil T2 COMPLETE — Tamil T3 ready** |
+| 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 33–36 | — | not started |
 
 ## Current processing status
 
 - mapped: **36/36**
 - started / source-gated: **32/36**
-- Tamil T1 complete: **29/36**
-- Tamil T2 complete: **29/36**
-- Tamil T3 complete / Tamil verified: **29/36**
-- English E1 complete: **29/36**
-- English E2 complete: **29/36**
-- English E3 complete / English verified: **29/36**
-- fully archived: **30/36**
-- constituents **1–30: CLOSED / FULLY ARCHIVED**
+- Tamil T1 complete: **32/36**
+- Tamil T2 complete: **32/36**
+- Tamil T3 complete / Tamil verified: **32/36**
+- English E1 complete: **32/36**
+- English E2 complete: **32/36**
+- English E3 complete / English verified: **32/36**
+- fully archived: **32/36**
+- constituents **1–32: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
@@ -356,6 +356,18 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 - all **7** joins and source-sensitive checks: **PASS**;
 - closure speech-body changes: Tamil **0**, English **0**.
 
+## Constituent 32 — Tamil T3 through repository closure
+
+- Tamil T3: **PASS / COMPLETE — 19/19; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**.
+- Tamil: **`verified-complete` / FROZEN**.
+- English E1: **COMPLETE — 19/19**.
+- English E2: **PASS / COMPLETE — 19/19; 7 corrections; 0 unresolved**.
+- English E3: **PASS / COMPLETE — 19/19; 1 additional correction; 0 unresolved**.
+- English: **`verified-complete`**.
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- All **18** joins and source-sensitive checks: **PASS**.
+
 ## Next activity
 
-Constituent **32** — Tamil T3 consolidation / freeze — **19 pages**, PDF **372–390** / printed **371–389**.
+Constituent **33** — source / duplicate / boundary gate — **9 pages**, PDF **391–399** / printed **390–398**.
