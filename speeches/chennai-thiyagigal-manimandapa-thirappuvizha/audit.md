@@ -34,7 +34,7 @@
 - explicit unreadable / unknown placeholders: **0**;
 - separate closing note: **preserved outside the speech body**;
 - title versus closing-note action wording: **preserved separately**;
-- explicit page-boundary continuations flagged for T2: **343→344, 344→345, 345→346, 346→347, 348→349, 349→350**;
+- explicit page-boundary continuations flagged for T2: **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**;
 - source-sensitive names/forms, quotations and numerals are recorded in `transcription-ta.md`;
 - method: direct visual reading of the controlling scans;
 - Tamil T2: **READY / NOT STARTED**.
