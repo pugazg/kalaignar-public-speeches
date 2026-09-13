@@ -35,8 +35,8 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 19/19** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 19/19; 3 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending frozen Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 19/19; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
+| English E1/E2/E3 | **E1 READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -58,6 +58,16 @@ All **19** scans and **18** joins pass. Embedded poems / lineation, Bharathi / B
 
 Tamil is not yet frozen; T3 is **READY / NOT STARTED**.
 
+## Tamil T3
+
+**PASS / COMPLETE — 19/19 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+All **3/3** T2 corrections remain consolidated, superseded T1 body readings are absent, all **19** page records remain complete / unique / ordered, and all **18** joins pass. Embedded poems / source lineation, Bharathi / Bharathidasan quotations, `கவுதமன்` passage, `நீதி தேவன் மயக்கம்`, Nehru / Srinivasa Iyengar references, `தென்னவன் காதை`, applause markers, `சிராஜுல் மில்லத் அப்துல் சமது`, title-spacing variants, printed typo contrast and separate closing-note handling remain intact.
+
+Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed during T3.
+
+English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 32 — all 19 pages.**
+**English E1 first-pass translation for constituent 32 — all 19 pages from frozen Tamil only.**
