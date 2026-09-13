@@ -798,27 +798,34 @@ Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0** for both constituents.
 
 ## Constituents 35–36 — Tamil T1
 
-**COMPLETE — 17/17 canonical source-page records; missing 0; unreadable/unknown 0.**
+**COMPLETE — 17/17 canonical page records; missing 0; unreadable/unknown 0.**
+
+## Constituents 35–36 — Tamil T2
+
+**PASS / COMPLETE — 17/17 source pages; 3 corrections; 0 unresolved.**
 
 ### Constituent 35
-- T1: **8/8 COMPLETE**;
-- all **7/7** source-gated joins retained;
-- source-sensitive names / quotations / repetitions / applause marker / separate closing note retained.
+- **8/8 PASS / COMPLETE**;
+- PDF410 / p.409: `இன்னைக்கும்` → `இன்றைக்கும்`;
+- PDF412 / p.411: `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
+- PDF415 / p.414: `கேட்டின்ற` → `கேட்கின்ற`;
+- all **7/7** joins / source-sensitive checks: **PASS**.
 
 ### Constituent 36
-- T1: **9/9 COMPLETE**;
-- all **8/8** source-gated joins retained;
-- source-sensitive names / quotations / repetitions / applause markers / title-spacing distinction / separate closing note retained.
+- **9/9 PASS / COMPLETE**;
+- corrections: **0**;
+- all **8/8** joins / source-sensitive names, quotations, anecdotes, applause markers, title-spacing distinction and separate closing note: **PASS**.
 
-## Collection totals after final Tamil T1
+## Collection totals after final Tamil T2
 
 - mapped: **36/36**;
 - source-gated: **36/36**;
 - Tamil T1 complete: **36/36**;
-- Tamil T2/T3 complete / Tamil verified: **34/36**;
+- Tamil T2 complete: **36/36**;
+- Tamil T3 complete / Tamil verified: **34/36**;
 - English verified: **34/36**;
 - fully archived: **34/36**.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 35 and 36 — 17 pages total, attached split PDF only.**
+**Tamil T3 consolidation / freeze for constituents 35 and 36 — 17 pages total.**
