@@ -90,6 +90,19 @@ Split 003 covers original scans **34–49** / printed pages **33–48** and cont
 - Tamil transcription: **NOT STARTED**;
 - English translation: **NOT STARTED**.
 
+## Revised per-split processing policy
+
+The collection no longer waits for all 39 source pieces before transcription.
+
+For every split:
+- inspect and source-gate all supplied pages;
+- fully process any complete constituent through **T1 → T2 → T3 → English E1/E2/E3 → repository closure**;
+- for a constituent crossing the split boundary, process the supplied pages now and carry forward only the missing tail / final boundary / final closure work.
+
+Current implication:
+- constituents **1–3** can be closed now;
+- constituent **4** can be processed for PDF **42–49**, but cannot be finally closed until PDF **50–56** is supplied.
+
 ## Exact next activity
 
-Ingest the **next split beginning at original scan 50**, continue `கம்பர் விழா (2)`, verify its closing note / boundary when PDF56 becomes available, and continue source intake only. **Do not begin transcription yet.**
+Process constituents **1–3 from T1 through repository closure**, then checkpoint constituent 4 pages **42–49** to the highest safe durable state.
