@@ -18,7 +18,7 @@
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**;
 - source binaries: **uncommitted**;
-- Tamil T1: **READY / NOT STARTED — 0/9**.
+- Tamil: **`verified-complete` / FROZEN**; English: **`verified-complete`**; repository closure: **FULLY ARCHIVED**.
 
 ## Durable Tamil T1 result
 
@@ -28,7 +28,7 @@
 - all **8/8** joins retained;
 - title-spacing distinction remains preserved;
 - separate closing note remains outside speech body;
-- Tamil T2: **READY / NOT STARTED**.
+- Tamil T2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**.
 
 ## Durable Tamil T2 result
 
@@ -37,7 +37,7 @@
 - unresolved: **0**;
 - all **8/8** joins: **PASS**;
 - source-sensitive names/forms, quotations, anecdotes, applause markers, title-spacing distinction and separate closing note: **PASS**;
-- Tamil T3: **READY / NOT STARTED**.
+- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**.
 
 ## Durable Tamil T3 / English / closure result
 
