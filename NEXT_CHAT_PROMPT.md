@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் I / incremental closure after split 003
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் I / incremental closure after split 004
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-1/`.
 
@@ -6,55 +6,117 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active c
 
 Fetch live `main` first and preserve newer durable work.
 
-## Revised workflow policy — authoritative
+## Authoritative workflow policy
 
-Do **not** wait for all 39 split PDFs before transcription.
+Do **not** wait for all 39 split PDFs.
 
-Each supplied split must be processed to the **maximum durable state supported by the pages currently available**.
+Each supplied split must be processed to the **maximum durable state supported by the supplied pages**.
 
-For each fully bounded constituent:
-**source gate → Tamil T1 → Tamil T2 → Tamil T3 / freeze → English E1 → E2 → E3 → repository closure**.
+For every fully bounded constituent:
+
+**source gate → Tamil T1 → Tamil T2 → Tamil T3/freeze → English E1 → E2 → E3 → repository closure**.
 
 For a constituent crossing a split boundary:
-- process all currently available pages immediately;
-- create a durable page-level checkpoint;
-- do not invent missing pages or claim full constituent closure;
-- when the next split arrives, continue only the missing tail / boundary / final closure work;
-- do not re-open already verified pages unless a new source-fidelity issue appears.
+- verify all supplied pages immediately;
+- leave a durable page-level checkpoint;
+- defer only the missing tail / closing boundary / T3 freeze / English / closure as genuinely required;
+- do not re-read already T2-verified pages unless a new fidelity issue appears.
 
-## Current source state
+No OCR, no web, no alternate source.
 
-- original PDF: **641 pages**, user-confirmed;
-- split count: **39**;
-- received: **3/39**;
-- continuous scan coverage: **1–49 / 641**;
-- contents: **61/61 complete**;
-- source/body mapping: **PDF = printed + 1** confirmed through scan 49;
-- source-gated constituents: **1–3**.
+## Source state
 
-### Constituent 1 — `வள்ளுவர் வழி எது?`
-- PDF **18–28** / printed **17–27** — **11/11 source-gated**;
-- ready for **T1 → repository closure**.
+Original source: `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf`
 
-### Constituent 2 — `வள்ளுவர்க்கோர் ஆலயம்`
-- PDF **29–32** / printed **28–31** — **4/4 source-gated**;
-- ready for **T1 → repository closure**.
+- original scans — **641**, user-confirmed;
+- split count — **39**;
+- splits received — **4/39**;
+- continuous coverage — **1–65 / 641**;
+- body mapping — **PDF = printed + 1** confirmed through scan65;
+- contents — **61/61 COMPLETE**;
+- source binaries — **uncommitted**.
 
-### Constituent 3 — `கம்பர் விழா (1)`
-- PDF **33–41** / printed **32–40** — **9/9 source-gated**;
-- ready for **T1 → repository closure**.
+### Split 004
 
-### Constituent 4 — `கம்பர் விழா (2)`
-- provisional full range: PDF **42–56** / printed **41–55**;
-- currently supplied: PDF **42–49** / printed **41–48** — **8 pages**;
-- process these supplied pages now to a durable page-level checkpoint;
-- final constituent freeze / English final verification / repository closure must wait for PDF **50–56**.
+`TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_004_pages_50-65.pdf`
+
+- original scans **50–65**;
+- 16 pages;
+- 46,954,298 bytes;
+- SHA-256 `6848c3cd48611d60294215dd42aacd263fb0941c6b267e1efad4256edc1bbf2b`;
+- intake **PASS / COMPLETE**.
+
+## Closed constituents
+
+### 1 — `வள்ளலார் வழி எது?`
+- directory: `speeches/vallalar-vazhi-ethu/`;
+- PDF **18–28** / printed **17–27** — **11/11**;
+- Tamil + English **verified-complete**;
+- **FULLY ARCHIVED**.
+- Note: direct scan corrected the earlier provisional `வள்ளுவர்` reading to **`வள்ளலார்`**.
+
+### 2 — `வள்ளுவர்க்கோர் ஆலயம்`
+- directory: `speeches/valluvarkkor-aalayam/`;
+- PDF **29–32** — **4/4**;
+- Tamil + English **verified-complete**;
+- **FULLY ARCHIVED**.
+
+### 3 — `கம்பர் விழா (1)`
+- directory: `speeches/kambar-vizha-1/`;
+- PDF **33–41** — **9/9**;
+- Tamil + English **verified-complete**;
+- **FULLY ARCHIVED**.
+
+### 4 — `கம்பர் விழா (2)`
+- directory: `speeches/kambar-vizha-2/`;
+- PDF **42–56** / printed **41–55** — **15/15**;
+- split003 PDF42–49 + split004 PDF50–56;
+- all **14/14** joins PASS including **49→50**;
+- closing note: **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
+- Tamil + English **verified-complete**;
+- **FULLY ARCHIVED**.
+
+### 5 — `ஏழையின் சிரிப்பில்`
+- directory: `speeches/ezhaiyin-sirippil/`;
+- PDF **57–63** / printed **56–62** — **7/7**;
+- closing note: **1969-11-27 / சண்டிகார் / குருநானக் 500-ஆவது ஆண்டு பிறந்த தின விழா / ஆற்றிய உரை**;
+- Tamil + English **verified-complete**;
+- **FULLY ARCHIVED**.
+
+## Active constituent 6 — `கலை வளர்ப்போம்`
+
+Directory: `speeches/kalai-valarppom/`
+
+Provisional full range from contents:
+- PDF **64–69** / printed **63–68** — 6 pages.
+
+Durable supplied checkpoint:
+- PDF **64–65** / printed **63–64** — **2/6**;
+- opening/title verified;
+- join **64→65 PASS**;
+- Tamil T1 **2/2 COMPLETE**;
+- Tamil T2 **2/2 PASS / 0 unresolved**;
+- Tamil T3/freeze blocked pending PDF66–69;
+- English blocked pending frozen Tamil.
+
+Do **not** re-read PDF64–65 unless a new source-fidelity issue appears.
+
+## Current totals
+
+- source-gated — **5/61**;
+- Tamil verified — **5/61**;
+- English verified — **5/61**;
+- fully archived — **5/61**;
+- active partial — **C6, 2/6 pages T2-verified**.
 
 ## Exact next activity
 
-1. Process constituents **1–3 from Tamil T1 through repository closure** using only the supplied scan pixels.
-2. Then process constituent 4 PDF **42–49** to the highest safe durable page-level checkpoint.
-3. Update constituent and collection README / metadata / audit / HANDOVER / page-map.
-4. Preserve source binaries as uncommitted.
+When the next split beginning at **original PDF scan66** is supplied:
 
-No OCR, no web, no alternate source.
+1. verify split continuity after PDF65;
+2. process **only C6's new tail PDF66–69** through T1/T2;
+3. verify C6 ending, closing note and next boundary;
+4. run C6 T3 consolidation/freeze;
+5. complete English E1/E2/E3 and repository closure for C6;
+6. process each later fully bounded constituent in the same split all the way through closure;
+7. leave only the final boundary-spanning constituent at a durable page-level checkpoint.
