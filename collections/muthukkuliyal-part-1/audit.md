@@ -104,3 +104,19 @@ The earlier provisional `வள்ளுவர்` reading was superseded and it
 ## Next gate
 
 **Next split beginning PDF66. Complete C6 tail and close it, then continue incremental per-split closure.**
+
+
+## C4 post-closure fidelity repair — `கம்பர் விழா (2)`
+
+**COMPLETE / REVALIDATED — PDF53–56 / printed 52–55.**
+
+Final page-count validation exposed that the earlier archived C4 files had only **14 explicit page headings for the 15-page source range**. Direct scan reinspection repaired the archival pair:
+
+- restored omitted **PDF54 / printed p.53**;
+- restored Vibhishana's explanation of Ravana's back scar and the two following Kamban verse passages;
+- corrected the shifted PDF55 / PDF56 page boundaries;
+- restored source-visible parenthetical forms in quoted verse;
+- reverified the repaired Tamil and English page structure at **15/15 each**;
+- unresolved after repair — **0**.
+
+C4 remains **FULLY ARCHIVED**, now with closure explicitly **REVALIDATED**. Post-repair speech-body changes: Tamil **1 repair event**, English **1 repair event**.
