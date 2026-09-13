@@ -26,7 +26,7 @@
 - PDF **315–330** / printed **314–329**
 - opening: numbered constituent **27**, page heading `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
 - closing note: `26-9-98 அன்று சென்னையில் எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழாவில் ஆற்றிய உரை`
-- date / venue / event / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
 - PDF314 closes constituent 26; PDF331 begins constituent 28
 - source title variants recorded separately
 - no existing dedicated archive found on live `main`
@@ -41,7 +41,7 @@
 - PDF **331–342** / printed **330–341**
 - opening: numbered constituent **28**, page heading `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
 - closing note: `27-9-98 அன்று சென்னையில் திரையுலகம் நடத்திய பாராட்டு விழாவில் ஆற்றிய உரை`
-- date / venue / event / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
 - PDF330 closes constituent 27; PDF343 begins constituent 29
 - source title / closing-note spacing variant recorded separately
 - no existing dedicated archive found on live `main`
@@ -227,7 +227,7 @@
 - all mapped scans PDF **343–350** inspected directly;
 - explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**;
 - closing note on PDF350 / p.349: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`;
-- date / venue / event / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `திறந்து வைத்து ஆற்றிய உரை`;
+- date / venue / title-event / closing-note action / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து` / `ஆற்றிய உரை`;
 - prior / next boundaries: PDF342 closes constituent 28; PDF351 opens constituent 30;
 - title versus closing-note action wording preserved separately;
 - duplicate search against live `main`: **PASS — no existing dedicated archive found**;
