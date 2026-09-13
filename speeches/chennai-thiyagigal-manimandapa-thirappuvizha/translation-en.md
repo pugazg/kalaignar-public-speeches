@@ -1,6 +1,6 @@
 # Chennai - Martyrs' Memorial Opening Function — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **343–350** / printed **342–349**
 
@@ -26,7 +26,7 @@ Everyone pointed out that this government is one that honours martyrs. It is not
 
 and departed; I still remember that incident. A comrade named Namasivayam, the publisher, met me before I left for the railway station and asked me to write that book. It was only that day that the news had appeared in the newspapers. I immediately wrote the book on the basis of that news and gave it to him.
 
-Therefore, because of the deep concern that the lives of the noble men and heroes who fought for the freedom of India must be made into history, and that the future society following them must become a spirited society, a courageous society, a society ready for sacrifice, we have continued to undertake that service even today, whether we are in government or not.
+Therefore, because of the deep concern that the lives of the noble men and heroes who fought for the freedom of India must be made into history, and that the future society following them must become a spirited society, a courageous society, a society ready for sacrifice, we have inherited the task of continuing that service even today, whether we are in government or not.
 
 You will not have forgotten that Thanthai Periyar, in the early period, was a leader of the Congress party in Tamil Nadu, and that there was a time when, whenever Gandhiji came to Erode, he would stay only at Periyar's home. No one can have forgotten that. But even though that same Periyar later differed with the Congress and grew into a leader who criticised even Gandhiji and even his policies, when the news came that Gandhiji had been killed, the very next day he wrote an editorial in the `Viduthalai` newspaper
 
@@ -114,6 +114,31 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. E3 made one final fidelity correction:
+
+1. PDF345 / printed p.344: `we have continued to undertake that service even today` → **`we have inherited the task of continuing that service even today`**, restoring the source's explicit `அந்தப் பணியை நாங்கள் பெற்றிருக்கின்றோம்` rather than flattening it into simple continuation.
+
+Final verification result:
+
+- English page records: **8/8**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- all **5/5** E2 corrections: **present**;
+- stale superseded English speech-body readings: **0**;
+- semantic completeness / PDF-printed page correspondence / all seven joins: **PASS**;
+- names / titles / quantities / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Periyar / Anna / Gandhi passages and Ganapathi recollection: **PASS**;
+- Bharathi quotations: **PASS**;
+- title/action distinction: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
+**Repository closure for constituent 29.**
