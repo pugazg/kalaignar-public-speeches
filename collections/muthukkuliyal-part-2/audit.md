@@ -544,6 +544,38 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **30/36**;
 - fully archived: **30/36**.
 
+## Constituents 31–32 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 27/27 source pages total; 6 corrections; 0 unresolved.**
+
+### Constituent 31
+- PDF **364–371** / printed **363–370** — **8/8**;
+- corrections: **3**;
+- PDF366 `அதிகே கூட` → `அதிலே கூட`;
+- PDF367 `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`;
+- PDF368 `தெய்வம் உண்மையென்று காண்றில் வேணும்` → `தெய்வம் உண்மையென்று தானறிதல் வேணும்`;
+- all **7** joins: **PASS**;
+- unresolved: **0**.
+
+### Constituent 32
+- PDF **372–390** / printed **371–389** — **19/19**;
+- corrections: **3**;
+- PDF383 `நடித்து தமிழகமெங்கும்` → `நடித்துத் தமிழகமெங்கும்`;
+- PDF386 `நானே வரிகளில்` → `நான்கே வரிகளில்`;
+- PDF390 restored the printed typo contrast `திருமணத்திற்கு` / `திருணமத்திற்கு`;
+- all **18** joins: **PASS**;
+- embedded poem lineation / quotations / names / applause markers / title variants / separate closing note: **PASS**;
+- unresolved: **0**.
+
+## Collection totals after Tamil T2 constituents 31–32
+
+- mapped: **36/36**;
+- started / source-gated: **32/36**;
+- Tamil T1/T2 complete: **32/36**;
+- Tamil T3 complete / Tamil verified: **30/36**;
+- English verified: **30/36**;
+- fully archived: **30/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 31 — PDF 364–371 / printed 363–370, 8 pages.**
+**Tamil T3 consolidation / freeze for constituent 31 — PDF 364–371 / printed 363–370, 8 pages.**
