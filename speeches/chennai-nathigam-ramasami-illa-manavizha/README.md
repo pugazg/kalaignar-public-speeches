@@ -34,8 +34,8 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending frozen Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
+| English E1/E2/E3 | **E1 READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -57,6 +57,16 @@ All **8** scans and **7** joins pass. Source-sensitive rhetoric, numerals, Bhara
 
 Tamil is not yet frozen; T3 is **READY / NOT STARTED**.
 
+## Tamil T3
+
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+All **3/3** T2 corrections remain consolidated, superseded T1 body readings are absent, all **8** page records remain complete / unique / ordered, and all **7** joins pass. Source-sensitive rhetoric, numerals, Bharathi quotations, historical names, `பெட்ரோமாக்ஸ்`, applause marker and separate closing-note handling remain intact.
+
+Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed during T3.
+
+English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 31 — all 8 pages.**
+**English E1 first-pass translation for constituent 31 — all 8 pages from frozen Tamil only.**
