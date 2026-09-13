@@ -323,6 +323,28 @@
 - English E2/E3 complete / English verified: **28/36**;
 - fully archived: **28/36**.
 
+## Constituent 29 — English E2 page-by-page fidelity review
+
+**PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved.**
+
+- PDF344: unsupported burial gloss removed;
+- PDF346: explicit source dual-movement wording restored;
+- PDF346: unsupported `perhaps` removed;
+- PDF347: unsupported `many` removed;
+- PDF348: `comfort and hardship` → `joys and sorrows`;
+- all eight English page records checked against frozen Tamil;
+- page correspondence / all seven joins: **PASS**;
+- semantic completeness / rhetoric / quotations / source-sensitive names and forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
+## Collection totals after constituent 29 English E2
+
+- Tamil verified: **29/36**;
+- English E1/E2 complete: **29/36**;
+- English E3 complete / English verified: **28/36**;
+- fully archived: **28/36**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 29 — all 8 pages against frozen Tamil.**
+**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
