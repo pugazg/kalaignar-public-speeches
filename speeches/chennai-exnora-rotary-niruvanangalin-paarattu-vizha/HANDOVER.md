@@ -48,8 +48,22 @@ Tamil T2: **PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved*
 
 Tamil T3: **PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved**. All **6/6** T2 corrections remain consolidated; superseded readings are absent; canonical page records are complete, unique and ordered. Page joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers, Tamil poem, Exnora wordplay, source-sensitive readings, chronology/numeral forms, title variants and the separate closing note pass. No speech-body Tamil changed during T3.
 
-Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`. Constituent 28 remains source-gated with Tamil T1 not started.
+Tamil remains **`verified-complete` / FROZEN**.
 
-## Exact next gate
+English E1: **COMPLETE — 16/16** from frozen Tamil only; missing pages **0**; frozen Tamil changes **0**.
 
-**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.** Stop before E2 / constituent 28 Tamil T1.
+English E2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**. All corrections are consolidated; frozen Tamil changes **0**.
+
+English E3: **PASS / COMPLETE — 16/16; 2 additional corrections; 0 unresolved**. English is **`verified-complete`**; frozen Tamil changes **0**.
+
+Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+
+- Tamil T2 **6**, T3 **0**; English E2 **6**, E3 **2**; unresolved **0**;
+- source range PDF **315–330** / printed **314–329** agrees across controls;
+- page order / joins, source title distinctions, Tamil poem, Exnora `X / N,O / R,A` wordplay and separate closing-note handling: **PASS**;
+- root catalogue synchronization: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted per repository policy;
+- no transcription or translation work remains pending for constituent 27.
+
+Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
