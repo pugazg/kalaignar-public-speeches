@@ -68,6 +68,7 @@ For audio or video sources, also read:
 | `chennai-thiyagigal-manimandapa-thirappuvizha` | சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.342–349 | 23.10.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.350–362 | 05.10.1998 | **Verified complete - 13/13 speech pages** | **Verified complete - 13/13 speech pages** |
 | `chennai-nathigam-ramasami-illa-manavizha` | சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.363–370 | 18.10.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
+| `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.371–389 | 18.10.1998 | **Verified complete - 19/19 speech pages** | **Verified complete - 19/19 speech pages** |
 
 ## Repository layout
 
@@ -406,5 +407,14 @@ Repository-level closure is complete. Closure introduced **0 Tamil and 0 English
 The archival workflow is complete for constituent **31 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **364–371** / printed pages **363–370**. The separate closing note establishes **18.10.1998**, venue **சென்னை**, event `நாத்திகம் இராமசாமி இல்ல மணவிழா`, and role `ஆற்றிய உரை`.
 
 Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **2 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves the `vaa` / `vaa...r` rhetorical contrast, numerals, Bharathi quotation forms, source-sensitive historical names including `Moovalur Moothatti Ramamirtham Ammaiyar`, `Petromax`, the applause marker, and the separate closing-note handling without outside normalization.
+
+Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+
+### சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா
+
+The archival workflow is complete for constituent **32 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **372–390** / printed pages **371–389**. The separate closing note establishes **18.10.1998**, venue **சென்னை**, event `ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`. The archive preserves the contents form `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டுவிழா` separately from the page-heading / closing-note form `வெளியீட்டு விழா`.
+
+Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **7 E2 corrections / 1 E3 additional correction / 0 unresolved**. The English layer preserves the embedded poem lineation, Bharathi and Bharathidasan passages, the Gautama–Ahalya–Indra passage, `Neethi Devan Mayakkam`, `Thennavan Kaathai`, Ravana/Rama political-literary framing, applause markers, the printed `திருமணத்திற்கு` / `திருணமத்திற்கு` typo contrast, and the title-spacing distinction without outside normalization.
 
 Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
