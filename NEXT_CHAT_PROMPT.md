@@ -74,7 +74,8 @@ Original source: `TVA_BOK_0065801_முத்துக்குளியல்_
 - all **14/14** joins PASS including **49→50**;
 - closing note: **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
 - Tamil + English **verified-complete**;
-- **FULLY ARCHIVED**.
+- **FULLY ARCHIVED AFTER FIDELITY REPAIR**;
+- resolved issue: omitted **PDF54 / printed p.53** restored in both layers; PDF55/PDF56 headings corrected; final explicit headings **15/15** Tamil and **15/15** English; unresolved **0**.
 
 ### 5 — `ஏழையின் சிரிப்பில்`
 - directory: `speeches/ezhaiyin-sirippil/`;
