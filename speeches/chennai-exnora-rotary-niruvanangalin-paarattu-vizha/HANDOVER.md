@@ -34,8 +34,20 @@ Explicit continuations for T2: **315→316, 316→317, 317→318, 319→320, 320
 
 T2 source-sensitive attention is recorded in the constituent transcript, including unusual source wording, the Tamil poem, the `X / N,O / R,A` wordplay, chronology/numerals and punctuation/spacing.
 
-Tamil T2 is **READY / NOT STARTED**. Constituent 28 remains source-gated and outside the active T1 batch.
+Tamil T2: **PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved**.
+
+- PDF321 / p.320 `அந்தப் பொதுப்பணித்துறை அமைச்சராக` → `அந்த பொதுப்பணித்துறை அமைச்சராக`;
+- PDF321 / p.320 `பொதுப்பணித்துறையையும்` → `பொதுப் பணித்துறையையும்`;
+- PDF321 / p.320 `68-ஆம் ஆண்டு பேச்சு தொடங்கி` → `68-ஆம் ஆண்டு பேசத் தொடங்கி`;
+- PDF326 / p.325 `நான்கைந்து முதலவர்களோடு` → `நான்கைந்து முதல்வர்களோடு`;
+- PDF326 / p.325 `ஓமந்தூர் இராமசாமி ரெட்டியார்தான்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார்தான்`;
+- PDF327 / p.326 `ஓமந்தூர் இராமசாமி ரெட்டியார் அவர்கள்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார் அவர்கள்`;
+- all mapped scans PDF **315–330** directly re-read;
+- canonical page order / joins, names, numerals, punctuation, quotations, repetitions, applause-laughter markers, Tamil poem, Exnora wordplay, source-sensitive forms, title variants and separate closing note: **PASS**;
+- unresolved readings: **0**.
+
+Tamil T3 is **READY / NOT STARTED**. Constituent 28 remains source-gated with Tamil T1 not started.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.** Stop before T3 / constituent 28.
+**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.** Stop before constituent 28 Tamil T1 / English work.
