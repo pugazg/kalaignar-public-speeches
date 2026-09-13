@@ -476,7 +476,7 @@ Constituents **1–5 are CLOSED / FULLY ARCHIVED** with Tamil and English verifi
 - `வள்ளலார் வழி எது?` — PDF18–28;
 - `வள்ளுவர்க்கோர் ஆலயம்` — PDF29–32;
 - `கம்பர் விழா (1)` — PDF33–41;
-- `கம்பர் விழா (2)` — PDF42–56;
+- `கம்பர் விழா (2)` — PDF42–56 — **fully archived after a resolved PDF54 fidelity repair**;
 - `ஏழையின் சிரிப்பில்` — PDF57–63.
 
 Direct scan review corrected the initial provisional constituent-1 reading from `வள்ளுவர் வழி எது?` to **`வள்ளலார் வழி எது?`**.
@@ -484,3 +484,6 @@ Direct scan review corrected the initial provisional constituent-1 reading from 
 Constituent **6 — `கலை வளர்ப்போம்`** has a durable partial checkpoint at PDF **64–65**: Tamil T1 **2/2 complete**, Tamil T2 **2/2 pass / 0 unresolved**. Its remaining PDF66–69 is required before T3 freeze and English closure.
 
 Part I source binaries remain uncommitted.
+
+
+Part I fidelity note: a post-closure page-count audit of `கம்பர் விழா (2)` found and repaired an omitted **PDF54 / printed p.53** page. The repair restored the Vibhishana / Ravana back-scar passage and two Kamban verses in Tamil and English, corrected the following PDF55/PDF56 section boundaries, and reverified the constituent at **15/15 pages / 0 unresolved**.
