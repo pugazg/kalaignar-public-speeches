@@ -1,6 +1,6 @@
 # Chennai - Exnora and Rotary Organisations Appreciation Function — English translation
 
-**Status:** `fidelity-corrections-consolidated` — English E2 **PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **315–330** / printed **314–329**
 
@@ -26,7 +26,7 @@ It was a period when we waited anxiously to know what verdict would come from th
 
 ## PDF 317 / printed p.316
 
-our General Secretary, the Professor, brother Murasoli Maran, and my dear friend Arcot Veerasamy had camped in Delhi. On the day the verdict was to be announced, I was in Salem. While speaking to Veerasamy, I told him, “Come back having saved both the flag and the party’s name. Otherwise, when you return, you will not see Karunanidhi.” Today Karunanidhi is standing before you. You praise me saying that I brought the Cauvery and brought Krishna water. The person who made it possible for me to be here then was our T. N. Seshan, who delivered a fair verdict. (Loud applause) Since until now I had not had an opportunity to praise him and take pride in doing so, I say this because this is the right place to have him before me face to face and praise him.
+our General Secretary, the Professor, brother Murasoli Maran, and my dear friend Arcot Veerasamy had camped in Delhi. On the day the verdict was to be announced, I was in Salem. While speaking to Veerasamy, I told him, “Come back having saved both the flag and the party’s name. Otherwise, when you return, you will not see Karunanidhi.” Today Karunanidhi is standing before you. You praise me saying that I brought the Cauvery and brought Krishna water. The person who made all that possible at the time was our T. N. Seshan, who delivered a fair verdict. (Loud applause) Since until now I had not had an opportunity to praise him and take pride in doing so, I say this because this is the right place to have him before me face to face and praise him.
 
 Though such a person did not speak here in detail about the Cauvery and the Krishna, he understood their intricacies and expressed the view that the Ganges should also be linked with the Cauvery. He knows the plan to link the Ganges and the Cauvery. It had already been proposed and discussed when K. L. Rao was Union Minister for Irrigation. At that time, over the Cauvery issue, I, Karnataka Chief Minister Veerendra Patil, Kerala Chief Ministers E. M. S. and Achutha Menon—
 
@@ -98,7 +98,7 @@ Likewise, there is Krishna water. To bring Krishna water, we have spoken with N.
 
 But it was Omaandur Ramasamy Reddiar who wrote asking that the Union Government implement it immediately. After that it was shelved. Even though successive Chief Ministers made efforts, it did not come to fruition.
 
-My dear friend M. G. R. and Andhra Chief Minister N. T. Rama Rao announced the Krishna water project on Chennai’s seafront in the presence of Prime Minister Annai Indira Gandhi, and an agreement was entered into. To implement that agreement, how many times have I, our friend Veerasamy, others and the Public Works Minister gone to Andhra? How many times have we spoken with those Ministers? How many times have we argued with those officials? You also know how many times they in turn came here. The Krishna water released last year—if one may put it in the language of the Puranic storytellers—ran into our bad time: because of rains and floods, we did not receive it fully as we had expected. After a year, with many arrangements made, today the water has begun arriving in Chennai fully in accordance with the agreement, in the months in which it is supposed to reach us.
+My dear friend M. G. R. and Andhra Chief Minister N. T. Rama Rao announced the Krishna water project on Chennai’s seafront in the presence of Prime Minister Annai Indira Gandhi, and an agreement was entered into. To implement that agreement, how many times have I, our friend Veerasamy, others and the Public Works Minister gone to Andhra? How many times have we spoken with those Ministers? How many times have we argued with those officials? You also know how many times they in turn came here. The Krishna water released last year—if I may put it in the language of the Puranic storytellers—because it was our bad time, was caught in rains and floods, and we did not receive it fully as we had expected. After a year, with many arrangements made, today the water has begun arriving in Chennai fully in accordance with the agreement, in the months in which it is supposed to reach us.
 
 Yesterday there was one function. The day before yesterday there was another function. The day before yesterday, at a place near Valluvar Kottam, for this entire area—
 
@@ -168,6 +168,33 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved.**
+
+All **6/6** E2 corrections remain consolidated. E3 made two final fidelity corrections:
+
+1. PDF317 / printed p.316: `The person who made it possible for me to be here then` → **`The person who made all that possible at the time`**, restoring the broader causal reference of `அதற்குக் காரணமாக அன்றைக்கு இருந்தவர்` to the accomplishments just mentioned rather than narrowing it to the speaker’s physical presence.
+2. PDF327 / printed p.326: recast the Puranic-storyteller sentence so **`நம்முடைய போதாத காலம்`** remains an explicit `because it was our bad time` clause and `மழை வெள்ளத்திற்கு இலக்காகி` remains an explicit statement that the water was caught in rains and floods.
+
+Final verification result:
+
+- English page records: **16/16**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- all **6/6** E2 corrections: **present**;
+- stale superseded English speech-body readings: **0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- chronology / numeral forms: **PASS**;
+- applause / laughter markers: **PASS**;
+- contents / page-heading / closing-note title distinctions: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 27 — all 16 pages.**
+**Repository-level archival closure for constituent 27.**
