@@ -14,8 +14,8 @@
 - Tamil T1 complete: **34/36**
 - Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **34/36**
-- English verified: **32/36**
-- fully archived: **32/36**
+- English verified: **34/36**
+- fully archived: **34/36**
 - constituents **1–32 CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27
@@ -385,33 +385,33 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **33–34 Tamil T3 are now PASS / COMPLETE and frozen**.
+Constituents **33–34 are CLOSED / FULLY ARCHIVED**.
 
-### Constituent 33
+### Constituent 33 — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`
 - PDF **391–399** / printed **390–398** — **9/9**;
-- Tamil T1: **COMPLETE — 9/9**;
-- Tamil T2: **PASS / COMPLETE — 9/9; 2 corrections; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
-- all **2/2** T2 corrections remain consolidated;
-- speech-body Tamil changes during T3: **0**;
-- Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**.
+- Tamil: **`verified-complete` / FROZEN**; T2 **2 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
+- English E1: **COMPLETE — 9/9**;
+- English E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- closure speech-body changes: Tamil **0**, English **0**.
 
-### Constituent 34
+### Constituent 34 — `அய்யணன் அம்பலம் படத்திறப்பு விழா`
 - PDF **400–407** / printed **399–406** — **8/8**;
-- Tamil T1: **COMPLETE — 8/8**;
-- Tamil T2: **PASS / COMPLETE — 8/8; 1 correction; 0 unresolved**;
-- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
-- the T2 correction remains consolidated;
+- Tamil: **`verified-complete` / FROZEN**; T2 **1 correction**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
+- English E1: **COMPLETE — 8/8**;
+- English E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
 - venue remains **not explicitly stated / not inferred**;
-- speech-body Tamil changes during T3: **0**;
-- Tamil: **`verified-complete` / FROZEN**;
-- English E1: **READY / NOT STARTED**.
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- closure speech-body changes: Tamil **0**, English **0**.
 
-Combined batch: **17/17 T3 complete; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**.
+Combined English batch: **17/17 E1 complete; 17/17 E2 pass; 17/17 E3 pass; 0 unresolved**.
 
-Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1/T2/T3 / Tamil verified **34/36**; English verified **32/36**; fully archived **32/36**.
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**. Constituents **1–34 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 33 and 34 — 17 pages total, frozen Tamil authority only.**
+**Source / duplicate / boundary gates for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total.**
