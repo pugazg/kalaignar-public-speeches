@@ -81,12 +81,13 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 33 | `chennai-thiripura-orumaippattu-thina-koottam` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 34 | `ayyanan-ambalam-padathirappu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 35–36 | — | not started |
+| 35 | `kanchipuram-cvm-annamalai-illa-manavizha` | **Source-gated / Tamil T1 ready** |
+| 36 | `pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha` | **Source-gated / Tamil T1 ready** |
 
 ## Current processing status
 
 - mapped: **36/36**
-- started / source-gated: **34/36**
+- started / source-gated: **36/36**
 - Tamil T1 complete: **34/36**
 - Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **34/36**
@@ -380,18 +381,13 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 
 ## Current batch status
 
-Constituents **33–34 are CLOSED / FULLY ARCHIVED**.
+Constituents **35–36 source gates are PASS / COMPLETE**.
 
-- **33** `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்` — PDF **391–399** / printed **390–398** — Tamil + English **verified-complete**, fully archived.
-- **34** `அய்யணன் அம்பலம் படத்திறப்பு விழா` — PDF **400–407** / printed **399–406** — Tamil + English **verified-complete**, fully archived.
-- English E1/E2/E3 complete: **17/17 pages** across the batch.
-- English E2 corrections: **0**; E3 additional corrections: **0**; unresolved: **0**.
-- closure speech-body changes: Tamil **0**, English **0**.
-- source binaries remain uncommitted.
+- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — PDF **408–415** / printed **407–414** — **8/8**, all **7** joins PASS, duplicate/boundary unresolved **0/0**, Tamil T1 ready.
+- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — PDF **416–424** / printed **415–423** — **9/9**, all **8** joins PASS, duplicate/boundary unresolved **0/0**, Tamil T1 ready.
+- terminal PDF425 is a non-speech back-cover portrait / publisher page.
+- source / derivative binaries remain uncommitted.
 
 ## Next activity
 
-Source / duplicate / boundary gates for **constituents 35 and 36 together — 17 pages total**, PDF **408–424** / printed **407–423**.
-
-- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — contents date **22-11-98**, printed **407–414**, PDF **408–415**, **8 pages**.
-- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — contents date **26-11-98**, printed **415–423**, PDF **416–424**, **9 pages**.
+Tamil T1 first-pass transcription for **constituents 35 and 36 together — 17 pages total**, PDF **408–424** / printed **407–423**.
