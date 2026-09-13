@@ -143,62 +143,58 @@ G.K. Sundaram also referred to the killing of Vali. Rajaji's defence, as quoted,
 
 On the Vali episode, therefore, no one really accepts Rama's conduct without difficulty. We must regard these figures as literary characters rather than surround them with additional imagination.
 
-More importantly, rather than merely having me or others say that Rama's attack on Vali from concealment was wrong, Kamban makes Rama himself say it. Where? Not in the Vali episode. He says it after Ravana has died. Those who have read the Kamba Ramayanam may ask, “What new story is this? I do not remember him saying so.”
-
-Ravana lies dead on the battlefield. Rama comes with Ravana's younger brother Vibhishana and looks at him. He sees a scar on Ravana's back. Rama grieves: “Alas! Did I kill a man who bore a scar on his back? Is it worthy of a warrior to kill one who had been wounded on the back? Did I kill a man marked on his back?”
+More importantly, Kamban makes Rama himself speak of the moral problem. Not in the Vali episode, but after Ravana has died. Rama comes with Ravana's younger brother Vibhishana and looks at Ravana's body. He sees a scar on Ravana's back and grieves: “Did I kill a man who bore a scar on his back? Is it fitting for a warrior to kill one who bears a wound and scar on his back?”
 
 Kamban gives the verse:
 
-“மாண்டொழிந்து உலகில் நிற்கும்
-வயங்கிசை முயங்க மாட்டாது,
+“மாண்டொழிந்(து) உலகில் நிற்கும்
+வயங்கிசை முயங்க மாட்டா(து),
 ஊண் தொழில் உகந்து தெவ்வர்
 முறுவலன் புகழை உண்ணப்
 பூண் தொழில் உடைய மார்பா!
 போர்ப்புறங் கொடுத்தோர் போன்ற
-ஆண் தொழிலோனிற் பெற்ற
+ஆண்தொழி லோனிற் பெற்ற
 வெற்றியும் அவத்தம் என்றான்.”
 
 ## PDF 54 / printed p.53
 
-Then Vibhishana says — or rather, Kamban makes Vibhishana say:
-
-“That scar did not come from turning his back in battle, Rama! Once before, my elder brother Ravana fought an elephant. The elephant's tusks entered his chest, pierced through him and emerged above his back. That is how the scar was formed.”
+Then Vibhishana speaks — or rather, Kamban makes Vibhishana speak. He says: “That is not a scar caused by turning his back, Rama! Once before, my elder brother Ravana fought an elephant. The elephant's tusks entered through his chest, pierced through him and came out above his back. That is how that scar was caused.”
 
 Kamban then gives the verses:
 
-“நாடுள தனையும் ஒடி
-நண்ணலார்க் காண்கி லாமற்
-பீடுள குன்றம் போலும்
+“நாடுள தனையும் ஓடி
+நண்ணலர்க் காண்கி லாமற்
+பீடில குன்றம் போலும்
 பெருந்திசை எல்லை யானைக்
 கோடுள தனையும் புக்குக்
-கொடும் புழுத் தழுந்து புண்ணின்
+கொடும் புழத் தழுந்து புண்ணின்
 பாடுளது அன்றித் தெவ்வர்
-படைக்கலம் பட்டு என் செய்யும்?”
+படைக்கலம் பட்(டு) என் செய்யும்?”
 
-“அப்பனை அனைத்தும் மார்புக்கு
+“அப்பனை அனைத்தும் மார்புக்(கு)
 அணி எனக் கிடந்த; வீரக்
 கைப்பணை முழங்க மேனாள்
 அமரிடைக் கிடைத்த காலன
-துப்பனை வயிர வாளி
+துப்பணை வயிர வாளி
 விசையிலும், காலின் தோன்றல்
-வெப்பனை குத்தினாலும்,
-வெறிநடைப் போய அன்றே.”
+வெப்பணை குத்தினாலும்,
+வெறிநிடைப் போய அன்றே.”
 
-Kamban thus makes Vibhishana bring out Ravana's valour. Rama himself is therefore troubled: we have killed a man who bore a scar upon his back —
+Kamban says that through this Vibhishana brings out Ravana's valour. Rama therefore fears that disgrace may attach to him for having killed one who appeared to bear a scar on his back.
 
 ## PDF 55 / printed p.54
 
-and disgrace may come upon us! I say this so that those who argue for Kamban and for Rama may reflect on how long Rama, who lays down the code of valour, must have suffered mental anguish over having killed Vali from concealment.
+Rama, who defines the standards of valour, is so troubled by that possibility. Those who argue for Kamban and for Rama should therefore consider how long Rama must have been troubled by the fact that he killed Vali from concealment. That is why I say this.
 
-Even here I am arguing on Rama's side. He suffers so deeply at the thought that he has killed a man bearing a scar on his back — that his own martial standing has been damaged and ruined. We must therefore also consider how much he must have regretted the act of killing Vali from concealment.
+Even here I argue on Rama's side. He suffers so much at the thought: we killed one with a scar on his back; our very valour has lost its standing and has been ruined. We must therefore think how deeply the same Rama would have regretted killing Vali from concealment.
 
-Characters should be treated as characters. Our difficulty begins when, instead of honouring the poets who create epics, we begin to give excessive reverence to the characters they create. Professor Sundaram Pillai wrote *Manonmaniam*. We remember him, but we have not turned Jeevakan, Purudothaman and Manonmani into deities to be worshipped.
+Characters should be treated as characters. Our difficulty begins when, instead of honouring the poets who write epics, we begin to give excessive reverence to the characters they create. Professor Sundaram Pillai wrote *Manonmaneeyam*. We remember him, but we have not made Jeevakan, Purudothaman or Manonmani into gods to be worshipped.
 
-In Kamban's case, however, a situation arose in which his characters received excessive reverence while the poet who created the epic was forgotten. Thirty-five years ago, our Sa. Ganesan began a new revolution in Karaikudi to change that tendency —
+In Kamban's case, however, a condition arose in which his characters were accorded excessive reverence while Kamban, who created the epic, was forgotten. Thirty-five years ago, our Sa. Ganesan began a new revolution to change that in Karaikudi.
 
 ## PDF 56 / printed p.55
 
-by holding Kambar Festivals on the principle that the person who created the epic is the hero and is the one worthy of praise, honour and appreciation. I congratulate and salute this festival for continuing to establish that the distinction belongs to Kamban.
+He established the Kambar Festival on the principle that the poet who created the epic is the hero and is the one deserving praise, honour and appreciation. I therefore commend and congratulate this festival, which continues to establish that the distinction belongs to Kamban.
 
 ## Separate source closing note — outside speech body
 
