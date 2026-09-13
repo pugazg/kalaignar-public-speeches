@@ -139,6 +139,10 @@ Final verification result:
 - unresolved English issues: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 29.**
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**. Closure revalidated source range PDF **343–350** / printed **342–349**, canonical Tamil/English page order, all seven joins, Tamil T2 **3 corrections**, Tamil T3 **0 additional source corrections / 0 consolidation repairs**, English E2 **5 corrections**, English E3 **1 additional correction**, title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing-note handling.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending for constituent 29.
