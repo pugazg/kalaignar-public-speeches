@@ -34,8 +34,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 19/19** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 19/19; 3 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending frozen Tamil |
 | Repository closure | not started |
 
@@ -45,6 +45,19 @@
 
 Canonical page records cover PDF **372–390** / printed **371–389** in source order. Missing page records: **0**; explicit unreadable / unknown placeholders: **0**. All 18 page-boundary continuations are retained for T2 review. The separate source closing note remains outside the speech body. This is a first-pass layer only; source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 19/19 source pages; 3 corrections; 0 unresolved.**
+
+Confirmed direct-scan corrections:
+1. PDF383 / p.382: `அவரே இராவணனாக நடித்து தமிழகமெங்கும்` → `அவரே இராவணனாக நடித்துத் தமிழகமெங்கும்`.
+2. PDF386 / p.385: `நானே வரிகளில் ஒரு கவிதை` → `நான்கே வரிகளில் ஒரு கவிதை`.
+3. PDF390 / p.389: restored the printed typo contrast `‘உன் திருமணத்திற்கு’ ... ‘உன் திருமணத்திற்கு’` → `‘உன் திருமணத்திற்கு’ ... ‘உன் திருணமத்திற்கு’`.
+
+All **19** scans and **18** joins pass. Embedded poems / lineation, Bharathi / Bharathidasan quotations, `கவுதமன்` passage, `நீதி தேவன் மயக்கம்`, Nehru / Srinivasa Iyengar references, `தென்னவன் காதை`, applause markers, `சிராஜுல் மில்லத் அப்துல் சமது`, title-spacing variants and separate closing note all pass. Unresolved readings: **0**.
+
+Tamil is not yet frozen; T3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 32 — all 19 pages.**
+**Tamil T3 consolidation / freeze for constituent 32 — all 19 pages.**
