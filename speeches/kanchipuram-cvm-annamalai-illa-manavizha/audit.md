@@ -18,7 +18,7 @@ Closing note: `22-11-98 அன்று காஞ்சிபுரத்தி�
 
 Source-established date / venue / event / role: **1998-11-22 / காஞ்சிபுரம் / சி.வி.எம். அண்ணாமலை இல்ல மணவிழா / ஆற்றிய உரை**.
 
-Tamil T1: **READY / NOT STARTED — 0/8**.
+Tamil / English: **verified-complete**; repository closure: **FULLY ARCHIVED**.
 
 ## Tamil T1
 
