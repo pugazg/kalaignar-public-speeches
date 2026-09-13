@@ -57,6 +57,22 @@ All joins, punctuation, quotations, repetitions, names, numerals, the Pasumpon T
 - speech-body Tamil changes during T3: **0**;
 - Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation — all 8 pages, from frozen Tamil only.**
+English E1: **COMPLETE — 8/8 pages** from frozen `transcription-ta.md` only.
+
+English E2: **PASS / COMPLETE — 8/8 pages; 0 corrections; 0 unresolved**.
+
+English E3: **PASS / COMPLETE — 8/8 pages; 0 additional corrections; 0 unresolved**.
+
+Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**. English is now **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** with T2 **1 correction**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **0 corrections**, E3 **0 additional corrections**, unresolved **0**.
+
+Source range PDF **400–407** / printed **399–406**, all **7/7** joins, caste/body imagery, tiger/deer imagery, Pasumpon Thevar quotation, source-sensitive names/forms, event-title / closing-action distinction, venue non-inference and the separate closing note all pass closure revalidation.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending.
