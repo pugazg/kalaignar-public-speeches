@@ -16,7 +16,7 @@
 - Tamil T3 complete / Tamil verified: **34/36**
 - English verified: **34/36**
 - fully archived: **34/36**
-- constituents **1–32 CLOSED / FULLY ARCHIVED**
+- constituents **1–34 CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27
 
