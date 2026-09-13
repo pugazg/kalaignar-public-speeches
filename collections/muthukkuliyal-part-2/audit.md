@@ -179,6 +179,45 @@
 - English E1/E2/E3 complete / English verified: **27/36**;
 - fully archived: **27/36**.
 
+## Constituent 28 — Tamil verification
+
+- Tamil T1: **COMPLETE — 12/12**;
+- Tamil T2: **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Constituent 28 — English E1
+
+**COMPLETE — 12/12 pages; missing records 0; frozen Tamil changes 0.**
+
+## Constituent 28 — English E2
+
+**PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved.** All corrections are consolidated; frozen Tamil changes during E2: **0**.
+
+## Constituent 28 — English E3
+
+**PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved.** All **8/8** E2 corrections remain consolidated; final English state **`verified-complete`**; frozen Tamil changes during E3: **0**.
+
+## Constituent 28 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **11 / 0 additional source corrections + 1 consolidation repair**; unresolved **0**;
+- English E2 / E3: **8 / 2**; unresolved **0**;
+- PDF **331–342** / printed **330–341**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- title distinction, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation and separate closing note: **PASS**;
+- root catalogue synchronization: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 28 closure
+
+- mapped / started / source-gated: **36/36 / 28/36 / 28/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **28/36**;
+- English E1/E2/E3 complete / English verified: **28/36**;
+- fully archived: **28/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages, PDF 331–342 / printed 330–341.**
+**Source / duplicate / boundary gate for constituent 29 — `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`, mapped PDF 343–350 / printed 342–349.**
