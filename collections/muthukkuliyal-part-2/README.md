@@ -151,6 +151,12 @@ Tamil is now **`verified-complete` / FROZEN**.
 
 Collection state: source-gated **29/36**; Tamil T1/T2/T3 / Tamil verified **29/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — English E1 complete
+
+**COMPLETE — 8/8 pages.** Translation authority was frozen `transcription-ta.md` only. English page records preserve PDF **343–350** / printed **342–349**, all seven joins, rhetoric / repetition / quotations, source-sensitive names/titles/forms, Periyar/Anna/Gandhi passages, the Ganapathi recollection, quantities **50 / 1250 / 250 / 1000**, Bharathi quotations, title/action distinction and separate closing-note handling. Missing English records: **0**; frozen Tamil changes during E1: **0**.
+
+Collection state: Tamil verified **29/36**; English E1 **29/36**; English E2/E3 / English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 29 — all 8 pages from frozen Tamil only.** Stop before E2 / constituent 30.
+**English E2 page-by-page fidelity review for constituent 29 — all 8 English page records against frozen Tamil.** Stop before E3 / constituent 30.
