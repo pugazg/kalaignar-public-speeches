@@ -364,6 +364,27 @@
 - English E1/E2/E3 complete / English verified: **29/36**;
 - fully archived: **28/36**.
 
+## Constituent 29 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **3 corrections / 0 additional source corrections + 0 consolidation repairs**; unresolved **0**;
+- English E2 / E3: **5 / 1**; unresolved **0**;
+- source range PDF **343–350** / printed **342–349**: **PASS**;
+- canonical Tamil / English page records and all seven joins: **PASS**;
+- title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- root catalogue synchronization: **PASS**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 29 closure
+
+- mapped / started / source-gated: **36/36 / 29/36 / 29/36**;
+- Tamil verified: **29/36**;
+- English verified: **29/36**;
+- fully archived: **29/36**;
+- constituents **1–29: CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituent 29.**
+**Constituent 30 source / duplicate / boundary gate — PDF 351–363 / printed 350–362.**
