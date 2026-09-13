@@ -19,9 +19,23 @@
 - contents/page-heading/closing-note spacing variants: **recorded separately and preserved**;
 - duplicate search against live `main`: **PASS — no existing dedicated archive found**;
 - duplicate unresolved **0**; boundary unresolved **0**;
-- Tamil T1: **READY / NOT STARTED**;
+- Tamil T1: **COMPLETE — 19/19**;
 - source PDF remains **uncommitted**.
+
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 19/19 source pages.**
+
+- canonical page records: PDF **372–390** / printed **371–389**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all **18** page-boundary continuations retained;
+- separate source closing note remains outside speech body;
+- contents / page-heading / closing-note spacing variants remain separately preserved;
+- embedded poems and source lineation are retained for T2 review;
+- method: direct visual reading of the controlling scans;
+- this is T1 only; no T2 fidelity claim is made.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — all 19 source pages.**
+**Tamil T2 strict direct-scan fidelity audit — all 19 source pages.**
