@@ -1,0 +1,59 @@
+{
+  "id": "valluvarkkor-aalayam",
+  "title": {
+    "ta": "வள்ளுவர்க்கோர் ஆலயம்",
+    "contents_title_ta": "வள்ளுவர்க்கோர் ஆலயம்",
+    "page_heading_ta": "வள்ளுவர்க்கோர் ஆலயம்"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 2,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1973-04-27",
+    "date_source_text": "1973-ஆம் ஆண்டு ஏப்ரல் திங்கள் 27-ஆம் நாள்",
+    "venue_ta": null,
+    "venue_note": "No separate geographic venue is inferred at source-intake stage.",
+    "event_source_text": "மயிலை வள்ளுவர் நினைவாலயம் திருப்பணி அடிக்கல் நாட்டு விழா",
+    "closing_note_source_text": "1973-ஆம் ஆண்டு ஏப்ரல் திங்கள் 27-ஆம் நாள்\nமயிலை வள்ளுவர் நினைவாலயம் திருப்பணி\nஅடிக்கல் நாட்டு விழாவில் பேசியது."
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "binary_committed": false,
+    "pdf_page_start": 29,
+    "pdf_page_end": 32,
+    "printed_page_start": 28,
+    "printed_page_end": 31,
+    "speech_pages_total": 4,
+    "inspection_split": {
+      "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_002_pages_18-33.pdf",
+      "extract_page_start": 12,
+      "extract_page_end": 15,
+      "extract_to_original_pdf_offset": 17,
+      "committed": false
+    }
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "tamil_transcription": "blocked-pending-collection-source-intake",
+    "english_translation": "not-started",
+    "archive_status": "source-gated-collection-intake-pending",
+    "duplicate_unresolved": 0,
+    "boundary_unresolved": 0,
+    "next_gate": "Complete collection-wide 39-piece source intake before Tamil T1."
+  }
+}
