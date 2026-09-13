@@ -36,7 +36,7 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
-| English E1/E2/E3 | **E1 COMPLETE — 8/8; E2 PASS / COMPLETE — 8/8; 5 corrections; 0 unresolved; E3 READY / NOT STARTED** |
+| English E1/E2/E3 | **E1 COMPLETE — 8/8; E2 PASS / COMPLETE — 8/8; 5 corrections; E3 PASS / COMPLETE — 8/8; 1 additional correction; 0 unresolved — English verified-complete** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -83,6 +83,16 @@ E2 removed one unsupported burial gloss, restored the source's explicit “these
 
 English E3 is **READY / NOT STARTED**.
 
+## English E3
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. E3 restored the explicit inherited-task structure on PDF345: `we have continued to undertake that service even today` → `we have inherited the task of continuing that service even today`, preserving `அந்தப் பணியை நாங்கள் பெற்றிருக்கின்றோம்`.
+
+Final English page order / all seven joins, semantic completeness, rhetoric/repetition/quotations, source-sensitive names/forms, quantities, Periyar/Anna/Gandhi passages, Ganapathi recollection, Bharathi quotations, title/action distinction and separate closing-note handling all pass. Frozen Tamil changes during E3: **0**.
+
+English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
+**Repository closure for constituent 29.**
