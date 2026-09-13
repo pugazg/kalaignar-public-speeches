@@ -1,10 +1,10 @@
 # சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம் — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 9 / 9 source pages; 2 corrections; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 9 / 9 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **391–399** / printed **390–398**  
 **Controlling transcription source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2_part_001_pages_380-425.pdf` — extract **12–20**
 
-Tamil T1 is complete. Tamil T2 strict direct-scan fidelity audit is **PASS / COMPLETE**; the attached split-PDF scan pixels remain controlling. Tamil T3 has **not** begun.
+Tamil T1 and T2 are complete. Tamil T3 consolidation / freeze is **PASS / COMPLETE**. All T2 corrections remain consolidated; no speech-body Tamil changed during T3.
 
 ## PDF 391 / printed p.390
 
@@ -109,4 +109,16 @@ Corrections consolidated into the canonical transcription:
 
 All **8/8** page joins, source punctuation, quotations, repetitions, applause markers, names, numerals, the resolution quotation, and the separate closing note were rechecked directly against the attached split-PDF scans.
 
-Tamil T3 consolidation / freeze: **READY / NOT STARTED**.
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 9/9 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **2/2** T2 corrections remain consolidated;
+- superseded T1 speech-body readings at PDF395 are absent from the canonical body;
+- canonical page records remain **9/9**, complete / unique / ordered;
+- all **8/8** joins remain intact;
+- source-sensitive punctuation, quotations, repetitions, applause markers, names, numerals, the resolution quotation, and separate closing note remain intact;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+English E1: **READY / NOT STARTED**.
