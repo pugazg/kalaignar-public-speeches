@@ -222,7 +222,7 @@ Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verifi
 - live-main duplicate check: **PASS**;
 - Tamil T1: **READY / NOT STARTED**.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
 ## Constituent 30 — Tamil T1 complete
 
@@ -232,6 +232,14 @@ Constituent **31–32** remain source-gated / Tamil T1-ready.
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
+## Constituent 30 — Tamil T2 complete
+
+**PASS / COMPLETE — 13/13 source pages; 5 corrections; 0 unresolved.** Direct-scan corrections: PDF355 `கிரேக்க நாடு கதை` → `கிரேக்க நாட்டு கதை`; PDF356 `இதற்கு எல்லாம்` → `இதற்கெல்லாம்`; PDF358 `எழுதியினார்` → `எழுதினார்`; PDF362 `பாடப்படாதினால்` → `பாட்டுப்பாடினால்`; PDF363 unsupported full stop before `(கைத்தட்டல்)` removed. All 12 joins and source-sensitive names/forms, quotations, English phrases, `யாழ்` / `கமகம்`, Tirukkural material, applause/laughter markers, title variants and separate closing note pass.
+
+Constituents **31–32** remain source-gated / Tamil T1-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.**
+**Tamil T3 consolidation / freeze for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.**
