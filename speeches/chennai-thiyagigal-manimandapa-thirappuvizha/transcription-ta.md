@@ -1,6 +1,6 @@
 # சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 8 / 8 source pages; 3 corrections; 0 unresolved**  
+**Status:** `verified-complete` — Tamil T3 **PASS / COMPLETE — 8 / 8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved** — **FROZEN**  
 **Source range:** PDF **343–350** / printed **342–349**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -99,6 +99,21 @@ Explicit page-boundary continuations **343→344, 344→345, 345→346, 346→34
 
 Canonical page records remain **8/8**, complete, unique and ordered. Missing / duplicate page records: **0 / 0**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated in the canonical speech body;
+- superseded T1 body readings are absent;
+- canonical page records PDF **343–350** / printed **342–349** remain **8/8**, complete, unique and ordered;
+- all seven joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350** remain **PASS**;
+- source-sensitive names/titles, unusual source forms, quotations and numerals remain preserved;
+- title/action distinction remains preserved;
+- the separate closing note remains outside the speech body;
+- no speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.**
+**English E1 first-pass translation for constituent 29 — all 8 pages, translated only from frozen `transcription-ta.md`.**
