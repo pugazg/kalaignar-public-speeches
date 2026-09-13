@@ -97,6 +97,10 @@ When a constituent crosses a split boundary, the supplied pages are verified imm
 - Tamil / English — **verified-complete**;
 - repository closure — **FULLY ARCHIVED**.
 
+## C4 closure revalidation
+
+A final page-count check on `கம்பர் விழா (2)` found a structural omission in the earlier archived pair. Direct scan review restored **PDF54 / printed p.53**, corrected the following page boundaries, restored source-visible parenthetical verse forms, and reverified both Tamil and English at **15/15 explicit page sections**. C4 is again **FULLY ARCHIVED / CLOSURE REVALIDATED / 0 unresolved**.
+
 ## Active partial constituent
 
 ### 6 — `கலை வளர்ப்போம்`
