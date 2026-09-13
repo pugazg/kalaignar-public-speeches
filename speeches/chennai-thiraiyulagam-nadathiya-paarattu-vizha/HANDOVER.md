@@ -38,8 +38,21 @@ Tamil T2: **PASS / COMPLETE — 12/12 source pages; 11 corrections; 0 unresolved
 
 Tamil T3: **PASS / COMPLETE — 12/12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved**. T3 found T2 correction #8 had remained stale in the canonical body on PDF341 / printed p.340 as `ஏ.வி.எம். சரவணனும்`; it was replaced with the already source-verified `எ.வி.எம். சரவணனும்`. All **11/11** T2 corrections are now consolidated; superseded canonical readings are absent; canonical page records are complete, unique and ordered. No new source reading was introduced during T3.
 
-Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`.
+Tamil remains **`verified-complete` / FROZEN**.
+
+English E1: **COMPLETE — 12/12 pages** from frozen `transcription-ta.md` only.
+
+- English page records: **12/12**, complete and ordered;
+- missing English page records: **0**;
+- page correspondence / rhetoric / repetition / quotations / applause-laughter markers: retained;
+- source-sensitive names/titles/forms: retained without outside normalization;
+- Anna / Anjugam anecdote and Sivaji recollections: retained;
+- cheque amount / `My Dear Old Man, How are you` / Bharathidasan quotation: retained;
+- title spacing distinction and separate closing-note handling: retained;
+- frozen Tamil changes during E1: **0**.
+
+English E2 is **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.** Stop before E2 / constituent 29 / repository closure.
+**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.** Stop before E3 / constituent 29 / repository closure.
