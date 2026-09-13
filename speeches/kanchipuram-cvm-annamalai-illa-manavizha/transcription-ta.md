@@ -1,10 +1,10 @@
 # காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 8 / 8 source pages; 3 corrections; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **408–415** / printed **407–414**  
 **Controlling transcription source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2_part_001_pages_380-425.pdf` — extract **29–36**
 
-Tamil T1 is complete. Tamil T2 strict direct-scan fidelity audit is **PASS / COMPLETE**; the attached split-PDF scan pixels remain controlling. Tamil T3 has **not** begun.
+Tamil T1 and T2 are complete. Tamil T3 consolidation / freeze is **PASS / COMPLETE**. No speech-body Tamil changed during T3.
 
 ## PDF 408 / printed p.407
 
@@ -102,4 +102,19 @@ T2 rechecked:
 - the `சீர்வேந்தன் / சீர்` wordplay and applause marker;
 - separate closing note outside the speech body.
 
-Unreadable / unknown after T2: **0**. Tamil T3 consolidation / freeze: **READY / NOT STARTED**.
+Unreadable / unknown after T2: **0**.
+
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 speech-body readings are absent from the canonical body;
+- the `Side Effect / சைடு எபெக்ட்` passage, 1925 Kanchipuram / communal-representation passage, `சீர்வேந்தன் / சீர்` wordplay and applause marker remain intact;
+- canonical page records remain **8/8**, complete / unique / ordered;
+- all **7/7** joins remain intact;
+- separate source closing note remains outside the speech body;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+English E1: **READY / NOT STARTED**.
