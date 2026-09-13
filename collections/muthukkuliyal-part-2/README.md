@@ -10,7 +10,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **29 / 36**
 - Tamil T1 complete: **29 / 36**
 - Tamil T2 complete: **29 / 36**
-- Tamil T3 complete / Tamil verified: **28 / 36**
+- Tamil T3 complete / Tamil verified: **29 / 36**
 - English E1 complete: **28 / 36**
 - English E2 complete: **28 / 36**
 - English E3 complete / English verified: **28 / 36**
@@ -143,6 +143,14 @@ Collection state: source-gated **29/36**; Tamil T1 **29/36**; Tamil T2/T3 / Tami
 
 Collection state: source-gated **29/36**; Tamil T1/T2 **29/36**; Tamil T3 / Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.** All **3/3** T2 corrections remain consolidated; superseded T1 body readings are absent; canonical records remain complete / unique / ordered; all seven joins pass; source-sensitive names/forms/quotations/numerals, title/action distinction and separate closing-note handling pass. Speech-body Tamil changes during T3: **0**.
+
+Tamil is now **`verified-complete` / FROZEN**.
+
+Collection state: source-gated **29/36**; Tamil T1/T2/T3 / Tamil verified **29/36**; English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.** Stop before English / constituent 30.
+**English E1 first-pass translation for constituent 29 — all 8 pages from frozen Tamil only.** Stop before E2 / constituent 30.
