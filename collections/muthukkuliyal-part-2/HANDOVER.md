@@ -173,6 +173,19 @@ Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 
 
 Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **29/36**; fully archived **28/36**.
 
+## Constituent 29 — durable repository closure
+
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- Tamil: **`verified-complete` / FROZEN**; T2 **3**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
+- English: **`verified-complete`**; E2 **5**, E3 **1**, unresolved **0**;
+- PDF **343–350** / printed **342–349**: **PASS**;
+- page order / all seven joins, title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- root catalogue synchronization: **PASS**;
+- source PDF remains uncommitted.
+
+Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**. Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Repository closure for constituent 29.** Stop before constituent 30 source gate.
+Constituent **30** `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — **source / duplicate / boundary gate**, PDF **351–363** / printed **350–362**.
