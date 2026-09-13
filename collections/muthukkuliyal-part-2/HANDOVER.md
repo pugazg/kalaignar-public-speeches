@@ -96,7 +96,7 @@ Directory: `speeches/chennai-thiyagigal-manimandapa-thirappuvizha/`
 
 - source / duplicate / boundary gate: **PASS / COMPLETE — 8/8**
 - range: PDF **343–350** / printed **342–349**
-- date / venue / event / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `திறந்து வைத்து ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து` / `ஆற்றிய உரை`
 - closing note: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`
 - explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**
 - prior boundary: PDF342 / printed p.341 closes constituent 28
