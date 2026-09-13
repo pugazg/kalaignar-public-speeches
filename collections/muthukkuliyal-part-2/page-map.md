@@ -75,7 +75,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English verified-complete — repository closure pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 30–36 | — | not started |
 
 ## Current processing status
@@ -88,15 +88,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - English E1 complete: **29/36**
 - English E2 complete: **29/36**
 - English E3 complete / English verified: **29/36**
-- fully archived: **28/36**
-- constituents **1–28: CLOSED / FULLY ARCHIVED**
+- fully archived: **29/36**
+- constituents **1–29: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English verified-complete — repository closure pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 
 ## Constituent 27 — source / duplicate / boundary gate
 
@@ -240,6 +240,17 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - frozen Tamil changes during E3: **0**;
 - English is **`verified-complete`**.
 
+## Constituent 29 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+- Tamil: **`verified-complete` / FROZEN**; T2 **3**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
+- English: **`verified-complete`**; E2 **5**, E3 **1**, unresolved **0**;
+- source range / all seven joins: **PASS**;
+- title/action distinction and separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- root catalogue synchronization: **PASS**.
+
 ## Next activity
 
-Constituent **29** only — **repository closure**. Stop before constituent 30 source gate.
+Constituent **30** — `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — **source / duplicate / boundary gate**, PDF **351–363** / printed **350–362**. Do not begin Tamil T1 in the same activity.
