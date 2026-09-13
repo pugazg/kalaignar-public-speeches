@@ -35,8 +35,9 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 12/12** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending E1/E2 |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -59,6 +60,14 @@ All **12** scans were re-read directly. Canonical page order / explicit joins, n
 
 Tamil T3 is **READY / NOT STARTED**.
 
+## Tamil T3
+
+**PASS / COMPLETE — 12/12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved.** T3 detected that one already source-proven T2 correction had not been consolidated into the canonical speech body: PDF341 / printed p.340 `ஏ.வி.எம். சரவணனும்` → `எ.வி.எம். சரவணனும்`. The canonical body was repaired without introducing any new source reading.
+
+All **11/11** T2 corrections are now consolidated; superseded canonical speech-body readings are absent. Canonical page records are complete, unique and ordered; recorded page joins, names/titles, numerals, punctuation, quotations, repetitions, applause/laughter markers, the Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation, title distinction and the separate closing note all pass.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 28 — all 12 source pages.**
+**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.**
