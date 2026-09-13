@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 27 Tamil T2
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 27 Tamil T3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–26 are CLOSED / FULLY ARCHIVED**. Constituent **27 has Tamil T1 COMPLETE — 16/16 source pages**. Constituent **28 remains source-gated with Tamil T1 not started**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–26 are CLOSED / FULLY ARCHIVED**. Constituent **27 has Tamil T2 PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved**. Constituent **28 remains source-gated with Tamil T1 not started**.
 
 ## Controlling source
 
@@ -21,7 +21,8 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–26 a
 - mapped: **36/36**
 - started / source-gated: **28/36**
 - Tamil T1 complete: **27/36**
-- Tamil T2/T3 complete / Tamil verified: **26/36**
+- Tamil T2 complete: **27/36**
+- Tamil T3 complete / Tamil verified: **26/36**
 - English verified: **26/36**
 - fully archived: **26/36**
 
@@ -32,18 +33,20 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–26 a
 
 - source gate: **PASS / COMPLETE — 16/16**
 - Tamil T1: **COMPLETE — 16/16**
+- Tamil T2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**
 - PDF **315–330** / printed **314–329**
-- canonical page records: **16/16**, complete and ordered
-- missing page records: **0**
-- explicit unreadable / unknown placeholders: **0**
-- title variants preserved:
-  - contents: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`
-  - page heading: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
-  - closing-note event: `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
-- separate closing note: **preserved outside the speech body**
-- explicit page-boundary continuations for T2: **315→316, 316→317, 317→318, 319→320, 320→321, 321→322, 322→323, 323→324, 325→326, 327→328, 328→329, 329→330**
-- source-sensitive T2 attention includes `அடுக்குமொழி / தடுக்குமொழி`, `சொல்லியாகவேண்டும்`, `பொதுப்பணியாற்றி`, `சரத்துக்கள்`, `பேச்சியாகி விட்டது`, `பூராணிகர்கள் பாஷையில்`, the poem beginning `கன்னடமும், களி தெலுங்கும்`, the `X / N,O / R,A` wordplay, chronology / numerals, and source punctuation / spacing
-- Tamil T2: **READY / NOT STARTED**
+- canonical page records: **16/16**, complete, unique and ordered
+- T2 corrections:
+  - PDF321 / p.320: `அந்தப் பொதுப்பணித்துறை அமைச்சராக` → `அந்த பொதுப்பணித்துறை அமைச்சராக`
+  - PDF321 / p.320: `பொதுப்பணித்துறையையும்` → `பொதுப் பணித்துறையையும்`
+  - PDF321 / p.320: `68-ஆம் ஆண்டு பேச்சு தொடங்கி` → `68-ஆம் ஆண்டு பேசத் தொடங்கி`
+  - PDF326 / p.325: `நான்கைந்து முதலவர்களோடு` → `நான்கைந்து முதல்வர்களோடு`
+  - PDF326 / p.325: `ஓமந்தூர் இராமசாமி ரெட்டியார்தான்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார்தான்`
+  - PDF327 / p.326: `ஓமந்தூர் இராமசாமி ரெட்டியார் அவர்கள்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார் அவர்கள்`
+- explicit joins: **PASS**
+- Tamil poem / Exnora `X / N,O / R,A` wordplay: **PASS**
+- names / numerals / punctuation / quotations / repetitions / applause-laughter markers / source-sensitive forms / title variants / separate closing note: **PASS**
+- Tamil T3: **READY / NOT STARTED**
 
 ## Constituent 28
 
@@ -51,8 +54,8 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–26 a
 
 ## Exact activity
 
-Perform **Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages**. Re-read PDF **315–330** line by line against the controlling scans. Verify every name, numeral, punctuation mark, repeated phrase, quotation, applause/laughter marker, source-sensitive form, page-boundary continuation and the separate closing note. Apply only scan-confirmed corrections to `transcription-ta.md`; do not silently modernize or normalize unusual source wording. Record exact T2 correction count and unresolved readings.
+Perform **Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages**. Confirm all **6/6** T2 corrections are present in the canonical body and all superseded readings are absent. Verify all 16 page records and order, recorded page joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers, the Tamil poem, the Exnora wordplay, source-sensitive readings, title variants and the separate closing note. Mark Tamil `verified-complete` / FROZEN only if all checks pass.
 
 ## STOP RULE
 
-Stop after Tamil T2 for constituent 27. **Do not begin Tamil T3, constituent 28 Tamil T1, English work, or repository closure in the same activity.**
+Stop after Tamil T3 for constituent 27. **Do not begin constituent 28 Tamil T1, English E1, or repository closure in the same activity.**
