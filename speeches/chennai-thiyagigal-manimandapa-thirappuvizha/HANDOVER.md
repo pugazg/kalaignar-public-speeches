@@ -67,6 +67,22 @@ Tamil T3: **PASS / COMPLETE — 8/8 source pages; 0 additional source correction
 
 Tamil is now **`verified-complete` / FROZEN**.
 
+## Durable English E1 result
+
+English E1: **COMPLETE — 8/8 pages**.
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **8/8**, complete and ordered;
+- missing page records: **0**;
+- all seven page joins retained;
+- rhetoric / repetition / quotations retained;
+- source-sensitive names/titles/forms retained without outside normalization;
+- Periyar / Anna / Gandhi passages and Ganapathi recollection retained;
+- quantities **50 / 1250 / 250 / 1000**, Bharathi quotations, title/action distinction and separate closing note retained;
+- frozen Tamil changes during E1: **0**.
+
+English E2 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 29 — all 8 pages from frozen `transcription-ta.md` only.** Stop before E2 / constituent 30.
+**English E2 page-by-page fidelity review for constituent 29 — all 8 English page records against frozen Tamil.** Stop before E3 / constituent 30.
