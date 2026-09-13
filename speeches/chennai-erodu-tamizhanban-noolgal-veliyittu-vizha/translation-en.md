@@ -1,6 +1,6 @@
 # Chennai - Erode Tamizhanban Books Release Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 19/19 pages**  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 19/19 pages; 7 corrections; 0 unresolved**  
 **Authority:** frozen `transcription-ta.md` only  
 **Source range:** PDF **372–390** / printed **371–389**
 
@@ -104,7 +104,7 @@ cursed the night?
 Why is its body
 all eyes?”
 
-You all know the story of Ahalya and Gautama. It is a story involving Indra. Indra violates Ahalya. “She too consented,” was said not by me but by Va. Ra. Gautama the sage suddenly comes upon this and curses Indra. After telling Ahalya, “Become stone,” he curses Indra that his entire body shall become eyes
+You all know the story of Ahalya and Gautama. It is a story involving Indra. Indra rapes Ahalya. “She too consented,” was said not by me but by Va. Ra. Gautama the sage suddenly comes upon this and curses Indra. After telling Ahalya, “Become stone,” he curses Indra that his entire body shall become eyes
 
 ## PDF 377 / printed p.376
 
@@ -174,7 +174,7 @@ At that meeting,
 the song
 grew a moustache.”
 
-Having submitted its resignation, the song that left the flute met you. A song comes out of the flute. Music comes out. When air is blown into the flute, music enters it, they say. When it comes out, what is it like? It comes out after submitting a resignation and releasing the music. The song that left the flute after submitting its resignation met you. At that meeting the song grew a moustache. That song, they say, became a heroic song in the first part.
+Having submitted its resignation, the song that left the flute met you. A song comes out of the flute. Music comes out. When air is blown into the flute, music enters it, they say. When it comes out, what is it like? It comes out after submitting a resignation and releasing the music. The song that left the flute after submitting its resignation met you. At that meeting the song grew a moustache. That song, they say, became a heroic song in its earlier phase.
 
 ## PDF 381 / printed p.380
 
@@ -220,7 +220,7 @@ I know which alliance he is referring to. I know which Rama he means. He intends
 
 ## PDF 383 / printed p.382
 
-— do you know what he said about Ravana? Even before Bharathidasan, the person who gave Bharathidasan and us the first step in this direction was Pandit Jawaharlal Nehru. In his *World History*, he said that the Ramayana was an Aryan-Dravidian struggle. Therefore there can be no doubt that Ravana was a Dravidian, a Dravidian king. Pandit Nehru himself gives testimony to this. On that basis we argue that Ravana was a Dravidian king. We keep telling that truth to the town and to the world.
+— do you know what he said about Ravana? Even before Bharathidasan, the person who gave Bharathidasan and us the lead in this direction was Pandit Jawaharlal Nehru. In his *World History*, he said that the Ramayana was an Aryan-Dravidian struggle. Therefore there can be no doubt that Ravana was a Dravidian, a Dravidian king. Pandit Nehru himself gives testimony to this. On that basis we argue that Ravana was a Dravidian king. We keep telling that truth to the town and to the world.
 
 To prove, “I am not a merciless demon,” Perarignar Anna wrote the play *Neethi Devan Mayakkam*, which could run for three hours and was built around the single question, “Am I a merciless demon?” He himself acted as Ravana, and *Neethi Devan Mayakkam* was staged throughout Tamil Nadu. In that play, the person who would repeatedly play Neethi Devan and faint and fall was our Professor Anbazhagan — I am duty-bound to remind you of that. (Loud applause) For, unable to answer Ravana's questions, all the great sages would be confounded. “You cursed Ahalya — did you have compassion then?” Ravana would ask one such question after another, tormenting all the sages, and finally he would win. “I am not a merciless demon; do you know who the merciless ones are?” he would ask, and Ravana would plant the flag of victory.
 
@@ -235,7 +235,7 @@ The valiant Tamil who once ruled that Lanka,
 who spread his fame in all ten directions!
 With mighty shoulders that could lift mountains,
 with a hand that gave generously!
-Death to the pack that acts like cunning jackals!
+The doom of the pack that acts like cunning jackals!
 Ancestor of my Tamils; lord of my Tamils—
 behold Ravana! His name
 the whole world knows!”
@@ -243,7 +243,7 @@ the whole world knows!”
 Following that Ravana sung by Revolutionary Poet Bharathidasan, I wrote in my poem *Thennavan Kaathai*:
 
 “Like a lamp lit
-in the southern land left in darkness,
+in the southern land that had become two,
 the king of Lanka rose and stood.
 If I were to tell his history...
 every muscle
@@ -255,7 +255,7 @@ the deep seas its dark iris! The great warrior
 who brought fame to Tamil soil;
 a lion in form — gold at heart — one who lived
 without peer in the modes of the yazh,
-a sacred man of Yalpanam! a mountain-Tamil!
+a man of the sacred land of Yalpanam! a mountain Tamil!
 
 ## PDF 385 / printed p.384
 
@@ -266,7 +266,7 @@ Erode Tamizhanban would have read this too. He would also have read the earlier 
 
 For, according to the evidence given by Nehru, and according to evidence given by great scholars such as Srinivasa Iyengar who wrote Indian history, Ravana was a Tamil king, a Dravidian. Do not depict him as a tyrant. There may have been mistakes in his life. For those mistakes do not portray him as a wrongdoer or unjust man. Since I have the right, in the midst of this function where all of us are praising Tamizhanban and showering him with honey and sugar candy, to offer a gentle, affectionate rebuke, I ask him to avoid going so far as to say that merely joining Ravana makes the corpses of dharma float.
 
-In another place, as our Tamilkudimagan beautifully pointed out here, he brought together the Revolutionary Poet Bharathidasan's song about the Tamil movement and these lines used by our Erode Tamizhanban. With great anguish, as though driving a spear into our heart and mind, there is a poem in just four lines:
+In another place, as our Tamilkudimagan beautifully pointed out here, he brought together the Revolutionary Poet Bharathidasan's song about the Tamil movement and these lines used by our Erode Tamizhanban. With great anguish, as though driving a spear into our heart and mind, there is a poem, in just four lines:
 
 ## PDF 386 / printed p.385
 
@@ -406,6 +406,38 @@ There is a printing error here. Instead of ‘உன் திருமணத்
 - frozen Tamil changes during E1: **0**;
 - this is an E1 first-pass translation, not yet an E2 fidelity claim.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 19/19 pages; 7 corrections; 0 unresolved.**
+
+Confirmed E2 corrections consolidated into the English translation:
+
+1. PDF376 / printed p.375: `Indra violates Ahalya` → **`Indra rapes Ahalya`**, preserving the explicit frozen-Tamil verb `கற்பழித்து`.
+2. PDF380 / printed p.379: `became a heroic song in the first part` → **`became a heroic song in its earlier phase`**, aligning more closely with `முற்பகுதியில்`.
+3. PDF383 / printed p.382: `gave Bharathidasan and us the first step in this direction` → **`gave Bharathidasan and us the lead in this direction`**, preserving the idiomatic force of `அடியெடுத்துக் கொடுத்தவர்`.
+4. PDF384 / printed p.383: `Death to the pack that acts like cunning jackals!` → **`The doom of the pack that acts like cunning jackals!`**, preserving `கூற்றம்` as a nominal image rather than an imperative.
+5. PDF384 / printed p.383: `in the southern land left in darkness` → **`in the southern land that had become two`**, following the frozen Tamil's unusual printed form `இரண்டு விட்ட` without silently normalizing it to `இருண்டு விட்ட`.
+6. PDF384 / printed p.383: `a sacred man of Yalpanam! a mountain-Tamil!` → **`a man of the sacred land of Yalpanam! a mountain Tamil!`**, preserving the syntactic attachment of `திருநாட்டான்`.
+7. PDF385 / printed p.384: punctuation around the introduction to the four-line poem was tightened to preserve the source's direct transition into `நான்கே வரிகளில் ஒரு கவிதை`.
+
+E2 verification result:
+
+- pages checked: **19/19**, PDF **372–390** / printed **371–389**;
+- missing / duplicate English page records: **0 / 0**;
+- all eighteen page joins: **PASS**;
+- semantic completeness: **PASS**;
+- embedded poem lineation / quotation structure: **PASS**;
+- source-sensitive names and literary/historical references: **PASS / no outside normalization**;
+- Bharathi / Bharathidasan passages: **PASS**;
+- Gautama / Ahalya–Indra passage: **PASS**;
+- `Subramaniyar Thuthi Amudhu`, `Khadi Irattina Paattu`, `Neethi Devan Mayakkam`, `Thennavan Kaathai`: **PASS**;
+- Ravana / Rama political-literary framing: **PASS**;
+- applause markers: **PASS**;
+- printed typo contrast `திருமணத்திற்கு` / `திருணமத்திற்கு`: **PASS**;
+- title-spacing variants / separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 32 — all 19 English page records against frozen Tamil.**
+**English E3 final end-to-end verification for constituent 32 — all 19 pages.**
