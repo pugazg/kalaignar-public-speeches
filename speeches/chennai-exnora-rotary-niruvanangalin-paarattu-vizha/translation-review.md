@@ -2,7 +2,7 @@
 
 **English E1:** **COMPLETE — 16/16 pages**  
 **English E2:** **PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved**
 
 Tamil remains **`verified-complete` / FROZEN**. English E2 independently compared all sixteen English page records against frozen `transcription-ta.md`. All confirmed E2 corrections are consolidated in `translation-en.md`; frozen Tamil changes during E2: **0**.
 
@@ -50,6 +50,38 @@ Tamil remains **`verified-complete` / FROZEN**. English E2 independently compare
 - separate source closing note: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## E3 final verification
+
+**PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved.**
+
+All **6/6** E2 corrections remain consolidated. E3 identified two final fidelity issues:
+
+1. **PDF317 / printed p.316 — causal scope restored**  
+   E2: `The person who made it possible for me to be here then`  
+   Corrected: **`The person who made all that possible at the time`**  
+   Reason: `அதற்குக் காரணமாக அன்றைக்கு இருந்தவர்` refers back to the accomplishments just mentioned and should not be narrowed to the speaker’s physical presence.
+
+2. **PDF327 / printed p.326 — Puranic-storyteller sentence tightened**  
+   The final wording keeps **`நம்முடைய போதாத காலம்`** explicit as `because it was our bad time` and keeps **`மழை வெள்ளத்திற்கு இலக்காகி`** explicit as the water being caught in rains and floods.
+
+Final end-to-end result:
+
+- English pages checked: **16/16**;
+- missing / duplicate page records: **0 / 0**;
+- all **6/6** E2 corrections remain consolidated;
+- stale superseded speech-body readings: **0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- chronology / numeral forms: **PASS**;
+- applause / laughter markers: **PASS**;
+- contents / page-heading / closing-note title distinctions: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 27 — all 16 pages.**
+**Repository-level archival closure for constituent 27.**
