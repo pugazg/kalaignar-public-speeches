@@ -11,12 +11,12 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **27 / 36**
 - Tamil T2 complete: **27 / 36**
 - Tamil T3 complete / Tamil verified: **27 / 36**
-- English E1 complete: **26 / 36**
-- English E2 complete: **26 / 36**
-- English E3 complete / English verified: **26 / 36**
-- fully archived: **26 / 36**
+- English E1 complete: **27 / 36**
+- English E2 complete: **27 / 36**
+- English E3 complete / English verified: **27 / 36**
+- fully archived: **27 / 36**
 
-Constituents **1–26 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–27 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituent 27 — source gate complete
 
@@ -72,6 +72,26 @@ Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT START
 
 Collection state: source-gated **28/36**; Tamil T1/T2/T3 complete / Tamil verified **27/36**; English verified **26/36**; fully archived **26/36**. Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
 
+## Constituent 27 — English E1 complete
+
+**COMPLETE — 16/16 pages.** Translation authority was frozen Tamil only; missing English records **0**; page correspondence, rhetoric / repetition / quotations, applause-laughter markers, source-sensitive names/forms, chronology/numerals, Tamil poem, Exnora wordplay, title distinctions and separate closing-note handling pass. Frozen Tamil changes during E1: **0**.
+
+## Constituent 27 — English E2 complete
+
+**PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved.** Fidelity corrections removed one unsupported gloss and one added metaphor, restored `Omaandur` in two occurrences, restored the source honorific `Annai`, and preserved the source’s explicit `three rivers` classification. Frozen Tamil changes during E2: **0**.
+
+## Constituent 27 — English E3 complete / English verified
+
+**PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved.** All **6/6** E2 corrections remain consolidated; E3 restored the broader causal scope of the Seshan sentence and tightened the Puranic-storyteller / `போதாத காலம்` sentence. English is **`verified-complete`**; frozen Tamil changes during E3: **0**.
+
+## Constituent 27 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 16/16 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **6 corrections**, T3 **0 additional**, unresolved **0**. English remains **`verified-complete`** with E2 **6 corrections**, E3 **2 additional**, unresolved **0**. Source range, page order / joins, title distinctions, Tamil poem, Exnora wordplay, separate closing note, constituent controls, parent collection controls and root catalogue agree. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+Collection state: mapped **36/36**; source-gated **28/36**; Tamil verified **27/36**; English verified **27/36**; fully archived **27/36**. Constituents **1–27 are CLOSED / FULLY ARCHIVED**.
+
+Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.** Stop before E2 / constituent 28 Tamil T1.
+**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages, PDF 331–342 / printed 330–341.**
