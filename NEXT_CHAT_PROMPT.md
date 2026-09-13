@@ -1,19 +1,17 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 English E3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 repository closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Constituent **29 has source gate and Tamil T1/T2/T3 COMPLETE; Tamil is `verified-complete` / FROZEN; English E1 and E2 are COMPLETE**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Constituent **29 has source gate, Tamil T1/T2/T3 and English E1/E2/E3 COMPLETE**. Tamil is **`verified-complete` / FROZEN** and English is **`verified-complete`**.
 
 ## Durable collection state
 
 - mapped: **36/36**
 - started / source-gated: **29/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **29/36**
-- English E1 complete: **29/36**
-- English E2 complete: **29/36**
-- English E3 complete / English verified: **28/36**
+- English E1/E2/E3 complete / English verified: **29/36**
 - fully archived: **28/36**
 
 ## Constituent 29
@@ -22,28 +20,29 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–28 a
 `speeches/chennai-thiyagigal-manimandapa-thirappuvizha/`
 
 - source range: PDF **343–350** / printed **342–349**
+- Tamil T1: **COMPLETE — 8/8**
+- Tamil T2: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**
 - Tamil: **`verified-complete` / FROZEN**
 - English E1: **COMPLETE — 8/8**
 - English E2: **PASS / COMPLETE — 8/8; 5 corrections; 0 unresolved**
-- E2 corrections:
-  1. PDF344: unsupported `for the burial` gloss removed
-  2. PDF346: source `these two movements` wording restored
-  3. PDF346: unsupported `perhaps` removed
-  4. PDF347: unsupported `many` removed
-  5. PDF348: `comfort and hardship` → `joys and sorrows`
-- page correspondence / all seven joins: **PASS**
-- semantic completeness / rhetoric / quotations / source-sensitive names/forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**
-- frozen Tamil changes during E1/E2: **0 / 0**
-- English E3: **READY / NOT STARTED**
+- English E3: **PASS / COMPLETE — 8/8; 1 additional correction; 0 unresolved**
+- English: **`verified-complete`**
+- all seven page joins: **PASS**
+- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**
+- separate closing note and title/action distinction: **PASS**
+- repository closure: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **English E3 final end-to-end verification for constituent 29 — all 8 pages**.
+Perform **repository closure for constituent 29**.
 
-Confirm all **5/5** E2 corrections remain consolidated, stale superseded English body readings are absent, English page records are complete / unique / ordered, all seven joins pass, semantic completeness is intact, and source-sensitive names/forms, quantities, rhetoric/repetition/quotations, Bharathi quotations, title/action distinction and separate closing note remain faithful to frozen Tamil. Correct only confirmed final English fidelity issues. Do not alter frozen Tamil.
+Synchronize and validate constituent `translation-en.md`, `translation-review.md`, `metadata.json`, `audit.md`, `README.md`, `HANDOVER.md`; collection `metadata.json`, `README.md`, `HANDOVER.md`, `audit.md`, `page-map.md`; root `README.md`; and `NEXT_CHAT_PROMPT.md`.
 
-If E3 passes, mark English `verified-complete` and leave repository closure as the next gate.
+Closure must introduce **0 Tamil and 0 English speech-body changes**. Confirm source range / page order / joins, Tamil and English correction counts, title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing-note handling. Mark constituent 29 **FULLY ARCHIVED** only if all controls agree.
+
+After closure, collection totals should be fully archived **29/36** and the next gate should be the **source / duplicate / boundary gate for constituent 30**. Do not start constituent 30 in the same activity.
 
 ## STOP RULE
 
-Stop after constituent 29 English E3. **Do not begin repository closure, constituent 30, or any source gate for the next constituent in the same activity.**
+Stop after constituent 29 repository closure. **Do not begin constituent 30 source gate in the same activity.**
