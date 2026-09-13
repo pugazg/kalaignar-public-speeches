@@ -143,7 +143,9 @@ G.K. Sundaram also referred to the killing of Vali. Rajaji's defence, as quoted,
 
 On the Vali episode, therefore, no one really accepts Rama's conduct without difficulty. We must regard these figures as literary characters rather than surround them with additional imagination.
 
-More importantly, Kamban himself makes Rama acknowledge the moral burden of attacking from concealment. This becomes clear after Ravana's death. When Rama sees a scar on Ravana's back, he grieves: “Did I kill one who had a wound on his back? Is it fitting for a warrior to kill one whose back bears such a mark?”
+More importantly, rather than merely having me or others say that Rama's attack on Vali from concealment was wrong, Kamban makes Rama himself say it. Where? Not in the Vali episode. He says it after Ravana has died. Those who have read the Kamba Ramayanam may ask, “What new story is this? I do not remember him saying so.”
+
+Ravana lies dead on the battlefield. Rama comes with Ravana's younger brother Vibhishana and looks at him. He sees a scar on Ravana's back. Rama grieves: “Alas! Did I kill a man who bore a scar on his back? Is it worthy of a warrior to kill one who had been wounded on the back? Did I kill a man marked on his back?”
 
 Kamban gives the verse:
 
@@ -156,21 +158,47 @@ Kamban gives the verse:
 ஆண் தொழிலோனிற் பெற்ற
 வெற்றியும் அவத்தம் என்றான்.”
 
-Kamban thereby reveals Ravana's valour and Rama's concern for the ethics of battle.
-
 ## PDF 54 / printed p.53
 
-If Rama is troubled by the thought that he may have killed a warrior who bore a wound on his back, how long must he have been troubled by having killed Vali from concealment? That is the question I put to those who argue for Kamban and for Rama.
+Then Vibhishana says — or rather, Kamban makes Vibhishana say:
 
-Even here I am arguing on Rama's side. His distress over the possibility of dishonour shows how deeply he valued martial ethics; therefore we must also imagine his anguish over Vali.
+“That scar did not come from turning his back in battle, Rama! Once before, my elder brother Ravana fought an elephant. The elephant's tusks entered his chest, pierced through him and emerged above his back. That is how the scar was formed.”
 
-Characters should be treated as characters. Our difficulty begins when, instead of honouring the poets who created them, we begin to give excessive sacred status to the characters themselves. Professor Sundaram Pillai wrote *Manonmaniam*. We remember him, but we do not worship Jeevakan, Purudothaman or Manonmani as gods.
+Kamban then gives the verses:
 
-In Kamban's case, however, society has often given greater reverence to the characters than to the poet who created them. Sa. Ganesan began changing that tendency in Karaikudi thirty-five years ago
+“நாடுள தனையும் ஒடி
+நண்ணலார்க் காண்கி லாமற்
+பீடுள குன்றம் போலும்
+பெருந்திசை எல்லை யானைக்
+கோடுள தனையும் புக்குக்
+கொடும் புழுத் தழுந்து புண்ணின்
+பாடுளது அன்றித் தெவ்வர்
+படைக்கலம் பட்டு என் செய்யும்?”
+
+“அப்பனை அனைத்தும் மார்புக்கு
+அணி எனக் கிடந்த; வீரக்
+கைப்பணை முழங்க மேனாள்
+அமரிடைக் கிடைத்த காலன
+துப்பனை வயிர வாளி
+விசையிலும், காலின் தோன்றல்
+வெப்பனை குத்தினாலும்,
+வெறிநடைப் போய அன்றே.”
+
+Kamban thus makes Vibhishana bring out Ravana's valour. Rama himself is therefore troubled: we have killed a man who bore a scar upon his back —
 
 ## PDF 55 / printed p.54
 
-by establishing a festival centred on the poet himself — the creator of the epic as the one worthy of praise, honour and appreciation. I therefore congratulate and salute this festival for consistently affirming that the distinction belongs to Kamban.
+and disgrace may come upon us! I say this so that those who argue for Kamban and for Rama may reflect on how long Rama, who lays down the code of valour, must have suffered mental anguish over having killed Vali from concealment.
+
+Even here I am arguing on Rama's side. He suffers so deeply at the thought that he has killed a man bearing a scar on his back — that his own martial standing has been damaged and ruined. We must therefore also consider how much he must have regretted the act of killing Vali from concealment.
+
+Characters should be treated as characters. Our difficulty begins when, instead of honouring the poets who create epics, we begin to give excessive reverence to the characters they create. Professor Sundaram Pillai wrote *Manonmaniam*. We remember him, but we have not turned Jeevakan, Purudothaman and Manonmani into deities to be worshipped.
+
+In Kamban's case, however, a situation arose in which his characters received excessive reverence while the poet who created the epic was forgotten. Thirty-five years ago, our Sa. Ganesan began a new revolution in Karaikudi to change that tendency —
+
+## PDF 56 / printed p.55
+
+by holding Kambar Festivals on the principle that the person who created the epic is the hero and is the one worthy of praise, honour and appreciation. I congratulate and salute this festival for continuing to establish that the distinction belongs to Kamban.
 
 ## Separate source closing note — outside speech body
 
@@ -179,8 +207,8 @@ by establishing a festival centred on the poet himself — the creator of the ep
 ## English audit
 
 - E1: **COMPLETE — 15/15 pages**;
-- E2 fidelity review: **PASS / COMPLETE — 15/15; 0 corrections; 0 unresolved**;
-- E3 final verification: **PASS / COMPLETE — 15/15; 0 additional corrections; 0 unresolved**;
+- E2 fidelity review: **PASS / COMPLETE — 15/15; 1 post-closure fidelity repair; 0 unresolved**;
+- E3 final verification: **PASS / COMPLETE — 15/15; reverified after PDF54 restoration; 0 unresolved**;
 - frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**;
 - all **14/14** joins, including cross-split **49→50**: **PASS**;
 - Kamban/Sadaiyappa/Nathamuni discussion, Ayodhya-poverty argument, Vali/Ravana ethics passage, quoted verses and closing note: **PASS**;
@@ -190,4 +218,15 @@ by establishing a festival centred on the poet himself — the creator of the ep
 
 **PASS / COMPLETE — FULLY ARCHIVED — 15/15 pages.**
 
-Closure speech-body changes: Tamil **0**, English **0**. Source binaries remain uncommitted. No transcription or translation work remains pending for constituent 4.
+Closure speech-body changes after the later fidelity repair: Tamil **1 restored source page**, English **1 restored translated page**. Source binaries remain uncommitted. No transcription or translation work remains pending for constituent 4.
+
+
+## Post-closure English fidelity repair
+
+The Tamil repair restored the previously omitted **PDF54 / printed p.53** page. English was correspondingly repaired by:
+- translating the restored Vibhishana explanation;
+- preserving both restored Kamban verses;
+- shifting the following body sections to **PDF55** and **PDF56**;
+- reverifying the separate closing note on PDF56.
+
+Final explicit English page headings: **15/15**. Unresolved: **0**.
