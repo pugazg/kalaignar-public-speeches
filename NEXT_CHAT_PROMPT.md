@@ -84,6 +84,19 @@ Original source: `TVA_BOK_0065801_முத்துக்குளியல்_
 - Tamil + English **verified-complete**;
 - **FULLY ARCHIVED**.
 
+## C4 repair is closed
+
+`கம்பர் விழா (2)` post-closure source-fidelity repair is **COMPLETE / REVALIDATED**:
+
+- final Tamil page sections — **15/15**;
+- final English page sections — **15/15**;
+- PDF54 / printed53 restored;
+- PDF55–56 boundaries corrected;
+- source parenthetical verse forms restored;
+- unresolved — **0**.
+
+Do not reopen C4 unless a genuinely new source-fidelity issue appears.
+
 ## Active constituent 6 — `கலை வளர்ப்போம்`
 
 Directory: `speeches/kalai-valarppom/`
