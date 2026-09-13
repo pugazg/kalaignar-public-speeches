@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 English E1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 27 source gate
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–25 are CLOSED / FULLY ARCHIVED**. Constituent **26 has completed Tamil T3 and its Tamil layer is `verified-complete` / FROZEN**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–26 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source evidence appears.
 
 ## Controlling source
 
@@ -21,35 +21,33 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–25 a
 - mapped: **36/36**
 - started / source-gated: **26/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **26/36**
-- English E1/E2/E3 complete / English verified: **25/36**
-- fully archived: **25/36**
+- English E1/E2/E3 complete / English verified: **26/36**
+- fully archived: **26/36**
 
-## Constituent 26
+## Constituent 27 map
 
-`சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை` — `speeches/chennai-aazhvargal-aaivu-maiya-vizha-urai/`
+Contents mapping currently records:
 
-- source gate: **PASS / COMPLETE — 20/20**
-- Tamil T1: **COMPLETE — 20/20**
-- Tamil T2: **PASS / COMPLETE — 20/20; 2 corrections; 0 unresolved**
-- Tamil T3: **PASS / COMPLETE — 20/20; 0 additional corrections; 0 unresolved**
-- Tamil state: **`verified-complete` / FROZEN**
-- PDF **295–314** / printed **294–313**
-- T2 corrections retained:
-  - PDF296 / p.295 `அந்த அளவிற்குத் தேன் குடத்திலே`
-  - PDF303 / p.302 `குரு வியாக்யானம் செய்கிறாரே`
-- stale superseded canonical body readings: **0**
-- canonical page records: **20/20**, complete, unique and ordered
-- explicit joins: **PASS**
-- source-sensitive readings / chronology / numeral forms: **PASS**
-- title variants: **PASS / preserved separately**
-- separate closing note: **PASS**
-- speech-body Tamil changes during T3: **0**
-- English E1: **READY / NOT STARTED**
+- contents title: **`சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`**
+- contents date: **26-09-98**
+- printed pages: **314–329**
+- mapped PDF scans: **315–330**
+- mapped extent: **16 pages**
+- prior boundary: PDF314 / printed p.313 closes constituent 26
+
+Treat the scans as controlling. Verify exact title variants, date / venue / event / role, opening and ending boundaries, page count and any separate closing note rather than assuming the contents wording is identical to the page heading.
 
 ## Exact activity
 
-Perform **English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages**. Translate only from frozen `transcription-ta.md`; preserve PDF/printed-page correspondence, rhetoric, repetition, quotations, laughter/applause markers, source-sensitive names/forms, chronology/numerals, and the separate closing note. Do not silently normalize unusual Tamil.
+Perform the **source / duplicate / boundary gate for constituent 27 only**:
+
+1. inspect PDF **315–330** directly;
+2. verify the mapped 16-page boundary, including PDF314 before it and PDF331 after it;
+3. establish exact title / title variants and only source-supported date, venue, event and role;
+4. search live `main` for any existing dedicated archive before creating one;
+5. create the standard seven constituent files only if no duplicate exists;
+6. synchronize collection controls and set Tamil T1 as the next gate.
 
 ## STOP RULE
 
-Stop after English E1 for constituent 26. **Do not start English E2, constituent 27, or repository closure in the same activity.**
+Stop after the constituent 27 source / duplicate / boundary gate. **Do not begin Tamil T1 in the same activity.**
