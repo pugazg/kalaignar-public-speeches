@@ -43,9 +43,10 @@ For a constituent spanning a split, verify all supplied pages now and carry only
    - direct scan corrected earlier intake reading `வள்ளுவர்` → **`வள்ளலார்`**.
 2. **வள்ளுவர்க்கோர் ஆலயம்** — PDF29–32 — Tamil + English verified — **FULLY ARCHIVED**.
 3. **கம்பர் விழா (1)** — PDF33–41 — Tamil + English verified — **FULLY ARCHIVED**.
-4. **கம்பர் விழா (2)** — PDF42–56 — Tamil + English verified — **FULLY ARCHIVED**.
+4. **கம்பர் விழா (2)** — PDF42–56 — Tamil + English verified — **FULLY ARCHIVED after fidelity repair**.
    - cross-split 49→50 PASS;
-   - closing note: **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**.
+   - closing note: **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
+   - resolved post-closure repair: restored omitted **PDF54 / printed p.53** in Tamil and English, corrected PDF55/PDF56 section boundaries, final explicit headings **15/15** in both layers, unresolved **0**.
 5. **ஏழையின் சிரிப்பில்** — PDF57–63 — Tamil + English verified — **FULLY ARCHIVED**.
    - closing note: **1969-11-27 / சண்டிகார் / குருநானக் 500-ஆவது ஆண்டு பிறந்த தின விழா / ஆற்றிய உரை**.
 
