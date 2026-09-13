@@ -95,3 +95,45 @@ Provisional ranges for entries 1–60 are derived from successive printed start 
 
 Collection-wide source intake remains **IN PROGRESS**. Tamil T1 remains **NOT STARTED**. Next activity begins with original scan **34**.
 
+
+
+## Split 003 source intake
+
+**PASS / COMPLETE — 16/16 scans inspected.**
+
+- split file: `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_003_pages_34-49.pdf`;
+- represented original scans: **34–49**;
+- pages: **16**;
+- bytes: **48,934,218**;
+- SHA-256: `a5b47180a171b161f45d6c796ef5c90d5f1a66478191fdc36401dc5d69f41549`;
+- continuity after split 002: **PASS — scan 34 follows scan 33 directly**;
+- rendered scan pixels used as authority;
+- OCR / web / alternate copy use: **none**;
+- binary committed: **No**.
+
+## Constituent 3 — `கம்பர் விழா (1)`
+
+**SOURCE / DUPLICATE / BOUNDARY GATE PASS / COMPLETE — 9/9 pages.**
+
+- PDF **33–41** / printed **32–40**;
+- split 002 supplies PDF33; split 003 supplies PDF34–41;
+- cross-split join **33→34 PASS**;
+- all joins **8/8 PASS**;
+- ending PDF41 + separate closing note: **PASS**;
+- closing note: `1969-ஆம் ஆண்டு ஏப்ரல் திங்கள் / காரைக்குடி கம்பர் விழாவில் / ஆற்றிய உரை.`;
+- exact day: **not stated**;
+- next boundary PDF42: constituent 4 begins;
+- live-main duplicate: **none found / PASS**;
+- duplicate / boundary unresolved: **0 / 0**.
+
+## Constituent 4 — `கம்பர் விழா (2)` partial intake
+
+- opening PDF **42** / printed **41**: **VERIFIED**;
+- PDF **42–49** / printed **41–48** inspected;
+- available joins **7/7 PASS**;
+- no closing note or terminal boundary yet present;
+- source gate remains **INCOMPLETE** pending PDF50–56.
+
+## Stop state after split 003
+
+Collection-wide source intake remains **IN PROGRESS**. Tamil T1 remains **NOT STARTED**. Next activity begins with original scan **50**.
