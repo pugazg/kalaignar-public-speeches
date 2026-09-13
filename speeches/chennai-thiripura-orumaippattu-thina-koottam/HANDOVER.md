@@ -16,6 +16,17 @@
 - separate closing note remains outside speech body;
 - source files remain uncommitted.
 
+## Tamil T3 durable result
+
+- **PASS / COMPLETE — 9/9**;
+- additional source corrections: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**;
+- all **2/2** T2 corrections remain consolidated;
+- all **8/8** joins and separate closing note remain intact;
+- speech-body Tamil changes during T3: **0**;
+- Tamil: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 33 — all 9 pages.**
+**English E1 first-pass translation for constituent 33 — all 9 pages, from frozen Tamil only.**
