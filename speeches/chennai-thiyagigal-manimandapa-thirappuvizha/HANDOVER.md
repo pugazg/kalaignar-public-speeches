@@ -83,6 +83,23 @@ English E1: **COMPLETE — 8/8 pages**.
 
 English E2 is **READY / NOT STARTED**.
 
+## Durable English E2 result
+
+English E2: **PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved**.
+
+- PDF344: removed unsupported `for the burial`;
+- PDF346: restored explicit source `these two movements` wording;
+- PDF346: removed unsupported `perhaps`;
+- PDF347: removed unsupported `many`;
+- PDF348: `comfort and hardship` → `joys and sorrows`;
+- all eight English page records checked against frozen Tamil;
+- page correspondence / all seven joins: **PASS**;
+- semantic completeness / rhetoric / quotations / source-sensitive names and forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
+English E3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 29 — all 8 English page records against frozen Tamil.** Stop before E3 / constituent 30.
+**English E3 final end-to-end verification for constituent 29 — all 8 pages.** Stop before constituent 30 / closure.
