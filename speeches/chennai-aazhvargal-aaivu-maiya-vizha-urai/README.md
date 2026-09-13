@@ -37,9 +37,10 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 20/20** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 20/20; 2 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 20/20; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending E1/E2 |
-| Repository closure | not started |
+| English E1 | **COMPLETE — 20/20** |
+| English E2 fidelity review | **PASS / COMPLETE — 20/20; 8 corrections; 0 unresolved** |
+| English E3 final verification | **PASS / COMPLETE — 20/20; 2 additional corrections; 0 unresolved** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -70,6 +71,20 @@ Tamil T3 is **READY / NOT STARTED**.
 
 Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
 
-## Exact next gate
+## English E1
 
-**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.**
+**COMPLETE — 20/20 pages.** Translation authority was frozen `transcription-ta.md` only. English page records are complete and ordered; missing records **0**. Page correspondence, rhetoric / repetition / quotation structure, laughter / applause markers, source-sensitive names/forms, chronology/numerals, title distinctions and the separate closing note were retained. Frozen Tamil changes during E1: **0**.
+
+## English E2
+
+**PASS / COMPLETE — 20/20 pages; 8 corrections; 0 unresolved.** The fidelity pass repaired source-sensitive transliteration, restored source-explicit historical wording, restored `சமயப் பொதுவுடைமை` and `சம நீதி`, preserved the rhetorical force of `படையெடுத்திருக்கிறார்`, broadened `ஏட்டின் மூலமாக` appropriately, and removed one unsupported implication in the Rajaraja Cholan Award sentence. Frozen Tamil changes during E2: **0**.
+
+## English E3
+
+**PASS / COMPLETE — 20/20 pages; 2 additional corrections; 0 unresolved.** E3 finalized the Radha Thiagarajan honorific as `Dr. (Mrs.) Radha Thiagarajan` and rendered `இன்னும் சொல்லப் போனால்` idiomatically as `If I were to say more`. English is now **`verified-complete`**. Frozen Tamil changes during E3: **0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**. Source range, page order / joins, correction counts, metadata, audit trail, translation review, title distinctions and separate closing note agree. Closure introduced **0 Tamil and 0 English speech-body changes**. The source PDF remains uncommitted per repository policy.
+
+No transcription or translation work remains pending for constituent 26.
