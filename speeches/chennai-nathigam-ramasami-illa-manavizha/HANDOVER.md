@@ -72,6 +72,17 @@ English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` 
 - English: **`verified-complete`**.
 - Canonical page order / all 7 joins / rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
 
-## Exact next gate
+## Durable repository-closure result
 
-**Repository closure for constituent 31.**
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Tamil: **`verified-complete` / FROZEN**; T2 **3**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**.
+- English: **`verified-complete`**; E2 **2**, E3 **0 additional corrections**, unresolved **0**.
+- Source range / page order / all 7 joins: **PASS**.
+- Rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- Source PDF remains uncommitted.
+- No transcription or translation work remains pending for constituent 31.
+
+## Next collection gate
+
+Constituent **32** `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா` — Tamil T3 consolidation / freeze, PDF **372–390** / printed **371–389**, **19 pages**.
