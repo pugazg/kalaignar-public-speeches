@@ -52,6 +52,20 @@ Contents title and page heading agree. The closing note records the event withou
 - separate source closing note remains outside speech body;
 - Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
 
+## Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+Scan-confirmed corrections:
+
+1. PDF410 / printed p.409 — `இன்னைக்கும்` → `இன்றைக்கும்`;
+2. PDF412 / printed p.411 — `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
+3. PDF415 / printed p.414 — `கேட்டின்ற` → `கேட்கின்ற`.
+
+All **7/7** joins, source-sensitive names, quotations, numerals, repetitions, the `Side Effect / சைடு எபெக்ட்` passage, the 1925 Kanchipuram passage, `சீர்வேந்தன் / சீர்` wordplay, applause marker and separate closing note were rechecked against the attached scan pixels.
+
+Unreadable / unknown after T2: **0**. Tamil T3: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 8 pages, PDF 408–415 / printed 407–414.**
+**Tamil T3 consolidation / freeze — all 8 pages.**
