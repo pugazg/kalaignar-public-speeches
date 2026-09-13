@@ -1,6 +1,6 @@
 # சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 12 / 12 source pages; 11 corrections; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 12 / 12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved**  
 **Source range:** PDF **331–342** / printed **330–341**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -88,7 +88,7 @@
 
 பட்டிருக்கிறார். நாம் அழைத்து அழைத்து வராமல் இருந்த ஒன்றே வந்துவிட்டபிறகு, (பலத்த கைதட்டல்) அதைத் தந்தவரை அழைக்கவேண்டாமா என்பதற்காகத்தான் அவரை அழைத்திருக்கின்றோம். அவருக்கும், அவரோடு வந்த அமைச்சர் ஆனந்தத் அவர்களுக்கும், இந்த விழாக்குழுவின் சார்பாக நன்றியைத் தெரிவித்துக் கொள்கிறேன்.
 
-விழாக்குழுவினர் எத்தகைய சிரமங்கள் எடுத்துக் கொண்டு இந்த விழாவை நடத்தினார்கள் என்பது எனக்கு நன்றாகத் தெரியும். எவ்வளவு பாடுபட்டார்கள் என்பதும் எனக்கு நன்றாகத் தெரியும். ஆனால், அவர்கள் பட்டபாடு வீண்போகவில்லை. இந்த விழாவைக் கடந்த 20-ஆம் தேதியே வைத்துக்கொள்ளலாம் என்று நான் தேதி கொடுத்திருந்தேன். கே.ஆர்.ஜி.யும் ஏ.வி.எம். சரவணனும், சிந்தாமணி முருகேசனும் மற்றவர்களும் பாரதிராஜாவும் என்னைச் சந்தித்தபோது, 27-ஆம் தேதிதான் வசதியாக இருக்கும் என்று சொன்னார்கள். நான் அப்போது சொன்னேன். மழைக்காலம் நெருங்குகின்ற காலக்கட்டம். எனவே 20-ஆம் தேதியே வைத்துக்கொள்ளுங்கள் என்று சொன்னேன். இல்லை இந்தத் தேதிதான் என்று பிடிவாதம் பிடித்தார்கள். சில வேளைகளில் நான் சொல்வதையும் கேட்கவேண்டும் என்பதை இதில் இருந்தாவது புரிந்து கொள்ளவேண்டும் என்று குறிப்பிட விரும்புகின்றேன்.
+விழாக்குழுவினர் எத்தகைய சிரமங்கள் எடுத்துக் கொண்டு இந்த விழாவை நடத்தினார்கள் என்பது எனக்கு நன்றாகத் தெரியும். எவ்வளவு பாடுபட்டார்கள் என்பதும் எனக்கு நன்றாகத் தெரியும். ஆனால், அவர்கள் பட்டபாடு வீண்போகவில்லை. இந்த விழாவைக் கடந்த 20-ஆம் தேதியே வைத்துக்கொள்ளலாம் என்று நான் தேதி கொடுத்திருந்தேன். கே.ஆர்.ஜி.யும் எ.வி.எம். சரவணனும், சிந்தாமணி முருகேசனும் மற்றவர்களும் பாரதிராஜாவும் என்னைச் சந்தித்தபோது, 27-ஆம் தேதிதான் வசதியாக இருக்கும் என்று சொன்னார்கள். நான் அப்போது சொன்னேன். மழைக்காலம் நெருங்குகின்ற காலக்கட்டம். எனவே 20-ஆம் தேதியே வைத்துக்கொள்ளுங்கள் என்று சொன்னேன். இல்லை இந்தத் தேதிதான் என்று பிடிவாதம் பிடித்தார்கள். சில வேளைகளில் நான் சொல்வதையும் கேட்கவேண்டும் என்பதை இதில் இருந்தாவது புரிந்து கொள்ளவேண்டும் என்று குறிப்பிட விரும்புகின்றேன்.
 
 ஆனால், குறிப்பிட்ட இடத்தில் நேரு ஸ்டேடியம் திறந்த வெளியில் இந்த விழா நடைபெற்றிருந்தால், இன்றைக்கு விழா நடைபெற்றிருக்க முடியாது. இயற்கையின் சீற்றத்தால், பொழிகின்ற மழையினால் விழா நடைபெற்றிருக்க முடியாது.
 
@@ -139,6 +139,27 @@ Explicit page-boundary continuations **332→333, 333→334, 334→335, 335→33
 
 Canonical page records remain **12/12**, complete, unique and ordered. Missing / duplicate page records: **0 / 0**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 12/12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved.**
+
+- all **11/11** source-proven T2 corrections are now consolidated in the canonical speech body;
+- T3 found one stale superseded canonical reading from T2 correction #8 on PDF341 / printed p.340: `ஏ.வி.எம். சரவணனும்`; it was replaced with the already source-verified `எ.வி.எம். சரவணனும்`;
+- no new source reading was introduced during T3;
+- superseded canonical speech-body readings from all 11 T2 corrections: **absent**;
+- source-proven corrected readings from all 11 T2 corrections: **present**;
+- canonical page records: **12/12**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations **332→333, 333→334, 334→335, 335→336, 336→337, 337→338, 338→339, 340→341, 341→342**: **PASS**;
+- names / titles / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- Anna / Anjugam anecdote and Sivaji recollections: **PASS**;
+- cheque amount, `My Dear Old Man, How are you`, Bharathidasan’s quotation and source-sensitive forms: **PASS**;
+- contents/page-heading versus closing-note title spacing distinction: **PASS / preserved separately**;
+- separate source closing note: **PASS / outside speech body**;
+- speech-body Tamil changes during T3: **1**, solely to consolidate already approved T2 correction #8;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 28 — all 12 source pages.**
+**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.**
