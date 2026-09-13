@@ -12,7 +12,7 @@
 - mapped: **36/36**
 - started / source-gated: **36/36**
 - Tamil T1 complete: **36/36**
-- Tamil T2 complete: **34/36**
+- Tamil T2 complete: **36/36**
 - Tamil T3 complete / Tamil verified: **34/36**
 - English verified: **34/36**
 - fully archived: **34/36**
@@ -385,29 +385,30 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **35–36 Tamil T1 are COMPLETE**.
+Constituents **35–36 Tamil T2 are PASS / COMPLETE**.
 
 ### Constituent 35 — `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`
-- PDF **408–415** / printed **407–414** — **8/8 T1 complete**;
-- missing page records: **0**;
-- unreadable / unknown placeholders: **0**;
-- all **7/7** source-gated joins retained;
-- separate closing note remains outside speech body;
-- Tamil T2: **READY / NOT STARTED**.
+- T2: **8/8 PASS / COMPLETE**;
+- corrections: **3**;
+- unresolved: **0**;
+- PDF410 `இன்னைக்கும்` → `இன்றைக்கும்`;
+- PDF412 `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
+- PDF415 `கேட்டின்ற` → `கேட்கின்ற`;
+- all **7/7** joins and source-sensitive checks: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
 
 ### Constituent 36 — `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா`
-- PDF **416–424** / printed **415–423** — **9/9 T1 complete**;
-- missing page records: **0**;
-- unreadable / unknown placeholders: **0**;
-- all **8/8** source-gated joins retained;
-- `நூற்றாண்டுவிழா` / `நூற்றாண்டு விழா` title-spacing distinction preserved;
-- separate closing note remains outside speech body;
-- Tamil T2: **READY / NOT STARTED**.
+- T2: **9/9 PASS / COMPLETE**;
+- corrections: **0**;
+- unresolved: **0**;
+- all **8/8** joins and source-sensitive checks: **PASS**;
+- title-spacing distinction and separate closing note: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
 
-Combined batch: **17/17 T1 complete; missing 0; unreadable/unknown 0; 15/15 joins retained**.
+Combined final T2 batch: **17/17 pages; 3 corrections; 0 unresolved**.
 
-Collection state: mapped **36/36**; source-gated **36/36**; Tamil T1 **36/36**; Tamil T2/T3 / Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
+Collection state: mapped **36/36**; source-gated **36/36**; Tamil T1/T2 **36/36**; Tamil T3 / Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total, attached split PDF only.**
+**Tamil T3 consolidation / freeze for constituents 35 and 36 — 17 pages total, PDF 408–424 / printed 407–423.**
