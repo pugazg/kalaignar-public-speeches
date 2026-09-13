@@ -76,12 +76,15 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 30–36 | — | not started |
+| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **Source-gated / Tamil T1 ready** |
+| 31 | `chennai-nathigam-ramasami-illa-manavizha` | **Source-gated / Tamil T1 ready** |
+| 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **Source-gated / Tamil T1 ready** |
+| 33–36 | — | not started |
 
 ## Current processing status
 
 - mapped: **36/36**
-- started / source-gated: **29/36**
+- started / source-gated: **32/36**
 - Tamil T1 complete: **29/36**
 - Tamil T2 complete: **29/36**
 - Tamil T3 complete / Tamil verified: **29/36**
@@ -251,6 +254,16 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - closure speech-body changes: Tamil **0**, English **0**;
 - root catalogue synchronization: **PASS**.
 
+## Constituents 30–32 — source / duplicate / boundary gates
+
+**PASS / COMPLETE — 40/40 source pages total; duplicate unresolved 0; boundary unresolved 0.**
+
+- **30** — PDF **351–363** / printed **350–362** — **13/13**; 12/12 joins PASS; closing note establishes **1998-10-05 / சென்னை / ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா / ஆற்றிய உரை**. Preserve `இசைத் தமிழின்` / `இசைத்தமிழின்` and `வெளியீட்டுவிழா` / `வெளியீட்டு விழா` variants.
+- **31** — PDF **364–371** / printed **363–370** — **8/8**; 7/7 joins PASS; closing note establishes **1998-10-18 / சென்னை / நாத்திகம் இராமசாமி இல்ல மணவிழா / ஆற்றிய உரை**.
+- **32** — PDF **372–390** / printed **371–389** — **19/19**; 18/18 joins PASS; closing note establishes **1998-10-18 / சென்னை / ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா / ஆற்றிய உரை**. Preserve contents `வெளியீட்டுவிழா` versus page-heading / closing-note `வெளியீட்டு விழா`.
+
+Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
+
 ## Next activity
 
-Constituent **30** — `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — **source / duplicate / boundary gate**, PDF **351–363** / printed **350–362**. Do not begin Tamil T1 in the same activity.
+Constituent **30** — Tamil T1 first-pass transcription — **13 pages**, PDF **351–363** / printed **350–362**. Constituents **31–32** remain source-gated / T1-ready.
