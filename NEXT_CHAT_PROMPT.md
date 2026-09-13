@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 28 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 28 English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–27 are CLOSED / FULLY ARCHIVED**. Constituent **28 has source / duplicate / boundary gate PASS / COMPLETE and Tamil T1 has not started**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–27 are CLOSED / FULLY ARCHIVED**. Constituent **28 has completed Tamil T3 and its Tamil layer is `verified-complete` / FROZEN**.
 
 ## Controlling source
 
@@ -20,20 +20,9 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–27 a
 
 - mapped: **36/36**
 - started / source-gated: **28/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **27/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **28/36**
 - English E1/E2/E3 complete / English verified: **27/36**
 - fully archived: **27/36**
-
-## Constituent 27 closure checkpoint
-
-`சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` is **CLOSED / FULLY ARCHIVED**.
-
-- Tamil: **`verified-complete` / FROZEN**
-- Tamil T2 / T3 corrections: **6 / 0**
-- English: **`verified-complete`**
-- English E2 / E3 corrections: **6 / 2**
-- unresolved: **0**
-- root catalogue synchronization: **PASS**
 
 ## Constituent 28
 
@@ -42,21 +31,31 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–27 a
 
 - source / duplicate / boundary gate: **PASS / COMPLETE — 12/12**
 - PDF **331–342** / printed **330–341**
-- contents title: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
-- page heading: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
-- closing note: `27-9-98 அன்று சென்னையில் திரையுலகம் நடத்திய பாராட்டு விழாவில் ஆற்றிய உரை`
-- date / venue / event / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
-- prior boundary: PDF330 closes constituent 27
-- next boundary: PDF343 begins constituent 29 `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
-- duplicate unresolved: **0**
-- boundary unresolved: **0**
-- title / closing-note spacing variant: **preserved separately**
-- Tamil T1: **READY / NOT STARTED**
+- Tamil T1: **COMPLETE — 12/12**
+- Tamil T2: **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved**
+- Tamil T3: **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved**
+- Tamil state: **`verified-complete` / FROZEN**
+- all **11/11** T2 source-proven corrections are consolidated
+- T3 consolidation repair: PDF341 / printed p.340 `ஏ.வி.எம். சரவணனும்` → `எ.வி.எம். சரவணனும்`
+- superseded canonical T2 readings: **0**
+- canonical page records: **12/12**, complete, unique and ordered
+- explicit joins: **PASS**
+- names / titles / numerals / punctuation / quotations / repetitions / applause-laughter markers: **PASS**
+- Anna / Anjugam anecdote and Sivaji recollections: **PASS**
+- cheque amount / `My Dear Old Man, How are you` / Bharathidasan quotation: **PASS**
+- contents/page-heading title: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
+- separate closing-note event wording: `திரையுலகம் நடத்திய பாராட்டு விழா`
+- separate closing note remains **outside speech body**
+- English E1: **READY / NOT STARTED**
+
+## Constituent 29
+
+`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா` begins at PDF343 / printed p.342. Do not begin constituent 29 in this activity.
 
 ## Exact activity
 
-Perform **Tamil T1 first-pass transcription for constituent 28 — all 12 source pages**, PDF **331–342** / printed **330–341**, from the controlling scans. Preserve page boundaries, source-sensitive wording, punctuation, numerals, repetitions, quotations, applause/laughter markers and title variants. Keep the separate closing note outside the speech body. Explicitly mark genuinely unreadable text rather than guessing.
+Perform **English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages**. Translate only from frozen `transcription-ta.md`. Preserve PDF/printed-page correspondence, rhetoric, repetition, quotations, applause/laughter markers, source-sensitive names/titles/forms, chronology/numerals, the Anna/Anjugam anecdote, Sivaji recollections, cheque amount, the English phrase `My Dear Old Man, How are you`, Bharathidasan’s quotation, title distinctions and the separate closing note. Do not silently normalize unusual Tamil or alter frozen Tamil.
 
 ## STOP RULE
 
-Stop after constituent 28 Tamil T1. **Do not begin Tamil T2, constituent 29, English work, or repository closure in the same activity.**
+Stop after constituent 28 English E1. **Do not begin English E2, constituent 29, or repository closure in the same activity.**
