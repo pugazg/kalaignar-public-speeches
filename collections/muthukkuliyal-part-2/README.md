@@ -330,7 +330,7 @@ Tamil is now **`verified-complete` / FROZEN**. T3 speech-body changes: **0**. En
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
 
 ## Constituent 31 — English E1 / E2 / E3 complete
 
@@ -344,8 +344,20 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
+
+## Constituent 31 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** with T2 **3 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **2 corrections**, E3 **0 additional corrections**, unresolved **0**.
+
+Source range PDF **364–371** / printed **363–370**, all **7** joins, rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker and separate closing-note handling all pass. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+Constituents **1–31 are CLOSED / FULLY ARCHIVED**. Constituent **32** remains Tamil T3-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
 
 ## Exact next gate
 
-**Repository closure for constituent 31.**
+**Constituent 32 Tamil T3 consolidation / freeze — PDF 372–390 / printed 371–389, all 19 pages.**
