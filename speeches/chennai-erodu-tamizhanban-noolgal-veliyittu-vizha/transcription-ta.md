@@ -1,6 +1,6 @@
 # சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 19/19 source pages; 3 corrections; 0 unresolved**  
+**Status:** `verified-complete` — Tamil T3 **PASS / COMPLETE — 19/19 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **372–390** / printed **371–389**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -429,6 +429,32 @@ T2 verification result:
 
 This completes T2 only; Tamil is **not yet frozen**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 19/19 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+T3 consolidation verified:
+
+- all **3/3** T2 corrections remain present in the canonical speech body;
+- all superseded T1 speech-body readings are absent;
+- canonical page records: **19/19**, complete / unique / ordered;
+- all eighteen joins **372→373, 373→374, 374→375, 375→376, 376→377, 377→378, 378→379, 379→380, 380→381, 381→382, 382→383, 383→384, 384→385, 385→386, 386→387, 387→388, 388→389, 389→390**: **PASS**;
+- all embedded poems / source lineation: **PASS**;
+- `கவுதமன்` / அகல்யா–இந்திரன் passage: **PASS**;
+- `சுப்பிரமணியர் துதி அமுது` / `கதர் இராட்டினப் பாட்டு`: **PASS**;
+- Bharathi / Bharathidasan quotations: **PASS**;
+- `நடவு செய்த தோழர்கூலி` stanza: **PASS**;
+- `இராமன் / இராவணர்களோடு` stanza: **PASS**;
+- `நீதி தேவன் மயக்கம்`, Nehru / Srinivasa Iyengar references, `தென்னவன் காதை`: **PASS**;
+- applause markers / `சிராஜுல் மில்லத் அப்துல் சமது`: **PASS**;
+- contents `வெளியீட்டுவிழா` versus page-heading / closing-note `வெளியீட்டு விழா`: **PASS / preserved separately**;
+- separate source closing note: **PASS / outside speech body**;
+- additional source corrections at T3: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**.
+
+Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed during T3.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 32 — all 19 pages.**
+**English E1 first-pass translation for constituent 32 — all 19 pages from frozen `transcription-ta.md` only.**
