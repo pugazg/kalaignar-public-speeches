@@ -240,6 +240,27 @@
 - English E1/E2/E3 complete / English verified: **28/36**;
 - fully archived: **28/36**.
 
+## Constituent 29 — Tamil T1 first-pass transcription
+
+**COMPLETE — 8/8 source pages.**
+
+- canonical page records: **8/8**, PDF **343–350** / printed **342–349**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note: **preserved outside speech body**;
+- title/action wording: **preserved separately**;
+- explicit page continuations and source-sensitive readings: recorded in `transcription-ta.md`;
+- direct visual method; source pixels remain controlling;
+- Tamil T2: **READY / NOT STARTED**.
+
+## Collection totals after constituent 29 Tamil T1
+
+- mapped / started / source-gated: **36/36 / 29/36 / 29/36**;
+- Tamil T1 complete: **29/36**;
+- Tamil T2/T3 complete / Tamil verified: **28/36**;
+- English verified: **28/36**;
+- fully archived: **28/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 29 — all 8 source pages, PDF 343–350 / printed 342–349.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.**
