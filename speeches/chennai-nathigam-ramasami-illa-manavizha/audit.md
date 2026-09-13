@@ -18,9 +18,21 @@
 - next boundary: PDF372 / printed p.371 begins constituent 32 `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`;
 - duplicate search against live `main`: **PASS — no existing dedicated archive found**;
 - duplicate unresolved: **0**; boundary unresolved: **0**;
-- Tamil T1: **READY / NOT STARTED**;
+- Tamil T1: **COMPLETE — 8/8**;
 - source PDF remains **uncommitted**.
+
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 8/8 source pages.**
+
+- canonical page records: PDF **364–371** / printed **363–370**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all 7 page-boundary continuations retained;
+- separate source closing note remains outside speech body;
+- method: direct visual reading of the controlling scans;
+- this is T1 only; no T2 fidelity claim is made.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — all 8 source pages.**
+**Tamil T2 strict direct-scan fidelity audit — all 8 source pages.**
