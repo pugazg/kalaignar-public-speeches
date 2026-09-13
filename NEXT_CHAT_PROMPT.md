@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 30 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 30 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–29 are CLOSED / FULLY ARCHIVED**. Do not reopen them unless genuinely new controlling-source evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–29 are CLOSED / FULLY ARCHIVED**. Constituents **30–32 have source / duplicate / boundary gates PASS / COMPLETE and are Tamil T1-ready**.
 
 ## Controlling source
 
@@ -19,54 +19,61 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–29 a
 ## Durable collection state
 
 - mapped: **36/36**
-- started / source-gated: **29/36**
+- started / source-gated: **32/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **29/36**
 - English E1/E2/E3 complete / English verified: **29/36**
 - fully archived: **29/36**
 - constituents **1–29: CLOSED / FULLY ARCHIVED**
+- constituents **30–32: SOURCE-GATED / T1 READY**
 
-## Constituent 29 closure
+## Source-gated constituents
 
-`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா` is **FULLY ARCHIVED**.
+### 30 — `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
 
-- PDF **343–350** / printed **342–349**
-- Tamil T2: **3 corrections**
-- Tamil T3: **0 additional source corrections / 0 consolidation repairs**
-- English E2: **5 corrections**
-- English E3: **1 additional correction**
-- unresolved: **0**
-- closure speech-body changes: Tamil **0**, English **0**
-- root catalogue synchronization: **PASS**
+Directory: `speeches/isaithamizhin-unmai-varalaru-nool-veliyittu-vizha/`
 
-## Constituent 30 mapped source
+- contents: `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+- page heading: `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+- closing-note event: `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா`
+- PDF **351–363** / printed **350–362** — **13 pages**
+- closing note: `5-10-98 அன்று சென்னையில் ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`
+- date / venue / role: **1998-10-05 / சென்னை / ஆற்றிய உரை**
+- all **12/12** internal joins: **PASS**
+- duplicate unresolved **0**; boundary unresolved **0**
+- Tamil T1: **READY / NOT STARTED**
 
-Contents entry:
+### 31 — `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா`
 
-`‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+Directory: `speeches/chennai-nathigam-ramasami-illa-manavizha/`
 
-- contents date: **05-10-98**
-- mapped printed pages: **350–362**
-- mapped PDF scans: **351–363**
-- source pages: **13**
-- PDF350 / printed p.349 closes constituent 29
-- prior boundary inspection observed PDF351 / printed p.350 beginning constituent 30 with page heading `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — preserve the contents/page-heading spacing variant rather than silently normalizing it
-- PDF364 / printed p.363 is the mapped start of constituent 31
+- PDF **364–371** / printed **363–370** — **8 pages**
+- closing note: `18-10-98 அன்று சென்னையில் நாத்திகம் இராமசாமி இல்ல மணவிழாவில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-10-18 / சென்னை / நாத்திகம் இராமசாமி இல்ல மணவிழா / ஆற்றிய உரை**
+- all **7/7** internal joins: **PASS**
+- duplicate unresolved **0**; boundary unresolved **0**
+- Tamil T1: **READY / NOT STARTED**
+
+### 32 — `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`
+
+Directory: `speeches/chennai-erodu-tamizhanban-noolgal-veliyittu-vizha/`
+
+- contents: `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டுவிழா`
+- page heading: `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`
+- PDF **372–390** / printed **371–389** — **19 pages**
+- closing note: `18-10-98 அன்று சென்னையில் ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-10-18 / சென்னை / ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா / ஆற்றிய உரை**
+- all **18/18** internal joins: **PASS**
+- duplicate unresolved **0**; boundary unresolved **0**
+- Tamil T1: **READY / NOT STARTED**
+
+Boundary witnesses: PDF350 closes 29; PDF364 opens 31; PDF372 opens 32; PDF391 opens 33 `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`.
 
 ## Exact activity
 
-Perform **source / duplicate / boundary gate for constituent 30 only**.
+Perform **Tamil T1 first-pass transcription for constituent 30 — all 13 pages, PDF 351–363 / printed 350–362**.
 
-1. Inspect PDF **351–363** directly against the controlling source.
-2. Confirm the opening, closing, all internal page joins, and the separate closing note if present.
-3. Inspect PDF350 and PDF364 as prior/next boundary witnesses.
-4. Record source-established date, venue, event/action wording and role only where the source explicitly supports them.
-5. Preserve the contents-title versus page-heading spacing variant `இசைத் தமிழின்` / `இசைத்தமிழின்`.
-6. Search live `main` for any existing dedicated archive / duplicate before creating new constituent controls.
-7. Create or update constituent controls only after the source / duplicate / boundary gate passes.
-8. Do **not** commit the source PDF.
-
-If the gate passes, leave **Tamil T1** as the next activity.
+Use only the controlling source scans. Preserve source spelling, punctuation, quotations, names, repetitions and page boundaries. Keep the separate closing note outside the speech body. Preserve the contents / page-heading / closing-note spacing variants without normalization.
 
 ## STOP RULE
 
-Stop after constituent 30 source / duplicate / boundary gate. **Do not begin Tamil T1, constituent 31, or repository closure work in the same activity.**
+Stop after constituent 30 Tamil T1. **Do not begin T2, constituent 31 Tamil T1, or any English work in the same activity.**
