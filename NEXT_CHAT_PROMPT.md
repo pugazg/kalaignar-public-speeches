@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 Tamil T3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Constituent **29 has source gate, Tamil T1 and Tamil T2 COMPLETE**. Do not reopen earlier gates unless genuinely new source evidence appears.
+Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Constituent **29 has source gate and Tamil T1/T2/T3 COMPLETE; Tamil is `verified-complete` / FROZEN**.
 
 ## Controlling source
 
@@ -14,7 +14,7 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–28 a
 - size: **232,470,104 bytes**
 - physical scans: **425**
 - source PDF must **not** be committed
-- stable constituent-body relationship: **PDF scan = printed page + 1**
+- source range for constituent 29: PDF **343–350** / printed **342–349**
 
 ## Durable collection state
 
@@ -22,7 +22,7 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–28 a
 - started / source-gated: **29/36**
 - Tamil T1 complete: **29/36**
 - Tamil T2 complete: **29/36**
-- Tamil T3 complete / Tamil verified: **28/36**
+- Tamil T3 complete / Tamil verified: **29/36**
 - English E1/E2/E3 complete / English verified: **28/36**
 - fully archived: **28/36**
 
@@ -32,27 +32,24 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–28 a
 `speeches/chennai-thiyagigal-manimandapa-thirappuvizha/`
 
 - source gate: **PASS / COMPLETE — 8/8**
-- PDF **343–350** / printed **342–349**
 - Tamil T1: **COMPLETE — 8/8**
 - Tamil T2: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**
-- T2 corrections:
-  1. PDF344 / p.343: `மிகவும்` → `மிகுந்த`
-  2. PDF346 / p.345: `நன்றிகூற` → `நன்றிகூறக்`
-  3. PDF347 / p.346: `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`
-- all seven joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**
+- all **3/3** T2 corrections remain consolidated
+- superseded T1 body readings are absent
+- all seven joins pass
 - canonical page records: **8/8**, complete / unique / ordered
-- unresolved readings: **0**
 - title/action distinction and separate closing note: **preserved**
-- English remains blocked pending Tamil T3 / freeze
+- speech-body Tamil changes during T3: **0**
+- Tamil state: **`verified-complete` / FROZEN**
+- English E1: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages**.
+Perform **English E1 first-pass translation for constituent 29 — all 8 pages**, translating **only from frozen `transcription-ta.md`**.
 
-Confirm all **3/3** T2 corrections remain consolidated, superseded body readings are absent, page records are complete / unique / ordered, all seven joins pass, source-sensitive names/forms/quotations/numerals remain correct, and the separate closing note stays outside the speech body.
-
-If T3 passes, mark Tamil `verified-complete` / FROZEN and leave **English E1** as the next gate.
+Preserve page boundaries, rhetoric, repetitions, quotations, source-sensitive names/forms, chronology/numerals, and the separate closing note. Do not alter frozen Tamil. Keep title/action variants distinct where relevant.
 
 ## STOP RULE
 
-Stop after constituent 29 Tamil T3. **Do not begin English E1, constituent 30, or repository closure in the same activity.**
+Stop after constituent 29 English E1. **Do not begin E2, constituent 30, or repository closure in the same activity.**
