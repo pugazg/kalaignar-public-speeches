@@ -330,7 +330,7 @@ Tamil is now **`verified-complete` / FROZEN**. T3 speech-body changes: **0**. En
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Constituent 31 — English E1 / E2 / E3 complete
 
@@ -344,7 +344,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Constituent 31 — repository closure
 
@@ -356,8 +356,24 @@ Source range PDF **364–371** / printed **363–370**, all **7** joins, rhetori
 
 Constituents **1–31 are CLOSED / FULLY ARCHIVED**. Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
+
+## Constituent 32 — Tamil T3 through repository closure
+
+Tamil T3: **PASS / COMPLETE — 19/19; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**. All **3/3** T2 corrections remain consolidated; all **18** joins and source-sensitive poems / quotations / names / historical-literary references / title-spacing variants / printed typo contrast / separate closing note pass. Tamil is **`verified-complete` / FROZEN**.
+
+English E1: **COMPLETE — 19/19** from frozen Tamil only.
+
+English E2: **PASS / COMPLETE — 19/19; 7 corrections; 0 unresolved**.
+
+English E3: **PASS / COMPLETE — 19/19; 1 additional correction; 0 unresolved**. All E2 corrections remain consolidated; the E3 repair restored the syntax / lineation of the poem spanning PDF387→388. Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+
+Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+Constituents **1–32 are CLOSED / FULLY ARCHIVED**.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Exact next gate
 
-**Constituent 32 Tamil T3 consolidation / freeze — PDF 372–390 / printed 371–389, all 19 pages.**
+**Constituent 33 source / duplicate / boundary gate — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`, PDF 391–399 / printed 390–398, 9 pages.** Do not begin Tamil T1 in the same activity.
