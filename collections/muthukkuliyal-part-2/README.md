@@ -8,8 +8,8 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **34 / 36**
-- Tamil T1 complete: **32 / 36**
-- Tamil T2 complete: **32 / 36**
+- Tamil T1 complete: **34 / 36**
+- Tamil T2 complete: **34 / 36**
 - Tamil T3 complete / Tamil verified: **32 / 36**
 - English E1 complete: **32 / 36**
 - English E2 complete: **32 / 36**
@@ -411,13 +411,17 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-The unverified constituent 33 T1 draft was reverted on live `main`. Therefore **no canonical T1 speech-body transcription is currently committed for constituent 33 or 34**.
+Constituents **33–34 Tamil T1 and T2 are COMPLETE**.
 
-- constituent 33: source-gated, Tamil T1 **READY / NOT STARTED** — **9 pages**;
-- constituent 34: source-gated, Tamil T1 **READY / NOT STARTED** — **8 pages**;
-- combined T1 batch: **17 pages**;
-- attached split PDF remains the only transcription source.
+- constituent 33 — **9/9 T1**, **9/9 T2**, **2 corrections**, **0 unresolved**;
+- constituent 34 — **8/8 T1**, **8/8 T2**, **1 correction**, **0 unresolved**;
+- combined — **17/17 T1**, **17/17 T2**, **3 corrections**, **0 unresolved**;
+- source / duplicate / boundary gates remain **PASS / COMPLETE**;
+- source PDFs remain uncommitted;
+- Tamil T3 has not begun for either constituent.
+
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1 **34/36**; Tamil T2 **34/36**; Tamil T3 / Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total.**
+**Tamil T3 consolidation / freeze for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total.**
