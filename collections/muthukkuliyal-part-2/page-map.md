@@ -86,12 +86,12 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - Tamil T3 complete / Tamil verified: **27/36**
 - English E1/E2/E3 complete / English verified: **27/36**
 - fully archived: **27/36**
-- constituents **1–26: CLOSED / FULLY ARCHIVED**
+- constituents **1–27: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
 | 29 | — | **NOT STARTED** |
 
