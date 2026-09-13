@@ -50,6 +50,22 @@ Corrections:
 - separate closing note: **PASS**;
 - unresolved: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 speech-body readings: **0**;
+- canonical records: **8/8**, complete / unique / ordered;
+- all seven joins: **PASS**;
+- rhetoric / numerals / Bharathi quotations / historical names / `பெட்ரோமாக்ஸ்` / applause marker: **PASS**;
+- separate closing note: **PASS**;
+- T3 additional source corrections: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- T3 speech-body changes: **0**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 8 source pages.**
+**English E1 first-pass translation — all 8 pages from frozen Tamil only.**
