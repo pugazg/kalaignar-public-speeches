@@ -66,6 +66,30 @@ All **7/7** joins, source-sensitive names, quotations, numerals, repetitions, th
 
 Unreadable / unknown after T2: **0**. Tamil T3: **READY / NOT STARTED**.
 
-## Exact next gate
+## Tamil T3 consolidation / freeze
 
-**Tamil T3 consolidation / freeze — all 8 pages.**
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- stale superseded T1 body readings: **0**;
+- canonical records: **8/8**, complete / unique / ordered;
+- all **7/7** joins: **PASS**;
+- `Side Effect / சைடு எபெக்ட்`, 1925 Kanchipuram / communal-representation passage, `சீர்வேந்தன் / சீர்` wordplay and applause marker: **PASS**;
+- Tamil: **`verified-complete` / FROZEN**;
+- speech-body Tamil changes during T3: **0**.
+
+## English E1 / E2 / E3
+
+- E1: **COMPLETE — 8/8** from frozen Tamil only;
+- E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+Tamil and English are **verified-complete**. Source range, all joins, T2/T3 counts, English E2/E3 counts, source-sensitive names/forms, reservation terminology, 1925 Kanchipuram passage, wordplay, applause marker and separate closing note all pass closure revalidation.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source binary remains uncommitted. No transcription or translation work remains pending for constituent 35.
