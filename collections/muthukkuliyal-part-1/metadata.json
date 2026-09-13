@@ -46,22 +46,33 @@
         "sha256": "fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d",
         "status": "inspected-pass",
         "binary_committed": false
+      },
+      {
+        "split_number": 2,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_002_pages_18-33.pdf",
+        "original_pdf_scan_start": 18,
+        "original_pdf_scan_end": 33,
+        "pages": 16,
+        "bytes": 47901860,
+        "sha256": "ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861",
+        "status": "inspected-pass",
+        "binary_committed": false
       }
     ]
   },
   "workflow": {
     "source_inspection": "in-progress",
-    "split_intake_received": 1,
+    "split_intake_received": 2,
     "split_intake_expected": 39,
-    "original_scans_received_through": 17,
+    "original_scans_received_through": 33,
     "contents_capture_state": "complete",
     "constituent_items_total": 61,
     "constituent_items_contents_captured": 61,
-    "page_map_state": "provisional-from-contents",
+    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-2",
     "printed_to_pdf_offset_observed_frontmatter": 1,
-    "body_offset_status": "provisional-pending-scan-18-verification",
-    "constituent_items_started": 0,
-    "constituent_items_source_gated": 0,
+    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-33",
+    "constituent_items_started": 2,
+    "constituent_items_source_gated": 2,
     "constituent_items_t1_complete": 0,
     "constituent_items_t2_complete": 0,
     "constituent_items_t3_complete": 0,
@@ -72,6 +83,12 @@
     "constituent_items_english_verified": 0,
     "constituent_items_archived": 0,
     "transcription_started": false,
-    "next_gate": "Ingest the next split beginning at original scan 18; verify constituent 1 opening and body PDF=printed+1 mapping. Continue source intake only; do not start transcription."
+    "next_gate": "Ingest split beginning at original scan 34; continue constituent 3 source inspection from PDF 33 / printed 32 and verify its closing boundary. Continue source intake only; do not start transcription.",
+    "printed_to_pdf_offset_observed_body": 1,
+    "active_constituent_number": 3,
+    "active_constituent_title_ta": "கம்பர் விழா (1)",
+    "active_constituent_status": "opening-confirmed-source-gate-incomplete",
+    "active_constituent_pdf_start": 33,
+    "active_constituent_printed_start": 32
   }
 }
