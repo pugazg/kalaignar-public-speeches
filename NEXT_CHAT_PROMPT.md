@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Do not reopen them.
+Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Constituent **29 has source / duplicate / boundary gate PASS / COMPLETE and Tamil T1 has not started**.
 
 ## Controlling source
 
@@ -19,47 +19,34 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–28 a
 ## Durable collection state
 
 - mapped: **36/36**
-- started / source-gated: **28/36**
+- started / source-gated: **29/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **28/36**
 - English E1/E2/E3 complete / English verified: **28/36**
 - fully archived: **28/36**
 
-## Constituent 28 closure checkpoint
-
-`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா` is **CLOSED / FULLY ARCHIVED**.
-
-- source range: PDF **331–342** / printed **330–341**
-- Tamil: **`verified-complete` / FROZEN**
-- Tamil T2: **11 corrections**
-- Tamil T3: **0 additional source corrections / 1 consolidation repair**
-- English E1: **COMPLETE — 12/12**
-- English E2: **PASS / COMPLETE — 8 corrections / 0 unresolved**
-- English E3: **PASS / COMPLETE — 2 additional corrections / 0 unresolved**
-- English: **`verified-complete`**
-- repository closure: **PASS / COMPLETE**
-- root catalogue synchronization: **PASS**
-- source PDF remains uncommitted
-
 ## Constituent 29
 
-`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
+`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`  
+`speeches/chennai-thiyagigal-manimandapa-thirappuvizha/`
 
-Mapped collection range:
-
-- contents date: **23-10-98**
-- printed pages: **342–349**
-- PDF scans: **343–350**
-- mapped source pages: **8**
-- current workflow state: **NOT STARTED**
-- constituent directory: **not yet created**
-- next mapped constituent 30 begins PDF351 / printed p.350: `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+- source / duplicate / boundary gate: **PASS / COMPLETE — 8/8**
+- PDF **343–350** / printed **342–349**
+- contents title/date: `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `23-10-98`
+- page heading: `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
+- closing note: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`
+- date / venue / event / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `திறந்து வைத்து ஆற்றிய உரை`
+- explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**
+- prior boundary: PDF342 / printed p.341 closes constituent 28
+- next boundary: PDF351 / printed p.350 begins constituent 30 `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- title / closing-note action wording: **preserved separately**
+- Tamil T1: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform the **source / duplicate / boundary gate for constituent 29 only**. Inspect all mapped scans PDF **343–350** / printed **342–349** from the controlling source. Confirm the numbered opening/title, closing note, exact date/venue/event/role evidence, prior and next boundaries, continuity across all 8 pages, and whether a dedicated archive already exists on live `main`. Preserve source title/date variants separately rather than silently normalizing them.
-
-If the gate passes, create/update the constituent controls needed to record the source gate and leave Tamil T1 as the next gate.
+Perform **Tamil T1 first-pass transcription for constituent 29 — all 8 source pages**, PDF **343–350** / printed **342–349**, from the controlling scans. Preserve page boundaries, source-sensitive wording, punctuation, numerals, repetitions, quotations, applause/laughter markers and title/action variants. Keep the separate closing note outside the speech body. Explicitly mark genuinely unreadable text rather than guessing.
 
 ## STOP RULE
 
-Stop after constituent 29 source / duplicate / boundary gate. **Do not begin Tamil T1, constituent 30, English work, or repository closure in the same activity.**
+Stop after constituent 29 Tamil T1. **Do not begin Tamil T2, constituent 30, English work, or repository closure in the same activity.**
