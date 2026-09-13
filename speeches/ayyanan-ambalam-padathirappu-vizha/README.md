@@ -45,6 +45,18 @@ Correction consolidated:
 
 All joins, punctuation, quotations, repetitions, names, numerals, the Pasumpon Thevar quotation, source-sensitive forms, title/action distinction, and separate closing note were checked directly against the attached split-PDF scans.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- PDF401 retains `எடுத்துக்காட்டியதைப் போல்`;
+- canonical page records remain complete / unique / ordered;
+- all **7/7** joins remain intact;
+- venue remains **not explicitly stated / not inferred**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 8 pages, PDF 400–407 / printed 399–406.**
+**English E1 first-pass translation — all 8 pages, from frozen Tamil only.**
