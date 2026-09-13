@@ -28,6 +28,17 @@ Tamil T1: **READY / NOT STARTED — 0/8**.
 - all **7/7** source-gated joins retained;
 - source-sensitive names / quotations / repetitions / applause marker / separate closing note retained for T2 review.
 
+## Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved.**
+
+Corrections:
+- PDF410 / p.409: `இன்னைக்கும்` → `இன்றைக்கும்`;
+- PDF412 / p.411: `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
+- PDF415 / p.414: `கேட்டின்ற` → `கேட்கின்ற`.
+
+All **7/7** joins, source-sensitive forms and separate closing-note handling: **PASS**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 8 pages.**
+**Tamil T3 consolidation / freeze — all 8 pages.**
