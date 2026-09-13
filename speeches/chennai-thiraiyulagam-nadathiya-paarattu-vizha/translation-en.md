@@ -1,6 +1,6 @@
 # Chennai - Film Industry Appreciation Function — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **331–342** / printed **330–341**
 
@@ -74,7 +74,7 @@ At that time, friends Thangapazham, K.V.K. Samy and Sivasamy had come to watch t
 
 and as a student of Periyar, was my dearest friend Sivaji. That love and affection have not dried up. They will not dry up. You saw in the open-hearted speech he delivered here a sign that they will never dry up at any time.
 
-I had intended to come here and speak happily. But he made me speak with tears in my eyes. You all know the surge of emotion with which I came here, and that it was brother Prabhu who had to support me by the hand and bring me before this microphone. I had become such a flame of emotion. Sivaji asked me to take his years.
+I had intended to come here and speak happily. But he told me to speak after making me shed tears. You all know the surge of emotion with which I came here, and that it was brother Prabhu who had to support me by the hand and bring me before this microphone. I had become such a flame of emotion. Sivaji asked me to take his years.
 
 As Kamal pointed out, rationalists cannot accept that, because no one can take another person's years. Whether it is I or Sivaji, if you wish that we should live for many years, then all of you seated here too are people who have received such wishes. You too have received such gifts and appreciation. You too have sat as the central figures at functions like this. Therefore, when we wish that someone should “live for many years,” what it means is that even after that person's natural end, his name should remain for many years in the hearts of the people. (Loud applause) My dearest friend!
 
@@ -82,7 +82,7 @@ As Kamal pointed out, rationalists cannot accept that, because no one can take a
 
 My friend from the earliest days! Sweet candy given to the art world, treasure-house, Sivaji! Many people do not know whether you and I meet often or whether we do not. Because reports of our meetings do not appear in the newspapers, interpretations are constantly being made across the country that there are all kinds of differences between us. Beyond all those interpretations, you and I are one. We are two forms with one heart. We are as one life.
 
-This very morning I happened to see a commemorative volume published in memory of my mother Anjugathammaiyar. In the article Sivaji wrote there about my mother, he says: “Is Anjugaththai someone different? Is she not my mother too? Kalaignar M.K. and I, both of us, have only one mother. That mother is Anjugaththai.” In the same way, Sivaji's mother is my mother, and my mother is his mother. The two of us are children of Mother Tamil. We are your brothers.
+This very morning I happened to see a commemorative volume published in memory of my mother Anjugathammaiyar. In the article Sivaji wrote there about my mother, he says: “Is Anjugaththai one person and my mother another? Kalaignar M.K. and I, both of us, have only one mother. That mother is Anjugaththai.” In the same way, Sivaji's mother is my mother, and my mother is his mother. The two of us are children of Mother Tamil. We are your brothers.
 
 Karnataka Chief Minister J.H. Patel, who has come from Karnataka for this pleasant, stirring function, observed here that the statue looks older than I do. But whenever he writes me a letter, he writes only, “My Dear Old Man, How are you”. That is how he writes in English. I do not know whether someone saw that letter by mistake and made the statue like this. (Loud laughter) Why did we invite the Karnataka Chief Minister here? Why has he been invited—
 
@@ -152,6 +152,33 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved.**
+
+All **8/8** E2 corrections remain consolidated. E3 made two final fidelity corrections:
+
+1. PDF339 / printed p.338: `he made me speak with tears in my eyes` → **`he told me to speak after making me shed tears`**, preserving both `கண்ணீர்விட வைத்து` and the explicit `பேச என்று சொன்னார்` speech-command structure.
+2. PDF340 / printed p.339: `Is Anjugaththai someone different? Is she not my mother too?` → **`Is Anjugaththai one person and my mother another?`**, tightening the rhetorical contrast in frozen Tamil `அஞ்சுகத்தாய் வேறு. என் தாய் வேறா?` without adding `too`.
+
+Final verification result:
+
+- English page records: **12/12**, complete, unique and ordered;
+- missing / duplicate English page records: **0 / 0**;
+- all **8/8** E2 corrections: **present**;
+- stale superseded English speech-body readings: **0**;
+- semantic completeness / PDF-printed page correspondence / recorded joins: **PASS**;
+- names / titles / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Anna / Anjugam anecdote and Sivaji recollections: **PASS**;
+- cheque amount / `My Dear Old Man, How are you` / Bharathidasan quotation: **PASS**;
+- applause / laughter markers: **PASS**;
+- contents/page-heading versus closing-note title distinction: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 28 — all 12 pages.**
+**Repository-level archival closure for constituent 28.**
