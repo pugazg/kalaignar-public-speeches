@@ -10,13 +10,13 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **36 / 36**
 - Tamil T1 complete: **36 / 36**
 - Tamil T2 complete: **36 / 36**
-- Tamil T3 complete / Tamil verified: **34 / 36**
-- English E1 complete: **34 / 36**
-- English E2 complete: **34 / 36**
-- English E3 complete / English verified: **34 / 36**
-- fully archived: **34 / 36**
+- Tamil T3 complete / Tamil verified: **36 / 36**
+- English E1 complete: **36 / 36**
+- English E2 complete: **36 / 36**
+- English E3 complete / English verified: **36 / 36**
+- fully archived: **36 / 36**
 
-Constituents **1–34 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–36 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituent 27 — source gate complete
 
@@ -411,18 +411,21 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **35–36 Tamil T2 are COMPLETE**.
+Constituents **35–36 are CLOSED / FULLY ARCHIVED**.
 
-- constituent 35 — **8/8**, **3 corrections**, **0 unresolved**;
-- constituent 36 — **9/9**, **0 corrections**, **0 unresolved**;
-- combined — **17/17 T2**, **3 corrections**, **0 unresolved**;
-- all **15/15** joins rechecked and pass;
-- separate closing notes remain outside speech bodies;
+- constituent 35 — Tamil **`verified-complete` / FROZEN**; English **`verified-complete`**; T3 **8/8**, E1/E2/E3 **8/8**, unresolved **0**;
+- constituent 36 — Tamil **`verified-complete` / FROZEN**; English **`verified-complete`**; T3 **9/9**, E1/E2/E3 **9/9**, unresolved **0**;
+- closure speech-body changes: Tamil **0**, English **0** for both;
 - constituent 36 title-spacing distinction remains preserved;
-- Tamil T3 has **not** begun.
+- terminal PDF425 remains non-speech;
+- source PDF / derivatives remain uncommitted.
 
-Collection state: mapped **36/36**; source-gated **36/36**; Tamil T1/T2 **36/36**; Tamil T3 / Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
+## Collection closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 36/36 constituents.**
+
+All mapped constituent speeches are source-gated, Tamil-verified, English-verified and fully archived. No transcription or translation work remains pending for this collection.
 
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituents 35 and 36 — 17 pages total.**
+**None — `முத்துக் குளியல் — பாகம் II` is closed.**
