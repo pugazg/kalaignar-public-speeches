@@ -1,10 +1,10 @@
 # பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 9 / 9 source pages; 0 corrections; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 9/9 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **416–424** / printed **415–423**  
 **Controlling transcription source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2_part_001_pages_380-425.pdf` — extract **37–45**
 
-Tamil T1 is complete. Tamil T2 strict direct-scan fidelity audit is **PASS / COMPLETE**; the attached split-PDF scan pixels remain controlling. Tamil T3 has **not** begun.
+Tamil T1 and T2 are complete. Tamil T3 consolidation / freeze is **PASS / COMPLETE**. No speech-body Tamil changed during T3.
 
 ## PDF 416 / printed p.415
 
@@ -123,4 +123,17 @@ T2 rechecked every canonical page against the attached split-PDF scan pixels:
 
 No scan-confirmed T1 correction was required. Unreadable / unknown after T2: **0**.
 
-Tamil T3 consolidation / freeze: **READY / NOT STARTED**.
+## T3 consolidation / freeze
+
+**PASS / COMPLETE — 9/9 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- T2 required **0** source corrections;
+- source-sensitive names/forms, quotations, anecdotes, applause markers and quoted rhythmic forms remain intact;
+- contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா` remains preserved;
+- canonical page records remain **9/9**, complete / unique / ordered;
+- all **8/8** joins remain intact;
+- separate source closing note remains outside the speech body;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+English E1: **READY / NOT STARTED**.
