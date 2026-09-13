@@ -1,8 +1,8 @@
 {
-  "id": "kalai-valarppom",
+  "id": "umamaheswaranar",
   "title": {
-    "ta": "கலை வளர்ப்போம்",
-    "en": "Let Us Foster the Arts"
+    "ta": "உமாமகேஸ்வரனார்",
+    "en": "Umamaheswaranar"
   },
   "creator": {
     "name_ta": "கலைஞர் மு. கருணாநிதி",
@@ -13,21 +13,21 @@
   "parent_collection": {
     "id": "muthukkuliyal-part-1",
     "title_ta": "முத்துக் குளியல் — பாகம் I",
-    "constituent_number": 6,
+    "constituent_number": 7,
     "constituent_total": 61
   },
   "speech": {
-    "date": "1974-03-30",
-    "closing_note_source_text": "1974-ஆம் ஆண்டு மார்ச் 30-ஆம் நாள் தமிழ்நாடு இயல், இசை, நாடக மன்ற விருது வழங்கு விழாவில் ஆற்றிய உரை."
+    "date": "1973-04-13",
+    "closing_note_source_text": "1973-ஆம் ஆண்டு ஏப்ரல் திங்கள் 13-ஆம் நாள் கரந்தை உமாமகேசுவரனார் சிலை திறப்பு விழாவில் ஆற்றிய உரை."
   },
   "source": {
     "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
     "original_pdf_pages_user_confirmed": 641,
-    "pdf_page_start": 64,
-    "pdf_page_end": 69,
-    "printed_page_start": 63,
-    "printed_page_end": 68,
-    "speech_pages_total": 6,
+    "pdf_page_start": 70,
+    "pdf_page_end": 73,
+    "printed_page_start": 69,
+    "printed_page_end": 72,
+    "speech_pages_total": 4,
     "binary_committed": false
   },
   "workflow": {
@@ -36,24 +36,24 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "internal_joins_checked": 5,
+    "internal_joins_checked": 3,
     "internal_joins_unresolved": 0,
     "tamil_transcription": "verified-complete",
     "tamil_visual_audit": "complete",
     "tamil_consolidation": "complete",
     "tamil_frozen": true,
-    "t1_pages_completed": 6,
-    "t2_pages_checked": 6,
+    "t1_pages_completed": 4,
+    "t2_pages_checked": 4,
     "t2_unresolved": 0,
-    "t3_pages_completed": 6,
+    "t3_pages_completed": 4,
     "t3_unresolved": 0,
     "english_translation": "verified-complete",
     "english_translation_review": "review-complete",
     "english_translation_final_verification": "verified-complete",
-    "e1_pages_completed": 6,
-    "e2_pages_checked": 6,
+    "e1_pages_completed": 4,
+    "e2_pages_checked": 4,
     "e2_unresolved": 0,
-    "e3_pages_checked": 6,
+    "e3_pages_checked": 4,
     "e3_unresolved": 0,
     "repository_closure": "complete",
     "archive_status": "fully-archived",
