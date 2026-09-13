@@ -33,6 +33,23 @@
 - method: direct visual reading of the controlling scans;
 - this is T1 only; no T2 fidelity claim is made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+Corrections:
+1. PDF366 / p.365: `அதிகே கூட` → `அதிலே கூட`.
+2. PDF367 / p.366: `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`.
+3. PDF368 / p.367: `தெய்வம் உண்மையென்று காண்றில் வேணும்` → `தெய்வம் உண்மையென்று தானறிதல் வேணும்`.
+
+- direct source scans checked: **8/8**;
+- canonical records complete / unique / ordered: **8/8**;
+- missing / duplicate: **0 / 0**;
+- all seven joins: **PASS**;
+- source-sensitive rhetoric / numerals / quotations / names / `பெட்ரோமாக்ஸ்` / applause marker: **PASS**;
+- separate closing note: **PASS**;
+- unresolved: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 8 source pages.**
+**Tamil T3 consolidation / freeze — all 8 source pages.**
