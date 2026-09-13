@@ -307,7 +307,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
 
 ## Constituent 31 — durable English E1–E3 result
 
@@ -322,8 +322,22 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
+
+## Constituent 31 — durable repository-closure result
+
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Tamil: **`verified-complete` / FROZEN**; T2 **3**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**.
+- English: **`verified-complete`**; E2 **2**, E3 **0 additional corrections**, unresolved **0**.
+- Source range / page order / all **7** joins: **PASS**.
+- Rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- Source PDF remains uncommitted.
+
+Constituents **1–31 are CLOSED / FULLY ARCHIVED**. Constituent **32** remains Tamil T3-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **31/36**.
 
 ## Exact next gate
 
-**Repository closure for constituent 31.**
+**Constituent 32 Tamil T3 consolidation / freeze — all 19 pages, PDF 372–390 / printed 371–389.**
