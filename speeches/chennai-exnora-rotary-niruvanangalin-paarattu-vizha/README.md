@@ -35,8 +35,9 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
-| English E1/E2/E3 | blocked pending verified Tamil |
+| Tamil T3 consolidation/freeze | **PASS / COMPLETE — 16/16; 0 additional corrections; 0 unresolved** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending E1/E2 |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -66,6 +67,12 @@ All **16** scans were re-read directly. Canonical page order / explicit joins, n
 
 Tamil T3 is **READY / NOT STARTED**.
 
+## Tamil T3
+
+**PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved.** All **6/6** T2 corrections remain consolidated; superseded canonical speech-body readings are absent. Canonical page records are complete, unique and ordered; page joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers, the Tamil poem, Exnora wordplay, source-sensitive readings, chronology/numeral forms, title variants and the separate closing note all pass. No speech-body Tamil changed during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.** Stop before constituent 28 Tamil T1 / English work.
+**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.**
