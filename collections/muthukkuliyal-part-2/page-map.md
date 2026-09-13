@@ -76,7 +76,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **Tamil verified-complete / FROZEN — English E1 ready** |
+| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 31 | `chennai-nathigam-ramasami-illa-manavizha` | **Source-gated / Tamil T1 ready** |
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **Source-gated / Tamil T1 ready** |
 | 33–36 | — | not started |
@@ -91,8 +91,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - English E1 complete: **29/36**
 - English E2 complete: **29/36**
 - English E3 complete / English verified: **29/36**
-- fully archived: **29/36**
-- constituents **1–29: CLOSED / FULLY ARCHIVED**
+- fully archived: **30/36**
+- constituents **1–30: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
@@ -297,6 +297,16 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 - T3 speech-body changes: **0**;
 - Tamil is **`verified-complete` / FROZEN**.
 
+## Constituent 30 — English E1 through repository closure
+
+- E1: **COMPLETE — 13/13**.
+- E2: **PASS / COMPLETE — 13/13; 4 corrections; 0 unresolved**.
+- E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved**.
+- English: **`verified-complete`**.
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- All 12 joins and source-sensitive checks: **PASS**.
+
 ## Next activity
 
-Constituent **30** — English E1 first-pass translation — **13 pages**, PDF **351–363** / printed **350–362**, from frozen Tamil only. Constituents **31–32** remain source-gated / T1-ready.
+Constituent **31** — Tamil T1 first-pass transcription — **8 pages**, PDF **364–371** / printed **363–370**. Constituent **32** remains source-gated / T1-ready.
