@@ -1,0 +1,25 @@
+# HANDOVER — பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா
+
+## Repository
+- repository: `pugazg/kalaignar-public-speeches`;
+- branch: `main`;
+- parent collection: `collections/muthukkuliyal-part-2/`;
+- constituent: **36 / 36**.
+
+## Durable state
+
+- source / duplicate / boundary gate: **PASS / COMPLETE — 9/9**;
+- PDF **416–424** / printed **415–423**; split extract **37–45**;
+- all **8/8** joins: **PASS**;
+- closing note: `26-11-98 அன்று சென்னையில் பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
+- date / venue / event / role: **1998-11-26 / சென்னை / பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழா / ஆற்றிய உரை**;
+- contents/page heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`: preserved;
+- terminal boundary PDF425: non-speech back-cover portrait / publisher page;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- source binaries: **uncommitted**;
+- Tamil T1: **READY / NOT STARTED — 0/9**.
+
+## Exact next gate
+
+**Tamil T1 first-pass transcription for constituent 36 — 9 pages.**
