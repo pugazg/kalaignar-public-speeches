@@ -16,6 +16,19 @@
 
 Closing note: `3-11-98 அன்று சென்னையில் திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டத்தில் ஆற்றிய உரை`.
 
+## Tamil T1
+
+**COMPLETE — 9/9; missing 0; unreadable/unknown 0.**
+
+## Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 9/9; 2 corrections; 0 unresolved.**
+
+- PDF395: `நரேந்திரபூர்` → `நரேந்தர்பூர்`;
+- PDF395: `ரதிஷ்யாம்ஷா` → `ரதிஷியாம்ஷா`;
+- all **8/8** joins: **PASS**;
+- punctuation / quotations / repetitions / applause markers / names / numerals / resolution quotation / separate closing note: **PASS**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — all 9 pages.**
+**Tamil T3 consolidation / freeze — all 9 pages.**
