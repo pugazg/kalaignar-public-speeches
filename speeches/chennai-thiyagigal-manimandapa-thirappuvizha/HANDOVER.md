@@ -100,6 +100,19 @@ English E2: **PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved**.
 
 English E3 is **READY / NOT STARTED**.
 
+## Durable English E3 / English-verified result
+
+English E3: **PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved**.
+
+- all **5/5** E2 corrections remain consolidated;
+- PDF345: `we have continued to undertake that service even today` → `we have inherited the task of continuing that service even today`;
+- English page records remain complete / unique / ordered;
+- stale superseded English speech-body readings: **0**;
+- all seven joins pass;
+- semantic completeness / rhetoric / quotations / source-sensitive names/forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — all 8 pages.** Stop before constituent 30 / closure.
+**Repository closure for constituent 29.** Stop before constituent 30 source gate.
