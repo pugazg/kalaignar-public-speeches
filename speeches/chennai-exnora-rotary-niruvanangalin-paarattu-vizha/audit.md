@@ -66,6 +66,26 @@ Verification result:
 - source-sensitive T1 readings / chronology / numeral forms: **PASS / retained as printed**;
 - unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **6/6** T2 corrections remain consolidated;
+- superseded canonical speech-body readings: **absent**;
+- corrected canonical readings: **present**;
+- canonical page records: **16/16**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- source-sensitive readings / chronology / numeral forms: **PASS**;
+- contents / page-heading / closing-note title variants: **PASS / preserved separately**;
+- separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.**
+**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.**
