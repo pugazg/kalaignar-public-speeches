@@ -1,7 +1,11 @@
 # Chennai - Nathigam Ramasami Family Wedding — English translation review
 
-**English E1:** blocked pending frozen Tamil  
+**English E1:** **READY / NOT STARTED**  
 **English E2:** blocked pending E1  
 **English E3:** blocked pending E2
 
-No English review work has started.
+Tamil is **`verified-complete` / FROZEN**. English must use frozen `transcription-ta.md` only.
+
+## Exact next gate
+
+**English E1 first-pass translation — all 8 pages.**
