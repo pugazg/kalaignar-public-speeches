@@ -491,6 +491,31 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **29/36**;
 - fully archived: **29/36**.
 
+## Constituent 30 — English E1 / E2 / E3 and repository closure
+
+- E1: **COMPLETE — 13/13**; frozen Tamil authority only.
+- E2: **PASS / COMPLETE — 13/13; 4 corrections; 0 unresolved**.
+- E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved**.
+- All **4/4** E2 corrections remain consolidated.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Tamil T2/T3: **5 / 0 additional source corrections + 0 consolidation repairs**.
+- English E2/E3: **4 / 0 additional corrections**.
+- Page records / all 12 joins / source-sensitive names and musical terminology / quotations / musical passages / source English phrases / applause-laughter markers / title variants / separate closing note: **PASS**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- Source PDF remains **uncommitted**.
+
+## Collection totals after constituent 30 closure
+
+- mapped: **36/36**;
+- started / source-gated: **32/36**;
+- Tamil verified: **30/36**;
+- English verified: **30/36**;
+- fully archived: **30/36**;
+- constituents **1–30: CLOSED / FULLY ARCHIVED**;
+- constituents **31–32: source-gated / Tamil T1-ready**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 30 — all 13 pages from frozen Tamil only.**
+**Constituent 31 Tamil T1 first-pass transcription — PDF 364–371 / printed 363–370, 8 pages.**
