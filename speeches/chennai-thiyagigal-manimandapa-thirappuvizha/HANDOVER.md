@@ -36,7 +36,7 @@ Tamil T1: **COMPLETE — 8/8 source pages** for `சென்னை - திய�
 - explicit unreadable / unknown placeholders: **0**;
 - separate closing note remains outside the speech body;
 - title versus closing-note action wording remains separately preserved;
-- explicit continuations for T2: **343→344, 344→345, 345→346, 346→347, 348→349, 349→350**;
+- explicit continuations for T2: **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**;
 - T2 source-sensitive attention is recorded in the constituent transcript, including names/titles, unusual source forms, quotations and numerals.
 
 Tamil T2 is **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**. Tamil T3 is **READY / NOT STARTED**.
