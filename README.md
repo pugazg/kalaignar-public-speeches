@@ -353,3 +353,10 @@ Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 addition
 The archival workflow is complete for constituent **25 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **288–294** / printed pages **287–293**. The separate closing note establishes **05.09.1998**, venue **சென்னை**, event `அன்னை தெரசா நூல் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`.
 
 Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 1 E3 additional correction / 0 unresolved**. The English layer preserves source-sensitive **Thirana / Konsaka / Pojaksiyu** renderings without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை
+
+The archival workflow is complete for constituent **26 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **295–314** / printed pages **294–313**. The separate closing note establishes **12.09.1998**, venue **சென்னை**, event `ஆழ்வார்கள் ஆய்வு மைய விழா`, and role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **2 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **8 E2 corrections / 2 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive transliterations and unusual source forms without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
