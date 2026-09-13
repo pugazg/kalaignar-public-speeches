@@ -1,6 +1,6 @@
 # சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 16 / 16 source pages; 6 corrections; 0 unresolved**  
+**Status:** `verified-complete` / **FROZEN** — Tamil T3 **PASS / COMPLETE — 16 / 16 source pages; 0 additional corrections; 0 unresolved**  
 **Source range:** PDF **315–330** / printed **314–329**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -158,6 +158,25 @@ Source-sensitive T1 readings including `அடுக்குமொழி / த�
 
 Canonical page records remain **16/16**, complete, unique and ordered. Missing / duplicate page records: **0 / 0**. Unresolved readings: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **6/6** T2 corrections remain consolidated;
+- stale superseded canonical speech-body readings are **absent**;
+- source-proven corrected readings are **present**;
+- canonical page records: **16/16**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations recorded at T1/T2: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- source-sensitive readings and printed chronology / numeral forms: **PASS**;
+- contents / page-heading / closing-note title variants: **PASS / preserved separately**;
+- separate source closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.** Stop before constituent 28 Tamil T1 / English work.
+**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.**
