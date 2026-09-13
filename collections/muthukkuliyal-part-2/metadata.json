@@ -35,8 +35,8 @@
     "constituent_items_mapped": 36,
     "constituent_items_started": 34,
     "constituent_items_source_gated": 34,
-    "constituent_items_t1_complete": 32,
-    "constituent_items_t2_complete": 32,
+    "constituent_items_t1_complete": 34,
+    "constituent_items_t2_complete": 34,
     "constituent_items_t3_complete": 32,
     "constituent_items_tamil_verified": 32,
     "constituent_items_e1_complete": 32,
@@ -48,7 +48,7 @@
     "active_constituent_number": 33,
     "active_constituent_slug": "chennai-thiripura-orumaippattu-thina-koottam",
     "active_constituent_title_ta": "சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்",
-    "active_constituent_status": "source-gated-t1-pending",
+    "active_constituent_status": "tamil-t2-complete-t3-ready",
     "active_constituent_pdf_pages": "391-399",
     "active_constituent_printed_pages": "390-398",
     "active_constituent_pages_total": 9,
@@ -64,9 +64,13 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t1",
+    "active_batch_gate": "tamil-t3",
     "next_constituent_number": 33,
-    "next_gate": "Tamil T1 first-pass transcription for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total, using only the attached split PDF",
-    "constituent_items_english_verified": 32
+    "next_gate": "Tamil T3 consolidation / freeze for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total",
+    "constituent_items_english_verified": 32,
+    "active_batch_t1_complete_pages": 17,
+    "active_batch_t2_complete_pages": 17,
+    "active_batch_t2_corrections": 3,
+    "active_batch_t2_unresolved": 0
   }
 }
