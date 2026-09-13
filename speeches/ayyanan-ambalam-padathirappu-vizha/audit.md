@@ -30,6 +30,17 @@ No venue is supplied by the closing note; none is inferred.
 - all **7/7** joins: **PASS**;
 - punctuation / quotations / repetitions / names / numerals / Pasumpon Thevar quotation / source-sensitive forms / title-action distinction / separate closing note: **PASS**.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- the **1/1** T2 correction remains consolidated;
+- canonical records: **8/8**, complete / unique / ordered;
+- all **7/7** joins: **PASS**;
+- venue non-inference / title-action distinction / separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- final Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 8 pages.**
+**English E1 first-pass translation — all 8 pages, frozen Tamil authority only.**
