@@ -34,11 +34,11 @@ Contents title and page heading agree. The closing note records the event withou
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED — 0/8** |
-| Tamil T2 strict direct-scan audit | blocked pending T1 |
-| Tamil T3 consolidation / freeze | blocked pending T2 |
-| English E1/E2/E3 | blocked pending frozen Tamil |
-| Repository closure | not started |
+| Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
+| Tamil T3 consolidation / freeze | **PASS / COMPLETE — 8/8; FROZEN** |
+| English E1/E2/E3 | **VERIFIED COMPLETE — 8/8** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -50,7 +50,7 @@ Contents title and page heading agree. The closing note records the event withou
 - all **7/7** source-gated joins retained;
 - source spelling, punctuation, names, quotations, repetitions and applause marker retained at first-pass level;
 - separate source closing note remains outside speech body;
-- Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
+- Tamil T2 strict direct-scan fidelity audit: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**.
 
 ## Tamil T2 strict direct-scan fidelity audit
 
@@ -64,7 +64,7 @@ Scan-confirmed corrections:
 
 All **7/7** joins, source-sensitive names, quotations, numerals, repetitions, the `Side Effect / சைடு எபெக்ட்` passage, the 1925 Kanchipuram passage, `சீர்வேந்தன் / சீர்` wordplay, applause marker and separate closing note were rechecked against the attached scan pixels.
 
-Unreadable / unknown after T2: **0**. Tamil T3: **READY / NOT STARTED**.
+Unreadable / unknown after T2: **0**. Tamil T3 is **PASS / COMPLETE**; see below.
 
 ## Tamil T3 consolidation / freeze
 
