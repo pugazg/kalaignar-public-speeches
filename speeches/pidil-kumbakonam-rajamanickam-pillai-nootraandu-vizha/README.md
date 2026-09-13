@@ -61,6 +61,30 @@ Every canonical page was rechecked against the attached scan pixels. All **8/8**
 
 No T1 correction was required. Unreadable / unknown after T2: **0**. Tamil T3: **READY / NOT STARTED**.
 
-## Exact next gate
+## Tamil T3 consolidation / freeze
 
-**Tamil T3 consolidation / freeze — all 9 pages.**
+**PASS / COMPLETE — 9/9 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- T2 required **0** corrections;
+- canonical records: **9/9**, complete / unique / ordered;
+- all **8/8** joins: **PASS**;
+- source-sensitive names/forms, quotations, anecdotes, applause markers and quoted rhythmic forms: **PASS**;
+- `நூற்றாண்டுவிழா` / `நூற்றாண்டு விழா` distinction remains preserved;
+- Tamil: **`verified-complete` / FROZEN**;
+- speech-body Tamil changes during T3: **0**.
+
+## English E1 / E2 / E3
+
+- E1: **COMPLETE — 9/9** from frozen Tamil only;
+- E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 9/9 pages.**
+
+Tamil and English are **verified-complete**. Source range, all joins, musical terminology, `isai` wordplay, Nero/fiddle anecdote, Sangeetha Kalanidhi passage, Karaikudi competition anecdote, Travancore elephant anecdote, N.S.K. accompaniment anecdote, applause markers, title-spacing distinction and separate closing note all pass closure revalidation.
+
+Terminal PDF425 remains non-speech. Closure speech-body changes: Tamil **0**, English **0**. Source binary remains uncommitted. No transcription or translation work remains pending for constituent 36.
