@@ -78,16 +78,33 @@
     "english_translation_final_verification": "verified-complete",
     "e1_pages_completed": 15,
     "e2_pages_checked": 15,
-    "e2_corrections": 0,
+    "e2_corrections": 1,
     "e2_unresolved": 0,
     "e3_pages_checked": 15,
     "e3_additional_corrections": 0,
     "e3_unresolved": 0,
-    "repository_closure": "complete",
+    "repository_closure": "complete-after-fidelity-repair",
     "archive_status": "fully-archived",
     "pending_transcription_or_translation_work": false,
     "next_gate": null,
-    "closure_tamil_speech_body_changes": 0,
-    "closure_english_speech_body_changes": 0
+    "closure_tamil_speech_body_changes": 1,
+    "closure_english_speech_body_changes": 1,
+    "t2_corrections": 1,
+    "t3_additional_source_corrections": 0,
+    "post_closure_fidelity_repair": {
+      "reason": "Final page-heading count exposed a missing source page in the committed constituent.",
+      "restored_pdf_page": 54,
+      "restored_printed_page": 53,
+      "restored_content": "Vibhishana explanation of Ravana's back scar plus two Kamban verses and continuation prose.",
+      "remapped_following_pages": [
+        "PDF55 / printed54",
+        "PDF56 / printed55"
+      ],
+      "tamil_restored_pages": 1,
+      "english_restored_pages": 1,
+      "final_tamil_page_headings": 15,
+      "final_english_page_headings": 15,
+      "unresolved": 0
+    }
   }
 }
