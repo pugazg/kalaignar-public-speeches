@@ -75,7 +75,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Tamil T1 COMPLETE — Tamil T2 pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Tamil T2 COMPLETE — Tamil T3 pending** |
 | 30–36 | — | not started |
 
 ## Current processing status
@@ -83,7 +83,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - mapped: **36/36**
 - started / source-gated: **29/36**
 - Tamil T1 complete: **29/36**
-- Tamil T2 complete: **28/36**
+- Tamil T2 complete: **29/36**
 - Tamil T3 complete / Tamil verified: **28/36**
 - English E1/E2/E3 complete / English verified: **28/36**
 - fully archived: **28/36**
@@ -94,7 +94,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Tamil T1 COMPLETE — Tamil T2 pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Tamil T2 COMPLETE — Tamil T3 pending** |
 
 ## Constituent 27 — source / duplicate / boundary gate
 
@@ -179,6 +179,17 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **COMPLETE — 8/8 source pages.** Canonical page records cover PDF **343–350** / printed **342–349** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**. Separate closing-note handling and title/action wording distinction remain intact.
 
+## Constituent 29 — Tamil T2
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+- PDF344 / p.343: `மிகவும்` → `மிகுந்த`;
+- PDF346 / p.345: `நன்றிகூற` → `நன்றிகூறக்`;
+- PDF347 / p.346: `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`;
+- all seven page joins pass;
+- canonical records remain complete / unique / ordered;
+- separate closing note and title/action wording remain preserved.
+
 ## Next activity
 
-Constituent **29** only — Tamil T2 strict direct-scan fidelity audit — **8 source pages**. Stop before T3 / constituent 30.
+Constituent **29** only — Tamil T3 consolidation/freeze — **8 source pages**. Stop before English / constituent 30.
