@@ -72,8 +72,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 23 | `tn-rajarathinam-pillai-nootraandu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **Tamil verified-complete / FROZEN — English E1 pending** |
-| 26–36 | — | not started |
+| 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 29–36 | — | not started |
 
 ## Current processing status
 
