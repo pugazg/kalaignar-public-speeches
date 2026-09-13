@@ -24,7 +24,7 @@ Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
 
 - PDF **315–330** / printed **314–329** — **16 pages**
 - source / duplicate / boundary gate: **PASS / COMPLETE — 16/16**
-- date / venue / event / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
 - prior boundary: PDF314 closes constituent 26
 - next boundary: PDF331 begins constituent 28
 - duplicate unresolved: **0**
@@ -41,7 +41,7 @@ Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
 
 - PDF **331–342** / printed **330–341** — **12 pages**
 - source / duplicate / boundary gate: **PASS / COMPLETE — 12/12**
-- date / venue / event / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
 - prior boundary: PDF330 closes constituent 27
 - next boundary: PDF343 begins constituent 29
 - duplicate unresolved: **0**
@@ -120,7 +120,7 @@ Collection state: mapped **36/36**; source-gated **28/36**; Tamil verified **28/
 
 - PDF **343–350** / printed **342–349** — **8 pages**
 - source / duplicate / boundary gate: **PASS / COMPLETE — 8/8**
-- date / venue / event / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `திறந்து வைத்து ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து` / `ஆற்றிய உரை`
 - closing note: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`
 - explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**
 - prior boundary: PDF342 closes constituent 28
