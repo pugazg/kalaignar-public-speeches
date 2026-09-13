@@ -1,6 +1,6 @@
 # Chennai - Exnora and Rotary Organisations Appreciation Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 16/16 pages**  
+**Status:** `fidelity-corrections-consolidated` — English E2 **PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **315–330** / printed **314–329**
 
@@ -32,7 +32,7 @@ Though such a person did not speak here in detail about the Cauvery and the Kris
 
 ## PDF 318 / printed p.317
 
-and the Chief Minister of Pondicherry were engaged in a campaign before the then Union Irrigation Minister in Delhi. One day K. L. Rao invited us and the other southern Chief Ministers to dinner at his residence. After dinner, he explained what linking the Ganges and the Cauvery would mean. In explaining it, he said that enormous pumping stations would have to be created at five or six places. Only by doing so could the rises and depressions along the route be overcome and water brought from the Ganges to the Cauvery through huge pipelines. Then he asked, “Do you know how much electricity would be required for the first pumping station to be built in North India?” He said that the electricity being used throughout India at that time would be required for that one pumping station, and explained that the scheme was not one that could then be welcomed as feasible.
+and the Chief Minister of Pondicherry were engaged in a campaign before the then Union Irrigation Minister in Delhi. One day K. L. Rao invited us and the other southern Chief Ministers to dinner at his residence. After dinner, he explained what linking the Ganges and the Cauvery would mean. In explaining it, he said that enormous pumping stations would have to be created at five or six places. Only by doing so could the rises and depressions along the route be overcome and water brought from the Ganges to the Cauvery through huge pipelines. Then he asked, “Do you know how much electricity would be required for the first pumping station to be built in North India?” He said that the electricity being used throughout India at that time would be required for that one pumping station, and explained that the scheme was not one that could be welcomed.
 
 But today, as Mr. Seshan desires and as you desire, even if the Ganges and the Cauvery are not linked at once, I believe that if, in the first stage, rivers such as the Godavari and the Cauvery are linked, then one after another the rivers can be linked together until India can formulate a national river policy and connect its rivers and waterways. The reason is that scientific development has today reached such heights. It is with that confidence that I say this.
 
@@ -84,7 +84,7 @@ Just as those lines say, whether it is Kannada, spirited Telugu or graceful Mala
 
 ## PDF 325 / printed p.324
 
-You know that I am not one who supports every position taken by Mr. Vajpayee, or every position taken by the Union Government. You know very well that, today, forever and always, Karunanidhi supports whatever position is good for Tamils, whatever is good for the country, and whatever is good for democracy. It is in that manner that this agreement has now been accepted by everyone. It has been accepted by the Karnataka Chief Minister, the Kerala Chief Minister, the Pondicherry Chief Minister and the Tamil Nadu Government. I ask you to consider what betrayal there is in it. Karnataka had said for eight years that it would not accept the tribunal’s award. If an agreement has now been reached in which the very first clause says, “Accepting the tribunal’s interim award and in accordance with it...”, please consider whether that can be called betrayal. And I—born in Thanjavur, having drunk Cauvery water, lived on Thanjavur soil, played on Thanjavur soil, eaten rice cooked from paddy grown on Thanjavur soil, and lived among you, a son of this soil—
+You know that I am not one who supports every position taken by Mr. Vajpayee, or every position taken by the Union Government. You know very well that, today, forever and always, Karunanidhi supports whatever position is good for Tamils, whatever is good for the country, and whatever is good for democracy. It is in that manner that this agreement has now been accepted by everyone. It has been accepted by the Karnataka Chief Minister, the Kerala Chief Minister, the Pondicherry Chief Minister and the Tamil Nadu Government. I ask you to consider what betrayal there is in it. Karnataka had said for eight years that it would not accept the tribunal’s award. If an agreement has now been reached in which the very first clause says, “Accepting the tribunal’s interim award and in accordance with it...”, please consider whether that can be called betrayal. And I—born in Thanjavur, having drunk Cauvery water, lived on Thanjavur soil, played on Thanjavur soil, eaten rice cooked from paddy grown on Thanjavur soil, and lived among you, I, who belong to this soil—
 
 ## PDF 326 / printed p.325
 
@@ -92,13 +92,13 @@ to say that I betrayed the Tamils and committed treachery may perhaps be useful 
 
 Some call me a traitor. You appreciate me, saying that I have done a good thing. To put it briefly, some people inflict wounds; today you have applied medicine. For that, I wish to convey my thanks to Mr. Nirmal, to all of you belonging to the Exnora organisation, and to all the affectionate friends who offered words of appreciation.
 
-Likewise, there is Krishna water. To bring Krishna water, we have spoken with N. T. R., Chenna Reddy, Janardhana Reddy and Chandrababu Naidu—four or five Chief Ministers in this way. As far as I am concerned, I myself have spoken with four or five Chief Ministers. On this question of Krishna river water, the person who wrote a letter and contacted the Union Government about it as early as 1948 was Omandur Ramasamy Reddiar, who was then Premier of the Madras Presidency and assumed responsibility as Chief Minister. It had been discussed even before that. It was discussed in Parliament too. Krishna water was discussed in 1953, 1963 and at other times.
+Likewise, there is Krishna water. To bring Krishna water, we have spoken with N. T. R., Chenna Reddy, Janardhana Reddy and Chandrababu Naidu—four or five Chief Ministers in this way. As far as I am concerned, I myself have spoken with four or five Chief Ministers. On this question of Krishna river water, the person who wrote a letter and contacted the Union Government about it as early as 1948 was Omaandur Ramasamy Reddiar, who was then Premier of the Madras Presidency and assumed responsibility as Chief Minister. It had been discussed even before that. It was discussed in Parliament too. Krishna water was discussed in 1953, 1963 and at other times.
 
 ## PDF 327 / printed p.326
 
-But it was Omandur Ramasamy Reddiar who wrote asking that the Union Government implement it immediately. After that it was shelved. Even though successive Chief Ministers made efforts, it did not come to fruition.
+But it was Omaandur Ramasamy Reddiar who wrote asking that the Union Government implement it immediately. After that it was shelved. Even though successive Chief Ministers made efforts, it did not come to fruition.
 
-My dear friend M. G. R. and Andhra Chief Minister N. T. Rama Rao announced the Krishna water project on Chennai’s seafront in the presence of Prime Minister Indira Gandhi, and an agreement was entered into. To implement that agreement, how many times have I, our friend Veerasamy, others and the Public Works Minister gone to Andhra? How many times have we spoken with those Ministers? How many times have we argued with those officials? You also know how many times they in turn came here. The Krishna water released last year—if one may put it in the language of the Puranic storytellers—ran into our bad time: because of rains and floods, we did not receive it fully as we had expected. After a year, with many arrangements made, today the water has begun arriving in Chennai fully in accordance with the agreement, in the months in which it is supposed to reach us.
+My dear friend M. G. R. and Andhra Chief Minister N. T. Rama Rao announced the Krishna water project on Chennai’s seafront in the presence of Prime Minister Annai Indira Gandhi, and an agreement was entered into. To implement that agreement, how many times have I, our friend Veerasamy, others and the Public Works Minister gone to Andhra? How many times have we spoken with those Ministers? How many times have we argued with those officials? You also know how many times they in turn came here. The Krishna water released last year—if one may put it in the language of the Puranic storytellers—ran into our bad time: because of rains and floods, we did not receive it fully as we had expected. After a year, with many arrangements made, today the water has begun arriving in Chennai fully in accordance with the agreement, in the months in which it is supposed to reach us.
 
 Yesterday there was one function. The day before yesterday there was another function. The day before yesterday, at a place near Valluvar Kottam, for this entire area—
 
@@ -110,7 +110,7 @@ As many tanks as need to be opened across Chennai city will continue to be opene
 
 ## PDF 329 / printed p.328
 
-be met in full. Yesterday I announced one thing—a long-term plan. Efforts toward it are proceeding rapidly and intensively. Even though there was a slight lull in between, the effort has now begun moving faster and faster. That plan is to clean and purify the Cooum River, the Buckingham Canal and the Adyar—these three waterways. The Mayor so often says, “Beautiful Chennai, Beautiful Chennai.” To create a truly beautiful Chennai, my long-standing desire is to see these three rivers placed like three pearl garlands around the neck of the city called Chennai. I believe that desire will soon be fulfilled.
+be met in full. Yesterday I announced one thing—a long-term plan. Efforts toward it are proceeding rapidly and intensively. Even though there was a slight lull in between, the effort has now begun moving faster and faster. That plan is to clean and purify the Cooum River, the Buckingham Canal and the Adyar—these three rivers. The Mayor so often says, “Beautiful Chennai, Beautiful Chennai.” To create a truly beautiful Chennai, my long-standing desire is to see these three rivers placed like three pearl garlands around the neck of the city called Chennai. I believe that desire will soon be fulfilled.
 
 Nirmal has conducted this function today and brought here thousands of branch members and administrators from his service movement, showering appreciation upon me. The very word *Nirmal* means purity. We say “nirmalam”—pure. *Nirmal* itself means purity. Exnora is the name of this organisation. When I spoke about it last year at Kalaivanar Arangam, I asked what “Exnora” meant. Nirmal said that X stood for “excellent.” He said N,O stood for “novel”—something new. He said R,A stood for “radical,” meaning change. I—
 
@@ -140,6 +140,34 @@ Therefore, this movement, conducted by many pure-hearted people with a spirit of
 - separate source closing note retained outside the speech body;
 - frozen Tamil changes during E1: **0**.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved.**
+
+Confirmed corrections consolidated into the English layer:
+
+1. PDF318 / printed p.317: removed the unsupported interpretive gloss **`as feasible`** from the K. L. Rao passage; frozen Tamil states simply that the scheme was one that could not be welcomed.
+2. PDF325 / printed p.324: `a son of this soil` → **`I, who belong to this soil`**, avoiding an added familial metaphor and restoring `இந்த மண்ணுக்குச் சொந்தக்காரனான நான்`.
+3. PDF326 / printed p.325: `Omandur Ramasamy Reddiar` → **`Omaandur Ramasamy Reddiar`**, following the frozen Tamil `ஓமாந்தூர்`.
+4. PDF327 / printed p.326: second `Omandur Ramasamy Reddiar` → **`Omaandur Ramasamy Reddiar`**, for the same source-sensitive transliteration.
+5. PDF327 / printed p.326: restored the source honorific **`Annai`** in `Prime Minister Annai Indira Gandhi`.
+6. PDF329 / printed p.328: `these three waterways` → **`these three rivers`**, preserving the source’s explicit `இந்த மூன்று ஆறுகளையும்` rather than silently normalizing the Buckingham Canal reference.
+
+E2 verification result:
+
+- pages checked: **16/16**, PDF **315–330** / printed **314–329**;
+- missing / duplicate English page records: **0 / 0**;
+- PDF/printed-page correspondence and all recorded joins: **PASS**;
+- names / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- chronology / numeral forms **1892 / 1924 / 1934 / 1967 / 1968 / 1974 / 1989 / 1996 / 1998 / 205 TMC / 7–8 / 9 hours / 3 lakh / 70–100 litres**: **PASS**;
+- applause / laughter markers: **PASS**;
+- contents / page-heading / closing-note title distinctions: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 27 — all 16 pages.**
+**English E3 final end-to-end verification for constituent 27 — all 16 pages.**
