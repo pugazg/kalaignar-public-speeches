@@ -1,43 +1,64 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 26 repository closure
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 27 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work.
+Fetch live `main` first and preserve newer durable work. Constituents **1–26 are CLOSED / FULLY ARCHIVED**. Constituents **27–28 have source / duplicate / boundary gate PASS / COMPLETE**.
 
-## Durable textual state
+## Controlling source
 
-Constituent **26** — `சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை` — has completed every textual gate:
+`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
-- Tamil T1: **COMPLETE — 20/20**
-- Tamil T2: **PASS / COMPLETE — 20/20; 2 corrections; 0 unresolved**
-- Tamil T3: **PASS / COMPLETE — 20/20; 0 additional corrections; 0 unresolved**
-- Tamil: **`verified-complete` / FROZEN**
-- English E1: **COMPLETE — 20/20**
-- English E2: **PASS / COMPLETE — 20/20; 8 corrections; 0 unresolved**
-- English E3: **PASS / COMPLETE — 20/20; 2 additional corrections; 0 unresolved**
-- English: **`verified-complete`**
-- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**
-- no transcription or translation work remains pending
+- SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
+- size: **232,470,104 bytes**
+- physical scans: **425**
+- source PDF must **not** be committed
+- stable constituent-body relationship: **PDF scan = printed page + 1**
 
-## Remaining repository-level closure item
+## Durable collection state
 
-The processing guide requires the **root catalogue** to be synchronized before archival closure can be marked complete. All speech-level and collection-level textual controls are already synchronized. The only remaining closure item is adding constituent 26 to the root catalogue in `README.md`.
+- mapped: **36/36**
+- started / source-gated: **28/36**
+- Tamil T1/T2/T3 complete / Tamil verified: **26/36**
+- English E1/E2/E3 complete / English verified: **26/36**
+- fully archived: **26/36**
 
-Required root catalogue entry:
+## Constituent 27
 
-### சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை
+`சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`  
+`speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
 
-- constituent: **26 / 36**
-- PDF **295–314** / printed **294–313**
-- closing note establishes **12.09.1998**, venue **சென்னை**, event `ஆழ்வார்கள் ஆய்வு மைய விழா`, role `ஆற்றிய உரை`
-- Tamil: **`verified-complete` / FROZEN**, T2 **2**, T3 **0**, unresolved **0**
-- English: **`verified-complete`**, E2 **8**, E3 **2**, unresolved **0**
-- source-sensitive transliterations and unusual forms preserved without outside normalization
+- source gate: **PASS / COMPLETE — 16/16**
+- PDF **315–330** / printed **314–329**
+- contents title: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`
+- page heading: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
+- closing note: `26-9-98 அன்று சென்னையில் எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழாவில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
+- prior boundary: PDF314 closes constituent 26
+- next boundary: PDF331 opens constituent 28
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **READY / NOT STARTED**
 
-After the root catalogue entry is successfully written, mark constituent 26 **FULLY ARCHIVED**, restore collection archived total to **26/36**, set last archived constituent to **26**, and advance the next activity to constituent **27** source / duplicate / boundary gate: PDF **315–330** / printed **314–329**.
+## Constituent 28
+
+`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`  
+`speeches/chennai-thiraiyulagam-nadathiya-paarattu-vizha/`
+
+- source gate: **PASS / COMPLETE — 12/12**
+- PDF **331–342** / printed **330–341**
+- contents / page heading: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
+- closing note: `27-9-98 அன்று சென்னையில் திரையுலகம் நடத்திய பாராட்டு விழாவில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
+- prior boundary: PDF330 closes constituent 27
+- next boundary: PDF343 opens constituent 29 `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
+- Tamil T1: **READY / NOT STARTED**
+
+## Exact activity
+
+Perform **Tamil T1 first-pass transcription for constituent 27 — all 16 source pages**, PDF **315–330** / printed **314–329**, from the controlling scans. Preserve page boundaries, title variant, source-sensitive wording, punctuation, numerals, repetitions and applause/laughter markers. Keep the separate closing note outside the speech body. Explicitly mark genuinely unreadable text rather than guessing.
 
 ## STOP RULE
 
-Do not begin constituent 27 until the root catalogue synchronization for constituent 26 succeeds.
+Stop after constituent 27 Tamil T1. **Do not begin Tamil T2, constituent 28 Tamil T1, English work, or repository closure in the same activity.**
