@@ -11,7 +11,7 @@
 ## Durable collection state
 - mapped: **36/36**
 - started / source-gated: **36/36**
-- Tamil T1 complete: **34/36**
+- Tamil T1 complete: **36/36**
 - Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **34/36**
 - English verified: **34/36**
@@ -385,38 +385,29 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **35–36 source / duplicate / boundary gates are PASS / COMPLETE**.
+Constituents **35–36 Tamil T1 are COMPLETE**.
 
 ### Constituent 35 — `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`
-- directory: `speeches/kanchipuram-cvm-annamalai-illa-manavizha/`;
-- PDF **408–415** / printed **407–414** — **8/8**;
-- split extract **29–36**;
-- opening / ending / separate closing note: **VERIFIED**;
-- all **7/7** internal joins: **PASS**;
-- closing note: `22-11-98 அன்று காஞ்சிபுரத்தில் சி.வி.எம். அண்ணாமலை இல்ல மணவிழாவில் ஆற்றிய உரை`;
-- date / venue / event / role: **1998-11-22 / காஞ்சிபுரம் / சி.வி.எம். அண்ணாமலை இல்ல மணவிழா / ஆற்றிய உரை**;
-- prior boundary PDF407 / next boundary PDF416: **PASS**;
-- duplicate unresolved: **0**; boundary unresolved: **0**;
-- Tamil T1: **READY / NOT STARTED — 0/8**.
+- PDF **408–415** / printed **407–414** — **8/8 T1 complete**;
+- missing page records: **0**;
+- unreadable / unknown placeholders: **0**;
+- all **7/7** source-gated joins retained;
+- separate closing note remains outside speech body;
+- Tamil T2: **READY / NOT STARTED**.
 
 ### Constituent 36 — `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா`
-- directory: `speeches/pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha/`;
-- PDF **416–424** / printed **415–423** — **9/9**;
-- split extract **37–45**;
-- opening / ending / separate closing note: **VERIFIED**;
-- all **8/8** internal joins: **PASS**;
-- closing note: `26-11-98 அன்று சென்னையில் பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
-- date / venue / event / role: **1998-11-26 / சென்னை / பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழா / ஆற்றிய உரை**;
-- contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`: **preserved**;
-- prior boundary PDF415: **PASS**;
-- terminal boundary PDF425: **PASS — non-speech back-cover portrait / publisher page**;
-- duplicate unresolved: **0**; boundary unresolved: **0**;
-- Tamil T1: **READY / NOT STARTED — 0/9**.
+- PDF **416–424** / printed **415–423** — **9/9 T1 complete**;
+- missing page records: **0**;
+- unreadable / unknown placeholders: **0**;
+- all **8/8** source-gated joins retained;
+- `நூற்றாண்டுவிழா` / `நூற்றாண்டு விழா` title-spacing distinction preserved;
+- separate closing note remains outside speech body;
+- Tamil T2: **READY / NOT STARTED**.
 
-Combined source-gate batch: **17/17 pages inspected; 15/15 internal joins PASS; duplicate unresolved 0; boundary unresolved 0**.
+Combined batch: **17/17 T1 complete; missing 0; unreadable/unknown 0; 15/15 joins retained**.
 
-Collection state: mapped **36/36**; source-gated **36/36**; Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**. Constituents **1–34 are CLOSED / FULLY ARCHIVED**.
+Collection state: mapped **36/36**; source-gated **36/36**; Tamil T1 **36/36**; Tamil T2/T3 / Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total, using only the attached split PDF.**
+**Tamil T2 strict direct-scan fidelity audit for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total, attached split PDF only.**
