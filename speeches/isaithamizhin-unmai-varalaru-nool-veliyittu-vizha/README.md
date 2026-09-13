@@ -35,8 +35,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 13/13** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 13/13; 5 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending frozen Tamil |
 | Repository closure | not started |
 
@@ -50,6 +50,22 @@ T2 source-sensitive attention includes names and forms `ரேவதி சங�
 
 This is a first-pass layer; source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 13/13 source pages; 5 corrections; 0 unresolved.**
+
+Confirmed direct-scan corrections:
+
+1. PDF355 / printed p.354: `ஒரு கிரேக்க நாடு கதை உண்டு.` → `ஒரு கிரேக்க நாட்டு கதை உண்டு.`
+2. PDF356 / printed p.355: `இதற்கு எல்லாம் வராதே` → `இதற்கெல்லாம் வராதே`
+3. PDF358 / printed p.357: `துப்பறியும் சாம்பு என்ற கதையை எழுதியினார்.` → `துப்பறியும் சாம்பு என்ற கதையை எழுதினார்.`
+4. PDF362 / printed p.361: `கமகம் இல்லாமல் பாடப்படாதினால் அந்தப் பாட்டு சுவைக்காது` → `கமகம் இல்லாமல் பாட்டுப்பாடினால் அந்தப் பாட்டு சுவைக்காது`
+5. PDF363 / printed p.362: removed the unsupported full stop before `(கைத்தட்டல்)`.
+
+All **13** scans and **12** joins pass. Names/titles, `யாழ்` / `கமகம்` passages, Tamil Thai and Tirukkural quotations, `துப்பறியும் சாம்பு`, English phrases, applause/laughter markers, title-spacing variants and the separate closing note all pass. Unresolved readings: **0**.
+
+Tamil is not yet frozen; T3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages.**
+**Tamil T3 consolidation / freeze for constituent 30 — all 13 pages.**
