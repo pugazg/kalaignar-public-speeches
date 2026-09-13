@@ -71,6 +71,8 @@ For audio or video sources, also read:
 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.371–389 | 18.10.1998 | **Verified complete - 19/19 speech pages** | **Verified complete - 19/19 speech pages** |
 | `chennai-thiripura-orumaippattu-thina-koottam` | சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம் | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.390–398 | 03.11.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
 | `ayyanan-ambalam-padathirappu-vizha` | அய்யணன் அம்பலம் படத்திறப்பு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.399–406 | 15.11.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
+| `kanchipuram-cvm-annamalai-illa-manavizha` | காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.407–414 | 22.11.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
+| `pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha` | பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.415–423 | 26.11.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
 
 ## Repository layout
 
@@ -437,3 +439,24 @@ The archival workflow is complete for constituent **34 / 36** of `முத்�
 Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **0 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves the caste/body metaphor, tiger/deer imagery, Pasumpon Thevar quotation, source-sensitive names/forms, event-title / closing-action distinction, venue non-inference, and separate closing-note handling without outside normalization.
 
 Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+
+### காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா
+
+The archival workflow is complete for constituent **35 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **408–415** / printed pages **407–414**. The separate closing note establishes **22.11.1998**, venue **காஞ்சிபுரம்**, event `சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`, and role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **0 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves the reservation / communal-representation terminology, the `Side Effect` analogy, the 1925 Kanchipuram passage, source-sensitive names and numerals, the `சீர்வேந்தன் / சீர்` wordplay, applause marker and separate closing-note handling without outside normalization.
+
+Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+### பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா
+
+The archival workflow is complete for constituent **36 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **416–424** / printed pages **415–423**. The separate closing note establishes **26.11.1998**, venue **சென்னை**, event `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழா`, and role `ஆற்றிய உரை`. The archive preserves contents/page-heading `நூற்றாண்டுவிழா` separately from closing-note `நூற்றாண்டு விழா`.
+
+Tamil is **`verified-complete` / FROZEN** with **0 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **0 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive musical names and terminology, the `isai` music/fame wordplay, the Nero/fiddle anecdote, Sangeetha Kalanidhi passage, Karaikudi competition anecdote, Travancore elephant anecdote, N.S.K. accompaniment anecdote, applause markers and separate closing-note handling without outside normalization.
+
+Terminal PDF **425** is a non-speech back-cover portrait / publisher page. Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+### முத்துக் குளியல் — பாகம் II — collection closure
+
+The full **36 / 36 constituent** collection is now **CLOSED / FULLY ARCHIVED**: source-gated **36/36**, Tamil verified **36/36**, English verified **36/36**, fully archived **36/36**. The source PDF remains uncommitted.
