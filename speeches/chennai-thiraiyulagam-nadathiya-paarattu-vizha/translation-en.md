@@ -1,6 +1,6 @@
 # Chennai - Film Industry Appreciation Function — English translation
 
-**Status:** `e1-complete` — English E1 **COMPLETE — 12/12 pages**  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **331–342** / printed **330–341**
 
@@ -20,7 +20,7 @@ Iyakkunar Sigaram Balachander, who delivered the welcome address, and Bharathira
 
 I wish to remind you of one thing. I am speaking of a struggle from the time when Arignar Anna was alive. In the course of a struggle I was imprisoned, and I came out of Tiruchirappalli prison. To receive me, Perarignar Anna waited at the gates of the Tiruchirappalli prison and welcomed me. That day there was an appreciation meeting for me in Tiruchirappalli. The next day there was an appreciation meeting in Chennai under Anna's leadership.
 
-Anna said, “After speaking in Tiruchirappalli, come to Kanchipuram tomorrow. You will have a meal at home there. The two of us can then go together to the appreciation function in Chennai.” So, after taking part in the Tiruchirappalli function, I went to Kanchipuram the next morning, had lunch at Anna's home, and in the evening the two of us set out for the function in Chennai. On the way, from Anbagam, which is beside what is now Anna Arivalayam, a procession set out after welcoming us. Anna and I were seated in a chariot and the procession went to the seafront. A great public function was held there. Anna spoke in appreciation. At ten at night, Anna and I returned home.
+Anna said, “After speaking in Tiruchirappalli, come to Kanchipuram tomorrow. You will have a meal at home there. The two of us can then go together to the appreciation function in Chennai.” So, after taking part in the Tiruchirappalli function, I went to Kanchipuram the next morning, had lunch at Anna's home, and in the evening the two of us set out for the function in Chennai. On the way, from Anbagam, which is beside what is now Anna Arivalayam, a procession set out after welcoming us. Anna and I were seated in a chariot and the procession went to the seafront. At the seafront, a festival was taking place. Anna spoke in appreciation. At ten at night, Anna and I returned home.
 
 At that time my mother, Anjugam Ammaiyar, welcomed us and seated us in the hall. Looking at my mother, Anna asked, “What, Amma, are you well?” Then my mother looked at Anna and said, “My younger brother, yesterday you were released from Vellore prison.
 
@@ -36,7 +36,7 @@ Those who organised this event have presented me with a silver statue, a gold ch
 
 That is why I am standing before you wearing it.
 
-To the distinguished people of the art world—whether it is brother Super Star Rajini seated here, Supreme Star brother Sarathkumar, Kalaignani brother Kamal whom I have praised, Ezhuchikkalaignar brother Vijayakanth, or the many other artists like them—I have not accomplished anything very great for them. Rather, I grew together with them from the years 45–46; I was involved in the art world even at a time when some of them had not yet been born and when some were still children; I am now in my 75th year; and, as far as the film world and the art world are concerned, I have crossed fifty years. For these reasons they are conducting both a golden-jubilee celebration and a pavala-vizha celebration here. I am indebted to their fine hearts, their broad hearts, their magnanimous hearts; none of them is indebted to me.
+To the distinguished people of the art world—whether it is brother Super Star Rajini seated here, Supreme Star brother Sarathkumar, Kalaignani brother Kamal whom I have praised, Ezhuchikkalaignar brother Vijayakanth, or the many other artists like them—I have not accomplished anything very great for them. Rather, I grew together with them from the years 45-46; I was involved in the art world even at a time when some of them had not yet been born and when some were still children; I am now in my 75th year; and, as far as the film world and the art world are concerned, I have crossed fifty years. For these reasons they are conducting both a golden-jubilee celebration and a pavala-vizha celebration here. It is I who am indebted to their fine hearts, their broad hearts, their magnanimous hearts; none of them is indebted to me.
 
 As far as the film world is concerned, it has grown enormously, to an extent that gives me great happiness today. Whether the industry itself has experienced a corresponding growth is a matter for debate. They have brought to me the many difficulties that have affected it, and though I have accepted the responsibility of providing whatever assistance a government can provide,
 
@@ -52,13 +52,13 @@ Balu Mahendra, who spoke here, expressed one idea. He said that film art should 
 
 what he meant was that film art should be made a subject. The Education Minister, the Professor, is here; I think it would be good to consult him about how such an effort might be undertaken and to make it a subject. After all, not every student now comes to school eagerly to study the subjects that already exist. If that subject were introduced, perhaps (Loud laughter, applause) all the students would come to school eagerly! With that hope, I wish to say that we shall consider Balu Mahendra's suggestion; it is indeed a good suggestion.
 
-It has become very late. As for this venue, friends from the State of Gujarat—people from North India who are living in Tamil Nadu—are conducting a function here. Understanding our difficulty, they themselves came forward and, though they are from the North, showed a concern that even people in the South did not show. (Loud applause) As though advising me, “Do not speak of North and South anymore,” they generously made this place available to us, saying that they would hold their own programmes after this event. Not only that, they have also presented here a cheque for more than one lakh rupees for the Chief Minister's Relief Fund. I looked closely at the cheque and counted the amount. Because—
+It has become very late. As for this venue, friends from the State of Gujarat—people from North India who are living in Tamil Nadu—are conducting a function here. Understanding our difficulty, they themselves came forward and, though they are from the North, showed a concern that even people in the South did not show. (Loud applause) As though advising me, “Do not speak of North and South anymore,” they generously made this place available to us, saying that they would hold their own programmes after this event. Not only that, they have also presented here a cheque for more than one lakh rupees for the Chief Minister's Fund. I looked closely at the cheque and counted the amount. Because—
 
 ## PDF 337 / printed p.336
 
 it was all ones: one lakh eleven thousand one hundred and eleven.
 
-When I looked intently at that cheque, Sivaji turned his face toward me and, with his eyes, asked, “Has that treasurer's habit still not left you?” (Laughter) Because, as he mentioned here, he and I have not merely known each other for ten years or twenty years. As he pointed out here, there was a time when we wandered the streets of Thanjavur, the streets of Thiruvarur, the streets of Kudanthai, and the streets of Chennai. We were playful young men. In that period when Arignar Anna brought us all together and accepted us as his younger brothers, and when we decided to work through the arts to carry out ideological propaganda, Sivaji and I together took part in movement propaganda and in several plays.
+When I looked intently at that cheque, Sivaji turned his face toward me and, with his eyes, asked, “Has that treasurer's habit still not left you?” (Laughter) Because, as he mentioned here, it is not as though he and I have been together merely for ten years or twenty years. As he pointed out here, there was a time when we wandered the streets of Thanjavur, the streets of Thiruvarur, the streets of Kudanthai, and the streets of Chennai. We were playful young men. In that period when Arignar Anna brought us all together and accepted us as his younger brothers, and when we decided to work through the arts to carry out ideological propaganda, Sivaji and I together took part in movement propaganda and in several plays.
 
 There were many such plays—`Thookkumedai`, `Vaazha Mudiyathavargal`, and others. It was while acting in those plays that, when a drama was staged at Sankarankovil in Tirunelveli district to raise money for the Thanjavur district cyclone-relief fund, Sivaji and I had gone there. We arrived in the morning. The organisers of the drama had not arranged make-up rooms beside the stage.
 
@@ -66,7 +66,7 @@ There were many such plays—`Thookkumedai`, `Vaazha Mudiyathavargal`, and other
 
 Not knowing what else to do, we put on our make-up at the place where we were staying and set out from there for the place where the drama was to be performed. But there was no way to reach the rear of the stage. We had to pass through the people who had come to watch the drama. Sivaji, the other actors and I covered our heads and crossed the area where the crowd had gathered to reach the stage. We performed.
 
-After we had performed, the people who conducted the drama truly made us cover our heads in shame. Taking the 4,000 rupees that remained from the day's performance—the balance from the drama held for cyclone relief—the organiser disappeared. We did not know how we were going to return. We who had staged `Vaazha Mudiyathavargal`—“Those Who Cannot Live”—became people who could not get back home.
+After we had performed, the people who conducted the drama truly made us cover our heads. Taking the 4000 rupees that remained from the day's performance—the balance from the drama held for cyclone relief—the organiser disappeared. We did not know how we were going to return. We who had staged `Vaazha Mudiyathavargal`—“Those Who Cannot Live”—became people who could not get back home.
 
 At that time, friends Thangapazham, K.V.K. Samy and Sivasamy had come to watch the drama. They took us with them, saying, “At least to enable you to return to Chennai, stage one drama in Thoothukudi.” They publicised it in the morning, we staged the drama that evening, and with the amount left over from it we returned to Chennai. In such a testing time, in such a painful time, the one who worked with me in this movement, as a younger brother to Anna
 
@@ -102,7 +102,7 @@ heartfelt thanks. (Loud applause) Whatever obstacles may come, Revolutionary Poe
 
 ## Separate source closing note — outside speech body
 
-**PDF 342 / printed p.341:** “Speech delivered on 27-9-98 in Chennai at the film industry's appreciation function.”
+**PDF 342 / printed p.341:** “Speech delivered on 27-9-98 in Chennai at the appreciation function conducted by the film industry.”
 
 ## E1 checkpoint
 
@@ -115,12 +115,43 @@ heartfelt thanks. (Loud applause) Whatever obstacles may come, Revolutionary Poe
 - rhetoric / repetition / quotation structure / applause-laughter markers retained;
 - source-sensitive names, titles and unusual forms retained without outside normalization;
 - Anna / Anjugam anecdote and Sivaji recollections retained;
-- numerals **45–46 / 75 / 50 / 26 / 4,000 / 20 / 27 / 111,111** retained in context;
+- numerals **45-46 / 75 / 50 / 26 / 4000 / 20 / 27 / 111,111** retained in context;
 - the cheque amount, the English phrase `My Dear Old Man, How are you`, and Bharathidasan's quotation retained;
 - contents/page-heading title versus closing-note event wording remains distinct;
 - separate source closing note retained outside the speech body;
 - frozen Tamil changes during E1: **0**.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved.**
+
+Confirmed corrections consolidated into the English layer:
+
+1. PDF332 / printed p.331: `A great public function was held there` → **`At the seafront, a festival was taking place`**, restoring source `கடற்கரையிலே திருவிழா நடைபெறுகிறது` without adding `great public`.
+2. PDF334 / printed p.333: `I am indebted` → **`It is I who am indebted`**, restoring the emphasis of source `நான்தான் கடமைப்பட்டிருக்கிறேன்`.
+3. PDF334 / printed p.333: `45–46` → **`45-46`**, retaining the frozen Tamil numeral form rather than silently normalising punctuation.
+4. PDF336 / printed p.335: `Chief Minister's Relief Fund` → **`Chief Minister's Fund`**, removing unsupported `Relief`; frozen Tamil states `முதலமைச்சர் நிதி`.
+5. PDF337 / printed p.336: `he and I have not merely known each other for ten years or twenty years` → **`it is not as though he and I have been together merely for ten years or twenty years`**, avoiding an added `known each other` formulation.
+6. PDF338 / printed p.337: `4,000 rupees` → **`4000 rupees`**, retaining the frozen Tamil numeral form `4000`.
+7. PDF338 / printed p.337: removed unsupported `in shame` from the second `முக்காடு` sentence; the source repeats the head-covering image without explicitly stating shame.
+8. PDF342 / printed p.341: closing note `at the film industry's appreciation function` → **`at the appreciation function conducted by the film industry`**, restoring source `திரையுலகம் நடத்திய`.
+
+E2 verification result:
+
+- pages checked: **12/12**, PDF **331–342** / printed **330–341**;
+- missing / duplicate English page records: **0 / 0**;
+- PDF/printed-page correspondence and recorded joins: **PASS**;
+- rhetoric / repetition / quotation structure: **PASS**;
+- names / titles / source-sensitive forms: **PASS / no outside normalization**;
+- Anna / Anjugam anecdote and Sivaji recollections: **PASS**;
+- numerals and cheque amount: **PASS**;
+- `My Dear Old Man, How are you` and Bharathidasan quotation: **PASS**;
+- applause / laughter markers: **PASS**;
+- contents/page-heading versus closing-note title distinction: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.**
+**English E3 final end-to-end verification for constituent 28 — all 12 pages.**
