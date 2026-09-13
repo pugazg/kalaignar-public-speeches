@@ -36,8 +36,8 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 19/19** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 19/19; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 19/19; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
-| English E1/E2/E3 | **E1 READY / NOT STARTED** |
-| Repository closure | not started |
+| English E1/E2/E3 | **E1 COMPLETE — 19/19; E2 PASS / COMPLETE — 19/19; 7 corrections; E3 PASS / COMPLETE — 19/19; 1 additional correction; 0 unresolved — English verified-complete** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -68,6 +68,22 @@ Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed duri
 
 English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation for constituent 32 — all 19 pages from frozen Tamil only.**
+English E1: **COMPLETE — 19/19 pages** from frozen `transcription-ta.md` only.
+
+English E2: **PASS / COMPLETE — 19/19 pages; 7 corrections; 0 unresolved**.
+
+English E3: **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**. All **7/7** E2 corrections remain consolidated; frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+
+English is now **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 19/19 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** with T2 **3 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **7 corrections**, E3 **1 additional correction**, unresolved **0**.
+
+Source range PDF **372–390** / printed **371–389**, all **18** joins, embedded poems / source lineation, literary and historical references, applause markers, printed typo contrast, title-spacing variants, and separate source closing note all pass closure revalidation.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending for constituent 32.
