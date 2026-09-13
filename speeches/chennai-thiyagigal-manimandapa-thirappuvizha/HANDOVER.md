@@ -25,8 +25,22 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 8/8 source pages; dupl
 - PDF351 / printed p.350 begins constituent 30 `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`;
 - title versus closing-note action wording is intentionally recorded separately;
 - no existing dedicated archive was found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 8/8 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 8/8 source pages** for `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`, PDF **343–350** / printed **342–349**.
+
+- canonical page records: **8/8**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note remains outside the speech body;
+- title versus closing-note action wording remains separately preserved;
+- explicit continuations for T2: **343→344, 344→345, 345→346, 346→347, 348→349, 349→350**;
+- T2 source-sensitive attention is recorded in the constituent transcript, including names/titles, unusual source forms, quotations and numerals.
+
+Tamil T2 is **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.** Stop before T3 / constituent 30.
