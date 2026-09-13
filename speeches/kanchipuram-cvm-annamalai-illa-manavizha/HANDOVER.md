@@ -38,6 +38,17 @@
 - all **7/7** joins and separate closing note: **PASS**;
 - Tamil T3: **READY / NOT STARTED**.
 
-## Exact next gate
+## Durable Tamil T3 / English / closure result
 
-**Tamil T3 consolidation / freeze for constituent 35 — all 8 pages.**
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- all **3/3** T2 corrections remain consolidated;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **COMPLETE — 8/8**;
+- English E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- all **7/7** joins and source-sensitive checks: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source binary remains uncommitted;
+- no transcription or translation work remains pending for constituent 35.
