@@ -133,6 +133,21 @@ Collection state: mapped/source-gated **36/36 / 29/36**; Tamil T1/T2 **29/36**; 
 
 Collection state: mapped/source-gated **36/36 / 29/36**; Tamil T1/T2/T3 / Tamil verified **29/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — durable English E1 result
+
+- English E1: **COMPLETE — 8/8 pages**.
+- Translation authority: frozen `transcription-ta.md` only.
+- English page records: **8/8**, complete and ordered.
+- Missing English page records: **0**.
+- All seven joins retained.
+- Rhetoric / repetition / quotations retained.
+- Source-sensitive names/titles/forms retained without outside normalization.
+- Periyar / Anna / Gandhi passages and Ganapathi recollection retained.
+- Quantities **50 / 1250 / 250 / 1000**, Bharathi quotations, title/action distinction and separate closing note retained.
+- Frozen Tamil changes during E1: **0**.
+
+Collection state: Tamil verified **29/36**; English E1 **29/36**; English E2/E3 / English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages, from frozen Tamil only.** Stop before E2 / constituent 30.
+**English E2 page-by-page fidelity review for constituent 29 — PDF 343–350 / printed 342–349, all 8 English page records against frozen Tamil.** Stop before E3 / constituent 30.
