@@ -55,6 +55,22 @@ All joins, punctuation, quotations, repetitions, applause markers, names, numera
 - speech-body Tamil changes during T3: **0**;
 - Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation — all 9 pages, from frozen Tamil only.**
+English E1: **COMPLETE — 9/9 pages** from frozen `transcription-ta.md` only.
+
+English E2: **PASS / COMPLETE — 9/9 pages; 0 corrections; 0 unresolved**.
+
+English E3: **PASS / COMPLETE — 9/9 pages; 0 additional corrections; 0 unresolved**.
+
+Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**. English is now **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 9/9 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** with T2 **2 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **0 corrections**, E3 **0 additional corrections**, unresolved **0**.
+
+Source range PDF **391–399** / printed **390–398**, all **8/8** joins, resolution quotations, rhetoric, source-sensitive names/forms, numerals, applause markers and the separate closing note all pass closure revalidation.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending.
