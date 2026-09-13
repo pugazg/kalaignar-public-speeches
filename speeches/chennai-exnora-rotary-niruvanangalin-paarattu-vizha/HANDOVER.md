@@ -24,8 +24,18 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 16/16 source pages; du
 - PDF331 / printed p.330 begins constituent 28 `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`;
 - source title variants are intentionally recorded separately;
 - no existing dedicated archive was found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 16/16 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 16/16 source pages** for `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`, PDF **315–330** / printed **314–329**. Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Source title variants remain separately preserved.
+
+Explicit continuations for T2: **315→316, 316→317, 317→318, 319→320, 320→321, 321→322, 322→323, 323→324, 325→326, 327→328, 328→329, 329→330**.
+
+T2 source-sensitive attention is recorded in the constituent transcript, including unusual source wording, the Tamil poem, the `X / N,O / R,A` wordplay, chronology/numerals and punctuation/spacing.
+
+Tamil T2 is **READY / NOT STARTED**. Constituent 28 remains source-gated and outside the active T1 batch.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 27 — PDF 315–330 / printed 314–329, all 16 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.** Stop before T3 / constituent 28.
