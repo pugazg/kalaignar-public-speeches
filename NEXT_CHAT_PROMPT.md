@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 27 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 27 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–26 are CLOSED / FULLY ARCHIVED**. Constituents **27–28 have source / duplicate / boundary gate PASS / COMPLETE**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–26 are CLOSED / FULLY ARCHIVED**. Constituent **27 has Tamil T1 COMPLETE — 16/16 source pages**. Constituent **28 remains source-gated with Tamil T1 not started**.
 
 ## Controlling source
 
@@ -20,8 +20,9 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–26 a
 
 - mapped: **36/36**
 - started / source-gated: **28/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **26/36**
-- English E1/E2/E3 complete / English verified: **26/36**
+- Tamil T1 complete: **27/36**
+- Tamil T2/T3 complete / Tamil verified: **26/36**
+- English verified: **26/36**
 - fully archived: **26/36**
 
 ## Constituent 27
@@ -30,35 +31,28 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–26 a
 `speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
 
 - source gate: **PASS / COMPLETE — 16/16**
+- Tamil T1: **COMPLETE — 16/16**
 - PDF **315–330** / printed **314–329**
-- contents title: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`
-- page heading: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
-- closing note: `26-9-98 அன்று சென்னையில் எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழாவில் ஆற்றிய உரை`
-- date / venue / event / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
-- prior boundary: PDF314 closes constituent 26
-- next boundary: PDF331 opens constituent 28
-- duplicate unresolved: **0**
-- boundary unresolved: **0**
-- Tamil T1: **READY / NOT STARTED**
+- canonical page records: **16/16**, complete and ordered
+- missing page records: **0**
+- explicit unreadable / unknown placeholders: **0**
+- title variants preserved:
+  - contents: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`
+  - page heading: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
+  - closing-note event: `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
+- separate closing note: **preserved outside the speech body**
+- explicit page-boundary continuations for T2: **315→316, 316→317, 317→318, 319→320, 320→321, 321→322, 322→323, 323→324, 325→326, 327→328, 328→329, 329→330**
+- source-sensitive T2 attention includes `அடுக்குமொழி / தடுக்குமொழி`, `சொல்லியாகவேண்டும்`, `பொதுப்பணியாற்றி`, `சரத்துக்கள்`, `பேச்சியாகி விட்டது`, `பூராணிகர்கள் பாஷையில்`, the poem beginning `கன்னடமும், களி தெலுங்கும்`, the `X / N,O / R,A` wordplay, chronology / numerals, and source punctuation / spacing
+- Tamil T2: **READY / NOT STARTED**
 
 ## Constituent 28
 
-`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`  
-`speeches/chennai-thiraiyulagam-nadathiya-paarattu-vizha/`
-
-- source gate: **PASS / COMPLETE — 12/12**
-- PDF **331–342** / printed **330–341**
-- contents / page heading: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
-- closing note: `27-9-98 அன்று சென்னையில் திரையுலகம் நடத்திய பாராட்டு விழாவில் ஆற்றிய உரை`
-- date / venue / event / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
-- prior boundary: PDF330 closes constituent 27
-- next boundary: PDF343 opens constituent 29 `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
-- Tamil T1: **READY / NOT STARTED**
+`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா` remains **source-gated / Tamil T1 not started**. Do not begin it in this activity.
 
 ## Exact activity
 
-Perform **Tamil T1 first-pass transcription for constituent 27 — all 16 source pages**, PDF **315–330** / printed **314–329**, from the controlling scans. Preserve page boundaries, title variant, source-sensitive wording, punctuation, numerals, repetitions and applause/laughter markers. Keep the separate closing note outside the speech body. Explicitly mark genuinely unreadable text rather than guessing.
+Perform **Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages**. Re-read PDF **315–330** line by line against the controlling scans. Verify every name, numeral, punctuation mark, repeated phrase, quotation, applause/laughter marker, source-sensitive form, page-boundary continuation and the separate closing note. Apply only scan-confirmed corrections to `transcription-ta.md`; do not silently modernize or normalize unusual source wording. Record exact T2 correction count and unresolved readings.
 
 ## STOP RULE
 
-Stop after constituent 27 Tamil T1. **Do not begin Tamil T2, constituent 28 Tamil T1, English work, or repository closure in the same activity.**
+Stop after Tamil T2 for constituent 27. **Do not begin Tamil T3, constituent 28 Tamil T1, English work, or repository closure in the same activity.**
