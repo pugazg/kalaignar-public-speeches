@@ -34,8 +34,12 @@ Explicit continuations for T2: **332→333, 333→334, 334→335, 335→336, 336
 
 T2 source-sensitive attention is recorded in the constituent transcript, including the Anna / Anjugam anecdote, Sivaji recollections, names/titles, numerals, cheque amount, the English phrase, Bharathidasan’s quotation, applause/laughter markers, and unusual source wording/spacing.
 
-Tamil T2 is **READY / NOT STARTED**.
+Tamil T2: **PASS / COMPLETE — 12/12 source pages; 11 corrections; 0 unresolved**. All mapped scans PDF **331–342** were re-read directly. Canonical page order / joins, names/titles, numerals, punctuation, quotations, repetitions, applause/laughter markers, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation, title spacing distinction and separate closing note: **PASS**.
+
+Tamil T3: **PASS / COMPLETE — 12/12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved**. T3 found T2 correction #8 had remained stale in the canonical body on PDF341 / printed p.340 as `ஏ.வி.எம். சரவணனும்`; it was replaced with the already source-verified `எ.வி.எம். சரவணனும்`. All **11/11** T2 corrections are now consolidated; superseded canonical readings are absent; canonical page records are complete, unique and ordered. No new source reading was introduced during T3.
+
+Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 28 — all 12 source pages.** Stop before T3 / constituent 29.
+**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.** Stop before E2 / constituent 29 / repository closure.
