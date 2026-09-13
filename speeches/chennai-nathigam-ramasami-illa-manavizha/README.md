@@ -33,8 +33,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending frozen Tamil |
 | Repository closure | not started |
 
@@ -44,6 +44,19 @@
 
 Canonical page records cover PDF **364–371** / printed **363–370** in source order. Missing page records: **0**; explicit unreadable / unknown placeholders: **0**. All 7 page-boundary continuations are retained for T2 review. The separate source closing note remains outside the speech body. This is a first-pass layer only; source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+Confirmed direct-scan corrections:
+1. PDF366 / p.365: `அதிகே கூட` → `அதிலே கூட`.
+2. PDF367 / p.366: `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`.
+3. PDF368 / p.367: `தெய்வம் உண்மையென்று காண்றில் வேணும்` → `தெய்வம் உண்மையென்று தானறிதல் வேணும்`.
+
+All **8** scans and **7** joins pass. Source-sensitive rhetoric, numerals, Bharathi quotation forms, historical names, `பெட்ரோமாக்ஸ்`, applause marker and separate closing note all pass. Unresolved readings: **0**.
+
+Tamil is not yet frozen; T3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 31 — all 8 pages.**
+**Tamil T3 consolidation / freeze for constituent 31 — all 8 pages.**
