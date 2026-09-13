@@ -33,6 +33,20 @@ Tamil T1: **COMPLETE — 19/19 source pages**.
 - contents / page-heading / closing-note spacing variants remain separately preserved;
 - embedded poems, names and source-sensitive forms flagged for T2 are recorded in `transcription-ta.md`.
 
+## Durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 19/19 source pages; 3 corrections; 0 unresolved**.
+
+- PDF383: `நடித்து தமிழகமெங்கும்` → `நடித்துத் தமிழகமெங்கும்`;
+- PDF386: `நானே வரிகளில்` → `நான்கே வரிகளில்`;
+- PDF390: restored printed typo contrast `திருமணத்திற்கு` / `திருணமத்திற்கு`;
+- all 19 scans / 18 joins: **PASS**;
+- canonical records: complete / unique / ordered;
+- embedded poem lineation / Bharathi-Bharathidasan quotations / `கவுதமன்` passage / `நீதி தேவன் மயக்கம்` / Nehru / Srinivasa Iyengar / `தென்னவன் காதை` / applause markers / title variants / separate closing note: **PASS**;
+- unresolved: **0**.
+
+Tamil T3 is **READY / NOT STARTED**. Tamil is not yet frozen.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 32 — all 19 pages.**
+**Tamil T3 consolidation / freeze for constituent 32 — all 19 pages.**
