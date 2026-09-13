@@ -40,6 +40,18 @@ Contents title and page heading agree. The closing note records the event withou
 | English E1/E2/E3 | blocked pending frozen Tamil |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 8/8 source pages.**
+
+- canonical page records: **8/8**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all **7/7** source-gated joins retained;
+- source spelling, punctuation, names, quotations, repetitions and applause marker retained at first-pass level;
+- separate source closing note remains outside speech body;
+- Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — PDF 408–415 / printed 407–414, 8 pages, using only the attached split PDF.**
+**Tamil T2 strict direct-scan fidelity audit — all 8 pages, PDF 408–415 / printed 407–414.**
