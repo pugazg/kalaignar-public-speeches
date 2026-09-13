@@ -36,6 +36,26 @@ Tamil T1: **READY / NOT STARTED — 0/9**.
 
 All **8/8** joins, source-sensitive names/forms, quotations, numerals, repetitions, applause markers, anecdotes, title-spacing distinction and separate closing-note handling: **PASS**.
 
-## Exact next gate
+## Tamil T3 consolidation / freeze
 
-**Tamil T3 consolidation / freeze — all 9 pages.**
+**PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- canonical records **9/9**, complete / unique / ordered;
+- all **8/8** joins: **PASS**;
+- source-sensitive names/forms / quotations / anecdotes / applause markers / title-spacing distinction / separate closing note: **PASS**;
+- speech-body Tamil changes: **0**;
+- final Tamil state: **`verified-complete` / FROZEN**.
+
+## English E1 / E2 / E3
+
+- E1: **COMPLETE — 9/9**;
+- E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- semantic completeness / musical terminology / `isai` wordplay / anecdotes / quotations / numerals / applause markers / title-spacing distinction / separate closing note: **PASS**;
+- English: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+Terminal PDF425 remains non-speech. Closure speech-body changes: Tamil **0**, English **0**. Source binary remains uncommitted. No transcription or translation work remains pending.
