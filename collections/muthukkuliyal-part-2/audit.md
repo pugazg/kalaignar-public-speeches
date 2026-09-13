@@ -787,6 +787,41 @@ Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0** for both constituents.
 - fully archived: **34/36**;
 - constituents **1–34: CLOSED / FULLY ARCHIVED**.
 
+## Constituents 35–36 — source / duplicate / boundary gates
+
+**PASS / COMPLETE — 17/17 source pages total; duplicate unresolved 0; boundary unresolved 0.**
+
+### Constituent 35
+- PDF **408–415** / printed **407–414**; split extract **29–36**;
+- opening PDF408: numbered constituent **35**, heading `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`;
+- internal joins **408→409, 409→410, 410→411, 411→412, 412→413, 413→414, 414→415**: **7/7 PASS**;
+- closing note PDF415: `22-11-98 அன்று காஞ்சிபுரத்தில் சி.வி.எம். அண்ணாமலை இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- prior boundary PDF407 closes constituent 34; next boundary PDF416 begins constituent 36;
+- no existing dedicated archive found on live `main`;
+- source binaries remain uncommitted;
+- Tamil T1: **READY / NOT STARTED — 0/8**.
+
+### Constituent 36
+- PDF **416–424** / printed **415–423**; split extract **37–45**;
+- opening PDF416: numbered constituent **36**, heading `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா`;
+- internal joins **416→417, 417→418, 418→419, 419→420, 420→421, 421→422, 422→423, 423→424**: **8/8 PASS**;
+- closing note PDF424: `26-11-98 அன்று சென்னையில் பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
+- contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`: **preserved**;
+- prior boundary PDF415 closes constituent 35;
+- terminal boundary PDF425: **non-speech back-cover portrait / publisher page — PASS**;
+- no existing dedicated archive found on live `main`;
+- source binaries remain uncommitted;
+- Tamil T1: **READY / NOT STARTED — 0/9**.
+
+## Collection totals after final source gates
+
+- mapped: **36/36**;
+- source-gated: **36/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **34/36**;
+- English verified: **34/36**;
+- fully archived: **34/36**;
+- constituents **1–34: CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Source / duplicate / boundary gates for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total.**
+**Tamil T1 first-pass transcription for constituents 35 and 36 — 17 pages total, PDF 408–424 / printed 407–423, attached split PDF only.**
