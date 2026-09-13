@@ -710,6 +710,15 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **32/36**;
 - fully archived: **32/36**.
 
+## Current batch audit status
+
+- live `main` reverted the unverified constituent 33 T1 draft;
+- constituent 33 canonical T1 body: **0/9 committed**;
+- constituent 34 canonical T1 body: **0/8 committed**;
+- source gates for both constituents remain **PASS / COMPLETE**;
+- no T2/T3/English work has begun for either constituent;
+- controlling transcription source remains the user-supplied split PDF only.
+
 ## Exact next gate
 
-**Constituent 33 Tamil T1 first-pass transcription — PDF 391–399 / printed 390–398, 9 pages.**
+**Tamil T1 first-pass transcription for constituents 33 and 34 — 17 pages total, PDF 391–407 / printed 390–406.**
