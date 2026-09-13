@@ -52,6 +52,20 @@ Corrections:
 
 All PDF **343–350** scans were checked directly against the controlling source. All seven joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350** pass. Canonical page records: **8/8**; missing / duplicate: **0 / 0**; unresolved: **0**. Separate closing note and title/action distinction remain preserved.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 body readings: **0**;
+- canonical page records: **8/8**, complete / unique / ordered;
+- all seven page joins: **PASS**;
+- source-sensitive names/forms/quotations/numerals: **PASS**;
+- title/action distinction: **PASS**;
+- separate closing note outside speech body: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.**
+**English E1 first-pass translation for constituent 29 — all 8 pages from frozen Tamil only.**
