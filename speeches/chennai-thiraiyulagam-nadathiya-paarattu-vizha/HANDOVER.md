@@ -24,8 +24,18 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 12/12 source pages; du
 - PDF343 / printed p.342 begins constituent 29 `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`;
 - source title variants are intentionally recorded separately;
 - no existing dedicated archive was found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 12/12 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 12/12 source pages** for `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`, PDF **331–342** / printed **330–341**. Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. The title / closing-note spacing variant remains separately preserved.
+
+Explicit continuations for T2: **332→333, 333→334, 334→335, 335→336, 336→337, 337→338, 338→339, 340→341, 341→342**.
+
+T2 source-sensitive attention is recorded in the constituent transcript, including the Anna / Anjugam anecdote, Sivaji recollections, names/titles, numerals, cheque amount, the English phrase, Bharathidasan’s quotation, applause/laughter markers, and unusual source wording/spacing.
+
+Tamil T2 is **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 28 — PDF 331–342 / printed 330–341, all 12 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 28 — all 12 source pages.** Stop before T3 / constituent 29.
