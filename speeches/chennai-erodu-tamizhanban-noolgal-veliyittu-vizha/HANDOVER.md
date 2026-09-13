@@ -61,6 +61,21 @@ Tamil T3: **PASS / COMPLETE — 19/19 pages; 0 additional source corrections; 0 
 
 English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
 
-## Exact next gate
+## Durable English / repository-closure result
 
-**English E1 first-pass translation for constituent 32 — all 19 pages from frozen Tamil only.**
+- English E1: **COMPLETE — 19/19**.
+- English E2: **PASS / COMPLETE — 19/19; 7 corrections; 0 unresolved**.
+- English E3: **PASS / COMPLETE — 19/19; 1 additional correction; 0 unresolved**.
+- Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Tamil: **`verified-complete` / FROZEN**; T2 **3**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**.
+- Source range / page order / all **18** joins: **PASS**.
+- Embedded poems / source-sensitive names / literary-historical references / applause markers / printed typo contrast / title variants / separate closing note: **PASS**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- Source PDF remains uncommitted.
+- No transcription or translation work remains pending for constituent 32.
+
+## Next collection gate
+
+Constituent **33** `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்` — source / duplicate / boundary gate beginning PDF **391** / printed **390**.
