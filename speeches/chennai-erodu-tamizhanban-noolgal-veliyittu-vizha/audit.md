@@ -54,6 +54,23 @@ Corrections:
 - applause markers / title-spacing variants / separate closing note: **PASS**;
 - unresolved: **0**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 19/19 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 speech-body readings: **0**;
+- canonical records: **19/19**, complete / unique / ordered;
+- all **18** joins: **PASS**;
+- embedded poems / lineation / source-sensitive names / quotations: **PASS**;
+- `நீதி தேவன் மயக்கம்` / Nehru / Srinivasa Iyengar / `தென்னவன் காதை`: **PASS**;
+- applause markers / title-spacing variants / printed typo contrast / separate closing note: **PASS**;
+- T3 additional source corrections: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- T3 speech-body changes: **0**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 19 source pages.**
+**English E1 first-pass translation — all 19 pages from frozen Tamil only.**
