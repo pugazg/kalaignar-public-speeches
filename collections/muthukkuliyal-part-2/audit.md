@@ -345,6 +345,25 @@
 - English E3 complete / English verified: **28/36**;
 - fully archived: **28/36**.
 
+## Constituent 29 — English E3 final end-to-end verification
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.**
+
+- all **5/5** E2 corrections remain consolidated;
+- PDF345 inherited-task structure restored;
+- English page records: **8/8**, complete / unique / ordered;
+- stale superseded speech-body readings: **0**;
+- all seven joins: **PASS**;
+- semantic completeness / rhetoric / quotations / source-sensitive names and forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- English state: **`verified-complete`**.
+
+## Collection totals after constituent 29 English E3
+
+- Tamil verified: **29/36**;
+- English E1/E2/E3 complete / English verified: **29/36**;
+- fully archived: **28/36**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
+**Repository closure for constituent 29.**
