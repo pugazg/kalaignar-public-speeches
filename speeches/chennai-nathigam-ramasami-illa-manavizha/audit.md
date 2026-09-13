@@ -66,6 +66,20 @@ Corrections:
 - Tamil state: **`verified-complete` / FROZEN**;
 - T3 speech-body changes: **0**.
 
+## English E1 / E2 / E3
+
+- E1: **COMPLETE — 8/8**; frozen Tamil authority only; Tamil changes **0**.
+- E2: **PASS / COMPLETE — 8/8; 2 corrections; 0 unresolved**:
+  - PDF368→369 source-name/title form preserved as `Moovalur Moothatti Ramamirtham Ammaiyar`;
+  - PDF370 unsupported `from the crowd` removed.
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**.
+- All **2/2** E2 corrections remain consolidated.
+- English page records: **8/8**, complete / unique / ordered.
+- All **7** joins: **PASS**.
+- Rhetoric / repetition / quotations / `vaa` / `vaa...r` contrast / numerals / Bharathi quotation forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E1 first-pass translation — all 8 pages from frozen Tamil only.**
+**Repository closure for constituent 31.**
