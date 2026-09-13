@@ -39,6 +39,23 @@ Tamil T1: **COMPLETE — 13/13 source pages**.
 - contents / page-heading / closing-note variants remain separately preserved;
 - T2 source-sensitive attention is recorded in `transcription-ta.md`, including names/forms, quotations, `யாழ்` / `கமகம்` passages, Tirukkural material, applause/laughter markers and English phrases.
 
+## Durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 13/13 source pages; 5 corrections; 0 unresolved**.
+
+- PDF355: `கிரேக்க நாடு கதை` → `கிரேக்க நாட்டு கதை`;
+- PDF356: `இதற்கு எல்லாம்` → `இதற்கெல்லாம்`;
+- PDF358: `எழுதியினார்` → `எழுதினார்`;
+- PDF362: `பாடப்படாதினால்` → `பாட்டுப்பாடினால்`;
+- PDF363: unsupported full stop before `(கைத்தட்டல்)` removed;
+- all 13 scans / 12 joins: **PASS**;
+- canonical records: complete / unique / ordered;
+- source-sensitive names/forms, quotations, English phrases, `யாழ்` / `கமகம்`, Tirukkural material and applause/laughter markers: **PASS**;
+- separate closing note / spacing variants: **PASS**;
+- unresolved: **0**.
+
+Tamil T3 is **READY / NOT STARTED**. Tamil is not yet frozen.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages.**
+**Tamil T3 consolidation / freeze for constituent 30 — all 13 pages.**
