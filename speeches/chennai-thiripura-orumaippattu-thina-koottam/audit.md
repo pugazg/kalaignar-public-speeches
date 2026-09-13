@@ -40,6 +40,18 @@ Closing note: `3-11-98 அன்று சென்னையில் திர�
 - speech-body Tamil changes during T3: **0**;
 - final Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation — all 9 pages, frozen Tamil authority only.**
+- E1: **COMPLETE — 9/9** from frozen Tamil only;
+- E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- all **8/8** joins: **PASS**;
+- semantic completeness / resolution quotations / rhetoric / names / numerals / applause markers / separate closing note: **PASS**;
+- frozen Tamil changes E1/E2/E3: **0 / 0 / 0**;
+- English: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending.
