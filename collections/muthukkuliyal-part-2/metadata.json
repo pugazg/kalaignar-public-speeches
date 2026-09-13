@@ -40,7 +40,7 @@
     "constituent_items_t3_complete": 29,
     "constituent_items_tamil_verified": 29,
     "constituent_items_e1_complete": 29,
-    "constituent_items_e2_complete": 28,
+    "constituent_items_e2_complete": 29,
     "constituent_items_e3_complete": 28,
     "constituent_items_archived": 28,
     "collection_status": "constituent-processing-in-progress",
@@ -48,7 +48,7 @@
     "active_constituent_number": 29,
     "active_constituent_slug": "chennai-thiyagigal-manimandapa-thirappuvizha",
     "active_constituent_title_ta": "சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா",
-    "active_constituent_status": "e1-complete-e2-pending",
+    "active_constituent_status": "e2-complete-e3-pending",
     "active_constituent_pdf_pages": "343-350",
     "active_constituent_printed_pages": "342-349",
     "active_constituent_pages_total": 8,
@@ -62,9 +62,9 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "english-e2",
+    "active_batch_gate": "english-e3",
     "next_constituent_number": 29,
-    "next_gate": "English E2 page-by-page fidelity review for constituent 29 — all 8 pages against frozen Tamil",
+    "next_gate": "English E3 final end-to-end verification for constituent 29 — all 8 pages",
     "constituent_items_english_verified": 28,
     "active_batch_t1_pages_completed": 8,
     "active_batch_t1_unreadable_or_unknown": 0,
@@ -77,6 +77,10 @@
     "active_batch_t3_unresolved": 0,
     "active_batch_e1_pages_completed": 8,
     "active_batch_e1_missing_pages": 0,
-    "active_batch_e1_frozen_tamil_changes": 0
+    "active_batch_e1_frozen_tamil_changes": 0,
+    "active_batch_e2_pages_checked": 8,
+    "active_batch_e2_corrections": 5,
+    "active_batch_e2_unresolved": 0,
+    "active_batch_e2_frozen_tamil_changes": 0
   }
 }
