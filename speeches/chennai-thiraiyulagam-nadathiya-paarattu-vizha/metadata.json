@@ -57,13 +57,13 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "english_translation": "not-started",
-    "english_translation_review": "blocked-pending-e1",
+    "english_translation": "first-pass-complete",
+    "english_translation_review": "not-started",
     "english_translation_final_verification": "blocked-pending-e2",
     "repository_closure": "not-started",
     "archive_status": "in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages",
+    "next_gate": "English E2 page-by-page fidelity review for constituent 28 — all 12 pages",
     "t1_unreadable_or_unknown": 0,
     "strict_reaudit_pages_checked": 12,
     "tamil_visual_audit_through_pdf_page": 342,
@@ -75,6 +75,11 @@
     "t3_consolidation_repairs": 1,
     "t3_unresolved": 0,
     "t3_speech_body_changes": 1,
-    "english_translation_source": "frozen transcription-ta.md only"
+    "english_translation_source": "frozen transcription-ta.md only",
+    "english_translation_pages_completed": 12,
+    "english_translation_through_pdf_page": 342,
+    "english_translation_through_printed_page": 341,
+    "english_translation_missing_pages": 0,
+    "frozen_tamil_changes_during_e1": 0
   }
 }
