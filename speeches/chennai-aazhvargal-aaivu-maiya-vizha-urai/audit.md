@@ -81,6 +81,57 @@ Verification result:
 - Tamil state: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
 
-## Exact next gate
+## English E1 — first-pass translation
 
-**English E1 first-pass translation for constituent 26 — all 20 verified Tamil pages.**
+**COMPLETE — 20/20 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **20/20**, complete and ordered;
+- missing pages: **0**;
+- page correspondence / joins / rhetoric / repetition / quotation structure / laughter-applause markers: retained;
+- source-sensitive names/forms and chronology/numerals: retained;
+- title distinctions and separate closing note: retained;
+- frozen Tamil changes during E1: **0**.
+
+## English E2 — fidelity review
+
+**PASS / COMPLETE — 20/20 pages; 8 corrections; 0 unresolved.**
+
+- PDF302: source-sensitive transliteration restored without outside normalization;
+- PDF304: two source-explicit historical actions restored from E1 euphemisms;
+- PDF307: `சமயப் பொதுவுடைமை` and omitted `சம நீதி` restored;
+- PDF308: rhetorical force of `படையெடுத்திருக்கிறார்` restored;
+- PDF310: `ஏட்டின் மூலமாக` widened from an over-narrow rendering;
+- PDF312: one unsupported implication removed from the Rajaraja Cholan Award sentence;
+- all corrections consolidated;
+- frozen Tamil changes during E2: **0**.
+
+## English E3 — final verification
+
+**PASS / COMPLETE — 20/20 pages; 2 additional corrections; 0 unresolved.**
+
+- PDF295: honorific formatting finalized as `Dr. (Mrs.) Radha Thiagarajan`;
+- PDF296: `இன்னும் சொல்லப் போனால்` finalized as `If I were to say more`;
+- all **8/8** E2 corrections remain consolidated;
+- English page records: **20/20**, complete, unique and ordered;
+- missing / duplicate records: **0 / 0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- chronology / numeral forms, laughter / applause markers, title distinctions and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3 corrections: **2 / 0**; unresolved **0**;
+- English E2 / E3 corrections: **8 / 2**; unresolved **0**;
+- PDF **295–314** / printed **294–313**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- source title distinctions and separate closing note: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
