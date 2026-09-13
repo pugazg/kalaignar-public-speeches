@@ -37,8 +37,8 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 13/13** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 13/13; 5 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 13/13; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
-| English E1/E2/E3 | **E1 READY / NOT STARTED** |
-| Repository closure | not started |
+| English E1/E2/E3 | **E1 COMPLETE — 13/13; E2 PASS / COMPLETE — 13/13; 4 corrections; E3 PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved — English verified-complete** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -76,6 +76,25 @@ Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed duri
 
 English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation for constituent 30 — all 13 pages from frozen Tamil only.**
+English E1: **COMPLETE — 13/13 pages** from frozen `transcription-ta.md` only.
+
+English E2: **PASS / COMPLETE — 13/13 pages; 4 corrections; 0 unresolved**.
+
+- PDF352: generic place wording → source-name forms `Thiruvavaduthuraiyar and Thiruvenkattar`;
+- PDF353: `Thiruvavaduthurai Rajarathinam` → `Thiruvaduthurai Rajarathinam`;
+- PDF356: repaired Tamil Thai quotation syntax so `சிதையா` is not attached to the Aryan-language clause;
+- PDF362: altered-Kural `when honour comes` → `when honour is at stake`.
+
+English E3: **PASS / COMPLETE — 13/13 pages; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; all page records and joins pass; frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+
+English is now **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 13/13 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** with T2 **5 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **4 corrections**, E3 **0 additional corrections**, unresolved **0**. Source range, all 12 joins, source-sensitive names and musical terminology, `yazh` / `gamakam`, Tamil Thai / Bharathidasan / `Thuppariyum Sambu` / Tirukkural material, source English phrases, applause/laughter markers, title-spacing variants and separate closing-note handling all agree.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending for constituent 30.
