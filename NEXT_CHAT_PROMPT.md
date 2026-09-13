@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 28 English E1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 29 source gate
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–27 are CLOSED / FULLY ARCHIVED**. Constituent **28 has completed Tamil T3 and its Tamil layer is `verified-complete` / FROZEN**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–28 are CLOSED / FULLY ARCHIVED**. Do not reopen them.
 
 ## Controlling source
 
@@ -21,41 +21,45 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–27 a
 - mapped: **36/36**
 - started / source-gated: **28/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **28/36**
-- English E1/E2/E3 complete / English verified: **27/36**
-- fully archived: **27/36**
+- English E1/E2/E3 complete / English verified: **28/36**
+- fully archived: **28/36**
 
-## Constituent 28
+## Constituent 28 closure checkpoint
 
-`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`  
-`speeches/chennai-thiraiyulagam-nadathiya-paarattu-vizha/`
+`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா` is **CLOSED / FULLY ARCHIVED**.
 
-- source / duplicate / boundary gate: **PASS / COMPLETE — 12/12**
-- PDF **331–342** / printed **330–341**
-- Tamil T1: **COMPLETE — 12/12**
-- Tamil T2: **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved**
-- Tamil T3: **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved**
-- Tamil state: **`verified-complete` / FROZEN**
-- all **11/11** T2 source-proven corrections are consolidated
-- T3 consolidation repair: PDF341 / printed p.340 `ஏ.வி.எம். சரவணனும்` → `எ.வி.எம். சரவணனும்`
-- superseded canonical T2 readings: **0**
-- canonical page records: **12/12**, complete, unique and ordered
-- explicit joins: **PASS**
-- names / titles / numerals / punctuation / quotations / repetitions / applause-laughter markers: **PASS**
-- Anna / Anjugam anecdote and Sivaji recollections: **PASS**
-- cheque amount / `My Dear Old Man, How are you` / Bharathidasan quotation: **PASS**
-- contents/page-heading title: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
-- separate closing-note event wording: `திரையுலகம் நடத்திய பாராட்டு விழா`
-- separate closing note remains **outside speech body**
-- English E1: **READY / NOT STARTED**
+- source range: PDF **331–342** / printed **330–341**
+- Tamil: **`verified-complete` / FROZEN**
+- Tamil T2: **11 corrections**
+- Tamil T3: **0 additional source corrections / 1 consolidation repair**
+- English E1: **COMPLETE — 12/12**
+- English E2: **PASS / COMPLETE — 8 corrections / 0 unresolved**
+- English E3: **PASS / COMPLETE — 2 additional corrections / 0 unresolved**
+- English: **`verified-complete`**
+- repository closure: **PASS / COMPLETE**
+- root catalogue synchronization: **PASS**
+- source PDF remains uncommitted
 
 ## Constituent 29
 
-`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா` begins at PDF343 / printed p.342. Do not begin constituent 29 in this activity.
+`சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
+
+Mapped collection range:
+
+- contents date: **23-10-98**
+- printed pages: **342–349**
+- PDF scans: **343–350**
+- mapped source pages: **8**
+- current workflow state: **NOT STARTED**
+- constituent directory: **not yet created**
+- next mapped constituent 30 begins PDF351 / printed p.350: `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
 
 ## Exact activity
 
-Perform **English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages**. Translate only from frozen `transcription-ta.md`. Preserve PDF/printed-page correspondence, rhetoric, repetition, quotations, applause/laughter markers, source-sensitive names/titles/forms, chronology/numerals, the Anna/Anjugam anecdote, Sivaji recollections, cheque amount, the English phrase `My Dear Old Man, How are you`, Bharathidasan’s quotation, title distinctions and the separate closing note. Do not silently normalize unusual Tamil or alter frozen Tamil.
+Perform the **source / duplicate / boundary gate for constituent 29 only**. Inspect all mapped scans PDF **343–350** / printed **342–349** from the controlling source. Confirm the numbered opening/title, closing note, exact date/venue/event/role evidence, prior and next boundaries, continuity across all 8 pages, and whether a dedicated archive already exists on live `main`. Preserve source title/date variants separately rather than silently normalizing them.
+
+If the gate passes, create/update the constituent controls needed to record the source gate and leave Tamil T1 as the next gate.
 
 ## STOP RULE
 
-Stop after constituent 28 English E1. **Do not begin English E2, constituent 29, or repository closure in the same activity.**
+Stop after constituent 29 source / duplicate / boundary gate. **Do not begin Tamil T1, constituent 30, English work, or repository closure in the same activity.**
