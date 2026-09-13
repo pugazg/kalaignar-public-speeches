@@ -75,12 +75,13 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29–36 | — | not started |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 30–36 | — | not started |
 
 ## Current processing status
 
 - mapped: **36/36**
-- started / source-gated: **28/36**
+- started / source-gated: **29/36**
 - Tamil T1 complete: **28/36**
 - Tamil T2 complete: **28/36**
 - Tamil T3 complete / Tamil verified: **28/36**
@@ -93,7 +94,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | — | **NOT STARTED — source gate next** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
 
 ## Constituent 27 — source / duplicate / boundary gate
 
@@ -160,6 +161,20 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - Tamil / English closure speech-body changes: **0 / 0**
 - root catalogue synchronization: **PASS**
 
-## Next same-gate batch
+## Constituent 29 — source / duplicate / boundary gate
 
-Constituent **29** — source / duplicate / boundary gate — mapped **8 source pages**, PDF **343–350** / printed **342–349**, title `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`.
+**PASS / COMPLETE — 8/8 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- contents / page heading: `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`;
+- contents date: `23-10-98`;
+- PDF **343–350** / printed **342–349**;
+- explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**;
+- closing note on PDF350 / p.349: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`;
+- prior / next boundaries: PDF342 closes constituent 28; PDF351 opens constituent 30 `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`;
+- title versus closing-note action wording preserved separately;
+- duplicate search against live `main`: **PASS**;
+- Tamil T1: **READY / NOT STARTED**.
+
+## Next activity
+
+Constituent **29** only — Tamil T1 first-pass transcription — **8 source pages**, PDF **343–350** / printed **342–349**.
