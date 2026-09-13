@@ -76,7 +76,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **Tamil T1 COMPLETE — Tamil T2 ready** |
+| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **Tamil T2 COMPLETE — Tamil T3 ready** |
 | 31 | `chennai-nathigam-ramasami-illa-manavizha` | **Source-gated / Tamil T1 ready** |
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **Source-gated / Tamil T1 ready** |
 | 33–36 | — | not started |
@@ -274,6 +274,18 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 - separate closing note and title/spacing variants preserved;
 - source pixels remain controlling for T2.
 
+## Constituent 30 — Tamil T2
+
+**PASS / COMPLETE — 13/13 source pages; 5 corrections; 0 unresolved.**
+
+- PDF355 `கிரேக்க நாடு கதை` → `கிரேக்க நாட்டு கதை`;
+- PDF356 `இதற்கு எல்லாம்` → `இதற்கெல்லாம்`;
+- PDF358 `எழுதியினார்` → `எழுதினார்`;
+- PDF362 `பாடப்படாதினால்` → `பாட்டுப்பாடினால்`;
+- PDF363 unsupported full stop before `(கைத்தட்டல்)` removed;
+- all **12** joins and source-sensitive checks: **PASS**;
+- unresolved: **0**.
+
 ## Next activity
 
-Constituent **30** — Tamil T2 strict direct-scan fidelity audit — **13 pages**, PDF **351–363** / printed **350–362**. Constituents **31–32** remain source-gated / T1-ready.
+Constituent **30** — Tamil T3 consolidation / freeze — **13 pages**, PDF **351–363** / printed **350–362**. Constituents **31–32** remain source-gated / T1-ready.
