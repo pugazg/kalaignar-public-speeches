@@ -1,10 +1,10 @@
 # பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா — Tamil transcription
 
-**Status:** `t1-complete` — Tamil T1 **COMPLETE — 9 / 9 source pages**  
+**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 9 / 9 source pages; 0 corrections; 0 unresolved**  
 **Source range:** PDF **416–424** / printed **415–423**  
 **Controlling transcription source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2_part_001_pages_380-425.pdf` — extract **37–45**
 
-Tamil T1 first-pass only. The attached split-PDF scan pixels are controlling; Tamil T2 has **not** begun.
+Tamil T1 is complete. Tamil T2 strict direct-scan fidelity audit is **PASS / COMPLETE**; the attached split-PDF scan pixels remain controlling. Tamil T3 has **not** begun.
 
 ## PDF 416 / printed p.415
 
@@ -104,4 +104,23 @@ Preserve the source title-spacing distinction: contents/page heading `நூற�
 - all **8/8** source-gated page joins retained;
 - source spelling, punctuation, names, quotations, repetitions and applause markers retained at first-pass level;
 - separate closing note remains outside speech body;
-- Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
+- Tamil T2 strict direct-scan fidelity audit: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**.
+
+## T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 9/9 source pages; 0 corrections; 0 unresolved.**
+
+T2 rechecked every canonical page against the attached split-PDF scan pixels:
+
+- all **9/9** canonical page records;
+- all **8/8** page joins;
+- source spelling, punctuation, names, quotations, numerals and repetitions;
+- `செம்மங்குடி`, `பட்டம்மாள்`, `இலால்குடி ஜெயராமன்`, `செளடய்யா`, `முத்தையா பாகவதர்`, `என்.எஸ்.கே.` and other source-sensitive names/forms;
+- the Nero / fiddle anecdote, `சங்கீத கலாநிதி` passage, Karaikudi competition anecdote, Travancore elephant anecdote, and N.S.K. side-accompaniment anecdote;
+- applause markers and the quoted rhythmic forms;
+- contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`;
+- separate closing note outside the speech body.
+
+No scan-confirmed T1 correction was required. Unreadable / unknown after T2: **0**.
+
+Tamil T3 consolidation / freeze: **READY / NOT STARTED**.
