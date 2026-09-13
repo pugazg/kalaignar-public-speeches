@@ -280,6 +280,27 @@
 - English verified: **28/36**;
 - fully archived: **28/36**.
 
+## Constituent 29 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 body readings: **0**;
+- canonical page records: **8/8**, complete / unique / ordered;
+- all seven joins: **PASS**;
+- source-sensitive names/forms/quotations/numerals: **PASS**;
+- title/action distinction: **PASS**;
+- separate closing note outside speech body: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Collection totals after constituent 29 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 29/36 / 29/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **29/36**;
+- English verified: **28/36**;
+- fully archived: **28/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.**
+**English E1 first-pass translation for constituent 29 — all 8 pages from frozen Tamil only.**
