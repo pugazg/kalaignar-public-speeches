@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 30 Tamil T2
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 30 Tamil T3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–29 are CLOSED / FULLY ARCHIVED**. Constituents **30–32 are source-gated**. Constituent **30 Tamil T1 is COMPLETE — 13/13**; constituents **31–32 remain Tamil T1-ready**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–29 are CLOSED / FULLY ARCHIVED**. Constituents **30–32 are source-gated**. Constituent **30 Tamil T1 and T2 are COMPLETE**; constituents **31–32 remain Tamil T1-ready**.
 
 ## Controlling source
 
@@ -21,10 +21,10 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–29 a
 - mapped: **36/36**
 - started / source-gated: **32/36**
 - Tamil T1 complete: **30/36**
-- Tamil T2/T3 complete / Tamil verified: **29/36**
+- Tamil T2 complete: **30/36**
+- Tamil T3 complete / Tamil verified: **29/36**
 - English E1/E2/E3 complete / English verified: **29/36**
 - fully archived: **29/36**
-- constituents **1–29: CLOSED / FULLY ARCHIVED**
 
 ## Constituent 30
 
@@ -34,30 +34,35 @@ Directory: `speeches/isaithamizhin-unmai-varalaru-nool-veliyittu-vizha/`
 - source range: PDF **351–363** / printed **350–362** — **13 pages**
 - source gate: **PASS / COMPLETE**
 - Tamil T1: **COMPLETE — 13/13**
-- missing page records: **0**
-- explicit unreadable / unknown placeholders: **0**
-- all **12** page joins retained
+- Tamil T2: **PASS / COMPLETE — 13/13; 5 corrections; 0 unresolved**
+- Tamil T3: **READY / NOT STARTED**
 - separate source closing note remains outside speech body
 - contents / page-heading / closing-note spacing variants remain separately preserved
-- Tamil T2: **READY / NOT STARTED**
 
-T2 source-sensitive attention includes:
-- `ரேவதி சங்கரன்`, `சத்தியசீலன்`, `சேக்கிழார் மன்றம்`, `ராகப்பிரியா`;
-- `பி.டி.ஆர். கமலத் தியாகராஜன்`, `திருப்பாம்பரம் சண்முகசுந்தரம்`, `பி.டி. ராஜன்`, `பழனிவேல்ராஜன்`;
-- musical-person names and source forms;
-- `மனோன்மணியம் சுந்தரனார்`, `பாரதிதாசன்`;
-- `யாழ்` / `கமகம்` passages;
-- `துப்பறியும் சாம்பு`;
-- Tirukkural quotations;
-- applause/laughter markers;
-- English phrases `Contribution of Tamil to Karnatic Music`, `New light on the Musical History of Tamil Nadu`, `Out of the Way`.
+### T2 corrections
+
+1. PDF355 / printed p.354: `ஒரு கிரேக்க நாடு கதை உண்டு.` → `ஒரு கிரேக்க நாட்டு கதை உண்டு.`
+2. PDF356 / printed p.355: `இதற்கு எல்லாம் வராதே` → `இதற்கெல்லாம் வராதே`
+3. PDF358 / printed p.357: `துப்பறியும் சாம்பு என்ற கதையை எழுதியினார்.` → `துப்பறியும் சாம்பு என்ற கதையை எழுதினார்.`
+4. PDF362 / printed p.361: `கமகம் இல்லாமல் பாடப்படாதினால் அந்தப் பாட்டு சுவைக்காது` → `கமகம் இல்லாமல் பாட்டுப்பாடினால் அந்தப் பாட்டு சுவைக்காது`
+5. PDF363 / printed p.362: unsupported full stop before `(கைத்தட்டல்)` removed.
+
+T2 final checks:
+- scans: **13/13**
+- page records: **13/13**, complete / unique / ordered
+- all **12/12 joins PASS**
+- names/titles, musical-person names, `யாழ்` / `கமகம்` passages, Tamil Thai / Bharathidasan / `துப்பறியும் சாம்பு`, Tirukkural quotations, English phrases, applause/laughter markers: **PASS**
+- title/spacing variants and separate closing note: **PASS**
+- unresolved: **0**
 
 ## Exact activity
 
-Perform **Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages, PDF 351–363 / printed 350–362**.
+Perform **Tamil T3 consolidation / freeze for constituent 30 — all 13 pages**.
 
-Re-read every source scan directly. Verify every canonical page record, all 12 joins, punctuation, names, quotations, English phrases, applause/laughter markers, the separate closing note and the title/spacing variants. Correct only scan-confirmed Tamil transcription errors. Record every confirmed correction and leave unresolved readings explicit if any.
+Verify that all **5/5** T2 corrections remain consolidated, superseded T1 body readings are absent, canonical page records remain complete / unique / ordered, all 12 joins pass, and source-sensitive names/forms, quotations, English phrases, `யாழ்` / `கமகம்`, Tirukkural material, applause/laughter markers, title/spacing variants and separate closing-note handling remain intact. Make only confirmed consolidation repairs if needed; do not reopen T2 source reading unless a genuine inconsistency is found.
+
+If T3 passes, mark Tamil **`verified-complete` / FROZEN** and leave English E1 as the next activity.
 
 ## STOP RULE
 
-Stop after constituent 30 Tamil T2. **Do not begin T3, constituent 31 Tamil T1, or any English work in the same activity.**
+Stop after constituent 30 Tamil T3. **Do not begin English E1, constituent 31 Tamil T1, or any other constituent in the same activity.**
