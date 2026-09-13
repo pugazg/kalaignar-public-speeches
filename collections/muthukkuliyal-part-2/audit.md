@@ -15,9 +15,9 @@
 - Tamil T1 complete: **27/36**
 - Tamil T2 complete: **27/36**
 - Tamil T3 complete / Tamil verified: **27/36**
-- English E1/E2/E3 complete / English verified: **26/36**
-- fully archived: **26/36**
-- constituents **1–26: CLOSED / FULLY ARCHIVED**
+- English E1/E2/E3 complete / English verified: **27/36**
+- fully archived: **27/36**
+- constituents **1–27: CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27 source / duplicate / boundary gate
 
@@ -118,6 +118,67 @@
 - English verified: **26/36**;
 - fully archived: **26/36**.
 
+## Constituent 27 — English E1
+
+**COMPLETE — 16/16 pages.**
+
+- translation authority: frozen Tamil only;
+- English page records: **16/16**, complete and ordered;
+- missing records: **0**;
+- page correspondence / joins / rhetoric / repetition / quotations / applause-laughter markers: **PASS**;
+- source-sensitive names/forms, chronology/numerals, Tamil poem and Exnora wordplay: **PASS**;
+- title distinctions / separate closing note: **PASS**;
+- frozen Tamil changes during E1: **0**.
+
+## Constituent 27 — English E2
+
+**PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved.**
+
+- PDF318: unsupported interpretive gloss removed;
+- PDF325: added familial metaphor removed;
+- PDF326/PDF327: `Omaandur` restored for frozen `ஓமாந்தூர்`;
+- PDF327: source honorific `Annai` restored;
+- PDF329: source classification `three rivers` restored;
+- all corrections consolidated;
+- frozen Tamil changes during E2: **0**.
+
+## Constituent 27 — English E3
+
+**PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved.**
+
+- PDF317: Seshan sentence causal scope restored;
+- PDF327: Puranic-storyteller / bad-time / rains-and-floods sentence tightened;
+- all **6/6** E2 corrections remain consolidated;
+- English page records: **16/16**, complete, unique and ordered;
+- missing / duplicate records: **0 / 0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Tamil poem and Exnora wordplay: **PASS**;
+- chronology / numeral forms, applause/laughter markers, title distinctions and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**.
+
+## Constituent 27 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3 corrections: **6 / 0**; unresolved **0**;
+- English E2 / E3 corrections: **6 / 2**; unresolved **0**;
+- PDF **315–330** / printed **314–329**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- source title distinctions, Tamil poem, Exnora wordplay and separate closing note: **PASS**;
+- root catalogue synchronization: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 27 closure
+
+- mapped / started / source-gated: **36/36 / 28/36 / 28/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **27/36**;
+- English E1/E2/E3 complete / English verified: **27/36**;
+- fully archived: **27/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.** Stop before E2 / constituent 28 Tamil T1.
+**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages, PDF 331–342 / printed 330–341.**
