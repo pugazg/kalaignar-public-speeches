@@ -74,26 +74,26 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 29–36 | — | not started |
 
 ## Current processing status
 
 - mapped: **36/36**
 - started / source-gated: **28/36**
-- Tamil T1 complete: **27/36**
-- Tamil T2 complete: **27/36**
-- Tamil T3 complete / Tamil verified: **27/36**
-- English E1/E2/E3 complete / English verified: **27/36**
-- fully archived: **27/36**
-- constituents **1–27: CLOSED / FULLY ARCHIVED**
+- Tamil T1 complete: **28/36**
+- Tamil T2 complete: **28/36**
+- Tamil T3 complete / Tamil verified: **28/36**
+- English E1/E2/E3 complete / English verified: **28/36**
+- fully archived: **28/36**
+- constituents **1–28: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
-| 29 | — | **NOT STARTED** |
+| 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 29 | — | **NOT STARTED — source gate next** |
 
 ## Constituent 27 — source / duplicate / boundary gate
 
@@ -138,6 +138,28 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - Tamil / English closure speech-body changes: **0 / 0**
 - root catalogue synchronization: **PASS**
 
+## Constituent 28 — Tamil T1
+
+**COMPLETE — 12/12 source pages.** Canonical page records cover PDF **331–342** / printed **330–341** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**. Separate closing-note handling and title distinction remain intact.
+
+## Constituent 28 — Tamil T2
+
+**PASS / COMPLETE — 12/12 source pages; 11 corrections; 0 unresolved.** Scan-confirmed corrections are consolidated.
+
+## Constituent 28 — Tamil T3
+
+**PASS / COMPLETE — 12/12 source pages; 0 additional source corrections; 1 consolidation repair; 0 unresolved.** All **11/11** T2 corrections are consolidated; superseded canonical body readings are absent. Tamil is **`verified-complete` / FROZEN**.
+
+## Constituent 28 — English / archival closure
+
+- English E1: **COMPLETE — 12/12**
+- English E2: **PASS / COMPLETE — 12/12; 8 corrections; 0 unresolved**
+- English E3: **PASS / COMPLETE — 12/12; 2 additional corrections; 0 unresolved**
+- English state: **`verified-complete`**
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**
+- Tamil / English closure speech-body changes: **0 / 0**
+- root catalogue synchronization: **PASS**
+
 ## Next same-gate batch
 
-Constituent **28** only — Tamil T1 first-pass transcription — **12 source pages**, PDF **331–342** / printed **330–341**.
+Constituent **29** — source / duplicate / boundary gate — mapped **8 source pages**, PDF **343–350** / printed **342–349**, title `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`.
