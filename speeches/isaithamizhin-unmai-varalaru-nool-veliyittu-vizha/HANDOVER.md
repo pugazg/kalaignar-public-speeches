@@ -25,8 +25,20 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 13/13; duplicate unres
 - next boundary: PDF364 / printed p.363 begins constituent 31 `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா`;
 - contents/page-heading/closing-note spacing variants are intentionally preserved separately;
 - no existing dedicated archive was found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 13/13 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 13/13 source pages**.
+
+- canonical page records: **13/13**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all twelve page joins retained for T2;
+- separate closing note remains outside the speech body;
+- contents / page-heading / closing-note variants remain separately preserved;
+- T2 source-sensitive attention is recorded in `transcription-ta.md`, including names/forms, quotations, `யாழ்` / `கமகம்` passages, Tirukkural material, applause/laughter markers and English phrases.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 30 — all 13 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages.**
