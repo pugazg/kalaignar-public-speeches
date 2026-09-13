@@ -9,7 +9,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **28 / 36**
 - Tamil T1 complete: **27 / 36**
-- Tamil T2 complete: **26 / 36**
+- Tamil T2 complete: **27 / 36**
 - Tamil T3 complete / Tamil verified: **26 / 36**
 - English E1 complete: **26 / 36**
 - English E2 complete: **26 / 36**
@@ -30,7 +30,8 @@ Constituents **1–26 are CLOSED / FULLY ARCHIVED**.
 - duplicate unresolved: **0**
 - boundary unresolved: **0**
 - Tamil T1: **COMPLETE — 16/16**
-- Tamil T2: **READY / NOT STARTED**
+- Tamil T2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**
+- Tamil T3: **READY / NOT STARTED**
 
 ## Constituent 28 — source gate complete
 
@@ -53,6 +54,14 @@ Collection state: started / source-gated **28/36**; Tamil T1 **27/36**; Tamil T2
 
 Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
 
+## Constituent 27 — Tamil T2 complete
+
+**PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved.** Corrections were confined to scan-confirmed source fidelity on PDF321, PDF326 and PDF327. Canonical page order / explicit joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers, the Tamil poem, Exnora wordplay, source-sensitive forms, title variants and the separate closing note all pass.
+
+Collection state: source-gated **28/36**; Tamil T1 **27/36**; Tamil T2 **27/36**; Tamil T3 / Tamil verified **26/36**; English verified **26/36**; fully archived **26/36**.
+
+Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.** Stop before T3 / constituent 28.
+**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.** Stop before constituent 28 Tamil T1 / English work.
