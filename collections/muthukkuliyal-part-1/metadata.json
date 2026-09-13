@@ -117,6 +117,11 @@
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
     "fully_bounded_constituents_ready_for_full_workflow": [],
-    "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure"
+    "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure",
+    "constituent_4_post_closure_fidelity_repair": "complete-revalidated",
+    "constituent_4_repair_pages": "PDF53-56 / printed52-55",
+    "constituent_4_final_tamil_page_sections": 15,
+    "constituent_4_final_english_page_sections": 15,
+    "constituent_4_repair_unresolved": 0
   }
 }
