@@ -92,6 +92,28 @@ Collection state: mapped **36/36**; source-gated **28/36**; Tamil verified **27/
 
 Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
 
+## Constituent 28 — Tamil T1 / T2 / T3 complete
+
+Tamil T1: **COMPLETE — 12/12 source pages**. Tamil T2: **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved**. Tamil T3: **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved**. Tamil is **`verified-complete` / FROZEN**.
+
+## Constituent 28 — English E1 complete
+
+**COMPLETE — 12/12 pages.** Translation authority was frozen Tamil only; missing English records **0**; page correspondence, rhetoric / repetition / quotations, applause-laughter markers, source-sensitive names/titles/forms, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation, title distinction and separate closing-note handling pass. Frozen Tamil changes during E1: **0**.
+
+## Constituent 28 — English E2 complete
+
+**PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved.** Corrections removed unsupported additions, restored source emphasis / agency, retained source numeral forms and tightened one relationship sentence. Frozen Tamil changes during E2: **0**.
+
+## Constituent 28 — English E3 complete / English verified
+
+**PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved.** All **8/8** E2 corrections remain consolidated; E3 restored the exact speech-command structure in the Sivaji emotion passage and tightened the Anjugaththai rhetorical contrast. English is **`verified-complete`**; frozen Tamil changes during E3: **0**.
+
+## Constituent 28 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 12/12 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **11 corrections**, T3 **0 additional source corrections / 1 consolidation repair**, unresolved **0**. English remains **`verified-complete`** with E2 **8 corrections**, E3 **2 additional**, unresolved **0**. Source range, page order / joins, title distinction, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation, separate closing note, constituent controls, parent collection controls and root catalogue agree. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+Collection state: mapped **36/36**; source-gated **28/36**; Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**. Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages, PDF 331–342 / printed 330–341.**
+**Source / duplicate / boundary gate for constituent 29 — `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`, mapped PDF 343–350 / printed 342–349.**
