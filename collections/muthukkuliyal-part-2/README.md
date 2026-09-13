@@ -222,8 +222,16 @@ Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verifi
 - live-main duplicate check: **PASS**;
 - Tamil T1: **READY / NOT STARTED**.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+
+## Constituent 30 — Tamil T1 complete
+
+**COMPLETE — 13/13 source pages.** Canonical Tamil page records now cover PDF **351–363** / printed **350–362** in source order. Missing page records **0**; explicit unreadable / unknown placeholders **0**. All **12** page joins remain represented; the separate closing note stays outside the speech body; contents / page-heading / closing-note spacing variants remain separately preserved. This is a first-pass layer only; source pixels remain controlling.
+
+Constituent **31–32** remain source-gated / Tamil T1-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.** Constituents 31–32 remain source-gated / T1-ready.
+**Tamil T2 strict direct-scan fidelity audit for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.**
