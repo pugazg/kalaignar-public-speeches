@@ -75,7 +75,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Tamil verified-complete / FROZEN — English E1 pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English E1 COMPLETE — English E2 pending** |
 | 30–36 | — | not started |
 
 ## Current processing status
@@ -85,7 +85,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - Tamil T1 complete: **29/36**
 - Tamil T2 complete: **29/36**
 - Tamil T3 complete / Tamil verified: **29/36**
-- English E1/E2/E3 complete / English verified: **28/36**
+- English E1 complete: **29/36**
+- English E2/E3 complete / English verified: **28/36**
 - fully archived: **28/36**
 - constituents **1–28: CLOSED / FULLY ARCHIVED**
 
@@ -94,7 +95,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **Tamil verified-complete / FROZEN — English E1 pending** |
+| 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **English E1 COMPLETE — English E2 pending** |
 
 ## Constituent 27 — source / duplicate / boundary gate
 
@@ -201,6 +202,18 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - title/action distinction and separate closing note remain preserved;
 - Tamil is **`verified-complete` / FROZEN**.
 
+## Constituent 29 — English E1
+
+**COMPLETE — 8/8 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **8/8**, complete and ordered;
+- missing records: **0**;
+- all seven page joins retained;
+- rhetoric / repetition / quotations and source-sensitive names/titles/forms retained;
+- quantities, Bharathi quotations, title/action distinction and separate closing note retained;
+- frozen Tamil changes during E1: **0**.
+
 ## Next activity
 
-Constituent **29** only — English E1 first-pass translation — **8 pages from frozen Tamil only**. Stop before E2 / constituent 30.
+Constituent **29** only — English E2 page-by-page fidelity review — **8 English page records against frozen Tamil**. Stop before E3 / constituent 30.
