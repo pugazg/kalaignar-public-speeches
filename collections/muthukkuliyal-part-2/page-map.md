@@ -378,6 +378,14 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 - constituent 34 venue remains **not explicit / not inferred**.
 - source / derivative binaries remain uncommitted.
 
+## Current batch status
+
+The unverified constituent 33 T1 draft was reverted. Both source-gated items remain **Tamil T1 ready / not started**:
+
+- **33** — 9 pages, PDF **391–399** / printed **390–398**;
+- **34** — 8 pages, PDF **400–407** / printed **399–406**;
+- canonical T1 pages committed: **0/17**.
+
 ## Next activity
 
-Constituent **33** — Tamil T1 first-pass transcription — **9 pages**, PDF **391–399** / printed **390–398**. Constituent **34** remains Tamil T1-ready.
+Tamil T1 first-pass transcription for **constituents 33 and 34 together — 17 pages total**, PDF **391–407** / printed **390–406**.
