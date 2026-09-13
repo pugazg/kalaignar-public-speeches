@@ -2,9 +2,9 @@
 
 **English E1:** **COMPLETE — 8/8 pages**  
 **English E2:** **PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved**
 
-Tamil remains **`verified-complete` / FROZEN**. English E2 independently compared all eight English page records against frozen `transcription-ta.md`. Frozen Tamil changes during E1/E2: **0 / 0**.
+Tamil remains **`verified-complete` / FROZEN**. English E2 independently compared all eight English page records against frozen `transcription-ta.md`. Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
 
 ## E1 checkpoint
 
@@ -58,6 +58,34 @@ Tamil remains **`verified-complete` / FROZEN**. English E2 independently compare
 - quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## E3 final verification
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.**
+
+All **5/5** E2 corrections remain consolidated. E3 identified one final fidelity issue:
+
+1. **PDF345 / printed p.344 — inherited-task structure restored**  
+   E2: `we have continued to undertake that service even today`  
+   Corrected: **`we have inherited the task of continuing that service even today`**  
+   Reason: restores explicit frozen-Tamil `அந்தப் பணியை நாங்கள் பெற்றிருக்கின்றோம்`.
+
+Final end-to-end result:
+
+- English pages checked: **8/8**;
+- missing / duplicate page records: **0 / 0**;
+- all **5/5** E2 corrections remain consolidated;
+- stale superseded speech-body readings: **0**;
+- semantic completeness / page correspondence / all seven joins: **PASS**;
+- names / titles / quantities / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Periyar / Anna / Gandhi passages and Ganapathi recollection: **PASS**;
+- Bharathi quotations: **PASS**;
+- title/action distinction: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification — all 8 pages.**
+**Repository closure for constituent 29.**
