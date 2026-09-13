@@ -66,6 +66,7 @@ For audio or video sources, also read:
 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.314–329 | 26.09.1998 | **Verified complete - 16/16 speech pages** | **Verified complete - 16/16 speech pages** |
 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.330–341 | 27.09.1998 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 | `chennai-thiyagigal-manimandapa-thirappuvizha` | சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.342–349 | 23.10.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
+| `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.350–362 | 05.10.1998 | **Verified complete - 13/13 speech pages** | **Verified complete - 13/13 speech pages** |
 
 ## Repository layout
 
@@ -386,5 +387,14 @@ Tamil is **`verified-complete` / FROZEN** with **11 T2 corrections / 0 T3 additi
 The archival workflow is complete for constituent **29 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **343–350** / printed pages **342–349**. The separate closing note establishes **23.10.1998**, venue **சென்னை**, the action wording `தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து`, and role `ஆற்றிய உரை`; the contents/page heading `தியாகிகள் மணிமண்டபத் திறப்புவிழா` is preserved separately from that closing-note action wording.
 
 Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **5 E2 corrections / 1 E3 additional correction / 0 unresolved**. The English layer preserves source-sensitive names/forms, the Periyar/Anna/Gandhi passages, the Ganapathi recollection, quantities **50 / 1250 / 250 / 1000**, Bharathi quotations, the title/action distinction and separate closing-note handling without outside normalization.
+
+Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+
+### ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா
+
+The archival workflow is complete for constituent **30 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **351–363** / printed pages **350–362**. The separate closing note establishes **05.10.1998**, venue **சென்னை**, event `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`. The archive preserves the contents form `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`, page-heading form `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`, and closing-note form `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா` separately.
+
+Tamil is **`verified-complete` / FROZEN** with **5 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **4 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive names and musical terminology, the `yazh` / `gamakam` passages, Tamil Thai and Bharathidasan material, `Thuppariyum Sambu`, Tirukkural wordplay, source English phrases, applause/laughter markers, and the title/spacing distinctions without outside normalization.
 
 Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
