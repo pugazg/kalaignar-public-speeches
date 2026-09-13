@@ -1,6 +1,6 @@
 # 'Isaithamizhin Unmai Varalaru' Book Release Function — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 13/13 pages; 4 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 13/13 pages; 0 additional corrections; 0 unresolved**  
 **Authority:** frozen `transcription-ta.md` only  
 **Source range:** PDF **351–363** / printed **350–362**
 
@@ -170,6 +170,45 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
-## Exact next gate
+## English E3 — final end-to-end verification
 
-**English E3 final end-to-end verification for constituent 30 — all 13 pages.**
+**PASS / COMPLETE — 13/13 pages; 0 additional corrections; 0 unresolved.**
+
+All **4/4** E2 corrections remain consolidated. Final verification confirms:
+
+- English page records: **13/13**, complete / unique / ordered;
+- missing / duplicate records: **0 / 0**;
+- all twelve page joins: **PASS**;
+- stale superseded E1 speech-body readings: **0**;
+- semantic completeness: **PASS**;
+- rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive names / titles / musical terminology: **PASS / no outside normalization**;
+- `yazh` / `gamakam`, Tamil Thai, Bharathidasan, `Thuppariyum Sambu` and Tirukkural material: **PASS**;
+- source English phrases: **PASS / retained verbatim**;
+- applause / laughter markers: **PASS**;
+- contents / page-heading / closing-note variants: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- additional English corrections at E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 13/13 pages.**
+
+Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**. Closure revalidated:
+
+- source range PDF **351–363** / printed **350–362**;
+- canonical Tamil and English page order and all twelve joins;
+- Tamil T2 **5 corrections**;
+- Tamil T3 **0 additional source corrections / 0 consolidation repairs**;
+- English E2 **4 corrections**;
+- English E3 **0 additional corrections**;
+- source-sensitive names / titles / musical terminology;
+- `yazh` / `gamakam`, Tamil Thai, Bharathidasan, `Thuppariyum Sambu` and Tirukkural passages;
+- source English phrases and applause/laughter markers;
+- contents / page-heading / closing-note spacing variants;
+- separate source closing note outside the speech body.
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending for constituent 30.
