@@ -62,6 +62,16 @@ Tamil T3: **PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 co
 
 English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
 
+## Durable English E1–E3 result
+
+- English E1: **COMPLETE — 8/8**.
+- English E2: **PASS / COMPLETE — 8/8; 2 corrections; 0 unresolved**.
+- English E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**.
+- All **2/2** E2 corrections remain consolidated.
+- Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Canonical page order / all 7 joins / rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 31 — all 8 pages from frozen Tamil only.**
+**Repository closure for constituent 31.**
