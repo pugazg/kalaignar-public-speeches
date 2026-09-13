@@ -13,7 +13,8 @@
 - mapped: **36/36**
 - started / source-gated: **28/36**
 - Tamil T1 complete: **27/36**
-- Tamil T2/T3 complete / Tamil verified: **26/36**
+- Tamil T2 complete: **27/36**
+- Tamil T3 complete / Tamil verified: **26/36**
 - English E1/E2/E3 complete / English verified: **26/36**
 - fully archived: **26/36**
 - constituents **1–26: CLOSED / FULLY ARCHIVED**
@@ -30,7 +31,8 @@
 - source title variants recorded separately
 - no existing dedicated archive found on live `main`
 - Tamil T1: **COMPLETE — 16/16**
-- Tamil T2: **READY / NOT STARTED**
+- Tamil T2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**
+- Tamil T3: **READY / NOT STARTED**
 
 ## Constituent 28 source / duplicate / boundary gate
 
@@ -66,6 +68,30 @@
 - English verified: **26/36**;
 - fully archived: **26/36**.
 
+## Constituent 27 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved.**
+
+- PDF321 / p.320: three source-fidelity corrections;
+- PDF326 / p.325: two source-fidelity corrections;
+- PDF327 / p.326: one source-fidelity correction;
+- all 16 scans re-read directly;
+- canonical page records: **16/16**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers: **PASS**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- source-sensitive readings, chronology / numeral forms, title variants and separate closing-note handling: **PASS**;
+- unresolved readings: **0**.
+
+## Collection totals after constituent 27 Tamil T2
+
+- mapped / started / source-gated: **36/36 / 28/36 / 28/36**;
+- Tamil T1 complete: **27/36**;
+- Tamil T2 complete: **27/36**;
+- Tamil T3 complete / Tamil verified: **26/36**;
+- English verified: **26/36**;
+- fully archived: **26/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.**
+**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.**
