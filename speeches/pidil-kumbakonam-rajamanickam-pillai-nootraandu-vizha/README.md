@@ -34,11 +34,11 @@ Preserve the source title-spacing distinction: contents/page heading use `நூ
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED — 0/9** |
-| Tamil T2 strict direct-scan audit | blocked pending T1 |
-| Tamil T3 consolidation / freeze | blocked pending T2 |
-| English E1/E2/E3 | blocked pending frozen Tamil |
-| Repository closure | not started |
+| Tamil T1 first-pass transcription | **COMPLETE — 9/9** |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved** |
+| Tamil T3 consolidation / freeze | **PASS / COMPLETE — 9/9; FROZEN** |
+| English E1/E2/E3 | **VERIFIED COMPLETE — 9/9** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -51,7 +51,7 @@ Preserve the source title-spacing distinction: contents/page heading use `நூ
 - source spelling, punctuation, names, quotations, repetitions and applause markers retained at first-pass level;
 - contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா` remains preserved;
 - separate source closing note remains outside speech body;
-- Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
+- Tamil T2 strict direct-scan fidelity audit: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**.
 
 ## Tamil T2 strict direct-scan fidelity audit
 
@@ -59,7 +59,7 @@ Preserve the source title-spacing distinction: contents/page heading use `நூ
 
 Every canonical page was rechecked against the attached scan pixels. All **8/8** joins, source-sensitive names/forms, quotations, numerals, repetitions, applause markers, Nero/fiddle anecdote, `சங்கீத கலாநிதி` passage, Karaikudi competition anecdote, Travancore elephant anecdote, N.S.K. side-accompaniment anecdote, title-spacing distinction and separate closing note all pass.
 
-No T1 correction was required. Unreadable / unknown after T2: **0**. Tamil T3: **READY / NOT STARTED**.
+No T1 correction was required. Unreadable / unknown after T2: **0**. Tamil T3 is **PASS / COMPLETE**; see below.
 
 ## Tamil T3 consolidation / freeze
 
