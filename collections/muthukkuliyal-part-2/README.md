@@ -169,8 +169,16 @@ Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 
 
 English is now **`verified-complete`**.
 
-Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **29/36**; fully archived **28/36**.
+Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **29/36**; fully archived **29/36**.
+
+## Constituent 29 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **3 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**. English remains **`verified-complete`** with E2 **5 corrections**, E3 **1 additional correction**, unresolved **0**. Source range, page order / all seven joins, title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing-note handling all agree. Closure speech-body changes: Tamil **0**, English **0**. Root catalogue synchronization: **PASS**. Source PDF remains uncommitted.
+
+Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
+
+Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
 ## Exact next gate
 
-**Repository closure for constituent 29.** Stop before constituent 30 source gate.
+**Constituent 30 source / duplicate / boundary gate — `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`, PDF 351–363 / printed 350–362.** Do not begin Tamil T1 in the same activity.
