@@ -261,6 +261,25 @@
 - English verified: **28/36**;
 - fully archived: **28/36**.
 
+## Constituent 29 — Tamil T2 strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+- PDF344 / p.343: `மிகவும்` → `மிகுந்த`;
+- PDF346 / p.345: `நன்றிகூற` → `நன்றிகூறக்`;
+- PDF347 / p.346: `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`;
+- all seven joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**;
+- canonical page records: **8/8**; missing / duplicate: **0 / 0**; unresolved: **0**;
+- title/action wording and separate closing note remain preserved.
+
+## Collection totals after constituent 29 Tamil T2
+
+- mapped / started / source-gated: **36/36 / 29/36 / 29/36**;
+- Tamil T1/T2 complete: **29/36**;
+- Tamil T3 complete / Tamil verified: **28/36**;
+- English verified: **28/36**;
+- fully archived: **28/36**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.**
+**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.**
