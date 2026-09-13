@@ -22,9 +22,25 @@
 - duplicate search against live `main`: **PASS — no existing dedicated archive found**;
 - duplicate unresolved: **0**;
 - boundary unresolved: **0**;
-- Tamil T1: **NOT STARTED**;
+- Tamil T1: **COMPLETE — 12/12**;
 - source PDF remains **uncommitted**.
+
+## Tamil T1 — first-pass transcription
+
+**COMPLETE — 12/12 source pages.**
+
+- canonical page records: PDF **331–342** / printed **330–341**, **12/12**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note: **preserved outside the speech body**;
+- contents/page-heading versus closing-note spacing variant: **preserved separately**;
+- explicit page-boundary continuations flagged for T2: **332→333, 333→334, 334→335, 335→336, 336→337, 337→338, 338→339, 340→341, 341→342**;
+- source-sensitive T2 attention recorded in `transcription-ta.md`;
+- method: direct visual reading of the controlling scans;
+- Tamil T2: **READY / NOT STARTED**.
+
+Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 28 — all 12 source pages.**
