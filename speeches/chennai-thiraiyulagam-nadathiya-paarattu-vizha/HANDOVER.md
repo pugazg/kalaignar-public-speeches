@@ -51,8 +51,21 @@ English E1: **COMPLETE — 12/12 pages** from frozen `transcription-ta.md` only.
 - title spacing distinction and separate closing-note handling: retained;
 - frozen Tamil changes during E1: **0**.
 
-English E2 is **READY / NOT STARTED**.
+English E2: **PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved**. All corrections are consolidated; frozen Tamil changes **0**.
 
-## Exact next gate
+English E3: **PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved**. English is **`verified-complete`**; frozen Tamil changes **0**.
 
-**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.** Stop before E3 / constituent 29 / repository closure.
+Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+
+- Tamil T2 **11**, T3 **0 additional source corrections / 1 consolidation repair**; unresolved **0**;
+- English E2 **8**, E3 **2**; unresolved **0**;
+- source range PDF **331–342** / printed **330–341** agrees across controls;
+- page order / joins, title distinction, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, `My Dear Old Man, How are you`, Bharathidasan quotation and separate closing-note handling: **PASS**;
+- root catalogue synchronization: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted;
+- no transcription or translation work remains pending for constituent 28.
+
+## Next collection gate
+
+Constituent **29** `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா` — source / duplicate / boundary gate; mapped PDF **343–350** / printed **342–349**.
