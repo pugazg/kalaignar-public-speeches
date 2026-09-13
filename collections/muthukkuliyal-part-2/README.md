@@ -7,16 +7,16 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **29 / 36**
-- Tamil T1 complete: **29 / 36**
-- Tamil T2 complete: **29 / 36**
-- Tamil T3 complete / Tamil verified: **29 / 36**
-- English E1 complete: **28 / 36**
-- English E2 complete: **28 / 36**
-- English E3 complete / English verified: **29 / 36**
-- fully archived: **28 / 36**
+- speech archives started / source-gated: **34 / 36**
+- Tamil T1 complete: **32 / 36**
+- Tamil T2 complete: **32 / 36**
+- Tamil T3 complete / Tamil verified: **32 / 36**
+- English E1 complete: **32 / 36**
+- English E2 complete: **32 / 36**
+- English E3 complete / English verified: **32 / 36**
+- fully archived: **32 / 36**
 
-Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–32 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituent 27 — source gate complete
 
@@ -374,6 +374,41 @@ Constituents **1–32 are CLOSED / FULLY ARCHIVED**.
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
+## Constituents 33–34 — source / duplicate / boundary gates
+
+### Constituent 33 — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`
+
+**PASS / COMPLETE — 9/9 source pages.**
+
+- PDF **391–399** / printed **390–398**;
+- user-supplied slice extract **12–20**;
+- opening / ending / separate closing note: **VERIFIED**;
+- all **8/8** joins: **PASS**;
+- prior boundary PDF390 / next boundary PDF400: **PASS**;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- source-backed date / venue / event / role: **1998-11-03 / சென்னை / திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம் / ஆற்றிய உரை**;
+- Tamil T1: **READY / NOT STARTED**.
+
+### Constituent 34 — `அய்யணன் அம்பலம் படத்திறப்பு விழா`
+
+**PASS / COMPLETE — 8/8 source pages.**
+
+- PDF **400–407** / printed **399–406**;
+- user-supplied slice extract **21–28**;
+- opening / ending / separate closing note: **VERIFIED**;
+- all **7/7** joins: **PASS**;
+- prior boundary PDF399 / next boundary PDF408: **PASS**;
+- PDF408 begins constituent 35 `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`;
+- duplicate unresolved: **0**;
+- boundary unresolved: **0**;
+- source-backed date / event / role: **1998-11-15 / அய்யணன் அம்பலம் படத்திறப்பு விழா / படத்தை திறந்து வைத்து ஆற்றிய உரை**;
+- venue: **not explicitly stated in the closing note; not inferred**;
+- page-heading `படத்திறப்பு விழா` and closing-note action `படத்தை திறந்து வைத்து` are preserved separately;
+- Tamil T1: **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
+
 ## Exact next gate
 
-**Constituent 33 source / duplicate / boundary gate — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`, PDF 391–399 / printed 390–398, 9 pages.** Do not begin Tamil T1 in the same activity.
+**Constituent 33 Tamil T1 first-pass transcription — PDF 391–399 / printed 390–398, all 9 pages.** Constituent 34 remains Tamil T1-ready.
