@@ -39,7 +39,7 @@ Tamil T1: **COMPLETE — 8/8 source pages** for `சென்னை - திய�
 - explicit continuations for T2: **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**;
 - T2 source-sensitive attention is recorded in the constituent transcript, including names/titles, unusual source forms, quotations and numerals.
 
-Tamil T2 is **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**. Tamil T3 is **READY / NOT STARTED**.
+Tamil T2 is **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**. Tamil T3 is **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**. Tamil is **`verified-complete` / FROZEN**.
 
 ## Durable Tamil T2 result
 
@@ -53,6 +53,20 @@ Tamil T2: **PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved**.
 - separate closing note and title/action distinction remain preserved;
 - source PDF remains uncommitted.
 
+## Durable Tamil T3 / frozen-Tamil result
+
+Tamil T3: **PASS / COMPLETE — 8/8 source pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**.
+
+- all **3/3** T2 corrections remain consolidated;
+- superseded T1 body readings are absent;
+- canonical page records remain complete / unique / ordered;
+- all seven joins pass;
+- source-sensitive names/forms/quotations/numerals remain preserved;
+- title/action distinction and separate closing note remain intact;
+- speech-body Tamil changes during T3: **0**.
+
+Tamil is now **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.** Stop before English / constituent 30.
+**English E1 first-pass translation for constituent 29 — all 8 pages from frozen `transcription-ta.md` only.** Stop before E2 / constituent 30.
