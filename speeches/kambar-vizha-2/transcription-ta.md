@@ -154,9 +154,33 @@ Rendered scan pixels are controlling. OCR / web / alternate sources were not use
 ஆண் தொழிலோனிற் பெற்ற
 வெற்றியும் அவத்தம் என்றான்.”
 
+## PDF 54 / printed p.53
+
+அப்பொழுது விபீடணன் சொல்லுகின்றான் - அதாவது விபீடணனைக் கம்பர் சொல்ல வைக்கின்றார்!
+
+“அது புறமுதுகு காட்டியதால் ஏற்பட்ட தழும்பல்ல இராமா! ஏற்கெனவே ஒருமுறை என்னுடைய அண்ணன் இராவணன், ஒரு யானையோடு போரிட்ட போது அந்த யானையினுடைய தந்தங்கள் அவனுடைய மார்பிலே புகுந்து ஊடுருவி முதுகுக்கு மேலே வெளிப்பட்டு விட்டன. அதனால் ஏற்பட்ட தழும்புதான் அது” என்று.
+
+“நாடுள தனையும் ஒடி
+நண்ணலார்க் காண்கி லாமற்
+பீடுள குன்றம் போலும்
+பெருந்திசை எல்லை யானைக்
+கோடுள தனையும் புக்குக்
+கொடும் புழுத் தழுந்து புண்ணின்
+பாடுளது அன்றித் தெவ்வர்
+படைக்கலம் பட்டு என் செய்யும்?”
+
+“அப்பனை அனைத்தும் மார்புக்கு
+அணி எனக் கிடந்த; வீரக்
+கைப்பணை முழங்க மேனாள்
+அமரிடைக் கிடைத்த காலன
+துப்பனை வயிர வாளி
+விசையிலும், காலின் தோன்றல்
+வெப்பனை குத்தினாலும்,
+வெறிநடைப் போய அன்றே.”
+
 என்று இராவணனுடைய வீரத்தை வெளிப்படுத்துகின்றான் என்று கம்பர் சொல்லுகின்றார். ஆகவே இராமனே பயப்படுகின்றான். முதுகிலே தழும்பேற்ற
 
-## PDF 54 / printed p.53
+## PDF 55 / printed p.54
 
 ஒருவனைக் கொன்று விட்டோமே, பழிவந்து சேருமே என்று! வீரத்திற்கு இலக்கணம் வகுக்கிற இராமன், மறைந்திருந்து வாலியைக் கொன்றது பற்றி எவ்வளவு நாள் மனச்சங்கடப்பட்டிருப்பான் என்பதை கம்பருக்காக வாதாடுகின்றவர்கள் இராமனுக்காக வாதாடுகின்றவர்கள் எண்ணிப் பார்க்க வேண்டும் என்பதற்காகத்தான் இதைச் சொல்லுகின்றேன்.
 
@@ -166,7 +190,7 @@ Rendered scan pixels are controlling. OCR / web / alternate sources were not use
 
 ஆனால் கம்பரைப் பொறுத்தவரையில் அவருடைய பாத்திரங்களுக்கு அதிக மதிப்பு அளிக்கின்ற நிலையும், அந்தக் காவியத்தை உருவாக்கிய கம்பரை மறந்துவிடுகின்ற சூழ்நிலையும் நாட்டிலே ஏற்பட்டுவிட்டது. அதை மாற்றுகின்ற புதிய புரட்சியை 35 ஆண்டுகளுக்கு முன், நமது சா. கணேசன் காரைக்குடியிலே
 
-## PDF 55 / printed p.54
+## PDF 56 / printed p.55
 
 ஆரம்பித்துக் காவியம் இயற்றியவன்தான் நாயகன், அவன்தான் புகழ்தலுக்கும் போற்றுதலுக்கும், பாராட்டுதலுக்கும் உரியவன் என்கிற முறையில், கம்பர் விழாக் கண்டார்கள். ஆகவே கம்பருக்குத்தான் சிறப்பு என்று எடுத்துக்காட்டி நிலைநாட்டி வருகின்ற இந்த விழாவைப் பாராட்டி, வாழ்த்துகின்றேன்.
 
@@ -179,8 +203,23 @@ Rendered scan pixels are controlling. OCR / web / alternate sources were not use
 ## T1 / T2 / T3 audit
 
 - Tamil T1: **COMPLETE — 15/15**;
-- T2 strict direct-scan fidelity audit: **PASS / COMPLETE — 15/15; 0 unresolved**;
-- T3 consolidation / freeze: **PASS / COMPLETE — 15/15; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- T2 strict direct-scan fidelity audit: **PASS / COMPLETE — 15/15; 1 post-closure fidelity repair; 0 unresolved**;
+- T3 consolidation / freeze: **PASS / COMPLETE — 15/15; post-closure re-freeze after PDF54 restoration; 0 unresolved**;
 - all **14/14** joins: **PASS**, including cross-split **49→50**;
 - separate closing note remains outside speech body;
 - final Tamil state: **`verified-complete` / FROZEN**.
+
+
+## Post-closure fidelity repair
+
+A direct page-count validation found only **14 explicit page headings** for a 15-page constituent. Reinspection of split 004 established that original **PDF54 / printed p.53** had been omitted and the following two headings were shifted by one page.
+
+Repair applied:
+- restored the complete **PDF54 / printed p.53** source text, including விபீடணன்'s explanation of the back scar and both Kamban verses;
+- remapped the former PDF54 text to **PDF55 / printed p.54**;
+- remapped the former PDF55 text to **PDF56 / printed p.55**;
+- closing note remains on PDF56;
+- final explicit page headings: **15/15**;
+- unresolved after repair: **0**.
+
+Tamil was re-frozen after this repair.
