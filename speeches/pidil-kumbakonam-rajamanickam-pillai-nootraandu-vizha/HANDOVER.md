@@ -39,6 +39,17 @@
 - source-sensitive names/forms, quotations, anecdotes, applause markers, title-spacing distinction and separate closing note: **PASS**;
 - Tamil T3: **READY / NOT STARTED**.
 
-## Exact next gate
+## Durable Tamil T3 / English / closure result
 
-**Tamil T3 consolidation / freeze for constituent 36 — all 9 pages.**
+- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **COMPLETE — 9/9**;
+- English E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- all **8/8** joins and source-sensitive musical/anecdotal checks: **PASS**;
+- title-spacing distinction and terminal non-speech boundary: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source binary remains uncommitted;
+- no transcription or translation work remains pending for constituent 36.
