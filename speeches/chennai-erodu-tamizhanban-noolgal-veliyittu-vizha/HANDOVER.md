@@ -19,8 +19,20 @@ Source / duplicate / boundary gate: **PASS / COMPLETE — 19/19; duplicate unres
 - next boundary: PDF391 / printed p.390 begins constituent 33 `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`;
 - contents/page-heading/closing-note spacing variants are intentionally preserved separately;
 - no existing dedicated archive found on live `main`;
-- Tamil T1: **READY / NOT STARTED**.
+- Tamil T1: **COMPLETE — 19/19 source pages**.
+
+## Durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 19/19 source pages**.
+
+- canonical page records: **19/19**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all **18** page joins retained for T2;
+- separate closing note remains outside the speech body;
+- contents / page-heading / closing-note spacing variants remain separately preserved;
+- embedded poems, names and source-sensitive forms flagged for T2 are recorded in `transcription-ta.md`.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 32 — all 19 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 32 — all 19 pages.**
