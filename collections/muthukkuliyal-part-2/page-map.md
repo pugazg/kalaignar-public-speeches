@@ -73,7 +73,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 24 | `madurai-madha-nallinakka-maanadu` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **Tamil T1 COMPLETE — Tamil T2 pending** |
+| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **Tamil T2 PASS / COMPLETE — Tamil T3 pending** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
 | 29–36 | — | not started |
 
@@ -82,7 +82,8 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 - mapped: **36/36**
 - started / source-gated: **28/36**
 - Tamil T1 complete: **27/36**
-- Tamil T2/T3 complete / Tamil verified: **26/36**
+- Tamil T2 complete: **27/36**
+- Tamil T3 complete / Tamil verified: **26/36**
 - English E1/E2/E3 complete / English verified: **26/36**
 - fully archived: **26/36**
 - constituents **1–26: CLOSED / FULLY ARCHIVED**
@@ -119,6 +120,10 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 **COMPLETE — 16/16 source pages.** Canonical page records cover PDF **315–330** / printed **314–329** in source order; missing records **0**; explicit unreadable/unknown placeholders **0**. Separate closing-note handling and source title variants remain intact.
 
+## Constituent 27 — Tamil T2
+
+**PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved.** Scan-confirmed corrections are consolidated. Canonical page order / joins, source-sensitive readings, Tamil poem, Exnora wordplay, title variants and separate closing-note handling pass.
+
 ## Next same-gate batch
 
-Constituent **27** only — Tamil T2 strict direct-scan fidelity audit — **16 source pages**. Stop before T3 / constituent 28.
+Constituent **27** only — Tamil T3 consolidation/freeze — **16 source pages**. Stop before constituent 28 Tamil T1 / English work.
