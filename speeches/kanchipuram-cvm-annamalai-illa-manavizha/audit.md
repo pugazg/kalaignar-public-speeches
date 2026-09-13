@@ -20,6 +20,14 @@ Source-established date / venue / event / role: **1998-11-22 / காஞ்ச�
 
 Tamil T1: **READY / NOT STARTED — 0/8**.
 
+## Tamil T1
+
+**COMPLETE — 8/8; missing 0; unreadable/unknown 0.**
+
+- canonical records: complete / ordered;
+- all **7/7** source-gated joins retained;
+- source-sensitive names / quotations / repetitions / applause marker / separate closing note retained for T2 review.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — all 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit — all 8 pages.**
