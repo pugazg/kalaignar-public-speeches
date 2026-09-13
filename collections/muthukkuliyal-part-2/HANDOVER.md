@@ -383,6 +383,15 @@ Collection state: mapped **36/36**; source-gated **32/36**; Tamil verified **32/
 
 Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
+## Current batch status
+
+The unverified constituent 33 T1 draft was reverted on live `main`. Durable state remains:
+
+- constituent 33 Tamil T1: **READY / NOT STARTED — 9 pages**;
+- constituent 34 Tamil T1: **READY / NOT STARTED — 8 pages**;
+- canonical T1 body pages committed for this batch: **0/17**;
+- use only the attached split PDF for transcription.
+
 ## Exact next gate
 
-**Constituent 33 Tamil T1 first-pass transcription — all 9 pages, PDF 391–399 / printed 390–398.** Constituent 34 remains Tamil T1-ready.
+**Tamil T1 first-pass transcription for constituents 33 and 34 — 17 pages total, PDF 391–407 / printed 390–406.**
