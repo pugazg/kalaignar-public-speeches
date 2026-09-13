@@ -41,6 +41,31 @@
 
 Source pixels remain controlling; no T2 fidelity claim has yet been made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved.**
+
+1. PDF321 / printed p.320: `அந்தப் பொதுப்பணித்துறை அமைச்சராக` → `அந்த பொதுப்பணித்துறை அமைச்சராக`.
+2. PDF321 / printed p.320: `பொதுப்பணித்துறையையும்` → `பொதுப் பணித்துறையையும்`.
+3. PDF321 / printed p.320: `68-ஆம் ஆண்டு பேச்சு தொடங்கி` → `68-ஆம் ஆண்டு பேசத் தொடங்கி`.
+4. PDF326 / printed p.325: `நான்கைந்து முதலவர்களோடு` → `நான்கைந்து முதல்வர்களோடு`.
+5. PDF326 / printed p.325: `ஓமந்தூர் இராமசாமி ரெட்டியார்தான்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார்தான்`.
+6. PDF327 / printed p.326: `ஓமந்தூர் இராமசாமி ரெட்டியார் அவர்கள்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார் அவர்கள்`.
+
+Verification result:
+
+- pages checked: PDF **315–330** / printed **314–329** — **16/16**;
+- canonical page records: **16/16**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page-boundary continuations: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- source title variants: **PASS / preserved separately**;
+- separate closing note: **PASS**;
+- source-sensitive T1 readings / chronology / numeral forms: **PASS / retained as printed**;
+- unresolved readings: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.**
+**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.**
