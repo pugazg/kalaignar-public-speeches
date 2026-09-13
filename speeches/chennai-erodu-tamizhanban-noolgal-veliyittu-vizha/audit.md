@@ -71,6 +71,29 @@ Corrections:
 - Tamil state: **`verified-complete` / FROZEN**;
 - T3 speech-body changes: **0**.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation — all 19 pages from frozen Tamil only.**
+- E1: **COMPLETE — 19/19**; frozen Tamil authority only; Tamil changes **0**.
+- E2: **PASS / COMPLETE — 19/19; 7 corrections; 0 unresolved**.
+- E3: **PASS / COMPLETE — 19/19; 1 additional correction; 0 unresolved**.
+- All **7/7** E2 corrections remain consolidated.
+- English page records: **19/19**, complete / unique / ordered.
+- All **18** joins: **PASS**.
+- Embedded poem lineation / quotations / source-sensitive names / literary-historical references / applause markers / printed typo contrast / title variants / separate closing note: **PASS**.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **3 / 0 additional source corrections + 0 consolidation repairs**;
+- English E2 / E3: **7 / 1 additional correction**;
+- unresolved: **0**;
+- PDF **372–390** / printed **371–389**: **PASS**;
+- canonical Tamil / English page order / all eighteen joins: **PASS**;
+- embedded poems / literary-historical references / applause markers / printed typo contrast / title variants / separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
