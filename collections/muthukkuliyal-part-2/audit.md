@@ -14,7 +14,7 @@
 - started / source-gated: **28/36**
 - Tamil T1 complete: **27/36**
 - Tamil T2 complete: **27/36**
-- Tamil T3 complete / Tamil verified: **26/36**
+- Tamil T3 complete / Tamil verified: **27/36**
 - English E1/E2/E3 complete / English verified: **26/36**
 - fully archived: **26/36**
 - constituents **1–26: CLOSED / FULLY ARCHIVED**
@@ -92,6 +92,32 @@
 - English verified: **26/36**;
 - fully archived: **26/36**.
 
+## Constituent 27 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 16/16 source pages; 0 additional corrections; 0 unresolved.**
+
+- all **6/6** T2 corrections remain consolidated;
+- superseded canonical speech-body readings: **0**;
+- canonical page records: **16/16**, complete, unique and ordered;
+- missing / duplicate page records: **0 / 0**;
+- explicit page joins: **PASS**;
+- names / numerals / punctuation / quotations / repetitions: **PASS**;
+- applause / laughter markers: **PASS**;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: **PASS**;
+- source-sensitive readings / chronology / numeral forms: **PASS**;
+- contents / page-heading / closing-note title variants: **PASS / preserved separately**;
+- separate closing note: **PASS**;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **READY / NOT STARTED**.
+
+## Collection totals after constituent 27 Tamil T3
+
+- mapped / started / source-gated: **36/36 / 28/36 / 28/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **27/36**;
+- English verified: **26/36**;
+- fully archived: **26/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.**
+**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.** Stop before E2 / constituent 28 Tamil T1.
