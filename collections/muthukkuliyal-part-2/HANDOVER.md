@@ -281,8 +281,18 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verifi
 - separate closing note outside speech body;
 - T2: **READY / NOT STARTED**.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **32/36**; Tamil T2/T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+
+## Constituents 31–32 — durable Tamil T2 result
+
+- **31**: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**. Corrections: PDF366 `அதிகே` → `அதிலே`; PDF367 `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`; PDF368 `காண்றில் வேணும்` → `தானறிதல் வேணும்`. All 7 joins: **PASS**.
+- **32**: **PASS / COMPLETE — 19/19; 3 corrections; 0 unresolved**. Corrections: PDF383 `நடித்து தமிழகமெங்கும்` → `நடித்துத் தமிழகமெங்கும்`; PDF386 `நானே வரிகளில்` → `நான்கே வரிகளில்`; PDF390 restored printed `திருமணத்திற்கு` / `திருணமத்திற்கு` contrast. All 18 joins: **PASS**.
+- Canonical records for both constituents remain complete / unique / ordered.
+- Separate closing notes remain outside speech bodies.
+- Constituent 32 embedded poem lineation and title/spacing variants remain preserved.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 31 — all 8 pages.** Constituent 32 remains Tamil T2-ready.
+**Tamil T3 consolidation / freeze for constituent 31 — all 8 pages.** Constituent 32 remains Tamil T3-ready.
