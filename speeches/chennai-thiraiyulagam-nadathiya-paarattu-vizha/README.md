@@ -36,9 +36,10 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 12/12** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending E1/E2 |
-| Repository closure | not started |
+| English E1 | **COMPLETE — 12/12** |
+| English E2 | **PASS / COMPLETE — 12/12; 8 corrections; 0 unresolved** |
+| English E3 | **PASS / COMPLETE — 12/12; 2 additional corrections; 0 unresolved** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -83,8 +84,16 @@ Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 12/12**;
 - title spacing distinction and separate closing note: retained;
 - frozen Tamil changes during E1: **0**.
 
-English E2 is **READY / NOT STARTED**.
+## English E2
 
-## Exact next gate
+**PASS / COMPLETE — 12/12 pages; 8 corrections; 0 unresolved.** Corrections removed unsupported additions, restored source emphasis and agency, retained source numeral forms, and tightened one relationship sentence. All **8/8** corrections are consolidated; frozen Tamil changes during E2: **0**.
 
-**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.**
+## English E3
+
+**PASS / COMPLETE — 12/12 pages; 2 additional corrections; 0 unresolved.** E3 restored the exact speech-command structure in the Sivaji emotion passage and tightened the Anjugaththai rhetorical contrast. All **8/8** E2 corrections remain consolidated; English is **`verified-complete`**; frozen Tamil changes during E3: **0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 12/12 pages.** Tamil remains **`verified-complete` / FROZEN** with T2 **11 corrections**, T3 **0 additional source corrections / 1 consolidation repair**, unresolved **0**. English remains **`verified-complete`** with E2 **8 corrections**, E3 **2 additional**, unresolved **0**. Source range, page order / joins, title distinction, Anna/Anjugam anecdote, Sivaji recollections, cheque amount, `My Dear Old Man, How are you`, Bharathidasan quotation and separate closing-note handling all agree. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+No transcription or translation work remains pending for constituent 28.
