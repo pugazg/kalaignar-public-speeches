@@ -86,6 +86,10 @@ Final end-to-end result:
 - unresolved English issues: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 29.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+All English E1/E2/E3 evidence remains consolidated; English remains **`verified-complete`**. Closure introduced **0 Tamil and 0 English speech-body changes**. Source range, page order / all seven joins, E2 **5 corrections**, E3 **1 additional correction**, source-sensitive names/forms, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations, title/action distinction and separate closing note all agree.
+
+No English translation or review work remains pending.
