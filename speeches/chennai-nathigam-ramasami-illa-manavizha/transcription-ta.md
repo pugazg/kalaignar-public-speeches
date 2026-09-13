@@ -1,6 +1,6 @@
 # சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா — Tamil transcription
 
-**Status:** `t2-complete` — Tamil T2 **PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved**  
+**Status:** `verified-complete` — Tamil T3 **PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**  
 **Source range:** PDF **364–371** / printed **363–370**  
 **Controlling source:** `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
@@ -115,6 +115,28 @@ T2 verification result:
 
 This completes T2 only; Tamil is **not yet frozen**.
 
+## Tamil T3 — consolidation / freeze
+
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+T3 consolidation verified:
+
+- all **3/3** T2 corrections remain present in the canonical speech body;
+- all superseded T1 speech-body readings are absent;
+- canonical page records: **8/8**, complete / unique / ordered;
+- all seven joins **364→365, 365→366, 366→367, 367→368, 368→369, 369→370, 370→371**: **PASS**;
+- `வ...ா...ர்` rhetoric / punctuation: **PASS**;
+- numerals `144` / `76-ஆம் ஆண்டு`: **PASS**;
+- Bharathi quotation forms: **PASS**;
+- historical names `மணவை திருமலைசாமி`, `மூவலூர் மூதாட்டி இராமாமிர்தம் அம்மையார்`, `பட்டுக்கோட்டை அழகிரிசாமி`: **PASS**;
+- `பெட்ரோமாக்ஸ்` / applause marker: **PASS**;
+- separate source closing note: **PASS / outside speech body**;
+- additional source corrections at T3: **0**;
+- consolidation repairs: **0**;
+- unresolved: **0**.
+
+Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed during T3.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 31 — all 8 pages.**
+**English E1 first-pass translation for constituent 31 — all 8 pages from frozen `transcription-ta.md` only.**
