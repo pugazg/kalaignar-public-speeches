@@ -1,0 +1,77 @@
+{
+  "id": "kambar-vizha-1",
+  "title": {
+    "ta": "கம்பர் விழா (1)",
+    "contents_title_ta": "கம்பர் விழா (1)",
+    "page_heading_ta": "கம்பர் விழா (1)"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 3,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1969-04",
+    "date_granularity": "month",
+    "date_source_text": "1969-ஆம் ஆண்டு ஏப்ரல் திங்கள்",
+    "date_day_stated": false,
+    "venue_ta": "காரைக்குடி",
+    "event_ta": "கம்பர் விழா",
+    "role_ta": "ஆற்றிய உரை",
+    "closing_note_source_text": "1969-ஆம் ஆண்டு ஏப்ரல் திங்கள்\nகாரைக்குடி கம்பர் விழாவில்\nஆற்றிய உரை."
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "binary_committed": false,
+    "pdf_page_start": 33,
+    "pdf_page_end": 41,
+    "printed_page_start": 32,
+    "printed_page_end": 40,
+    "speech_pages_total": 9,
+    "source_pieces": [
+      {
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_002_pages_18-33.pdf",
+        "extract_page_start": 16,
+        "extract_page_end": 16,
+        "original_pdf_scan_start": 33,
+        "original_pdf_scan_end": 33,
+        "committed": false
+      },
+      {
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_003_pages_34-49.pdf",
+        "extract_page_start": 1,
+        "extract_page_end": 8,
+        "original_pdf_scan_start": 34,
+        "original_pdf_scan_end": 41,
+        "committed": false
+      }
+    ],
+    "opening": "PDF33 / printed p.32; numbered constituent 3 with page heading கம்பர் விழா (1)",
+    "ending": "Speech body ends on PDF41 / printed p.40 before separate printed closing note; PDF42 begins constituent 4"
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "cross_split_join_33_34": "pass",
+    "internal_joins_checked": 8,
+    "internal_joins_unresolved": 0,
+    "tamil_transcription": "blocked-pending-collection-source-intake",
+    "english_translation": "not-started",
+    "archive_status": "source-gated-collection-intake-pending",
+    "duplicate_unresolved": 0,
+    "boundary_unresolved": 0,
+    "next_gate": "Complete collection-wide 39-piece source intake before Tamil T1."
+  }
+}
