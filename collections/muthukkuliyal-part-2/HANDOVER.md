@@ -19,7 +19,7 @@ Fetch live `main` first and preserve any newer durable work.
 
 - mapped: **36 / 36**
 - started / source-gated: **28 / 36**
-- Tamil T1 complete: **26 / 36**
+- Tamil T1 complete: **27 / 36**
 - Tamil T2 complete: **26 / 36**
 - Tamil T3 complete / Tamil verified: **26 / 36**
 - English E1 complete: **26 / 36**
@@ -48,7 +48,8 @@ Directory: `speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
 - next boundary: PDF331 opens constituent 28
 - duplicate unresolved: **0**
 - boundary unresolved: **0**
-- Tamil T1: **READY / NOT STARTED**
+- Tamil T1: **COMPLETE — 16/16**
+- Tamil T2: **READY / NOT STARTED**
 
 ## Constituent 28 — source gate complete
 
@@ -66,6 +67,16 @@ Directory: `speeches/chennai-thiraiyulagam-nadathiya-paarattu-vizha/`
 - boundary unresolved: **0**
 - Tamil T1: **READY / NOT STARTED**
 
+## Constituent 27 — durable Tamil T1 result
+
+Tamil T1: **COMPLETE — 16/16 source pages** for `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`, PDF **315–330** / printed **314–329**. Canonical page records are complete and ordered; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body; source title variants remain distinct.
+
+Explicit page-boundary continuations and source-sensitive T2 attention are recorded in the constituent transcript. Tamil T2 is **READY / NOT STARTED**.
+
+Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; started/source-gated **28/36**; Tamil T1 **27/36**; Tamil verified **26/36**; English verified **26/36**; fully archived **26/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 27 — all 16 source pages, PDF 315–330 / printed 314–329.** Constituent 28 remains source-gated and ready after constituent 27.
+**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.** Stop before T3 / constituent 28.
