@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் I / source intake after split 001
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் I / source intake after split 002
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-1/`.
 
@@ -8,74 +8,87 @@ Fetch live `main` first and preserve newer durable work.
 
 ## Controlling-source model
 
-The repository owner confirms the original PDF has **641 pages** and is approximately **1.82 GB**. It has been split into **39 exact-range PDF pieces**, each no larger than about 49 MB. Treat all pieces as **one controlling source**.
+The original PDF is user-confirmed as **641 pages**, approximately **1.82 GB**, split into **39 exact-range PDF pieces**. Treat the pieces as **one controlling source**.
 
-Expected original source name:
+Expected original source:
 
 `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf`
 
 Original binary / original SHA-256: **not attached / not committed**.
 
-## Split 001 — durable state
+## Durable split ledger
 
+### Split 001
 `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_001_pages_1-17.pdf`
 
-- exact original scans represented: **1–17**;
-- pages: **17**;
-- bytes: **48,686,831**;
-- SHA-256: `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d`;
-- inspection: **PASS / COMPLETE — 17/17**;
-- parsed text layer: **none**;
-- scan pixels are controlling;
-- OCR / web / alternate source use: **none**;
-- binary committed: **No**.
+- scans **1–17**;
+- 17 pages;
+- 48,686,831 bytes;
+- SHA-256 `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d`;
+- **PASS / COMPLETE**.
 
-Split 001 contains front matter only. Complete contents were captured from scans **12–16**.
+### Split 002
+`TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_002_pages_18-33.pdf`
 
-## Durable contents state
+- scans **18–33**;
+- 16 pages;
+- 47,901,860 bytes;
+- SHA-256 `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861`;
+- **PASS / COMPLETE**.
 
-- contents entries: **61/61 COMPLETE**;
-- constituent source gates: **0/61**;
+Combined continuity: **scans 1–33 PASS — no gap / no overlap**.
+
+No usable parsed text layer. Rendered scan pixels are controlling. OCR / web / alternate sources were not used.
+
+## Durable collection state
+
+- contents: **61/61 COMPLETE**;
+- splits received: **2/39**;
+- original scans covered: **1–33 / 641**;
+- body mapping: **CONFIRMED PDF = printed + 1 through scan 33**;
+- constituent source gates: **2/61 COMPLETE**;
 - Tamil T1/T2/T3: **0/61**;
 - English E1/E2/E3: **0/61**;
-- archived: **0/61**;
-- transcription has **NOT STARTED**.
+- archived: **0/61**.
 
-Observed numbered-page relation in the front matter: **PDF scan = printed page + 1**.
+### Constituent 1 — `வள்ளுவர் வழி எது?`
 
-Contents item 1:
-- title: `வள்ளுவர் வழி எது?`;
-- date in contents: `04-10-1972`;
-- printed start: **17**;
-- expected original PDF opening: **scan 18**.
+- directory: `speeches/valluvaar-vazhi-ethu/`;
+- PDF **18–28** / printed **17–27** — **11/11**;
+- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- all **10/10** joins: **PASS**;
+- date: **1972-10-04**;
+- duplicate / boundary unresolved: **0 / 0**;
+- Tamil T1: **NOT STARTED — blocked pending collection-wide source intake**.
 
-This body offset remains **PROVISIONAL** until scan 18 is visually verified.
+### Constituent 2 — `வள்ளுவர்க்கோர் ஆலயம்`
 
-Constituent 61:
-- title: `ஆதித்தனார் பிறந்தநாள் விழா`;
-- date in contents: `28-09-1997`;
-- printed start: **629**;
-- expected PDF start under provisional offset: **630**;
-- terminal end: **TBD pending final split**.
+- directory: `speeches/valluvarkkor-aalayam/`;
+- PDF **29–32** / printed **28–31** — **4/4**;
+- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- all **3/3** joins: **PASS**;
+- date: **1973-04-27**;
+- duplicate / boundary unresolved: **0 / 0**;
+- Tamil T1: **NOT STARTED — blocked pending collection-wide source intake**.
 
-## Publication-source note
+### Constituent 3 — `கம்பர் விழா (1)`
 
-Preserve both source statements without reconciliation:
-
-- scan 3: `முதற் பதிப்பு : மே 2000`;
-- scan 5: `காலம் : ஜூன் 2000`.
+- contents printed start: **32**;
+- opening: **PDF33 / printed p.32 VERIFIED**;
+- source gate: **INCOMPLETE** because only the opening page is available so far;
+- provisional range from contents: printed **32–40** / PDF **33–41**.
 
 ## Exact next activity
 
-When the next split is supplied, continue **source intake only**:
+When the next split is supplied:
 
-1. confirm its filename/range and exact continuity after scan 17;
-2. verify original scan **18** visually;
-3. verify constituent 1 opening and printed p.17 ↔ PDF scan 18;
-4. inspect all pages in the supplied split;
-5. update the split ledger and page map;
-6. establish constituent boundaries only where the supplied split gives direct evidence.
+1. confirm its filename/range begins at original scan **34** and verify continuity;
+2. inspect every supplied page;
+3. continue constituent 3 from PDF33 / printed 32;
+4. verify constituent 3 closing note and boundary when available;
+5. continue source-gating later constituents only where direct scan evidence is complete;
+6. update split ledger, collection metadata, page map, audit and handover.
 
 ## STOP RULE
 
-Do **not** begin Tamil T1 or English translation during source intake. Continue building the full 39-piece source map first unless the user explicitly changes the workflow.
+Continue **source intake only**. Do **not** begin Tamil T1 or English translation until the 39-piece source intake is complete, unless the user explicitly changes that plan.
