@@ -294,7 +294,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verifi
 - T2 source-sensitive attention is recorded in `transcription-ta.md`;
 - Tamil T2: **READY / NOT STARTED**.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil T3 / Tamil verified **31/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituents 31–32 — Tamil T2 complete
 
@@ -320,6 +320,18 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
+## Constituent 31 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 8/8 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+All **3/3** T2 corrections remain consolidated, superseded T1 body readings are absent, all 8 canonical page records remain complete / unique / ordered, and all 7 joins pass. Source-sensitive rhetoric, numerals, Bharathi quotation forms, historical names, `பெட்ரோமாக்ஸ்`, applause marker and separate closing note remain intact.
+
+Tamil is now **`verified-complete` / FROZEN**. T3 speech-body changes: **0**. English E1 is **READY / NOT STARTED**.
+
+Constituent **32** remains Tamil T3-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **30/36**; fully archived **30/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 31 — PDF 364–371 / printed 363–370, all 8 pages.** Constituent 32 remains Tamil T3-ready.
+**English E1 first-pass translation for constituent 31 — PDF 364–371 / printed 363–370, all 8 pages from frozen Tamil only.**
