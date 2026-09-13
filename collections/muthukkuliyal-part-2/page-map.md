@@ -76,7 +76,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **Source-gated / Tamil T1 ready** |
+| 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **Tamil T1 COMPLETE — Tamil T2 ready** |
 | 31 | `chennai-nathigam-ramasami-illa-manavizha` | **Source-gated / Tamil T1 ready** |
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **Source-gated / Tamil T1 ready** |
 | 33–36 | — | not started |
@@ -264,6 +264,16 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 
+## Constituent 30 — Tamil T1
+
+**COMPLETE — 13/13 source pages.**
+
+- canonical records: PDF **351–363** / printed **350–362**, complete and ordered;
+- missing / unreadable placeholders: **0 / 0**;
+- all **12** page joins retained;
+- separate closing note and title/spacing variants preserved;
+- source pixels remain controlling for T2.
+
 ## Next activity
 
-Constituent **30** — Tamil T1 first-pass transcription — **13 pages**, PDF **351–363** / printed **350–362**. Constituents **31–32** remain source-gated / T1-ready.
+Constituent **30** — Tamil T2 strict direct-scan fidelity audit — **13 pages**, PDF **351–363** / printed **350–362**. Constituents **31–32** remain source-gated / T1-ready.
