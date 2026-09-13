@@ -33,12 +33,22 @@
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED** |
-| Tamil T2 strict direct-scan audit | blocked pending T1 |
+| Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
+| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | blocked pending T2 |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 8/8 source pages.** Canonical page records cover PDF **343–350** / printed **342–349** in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body, and the title/action wording distinction remains preserved.
+
+Explicit page-boundary continuations flagged for T2: **343→344, 344→345, 345→346, 346→347, 348→349, 349→350**.
+
+T2 source-sensitive attention includes names/titles `குமரி அனந்தன் / சிராஜில் மில்லத் சமது / நல்லகண்ணு / முல்லை வேந்தன் / துரைமுருகன் / கணபதி / நமச்சிவாயம் / பெரியார் / அண்ணா / பாரதி`, unusual source forms `தியாகிகளை நினைந்து, தொடருகிறது`, `அச்சியற்றுகின்ற`, `பாழ்பட்டுக் கிடக்கின்றோம்`, quotations, and numerals **50 / 1250 / 250 / 1000**.
+
+This is a first-pass layer, not yet a final fidelity claim. Source pixels remain controlling.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — PDF 343–350 / printed 342–349, all 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.**
