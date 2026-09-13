@@ -18,6 +18,15 @@
 - source binaries: **uncommitted**;
 - Tamil T1: **READY / NOT STARTED — 0/8**.
 
+## Durable Tamil T1 result
+
+- Tamil T1: **COMPLETE — 8/8**;
+- missing page records: **0**;
+- unreadable / unknown placeholders: **0**;
+- all **7/7** joins retained;
+- separate closing note remains outside speech body;
+- Tamil T2: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 35 — 8 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 35 — all 8 pages.**
