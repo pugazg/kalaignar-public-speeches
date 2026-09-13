@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 35–36 Tamil T1
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 35–36 Tamil T2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
@@ -9,13 +9,15 @@ Fetch live `main` first and preserve newer durable work.
 Durable state:
 
 - mapped: **36/36**;
-- started / source-gated: **36/36**;
-- Tamil T1/T2/T3 complete / Tamil verified: **34/36**;
+- source-gated: **36/36**;
+- Tamil T1 complete: **36/36**;
+- Tamil T2/T3 complete / Tamil verified: **34/36**;
 - English E1/E2/E3 complete / English verified: **34/36**;
 - fully archived: **34/36**;
 - constituents **1–34 are CLOSED / FULLY ARCHIVED**;
-- constituents **35–36 source / duplicate / boundary gates are PASS / COMPLETE**;
-- combined remaining Tamil T1 batch: **0/17 canonical pages committed**.
+- constituents **35–36 Tamil T1 are COMPLETE — 17/17 total**;
+- missing T1 page records: **0**;
+- explicit unreadable / unknown placeholders: **0**.
 
 ## Controlling source
 
@@ -29,7 +31,7 @@ User-supplied attached slice:
 
 - exact slice of original source scans **380–425**;
 - mapping: **extract page N = original PDF scan N+379**;
-- use **only this attached split PDF** for constituents 35–36 transcription;
+- use **only this attached split PDF** for the Tamil T2 scan audit;
 - do **not** use Wikisource, Tamil Digital Library website, web copies, alternate editions, or OCR;
 - source PDF / split derivative must not be committed.
 
@@ -41,12 +43,11 @@ Directory: `speeches/kanchipuram-cvm-annamalai-illa-manavizha/`
 - PDF **408–415** / printed **407–414** — **8 pages**;
 - split pages **29–36**;
 - source gate: **PASS / COMPLETE**;
-- all **7/7** joins: **PASS**;
-- closing note: `22-11-98 அன்று காஞ்சிபுரத்தில் சி.வி.எம். அண்ணாமலை இல்ல மணவிழாவில் ஆற்றிய உரை`;
-- date / venue / event / role: **1998-11-22 / காஞ்சிபுரம் / சி.வி.எம். அண்ணாமலை இல்ல மணவிழா / ஆற்றிய உரை**;
-- duplicate unresolved: **0**;
-- boundary unresolved: **0**;
-- Tamil T1: **READY / NOT STARTED — 0/8**.
+- Tamil T1: **COMPLETE — 8/8**;
+- missing / unreadable-unknown: **0 / 0**;
+- all **7/7** page joins retained;
+- separate closing note remains outside speech body;
+- Tamil T2: **READY / NOT STARTED**.
 
 ## Constituent 36
 
@@ -56,26 +57,24 @@ Directory: `speeches/pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha/`
 - PDF **416–424** / printed **415–423** — **9 pages**;
 - split pages **37–45**;
 - source gate: **PASS / COMPLETE**;
-- all **8/8** joins: **PASS**;
-- closing note: `26-11-98 அன்று சென்னையில் பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
-- date / venue / event / role: **1998-11-26 / சென்னை / பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழா / ஆற்றிய உரை**;
+- Tamil T1: **COMPLETE — 9/9**;
+- missing / unreadable-unknown: **0 / 0**;
+- all **8/8** page joins retained;
 - preserve contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`;
-- terminal boundary PDF425: **non-speech back-cover portrait / publisher page**;
-- duplicate unresolved: **0**;
-- boundary unresolved: **0**;
-- Tamil T1: **READY / NOT STARTED — 0/9**.
+- terminal PDF425 remains a non-speech back-cover portrait / publisher page;
+- Tamil T2: **READY / NOT STARTED**.
 
 ## Exact activity
 
-Perform **Tamil T1 first-pass transcription for BOTH constituents 35 and 36**:
+Perform **Tamil T2 strict direct-scan fidelity audit for BOTH constituents 35 and 36** against the attached split-PDF scan pixels.
+
+Audit all **17 pages**:
 
 1. constituent 35 — PDF **408–415** / split pages **29–36** — **8 pages**;
 2. constituent 36 — PDF **416–424** / split pages **37–45** — **9 pages**.
 
-Total: **17 pages**.
-
-Preserve source spelling, punctuation, names, quotations, repetitions, applause/laughter markers and page boundaries. Keep each separate source closing note outside the speech body. Record explicit unreadable/unknown placeholders if any. Do not silently normalize source forms.
+Check canonical T1 line-by-line for source spelling, punctuation, names, quotations, repetitions, applause/laughter markers, numerals, page boundaries and all joins. Consolidate only scan-confirmed corrections. Record correction count and unresolved count explicitly. Do not normalize merely for style.
 
 ## STOP RULE
 
-Stop after Tamil T1 for **both constituents 35 and 36**. Do **not** begin Tamil T2 in the same activity unless the user explicitly asks to continue.
+Stop after Tamil T2 for **both constituents 35 and 36**. Do **not** begin Tamil T3 in the same activity unless the user explicitly asks to continue.
