@@ -14,7 +14,7 @@
 - started / source-gated: **34/36**
 - Tamil T1 complete: **34/36**
 - Tamil T2 complete: **34/36**
-- Tamil T3 complete / Tamil verified: **32/36**
+- Tamil T3 complete / Tamil verified: **34/36**
 - English E1/E2/E3 complete / English verified: **32/36**
 - fully archived: **32/36**
 - constituents **1–32: CLOSED / FULLY ARCHIVED**
