@@ -1,6 +1,6 @@
 # 'Isaithamizhin Unmai Varalaru' Book Release Function — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 13/13 pages**  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 13/13 pages; 4 corrections; 0 unresolved**  
 **Authority:** frozen `transcription-ta.md` only  
 **Source range:** PDF **351–363** / printed **350–362**
 
@@ -20,13 +20,13 @@ Tiruppambaram Shanmugasundaram, who seems to have been preparing for the past fe
 
 I greatly appreciate him. He has said, “Arrange another programme and I will take care of it there.” I take great pleasure in listening to such interesting debates. For when people who know what we do not know debate it and arrive at a conclusion, those of us who are in a position to accept that conclusion derive great pleasure. I tell him that I too will make arrangements for us to enjoy that pleasure soon, and our friends will do so as well.
 
-You should not imagine that merely because someone is a Chief Minister he knows everything. As Thiagarajan, who delivered the vote of thanks here, pointed out, though I was born into a musical family, and though my father was a great musical scholar of his time — a scholar to whom people such as those from Thiruvavaduthurai and Thiruvenkadu would come to Thirukkuvalai to clear their doubts, discuss matters with him and learn certain things — I did not involve myself in that field. I have explained the reason at some functions. When I was growing up as a young boy, I was sent for music training. But the teacher who taught me music and the people associated with him, whenever wealthy men, important men, and people belonging to the upper castes of that village came along the street,
+You should not imagine that merely because someone is a Chief Minister he knows everything. As Thiagarajan, who delivered the vote of thanks here, pointed out, though I was born into a musical family, and though my father was a great musical scholar of his time — a scholar to whom Thiruvavaduthuraiyar and Thiruvenkattar would come to Thirukkuvalai to clear their doubts, discuss matters with him and learn certain things — I did not involve myself in that field. I have explained the reason at some functions. When I was growing up as a young boy, I was sent for music training. But the teacher who taught me music and the people associated with him, whenever wealthy men, important men, and people belonging to the upper castes of that village came along the street,
 
 ## PDF 353 / printed p.352
 
 would take the towel from their shoulders and tie it around their waists. I saw that condition. I could not accept it. I could not bear it either.
 
-The very next day, of my own accord, I stopped going to the house where music was taught. When my parents and relatives pressed me and tried to send me there again, I said, “I will not go to a place where self-respect is taken away. Even if I learn music and become a great master, if I have no right to wear a towel over my shoulder, I do not need that music.” (Applause) Otherwise, today I might have stood before you as a Tiruppambaram Shanmugasundaram, a Thiruvenkadu Subramaniam, a Kulikkarai Pichaiyappa, a Thiruvavaduthurai Rajarathinam, or a Sirkazhi Govindarajan.
+The very next day, of my own accord, I stopped going to the house where music was taught. When my parents and relatives pressed me and tried to send me there again, I said, “I will not go to a place where self-respect is taken away. Even if I learn music and become a great master, if I have no right to wear a towel over my shoulder, I do not need that music.” (Applause) Otherwise, today I might have stood before you as a Tiruppambaram Shanmugasundaram, a Thiruvenkadu Subramaniam, a Kulikkarai Pichaiyappa, a Thiruvaduthurai Rajarathinam, or a Sirkazhi Govindarajan.
 
 But does that mean music has become so lacking in value today? No. It is precisely so that it should not lose its value that Kamal Thiagarajan has composed and given us this book, *Isaithamizhin Unmai Varalaru*.
 
@@ -52,7 +52,7 @@ and asked him what was wrong with it. The cobbler said, “Nothing much. This ey
 
 In the same way, I should stay with politics, poetry and art. If I enter the field of music, Kamal Thiagarajan too may say to me what that painter said to the worker. (Loud laughter)
 
-Those who spoke at this book-release function spoke with some anguish about the stature Tamil once had and its present condition. The Tamil Thai Vazhthu sung first begins with the lines from Manonmaniam Sundaranar: “In this Bharata land, whose radiant face shines like a richly adorned maiden-land girdled by seas and waters...” After I assumed office in 1969, we searched for a Tamil Thai Vazhthu of our own. We selected this song, but we left out only the inauspicious words in it — “like Aryan usage in the world, vanished, perished and decayed” — because inauspicious words should not find a place in auspicious functions. We then made that song the Tamil Thai Vazhthu sung at government functions. If you listen carefully to the song, it says, “O great Tamil maiden who *was* fragrant with fame in every direction.”
+Those who spoke at this book-release function spoke with some anguish about the stature Tamil once had and its present condition. The Tamil Thai Vazhthu sung first begins with the lines from Manonmaniam Sundaranar: “In this Bharata land, whose radiant face shines like a richly adorned maiden-land girdled by seas and waters...” After I assumed office in 1969, we searched for a Tamil Thai Vazhthu of our own. We selected this song, but we left out only the inauspicious words in it — in the passage, “like Aryan, whose worldly usage has vanished and disappeared — your youthful excellence undiminished...” — because inauspicious words should not find a place in auspicious functions. We then made that song the Tamil Thai Vazhthu sung at government functions. If you listen carefully to the song, it says, “O great Tamil maiden who *was* fragrant with fame in every direction.”
 
 ## PDF 357 / printed p.356
 
@@ -110,7 +110,7 @@ He has written very beautifully in this book that if a song is sung without gama
 
 “Among people who know music, it is customary to say that when someone sings without gamakam, he is singing ‘baldly.’ In ordinary usage, ‘bald’ means a state without hair. In literature it is said that if the hair of the kavari deer is removed, it will destroy its own life. (When speaking of some things, people say ‘Out of the Way.’)”
 
-As he says this, he points to that characteristic of the kavari deer. He shows the loftiness of honour through the claim that the kavari deer will not live even if it loses a single hair. There are people in this country who can have their whole heads shaved and still feel that their honour has not gone. Some people even alter the Tirukkural — changing “Like the kavari deer that cannot live if its hair is removed, the honourable will give up their lives when honour is threatened” into “Like the kavari deer that cannot live if life departs, they will remove their hair when honour comes.” We are living in such a time. But Kamal Thiagarajan writes:
+As he says this, he points to that characteristic of the kavari deer. He shows the loftiness of honour through the claim that the kavari deer will not live even if it loses a single hair. There are people in this country who can have their whole heads shaved and still feel that their honour has not gone. Some people even alter the Tirukkural — changing “Like the kavari deer that cannot live if its hair is removed, the honourable will give up their lives when honour is threatened” into “Like the kavari deer that cannot live if life departs, they will remove their hair when honour is at stake.” We are living in such a time. But Kamal Thiagarajan writes:
 
 “Literature says that if the hair of the kavari deer is removed, it will destroy its own life. A human being too values the hair greatly as long as it remains on his head. Once it has fallen from the head, he feels disgust on seeing it — ‘People who have fallen from their station are like hair fallen from the head’ —
 
@@ -142,6 +142,34 @@ Therefore, he is not merely a distinguished scholar. He is not merely a distingu
 - frozen Tamil changes during E1: **0**;
 - this is an E1 first-pass translation, not yet an E2 fidelity claim.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 13/13 pages; 4 corrections; 0 unresolved.**
+
+Confirmed E2 corrections consolidated into the English translation:
+
+1. PDF352 / printed p.351: `people such as those from Thiruvavaduthurai and Thiruvenkadu` → **`Thiruvavaduthuraiyar and Thiruvenkattar`**, preserving the frozen Tamil's source-name forms rather than turning them into generic place descriptions.
+2. PDF353 / printed p.352: `Thiruvavaduthurai Rajarathinam` → **`Thiruvaduthurai Rajarathinam`**, preserving the distinct printed form `திருவாடுதுறை ராஜரத்தினம்` on this page.
+3. PDF356 / printed p.355: repaired the Tamil Thai quotation gloss so `சிதையா` is not incorrectly attached to the Aryan-language clause; the English now reads **“like Aryan, whose worldly usage has vanished and disappeared — your youthful excellence undiminished...”**.
+4. PDF362 / printed p.361: in the deliberately altered Tirukkural line, `when honour comes` → **`when honour is at stake`**, keeping the wordplay parallel with the preceding Kural rather than introducing a different sense.
+
+E2 verification result:
+
+- pages checked: **13/13**, PDF **351–363** / printed **350–362**;
+- missing / duplicate English page records: **0 / 0**;
+- all twelve page joins: **PASS**;
+- semantic completeness: **PASS**;
+- rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive names / titles / musical terminology: **PASS / no outside normalization**;
+- `yazh` / `gamakam` passages: **PASS**;
+- Tamil Thai / Bharathidasan / `Thuppariyum Sambu` / Tirukkural material: **PASS**;
+- source English phrases: **PASS / retained verbatim**;
+- applause / laughter markers: **PASS**;
+- contents / page-heading / closing-note variants: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 30 — all 13 English page records against frozen Tamil.**
+**English E3 final end-to-end verification for constituent 30 — all 13 pages.**
