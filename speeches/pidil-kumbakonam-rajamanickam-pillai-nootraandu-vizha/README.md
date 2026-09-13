@@ -40,6 +40,19 @@ Preserve the source title-spacing distinction: contents/page heading use `நூ
 | English E1/E2/E3 | blocked pending frozen Tamil |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 9/9 source pages.**
+
+- canonical page records: **9/9**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- all **8/8** source-gated joins retained;
+- source spelling, punctuation, names, quotations, repetitions and applause markers retained at first-pass level;
+- contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா` remains preserved;
+- separate source closing note remains outside speech body;
+- Tamil T2 strict direct-scan fidelity audit: **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — PDF 416–424 / printed 415–423, 9 pages, using only the attached split PDF.**
+**Tamil T2 strict direct-scan fidelity audit — all 9 pages, PDF 416–424 / printed 415–423.**
