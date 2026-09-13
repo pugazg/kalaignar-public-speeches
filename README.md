@@ -367,3 +367,10 @@ Tamil is **`verified-complete` / FROZEN** with **2 T2 corrections / 0 T3 additio
 The archival workflow is complete for constituent **27 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **315–330** / printed pages **314–329**. The separate closing note establishes **26.09.1998**, venue **சென்னை**, event `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`, and role `ஆற்றிய உரை`.
 
 Tamil is **`verified-complete` / FROZEN** with **6 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **6 E2 corrections / 2 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive transliterations, the Tamil poem, and the Exnora **X / N,O / R,A** wordplay without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா
+
+The archival workflow is complete for constituent **28 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **331–342** / printed pages **330–341**. The separate closing note establishes **27.09.1998**, venue **சென்னை**, event `திரையுலகம் நடத்திய பாராட்டு விழா`, and role `ஆற்றிய உரை`. The archive preserves the contents/page-heading form `பாராட்டுவிழா` separately from the closing-note form `பாராட்டு விழா`.
+
+Tamil is **`verified-complete` / FROZEN** with **11 T2 corrections / 0 T3 additional source corrections / 1 T3 consolidation repair / 0 unresolved**. English is **`verified-complete`** with **8 E2 corrections / 2 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive names/titles/forms, the Anna/Anjugam anecdote, Sivaji recollections, cheque amount, `My Dear Old Man, How are you`, Bharathidasan’s quotation, applause/laughter markers and the title distinction without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
