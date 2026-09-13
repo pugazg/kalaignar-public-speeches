@@ -159,6 +159,20 @@ Collection state: Tamil verified **29/36**; English E1 **29/36**; English E2/E3 
 
 Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 / English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — durable English E3 / English-verified result
+
+- English E3: **PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved**.
+- All **5/5** E2 corrections remain consolidated.
+- PDF345 inherited-task structure restored.
+- English page records remain complete / unique / ordered.
+- Stale superseded English body readings: **0**.
+- All seven joins: **PASS**.
+- Semantic completeness / rhetoric / quotations / source-sensitive names/forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**.
+- Frozen Tamil changes during E3: **0**.
+- English: **`verified-complete`**.
+
+Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **29/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.** Stop before constituent 30 / closure.
+**Repository closure for constituent 29.** Stop before constituent 30 source gate.
