@@ -34,8 +34,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
@@ -49,6 +49,23 @@ T2 source-sensitive attention includes `அடுக்குமொழி / த�
 
 This is a first-pass layer, not yet a final fidelity claim. Source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 16/16 source pages; 6 corrections; 0 unresolved.**
+
+Scan-confirmed corrections:
+
+1. PDF321 / printed p.320: `அந்தப் பொதுப்பணித்துறை அமைச்சராக` → `அந்த பொதுப்பணித்துறை அமைச்சராக`.
+2. PDF321 / printed p.320: `பொதுப்பணித்துறையையும்` → `பொதுப் பணித்துறையையும்`.
+3. PDF321 / printed p.320: `68-ஆம் ஆண்டு பேச்சு தொடங்கி` → `68-ஆம் ஆண்டு பேசத் தொடங்கி`.
+4. PDF326 / printed p.325: `நான்கைந்து முதலவர்களோடு` → `நான்கைந்து முதல்வர்களோடு`.
+5. PDF326 / printed p.325: `ஓமந்தூர் இராமசாமி ரெட்டியார்தான்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார்தான்`.
+6. PDF327 / printed p.326: `ஓமந்தூர் இராமசாமி ரெட்டியார் அவர்கள்` → `ஓமாந்தூர் இராமசாமி ரெட்டியார் அவர்கள்`.
+
+All **16** scans were re-read directly. Canonical page order / explicit joins, names, numerals, punctuation, quotations, repetitions, applause/laughter markers, the poem, the `X / N,O / R,A` wordplay, source-sensitive forms, title variants and the separate closing note all pass. Unresolved readings: **0**.
+
+Tamil T3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.**
+**Tamil T3 consolidation/freeze for constituent 27 — all 16 source pages.** Stop before constituent 28 Tamil T1 / English work.
