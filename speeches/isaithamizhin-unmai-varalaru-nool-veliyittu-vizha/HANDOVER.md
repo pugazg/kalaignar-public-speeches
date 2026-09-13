@@ -71,6 +71,20 @@ Tamil T3: **PASS / COMPLETE — 13/13 pages; 0 additional source corrections; 0 
 
 English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
 
-## Exact next gate
+## Durable English / closure result
 
-**English E1 first-pass translation for constituent 30 — all 13 pages from frozen Tamil only.**
+- English E1: **COMPLETE — 13/13**.
+- English E2: **PASS / COMPLETE — 13/13; 4 corrections; 0 unresolved**.
+- English E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved**.
+- All **4/4** E2 corrections remain consolidated.
+- Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+- Closure speech-body changes: Tamil **0**, English **0**.
+- Source range / page order / all 12 joins / source-sensitive terminology / quotations / musical passages / title variants / separate closing note: **PASS**.
+- Source PDF remains uncommitted.
+- No transcription or translation work remains pending for constituent 30.
+
+## Next collection gate
+
+Constituent **31** `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா` — Tamil T1 first-pass transcription, PDF **364–371** / printed **363–370**, **8 pages**.
