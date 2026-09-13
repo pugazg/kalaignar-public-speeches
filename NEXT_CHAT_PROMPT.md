@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 31 Tamil T3
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 31 English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 have source gates, Tamil T1 and Tamil T2 COMPLETE**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituent **31 Tamil is `verified-complete` / FROZEN**. Constituent **32 Tamil T1/T2 are complete and Tamil T3 is ready**.
 
 ## Controlling source
 
@@ -19,10 +19,9 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–30 a
 - mapped / source-gated: **36/36 / 32/36**
 - Tamil T1 complete: **32/36**
 - Tamil T2 complete: **32/36**
-- Tamil T3 complete / Tamil verified: **30/36**
+- Tamil T3 complete / Tamil verified: **31/36**
 - English verified / fully archived: **30/36 / 30/36**
 - constituents **1–30: CLOSED / FULLY ARCHIVED**
-- constituents **31–32: Tamil T2 COMPLETE / Tamil T3 READY**
 
 ## Constituent 31
 
@@ -32,42 +31,39 @@ Directory: `speeches/chennai-nathigam-ramasami-illa-manavizha/`
 - PDF **364–371** / printed **363–370** — **8 pages**
 - Tamil T1: **COMPLETE — 8/8**
 - Tamil T2: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**
+- Tamil: **`verified-complete` / FROZEN**
+- all **3/3** T2 corrections retained
+- superseded T1 speech-body readings: **0**
 - all **7/7** joins: **PASS**
-- Tamil T3: **READY / NOT STARTED**
+- T3 speech-body changes: **0**
+- English E1: **READY / NOT STARTED**
 
-### Constituent 31 T2 corrections
+### Frozen Tamil T2 corrections
 
-1. PDF366 / p.365: `அதிகே கூட` → `அதிலே கூட`
-2. PDF367 / p.366: `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`
-3. PDF368 / p.367: `தெய்வம் உண்மையென்று காண்றில் வேணும்` → `தெய்வம் உண்மையென்று தானறிதல் வேணும்`
+1. PDF366: `அதிகே கூட` → `அதிலே கூட`
+2. PDF367: `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`
+3. PDF368: `தெய்வம் உண்மையென்று காண்றில் வேணும்` → `தெய்வம் உண்மையென்று தானறிதல் வேணும்`
+
+English E1 must preserve page boundaries, rhetoric / repetition / quotation structure, `வ...ா...ர்` rhetorical effect, numerals `144` / `76-ஆம் ஆண்டு`, Bharathi quotation forms, historical names, `பெட்ரோமாக்ஸ்`, applause marker and separate source closing note.
 
 ## Constituent 32
 
-`சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`  
-Directory: `speeches/chennai-erodu-tamizhanban-noolgal-veliyittu-vizha/`
+`சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`
 
 - PDF **372–390** / printed **371–389** — **19 pages**
-- Tamil T1: **COMPLETE — 19/19**
-- Tamil T2: **PASS / COMPLETE — 19/19; 3 corrections; 0 unresolved**
-- all **18/18** joins: **PASS**
+- Tamil T1/T2: **COMPLETE**
+- Tamil T2: **3 corrections; 0 unresolved**
 - Tamil T3: **READY / NOT STARTED**
 
-### Constituent 32 T2 corrections
-
-1. PDF383 / p.382: `நடித்து தமிழகமெங்கும்` → `நடித்துத் தமிழகமெங்கும்`
-2. PDF386 / p.385: `நானே வரிகளில்` → `நான்கே வரிகளில்`
-3. PDF390 / p.389: restored printed typo contrast `‘உன் திருமணத்திற்கு’ ... ‘உன் திருமணத்திற்கு’` → `‘உன் திருமணத்திற்கு’ ... ‘உன் திருணமத்திற்கு’`
-
-Constituent 32 embedded poem lineation, Bharathi / Bharathidasan quotations, `நீதி தேவன் மயக்கம்`, Nehru / Srinivasa Iyengar references, `தென்னவன் காதை`, applause markers, `சிராஜுல் மில்லத் அப்துல் சமது`, contents/page-heading spacing variants, and separate closing note all passed T2.
+Do not start constituent 32 T3 in the same activity unless the user explicitly broadens scope.
 
 ## Exact activity
 
-Perform **Tamil T3 consolidation / freeze for constituent 31 — all 8 pages**.
+Perform **English E1 first-pass translation for constituent 31 — all 8 pages from frozen `transcription-ta.md` only**.
 
-Verify all **3/3** T2 corrections remain consolidated, superseded T1 body readings are absent, canonical page records remain complete / unique / ordered, all 7 joins pass, and source-sensitive rhetoric, numerals, Bharathi quotations, historical names, applause marker and separate closing note remain intact. Make only consolidation repairs if needed.
-
-If T3 passes, mark constituent 31 Tamil **`verified-complete` / FROZEN** and leave English E1 as its next activity. Constituent 32 remains T3-ready.
+Do not alter frozen Tamil.
 
 ## STOP RULE
 
-Stop after constituent 31 Tamil T3. **Do not begin English E1 or constituent 32 Tamil T3 in the same activity.**
+Stop after constituent 31 English E1. **Do not begin E2 or constituent 32 Tamil T3 in the same activity.**
