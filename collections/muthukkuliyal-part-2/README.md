@@ -169,7 +169,7 @@ Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 
 
 English is now **`verified-complete`**.
 
-Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **29/36**; fully archived **29/36**.
+Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 29 — repository closure
 
@@ -177,7 +177,7 @@ Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified 
 
 Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
 
-Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituents 30–32 — source / duplicate / boundary gates
 
@@ -222,7 +222,7 @@ Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verifi
 - live-main duplicate check: **PASS**;
 - Tamil T1: **READY / NOT STARTED**.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2/T3 / Tamil verified **30/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2/T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 30 — Tamil T1 complete
 
@@ -230,7 +230,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2/
 
 Constituent **31–32** remain source-gated / Tamil T1-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 30 — Tamil T2 complete
 
@@ -238,7 +238,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **3
 
 Constituents **31–32** remain source-gated / Tamil T1-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Constituent 30 — Tamil T3 complete / Tamil verified
 
@@ -248,8 +248,26 @@ Tamil is now **`verified-complete` / FROZEN**. T3 speech-body changes: **0**.
 
 Constituents **31–32** remain source-gated / Tamil T1-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+
+## Constituent 30 — English E1 through repository closure
+
+English E1: **COMPLETE — 13/13 pages** from frozen Tamil only.
+
+English E2: **PASS / COMPLETE — 13/13; 4 corrections; 0 unresolved**:
+- PDF352 source-name forms restored;
+- PDF353 distinct `திருவாடுதுறை` form preserved;
+- PDF356 Tamil Thai quotation syntax repaired;
+- PDF362 altered-Kural honour wording aligned.
+
+English E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved**. All **4/4** E2 corrections remain consolidated; frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+
+Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**. Tamil remains **`verified-complete` / FROZEN**; English is **`verified-complete`**. Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted.
+
+Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 remain source-gated / Tamil T1-ready**.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages from frozen Tamil only.**
+**Constituent 31 Tamil T1 first-pass transcription — `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா`, PDF 364–371 / printed 363–370, all 8 pages.**
