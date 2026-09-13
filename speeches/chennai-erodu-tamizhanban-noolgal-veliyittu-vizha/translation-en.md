@@ -1,6 +1,6 @@
 # Chennai - Erode Tamizhanban Books Release Function — English translation
 
-**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 19/19 pages; 7 corrections; 0 unresolved**  
+**Status:** `verified-complete` — English E3 **PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved**  
 **Authority:** frozen `transcription-ta.md` only  
 **Source range:** PDF **372–390** / printed **371–389**
 
@@ -293,19 +293,19 @@ at the same time, everyone will fear him. Whatever function takes place in anyon
 
 Erode Tamizhanban has copied this matter and written a poem. He too is not a poet who never copies; he is indeed a poet who copies — and this poem is an example. He says:
 
-“That day I had
-important work, so I could not come
+“That day, important
+work—so I could not come
 to your ‘wedding’—
-the lie I wrote
-bubbled in the nerves
-of my writing,
+the lie
+that bubbled
+in the nerves of my writing,
 
 ## PDF 388 / printed p.387
 
-surged and beat
-in waves
+surged, wave after wave,
 through
-my blood vessels.”
+my
+blood vessels.”
 
 (He did not go to a wedding. “Important work; I couldn't come,” he says. The moment he writes it, his nerves tell him it is a lie. He writes again.)
 
@@ -438,6 +438,34 @@ E2 verification result:
 - frozen Tamil changes during E2: **0**;
 - unresolved English issues: **0**.
 
+## English E3 — final end-to-end verification
+
+**PASS / COMPLETE — 19/19 pages; 1 additional correction; 0 unresolved.**
+
+All **7/7** E2 corrections remain consolidated. E3 made one final fidelity repair:
+
+1. PDF387→388 / printed pp.386–387: restored the syntax and lineation of the poem beginning `அன்று முக்கியமான வேலை...` so the `lie` is the subject that `bubbled in the nerves of my writing` and then `surged, wave after wave, through my blood vessels`, rather than the E1 wording `the lie I wrote / bubbled...`.
+
+Final verification confirms:
+
+- English page records: **19/19**, complete / unique / ordered;
+- missing / duplicate records: **0 / 0**;
+- all eighteen page joins: **PASS**;
+- stale superseded E1/E2 speech-body readings: **0**;
+- semantic completeness: **PASS**;
+- embedded poem lineation / quotation structure: **PASS**;
+- source-sensitive names and literary/historical references: **PASS / no outside normalization**;
+- Bharathi / Bharathidasan passages: **PASS**;
+- Gautama / Ahalya–Indra passage: **PASS**;
+- `Subramaniyar Thuthi Amudhu`, `Khadi Irattina Paattu`, `Neethi Devan Mayakkam`, `Thennavan Kaathai`: **PASS**;
+- Ravana / Rama political-literary framing: **PASS**;
+- applause markers: **PASS**;
+- printed typo contrast `திருமணத்திற்கு` / `திருணமத்திற்கு`: **PASS**;
+- title-spacing variants / separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 32 — all 19 pages.**
+**Repository closure for constituent 32.**
