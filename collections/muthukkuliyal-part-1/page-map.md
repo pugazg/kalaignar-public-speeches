@@ -7,6 +7,7 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | Split | Original scans represented | Pages | Bytes | SHA-256 | State |
 |---|---:|---:|---:|---|---|
 | `part_001_pages_1-17.pdf` | **1–17** | **17** | **48,686,831** | `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d` | **INSPECTED / PASS** |
+| `part_002_pages_18-33.pdf` | **18–33** | **16** | **47,901,860** | `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -26,7 +27,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship in the numbered front matter: **PDF scan = printed page + 1** (scan 11 = printed 10 through scan 16 = printed 15). The contents place constituent 1 at printed p.17, therefore **original scan 18 is the expected body opening**. This body offset remains provisional until scan 18 is visually verified from the next split.
+Observed printed-page relationship is now **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**. PDF18 = printed 17, PDF29 = printed 28, PDF33 = printed 32.
 
 ## Contents inventory — 61 constituents
 
@@ -34,9 +35,9 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 
 | # | Contents title | Date in contents | Printed start | Provisional printed range | Provisional PDF scans |
 |---:|---|---|---:|---:|---:|
-| 1 | வள்ளுவர் வழி எது? | 04-10-1972 | 17 | 17–27 | 18–28 |
-| 2 | வள்ளுவர்க்கோர் ஆலயம் | 27-04-1973 | 28 | 28–31 | 29–32 |
-| 3 | கம்பர் விழா (1) | ஏப்ரல்,1969 | 32 | 32–40 | 33–41 |
+| 1 | வள்ளுவர் வழி எது? | 04-10-1972 | 17 | **17–27 VERIFIED** | **18–28 VERIFIED** |
+| 2 | வள்ளுவர்க்கோர் ஆலயம் | 27-04-1973 | 28 | **28–31 VERIFIED** | **29–32 VERIFIED** |
+| 3 | கம்பர் விழா (1) | ஏப்ரல்,1969 | 32 | 32–40 | 33–41 (**opening PDF33 verified**) |
 | 4 | கம்பர் விழா (2) | 04-04-1974 | 41 | 41–55 | 42–56 |
 | 5 | ஏழையின் சிரிப்பில் | 27-11-1969 | 56 | 56–62 | 57–63 |
 | 6 | கலை வளர்ப்போம் | 30-03-1974 | 63 | 63–68 | 64–69 |
@@ -99,9 +100,12 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **1/39**;
-- original-scan coverage received: **1–17 / 641**;
-- source/body offset: **provisional PDF = printed + 1**;
-- constituent 1 expected opening: **scan 18 / printed p.17 — verification pending next split**;
+- source splits received: **2/39**;
+- original-scan coverage received: **1–33 / 641**;
+- split continuity: **PASS — 1–33 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan 33**;
+- constituent source gates: **2/61 COMPLETE**;
+- constituent 3 opening: **PDF33 / printed p.32 VERIFIED**;
+- constituent 3 closing boundary: **pending next split**;
 - terminal end for constituent 61: **pending final split**;
 - transcription: **NOT STARTED**.
