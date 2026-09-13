@@ -80,6 +80,20 @@ Corrections:
 - Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
 - English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 31.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- source range PDF **364–371** / printed **363–370**: **PASS**;
+- canonical Tamil / English page order: **PASS**;
+- all **7** joins: **PASS**;
+- Tamil T2 / T3: **3 / 0 additional source corrections + 0 consolidation repairs**;
+- English E2 / E3: **2 / 0 additional corrections**;
+- unresolved: **0**;
+- rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
