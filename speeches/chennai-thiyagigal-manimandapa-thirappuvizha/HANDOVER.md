@@ -113,6 +113,18 @@ English E3: **PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolv
 - frozen Tamil changes during E3: **0**;
 - English: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 29.** Stop before constituent 30 source gate.
+Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+
+- Tamil T2 **3**, T3 **0 additional source corrections / 0 consolidation repairs**; unresolved **0**;
+- English E2 **5**, E3 **1**; unresolved **0**;
+- source range PDF **343–350** / printed **342–349** agrees across controls;
+- page order / all seven joins, title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing-note handling: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted;
+- no transcription or translation work remains pending for constituent 29.
+
+## Next collection gate
+
+Constituent **30** `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — source / duplicate / boundary gate; mapped PDF **351–363** / printed **350–362**.
