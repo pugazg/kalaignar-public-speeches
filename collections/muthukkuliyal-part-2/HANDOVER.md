@@ -11,8 +11,8 @@
 ## Durable collection state
 - mapped: **36/36**
 - started / source-gated: **34/36**
-- Tamil T1 complete: **32/36**
-- Tamil T2 complete: **32/36**
+- Tamil T1 complete: **34/36**
+- Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **32/36**
 - English verified: **32/36**
 - fully archived: **32/36**
@@ -385,13 +385,27 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-The unverified constituent 33 T1 draft was reverted on live `main`. Durable state remains:
+Constituents **33–34 Tamil T1 and T2 are now durable on live `main`**.
 
-- constituent 33 Tamil T1: **READY / NOT STARTED — 9 pages**;
-- constituent 34 Tamil T1: **READY / NOT STARTED — 8 pages**;
-- canonical T1 body pages committed for this batch: **0/17**;
-- use only the attached split PDF for transcription.
+### Constituent 33
+- PDF **391–399** / printed **390–398** — **9/9**;
+- Tamil T1: **COMPLETE — 9/9**;
+- Tamil T2: **PASS / COMPLETE — 9/9; 2 corrections; 0 unresolved**;
+- corrections: PDF395 `நரேந்திரபூர்` → `நரேந்தர்பூர்`; `ரதிஷ்யாம்ஷா` → `ரதிஷியாம்ஷா`;
+- Tamil T3: **READY / NOT STARTED**.
+
+### Constituent 34
+- PDF **400–407** / printed **399–406** — **8/8**;
+- Tamil T1: **COMPLETE — 8/8**;
+- Tamil T2: **PASS / COMPLETE — 8/8; 1 correction; 0 unresolved**;
+- correction: PDF401 `எடுத்துக்காட்டியதைப் போல` → `எடுத்துக்காட்டியதைப் போல்`;
+- venue remains **not explicitly stated / not inferred**;
+- Tamil T3: **READY / NOT STARTED**.
+
+Combined batch: **17/17 T1 complete; 17/17 T2 checked; 3 corrections; 0 unresolved**.
+
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1 **34/36**; Tamil T2 **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituents 33 and 34 — 17 pages total, PDF 391–407 / printed 390–406.**
+**Tamil T3 consolidation / freeze for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total.**
