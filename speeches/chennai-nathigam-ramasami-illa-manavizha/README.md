@@ -35,7 +35,7 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved — FROZEN** |
-| English E1/E2/E3 | **E1 READY / NOT STARTED** |
+| English E1/E2/E3 | **E1 COMPLETE — 8/8; E2 PASS / COMPLETE — 8/8; 2 corrections; E3 PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved — English verified-complete** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -67,6 +67,19 @@ Tamil is now **`verified-complete` / FROZEN**. No speech-body Tamil changed duri
 
 English E1 is **READY / NOT STARTED** and must use frozen `transcription-ta.md` only.
 
+## English E1 / E2 / E3
+
+English E1: **COMPLETE — 8/8 pages** from frozen `transcription-ta.md` only.
+
+English E2: **PASS / COMPLETE — 8/8 pages; 2 corrections; 0 unresolved**.
+
+- PDF368→369: `the elderly Moovalur Ramamirtham Ammaiyar` → `Moovalur Moothatti Ramamirtham Ammaiyar`, preserving the source-name/title form;
+- PDF370: removed unsupported `from the crowd` from the sentence about footwear being thrown at Periyar.
+
+English E3: **PASS / COMPLETE — 8/8 pages; 0 additional corrections; 0 unresolved**. All **2/2** E2 corrections remain consolidated; frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+
+English is now **`verified-complete`**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 31 — all 8 pages from frozen Tamil only.**
+**Repository closure for constituent 31.**
