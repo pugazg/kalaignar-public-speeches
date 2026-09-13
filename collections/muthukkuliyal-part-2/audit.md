@@ -385,6 +385,43 @@
 - fully archived: **29/36**;
 - constituents **1–29: CLOSED / FULLY ARCHIVED**.
 
+## Constituents 30–32 — source / duplicate / boundary gates
+
+**PASS / COMPLETE — 40/40 source pages total; duplicate unresolved 0; boundary unresolved 0.**
+
+### Constituent 30
+- PDF **351–363** / printed **350–362** — **13/13**;
+- all **12** internal joins: **PASS**;
+- closing note: `5-10-98 அன்று சென்னையில் ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`;
+- source-established date / venue / event / role: **1998-10-05 / சென்னை / ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா / ஆற்றிய உரை**;
+- contents / page-heading / closing-note spacing variants preserved;
+- duplicate check: **PASS**.
+
+### Constituent 31
+- PDF **364–371** / printed **363–370** — **8/8**;
+- all **7** internal joins: **PASS**;
+- closing note: `18-10-98 அன்று சென்னையில் நாத்திகம் இராமசாமி இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- source-established date / venue / event / role: **1998-10-18 / சென்னை / நாத்திகம் இராமசாமி இல்ல மணவிழா / ஆற்றிய உரை**;
+- duplicate check: **PASS**.
+
+### Constituent 32
+- PDF **372–390** / printed **371–389** — **19/19**;
+- all **18** internal joins: **PASS**;
+- closing note: `18-10-98 அன்று சென்னையில் ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`;
+- source-established date / venue / event / role: **1998-10-18 / சென்னை / ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா / ஆற்றிய உரை**;
+- contents `வெளியீட்டுவிழா` versus page-heading / closing-note `வெளியீட்டு விழா`: preserved;
+- duplicate check: **PASS**.
+
+Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncommitted.
+
+## Collection totals after source-gating constituents 30–32
+
+- mapped: **36/36**;
+- started / source-gated: **32/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **29/36**;
+- English verified: **29/36**;
+- fully archived: **29/36**.
+
 ## Exact next gate
 
-**Constituent 30 source / duplicate / boundary gate — PDF 351–363 / printed 350–362.**
+**Tamil T1 first-pass transcription for constituent 30 — PDF 351–363 / printed 350–362, 13 pages.**
