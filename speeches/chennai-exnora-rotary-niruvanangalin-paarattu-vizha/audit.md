@@ -86,6 +86,60 @@ Verification result:
 - Tamil state: **`verified-complete` / FROZEN**;
 - English E1: **READY / NOT STARTED**.
 
-## Exact next gate
+## English E1 — first-pass translation
 
-**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.**
+**COMPLETE — 16/16 pages.**
+
+- translation authority: frozen `transcription-ta.md` only;
+- English page records: **16/16**, complete and ordered;
+- missing pages: **0**;
+- page correspondence / joins / rhetoric / repetition / quotation structure / applause-laughter markers: retained;
+- source-sensitive names/forms and chronology/numerals: retained;
+- Tamil poem and Exnora `X / N,O / R,A` wordplay: retained;
+- title distinctions and separate closing note: retained;
+- frozen Tamil changes during E1: **0**.
+
+## English E2 — fidelity review
+
+**PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved.**
+
+1. PDF318: unsupported `as feasible` gloss removed.
+2. PDF325: added `son of this soil` metaphor removed.
+3. PDF326: `Omandur` → `Omaandur`.
+4. PDF327: second `Omandur` → `Omaandur`.
+5. PDF327: source honorific `Annai` restored for Indira Gandhi.
+6. PDF329: `three waterways` → `three rivers` to preserve source `இந்த மூன்று ஆறுகளையும்`.
+
+All corrections are consolidated; frozen Tamil changes during E2: **0**.
+
+## English E3 — final verification
+
+**PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved.**
+
+- PDF317: Seshan sentence broadened from physical-presence inference to the source’s broader causal reference;
+- PDF327: Puranic-storyteller / `போதாத காலம்` sentence tightened to preserve both the bad-time clause and rains/floods clause;
+- all **6/6** E2 corrections remain consolidated;
+- English page records: **16/16**, complete, unique and ordered;
+- missing / duplicate records: **0 / 0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- Tamil poem and Exnora wordplay: **PASS**;
+- chronology / numeral forms, applause / laughter markers, title distinctions and separate closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- final English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3 corrections: **6 / 0**; unresolved **0**;
+- English E2 / E3 corrections: **6 / 2**; unresolved **0**;
+- PDF **315–330** / printed **314–329**: **PASS**;
+- canonical Tamil / English page order / joins: **PASS**;
+- source title distinctions, Tamil poem, Exnora wordplay and separate closing note: **PASS**;
+- root catalogue synchronization: **PASS**;
+- frozen Tamil / verified English speech-body changes during closure: **0 / 0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
