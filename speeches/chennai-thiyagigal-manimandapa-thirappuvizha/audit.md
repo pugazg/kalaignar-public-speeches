@@ -81,6 +81,21 @@ All PDF **343–350** scans were checked directly against the controlling source
 - frozen Tamil changes during E1: **0**;
 - E2 fidelity claim: **not yet made**.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved.**
+
+- PDF344: removed unsupported `for the burial`;
+- PDF346: restored explicit source dual-movement wording;
+- PDF346: removed unsupported `perhaps`;
+- PDF347: removed unsupported `many`;
+- PDF348: `comfort and hardship` → `joys and sorrows`;
+- English page records: **8/8**, complete / unique / ordered;
+- all seven joins: **PASS**;
+- semantic completeness / rhetoric / quotations / source-sensitive names and forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 29 — all 8 pages against frozen Tamil.**
+**English E3 final end-to-end verification for constituent 29 — all 8 pages.**
