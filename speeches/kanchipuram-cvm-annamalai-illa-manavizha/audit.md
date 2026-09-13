@@ -1,0 +1,25 @@
+# Audit — காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா
+
+## Source / duplicate / boundary gate
+
+**PASS / COMPLETE — 8/8 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **408–415** / printed **407–414**;
+- split extract **29–36**;
+- opening PDF408: **PASS** — numbered constituent 35 and expected page heading;
+- internal joins **408→409, 409→410, 410→411, 411→412, 412→413, 413→414, 414→415**: **7/7 PASS**;
+- ending PDF415 + separate closing note: **PASS**;
+- prior boundary PDF407: **PASS** — constituent 34 closes;
+- next boundary PDF416: **PASS** — constituent 36 begins;
+- live-main dedicated duplicate: **none found / PASS**;
+- source / derivative binaries committed: **No**.
+
+Closing note: `22-11-98 அன்று காஞ்சிபுரத்தில் சி.வி.எம். அண்ணாமலை இல்ல மணவிழாவில் ஆற்றிய உரை`.
+
+Source-established date / venue / event / role: **1998-11-22 / காஞ்சிபுரம் / சி.வி.எம். அண்ணாமலை இல்ல மணவிழா / ஆற்றிய உரை**.
+
+Tamil T1: **READY / NOT STARTED — 0/8**.
+
+## Exact next gate
+
+**Tamil T1 first-pass transcription — all 8 pages.**
