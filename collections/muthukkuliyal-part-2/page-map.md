@@ -78,7 +78,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 ## Current processing status
 
 - mapped: **36/36**
-- started / source-gated: **26/36**
+- started / source-gated: **28/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **26/36**
 - English E1/E2/E3 complete / English verified: **26/36**
 - fully archived: **26/36**
@@ -86,14 +86,32 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 
 | # | Archive slug | Status |
 |---:|---|---|
-| 25 | `annai-teresa-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 26 | `chennai-aazhvargal-aaivu-maiya-vizha-urai` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 27 | — | **NOT STARTED — source gate next** |
+| 27 | `chennai-exnora-rotary-niruvanangalin-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **Source gate PASS / COMPLETE — Tamil T1 pending** |
+| 29 | — | **NOT STARTED** |
 
-## Constituent 26 closure
+## Constituent 27 — source / duplicate / boundary gate
 
-**PASS / COMPLETE — FULLY ARCHIVED — 20/20 pages.** Tamil T2/T3 corrections: **2 / 0**; English E2/E3 corrections: **8 / 2**; unresolved **0**. PDF **295–314** / printed **294–313**. Page order / joins, source title distinctions and separate closing-note handling pass.
+**PASS / COMPLETE — 16/16 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- contents title: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`;
+- page heading: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`;
+- PDF **315–330** / printed **314–329**;
+- closing note on PDF330 / p.329: `26-9-98 அன்று சென்னையில் எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழாவில் ஆற்றிய உரை`;
+- prior / next boundaries: PDF314 closes constituent 26; PDF331 opens constituent 28;
+- source title variant preserved separately.
+
+## Constituent 28 — source / duplicate / boundary gate
+
+**PASS / COMPLETE — 12/12 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- contents / page heading: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`;
+- PDF **331–342** / printed **330–341**;
+- closing note on PDF342 / p.341: `27-9-98 அன்று சென்னையில் திரையுலகம் நடத்திய பாராட்டு விழாவில் ஆற்றிய உரை`;
+- prior / next boundaries: PDF330 closes constituent 27; PDF343 opens constituent 29 `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`;
+- closing-note spacing variant preserved separately.
 
 ## Next same-gate batch
 
-Constituent **27** only — source / duplicate / boundary gate — mapped PDF **315–330** / printed **314–329** — **16 source pages**.
+Constituent **27** only — Tamil T1 first-pass transcription — **16 source pages**, PDF **315–330** / printed **314–329**.
