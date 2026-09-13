@@ -222,7 +222,7 @@ Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verifi
 - live-main duplicate check: **PASS**;
 - Tamil T1: **READY / NOT STARTED**.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2/T3 / Tamil verified **30/36**; English verified **29/36**; fully archived **29/36**.
 
 ## Constituent 30 — Tamil T1 complete
 
@@ -240,6 +240,16 @@ Constituents **31–32** remain source-gated / Tamil T1-ready.
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **30/36**; Tamil T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
+## Constituent 30 — Tamil T3 complete / Tamil verified
+
+**PASS / COMPLETE — 13/13 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.** All **5/5** T2 corrections remain consolidated; superseded T1 speech-body readings are absent; all 13 canonical page records remain complete / unique / ordered; all 12 joins and source-sensitive names/forms, quotations, English phrases, `யாழ்` / `கமகம்`, Tirukkural material, applause/laughter markers, title variants and separate closing note pass.
+
+Tamil is now **`verified-complete` / FROZEN**. T3 speech-body changes: **0**.
+
+Constituents **31–32** remain source-gated / Tamil T1-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **29/36**; fully archived **29/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.**
+**English E1 first-pass translation for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages from frozen Tamil only.**
