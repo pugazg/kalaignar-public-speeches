@@ -46,6 +46,28 @@ Body mapping remains **CONFIRMED: PDF scan = printed page + 1** through scan 49.
 - expected remaining under contents map: PDF **50–56** / printed **49–55**;
 - source gate: **INCOMPLETE**.
 
+## Revised workflow policy — effective now
+
+The earlier rule to wait for all **39 splits** before beginning Tamil T1 was a workflow choice, not a technical requirement. It is now **retired**.
+
+Going forward, every newly supplied split is processed to the **maximum durable state supported by the pages currently available**:
+
+1. source / duplicate / boundary gate;
+2. Tamil T1;
+3. Tamil T2 strict direct-scan fidelity audit;
+4. Tamil T3 consolidation / freeze;
+5. English E1 / E2 / E3;
+6. repository closure **for every constituent whose full opening-to-closing boundary is present**.
+
+For a constituent that crosses a split boundary, process all currently supplied pages immediately to a durable page-level checkpoint. Do not invent the missing tail and do not mark the constituent closed until the closing boundary is supplied. When the next split arrives, continue only the missing tail / join / final closure work. Previously verified pages should not require re-reading unless a new source-fidelity issue appears.
+
+This means the already supplied material should now be handled as follows:
+
+- constituent 1 `வள்ளுவர் வழி எது?` — **eligible for T1 → repository closure now**;
+- constituent 2 `வள்ளுவர்க்கோர் ஆலயம்` — **eligible for T1 → repository closure now**;
+- constituent 3 `கம்பர் விழா (1)` — **eligible for T1 → repository closure now**;
+- constituent 4 `கம்பர் விழா (2)` — only PDF **42–49 / printed 41–48** are currently available; process these pages now to a durable page-level checkpoint, but final constituent freeze / English final verification / repository closure must wait for PDF **50–56**.
+
 ## Workflow status
 
 - source inspection: **IN PROGRESS**;
@@ -53,11 +75,12 @@ Body mapping remains **CONFIRMED: PDF scan = printed page + 1** through scan 49.
 - scans covered: **1–49 / 641**;
 - contents: **61/61 COMPLETE**;
 - constituent source gates: **3/61 COMPLETE**;
-- active constituent: **4 / 61 — partial source inspection**;
-- Tamil T1/T2/T3: **0/61**;
-- English E1/E2/E3: **0/61**;
-- archived: **0/61**.
+- fully bounded constituents eligible for immediate full workflow: **1–3**;
+- active partial constituent: **4 / 61 — PDF42–49 available, PDF50–56 pending**;
+- collection-wide transcription/translation is now **incremental per split**, not deferred.
 
 ## Exact next activity
 
-Inspect the next split beginning at **original scan 50**. Continue constituent 4 through its expected closing boundary at PDF56 / printed p.55 if those pages are supplied. Continue **source intake only**; do **not** begin Tamil T1 yet.
+Retroactively process constituents **1–3 from Tamil T1 through repository closure**, then process constituent 4's currently available pages **42–49** to the highest safe page-level checkpoint without pretending the constituent is complete.
+
+After that, each future split should be closed as far as its evidence allows before moving on.
