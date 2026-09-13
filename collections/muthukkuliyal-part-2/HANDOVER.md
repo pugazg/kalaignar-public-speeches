@@ -307,8 +307,23 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 
 
 Constituent **32** remains Tamil T3-ready.
 
-Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **30/36**; fully archived **30/36**.
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2 **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
+
+## Constituent 31 — durable English E1–E3 result
+
+- English E1: **COMPLETE — 8/8**.
+- English E2: **PASS / COMPLETE — 8/8; 2 corrections; 0 unresolved**.
+- English E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**.
+- All **2/2** E2 corrections remain consolidated.
+- Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**.
+- English: **`verified-complete`**.
+- Canonical page order / all 7 joins / rhetoric / quotations / numerals / Bharathi forms / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
+- Repository closure: **PENDING**.
+
+Constituent **32** remains Tamil T3-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **31/36**; English verified **31/36**; fully archived **30/36**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 31 — all 8 pages from frozen Tamil only.**
+**Repository closure for constituent 31.**
