@@ -20,7 +20,7 @@ Source-established date / venue / event / role: **1998-11-26 / சென்ன�
 
 Title-spacing distinction: contents/page heading `நூற்றாண்டுவிழா` versus closing note `நூற்றாண்டு விழாவில்`: **preserved**.
 
-Tamil T1: **READY / NOT STARTED — 0/9**.
+Tamil / English: **verified-complete**; repository closure: **FULLY ARCHIVED**.
 
 ## Tamil T1
 
