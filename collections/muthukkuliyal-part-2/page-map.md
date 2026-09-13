@@ -81,14 +81,14 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 33 | `chennai-thiripura-orumaippattu-thina-koottam` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 34 | `ayyanan-ambalam-padathirappu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 35 | `kanchipuram-cvm-annamalai-illa-manavizha` | **Source-gated / Tamil T1 ready** |
-| 36 | `pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha` | **Source-gated / Tamil T1 ready** |
+| 35 | `kanchipuram-cvm-annamalai-illa-manavizha` | **Tamil T1 complete / T2 ready** |
+| 36 | `pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha` | **Tamil T1 complete / T2 ready** |
 
 ## Current processing status
 
 - mapped: **36/36**
 - started / source-gated: **36/36**
-- Tamil T1 complete: **34/36**
+- Tamil T1 complete: **36/36**
 - Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **34/36**
 - English E1 complete: **34/36**
@@ -381,13 +381,14 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 
 ## Current batch status
 
-Constituents **35–36 source gates are PASS / COMPLETE**.
+Constituents **35–36 Tamil T1 are COMPLETE**.
 
-- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — PDF **408–415** / printed **407–414** — **8/8**, all **7** joins PASS, duplicate/boundary unresolved **0/0**, Tamil T1 ready.
-- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — PDF **416–424** / printed **415–423** — **9/9**, all **8** joins PASS, duplicate/boundary unresolved **0/0**, Tamil T1 ready.
-- terminal PDF425 is a non-speech back-cover portrait / publisher page.
+- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — PDF **408–415** / printed **407–414** — **8/8 T1**, missing/unreadable **0/0**, all **7** joins retained.
+- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — PDF **416–424** / printed **415–423** — **9/9 T1**, missing/unreadable **0/0**, all **8** joins retained.
+- combined final batch: **17/17 T1**;
+- constituent 36 `நூற்றாண்டுவிழா` / `நூற்றாண்டு விழா` distinction remains preserved;
 - source / derivative binaries remain uncommitted.
 
 ## Next activity
 
-Tamil T1 first-pass transcription for **constituents 35 and 36 together — 17 pages total**, PDF **408–424** / printed **407–423**.
+Tamil T2 strict direct-scan fidelity audit for **constituents 35 and 36 together — 17 pages total**, PDF **408–424** / printed **407–423**.
