@@ -55,14 +55,18 @@ The earlier provisional `வள்ளுவர்` reading was superseded and it
 
 ## Constituent 4 — `கம்பர் விழா (2)`
 
-**CLOSED / FULLY ARCHIVED — PDF42–56 / 15 pages.**
+**CLOSED / FULLY ARCHIVED AFTER FIDELITY REPAIR — PDF42–56 / 15 pages.**
 
 - joins — **14/14 PASS**, including cross-split 49→50;
 - closing note — **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
-- Tamil T1/T2/T3 — **COMPLETE / PASS / PASS**;
-- English E1/E2/E3 — **COMPLETE / PASS / PASS**;
+- Tamil T1/T2/T3 — **COMPLETE / PASS / RE-FROZEN**;
+- English E1/E2/E3 — **COMPLETE / PASS / REVERIFIED**;
+- post-closure repair — **PDF54 / printed p.53 restored**;
+- restored content — விபீடணன் back-scar explanation + two Kamban verses + continuation prose;
+- following sections remapped to PDF55 / PDF56;
+- final explicit page headings — Tamil **15/15**, English **15/15**;
 - unresolved — **0**;
-- closure speech-body changes — Tamil **0**, English **0**.
+- repair speech-body changes — Tamil **1 restored source page**, English **1 restored translated page**.
 
 ## Constituent 5 — `ஏழையின் சிரிப்பில்`
 
