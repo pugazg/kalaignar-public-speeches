@@ -34,8 +34,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 8/8** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked pending T2 |
+| Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY / NOT STARTED** |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
@@ -49,6 +49,16 @@ T2 source-sensitive attention includes names/titles `குமரி அனந�
 
 This is a first-pass layer, not yet a final fidelity claim. Source pixels remain controlling.
 
+## Tamil T2
+
+**PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved.**
+
+Scan-confirmed corrections were consolidated on PDF344, PDF346 and PDF347: `மிகவும்` → `மிகுந்த`, `நன்றிகூற` → `நன்றிகூறக்`, and `அவைகளை எல்லாம்` → `அவைகளையெல்லாம்`.
+
+All **8** scans were re-read directly. Canonical page order / all seven joins, names/titles, numerals, punctuation, quotations, source-sensitive forms, the Periyar/Anna/Gandhi passages, Ganapathi recollection, Bharathi quotation, title/action variants and separate closing note all pass. Unresolved readings: **0**.
+
+Tamil T3 is **READY / NOT STARTED**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.**
+**Tamil T3 consolidation/freeze for constituent 29 — all 8 source pages.**
