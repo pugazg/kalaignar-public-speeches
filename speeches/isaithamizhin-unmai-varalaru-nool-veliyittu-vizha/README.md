@@ -34,12 +34,22 @@
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED** |
-| Tamil T2 strict direct-scan audit | blocked pending T1 |
+| Tamil T1 first-pass transcription | **COMPLETE — 13/13** |
+| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | blocked pending T2 |
 | English E1/E2/E3 | blocked pending frozen Tamil |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 13/13 source pages.**
+
+Canonical page records cover PDF **351–363** / printed **350–362** in source order. Missing page records: **0**; explicit unreadable / unknown placeholders: **0**. All twelve page-boundary continuations are retained for T2 review. The separate closing note remains outside the speech body, and contents / page-heading / closing-note spacing variants remain separately preserved.
+
+T2 source-sensitive attention includes names and forms `ரேவதி சங்கரன்`, `சத்தியசீலன்`, `சேக்கிழார் மன்றம்`, `ராகப்பிரியா`, `பி.டி.ஆர். கமலத் தியாகராஜன்`, `திருப்பாம்பரம் சண்முகசுந்தரம்`, `பி.டி. ராஜன்`, `பழனிவேல்ராஜன்`, musical-person names, `மனோன்மணியம் சுந்தரனார்`, `பாரதிதாசன்`, the `யாழ்` / `கமகம்` passages, `துப்பறியும் சாம்பு`, Tirukkural quotations, applause/laughter markers and the English phrases `Contribution of Tamil to Karnatic Music`, `New light on the Musical History of Tamil Nadu`, and `Out of the Way`.
+
+This is a first-pass layer; source pixels remain controlling.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages.**
