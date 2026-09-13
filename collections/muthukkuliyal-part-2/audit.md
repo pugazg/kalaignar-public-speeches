@@ -11,13 +11,13 @@
 ## Current collection totals
 
 - mapped: **36/36**
-- started / source-gated: **29/36**
-- Tamil T1 complete: **28/36**
-- Tamil T2 complete: **28/36**
-- Tamil T3 complete / Tamil verified: **28/36**
-- English E1/E2/E3 complete / English verified: **28/36**
-- fully archived: **28/36**
-- constituents **1–28: CLOSED / FULLY ARCHIVED**
+- started / source-gated: **34/36**
+- Tamil T1 complete: **32/36**
+- Tamil T2 complete: **32/36**
+- Tamil T3 complete / Tamil verified: **32/36**
+- English E1/E2/E3 complete / English verified: **32/36**
+- fully archived: **32/36**
+- constituents **1–32: CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27 source / duplicate / boundary gate
 
@@ -670,6 +670,46 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - fully archived: **32/36**;
 - constituents **1–32: CLOSED / FULLY ARCHIVED**.
 
+## Constituents 33–34 — source / duplicate / boundary gate
+
+### Constituent 33
+
+**PASS / COMPLETE — 9/9 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **391–399** / printed **390–398**;
+- split-source extract pages **12–20**;
+- opening: constituent **33**, heading `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`;
+- all **8/8** internal joins: **PASS**;
+- closing note PDF399: `3-11-98 அன்று சென்னையில் திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டத்தில் ஆற்றிய உரை`;
+- prior boundary PDF390 closes constituent 32;
+- next boundary PDF400 begins constituent 34;
+- no existing dedicated archive found on live `main`;
+- source binaries remain uncommitted.
+
+### Constituent 34
+
+**PASS / COMPLETE — 8/8 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **400–407** / printed **399–406**;
+- split-source extract pages **21–28**;
+- opening: constituent **34**, heading `அய்யணன் அம்பலம் படத்திறப்பு விழா`;
+- all **7/7** internal joins: **PASS**;
+- closing note PDF407: `15-11-98 அன்று அய்யணன் அம்பலம் படத்தை திறந்து வைத்து ஆற்றிய உரை`;
+- prior boundary PDF399 closes constituent 33;
+- next boundary PDF408 begins constituent 35 `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`;
+- venue is not explicit in the closing note and is not inferred;
+- event-title / closing-action wording preserved separately;
+- no existing dedicated archive found on live `main`;
+- source binaries remain uncommitted.
+
+## Collection totals after source gates 33–34
+
+- mapped: **36/36**;
+- source-gated: **34/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **32/36**;
+- English verified: **32/36**;
+- fully archived: **32/36**.
+
 ## Exact next gate
 
-**Constituent 33 source / duplicate / boundary gate — PDF 391–399 / printed 390–398, 9 pages.**
+**Constituent 33 Tamil T1 first-pass transcription — PDF 391–399 / printed 390–398, 9 pages.**
