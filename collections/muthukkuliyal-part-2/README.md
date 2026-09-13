@@ -7,7 +7,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 ## Collection state
 
 - mappings: **36 / 36 complete**
-- speech archives started / source-gated: **34 / 36**
+- speech archives started / source-gated: **36 / 36**
 - Tamil T1 complete: **34 / 36**
 - Tamil T2 complete: **34 / 36**
 - Tamil T3 complete / Tamil verified: **34 / 36**
@@ -411,18 +411,28 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **33–34 are CLOSED / FULLY ARCHIVED**.
+Constituents **35–36 are SOURCE-GATED / Tamil T1 READY**.
 
-- constituent 33 — Tamil **`verified-complete` / FROZEN**; English **`verified-complete`**; E1 **9/9**, E2 **9/9 / 0 corrections**, E3 **9/9 / 0 additional corrections**, unresolved **0**;
-- constituent 34 — Tamil **`verified-complete` / FROZEN**; English **`verified-complete`**; E1 **8/8**, E2 **8/8 / 0 corrections**, E3 **8/8 / 0 additional corrections**, unresolved **0**;
-- closure speech-body changes: Tamil **0**, English **0** for both constituents;
-- source PDFs remain uncommitted;
-- constituent 34 venue remains **not explicitly stated / not inferred**.
+### 35 — `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`
+- PDF **408–415** / printed **407–414** — **8 pages**;
+- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- all **7/7** joins: **PASS**;
+- closing note establishes **1998-11-22 / காஞ்சிபுரம் / சி.வி.எம். அண்ணாமலை இல்ல மணவிழா / ஆற்றிய உரை**;
+- duplicate unresolved **0**; boundary unresolved **0**;
+- Tamil T1: **READY / NOT STARTED — 0/8**.
 
-Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
+### 36 — `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா`
+- PDF **416–424** / printed **415–423** — **9 pages**;
+- source / duplicate / boundary gate: **PASS / COMPLETE**;
+- all **8/8** joins: **PASS**;
+- closing note establishes **1998-11-26 / சென்னை / பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழா / ஆற்றிய உரை**;
+- preserve `நூற்றாண்டுவிழா` / `நூற்றாண்டு விழா` spacing distinction;
+- PDF425 is a non-speech back-cover portrait / publisher page;
+- duplicate unresolved **0**; boundary unresolved **0**;
+- Tamil T1: **READY / NOT STARTED — 0/9**.
 
-Constituents **35–36** remain mapped only.
+Collection state: mapped **36/36**; source-gated **36/36**; Tamil T1/T2/T3 / Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
 
 ## Exact next gate
 
-**Source / duplicate / boundary gates for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total.**
+**Tamil T1 first-pass transcription for constituents 35 and 36 — 17 pages total, PDF 408–424 / printed 407–423.**
