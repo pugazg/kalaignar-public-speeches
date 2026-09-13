@@ -138,7 +138,24 @@ All **2/2** E2 corrections remain consolidated. Final verification confirms:
 - unresolved English issues: **0**;
 - final English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 31.**
+**PASS / COMPLETE — FULLY ARCHIVED — 8/8 pages.**
+
+Closure revalidated:
+
+- Tamil: **`verified-complete` / FROZEN**;
+- English: **`verified-complete`**;
+- source range: PDF **364–371** / printed **363–370**;
+- canonical Tamil and English page order: **PASS**;
+- all **7/7** joins: **PASS**;
+- Tamil T2: **3 corrections / 0 unresolved**;
+- Tamil T3: **0 additional source corrections / 0 consolidation repairs / 0 unresolved**;
+- English E2: **2 corrections / 0 unresolved**;
+- English E3: **0 additional corrections / 0 unresolved**;
+- `vaa` / `vaa...r` rhetoric, numerals, Bharathi forms, historical names, `Petromax`, applause marker and separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted.
+
+No transcription or translation work remains pending for constituent 31.
 
