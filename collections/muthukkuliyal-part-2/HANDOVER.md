@@ -18,7 +18,7 @@ Fetch live `main` first and preserve any newer durable work.
 ## Durable collection state
 
 - mapped: **36 / 36**
-- started / source-gated: **26 / 36**
+- started / source-gated: **28 / 36**
 - Tamil T1 complete: **26 / 36**
 - Tamil T2 complete: **26 / 36**
 - Tamil T3 complete / Tamil verified: **26 / 36**
@@ -29,28 +29,43 @@ Fetch live `main` first and preserve any newer durable work.
 
 Constituents **1–26 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 26 — durable final state
+## Constituent 26 — closure checkpoint
 
-`சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை`  
-Directory: `speeches/chennai-aazhvargal-aaivu-maiya-vizha-urai/`  
-Source range: PDF **295–314** / printed **294–313** — **20 pages**
+`சென்னை - ஆழ்வார்கள் ஆய்வு மைய விழா உரை` is **FULLY ARCHIVED**. Root catalogue synchronization is complete. Tamil remains `verified-complete` / FROZEN; English remains `verified-complete`; no transcription or translation work is pending.
 
-- source / duplicate / boundary gate: **PASS / COMPLETE**
-- Tamil T1: **COMPLETE — 20/20**
-- Tamil T2: **PASS / COMPLETE — 20/20; 2 corrections; 0 unresolved**
-- Tamil T3: **PASS / COMPLETE — 20/20; 0 additional corrections; 0 unresolved**
-- Tamil: **`verified-complete` / FROZEN**
-- English E1: **COMPLETE — 20/20**
-- English E2: **PASS / COMPLETE — 20/20; 8 corrections; 0 unresolved**
-- English E3: **PASS / COMPLETE — 20/20; 2 additional corrections; 0 unresolved**
-- English: **`verified-complete`**
-- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**
-- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**
-- closure speech-body changes: Tamil **0**, English **0**
-- page order / joins, title distinctions and separate closing note: **PASS**
-- source PDF remains uncommitted
-- no transcription or translation work remains pending
+## Constituent 27 — source gate complete
+
+`சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`  
+Directory: `speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
+
+- source gate: **PASS / COMPLETE — 16/16**
+- PDF **315–330** / printed **314–329**
+- contents title: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா`
+- page heading: `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
+- closing note: `26-9-98 அன்று சென்னையில் எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழாவில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-09-26** / `சென்னை` / `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா` / `ஆற்றிய உரை`
+- prior boundary: PDF314 closes constituent 26
+- next boundary: PDF331 opens constituent 28
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **READY / NOT STARTED**
+
+## Constituent 28 — source gate complete
+
+`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`  
+Directory: `speeches/chennai-thiraiyulagam-nadathiya-paarattu-vizha/`
+
+- source gate: **PASS / COMPLETE — 12/12**
+- PDF **331–342** / printed **330–341**
+- contents / page heading: `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
+- closing note: `27-9-98 அன்று சென்னையில் திரையுலகம் நடத்திய பாராட்டு விழாவில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-09-27** / `சென்னை` / `திரையுலகம் நடத்திய பாராட்டு விழா` / `ஆற்றிய உரை`
+- prior boundary: PDF330 closes constituent 27
+- next boundary: PDF343 opens constituent 29 `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **READY / NOT STARTED**
 
 ## Exact next gate
 
-Constituent **27** — `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டுவிழா` — source / duplicate / boundary gate, mapped PDF **315–330** / printed **314–329** — **16 source pages**.
+**Tamil T1 first-pass transcription for constituent 27 — all 16 source pages, PDF 315–330 / printed 314–329.** Constituent 28 remains source-gated and ready after constituent 27.
