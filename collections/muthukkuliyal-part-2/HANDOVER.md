@@ -14,9 +14,9 @@
 - Tamil T1 complete: **27/36**
 - Tamil T2 complete: **27/36**
 - Tamil T3 complete / Tamil verified: **27/36**
-- English verified: **26/36**
-- fully archived: **26/36**
-- constituents **1–26 CLOSED / FULLY ARCHIVED**
+- English verified: **27/36**
+- fully archived: **27/36**
+- constituents **1–27 CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27
 
@@ -31,7 +31,11 @@ Directory: `speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
 - all page records / joins, names, numerals, punctuation, quotations, repetitions, applause-laughter markers, Tamil poem, Exnora wordplay, source-sensitive forms, title variants and separate closing note: **PASS**
 - Tamil T3: **PASS / COMPLETE — 16/16; 0 additional corrections; 0 unresolved**
 - Tamil: **`verified-complete` / FROZEN**
-- English E1: **READY / NOT STARTED**
+- English E1: **COMPLETE — 16/16**
+- English E2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**
+- English E3: **PASS / COMPLETE — 16/16; 2 additional corrections; 0 unresolved**
+- English: **`verified-complete`**
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**
 
 ## Constituent 28
 
@@ -47,6 +51,30 @@ Constituent 28 remains source-gated with Tamil T1 **READY / NOT STARTED**.
 
 Collection state: mapped **36/36**; started/source-gated **28/36**; Tamil T1/T2/T3 / Tamil verified **27/36**; English verified **26/36**; fully archived **26/36**.
 
+## Constituent 27 — durable English / archival closure
+
+English E1: **COMPLETE — 16/16** from frozen Tamil only; missing pages **0**; frozen Tamil changes **0**.
+
+English E2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**. All corrections are consolidated; frozen Tamil changes **0**.
+
+English E3: **PASS / COMPLETE — 16/16; 2 additional corrections; 0 unresolved**. English is **`verified-complete`**; frozen Tamil changes **0**.
+
+Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
+
+- Tamil T2 **6**, T3 **0**; English E2 **6**, E3 **2**; unresolved **0**;
+- source range PDF **315–330** / printed **314–329** agrees across controls;
+- page order / joins, title distinctions, Tamil poem, Exnora wordplay and separate closing-note handling: **PASS**;
+- root catalogue synchronization: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains uncommitted;
+- no transcription or translation work remains pending for constituent 27.
+
+## Constituent 28 — next active item
+
+`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா` remains source-gated, PDF **331–342** / printed **330–341**, Tamil T1 **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; started/source-gated **28/36**; Tamil verified **27/36**; English verified **27/36**; fully archived **27/36**.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.** Stop before E2 / constituent 28 Tamil T1.
+**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages, PDF 331–342 / printed 330–341.**
