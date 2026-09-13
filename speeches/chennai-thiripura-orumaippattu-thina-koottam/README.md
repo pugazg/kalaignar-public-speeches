@@ -44,6 +44,17 @@ Corrections consolidated:
 
 All joins, punctuation, quotations, repetitions, applause markers, names, numerals, the resolution quotation, and separate closing note were checked directly against the attached split-PDF scans.
 
+## Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 9/9 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **2/2** T2 corrections remain consolidated;
+- superseded T1 readings at PDF395 are absent from the canonical speech body;
+- canonical page records remain complete / unique / ordered;
+- all **8/8** joins remain intact;
+- speech-body Tamil changes during T3: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze — all 9 pages, PDF 391–399 / printed 390–398.**
+**English E1 first-pass translation — all 9 pages, from frozen Tamil only.**
