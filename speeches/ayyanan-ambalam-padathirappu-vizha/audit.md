@@ -41,6 +41,18 @@ No venue is supplied by the closing note; none is inferred.
 - speech-body Tamil changes during T3: **0**;
 - final Tamil state: **`verified-complete` / FROZEN**.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation — all 8 pages, frozen Tamil authority only.**
+- E1: **COMPLETE — 8/8** from frozen Tamil only;
+- E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- all **7/7** joins: **PASS**;
+- semantic completeness / caste-body imagery / tiger-deer imagery / Pasumpon Thevar quotation / names / numerals / title-action distinction / venue non-inference / separate closing note: **PASS**;
+- frozen Tamil changes E1/E2/E3: **0 / 0 / 0**;
+- English: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+Closure speech-body changes: Tamil **0**, English **0**. Source PDF remains uncommitted. No transcription or translation work remains pending.
