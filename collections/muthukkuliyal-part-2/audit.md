@@ -12,7 +12,8 @@
 
 - mapped: **36/36**
 - started / source-gated: **28/36**
-- Tamil T1/T2/T3 complete / Tamil verified: **26/36**
+- Tamil T1 complete: **27/36**
+- Tamil T2/T3 complete / Tamil verified: **26/36**
 - English E1/E2/E3 complete / English verified: **26/36**
 - fully archived: **26/36**
 - constituents **1–26: CLOSED / FULLY ARCHIVED**
@@ -28,7 +29,8 @@
 - PDF314 closes constituent 26; PDF331 begins constituent 28
 - source title variants recorded separately
 - no existing dedicated archive found on live `main`
-- Tamil T1: **READY / NOT STARTED**
+- Tamil T1: **COMPLETE — 16/16**
+- Tamil T2: **READY / NOT STARTED**
 
 ## Constituent 28 source / duplicate / boundary gate
 
@@ -43,6 +45,27 @@
 - no existing dedicated archive found on live `main`
 - Tamil T1: **READY / NOT STARTED**
 
+## Constituent 27 — Tamil T1 first-pass transcription
+
+**COMPLETE — 16/16 source pages.**
+
+- canonical page records: **16/16**, PDF **315–330** / printed **314–329**, complete and ordered;
+- missing page records: **0**;
+- explicit unreadable / unknown placeholders: **0**;
+- separate closing note: **preserved outside speech body**;
+- source title variants: **preserved separately**;
+- explicit page-boundary continuations and source-sensitive readings: recorded in `transcription-ta.md`;
+- direct visual method; source pixels remain controlling;
+- Tamil T2: **READY / NOT STARTED**.
+
+## Collection totals after constituent 27 Tamil T1
+
+- mapped / started / source-gated: **36/36 / 28/36 / 28/36**;
+- Tamil T1 complete: **27/36**;
+- Tamil T2/T3 complete / Tamil verified: **26/36**;
+- English verified: **26/36**;
+- fully archived: **26/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 27 — 16 source pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 27 — all 16 source pages.**
