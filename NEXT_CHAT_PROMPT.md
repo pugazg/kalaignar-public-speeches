@@ -34,7 +34,7 @@ Fetch live `main` first and preserve newer durable work. Constituents **1–28 a
 - contents title/date: `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `23-10-98`
 - page heading: `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`
 - closing note: `23-10-98 அன்று சென்னையில் தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து ஆற்றிய உரை`
-- date / venue / event / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `திறந்து வைத்து ஆற்றிய உரை`
+- date / venue / title-event / closing-note action / role: **1998-10-23** / `சென்னை` / `தியாகிகள் மணிமண்டபத் திறப்புவிழா` / `தியாகிகள் மணிமண்டபத்தைத் திறந்து வைத்து` / `ஆற்றிய உரை`
 - explicit joins **343→344, 344→345, 345→346, 346→347, 347→348, 348→349, 349→350**: **PASS**
 - prior boundary: PDF342 / printed p.341 closes constituent 28
 - next boundary: PDF351 / printed p.350 begins constituent 30 `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
