@@ -1,74 +1,83 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 33 source gate
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituent 33 Tamil T1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Constituents **1–32 are CLOSED / FULLY ARCHIVED**. Constituent **33 has not yet been source-gated**.
+Fetch live `main` first and preserve newer durable work. Constituents **1–32 are CLOSED / FULLY ARCHIVED**. Constituents **33–34 have source / duplicate / boundary gates PASS / COMPLETE and are Tamil T1-ready**.
 
 ## Controlling source
 
+Original controlling source:
 `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`
 
 - SHA-256: `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`
-- size: **232,470,104 bytes**
 - physical scans: **425**
 - source PDF must **not** be committed
-- stable constituent-body relationship for this collection: **PDF scan = printed page + 1**
+
+User-supplied inspection slice:
+`TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2_part_001_pages_380-425.pdf`
+
+- **46 pages**
+- exact slice of original source scans **380–425**
+- mapping: **extract page N = original PDF scan N+379**
+- use this attached slice only for the remaining source scans; do not use Wikisource, Tamil Digital Library website, web copies, OCR, or alternate editions.
 
 ## Durable collection state
 
 - mapped: **36/36**
-- source-gated / started: **32/36**
+- source-gated / started: **34/36**
 - Tamil T1/T2/T3 complete / Tamil verified: **32/36**
 - English E1/E2/E3 complete / English verified: **32/36**
 - fully archived: **32/36**
 - constituents **1–32: CLOSED / FULLY ARCHIVED**
 
-## Constituent 32 closure
+## Constituent 33
 
-`சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா` is **FULLY ARCHIVED**.
+`சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`  
+Directory: `speeches/chennai-thiripura-orumaippattu-thina-koottam/`
 
-- PDF **372–390** / printed **371–389**
-- Tamil T2: **3 corrections**
-- Tamil T3: **0 additional source corrections / 0 consolidation repairs**
-- English E2: **7 corrections**
-- English E3: **1 additional correction**
-- unresolved: **0**
-- frozen Tamil changes during E1/E2/E3: **0 / 0 / 0**
-- closure speech-body changes: Tamil **0**, English **0**
-- root catalogue synchronization: **PASS**
+- source range: PDF **391–399** / printed **390–398** — **9 pages**
+- slice extract pages: **12–20**
+- source gate: **PASS / COMPLETE**
+- prior boundary PDF390 / extract11: constituent 32 closes
+- opening PDF391 / extract12: constituent **33**, heading verified
+- all **8/8** internal joins: **PASS**
+- ending PDF399 / extract20: speech ending + separate closing note
+- next boundary PDF400 / extract21: constituent 34 begins
+- closing note: `3-11-98 அன்று சென்னையில் திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டத்தில் ஆற்றிய உரை`
+- date / venue / event / role: **1998-11-03 / சென்னை / திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம் / ஆற்றிய உரை**
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **READY / NOT STARTED**
 
-## Constituent 33 mapped contents row
+## Constituent 34
 
-Contents title: **`சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`**
+`அய்யணன் அம்பலம் படத்திறப்பு விழா`  
+Directory: `speeches/ayyanan-ambalam-padathirappu-vizha/`
 
-- contents date: **03-11-98**
-- printed pages: **390–398**
-- expected PDF scans: **391–399**
-- expected source pages: **9**
-- prior boundary: PDF390 / printed p.389 closes constituent 32
-- next mapped constituent 34 begins at printed p.399 / PDF400
-- actual page heading, ending/closing note, date/venue/event/role wording, and all internal joins must be verified from source pixels during the gate
+- source range: PDF **400–407** / printed **399–406** — **8 pages**
+- slice extract pages: **21–28**
+- source gate: **PASS / COMPLETE**
+- prior boundary PDF399 / extract20: constituent 33 closes
+- opening PDF400 / extract21: constituent **34**, heading verified
+- all **7/7** internal joins: **PASS**
+- ending PDF407 / extract28: speech ending + separate closing note
+- next boundary PDF408 / extract29: constituent 35 `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` begins
+- closing note: `15-11-98 அன்று அய்யணன் அம்பலம் படத்தை திறந்து வைத்து ஆற்றிய உரை`
+- date / event / role: **1998-11-15 / அய்யணன் அம்பலம் படத்திறப்பு விழா / படத்தை திறந்து வைத்து ஆற்றிய உரை**
+- venue: **not explicitly stated in closing note; do not infer**
+- page-heading event title `படத்திறப்பு விழா` and closing-note action `படத்தை திறந்து வைத்து` are preserved separately
+- duplicate unresolved: **0**
+- boundary unresolved: **0**
+- Tamil T1: **READY / NOT STARTED**
 
 ## Exact activity
 
-Perform **source / duplicate / boundary gate for constituent 33 only — expected PDF 391–399 / printed 390–398, 9 pages**.
+Perform **Tamil T1 first-pass transcription for constituent 33 — all 9 pages, PDF 391–399 / printed 390–398 / slice extract 12–20**.
 
-Required checks:
-
-1. inspect PDF390 / printed p.389 as the prior-boundary witness;
-2. inspect PDF391 and verify constituent number / actual page heading;
-3. inspect every candidate scan PDF391–399 for continuity and all eight internal joins;
-4. inspect PDF399 for speech ending and separate closing note;
-5. inspect PDF400 as the next-boundary witness for constituent 34;
-6. establish source-backed date / venue / event / role from the closing note;
-7. preserve any contents / page-heading / closing-note wording or spacing variants separately;
-8. check live `main` for any existing dedicated archive / duplicate;
-9. record duplicate unresolved and boundary unresolved explicitly;
-10. create/synchronize the constituent control files only after the source identity and range are established;
-11. do **not** commit the source PDF.
+Use only the attached user-supplied slice. Preserve source spelling, punctuation, names, quotations, repetitions, applause/laughter markers and page boundaries. Keep the separate source closing note outside the speech body. Record explicit unreadable/unknown placeholders if any; do not silently normalize source forms.
 
 ## STOP RULE
 
-Stop after constituent 33 source / duplicate / boundary gate. **Do not begin Tamil T1 in the same activity.**
+Stop after constituent 33 Tamil T1. **Do not begin T2 or constituent 34 Tamil T1 in the same activity unless the user explicitly broadens scope.**
