@@ -8,7 +8,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 - mappings: **36 / 36 complete**
 - speech archives started / source-gated: **29 / 36**
-- Tamil T1 complete: **28 / 36**
+- Tamil T1 complete: **29 / 36**
 - Tamil T2 complete: **28 / 36**
 - Tamil T3 complete / Tamil verified: **28 / 36**
 - English E1 complete: **28 / 36**
@@ -131,6 +131,12 @@ Collection state: mapped **36/36**; source-gated **28/36**; Tamil verified **28/
 
 Collection state: mapped **36/36**; source-gated **29/36**; Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — Tamil T1 complete
+
+**COMPLETE — 8/8 source pages.** Canonical page records cover PDF **343–350** / printed **342–349**; missing records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body. Title/action wording remains separately preserved. Explicit continuations and source-sensitive T2 attention are recorded in the constituent transcript.
+
+Collection state: source-gated **29/36**; Tamil T1 **29/36**; Tamil T2/T3 / Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 29 — all 8 source pages, PDF 343–350 / printed 342–349.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 29 — all 8 source pages.** Stop before T3 / constituent 30.
