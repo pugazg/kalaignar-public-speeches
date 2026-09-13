@@ -110,6 +110,16 @@ All PDF **343–350** scans were checked directly against the controlling source
 - unresolved English issues: **0**;
 - English state: **`verified-complete`**.
 
-## Exact next gate
+## Repository closure
 
-**Repository closure for constituent 29.**
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **3 corrections / 0 additional source corrections + 0 consolidation repairs**; unresolved **0**;
+- English E2 / E3: **5 / 1**; unresolved **0**;
+- PDF **343–350** / printed **342–349**: **PASS**;
+- canonical Tamil / English page order / all seven joins: **PASS**;
+- title/action distinction, Periyar/Anna/Gandhi passages, Ganapathi recollection, quantities, Bharathi quotations and separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
