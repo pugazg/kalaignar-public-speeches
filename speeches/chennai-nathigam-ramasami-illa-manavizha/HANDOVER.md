@@ -34,6 +34,20 @@ Tamil T1: **COMPLETE — 8/8 source pages**.
 - separate closing note remains outside the speech body;
 - source-sensitive T2 attention is recorded in `transcription-ta.md`.
 
+## Durable Tamil T2 result
+
+Tamil T2: **PASS / COMPLETE — 8/8 source pages; 3 corrections; 0 unresolved**.
+
+- PDF366: `அதிகே கூட` → `அதிலே கூட`;
+- PDF367: `பகுத்தறிவு வாதிகள்` → `பகுத்தறிவுவாதிகள்`;
+- PDF368: `தெய்வம் உண்மையென்று காண்றில் வேணும்` → `தெய்வம் உண்மையென்று தானறிதல் வேணும்`;
+- all 8 scans / 7 joins: **PASS**;
+- canonical records: complete / unique / ordered;
+- source-sensitive rhetoric / numerals / quotations / names / `பெட்ரோமாக்ஸ்` / applause marker / separate closing note: **PASS**;
+- unresolved: **0**.
+
+Tamil T3 is **READY / NOT STARTED**. Tamil is not yet frozen.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit for constituent 31 — all 8 pages.**
+**Tamil T3 consolidation / freeze for constituent 31 — all 8 pages.**
