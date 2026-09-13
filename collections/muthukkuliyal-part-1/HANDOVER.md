@@ -50,6 +50,17 @@ For a constituent spanning a split, verify all supplied pages now and carry only
 5. **ஏழையின் சிரிப்பில்** — PDF57–63 — Tamil + English verified — **FULLY ARCHIVED**.
    - closing note: **1969-11-27 / சண்டிகார் / குருநானக் 500-ஆவது ஆண்டு பிறந்த தின விழா / ஆற்றிய உரை**.
 
+## C4 repair checkpoint
+
+`கம்பர் விழா (2)` remains **CLOSED / FULLY ARCHIVED**, with closure **REVALIDATED** after one post-closure fidelity repair.
+
+- affected source: PDF **53–56** / printed **52–55**;
+- omitted PDF54 / printed53 restored;
+- shifted PDF55–56 boundaries corrected;
+- visible source parenthetical verse forms restored;
+- final page structure: **Tamil 15/15 / English 15/15**;
+- unresolved: **0**.
+
 ## Active constituent 6 — `கலை வளர்ப்போம்`
 
 - provisional full range — PDF **64–69** / printed **63–68**;
