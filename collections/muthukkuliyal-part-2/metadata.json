@@ -39,7 +39,7 @@
     "constituent_items_t2_complete": 28,
     "constituent_items_t3_complete": 28,
     "constituent_items_tamil_verified": 28,
-    "constituent_items_e1_complete": 27,
+    "constituent_items_e1_complete": 28,
     "constituent_items_e2_complete": 27,
     "constituent_items_e3_complete": 27,
     "constituent_items_archived": 27,
@@ -48,7 +48,7 @@
     "active_constituent_number": 28,
     "active_constituent_slug": "chennai-thiraiyulagam-nadathiya-paarattu-vizha",
     "active_constituent_title_ta": "சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா",
-    "active_constituent_status": "tamil-verified-e1-pending",
+    "active_constituent_status": "e1-complete-e2-pending",
     "active_constituent_pdf_pages": "331-342",
     "active_constituent_printed_pages": "330-341",
     "active_constituent_pages_total": 12,
@@ -62,9 +62,9 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "english-e1",
+    "active_batch_gate": "english-e2",
     "next_constituent_number": 28,
-    "next_gate": "English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages",
+    "next_gate": "English E2 page-by-page fidelity review for constituent 28 — all 12 pages",
     "constituent_items_english_verified": 27,
     "active_batch_t1_pages_completed": 12,
     "active_batch_t1_unreadable_or_unknown": 0,
@@ -74,6 +74,8 @@
     "active_batch_t3_pages_completed": 12,
     "active_batch_t3_additional_corrections": 0,
     "active_batch_t3_consolidation_repairs": 1,
-    "active_batch_t3_unresolved": 0
+    "active_batch_t3_unresolved": 0,
+    "active_batch_e1_pages_completed": 12,
+    "active_batch_frozen_tamil_changes_during_e1": 0
   }
 }
