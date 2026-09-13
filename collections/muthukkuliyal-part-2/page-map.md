@@ -79,22 +79,22 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 31 | `chennai-nathigam-ramasami-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 33 | `chennai-thiripura-orumaippattu-thina-koottam` | **Source-gated / Tamil T1 ready** |
-| 34 | `ayyanan-ambalam-padathirappu-vizha` | **Source-gated / Tamil T1 ready** |
+| 33 | `chennai-thiripura-orumaippattu-thina-koottam` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
+| 34 | `ayyanan-ambalam-padathirappu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 35–36 | — | not started |
 
 ## Current processing status
 
 - mapped: **36/36**
 - started / source-gated: **34/36**
-- Tamil T1 complete: **32/36**
-- Tamil T2 complete: **32/36**
-- Tamil T3 complete / Tamil verified: **32/36**
-- English E1 complete: **32/36**
-- English E2 complete: **32/36**
-- English E3 complete / English verified: **32/36**
-- fully archived: **32/36**
-- constituents **1–32: CLOSED / FULLY ARCHIVED**
+- Tamil T1 complete: **34/36**
+- Tamil T2 complete: **34/36**
+- Tamil T3 complete / Tamil verified: **34/36**
+- English E1 complete: **34/36**
+- English E2 complete: **34/36**
+- English E3 complete / English verified: **34/36**
+- fully archived: **34/36**
+- constituents **1–34: CLOSED / FULLY ARCHIVED**
 
 | # | Archive slug | Status |
 |---:|---|---|
@@ -380,12 +380,18 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 
 ## Current batch status
 
-The unverified constituent 33 T1 draft was reverted. Both source-gated items remain **Tamil T1 ready / not started**:
+Constituents **33–34 are CLOSED / FULLY ARCHIVED**.
 
-- **33** — 9 pages, PDF **391–399** / printed **390–398**;
-- **34** — 8 pages, PDF **400–407** / printed **399–406**;
-- canonical T1 pages committed: **0/17**.
+- **33** `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்` — PDF **391–399** / printed **390–398** — Tamil + English **verified-complete**, fully archived.
+- **34** `அய்யணன் அம்பலம் படத்திறப்பு விழா` — PDF **400–407** / printed **399–406** — Tamil + English **verified-complete**, fully archived.
+- English E1/E2/E3 complete: **17/17 pages** across the batch.
+- English E2 corrections: **0**; E3 additional corrections: **0**; unresolved: **0**.
+- closure speech-body changes: Tamil **0**, English **0**.
+- source binaries remain uncommitted.
 
 ## Next activity
 
-Tamil T1 first-pass transcription for **constituents 33 and 34 together — 17 pages total**, PDF **391–407** / printed **390–406**.
+Source / duplicate / boundary gates for **constituents 35 and 36 together — 17 pages total**, PDF **408–424** / printed **407–423**.
+
+- **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா` — contents date **22-11-98**, printed **407–414**, PDF **408–415**, **8 pages**.
+- **36** `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா` — contents date **26-11-98**, printed **415–423**, PDF **416–424**, **9 pages**.
