@@ -10,7 +10,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - speech archives started / source-gated: **34 / 36**
 - Tamil T1 complete: **34 / 36**
 - Tamil T2 complete: **34 / 36**
-- Tamil T3 complete / Tamil verified: **32 / 36**
+- Tamil T3 complete / Tamil verified: **34 / 36**
 - English E1 complete: **32 / 36**
 - English E2 complete: **32 / 36**
 - English E3 complete / English verified: **32 / 36**
@@ -411,17 +411,19 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **33–34 Tamil T1 and T2 are COMPLETE**.
+Constituents **33–34 Tamil T3 are COMPLETE / FROZEN**.
 
-- constituent 33 — **9/9 T1**, **9/9 T2**, **2 corrections**, **0 unresolved**;
-- constituent 34 — **8/8 T1**, **8/8 T2**, **1 correction**, **0 unresolved**;
-- combined — **17/17 T1**, **17/17 T2**, **3 corrections**, **0 unresolved**;
+- constituent 33 — T3 **9/9**, **0** additional source corrections, **0** consolidation repairs, **0** unresolved;
+- constituent 34 — T3 **8/8**, **0** additional source corrections, **0** consolidation repairs, **0** unresolved;
+- combined — **17/17 T3 complete**, speech-body Tamil changes **0**;
+- all T2 corrections remain consolidated;
+- both Tamil texts are **`verified-complete` / FROZEN**;
 - source / duplicate / boundary gates remain **PASS / COMPLETE**;
 - source PDFs remain uncommitted;
-- Tamil T3 has not begun for either constituent.
+- English E1 has not begun.
 
-Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1 **34/36**; Tamil T2 **34/36**; Tamil T3 / Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1/T2/T3 / Tamil verified **34/36**; English verified **32/36**; fully archived **32/36**.
 
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituents 33 and 34 — PDF 391–407 / printed 390–406, 17 pages total.**
+**English E1 first-pass translation for constituents 33 and 34 — 17 pages total, from frozen Tamil only.**
