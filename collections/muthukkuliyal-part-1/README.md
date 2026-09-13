@@ -85,7 +85,8 @@ When a constituent crosses a split boundary, the supplied pages are verified imm
 - all **14/14** joins PASS, including cross-split **49→50**;
 - closing note — **1974-04-04 / காரைக்குடி / கம்பர் விழா / ஆற்றிய உரை**;
 - Tamil / English — **verified-complete**;
-- repository closure — **FULLY ARCHIVED**.
+- repository closure — **FULLY ARCHIVED after post-closure fidelity repair**;
+- resolved repair — omitted **PDF54 / printed p.53** restored in Tamil and English; following headings remapped to PDF55/PDF56; final page headings **15/15 / 15/15**; unresolved **0**.
 
 ### 5 — `ஏழையின் சிரிப்பில்`
 
