@@ -1,11 +1,11 @@
 # 'Isaithamizhin Unmai Varalaru' Book Release Function — English translation review
 
-**English E1:** blocked pending frozen Tamil  
+**English E1:** **READY / NOT STARTED**  
 **English E2:** blocked pending E1  
 **English E3:** blocked pending E2
 
-No English review work has started.
+Tamil is **`verified-complete` / FROZEN**. English must use frozen `transcription-ta.md` only.
 
 ## Exact next gate
 
-Tamil T1 first-pass transcription.
+**English E1 first-pass translation — all 13 pages.**
