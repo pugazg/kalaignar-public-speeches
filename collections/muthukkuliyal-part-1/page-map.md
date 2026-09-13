@@ -9,6 +9,7 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_001_pages_1-17.pdf` | **1–17** | **17** | **48,686,831** | `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d` | **INSPECTED / PASS** |
 | `part_002_pages_18-33.pdf` | **18–33** | **16** | **47,901,860** | `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861` | **INSPECTED / PASS** |
 | `part_003_pages_34-49.pdf` | **34–49** | **16** | **48,934,218** | `a5b47180a171b161f45d6c796ef5c90d5f1a66478191fdc36401dc5d69f41549` | **INSPECTED / PASS** |
+| `part_004_pages_50-65.pdf` | **50–65** | **16** | **46,954,298** | `6848c3cd48611d60294215dd42aacd263fb0941c6b267e1efad4256edc1bbf2b` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -28,7 +29,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF49 / printed p.48.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF65 / printed p.64.
 
 ## Contents inventory — 61 constituents
 
@@ -36,12 +37,12 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 
 | # | Contents title | Date in contents | Printed start | Provisional printed range | Provisional PDF scans |
 |---:|---|---|---:|---:|---:|
-| 1 | வள்ளுவர் வழி எது? | 04-10-1972 | 17 | **17–27 VERIFIED** | **18–28 VERIFIED** |
-| 2 | வள்ளுவர்க்கோர் ஆலயம் | 27-04-1973 | 28 | **28–31 VERIFIED** | **29–32 VERIFIED** |
-| 3 | கம்பர் விழா (1) | ஏப்ரல்,1969 | 32 | **32–40 VERIFIED** | **33–41 VERIFIED** |
-| 4 | கம்பர் விழா (2) | 04-04-1974 | 41 | 41–55 | 42–56 (**PDF42–49 inspected; opening verified**) |
-| 5 | ஏழையின் சிரிப்பில் | 27-11-1969 | 56 | 56–62 | 57–63 |
-| 6 | கலை வளர்ப்போம் | 30-03-1974 | 63 | 63–68 | 64–69 |
+| 1 | **வள்ளலார் வழி எது?** | 04-10-1972 | 17 | **17–27 VERIFIED / CLOSED** | **18–28 VERIFIED / CLOSED** |
+| 2 | வள்ளுவர்க்கோர் ஆலயம் | 27-04-1973 | 28 | **28–31 VERIFIED / CLOSED** | **29–32 VERIFIED / CLOSED** |
+| 3 | கம்பர் விழா (1) | ஏப்ரல்,1969 | 32 | **32–40 VERIFIED / CLOSED** | **33–41 VERIFIED / CLOSED** |
+| 4 | கம்பர் விழா (2) | 04-04-1974 | 41 | **41–55 VERIFIED / CLOSED** | **42–56 VERIFIED / CLOSED** |
+| 5 | ஏழையின் சிரிப்பில் | 27-11-1969 | 56 | **56–62 VERIFIED / CLOSED** | **57–63 VERIFIED / CLOSED** |
+| 6 | கலை வளர்ப்போம் | 30-03-1974 | 63 | 63–68 | 64–69 (**PDF64–65 T2-VERIFIED; tail pending**) |
 | 7 | உமாமகேஸ்வரனார் | 13-04-1973 | 69 | 69–72 | 70–73 |
 | 8 | இலக்குவனார் | 18-11-1973 | 73 | 73–81 | 74–82 |
 | 9 | பயிற்று மொழி | 17-11-1973 | 82 | 82–87 | 83–88 |
@@ -101,13 +102,20 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **3/39**;
-- original-scan coverage received: **1–49 / 641**;
-- split continuity: **PASS — 1–49 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan 49**;
-- constituent source gates: **3/61 COMPLETE**;
-- constituent 4 opening: **PDF42 / printed p.41 VERIFIED**;
-- constituent 4 inspected coverage: **PDF42–49 / printed 41–48 — 8 pages**;
-- constituent 4 closing boundary: **pending next split**;
-- terminal end for constituent 61: **pending final split**;
-- transcription: **NOT STARTED**.
+- source splits received: **4/39**;
+- original-scan coverage received: **1–65 / 641**;
+- split continuity: **PASS — 1–65 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan65**;
+- constituent source gates: **5/61 COMPLETE**;
+- Tamil verified: **5/61**;
+- English verified: **5/61**;
+- fully archived: **5/61**;
+- constituent 1 intake title correction: **வள்ளலார் வழி எது?**;
+- constituent 6 opening: **PDF64 / printed p.63 VERIFIED**;
+- constituent 6 durable coverage: **PDF64–65 / printed63–64 — T1/T2 complete for 2 pages**;
+- constituent 6 closing boundary: **pending PDF66–69**;
+- terminal end for constituent 61: **pending final split**.
+
+## Current next gate
+
+Next split must begin at **PDF66**. Finish constituent 6 `கலை வளர்ப்போம்` through PDF69, then T3/freeze → English E1/E2/E3 → closure. Continue later fully bounded constituents in that same split through closure.
