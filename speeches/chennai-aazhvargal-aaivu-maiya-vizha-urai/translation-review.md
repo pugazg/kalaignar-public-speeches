@@ -2,7 +2,7 @@
 
 **English E1:** **COMPLETE — 20/20 pages**  
 **English E2:** **PASS / COMPLETE — 20/20 pages; 8 corrections; 0 unresolved**  
-**English E3:** **READY / NOT STARTED**
+**English E3:** **PASS / COMPLETE — 20/20 pages; 2 additional corrections; 0 unresolved**
 
 Tamil remains **`verified-complete` / FROZEN**. English E2 independently compared all twenty English page records against frozen `transcription-ta.md`. All confirmed E2 corrections are consolidated in `translation-en.md`; frozen Tamil changes during E2: **0**.
 
@@ -56,6 +56,39 @@ Tamil remains **`verified-complete` / FROZEN**. English E2 independently compare
 - separate source closing note: **PASS**;
 - frozen Tamil changes during E2: **0**.
 
+## E3 final verification
+
+**PASS / COMPLETE — 20/20 pages; 2 additional corrections; 0 unresolved.**
+
+All **8/8** E2 corrections remain consolidated. E3 identified two final wording issues:
+
+1. **PDF295 / printed p.294 — honorific formatting**  
+   E2: `Dr. Mrs. Radha Thiagarajan`  
+   Corrected: **`Dr. (Mrs.) Radha Thiagarajan`**  
+   Reason: preserves both source honorifics while avoiding unidiomatic English.
+
+2. **PDF296 / printed p.295 — idiomatic source sense**  
+   E2: `To go further`  
+   Corrected: **`If I were to say more`**  
+   Reason: restores the sense of `இன்னும் சொல்லப் போனால்`.
+
+Final end-to-end result:
+
+- English pages checked: **20/20**;
+- missing / duplicate page records: **0 / 0**;
+- all **8/8** E2 corrections remain consolidated;
+- stale superseded speech-body readings: **0**;
+- semantic completeness / page correspondence / recorded joins: **PASS**;
+- names / honorifics / numerals, rhetoric / repetition and quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- chronology / numeral forms: **PASS**;
+- laughter / applause markers: **PASS**;
+- contents / page-heading / closing-note title distinctions: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E3: **0**;
+- unresolved English issues: **0**;
+- final English state: **`verified-complete`**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 26 — all 20 pages.**
+**Repository-level archival closure for constituent 26.**
