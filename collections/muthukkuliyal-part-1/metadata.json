@@ -1,0 +1,77 @@
+{
+  "id": "muthukkuliyal-part-1",
+  "title": {
+    "ta": "முத்துக் குளியல்",
+    "part_text": "பாகம் - I"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "role": "author / speaker collection"
+  },
+  "document_type": "multi-speech-collection",
+  "language": "ta",
+  "subject_source_text": "சொற்பொழிவுகளின் தொகுப்பு",
+  "publication": {
+    "publisher_ta": "பூம்புகார் பதிப்பகம்",
+    "publisher_address_source_text": "63, பிரகாசம் சாலை (பிராட்வே), சென்னை - 600 108",
+    "publication_number": 450,
+    "first_edition_source_text": "முதற் பதிப்பு : மே 2000",
+    "production_time_source_text": "காலம் : ஜூன் 2000",
+    "price_text": "ரூ. 200/-",
+    "print_run": 2000,
+    "format_source_text": "14 x 21 C.M.",
+    "type_size_source_text": "14 புள்ளி",
+    "rights_source_text": "உரிமை : ஆசிரியருக்கே",
+    "printer_source_text": "ஈகிள் பிரஸ், சென்னை - 13",
+    "month_note": "The source itself gives 'முதற் பதிப்பு : மே 2000' on scan 3 and 'காலம் : ஜூன் 2000' on scan 5; both are preserved without harmonization."
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "original_file_size_user_approx": "1.82 GB",
+    "original_binary_attached": false,
+    "original_binary_committed": false,
+    "original_sha256": null,
+    "split_count_user_confirmed": 39,
+    "controlling_authority": "rendered scan pixels from user-supplied exact-range splits",
+    "parsed_text_layer": "none",
+    "splits": [
+      {
+        "split_number": 1,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_001_pages_1-17.pdf",
+        "original_pdf_scan_start": 1,
+        "original_pdf_scan_end": 17,
+        "pages": 17,
+        "bytes": 48686831,
+        "sha256": "fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d",
+        "status": "inspected-pass",
+        "binary_committed": false
+      }
+    ]
+  },
+  "workflow": {
+    "source_inspection": "in-progress",
+    "split_intake_received": 1,
+    "split_intake_expected": 39,
+    "original_scans_received_through": 17,
+    "contents_capture_state": "complete",
+    "constituent_items_total": 61,
+    "constituent_items_contents_captured": 61,
+    "page_map_state": "provisional-from-contents",
+    "printed_to_pdf_offset_observed_frontmatter": 1,
+    "body_offset_status": "provisional-pending-scan-18-verification",
+    "constituent_items_started": 0,
+    "constituent_items_source_gated": 0,
+    "constituent_items_t1_complete": 0,
+    "constituent_items_t2_complete": 0,
+    "constituent_items_t3_complete": 0,
+    "constituent_items_tamil_verified": 0,
+    "constituent_items_e1_complete": 0,
+    "constituent_items_e2_complete": 0,
+    "constituent_items_e3_complete": 0,
+    "constituent_items_english_verified": 0,
+    "constituent_items_archived": 0,
+    "transcription_started": false,
+    "next_gate": "Ingest the next split beginning at original scan 18; verify constituent 1 opening and body PDF=printed+1 mapping. Continue source intake only; do not start transcription."
+  }
+}
