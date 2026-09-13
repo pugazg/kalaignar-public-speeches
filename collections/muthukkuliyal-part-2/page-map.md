@@ -79,12 +79,14 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 31 | `chennai-nathigam-ramasami-illa-manavizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 33–36 | — | not started |
+| 33 | `chennai-thiripura-orumaippattu-thina-koottam` | **Source-gated / Tamil T1 ready** |
+| 34 | `ayyanan-ambalam-padathirappu-vizha` | **Source-gated / Tamil T1 ready** |
+| 35–36 | — | not started |
 
 ## Current processing status
 
 - mapped: **36/36**
-- started / source-gated: **32/36**
+- started / source-gated: **34/36**
 - Tamil T1 complete: **32/36**
 - Tamil T2 complete: **32/36**
 - Tamil T3 complete / Tamil verified: **32/36**
@@ -368,6 +370,14 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 - Closure speech-body changes: Tamil **0**, English **0**.
 - All **18** joins and source-sensitive checks: **PASS**.
 
+## Constituents 33–34 — source gates
+
+- **33** `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`: **PASS / COMPLETE — 9/9**, PDF **391–399** / printed **390–398**, all **8** joins PASS, duplicate/boundary unresolved **0/0**.
+- **34** `அய்யணன் அம்பலம் படத்திறப்பு விழா`: **PASS / COMPLETE — 8/8**, PDF **400–407** / printed **399–406**, all **7** joins PASS, duplicate/boundary unresolved **0/0**.
+- PDF408 begins constituent **35** `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`.
+- constituent 34 venue remains **not explicit / not inferred**.
+- source / derivative binaries remain uncommitted.
+
 ## Next activity
 
-Constituent **33** — source / duplicate / boundary gate — **9 pages**, PDF **391–399** / printed **390–398**.
+Constituent **33** — Tamil T1 first-pass transcription — **9 pages**, PDF **391–399** / printed **390–398**. Constituent **34** remains Tamil T1-ready.
