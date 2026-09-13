@@ -36,9 +36,10 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
 | Tamil T2 strict direct-scan audit | **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved** |
 | Tamil T3 consolidation/freeze | **PASS / COMPLETE — 16/16; 0 additional corrections; 0 unresolved** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending E1/E2 |
-| Repository closure | not started |
+| English E1 | **COMPLETE — 16/16** |
+| English E2 fidelity review | **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved** |
+| English E3 final verification | **PASS / COMPLETE — 16/16; 2 additional corrections; 0 unresolved** |
+| Repository closure | **PASS / COMPLETE — FULLY ARCHIVED** |
 
 ## Tamil T1
 
@@ -73,6 +74,20 @@ Tamil T3 is **READY / NOT STARTED**.
 
 Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED**.
 
-## Exact next gate
+## English E1
 
-**English E1 first-pass translation for constituent 27 — all 16 verified Tamil pages.**
+**COMPLETE — 16/16 pages.** Translation authority was frozen `transcription-ta.md` only. English page records are complete and ordered; missing records **0**. Page correspondence, rhetoric / repetition / quotation structure, applause / laughter markers, source-sensitive names/forms, chronology/numerals, the Tamil poem, Exnora `X / N,O / R,A` wordplay, title distinctions and the separate closing note were retained. Frozen Tamil changes during E1: **0**.
+
+## English E2
+
+**PASS / COMPLETE — 16/16 pages; 6 corrections; 0 unresolved.** The fidelity pass removed one unsupported interpretive gloss, removed one added metaphor, restored the frozen-Tamil `ஓமாந்தூர்` transliteration in two places, restored the source honorific `Annai`, and preserved the source’s explicit classification of the Cooum / Buckingham Canal / Adyar set as `three rivers`. Frozen Tamil changes during E2: **0**.
+
+## English E3
+
+**PASS / COMPLETE — 16/16 pages; 2 additional corrections; 0 unresolved.** E3 restored the broader causal scope of the Seshan sentence on PDF317 and tightened the Puranic-storyteller / `போதாத காலம்` sentence on PDF327. English is now **`verified-complete`**. Frozen Tamil changes during E3: **0**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.** Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**. Source range, page order / joins, correction counts, metadata, audit trail, translation review, title distinctions, Tamil poem, Exnora wordplay and separate closing note agree. Root catalogue synchronization is complete. Closure introduced **0 Tamil and 0 English speech-body changes**. The source PDF remains uncommitted per repository policy.
+
+No transcription or translation work remains pending for constituent 27.
