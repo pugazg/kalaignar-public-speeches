@@ -360,3 +360,10 @@ Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 addition
 The archival workflow is complete for constituent **26 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **295–314** / printed pages **294–313**. The separate closing note establishes **12.09.1998**, venue **சென்னை**, event `ஆழ்வார்கள் ஆய்வு மைய விழா`, and role `ஆற்றிய உரை`.
 
 Tamil is **`verified-complete` / FROZEN** with **2 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **8 E2 corrections / 2 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive transliterations and unusual source forms without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
+
+
+### சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா
+
+The archival workflow is complete for constituent **27 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **315–330** / printed pages **314–329**. The separate closing note establishes **26.09.1998**, venue **சென்னை**, event `எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`, and role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **6 T2 corrections / 0 T3 additional corrections / 0 unresolved**. English is **`verified-complete`** with **6 E2 corrections / 2 E3 additional corrections / 0 unresolved**. The English layer preserves source-sensitive transliterations, the Tamil poem, and the Exnora **X / N,O / R,A** wordplay without outside normalization. Repository-level closure is complete; no transcription or translation work remains pending.
