@@ -36,6 +36,24 @@
 - method: direct visual reading of the controlling scans;
 - this is T1 only; no T2 fidelity claim is made.
 
+## Tamil T2 — strict direct-scan fidelity audit
+
+**PASS / COMPLETE — 19/19 source pages; 3 corrections; 0 unresolved.**
+
+Corrections:
+1. PDF383 / p.382: `அவரே இராவணனாக நடித்து தமிழகமெங்கும்` → `அவரே இராவணனாக நடித்துத் தமிழகமெங்கும்`.
+2. PDF386 / p.385: `நானே வரிகளில் ஒரு கவிதை` → `நான்கே வரிகளில் ஒரு கவிதை`.
+3. PDF390 / p.389: `‘உன் திருமணத்திற்கு’ என்பதற்குப் பதிலாக ‘உன் திருமணத்திற்கு’` → `‘உன் திருமணத்திற்கு’ என்பதற்குப் பதிலாக ‘உன் திருணமத்திற்கு’`.
+
+- direct source scans checked: **19/19**;
+- canonical records complete / unique / ordered: **19/19**;
+- missing / duplicate: **0 / 0**;
+- all eighteen joins: **PASS**;
+- embedded poems / lineation / source-sensitive names / quotations: **PASS**;
+- `நீதி தேவன் மயக்கம்` / Nehru / Srinivasa Iyengar / `தென்னவன் காதை`: **PASS**;
+- applause markers / title-spacing variants / separate closing note: **PASS**;
+- unresolved: **0**.
+
 ## Exact next gate
 
-**Tamil T2 strict direct-scan fidelity audit — all 19 source pages.**
+**Tamil T3 consolidation / freeze — all 19 source pages.**
