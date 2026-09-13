@@ -15,9 +15,9 @@
 - Tamil T1 complete: **34/36**
 - Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **34/36**
-- English E1/E2/E3 complete / English verified: **32/36**
-- fully archived: **32/36**
-- constituents **1–32: CLOSED / FULLY ARCHIVED**
+- English E1/E2/E3 complete / English verified: **34/36**
+- fully archived: **34/36**
+- constituents **1–34: CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27 source / duplicate / boundary gate
 
@@ -744,34 +744,49 @@ Source-sensitive punctuation, quotations, repetitions, applause markers, names, 
 
 **PASS / COMPLETE — 17/17 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
 
+- constituent 33: **9/9**, Tamil **`verified-complete` / FROZEN**;
+- constituent 34: **8/8**, Tamil **`verified-complete` / FROZEN**;
+- all T2 corrections remain consolidated;
+- speech-body Tamil changes during T3: **0**.
+
+## Constituents 33–34 — English E1 / E2 / E3
+
+**PASS / COMPLETE — 17/17 English page records; 0 unresolved.**
+
 ### Constituent 33
-- T3: **9/9 PASS / COMPLETE**;
-- all **2/2** T2 corrections remain consolidated;
-- canonical records: **9/9**, complete / unique / ordered;
-- all **8/8** joins: **PASS**;
-- stale superseded T1 body readings: **0**;
-- speech-body Tamil changes during T3: **0**;
-- Tamil: **`verified-complete` / FROZEN**.
+- E1: **COMPLETE — 9/9**;
+- E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- all **8/8** joins / resolution quotations / rhetoric / names / numerals / applause markers / separate closing note: **PASS**;
+- English: **`verified-complete`**.
 
 ### Constituent 34
-- T3: **8/8 PASS / COMPLETE**;
-- the **1/1** T2 correction remains consolidated;
-- canonical records: **8/8**, complete / unique / ordered;
-- all **7/7** joins: **PASS**;
-- venue non-inference / title-action distinction / separate closing note: **PASS**;
-- speech-body Tamil changes during T3: **0**;
-- Tamil: **`verified-complete` / FROZEN**.
+- E1: **COMPLETE — 8/8**;
+- E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- all **7/7** joins / caste-body imagery / tiger-deer imagery / Pasumpon Thevar quotation / title-action distinction / venue non-inference / separate closing note: **PASS**;
+- English: **`verified-complete`**.
 
-## Collection totals after constituents 33–34 Tamil T3
+Frozen Tamil changes during E1/E2/E3: **0 / 0 / 0** for both constituents.
+
+## Constituents 33–34 — repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 17/17 pages total.**
+
+- Tamil / English states: **verified-complete** for both;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source binaries remain uncommitted;
+- no transcription or translation work remains pending for constituents 33–34.
+
+## Collection totals after constituents 33–34 closure
 
 - mapped: **36/36**;
 - source-gated: **34/36**;
-- Tamil T1 complete: **34/36**;
-- Tamil T2 complete: **34/36**;
-- Tamil T3 complete / Tamil verified: **34/36**;
-- English verified: **32/36**;
-- fully archived: **32/36**.
+- Tamil verified: **34/36**;
+- English verified: **34/36**;
+- fully archived: **34/36**;
+- constituents **1–34: CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 33 and 34 — 17 pages total, frozen Tamil authority only.**
+**Source / duplicate / boundary gates for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total.**
