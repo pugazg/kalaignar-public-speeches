@@ -600,6 +600,30 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - fully archived: **30/36**;
 - constituent **32** remains Tamil T3-ready.
 
+## Constituent 31 — English E1 / E2 / E3
+
+- E1: **COMPLETE — 8/8**; frozen Tamil authority only.
+- E2: **PASS / COMPLETE — 8/8; 2 corrections; 0 unresolved**.
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**.
+- E2 corrections:
+  - PDF368→369 source-name/title form preserved as `Moovalur Moothatti Ramamirtham Ammaiyar`;
+  - PDF370 unsupported `from the crowd` removed.
+- All **2/2** E2 corrections remain consolidated.
+- English page records: **8/8**, complete / unique / ordered.
+- All **7** joins: **PASS**.
+- Rhetoric / repetition / quotation structure / `vaa` / `vaa...r` contrast / numerals / Bharathi quotations / historical names / `Petromax` / applause marker / separate closing note: **PASS**.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- English state: **`verified-complete`**.
+- Repository closure: **PENDING**.
+
+## Collection totals after constituent 31 English E3
+
+- mapped / source-gated: **36/36 / 32/36**;
+- Tamil verified: **31/36**;
+- English verified: **31/36**;
+- fully archived: **30/36**;
+- constituent **32** remains Tamil T3-ready.
+
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 31 — all 8 pages from frozen Tamil only.**
+**Repository closure for constituent 31.**
