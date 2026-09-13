@@ -646,6 +646,30 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - constituents **1–31: CLOSED / FULLY ARCHIVED**;
 - constituent **32: Tamil T3-ready**.
 
+## Constituent 32 — Tamil T3 / English E1-E3 / repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 19/19 pages.**
+
+- Tamil T3: **19/19; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- Tamil state: **`verified-complete` / FROZEN**;
+- English E1: **19/19 COMPLETE**;
+- English E2: **19/19; 7 corrections; 0 unresolved**;
+- English E3: **19/19; 1 additional correction; 0 unresolved**;
+- English state: **`verified-complete`**;
+- frozen Tamil changes E1/E2/E3: **0 / 0 / 0**;
+- all **18** joins / embedded poems / quotations / source-sensitive names / historical-literary references / applause markers / printed typo contrast / title variants / separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+## Collection totals after constituent 32 closure
+
+- mapped: **36/36**;
+- source-gated: **32/36**;
+- Tamil verified: **32/36**;
+- English verified: **32/36**;
+- fully archived: **32/36**;
+- constituents **1–32: CLOSED / FULLY ARCHIVED**.
+
 ## Exact next gate
 
-**Constituent 32 Tamil T3 consolidation / freeze — PDF 372–390 / printed 371–389, 19 pages.**
+**Constituent 33 source / duplicate / boundary gate — PDF 391–399 / printed 390–398, 9 pages.**
