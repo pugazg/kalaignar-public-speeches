@@ -258,10 +258,31 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verifi
 - Source range / page order / all 12 joins / source-sensitive names and musical terminology / quotations / `yazh` / `gamakam` / Tamil Thai / Bharathidasan / `Thuppariyum Sambu` / Tirukkural / source English phrases / applause-laughter markers / title variants / separate closing note: **PASS**.
 - Source PDF remains uncommitted.
 
-Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 remain source-gated / Tamil T1-ready**.
+Constituents **1–30 are CLOSED / FULLY ARCHIVED**. Constituents **31–32 Tamil T1 are COMPLETE / Tamil T2-ready**.
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
 
+## Constituents 31–32 — durable Tamil T1 result
+
+### Constituent 31
+- Tamil T1: **COMPLETE — 8/8**;
+- PDF **364–371** / printed **363–370**;
+- missing / unreadable-unknown placeholders: **0 / 0**;
+- all **7** joins retained;
+- separate closing note outside speech body;
+- T2: **READY / NOT STARTED**.
+
+### Constituent 32
+- Tamil T1: **COMPLETE — 19/19**;
+- PDF **372–390** / printed **371–389**;
+- missing / unreadable-unknown placeholders: **0 / 0**;
+- all **18** joins retained;
+- embedded poems / source lineation and contents/page-heading spacing variants retained;
+- separate closing note outside speech body;
+- T2: **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **32/36**; Tamil T2/T3 / Tamil verified **30/36**; English verified **30/36**; fully archived **30/36**.
+
 ## Exact next gate
 
-**Constituent 31 Tamil T1 first-pass transcription — all 8 pages, PDF 364–371 / printed 363–370.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 31 — all 8 pages.** Constituent 32 remains Tamil T2-ready.
