@@ -33,12 +33,22 @@
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED** |
-| Tamil T2 strict direct-scan audit | blocked pending T1 |
+| Tamil T1 first-pass transcription | **COMPLETE — 12/12** |
+| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | blocked pending T2 |
 | English E1/E2/E3 | blocked pending verified Tamil |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 12/12 source pages.** Canonical page records cover PDF **331–342** / printed **330–341** in source order; missing page records **0**; explicit unreadable/unknown placeholders **0**. The separate closing note remains outside the speech body, and the contents/page-heading versus closing-note spacing distinction remains preserved.
+
+Explicit page-boundary continuations flagged for T2: **332→333, 333→334, 334→335, 335→336, 336→337, 337→338, 338→339, 340→341, 341→342**.
+
+T2 source-sensitive attention includes the Anna / Anjugam anecdote; Sivaji recollections; names and titles; numerals **45-46 / 75 / 50 / 26 / 4000 / 20 / 27**; the cheque amount `ஒரு லட்சத்து பதினோராயிரத்து நூற்றி பதினொன்று`; `My Dear Old Man, How are you`; Bharathidasan’s quotation; applause/laughter markers; and unusual source wording / spacing.
+
+This is a first-pass layer, not yet a final fidelity claim. Source pixels remain controlling.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription — PDF 331–342 / printed 330–341, all 12 pages.**
+**Tamil T2 strict direct-scan fidelity audit for constituent 28 — all 12 source pages.**
