@@ -157,6 +157,12 @@ Collection state: source-gated **29/36**; Tamil T1/T2/T3 / Tamil verified **29/3
 
 Collection state: Tamil verified **29/36**; English E1 **29/36**; English E2/E3 / English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — English E2 complete
+
+**PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved.** E2 removed one unsupported burial gloss, restored explicit source dual-movement wording, removed unsupported `perhaps`, removed unsupported `many`, and restored `சுக துக்கங்களையெல்லாம்` as “all joys and sorrows.” Page correspondence / all seven joins, semantic completeness, rhetoric, quotations, source-sensitive names/forms, quantities, Bharathi quotations, title/action distinction and separate closing note all pass. Frozen Tamil changes during E2: **0**.
+
+Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 / English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 29 — all 8 English page records against frozen Tamil.** Stop before E3 / constituent 30.
+**English E3 final end-to-end verification for constituent 29 — all 8 pages.** Stop before constituent 30 / closure.
