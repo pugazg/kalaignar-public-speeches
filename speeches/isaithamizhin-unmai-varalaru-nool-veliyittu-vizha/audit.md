@@ -78,6 +78,33 @@ Corrections:
 - Tamil state: **`verified-complete` / FROZEN**;
 - T3 speech-body changes: **0**.
 
-## Exact next gate
+## English E1 / E2 / E3
 
-**English E1 first-pass translation — all 13 pages from frozen Tamil only.**
+- E1: **COMPLETE — 13/13**; frozen Tamil authority only; Tamil changes **0**.
+- E2: **PASS / COMPLETE — 13/13; 4 corrections; 0 unresolved**:
+  - PDF352 source-name forms restored;
+  - PDF353 distinct `திருவாடுதுறை` form preserved in English;
+  - PDF356 Tamil Thai quotation syntax repaired;
+  - PDF362 altered-Kural honour wording aligned.
+- E3: **PASS / COMPLETE — 13/13; 0 additional corrections; 0 unresolved**.
+- All **4/4** E2 corrections remain consolidated.
+- English page records: **13/13**, complete / unique / ordered.
+- All **12** joins: **PASS**.
+- Source-sensitive names / titles / musical terminology / `yazh` / `gamakam` / Tamil Thai / Bharathidasan / `Thuppariyum Sambu` / Tirukkural / source English phrases / applause-laughter markers / title variants / separate closing note: **PASS**.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- English state: **`verified-complete`**.
+
+## Repository closure
+
+**PASS / COMPLETE — FULLY ARCHIVED.**
+
+- Tamil T2 / T3: **5 / 0 additional source corrections + 0 consolidation repairs**;
+- English E2 / E3: **4 / 0 additional corrections**;
+- unresolved: **0**;
+- PDF **351–363** / printed **350–362**: **PASS**;
+- canonical Tamil / English page order / all twelve joins: **PASS**;
+- source-sensitive terminology / quotations / musical passages / title variants / separate closing note: **PASS**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- source PDF remains **uncommitted**.
+
+No transcription or translation work remains pending.
