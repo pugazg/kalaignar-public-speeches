@@ -13,10 +13,10 @@
 - started / source-gated: **36/36**
 - Tamil T1 complete: **36/36**
 - Tamil T2 complete: **36/36**
-- Tamil T3 complete / Tamil verified: **34/36**
-- English verified: **34/36**
-- fully archived: **34/36**
-- constituents **1–34 CLOSED / FULLY ARCHIVED**
+- Tamil T3 complete / Tamil verified: **36/36**
+- English verified: **36/36**
+- fully archived: **36/36**
+- constituents **1–36 CLOSED / FULLY ARCHIVED**
 
 ## Constituent 27
 
@@ -385,30 +385,50 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **35–36 Tamil T2 are PASS / COMPLETE**.
+Constituents **35–36 are CLOSED / FULLY ARCHIVED**.
 
 ### Constituent 35 — `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`
-- T2: **8/8 PASS / COMPLETE**;
-- corrections: **3**;
-- unresolved: **0**;
-- PDF410 `இன்னைக்கும்` → `இன்றைக்கும்`;
-- PDF412 `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
-- PDF415 `கேட்டின்ற` → `கேட்கின்ற`;
-- all **7/7** joins and source-sensitive checks: **PASS**;
-- Tamil T3: **READY / NOT STARTED**.
+- PDF **408–415** / printed **407–414** — **8/8**;
+- Tamil T2: **3 corrections / 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 8/8; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **COMPLETE — 8/8**;
+- English E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- closure speech-body changes: Tamil **0**, English **0**.
 
 ### Constituent 36 — `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா`
-- T2: **9/9 PASS / COMPLETE**;
-- corrections: **0**;
-- unresolved: **0**;
-- all **8/8** joins and source-sensitive checks: **PASS**;
-- title-spacing distinction and separate closing note: **PASS**;
-- Tamil T3: **READY / NOT STARTED**.
+- PDF **416–424** / printed **415–423** — **9/9**;
+- Tamil T2: **0 corrections / 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 9/9; 0 additional source corrections; 0 consolidation repairs; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **COMPLETE — 9/9**;
+- English E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- title-spacing distinction / terminal PDF425 non-speech boundary: **PASS**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- closure speech-body changes: Tamil **0**, English **0**.
 
-Combined final T2 batch: **17/17 pages; 3 corrections; 0 unresolved**.
+Combined final batch: **17/17 Tamil T3 complete; 17/17 English E1/E2/E3 complete; 0 English corrections; 0 unresolved**.
 
-Collection state: mapped **36/36**; source-gated **36/36**; Tamil T1/T2 **36/36**; Tamil T3 / Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
+## Collection closure
+
+**PASS / COMPLETE — FULLY ARCHIVED — 36/36 constituents.**
+
+- mapped: **36/36**;
+- source-gated: **36/36**;
+- Tamil T1: **36/36**;
+- Tamil T2: **36/36**;
+- Tamil T3 / Tamil verified: **36/36**;
+- English E1/E2/E3 / English verified: **36/36**;
+- fully archived: **36/36**;
+- constituents **1–36 are CLOSED / FULLY ARCHIVED**;
+- source PDF remains uncommitted;
+- no transcription or translation work remains pending for `முத்துக் குளியல் — பாகம் II`.
 
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituents 35 and 36 — 17 pages total, PDF 408–424 / printed 407–423.**
+**None — collection closed. Do not reopen without a new source-fidelity issue or explicit user request.**
