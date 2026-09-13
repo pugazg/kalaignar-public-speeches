@@ -1,6 +1,6 @@
 # Chennai - Nathigam Ramasami Family Wedding — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 8/8 pages**  
+**Status:** `e2-complete` — English E2 **PASS / COMPLETE — 8/8 pages; 2 corrections; 0 unresolved**  
 **Authority:** frozen `transcription-ta.md` only  
 **Source range:** PDF **364–371** / printed **363–370**
 
@@ -46,7 +46,7 @@ the national poet — the emperor among poets, Subramania Bharathi — who had b
 
 Bharathi himself said that truth is God, and that to live in reverence of that truth is equivalent to worshipping God. It was that very idea that Perarignar Anna gave the DMK as a principle and philosophy in the words, “One community, one God.” That too is a saying of Thirumoolar. From then until today, this movement has grown through opposition, lived through opposition and kept swimming against the current. That is why our dear friend continues even today to say “Nathigam Ramasami” with firm emphasis.
 
-We are carrying on this journey through immense hardship. Many of you may have heard of our elder brother Pattukkottai Azhagirisami, one of the leaders of this movement and the person who helped develop my ability to speak from a stage. Some may not know of him. In the agitation against Hindi domination, he undertook a march from Tiruchirappalli to Chennai. With him were Manavai Thirumalaisami, the elderly Moovalur
+We are carrying on this journey through immense hardship. Many of you may have heard of our elder brother Pattukkottai Azhagirisami, one of the leaders of this movement and the person who helped develop my ability to speak from a stage. Some may not know of him. In the agitation against Hindi domination, he undertook a march from Tiruchirappalli to Chennai. With him were Manavai Thirumalaisami, Moovalur Moothatti
 
 ## PDF 369 / printed p.368
 
@@ -58,7 +58,7 @@ In 1957, when Perarignar Anna contested the election, a long board was put up ri
 
 courtesy: Annadurai.” He wrote that so the board would not become invisible to everyone at night. We are people who swam against the current in that way.
 
-You may have seen a statue of Periyar near a bridge in Cuddalore. I myself unveiled it when I was Chief Minister in the past. That place has a history. Once, when Periyar was passing through that area in a procession and reached the vicinity of that bridge, footwear was thrown at him from the crowd. Everyone wanted the statue to be placed at that very spot, in memory of the place where footwear had been thrown. Periyar himself proudly took part in the unveiling of that statue and spoke about it.
+You may have seen a statue of Periyar near a bridge in Cuddalore. I myself unveiled it when I was Chief Minister in the past. That place has a history. Once, when Periyar was passing through that area in a procession and reached the vicinity of that bridge, footwear was thrown at him. Everyone wanted the statue to be placed at that very spot, in memory of the place where footwear had been thrown. Periyar himself proudly took part in the unveiling of that statue and spoke about it.
 
 The reason I recount all this is that this movement has grown by enduring abuse, insults, humiliation and vilification. We have gone to prison as well. It is only after crossing such torments and all those attacks in which people spoke degradingly about our community, our families, our relatives and even our personal way of life that this movement has grown to what it is today.
 
@@ -90,6 +90,31 @@ my dear brother Nathigam Ramasami too has contributed his labour and rendered se
 - frozen Tamil changes during E1: **0**;
 - this is an E1 first-pass translation, not yet an E2 fidelity claim.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 8/8 pages; 2 corrections; 0 unresolved.**
+
+Confirmed E2 corrections consolidated into the English translation:
+
+1. PDF368→369 / printed pp.367–368: `the elderly Moovalur Ramamirtham Ammaiyar` → **`Moovalur Moothatti Ramamirtham Ammaiyar`**, preserving the frozen Tamil's source-name/title form `மூவலூர் மூதாட்டி இராமாமிர்தம் அம்மையார்` rather than converting `மூதாட்டி` into a generic description.
+2. PDF370 / printed p.369: removed unsupported `from the crowd` from the sentence about footwear being thrown at Periyar; the frozen Tamil states only that footwear was thrown at him during the procession.
+
+E2 verification result:
+
+- pages checked: **8/8**, PDF **364–371** / printed **363–370**;
+- missing / duplicate English page records: **0 / 0**;
+- all seven page joins: **PASS**;
+- semantic completeness: **PASS**;
+- rhetoric / repetition / quotation structure: **PASS**;
+- `vaa` / `vaa...r` rhetorical contrast: **PASS**;
+- numerals `144` / `1976`: **PASS**;
+- Bharathi quotation forms: **PASS**;
+- source-sensitive historical names: **PASS / no outside normalization**;
+- `Petromax` / applause marker: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 31 — all 8 English page records against frozen Tamil.**
+**English E3 final end-to-end verification for constituent 31 — all 8 pages.**
