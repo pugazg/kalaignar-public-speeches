@@ -1,6 +1,6 @@
 # Chennai - Aazhvargal Research Centre Function Speech — English translation
 
-**Status:** `first-pass-complete` — English E1 **COMPLETE — 20/20 pages**  
+**Status:** `fidelity-corrections-consolidated` — English E2 **PASS / COMPLETE — 20/20 pages; 8 corrections; 0 unresolved**  
 **Tamil source:** frozen `transcription-ta.md` only  
 **Source range:** PDF **295–314** / printed **294–313**
 
@@ -64,7 +64,7 @@ You know this. People today may not know it. Our People’s Leader Moopanar know
 
 in an art, the old custom was for the student to stay in the guru’s own house, study and train there, and develop his skill. Accordingly, while Ramanujar was a disciple of this guru Yadava Prakasa, one day, as was customary, he had seated his guru and was rubbing oil on him. In those days, all this was a duty students had to perform for their guru.
 
-While Ramanujar was applying oil to his guru, a dispute arose between the two. Even today, researchers who study this episode criticize the fact that the guru should not have spoken about such a major subject at such a moment. Suddenly the guru cited the phrase “Kapyasam—Pundari Kaksham” and gave an explanation for it. It was a somewhat obscene explanation. While Ramanujar was rubbing oil on him, the guru looked at him and asked, “Disciple, do you know? Do you know what ‘Kapyasam, Pundarikaksham’ means?” Ramanujar said, “Tell me, Guru.”
+While Ramanujar was applying oil to his guru, a dispute arose between the two. Even today, researchers who study this episode criticize the fact that the guru should not have spoken about such a major subject at such a moment. Suddenly the guru cited the phrase “Kapyasam—Pundari Kaatcham” and gave an explanation for it. It was a somewhat obscene explanation. While Ramanujar was rubbing oil on him, the guru looked at him and asked, “Disciple, do you know? Do you know what ‘Kapyasam, Pundari Kaatcham’ means?” Ramanujar said, “Tell me, Guru.”
 
 The guru explained: “Kapyasam means kapi-asam. Kapi means monkey. Asam means the monkey’s backside.” He did not stop there. He said that when the Lord became angry, His eyes reddened, and explained “Kapyasam” as meaning that they looked like a monkey’s backside. Ramanujar could not bear it.
 
@@ -76,9 +76,9 @@ The guru asked angrily, “Then you tell me the explanation. What other explanat
 
 ## PDF 304 / printed p.303
 
-and say that he was going to Kashi. He would invite Ramanujar too; Ramanujar would come. There, in Kashi, at a suitable time while they were bathing in the Ganges, they could make him disappear in the river and later say that, while everyone was bathing, the current had carried him away. The guru himself proposed this plan and invited Ramanujar. Ramanujar agreed and went along, unaware of the conspiracy.
+and say that he was going to Kashi. He would invite Ramanujar too; Ramanujar would come. There, in Kashi, at a suitable time while they were bathing in the Ganges, they could push him into the Ganges and later say that, while everyone was bathing, the current had carried him away. The guru himself proposed this plan and invited Ramanujar. Ramanujar agreed and went along, unaware of the conspiracy.
 
-His younger mother’s son Govindan—who was also training under that guru—went with him. Halfway there, Govindan understood their plot. He took Ramanujar aside and said, “This is what they are planning to do. So you escape and run away. I alone will go back and manage by saying that you have gone somewhere.” He enabled Ramanujar to escape. Govindan alone returned to the guru and said, “He has gone somewhere.” The guru was delighted. “Where can he go in this forest? Wherever he goes, animals such as tigers and lions will take care of him. Never mind,” he thought happily. He and the others went on to Kashi and returned only after many days.
+His younger mother’s son Govindan—who was also training under that guru—went with him. Halfway there, Govindan understood their plot. He took Ramanujar aside and said, “This is what they are planning to do. So you escape and run away. I alone will go back and manage by saying that you have gone somewhere.” He enabled Ramanujar to escape. Govindan alone returned to the guru and said, “He has gone somewhere.” The guru was delighted. “Where can he go in this forest? Wherever he goes, animals such as tigers and lions will kill him. Never mind,” he thought happily. He and the others went on to Kashi and returned only after many days.
 
 On their return, when he saw Ramanujar coming toward them surrounded by disciples, while a large crowd praised and acclaimed him, the guru was stunned. This is
 
@@ -100,9 +100,9 @@ Caste is not a barrier to taking part in the path of devotion. Ramanujar proclai
 
 ## PDF 307 / printed p.306
 
-The Aazhvargal who lived before him had spoken of this. Nathamuni had thought on this basis. Uyyakondar, Alavandar, and others too had conducted themselves in this way to the extent possible to them. But the distinction of having carried this out as a religious commonwealth—as a movement itself—belongs to Ramanujar alone. That is why I read a weekly magazine today. In it, the fine writer Indira Parthasarathy has written an article about Ramanujar. He describes Ramanujar there as “the Periyar of that age.” If I said it, or if R.M.V. said it, it might not seem so fitting. In that long article in *Kanaiyazhi*, Indira Parthasarathy describes Ramanujar as “the Periyar of that age.” I mention this here precisely to point out that Indira Parthasarathy too has described him in that way.
+The Aazhvargal who lived before him had spoken of this. Nathamuni had thought on this basis. Uyyakondar, Alavandar, and others too had conducted themselves in this way to the extent possible to them. But the distinction of having carried this out as religious common ownership—as a movement itself—belongs to Ramanujar alone. That is why I read a weekly magazine today. In it, the fine writer Indira Parthasarathy has written an article about Ramanujar. He describes Ramanujar there as “the Periyar of that age.” If I said it, or if R.M.V. said it, it might not seem so fitting. In that long article in *Kanaiyazhi*, Indira Parthasarathy describes Ramanujar as “the Periyar of that age.” I mention this here precisely to point out that Indira Parthasarathy too has described him in that way.
 
-To that extent, a thousand years ago itself we had a Periyar. But if we had continuously followed the social reform, social justice, and equality that that Periyar preached, this Periyar would not have been needed today. There would have been no need to establish Samathuvapurams. For if everyone were equal, why would there be a need for a Samathuvapuram? For these thousand years, we did not accept and live by the ideas stated by people such as Ramanujar. We did not continuously
+To that extent, a thousand years ago itself we had a Periyar. But if we had continuously followed the social reform, equal justice, social justice, and equality that that Periyar preached, this Periyar would not have been needed today. There would have been no need to establish Samathuvapurams. For if everyone were equal, why would there be a need for a Samathuvapuram? For these thousand years, we did not accept and live by the ideas stated by people such as Ramanujar. We did not continuously
 
 ## PDF 308 / printed p.307
 
@@ -112,7 +112,7 @@ In Tamil Nadu he faced great opposition from some Tamil kings, and especially fr
 
 Ramanujar was not only a man of stubborn determination in everything; the way he dealt with Thirukkottiyur Nambi is an example showing that he thought things through decisively and did not worry about the consequences, possessing the same firmness of character as Periyar.
 
-He made seventeen or eighteen attempts—campaigns, as it were—to learn the mantra from him. Only on the eighteenth occasion did he succeed. Then Thirukkottiyur Nambi whispered the mantra into his ear and said: “You must not reveal this to another person until the end. If at all you are to reveal it, only at the end of your life may you tell it into the ear of a single person. If you act against this, no good will come to you; only harm will. Give me your oath.”
+He mounted seventeen or eighteen campaigns to learn the mantra from him. Only on the eighteenth occasion did he succeed. Then Thirukkottiyur Nambi whispered the mantra into his ear and said: “You must not reveal this to another person until the end. If at all you are to reveal it, only at the end of your life may you tell it into the ear of a single person. If you act against this, no good will come to you; only harm will. Give me your oath.”
 
 ## PDF 309 / printed p.308
 
@@ -124,7 +124,7 @@ It is with the principles of such a Ramanujar imprinted in our minds that today 
 
 ## PDF 310 / printed p.309
 
-Here, our Sivaraman has received an award in the name of Anna. We all know how forcefully and emphatically Sivaraman conveyed words to the country through the newspaper. Whenever a major issue gave rise to doubt, if we bought *Dinamani* to see what Sivaraman had written about it and understood the issue through him—not just today, but even in those days when all of us were students—then Sivaraman’s distinction becomes easy to understand. He declined to speak here. The reason is his advanced age. His hearing has become weak to the point that he cannot hear what all of us are saying. He declined to speak only because he felt he could speak only if he knew what we had said, and for no other reason.
+Here, our Sivaraman has received an award in the name of Anna. We all know how forcefully and emphatically Sivaraman conveyed words to the country through the printed page. Whenever a major issue gave rise to doubt, if we bought *Dinamani* to see what Sivaraman had written about it and understood the issue through him—not just today, but even in those days when all of us were students—then Sivaraman’s distinction becomes easy to understand. He declined to speak here. The reason is his advanced age. His hearing has become weak to the point that he cannot hear what all of us are saying. He declined to speak only because he felt he could speak only if he knew what we had said, and for no other reason.
 
 A book titled *Anna’s Story* was published on behalf of *Dinamani Kathir*. It was published during the period when our friend Saavi worked at *Dinamani Kathir*. The *Dinamani* office asked that I should be the one to release the book, and I went to release it. The speech Sivaraman delivered then, and the ideas he impressed upon our hearts in that address—
 
@@ -144,7 +144,7 @@ On behalf of all of you, I convey my heartfelt thanks to R.M.V. and to secretary
 
 They draped me with a golden shawl. They presented an award shield bearing the image of Ramanujar. Not stopping there, to mark my age of seventy-five, they also gave me seventy-five thousand rupees as a prize. Only then I thought: “It is only seventy-five; could it not have become one hundred?” (Laughter)
 
-You know that generally I do not personally keep prize money given with awards of this kind. Among the awards given to me in many places, when our former Vice-President of India himself came to Thanjavur and presented the Rajaraja Cholan Award, I gave the one lakh rupees that came with it back to that university and asked them to establish a trust in the names of my father and mother
+You know that generally I do not personally keep prize money given with awards of this kind. Among the awards given to me in many places, when our former Vice-President of India himself came to Thanjavur and presented the Rajaraja Cholan Award, I gave the one lakh rupees that came with it to that university and asked them to establish a trust in the names of my father and mother
 
 ## PDF 313 / printed p.312
 
@@ -177,6 +177,35 @@ given it. Yet the reason I say that he has given it is that it is as good as giv
 - separate source closing note retained outside the speech body;
 - frozen Tamil changes during E1: **0**.
 
+## English E2 — page-by-page fidelity review
+
+**PASS / COMPLETE — 20/20 pages; 8 corrections; 0 unresolved.**
+
+Confirmed corrections consolidated into the English layer:
+
+1. PDF302 / printed p.301: `Pundari Kaksham / Pundarikaksham` → **`Pundari Kaatcham`**, preserving the frozen Tamil form `புண்டரீ காட்சம் / புண்டரீகாட்சம்` instead of normalizing it externally.
+2. PDF304 / printed p.303: `make him disappear in the river` → **`push him into the Ganges`**, restoring the explicit source action `கங்கா நீரில் அவனைத் தள்ளிவிட்டு`.
+3. PDF304 / printed p.303: `animals such as tigers and lions will take care of him` → **`animals such as tigers and lions will kill him`**, removing an E1 euphemism and restoring `கொன்று தீர்த்து விடும்`.
+4. PDF307 / printed p.306: `religious commonwealth` → **`religious common ownership`**, restoring the source sense of `சமயப் பொதுவுடைமை`.
+5. PDF307 / printed p.306: added **`equal justice`** so `சம நீதி` is not collapsed into `சமூகநீதி`.
+6. PDF308 / printed p.307: `made seventeen or eighteen attempts—campaigns, as it were` → **`mounted seventeen or eighteen campaigns`**, preserving the rhetorical force of `படையெடுத்திருக்கிறார்`.
+7. PDF310 / printed p.309: `through the newspaper` → **`through the printed page`**, restoring `ஏட்டின் மூலமாக` without narrowing it unnecessarily.
+8. PDF312 / printed p.311: removed unsupported **`back`** from the Rajaraja Cholan Award sentence; frozen Tamil states that the one lakh rupees was given to the university, not that it was necessarily being returned.
+
+E2 verification result:
+
+- pages checked: **20/20**, PDF **295–314** / printed **294–313**;
+- missing / duplicate English page records: **0 / 0**;
+- PDF/printed-page correspondence and all recorded joins: **PASS**;
+- names / numerals / rhetoric / repetition / quotation structure: **PASS**;
+- source-sensitive transliterations and unusual forms: **PASS / no outside normalization**;
+- chronology / numeral forms **1946 / 1017 / 981 / 17–18 / 75 / 100 / one lakh**: **PASS**;
+- laughter / applause markers: **PASS**;
+- contents / page-heading / closing-note title distinctions: **PASS**;
+- separate source closing note: **PASS**;
+- frozen Tamil changes during E2: **0**;
+- unresolved English issues: **0**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 26 — all 20 pages.**
+**English E3 final end-to-end verification for constituent 26 — all 20 pages.**
