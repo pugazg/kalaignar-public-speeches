@@ -13,7 +13,7 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T3 complete / Tamil verified: **29 / 36**
 - English E1 complete: **28 / 36**
 - English E2 complete: **28 / 36**
-- English E3 complete / English verified: **28 / 36**
+- English E3 complete / English verified: **29 / 36**
 - fully archived: **28 / 36**
 
 Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
@@ -163,6 +163,14 @@ Collection state: Tamil verified **29/36**; English E1 **29/36**; English E2/E3 
 
 Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 / English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — English E3 complete / English verified
+
+**PASS / COMPLETE — 8/8 pages; 1 additional correction; 0 unresolved.** All **5/5** E2 corrections remain consolidated. E3 restored the PDF345 inherited-task structure, preserving `அந்தப் பணியை நாங்கள் பெற்றிருக்கின்றோம்` as “we have inherited the task of continuing that service even today.” English page records remain complete / unique / ordered; stale superseded body readings are absent; all seven joins and final semantic / rhetorical / source-sensitive checks pass. Frozen Tamil changes during E3: **0**.
+
+English is now **`verified-complete`**.
+
+Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified **29/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**English E3 final end-to-end verification for constituent 29 — all 8 pages.** Stop before constituent 30 / closure.
+**Repository closure for constituent 29.** Stop before constituent 30 source gate.
