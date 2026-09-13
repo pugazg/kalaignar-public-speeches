@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 35–36 Tamil T2
+# NEXT CHAT PROMPT — முத்துக்குளியல் பாகம் II / constituents 35–36 Tamil T3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`, active collection `collections/muthukkuliyal-part-2/`.
 
@@ -11,13 +11,14 @@ Durable state:
 - mapped: **36/36**;
 - source-gated: **36/36**;
 - Tamil T1 complete: **36/36**;
-- Tamil T2/T3 complete / Tamil verified: **34/36**;
+- Tamil T2 complete: **36/36**;
+- Tamil T3 complete / Tamil verified: **34/36**;
 - English E1/E2/E3 complete / English verified: **34/36**;
 - fully archived: **34/36**;
 - constituents **1–34 are CLOSED / FULLY ARCHIVED**;
-- constituents **35–36 Tamil T1 are COMPLETE — 17/17 total**;
-- missing T1 page records: **0**;
-- explicit unreadable / unknown placeholders: **0**.
+- constituents **35–36 Tamil T2 are PASS / COMPLETE — 17/17 total**;
+- combined T2 corrections: **3**;
+- combined T2 unresolved: **0**.
 
 ## Controlling source
 
@@ -31,9 +32,8 @@ User-supplied attached slice:
 
 - exact slice of original source scans **380–425**;
 - mapping: **extract page N = original PDF scan N+379**;
-- use **only this attached split PDF** for the Tamil T2 scan audit;
-- do **not** use Wikisource, Tamil Digital Library website, web copies, alternate editions, or OCR;
-- source PDF / split derivative must not be committed.
+- source PDF / split derivative must not be committed;
+- Tamil T2 used only the attached split-PDF scan pixels; no OCR or outside source.
 
 ## Constituent 35
 
@@ -41,13 +41,14 @@ User-supplied attached slice:
 Directory: `speeches/kanchipuram-cvm-annamalai-illa-manavizha/`
 
 - PDF **408–415** / printed **407–414** — **8 pages**;
-- split pages **29–36**;
-- source gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 8/8**;
-- missing / unreadable-unknown: **0 / 0**;
-- all **7/7** page joins retained;
-- separate closing note remains outside speech body;
-- Tamil T2: **READY / NOT STARTED**.
+- Tamil T2: **PASS / COMPLETE — 8/8; 3 corrections; 0 unresolved**;
+- T2 corrections:
+  - PDF410 `இன்னைக்கும்` → `இன்றைக்கும்`;
+  - PDF412 `அறிவித்தால்தான்` → `அறிவித்தால் தான்`;
+  - PDF415 `கேட்டின்ற` → `கேட்கின்ற`;
+- all **7/7** joins: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
 
 ## Constituent 36
 
@@ -55,26 +56,30 @@ Directory: `speeches/kanchipuram-cvm-annamalai-illa-manavizha/`
 Directory: `speeches/pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha/`
 
 - PDF **416–424** / printed **415–423** — **9 pages**;
-- split pages **37–45**;
-- source gate: **PASS / COMPLETE**;
 - Tamil T1: **COMPLETE — 9/9**;
-- missing / unreadable-unknown: **0 / 0**;
-- all **8/8** page joins retained;
-- preserve contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`;
-- terminal PDF425 remains a non-speech back-cover portrait / publisher page;
-- Tamil T2: **READY / NOT STARTED**.
+- Tamil T2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
+- all **8/8** joins: **PASS**;
+- source-sensitive names, quotations, anecdotes, applause markers and title-spacing distinction: **PASS**;
+- Tamil T3: **READY / NOT STARTED**.
 
 ## Exact activity
 
-Perform **Tamil T2 strict direct-scan fidelity audit for BOTH constituents 35 and 36** against the attached split-PDF scan pixels.
+Perform **Tamil T3 consolidation / freeze for BOTH constituents 35 and 36**.
 
-Audit all **17 pages**:
+For all **17 pages**:
 
-1. constituent 35 — PDF **408–415** / split pages **29–36** — **8 pages**;
-2. constituent 36 — PDF **416–424** / split pages **37–45** — **9 pages**.
+1. verify the canonical T2 transcript is complete / unique / ordered;
+2. verify all T2 corrections are consolidated and no superseded T1 reading survives in the canonical speech body;
+3. recheck page boundaries / joins and separate closing-note handling;
+4. preserve source-sensitive names, punctuation, quotations, repetitions, numerals and applause/laughter markers;
+5. make only genuinely necessary consolidation repairs, recording them explicitly;
+6. freeze Tamil only when unresolved count is **0**.
 
-Check canonical T1 line-by-line for source spelling, punctuation, names, quotations, repetitions, applause/laughter markers, numerals, page boundaries and all joins. Consolidate only scan-confirmed corrections. Record correction count and unresolved count explicitly. Do not normalize merely for style.
+After successful T3:
+- mark both Tamil texts `verified-complete` / **FROZEN**;
+- update constituent and collection metadata / README / HANDOVER / audit / page-map;
+- advance the next gate to **English E1** for constituents 35–36.
 
 ## STOP RULE
 
-Stop after Tamil T2 for **both constituents 35 and 36**. Do **not** begin Tamil T3 in the same activity unless the user explicitly asks to continue.
+Stop after Tamil T3 for both constituents. Do **not** begin English E1 unless the user explicitly asks to continue.
