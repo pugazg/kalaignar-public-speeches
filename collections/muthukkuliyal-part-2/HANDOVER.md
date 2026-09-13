@@ -186,6 +186,18 @@ Collection state: Tamil verified **29/36**; English E1/E2/E3 / English verified 
 
 Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**. Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
 
+## Constituents 30–32 — durable source-gate result
+
+All three requested source / duplicate / boundary gates are **PASS / COMPLETE**.
+
+- **30** `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — PDF **351–363** / printed **350–362**, **13/13**, internal joins **12/12 PASS**, duplicate unresolved **0**, boundary unresolved **0**. Source establishes **1998-10-05 / சென்னை / ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா / ஆற்றிய உரை**. Preserve contents `இசைத் தமிழின்`, page heading `இசைத்தமிழின்`, and closing-note `வெளியீட்டு விழா` separately.
+- **31** `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா` — PDF **364–371** / printed **363–370**, **8/8**, internal joins **7/7 PASS**, duplicate unresolved **0**, boundary unresolved **0**. Source establishes **1998-10-18 / சென்னை / நாத்திகம் இராமசாமி இல்ல மணவிழா / ஆற்றிய உரை**.
+- **32** `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா` — PDF **372–390** / printed **371–389**, **19/19**, internal joins **18/18 PASS**, duplicate unresolved **0**, boundary unresolved **0**. Source establishes **1998-10-18 / சென்னை / ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா / ஆற்றிய உரை**. Preserve contents `வெளியீட்டுவிழா` versus page-heading/closing-note `வெளியீட்டு விழா`.
+
+Boundary witnesses: PDF350 closes constituent 29; PDF364 opens constituent 31; PDF372 opens constituent 32; PDF391 opens constituent 33 `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+
 ## Exact next gate
 
-Constituent **30** `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா` — **source / duplicate / boundary gate**, PDF **351–363** / printed **350–362**.
+**Tamil T1 first-pass transcription for constituent 30 — all 13 pages.** Constituents 31–32 remain source-gated / T1-ready.
