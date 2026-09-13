@@ -11,12 +11,12 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 - Tamil T1 complete: **34 / 36**
 - Tamil T2 complete: **34 / 36**
 - Tamil T3 complete / Tamil verified: **34 / 36**
-- English E1 complete: **32 / 36**
-- English E2 complete: **32 / 36**
-- English E3 complete / English verified: **32 / 36**
-- fully archived: **32 / 36**
+- English E1 complete: **34 / 36**
+- English E2 complete: **34 / 36**
+- English E3 complete / English verified: **34 / 36**
+- fully archived: **34 / 36**
 
-Constituents **1–32 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–34 are CLOSED / FULLY ARCHIVED**.
 
 ## Constituent 27 — source gate complete
 
@@ -411,19 +411,18 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **33–34 Tamil T3 are COMPLETE / FROZEN**.
+Constituents **33–34 are CLOSED / FULLY ARCHIVED**.
 
-- constituent 33 — T3 **9/9**, **0** additional source corrections, **0** consolidation repairs, **0** unresolved;
-- constituent 34 — T3 **8/8**, **0** additional source corrections, **0** consolidation repairs, **0** unresolved;
-- combined — **17/17 T3 complete**, speech-body Tamil changes **0**;
-- all T2 corrections remain consolidated;
-- both Tamil texts are **`verified-complete` / FROZEN**;
-- source / duplicate / boundary gates remain **PASS / COMPLETE**;
+- constituent 33 — Tamil **`verified-complete` / FROZEN**; English **`verified-complete`**; E1 **9/9**, E2 **9/9 / 0 corrections**, E3 **9/9 / 0 additional corrections**, unresolved **0**;
+- constituent 34 — Tamil **`verified-complete` / FROZEN**; English **`verified-complete`**; E1 **8/8**, E2 **8/8 / 0 corrections**, E3 **8/8 / 0 additional corrections**, unresolved **0**;
+- closure speech-body changes: Tamil **0**, English **0** for both constituents;
 - source PDFs remain uncommitted;
-- English E1 has not begun.
+- constituent 34 venue remains **not explicitly stated / not inferred**.
 
-Collection state: mapped **36/36**; source-gated **34/36**; Tamil T1/T2/T3 / Tamil verified **34/36**; English verified **32/36**; fully archived **32/36**.
+Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**.
+
+Constituents **35–36** remain mapped only.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituents 33 and 34 — 17 pages total, from frozen Tamil only.**
+**Source / duplicate / boundary gates for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total.**
