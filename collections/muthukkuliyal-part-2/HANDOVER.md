@@ -69,12 +69,26 @@ Repository-level archival closure: **PASS / COMPLETE — FULLY ARCHIVED**.
 - source PDF remains uncommitted;
 - no transcription or translation work remains pending for constituent 27.
 
-## Constituent 28 — next active item
+## Constituent 28 — durable archival closure
 
-`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா` remains source-gated, PDF **331–342** / printed **330–341**, Tamil T1 **READY / NOT STARTED**.
+`சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`, PDF **331–342** / printed **330–341**:
 
-Collection state: mapped **36/36**; started/source-gated **28/36**; Tamil verified **27/36**; English verified **27/36**; fully archived **27/36**.
+- source / duplicate / boundary gate: **PASS / COMPLETE — 12/12**;
+- Tamil T1: **COMPLETE — 12/12**;
+- Tamil T2: **PASS / COMPLETE — 12/12; 11 corrections; 0 unresolved**;
+- Tamil T3: **PASS / COMPLETE — 12/12; 0 additional source corrections; 1 consolidation repair; 0 unresolved**;
+- Tamil: **`verified-complete` / FROZEN**;
+- English E1: **COMPLETE — 12/12**;
+- English E2: **PASS / COMPLETE — 12/12; 8 corrections; 0 unresolved**;
+- English E3: **PASS / COMPLETE — 12/12; 2 additional corrections; 0 unresolved**;
+- English: **`verified-complete`**;
+- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
+- closure speech-body changes: Tamil **0**, English **0**;
+- root catalogue synchronization: **PASS**;
+- source PDF remains uncommitted.
+
+Collection state: mapped **36/36**; started/source-gated **28/36**; Tamil verified **28/36**; English verified **28/36**; fully archived **28/36**. Constituents **1–28 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 28 — all 12 source pages, PDF 331–342 / printed 330–341.**
+**Source / duplicate / boundary gate for constituent 29 — `சென்னை - தியாகிகள் மணிமண்டபத் திறப்புவிழா`, mapped PDF 343–350 / printed 342–349.**
