@@ -198,6 +198,22 @@ Boundary witnesses: PDF350 closes constituent 29; PDF364 opens constituent 31; P
 
 Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
+## Constituent 30 — durable Tamil T1 result
+
+- Tamil T1: **COMPLETE — 13/13 source pages**.
+- Canonical page records: PDF **351–363** / printed **350–362**, complete / ordered.
+- Missing page records: **0**.
+- Explicit unreadable / unknown placeholders: **0**.
+- All **12** page joins retained.
+- Separate closing note remains outside speech body.
+- Contents / page-heading / closing-note spacing variants remain separately preserved.
+- Source-sensitive names/forms, quotations, English phrases, `யாழ்` / `கமகம்` passages, Tirukkural material and applause/laughter markers are flagged for T2.
+- This remains T1 only; source pixels control T2.
+
+Constituents **31–32** remain source-gated / Tamil T1-ready.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1 **30/36**; Tamil T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+
 ## Exact next gate
 
-**Tamil T1 first-pass transcription for constituent 30 — all 13 pages.** Constituents 31–32 remain source-gated / T1-ready.
+**Tamil T2 strict direct-scan fidelity audit for constituent 30 — all 13 pages.**
