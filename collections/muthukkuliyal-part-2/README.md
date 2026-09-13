@@ -179,6 +179,51 @@ Constituents **1–29 are CLOSED / FULLY ARCHIVED**.
 
 Collection state: mapped **36/36**; started/source-gated **29/36**; Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
 
+## Constituents 30–32 — source / duplicate / boundary gates
+
+### Constituent 30 — `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`
+
+**PASS / COMPLETE — 13/13 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- contents / page-heading / closing-note forms are preserved separately:
+  - contents: `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`;
+  - page heading: `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`;
+  - closing-note event: `‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழா`;
+- PDF **351–363** / printed **350–362**;
+- closing note: `5-10-98 அன்று சென்னையில் ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டு விழாவில் ஆற்றிய உரை`;
+- date / venue / role: **1998-10-05** / `சென்னை` / `ஆற்றிய உரை`;
+- all **12** internal page joins: **PASS**;
+- prior / next boundaries: PDF350 closes constituent 29; PDF364 opens constituent 31;
+- live-main duplicate check: **PASS**;
+- Tamil T1: **READY / NOT STARTED**.
+
+### Constituent 31 — `சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா`
+
+**PASS / COMPLETE — 8/8 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- PDF **364–371** / printed **363–370**;
+- closing note: `18-10-98 அன்று சென்னையில் நாத்திகம் இராமசாமி இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- date / venue / event / role: **1998-10-18** / `சென்னை` / `நாத்திகம் இராமசாமி இல்ல மணவிழா` / `ஆற்றிய உரை`;
+- all **7** internal page joins: **PASS**;
+- prior / next boundaries: PDF363 closes constituent 30; PDF372 opens constituent 32;
+- live-main duplicate check: **PASS**;
+- Tamil T1: **READY / NOT STARTED**.
+
+### Constituent 32 — `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`
+
+**PASS / COMPLETE — 19/19 source pages; duplicate unresolved 0; boundary unresolved 0.**
+
+- contents form `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டுவிழா` and page-heading / closing-note form `வெளியீட்டு விழா` are preserved separately;
+- PDF **372–390** / printed **371–389**;
+- closing note: `18-10-98 அன்று சென்னையில் ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழாவில் ஆற்றிய உரை`;
+- date / venue / event / role: **1998-10-18** / `சென்னை` / `ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா` / `ஆற்றிய உரை`;
+- all **18** internal page joins: **PASS**;
+- prior / next boundaries: PDF371 closes constituent 31; PDF391 opens constituent 33 `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`;
+- live-main duplicate check: **PASS**;
+- Tamil T1: **READY / NOT STARTED**.
+
+Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil T1/T2/T3 / Tamil verified **29/36**; English verified **29/36**; fully archived **29/36**.
+
 ## Exact next gate
 
-**Constituent 30 source / duplicate / boundary gate — `‘இசைத் தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா`, PDF 351–363 / printed 350–362.** Do not begin Tamil T1 in the same activity.
+**Tamil T1 first-pass transcription for constituent 30 — PDF 351–363 / printed 350–362, all 13 pages.** Constituents 31–32 remain source-gated / T1-ready.
