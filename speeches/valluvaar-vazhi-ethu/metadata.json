@@ -1,0 +1,59 @@
+{
+  "id": "valluvaar-vazhi-ethu",
+  "title": {
+    "ta": "வள்ளுவர் வழி எது?",
+    "contents_title_ta": "வள்ளுவர் வழி எது?",
+    "page_heading_ta": "வள்ளுவர் வழி எது?"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 1,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1972-10-04",
+    "date_source_text": "1972-ஆம் ஆண்டு அக்டோபர் திங்கள் 4-ஆம் நாள்",
+    "venue_ta": null,
+    "venue_note": "No separate geographic venue is inferred at source-intake stage.",
+    "event_source_text": "காந்தியடிகள் - வள்ளுவர் விழா",
+    "closing_note_source_text": "1972-ஆம் ஆண்டு அக்டோபர் திங்கள் 4-ஆம் நாள்\nகாந்தியடிகள் - வள்ளுவர் விழாவில்\nநாவலர் வெளியிட்டுப் பேசியது."
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "binary_committed": false,
+    "pdf_page_start": 18,
+    "pdf_page_end": 28,
+    "printed_page_start": 17,
+    "printed_page_end": 27,
+    "speech_pages_total": 11,
+    "inspection_split": {
+      "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_002_pages_18-33.pdf",
+      "extract_page_start": 1,
+      "extract_page_end": 11,
+      "extract_to_original_pdf_offset": 17,
+      "committed": false
+    }
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "tamil_transcription": "blocked-pending-collection-source-intake",
+    "english_translation": "not-started",
+    "archive_status": "source-gated-collection-intake-pending",
+    "duplicate_unresolved": 0,
+    "boundary_unresolved": 0,
+    "next_gate": "Complete collection-wide 39-piece source intake before Tamil T1."
+  }
+}
