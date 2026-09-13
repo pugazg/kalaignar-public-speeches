@@ -17,55 +17,37 @@ Original binary / SHA-256: **not available yet / not committed**.
 
 ## Durable intake state
 
-Split **1 / 39** received and inspected:
+Splits **1–2 / 39** received and inspected:
 
-- `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_001_pages_1-17.pdf`;
-- original scans **1–17**;
-- **17/17 PASS**;
-- bytes **48,686,831**;
-- SHA-256 `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d`;
+- split 001 — scans **1–17** — **17/17 PASS** — SHA-256 `fbcfc6c1ef07528c37ed8804cdcaea39b2f08b459b4896b649e1b06a24b5179d`;
+- split 002 — scans **18–33** — **16/16 PASS** — SHA-256 `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861`;
+- continuity **1–33**: **PASS — no gap / no overlap**;
 - no parsed text layer; scan pixels controlling;
 - OCR / web / alternate source use: **none**.
 
-Contents are **COMPLETE — 61/61** from scans 12–16.
+Contents remain **COMPLETE — 61/61**.
 
-Observed front-matter mapping: **PDF = printed + 1**. Constituent 1 is listed at printed p.17, so its expected opening is original scan **18**. Body mapping is still **provisional** until scan 18 is visually verified.
+Body mapping is now **CONFIRMED: PDF scan = printed page + 1** through scan 33.
 
-Constituent 61 begins at printed p.629 / expected scan 630; its terminal end remains **TBD** until the last split is inspected.
+### Source-gated constituents
 
-## Publication details
+1. `வள்ளுவர் வழி எது?` — PDF **18–28** / printed **17–27** — **11/11 PASS**, all 10 joins / boundaries / closing note verified, duplicate unresolved **0**.
+2. `வள்ளுவர்க்கோர் ஆலயம்` — PDF **29–32** / printed **28–31** — **4/4 PASS**, all 3 joins / boundaries / closing note verified, duplicate unresolved **0**.
 
-- title: `முத்துக் குளியல் — பாகம் I`;
-- author: `கலைஞர் மு. கருணாநிதி`;
-- subject: `சொற்பொழிவுகளின் தொகுப்பு`;
-- publisher: `பூம்புகார் பதிப்பகம்`;
-- publication no.: **450**;
-- first-edition statement: `மே 2000`;
-- separate source production-time statement: `ஜூன் 2000`;
-- price: `ரூ. 200/-`;
-- print run: **2000**.
-
-Do not reconcile the May/June statements; preserve both as source metadata.
+Constituent 3 `கம்பர் விழா (1)` opens at PDF **33** / printed **32**; source gate remains incomplete because only its opening page is available so far.
 
 ## Workflow status
 
 - source inspection: **IN PROGRESS**;
-- splits received: **1/39**;
-- scans covered: **1–17 / 641**;
+- splits received: **2/39**;
+- scans covered: **1–33 / 641**;
 - contents: **61/61 COMPLETE**;
-- page map: **PROVISIONAL**;
-- constituent source gates: **0/61**;
+- constituent source gates: **2/61 COMPLETE**;
+- active constituent: **3 / 61 — opening confirmed / source gate incomplete**;
 - Tamil T1/T2/T3: **0/61**;
 - English E1/E2/E3: **0/61**;
 - archived: **0/61**.
 
 ## Exact next activity
 
-Inspect the next user-supplied split beginning at **original scan 18**. Verify:
-
-1. constituent 1 opening;
-2. printed p.17 ↔ PDF scan 18 mapping;
-3. exact split continuity / no gap / no overlap;
-4. source boundary against the next contents start.
-
-Continue **source intake only**. Do **not** begin Tamil T1 yet.
+Inspect the next split beginning at **original scan 34** and continue constituent 3. Verify its complete source boundary when the relevant pages become available. Continue **source intake only**; do **not** begin Tamil T1 yet.
