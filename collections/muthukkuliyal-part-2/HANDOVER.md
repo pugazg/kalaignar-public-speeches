@@ -148,6 +148,17 @@ Collection state: mapped/source-gated **36/36 / 29/36**; Tamil T1/T2/T3 / Tamil 
 
 Collection state: Tamil verified **29/36**; English E1 **29/36**; English E2/E3 / English verified **28/36**; fully archived **28/36**.
 
+## Constituent 29 — durable English E2 result
+
+- English E2: **PASS / COMPLETE — 8/8 pages; 5 corrections; 0 unresolved**.
+- Corrections: PDF344 unsupported burial gloss removed; PDF346 dual-movement wording restored; PDF346 unsupported `perhaps` removed; PDF347 unsupported `many` removed; PDF348 `comfort and hardship` → `joys and sorrows`.
+- All eight English page records checked against frozen Tamil.
+- Page correspondence / all seven joins: **PASS**.
+- Semantic completeness / rhetoric / quotations / source-sensitive names/forms / quantities / Bharathi quotations / title-action distinction / separate closing note: **PASS**.
+- Frozen Tamil changes during E2: **0**.
+
+Collection state: Tamil verified **29/36**; English E1/E2 **29/36**; English E3 / English verified **28/36**; fully archived **28/36**.
+
 ## Exact next gate
 
-**English E2 page-by-page fidelity review for constituent 29 — PDF 343–350 / printed 342–349, all 8 English page records against frozen Tamil.** Stop before E3 / constituent 30.
+**English E3 final end-to-end verification for constituent 29 — PDF 343–350 / printed 342–349, all 8 pages.** Stop before constituent 30 / closure.
