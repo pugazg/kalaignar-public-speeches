@@ -69,6 +69,8 @@ For audio or video sources, also read:
 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | ‘இசைத்தமிழின் உண்மை வரலாறு’ நூல் வெளியீட்டுவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.350–362 | 05.10.1998 | **Verified complete - 13/13 speech pages** | **Verified complete - 13/13 speech pages** |
 | `chennai-nathigam-ramasami-illa-manavizha` | சென்னை - நாத்திகம் இராமசாமி இல்ல மணவிழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.363–370 | 18.10.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.371–389 | 18.10.1998 | **Verified complete - 19/19 speech pages** | **Verified complete - 19/19 speech pages** |
+| `chennai-thiripura-orumaippattu-thina-koottam` | சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம் | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.390–398 | 03.11.1998 | **Verified complete - 9/9 speech pages** | **Verified complete - 9/9 speech pages** |
+| `ayyanan-ambalam-padathirappu-vizha` | அய்யணன் அம்பலம் படத்திறப்பு விழா | `முத்துக் குளியல் — பாகம் II`, first edition June 2000; constituent pp.399–406 | 15.11.1998 | **Verified complete - 8/8 speech pages** | **Verified complete - 8/8 speech pages** |
 
 ## Repository layout
 
@@ -416,5 +418,22 @@ Repository-level closure is complete. Closure introduced **0 Tamil and 0 English
 The archival workflow is complete for constituent **32 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **372–390** / printed pages **371–389**. The separate closing note establishes **18.10.1998**, venue **சென்னை**, event `ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டு விழா`, and role `ஆற்றிய உரை`. The archive preserves the contents form `சென்னை - ஈரோடு தமிழன்பன் நூல்கள் வெளியீட்டுவிழா` separately from the page-heading / closing-note form `வெளியீட்டு விழா`.
 
 Tamil is **`verified-complete` / FROZEN** with **3 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **7 E2 corrections / 1 E3 additional correction / 0 unresolved**. The English layer preserves the embedded poem lineation, Bharathi and Bharathidasan passages, the Gautama–Ahalya–Indra passage, `Neethi Devan Mayakkam`, `Thennavan Kaathai`, Ravana/Rama political-literary framing, applause markers, the printed `திருமணத்திற்கு` / `திருணமத்திற்கு` typo contrast, and the title-spacing distinction without outside normalization.
+
+Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+
+### சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்
+
+The archival workflow is complete for constituent **33 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **391–399** / printed pages **390–398**. The separate closing note establishes **03.11.1998**, venue **சென்னை**, event `திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`, and role `ஆற்றிய உரை`.
+
+Tamil is **`verified-complete` / FROZEN** with **2 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **0 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves the resolution quotations, political rhetoric and repetitions, source-sensitive names/forms, numerals, applause markers, and separate closing-note handling without outside normalization.
+
+Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
+
+### அய்யணன் அம்பலம் படத்திறப்பு விழா
+
+The archival workflow is complete for constituent **34 / 36** of `முத்துக் குளியல் — பாகம் II`, covering PDF **400–407** / printed pages **399–406**. The separate closing note establishes **15.11.1998**, event/action wording `அய்யணன் அம்பலம் படத்தை திறந்து வைத்து ஆற்றிய உரை`; it does **not** state a geographic venue, so none is inferred.
+
+Tamil is **`verified-complete` / FROZEN** with **1 T2 correction / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English is **`verified-complete`** with **0 E2 corrections / 0 E3 additional corrections / 0 unresolved**. The English layer preserves the caste/body metaphor, tiger/deer imagery, Pasumpon Thevar quotation, source-sensitive names/forms, event-title / closing-action distinction, venue non-inference, and separate closing-note handling without outside normalization.
 
 Repository-level closure is complete. Closure introduced **0 Tamil and 0 English speech-body changes**; no transcription or translation work remains pending for this constituent.
