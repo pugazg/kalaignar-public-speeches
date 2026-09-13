@@ -83,7 +83,7 @@
     "e3_pages_checked": 15,
     "e3_additional_corrections": 0,
     "e3_unresolved": 0,
-    "repository_closure": "complete-after-fidelity-repair",
+    "repository_closure": "complete",
     "archive_status": "fully-archived",
     "pending_transcription_or_translation_work": false,
     "next_gate": null,
@@ -105,6 +105,10 @@
       "final_tamil_page_headings": 15,
       "final_english_page_headings": 15,
       "unresolved": 0
-    }
+    },
+    "post_closure_fidelity_repair_events": 1,
+    "post_closure_fidelity_repair_pages": "PDF53-56 / printed 52-55",
+    "post_closure_fidelity_repair_summary": "Restored omitted explicit PDF54/printed53 section, corrected PDF54-56 page boundaries, restored source parenthetical verse forms, and updated English to the same 15-page structure.",
+    "closure_revalidated_after_repair": true
   }
 }
