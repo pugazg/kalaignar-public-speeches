@@ -66,8 +66,25 @@ Tamil T3 is **READY / NOT STARTED**.
 
 All **11/11** T2 corrections are now consolidated; superseded canonical speech-body readings are absent. Canonical page records are complete, unique and ordered; recorded page joins, names/titles, numerals, punctuation, quotations, repetitions, applause/laughter markers, the Anna/Anjugam anecdote, Sivaji recollections, cheque amount, English phrase, Bharathidasan quotation, title distinction and the separate closing note all pass.
 
-Tamil is now **`verified-complete` / FROZEN**. English E1 is **READY / NOT STARTED** and must translate only from frozen `transcription-ta.md`.
+Tamil is **`verified-complete` / FROZEN**. English E1 is **COMPLETE — 12/12**; frozen Tamil changes during E1: **0**. English E2 is **READY / NOT STARTED**.
+
+## English E1
+
+**COMPLETE — 12/12 pages.** Translation authority was frozen `transcription-ta.md` only.
+
+- English page records: **12/12**, complete and ordered;
+- missing English page records: **0**;
+- PDF/printed-page correspondence: **PASS** for PDF **331–342** / printed **330–341**;
+- rhetoric / repetition / quotation structure / applause-laughter markers: retained;
+- source-sensitive names/titles/forms: retained without outside normalization;
+- Anna / Anjugam anecdote and Sivaji recollections: retained;
+- cheque amount and `My Dear Old Man, How are you`: retained;
+- Bharathidasan quotation: retained in page context;
+- title spacing distinction and separate closing note: retained;
+- frozen Tamil changes during E1: **0**.
+
+English E2 is **READY / NOT STARTED**.
 
 ## Exact next gate
 
-**English E1 first-pass translation for constituent 28 — all 12 verified Tamil pages.**
+**English E2 page-by-page fidelity review for constituent 28 — all 12 pages.**
