@@ -35,7 +35,7 @@
     "constituent_items_mapped": 36,
     "constituent_items_started": 36,
     "constituent_items_source_gated": 36,
-    "constituent_items_t1_complete": 34,
+    "constituent_items_t1_complete": 36,
     "constituent_items_t2_complete": 34,
     "constituent_items_t3_complete": 34,
     "constituent_items_tamil_verified": 34,
@@ -48,7 +48,7 @@
     "active_constituent_number": 35,
     "active_constituent_slug": "kanchipuram-cvm-annamalai-illa-manavizha",
     "active_constituent_title_ta": "காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா",
-    "active_constituent_status": "source-gated-tamil-t1-ready",
+    "active_constituent_status": "t1-complete-t2-ready",
     "active_constituent_pdf_pages": "408-415",
     "active_constituent_printed_pages": "407-414",
     "active_constituent_pages_total": 8,
@@ -64,9 +64,10 @@
     "active_batch_source_gate": "complete",
     "active_batch_duplicate_unresolved": 0,
     "active_batch_boundary_unresolved": 0,
-    "active_batch_gate": "tamil-t1",
+    "active_batch_gate": "tamil-t2",
     "next_constituent_number": 35,
-    "next_gate": "Tamil T1 first-pass transcription for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total",
-    "constituent_items_english_verified": 34
+    "next_gate": "Tamil T2 strict direct-scan fidelity audit for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total",
+    "constituent_items_english_verified": 34,
+    "active_batch_t1_complete_pages": 17
   }
 }
