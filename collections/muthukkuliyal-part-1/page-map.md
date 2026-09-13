@@ -10,6 +10,9 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_002_pages_18-33.pdf` | **18–33** | **16** | **47,901,860** | `ec425a2314344d78a4d9fad743896356ccce6d15dace20dba0360fb743c7d861` | **INSPECTED / PASS** |
 | `part_003_pages_34-49.pdf` | **34–49** | **16** | **48,934,218** | `a5b47180a171b161f45d6c796ef5c90d5f1a66478191fdc36401dc5d69f41549` | **INSPECTED / PASS** |
 | `part_004_pages_50-65.pdf` | **50–65** | **16** | **46,954,298** | `6848c3cd48611d60294215dd42aacd263fb0941c6b267e1efad4256edc1bbf2b` | **INSPECTED / PASS** |
+| `part_005_pages_66-82.pdf` | **66–82** | **17** | **48,688,212** | `962e0c572fb86f8ee45eeff6abcd6bf81e933b7c59023c6c979851f271220916` | **INSPECTED / PASS** |
+| `part_006_pages_83-98.pdf` | **83–98** | **16** | **47,082,044** | `1eca8cd01d310515f000ca3c9ebc766b8271463ebed4db8fe4530a3d67d90cef` | **INSPECTED / PASS** |
+| `part_007_pages_99-114.pdf` | **99–114** | **16** | **47,281,433** | `61efd5d8c6b55f1a46faec8ae66a47fcdd60656a75f7f3535ad3ca87fff274f0` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -29,7 +32,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF65 / printed p.64.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF114 / printed p.113.
 
 ## Contents inventory — 61 constituents
 
@@ -42,15 +45,15 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 3 | கம்பர் விழா (1) | ஏப்ரல்,1969 | 32 | **32–40 VERIFIED / CLOSED** | **33–41 VERIFIED / CLOSED** |
 | 4 | கம்பர் விழா (2) | 04-04-1974 | 41 | **41–55 VERIFIED / CLOSED** | **42–56 VERIFIED / CLOSED** |
 | 5 | ஏழையின் சிரிப்பில் | 27-11-1969 | 56 | **56–62 VERIFIED / CLOSED** | **57–63 VERIFIED / CLOSED** |
-| 6 | கலை வளர்ப்போம் | 30-03-1974 | 63 | 63–68 | 64–69 (**PDF64–65 T2-VERIFIED; tail pending**) |
-| 7 | உமாமகேஸ்வரனார் | 13-04-1973 | 69 | 69–72 | 70–73 |
-| 8 | இலக்குவனார் | 18-11-1973 | 73 | 73–81 | 74–82 |
-| 9 | பயிற்று மொழி | 17-11-1973 | 82 | 82–87 | 83–88 |
-| 10 | இருமொழி போதும் | 05-02-1972 | 88 | 88–93 | 89–94 |
-| 11 | தமிழிசை இயக்கம் | 29-01-1972 | 94 | 94–97 | 95–98 |
-| 12 | இராசராசன் சிலை | 13-04-1972 | 98 | 98–102 | 99–103 |
-| 13 | மொழிமானம் பெறுவோம் | 16-01-1974 | 103 | 103–111 | 104–112 |
-| 14 | கருத்துச் சுதந்திரம் | 26-01-1974 | 112 | 112–117 | 113–118 |
+| 6 | கலை வளர்ப்போம் | 30-03-1974 | 63 | **63–68 VERIFIED / CLOSED** | **64–69 VERIFIED / CLOSED** |
+| 7 | உமாமகேஸ்வரனார் | 13-04-1973 | 69 | **69–72 VERIFIED / CLOSED** | **70–73 VERIFIED / CLOSED** |
+| 8 | இலக்குவனார் | 18-11-1973 | 73 | **73–81 VERIFIED / CLOSED** | **74–82 VERIFIED / CLOSED** |
+| 9 | பயிற்று மொழி | 17-11-1973 | 82 | **82–87 VERIFIED / CLOSED** | **83–88 VERIFIED / CLOSED** |
+| 10 | இருமொழி போதும் | 05-02-1972 | 88 | **88–93 VERIFIED / CLOSED** | **89–94 VERIFIED / CLOSED** |
+| 11 | தமிழிசை இயக்கம் | 29-01-1972 | 94 | **94–97 VERIFIED / CLOSED** | **95–98 VERIFIED / CLOSED** |
+| 12 | இராசராசன் சிலை | 13-04-1972 | 98 | **98–102 VERIFIED / CLOSED** | **99–103 VERIFIED / CLOSED** |
+| 13 | மொழிமானம் பெறுவோம் | 16-01-1974 | 103 | **103–111 VERIFIED / CLOSED** | **104–112 VERIFIED / CLOSED** |
+| 14 | கருத்துச் சுதந்திரம் | 26-01-1974 | 112 | 112–117 | 113–118 (**PDF113–114 T2-VERIFIED; tail pending**) |
 | 15 | மலர்க் காட்சி | 25-09-1971 | 118 | 118–119 | 119–120 |
 | 16 | கலைவாணர் | 04-09-1972 | 120 | 120–124 | 121–125 |
 | 17 | நாடக தாசர் | 08-09-1972 | 125 | 125–132 | 126–133 |
@@ -102,20 +105,21 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **4/39**;
-- original-scan coverage received: **1–65 / 641**;
-- split continuity: **PASS — 1–65 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan65**;
-- constituent source gates: **5/61 COMPLETE**;
-- Tamil verified: **5/61**;
-- English verified: **5/61**;
-- fully archived: **5/61**;
-- constituent 1 intake title correction: **வள்ளலார் வழி எது?**;
-- constituent 6 opening: **PDF64 / printed p.63 VERIFIED**;
-- constituent 6 durable coverage: **PDF64–65 / printed63–64 — T1/T2 complete for 2 pages**;
-- constituent 6 closing boundary: **pending PDF66–69**;
+- source splits received: **7/39**;
+- original-scan coverage received: **1–114 / 641**;
+- split continuity: **PASS — 1–114 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan114**;
+- constituent source gates: **13/61 COMPLETE**;
+- Tamil verified: **13/61**;
+- English verified: **13/61**;
+- fully archived: **13/61**;
+- constituent 11 fidelity repair: **title-page C10 contamination removed; Tamil re-frozen before English**;
+- constituent 13 fidelity repair: **PDF110→111→112 boundary/content restored and reverified before English**;
+- constituent 14 opening: **PDF113 / printed p.112 VERIFIED**;
+- constituent 14 durable coverage: **PDF113–114 / printed112–113 — T1/T2 complete for 2 pages**;
+- constituent 14 closing boundary: **pending PDF115–118**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Next split must begin at **PDF66**. Finish constituent 6 `கலை வளர்ப்போம்` through PDF69, then T3/freeze → English E1/E2/E3 → closure. Continue later fully bounded constituents in that same split through closure.
+Next supplied split must begin at **PDF115**. Finish constituent 14 `கருத்துச் சுதந்திரம்` through PDF118, verify its closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → closure. Continue every later fully bounded constituent in that split through closure, leaving only the final boundary-spanning constituent at a durable page-level checkpoint.
