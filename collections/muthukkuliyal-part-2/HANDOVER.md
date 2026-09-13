@@ -10,7 +10,7 @@
 
 ## Durable collection state
 - mapped: **36/36**
-- started / source-gated: **34/36**
+- started / source-gated: **36/36**
 - Tamil T1 complete: **34/36**
 - Tamil T2 complete: **34/36**
 - Tamil T3 complete / Tamil verified: **34/36**
@@ -385,33 +385,38 @@ Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/
 
 ## Current batch status
 
-Constituents **33–34 are CLOSED / FULLY ARCHIVED**.
+Constituents **35–36 source / duplicate / boundary gates are PASS / COMPLETE**.
 
-### Constituent 33 — `சென்னை - திரிபுரா ஒருமைப்பாட்டு தினக் கூட்டம்`
-- PDF **391–399** / printed **390–398** — **9/9**;
-- Tamil: **`verified-complete` / FROZEN**; T2 **2 corrections**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
-- English E1: **COMPLETE — 9/9**;
-- English E2: **PASS / COMPLETE — 9/9; 0 corrections; 0 unresolved**;
-- English E3: **PASS / COMPLETE — 9/9; 0 additional corrections; 0 unresolved**;
-- English: **`verified-complete`**;
-- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
-- closure speech-body changes: Tamil **0**, English **0**.
+### Constituent 35 — `காஞ்சிபுரம் - சி.வி.எம். அண்ணாமலை இல்ல மணவிழா`
+- directory: `speeches/kanchipuram-cvm-annamalai-illa-manavizha/`;
+- PDF **408–415** / printed **407–414** — **8/8**;
+- split extract **29–36**;
+- opening / ending / separate closing note: **VERIFIED**;
+- all **7/7** internal joins: **PASS**;
+- closing note: `22-11-98 அன்று காஞ்சிபுரத்தில் சி.வி.எம். அண்ணாமலை இல்ல மணவிழாவில் ஆற்றிய உரை`;
+- date / venue / event / role: **1998-11-22 / காஞ்சிபுரம் / சி.வி.எம். அண்ணாமலை இல்ல மணவிழா / ஆற்றிய உரை**;
+- prior boundary PDF407 / next boundary PDF416: **PASS**;
+- duplicate unresolved: **0**; boundary unresolved: **0**;
+- Tamil T1: **READY / NOT STARTED — 0/8**.
 
-### Constituent 34 — `அய்யணன் அம்பலம் படத்திறப்பு விழா`
-- PDF **400–407** / printed **399–406** — **8/8**;
-- Tamil: **`verified-complete` / FROZEN**; T2 **1 correction**, T3 **0 additional source corrections / 0 consolidation repairs**, unresolved **0**;
-- English E1: **COMPLETE — 8/8**;
-- English E2: **PASS / COMPLETE — 8/8; 0 corrections; 0 unresolved**;
-- English E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**;
-- English: **`verified-complete`**;
-- venue remains **not explicitly stated / not inferred**;
-- repository closure: **PASS / COMPLETE — FULLY ARCHIVED**;
-- closure speech-body changes: Tamil **0**, English **0**.
+### Constituent 36 — `பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டுவிழா`
+- directory: `speeches/pidil-kumbakonam-rajamanickam-pillai-nootraandu-vizha/`;
+- PDF **416–424** / printed **415–423** — **9/9**;
+- split extract **37–45**;
+- opening / ending / separate closing note: **VERIFIED**;
+- all **8/8** internal joins: **PASS**;
+- closing note: `26-11-98 அன்று சென்னையில் பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழாவில் ஆற்றிய உரை`;
+- date / venue / event / role: **1998-11-26 / சென்னை / பிடில் கும்பகோணம் இராஜமாணிக்கம் பிள்ளை நூற்றாண்டு விழா / ஆற்றிய உரை**;
+- contents/page-heading `நூற்றாண்டுவிழா` versus closing-note `நூற்றாண்டு விழா`: **preserved**;
+- prior boundary PDF415: **PASS**;
+- terminal boundary PDF425: **PASS — non-speech back-cover portrait / publisher page**;
+- duplicate unresolved: **0**; boundary unresolved: **0**;
+- Tamil T1: **READY / NOT STARTED — 0/9**.
 
-Combined English batch: **17/17 E1 complete; 17/17 E2 pass; 17/17 E3 pass; 0 unresolved**.
+Combined source-gate batch: **17/17 pages inspected; 15/15 internal joins PASS; duplicate unresolved 0; boundary unresolved 0**.
 
-Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**. Constituents **1–34 are CLOSED / FULLY ARCHIVED**.
+Collection state: mapped **36/36**; source-gated **36/36**; Tamil verified **34/36**; English verified **34/36**; fully archived **34/36**. Constituents **1–34 are CLOSED / FULLY ARCHIVED**.
 
 ## Exact next gate
 
-**Source / duplicate / boundary gates for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total.**
+**Tamil T1 first-pass transcription for constituents 35 and 36 — PDF 408–424 / printed 407–423, 17 pages total, using only the attached split PDF.**
