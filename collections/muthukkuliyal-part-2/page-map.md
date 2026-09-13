@@ -77,7 +77,7 @@ Constituent body: PDF **12–424** / printed **11–423**. Stable relationship: 
 | 28 | `chennai-thiraiyulagam-nadathiya-paarattu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 29 | `chennai-thiyagigal-manimandapa-thirappuvizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
 | 30 | `isaithamizhin-unmai-varalaru-nool-veliyittu-vizha` | **CLOSED / FULLY ARCHIVED — Tamil + English verified-complete** |
-| 31 | `chennai-nathigam-ramasami-illa-manavizha` | **Tamil verified-complete / FROZEN — English E1 ready** |
+| 31 | `chennai-nathigam-ramasami-illa-manavizha` | **English verified-complete — repository closure pending** |
 | 32 | `chennai-erodu-tamizhanban-noolgal-veliyittu-vizha` | **Tamil T2 COMPLETE — Tamil T3 ready** |
 | 33–36 | — | not started |
 
@@ -336,6 +336,15 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**.
 - T3 speech-body changes: **0**;
 - Tamil is **`verified-complete` / FROZEN**.
 
+## Constituent 31 — English E1 / E2 / E3
+
+- E1: **COMPLETE — 8/8**.
+- E2: **PASS / COMPLETE — 8/8; 2 corrections; 0 unresolved**.
+- E3: **PASS / COMPLETE — 8/8; 0 additional corrections; 0 unresolved**.
+- English: **`verified-complete`**.
+- Frozen Tamil changes E1/E2/E3: **0 / 0 / 0**.
+- All 7 joins and source-sensitive checks: **PASS**.
+
 ## Next activity
 
-Constituent **31** — English E1 first-pass translation — **8 pages**, PDF **364–371** / printed **363–370**, from frozen Tamil only. Constituent **32** remains Tamil T3-ready.
+Constituent **31** — **repository closure**. Constituent **32** remains Tamil T3-ready.
