@@ -469,6 +469,28 @@ Boundary witnesses PDF350 / 364 / 372 / 391: **PASS**. Source PDF remains uncomm
 - English verified: **29/36**;
 - fully archived: **29/36**.
 
+## Constituent 30 — Tamil T3 consolidation / freeze
+
+**PASS / COMPLETE — 13/13 pages; 0 additional source corrections; 0 consolidation repairs; 0 unresolved.**
+
+- all **5/5** T2 corrections remain consolidated;
+- superseded T1 speech-body readings: **0**;
+- canonical records: **13/13**, complete / unique / ordered;
+- all **12** joins: **PASS**;
+- names/forms / quotations / English phrases / `யாழ்` / `கமகம்` / Tirukkural / applause-laughter markers / spacing variants / separate closing note: **PASS**;
+- T3 additional source corrections: **0**;
+- consolidation repairs: **0**;
+- T3 speech-body changes: **0**;
+- Tamil state: **`verified-complete` / FROZEN**.
+
+## Collection totals after constituent 30 Tamil T3
+
+- mapped: **36/36**;
+- started / source-gated: **32/36**;
+- Tamil T1/T2/T3 complete / Tamil verified: **30/36**;
+- English verified: **29/36**;
+- fully archived: **29/36**.
+
 ## Exact next gate
 
-**Tamil T3 consolidation / freeze for constituent 30 — all 13 pages.**
+**English E1 first-pass translation for constituent 30 — all 13 pages from frozen Tamil only.**
