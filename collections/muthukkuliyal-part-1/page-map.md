@@ -94,7 +94,7 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 37 | “பழைய வரலாறும் இளைய தலைமுறையும்” | 31-08-1980 | 285 | **285–304 VERIFIED / CLOSED** | **286–305 VERIFIED / CLOSED** |
 | 38 | தமிழின் சொல்வளம் | 05-10-1980 | 305 | **305–317 VERIFIED / CLOSED** | **306–318 VERIFIED / CLOSED** |
 | 39 | இளைஞர்கள் கட்டளையிடும் காலம்! | 05-10-1980 | 318 | **318–326 VERIFIED / CLOSED** | **319–327 VERIFIED / CLOSED** |
-| 40 | இலக்கியத்தில் தமிழகம் | 15-10-1980 | 327 | 327–343 | 328–344 |
+| 40 | இலக்கியத்தில் தமிழகம் | 15-10-1980 | 327 | **327–343 VERIFIED / CLOSED** | **328–344 VERIFIED / CLOSED** |
 | 41 | குறள் வழி நடப்பீர் | 20-10-1980 | 344 | 344–360 | 345–361 |
 | 42 | தத்துவம் | 18-11-1980 | 361 | 361–381 | 362–382 |
 | 43 | “பிறப்பொக்கும்” | 04-04-1981 | 382 | 382–402 | 383–403 |
@@ -124,16 +124,16 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–361 / 641**;
 - split continuity: **PASS — 1–361 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through scan361**;
-- constituent source gates: **39/61 COMPLETE**;
-- Tamil verified: **39/61**;
-- English verified: **39/61**;
-- fully archived: **39/61**;
+- constituent source gates: **40/61 COMPLETE**;
+- Tamil verified: **40/61**;
+- English verified: **40/61**;
+- fully archived: **40/61**;
 - C38 `தமிழின் சொல்வளம்`: PDF306–318 / printed305–317 — **CLOSED / FULLY ARCHIVED**; cross-split join **310→311 PASS**;
 - C39 `இளைஞர்கள் கட்டளையிடும் காலம்!`: PDF319–327 / printed318–326 — **CLOSED / FULLY ARCHIVED**;
-- C40 `இலக்கியத்தில் தமிழகம்`: complete source range **PDF328–344 / printed327–343 is supplied in split 021**;
+- C40 `இலக்கியத்தில் தமிழகம்`: PDF328–344 / printed327–343 — **CLOSED / FULLY ARCHIVED**;
 - C41 `குறள் வழி நடப்பீர்`: complete source range **PDF345–361 / printed344–360 is supplied in split 022**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Process constituent 40 `இலக்கியத்தில் தமிழகம்` — PDF328–344 / printed327–343 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then process C41 `குறள் வழி நடப்பீர்` — PDF345–361 / printed344–360 — through the same full workflow.
+Process constituent 41 `குறள் வழி நடப்பீர்` — PDF345–361 / printed344–360 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
