@@ -270,7 +270,7 @@
     "constituent_items_english_verified": 37,
     "constituent_items_archived": 37,
     "transcription_started": true,
-    "next_gate": "Ingest next split beginning at original scan 311; complete constituent 38 தமிழின் சொல்வளம் with PDF311-318, then T3 freeze and English E1/E2/E3/closure. Process later complete constituents in the same split through closure.",
+    "next_gate": "Ingest next split beginning at original scan 311; complete constituent 38 தமிழின் சொல்வளம் with PDF311-318, verify ending/closing note/boundary, then T3 freeze and English E1/E2/E3/closure.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": 38,
     "active_constituent_title_ta": "தமிழின் சொல்வளம்",
