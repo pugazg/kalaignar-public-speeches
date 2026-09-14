@@ -2,11 +2,12 @@
 
 - source continuity — **PDF1–515 PASS**;
 - splits received — **31/39**;
-- closed constituents — **1–48**;
-- C48 `சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா` — PDF476–480 — FULLY ARCHIVED;
-- C48 closing note — **முரசொலி 12.8.97**;
-- next boundary PDF481 = C49 — **VERIFIED**;
-- C49–C51 — **fully supplied / ready**;
+- closed constituents — **1–49**;
+- C49 `சுதந்திர தின பொன்விழா` — PDF481–488 — FULLY ARCHIVED;
+- C49 split join — **482→483 PASS**;
+- C49 closing note — **முரசொலி 16-8-97**;
+- next boundary PDF489 = C50 — **VERIFIED**;
+- C50–C51 — **fully supplied / ready**;
 - C52 — begins PDF515 / tail pending;
 - source binaries committed — **No**;
 - OCR / web / alternate source — **not used**.
