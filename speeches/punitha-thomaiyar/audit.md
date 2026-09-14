@@ -1,11 +1,11 @@
-# Audit — யாதும் ஊரே யாவரும் கேளிர்!
+# Audit — புனித தோமையர்
 
-**CLOSED / FULLY ARCHIVED — PDF205–211 / 7 pages.**
+**CLOSED / FULLY ARCHIVED — PDF212–214 / 3 pages.**
 
 - source gate — **PASS / COMPLETE**;
 - Tamil T1/T2/T3 — **COMPLETE / PASS / PASS**;
 - Tamil — **verified-complete / FROZEN**;
-- internal joins — **6/6 PASS**;
+- internal joins — **2/2 PASS**;
 - opening/title, ending and closing note — **VERIFIED**;
 - English E1/E2/E3 — **COMPLETE / PASS / PASS**;
 - English — **verified-complete**;

@@ -2,14 +2,9 @@
 
 Constituent **28 / 61** of `முத்துக் குளியல் — பாகம் I`.
 
-**PARTIAL DURABLE CHECKPOINT — PDF205–209 / printed204–208 verified through Tamil T2.**
-
-- provisional full range — PDF **205–211** / printed **204–210** — **7 pages**;
-- supplied so far — PDF **205–209** — **5/7**;
-- opening/title — **VERIFIED**;
-- available joins — **4/4 PASS**;
-- Tamil T1 — **5/5 COMPLETE**;
-- Tamil T2 — **5/5 PASS / 0 unresolved**;
-- Tamil T3/freeze — **blocked pending PDF210–211**;
-- English — **blocked pending frozen Tamil**;
+- English title — **Every Place Is Our Town; Everyone Our Kin**;
+- source range — PDF **205–211** / printed **204–210** — **7/7**;
+- Tamil — **verified-complete / FROZEN**;
+- English — **verified-complete**;
+- repository closure — **FULLY ARCHIVED**;
 - source binary — **not committed**.

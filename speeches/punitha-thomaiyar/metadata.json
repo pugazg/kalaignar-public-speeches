@@ -1,8 +1,8 @@
 {
-  "id": "yathum-oore-yavarum-kelir",
+  "id": "punitha-thomaiyar",
   "title": {
-    "ta": "யாதும் ஊரே யாவரும் கேளிர்!",
-    "en": "Every Place Is Our Town; Everyone Our Kin"
+    "ta": "புனித தோமையர்",
+    "en": "Saint Thomas"
   },
   "creator": {
     "name_ta": "கலைஞர் மு. கருணாநிதி",
@@ -13,21 +13,21 @@
   "parent_collection": {
     "id": "muthukkuliyal-part-1",
     "title_ta": "முத்துக் குளியல் — பாகம் I",
-    "constituent_number": 28,
+    "constituent_number": 29,
     "constituent_total": 61
   },
   "speech": {
-    "date": "1973-10-28",
-    "closing_note_source_text": "1973-ஆம் ஆண்டு அக்டோபர் 28-ஆம் நாள் ஆரோவில் சர்வதேச நகரில் தமிழக அரங்கிற்கு அடிக்கல் நாட்டிப் பேசியது."
+    "date": "1972-04-16",
+    "closing_note_source_text": "1972-ஆம் ஆண்டு ஏப்ரல் 16-ஆம் நாள் புனித தோமையர் விழாவில் பேசியது."
   },
   "source": {
     "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
     "original_pdf_pages_user_confirmed": 641,
-    "pdf_page_start": 205,
-    "pdf_page_end": 211,
-    "printed_page_start": 204,
-    "printed_page_end": 210,
-    "speech_pages_total": 7,
+    "pdf_page_start": 212,
+    "pdf_page_end": 214,
+    "printed_page_start": 211,
+    "printed_page_end": 213,
+    "speech_pages_total": 3,
     "binary_committed": false
   },
   "workflow": {
@@ -36,24 +36,24 @@
     "opening_verified": true,
     "ending_verified": true,
     "source_closing_note_verified": true,
-    "internal_joins_checked": 6,
+    "internal_joins_checked": 2,
     "internal_joins_unresolved": 0,
     "tamil_transcription": "verified-complete",
     "tamil_visual_audit": "complete",
     "tamil_consolidation": "complete",
     "tamil_frozen": true,
-    "t1_pages_completed": 7,
-    "t2_pages_checked": 7,
+    "t1_pages_completed": 3,
+    "t2_pages_checked": 3,
     "t2_unresolved": 0,
-    "t3_pages_completed": 7,
+    "t3_pages_completed": 3,
     "t3_unresolved": 0,
     "english_translation": "verified-complete",
     "english_translation_review": "review-complete",
     "english_translation_final_verification": "verified-complete",
-    "e1_pages_completed": 7,
-    "e2_pages_checked": 7,
+    "e1_pages_completed": 3,
+    "e2_pages_checked": 3,
     "e2_unresolved": 0,
-    "e3_pages_checked": 7,
+    "e3_pages_checked": 3,
     "e3_unresolved": 0,
     "repository_closure": "complete",
     "archive_status": "fully-archived",

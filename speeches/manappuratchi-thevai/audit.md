@@ -1,11 +1,11 @@
-# Audit — யாதும் ஊரே யாவரும் கேளிர்!
+# Audit — மனப்புரட்சி தேவை
 
-**CLOSED / FULLY ARCHIVED — PDF205–211 / 7 pages.**
+**CLOSED / FULLY ARCHIVED — PDF215–223 / 9 pages.**
 
 - source gate — **PASS / COMPLETE**;
 - Tamil T1/T2/T3 — **COMPLETE / PASS / PASS**;
 - Tamil — **verified-complete / FROZEN**;
-- internal joins — **6/6 PASS**;
+- internal joins — **8/8 PASS**;
 - opening/title, ending and closing note — **VERIFIED**;
 - English E1/E2/E3 — **COMPLETE / PASS / PASS**;
 - English — **verified-complete**;

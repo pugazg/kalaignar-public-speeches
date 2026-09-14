@@ -1,9 +1,8 @@
 # யாதும் ஊரே யாவரும் கேளிர்! — Tamil transcription
 
-**Status:** `t2-partial-verified` — supplied pages **5/7** verified through Tamil T2; constituent not yet complete  
-**Current source:** split 013  
-**Available range:** original PDF **205–209** / printed **204–208**  
-**Provisional full range from contents:** PDF **205–211** / printed **204–210**
+**Status:** `verified-complete` / **FROZEN** — Tamil T1/T2/T3 **COMPLETE / PASS / PASS — 7/7 pages; 0 unresolved**  
+**Source range:** original PDF **205–211** / printed **204–210**  
+**Source:** split 013 PDF205–209 + split 014 PDF210–211
 
 Rendered scan pixels are controlling. OCR / web / alternate sources were not used.
 
@@ -93,14 +92,53 @@ Rendered scan pixels are controlling. OCR / web / alternate sources were not use
 
 அழைத்தது மாத்திரமல்ல; அவர் ஆங்கிலத்திலே சில விவரங்களைக் கூறிக் கொண்டு வந்து இடையிலே தமிழில் பேசினார்.
 
-## Partial T1 / T2 checkpoint
+## PDF 210 / printed p.209
 
-- available canonical page records: **5/7**;
-- Tamil T1: **COMPLETE for supplied pages 205–209 — 5/5**;
-- Tamil T2 strict direct-scan audit: **PASS for supplied pages 205–209 — 5/5; 0 unresolved**;
-- available joins **205→206→207→208→209: 4/4 PASS**;
-- opening/title: **VERIFIED**;
-- ending / separate closing note: **NOT YET AVAILABLE**;
-- Tamil T3 constituent consolidation / freeze: **BLOCKED pending PDF210–211**;
-- English: **BLOCKED pending frozen Tamil**;
-- these five page records are durable and should not require re-reading when the next split arrives unless a new fidelity issue appears.
+அங்கிருந்த மாடு கன்றுகளை எல்லாம் காட்டி, “இது நன்றாக இருக்கிறதா?” என்று கேட்டார். நன்றாக இருக்கிறதா என்று அவ்வளவு இலக்கணமாகக் கேட்கவில்லை. ‘நல்லா இருக்கா?’ என்று கேட்டார்.
+
+அவரது தமிழை நாங்கள் சுவைக்க ஆரம்பித்ததும் ‘கண்ணுக்குட்டி பாக்க வாரீயா?’ என்று கேட்டார்.
+
+ஆக இங்கு பேசப்படுகிற மக்களிடத்தில் பழக்கத்தில் இருக்கின்ற தமிழை வெள்ளைக்காரர்கள் வெளிநாட்டுக்காரர்கள் இன்று கற்றுக் கொள்கிறார்கள்.
+
+ஆகவே ஒரு இணைப்பு - அதாவது ஒரு சங்கமம் - மாநிலத்துக்கு மாநிலம் அல்ல - நாட்டுக்கு நாடு - உலகத்திலே இருக்கிற பல்வேறு நாடுகளுக்கு இடையே இங்கே உருவாகிறது.
+
+அந்த இணைப்புக்கு ஒரு அடையாளச் சின்னமாக விளங்குகின்ற தமிழ்நாடு அரங்க விழாவில் இன்று நாங்கள் பங்கேற்கிறோம்.
+
+நாங்கள் உலக அளவிலே கூட இணைப்பை விரும்புகிறவர்கள் - இணையாக இருக்கின்ற தன்மையை எந்த நேரத்திலும் நாங்கள் விரும்பாதவர்கள். நாங்கள் என்றைக்கும் உலக அரங்கத்தில் இணைப்பு விரும்புகிறவர்கள்.
+
+அறிக்கை படிக்கிற நேரத்தில் ‘பன்மையில் ஒருமை’ ‘ஒருமையில் பன்மை’ என்ற தொடரை அடிக்கடி சொன்னார்கள்.
+
+ஒருமையிலே பன்மை என்ற அந்த வார்த்தையைச் சொன்னால் - இங்கே 19 அரங்குகள் இந்தியப் பேரரங்கு என்கிற பெயரில் - பாரத் நிவாஸ் என்ற பெயரில் கட்டப்பட இருக்கின்றன.
+
+பத்தொன்பதையும் ஒன்றாகச் சேர்த்து பாரத் நிவாஸ் என்று இங்கே கட்டவில்லை.
+
+ஒவ்வொரு மாநிலத்துக்கும் ஒவ்வொரு அரங்கு என்று தனித் தனியாகக் கட்டி; முடிவாக பாரத் நிவாஸ்
+
+## PDF 211 / printed p.210
+
+என்று - இந்தியப் பேரரங்கம் என்று - பெயர் வைக்கிறார்கள்.
+
+அதைப் போல ஒவ்வொரு அரங்கத்திலும் அந்தந்த மாநிலத்தில் தனித் தன்மைகள் இருக்கும் என்றும் எடுத்துக் கூறியிருக்கிறார்கள்.
+
+ஆகவே இப்படிப்பட்ட இணைப்பைத்தான் நாங்கள் விரும்புகிறோம். அந்த இணைப்பை - அந்தச் சங்கமத்தை - நாம் காணுகிற நேரத்தில் பெருத்த மகிழ்ச்சி அடைகிறேன்.
+
+தமிழ்நாடு அரங்கத்திற்காகத் தமிழ்நாடு அரசின் சார்பில் ஒரு லட்சம் ரூபாய் அளிக்கப்படுகிறது என்று சொன்னார்கள்.
+
+அத்தோடு மிச்சமுள்ள ஒன்பது லட்சத்தையும் உடனடியாகக் கொடுத்துவிடும்படி என்னையும் நாவலரையும் பார்த்து இங்கே கேட்டுக் கொள்ளவும் செய்தார்கள்.
+
+அவர்கள் கேட்டபடி பணத்தை மட்டுமல்ல; ஒத்துழைப்பையும் தர இருக்கிறோம் நாங்கள்.
+
+இந்த ஆரோவில் நகரம் நல்ல முறையிலே வளர்வதைத் தமிழ்நாடு அரசு தனக்குற்ற ஒரு இலட்சியமாகக் கொண்டு, ஒத்துழைப்பை எந்த அளவுக்குத் தரமுடியுமோ அந்த அளவுக்குத் தரும்.
+
+## Separate source closing note — outside speech body
+
+**PDF 211 / printed p.210:** 1973-ஆம் ஆண்டு அக்டோபர் 28-ஆம் நாள் ஆரோவில் சர்வதேச நகரில் தமிழக அரங்கிற்கு அடிக்கல் நாட்டிப் பேசியது.
+
+## Tamil audit
+
+- T1: **COMPLETE — 7/7 pages**;
+- T2 strict direct-scan audit: **PASS / COMPLETE — 7/7; 0 unresolved**;
+- joins: **6/6 PASS**, including split boundary **209→210**;
+- opening/title, ending and closing note: **VERIFIED**;
+- T3: **PASS / COMPLETE**;
+- Tamil: **`verified-complete` / FROZEN**.
