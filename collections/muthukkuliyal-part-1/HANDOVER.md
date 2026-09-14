@@ -12,21 +12,21 @@
 - original source — `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf`;
 - original extent — **641 scans**, user-confirmed;
 - user-created splits — **39** exact-range PDFs;
-- splits received — **10/39**;
-- continuous coverage — **1–161 / 641**;
+- splits received — **13/39**;
+- continuous coverage — **1–209 / 641**;
 - binaries — **not committed**;
 - authority — rendered scan pixels only;
 - OCR / web / alternate editions — **not used**;
-- mapping — **PDF = printed + 1** confirmed through scan161;
+- mapping — **PDF = printed + 1** confirmed through scan209;
 - contents — **61/61 COMPLETE**.
 
 ## Latest split ledger
 
-- 008 — scans **115–130** — 16 pages — **46,282,563 bytes** — PASS — `bbee39c4c1a11dad3cc9cf8652d89a76f76e0bf03e16eb94b9f194a090110244`;
-- 009 — scans **131–145** — 15 pages — **46,566,765 bytes** — PASS — `d292dce11a0d708b076b7b602fa79b2cc972f33b8bdb890e09a24c77a198ddca`;
-- 010 — scans **146–161** — 16 pages — **48,312,205 bytes** — PASS — `7bf544b444dfc237a9fd69880c2ca6892d236f64f16465c48b2c8338cfaf10e6`.
+- 011 — scans **162–177** — 16 pages — **48,334,208 bytes** — PASS — `f3402df27678ef8b711358363618cc67bd8d610eee67e0a0f74f37bd89fca971`;
+- 012 — scans **178–193** — 16 pages — **47,645,162 bytes** — PASS — `0d70dc5150ee33a3e3769ffe92cab2c5e2918f79cda1b9a67548e8415981081e`;
+- 013 — scans **194–209** — 16 pages — **48,080,495 bytes** — PASS — `5b85e25417856354772d66311503fadfef761e72768f35682cf76d281730f6bc`.
 
-Continuity **1–161 — PASS / no gap / no overlap**.
+Continuity **1–209 — PASS / no gap / no overlap**.
 
 ## Incremental workflow
 
@@ -37,37 +37,51 @@ For a split-boundary constituent, supplied pages are verified immediately and on
 
 ## Closed constituents
 
-Constituents **1–20 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–27 are CLOSED / FULLY ARCHIVED**.
 
-Newly closed from splits 008–010:
+Newly closed from splits 011–013:
 
-14. **கருத்துச் சுதந்திரம்** — PDF113–118 — C14 PDF114 `நான் காண்டுக்` assembly error repaired to source-supported **`நான்காண்டுக்`** before freeze.
-15. **மலர்க் காட்சி** — PDF119–120.
-16. **கலைவாணர்** — PDF121–125.
-17. **நாடக தாசர்** — PDF126–133 — cross-split join **130→131 PASS**.
-18. **கூழாங்கல்லை வைரமாக்குவோம்** — PDF134–145.
-19. **வசதியுள்ளோர் வழி விடுக!** — PDF146–154.
-20. **இளங்கோவடிகள் (1)** — PDF155–161.
+21. **இளங்கோவடிகள் (2)** — PDF162–166.
+22. **இளங்கோவடிகள் (3)** — PDF167–171.
+23. **இளங்கோவடிகள் (4)** — PDF172–180 — split join **177→178 PASS**.
+24. **நிலா முற்றம்** — PDF181–184.
+25. **பத்திரிகைப் பெண்ணே!** — PDF185–189.
+26. **பாரதி விழா** — PDF190–198 — split join **193→194 PASS**.
+27. **கப்பலோட்டிய தமிழன்** — PDF199–204.
 
-All 1–20 have Tamil **verified-complete / FROZEN**, English **verified-complete**, repository closure **FULLY ARCHIVED**, unresolved **0**.
+All 1–27 have Tamil **verified-complete / FROZEN**, English **verified-complete**, repository closure **FULLY ARCHIVED**, unresolved **0**.
+
+## Active constituent 28 — `யாதும் ஊரே யாவரும் கேளிர்!`
+
+- provisional full range — PDF **205–211** / printed **204–210** — 7 pages;
+- supplied / durable — PDF **205–209** / printed **204–208** — **5/7**;
+- opening/title — **VERIFIED**;
+- available joins — **4/4 PASS**;
+- Tamil T1 — **5/5 COMPLETE**;
+- Tamil T2 — **5/5 PASS / 0 unresolved**;
+- T3/freeze — **BLOCKED only by missing PDF210–211**;
+- English — **BLOCKED pending frozen Tamil**;
+- do **not** re-read PDF205–209 unless a new fidelity issue appears.
 
 ## Current totals
 
-- splits — **10/39**;
-- scans — **1–161 / 641**;
-- started — **20/61**;
-- source-gated — **20/61**;
-- Tamil verified — **20/61**;
-- English verified — **20/61**;
-- fully archived — **20/61**;
-- active partial — **none**.
+- splits — **13/39**;
+- scans — **1–209 / 641**;
+- started — **28/61**;
+- source-gated — **27/61**;
+- Tamil verified — **27/61**;
+- English verified — **27/61**;
+- fully archived — **27/61**;
+- active partial — **C28, 5/7 pages T2-verified**.
 
 ## Exact next activity
 
-The next supplied split must begin at **original PDF scan162**.
+The next supplied split must begin at **original PDF scan210**.
 
-1. verify continuity after PDF161;
-2. process constituent 21 **`இளங்கோவடிகள் (2)`** — provisional PDF **162–166** / printed **161–165**;
-3. if fully bounded in the new split, take it through T1 → T2 → T3/freeze → English E1/E2/E3 → closure;
-4. continue all later fully bounded constituents in the same split;
-5. checkpoint only the final boundary-spanning constituent at the highest safe page-level state.
+1. verify continuity after PDF209;
+2. process only C28's new tail PDF210–211 through T1/T2;
+3. verify C28 ending, closing note and next boundary;
+4. run C28 T3 consolidation/freeze;
+5. complete English E1/E2/E3 and repository closure for C28;
+6. process every later fully bounded constituent in that split through closure;
+7. leave only the final boundary-spanning constituent at a durable page-level checkpoint.

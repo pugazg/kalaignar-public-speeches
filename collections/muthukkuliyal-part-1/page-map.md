@@ -16,6 +16,9 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_008_pages_115-130.pdf` | **115–130** | **16** | **46,282,563** | `bbee39c4c1a11dad3cc9cf8652d89a76f76e0bf03e16eb94b9f194a090110244` | **INSPECTED / PASS** |
 | `part_009_pages_131-145.pdf` | **131–145** | **15** | **46,566,765** | `d292dce11a0d708b076b7b602fa79b2cc972f33b8bdb890e09a24c77a198ddca` | **INSPECTED / PASS** |
 | `part_010_pages_146-161.pdf` | **146–161** | **16** | **48,312,205** | `7bf544b444dfc237a9fd69880c2ca6892d236f64f16465c48b2c8338cfaf10e6` | **INSPECTED / PASS** |
+| `part_011_pages_162-177.pdf` | **162–177** | **16** | **48,334,208** | `f3402df27678ef8b711358363618cc67bd8d610eee67e0a0f74f37bd89fca971` | **INSPECTED / PASS** |
+| `part_012_pages_178-193.pdf` | **178–193** | **16** | **47,645,162** | `0d70dc5150ee33a3e3769ffe92cab2c5e2918f79cda1b9a67548e8415981081e` | **INSPECTED / PASS** |
+| `part_013_pages_194-209.pdf` | **194–209** | **16** | **48,080,495** | `5b85e25417856354772d66311503fadfef761e72768f35682cf76d281730f6bc` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -35,7 +38,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF161 / printed p.160.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF209 / printed p.208.
 
 ## Contents inventory — 61 constituents
 
@@ -63,14 +66,14 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 18 | கூழாங்கல்லை வைரமாக்குவோம் | 23-07-1969 | 133 | **133–144 VERIFIED / CLOSED** | **134–145 VERIFIED / CLOSED** |
 | 19 | வசதியுள்ளோர் வழி விடுக! | 23-08-1970 | 145 | **145–153 VERIFIED / CLOSED** | **146–154 VERIFIED / CLOSED** |
 | 20 | இளங்கோவடிகள் (1) | 10-05-1971 | 154 | **154–160 VERIFIED / CLOSED** | **155–161 VERIFIED / CLOSED** |
-| 21 | இளங்கோவடிகள் (2) | 07-11-1971 | 161 | 161–165 | 162–166 |
-| 22 | இளங்கோவடிகள் (3) | 29-04-1973 | 166 | 166–170 | 167–171 |
-| 23 | இளங்கோவடிகள் (4) | 06-05-1973 | 171 | 171–179 | 172–180 |
-| 24 | நிலா முற்றம் | 19-04-1973 | 180 | 180–183 | 181–184 |
-| 25 | பத்திரிகைப் பெண்ணே! | 14-09-1971 | 184 | 184–188 | 185–189 |
-| 26 | பாரதி விழா | 12-09-1973 | 189 | 189–197 | 190–198 |
-| 27 | கப்பலோட்டிய தமிழன் | 07-09-1972 | 198 | 198–203 | 199–204 |
-| 28 | யாதும் ஊரே யாவரும் கேளிர்! | 28-10-1973 | 204 | 204–210 | 205–211 |
+| 21 | இளங்கோவடிகள் (2) | 07-11-1971 | 161 | **161–165 VERIFIED / CLOSED** | **162–166 VERIFIED / CLOSED** |
+| 22 | இளங்கோவடிகள் (3) | 29-04-1973 | 166 | **166–170 VERIFIED / CLOSED** | **167–171 VERIFIED / CLOSED** |
+| 23 | இளங்கோவடிகள் (4) | 06-05-1973 | 171 | **171–179 VERIFIED / CLOSED** | **172–180 VERIFIED / CLOSED** |
+| 24 | நிலா முற்றம் | 19-04-1973 | 180 | **180–183 VERIFIED / CLOSED** | **181–184 VERIFIED / CLOSED** |
+| 25 | பத்திரிகைப் பெண்ணே! | 14-09-1971 | 184 | **184–188 VERIFIED / CLOSED** | **185–189 VERIFIED / CLOSED** |
+| 26 | பாரதி விழா | 12-09-1973 | 189 | **189–197 VERIFIED / CLOSED** | **190–198 VERIFIED / CLOSED** |
+| 27 | கப்பலோட்டிய தமிழன் | 07-09-1972 | 198 | **198–203 VERIFIED / CLOSED** | **199–204 VERIFIED / CLOSED** |
+| 28 | யாதும் ஊரே யாவரும் கேளிர்! | 28-10-1973 | 204 | 204–210 | 205–211 (**PDF205–209 T2-VERIFIED; tail pending**) |
 | 29 | புனித தோமையர் | 16-04-1972 | 211 | 211–213 | 212–214 |
 | 30 | மனப்புரட்சி தேவை | 05-09-1971 | 214 | 214–222 | 215–223 |
 | 31 | அலகாபாத் மாநாடு | 14-10-1973 | 223 | 223–233 | 224–234 |
@@ -108,20 +111,20 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **10/39**;
-- original-scan coverage received: **1–161 / 641**;
-- split continuity: **PASS — 1–161 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan161**;
-- constituent source gates: **20/61 COMPLETE**;
-- Tamil verified: **20/61**;
-- English verified: **20/61**;
-- fully archived: **20/61**;
-- C14 `கருத்துச் சுதந்திரம்`: earlier PDF114 assembly typo repaired to source-supported **`நான்காண்டுக்`** before freeze;
-- C17 `நாடக தாசர்`: cross-split join **130→131 PASS**;
-- C19 `வசதியுள்ளோர் வழி விடுக!`: PDF146–154 / printed145–153 closed;
-- C20 `இளங்கோவடிகள் (1)`: PDF155–161 / printed154–160 closed;
+- source splits received: **13/39**;
+- original-scan coverage received: **1–209 / 641**;
+- split continuity: **PASS — 1–209 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan209**;
+- constituent source gates: **27/61 COMPLETE**;
+- Tamil verified: **27/61**;
+- English verified: **27/61**;
+- fully archived: **27/61**;
+- C23 `இளங்கோவடிகள் (4)`: cross-split join **177→178 PASS**;
+- C26 `பாரதி விழா`: cross-split join **193→194 PASS**;
+- C28 `யாதும் ஊரே யாவரும் கேளிர்!`: PDF205–209 / printed204–208 — **T1/T2 COMPLETE for supplied 5/7 pages; 0 unresolved**;
+- C28 closing boundary: **pending PDF210–211**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Next supplied split must begin at **PDF162**. Process constituent 21 `இளங்கோவடிகள் (2)` (provisional PDF162–166 / printed161–165) through the full source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure if fully bounded. Continue later fully bounded constituents in the same split, and leave only the final boundary-spanning constituent at a durable page-level checkpoint.
+Next supplied split must begin at **PDF210**. Finish constituent 28 `யாதும் ஊரே யாவரும் கேளிர்!` with PDF210–211, verify ending/closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → repository closure. Continue every later fully bounded constituent in that split through closure, leaving only the final boundary-spanning constituent at a durable page-level checkpoint.

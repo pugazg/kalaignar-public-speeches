@@ -6,40 +6,51 @@ The original PDF has **641 scans** and is split into **39 exact-range pieces**. 
 
 ## Current intake
 
-- splits received — **10/39**;
-- continuous scan coverage — **1–161 / 641**;
+- splits received — **13/39**;
+- continuous scan coverage — **1–209 / 641**;
 - continuity — **PASS / no gap / no overlap**;
-- body mapping — **PDF = printed + 1** confirmed through scan161;
+- body mapping — **PDF = printed + 1** confirmed through scan209;
 - contents — **61/61 COMPLETE**.
 
 Latest splits:
-- 008 — PDF115–130 — 16 pages — 46,282,563 bytes — `bbee39c4c1a11dad3cc9cf8652d89a76f76e0bf03e16eb94b9f194a090110244`;
-- 009 — PDF131–145 — 15 pages — 46,566,765 bytes — `d292dce11a0d708b076b7b602fa79b2cc972f33b8bdb890e09a24c77a198ddca`;
-- 010 — PDF146–161 — 16 pages — 48,312,205 bytes — `7bf544b444dfc237a9fd69880c2ca6892d236f64f16465c48b2c8338cfaf10e6`.
+- 011 — PDF162–177 — 16 pages — 48,334,208 bytes — `f3402df27678ef8b711358363618cc67bd8d610eee67e0a0f74f37bd89fca971`;
+- 012 — PDF178–193 — 16 pages — 47,645,162 bytes — `0d70dc5150ee33a3e3769ffe92cab2c5e2918f79cda1b9a67548e8415981081e`;
+- 013 — PDF194–209 — 16 pages — 48,080,495 bytes — `5b85e25417856354772d66311503fadfef761e72768f35682cf76d281730f6bc`.
 
 ## Workflow state
 
-Constituents **1–20 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
+Constituents **1–27 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
 
 Newly closed:
-- 14 `கருத்துச் சுதந்திரம்` — PDF113–118;
-- 15 `மலர்க் காட்சி` — PDF119–120;
-- 16 `கலைவாணர்` — PDF121–125;
-- 17 `நாடக தாசர்` — PDF126–133;
-- 18 `கூழாங்கல்லை வைரமாக்குவோம்` — PDF134–145;
-- 19 `வசதியுள்ளோர் வழி விடுக!` — PDF146–154;
-- 20 `இளங்கோவடிகள் (1)` — PDF155–161.
+- 21 `இளங்கோவடிகள் (2)` — PDF162–166;
+- 22 `இளங்கோவடிகள் (3)` — PDF167–171;
+- 23 `இளங்கோவடிகள் (4)` — PDF172–180;
+- 24 `நிலா முற்றம்` — PDF181–184;
+- 25 `பத்திரிகைப் பெண்ணே!` — PDF185–189;
+- 26 `பாரதி விழா` — PDF190–198;
+- 27 `கப்பலோட்டிய தமிழன்` — PDF199–204.
 
-C14's earlier PDF114 assembly typo was repaired to source-supported **`நான்காண்டுக்`** before Tamil freeze. C17's split boundary **130→131** is verified PASS.
+Cross-split joins **177→178** and **193→194** are verified PASS.
+
+## Active partial
+
+### 28 — `யாதும் ஊரே யாவரும் கேளிர்!`
+
+- provisional full range — PDF205–211 / printed204–210;
+- supplied — **PDF205–209 / 5 of 7 pages**;
+- T1 — **5/5 COMPLETE**;
+- T2 — **5/5 PASS / 0 unresolved**;
+- available joins — **4/4 PASS**;
+- T3 and English — blocked only by missing PDF210–211.
 
 ## Totals
 
-- source-gated — **20/61**;
-- Tamil verified — **20/61**;
-- English verified — **20/61**;
-- fully archived — **20/61**;
-- active partial — **none**.
+- source-gated — **27/61**;
+- Tamil verified — **27/61**;
+- English verified — **27/61**;
+- fully archived — **27/61**;
+- active partial — **C28, PDF205–209 T2-verified**.
 
 ## Next activity
 
-Ingest the next split beginning at **PDF162**. Start constituent 21 `இளங்கோவடிகள் (2)`, provisional PDF162–166 / printed161–165, and process every fully bounded constituent in that split through repository closure.
+Ingest the next split beginning at **PDF210**. Finish C28's tail PDF210–211, freeze Tamil, complete English E1/E2/E3 and repository closure, then continue every later fully bounded constituent in that split through closure.
