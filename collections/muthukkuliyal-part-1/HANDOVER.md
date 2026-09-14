@@ -10,12 +10,12 @@
 ## Source state
 
 - original extent — **641 scans**;
-- splits received — **34/39**;
-- continuous coverage — **PDF1–567 / 641**;
+- splits received — **39/39**;
+- continuous coverage — **PDF1–641 / 641**;
 - continuity — **PASS / no gap / no overlap**;
 - source authority — rendered scan pixels only;
 - OCR / web / alternate editions — **not used**;
-- mapping — **PDF = printed + 1 through scan567**;
+- mapping — **PDF = printed + 1 through body end PDF640 / printed639; PDF641 is the back cover**;
 - source binaries — **not committed**.
 
 ## Closed constituents
@@ -24,18 +24,18 @@ Constituents **1–54 are CLOSED / FULLY ARCHIVED**.
 
 Latest closure:
 
-54. **அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா** — PDF543–554 / printed542–553 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, cross-split join **550→551 PASS**. Source closing note: **முரசொலி 9.9.97**. Next boundary PDF555 = C55 — VERIFIED.
+54. **அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா** — PDF543–554 / printed542–553 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, cross-split join **550→551 PASS**. Source closing note: **முரசொலி 9.9.97**. Post-closure direct-scan fidelity repair: **COMPLETE / REVALIDATED — 4 corrections / 0 unresolved; English E2/E3 revalidated PASS**. Next boundary PDF555 = C55 — VERIFIED.
 
 ## Source now available
 
-C55 **ஆழ்வார்கள் ஆய்வு மைய விழா** — provisional full range PDF **555–569** / printed **554–568**. Current supplied portion is **PDF555–567 / printed554–566**. PDF568–569 remains pending.
+C55 **ஆழ்வார்கள் ஆய்வு மைய விழா** — full source **PDF555–569 / printed554–568** is now supplied and source-bounded. PDF569 ends with **முரசொலி 10-9-97**; PDF570 begins C56 **அன்னை தெரசாவின் படத்திறப்பு** — VERIFIED. Splits 035–039 complete the source through PDF641; PDF640 / printed639 is the final speech-body page and PDF641 is the back cover.
 
 ## Totals
 
-- splits — **34/39**;
-- scans — **1–567 / 641**;
+- splits — **39/39**;
+- scans — **1–641 / 641**;
 - fully archived — **54/61**.
 
 ## Exact next activity
 
-Process C55 PDF555–567 through Tamil T1/T2 from rendered scan pixels and leave a durable partial checkpoint. Do not perform C55 T3/freeze or English until PDF568–569 is supplied.
+Process C55 `ஆழ்வார்கள் ஆய்வு மைய விழா` PDF555–569 / printed554–568 through the full source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure workflow.
