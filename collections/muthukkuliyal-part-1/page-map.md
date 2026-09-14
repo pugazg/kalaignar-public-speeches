@@ -131,8 +131,8 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 57 | பாரதியார் விழா | 12-09-1997 | 573 | **573–594 VERIFIED / CLOSED** | **574–595 VERIFIED / CLOSED** |
 | 58 | கன்னிமாரா பொது நூலக நூற்றாண்டு விழா | 13-09-1997 | 595 | **595–608 VERIFIED / CLOSED** | **596–609 VERIFIED / CLOSED** |
 | 59 | சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா | 18-09-1997 | 609 | **609–620 VERIFIED / CLOSED** | **610–621 VERIFIED / CLOSED** |
-| 60 | டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா | 21-09-1997 | 621 | 621–628 | 622–629 (**ALL SCANS SUPPLIED; PDF622 OPENING VERIFIED; ENDING BOUNDARY PENDING SOURCE GATE**) |
-| 61 | ஆதித்தனார் பிறந்தநாள் விழா | 28-09-1997 | 629 | **629–639 TERMINAL END VERIFIED** | **630–640 TERMINAL END VERIFIED** |
+| 60 | டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா | 21-09-1997 | 621 | **621–628 VERIFIED / CLOSED** | **622–629 VERIFIED / CLOSED** |
+| 61 | ஆதித்தனார் பிறந்தநாள் விழா | 28-09-1997 | 629 | **629–639 SOURCE-BOUNDED / TERMINAL END VERIFIED** | **630–640 FULL SOURCE SUPPLIED / PDF630 OPENING VERIFIED / PDF640 TERMINAL END VERIFIED** |
 
 ## Intake status
 
@@ -141,10 +141,10 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–641 / 641**;
 - split continuity: **PASS — 1–641 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through final body PDF640 / printed639; PDF641 back cover**;
-- constituent source gates: **59/61 COMPLETE**;
-- Tamil verified: **59/61**;
-- English verified: **59/61**;
-- fully archived: **59/61**;
+- constituent source gates: **60/61 COMPLETE**;
+- Tamil verified: **60/61**;
+- English verified: **60/61**;
+- fully archived: **60/61**;
 - C49 `சுதந்திர தினப் பொன்விழா`: PDF481–488 / printed480–487 — **CLOSED / FULLY ARCHIVED**; cross-split join **482→483 PASS**; source closing note **முரசொலி 16-8-97**;
 - C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: PDF489–502 / printed488–501 — **CLOSED / FULLY ARCHIVED**; cross-split join **499→500 PASS**; source closing note **முரசொலி 20-8-97**;
 - C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: PDF503–514 / printed502–513 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 2.9.97**;
@@ -156,9 +156,9 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - C57 `பாரதியார் விழா`: PDF574–595 / printed573–594 — **CLOSED / FULLY ARCHIVED**; page joins **21/21 PASS**; cross-split **584→585 PASS**; Tamil T2 **3 corrections / 0 unresolved**; source closing note **முரசொலி 12.9.97**; next boundary **PDF596 = C58 VERIFIED**;
 - C58 `கன்னிமாரா பொது நூலக நூற்றாண்டு விழா`: PDF596–609 / printed595–608 — **CLOSED / FULLY ARCHIVED**; page joins **13/13 PASS**; cross-split **601→602 PASS**; Tamil T2 **0 corrections / 0 unresolved**; source closing note **முரசொலி 13-9-97**; next boundary **PDF610 = C59 VERIFIED**;
 - C59 contents title `சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா` / body heading `சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா`: PDF610–621 / printed609–620 — **CLOSED / FULLY ARCHIVED**; page joins **11/11 PASS**; cross-split **618→619 PASS**; Tamil T2 **0 corrections / 0 unresolved**; title variation preserved without harmonization; source closing note **முரசொலி 18-9-97**; next boundary **PDF622 = C60 VERIFIED**;
-- C60 `டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா`: all scans supplied for provisional **PDF622–629 / printed621–628**; **PDF622 opening/title VERIFIED**; ending/next-boundary check pending source gate;
-- terminal end for constituent 61: **PDF640 / printed639 VERIFIED**; source closing note **முரசொலி 28.9.97**; **PDF641 back cover**.
+- C60 `டாக்டர் அம்பேத்கர் பல்கலைக்கழக தொடக்க விழா`: PDF622–629 / printed621–628 — **CLOSED / FULLY ARCHIVED**; page joins **7/7 PASS**; Tamil T2 **0 corrections / 0 unresolved**; PDF622 body `அண்ணல் அம்பேத்கார்` and later `அம்பேத்கர்` preserved; source closing note **முரசொலி 21-9-97**; next boundary **PDF630 = C61 VERIFIED**;
+- C61 `ஆதித்தனார் பிறந்தநாள் விழா`: **PDF630–640 / printed629–639 FULL SOURCE SUPPLIED / SOURCE-BOUNDED**; PDF630 opening/title **VERIFIED**; PDF640 terminal end and source closing note **முரசொலி 28.9.97 VERIFIED**; **PDF641 back cover**.
 
 ## Current next gate
 
-Process C60 `டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா` — provisional **PDF622–629 / printed621–628** — first verify ending and PDF630 next boundary, then Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
+Process final C61 `ஆதித்தனார் பிறந்தநாள் விழா` — **PDF630–640 / printed629–639** — through Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure, then perform collection-level final closure checks.
