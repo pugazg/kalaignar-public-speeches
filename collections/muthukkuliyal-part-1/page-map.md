@@ -88,8 +88,8 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 34 | தமிழ்க்குடி மகன் | 05-08-1979 | 255 | **255–269 VERIFIED / CLOSED** | **256–270 VERIFIED / CLOSED** |
 | 35 | மாணவர்களும் அரசியலும் | 12-01-1979 | 270 | **270–276 VERIFIED / CLOSED** | **271–277 VERIFIED / CLOSED** |
 | 36 | ‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!! | 11-02-1980 | 277 | **277–284 VERIFIED / CLOSED** | **278–285 VERIFIED / CLOSED** |
-| 37 | “பழைய வரலாறும் இளைய தலைமுறையும்” | 31-08-1980 | 285 | 285–304 | 286–305 |
-| 38 | தமிழின் சொல்வளம் | 05-10-1980 | 305 | 305–317 | 306–318 |
+| 37 | “பழைய வரலாறும் இளைய தலைமுறையும்” | 31-08-1980 | 285 | **285–304 VERIFIED / CLOSED** | **286–305 VERIFIED / CLOSED** |
+| 38 | தமிழின் சொல்வளம் | 05-10-1980 | 305 | 305–317 | 306–318 (**PDF306–310 T2-VERIFIED; tail pending**) |
 | 39 | இளைஞர்கள் கட்டளையிடும் காலம்! | 05-10-1980 | 318 | 318–326 | 319–327 |
 | 40 | இலக்கியத்தில் தமிழகம் | 15-10-1980 | 327 | 327–343 | 328–344 |
 | 41 | குறள் வழி நடப்பீர் | 20-10-1980 | 344 | 344–360 | 345–361 |
@@ -121,17 +121,18 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–310 / 641**;
 - split continuity: **PASS — 1–310 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through scan310**;
-- constituent source gates: **36/61 COMPLETE**;
-- Tamil verified: **36/61**;
-- English verified: **36/61**;
-- fully archived: **36/61**;
+- constituent source gates: **37/61 COMPLETE**;
+- Tamil verified: **37/61**;
+- English verified: **37/61**;
+- fully archived: **37/61**;
 - C34 `தமிழ்க்குடி மகன்!`: PDF256–270 / printed255–269 — **CLOSED / FULLY ARCHIVED**;
 - C34 cross-split join **259→260 PASS**;
 - C35 `மாணவர்களும் அரசியலும்`: PDF271–277 / printed270–276 — **CLOSED / FULLY ARCHIVED**; cross-split join **276→277 PASS**;
 - C36 `‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!!`: PDF278–285 / printed277–284 — **CLOSED / FULLY ARCHIVED**;
-- later source available through **PDF310**, including complete C37 plus C38 PDF306–310 partial;
+- C37 `“பழைய வரலாறும் இளைய தலைமுறையும்”`: PDF286–305 / printed285–304 — **CLOSED / FULLY ARCHIVED**; cross-split join **293→294 PASS**;
+- C38 `தமிழின் சொல்வளம்`: PDF306–310 / printed305–309 — **T1/T2 COMPLETE for supplied 5/13 pages; 0 unresolved**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Process constituent 37 `“பழைய வரலாறும் இளைய தலைமுறையும்”` — PDF286–305 / printed285–304 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then checkpoint C38 at the highest safe page-level state supported by PDF306–310.
+Next supplied split must begin at **PDF311**. Finish constituent 38 `தமிழின் சொல்வளம்` with PDF311–318, verify ending/closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → repository closure. Continue every later fully bounded constituent in that split through closure.
