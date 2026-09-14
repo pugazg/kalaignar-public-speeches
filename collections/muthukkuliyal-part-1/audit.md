@@ -11,10 +11,10 @@
 
 ## Closure state
 
-Constituents **1–40 — CLOSED / FULLY ARCHIVED**.
+Constituents **1–41 — CLOSED / FULLY ARCHIVED**.
 
-C40 `இலக்கியத்தில் தமிழகம்`:
-- PDF328–344 / 17 pages;
+C41 `குறள் வழி நடப்பீர்`:
+- PDF345–361 / 17 pages;
 - source gate — PASS;
 - Tamil T1/T2/T3 — COMPLETE / PASS / PASS;
 - English E1/E2/E3 — COMPLETE / PASS / PASS;
@@ -22,4 +22,4 @@ C40 `இலக்கியத்தில் தமிழகம்`:
 
 ## Next gate
 
-C41 `குறள் வழி நடப்பீர்` — PDF345–361 — is fully available.
+**Next split beginning PDF362.** C42 `தத்துவம்` is provisionally PDF362–382 / printed361–381.
