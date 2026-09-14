@@ -18,7 +18,7 @@
   },
   "speech": {
     "date": "1997-07-14",
-    "date_status": "contents-and-terminal-note-source-available",
+    "event_source_text": "‘தமிழுக்கு நிறம் உண்டு’ கவிதை நூல் வெளியீட்டு விழா",
     "closing_note_source_text": "முரசொலி 14.7.97"
   },
   "source": {
@@ -61,6 +61,10 @@
     "e2_unresolved": 0,
     "e3_pages_checked": 31,
     "e3_unresolved": 0,
-    "repository_closure": "complete"
+    "repository_closure": "complete",
+    "cross_split_joins": [
+      "429-430-pass",
+      "447-448-pass"
+    ]
   }
 }

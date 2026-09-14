@@ -7,6 +7,6 @@
 
 Review authority was frozen `transcription-ta.md` only. No OCR, web, or alternate source was used.
 
-The review checked the preface/colour metaphor, `இலக்கியம்` conference anecdote, everyday-experience poems, printing-error joke, “Twenty Commands,” Ambedkar/widowhood passages, fire and Vipra-Purana section, animal metaphors, Ayodhya/`kar seva` poem, river imagery, father-son-donkey story, old-glory/desert-plant image, final egalitarian appeal, split join PDF447→448 and terminal `முரசொலி 14.7.97` note.
+The review checked the book-release framing, preface/Tamil-colour metaphor, Coimbatore literary-conference anecdote, everyday-life poems, printing-error joke, social-reform poems, fire/mythology discussion, animal/human satire, Ayodhya/kar-seva section, river poem, father-son-donkey analogy, desert-plant/Tamil image, final social vision and the source closing note.
 
 Repository closure: **PASS / COMPLETE — FULLY ARCHIVED**.
