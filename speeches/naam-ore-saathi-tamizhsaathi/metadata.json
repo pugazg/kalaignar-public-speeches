@@ -1,0 +1,55 @@
+{
+  "id": "naam-ore-saathi-tamizhsaathi",
+  "title": {
+    "ta": "நாம் ஒரே சாதி - தமிழ்ச்சாதி!",
+    "en": "We Are One Caste — the Tamil Caste!"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 44,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date_status": "pending-closing-note-verification"
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 404,
+    "pdf_page_end_provisional": 427,
+    "printed_page_start": 403,
+    "printed_page_end_provisional": 426,
+    "speech_pages_total_provisional": 24,
+    "binary_committed": false,
+    "current_supplied_pdf_start": 404,
+    "current_supplied_pdf_end": 412
+  },
+  "workflow": {
+    "source_inspection": "partial",
+    "source_boundary_mapping": "partial",
+    "opening_verified": true,
+    "ending_verified": false,
+    "source_closing_note_verified": false,
+    "tamil_transcription": "t1-partial-complete",
+    "tamil_visual_audit": "t2-partial-complete",
+    "tamil_consolidation": "blocked-pending-tail",
+    "tamil_frozen": false,
+    "supplied_pages_total": 9,
+    "t1_pages_completed": 9,
+    "t2_pages_checked": 9,
+    "t2_unresolved": 0,
+    "available_joins_checked": 8,
+    "available_joins_unresolved": 0,
+    "english_translation": "blocked-pending-frozen-tamil",
+    "archive_status": "partial-t2-verified-tail-pending",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Ingest PDF413-427, complete Tamil T1/T2 for remaining pages, verify ending/closing note/boundary, then T3 freeze and English workflow."
+  }
+}
