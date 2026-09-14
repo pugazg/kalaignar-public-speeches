@@ -34,6 +34,9 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_026_pages_413-429.pdf` | **413–429** | **17** | **48,479,699** | `7ac2cbd57b8e50d4640ec0a251d4a04d544fab0668866acd72915b2d7e1d5650` | **INSPECTED / PASS** |
 | `part_027_pages_430-447.pdf` | **430–447** | **18** | **48,742,197** | `6bf6d90fb422a6d4699ee61eb863fdc1a1aca60ea99fbc6a12b4e59d7cf27a79` | **INSPECTED / PASS** |
 | `part_028_pages_448-465.pdf` | **448–465** | **18** | **47,644,768** | `609fca8e072a41c1246a4d6b983beb4e212d6c40863170f9fc3967c6f37436bc` | **INSPECTED / PASS** |
+| `part_029_pages_466-482.pdf` | **466–482** | **17** | **46,748,582** | `e5de4c44383c19c34b0f937778e9c4019561d633467dfe694195c6705c124020` | **INSPECTED / PASS** |
+| `part_030_pages_483-499.pdf` | **483–499** | **17** | **48,616,803** | `566697c4a6ade0f2cfcca6361a1e7924273bc32c91c34e15c3ffc8b8588bee57` | **INSPECTED / PASS** |
+| `part_031_pages_500-515.pdf` | **500–515** | **16** | **46,094,338** | `8b0fbe0a8e29acc75147de9b4d7faf880ba1d247e4a795b739f63449030c7059` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -53,7 +56,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF465 / printed p.464.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF515 / printed p.514.
 
 ## Contents inventory — 61 constituents
 
@@ -106,13 +109,13 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 43 | “பிறப்பொக்கும்” | 04-04-1981 | 382 | **382–402 VERIFIED / CLOSED** | **383–403 VERIFIED / CLOSED** |
 | 44 | நாம் ஒரே சாதி - தமிழ்ச்சாதி | 11-04-1982 | 403 | **403–426 VERIFIED / CLOSED** | **404–427 VERIFIED / CLOSED** |
 | 45 | தமிழுக்கு நிறம் உண்டு | 14-07-1997 | 427 | **427–457 VERIFIED / CLOSED** | **428–458 VERIFIED / CLOSED** |
-| 46 | ‘ஹைக்கூ கவிதைகள்’ | 04-08-1997 | 458 | 458–469 | 459–470 (**PDF459–465 SUPPLIED; tail 466–470 pending**) |
-| 47 | திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா | 07-08-1997 | 470 | 470–474 | 471–475 |
-| 48 | சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா | 12-08-1997 | 475 | 475–479 | 476–480 |
-| 49 | சுதந்திர தினப் பொன்விழா | 16-08-1997 | 480 | 480–487 | 481–488 |
-| 50 | மாநகராட்சியில் சுதந்திரப் பொன்விழா | 20-08-1997 | 488 | 488–501 | 489–502 |
-| 51 | சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா | 02-09-1997 | 502 | 502–513 | 503–514 |
-| 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | 514–527 | 515–528 |
+| 46 | ‘ஹைக்கூ கவிதைகள்’ | 04-08-1997 | 458 | **458–469 VERIFIED / CLOSED** | **459–470 VERIFIED / CLOSED** |
+| 47 | திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா | 07-08-1997 | 470 | 470–474 | 471–475 (**FULL SOURCE SUPPLIED; NEXT**) |
+| 48 | சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா | 12-08-1997 | 475 | 475–479 | 476–480 (**FULL SOURCE SUPPLIED**) |
+| 49 | சுதந்திர தினப் பொன்விழா | 16-08-1997 | 480 | 480–487 | 481–488 (**FULL SOURCE SUPPLIED**) |
+| 50 | மாநகராட்சியில் சுதந்திரப் பொன்விழா | 20-08-1997 | 488 | 488–501 | 489–502 (**FULL SOURCE SUPPLIED**) |
+| 51 | சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா | 02-09-1997 | 502 | 502–513 | 503–514 (**FULL SOURCE SUPPLIED**) |
+| 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | 514–527 | 515–528 (**PDF515 SUPPLIED; tail pending**) |
 | 53 | டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா | 06-09-1997 | 528 | 528–541 | 529–542 |
 | 54 | அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா | 09-09-1997 | 542 | 542–553 | 543–554 |
 | 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | 554–568 | 555–569 |
@@ -126,19 +129,23 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **28/39**;
-- original-scan coverage received: **1–465 / 641**;
-- split continuity: **PASS — 1–465 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan465**;
-- constituent source gates: **45/61 COMPLETE**;
-- Tamil verified: **45/61**;
-- English verified: **45/61**;
-- fully archived: **45/61**;
-- C44 `நாம் ஒரே சாதி - தமிழ்ச்சாதி!`: PDF404–427 / printed403–426 — **CLOSED / FULLY ARCHIVED**; cross-split join **412→413 PASS**;
-- C45 `தமிழுக்கு நிறம் உண்டு`: PDF428–458 / printed427–457 — **CLOSED / FULLY ARCHIVED**; split join **447→448 PASS**;
-- C46 `‘ஹைக்கூ கவிதைகள்’`: source supplied **PDF459–465 / printed458–464**, while provisional full range is PDF459–470 / printed458–469;
+- source splits received: **31/39**;
+- original-scan coverage received: **1–515 / 641**;
+- split continuity: **PASS — 1–515 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan515**;
+- constituent source gates: **46/61 COMPLETE**;
+- Tamil verified: **46/61**;
+- English verified: **46/61**;
+- fully archived: **46/61**;
+- C46 `‘ஹைக்கூ கவிதைகள்’`: PDF459–470 / printed458–469 — **CLOSED / FULLY ARCHIVED**; cross-split join **465→466 PASS**; source closing note **முரசொலி 4.8.97**;
+- C47 `திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா`: full source **PDF471–475** supplied;
+- C48 `சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா`: full source **PDF476–480** supplied;
+- C49 `சுதந்திர தினப் பொன்விழா`: full source **PDF481–488** supplied across splits 029–030;
+- C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: full source **PDF489–502** supplied across splits 030–031;
+- C51 `சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: full source **PDF503–514** supplied;
+- C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: source begins at **PDF515**; tail PDF516–528 pending;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Process supplied C46 `‘ஹைக்கூ கவிதைகள்’` pages **PDF459–465 / printed458–464** through Tamil T1/T2 and leave a durable partial checkpoint; its provisional tail PDF466–470 remains unavailable.
+Process C47 `திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா` — PDF471–475 / printed470–474 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C48–C51 in order; all are fully supplied.

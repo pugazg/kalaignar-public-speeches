@@ -343,33 +343,66 @@
         "sha256": "609fca8e072a41c1246a4d6b983beb4e212d6c40863170f9fc3967c6f37436bc",
         "status": "inspected-pass",
         "binary_committed": false
+      },
+      {
+        "split_number": 29,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_029_pages_466-482.pdf",
+        "original_pdf_scan_start": 466,
+        "original_pdf_scan_end": 482,
+        "pages": 17,
+        "bytes": 46748582,
+        "sha256": "e5de4c44383c19c34b0f937778e9c4019561d633467dfe694195c6705c124020",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 30,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_030_pages_483-499.pdf",
+        "original_pdf_scan_start": 483,
+        "original_pdf_scan_end": 499,
+        "pages": 17,
+        "bytes": 48616803,
+        "sha256": "566697c4a6ade0f2cfcca6361a1e7924273bc32c91c34e15c3ffc8b8588bee57",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 31,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_031_pages_500-515.pdf",
+        "original_pdf_scan_start": 500,
+        "original_pdf_scan_end": 515,
+        "pages": 16,
+        "bytes": 46094338,
+        "sha256": "8b0fbe0a8e29acc75147de9b4d7faf880ba1d247e4a795b739f63449030c7059",
+        "status": "inspected-pass",
+        "binary_committed": false
       }
     ]
   },
   "workflow": {
     "source_inspection": "in-progress",
-    "split_intake_received": 28,
+    "split_intake_received": 31,
     "split_intake_expected": 39,
-    "original_scans_received_through": 465,
+    "original_scans_received_through": 515,
     "contents_capture_state": "complete",
     "constituent_items_total": 61,
     "constituent_items_contents_captured": 61,
-    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-45-source-available-through-46-partial",
+    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-46-source-available-through-52-partial",
     "printed_to_pdf_offset_observed_frontmatter": 1,
-    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-465",
-    "constituent_items_started": 45,
-    "constituent_items_source_gated": 45,
-    "constituent_items_t1_complete": 45,
-    "constituent_items_t2_complete": 45,
-    "constituent_items_t3_complete": 45,
-    "constituent_items_tamil_verified": 45,
-    "constituent_items_e1_complete": 45,
-    "constituent_items_e2_complete": 45,
-    "constituent_items_e3_complete": 45,
-    "constituent_items_english_verified": 45,
-    "constituent_items_archived": 45,
+    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-515",
+    "constituent_items_started": 46,
+    "constituent_items_source_gated": 46,
+    "constituent_items_t1_complete": 46,
+    "constituent_items_t2_complete": 46,
+    "constituent_items_t3_complete": 46,
+    "constituent_items_tamil_verified": 46,
+    "constituent_items_e1_complete": 46,
+    "constituent_items_e2_complete": 46,
+    "constituent_items_e3_complete": 46,
+    "constituent_items_english_verified": 46,
+    "constituent_items_archived": 46,
     "transcription_started": true,
-    "next_gate": "Process constituent 46 ‘ஹைக்கூ கவிதைகள்’ supplied PDF459-465 through Tamil T1/T2; PDF466-470 remains required before T3 freeze and English closure.",
+    "next_gate": "Process constituent 47 திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா PDF471-475 through full workflow, then constituents 48-51 in order; all are fully supplied.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": null,
     "active_constituent_title_ta": null,
@@ -380,7 +413,13 @@
     "active_constituent_pages_expected_from_contents": 0,
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
-    "fully_bounded_constituents_ready_for_full_workflow": [],
+    "fully_bounded_constituents_ready_for_full_workflow": [
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
     "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure",
     "constituent_4_post_closure_fidelity_repair": "complete-revalidated",
     "constituent_4_repair_pages": "PDF53-56 / printed52-55",
@@ -427,6 +466,8 @@
     "constituent_45_cross_split_joins": [
       "429-430-pass",
       "447-448-pass"
-    ]
+    ],
+    "constituent_46_status": "fully-archived",
+    "constituent_46_cross_split_join": "465-466-pass"
   }
 }
