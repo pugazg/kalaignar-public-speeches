@@ -86,7 +86,7 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 32 | இதயங்கள் இயந்திரங்கள் ஆகவேண்டாம் | 02-11-1971 | 234 | **234–238 VERIFIED / CLOSED** | **235–239 VERIFIED / CLOSED** |
 | 33 | பாரதியும் புதுமைப் பெண்களும் | 29-08-1980 | 239 | **239–254 VERIFIED / CLOSED** | **240–255 VERIFIED / CLOSED** |
 | 34 | தமிழ்க்குடி மகன் | 05-08-1979 | 255 | **255–269 VERIFIED / CLOSED** | **256–270 VERIFIED / CLOSED** |
-| 35 | மாணவர்களும் அரசியலும் | 12-01-1979 | 270 | 270–276 | 271–277 |
+| 35 | மாணவர்களும் அரசியலும் | 12-01-1979 | 270 | **270–276 VERIFIED / CLOSED** | **271–277 VERIFIED / CLOSED** |
 | 36 | ‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!! | 11-02-1980 | 277 | 277–284 | 278–285 |
 | 37 | “பழைய வரலாறும் இளைய தலைமுறையும்” | 31-08-1980 | 285 | 285–304 | 286–305 |
 | 38 | தமிழின் சொல்வளம் | 05-10-1980 | 305 | 305–317 | 306–318 |
@@ -121,16 +121,16 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–310 / 641**;
 - split continuity: **PASS — 1–310 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through scan310**;
-- constituent source gates: **34/61 COMPLETE**;
-- Tamil verified: **34/61**;
-- English verified: **34/61**;
-- fully archived: **34/61**;
+- constituent source gates: **35/61 COMPLETE**;
+- Tamil verified: **35/61**;
+- English verified: **35/61**;
+- fully archived: **35/61**;
 - C34 `தமிழ்க்குடி மகன்!`: PDF256–270 / printed255–269 — **CLOSED / FULLY ARCHIVED**;
 - C34 cross-split join **259→260 PASS**;
-- C35 `மாணவர்களும் அரசியலும்`: complete source range **PDF271–277 / printed270–276 is now available** across splits 017–018;
+- C35 `மாணவர்களும் அரசியலும்`: PDF271–277 / printed270–276 — **CLOSED / FULLY ARCHIVED**; cross-split join **276→277 PASS**;
 - later source available through **PDF310**, including complete C36 and C37 plus C38 PDF306–310 partial;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Process constituent 35 `மாணவர்களும் அரசியலும்` — PDF271–277 / printed270–276 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C36 and C37, and checkpoint C38 at the highest safe page-level state supported by PDF306–310.
+Process constituent 36 `‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!!` — PDF278–285 / printed277–284 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C37 and checkpoint C38 at the highest safe page-level state supported by PDF306–310.
