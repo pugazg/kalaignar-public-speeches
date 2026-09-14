@@ -41,8 +41,8 @@
     "internal_joins_unresolved": 0,
     "cross_split_join": "550-551-pass",
     "tamil_transcription": "verified-complete",
-    "tamil_visual_audit": "complete",
-    "tamil_consolidation": "complete",
+    "tamil_visual_audit": "complete-revalidated-after-post-closure-direct-scan-repair",
+    "tamil_consolidation": "complete-revalidated-after-post-closure-direct-scan-repair",
     "tamil_frozen": true,
     "t1_pages_completed": 12,
     "t2_pages_checked": 12,
@@ -50,8 +50,8 @@
     "t3_pages_completed": 12,
     "t3_unresolved": 0,
     "english_translation": "verified-complete",
-    "english_translation_review": "review-complete",
-    "english_translation_final_verification": "verified-complete",
+    "english_translation_review": "review-complete-revalidated-after-tamil-repair",
+    "english_translation_final_verification": "verified-complete-revalidated-after-tamil-repair",
     "e1_pages_completed": 12,
     "e2_pages_checked": 12,
     "e2_unresolved": 0,
@@ -60,6 +60,23 @@
     "repository_closure": "complete",
     "archive_status": "fully-archived",
     "pending_transcription_or_translation_work": false,
-    "next_gate": null
+    "next_gate": null,
+    "post_closure_fidelity_repair": {
+      "status": "complete-revalidated",
+      "pages": [
+        "PDF543",
+        "PDF549"
+      ],
+      "page_break_repaired": "PDF543-544",
+      "corrections": [
+        "PDF543 சுற்றொப்ப -> சற்றொப்ப",
+        "PDF543-544 restore source mid-word break: பொறுப் / பேற்றிருக்கிறேன்",
+        "PDF549 மரியாவின் -> மரியாளின்",
+        "PDF549 இவை களோடு -> இவைகளோடு"
+      ],
+      "unresolved": 0,
+      "english_e2_e3_revalidated": true,
+      "english_prose_change_required": false
+    }
   }
 }
