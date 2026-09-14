@@ -1,0 +1,60 @@
+{
+  "id": "alagabath-maanadu",
+  "title": {
+    "ta": "அலகாபாத் மாநாடு",
+    "en": "Allahabad Conference"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "constituent_number": 31,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1973-10-14",
+    "closing_note_source_text": "1973-ஆம் ஆண்டு அக்டோபர் 14-ஆம் நாள் அலகாபாத்தில் நடந்த உத்தரப் பிரதேச அரிசன், பிற்பட்டோர் கூட்டத்தில் பிரதிநிதிகள் மாநாட்டில் ஆற்றிய சிறப்புரை."
+  },
+  "source": {
+    "pdf_page_start": 224,
+    "pdf_page_end": 234,
+    "printed_page_start": 223,
+    "printed_page_end": 233,
+    "speech_pages_total": 11,
+    "binary_committed": false
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "internal_joins_checked": 10,
+    "internal_joins_unresolved": 0,
+    "cross_split_join": "226-227-pass",
+    "tamil_transcription": "verified-complete",
+    "tamil_visual_audit": "complete",
+    "tamil_consolidation": "complete",
+    "tamil_frozen": true,
+    "t1_pages_completed": 11,
+    "t2_pages_checked": 11,
+    "t2_unresolved": 0,
+    "t3_pages_completed": 11,
+    "t3_unresolved": 0,
+    "english_translation": "verified-complete",
+    "english_translation_review": "review-complete",
+    "english_translation_final_verification": "verified-complete",
+    "e1_pages_completed": 11,
+    "e2_pages_checked": 11,
+    "e2_unresolved": 0,
+    "e3_pages_checked": 11,
+    "e3_unresolved": 0,
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false
+  }
+}
