@@ -1,0 +1,87 @@
+{
+  "id": "aazhvargal-aaivu-maiya-vizha-1997",
+  "title": {
+    "ta": "ஆழ்வார்கள் ஆய்வு மைய விழா",
+    "en": "Azhvars Research Centre Function"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 55,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1997-09-10",
+    "event_source_text": "ஆழ்வார்கள் ஆய்வு மைய விழா",
+    "closing_note_source_text": "முரசொலி 10-9-97"
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 555,
+    "pdf_page_end": 569,
+    "printed_page_start": 554,
+    "printed_page_end": 568,
+    "speech_pages_total": 15,
+    "split_sources": [
+      {
+        "split_number": 34,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_034_pages_551-567.pdf",
+        "local_page_start": 5,
+        "local_page_end": 17,
+        "original_pdf_page_start": 555,
+        "original_pdf_page_end": 567
+      },
+      {
+        "split_number": 35,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_035_pages_568-584.pdf",
+        "local_page_start": 1,
+        "local_page_end": 2,
+        "original_pdf_page_start": 568,
+        "original_pdf_page_end": 569
+      }
+    ],
+    "binary_committed": false
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "next_boundary_verified": true,
+    "internal_joins_checked": 14,
+    "internal_joins_unresolved": 0,
+    "cross_split_join": "567-568-pass",
+    "tamil_transcription": "verified-complete",
+    "tamil_visual_audit": "complete",
+    "tamil_visual_audit_corrections": 1,
+    "tamil_visual_audit_correction_detail": "PDF558 / printed557: மேலக்கோட்டை -> மேலக் கோட்டை",
+    "tamil_consolidation": "complete",
+    "tamil_frozen": true,
+    "t1_pages_completed": 15,
+    "t2_pages_checked": 15,
+    "t2_unresolved": 0,
+    "t3_pages_completed": 15,
+    "t3_unresolved": 0,
+    "english_translation": "verified-complete",
+    "english_translation_source": "frozen transcription-ta.md only",
+    "english_translation_review": "review-complete",
+    "english_translation_final_verification": "verified-complete",
+    "e1_pages_completed": 15,
+    "e2_pages_checked": 15,
+    "e2_unresolved": 0,
+    "e3_pages_checked": 15,
+    "e3_unresolved": 0,
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null
+  }
+}
