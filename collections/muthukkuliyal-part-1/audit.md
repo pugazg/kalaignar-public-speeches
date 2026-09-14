@@ -11,16 +11,15 @@
 
 ## Closure state
 
-Constituents **1–35 — CLOSED / FULLY ARCHIVED**.
+Constituents **1–36 — CLOSED / FULLY ARCHIVED**.
 
-C35 `மாணவர்களும் அரசியலும்`:
-- PDF271–277 / 7 pages;
+C36 `‘நாம்’ – ஜனநாயகம்! ‘நான்’ – சர்வாதிகாரம்!!`:
+- PDF278–285 / 8 pages;
 - source gate — PASS;
 - Tamil T1/T2/T3 — COMPLETE / PASS / PASS;
-- cross-split join PDF276→277 — PASS;
 - English E1/E2/E3 — COMPLETE / PASS / PASS;
 - unresolved — 0.
 
 ## Next gate
 
-C36 `‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!!` — PDF278–285 — is fully available and is the next source-first constituent.
+C37 `“பழைய வரலாறும் இளைய தலைமுறையும்”` — PDF286–305 — is fully available and is the next source-first constituent.
