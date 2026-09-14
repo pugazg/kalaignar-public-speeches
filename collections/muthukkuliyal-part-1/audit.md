@@ -2,7 +2,7 @@
 
 - source continuity — **PDF1–641 PASS / complete**;
 - splits received — **39/39**;
-- closed constituents — **1–59**;
+- closed constituents — **1–60**;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா` — PDF543–554 — FULLY ARCHIVED;
 - C54 split join — **550→551 PASS**;
 - C54 closing note — **முரசொலி 9.9.97**;
@@ -34,7 +34,13 @@
 - C59 source-title variation — body heading `பல்கலைக்கழகத் தொடக்க விழா`; contents title `பல்கலைக்கழக தொடக்க விழா`; **PRESERVED WITHOUT HARMONIZATION**;
 - C59 closing note — **முரசொலி 18-9-97**;
 - next boundary PDF622 = C60 `டாக்டர் அம்பேத்கர் பல்கலைக்கழகத் தொடக்க விழா` — **VERIFIED**;
-- C60 — **all scans supplied for provisional PDF622–629 / printed621–628; opening/title PDF622 VERIFIED; ending boundary pending source gate**;
+- C60 `டாக்டர் அம்பேத்கர் பல்கலைக்கழக தொடக்க விழா` — PDF622–629 / printed621–628 — **FULLY ARCHIVED**;
+- C60 page joins — **7/7 PASS**;
+- C60 Tamil T2 — **0 corrections / 0 unresolved**; PDF622 body `அண்ணல் அம்பேத்கார்` vs title/later `அம்பேத்கர்` **SCAN-CHECKED / PRESERVED**;
+- C60 Ambedkar English quotations — **SCAN-CHECKED / PRESERVED EXACTLY**;
+- C60 closing note — **முரசொலி 21-9-97**;
+- next boundary PDF630 = C61 `ஆதித்தனார் பிறந்தநாள் விழா` — **VERIFIED**;
+- C61 terminal source — **PDF630–640 / printed629–639; PDF630 opening VERIFIED; PDF640 terminal end / `முரசொலி 28.9.97` VERIFIED; PDF641 back cover**;
 - terminal body — **PDF640 / printed639, `முரசொலி 28.9.97`**;
 - PDF641 — **back cover**;
 - source binaries committed — **No**;
