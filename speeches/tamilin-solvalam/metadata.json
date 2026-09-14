@@ -17,7 +17,8 @@
     "constituent_total": 61
   },
   "speech": {
-    "date_status": "pending-closing-note-verification"
+    "date_from_contents": "1980-10-05",
+    "date_status": "contents-only-pending-closing-note-verification"
   },
   "source": {
     "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
