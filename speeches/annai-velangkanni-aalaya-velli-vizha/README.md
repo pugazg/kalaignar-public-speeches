@@ -8,4 +8,6 @@ Constituent **54 / 61** of `முத்துக் குளியல் — �
 - Tamil — **verified-complete / FROZEN**;
 - English — **verified-complete**;
 - repository closure — **FULLY ARCHIVED**;
+- post-closure direct-scan fidelity repair — **COMPLETE / REVALIDATED — 4 corrections / 0 unresolved**;
+- English post-repair revalidation — **E2/E3 PASS / no prose change required**;
 - source binary — **not committed**.
