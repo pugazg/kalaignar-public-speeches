@@ -129,8 +129,8 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | **554–568 VERIFIED / CLOSED** | **555–569 VERIFIED / CLOSED** |
 | 56 | அன்னை தெரசாவின் படத்திறப்பு | 11-09-1997 | 569 | **569–572 VERIFIED / CLOSED** | **570–573 VERIFIED / CLOSED** |
 | 57 | பாரதியார் விழா | 12-09-1997 | 573 | **573–594 VERIFIED / CLOSED** | **574–595 VERIFIED / CLOSED** |
-| 58 | கன்னிமாரா பொது நூலக நூற்றாண்டு விழா | 13-09-1997 | 595 | 595–608 | 596–609 (**ALL SCANS SUPPLIED; PDF596 OPENING VERIFIED; ENDING BOUNDARY PENDING SOURCE GATE**) |
-| 59 | சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா | 18-09-1997 | 609 | 609–620 | 610–621 |
+| 58 | கன்னிமாரா பொது நூலக நூற்றாண்டு விழா | 13-09-1997 | 595 | **595–608 VERIFIED / CLOSED** | **596–609 VERIFIED / CLOSED** |
+| 59 | சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா | 18-09-1997 | 609 | 609–620 | 610–621 (**ALL SCANS SUPPLIED; PDF610 OPENING VERIFIED; ENDING BOUNDARY PENDING SOURCE GATE**) |
 | 60 | டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா | 21-09-1997 | 621 | 621–628 | 622–629 |
 | 61 | ஆதித்தனார் பிறந்தநாள் விழா | 28-09-1997 | 629 | **629–639 TERMINAL END VERIFIED** | **630–640 TERMINAL END VERIFIED** |
 
@@ -141,10 +141,10 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–641 / 641**;
 - split continuity: **PASS — 1–641 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through final body PDF640 / printed639; PDF641 back cover**;
-- constituent source gates: **57/61 COMPLETE**;
-- Tamil verified: **57/61**;
-- English verified: **57/61**;
-- fully archived: **57/61**;
+- constituent source gates: **58/61 COMPLETE**;
+- Tamil verified: **58/61**;
+- English verified: **58/61**;
+- fully archived: **58/61**;
 - C49 `சுதந்திர தினப் பொன்விழா`: PDF481–488 / printed480–487 — **CLOSED / FULLY ARCHIVED**; cross-split join **482→483 PASS**; source closing note **முரசொலி 16-8-97**;
 - C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: PDF489–502 / printed488–501 — **CLOSED / FULLY ARCHIVED**; cross-split join **499→500 PASS**; source closing note **முரசொலி 20-8-97**;
 - C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: PDF503–514 / printed502–513 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 2.9.97**;
@@ -154,9 +154,10 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: PDF555–569 / printed554–568 — **CLOSED / FULLY ARCHIVED**; cross-split join **567→568 PASS**; Tamil T2 **1 correction / 0 unresolved** (`மேலக்கோட்டை` → `மேலக் கோட்டை`); source closing note **முரசொலி 10-9-97**; next boundary **PDF570 = C56 VERIFIED**;
 - C56 `அன்னை தெரசாவின் படத்திறப்பு`: PDF570–573 / printed569–572 — **CLOSED / FULLY ARCHIVED**; joins **3/3 PASS**; Tamil T2 **0 corrections / 0 unresolved**; source-sensitive `அன்னப்பட்சி` **SCAN-CONFIRMED / PRESERVED**; source closing note **முரசொலி 11.9.97**; next boundary **PDF574 = C57 VERIFIED**;
 - C57 `பாரதியார் விழா`: PDF574–595 / printed573–594 — **CLOSED / FULLY ARCHIVED**; page joins **21/21 PASS**; cross-split **584→585 PASS**; Tamil T2 **3 corrections / 0 unresolved**; source closing note **முரசொலி 12.9.97**; next boundary **PDF596 = C58 VERIFIED**;
-- C58 `கன்னிமாரா பொது நூலக நூற்றாண்டு விழா`: all scans supplied for provisional **PDF596–609 / printed595–608**; **PDF596 opening/title VERIFIED**; ending/next-boundary check pending source gate;
+- C58 `கன்னிமாரா பொது நூலக நூற்றாண்டு விழா`: PDF596–609 / printed595–608 — **CLOSED / FULLY ARCHIVED**; page joins **13/13 PASS**; cross-split **601→602 PASS**; Tamil T2 **0 corrections / 0 unresolved**; source closing note **முரசொலி 13-9-97**; next boundary **PDF610 = C59 VERIFIED**;
+- C59 `சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா`: all scans supplied for provisional **PDF610–621 / printed609–620**; **PDF610 opening/title VERIFIED**; ending/next-boundary check pending source gate;
 - terminal end for constituent 61: **PDF640 / printed639 VERIFIED**; source closing note **முரசொலி 28.9.97**; **PDF641 back cover**.
 
 ## Current next gate
 
-Process C58 `கன்னிமாரா பொது நூலக நூற்றாண்டு விழா` — provisional **PDF596–609 / printed595–608** — first verify ending and PDF610 next boundary, then Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
+Process C59 `சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா` — provisional **PDF610–621 / printed609–620** — first verify ending and PDF622 next boundary, then Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
