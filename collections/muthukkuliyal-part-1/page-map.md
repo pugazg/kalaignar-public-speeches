@@ -118,7 +118,7 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 49 | சுதந்திர தினப் பொன்விழா | 16-08-1997 | 480 | **480–487 VERIFIED / CLOSED** | **481–488 VERIFIED / CLOSED** |
 | 50 | மாநகராட்சியில் சுதந்திரப் பொன்விழா | 20-08-1997 | 488 | **488–501 VERIFIED / CLOSED** | **489–502 VERIFIED / CLOSED** |
 | 51 | சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா | 02-09-1997 | 502 | **502–513 VERIFIED / CLOSED** | **503–514 VERIFIED / CLOSED** |
-| 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | 514–527 | 515–528 (**FULL SOURCE SUPPLIED; NEXT**) |
+| 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | **514–527 VERIFIED / CLOSED** | **515–528 VERIFIED / CLOSED** |
 | 53 | டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா | 06-09-1997 | 528 | 528–541 | 529–542 (**FULL SOURCE SUPPLIED**) |
 | 54 | அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா | 09-09-1997 | 542 | 542–553 | 543–554 (**FULL SOURCE SUPPLIED**) |
 | 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | 554–568 | 555–569 (**PDF555–567 SUPPLIED; tail 568–569 pending**) |
@@ -136,14 +136,14 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–567 / 641**;
 - split continuity: **PASS — 1–567 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through scan567**;
-- constituent source gates: **51/61 COMPLETE**;
-- Tamil verified: **51/61**;
-- English verified: **51/61**;
-- fully archived: **51/61**;
+- constituent source gates: **52/61 COMPLETE**;
+- Tamil verified: **52/61**;
+- English verified: **52/61**;
+- fully archived: **52/61**;
 - C49 `சுதந்திர தினப் பொன்விழா`: PDF481–488 / printed480–487 — **CLOSED / FULLY ARCHIVED**; cross-split join **482→483 PASS**; source closing note **முரசொலி 16-8-97**;
 - C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: PDF489–502 / printed488–501 — **CLOSED / FULLY ARCHIVED**; cross-split join **499→500 PASS**; source closing note **முரசொலி 20-8-97**;
 - C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: PDF503–514 / printed502–513 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 2.9.97**;
-- C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: full source **PDF515–528 / printed514–527** is supplied across splits 031–032;
+- C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: PDF515–528 / printed514–527 — **CLOSED / FULLY ARCHIVED**; cross-split join **515→516 PASS**; source closing note **முரசொலி 1-9-97**;
 - C53 `டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா`: full source **PDF529–542 / printed528–541** is supplied across splits 032–033;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா`: full source **PDF543–554 / printed542–553** is supplied across splits 033–034;
 - C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: supplied **PDF555–567 / printed554–566**; tail PDF568–569 remains pending;
@@ -151,4 +151,4 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 
 ## Current next gate
 
-Process C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு` — PDF515–528 / printed514–527 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C53 and C54 in order; both are fully supplied. If reached before more source arrives, checkpoint C55 through PDF567.
+Process C53 `டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா` — PDF529–542 / printed528–541 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C54; it is fully supplied. If reached before more source arrives, checkpoint C55 through PDF567.
