@@ -354,10 +354,10 @@
     "contents_capture_state": "complete",
     "constituent_items_total": 61,
     "constituent_items_contents_captured": 61,
-    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-44-source-available-through-46-partial",
+    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-45-source-available-through-46-partial",
     "printed_to_pdf_offset_observed_frontmatter": 1,
     "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-465",
-    "constituent_items_started": 46,
+    "constituent_items_started": 45,
     "constituent_items_source_gated": 45,
     "constituent_items_t1_complete": 45,
     "constituent_items_t2_complete": 45,
@@ -369,7 +369,7 @@
     "constituent_items_english_verified": 45,
     "constituent_items_archived": 45,
     "transcription_started": true,
-    "next_gate": "Process supplied C46 ‘ஹைக்கூ கவிதைகள்’ PDF459-465 through Tamil T1/T2 and leave a durable partial checkpoint; PDF466-470 remains pending.",
+    "next_gate": "Process constituent 46 ‘ஹைக்கூ கவிதைகள்’ supplied PDF459-465 through Tamil T1/T2; PDF466-470 remains required before T3 freeze and English closure.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": null,
     "active_constituent_title_ta": null,
@@ -380,9 +380,7 @@
     "active_constituent_pages_expected_from_contents": 0,
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
-    "fully_bounded_constituents_ready_for_full_workflow": [
-      45
-    ],
+    "fully_bounded_constituents_ready_for_full_workflow": [],
     "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure",
     "constituent_4_post_closure_fidelity_repair": "complete-revalidated",
     "constituent_4_repair_pages": "PDF53-56 / printed52-55",
@@ -425,6 +423,10 @@
     "constituent_44_status": "fully-archived",
     "constituent_44_cross_split_join": "412-413-pass",
     "constituent_45_cross_split_join": "447-448-pass",
-    "constituent_45_status": "fully-archived"
+    "constituent_45_status": "fully-archived",
+    "constituent_45_cross_split_joins": [
+      "429-430-pass",
+      "447-448-pass"
+    ]
   }
 }
