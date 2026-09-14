@@ -1,6 +1,6 @@
 # முத்துக் குளியல் — பாகம் I — Page Map
 
-Controlling-source plan: original `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf`, **641 scans — user-confirmed**. The original 1.82 GB binary is not committed and is not attached; intake is being performed from **39 user-created split PDFs**, each representing an exact original-scan range.
+Controlling-source plan: original `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf`, **641 scans — user-confirmed**. The original 1.82 GB binary is not committed and is not attached; intake is complete from **39 user-created split PDFs**, each representing an exact original-scan range.
 
 ## Observed split intake
 
@@ -40,6 +40,11 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_032_pages_516-533.pdf` | **516–533** | **18** | **48,954,454** | `587fc1fc11f1b4036465c01f65d82decabde0a798b4d5a4d6344fc6e536142df` | **INSPECTED / PASS** |
 | `part_033_pages_534-550.pdf` | **534–550** | **17** | **46,978,263** | `fb6122b8ee2ccc5a70cc4fd2225125b69c12dc1348ca08532930fb8763354ae7` | **INSPECTED / PASS** |
 | `part_034_pages_551-567.pdf` | **551–567** | **17** | **47,966,175** | `3b023e09ac3d6f0299cfd22efe769443a4e048d9e3158c3a864402a1eacec478` | **INSPECTED / PASS** |
+| `part_035_pages_568-584.pdf` | **568–584** | **17** | **47,194,943** | `e1bc746acde0ceed77ac709f540caf90a4df0d4b72659a886d2435d47425e621` | **INSPECTED / PASS** |
+| `part_036_pages_585-601.pdf` | **585–601** | **17** | **47,167,071** | `c33b0eba72daa940031d921d005f5b2d91df90092f6bca25c33878c6334626b6` | **INSPECTED / PASS** |
+| `part_037_pages_602-618.pdf` | **602–618** | **17** | **46,450,806** | `4a355bbcd0f4a77e5aaa4071c58e9b65593a22994a5d990c8186f71cacb142ce` | **INSPECTED / PASS** |
+| `part_038_pages_619-636.pdf` | **619–636** | **18** | **48,251,586** | `63ad623d53d3a5ae55b37a236d6f841dcbed9c58c311b1969cc45257cbf4c151` | **INSPECTED / PASS** |
+| `part_039_pages_637-641.pdf` | **637–641** | **5** | **15,424,752** | `046556f72e82ca78dc51b517bf9fdad5019c8a3c41ba05ab233e9b914fdb9acc` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -59,11 +64,11 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF567 / printed p.566.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through the final speech-body page PDF640 / printed p.639. **PDF641 is the back cover.**
 
 ## Contents inventory — 61 constituents
 
-Ranges below are **provisional from contents start pages**. For items 1–60, the end is the page before the next contents start. Item 61 terminal end remains **TBD** until the last split is inspected.
+Ranges below are **provisional from contents start pages**. For items 1–60, the end is the page before the next contents start. The final split verifies item 61's terminal end at printed p.639 / PDF640; PDF641 is the back cover.
 
 | # | Contents title | Date in contents | Printed start | Provisional printed range | Provisional PDF scans |
 |---:|---|---|---:|---:|---:|
@@ -121,21 +126,21 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | **514–527 VERIFIED / CLOSED** | **515–528 VERIFIED / CLOSED** |
 | 53 | டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா | 06-09-1997 | 528 | **528–541 VERIFIED / CLOSED** | **529–542 VERIFIED / CLOSED** |
 | 54 | அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா | 09-09-1997 | 542 | **542–553 VERIFIED / CLOSED** | **543–554 VERIFIED / CLOSED** |
-| 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | 554–568 | 555–569 (**PDF555–567 SUPPLIED; tail 568–569 pending**) |
+| 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | **554–568 SOURCE-BOUNDED** | **555–569 SOURCE-BOUNDED / FULL SOURCE SUPPLIED** |
 | 56 | அன்னை தெரசாவின் படத்திறப்பு | 11-09-1997 | 569 | 569–572 | 570–573 |
 | 57 | பாரதியார் விழா | 12-09-1997 | 573 | 573–594 | 574–595 |
 | 58 | கன்னிமாரா பொது நூலக நூற்றாண்டு விழா | 13-09-1997 | 595 | 595–608 | 596–609 |
 | 59 | சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா | 18-09-1997 | 609 | 609–620 | 610–621 |
 | 60 | டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா | 21-09-1997 | 621 | 621–628 | 622–629 |
-| 61 | ஆதித்தனார் பிறந்தநாள் விழா | 28-09-1997 | 629 | 629–TBD | 630–TBD |
+| 61 | ஆதித்தனார் பிறந்தநாள் விழா | 28-09-1997 | 629 | **629–639 TERMINAL END VERIFIED** | **630–640 TERMINAL END VERIFIED** |
 
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **34/39**;
-- original-scan coverage received: **1–567 / 641**;
-- split continuity: **PASS — 1–567 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan567**;
+- source splits received: **39/39**;
+- original-scan coverage received: **1–641 / 641**;
+- split continuity: **PASS — 1–641 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through final body PDF640 / printed639; PDF641 back cover**;
 - constituent source gates: **54/61 COMPLETE**;
 - Tamil verified: **54/61**;
 - English verified: **54/61**;
@@ -145,10 +150,10 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: PDF503–514 / printed502–513 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 2.9.97**;
 - C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: PDF515–528 / printed514–527 — **CLOSED / FULLY ARCHIVED**; cross-split join **515→516 PASS**; source closing note **முரசொலி 1-9-97**;
 - C53 `டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா`: PDF529–542 / printed528–541 — **CLOSED / FULLY ARCHIVED**; cross-split join **533→534 PASS**; source closing note **முரசொலி 6-9-97**;
-- C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா`: PDF543–554 / printed542–553 — **CLOSED / FULLY ARCHIVED**; cross-split join **550→551 PASS**; source closing note **முரசொலி 9.9.97**;
-- C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: supplied **PDF555–567 / printed554–566**; tail PDF568–569 remains pending;
-- terminal end for constituent 61: **pending final split**.
+- C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா`: PDF543–554 / printed542–553 — **CLOSED / FULLY ARCHIVED**; cross-split join **550→551 PASS**; source closing note **முரசொலி 9.9.97**; post-closure direct-scan fidelity repair **COMPLETE / REVALIDATED — 4 corrections / 0 unresolved**;
+- C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: **PDF555–569 / printed554–568 FULL SOURCE SUPPLIED / SOURCE-BOUNDED**; source closing note **முரசொலி 10-9-97**; next boundary **PDF570 = C56 VERIFIED**;
+- terminal end for constituent 61: **PDF640 / printed639 VERIFIED**; source closing note **முரசொலி 28.9.97**; **PDF641 back cover**.
 
 ## Current next gate
 
-Process C55 `ஆழ்வார்கள் ஆய்வு மைய விழா` from currently supplied **PDF555–567 / printed554–566** through Tamil T1/T2 and leave a durable partial checkpoint. Do not perform T3/freeze or English until PDF568–569 is supplied.
+Process C55 `ஆழ்வார்கள் ஆய்வு மைய விழா` — **PDF555–569 / printed554–568** — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
