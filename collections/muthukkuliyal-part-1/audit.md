@@ -2,7 +2,7 @@
 
 - source continuity — **PDF1–641 PASS / complete**;
 - splits received — **39/39**;
-- closed constituents — **1–60**;
+- closed constituents — **1–61 / FINAL-CLOSED**;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா` — PDF543–554 — FULLY ARCHIVED;
 - C54 split join — **550→551 PASS**;
 - C54 closing note — **முரசொலி 9.9.97**;
@@ -40,7 +40,13 @@
 - C60 Ambedkar English quotations — **SCAN-CHECKED / PRESERVED EXACTLY**;
 - C60 closing note — **முரசொலி 21-9-97**;
 - next boundary PDF630 = C61 `ஆதித்தனார் பிறந்தநாள் விழா` — **VERIFIED**;
-- C61 terminal source — **PDF630–640 / printed629–639; PDF630 opening VERIFIED; PDF640 terminal end / `முரசொலி 28.9.97` VERIFIED; PDF641 back cover**;
+- C61 `ஆதித்தனார் பிறந்தநாள் விழா` — PDF630–640 / printed629–639 — **FULLY ARCHIVED**;
+- C61 page joins — **10/10 PASS**; cross-split **636→637 PASS**;
+- C61 Tamil T2 — **0 corrections / 0 unresolved**; source-sensitive forms / quotations **SCAN-CHECKED / PRESERVED**;
+- C61 closing note — **முரசொலி 28.9.97**;
+- PDF641 — **BACK COVER / VERIFIED**;
+- collection closure — **PASS / COMPLETE — 61/61 source-gated + Tamil verified + English verified + fully archived; 0 unresolved**;
+- final closure manifest — **`FINAL_CLOSURE.md`**;
 - terminal body — **PDF640 / printed639, `முரசொலி 28.9.97`**;
 - PDF641 — **back cover**;
 - source binaries committed — **No**;
