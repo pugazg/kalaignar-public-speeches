@@ -3,9 +3,9 @@
 ## Current checkpoint
 
 - full bounded source — PDF **428–458** / printed **427–457** — **31 pages**;
-- current direct-scan audit coverage — PDF **428–433** — **6 pages**;
-- Tamil T1 — **6/6 COMPLETE**;
-- Tamil T2 — **6/6 PASS / 0 unresolved**;
-- joins — **5/5 PASS**;
+- current direct-scan audit coverage — PDF **428–439** — **12 pages**;
+- Tamil T1 — **12/12 COMPLETE**;
+- Tamil T2 — **12/12 PASS / 0 unresolved**;
+- joins — **11/11 PASS**;
 - opening/title — **VERIFIED**;
-- T3/freeze / English — pending remaining PDF434–458.
+- T3/freeze / English — pending remaining PDF440–458.

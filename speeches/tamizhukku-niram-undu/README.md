@@ -2,13 +2,14 @@
 
 Constituent **45 / 61** of `முத்துக் குளியல் — பாகம் I`.
 
-**ACTIVE PARTIAL CHECKPOINT — PDF428–433 / printed427–432 verified through Tamil T2.**
+**ACTIVE PARTIAL CHECKPOINT — PDF428–439 / printed427–438 verified through Tamil T2.**
 
 - full source range — PDF **428–458** / printed **427–457** — **31 pages**, fully supplied;
-- current verified pages — **6/31**;
+- current verified pages — **12/31**;
 - opening/title — **VERIFIED**;
-- available joins — **5/5 PASS**;
-- Tamil T1/T2 — **6/6 COMPLETE / PASS; 0 unresolved**;
-- Tamil T3/freeze — blocked pending PDF434–458 T1/T2;
+- available joins — **11/11 PASS**;
+- Tamil T1 — **12/12 COMPLETE**;
+- Tamil T2 — **12/12 PASS / 0 unresolved**;
+- Tamil T3/freeze — blocked pending PDF440–458 T1/T2;
 - English — blocked pending frozen Tamil;
 - source binary — not committed.
