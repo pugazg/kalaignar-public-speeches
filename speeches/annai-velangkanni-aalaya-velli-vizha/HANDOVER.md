@@ -9,4 +9,6 @@ Constituent **54 / 61 — CLOSED / FULLY ARCHIVED**.
 - source closing note — `முரசொலி 9.9.97`;
 - next boundary PDF555 = C55 — VERIFIED;
 - unresolved — 0;
+- post-closure direct-scan fidelity repair — **COMPLETE / REVALIDATED**: PDF543 `சுற்றொப்ப`→`சற்றொப்ப`; PDF543→544 mid-word page break restored (`பொறுப்` / `பேற்றிருக்கிறேன்`); PDF549 `மரியாவின்`→`மரியாளின்`; PDF549 `இவை களோடு`→`இவைகளோடு`;
+- English E2/E3 revalidated against the repaired frozen Tamil — **PASS / PASS; no prose change required**;
 - no work remains pending.
