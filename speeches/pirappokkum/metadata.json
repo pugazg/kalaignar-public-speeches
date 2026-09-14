@@ -1,0 +1,65 @@
+{
+  "id": "pirappokkum",
+  "title": {
+    "ta": "“பிறப்பொக்கும்”",
+    "en": "All Are Equal by Birth"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 43,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1981-04-04",
+    "venue_source_text": "திருவாரூர் அரசினர் கலைக் கல்லூரி",
+    "closing_note_source_text": "4.4.81 அன்று திருவாரூர் அரசினர் கலைக் கல்லூரியில் ஆற்றிய உரை."
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 383,
+    "pdf_page_end": 403,
+    "printed_page_start": 382,
+    "printed_page_end": 402,
+    "speech_pages_total": 21,
+    "binary_committed": false
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "internal_joins_checked": 20,
+    "internal_joins_unresolved": 0,
+    "cross_split_join": "395-396-pass",
+    "tamil_transcription": "verified-complete",
+    "tamil_visual_audit": "complete",
+    "tamil_consolidation": "complete",
+    "tamil_frozen": true,
+    "t1_pages_completed": 21,
+    "t2_pages_checked": 21,
+    "t2_unresolved": 0,
+    "t3_pages_completed": 21,
+    "t3_unresolved": 0,
+    "english_translation": "verified-complete",
+    "english_translation_review": "review-complete",
+    "english_translation_final_verification": "verified-complete",
+    "e1_pages_completed": 21,
+    "e2_pages_checked": 21,
+    "e2_unresolved": 0,
+    "e3_pages_checked": 21,
+    "e3_unresolved": 0,
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null
+  }
+}
