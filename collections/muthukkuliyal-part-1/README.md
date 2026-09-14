@@ -4,6 +4,6 @@ Source-first archival workflow using rendered scan pixels only.
 
 Current intake: **28/39 splits**, continuous **PDF1–465 / 641**.
 
-Constituents **1–44 are FULLY ARCHIVED**. C45 **`தமிழுக்கு நிறம் உண்டு`** has a durable direct-scan checkpoint at **PDF428–439 — 12/31 pages T1/T2 complete, 0 unresolved**. Its full source through PDF458 is already supplied.
+Constituents **1–44 are FULLY ARCHIVED**. C45 **`தமிழுக்கு நிறம் உண்டு`** is now durably verified through **PDF445 — 18/31 pages T1/T2 complete, 0 unresolved**.
 
-Next page: **PDF440**.
+Next page: **PDF446**.
