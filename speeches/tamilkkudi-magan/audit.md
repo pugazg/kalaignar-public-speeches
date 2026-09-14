@@ -1,13 +1,14 @@
 # Audit — தமிழ்க்குடி மகன்!
 
-## Current partial checkpoint
+**CLOSED / FULLY ARCHIVED — PDF256–270 / 15 pages.**
 
-- PDF **256–259** / printed **255–258** supplied and inspected;
-- provisional full range — PDF **256–270** / printed **255–269**;
-- opening/title — **VERIFIED**;
-- available joins — **3/3 PASS**;
-- Tamil T1 supplied pages — **4/4 COMPLETE**;
-- Tamil T2 supplied pages — **4/4 PASS / 0 unresolved**;
-- closing boundary / closing note — **not yet supplied**;
-- Tamil T3 / English / repository closure — **blocked pending PDF260–270**;
+- source gate — **PASS / COMPLETE**;
+- Tamil T1/T2/T3 — **COMPLETE / PASS / PASS**;
+- Tamil — **verified-complete / FROZEN**;
+- internal joins — **14/14 PASS**;
+- cross-split join **259→260 — PASS**;
+- opening/title, ending and closing note — **VERIFIED**;
+- English E1/E2/E3 — **COMPLETE / PASS / PASS**;
+- English — **verified-complete**;
+- unresolved — **0**;
 - source binary committed — **No**.
