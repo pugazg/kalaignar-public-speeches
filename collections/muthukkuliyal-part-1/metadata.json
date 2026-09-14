@@ -409,20 +409,75 @@
         "sha256": "3b023e09ac3d6f0299cfd22efe769443a4e048d9e3158c3a864402a1eacec478",
         "status": "inspected-pass",
         "binary_committed": false
+      },
+      {
+        "split_number": 35,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_035_pages_568-584.pdf",
+        "original_pdf_scan_start": 568,
+        "original_pdf_scan_end": 584,
+        "pages": 17,
+        "bytes": 47194943,
+        "sha256": "e1bc746acde0ceed77ac709f540caf90a4df0d4b72659a886d2435d47425e621",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 36,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_036_pages_585-601.pdf",
+        "original_pdf_scan_start": 585,
+        "original_pdf_scan_end": 601,
+        "pages": 17,
+        "bytes": 47167071,
+        "sha256": "c33b0eba72daa940031d921d005f5b2d91df90092f6bca25c33878c6334626b6",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 37,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_037_pages_602-618.pdf",
+        "original_pdf_scan_start": 602,
+        "original_pdf_scan_end": 618,
+        "pages": 17,
+        "bytes": 46450806,
+        "sha256": "4a355bbcd0f4a77e5aaa4071c58e9b65593a22994a5d990c8186f71cacb142ce",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 38,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_038_pages_619-636.pdf",
+        "original_pdf_scan_start": 619,
+        "original_pdf_scan_end": 636,
+        "pages": 18,
+        "bytes": 48251586,
+        "sha256": "63ad623d53d3a5ae55b37a236d6f841dcbed9c58c311b1969cc45257cbf4c151",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 39,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_039_pages_637-641.pdf",
+        "original_pdf_scan_start": 637,
+        "original_pdf_scan_end": 641,
+        "pages": 5,
+        "bytes": 15424752,
+        "sha256": "046556f72e82ca78dc51b517bf9fdad5019c8a3c41ba05ab233e9b914fdb9acc",
+        "status": "inspected-pass",
+        "binary_committed": false
       }
     ]
   },
   "workflow": {
-    "source_inspection": "in-progress",
-    "split_intake_received": 34,
+    "source_inspection": "complete",
+    "split_intake_received": 39,
     "split_intake_expected": 39,
-    "original_scans_received_through": 567,
+    "original_scans_received_through": 641,
     "contents_capture_state": "complete",
     "constituent_items_total": 61,
     "constituent_items_contents_captured": 61,
-    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-54-source-available-through-55-partial",
+    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-54-full-source-intake-complete-c55-source-bounded",
     "printed_to_pdf_offset_observed_frontmatter": 1,
-    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-567",
+    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-body-end-pdf640-printed639; pdf641-back-cover",
     "constituent_items_started": 54,
     "constituent_items_source_gated": 54,
     "constituent_items_t1_complete": 54,
@@ -435,7 +490,7 @@
     "constituent_items_english_verified": 54,
     "constituent_items_archived": 54,
     "transcription_started": true,
-    "next_gate": "Process constituent 55 ஆழ்வார்கள் ஆய்வு மைய விழா supplied PDF555-567 through Tamil T1/T2; PDF568-569 remains required before T3 freeze and English closure.",
+    "next_gate": "Process constituent 55 ஆழ்வார்கள் ஆய்வு மைய விழா PDF555-569 through full source gate, Tamil T1/T2/T3 freeze, English E1/E2/E3, and repository closure.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": null,
     "active_constituent_title_ta": null,
@@ -446,7 +501,9 @@
     "active_constituent_pages_expected_from_contents": 0,
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
-    "fully_bounded_constituents_ready_for_full_workflow": [],
+    "fully_bounded_constituents_ready_for_full_workflow": [
+      55
+    ],
     "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure",
     "constituent_4_post_closure_fidelity_repair": "complete-revalidated",
     "constituent_4_repair_pages": "PDF53-56 / printed52-55",
@@ -508,6 +565,18 @@
     "constituent_53_status": "fully-archived",
     "constituent_53_cross_split_join": "533-534-pass",
     "constituent_54_status": "fully-archived",
-    "constituent_54_cross_split_join": "550-551-pass"
+    "constituent_54_cross_split_join": "550-551-pass",
+    "source_full_intake_complete": true,
+    "terminal_body_pdf_scan": 640,
+    "terminal_printed_page": 639,
+    "final_pdf_scan_role": "back-cover",
+    "constituent_54_post_closure_fidelity_repair": "complete-revalidated",
+    "constituent_54_repair_pages": "PDF543, PDF549; source page-break PDF543-544 restored",
+    "constituent_54_repair_corrections": 4,
+    "constituent_54_repair_unresolved": 0,
+    "constituent_54_english_revalidation": "e2-e3-pass-no-prose-change",
+    "constituent_55_source_status": "fully-supplied-source-bounded-pdf555-569",
+    "constituent_55_closing_note": "முரசொலி 10-9-97",
+    "constituent_55_next_boundary": "pdf570-c56-verified"
   }
 }
