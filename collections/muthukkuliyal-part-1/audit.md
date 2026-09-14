@@ -2,7 +2,7 @@
 
 - source continuity — **PDF1–641 PASS / complete**;
 - splits received — **39/39**;
-- closed constituents — **1–57**;
+- closed constituents — **1–58**;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா` — PDF543–554 — FULLY ARCHIVED;
 - C54 split join — **550→551 PASS**;
 - C54 closing note — **முரசொலி 9.9.97**;
@@ -23,7 +23,12 @@
 - C57 Tamil T2 — **3 corrections / 0 unresolved** (`எ.எல்.` → `ஏ.எல்.`, `தமிழகமாக என்றே` → `தமிழுக்காக என்றே`, `சின்னசின்ன வள்ளியம்மாள்` → `தன் சிற்றன்னை வள்ளியம்மாள்`);
 - C57 closing note — **முரசொலி 12.9.97**;
 - next boundary PDF596 = C58 `கன்னிமாரா பொது நூலக நூற்றாண்டு விழா` — **VERIFIED**;
-- C58 — **all scans supplied for provisional PDF596–609 / printed595–608; opening/title PDF596 VERIFIED; ending boundary pending source gate**;
+- C58 `கன்னிமாரா பொது நூலக நூற்றாண்டு விழா` — PDF596–609 / printed595–608 — **FULLY ARCHIVED**;
+- C58 page joins — **13/13 PASS**; cross-split **601→602 PASS**;
+- C58 Tamil T2 — **0 corrections / 0 unresolved**; source-sensitive forms/numerals/quotations **SCAN-CHECKED / PRESERVED**;
+- C58 closing note — **முரசொலி 13-9-97**;
+- next boundary PDF610 = C59 `சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா` — **VERIFIED**;
+- C59 — **all scans supplied for provisional PDF610–621 / printed609–620; opening/title PDF610 VERIFIED; ending boundary pending source gate**;
 - terminal body — **PDF640 / printed639, `முரசொலி 28.9.97`**;
 - PDF641 — **back cover**;
 - source binaries committed — **No**;
