@@ -126,8 +126,8 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | **514–527 VERIFIED / CLOSED** | **515–528 VERIFIED / CLOSED** |
 | 53 | டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா | 06-09-1997 | 528 | **528–541 VERIFIED / CLOSED** | **529–542 VERIFIED / CLOSED** |
 | 54 | அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா | 09-09-1997 | 542 | **542–553 VERIFIED / CLOSED** | **543–554 VERIFIED / CLOSED** |
-| 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | **554–568 SOURCE-BOUNDED** | **555–569 SOURCE-BOUNDED / FULL SOURCE SUPPLIED** |
-| 56 | அன்னை தெரசாவின் படத்திறப்பு | 11-09-1997 | 569 | 569–572 | 570–573 |
+| 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | **554–568 VERIFIED / CLOSED** | **555–569 VERIFIED / CLOSED** |
+| 56 | அன்னை தெரசாவின் படத்திறப்பு | 11-09-1997 | 569 | **569–572 SOURCE-BOUNDED** | **570–573 SOURCE-BOUNDED / FULL SOURCE SUPPLIED** |
 | 57 | பாரதியார் விழா | 12-09-1997 | 573 | 573–594 | 574–595 |
 | 58 | கன்னிமாரா பொது நூலக நூற்றாண்டு விழா | 13-09-1997 | 595 | 595–608 | 596–609 |
 | 59 | சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா | 18-09-1997 | 609 | 609–620 | 610–621 |
@@ -141,19 +141,20 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–641 / 641**;
 - split continuity: **PASS — 1–641 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through final body PDF640 / printed639; PDF641 back cover**;
-- constituent source gates: **54/61 COMPLETE**;
-- Tamil verified: **54/61**;
-- English verified: **54/61**;
-- fully archived: **54/61**;
+- constituent source gates: **55/61 COMPLETE**;
+- Tamil verified: **55/61**;
+- English verified: **55/61**;
+- fully archived: **55/61**;
 - C49 `சுதந்திர தினப் பொன்விழா`: PDF481–488 / printed480–487 — **CLOSED / FULLY ARCHIVED**; cross-split join **482→483 PASS**; source closing note **முரசொலி 16-8-97**;
 - C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: PDF489–502 / printed488–501 — **CLOSED / FULLY ARCHIVED**; cross-split join **499→500 PASS**; source closing note **முரசொலி 20-8-97**;
 - C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: PDF503–514 / printed502–513 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 2.9.97**;
 - C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: PDF515–528 / printed514–527 — **CLOSED / FULLY ARCHIVED**; cross-split join **515→516 PASS**; source closing note **முரசொலி 1-9-97**;
 - C53 `டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா`: PDF529–542 / printed528–541 — **CLOSED / FULLY ARCHIVED**; cross-split join **533→534 PASS**; source closing note **முரசொலி 6-9-97**;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா`: PDF543–554 / printed542–553 — **CLOSED / FULLY ARCHIVED**; cross-split join **550→551 PASS**; source closing note **முரசொலி 9.9.97**; post-closure direct-scan fidelity repair **COMPLETE / REVALIDATED — 4 corrections / 0 unresolved**;
-- C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: **PDF555–569 / printed554–568 FULL SOURCE SUPPLIED / SOURCE-BOUNDED**; source closing note **முரசொலி 10-9-97**; next boundary **PDF570 = C56 VERIFIED**;
+- C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: PDF555–569 / printed554–568 — **CLOSED / FULLY ARCHIVED**; cross-split join **567→568 PASS**; Tamil T2 **1 correction / 0 unresolved** (`மேலக்கோட்டை` → `மேலக் கோட்டை`); source closing note **முரசொலி 10-9-97**; next boundary **PDF570 = C56 VERIFIED**;
+- C56 `அன்னை தெரசாவின் படத்திறப்பு`: **PDF570–573 / printed569–572 FULL SOURCE SUPPLIED / SOURCE-BOUNDED**; source closing note **முரசொலி 11.9.97**; next boundary **PDF574 = C57 VERIFIED**;
 - terminal end for constituent 61: **PDF640 / printed639 VERIFIED**; source closing note **முரசொலி 28.9.97**; **PDF641 back cover**.
 
 ## Current next gate
 
-Process C55 `ஆழ்வார்கள் ஆய்வு மைய விழா` — **PDF555–569 / printed554–568** — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
+Process C56 `அன்னை தெரசாவின் படத்திறப்பு` — **PDF570–573 / printed569–572** — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure.
