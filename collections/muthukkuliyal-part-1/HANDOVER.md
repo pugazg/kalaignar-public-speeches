@@ -20,23 +20,22 @@
 
 ## Closed constituents
 
-Constituents **1–53 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–54 are CLOSED / FULLY ARCHIVED**.
 
 Latest closure:
 
-53. **டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா** — PDF529–542 / printed528–541 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, cross-split join **533→534 PASS**. Source closing note: **முரசொலி 6-9-97**. Next boundary PDF543 = C54 — VERIFIED.
+54. **அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா** — PDF543–554 / printed542–553 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, cross-split join **550→551 PASS**. Source closing note: **முரசொலி 9.9.97**. Next boundary PDF555 = C55 — VERIFIED.
 
 ## Source now available
 
-- C54 **அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா** — PDF543–554 — fully supplied;
-- C55 **ஆழ்வார்கள் ஆய்வு மைய விழா** — PDF555–567 supplied; provisional full range PDF555–569, so PDF568–569 remains pending.
+C55 **ஆழ்வார்கள் ஆய்வு மைய விழா** — provisional full range PDF **555–569** / printed **554–568**. Current supplied portion is **PDF555–567 / printed554–566**. PDF568–569 remains pending.
 
 ## Totals
 
 - splits — **34/39**;
 - scans — **1–567 / 641**;
-- fully archived — **53/61**.
+- fully archived — **54/61**.
 
 ## Exact next activity
 
-Process C54 PDF543–554 through full Tamil/English closure. If no newer source is available afterward, checkpoint C55 only through PDF567 and do not freeze it.
+Process C55 PDF555–567 through Tamil T1/T2 from rendered scan pixels and leave a durable partial checkpoint. Do not perform C55 T3/freeze or English until PDF568–569 is supplied.
