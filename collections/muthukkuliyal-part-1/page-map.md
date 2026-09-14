@@ -111,7 +111,7 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 45 | தமிழுக்கு நிறம் உண்டு | 14-07-1997 | 427 | **427–457 VERIFIED / CLOSED** | **428–458 VERIFIED / CLOSED** |
 | 46 | ‘ஹைக்கூ கவிதைகள்’ | 04-08-1997 | 458 | **458–469 VERIFIED / CLOSED** | **459–470 VERIFIED / CLOSED** |
 | 47 | திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா | 07-08-1997 | 470 | **470–474 VERIFIED / CLOSED** | **471–475 VERIFIED / CLOSED** |
-| 48 | சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா | 12-08-1997 | 475 | 475–479 | 476–480 (**FULL SOURCE SUPPLIED**) |
+| 48 | சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா | 12-08-1997 | 475 | **475–479 VERIFIED / CLOSED** | **476–480 VERIFIED / CLOSED** |
 | 49 | சுதந்திர தினப் பொன்விழா | 16-08-1997 | 480 | 480–487 | 481–488 (**FULL SOURCE SUPPLIED**) |
 | 50 | மாநகராட்சியில் சுதந்திரப் பொன்விழா | 20-08-1997 | 488 | 488–501 | 489–502 (**FULL SOURCE SUPPLIED**) |
 | 51 | சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா | 02-09-1997 | 502 | 502–513 | 503–514 (**FULL SOURCE SUPPLIED**) |
@@ -133,13 +133,13 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–515 / 641**;
 - split continuity: **PASS — 1–515 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through scan515**;
-- constituent source gates: **47/61 COMPLETE**;
-- Tamil verified: **47/61**;
-- English verified: **47/61**;
-- fully archived: **47/61**;
+- constituent source gates: **48/61 COMPLETE**;
+- Tamil verified: **48/61**;
+- English verified: **48/61**;
+- fully archived: **48/61**;
 - C46 `‘ஹைக்கூ கவிதைகள்’`: PDF459–470 / printed458–469 — **CLOSED / FULLY ARCHIVED**; cross-split join **465→466 PASS**; source closing note **முரசொலி 4.8.97**;
 - C47 `திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா`: PDF471–475 / printed470–474 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 7.8.97**;
-- C48 `சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா`: full source **PDF476–480** supplied;
+- C48 `சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா`: PDF476–480 / printed475–479 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 12.8.97**;
 - C49 `சுதந்திர தினப் பொன்விழா`: full source **PDF481–488** supplied across splits 029–030;
 - C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: full source **PDF489–502** supplied across splits 030–031;
 - C51 `சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: full source **PDF503–514** supplied;
@@ -148,4 +148,4 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 
 ## Current next gate
 
-Process C48 `சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா` — PDF476–480 / printed475–479 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C49–C51 in order; all are fully supplied.
+Process C49 `சுதந்திர தினப் பொன்விழா` — PDF481–488 / printed480–487 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C50–C51 in order; both are fully supplied.
