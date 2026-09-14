@@ -1,0 +1,94 @@
+{
+  "id": "salem-periyar-palkalaikkazhaga-thodakka-vizha",
+  "title": {
+    "ta_source_heading": "சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா",
+    "ta_contents": "சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா",
+    "en": "Inauguration of Salem Periyar University"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 59,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1997-09-18",
+    "event_source_text": "சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா",
+    "closing_note_source_text": "முரசொலி 18-9-97"
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 610,
+    "pdf_page_end": 621,
+    "printed_page_start": 609,
+    "printed_page_end": 620,
+    "speech_pages_total": 12,
+    "split_sources": [
+      {
+        "split_number": 37,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_037_pages_602-618.pdf",
+        "local_page_start": 9,
+        "local_page_end": 17,
+        "original_pdf_page_start": 610,
+        "original_pdf_page_end": 618
+      },
+      {
+        "split_number": 38,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_038_pages_619-636.pdf",
+        "local_page_start": 1,
+        "local_page_end": 3,
+        "original_pdf_page_start": 619,
+        "original_pdf_page_end": 621
+      }
+    ],
+    "binary_committed": false
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-c59-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "next_boundary_verified": true,
+    "page_joins_checked": 11,
+    "page_joins_unresolved": 0,
+    "cross_split_join": "618-619-pass",
+    "tamil_transcription": "verified-complete",
+    "t1_pages_completed": 12,
+    "tamil_visual_audit": "complete",
+    "t2_pages_checked": 12,
+    "tamil_visual_audit_corrections": 0,
+    "tamil_visual_audit_unresolved": 0,
+    "source_title_variation": {
+      "body_heading": "சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா",
+      "contents_title": "சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா",
+      "policy": "preserve-both-no-harmonization"
+    },
+    "tamil_consolidation": "complete",
+    "t3_pages_completed": 12,
+    "t3_additional_corrections": 0,
+    "t3_unresolved": 0,
+    "tamil_frozen": true,
+    "english_translation_source": "frozen transcription-ta.md only",
+    "english_translation": "verified-complete",
+    "e1_pages_completed": 12,
+    "english_translation_review": "review-complete",
+    "e2_pages_checked": 12,
+    "e2_unresolved": 0,
+    "english_translation_final_verification": "verified-complete",
+    "e3_pages_checked": 12,
+    "e3_unresolved": 0,
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null
+  }
+}
