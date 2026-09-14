@@ -1,0 +1,10 @@
+# HANDOVER — தமிழுக்கு நிறம் உண்டு
+
+Constituent **45 / 61 — ACTIVE / PARTIAL T2-VERIFIED**.
+
+- full range — PDF428–458 / printed427–457;
+- durable verified range — PDF428–433 / printed427–432 — **6/31**;
+- T1/T2 supplied checkpoint — COMPLETE / PASS;
+- unresolved — 0;
+- exact continuation — **PDF434**;
+- do not re-read PDF428–433 unless a new fidelity issue appears.

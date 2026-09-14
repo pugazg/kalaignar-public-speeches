@@ -1,0 +1,54 @@
+{
+  "id": "tamizhukku-niram-undu",
+  "title": {
+    "ta": "தமிழுக்கு நிறம் உண்டு",
+    "en": "Tamil Has a Colour"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 45,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1997-07-14",
+    "date_status": "contents-and-terminal-note-source-available"
+  },
+  "source": {
+    "pdf_page_start": 428,
+    "pdf_page_end": 458,
+    "printed_page_start": 427,
+    "printed_page_end": 457,
+    "speech_pages_total": 31,
+    "binary_committed": false,
+    "current_verified_pdf_start": 428,
+    "current_verified_pdf_end": 433
+  },
+  "workflow": {
+    "source_inspection": "partial-t1-t2",
+    "source_boundary_mapping": "complete-from-supplied-source",
+    "opening_verified": true,
+    "ending_verified": false,
+    "source_closing_note_verified": false,
+    "tamil_transcription": "t1-partial-complete",
+    "tamil_visual_audit": "t2-partial-complete",
+    "tamil_consolidation": "blocked-pending-remaining-pages",
+    "tamil_frozen": false,
+    "supplied_pages_total": 31,
+    "t1_pages_completed": 6,
+    "t2_pages_checked": 6,
+    "t2_unresolved": 0,
+    "available_joins_checked": 5,
+    "available_joins_unresolved": 0,
+    "english_translation": "blocked-pending-frozen-tamil",
+    "archive_status": "partial-t2-verified",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Continue direct-scan T1/T2 from PDF434 through PDF458; then verify ending/closing note, run T3 freeze, and complete English E1/E2/E3."
+  }
+}
