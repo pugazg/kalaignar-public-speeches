@@ -3,8 +3,9 @@
 - source continuity — **PDF1–465 PASS**;
 - closed constituents — **1–44**;
 - C45 full source — PDF428–458 / 31 pages;
-- C45 verified checkpoint — **PDF428–445 / 18 pages**;
-- C45 Tamil T1/T2 — **18/18 COMPLETE / PASS; 0 unresolved**;
-- next page — **PDF446**;
+- C45 verified checkpoint — **PDF428–451 / 24 pages**;
+- C45 Tamil T1/T2 — **24/24 COMPLETE / PASS; 0 unresolved**;
+- C45 cross-split join — **447→448 PASS**;
+- next page — **PDF452**;
 - source binaries committed — **No**;
 - OCR / web / alternate source — **not used**.

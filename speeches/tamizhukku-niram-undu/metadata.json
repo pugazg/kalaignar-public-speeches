@@ -28,7 +28,7 @@
     "speech_pages_total": 31,
     "binary_committed": false,
     "current_verified_pdf_start": 428,
-    "current_verified_pdf_end": 445
+    "current_verified_pdf_end": 451
   },
   "workflow": {
     "source_inspection": "partial-t1-t2",
@@ -41,14 +41,15 @@
     "tamil_consolidation": "blocked-pending-remaining-pages",
     "tamil_frozen": false,
     "supplied_pages_total": 31,
-    "t1_pages_completed": 18,
-    "t2_pages_checked": 18,
+    "t1_pages_completed": 24,
+    "t2_pages_checked": 24,
     "t2_unresolved": 0,
-    "available_joins_checked": 17,
+    "available_joins_checked": 23,
     "available_joins_unresolved": 0,
     "english_translation": "blocked-pending-frozen-tamil",
     "archive_status": "partial-t2-verified",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Continue direct-scan T1/T2 from PDF446 through PDF458; then verify ending/closing note, run T3 freeze, and complete English E1/E2/E3."
+    "next_gate": "Continue direct-scan T1/T2 from PDF452 through PDF458; then verify ending/closing note, run T3 freeze, and complete English E1/E2/E3.",
+    "cross_split_join": "447-448-pass"
   }
 }

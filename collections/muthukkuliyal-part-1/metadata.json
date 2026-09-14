@@ -369,14 +369,14 @@
     "constituent_items_english_verified": 44,
     "constituent_items_archived": 44,
     "transcription_started": true,
-    "next_gate": "Continue constituent 45 தமிழுக்கு நிறம் உண்டு direct-scan T1/T2 from PDF446 through PDF458; then T3 freeze and English E1/E2/E3/closure.",
+    "next_gate": "Continue constituent 45 தமிழுக்கு நிறம் உண்டு direct-scan T1/T2 from PDF452 through PDF458; then T3 freeze and English E1/E2/E3/closure.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": 45,
     "active_constituent_title_ta": "தமிழுக்கு நிறம் உண்டு",
     "active_constituent_status": "partial-t2-verified",
     "active_constituent_pdf_start": 428,
     "active_constituent_printed_start": 427,
-    "active_constituent_pages_inspected": 18,
+    "active_constituent_pages_inspected": 24,
     "active_constituent_pages_expected_from_contents": 31,
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
@@ -423,6 +423,7 @@
     "constituent_43_status": "fully-archived",
     "constituent_43_cross_split_join": "395-396-pass",
     "constituent_44_status": "fully-archived",
-    "constituent_44_cross_split_join": "412-413-pass"
+    "constituent_44_cross_split_join": "412-413-pass",
+    "constituent_45_cross_split_join": "447-448-pass"
   }
 }

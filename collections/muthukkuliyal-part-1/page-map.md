@@ -105,7 +105,7 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 42 | தத்துவம் | 18-11-1980 | 361 | **361–381 VERIFIED / CLOSED** | **362–382 VERIFIED / CLOSED** |
 | 43 | “பிறப்பொக்கும்” | 04-04-1981 | 382 | **382–402 VERIFIED / CLOSED** | **383–403 VERIFIED / CLOSED** |
 | 44 | நாம் ஒரே சாதி - தமிழ்ச்சாதி | 11-04-1982 | 403 | **403–426 VERIFIED / CLOSED** | **404–427 VERIFIED / CLOSED** |
-| 45 | தமிழுக்கு நிறம் உண்டு | 14-07-1997 | 427 | 427–457 | 428–458 (**PDF428–445 T2-VERIFIED — 18/31; continue PDF446**) |
+| 45 | தமிழுக்கு நிறம் உண்டு | 14-07-1997 | 427 | 427–457 | 428–458 (**PDF428–451 T2-VERIFIED — 24/31; continue PDF452**) |
 | 46 | ‘ஹைக்கூ கவிதைகள்’ | 04-08-1997 | 458 | 458–469 | 459–470 (**PDF459–465 SUPPLIED; tail 466–470 pending**) |
 | 47 | திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா | 07-08-1997 | 470 | 470–474 | 471–475 |
 | 48 | சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா | 12-08-1997 | 475 | 475–479 | 476–480 |
@@ -135,10 +135,10 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - English verified: **44/61**;
 - fully archived: **44/61**;
 - C44 `நாம் ஒரே சாதி - தமிழ்ச்சாதி!`: PDF404–427 / printed403–426 — **CLOSED / FULLY ARCHIVED**; cross-split join **412→413 PASS**;
-- C45 `தமிழுக்கு நிறம் உண்டு`: full source PDF428–458 / printed427–457 supplied; **PDF428–445 = T1/T2 COMPLETE / PASS — 18/31, 0 unresolved**;
+- C45 `தமிழுக்கு நிறம் உண்டு`: full source PDF428–458 / printed427–457 supplied; **PDF428–451 = T1/T2 COMPLETE / PASS — 24/31, 0 unresolved; split join 447→448 PASS**;
 - C46 `‘ஹைக்கூ கவிதைகள்’`: source supplied **PDF459–465 / printed458–464**, while provisional full range is PDF459–470 / printed458–469;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Continue C45 `தமிழுக்கு நிறம் உண்டு` from **PDF446** through PDF458 with direct-scan T1/T2. After 31/31 pages are verified, perform T3/freeze → English E1/E2/E3 → repository closure. Then checkpoint supplied C46 PDF459–465.
+Continue C45 `தமிழுக்கு நிறம் உண்டு` from **PDF452** through PDF458 with direct-scan T1/T2. After 31/31 pages are verified, perform T3/freeze → English E1/E2/E3 → repository closure. Then checkpoint supplied C46 PDF459–465.
