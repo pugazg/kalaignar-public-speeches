@@ -2,7 +2,7 @@
 
 - source continuity — **PDF1–641 PASS / complete**;
 - splits received — **39/39**;
-- closed constituents — **1–55**;
+- closed constituents — **1–56**;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா` — PDF543–554 — FULLY ARCHIVED;
 - C54 split join — **550→551 PASS**;
 - C54 closing note — **முரசொலி 9.9.97**;
@@ -13,9 +13,12 @@
 - C55 Tamil T2 — **1 correction / 0 unresolved** (`மேலக்கோட்டை` → `மேலக் கோட்டை`);
 - C55 closing note — **முரசொலி 10-9-97**;
 - next boundary PDF570 = C56 `அன்னை தெரசாவின் படத்திறப்பு` — **VERIFIED**;
-- C56 — **PDF570–573 / printed569–572 FULL SOURCE SUPPLIED / SOURCE-BOUNDED**;
+- C56 `அன்னை தெரசாவின் படத்திறப்பு` — PDF570–573 / printed569–572 — **FULLY ARCHIVED**;
+- C56 joins — **3/3 PASS**;
+- C56 Tamil T2 — **0 corrections / 0 unresolved**; source-sensitive `அன்னப்பட்சி` **SCAN-CONFIRMED / PRESERVED**;
 - C56 closing note — **முரசொலி 11.9.97**;
 - next boundary PDF574 = C57 `பாரதியார் விழா` — **VERIFIED**;
+- C57 — **all scans supplied for provisional PDF574–595 / printed573–594; opening/title PDF574 VERIFIED; ending boundary pending source gate**;
 - terminal body — **PDF640 / printed639, `முரசொலி 28.9.97`**;
 - PDF641 — **back cover**;
 - source binaries committed — **No**;
