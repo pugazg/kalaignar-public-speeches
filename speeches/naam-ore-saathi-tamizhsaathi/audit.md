@@ -1,13 +1,14 @@
 # Audit — நாம் ஒரே சாதி - தமிழ்ச்சாதி!
 
-## Current partial checkpoint
+**CLOSED / FULLY ARCHIVED — PDF404–427 / 24 pages.**
 
-- PDF **404–412** / printed **403–411** supplied and inspected;
-- provisional full range — PDF **404–427** / printed **403–426**;
-- opening/title — **VERIFIED**;
-- available joins — **8/8 PASS**;
-- Tamil T1 supplied pages — **9/9 COMPLETE**;
-- Tamil T2 supplied pages — **9/9 PASS / 0 unresolved**;
-- closing boundary / closing note — **not yet supplied**;
-- Tamil T3 / English / repository closure — **blocked pending PDF413–427**;
+- source gate — **PASS / COMPLETE**;
+- Tamil T1/T2/T3 — **COMPLETE / PASS / PASS**;
+- Tamil — **verified-complete / FROZEN**;
+- internal joins — **23/23 PASS**;
+- cross-split join **412→413 — PASS**;
+- opening/title, ending and closing note — **VERIFIED**;
+- English E1/E2/E3 — **COMPLETE / PASS / PASS**;
+- English — **verified-complete**;
+- unresolved — **0**;
 - source binary committed — **No**.
