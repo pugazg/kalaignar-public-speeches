@@ -2,7 +2,7 @@
 
 - source continuity — **PDF1–641 PASS / complete**;
 - splits received — **39/39**;
-- closed constituents — **1–58**;
+- closed constituents — **1–59**;
 - C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா` — PDF543–554 — FULLY ARCHIVED;
 - C54 split join — **550→551 PASS**;
 - C54 closing note — **முரசொலி 9.9.97**;
@@ -28,7 +28,13 @@
 - C58 Tamil T2 — **0 corrections / 0 unresolved**; source-sensitive forms/numerals/quotations **SCAN-CHECKED / PRESERVED**;
 - C58 closing note — **முரசொலி 13-9-97**;
 - next boundary PDF610 = C59 `சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா` — **VERIFIED**;
-- C59 — **all scans supplied for provisional PDF610–621 / printed609–620; opening/title PDF610 VERIFIED; ending boundary pending source gate**;
+- C59 `சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா` — PDF610–621 / printed609–620 — **FULLY ARCHIVED**;
+- C59 page joins — **11/11 PASS**; cross-split **618→619 PASS**;
+- C59 Tamil T2 — **0 corrections / 0 unresolved**; source-sensitive forms/quotations/English insertions/numerals **SCAN-CHECKED / PRESERVED**;
+- C59 source-title variation — body heading `பல்கலைக்கழகத் தொடக்க விழா`; contents title `பல்கலைக்கழக தொடக்க விழா`; **PRESERVED WITHOUT HARMONIZATION**;
+- C59 closing note — **முரசொலி 18-9-97**;
+- next boundary PDF622 = C60 `டாக்டர் அம்பேத்கர் பல்கலைக்கழகத் தொடக்க விழா` — **VERIFIED**;
+- C60 — **all scans supplied for provisional PDF622–629 / printed621–628; opening/title PDF622 VERIFIED; ending boundary pending source gate**;
 - terminal body — **PDF640 / printed639, `முரசொலி 28.9.97`**;
 - PDF641 — **back cover**;
 - source binaries committed — **No**;
