@@ -6,52 +6,40 @@ The original PDF has **641 scans** and is split into **39 exact-range pieces**. 
 
 ## Current intake
 
-- splits received — **7/39**;
-- continuous scan coverage — **1–114 / 641**;
+- splits received — **10/39**;
+- continuous scan coverage — **1–161 / 641**;
 - continuity — **PASS / no gap / no overlap**;
-- body mapping — **PDF = printed + 1** confirmed through scan114;
+- body mapping — **PDF = printed + 1** confirmed through scan161;
 - contents — **61/61 COMPLETE**.
 
-Splits 005–007:
-- 005 — PDF66–82 — 17 pages — 48,688,212 bytes — `962e0c572fb86f8ee45eeff6abcd6bf81e933b7c59023c6c979851f271220916`;
-- 006 — PDF83–98 — 16 pages — 47,082,044 bytes — `1eca8cd01d310515f000ca3c9ebc766b8271463ebed4db8fe4530a3d67d90cef`;
-- 007 — PDF99–114 — 16 pages — 47,281,433 bytes — `61efd5d8c6b55f1a46faec8ae66a47fcdd60656a75f7f3535ad3ca87fff274f0`.
+Latest splits:
+- 008 — PDF115–130 — 16 pages — 46,282,563 bytes — `bbee39c4c1a11dad3cc9cf8652d89a76f76e0bf03e16eb94b9f194a090110244`;
+- 009 — PDF131–145 — 15 pages — 46,566,765 bytes — `d292dce11a0d708b076b7b602fa79b2cc972f33b8bdb890e09a24c77a198ddca`;
+- 010 — PDF146–161 — 16 pages — 48,312,205 bytes — `7bf544b444dfc237a9fd69880c2ca6892d236f64f16465c48b2c8338cfaf10e6`.
 
 ## Workflow state
 
-Constituents **1–13 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
+Constituents **1–20 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
 
-The newly closed block is:
-- 6 `கலை வளர்ப்போம்` — PDF64–69;
-- 7 `உமாமகேஸ்வரனார்` — PDF70–73;
-- 8 `இலக்குவனார்` — PDF74–82;
-- 9 `பயிற்று மொழி` — PDF83–88;
-- 10 `இருமொழி போதும்` — PDF89–94;
-- 11 `தமிழிசை இயக்கம்` — PDF95–98;
-- 12 `இராசராசன் சிலை` — PDF99–103;
-- 13 `மொழிமானம் பெறுவோம்` — PDF104–112.
+Newly closed:
+- 14 `கருத்துச் சுதந்திரம்` — PDF113–118;
+- 15 `மலர்க் காட்சி` — PDF119–120;
+- 16 `கலைவாணர்` — PDF121–125;
+- 17 `நாடக தாசர்` — PDF126–133;
+- 18 `கூழாங்கல்லை வைரமாக்குவோம்` — PDF134–145;
+- 19 `வசதியுள்ளோர் வழி விடுக!` — PDF146–154;
+- 20 `இளங்கோவடிகள் (1)` — PDF155–161.
 
-C11 was repaired before English by removing title-page contamination from C10. C13 was repaired before English by restoring the missing PDF111 page and the PDF110→111→112 boundary. Both were re-frozen and then translated/reviewed.
-
-## Active partial
-
-### 14 — `கருத்துச் சுதந்திரம்`
-
-- provisional full range — PDF113–118 / printed112–117;
-- supplied — **PDF113–114 / 2 of 6 pages**;
-- T1 — **2/2 COMPLETE**;
-- T2 — **2/2 PASS / 0 unresolved**;
-- join113→114 — **PASS**;
-- T3 and English — blocked only by missing PDF115–118.
+C14's earlier PDF114 assembly typo was repaired to source-supported **`நான்காண்டுக்`** before Tamil freeze. C17's split boundary **130→131** is verified PASS.
 
 ## Totals
 
-- source-gated — **13/61**;
-- Tamil verified — **13/61**;
-- English verified — **13/61**;
-- fully archived — **13/61**;
-- active partial — **C14, PDF113–114 T2-verified**.
+- source-gated — **20/61**;
+- Tamil verified — **20/61**;
+- English verified — **20/61**;
+- fully archived — **20/61**;
+- active partial — **none**.
 
 ## Next activity
 
-Ingest the next split beginning at **PDF115**. Finish C14's tail PDF115–118, freeze Tamil, complete English E1/E2/E3 and repository closure, then continue every later fully bounded constituent in that split through closure.
+Ingest the next split beginning at **PDF162**. Start constituent 21 `இளங்கோவடிகள் (2)`, provisional PDF162–166 / printed161–165, and process every fully bounded constituent in that split through repository closure.
