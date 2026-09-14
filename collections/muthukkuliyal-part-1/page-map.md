@@ -25,6 +25,9 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_017_pages_260-276.pdf` | **260–276** | **17** | **48,021,525** | `a0dc332a17d1802c6538037ecd9308307f8bd3c3a91d68f2784830aa816cee23` | **INSPECTED / PASS** |
 | `part_018_pages_277-293.pdf` | **277–293** | **17** | **46,464,352** | `22fb54a4d8817e8e4e1a200713b334eee78ccc6418e5269cd064106f9a7f2470` | **INSPECTED / PASS** |
 | `part_019_pages_294-310.pdf` | **294–310** | **17** | **47,788,523** | `d6987d194570702ecac863b3d0b5e3fb260969a07a46fc5a2fe969fb50f478b5` | **INSPECTED / PASS** |
+| `part_020_pages_311-327.pdf` | **311–327** | **17** | **46,926,163** | `c2e10119330d73a819afa2149dc7b5e8212d00028a4e9e1b4317ec0488204542` | **INSPECTED / PASS** |
+| `part_021_pages_328-344.pdf` | **328–344** | **17** | **48,195,065** | `a411dad2de3add561af3d248d9eeaab7061d8ecbd445b55e996a8522749e9df3` | **INSPECTED / PASS** |
+| `part_022_pages_345-361.pdf` | **345–361** | **17** | **47,286,107** | `418d047f7eb54d6b4bc68c6c072a73e6692b1e1b07ff3dd29de0efbc388f1ee7` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -44,7 +47,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF310 / printed p.309.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF361 / printed p.360.
 
 ## Contents inventory — 61 constituents
 
@@ -89,8 +92,8 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 35 | மாணவர்களும் அரசியலும் | 12-01-1979 | 270 | **270–276 VERIFIED / CLOSED** | **271–277 VERIFIED / CLOSED** |
 | 36 | ‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!! | 11-02-1980 | 277 | **277–284 VERIFIED / CLOSED** | **278–285 VERIFIED / CLOSED** |
 | 37 | “பழைய வரலாறும் இளைய தலைமுறையும்” | 31-08-1980 | 285 | **285–304 VERIFIED / CLOSED** | **286–305 VERIFIED / CLOSED** |
-| 38 | தமிழின் சொல்வளம் | 05-10-1980 | 305 | 305–317 | 306–318 (**PDF306–310 T2-VERIFIED; tail pending**) |
-| 39 | இளைஞர்கள் கட்டளையிடும் காலம்! | 05-10-1980 | 318 | 318–326 | 319–327 |
+| 38 | தமிழின் சொல்வளம் | 05-10-1980 | 305 | **305–317 VERIFIED / CLOSED** | **306–318 VERIFIED / CLOSED** |
+| 39 | இளைஞர்கள் கட்டளையிடும் காலம்! | 05-10-1980 | 318 | **318–326 VERIFIED / CLOSED** | **319–327 VERIFIED / CLOSED** |
 | 40 | இலக்கியத்தில் தமிழகம் | 15-10-1980 | 327 | 327–343 | 328–344 |
 | 41 | குறள் வழி நடப்பீர் | 20-10-1980 | 344 | 344–360 | 345–361 |
 | 42 | தத்துவம் | 18-11-1980 | 361 | 361–381 | 362–382 |
@@ -117,22 +120,20 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **19/39**;
-- original-scan coverage received: **1–310 / 641**;
-- split continuity: **PASS — 1–310 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan310**;
-- constituent source gates: **37/61 COMPLETE**;
-- Tamil verified: **37/61**;
-- English verified: **37/61**;
-- fully archived: **37/61**;
-- C34 `தமிழ்க்குடி மகன்!`: PDF256–270 / printed255–269 — **CLOSED / FULLY ARCHIVED**;
-- C34 cross-split join **259→260 PASS**;
-- C35 `மாணவர்களும் அரசியலும்`: PDF271–277 / printed270–276 — **CLOSED / FULLY ARCHIVED**; cross-split join **276→277 PASS**;
-- C36 `‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!!`: PDF278–285 / printed277–284 — **CLOSED / FULLY ARCHIVED**;
-- C37 `“பழைய வரலாறும் இளைய தலைமுறையும்”`: PDF286–305 / printed285–304 — **CLOSED / FULLY ARCHIVED**; cross-split join **293→294 PASS**;
-- C38 `தமிழின் சொல்வளம்`: PDF306–310 / printed305–309 — **T1/T2 COMPLETE for supplied 5/13 pages; 0 unresolved**;
+- source splits received: **22/39**;
+- original-scan coverage received: **1–361 / 641**;
+- split continuity: **PASS — 1–361 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan361**;
+- constituent source gates: **39/61 COMPLETE**;
+- Tamil verified: **39/61**;
+- English verified: **39/61**;
+- fully archived: **39/61**;
+- C38 `தமிழின் சொல்வளம்`: PDF306–318 / printed305–317 — **CLOSED / FULLY ARCHIVED**; cross-split join **310→311 PASS**;
+- C39 `இளைஞர்கள் கட்டளையிடும் காலம்!`: PDF319–327 / printed318–326 — **CLOSED / FULLY ARCHIVED**;
+- C40 `இலக்கியத்தில் தமிழகம்`: complete source range **PDF328–344 / printed327–343 is supplied in split 021**;
+- C41 `குறள் வழி நடப்பீர்`: complete source range **PDF345–361 / printed344–360 is supplied in split 022**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Next supplied split must begin at **PDF311**. Finish constituent 38 `தமிழின் சொல்வளம்` with PDF311–318, verify ending/closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → repository closure. Continue every later fully bounded constituent in that split through closure.
+Process constituent 40 `இலக்கியத்தில் தமிழகம்` — PDF328–344 / printed327–343 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then process C41 `குறள் வழி நடப்பீர்` — PDF345–361 / printed344–360 — through the same full workflow.

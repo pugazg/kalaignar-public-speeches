@@ -2,12 +2,14 @@
 
 Source-first archival workflow for `முத்துக் குளியல் / பாகம் - I` by **கலைஞர் மு. கருணாநிதி**.
 
-Current intake: **19/39 splits**, continuous **PDF1–310 / 641**, with rendered scan pixels as controlling authority.
+Current intake: **22/39 splits**, continuous **PDF1–361 / 641**, with **PDF = printed + 1** confirmed through scan361. Rendered scan pixels are controlling; OCR, web copies and alternate editions are not used.
 
-Constituents **1–37 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
+Constituents **1–39 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
 
-Latest closure: C37 **`பழைய வரலாறும் இளைய தலைமுறையும்`** — PDF286–305 / printed285–304; split join **293→294 PASS**.
+Latest closures:
+- C38 `தமிழின் சொல்வளம்` — PDF306–318, split join **310→311 PASS**;
+- C39 `இளைஞர்கள் கட்டளையிடும் காலம்!` — PDF319–327.
 
-C38 **`தமிழின் சொல்வளம்`** is durably checkpointed at **PDF306–310 / 5 of 13 pages** through Tamil T2, **0 unresolved**. PDF311–318 is required before T3/freeze and English.
+C40 PDF328–344 and C41 PDF345–361 are already fully supplied and are the next two source-first units.
 
-Next source required: **PDF311**.
+Current totals: **39/61 fully archived**, **22/39 splits received**, **1–361 / 641 scans received**.
