@@ -1,0 +1,64 @@
+{
+  "id": "bharathiyum-pudhumaip-pengalum",
+  "title": {
+    "ta": "பாரதியும் புதுமைப் பெண்களும்",
+    "en": "Bharati and the New Women"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 33,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1980-08-29",
+    "closing_note_source_text": "29.8.80 அன்று தாம்பரம், கிறித்துவக் கல்லூரி பாரதி விழாவில் ஆற்றிய உரை."
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 240,
+    "pdf_page_end": 255,
+    "printed_page_start": 239,
+    "printed_page_end": 254,
+    "speech_pages_total": 16,
+    "binary_committed": false
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "internal_joins_checked": 15,
+    "internal_joins_unresolved": 0,
+    "cross_split_join": "243-244-pass",
+    "tamil_transcription": "verified-complete",
+    "tamil_visual_audit": "complete",
+    "tamil_consolidation": "complete",
+    "tamil_frozen": true,
+    "t1_pages_completed": 16,
+    "t2_pages_checked": 16,
+    "t2_unresolved": 0,
+    "t3_pages_completed": 16,
+    "t3_unresolved": 0,
+    "english_translation": "verified-complete",
+    "english_translation_review": "review-complete",
+    "english_translation_final_verification": "verified-complete",
+    "e1_pages_completed": 16,
+    "e2_pages_checked": 16,
+    "e2_unresolved": 0,
+    "e3_pages_checked": 16,
+    "e3_unresolved": 0,
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null
+  }
+}

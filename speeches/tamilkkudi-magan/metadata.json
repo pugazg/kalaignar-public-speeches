@@ -1,0 +1,56 @@
+{
+  "id": "tamilkkudi-magan",
+  "title": {
+    "ta": "தமிழ்க்குடி மகன்!",
+    "en": "Tamil Citizen!"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 34,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date_from_contents": "1979-08-05",
+    "date_status": "contents-only-pending-closing-note-verification"
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 256,
+    "pdf_page_end_provisional": 270,
+    "printed_page_start": 255,
+    "printed_page_end_provisional": 269,
+    "speech_pages_total_provisional": 15,
+    "binary_committed": false,
+    "current_supplied_pdf_start": 256,
+    "current_supplied_pdf_end": 259
+  },
+  "workflow": {
+    "source_inspection": "partial",
+    "source_boundary_mapping": "partial",
+    "opening_verified": true,
+    "ending_verified": false,
+    "source_closing_note_verified": false,
+    "tamil_transcription": "t1-partial-complete",
+    "tamil_visual_audit": "t2-partial-complete",
+    "tamil_consolidation": "blocked-pending-tail",
+    "tamil_frozen": false,
+    "supplied_pages_total": 4,
+    "t1_pages_completed": 4,
+    "t2_pages_checked": 4,
+    "t2_unresolved": 0,
+    "available_joins_checked": 3,
+    "available_joins_unresolved": 0,
+    "english_translation": "blocked-pending-frozen-tamil",
+    "archive_status": "partial-t2-verified-tail-pending",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Ingest PDF260-270, complete Tamil T1/T2 for remaining 11 pages, verify ending/closing note/boundary, then T3 freeze and English workflow."
+  }
+}
