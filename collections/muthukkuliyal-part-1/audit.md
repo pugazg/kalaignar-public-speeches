@@ -4,29 +4,35 @@
 
 **PASS — continuous original scans 1–412 / 641.**
 
-| Split | Scans | Pages | Bytes | State | SHA-256 |
-|---|---:|---:|---:|---|---|
-| 023 | 362–378 | 17 | 46,867,006 | PASS | `eb00a647c8df61eb2c0d6056099f117cd73c101093390c7f6bb39bebb78ce4a9` |
-| 024 | 379–395 | 17 | 47,828,060 | PASS | `9d3d067eb376b8f08155ebd563f73241b2eb8647fe32d7abd595f1d90dde028f` |
-| 025 | 396–412 | 17 | 47,187,763 | PASS | `9a91744d4aacc03d8167cef72179b13b9e76fc1eb3641807162da0d66fe7f149` |
-
-- gaps / overlaps — **0 / 0**;
+- gaps / overlaps through scan412 — **0 / 0**;
 - mapping — **PDF = printed + 1 through scan412**;
 - source binaries committed — **No**;
 - OCR / web / alternate source — **not used**.
 
 ## Closure state
 
-Constituents **1–42 — CLOSED / FULLY ARCHIVED**.
+Constituents **1–43 — CLOSED / FULLY ARCHIVED**.
 
-C42 `தத்துவம்`:
-- PDF362–382 / 21 pages;
+C43 `“பிறப்பொக்கும்”`:
+- PDF383–403 / 21 pages;
 - source gate — PASS;
 - Tamil T1/T2/T3 — COMPLETE / PASS / PASS;
-- split join PDF378→379 — PASS;
+- cross-split join PDF395→396 — PASS;
 - English E1/E2/E3 — COMPLETE / PASS / PASS;
 - unresolved — 0.
 
+## Constituent 44 — `நாம் ஒரே சாதி - தமிழ்ச்சாதி!` partial
+
+**DURABLE T2 CHECKPOINT — PDF404–412 / 9 of provisional 24 pages.**
+
+- opening/title — PASS;
+- available joins — **8/8 PASS**;
+- Tamil T1 supplied pages — **9/9 COMPLETE**;
+- Tamil T2 supplied pages — **9/9 PASS / 0 unresolved**;
+- ending / closing note — not supplied;
+- Tamil T3/freeze — BLOCKED pending PDF413–427;
+- English — BLOCKED pending frozen Tamil.
+
 ## Next gate
 
-C43 `“பிறப்பொக்கும்”` — PDF383–403 — fully supplied. C44 source is available through PDF412.
+**Next split beginning PDF413. Complete C44 tail and close it, then continue incremental per-split closure.**

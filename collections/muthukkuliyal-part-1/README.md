@@ -4,10 +4,12 @@ Source-first archival workflow for `முத்துக் குளியல�
 
 Current intake: **25/39 splits**, continuous **PDF1–412 / 641**, with **PDF = printed + 1** confirmed through scan412. Rendered scan pixels are controlling; OCR, web copies and alternate editions are not used.
 
-Constituents **1–42 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
+Constituents **1–43 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
 
-Latest closure: C42 **`தத்துவம்`** — PDF362–382 / printed361–381, including split join **378→379 PASS**.
+Latest closure: C43 **`“பிறப்பொக்கும்”`** — PDF383–403 / printed382–402, including split join **395→396 PASS**.
 
-C43 **`“பிறப்பொக்கும்”`** is fully supplied at PDF383–403. C44 begins at PDF404 and is supplied through PDF412.
+C44 **`நாம் ஒரே சாதி - தமிழ்ச்சாதி!`** is durably checkpointed at PDF404–412 / printed403–411: **9/24 pages T1/T2 complete, 0 unresolved**. PDF413–427 remains missing, so Tamil freeze and English are correctly blocked.
 
-Current totals: **42/61 fully archived**, **25/39 splits received**, **1–412 / 641 scans received**.
+Current totals: **43/61 fully archived**, **44/61 started**, **25/39 splits received**, **1–412 / 641 scans received**.
+
+Next source required: **PDF413**.

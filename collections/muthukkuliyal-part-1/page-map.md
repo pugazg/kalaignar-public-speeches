@@ -100,8 +100,8 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 40 | இலக்கியத்தில் தமிழகம் | 15-10-1980 | 327 | **327–343 VERIFIED / CLOSED** | **328–344 VERIFIED / CLOSED** |
 | 41 | குறள் வழி நடப்பீர் | 20-10-1980 | 344 | **344–360 VERIFIED / CLOSED** | **345–361 VERIFIED / CLOSED** |
 | 42 | தத்துவம் | 18-11-1980 | 361 | **361–381 VERIFIED / CLOSED** | **362–382 VERIFIED / CLOSED** |
-| 43 | “பிறப்பொக்கும்” | 04-04-1981 | 382 | 382–402 | 383–403 |
-| 44 | நாம் ஒரே சாதி - தமிழ்ச்சாதி | 11-04-1982 | 403 | 403–426 | 404–427 |
+| 43 | “பிறப்பொக்கும்” | 04-04-1981 | 382 | **382–402 VERIFIED / CLOSED** | **383–403 VERIFIED / CLOSED** |
+| 44 | நாம் ஒரே சாதி - தமிழ்ச்சாதி | 11-04-1982 | 403 | 403–426 | 404–427 (**PDF404–412 T2-VERIFIED; tail pending**) |
 | 45 | தமிழுக்கு நிறம் உண்டு | 14-07-1997 | 427 | 427–457 | 428–458 |
 | 46 | ‘ஹைக்கூ கவிதைகள்’ | 04-08-1997 | 458 | 458–469 | 459–470 |
 | 47 | திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா | 07-08-1997 | 470 | 470–474 | 471–475 |
@@ -127,15 +127,15 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 - original-scan coverage received: **1–412 / 641**;
 - split continuity: **PASS — 1–412 without gap / overlap**;
 - source/body offset: **CONFIRMED PDF = printed + 1 through scan412**;
-- constituent source gates: **42/61 COMPLETE**;
-- Tamil verified: **42/61**;
-- English verified: **42/61**;
-- fully archived: **42/61**;
+- constituent source gates: **43/61 COMPLETE**;
+- Tamil verified: **43/61**;
+- English verified: **43/61**;
+- fully archived: **43/61**;
 - C42 `தத்துவம்`: PDF362–382 / printed361–381 — **CLOSED / FULLY ARCHIVED**; cross-split join **378→379 PASS**;
-- C43 `“பிறப்பொக்கும்”`: complete source range **PDF383–403 / printed382–402 is fully supplied** across splits 024–025;
-- C44 `நாம் ஒரே சாதி - தமிழ்ச்சாதி`: source supplied through **PDF412 / printed411**, while provisional full range is PDF404–427 / printed403–426;
+- C43 `“பிறப்பொக்கும்”`: PDF383–403 / printed382–402 — **CLOSED / FULLY ARCHIVED**; cross-split join **395→396 PASS**;
+- C44 `நாம் ஒரே சாதி - தமிழ்ச்சாதி!`: PDF404–412 / printed403–411 — **T1/T2 COMPLETE for supplied 9/24 pages; 0 unresolved**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Process constituent 43 `“பிறப்பொக்கும்”` — PDF383–403 / printed382–402 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then process the supplied C44 pages PDF404–412 to the maximum durable page-level state.
+Next supplied split must begin at **PDF413**. Finish constituent 44 `நாம் ஒரே சாதி - தமிழ்ச்சாதி!` with PDF413–427, verify ending/closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → repository closure.

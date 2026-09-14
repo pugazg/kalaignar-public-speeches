@@ -19,34 +19,44 @@
 - mapping — **PDF = printed + 1 through scan412**;
 - source binaries — **not committed**.
 
-Latest verified splits:
-
-- 023 — PDF **362–378** — 17 pages — 46,867,006 bytes — `eb00a647c8df61eb2c0d6056099f117cd73c101093390c7f6bb39bebb78ce4a9`;
-- 024 — PDF **379–395** — 17 pages — 47,828,060 bytes — `9d3d067eb376b8f08155ebd563f73241b2eb8647fe32d7abd595f1d90dde028f`;
-- 025 — PDF **396–412** — 17 pages — 47,187,763 bytes — `9a91744d4aacc03d8167cef72179b13b9e76fc1eb3641807162da0d66fe7f149`.
-
 ## Closed constituents
 
-Constituents **1–42 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–43 are CLOSED / FULLY ARCHIVED**.
 
 Latest closure:
 
-42. **தத்துவம்** — PDF362–382 / printed361–381 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, cross-split join **378→379 PASS**. Closing note verified: **18-11-80 — சென்னை பச்சையப்பர் கல்லூரி**.
+43. **“பிறப்பொக்கும்”** — PDF383–403 / printed382–402 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, split join **395→396 PASS**. Closing note verified: **4.4.81 — திருவாரூர் அரசினர் கலைக் கல்லூரி**.
 
-## Source now available
+## Active constituent 44 — `நாம் ஒரே சாதி - தமிழ்ச்சாதி!`
 
-- C43 **“பிறப்பொக்கும்”** — PDF383–403 / printed382–402 — **fully bounded** across splits 024–025;
-- C44 **நாம் ஒரே சாதி - தமிழ்ச்சாதி** — provisional PDF404–427 / printed403–426 — source currently available **PDF404–412 / printed403–411**.
+- provisional full range — PDF **404–427** / printed **403–426** — 24 pages;
+- supplied / durable — PDF **404–412** / printed **403–411** — **9/24**;
+- opening/title — **VERIFIED**;
+- available joins — **8/8 PASS**;
+- Tamil T1 — **9/9 COMPLETE**;
+- Tamil T2 — **9/9 PASS / 0 unresolved**;
+- T3/freeze — **BLOCKED pending PDF413–427**;
+- English — **BLOCKED pending frozen Tamil**;
+- do **not** re-read PDF404–412 unless a new fidelity issue appears.
 
 ## Totals
 
 - splits — **25/39**;
 - scans — **1–412 / 641**;
-- source-gated — **42/61**;
-- Tamil verified — **42/61**;
-- English verified — **42/61**;
-- fully archived — **42/61**.
+- started — **44/61**;
+- source-gated — **43/61**;
+- Tamil verified — **43/61**;
+- English verified — **43/61**;
+- fully archived — **43/61**;
+- active partial — **C44, 9/24 pages T2-verified**.
 
 ## Exact next activity
 
-Process C43 **“பிறப்பொக்கும்”** (PDF383–403) through the full workflow. Then process the supplied C44 pages PDF404–412 through Tamil T1/T2 and leave a durable partial checkpoint if the tail remains unavailable.
+The next supplied split must begin at **original PDF scan413**.
+
+1. verify continuity after PDF412;
+2. process only C44's new tail PDF413–427 through T1/T2;
+3. verify C44 ending, closing note and next boundary;
+4. run C44 T3 consolidation/freeze;
+5. complete English E1/E2/E3 and repository closure for C44;
+6. continue later fully bounded constituents in that split.
