@@ -1,13 +1,12 @@
 # Audit — முத்துக் குளியல் — பாகம் I
 
-- source continuity — **PDF1–515 PASS**;
-- splits received — **31/39**;
-- closed constituents — **1–50**;
-- C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா` — PDF489–502 — FULLY ARCHIVED;
-- C50 split join — **499→500 PASS**;
-- C50 closing note — **முரசொலி 20-8-97**;
-- next boundary PDF503 = C51 — **VERIFIED**;
-- C51 — **fully supplied / ready**;
-- C52 — begins PDF515 / tail pending;
+- source continuity — **PDF1–567 PASS**;
+- splits received — **34/39**;
+- closed constituents — **1–51**;
+- C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா` — PDF503–514 — FULLY ARCHIVED;
+- C51 closing note — **முரசொலி 2.9.97**;
+- next boundary PDF515 = C52 — **VERIFIED**;
+- C52–C54 — **fully supplied / ready**;
+- C55 — **PDF555–567 supplied / PDF568–569 pending**;
 - source binaries committed — **No**;
 - OCR / web / alternate source — **not used**.

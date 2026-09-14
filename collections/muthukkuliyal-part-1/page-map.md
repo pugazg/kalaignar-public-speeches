@@ -37,6 +37,9 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_029_pages_466-482.pdf` | **466–482** | **17** | **46,748,582** | `e5de4c44383c19c34b0f937778e9c4019561d633467dfe694195c6705c124020` | **INSPECTED / PASS** |
 | `part_030_pages_483-499.pdf` | **483–499** | **17** | **48,616,803** | `566697c4a6ade0f2cfcca6361a1e7924273bc32c91c34e15c3ffc8b8588bee57` | **INSPECTED / PASS** |
 | `part_031_pages_500-515.pdf` | **500–515** | **16** | **46,094,338** | `8b0fbe0a8e29acc75147de9b4d7faf880ba1d247e4a795b739f63449030c7059` | **INSPECTED / PASS** |
+| `part_032_pages_516-533.pdf` | **516–533** | **18** | **48,954,454** | `587fc1fc11f1b4036465c01f65d82decabde0a798b4d5a4d6344fc6e536142df` | **INSPECTED / PASS** |
+| `part_033_pages_534-550.pdf` | **534–550** | **17** | **46,978,263** | `fb6122b8ee2ccc5a70cc4fd2225125b69c12dc1348ca08532930fb8763354ae7` | **INSPECTED / PASS** |
+| `part_034_pages_551-567.pdf` | **551–567** | **17** | **47,966,175** | `3b023e09ac3d6f0299cfd22efe769443a4e048d9e3158c3a864402a1eacec478` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -56,7 +59,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF515 / printed p.514.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF567 / printed p.566.
 
 ## Contents inventory — 61 constituents
 
@@ -114,11 +117,11 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 48 | சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா | 12-08-1997 | 475 | **475–479 VERIFIED / CLOSED** | **476–480 VERIFIED / CLOSED** |
 | 49 | சுதந்திர தினப் பொன்விழா | 16-08-1997 | 480 | **480–487 VERIFIED / CLOSED** | **481–488 VERIFIED / CLOSED** |
 | 50 | மாநகராட்சியில் சுதந்திரப் பொன்விழா | 20-08-1997 | 488 | **488–501 VERIFIED / CLOSED** | **489–502 VERIFIED / CLOSED** |
-| 51 | சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா | 02-09-1997 | 502 | 502–513 | 503–514 (**FULL SOURCE SUPPLIED**) |
-| 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | 514–527 | 515–528 (**PDF515 SUPPLIED; tail pending**) |
-| 53 | டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா | 06-09-1997 | 528 | 528–541 | 529–542 |
-| 54 | அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா | 09-09-1997 | 542 | 542–553 | 543–554 |
-| 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | 554–568 | 555–569 |
+| 51 | சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா | 02-09-1997 | 502 | **502–513 VERIFIED / CLOSED** | **503–514 VERIFIED / CLOSED** |
+| 52 | மதுரை தீண்டாமை ஒழிப்பு மாநாடு | 01-09-1997 | 514 | 514–527 | 515–528 (**FULL SOURCE SUPPLIED; NEXT**) |
+| 53 | டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா | 06-09-1997 | 528 | 528–541 | 529–542 (**FULL SOURCE SUPPLIED**) |
+| 54 | அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா | 09-09-1997 | 542 | 542–553 | 543–554 (**FULL SOURCE SUPPLIED**) |
+| 55 | ஆழ்வார்கள் ஆய்வு மைய விழா | 10-09-1997 | 554 | 554–568 | 555–569 (**PDF555–567 SUPPLIED; tail 568–569 pending**) |
 | 56 | அன்னை தெரசாவின் படத்திறப்பு | 11-09-1997 | 569 | 569–572 | 570–573 |
 | 57 | பாரதியார் விழா | 12-09-1997 | 573 | 573–594 | 574–595 |
 | 58 | கன்னிமாரா பொது நூலக நூற்றாண்டு விழா | 13-09-1997 | 595 | 595–608 | 596–609 |
@@ -129,23 +132,23 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **31/39**;
-- original-scan coverage received: **1–515 / 641**;
-- split continuity: **PASS — 1–515 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan515**;
-- constituent source gates: **50/61 COMPLETE**;
-- Tamil verified: **50/61**;
-- English verified: **50/61**;
-- fully archived: **50/61**;
-- C46 `‘ஹைக்கூ கவிதைகள்’`: PDF459–470 / printed458–469 — **CLOSED / FULLY ARCHIVED**; cross-split join **465→466 PASS**; source closing note **முரசொலி 4.8.97**;
-- C47 `திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா`: PDF471–475 / printed470–474 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 7.8.97**;
-- C48 `சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா`: PDF476–480 / printed475–479 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 12.8.97**;
+- source splits received: **34/39**;
+- original-scan coverage received: **1–567 / 641**;
+- split continuity: **PASS — 1–567 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan567**;
+- constituent source gates: **51/61 COMPLETE**;
+- Tamil verified: **51/61**;
+- English verified: **51/61**;
+- fully archived: **51/61**;
 - C49 `சுதந்திர தினப் பொன்விழா`: PDF481–488 / printed480–487 — **CLOSED / FULLY ARCHIVED**; cross-split join **482→483 PASS**; source closing note **முரசொலி 16-8-97**;
 - C50 `மாநகராட்சியில் சுதந்திரப் பொன்விழா`: PDF489–502 / printed488–501 — **CLOSED / FULLY ARCHIVED**; cross-split join **499→500 PASS**; source closing note **முரசொலி 20-8-97**;
-- C51 `சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: full source **PDF503–514** supplied;
-- C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: source begins at **PDF515**; tail PDF516–528 pending;
+- C51 `சங்ககாலத் தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா`: PDF503–514 / printed502–513 — **CLOSED / FULLY ARCHIVED**; source closing note **முரசொலி 2.9.97**;
+- C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு`: full source **PDF515–528 / printed514–527** is supplied across splits 031–032;
+- C53 `டாக்டர் இராதாகிருஷ்ணன் விருது வழங்கு விழா`: full source **PDF529–542 / printed528–541** is supplied across splits 032–033;
+- C54 `அன்னை வேளாங்கண்ணி ஆலய வெள்ளி விழா`: full source **PDF543–554 / printed542–553** is supplied across splits 033–034;
+- C55 `ஆழ்வார்கள் ஆய்வு மைய விழா`: supplied **PDF555–567 / printed554–566**; tail PDF568–569 remains pending;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Process C51 `சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா` — PDF503–514 / printed502–513 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then C52 begins at PDF515 and remains partial until PDF516–528 is supplied.
+Process C52 `மதுரை தீண்டாமை ஒழிப்பு மாநாடு` — PDF515–528 / printed514–527 — through source gate → Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure. Then continue C53 and C54 in order; both are fully supplied. If reached before more source arrives, checkpoint C55 through PDF567.

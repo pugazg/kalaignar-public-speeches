@@ -376,33 +376,66 @@
         "sha256": "8b0fbe0a8e29acc75147de9b4d7faf880ba1d247e4a795b739f63449030c7059",
         "status": "inspected-pass",
         "binary_committed": false
+      },
+      {
+        "split_number": 32,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_032_pages_516-533.pdf",
+        "original_pdf_scan_start": 516,
+        "original_pdf_scan_end": 533,
+        "pages": 18,
+        "bytes": 48954454,
+        "sha256": "587fc1fc11f1b4036465c01f65d82decabde0a798b4d5a4d6344fc6e536142df",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 33,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_033_pages_534-550.pdf",
+        "original_pdf_scan_start": 534,
+        "original_pdf_scan_end": 550,
+        "pages": 17,
+        "bytes": 46978263,
+        "sha256": "fb6122b8ee2ccc5a70cc4fd2225125b69c12dc1348ca08532930fb8763354ae7",
+        "status": "inspected-pass",
+        "binary_committed": false
+      },
+      {
+        "split_number": 34,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_034_pages_551-567.pdf",
+        "original_pdf_scan_start": 551,
+        "original_pdf_scan_end": 567,
+        "pages": 17,
+        "bytes": 47966175,
+        "sha256": "3b023e09ac3d6f0299cfd22efe769443a4e048d9e3158c3a864402a1eacec478",
+        "status": "inspected-pass",
+        "binary_committed": false
       }
     ]
   },
   "workflow": {
     "source_inspection": "in-progress",
-    "split_intake_received": 31,
+    "split_intake_received": 34,
     "split_intake_expected": 39,
-    "original_scans_received_through": 515,
+    "original_scans_received_through": 567,
     "contents_capture_state": "complete",
     "constituent_items_total": 61,
     "constituent_items_contents_captured": 61,
-    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-50-source-available-through-52-partial",
+    "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-51-source-available-through-55-partial",
     "printed_to_pdf_offset_observed_frontmatter": 1,
-    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-515",
-    "constituent_items_started": 50,
-    "constituent_items_source_gated": 50,
-    "constituent_items_t1_complete": 50,
-    "constituent_items_t2_complete": 50,
-    "constituent_items_t3_complete": 50,
-    "constituent_items_tamil_verified": 50,
-    "constituent_items_e1_complete": 50,
-    "constituent_items_e2_complete": 50,
-    "constituent_items_e3_complete": 50,
-    "constituent_items_english_verified": 50,
-    "constituent_items_archived": 50,
+    "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-567",
+    "constituent_items_started": 51,
+    "constituent_items_source_gated": 51,
+    "constituent_items_t1_complete": 51,
+    "constituent_items_t2_complete": 51,
+    "constituent_items_t3_complete": 51,
+    "constituent_items_tamil_verified": 51,
+    "constituent_items_e1_complete": 51,
+    "constituent_items_e2_complete": 51,
+    "constituent_items_e3_complete": 51,
+    "constituent_items_english_verified": 51,
+    "constituent_items_archived": 51,
     "transcription_started": true,
-    "next_gate": "Process constituent 51 சங்க கால தமிழ் நாணயங்கள் நூல் வெளியீட்டு விழா PDF503-514 through full workflow. C52 begins at PDF515 and remains partial until PDF516-528 is supplied.",
+    "next_gate": "Process constituent 52 மதுரை தீண்டாமை ஒழிப்பு மாநாடு PDF515-528 through full workflow, then constituents 53-54 in order; both are fully supplied. C55 is supplied through PDF567 only.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": null,
     "active_constituent_title_ta": null,
@@ -414,7 +447,9 @@
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
     "fully_bounded_constituents_ready_for_full_workflow": [
-      51
+      52,
+      53,
+      54
     ],
     "partial_constituent_checkpoint_policy": "process-supplied-pages-now; defer only missing tail/final closure",
     "constituent_4_post_closure_fidelity_repair": "complete-revalidated",
@@ -470,6 +505,7 @@
     "constituent_49_status": "fully-archived",
     "constituent_49_cross_split_join": "482-483-pass",
     "constituent_50_status": "fully-archived",
-    "constituent_50_cross_split_join": "499-500-pass"
+    "constituent_50_cross_split_join": "499-500-pass",
+    "constituent_51_status": "fully-archived"
   }
 }
