@@ -1,0 +1,95 @@
+{
+  "id": "kannimara-pothu-noolaga-nootrandu-vizha",
+  "title": {
+    "ta": "கன்னிமாரா பொது நூலக நூற்றாண்டு விழா",
+    "en": "Connemara Public Library Centenary Function"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi"
+  },
+  "document_type": "public-speech-constituent",
+  "language": "ta",
+  "parent_collection": {
+    "id": "muthukkuliyal-part-1",
+    "title_ta": "முத்துக் குளியல் — பாகம் I",
+    "constituent_number": 58,
+    "constituent_total": 61
+  },
+  "speech": {
+    "date": "1997-09-13",
+    "event_source_text": "கன்னிமாரா பொது நூலக நூற்றாண்டு விழா",
+    "closing_note_source_text": "முரசொலி 13-9-97"
+  },
+  "source": {
+    "original_filename_expected": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf",
+    "original_pdf_pages_user_confirmed": 641,
+    "pdf_page_start": 596,
+    "pdf_page_end": 609,
+    "printed_page_start": 595,
+    "printed_page_end": 608,
+    "speech_pages_total": 14,
+    "split_sources": [
+      {
+        "split_number": 36,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_036_pages_585-601.pdf",
+        "local_page_start": 12,
+        "local_page_end": 17,
+        "original_pdf_page_start": 596,
+        "original_pdf_page_end": 601
+      },
+      {
+        "split_number": 37,
+        "filename": "TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1_part_037_pages_602-618.pdf",
+        "local_page_start": 1,
+        "local_page_end": 8,
+        "original_pdf_page_start": 602,
+        "original_pdf_page_end": 609
+      }
+    ],
+    "binary_committed": false
+  },
+  "workflow": {
+    "duplicate_check": "pass-no-existing-dedicated-c58-archive",
+    "source_inspection": "complete",
+    "source_boundary_mapping": "complete",
+    "opening_verified": true,
+    "ending_verified": true,
+    "source_closing_note_verified": true,
+    "next_boundary_verified": true,
+    "page_joins_checked": 13,
+    "page_joins_unresolved": 0,
+    "cross_split_join": "601-602-pass",
+    "tamil_transcription": "verified-complete",
+    "t1_pages_completed": 14,
+    "tamil_visual_audit": "complete",
+    "t2_pages_checked": 14,
+    "tamil_visual_audit_corrections": 0,
+    "tamil_visual_audit_unresolved": 0,
+    "source_sensitive_readings": [
+      "லைப்ரரி",
+      "அட்லாஸ்",
+      "48,000",
+      "1,146",
+      "ஒரு கோடியே 48 லட்சம்"
+    ],
+    "tamil_consolidation": "complete",
+    "t3_pages_completed": 14,
+    "t3_additional_corrections": 0,
+    "t3_unresolved": 0,
+    "tamil_frozen": true,
+    "english_translation_source": "frozen transcription-ta.md only",
+    "english_translation": "verified-complete",
+    "e1_pages_completed": 14,
+    "english_translation_review": "review-complete",
+    "e2_pages_checked": 14,
+    "e2_unresolved": 0,
+    "english_translation_final_verification": "verified-complete",
+    "e3_pages_checked": 14,
+    "e3_unresolved": 0,
+    "repository_closure": "complete",
+    "archive_status": "fully-archived",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": null
+  }
+}
