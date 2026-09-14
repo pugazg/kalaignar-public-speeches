@@ -4,10 +4,10 @@ Source-first archival workflow using rendered scan pixels only.
 
 Current intake: **39/39 splits**, continuous **PDF1–641 / 641**. The body mapping **PDF = printed + 1** is confirmed through final body PDF640 / printed639; PDF641 is the back cover.
 
-Constituents **1–59 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
+Constituents **1–60 are FULLY ARCHIVED** with frozen verified Tamil and verified English.
 
-Latest closure: C59 **`சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா`** — PDF610–621 / printed609–620, page joins **11/11 PASS**, cross-split join **618→619 PASS**, source closing note **முரசொலி 18-9-97**. Tamil T2/T3 and English E1/E2/E3 are complete with **0 unresolved**. The body heading's `த்` form is preserved separately from the contents-title variant.
+Latest closure: C60 **`டாக்டர் அம்பேத்கர் பல்கலைக்கழக தொடக்க விழா`** — PDF622–629 / printed621–628, page joins **7/7 PASS**, source closing note **முரசொலி 21-9-97**. Tamil T2/T3 and English E1/E2/E3 are complete with **0 unresolved**; PDF622 body spelling `அண்ணல் அம்பேத்கார்` is preserved alongside later `அம்பேத்கர்`.
 
-C60 **`டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா`** has all scans supplied for its provisional contents range PDF622–629 / printed621–628. PDF622 opening/title is verified; the ending/next boundary will be source-gated during C60 processing.
+C61 **`ஆதித்தனார் பிறந்தநாள் விழா`** is the final constituent, PDF630–640 / printed629–639. PDF630 opening/title and the terminal end at PDF640 / printed639 are verified; PDF641 is the back cover. Full C61 Tamil/English processing remains.
 
-Current total: **59/61 fully archived**.
+Current total: **60/61 fully archived**.
