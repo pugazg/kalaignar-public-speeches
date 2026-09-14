@@ -20,22 +20,22 @@
 
 ## Closed constituents
 
-Constituents **1–58 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–59 are CLOSED / FULLY ARCHIVED**.
 
 Latest closure:
 
-58. **கன்னிமாரா பொது நூலக நூற்றாண்டு விழா** — PDF596–609 / printed595–608 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, page joins **13/13 PASS**, cross-split join **601→602 PASS**. Source closing note: **முரசொலி 13-9-97**. Next boundary PDF610 = C59 — VERIFIED.
+59. **சேலம் பெரியார் பல்கலைக்கழகத் தொடக்க விழா** — PDF610–621 / printed609–620 — Tamil T1/T2/T3 **COMPLETE / PASS / PASS**, English E1/E2/E3 **COMPLETE / PASS / PASS**, unresolved **0**, page joins **11/11 PASS**, cross-split join **618→619 PASS**. Body heading preserves `பல்கலைக்கழகத் தொடக்க விழா`; contents inventory has `பல்கலைக்கழக தொடக்க விழா`. Source closing note: **முரசொலி 18-9-97**. Next boundary PDF622 = C60 — VERIFIED.
 
 ## Source now available
 
-C59 **சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா** — provisional range **PDF610–621 / printed609–620** from contents. All required scans are supplied; PDF610 opening/title is **VERIFIED**. Ending/next-boundary source gate remains to be checked during C59 processing. Splits 037–039 complete the source through PDF641; PDF640 / printed639 is the final speech-body page and PDF641 is the back cover.
+C60 **டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா** — provisional range **PDF622–629 / printed621–628** from contents. All required scans are supplied; PDF622 opening/title is **VERIFIED**. Ending/next-boundary source gate remains to be checked during C60 processing. Splits 038–039 complete the source through PDF641; PDF640 / printed639 is the final speech-body page and PDF641 is the back cover.
 
 ## Totals
 
 - splits — **39/39**;
 - scans — **1–641 / 641**;
-- fully archived — **58/61**.
+- fully archived — **59/61**.
 
 ## Exact next activity
 
-Process C59 `சேலம் பெரியார் பல்கலைக்கழக தொடக்க விழா` — provisional PDF610–621 / printed609–620 — beginning with source-boundary verification, then Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure workflow.
+Process C60 `டாக்டர் அம்பேத்கர் பல்கலைக் கழக தொடக்க விழா` — provisional PDF622–629 / printed621–628 — beginning with source-boundary verification, then Tamil T1/T2/T3/freeze → English E1/E2/E3 → repository closure workflow.
