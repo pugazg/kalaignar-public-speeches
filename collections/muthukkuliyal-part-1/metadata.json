@@ -390,19 +390,19 @@
     "page_map_state": "provisional-from-contents-boundaries-confirmed-through-constituent-46-source-available-through-52-partial",
     "printed_to_pdf_offset_observed_frontmatter": 1,
     "body_offset_status": "confirmed-pdf-equals-printed-plus-1-through-scan-515",
-    "constituent_items_started": 46,
-    "constituent_items_source_gated": 46,
-    "constituent_items_t1_complete": 46,
-    "constituent_items_t2_complete": 46,
-    "constituent_items_t3_complete": 46,
-    "constituent_items_tamil_verified": 46,
-    "constituent_items_e1_complete": 46,
-    "constituent_items_e2_complete": 46,
-    "constituent_items_e3_complete": 46,
-    "constituent_items_english_verified": 46,
-    "constituent_items_archived": 46,
+    "constituent_items_started": 47,
+    "constituent_items_source_gated": 47,
+    "constituent_items_t1_complete": 47,
+    "constituent_items_t2_complete": 47,
+    "constituent_items_t3_complete": 47,
+    "constituent_items_tamil_verified": 47,
+    "constituent_items_e1_complete": 47,
+    "constituent_items_e2_complete": 47,
+    "constituent_items_e3_complete": 47,
+    "constituent_items_english_verified": 47,
+    "constituent_items_archived": 47,
     "transcription_started": true,
-    "next_gate": "Process constituent 47 திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா PDF471-475 through full workflow, then constituents 48-51 in order; all are fully supplied.",
+    "next_gate": "Process constituent 48 சுதந்திரப் பொன்விழா - தமிழகத் தியாகிகள் வழியனுப்பு விழா PDF476-480 through full workflow, then constituents 49-51 in order; all are fully supplied.",
     "printed_to_pdf_offset_observed_body": 1,
     "active_constituent_number": null,
     "active_constituent_title_ta": null,
@@ -414,7 +414,6 @@
     "processing_policy": "incremental-per-split-maximal-durable-state",
     "wait_for_all_splits_before_transcription": false,
     "fully_bounded_constituents_ready_for_full_workflow": [
-      47,
       48,
       49,
       50,
@@ -468,6 +467,7 @@
       "447-448-pass"
     ],
     "constituent_46_status": "fully-archived",
-    "constituent_46_cross_split_join": "465-466-pass"
+    "constituent_46_cross_split_join": "465-466-pass",
+    "constituent_47_status": "fully-archived"
   }
 }

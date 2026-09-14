@@ -2,10 +2,11 @@
 
 - source continuity — **PDF1–515 PASS**;
 - splits received — **31/39**;
-- closed constituents — **1–46**;
-- C46 `‘ஹைக்கூ கவிதைகள்’` — PDF459–470 — FULLY ARCHIVED;
-- C46 split join — **465→466 PASS**;
-- C47–C51 — **fully supplied / ready**;
+- closed constituents — **1–47**;
+- C47 `திருமதி ருக்மணி இலட்சுமிபதி நூற்றாண்டு விழா` — PDF471–475 — FULLY ARCHIVED;
+- C47 closing note — **முரசொலி 7.8.97**;
+- next boundary PDF476 = C48 — **VERIFIED**;
+- C48–C51 — **fully supplied / ready**;
 - C52 — begins PDF515 / tail pending;
 - source binaries committed — **No**;
 - OCR / web / alternate source — **not used**.
