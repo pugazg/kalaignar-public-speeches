@@ -19,6 +19,9 @@ Controlling-source plan: original `TVA_BOK_0065801_முத்துக்க�
 | `part_011_pages_162-177.pdf` | **162–177** | **16** | **48,334,208** | `f3402df27678ef8b711358363618cc67bd8d610eee67e0a0f74f37bd89fca971` | **INSPECTED / PASS** |
 | `part_012_pages_178-193.pdf` | **178–193** | **16** | **47,645,162** | `0d70dc5150ee33a3e3769ffe92cab2c5e2918f79cda1b9a67548e8415981081e` | **INSPECTED / PASS** |
 | `part_013_pages_194-209.pdf` | **194–209** | **16** | **48,080,495** | `5b85e25417856354772d66311503fadfef761e72768f35682cf76d281730f6bc` | **INSPECTED / PASS** |
+| `part_014_pages_210-226.pdf` | **210–226** | **17** | **48,367,221** | `07108ef3017b7235c50f0bc6c9cde6d30314332879adf9f83a9460d7a6b21672` | **INSPECTED / PASS** |
+| `part_015_pages_227-243.pdf` | **227–243** | **17** | **48,307,852** | `270dc9b6c4104191388b6b62ede5e3c3f76311bc6fabcf94013190380db8e36e` | **INSPECTED / PASS** |
+| `part_016_pages_244-259.pdf` | **244–259** | **16** | **46,319,510** | `aee05e4d8562f76ae10f97c589a79345b964c0d82542467748e9b623f41c04cb` | **INSPECTED / PASS** |
 
 Split 001 contains front matter only; **no constituent speech body begins within scans 1–17**.
 
@@ -38,7 +41,7 @@ Split 001 contains front matter only; **no constituent speech body begins within
 - scans 12–16 — `உள்ளடக்கம்`, printed pp.11–15;
 - scan 17 — reverse / blank.
 
-Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF209 / printed p.208.
+Observed printed-page relationship is **CONFIRMED in both front matter and speech body: PDF scan = printed page + 1**, verified continuously through PDF259 / printed p.258.
 
 ## Contents inventory — 61 constituents
 
@@ -73,13 +76,13 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 | 25 | பத்திரிகைப் பெண்ணே! | 14-09-1971 | 184 | **184–188 VERIFIED / CLOSED** | **185–189 VERIFIED / CLOSED** |
 | 26 | பாரதி விழா | 12-09-1973 | 189 | **189–197 VERIFIED / CLOSED** | **190–198 VERIFIED / CLOSED** |
 | 27 | கப்பலோட்டிய தமிழன் | 07-09-1972 | 198 | **198–203 VERIFIED / CLOSED** | **199–204 VERIFIED / CLOSED** |
-| 28 | யாதும் ஊரே யாவரும் கேளிர்! | 28-10-1973 | 204 | 204–210 | 205–211 (**PDF205–209 T2-VERIFIED; tail pending**) |
-| 29 | புனித தோமையர் | 16-04-1972 | 211 | 211–213 | 212–214 |
-| 30 | மனப்புரட்சி தேவை | 05-09-1971 | 214 | 214–222 | 215–223 |
-| 31 | அலகாபாத் மாநாடு | 14-10-1973 | 223 | 223–233 | 224–234 |
-| 32 | இதயங்கள் இயந்திரங்கள் ஆகவேண்டாம் | 02-11-1971 | 234 | 234–238 | 235–239 |
-| 33 | பாரதியும் புதுமைப் பெண்களும் | 29-08-1980 | 239 | 239–254 | 240–255 |
-| 34 | தமிழ்க்குடி மகன் | 05-08-1979 | 255 | 255–269 | 256–270 |
+| 28 | யாதும் ஊரே யாவரும் கேளிர்! | 28-10-1973 | 204 | **204–210 VERIFIED / CLOSED** | **205–211 VERIFIED / CLOSED** |
+| 29 | புனித தோமையர் | 16-04-1972 | 211 | **211–213 VERIFIED / CLOSED** | **212–214 VERIFIED / CLOSED** |
+| 30 | மனப்புரட்சி தேவை | 05-09-1971 | 214 | **214–222 VERIFIED / CLOSED** | **215–223 VERIFIED / CLOSED** |
+| 31 | அலகாபாத் மாநாடு | 14-10-1973 | 223 | **223–233 VERIFIED / CLOSED** | **224–234 VERIFIED / CLOSED** |
+| 32 | இதயங்கள் இயந்திரங்கள் ஆகவேண்டாம் | 02-11-1971 | 234 | **234–238 VERIFIED / CLOSED** | **235–239 VERIFIED / CLOSED** |
+| 33 | பாரதியும் புதுமைப் பெண்களும் | 29-08-1980 | 239 | **239–254 VERIFIED / CLOSED** | **240–255 VERIFIED / CLOSED** |
+| 34 | தமிழ்க்குடி மகன் | 05-08-1979 | 255 | 255–269 | 256–270 (**PDF256–259 T2-VERIFIED; tail pending**) |
 | 35 | மாணவர்களும் அரசியலும் | 12-01-1979 | 270 | 270–276 | 271–277 |
 | 36 | ‘நாம்’ - ஜனநாயகம்! ‘நான்’ - சர்வாதிகாரம்!! | 11-02-1980 | 277 | 277–284 | 278–285 |
 | 37 | “பழைய வரலாறும் இளைய தலைமுறையும்” | 31-08-1980 | 285 | 285–304 | 286–305 |
@@ -111,20 +114,20 @@ Ranges below are **provisional from contents start pages**. For items 1–60, th
 ## Intake status
 
 - contents captured: **61/61**;
-- source splits received: **13/39**;
-- original-scan coverage received: **1–209 / 641**;
-- split continuity: **PASS — 1–209 without gap / overlap**;
-- source/body offset: **CONFIRMED PDF = printed + 1 through scan209**;
-- constituent source gates: **27/61 COMPLETE**;
-- Tamil verified: **27/61**;
-- English verified: **27/61**;
-- fully archived: **27/61**;
-- C23 `இளங்கோவடிகள் (4)`: cross-split join **177→178 PASS**;
-- C26 `பாரதி விழா`: cross-split join **193→194 PASS**;
-- C28 `யாதும் ஊரே யாவரும் கேளிர்!`: PDF205–209 / printed204–208 — **T1/T2 COMPLETE for supplied 5/7 pages; 0 unresolved**;
-- C28 closing boundary: **pending PDF210–211**;
+- source splits received: **16/39**;
+- original-scan coverage received: **1–259 / 641**;
+- split continuity: **PASS — 1–259 without gap / overlap**;
+- source/body offset: **CONFIRMED PDF = printed + 1 through scan259**;
+- constituent source gates: **33/61 COMPLETE**;
+- Tamil verified: **33/61**;
+- English verified: **33/61**;
+- fully archived: **33/61**;
+- C31 `அலகாபாத் மாநாடு`: cross-split join **226→227 PASS**;
+- C33 `பாரதியும் புதுமைப் பெண்களும்`: cross-split join **243→244 PASS**;
+- C34 `தமிழ்க்குடி மகன்!`: PDF256–259 / printed255–258 — **T1/T2 COMPLETE for supplied 4/15 pages; 0 unresolved**;
+- C34 closing boundary: **pending PDF260–270**;
 - terminal end for constituent 61: **pending final split**.
 
 ## Current next gate
 
-Next supplied split must begin at **PDF210**. Finish constituent 28 `யாதும் ஊரே யாவரும் கேளிர்!` with PDF210–211, verify ending/closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → repository closure. Continue every later fully bounded constituent in that split through closure, leaving only the final boundary-spanning constituent at a durable page-level checkpoint.
+Next supplied split must begin at **PDF260**. Finish constituent 34 `தமிழ்க்குடி மகன்!` with PDF260–270, verify ending/closing note and next boundary, then perform T3/freeze → English E1/E2/E3 → repository closure. Continue every later fully bounded constituent in that split through closure, leaving only the final boundary-spanning constituent at a durable page-level checkpoint.

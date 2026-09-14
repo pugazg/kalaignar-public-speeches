@@ -12,21 +12,21 @@
 - original source — `TVA_BOK_0065801_முத்துக்குளியல்_பாகம்_1.pdf`;
 - original extent — **641 scans**, user-confirmed;
 - user-created splits — **39** exact-range PDFs;
-- splits received — **13/39**;
-- continuous coverage — **1–209 / 641**;
+- splits received — **16/39**;
+- continuous coverage — **1–259 / 641**;
 - binaries — **not committed**;
 - authority — rendered scan pixels only;
 - OCR / web / alternate editions — **not used**;
-- mapping — **PDF = printed + 1** confirmed through scan209;
+- mapping — **PDF = printed + 1** confirmed through scan259;
 - contents — **61/61 COMPLETE**.
 
 ## Latest split ledger
 
-- 011 — scans **162–177** — 16 pages — **48,334,208 bytes** — PASS — `f3402df27678ef8b711358363618cc67bd8d610eee67e0a0f74f37bd89fca971`;
-- 012 — scans **178–193** — 16 pages — **47,645,162 bytes** — PASS — `0d70dc5150ee33a3e3769ffe92cab2c5e2918f79cda1b9a67548e8415981081e`;
-- 013 — scans **194–209** — 16 pages — **48,080,495 bytes** — PASS — `5b85e25417856354772d66311503fadfef761e72768f35682cf76d281730f6bc`.
+- 014 — scans **210–226** — 17 pages — **48,367,221 bytes** — PASS — `07108ef3017b7235c50f0bc6c9cde6d30314332879adf9f83a9460d7a6b21672`;
+- 015 — scans **227–243** — 17 pages — **48,307,852 bytes** — PASS — `270dc9b6c4104191388b6b62ede5e3c3f76311bc6fabcf94013190380db8e36e`;
+- 016 — scans **244–259** — 16 pages — **46,319,510 bytes** — PASS — `aee05e4d8562f76ae10f97c589a79345b964c0d82542467748e9b623f41c04cb`.
 
-Continuity **1–209 — PASS / no gap / no overlap**.
+Continuity **1–259 — PASS / no gap / no overlap**.
 
 ## Incremental workflow
 
@@ -37,51 +37,50 @@ For a split-boundary constituent, supplied pages are verified immediately and on
 
 ## Closed constituents
 
-Constituents **1–27 are CLOSED / FULLY ARCHIVED**.
+Constituents **1–33 are CLOSED / FULLY ARCHIVED**.
 
-Newly closed from splits 011–013:
+Newly completed in the current supplied block:
 
-21. **இளங்கோவடிகள் (2)** — PDF162–166.
-22. **இளங்கோவடிகள் (3)** — PDF167–171.
-23. **இளங்கோவடிகள் (4)** — PDF172–180 — split join **177→178 PASS**.
-24. **நிலா முற்றம்** — PDF181–184.
-25. **பத்திரிகைப் பெண்ணே!** — PDF185–189.
-26. **பாரதி விழா** — PDF190–198 — split join **193→194 PASS**.
-27. **கப்பலோட்டிய தமிழன்** — PDF199–204.
+28. **யாதும் ஊரே யாவரும் கேளிர்!** — PDF205–211.
+29. **புனித தோமையர்** — PDF212–214.
+30. **மனப்புரட்சி தேவை** — PDF215–223 — PDF220 fidelity repair resolved to source-supported **`பதினைந்தாண்டுகளுக்கு முன்பு`**.
+31. **அலகாபாத் மாநாடு** — PDF224–234 — split join **226→227 PASS**.
+32. **இதயங்கள் இயந்திரங்கள் ஆகவேண்டாம்!** — PDF235–239.
+33. **பாரதியும் புதுமைப் பெண்களும்** — PDF240–255 — split join **243→244 PASS**.
 
-All 1–27 have Tamil **verified-complete / FROZEN**, English **verified-complete**, repository closure **FULLY ARCHIVED**, unresolved **0**.
+All 1–33 have Tamil **verified-complete / FROZEN**, English **verified-complete**, repository closure **FULLY ARCHIVED**, unresolved **0**.
 
-## Active constituent 28 — `யாதும் ஊரே யாவரும் கேளிர்!`
+## Active constituent 34 — `தமிழ்க்குடி மகன்!`
 
-- provisional full range — PDF **205–211** / printed **204–210** — 7 pages;
-- supplied / durable — PDF **205–209** / printed **204–208** — **5/7**;
+- provisional full range — PDF **256–270** / printed **255–269** — 15 pages;
+- supplied / durable — PDF **256–259** / printed **255–258** — **4/15**;
 - opening/title — **VERIFIED**;
-- available joins — **4/4 PASS**;
-- Tamil T1 — **5/5 COMPLETE**;
-- Tamil T2 — **5/5 PASS / 0 unresolved**;
-- T3/freeze — **BLOCKED only by missing PDF210–211**;
+- available joins — **3/3 PASS**;
+- Tamil T1 — **4/4 COMPLETE**;
+- Tamil T2 — **4/4 PASS / 0 unresolved**;
+- T3/freeze — **BLOCKED only by missing PDF260–270**;
 - English — **BLOCKED pending frozen Tamil**;
-- do **not** re-read PDF205–209 unless a new fidelity issue appears.
+- do **not** re-read PDF256–259 unless a new fidelity issue appears.
 
 ## Current totals
 
-- splits — **13/39**;
-- scans — **1–209 / 641**;
-- started — **28/61**;
-- source-gated — **27/61**;
-- Tamil verified — **27/61**;
-- English verified — **27/61**;
-- fully archived — **27/61**;
-- active partial — **C28, 5/7 pages T2-verified**.
+- splits — **16/39**;
+- scans — **1–259 / 641**;
+- started — **34/61**;
+- source-gated — **33/61**;
+- Tamil verified — **33/61**;
+- English verified — **33/61**;
+- fully archived — **33/61**;
+- active partial — **C34, 4/15 pages T2-verified**.
 
 ## Exact next activity
 
-The next supplied split must begin at **original PDF scan210**.
+The next supplied split must begin at **original PDF scan260**.
 
-1. verify continuity after PDF209;
-2. process only C28's new tail PDF210–211 through T1/T2;
-3. verify C28 ending, closing note and next boundary;
-4. run C28 T3 consolidation/freeze;
-5. complete English E1/E2/E3 and repository closure for C28;
-6. process every later fully bounded constituent in that split through closure;
+1. verify continuity after PDF259;
+2. process only C34's new tail PDF260–270 through T1/T2;
+3. verify C34 ending, closing note and next boundary;
+4. run C34 T3 consolidation/freeze;
+5. complete English E1/E2/E3 and repository closure for C34;
+6. continue every later fully bounded constituent in that split through closure;
 7. leave only the final boundary-spanning constituent at a durable page-level checkpoint.
