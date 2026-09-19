@@ -1,54 +1,42 @@
-# NEXT CHAT PROMPT — Kalaivanar Memorial-Day Audio 06 / Tamil T2 direct listening
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / Tamil first pass PDF 11–20
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed collections — do not reopen routinely
+## Active speech
 
-- `collections/muthukkuliyal-part-1/` — **61/61 FINAL-CLOSED / ARCHIVAL-READY**, 39/39 splits, PDF1–641 complete, 0 unresolved.
-- `collections/muthukkuliyal-part-2/` — **36/36 CLOSED / FULLY ARCHIVED**, Tamil + English verified, 0 pending transcription/translation work.
+`speeches/varalattru-suvadu/`
 
-## Active archive
-
-`speeches/kalaivanar-nsk-memorial-day-audio-06/`
+Controlling source: `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
 
 Read first:
 
 1. `SPEECH_PROCESSING_GUIDE.md`
-2. `AUDIO_SPEECH_PROCESSING_GUIDE.md`
-3. `docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md`
-4. `speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md`
-5. `speeches/kalaivanar-nsk-memorial-day-audio-06/metadata.json`
-6. `speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md`
-7. `speeches/kalaivanar-nsk-memorial-day-audio-06/transcription-ta.md`
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. `speeches/varalattru-suvadu/HANDOVER.md`
+4. `speeches/varalattru-suvadu/README.md`
+5. `speeches/varalattru-suvadu/metadata.json`
+6. `speeches/varalattru-suvadu/transcription-ta.md`
+7. `speeches/varalattru-suvadu/audit.md`
 
 ## Durable state
 
-- controlling MP3 duration — **00:26:22.080**;
-- Tamil T1 — **provisionally complete through true decoded end**;
-- T2 strict direct listening — **IN PROGRESS**;
-- cumulative T2 — **12 checked / 4 passed**;
-- latest checked range — **08:38–09:25**;
-- lead-in — **checked but not passed / retry required**;
-- main-speech opening — **passed**;
-- recording boundary / final tail — **not yet verified**;
-- `recording_truncated` — **unresolved**;
-- Tamil T3 — **blocked**;
-- English E1/E2/E3 — **blocked until verified Tamil is frozen**.
+- source scans — **33**
+- canonical speech body — PDF **4–25**, **22 speech pages**
+- PDF 26–33 — supplementary non-speech matter, outside speech body
+- Tamil first pass/source-check — **PDF 4–10 = 7/22 speech pages**
+- separate strict Tamil audit — **NOT STARTED**
+- English — **BLOCKED**
+- PDF 5 durable reading — **`வினாக் குறிக்கு`**
+- PDF 10 — no visible printed folio
+- PDF 10 ends — **`விடுதலையை மட்டும்`**
 
 ## Exact next activity
 
-Process the next user-directed **10 direct-listening batches**, precheck ranges **12–21**, covering **09:25–14:15**.
+Process **PDF pages 11–20** as the next Tamil first-pass/source-check batch.
 
-Keep every checked-but-unresolved phrase on the retry list. Do not count ASR, machine transcript, waveform/silence analysis or attachment-level text extraction as T2 direct listening. Do not normalize quoted material from external text.
+Apply all historical families:
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Before T2 can close, separately replay and verify:
+Do not modernize source wording, infer hidden text or infer printed folios from sequence. Keep the separate strict visual-audit gate unopened until the complete speech first pass is finished.
 
-1. the unresolved spoken lead-in around **00:00–00:14**;
-2. the final **60 seconds**;
-3. the final **30 seconds**;
-4. the final major pause through the true **00:26:22.080** end;
-5. the final audible word, grammatical completeness and `recording_truncated` status.
-
-Only after complete T2 PASS may Tamil T3 consolidate/freeze. Only after that may English begin.
-
-If the checksum-matching controlling MP3 is not available for genuine audible replay in the current chat, do **not** claim T2 progress; preserve the live checkpoint instead.
+The Audio 06 archive remains pending separately at its previous T2 checkpoint and is not superseded or closed.

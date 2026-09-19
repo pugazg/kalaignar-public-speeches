@@ -13,6 +13,8 @@ The repository preserves each available source as evidence and separates four la
 
 **Before starting or continuing any speech, read [`SPEECH_PROCESSING_GUIDE.md`](SPEECH_PROCESSING_GUIDE.md) completely.** It defines the mandatory source-inspection, Tamil transcription, fidelity, translation, review, verification, handover and closure workflow established through the completed `அறப்போர்` archive.
 
+For older printed Tamil with pre-reform/historical typeforms, also read [`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`](HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md).
+
 For audio or video sources, also read:
 
 - [`AUDIO_SPEECH_PROCESSING_GUIDE.md`](AUDIO_SPEECH_PROCESSING_GUIDE.md)
@@ -37,6 +39,7 @@ The root catalogue is a navigation layer, not the authoritative constituent inve
 | `muthukkuliyal-part-1` | முத்துக் குளியல் — பாகம் I | First edition May 2000; 641 scans | Multi-speech collection | **61/61 verified complete / FINAL-CLOSED** | **61/61 verified complete / FINAL-CLOSED** |
 | `muthukkuliyal-part-2` | முத்துக் குளியல் — பாகம் II | First edition June 2000; 425 scans | Multi-speech collection | **36/36 verified complete / CLOSED** | **36/36 verified complete / CLOSED** |
 | `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
+| `varalattru-suvadu` | வரலாற்றுச் சுவடு | DMK Head Office publication; 33 scans; speech body pp.4–25 | Not stated in printed source | **In progress - 7/22 speech pages source-checked** | **Blocked** |
 | `idhaya-perikai` | இதய பேரிகை | First edition, December 1951 | Not stated in source | **Verified complete - 32/32 body pages** | **Verified complete - 32/32 body pages** |
 | `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 | `palli-vazhkkai` | பள்ளி வாழ்க்கை | First edition, March 1952 | Not stated as a single speech date; compilation source | **Verified complete - 76/76 body pages** | **Verified complete - 76/76 body pages** |
@@ -477,6 +480,10 @@ The full **61 / 61 constituent** collection is **FINAL-CLOSED / ARCHIVAL-READY**
 
 The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL_CLOSURE.md`, `HANDOVER.md`, `page-map.md`, `audit.md` and `metadata.json`. Reopen only for genuinely new source evidence or a documented fidelity issue.
 
-### Active work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
+### Active work — வரலாற்றுச் சுவடு
 
-`speeches/kalaivanar-nsk-memorial-day-audio-06/` remains the only explicitly active archive surfaced at repository level. Tamil T1 is provisionally complete through the true decoded end **00:26:22.080**. Tamil T2 strict direct listening is **in progress — 12 checked / 4 passed**, latest checked range **08:38–09:25**. The next 10-batch iteration is **09:25–14:15**. Tamil T3 and all English work remain blocked until T2 closes and verified Tamil is frozen. The separate lead-in and mandatory tail replays remain unresolved.
+`speeches/varalattru-suvadu/` is the current PDF-speech workflow. The canonical speech body is PDF **4–25 (22 pages)**. Tamil first-pass/source-check is complete through PDF **10**, representing **7/22 speech pages**. Historical-glyph decoding is mandatory. Exact next activity: **PDF 11–20**. English remains blocked.
+
+### Other pending work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
+
+`speeches/kalaivanar-nsk-memorial-day-audio-06/` remains pending at Tamil T2 **12 checked / 4 passed**, latest checked range **08:38–09:25**. Its next audio iteration remains **09:25–14:15** when that archive is resumed.

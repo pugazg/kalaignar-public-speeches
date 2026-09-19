@@ -1,0 +1,78 @@
+{
+  "id": "varalattru-suvadu",
+  "title": {
+    "ta": "வரலாற்றுச் சுவடு",
+    "en_transliteration": "Varalattru Suvadu"
+  },
+  "creator": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_source_text": "தலைவர் கலைஞர் ஆற்றிய உரை"
+  },
+  "document_type": "public-speech-booklet-with-supplementary-non-speech-matter",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "venue": "மதுரை அமெரிக்கன் கல்லூரி",
+    "event": "மாணவர் பேரவை தொடக்க விழா",
+    "source_note": "PDF page 4 explicitly identifies the speech as 'மதுரை அமெரிக்கன் கல்லூரி மாணவர் பேரவை தொடக்க விழாவில் தலைவர் கலைஞர் ஆற்றிய உரை'. A handwritten '1.9.1975' is present on the physical copy but is not treated as a source-printed speech date."
+  },
+  "publication": {
+    "edition_text": null,
+    "publication_date": null,
+    "publisher_ta": "தி. மு. க. தலைமை நிலைய வெளியீடு 'அறிவகம்' சென்னை-13.",
+    "price_text": "விலை: 30 காசு"
+  },
+  "source": {
+    "filename": "TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf",
+    "sha256": "f96525a5a3867985856764d02f8dabd9bef4e110076ddbf4e995113e474c51bf",
+    "file_size_bytes": 82476662,
+    "pdf_pages": 33,
+    "usable_parsed_text": false,
+    "authority": "supplied scan pixels",
+    "binary_committed": false,
+    "page_map": {
+      "pdf_1": "outer/front cover",
+      "pdf_2": "illustrated inner/title cover; library stamp",
+      "pdf_3": "imprint / price; physical-copy handwriting",
+      "pdf_4_to_25": "public speech body — வரலாற்றுச் சுவடு",
+      "pdf_26_to_33": "supplementary non-speech item — இன்றைய தமிழகமும் - குமுறும் எரிமலை!; outside speech body"
+    }
+  },
+  "historical_tamil": {
+    "guide": "HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md",
+    "present": true,
+    "mandatory_families": [
+      "ணா",
+      "ணை",
+      "ணொ",
+      "ணோ",
+      "லை",
+      "ளை",
+      "றா",
+      "றொ",
+      "றோ",
+      "னா",
+      "னை",
+      "னொ",
+      "னோ"
+    ],
+    "durable_correction_pdf_5": "வினாக் குறிக்கு",
+    "rejected_readings": [
+      "வினக் குறிக்கு",
+      "வினைக் குறிக்கு"
+    ]
+  },
+  "workflow": {
+    "tamil_transcription": "in-progress",
+    "speech_pages_total": 22,
+    "speech_pages_drafted": 7,
+    "source_checked_through_pdf_page": 10,
+    "historical_glyph_checked_through_pdf_page": 10,
+    "tamil_visual_audit": "not-started-separate-gate",
+    "tamil_strict_reaudit_pages_checked": 0,
+    "tamil_consolidation": "blocked",
+    "english_translation": "blocked-until-tamil-verified",
+    "english_translation_review": "not-started"
+  }
+}

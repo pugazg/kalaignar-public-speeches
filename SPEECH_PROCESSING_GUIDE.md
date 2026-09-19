@@ -31,6 +31,7 @@ Before creating files:
 
 - read this guide completely;
 - read root `README.md`;
+- for older printed Tamil where historical/pre-reform typeforms may occur, read `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` completely and apply it page by page;
 - inspect `speeches/arappor/` as the completed reference implementation, especially `README.md`, `metadata.json`, `audit.md`, `translation-review.md`, and `HANDOVER.md`;
 - search the repository for the new title and likely slug;
 - if work already exists, continue it rather than creating a duplicate.
