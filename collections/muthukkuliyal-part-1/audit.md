@@ -51,3 +51,12 @@
 - PDF641 — **back cover**;
 - source binaries committed — **No**;
 - OCR / web / alternate source — **not used**.
+
+
+## Repository synchronization note — C37 canonical slug
+
+Constituent **37 / 61**, `பழைய வரலாறும் இளைய தலைமுறையும்`, has one canonical repository directory:
+
+`speeches/pazhaiya-varalarum-ilaiya-thalaimuraiyum/`
+
+An earlier duplicate directory using slug `pazhaiya-varalaarum-ilaiya-thalaimuraiyum` was removed during repository synchronization. The later canonical C37 archive is retained because it was the subsequent closure record and contains the later scan-fidelity wording. This deduplication changes no collection count: Part I remains **61/61 FINAL-CLOSED**.

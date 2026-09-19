@@ -636,6 +636,9 @@
     "collection_final_closure": "complete",
     "collection_unresolved_textual_holds": 0,
     "collection_reopen_policy": "new-source-evidence-or-documented-fidelity-issue-only",
-    "final_closure_manifest": "collections/muthukkuliyal-part-1/FINAL_CLOSURE.md"
+    "final_closure_manifest": "collections/muthukkuliyal-part-1/FINAL_CLOSURE.md",
+    "constituent_37_canonical_slug": "pazhaiya-varalarum-ilaiya-thalaimuraiyum",
+    "constituent_37_duplicate_slug_removed": "pazhaiya-varalaarum-ilaiya-thalaimuraiyum",
+    "constituent_37_deduplication_state": "complete-canonical-later-closure-retained"
   }
 }

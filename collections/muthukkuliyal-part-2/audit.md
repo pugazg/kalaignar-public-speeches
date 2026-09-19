@@ -11,15 +11,20 @@
 ## Current collection totals
 
 - mapped: **36/36**
-- started / source-gated: **34/36**
-- Tamil T1 complete: **34/36**
-- Tamil T2 complete: **34/36**
-- Tamil T3 complete / Tamil verified: **34/36**
-- English E1/E2/E3 complete / English verified: **34/36**
-- fully archived: **34/36**
-- constituents **1–34: CLOSED / FULLY ARCHIVED**
+- started / source-gated: **36/36**
+- Tamil T1 complete: **36/36**
+- Tamil T2 complete: **36/36**
+- Tamil T3 complete / Tamil verified: **36/36**
+- English E1/E2/E3 complete / English verified: **36/36**
+- fully archived: **36/36**
+- constituents **1–36: CLOSED / FULLY ARCHIVED**
+- pending transcription / translation work: **none**
 
-## Constituent 27 source / duplicate / boundary gate
+## Historical incremental processing record
+
+The following constituent-level sections preserve the sequence of earlier checkpoints. Any READY / NOT STARTED or partial totals inside this historical record are superseded by the current **36/36** collection totals above and the closure totals below.
+
+### Constituent 27 source / duplicate / boundary gate
 
 **PASS / COMPLETE — 16/16 source pages; duplicate unresolved 0; boundary unresolved 0.**
 
@@ -34,7 +39,7 @@
 - Tamil T2: **PASS / COMPLETE — 16/16; 6 corrections; 0 unresolved**
 - Tamil T3: **READY / NOT STARTED**
 
-## Constituent 28 source / duplicate / boundary gate
+### Constituent 28 source / duplicate / boundary gate
 
 **PASS / COMPLETE — 12/12 source pages; duplicate unresolved 0; boundary unresolved 0.**
 

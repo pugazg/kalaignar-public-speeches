@@ -1,5 +1,11 @@
 # HANDOVER — முத்துக்குளியல் — பாகம் II
 
+## Synchronized current authority
+
+**CLOSED / FULLY ARCHIVED — 36/36 constituents.** Source-gated **36/36**; Tamil T1/T2/T3 and Tamil verified **36/36**; English E1/E2/E3 and English verified **36/36**; fully archived **36/36**; pending transcription/translation work **none**; next gate **none**.
+
+Sections below that describe earlier READY / NOT STARTED or partial constituent counts are retained only as a **historical incremental processing log** and are not the current state.
+
 ## Repository
 - `pugazg/kalaignar-public-speeches`, branch `main`
 - active collection: `collections/muthukkuliyal-part-2/`
@@ -18,7 +24,9 @@
 - fully archived: **36/36**
 - constituents **1–36 CLOSED / FULLY ARCHIVED**
 
-## Constituent 27
+## Historical incremental processing log
+
+### Constituent 27
 
 `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`  
 Directory: `speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
@@ -37,7 +45,7 @@ Directory: `speeches/chennai-exnora-rotary-niruvanangalin-paarattu-vizha/`
 - English: **`verified-complete`**
 - repository closure: **PASS / COMPLETE — FULLY ARCHIVED**
 
-## Constituent 28
+### Constituent 28
 
 `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா` remains source-gated, PDF **331–342** / printed **330–341**, Tamil T1 **READY / NOT STARTED**.
 
@@ -383,7 +391,7 @@ Collection state: mapped **36/36**; source-gated **32/36**; Tamil verified **32/
 
 Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
-## Current batch status
+## Final batch closure record
 
 Constituents **35–36 are CLOSED / FULLY ARCHIVED**.
 

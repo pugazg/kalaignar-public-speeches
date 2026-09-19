@@ -30,8 +30,12 @@ For audio or video sources, also read:
 
 ## Catalogue
 
+The root catalogue is a navigation layer, not the authoritative constituent inventory for multi-speech collections. For `முத்துக் குளியல் — பாகம் I` and `பாகம் II`, the collection `page-map.md` and `metadata.json` files are authoritative for complete membership and status. Individual constituent rows below are retained as navigation shortcuts and are not intended to be exhaustive.
+
 | ID | Tamil title | Source edition/media | Speech date | Tamil transcription | English translation |
 |---|---|---|---|---|---|
+| `muthukkuliyal-part-1` | முத்துக் குளியல் — பாகம் I | First edition May 2000; 641 scans | Multi-speech collection | **61/61 verified complete / FINAL-CLOSED** | **61/61 verified complete / FINAL-CLOSED** |
+| `muthukkuliyal-part-2` | முத்துக் குளியல் — பாகம் II | First edition June 2000; 425 scans | Multi-speech collection | **36/36 verified complete / CLOSED** | **36/36 verified complete / CLOSED** |
 | `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
 | `idhaya-perikai` | இதய பேரிகை | First edition, December 1951 | Not stated in source | **Verified complete - 32/32 body pages** | **Verified complete - 32/32 body pages** |
 | `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
@@ -467,23 +471,12 @@ Terminal PDF **425** is a non-speech back-cover portrait / publisher page. Repos
 The full **36 / 36 constituent** collection is now **CLOSED / FULLY ARCHIVED**: source-gated **36/36**, Tamil verified **36/36**, English verified **36/36**, fully archived **36/36**. The source PDF remains uncommitted.
 
 
-### முத்துக் குளியல் — பாகம் I — incremental archive status
+### முத்துக் குளியல் — பாகம் I — collection closure
 
-Part I is being processed incrementally from the repository owner's **39 exact-range split PDFs** of the user-confirmed **641-scan** original. Splits **001–004** now give continuous source coverage through PDF scan **65**.
+The full **61 / 61 constituent** collection is **FINAL-CLOSED / ARCHIVAL-READY**. All **39 / 39** exact-range split PDFs have been inspected with continuous source coverage **PDF1–641 / 641**; the speech body ends at **PDF640 / printed639**, and **PDF641** is the verified back cover. All 61 constituents are source-gated, Tamil verified/frozen, English verified and fully archived, with **0 unresolved textual holds**.
 
-Constituents **1–5 are CLOSED / FULLY ARCHIVED** with Tamil and English verified-complete:
+The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL_CLOSURE.md`, `HANDOVER.md`, `page-map.md`, `audit.md` and `metadata.json`. Reopen only for genuinely new source evidence or a documented fidelity issue.
 
-- `வள்ளலார் வழி எது?` — PDF18–28;
-- `வள்ளுவர்க்கோர் ஆலயம்` — PDF29–32;
-- `கம்பர் விழா (1)` — PDF33–41;
-- `கம்பர் விழா (2)` — PDF42–56 — **fully archived after a resolved PDF54 fidelity repair**;
-- `ஏழையின் சிரிப்பில்` — PDF57–63.
+### Active work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 
-Direct scan review corrected the initial provisional constituent-1 reading from `வள்ளுவர் வழி எது?` to **`வள்ளலார் வழி எது?`**.
-
-Constituent **6 — `கலை வளர்ப்போம்`** has a durable partial checkpoint at PDF **64–65**: Tamil T1 **2/2 complete**, Tamil T2 **2/2 pass / 0 unresolved**. Its remaining PDF66–69 is required before T3 freeze and English closure.
-
-Part I source binaries remain uncommitted.
-
-
-Part I fidelity note: a post-closure page-count audit of `கம்பர் விழா (2)` found and repaired an omitted **PDF54 / printed p.53** page. The repair restored the Vibhishana / Ravana back-scar passage and two Kamban verses in Tamil and English, corrected the following PDF55/PDF56 section boundaries, and reverified the constituent at **15/15 pages / 0 unresolved**.
+`speeches/kalaivanar-nsk-memorial-day-audio-06/` remains the only explicitly active archive surfaced at repository level. Tamil T1 is provisionally complete through the true decoded end **00:26:22.080**. Tamil T2 strict direct listening is **in progress — 12 checked / 4 passed**, latest checked range **08:38–09:25**. The next 10-batch iteration is **09:25–14:15**. Tamil T3 and all English work remain blocked until T2 closes and verified Tamil is frozen. The separate lead-in and mandatory tail replays remain unresolved.

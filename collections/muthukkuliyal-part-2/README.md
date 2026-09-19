@@ -1,5 +1,11 @@
 # முத்துக்குளியல் — பாகம் II
 
+## Synchronized current authority
+
+**CLOSED / FULLY ARCHIVED — 36/36 constituents.** All mapped constituents are source-gated, Tamil verified/frozen, English verified and repository-closed. No transcription or translation work remains pending.
+
+Older per-constituent READY / NOT STARTED statements below are retained only as historical checkpoint evidence; they do not override this closure state or the final collection totals.
+
 Collection/source layer for `முத்துக் குளியல் பாகம் - II` by கலைஞர் மு. கருணாநிதி.
 
 Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_பாகம்_2.pdf`, SHA-256 `48631b4fc5258df33213dbb742aec70ff6aace4fcd294f377e5750b406f5d9b2`, **425 scans**. Constituent body: PDF **12–424** / printed **11–423**; stable `PDF = printed + 1`.
@@ -18,7 +24,9 @@ Controlling PDF: `TVA_BOK_0065802_முத்துக்குளியல்_
 
 Constituents **1–36 are CLOSED / FULLY ARCHIVED**.
 
-## Constituent 27 — source gate complete
+## Historical incremental processing log
+
+### Constituent 27 — source gate complete
 
 `சென்னை - எக்ஸ்னோரா மற்றும் ரோட்டரி நிறுவனங்களின் பாராட்டு விழா`
 
@@ -35,7 +43,7 @@ Constituents **1–36 are CLOSED / FULLY ARCHIVED**.
 - Tamil state: **`verified-complete` / FROZEN**
 - English E1: **READY / NOT STARTED**
 
-## Constituent 28 — source gate complete
+### Constituent 28 — source gate complete
 
 `சென்னை - திரையுலகம் நடத்திய பாராட்டுவிழா`
 
@@ -409,7 +417,7 @@ Collection state: mapped **36/36**; started/source-gated **32/36**; Tamil verifi
 
 Collection state: mapped **36/36**; source-gated **34/36**; Tamil verified **32/36**; English verified **32/36**; fully archived **32/36**.
 
-## Current batch status
+## Final batch closure record
 
 Constituents **35–36 are CLOSED / FULLY ARCHIVED**.
 

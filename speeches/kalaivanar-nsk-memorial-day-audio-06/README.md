@@ -66,7 +66,7 @@ Important unresolved ranges remain visible throughout the draft. Machine evidenc
 | Tamil T1 first pass | **Complete provisionally through `00:26:22.080`** |
 | Provisional speech segments drafted | **30** |
 | Open unresolved ranges/phrases | **60** |
-| Tamil T2 strict direct-listening audit | **In progress — 2 segments checked / 1 passed** |
+| Tamil T2 strict direct-listening audit | **In progress — 12 checked / 4 passed; latest checked range 08:38–09:25** |
 | Tamil T3 consolidation/freeze | **Blocked** |
 | English translation | **Blocked until verified Tamil** |
 
@@ -78,4 +78,4 @@ The provisional final `நன்றி, வணக்கம்` must not be treat
 
 ## Exact next activity
 
-Continue **Tamil T2 strict direct listening with `01:10–02:20`**. The `00:00–01:10` audit has checked two segments and passed the first main-speech segment; the partly unresolved announcer lead-in remains a mandatory opening-gate retry before T2 closure. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.
+Continue **Tamil T2 strict direct listening with the next 10-batch iteration: precheck ranges 12–21 (`09:25–14:15`)**. Current cumulative state is **12 checked / 4 passed**. Retain the partly unresolved `00:00–00:14` lead-in and every checked-but-not-passed phrase on the mandatory retry list. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.

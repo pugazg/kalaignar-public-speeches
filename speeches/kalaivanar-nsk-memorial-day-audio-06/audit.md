@@ -2,7 +2,7 @@
 
 ## Status
 
-**Source intake and machine-aided navigation complete. Tamil T1 first pass is provisionally complete through the true decoded end at `00:26:22.080`. Direct-listening audit has not started.**
+**Source intake and machine-aided navigation complete. Tamil T1 first pass is provisionally complete through the true decoded end at `00:26:22.080`. Tamil T2 strict direct listening is IN PROGRESS — 12 checked / 4 passed, latest checked range `08:38–09:25`.**
 
 The controlling MP3 is authoritative. Machine transcripts are secondary navigation evidence only and must not be promoted to verified Tamil without direct listening.
 
