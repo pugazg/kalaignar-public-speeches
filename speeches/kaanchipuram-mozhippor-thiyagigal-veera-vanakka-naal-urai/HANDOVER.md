@@ -21,7 +21,7 @@
 
 Source / duplicate / boundary gate: **PASS / COMPLETE**.
 
-- PDF1–23 article is outside speech body;
+- PDF1–23 is existing Murasoli letter **3606** (Volume 46, 3-2-2012) and is outside speech body;
 - venue `காஞ்சிபுரம்` is source-established;
 - exact speech date is not source-established;
 - duplicate dedicated archive found — **No**;
@@ -30,3 +30,10 @@ Source / duplicate / boundary gate: **PASS / COMPLETE**.
 ## Exact next activity
 
 Tamil T1 first-pass transcription for **all PDF 26–41**, preserving explicit page boundaries.
+
+
+## Existing-work cross-reference
+
+`விஷம்; ஒரு துளி போதாதா?` is already archived in `pugazg/kalaignar-murasoli-letters` as **Volume 46 / letter 3606 / 3-2-2012**. Do not recreate it in the essays repository.
+
+The only active new work from this booklet is the Kanchipuram speech, PDF **26–41**.

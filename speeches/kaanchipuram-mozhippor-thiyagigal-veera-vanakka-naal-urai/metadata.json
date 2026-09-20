@@ -31,7 +31,16 @@
     "speech_pages_total": 16,
     "back_cover_pdf": 42,
     "binary_committed": false,
-    "source_note": "PDF 1–23 is a separate article/letter titled விஷம்; ஒரு துளி போதாதா?; the speech is separately titled on PDF 24."
+    "source_note": "PDF 1–23 reproduces existing Murasoli letter 3606 (Volume 46, 3-2-2012); PDF 24 is a separate speech title page; PDF 26–41 is the new Kanchipuram speech body.",
+    "related_existing_work": {
+      "repository": "pugazg/kalaignar-murasoli-letters",
+      "volume": 46,
+      "letter_number": 3606,
+      "title_ta": "விஷம்; ஒரு துளி போதாதா?",
+      "date": "2012-02-03",
+      "chapter_path": "volumes/volume-46/chapters/3606-visham-oru-thuli-pothatha.md",
+      "relation": "PDF 1–23 of the supplied booklet reproduces this existing Murasoli letter and is excluded from the speech body"
+    }
   },
   "workflow": {
     "duplicate_check": "pass-no-existing-dedicated-archive",

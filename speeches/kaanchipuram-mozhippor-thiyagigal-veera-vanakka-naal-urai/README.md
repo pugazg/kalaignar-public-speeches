@@ -18,7 +18,7 @@
 
 **PASS / COMPLETE — speech body PDF 26–41 / 16 pages; duplicate unresolved 0; boundary unresolved 0.**
 
-- PDF 1–23 is a separate article/letter `விஷம்; ஒரு துளி போதாதா?` and is outside this speech archive;
+- PDF 1–23 is the already-canonical Murasoli letter **3606**, `விஷம்; ஒரு துளி போதாதா?`, dated **3-2-2012**, archived in `pugazg/kalaignar-murasoli-letters` Volume 46; it is outside this speech archive;
 - PDF 23 closes that article with `அன்புள்ள, மு.க.`;
 - PDF 24 is the separate speech title page;
 - title: `தலைவர் கலைஞர் அவர்கள் காஞ்சிபுரத்தில் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் கூட்டத்தில் ஆற்றிய வீர உரை`;
@@ -45,3 +45,18 @@
 Perform **Tamil T1 first-pass transcription for all 16 speech-body scans: PDF 26–41**, preserving page boundaries and source-visible punctuation/forms.
 
 Do not include PDF 24–25 title/blank pages in the speech body, and do not import text from the separate PDF 1–23 article.
+
+
+## Cross-repository provenance
+
+The booklet's first work is **not a new essays publication**. It matches Murasoli letter **3606** exactly:
+
+- repository — `pugazg/kalaignar-murasoli-letters`
+- Volume — **46**
+- letter — **3606**
+- title — `விஷம்; ஒரு துளி போதாதா?`
+- date — **3-2-2012**
+- canonical range in that source — PDF **114–127**
+- chapter — `volumes/volume-46/chapters/3606-visham-oru-thuli-pothatha.md`
+
+Only the separately titled Kanchipuram speech in PDF **24–41** is new to this repository.

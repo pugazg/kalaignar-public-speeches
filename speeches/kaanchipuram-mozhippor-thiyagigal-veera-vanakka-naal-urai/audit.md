@@ -9,7 +9,7 @@
 **PASS / COMPLETE.**
 
 - source PDF total — **42**
-- PDF 1–23 — separate article/letter `விஷம்; ஒரு துளி போதாதா?`
+- PDF 1–23 — existing Murasoli letter **3606**, `விஷம்; ஒரு துளி போதாதா?`, Volume 46, dated **3-2-2012**
 - PDF 23 — article conclusion `அன்புள்ள, மு.க.`
 - PDF 24 — speech title page
 - PDF 25 — blank
@@ -28,3 +28,15 @@
 **READY / NOT STARTED — 0/16.**
 
 Next: transcribe PDF **26–41** directly from source scans, preserving page joins and source-specific forms.
+
+
+## Cross-repository duplicate resolution
+
+The booklet article was checked against `pugazg/kalaignar-murasoli-letters` and confirmed to be the existing canonical Murasoli letter **3606**:
+
+- title/date match — **PASS**
+- opening text match — **PASS**
+- closing `அன்புள்ள, / மு.க. / 3-2-2012` match — **PASS**
+- canonical chapter — `volumes/volume-46/chapters/3606-visham-oru-thuli-pothatha.md`
+
+Therefore PDF **1–23** is excluded as an already-archived duplicate. This speech archive concerns only the separate Kanchipuram speech constituent.

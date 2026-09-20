@@ -11,7 +11,7 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 - `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
 - SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
 - physical scans — **42**
-- PDF1–23 — separate `விஷம்; ஒரு துளி போதாதா?` article/letter; **exclude**
+- PDF1–23 — existing Murasoli letter **3606**, Volume 46, dated **3-2-2012**; **exclude / already archived**
 - PDF24 — speech title page
 - PDF25 — blank
 - PDF26–41 — **16-page speech body**
@@ -35,5 +35,5 @@ Requirements:
 - preserve a separate `## PDF N` record for every speech-body page;
 - preserve source wording, punctuation, repetitions, names, quoted phrases, English source insertions and unusual forms;
 - flag genuinely unreadable text instead of normalizing from outside knowledge;
-- do not copy any text from PDF1–23 into the speech;
+- do not copy any text from PDF1–23 into the speech; it is already canonical in `kalaignar-murasoli-letters` as letter 3606;
 - after 16/16 T1, record page joins and source-sensitive items for T2.
