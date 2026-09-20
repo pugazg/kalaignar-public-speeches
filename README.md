@@ -39,7 +39,7 @@ The root catalogue is a navigation layer, not the authoritative constituent inve
 | `muthukkuliyal-part-1` | முத்துக் குளியல் — பாகம் I | First edition May 2000; 641 scans | Multi-speech collection | **61/61 verified complete / FINAL-CLOSED** | **61/61 verified complete / FINAL-CLOSED** |
 | `muthukkuliyal-part-2` | முத்துக் குளியல் — பாகம் II | First edition June 2000; 425 scans | Multi-speech collection | **36/36 verified complete / CLOSED** | **36/36 verified complete / CLOSED** |
 | `arappor` | அறப்போர் | Second edition, April 1949 | Not stated in source | **Verified complete - 17/17 speech pages** | **Verified complete - 17/17 speech pages** |
-| `varalattru-suvadu` | வரலாற்றுச் சுவடு | DMK Head Office publication; 33 scans; speech body pp.4–25 | Not stated in printed source | **T1 first-pass complete - 22/22 speech pages** | **Blocked** |
+| `varalattru-suvadu` | வரலாற்றுச் சுவடு | DMK Head Office publication; 33 scans; speech body pp.4–25 | Not stated in printed source | **verified-complete / FROZEN - 22/22** | **Ready - E1 not started** |
 | `idhaya-perikai` | இதய பேரிகை | First edition, December 1951 | Not stated in source | **Verified complete - 32/32 body pages** | **Verified complete - 32/32 body pages** |
 | `poonthottam` | பூந்தோட்டம் | Fourth edition, 2019; first edition 1951 | 06.12.1951 | **Verified complete - 12/12 speech pages** | **Verified complete - 12/12 speech pages** |
 | `palli-vazhkkai` | பள்ளி வாழ்க்கை | First edition, March 1952 | Not stated as a single speech date; compilation source | **Verified complete - 76/76 body pages** | **Verified complete - 76/76 body pages** |
@@ -482,7 +482,7 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 
 ### Active work — வரலாற்றுச் சுவடு
 
-`speeches/varalattru-suvadu/` is the current PDF-speech workflow. Tamil T1 is **COMPLETE — 22/22** and T2 strict visual audit is **COMPLETE / PASS — 22/22** with **58 cumulative corrections / 0 unresolved**. Exact next activity: **T3 Tamil consolidation / freeze**. English remains blocked.
+`speeches/varalattru-suvadu/` is the current PDF-speech workflow. Tamil T1/T2/T3 are **COMPLETE**; Tamil is **`verified-complete` / FROZEN — 22/22**, with **58 T2 corrections / 0 T3 additional corrections / 0 consolidation repairs / 0 unresolved**. Exact next activity: **English E1 PDF 4–8**.
 
 ### Other pending work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 

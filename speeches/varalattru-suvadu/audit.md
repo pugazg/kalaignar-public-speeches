@@ -255,17 +255,48 @@ Independent line-by-line source review completed for the final **2 speech pages*
 - Tamil remains **not yet frozen** until T3 consolidation completes.
 - English remains **BLOCKED**.
 
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+Consolidation checks completed against the full combined Tamil transcript.
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **58/58 PASS** |
+| Speech-page coverage | **PDF 4–25 = 22/22, each exactly once, in order** |
+| Recorded cross-page boundaries | **PASS** |
+| Rejected `வினக் குறிக்கு` | **absent** |
+| Rejected `வினைக் குறிக்கு` | **absent** |
+| Durable `வினாக் குறிக்கு` | **present / retained** |
+| Other stale superseded readings checked | **none found** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| Unresolved Tamil readings | **0** |
+
+### Boundary reconciliation
+
+- PDF 4→5 — **`மாண்பைக் / குறிக்கின்ற ஒன்று!`**
+- PDF 5→6 — **`பேரவை / தொடக்க விழாவுக்கு`**
+- PDF 8→9 — **`மாநாட்டில் / முதறிஞர் ராஜாஜி...`**
+- PDF 9→10 — **`வரலாறும்— / வெள்ளையரை எதிர்த்த...`**
+- PDF 10→11 — **`விடுதலையை மட்டும் / வாங்கி விட்டோமானால்`**
+- PDF 12→13 — **`அதை நாம் / உணர்ந்திடவில்லை;`**
+- PDF 13→14 — **`தன்மானத் / தந்தை பெரியார்...`**
+- PDF 18→19 — **`நீதிமன் / றத் தீர்ப்பால்`**
+- PDF 19→20 — **`அநீதி / இழைத்ததாக`**
+- PDF 20→21 — **`மழை பெய்யாவிட் / டால்`**
+- PDF 21→22 — **`ஆண்டு வருமான / முள்ள`**
+- PDF 24→25 — **`முகமதலி / அவர்களுக்கும்...`**
+
+## Tamil closure state
+
+- T1 — **COMPLETE**
+- T2 — **COMPLETE / PASS — 22/22 — 58 corrections / 0 unresolved**
+- T3 — **COMPLETE / PASS**
+- Tamil authority — **`verified-complete` / FROZEN**
+- English — **READY / NOT STARTED**
+
 ## Exact next activity
 
-Perform **T3 Tamil consolidation / freeze**.
+Begin **English E1 first-pass translation — PDF pages 4–8** from the frozen `transcription-ta.md`.
 
-Required checks:
-
-1. confirm all **58 T2 corrections** are present in the combined transcript;
-2. recheck every recorded cross-page boundary;
-3. search for stale superseded readings, including the rejected `வினக் / வினைக்` forms;
-4. confirm all 22 speech pages are present exactly once and in order;
-5. reconcile status/control documents;
-6. only if all checks pass, mark Tamil **`verified-complete` / FROZEN**.
-
-Do not begin English until T3 closes.
+Do not translate from OCR, the PDF independently, or an outside edition. Preserve page headings, paragraph sequence, rhetoric, repetition and source-sensitive oddities.

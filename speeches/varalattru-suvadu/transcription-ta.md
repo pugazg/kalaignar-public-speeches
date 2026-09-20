@@ -1,9 +1,9 @@
 # வரலாற்றுச் சுவடு — தமிழ் உரைநகல்
 
-> **Status:** Tamil transcription **FIRST-PASS COMPLETE** — PDF pages 1–25 represented; speech body PDF pages 4–25 = **22/22 speech pages source-checked**  
+> **Status:** Tamil transcription **`verified-complete` / FROZEN — 22/22 speech pages (PDF 4–25)**  
 > **Source:** `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`  
 > **Rule:** Source-faithful transcription. Historical Tamil glyphs are decoded by character identity under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`; no silent modernization.  
-> **Strict-gate note:** T2 strict visual audit is **COMPLETE / PASS — 22/22 speech pages (PDF 4–25), 58 cumulative corrections, 0 unresolved**.
+> **Strict-gate note:** T2 strict visual audit **COMPLETE / PASS — 22/22, 58 corrections / 0 unresolved**; T3 consolidation **COMPLETE / PASS — 0 additional source corrections / 0 consolidation repairs / 0 unresolved**.
 
 ## Source map
 
@@ -23,24 +23,24 @@ The handwritten `1.9.1975` on PDF page 4 is a physical-copy mark, not a source-p
 
 | PDF page | Printed folio | State |
 |---:|:---:|---|
-| 4–8 | — | source-checked |
-| 9 | 8 | source-checked |
-| 10 | — | source-checked; do not infer folio 9 |
-| 11 | 10 | source-checked |
-| 12 | 11 | source-checked |
-| 13 | 12 | source-checked |
-| 14 | 13 | source-checked |
-| 15 | 14 | source-checked |
-| 16 | 15 | source-checked |
-| 17 | 16 | source-checked |
-| 18 | 17 | source-checked |
-| 19 | 18 | source-checked |
-| 20 | 19 | source-checked |
-| 21 | 20 | source-checked |
-| 22 | 21 | source-checked |
-| 23 | 22 | source-checked |
-| 24 | — | source-checked; no visible printed folio |
-| 25 | — | source-checked; terminal speech page |
+| 4–8 | — | verified-complete / frozen |
+| 9 | 8 | verified-complete / frozen |
+| 10 | — | verified-complete / frozen; do not infer folio 9 |
+| 11 | 10 | verified-complete / frozen |
+| 12 | 11 | verified-complete / frozen |
+| 13 | 12 | verified-complete / frozen |
+| 14 | 13 | verified-complete / frozen |
+| 15 | 14 | verified-complete / frozen |
+| 16 | 15 | verified-complete / frozen |
+| 17 | 16 | verified-complete / frozen |
+| 18 | 17 | verified-complete / frozen |
+| 19 | 18 | verified-complete / frozen |
+| 20 | 19 | verified-complete / frozen |
+| 21 | 20 | verified-complete / frozen |
+| 22 | 21 | verified-complete / frozen |
+| 23 | 22 | verified-complete / frozen |
+| 24 | — | verified-complete / frozen; no visible printed folio |
+| 25 | — | verified-complete / frozen; terminal speech page |
 
 ## Front matter
 
@@ -511,6 +511,22 @@ The handwritten `1.9.1975` on PDF page 4 is a physical-copy mark, not a source-p
 - PDF 25 closes the speech with **`சிந்திப்பது உங்கள் கடன்!`** followed by a terminal star.
 - Historical `னா` identity was applied to the visually misleading **`சாதிக்காரனாக் கருதப்படுவான்`** / **`சாதிக்காரனாக ஆக்கிவிட்டார்`** forms; these are glyph decoding, not lexical modernization.
 - The separate strict T2 line-by-line visual audit has **not** yet begun.
+
+
+## T3 consolidation / freeze
+
+**COMPLETE / PASS — Tamil is `verified-complete` / FROZEN.**
+
+- 58/58 T2 correction instances confirmed present in the combined transcript.
+- PDF speech-page headings **4–25** occur exactly once each and in order — **22/22**.
+- all recorded physical page-boundary joins rechecked — **PASS**.
+- rejected historical-glyph guesses **`வினக் குறிக்கு`** and **`வினைக் குறிக்கு`** — **absent**.
+- durable **`வினாக் குறிக்கு`** — retained.
+- other stale superseded readings checked — **none found**.
+- T3 additional source corrections — **0**.
+- T3 consolidation repairs — **0**.
+- unresolved Tamil readings — **0**.
+- English may now begin from this frozen Tamil authority; later Tamil changes require documented source evidence and dependent English re-verification.
 
 
 ## Supplementary non-speech matter

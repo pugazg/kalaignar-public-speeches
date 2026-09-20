@@ -66,15 +66,15 @@
     ]
   },
   "workflow": {
-    "tamil_transcription": "first-pass-complete",
+    "tamil_transcription": "verified-complete",
     "speech_pages_total": 22,
     "speech_pages_drafted": 22,
     "source_checked_through_pdf_page": 25,
     "historical_glyph_checked_through_pdf_page": 25,
     "tamil_visual_audit": "complete-pass",
     "tamil_strict_reaudit_pages_checked": 22,
-    "tamil_consolidation": "pending",
-    "english_translation": "blocked-until-tamil-verified",
+    "tamil_consolidation": "complete-pass",
+    "english_translation": "not-started",
     "english_translation_review": "not-started",
     "first_pass_batch_2": "complete-pdf-11-to-20",
     "remaining_first_pass_pdf_pages": null,
@@ -83,12 +83,16 @@
     "tamil_strict_reaudit_batch_1": "pass-pdf-4-to-8",
     "tamil_strict_reaudit_corrections": 58,
     "tamil_strict_reaudit_unresolved": 0,
-    "next_tamil_activity": "T3 consolidation and freeze",
     "tamil_strict_reaudit_batch_2": "pass-pdf-9-to-13",
     "tamil_strict_reaudit_batch_3": "pass-pdf-14-to-18",
     "tamil_strict_reaudit_batch_4": "pass-pdf-19-to-23",
     "tamil_strict_reaudit_batch_4_corrections": 23,
     "tamil_strict_reaudit_batch_5": "pass-pdf-24-to-25",
-    "tamil_strict_reaudit_batch_5_corrections": 5
+    "tamil_strict_reaudit_batch_5_corrections": 5,
+    "tamil_frozen": true,
+    "t3_additional_source_corrections": 0,
+    "t3_consolidation_repairs": 0,
+    "t3_unresolved": 0,
+    "next_activity": "English E1 first-pass translation PDF 4-8"
   }
 }

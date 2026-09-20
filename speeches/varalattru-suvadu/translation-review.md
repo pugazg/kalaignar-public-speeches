@@ -2,4 +2,6 @@
 
 **Status: NOT STARTED**
 
-No English translation exists yet. Review remains blocked until Tamil is verified/frozen and a complete English first pass exists.
+Tamil is **`verified-complete` / FROZEN**. English E1 has not started yet.
+
+E2 review remains pending until a complete English first-pass translation exists.

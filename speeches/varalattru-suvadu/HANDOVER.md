@@ -31,8 +31,8 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 - speech body — PDF **4–25**, **22 pages**
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
 - T2 strict visual audit — **COMPLETE / PASS — 22/22 (PDF 4–25)**
-- Tamil consolidation/freeze — **BLOCKED**
-- English — **BLOCKED**
+- T3 Tamil consolidation/freeze — **COMPLETE / PASS**
+- English — **READY / NOT STARTED**
 
 Durable source controls:
 
@@ -164,6 +164,21 @@ Corrections applied:
 - T3 consolidation/freeze — **PENDING**
 - English — **BLOCKED**
 
+## T3 durable checkpoint
+
+**COMPLETE / PASS — Tamil `verified-complete` / FROZEN.**
+
+- 58/58 T2 correction instances consolidated
+- PDF 4–25 — **22/22 exactly once / ordered**
+- all recorded page-boundary joins — **PASS**
+- rejected **`வினக் குறிக்கு` / `வினைக் குறிக்கு`** — absent
+- durable **`வினாக் குறிக்கு`** — retained
+- T3 additional source corrections — **0**
+- consolidation repairs — **0**
+- unresolved — **0**
+
 ## Exact next activity
 
-Perform **T3 Tamil consolidation / freeze**: verify all 58 T2 corrections are consolidated, all page boundaries are correct, no stale superseded reading survives, all 22 speech pages occur exactly once and in order, and all control documents agree. Only then mark Tamil **verified-complete / FROZEN**.
+Begin **English E1 first-pass translation — PDF pages 4–8** from frozen `transcription-ta.md`.
+
+Retain PDF/printed-page correspondence and the Tamil paragraph/rhetorical structure. Do not use OCR or an outside edition as translation authority.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T3 Tamil consolidation and freeze
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / English E1 PDF 4–8
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,53 +6,45 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 `speeches/varalattru-suvadu/`
 
-Controlling source: `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
-
 Read first:
 
 1. `SPEECH_PROCESSING_GUIDE.md`
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. `speeches/varalattru-suvadu/HANDOVER.md`
-4. `speeches/varalattru-suvadu/README.md`
-5. `speeches/varalattru-suvadu/metadata.json`
-6. `speeches/varalattru-suvadu/transcription-ta.md`
-7. `speeches/varalattru-suvadu/audit.md`
+2. `speeches/varalattru-suvadu/HANDOVER.md`
+3. `speeches/varalattru-suvadu/README.md`
+4. `speeches/varalattru-suvadu/metadata.json`
+5. `speeches/varalattru-suvadu/transcription-ta.md`
+6. `speeches/varalattru-suvadu/translation-en.md`
+7. `speeches/varalattru-suvadu/translation-review.md`
 
-## Durable state
+## Frozen Tamil authority
 
 - canonical speech body — PDF **4–25**, **22 speech pages**
-- Tamil T1 — **COMPLETE — 22/22**
-- T2 strict visual audit — **COMPLETE / PASS — 22/22**
-- T2 batches — **5/5 PASS**
-- cumulative T2 corrections — **58**
+- T1 — **COMPLETE**
+- T2 — **COMPLETE / PASS — 22/22**
+- T2 corrections — **58**
 - T2 unresolved — **0**
-- T3 consolidation/freeze — **PENDING**
-- English — **BLOCKED**
+- T3 — **COMPLETE / PASS**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- Tamil — **`verified-complete` / FROZEN**
 
-Final T2 corrections include:
+Durable source-sensitive forms include **`வினாக் குறிக்கு`**, **`ஆளானான்`**, **`அங்கேல்லாம்`**, **`சாதிக்காரனாக் கருதப்படுவான்`**, and **`எவனுவது கால் வைத்தால்`**. Do not silently normalize them in the English workflow.
 
-- PDF 24 — **`என்பதேகூட எனக்குக்`**
-- PDF 24 — **`அல்ல;`**
-- PDF 24 — **`தாழ்த்தப்பட்ட மக்களுக்கும் தாக்காது`**
-- PDF 25 — **`எவனுவது கால் வைத்தால்`**
-- PDF 24→25 — **`முகமதலி / அவர்களுக்கும்...`** PASS
-- terminal — **`சிந்திப்பது உங்கள் கடன்!`** + printed star PASS
+## Exact next activity
 
-Durable historical reading:
+Process **English E1 first-pass translation — PDF pages 4–8**.
 
-- PDF 5 — **`வினாக் குறிக்கு`**; reject `வினக்` / `வினைக்`
+Translate only from frozen `transcription-ta.md`.
 
-## Exact next activity — T3
+Preserve:
 
-Perform Tamil consolidation / freeze:
+- PDF / printed-page correspondence;
+- paragraph and heading sequence;
+- rhetorical force and repetition;
+- historical names/titles;
+- applause/laughter markers;
+- source oddities or ambiguities without silently repairing them.
 
-1. verify all 58 T2 corrections are present in `transcription-ta.md`;
-2. recheck all recorded page-boundary joins;
-3. search for stale/superseded readings and rejected historical-glyph guesses;
-4. confirm PDF 4–25 all occur exactly once, in order, with no missing/duplicate speech page;
-5. reconcile `metadata.json`, `audit.md`, `README.md`, `HANDOVER.md`, root `README.md` and this prompt;
-6. if and only if all checks pass, mark Tamil **`verified-complete` / FROZEN**.
-
-Do not begin English in the same activity unless T3 has first been committed closed.
+Do not perform E2 fidelity review in the same activity.
 
 The Audio 06 archive remains pending separately at its previous T2 checkpoint.

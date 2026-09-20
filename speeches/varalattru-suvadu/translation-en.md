@@ -1,5 +1,13 @@
 # வரலாற்றுச் சுவடு — English translation
 
-**Status: BLOCKED / NOT STARTED**
+**Status: READY / NOT STARTED**
 
-English translation must not begin until the complete 22-page Tamil speech body has been transcribed, independently strict-audited, consolidated and frozen.
+Tamil is **`verified-complete` / FROZEN** after T1, T2 and T3.
+
+Translation authority: `transcription-ta.md` only. Do not translate from OCR, an outside edition, or independently from the PDF.
+
+## Exact next activity
+
+**E1 first-pass translation — PDF pages 4–8.**
+
+Retain PDF / printed-page headings, paragraph sequence, rhetorical force, repetition and source-sensitive oddities.
