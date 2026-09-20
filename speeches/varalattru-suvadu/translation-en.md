@@ -1,6 +1,6 @@
 # வரலாற்றுச் சுவடு — English translation
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF 4–25 / 22/22**, with **13 corrections / 0 unresolved**  
+> **Status:** English translation **`verified-complete` — E3 COMPLETE / PASS, PDF 4–25 / 22/22**, with **13 E2 corrections + 2 E3 corrections / 0 unresolved**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **Translation rule:** Translate only from the frozen Tamil layer, preserving page sequence, rhetoric, repetition, applause/laughter markers, historical names/titles, and source-sensitive wording. Do not silently modernize or fact-correct the source.
 
@@ -95,7 +95,7 @@ The desire to read those histories—the urge to take part in that history—die
 
 ### PDF page 9 — printed page 8
 
-At the conference held in Virugambakkam, Chennai, Perarignar Anna, with Rajaji, the respected Quaid-e-Millath, and leaders of various parties seated beside him, said—
+—with Rajaji, the respected Quaid-e-Millath, and leaders of various parties seated beside him, said—
 
 “Whether I come to power or not, whether I am in office or out of office, my movement still has work to do for Tamil Nadu for another fifty years. We must complete that work. Whether we are in office or not, we will continue to discharge those duties. We must work so that the traditions of the Tamils are preserved, their honour is upheld, their history does not fade, and Tamil literature is protected from another destruction.”
 
@@ -264,7 +264,7 @@ It was because they understood this that communal representation was introduced.
 
 ### PDF page 18 — printed page 17
 
-In 1928, Subbarayan was Premier of the Madras Presidency. In that ministry, the elder statesman Muthiah and Sethurathina Iyer, who belonged to the Brahmin community, were ministers. It was in that period that the elder statesman Muthiah—who was not himself from a backward community—brought in the Communal G.O., with the idea of allocating proportions according to numbers and giving places in education and employment to oppressed and backward non-Brahmin people.
+In 1928, Subbarayan was Premier of the Madras Presidency. In that ministry, the elder statesman Muthiah and Sethurathina Iyer, who belonged to the Brahmin community, were ministers. It was in that period that the elder statesman Muthiah (he was not himself from a backward community) brought in the Communal G.O., with the idea of allocating proportions according to numbers and giving places in education and employment to oppressed and backward non-Brahmin people.
 
 # They Framed Even the Constitution with an Ulterior Aim!
 
@@ -450,6 +450,7 @@ The duty to think is yours!
 - E1 first-pass translation — **COMPLETE / 22/22**
 - E2 fidelity review — **COMPLETE / PASS / 22/22**
 - E2 corrections — **13**
-- E2 unresolved — **0**
-- E3 final end-to-end verification — **READY / NOT STARTED**
-- exact next activity — **E3 final end-to-end verification, PDF 4–25**
+- E3 final end-to-end verification — **COMPLETE / PASS / 22/22**
+- E3 additional corrections — **2**
+- unresolved — **0**
+- English — **`verified-complete`**

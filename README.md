@@ -480,10 +480,10 @@ The full **61 / 61 constituent** collection is **FINAL-CLOSED / ARCHIVAL-READY**
 
 The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL_CLOSURE.md`, `HANDOVER.md`, `page-map.md`, `audit.md` and `metadata.json`. Reopen only for genuinely new source evidence or a documented fidelity issue.
 
-### Active work — வரலாற்றுச் சுவடு
+### Completed work — வரலாற்றுச் சுவடு
 
-`speeches/varalattru-suvadu/` is the current PDF-speech workflow. Tamil T1/T2/T3 are **COMPLETE**; Tamil is **`verified-complete` / FROZEN — 22/22**. English E1 is **COMPLETE — 22/22** and E2 is **COMPLETE / PASS — 13 corrections / 0 unresolved**. Exact next activity: **English E3 final verification PDF 4–25**.
+`speeches/varalattru-suvadu/` is **CLOSED / FULLY ARCHIVED**. Tamil is **`verified-complete` / FROZEN — 22/22** with **58 T2 corrections / 0 unresolved**. English is **`verified-complete`** with **13 E2 corrections + 2 E3 additional corrections / 0 unresolved**. No transcription or translation work remains pending.
 
-### Other pending work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
+### Active work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 
 `speeches/kalaivanar-nsk-memorial-day-audio-06/` remains pending at Tamil T2 **12 checked / 4 passed**, latest checked range **08:38–09:25**. Its next audio iteration remains **09:25–14:15** when that archive is resumed.

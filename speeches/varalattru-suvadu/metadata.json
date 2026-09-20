@@ -74,7 +74,7 @@
     "tamil_visual_audit": "complete-pass",
     "tamil_strict_reaudit_pages_checked": 22,
     "tamil_consolidation": "complete-pass",
-    "english_translation": "e2-complete",
+    "english_translation": "verified-complete",
     "english_translation_review": "complete-pass",
     "first_pass_batch_2": "complete-pdf-11-to-20",
     "remaining_first_pass_pdf_pages": null,
@@ -93,7 +93,7 @@
     "t3_additional_source_corrections": 0,
     "t3_consolidation_repairs": 0,
     "t3_unresolved": 0,
-    "next_activity": "English E3 final end-to-end verification PDF 4-25",
+    "next_activity": null,
     "english_e1_pages_translated": 22,
     "english_e1_through_pdf_page": 25,
     "english_e1_batch_1": "complete-pdf-4-to-8",
@@ -104,6 +104,10 @@
     "english_e2_pages_reviewed": 22,
     "english_e2_corrections": 13,
     "english_e2_unresolved": 0,
-    "english_final_verification": "ready-not-started"
+    "english_final_verification": "complete",
+    "english_e3_pages_verified": 22,
+    "english_e3_additional_corrections": 2,
+    "english_e3_unresolved": 0,
+    "archive_status": "closed"
   }
 }

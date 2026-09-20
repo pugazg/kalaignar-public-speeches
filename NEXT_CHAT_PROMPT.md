@@ -1,43 +1,44 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / English E3 final verification
+# NEXT CHAT PROMPT — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06 / T2 ranges 12–21
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Active speech
+## Just closed
 
-`speeches/varalattru-suvadu/`
+`speeches/varalattru-suvadu/` is **CLOSED / FULLY ARCHIVED**.
+
+- Tamil — **`verified-complete` / FROZEN — 22/22**
+- English — **`verified-complete`**
+- English E2 corrections — **13**
+- English E3 additional corrections — **2**
+- unresolved — **0**
+
+Do not reopen it without new source evidence or a documented fidelity issue.
+
+## Active archive
+
+`speeches/kalaivanar-nsk-memorial-day-audio-06/`
 
 Read first:
 
-1. `SPEECH_PROCESSING_GUIDE.md`
-2. `speeches/varalattru-suvadu/HANDOVER.md`
-3. `speeches/varalattru-suvadu/README.md`
-4. `speeches/varalattru-suvadu/metadata.json`
-5. `speeches/varalattru-suvadu/transcription-ta.md`
-6. `speeches/varalattru-suvadu/translation-en.md`
-7. `speeches/varalattru-suvadu/translation-review.md`
+1. `AUDIO_SPEECH_PROCESSING_GUIDE.md`
+2. `docs/FUTURE_AUDIO_SPEECH_GUIDELINES.md`
+3. `speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md`
+4. `speeches/kalaivanar-nsk-memorial-day-audio-06/README.md`
 
-## Durable state
+## Durable Audio 06 state
 
-- Tamil — **`verified-complete` / FROZEN — 22/22**
-- English E1 — **COMPLETE — 22/22**
-- English E2 — **COMPLETE / PASS — 22/22**
-- E2 corrections — **13**
-- E2 unresolved — **0**
-- English E3 — **READY / NOT STARTED**
+- controlling MP3 — checksum-matching source
+- decoded duration — **00:26:22.080**
+- Tamil T1 — provisional complete through true decoded end
+- T2 strict direct listening — **12 checked / 4 passed**
+- latest checked range — **08:38–09:25**
+- announcer lead-in and checked-but-unresolved phrases remain on the retry list
+- mandatory final-60-second / final-30-second / final-major-pause replays remain pending
+- Tamil T3 — blocked
+- English — blocked
 
 ## Exact next activity
 
-Perform **English E3 final end-to-end verification — PDF 4–25**.
+Continue **T2 strict direct listening with the next 10-batch iteration: precheck ranges 12–21 (`09:25–14:15`)**.
 
-Verify:
-
-- all 22 English page headings occur exactly once and in order;
-- every Tamil paragraph/heading has English coverage;
-- page-boundary continuations remain intact;
-- all 13 E2 corrections are present;
-- names, titles, numerals, percentages and quotation markers are consistent;
-- applause/laughter markers are preserved;
-- source-sensitive notes for `இவைகளே அன்னியில்`, `9000 ஆயிரம்`, and `எவனுவது` remain;
-- no stale pre-E2 wording survives.
-
-If and only if this passes, mark English **`verified-complete`**, set final verification complete, synchronize controls, and close the speech archive.
+Retain all checked-but-not-passed phrases and the partly unresolved `00:00–00:14` lead-in as mandatory retries. Do not count ASR, attachment-level transcription, waveform analysis or machine comparisons as T2 evidence.

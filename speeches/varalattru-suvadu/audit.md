@@ -293,10 +293,18 @@ Consolidation checks completed against the full combined Tamil transcript.
 - T2 — **COMPLETE / PASS — 22/22 — 58 corrections / 0 unresolved**
 - T3 — **COMPLETE / PASS**
 - Tamil authority — **`verified-complete` / FROZEN**
-- English — **READY / NOT STARTED**
 
-## Exact next activity
+## English closure state
 
-Begin **English E1 first-pass translation — PDF pages 4–8** from the frozen `transcription-ta.md`.
+- E1 — **COMPLETE / 22/22**
+- E2 — **COMPLETE / PASS — 13 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS — 2 additional corrections / 0 unresolved**
+- English authority — **`verified-complete`**
 
-Do not translate from OCR, the PDF independently, or an outside edition. Preserve page headings, paragraph sequence, rhetoric, repetition and source-sensitive oddities.
+E3 corrected one duplicated PDF 8→9 batch-boundary phrase and restored the PDF 18 source parenthetical structure. End-to-end page order, paragraph coverage, boundary continuations, names/titles, numerals/percentages, quotation structure, reaction markers and source-sensitive notes all passed.
+
+## Repository closure
+
+**`வரலாற்றுச் சுவடு` — CLOSED / FULLY ARCHIVED.**
+
+No Tamil or English textual work remains pending for this speech.

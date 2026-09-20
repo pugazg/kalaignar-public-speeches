@@ -52,14 +52,16 @@ Rejected: `வினக் குறிக்கு`, `வினைக் கு
 | Layer | Status |
 |---|---|
 | Source identification / page map | **Complete** |
-| Tamil transcription | **FIRST-PASS COMPLETE — 22/22 speech pages source-checked (PDF 4–25)** |
+| Tamil transcription | **`verified-complete` / FROZEN — 22/22 (PDF 4–25)** |
 | Separate strict Tamil visual audit | **COMPLETE / PASS — 22/22 (58 corrections / 0 unresolved)** |
 | Tamil consolidation/freeze | **COMPLETE / PASS — 0 additional corrections / 0 repairs** |
 | English E1 translation | **COMPLETE — 22/22 (PDF 4–25)** |
 | English E2 fidelity review | **COMPLETE / PASS — 13 corrections / 0 unresolved** |
+| English E3 final verification | **COMPLETE / PASS — 2 additional corrections / 0 unresolved** |
+| Archive status | **CLOSED / FULLY ARCHIVED** |
 
 The first-pass text for PDF 4–10 was migrated from the mistakenly routed Essays workspace after direct scan review. PDF 11–25 was transcribed/source-checked directly in the Public Speeches workflow. T1 is now complete at 22/22 speech pages. This does not promote the text to the separate strict-audit gate.
 
 ## Exact next activity
 
-Perform **English E3 final end-to-end verification — PDF 4–25**. E1 and E2 are COMPLETE; E2 applied 13 corrections with 0 unresolved.
+No further transcription or translation work is pending. Tamil is **`verified-complete` / FROZEN**, English is **`verified-complete`**, and this speech archive is **CLOSED / FULLY ARCHIVED**.

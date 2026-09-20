@@ -32,8 +32,10 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
 - T2 strict visual audit — **COMPLETE / PASS — 22/22 (PDF 4–25)**
 - T3 Tamil consolidation/freeze — **COMPLETE / PASS**
-- English E1 — **COMPLETE — 22/22**
-- English E2 — **COMPLETE / PASS — 22/22, 13 corrections / 0 unresolved**
+- English E1 — **COMPLETE / 22/22**
+- English E2 — **COMPLETE / PASS — 13 corrections / 0 unresolved**
+- English E3 — **COMPLETE / PASS — 2 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
 
 Durable source controls:
 
@@ -164,7 +166,7 @@ Corrections applied:
 - T2 — **COMPLETE / PASS / 22/22**
 - T3 consolidation/freeze — **COMPLETE / PASS**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **IN PROGRESS**
+- English — **`verified-complete`**
 
 ## T3 durable checkpoint
 
@@ -206,8 +208,27 @@ Key E2 corrections included:
 - PDF 22 — repeated **“abolish—abolish”** rhetoric restored;
 - PDF 25 — unusual `எவனுவது` explicitly noted.
 
-## Exact next activity
+## English E3 durable checkpoint
 
-Perform **English E3 final end-to-end verification — PDF 4–25**.
+**COMPLETE / PASS — English `verified-complete`.**
 
-Verify page coverage/order, every cross-page continuation, E2 corrections, names/numerals/percentages, quotation markers, applause/laughter markers, and source-sensitive notes. Only after E3 passes may English be marked `verified-complete`.
+- PDF 4–25 — **22/22 verified**
+- E2 corrections — **13**
+- E3 additional corrections — **2**
+- E3 unresolved — **0**
+- PDF 8→9 duplicated batch-boundary wording removed; continuation now clean
+- PDF 18 source parenthetical structure restored
+- page order / paragraph coverage / boundary checks — **PASS**
+- source-sensitive notes retained — **PASS**
+
+## Archive closure
+
+`வரலாற்றுச் சுவடு` is **CLOSED / FULLY ARCHIVED**.
+
+- Tamil — **`verified-complete` / FROZEN**
+- English — **`verified-complete`**
+- source binary — not committed
+- supplementary PDF 26–33 non-speech item remains source context outside the canonical speech body
+- no transcription or translation work remains pending for this speech
+
+Repository-wide next pending activity is the separate Kalaivanar NSK memorial Audio 06 T2 direct-listening workflow.

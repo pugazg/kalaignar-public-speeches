@@ -1,8 +1,10 @@
 # வரலாற்றுச் சுவடு — English translation review
 
-> **Status:** E2 fidelity review **COMPLETE / PASS — PDF 4–25 / 22/22**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF 4–25 / 22/22**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E2 corrections:** **13**  
+> **E2 corrections:** **13**  
+> **E3 additional corrections:** **2**  
 > **Unresolved:** **0**
 
 ## E2 correction ledger
@@ -35,6 +37,38 @@
 - source-sensitive oddities — **PASS after notes**
 - page-boundary continuations — **PASS**
 
-## Exact next activity
+## E3 final verification — COMPLETE / PASS
 
-Perform **E3 final end-to-end verification — PDF 4–25**. Do not make English release-complete until that pass closes.
+The full English layer was rechecked end to end against frozen Tamil.
+
+### E3 additional corrections
+
+| PDF | E3 finding | Correction |
+|---:|---|---|
+| 8→9 | E1 batch boundary duplicated `Perarignar Anna, at the conference held in Virugambakkam, Chennai` at the start of PDF 9 | PDF 9 now continues directly with **“—with Rajaji...”**, preserving the physical boundary without repetition |
+| 18 | source parenthetical `(அவர் பிற்படுத்தப்பட்ட சமுதாயத்தைச் சேர்ந்தவரல்ல)` had been rendered as an em-dash aside | restored it as an English **parenthetical**, matching source structure |
+
+### E3 end-to-end checks
+
+- English page headings PDF **4–25** — **22/22, exactly once, in order**
+- Tamil/English paragraph-block counts by page — **PASS / no mismatches**
+- parenthetical-marker counts by page — **PASS / no mismatches**
+- recorded page-boundary continuations — **PASS**
+- all **13 E2 corrections** — **present**
+- stale pre-E2 wording checked — **none found**
+- source-sensitive notes retained — **`இவைகளே அன்னியில்` / `9000 ஆயிரம் ரூபாய்` / `எவனுவது`**
+- names/titles — **PASS**
+- numerals/percentages — **PASS**
+- quotation structure — **PASS**
+- applause/laughter markers — **PASS**
+- E3 additional corrections — **2**
+- unresolved English items — **0**
+
+## English closure state
+
+- E1 — **COMPLETE / 22/22**
+- E2 — **COMPLETE / PASS / 22/22 — 13 corrections**
+- E3 — **COMPLETE / PASS / 22/22 — 2 additional corrections**
+- English — **`verified-complete`**
+- archive — **CLOSED / FULLY ARCHIVED**
+
