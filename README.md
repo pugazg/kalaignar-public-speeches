@@ -482,7 +482,7 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 
 ### Active work — வரலாற்றுச் சுவடு
 
-`speeches/varalattru-suvadu/` is the current PDF-speech workflow. Tamil T1 is **COMPLETE — 22/22 speech pages**. T2 strict visual audit is **IN PROGRESS — 15/22 PASS (PDF 4–18)** with **30 cumulative corrections / 0 unresolved**. Historical-glyph decoding remains mandatory. Exact next activity: **T2 PDF 19–23**. English remains blocked.
+`speeches/varalattru-suvadu/` is the current PDF-speech workflow. Tamil T1 is **COMPLETE — 22/22 speech pages**. T2 strict visual audit is **IN PROGRESS — 20/22 PASS (PDF 4–23)** with **53 cumulative corrections / 0 unresolved**. Historical-glyph decoding remains mandatory. Exact next activity: **T2 final PDF 24–25**. English remains blocked.
 
 ### Other pending work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 

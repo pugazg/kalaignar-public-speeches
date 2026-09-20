@@ -30,7 +30,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 
 - speech body — PDF **4–25**, **22 pages**
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
-- T2 strict visual audit — **IN PROGRESS — 15/22 PASS (PDF 4–18)**
+- T2 strict visual audit — **IN PROGRESS — 20/22 PASS (PDF 4–23)**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 
@@ -123,8 +123,24 @@ Corrections applied:
 - cumulative corrections — **30**
 - unresolved — **0**
 
+## T2 Batch 4 durable checkpoint — PDF 19–23
+
+**COMPLETE / PASS — 5/5 pages.**
+
+Key corrections:
+
+- PDF 19 — source **`சில நன்மைகளைச் செய் வேண்டும்`**
+- PDF 20 — **`வேலைவாய்ப்புக்களிலும்`**, **`பிற்படுத்தப்பட்டோரென்று`**, **`எட்டாண்டுகட்கு`**
+- PDF 21 — source full stop after `ஆசைப்பட்டார்`; double-apostrophe Q&A punctuation restored
+- PDF 22 — **`சேர்ந்தவன் தான்`**, source hyphen in `போகிறோம்-ஒழிக்கப் போகிறோம்`, double-apostrophe dialogue punctuation restored
+- PDF 23 — **`எதிர்க்கட்சித் தலைவன்`**, **`ஆளும்கட்சி`**, double-apostrophe Tirukkural quotations, **`நீ யார் கேட்பது?`**
+- historical-glyph no-change checks — PDF 19 **`அண்ணா`** (`ணா`), PDF 21 **`சாதிக்காரனாக்`** (`னா`), PDF 22 **`பார்த்திருக்கிறாயா?`** (`றா`)
+- Batch-4 corrections — **23**
+- cumulative corrections — **53**
+- unresolved — **0**
+
 ## Exact next activity
 
-**T2 Batch 4 — strict visual fidelity audit, PDF pages 19–23 (5 speech pages).**
+**T2 Final Batch — strict visual fidelity audit, PDF pages 24–25 (2 speech pages).**
 
-Begin with PDF 18→19 **`நீதிமன் / ...`** and resolve the physical split from source pixels. Verify all 13 historical-glyph families, punctuation, names, numerals and page-boundary joins, and apply only source-supported corrections.
+Verify every line, the PDF 24→25 **`முகமதலி / அவர்களுக்கும்...`** boundary, historical glyphs, terminal wording, punctuation and the final star. If both pages pass, T2 becomes **22/22 COMPLETE** and the next gate is T3 consolidation/freeze.

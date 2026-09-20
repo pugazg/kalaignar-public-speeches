@@ -183,8 +183,48 @@ PDF 18 required **no additional substantive correction** in this T2 batch.
 - PDF 13→14 **`தன்மானத் / தந்தை பெரியார்...`** — PASS
 - PDF 18 terminal **`நீதிமன்`** → PDF 19 continuation remains queued for Batch 4
 
+## T2 Batch 4 — PDF pages 19–23 — COMPLETE / PASS
+
+Independent line-by-line source review completed for **5 additional speech pages**.
+
+| PDF | T1 reading | T2 source-supported reading / action |
+|---:|---|---|
+| 19 | `சில நன்மைகளைச் செய்ய வேண்டும்` | source prints **`சில நன்மைகளைச் செய் வேண்டும்`** |
+| 20 | `வேலைவாய்ப்புகளிலும்` | **`வேலைவாய்ப்புக்களிலும்`** |
+| 20 | `பிற்படுத்தப்பட்டோர் என்று` | **`பிற்படுத்தப்பட்டோரென்று`** |
+| 20 | `எட்டாண்டுகளுக்கு` | **`எட்டாண்டுகட்கு`** |
+| 21 | semicolon after `ஆசைப்பட்டார்` | source has a **full stop** |
+| 21 | single-quote punctuation for the second answer / two Q&A lines | source uses **double apostrophe quotation marks** |
+| 22 | `சேர்ந்தவன்தான்` | **`சேர்ந்தவன் தான்`** |
+| 22 | em dash in `போகிறோம்—ஒழிக்கப் போகிறோம்` | source uses **hyphen: `போகிறோம்-ஒழிக்கப் போகிறோம்`** |
+| 22 | single quotation marks across the interview dialogue | source uses **double apostrophe quotation marks on all 8 dialogue lines** |
+| 23 | `எதிர்க்கட்சித் தலைவர்` | **`எதிர்க்கட்சித் தலைவன்`** |
+| 23 | `ஆளுங்கட்சி` | **`ஆளும்கட்சி`** |
+| 23 | single quote marks around both Tirukkural quotations | source uses **double apostrophe quotation marks** |
+| 23 | `நீ யார் கேட்டது?` | **`நீ யார் கேட்பது?`** |
+
+### Historical-glyph no-change decisions
+
+- PDF 19 visually resembles `அண்ணை`, but same-edition historical **`ணா`** identity confirms canonical **`அண்ணா`** — retained.
+- PDF 21 **`சாதிக்காரனாக் கருதப்படுவான்`** retains the historical **`னா`** decoding; literal modern-shape reading is rejected.
+- PDF 22 visually resembles `பார்த்திருக்கிறயா?`, but historical **`றா`** identity confirms **`பார்த்திருக்கிறாயா?`** — the existing transcription is retained.
+
+### Batch result
+
+- PDF pages checked — **5**
+- individual source-supported corrections applied — **23**
+- cumulative T2 pages — **20/22**
+- cumulative T2 corrections — **53**
+- unresolved readings — **0**
+- historical-glyph family review — **PASS**
+- PDF 18→19 **`நீதிமன் / றத் தீர்ப்பால்`** — PASS
+- PDF 19→20 **`அநீதி / இழைத்ததாக`** — PASS
+- PDF 20→21 **`மழை பெய்யாவிட் / டால்`** — PASS; assembled **`மழை பெய்யாவிட்டால்`**
+- PDF 21→22 **`ஆண்டு வருமான / முள்ள`** — PASS
+- PDF 23 ends a sentence cleanly; no physical word split into PDF 24
+
 ## Exact next activity
 
-Process **T2 Batch 4 — PDF pages 19–23 (5 speech pages)**.
+Process **T2 Final Batch — PDF pages 24–25 (2 speech pages)**.
 
-Begin by resolving the PDF 18→19 physical split after **`நீதிமன்`**. Re-read every line directly against source pixels, apply the historical-glyph guide, and record/apply only source-supported corrections. English remains blocked.
+After those two pages pass, T2 will cover all **22/22** speech pages. Then perform T3 consolidation/freeze before any English work begins.
