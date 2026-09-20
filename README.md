@@ -505,3 +505,22 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 - final report — `speeches/kalaivanar-nsk-memorial-day-audio-06/FINAL_CLOSURE.md`
 
 No transcription or translation work remains pending. Reopen only for genuinely new source evidence or a documented fidelity error.
+
+
+### Active work — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை
+
+`speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/`
+
+- source — `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
+- SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
+- mixed booklet — **42 scans**
+- separate article/letter — PDF **1–23**, excluded from this speech
+- speech title / blank — PDF **24–25**
+- speech body — PDF **26–41 / 16 pages**
+- PDF42 — shared back cover
+- source / duplicate / boundary gate — **PASS / COMPLETE**
+- exact date — **not established**
+- venue — **காஞ்சிபுரம்**
+- Tamil T1 — **READY / 0/16**
+
+Exact next activity: **Tamil T1 PDF 26–41**.

@@ -1,26 +1,39 @@
-# NEXT CHAT PROMPT — Audio 06 FINAL CLOSED
+# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / Tamil T1
 
-`speeches/kalaivanar-nsk-memorial-day-audio-06/` in `pugazg/kalaignar-public-speeches` is **FINAL CLOSED / RELEASE READY**.
+Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Final state
+## Active archive
 
-- source SHA-256 — `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`
-- decoded duration — **00:26:22.080**
-- Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
-- T2 — **43/43 PASS**
-- unresolved Tamil holds — **0**
-- final spoken word — **`வணக்கம்`**
-- post-speech audio — **applause/clapping**
-- `ending_verified=true`
-- `recording_truncated=false`
-- English E1 — **COMPLETE**
-- English E2 — **COMPLETE / 10 corrections / 0 unresolved**
-- English E3 — **PASS / 19/19 semantic blocks**
-- English — **VERIFIED-COMPLETE**
-- final report — `speeches/kalaivanar-nsk-memorial-day-audio-06/FINAL_CLOSURE.md`
+`speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/`
 
-## Continuation rule
+## Controlling source
 
-**Do not resume Audio 06 processing.** There is no pending Tamil or English activity.
+- `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
+- SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
+- physical scans — **42**
+- PDF1–23 — separate `விஷம்; ஒரு துளி போதாதா?` article/letter; **exclude**
+- PDF24 — speech title page
+- PDF25 — blank
+- PDF26–41 — **16-page speech body**
+- PDF42 — shared back cover
 
-Reopen only for genuinely new source evidence or a documented substantive fidelity error. Otherwise, continue with the next separately identified archive/work item from live `main`.
+## Durable state
+
+- source / duplicate / boundary gate — **PASS / COMPLETE**
+- duplicate unresolved — **0**
+- boundary unresolved — **0**
+- venue — **காஞ்சிபுரம்**
+- exact speech date — **not established / do not infer**
+- Tamil T1 — **READY / NOT STARTED — 0/16**
+
+## Exact next activity
+
+Transcribe **all PDF 26–41** as Tamil T1 in source order.
+
+Requirements:
+
+- preserve a separate `## PDF N` record for every speech-body page;
+- preserve source wording, punctuation, repetitions, names, quoted phrases, English source insertions and unusual forms;
+- flag genuinely unreadable text instead of normalizing from outside knowledge;
+- do not copy any text from PDF1–23 into the speech;
+- after 16/16 T1, record page joins and source-sensitive items for T2.
