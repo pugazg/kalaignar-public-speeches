@@ -278,10 +278,138 @@ Immediately, a major agitation arose in Tamil Nadu.
 
 It was not only Periyar and Anna; I recall with gratitude the names of Congress members who were then in the Legislature—K. T. Kosalram, the martyr Salem Subramaniam, and others—who said that because of the court—
 
+
+### PDF page 19 — printed page 18
+
+—decision, the rights of backward communities were being taken away. They argued that the Congress ministry must come forward to amend the Constitution.
+
+Gopal Reddy, who was then in the ministry, assured them: “We are prepared to appeal to the Supreme Court. If that appeal too fails and the Communal G.O. loses its place, we will take the matter to Nehru, ask him to amend the Constitution, and in one way or another ensure that the substance of this Communal G.O. is not destroyed.”
+
+After that, clauses 15(4) and 16(4) were added to the Constitution.
+
+On the basis of “those who are backward in education and in society,” Nehru himself spoke in support of that amendment, and the amendment was carried by a large majority.
+
+It was on the basis of that amendment that the Congress ministry of the Madras Presidency then arranged for 25 percent for backward people, 15 percent for oppressed people, and the remaining 60 percent as a general list in which everyone could compete.
+
+Leaders of the backward communities felt that this was not enough.
+
+# The Sattanathan Committee and Its Recommendations!
+
+After the death of Perarignar Anna, when I assumed office as Chief Minister, I formed a committee under Sattanathan with the intention of doing some good for backward people. He said the 25 percent for backward people should be raised to 33 percent.
+
+If concessions were given only to backward people, would that not amount to injustice to the oppressed—
+
+### PDF page 20 — printed page 19
+
+—people? So, dividing it as six out of eight for backward people and two for oppressed people, we raised the share for backward people to 31 percent and for oppressed people to 18 percent!
+
+On the basis of the Sattanathan Committee report, it was proposed that, for backward people to obtain places in employment and in medical, industrial, agricultural, and engineering colleges, only those with an income below nine thousand rupees should be declared backward and given these rights. I did not accept that.
+
+Many people think, “Karunanidhi is opposing the new order issued by the present Chief Minister because of political bitterness toward the Chief Minister.” I think even my old friend—the present Chief Minister—believes this.
+
+I opposed that recommendation at the very time the Sattanathan Committee made it.
+
+I opposed the recommendation of the Sattanathan Committee that I myself had appointed. So I opposed it not after M.G.R. came to power, but eight years earlier. I remain of that view to this day.
+
+Everyone earning below 9,000 rupees is backward.
+
+If a person earning 9,001 rupees becomes “forward,” is such a thing possible? (Laughter)
+
+Two days ago in Chennai, I was speaking with P. T. R. Palanivel Rajan. He told me something both humorous and painful.
+
+Under the order now issued by the Chief Minister, if a farmer's land—if rain does not—
+
+### PDF page 21 — printed page 20
+
+—fall, he is backward; if rain does fall, he becomes forward! (Laughter—applause) So he is left praying, “God, make it so there is no rain; I have to get my son into medical college.” (Laughter) Is this not the situation today?
+
+Let me give another example.
+
+A person in Chennai who earns a salary of 800 rupees becomes a member of a forward caste because his annual income exceeds nine thousand rupees.
+
+For a long time he had wanted to get his son admitted to an engineering college. He went and met someone holding a high position in an engineering college.
+
+“My son must be admitted to engineering college; he has scored this many marks,” he said.
+
+“He has indeed scored good marks. But when your salary is calculated, he will be treated as belonging to a forward caste when he competes. He is not entitled to the rights available to backward students,” the official said.
+
+“Why?” the boy's father asked.
+
+“Doesn't your annual income exceed Rs. 9,000?” he asked.
+
+The boy's father develops chest pain. He comes home—and dies of a heart attack.
+
+By dying, he has turned his son into a member of a backward caste.
+
+I heard of another case too. A farmer whose real annual income is five thousand rupees—
+
+### PDF page 22 — printed page 21
+
+—has to obtain a certificate stating that his son belongs to a family with an annual income of five thousand rupees. Everyone knows how “easy” that is! (Laughter)
+
+Even a person who truly has an income of five thousand rupees can obtain the certificate only if he gives “something.”
+
+A wealthy person with an income of twenty thousand rupees gives a little more of what “has to be given” and gets a certificate saying his income is only eight thousand rupees.
+
+Measures like this will only increase the very thing they say they are going to abolish!
+
+Even this morning I told reporters something.
+
+An engineering-college student comes for an interview.
+
+The official asks—
+
+“Have you seen a fridge? Do you know the parts inside it?”
+
+“Yes!”
+
+“Where did you see one?”
+
+“There is one in our house; I have seen it!”
+
+“Do you know the parts of an Ambassador car?”
+
+“Yes!”
+
+“Where did you see one?”
+
+“There is one in my own house; I have seen it.”
+
+—The boy who gave these answers has submitted a certificate saying that his family's annual income is five thousand rupees.
+
+### PDF page 23 — printed page 22
+
+Thus it is into such confusion that the new order throws people.
+
+Let the Chief Minister think about all this.
+
+It is not the rule of opposition politics to oppose everything the ruling party does!
+
+If V. Suba. Manickam has today been made Vice-Chancellor of Madurai University, I welcome it.
+
+The Chief Minister went to console those affected by the fire at Thoothukudi—I welcome that too.
+
+At the same time, after the Thoothukudi incident, if cinema theatres should no longer be thatched sheds, then as Leader of the Opposition I offer a suggestion about it.
+
+Likewise, when the opposition says something, a ruling party ought to listen. There should be no ruling party in any country that says, “Whatever the opposition says, we will not listen!”
+
+Did not Valluvar sing—
+
+“Whatever the matter, from whomever's mouth one hears it,
+to discern the truth
+in that matter is wisdom”—
+
+“A heedless king who has none to rebuke him
+will perish even without anyone to destroy him!”—
+
+If there is no opposition to strike with such rebuke, government will deteriorate even without anyone actively destroying it!
+
+When something good is said, one must not arrogantly ask, “Who are you to question me?”
+
 ## E1 progress
 
-- translated speech pages — **15/22**
-- completed E1 range — **PDF 4–18**
+- translated speech pages — **20/22**
+- completed E1 range — **PDF 4–23**
 - English fidelity review E2 — **NOT STARTED**
 - English final verification E3 — **NOT STARTED**
-- exact next E1 range — **PDF 19–23**
+- exact next E1 range — **PDF 24–25**
