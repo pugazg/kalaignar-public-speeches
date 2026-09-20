@@ -28,6 +28,7 @@ Read first:
 8. `t2-batches/dual-witness-discrepancy-ledger-ranges-22-31.md`
 9. `t2-batches/companion-transcript-crosscheck-ranges-32-41.md`
 10. `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
+11. `t2-batches/direct-listening-record-templates-64-73.md`
 
 ## Durable T2 state
 
@@ -99,3 +100,10 @@ Read:
 It isolates the unresolved lead-in plus Batches **44, 45, 47, 48, 49, 51 and 52** into eight checksum-bound replay crops. This does not change T2: **22 checked / 14 passed**.
 
 Exact sequential next activity remains **ranges 22–31 / 14:15–20:00**. Before T2 closure, also replay and resolve all eight early retry targets, then complete ranges 32–42 and the mandatory tail gates.
+
+
+## Pending records 64–73 prepared
+
+Use `speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-record-templates-64-73.md` when genuine playback is available. The file is preparation-only: all ten records are marked **PENDING**, with no findings or counter changes.
+
+The direct-listening baseline remains **22 checked / 14 passed** until the audio is actually replayed.

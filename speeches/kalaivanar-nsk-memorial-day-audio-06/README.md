@@ -99,3 +99,8 @@ A reproducible checksum-bound replay manifest is available at:
 It prepares ranges **32–42 / 20:00–26:22.080**, the mandatory final-60-second replay, the mandatory final-30-second replay, and a signal-derived candidate crop for locating the final major pause. This is **navigation/replay preparation only** and does not alter the live T2 state of **22 checked / 14 passed**.
 
 The exact sequential next activity remains direct audible replay of **ranges 22–31 / 14:15–20:00**.
+
+
+## Pending direct-listening record templates
+
+`t2-batches/direct-listening-record-templates-64-73.md` prepares the ten expected direct-listening records for ranges **22–31 / 14:15–20:00**. It contains no source-heard findings and does not increment T2 counters. Live state remains **22 checked / 14 passed**.

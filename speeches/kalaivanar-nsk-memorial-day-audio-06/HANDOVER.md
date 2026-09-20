@@ -358,3 +358,12 @@ The mandatory retry list from the first auditory iteration has now been converte
 It contains eight focused replay crops covering the partly unresolved lead-in and Batches **44, 45, 47, 48, 49, 51 and 52**. Passed ranges are deliberately excluded. This is replay preparation only: **no T2 counter change and no canonical Tamil change**.
 
 Current state remains **22 checked / 14 passed**. All eight retry targets remain mandatory before T2 closure.
+
+
+## Pending record templates — batches 64–73
+
+The next ten direct-listening records now have a preparation-only worksheet:
+
+`t2-batches/direct-listening-record-templates-64-73.md`
+
+It maps batches **64–73** to precheck ranges **22–31 / 14:15–20:00**, including replay hashes and the exact candidate conflicts that must be settled audibly. Every record remains explicitly **PENDING / unchecked / unpassed** until true replay occurs. This preparation does not change the live state of **22 checked / 14 passed**.

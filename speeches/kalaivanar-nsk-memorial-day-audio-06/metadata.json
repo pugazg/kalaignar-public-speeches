@@ -356,7 +356,10 @@
         "final-30-seconds",
         "final-pause-navigation-candidate"
       ],
-      "evidence_class": "preparation-only; does not increment T2 checked/passed counters"
+      "evidence_class": "preparation-only; does not increment T2 checked/passed counters",
+      "pending_record_templates": "t2-batches/direct-listening-record-templates-64-73.md",
+      "pending_record_numbers": "64-73",
+      "pending_record_state": "templates-only; all unchecked and unpassed until true audible replay"
     }
   },
   "workflow": {
