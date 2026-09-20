@@ -315,3 +315,39 @@ Requirements:
 8. confirm the final audible word, grammatical completeness and `recording_truncated` status;
 9. do not begin T3 until T2 is complete;
 10. do not begin English until verified Tamil is frozen.
+
+
+## T2 direct-listening iteration 2 — records 54–63 / 09:25–14:15
+
+The checksum-matching MP3 was reattached and rechecked in this turn. SHA-256 and decoded duration match the controlling source. Ten sequential direct-listening ranges corresponding to prechecks 12–21 were replayed.
+
+### Result
+
+- new ranges checked — **10**
+- new ranges passed — **10**
+- cumulative direct-listening state — **22 checked / 14 passed**
+- latest passed range — **14:00–14:15**
+- canonical interval newly verified — **09:25–14:15**
+- explicit unresolved markers remaining in the full provisional transcript after replacement — **49**
+- English — **BLOCKED**
+- Tamil T3 — **BLOCKED**
+
+### Major resolutions
+
+- `வஞ்சிப்பத்தனை / இஞ்சிப்பத்தரே` and `தேனிலே மருந்தைக் கலந்து`;
+- early movement-artist list: K. R. Ramasamy, M. R. Radha, T. K. S. brothers, Rajendran, T. V. Narayanasamy and Sivaji sequence;
+- complete `10:48–11:20` Anna-call / professional-risk rhetoric;
+- Kannadasan changed-movement / changed-policy wording; provisional `விரக்தி` reading rejected;
+- Krishna wordplay including `பரிதாபத்திற்குரிய`, `அருகாமையிலேதான்` and `இது போதாதா எதிரிகளுக்கு?`;
+- complete mock-newspaper joke with `முதலமைச்சரான`, `கோபாலபுரம்`, `மர்மம் அம்பலமானது`;
+- previously withheld machine-collapse interval `12:49–13:15` restored;
+- retired postal official is described as `பழுத்த பழம்`; no personal name is supplied there;
+- house-sale / agraharam reaction sequence restored;
+- `பேரைப் பார்த்து` confirmed over machine `தேரைப் பார்த்து`;
+- house anecdote closes cleanly at `14:15`.
+
+The companion transcript supplied in this turn was used only to locate candidate words; all accepted wording was checked against audible source replay.
+
+### Next direct-listening iteration
+
+Process precheck ranges **22–31**, covering **14:15–20:00**, as the next 10-batch iteration. Earlier checked-but-not-passed ranges and the lead-in remain mandatory retries before T2 closure.

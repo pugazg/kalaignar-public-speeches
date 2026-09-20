@@ -486,4 +486,4 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 
 ### Active work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 
-`speeches/kalaivanar-nsk-memorial-day-audio-06/` remains pending at Tamil T2 **12 checked / 4 passed**, latest checked range **08:38–09:25**. Its next audio iteration remains **09:25–14:15** when that archive is resumed.
+`speeches/kalaivanar-nsk-memorial-day-audio-06/` is pending at Tamil T2 **22 checked / 14 passed**. The second 10-batch direct-listening iteration **09:25–14:15 passed 10/10** and restored the previously withheld `12:49–13:15` house-anecdote interval. Exact next activity: **T2 ranges 22–31 / 14:15–20:00**.

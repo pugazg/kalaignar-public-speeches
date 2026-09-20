@@ -46,7 +46,7 @@
     "binary_committed": false,
     "catalogue_page_url": "https://tamildigitallibrary.in/kalaignar/05.kalappezhai/audio/002_06.Kalavaivannar%20N.S.Krishnnan%20Ninavul%20Naal%20Vizha%20Vil%20Kaligar%20Speech.html",
     "latest_reattachment_verification": {
-      "date": "2026-09-01",
+      "date": "2026-09-20",
       "result": "exact-match-to-controlling-source",
       "sha256": "6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836",
       "file_size_bytes": 25313377,
@@ -125,42 +125,42 @@
       "start": "08:38",
       "end_approx": "09:50",
       "subject": "Inji Paththar interpretation and medicine-with-honey image",
-      "status": "direct-listened through 09:25; 08:38-09:25 passed; 09:25-09:50 pending"
+      "status": "t2-direct-listening-verified through 09:50"
     },
     {
       "segment": 10,
       "start": "09:50",
       "end_approx": "10:48",
       "subject": "early movement artists and Sivaji Ganesan",
-      "status": "partial-provisional-draft; names and titles unresolved"
+      "status": "t2-direct-listening-verified"
     },
     {
       "segment": 11,
       "start": "10:48",
       "end_approx": "12:00",
       "subject": "artists serving Periyar and Anna; Kannadasan/Krishnan wordplay",
-      "status": "partial-provisional-draft; rhetorical joins unresolved"
+      "status": "t2-direct-listening-verified"
     },
     {
       "segment": 12,
       "start": "12:00",
       "end_approx": "13:15",
       "subject": "Krishna wordplay and beginning of the Gopalapuram house anecdote",
-      "status": "partial-provisional-draft; press-style quotation and 12:49-13:15 unresolved"
+      "status": "t2-direct-listening-verified"
     },
     {
       "segment": 13,
       "start": "13:15",
       "end_approx": "14:00",
       "subject": "retired postal official, house sale and locality reaction",
-      "status": "partial-provisional-draft; name and interior reaction sequence unresolved"
+      "status": "t2-direct-listening-verified"
     },
     {
       "segment": 14,
       "start": "14:00",
       "end_approx": "14:59",
       "subject": "house anecdote conclusion and gratitude to movement artists",
-      "status": "partial-provisional-draft; ideological-position sentence unresolved"
+      "status": "direct-listened through 14:15; 14:15-14:59 pending"
     },
     {
       "segment": 15,
@@ -308,11 +308,11 @@
   },
   "direct_listening_audit": {
     "status": "in-progress",
-    "segments_checked": 12,
-    "segments_passed": 4,
+    "segments_checked": 22,
+    "segments_passed": 14,
     "recording_boundary_verified": false,
     "recording_truncated": null,
-    "latest_checked_range": "08:38-09:25",
+    "latest_checked_range": "14:00-14:15",
     "records": [
       "t2-batches/batch-43-direct-listening-audit-00-00-01-10.md",
       "t2-batches/batch-44-direct-listening-audit-01-10-02-34.md",
@@ -324,12 +324,22 @@
       "t2-batches/batch-50-direct-listening-audit-06-43-07-12.md",
       "t2-batches/batch-51-direct-listening-audit-07-12-08-00.md",
       "t2-batches/batch-52-direct-listening-audit-08-00-08-38.md",
-      "t2-batches/batch-53-direct-listening-audit-08-38-09-25.md"
+      "t2-batches/batch-53-direct-listening-audit-08-38-09-25.md",
+      "t2-batches/batch-54-direct-listening-audit-09-25-09-50.md",
+      "t2-batches/batch-55-direct-listening-audit-09-50-10-18.md",
+      "t2-batches/batch-56-direct-listening-audit-10-18-10-48.md",
+      "t2-batches/batch-57-direct-listening-audit-10-48-11-20.md",
+      "t2-batches/batch-58-direct-listening-audit-11-20-12-00.md",
+      "t2-batches/batch-59-direct-listening-audit-12-00-12-22.md",
+      "t2-batches/batch-60-direct-listening-audit-12-22-12-49.md",
+      "t2-batches/batch-61-direct-listening-audit-12-49-13-15.md",
+      "t2-batches/batch-62-direct-listening-audit-13-15-14-00.md",
+      "t2-batches/batch-63-direct-listening-audit-14-00-14-15.md"
     ],
     "lead_in_passed": false,
     "main_speech_opening_passed": true,
     "iteration_batch_size": 10,
-    "latest_iteration": "records 44-53; precheck ranges 02-11; 01:10-09:25"
+    "latest_iteration": "records 54-63; precheck ranges 12-21; 09:25-14:15; 10/10 passed"
   },
   "workflow": {
     "source_inspection": "complete",
@@ -338,12 +348,13 @@
     "tamil_transcription": "first-pass-complete-provisional-through-26:22.080",
     "tamil_segments_total": null,
     "tamil_segments_drafted": 30,
-    "tamil_unresolved_ranges_open": 60,
+    "tamil_unresolved_ranges_open": 49,
     "strict_audio_audit": "in-progress",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
     "english_translation_review": "blocked",
-    "english_translation_final_verification": "blocked"
+    "english_translation_final_verification": "blocked",
+    "tamil_unresolved_count_note": "49 explicit unresolved markers remain after direct-listening replacement of 09:25-14:15; earlier checked-but-not-passed ranges remain on the retry list"
   },
   "t2_textual_precheck": {
     "status": "complete-preparatory-only",

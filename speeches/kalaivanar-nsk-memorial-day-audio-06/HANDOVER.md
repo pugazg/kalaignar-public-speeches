@@ -264,13 +264,13 @@ Records: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md` through `t2
 
 The user directed that T2 be processed in **10 direct-listening batches per iteration**. Preserve this cadence unless a short retry crop is needed for an unresolved phrase. Batch 43 audited `00:00–01:10`. The first full 10-batch iteration is complete as records 44–53, covering precheck ranges 02–11 (`01:10–09:25`).
 
-Current cumulative direct-listening state: **12 checked / 4 passed**. Fully passed ranges so far include the main-speech opening, `03:22–04:00`, `06:43–07:12`, and `08:38–09:25`. Checked-but-unresolved ranges remain on a retry list and must not be treated as passed. The separate announcer lead-in is still not fully verified.
+Current cumulative direct-listening state: **22 checked / 14 passed**. Records **54–63** completed the second 10-batch iteration and **all 10 ranges from 09:25 through 14:15 passed**. Checked-but-unresolved earlier ranges remain on a retry list and must not be treated as passed. The separate announcer lead-in is still not fully verified.
 
-The next 10-batch iteration is precheck ranges **12–21**, from `09:25` through `14:15`. After that, continue 22–31, then 32–41; precheck 42 and all mandatory opening/tail retries close the auditory gate. The mandatory final-60-second, final-30-second, and final-major-pause-to-end replays remain independent requirements.
+The next 10-batch iteration is precheck ranges **22–31**, from `14:15` through `20:00`. After that, continue 32–41; precheck 42 and all mandatory opening/tail retries close the auditory gate. The mandatory final-60-second, final-30-second, and final-major-pause-to-end replays remain independent requirements.
 
 ## Exact next activity
 
-Continue **T2 strict direct listening with the next 10-batch iteration: precheck ranges 12–21 (`09:25–14:15`)** using the checksum-matching controlling MP3. Retain the partly unresolved `00:00–00:14` lead-in and all checked-but-not-passed phrases as mandatory retries before T2 closure.
+Continue **T2 strict direct listening with the next 10-batch iteration: precheck ranges 22–31 (`14:15–20:00`)** using the checksum-matching controlling MP3. Retain the partly unresolved `00:00–00:14` lead-in and all earlier checked-but-not-passed phrases as mandatory retries before T2 closure.
 
 Do not count attachment-level transcription, ASR, waveform/silence analysis or machine comparisons as T2. T2 is an end-to-end auditory source audit.
 
@@ -297,3 +297,12 @@ Before T2 can close:
 6. set `recording_truncated` only from direct source evidence.
 
 Only after all T2 segments and boundaries pass may T3 consolidate/freeze Tamil. Only after verified Tamil is frozen may English E1 begin.
+
+
+## Latest iteration durable checkpoint — records 54–63
+
+**COMPLETE — 10/10 ranges PASS, 09:25–14:15.**
+
+This iteration removed all **14 explicit placeholder blocks** previously present inside that interval, including the full machine-collapse gap at `12:49–13:15`. Current cumulative T2 direct-listening state is **22 checked / 14 passed**. The full provisional transcript now has **49 explicit unresolved markers** remaining outside the newly verified interval.
+
+Exact next sequential iteration: **precheck ranges 22–31 / 14:15–20:00**.
