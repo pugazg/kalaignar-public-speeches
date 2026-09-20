@@ -1,3 +1,5 @@
+> **RESOLVED — 2026-09-20:** All 8 retry targets were resolved from the user's explicitly authorized full transcription. They remain historical replay-preparation targets, but the ordinary spoken-text T2 retry backlog is now **8/8 PASS**. No new independent assistant listening is claimed.
+
 # Direct-listening retry manifest — opening gate + early checked-but-not-passed ranges
 
 **Archive:** `speeches/kalaivanar-nsk-memorial-day-audio-06/`  

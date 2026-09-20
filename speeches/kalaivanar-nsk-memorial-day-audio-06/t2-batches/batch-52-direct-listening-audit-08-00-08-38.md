@@ -28,3 +28,10 @@ The short rhetorical question immediately before `தமிழ்நாட்ட
 ## Next
 
 Continue with `08:38–09:25`; retain the unresolved rhetorical question for a focused retry.
+
+
+## Current adjudication state — 2026-09-20
+
+The rhetorical question immediately before `தமிழ்நாட்டு வரலாறல்லவா?` is now resolved from the user's explicitly authorized full transcription. Current ordinary T2 state: **PASS**.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.

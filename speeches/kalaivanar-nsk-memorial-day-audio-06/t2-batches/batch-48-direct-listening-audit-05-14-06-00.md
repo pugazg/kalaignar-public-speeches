@@ -30,3 +30,10 @@ The immediate connection-question sequence after identifying Kannadasan and the 
 ## Next
 
 Continue with `06:00–06:43`; retry the two unresolved short dialogue points before T2 closure.
+
+
+## Current adjudication state — 2026-09-20
+
+The crossed-line question/answer ordering and first short reply are now resolved from the user's explicitly authorized full transcription. Current ordinary T2 state: **PASS**.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.

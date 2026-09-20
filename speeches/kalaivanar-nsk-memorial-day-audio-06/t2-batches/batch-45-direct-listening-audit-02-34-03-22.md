@@ -26,3 +26,10 @@ The exact wording of that final humorous transition is still not sufficiently di
 ## Next
 
 Continue with `03:22–04:00`; retry the short unresolved transition before final T2 closure.
+
+
+## Current adjudication state — 2026-09-20
+
+The formerly unresolved humorous affection/competition transition is now resolved from the user's explicitly authorized full transcription. Current ordinary T2 state: **PASS**.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.

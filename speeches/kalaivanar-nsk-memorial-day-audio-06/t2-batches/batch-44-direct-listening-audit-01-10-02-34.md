@@ -28,3 +28,10 @@ The conference/event name and one later name/closeness example are still not cle
 ## Next
 
 Continue with `02:34–03:22`; retain this range for a focused retry of the two unresolved proper-noun phrases before T2 closure.
+
+
+## Current adjudication state — 2026-09-20
+
+The conference/event wording and later name/closeness example are now resolved from the user's explicitly authorized full transcription. Current ordinary T2 state: **PASS**.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.

@@ -27,3 +27,10 @@ The short venue/display phrase immediately before `கலைவாணர் எ�
 ## Next
 
 Continue with `06:43–07:12`; retain the hall/display phrase for a focused retry.
+
+
+## Current adjudication state — 2026-09-20
+
+The hall/display phrase is now resolved from the user's explicitly authorized full transcription. Current ordinary T2 state: **PASS**.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.

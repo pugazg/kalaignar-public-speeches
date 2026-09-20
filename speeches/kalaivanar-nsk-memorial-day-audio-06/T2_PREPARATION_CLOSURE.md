@@ -1,3 +1,5 @@
+> **SUPERSEDED AS CURRENT WORKFLOW STATE — 2026-09-20:** This file records the earlier preparation closure. The user subsequently authorized the supplied full transcription, and ordinary spoken-text T2 is now **43/43 checked / 43/43 passed**. The old “next activity = Batches 64–73” statement below is historical. Current next activity is **TG-01 / TG-02 / TG-03 acoustic tail closure only**. See `T2_USER_TRANSCRIPT_ADJUDICATION.md` and `T2_EXECUTION_CHECKLIST.md`.
+
 # T2 preparation closure — Audio 06
 
 **Archive:** `speeches/kalaivanar-nsk-memorial-day-audio-06/`  

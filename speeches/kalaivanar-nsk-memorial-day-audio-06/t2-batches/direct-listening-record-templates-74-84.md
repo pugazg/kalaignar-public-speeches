@@ -1,3 +1,5 @@
+> **SUPERSEDED / COMPLETED — 2026-09-20:** These pending templates are retained for audit history. Their ranges were subsequently adjudicated **PASS** from the user's explicitly authorized full transcription. They are no longer pending. See `../T2_USER_TRANSCRIPT_ADJUDICATION.md` and the individual Batch 64–84 adjudication records.
+
 # Pending direct-listening record templates — T2 batches 74–84
 
 **Archive:** `speeches/kalaivanar-nsk-memorial-day-audio-06/`  

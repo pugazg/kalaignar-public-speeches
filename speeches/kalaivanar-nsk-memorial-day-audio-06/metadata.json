@@ -418,10 +418,10 @@
     "expected_final_counter_state": "43 checked / 43 passed — ACHIEVED",
     "execution_checklist": "T2_EXECUTION_CHECKLIST.md",
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
-    "preparation_status": "complete",
+    "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "true audible replay of batches 64-73 / precheck ranges 22-31 / 14:15-20:00",
-    "preparation_guard": "Do not create further generic preparation artifacts without genuinely new source evidence.",
+    "next_valid_source_activity": "complete TG-01 final 60 seconds, TG-02 final 30 seconds, and TG-03 actual final major pause to decoded end using actual audible tail replay",
+    "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
       "source": "Pasted markdown.md",

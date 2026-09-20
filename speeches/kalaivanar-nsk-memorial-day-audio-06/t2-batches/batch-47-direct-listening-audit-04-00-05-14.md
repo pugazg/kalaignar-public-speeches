@@ -27,3 +27,10 @@ The exact syntax of the sentence identifying the Mekala-side contact/manager and
 ## Next
 
 Continue with `05:14–06:00`; retain the final few seconds of this range for a short focused retry.
+
+
+## Current adjudication state — 2026-09-20
+
+The Mekala contact/manager syntax and opening crossed-line exchange are now resolved from the user's explicitly authorized full transcription. Current ordinary T2 state: **PASS**.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.

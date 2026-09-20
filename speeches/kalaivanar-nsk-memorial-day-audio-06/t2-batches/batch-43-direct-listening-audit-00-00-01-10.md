@@ -85,3 +85,10 @@ No substantive Tamil correction is required for this sentence.
 ## Exact next action
 
 Continue strict direct listening with the `01:10–02:20` Chinna Annamalai passage, while retaining the unresolved lead-in phrases as a mandatory opening-gate retry before T2 closure.
+
+
+## Current adjudication state — 2026-09-20
+
+The formerly unresolved lead-in is now textually resolved from the user's explicitly authorized full transcription. Current ordinary T2 state for both Batch 43 source segments: **PASS**. Historical direct-listening findings above remain unchanged.
+
+**Evidence provenance:** user-supplied full human transcription; this update is not represented as new independent assistant audio listening.
