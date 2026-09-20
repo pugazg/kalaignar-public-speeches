@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / English E1 PDF 4–8
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / English E1 PDF 9–13
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,21 +18,25 @@ Read first:
 
 ## Frozen Tamil authority
 
-- canonical speech body — PDF **4–25**, **22 speech pages**
-- T1 — **COMPLETE**
-- T2 — **COMPLETE / PASS — 22/22**
+- speech body — PDF **4–25**, **22 speech pages**
+- Tamil — **`verified-complete` / FROZEN**
 - T2 corrections — **58**
-- T2 unresolved — **0**
-- T3 — **COMPLETE / PASS**
 - T3 additional source corrections — **0**
 - T3 consolidation repairs — **0**
-- Tamil — **`verified-complete` / FROZEN**
+- unresolved Tamil — **0**
 
-Durable source-sensitive forms include **`வினாக் குறிக்கு`**, **`ஆளானான்`**, **`அங்கேல்லாம்`**, **`சாதிக்காரனாக் கருதப்படுவான்`**, and **`எவனுவது கால் வைத்தால்`**. Do not silently normalize them in the English workflow.
+## English state
+
+- E1 Batch 1 — **PDF 4–8 COMPLETE**
+- E1 progress — **5/22 translated**
+- E2 fidelity review — **NOT STARTED**
+- E3 final verification — **NOT STARTED**
+
+Batch-1 translation retained the source-sensitive `தன்னாட்சி / தனியாட்சி` wordplay, **`வினாக் குறிக்கு`** question-mark image, Chellappa wordplay, applause/laughter markers, and PDF page sequence without outside fact-correction.
 
 ## Exact next activity
 
-Process **English E1 first-pass translation — PDF pages 4–8**.
+Process **English E1 first-pass translation — PDF pages 9–13**.
 
 Translate only from frozen `transcription-ta.md`.
 
@@ -43,8 +47,8 @@ Preserve:
 - rhetorical force and repetition;
 - historical names/titles;
 - applause/laughter markers;
-- source oddities or ambiguities without silently repairing them.
+- source oddities, claims and chronology without silently correcting them.
 
-Do not perform E2 fidelity review in the same activity.
+Do **not** perform E2 review in the same activity.
 
 The Audio 06 archive remains pending separately at its previous T2 checkpoint.

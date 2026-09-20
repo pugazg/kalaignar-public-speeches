@@ -74,7 +74,7 @@
     "tamil_visual_audit": "complete-pass",
     "tamil_strict_reaudit_pages_checked": 22,
     "tamil_consolidation": "complete-pass",
-    "english_translation": "not-started",
+    "english_translation": "in-progress",
     "english_translation_review": "not-started",
     "first_pass_batch_2": "complete-pdf-11-to-20",
     "remaining_first_pass_pdf_pages": null,
@@ -93,6 +93,9 @@
     "t3_additional_source_corrections": 0,
     "t3_consolidation_repairs": 0,
     "t3_unresolved": 0,
-    "next_activity": "English E1 first-pass translation PDF 4-8"
+    "next_activity": "English E1 first-pass translation PDF 9-13",
+    "english_e1_pages_translated": 5,
+    "english_e1_through_pdf_page": 8,
+    "english_e1_batch_1": "complete-pdf-4-to-8"
   }
 }

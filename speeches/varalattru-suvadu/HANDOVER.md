@@ -32,7 +32,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
 - T2 strict visual audit — **COMPLETE / PASS — 22/22 (PDF 4–25)**
 - T3 Tamil consolidation/freeze — **COMPLETE / PASS**
-- English — **READY / NOT STARTED**
+- English E1 — **IN PROGRESS — 5/22 translated (PDF 4–8)**
 
 Durable source controls:
 
@@ -79,7 +79,7 @@ Separate strict Tamil visual audit remains **NOT STARTED**.
 
 Tamil first pass is **COMPLETE — 22/22 speech pages (PDF 4–25)**.
 
-Separate T2 strict visual audit is **IN PROGRESS — 5/22 PASS**. Tamil is not yet frozen. English remains blocked.
+Historical checkpoint note: at this earlier stage, T2 was **IN PROGRESS — 5/22 PASS**; this state is superseded by the T3 frozen-Tamil checkpoint below.
 
 ## T2 Batch 1 durable checkpoint — PDF 4–8
 
@@ -161,8 +161,9 @@ Corrections applied:
 
 - T1 — **COMPLETE / 22/22**
 - T2 — **COMPLETE / PASS / 22/22**
-- T3 consolidation/freeze — **PENDING**
-- English — **BLOCKED**
+- T3 consolidation/freeze — **COMPLETE / PASS**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **IN PROGRESS**
 
 ## T3 durable checkpoint
 
@@ -177,8 +178,22 @@ Corrections applied:
 - consolidation repairs — **0**
 - unresolved — **0**
 
+## English E1 Batch 1 — PDF 4–8
+
+**COMPLETE — 5/22 speech pages translated.**
+
+Translation authority was the frozen `transcription-ta.md` only. E2 fidelity review has not started.
+
+Source-sensitive handling retained:
+
+- the `தன்னாட்சி / தனியாட்சி` wordplay is represented with transliteration and the source Tamil forms **`ன் / நி`**;
+- **`வினாக் குறிக்கு`** is rendered as the source's “question mark” image rather than silently normalized;
+- the Chellappa / sweet-verse wordplay is retained;
+- applause/laughter markers and physical PDF page sequence are preserved;
+- the source's historical claims and chronology are translated as speech content, not independently fact-corrected.
+
 ## Exact next activity
 
-Begin **English E1 first-pass translation — PDF pages 4–8** from frozen `transcription-ta.md`.
+Continue **English E1 first-pass translation — PDF pages 9–13** from frozen `transcription-ta.md`.
 
-Retain PDF/printed-page correspondence and the Tamil paragraph/rhetorical structure. Do not use OCR or an outside edition as translation authority.
+Do not begin E2 until the complete 22-page E1 translation exists.
