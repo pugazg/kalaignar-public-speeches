@@ -466,3 +466,18 @@ Result: **PASS**
 Report: `T3_TAMIL_FREEZE_REPORT.md`.
 
 English translation is now unblocked.
+
+
+## English E1 first-pass translation
+
+Result: **COMPLETE**
+
+- source — frozen `transcription-ta.md`
+- complete source order represented — **Yes**
+- beginning represented — **Yes**
+- ending represented — **Yes**
+- external English source imported — **No**
+- unusual source forms silently normalized — **No**
+- E2 fidelity review — **not yet performed**
+
+English remains not verified-complete until E2 findings are consolidated and E3 passes.

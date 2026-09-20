@@ -497,3 +497,8 @@ Ordinary Tamil T2 spoken-text adjudication is **COMPLETE — 43/43 checked / 43/
 ### Audio 06 Tamil release state
 
 `speeches/kalaivanar-nsk-memorial-day-audio-06/` Tamil is now **VERIFIED-COMPLETE / T3 FROZEN** with T2 **43/43 PASS**, verified natural ending, and **0 unresolved Tamil holds**. English translation is unblocked.
+
+
+### Audio 06 English state
+
+`speeches/kalaivanar-nsk-memorial-day-audio-06/translation-en.md` now has a complete **E1 first-pass English translation** from the T3-frozen Tamil. E2 fidelity review is next; English is not yet verified-complete.

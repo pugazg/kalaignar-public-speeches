@@ -439,7 +439,7 @@
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "English E1 translation from frozen Tamil",
+    "next_valid_source_activity": "English E2 fidelity review against frozen Tamil",
     "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
@@ -462,9 +462,9 @@
     "tamil_unresolved_ranges_open": 0,
     "strict_audio_audit": "complete-closed",
     "tamil_consolidation": "complete-verified-frozen",
-    "english_translation": "ready",
-    "english_translation_review": "blocked-pending-english-draft",
-    "english_translation_final_verification": "blocked-pending-english-draft-and-review",
+    "english_translation": "first-pass-complete",
+    "english_translation_review": "ready-not-started",
+    "english_translation_final_verification": "blocked-pending-e2-review-and-consolidation",
     "tamil_unresolved_count_note": "0 textual holds after explicit user authorization to use the supplied full transcription; acoustic ending gates remain pending"
   },
   "t2_textual_precheck": {
@@ -526,5 +526,13 @@
     "unresolved_textual_holds": 0,
     "ending_verified": true,
     "recording_truncated": false
+  },
+  "english_status": {
+    "translation_file": "translation-en.md",
+    "source_tamil": "transcription-ta.md",
+    "e1": "complete",
+    "e2": "ready-not-started",
+    "e3": "blocked",
+    "verified_complete": false
   }
 }

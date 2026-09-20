@@ -161,3 +161,16 @@ Tamil is now **VERIFIED-COMPLETE / FROZEN**.
 T3 passed with **0 unresolved textual holds**, verified opening and ending, final spoken word **`வணக்கம்`**, post-speech applause, and `recording_truncated=false`.
 
 English translation is now **UNBLOCKED**. See `T3_TAMIL_FREEZE_REPORT.md`.
+
+
+## English E1
+
+English E1 is **COMPLETE** in `translation-en.md`, translated only from the frozen Tamil layer.
+
+Current English workflow:
+
+- E1 first-pass translation — **COMPLETE**
+- E2 fidelity review — **READY / NOT STARTED**
+- E3 final verification — **BLOCKED**
+
+Next: independent Tamil→English fidelity review.

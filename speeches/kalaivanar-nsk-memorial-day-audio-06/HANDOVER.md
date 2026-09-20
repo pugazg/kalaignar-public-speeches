@@ -487,3 +487,21 @@ Tamil T3 consolidation is **PASS / COMPLETE**.
 - English — **UNBLOCKED**
 
 Do not reopen Tamil for stylistic polishing. Exact next activity: **English E1 translation from the frozen Tamil transcript**.
+
+
+## English E1 — COMPLETE
+
+English first-pass translation is now complete in `translation-en.md`.
+
+- source layer — frozen `transcription-ta.md`
+- scope — complete recording through `00:26:22.080`
+- opening — translated
+- speech body — translated in full
+- closing `வணக்கம்` — translated/preserved as `Vanakkam`
+- post-speech applause — recorded
+- external English source used — **No**
+- E1 status — **COMPLETE**
+- E2 fidelity review — **READY / NOT STARTED**
+- E3 — **BLOCKED**
+
+Exact next activity: **English E2 independent fidelity review against frozen Tamil**.
