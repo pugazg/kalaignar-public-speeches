@@ -109,3 +109,8 @@ The exact sequential next activity remains direct audible replay of **ranges 22�
 ## Pending later-range record templates
 
 `t2-batches/direct-listening-record-templates-74-84.md` prepares the expected records for ranges **32–42 / 20:00–26:22.080**. These are template-only and do not alter T2 counters. The dedicated tail gates remain separate.
+
+
+## Pending mandatory tail gates
+
+`t2-batches/direct-listening-tail-gate-templates.md` prepares the three independent ending checks required before Tamil freeze: final 60 seconds, final 30 seconds, and final-major-pause-to-true-end replay. All remain pending and do not alter the current **22 checked / 14 passed** sequential-range count.

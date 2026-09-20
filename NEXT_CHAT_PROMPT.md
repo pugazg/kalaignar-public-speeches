@@ -30,6 +30,7 @@ Read first:
 10. `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
 11. `t2-batches/direct-listening-record-templates-64-73.md`
 12. `t2-batches/direct-listening-record-templates-74-84.md`
+13. `t2-batches/direct-listening-tail-gate-templates.md`
 
 ## Durable T2 state
 
@@ -115,3 +116,14 @@ The direct-listening baseline remains **22 checked / 14 passed** until the audio
 `speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-record-templates-74-84.md` now prepares ranges **32–42 / 20:00–26:22.080**. All records remain **PENDING** and are not T2 evidence.
 
 Do not use batches 74–84 until ranges 22–31 have actually been replayed and live counters are synchronized.
+
+
+## Mandatory tail-gate templates prepared
+
+Read:
+
+- `speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-tail-gate-templates.md`
+
+It defines the three independent T2 ending gates: **TG-01 final 60 seconds**, **TG-02 final 30 seconds**, and **TG-03 final major pause to the true decoded end**. All are **PENDING** and must not be counted as ordinary range passes.
+
+Current ending state remains: `ending_verified=false`, `recording_truncated=null`.

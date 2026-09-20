@@ -376,3 +376,18 @@ The later sequential source ranges now have a preparation-only worksheet:
 `t2-batches/direct-listening-record-templates-74-84.md`
 
 It maps batches **74–84** to precheck ranges **32–42 / 20:00–26:22.080**. Every record is explicitly **PENDING / unchecked / unpassed** until true audible replay. Batch 84 reaches the decoded end but does not replace the separate final-60-second, final-30-second or final-major-pause gates.
+
+
+## Pending mandatory tail-gate records
+
+The three independent ending checks now have a dedicated preparation-only record:
+
+`t2-batches/direct-listening-tail-gate-templates.md`
+
+It contains:
+
+- **TG-01** — final 60 seconds;
+- **TG-02** — final 30 seconds as a separate replay;
+- **TG-03** — actual final-major-pause-to-`00:26:22.080` replay.
+
+These are separate T2 closure gates, not ordinary sequential segment counters. All remain **PENDING**; `ending_verified=false` and `recording_truncated` remains unresolved.

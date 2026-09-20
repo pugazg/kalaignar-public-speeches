@@ -364,6 +364,28 @@
       "pending_later_record_numbers": "74-84",
       "pending_later_record_scope": "precheck ranges 32-42 / 20:00-26:22.080",
       "pending_later_record_state": "templates-only; all unchecked and unpassed until true audible replay"
+    },
+    "tail_gate_status": {
+      "status": "pending",
+      "template": "t2-batches/direct-listening-tail-gate-templates.md",
+      "gates": {
+        "TG_01_final_60_seconds": {
+          "interval": "25:22.080-26:22.080",
+          "completed": false
+        },
+        "TG_02_final_30_seconds": {
+          "interval": "25:52.080-26:22.080",
+          "completed": false
+        },
+        "TG_03_final_major_pause_to_end": {
+          "prepared_navigation_interval": "26:15.000-26:22.080",
+          "actual_major_pause_established": false,
+          "completed": false
+        }
+      },
+      "ending_verified": false,
+      "recording_truncated": null,
+      "counter_effect": "none; tail gates are independent closure checks, not ordinary sequential range counters"
     }
   },
   "workflow": {
