@@ -24,6 +24,7 @@ Read first:
 4. `speeches/kalaivanar-nsk-memorial-day-audio-06/README.md`
 5. `speeches/kalaivanar-nsk-memorial-day-audio-06/transcription-ta.md`
 6. latest direct-listening records 54–63
+7. `t2-batches/companion-transcript-crosscheck-ranges-22-31.md`
 
 ## Durable T2 state
 
@@ -37,6 +38,7 @@ Read first:
 - mandatory final-60-second / final-30-second / final-major-pause replays remain pending
 - Tamil T3 — **BLOCKED**
 - English — **BLOCKED**
+- companion-transcript cross-check for ranges 22–31 — **COMPLETE / candidate-only; no T2 counter change**
 
 Key newly resolved readings include:
 
@@ -69,4 +71,4 @@ These are:
 - 30 — 19:00–19:33
 - 31 — 19:33–20:00
 
-Use true audible replay of the checksum-matching MP3. A companion transcript may be used only as candidate-word navigation; it is not source authority. Record checked/passed/unresolved state for every range and update canonical Tamil only where direct replay supports it.
+Use true audible replay of the checksum-matching MP3. The prepared companion-transcript cross-check should be used only as candidate-word navigation; it is not source authority and must not be counted as T2 evidence. Record checked/passed/unresolved state for every range and update canonical Tamil only where direct replay supports it.

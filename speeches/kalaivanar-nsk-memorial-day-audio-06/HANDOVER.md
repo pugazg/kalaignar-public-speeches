@@ -306,3 +306,12 @@ Only after all T2 segments and boundaries pass may T3 consolidate/freeze Tamil. 
 This iteration removed all **14 explicit placeholder blocks** previously present inside that interval, including the full machine-collapse gap at `12:49–13:15`. Current cumulative T2 direct-listening state is **22 checked / 14 passed**. The full provisional transcript now has **49 explicit unresolved markers** remaining outside the newly verified interval.
 
 Exact next sequential iteration: **precheck ranges 22–31 / 14:15–20:00**.
+
+
+## Companion-transcript cross-check for ranges 22–31
+
+A user-supplied full companion transcript has now been mapped against precheck ranges **22–31 / 14:15–20:00** in:
+
+`t2-batches/companion-transcript-crosscheck-ranges-22-31.md`
+
+This materially narrows candidate wording, including the previously machine-collapsed `18:00–19:00` and `19:33–20:00` passages. It is **navigation evidence only**, not direct listening. T2 counters remain **22 checked / 14 passed**, canonical Tamil is unchanged, and the exact next gate remains true audible replay of `14:15–20:00`.
