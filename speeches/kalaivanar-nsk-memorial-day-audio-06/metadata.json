@@ -307,12 +307,12 @@
     "first_main_speech_word": "கலைவாணருடைய"
   },
   "direct_listening_audit": {
-    "status": "in-progress",
-    "segments_checked": 22,
-    "segments_passed": 14,
+    "status": "ordinary-spoken-text-complete; acoustic-tail-gates-pending",
+    "segments_checked": 43,
+    "segments_passed": 43,
     "recording_boundary_verified": false,
     "recording_truncated": null,
-    "latest_checked_range": "14:00-14:15",
+    "latest_checked_range": "26:00-26:22.080",
     "records": [
       "t2-batches/batch-43-direct-listening-audit-00-00-01-10.md",
       "t2-batches/batch-44-direct-listening-audit-01-10-02-34.md",
@@ -334,16 +334,41 @@
       "t2-batches/batch-60-direct-listening-audit-12-22-12-49.md",
       "t2-batches/batch-61-direct-listening-audit-12-49-13-15.md",
       "t2-batches/batch-62-direct-listening-audit-13-15-14-00.md",
-      "t2-batches/batch-63-direct-listening-audit-14-00-14-15.md"
+      "t2-batches/batch-63-direct-listening-audit-14-00-14-15.md",
+      "t2-batches/batch-64-t2-user-transcript-adjudication-14-15-14-59.md",
+      "t2-batches/batch-65-t2-user-transcript-adjudication-14-59-15-35.md",
+      "t2-batches/batch-66-t2-user-transcript-adjudication-15-35-16-00.md",
+      "t2-batches/batch-67-t2-user-transcript-adjudication-16-00-16-30.md",
+      "t2-batches/batch-68-t2-user-transcript-adjudication-16-30-17-15.md",
+      "t2-batches/batch-69-t2-user-transcript-adjudication-17-15-17-47.md",
+      "t2-batches/batch-70-t2-user-transcript-adjudication-17-47-18-00.md",
+      "t2-batches/batch-71-t2-user-transcript-adjudication-18-00-19-00.md",
+      "t2-batches/batch-72-t2-user-transcript-adjudication-19-00-19-33.md",
+      "t2-batches/batch-73-t2-user-transcript-adjudication-19-33-20-00.md",
+      "t2-batches/batch-74-t2-user-transcript-adjudication-20-00-20-30.md",
+      "t2-batches/batch-75-t2-user-transcript-adjudication-20-30-21-04.md",
+      "t2-batches/batch-76-t2-user-transcript-adjudication-21-04-22-00.md",
+      "t2-batches/batch-77-t2-user-transcript-adjudication-22-00-22-52.md",
+      "t2-batches/batch-78-t2-user-transcript-adjudication-22-52-23-25.md",
+      "t2-batches/batch-79-t2-user-transcript-adjudication-23-25-23-44.md",
+      "t2-batches/batch-80-t2-user-transcript-adjudication-23-44-24-00.md",
+      "t2-batches/batch-81-t2-user-transcript-adjudication-24-00-24-46.md",
+      "t2-batches/batch-82-t2-user-transcript-adjudication-24-46-25-00.md",
+      "t2-batches/batch-83-t2-user-transcript-adjudication-25-00-26-00.md",
+      "t2-batches/batch-84-t2-user-transcript-adjudication-26-00-26-22-080.md"
     ],
-    "lead_in_passed": false,
+    "lead_in_passed": true,
     "main_speech_opening_passed": true,
     "iteration_batch_size": 10,
-    "latest_iteration": "records 54-63; precheck ranges 12-21; 09:25-14:15; 10/10 passed",
+    "latest_iteration": "user-supplied full-transcript adjudication; early retries + ranges 22-42 resolved; ordinary segments 43/43",
     "active_next_ranges": {
-      "precheck_ranges": "22-31",
-      "interval": "14:15-20:00",
-      "evidence_required": "true audible replay of checksum-matching controlling MP3"
+      "gate": "acoustic-tail-only",
+      "items": [
+        "TG-01 final 60 seconds",
+        "TG-02 final 30 seconds",
+        "TG-03 actual final major pause to decoded end"
+      ],
+      "evidence_required": "actual audible tail replay; transcript alone is insufficient"
     },
     "replay_preparation": {
       "early_retry_manifest": "t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md",
@@ -359,11 +384,11 @@
       "evidence_class": "preparation-only; does not increment T2 checked/passed counters",
       "pending_record_templates": "t2-batches/direct-listening-record-templates-64-73.md",
       "pending_record_numbers": "64-73",
-      "pending_record_state": "templates-only; all unchecked and unpassed until true audible replay",
+      "pending_record_state": "superseded-by-user-transcript-adjudication",
       "pending_later_record_templates": "t2-batches/direct-listening-record-templates-74-84.md",
       "pending_later_record_numbers": "74-84",
       "pending_later_record_scope": "precheck ranges 32-42 / 20:00-26:22.080",
-      "pending_later_record_state": "templates-only; all unchecked and unpassed until true audible replay"
+      "pending_later_record_state": "superseded-by-user-transcript-adjudication"
     },
     "tail_gate_status": {
       "status": "pending",
@@ -388,30 +413,40 @@
       "counter_effect": "none; tail gates are independent closure checks, not ordinary sequential range counters"
     },
     "expected_segments_total": 43,
-    "unchecked_sequential_segments": 21,
-    "checked_not_passed_retry_segments": 8,
-    "expected_final_counter_state": "43 checked / 43 passed",
+    "unchecked_sequential_segments": 0,
+    "checked_not_passed_retry_segments": 0,
+    "expected_final_counter_state": "43 checked / 43 passed — ACHIEVED",
     "execution_checklist": "T2_EXECUTION_CHECKLIST.md",
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "complete",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
     "next_valid_source_activity": "true audible replay of batches 64-73 / precheck ranges 22-31 / 14:15-20:00",
-    "preparation_guard": "Do not create further generic preparation artifacts without genuinely new source evidence."
+    "preparation_guard": "Do not create further generic preparation artifacts without genuinely new source evidence.",
+    "user_transcript_adjudication": {
+      "status": "accepted-on-explicit-user-instruction",
+      "source": "Pasted markdown.md",
+      "assistant_independent_audio_listening": false,
+      "early_retries_resolved": 8,
+      "newly_checked_and_passed_segments": 21,
+      "ordinary_counter_state": "43 checked / 43 passed",
+      "canonical_file": "transcription-ta.md",
+      "provenance_record": "T2_USER_TRANSCRIPT_ADJUDICATION.md"
+    }
   },
   "workflow": {
     "source_inspection": "complete",
     "duplicate_search": "complete-no-existing-source-record",
     "machine_navigation": "complete",
-    "tamil_transcription": "first-pass-complete-provisional-through-26:22.080",
+    "tamil_transcription": "canonical-user-adjudicated-complete",
     "tamil_segments_total": null,
     "tamil_segments_drafted": 30,
-    "tamil_unresolved_ranges_open": 49,
-    "strict_audio_audit": "in-progress",
+    "tamil_unresolved_ranges_open": 0,
+    "strict_audio_audit": "ordinary-text-complete; acoustic-tail-gates-pending",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
     "english_translation_review": "blocked",
     "english_translation_final_verification": "blocked",
-    "tamil_unresolved_count_note": "49 explicit unresolved markers remain after direct-listening replacement of 09:25-14:15; earlier checked-but-not-passed ranges remain on the retry list"
+    "tamil_unresolved_count_note": "0 textual holds after explicit user authorization to use the supplied full transcription; acoustic ending gates remain pending"
   },
   "t2_textual_precheck": {
     "status": "complete-preparatory-only",

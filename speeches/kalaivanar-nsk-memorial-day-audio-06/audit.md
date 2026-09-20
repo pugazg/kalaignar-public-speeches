@@ -2,7 +2,7 @@
 
 ## Status
 
-**Source intake and machine-aided navigation complete. Tamil T1 first pass is provisionally complete through the true decoded end at `00:26:22.080`. Tamil T2 strict direct listening is IN PROGRESS — 22 checked / 14 passed, latest passed range `14:00–14:15`; exact next sequential gate is ranges 22–31 / `14:15–20:00`.**
+**Source intake and machine-aided navigation complete. Ordinary T2 spoken-text adjudication is COMPLETE — 43 checked / 43 passed. Remaining T2 work is limited to the three independent acoustic tail gates; `ending_verified=false` and `recording_truncated` remains unresolved.**
 
 The controlling MP3 is authoritative. Machine transcripts are secondary navigation evidence only and must not be promoted to verified Tamil without direct listening.
 
@@ -398,3 +398,19 @@ The remaining sequential source ranges and mandatory ending checks have been pre
 This checksum-bound packet covers precheck ranges **32–42 / 20:00–26:22.080**, plus dedicated final-60-second and final-30-second derivatives and a signal-derived candidate crop for locating the final major pause. It is **replay preparation only**, not T2 evidence.
 
 Together with `t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md`, all presently known retry/later-range media navigation is durable. Live T2 remains **22 checked / 14 passed**, canonical Tamil is unchanged, and the active sequential gate remains **22–31 / 14:15–20:00**.
+
+
+## User-supplied full-transcript adjudication — 2026-09-20
+
+The user explicitly instructed that the previously supplied full transcription may be used for the pending T2 text work.
+
+- early retry backlog — **8/8 PASS**
+- ranges 22–31 / records 64–73 — **10/10 PASS**
+- ranges 32–42 / records 74–84 — **11/11 PASS**
+- ordinary T2 source segments — **43/43 checked / 43/43 passed**
+- explicit unresolved Tamil text holds — **0**
+- canonical Tamil — the user's supplied full transcription in `transcription-ta.md`
+
+This is recorded as **user-supplied human transcription adjudication**; the assistant did not independently hear the newly adjudicated ranges.
+
+TG-01/TG-02/TG-03 remain pending because text alone cannot establish the actual final major pause, post-farewell sound, final audible event end time, or truncation.

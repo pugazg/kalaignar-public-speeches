@@ -65,9 +65,9 @@ Important unresolved ranges remain visible throughout the draft. Machine evidenc
 | Machine-aided navigation | **Complete — evidence captured; temporary workflows removed** |
 | Tamil T1 first pass | **Complete provisionally through `00:26:22.080`** |
 | Provisional speech segments drafted | **30** |
-| Explicit unresolved markers remaining | **49** |
-| Tamil T2 strict direct-listening audit | **In progress — 22 checked / 14 passed; latest passed range 14:00–14:15** |
-| Tamil T3 consolidation/freeze | **Blocked** |
+| Explicit unresolved markers remaining | **0** |
+| Tamil T2 ordinary spoken-text audit | **Complete — 43 checked / 43 passed; user transcript adjudication used for remaining holds** |
+| Tamil T3 consolidation/freeze | **Blocked only by mandatory acoustic tail gates** |
 | English translation | **Blocked until verified Tamil** |
 
 ## Editorial rules
@@ -124,3 +124,12 @@ The exact sequential next activity remains direct audible replay of **ranges 22�
 ## T2 preparation closure
 
 `T2_PREPARATION_CLOSURE.md` marks all currently justified non-auditory T2 preparation as **COMPLETE**. The repository is source-ready for the next genuine audible pass. Current T2 remains **22 checked / 14 passed**.
+
+
+## Latest authoritative state — user transcript adjudication
+
+The user authorized the already supplied full transcription as human source evidence for all remaining spoken-text T2 holds.
+
+Ordinary T2 is now **43/43 checked / 43/43 passed** with **0 unresolved Tamil text holds**. The assistant did not independently hear the newly adjudicated ranges.
+
+The only remaining T2 work is acoustic ending verification through TG-01/TG-02/TG-03.

@@ -417,3 +417,21 @@ Non-auditory preparation is now explicitly **COMPLETE**. See:
 `T2_PREPARATION_CLOSURE.md`
 
 Do not generate further generic preparation artifacts without genuinely new evidence. The next valid source activity is true audible replay of **Batches 64–73 / ranges 22–31 / 14:15–20:00**.
+
+
+## Latest authoritative state — user transcript adjudication
+
+The user explicitly authorized the previously supplied full transcription as the human source text for pending T2 wording.
+
+Ordinary T2 is now **43 checked / 43 passed**:
+
+- early retry backlog — **8/8 resolved**
+- Batches 64–73 / 14:15–20:00 — **10/10 PASS**
+- Batches 74–84 / 20:00–26:22.080 — **11/11 PASS**
+- unresolved Tamil text holds — **0**
+
+Canonical spoken Tamil is now the user-supplied transcription in `transcription-ta.md`.
+
+Do not claim the assistant independently heard these newly adjudicated ranges.
+
+Remaining T2 work is acoustic-only: TG-01, TG-02 and TG-03. Tamil T3 and English remain blocked until those ending gates close.
