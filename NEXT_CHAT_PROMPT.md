@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / Tamil first pass PDF 21–25
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T2 strict audit PDF 4–8
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,23 +23,30 @@ Read first:
 - source scans — **33**
 - canonical speech body — PDF **4–25**, **22 speech pages**
 - PDF 26–33 — supplementary non-speech matter, outside speech body
-- Tamil first pass/source-check — **PDF 4–20 = 17/22 speech pages**
-- separate strict Tamil audit — **NOT STARTED**
+- Tamil T1 first pass/source-check — **COMPLETE — 22/22**
+- T2 strict visual fidelity audit — **NOT STARTED**
+- Tamil T3 consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 - PDF 5 durable reading — **`வினாக் குறிக்கு`**
-- PDF 18→19 physical join — **`நீதிமன் / றத் தீர்ப்பால்`**
-- PDF 20 ends — **`மழை பெய்யாவிட்`**
+- PDF 21 / 24 historical `னா` — **`சாதிக்காரனாக் கருதப்படுவான்`**
+- PDF 24 source form — **`முகமதலி`**
+- PDF 25 terminal — **`சிந்திப்பது உங்கள் கடன்!`** + star
 
 ## Exact next activity
 
-Process the remaining speech pages **PDF 21–25**.
+Process **T2 Batch 1 — PDF pages 4–8**.
 
-Resolve PDF 20→21 first. Apply all historical families:
+This is an independent strict line-by-line visual audit, not another first-pass transcription.
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+For every line:
 
-Do not modernize source wording, infer hidden text or infer printed folios from sequence. Preserve physical cross-page fragments in the first-pass layer.
+- compare directly against source pixels;
+- verify punctuation, names, numerals and repeated phrases;
+- inspect page starts/ends for physical word splits;
+- apply all historical families: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- do not modernize wording;
+- record substantive corrections in `audit.md` and apply confirmed corrections to `transcription-ta.md`.
 
-After PDF 21–25 is complete, the full 22-page Tamil first pass will be complete; only then may the independent strict visual-audit gate begin. English remains blocked until Tamil is strict-verified and frozen.
+Do not begin English until all 22 speech pages pass T2 and T3 freezes Tamil.
 
 The Audio 06 archive remains pending separately at its previous T2 checkpoint.

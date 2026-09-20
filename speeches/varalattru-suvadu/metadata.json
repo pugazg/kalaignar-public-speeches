@@ -38,7 +38,7 @@
       "pdf_4_to_25": "public speech body — வரலாற்றுச் சுவடு",
       "pdf_26_to_33": "supplementary non-speech item — இன்றைய தமிழகமும் - குமுறும் எரிமலை!; outside speech body",
       "pdf_11_to_20": "public speech body — first-pass/source-checked",
-      "pdf_21_to_25": "public speech body — pending first-pass/source-check"
+      "pdf_21_to_25": "public speech body — first-pass/source-checked; PDF25 terminal speech page"
     }
   },
   "historical_tamil": {
@@ -66,17 +66,18 @@
     ]
   },
   "workflow": {
-    "tamil_transcription": "in-progress",
+    "tamil_transcription": "first-pass-complete",
     "speech_pages_total": 22,
-    "speech_pages_drafted": 17,
-    "source_checked_through_pdf_page": 20,
-    "historical_glyph_checked_through_pdf_page": 20,
+    "speech_pages_drafted": 22,
+    "source_checked_through_pdf_page": 25,
+    "historical_glyph_checked_through_pdf_page": 25,
     "tamil_visual_audit": "not-started-separate-gate",
     "tamil_strict_reaudit_pages_checked": 0,
     "tamil_consolidation": "blocked",
     "english_translation": "blocked-until-tamil-verified",
     "english_translation_review": "not-started",
     "first_pass_batch_2": "complete-pdf-11-to-20",
-    "remaining_first_pass_pdf_pages": "21-25"
+    "remaining_first_pass_pdf_pages": null,
+    "first_pass_batch_3": "complete-pdf-21-to-25"
   }
 }

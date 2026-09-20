@@ -52,13 +52,13 @@ Rejected: `வினக் குறிக்கு`, `வினைக் கு
 | Layer | Status |
 |---|---|
 | Source identification / page map | **Complete** |
-| Tamil transcription | **IN PROGRESS — 17/22 speech pages source-checked (PDF 4–20)** |
+| Tamil transcription | **FIRST-PASS COMPLETE — 22/22 speech pages source-checked (PDF 4–25)** |
 | Separate strict Tamil visual audit | **NOT STARTED** |
 | Tamil consolidation/freeze | **BLOCKED** |
 | English translation | **BLOCKED until Tamil is verified/frozen** |
 
-The first-pass text for PDF 4–10 was migrated from the mistakenly routed Essays workspace after direct scan review. PDF 11–20 has now been transcribed/source-checked directly in the Public Speeches workflow. Neither step promotes the text to the separate strict-audit gate.
+The first-pass text for PDF 4–10 was migrated from the mistakenly routed Essays workspace after direct scan review. PDF 11–25 was transcribed/source-checked directly in the Public Speeches workflow. T1 is now complete at 22/22 speech pages. This does not promote the text to the separate strict-audit gate.
 
 ## Exact next activity
 
-Continue **Tamil transcription with the remaining speech pages PDF 21–25**, beginning with the PDF 20→21 fragment **`மழை பெய்யாவிட்`**. Apply the historical-glyph guide to every page before making Unicode decisions.
+Begin **T2 strict visual fidelity audit with PDF pages 4–8**. Re-read every line against the scan and apply the historical-glyph guide independently; English remains blocked.

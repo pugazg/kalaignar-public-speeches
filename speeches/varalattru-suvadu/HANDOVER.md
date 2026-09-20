@@ -29,7 +29,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 ## Tamil state
 
 - speech body — PDF **4–25**, **22 pages**
-- first-pass/source-checked — PDF **4–20**, **17/22 speech pages**
+- first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
 - separate strict visual audit — **NOT STARTED**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
@@ -63,12 +63,26 @@ Key controls:
 
 Separate strict Tamil visual audit remains **NOT STARTED**.
 
+## Batch 3 durable checkpoint — PDF 21–25
+
+**COMPLETE / SOURCE-CHECKED — 5 pages.**
+
+- PDF 20→21 — **`மழை பெய்யாவிட் / டால்`**
+- PDF 21→22 — **`ஆண்டு வருமான / முள்ள`**
+- PDF 21 / 24 historical `னா` — **`சாதிக்காரனாக் கருதப்படுவான்`**
+- PDF 21 — **`சாதிக்காரனாக ஆக்கிவிட்டார்`**
+- PDF 24 source form — **`முகமதலி`**
+- PDF 25 terminal — **`சிந்திப்பது உங்கள் கடன்!`** + star
+- visible folios — PDF 21=20, PDF 22=21, PDF 23=22; PDF 24–25 no visible folio
+
+## T1 closure
+
+Tamil first pass is **COMPLETE — 22/22 speech pages (PDF 4–25)**.
+
+Separate T2 strict visual audit remains **NOT STARTED**. Tamil is not yet frozen. English remains blocked.
+
 ## Exact next activity
 
-Transcribe and source-check the remaining speech body **PDF pages 21–25**.
+**T2 Batch 1 — strict visual fidelity audit, PDF pages 4–8 (5 speech pages).**
 
-1. resolve PDF 20→21 beginning from **`மழை பெய்யாவிட்`**;
-2. apply the 13-family historical-glyph guide page by page;
-3. preserve printed spelling/grammar/punctuation and physical word fragments;
-4. do not infer hidden text or folios;
-5. do not begin the independent strict-audit gate or English until the 22-page first pass is complete.
+Compare every line against the scan; verify names, punctuation, numerals, repeated phrases, page boundaries and all 13 historical-glyph families. Record substantive corrections in `audit.md` and apply confirmed corrections to `transcription-ta.md`.

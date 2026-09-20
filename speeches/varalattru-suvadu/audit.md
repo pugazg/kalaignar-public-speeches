@@ -17,7 +17,7 @@ This speech was initially misrouted to `pugazg/kalaignar-essays`. That intake ha
 
 ## First-pass transcription progress
 
-PDF pages **4–20 — 17/22 speech pages transcribed and source-checked**.
+PDF pages **4–25 — 22/22 speech pages transcribed and source-checked — T1 COMPLETE**.
 
 Important durable readings:
 
@@ -72,6 +72,27 @@ Cross-page controls added:
 
 Historical-glyph family review was applied during this first-pass/source-check layer. The independent strict Tamil visual-audit gate remains **NOT STARTED**.
 
-## Next
+## Batch 3 — PDF pages 21–25 — COMPLETE / SOURCE-CHECKED
 
-Transcribe/source-check the remaining speech pages **PDF 21–25**. Do not begin the separate strict audit or English yet.
+| PDF | Source-supported reading / action |
+|---:|---|
+| 21 | PDF 20 **`மழை பெய்யாவிட்`** + PDF 21 **`டால்`**; historical `னா` decoded in **`சாதிக்காரனாக் கருதப்படுவான்`** and **`சாதிக்காரனாக ஆக்கிவிட்டார்`**; printed folio **20** |
+| 22 | PDF 21 **`ஆண்டு வருமான`** + PDF 22 **`முள்ள`**; interview dialogue and **`ஃபிரிஜ் / பார்ட்ஸ்கள் / அம்பாசிடர்`** retained; printed folio **21** |
+| 23 | **`வ. சுப. மாணிக்கம்`**, **`தூத்துக்குடி`**, Tirukkural quotations and opposition-party passage source-checked; printed folio **22** |
+| 24 | historical `னா` decoded in **`சாதிக்காரனாக் கருதப்படுவான்`**; source form **`முகமதலி`** retained; no visible printed folio |
+| 25 | speech terminal verified: **`சிந்திப்பது உங்கள் கடன்!`** + star; no visible printed folio |
+
+### T1 closure
+
+- complete speech body — **PDF 4–25 / 22 pages**
+- T1 first-pass/source-check — **22/22 COMPLETE**
+- historical-glyph page pass — **through PDF 25**
+- speech terminal — **verified**
+- T2 strict visual fidelity audit — **NOT STARTED**
+- English — **BLOCKED**
+
+## Exact next activity
+
+Begin **T2 strict visual fidelity audit — Batch 1: PDF pages 4–8 (5 speech pages)**.
+
+Re-read every line against the scan, with the historical-glyph guide active. Log substantive corrections in this audit and apply confirmed corrections to `transcription-ta.md`. Do not begin English.
