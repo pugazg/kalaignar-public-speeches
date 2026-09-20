@@ -367,3 +367,12 @@ The next ten direct-listening records now have a preparation-only worksheet:
 `t2-batches/direct-listening-record-templates-64-73.md`
 
 It maps batches **64–73** to precheck ranges **22–31 / 14:15–20:00**, including replay hashes and the exact candidate conflicts that must be settled audibly. Every record remains explicitly **PENDING / unchecked / unpassed** until true replay occurs. This preparation does not change the live state of **22 checked / 14 passed**.
+
+
+## Pending record templates — batches 74–84
+
+The later sequential source ranges now have a preparation-only worksheet:
+
+`t2-batches/direct-listening-record-templates-74-84.md`
+
+It maps batches **74–84** to precheck ranges **32–42 / 20:00–26:22.080**. Every record is explicitly **PENDING / unchecked / unpassed** until true audible replay. Batch 84 reaches the decoded end but does not replace the separate final-60-second, final-30-second or final-major-pause gates.

@@ -104,3 +104,8 @@ The exact sequential next activity remains direct audible replay of **ranges 22�
 ## Pending direct-listening record templates
 
 `t2-batches/direct-listening-record-templates-64-73.md` prepares the ten expected direct-listening records for ranges **22–31 / 14:15–20:00**. It contains no source-heard findings and does not increment T2 counters. Live state remains **22 checked / 14 passed**.
+
+
+## Pending later-range record templates
+
+`t2-batches/direct-listening-record-templates-74-84.md` prepares the expected records for ranges **32–42 / 20:00–26:22.080**. These are template-only and do not alter T2 counters. The dedicated tail gates remain separate.

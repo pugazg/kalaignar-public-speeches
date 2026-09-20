@@ -29,6 +29,7 @@ Read first:
 9. `t2-batches/companion-transcript-crosscheck-ranges-32-41.md`
 10. `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
 11. `t2-batches/direct-listening-record-templates-64-73.md`
+12. `t2-batches/direct-listening-record-templates-74-84.md`
 
 ## Durable T2 state
 
@@ -107,3 +108,10 @@ Exact sequential next activity remains **ranges 22–31 / 14:15–20:00**. Befor
 Use `speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-record-templates-64-73.md` when genuine playback is available. The file is preparation-only: all ten records are marked **PENDING**, with no findings or counter changes.
 
 The direct-listening baseline remains **22 checked / 14 passed** until the audio is actually replayed.
+
+
+## Pending records 74–84 prepared
+
+`speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-record-templates-74-84.md` now prepares ranges **32–42 / 20:00–26:22.080**. All records remain **PENDING** and are not T2 evidence.
+
+Do not use batches 74–84 until ranges 22–31 have actually been replayed and live counters are synchronized.
