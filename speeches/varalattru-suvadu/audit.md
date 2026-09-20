@@ -91,8 +91,36 @@ Historical-glyph family review was applied during this first-pass/source-check l
 - T2 strict visual fidelity audit — **NOT STARTED**
 - English — **BLOCKED**
 
+## T2 Batch 1 — PDF pages 4–8 — COMPLETE / PASS
+
+Independent line-by-line source review completed for **5/22 speech pages**.
+
+| PDF | T1 reading | T2 source-supported reading / action |
+|---:|---|---|
+| 4 | `பலத்தகைத்தட்டல்` | **`பலத்தகைதட்டல்`** |
+| 5 | `பெயருக் கேற்ப` | printer line-wrap joins to **`பெயருக்கேற்ப`** |
+| 6 | `சிறப்புக்கள் எல்லாம்` | **`சிறப்புக்களெல்லாம்`** |
+| 8 | `பன்னெடுங்காலத்திற்கு` | **`பன்னெடுங் காலத்திற்கு`** |
+| 8 | `முதலிசைகள் மூலமாக` | **`முதலிசைகளை மூலமாக`** |
+| 8 | `அந்த உதடுகள் திறக்கிற போது` | historical `ளை` identity gives **`அந்த உதடுகளைத் திறக்கிற போது`** |
+| 8 | `ஒியாகி` | **`ஒலியாகி`** |
+| 8 | `கொஞ்சைத் தமிழாக` | **`கொச்சைத் தமிழாக`** |
+| 8 | `வரலாறுகளைப் படிக்க` | source has **`வரலாறுகளை படிக்க`** |
+| 8 | `அவைகளெல்லாம்` | **`அவைகளையெல்லாம்`** |
+
+### Batch result
+
+- PDF pages checked — **5**
+- substantive corrections applied — **10**
+- unresolved readings — **0**
+- historical-glyph family review — **PASS**
+- page-boundary check — **PASS**
+- PDF 4→5 **`மாண்பைக் / குறிக்கின்ற ஒன்று!`** — retained
+- PDF 5→6 **`பேரவை / தொடக்க விழாவுக்கு`** — retained
+- PDF 8 terminal **`மாநாட்டில்`** → PDF 9 continuation remains queued for Batch 2
+
 ## Exact next activity
 
-Begin **T2 strict visual fidelity audit — Batch 1: PDF pages 4–8 (5 speech pages)**.
+Process **T2 Batch 2 — PDF pages 9–13 (5 speech pages)**.
 
-Re-read every line against the scan, with the historical-glyph guide active. Log substantive corrections in this audit and apply confirmed corrections to `transcription-ta.md`. Do not begin English.
+Re-read every line directly against the source images, with the historical-glyph guide active. Record and apply only source-supported corrections. English remains blocked.

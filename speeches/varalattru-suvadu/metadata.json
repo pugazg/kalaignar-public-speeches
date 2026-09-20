@@ -71,13 +71,18 @@
     "speech_pages_drafted": 22,
     "source_checked_through_pdf_page": 25,
     "historical_glyph_checked_through_pdf_page": 25,
-    "tamil_visual_audit": "not-started-separate-gate",
-    "tamil_strict_reaudit_pages_checked": 0,
+    "tamil_visual_audit": "in-progress",
+    "tamil_strict_reaudit_pages_checked": 5,
     "tamil_consolidation": "blocked",
     "english_translation": "blocked-until-tamil-verified",
     "english_translation_review": "not-started",
     "first_pass_batch_2": "complete-pdf-11-to-20",
     "remaining_first_pass_pdf_pages": null,
-    "first_pass_batch_3": "complete-pdf-21-to-25"
+    "first_pass_batch_3": "complete-pdf-21-to-25",
+    "tamil_strict_reaudit_through_pdf_page": 8,
+    "tamil_strict_reaudit_batch_1": "pass-pdf-4-to-8",
+    "tamil_strict_reaudit_corrections": 10,
+    "tamil_strict_reaudit_unresolved": 0,
+    "next_tamil_activity": "T2 strict visual audit PDF 9-13"
   }
 }

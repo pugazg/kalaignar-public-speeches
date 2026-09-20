@@ -30,7 +30,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 
 - speech body — PDF **4–25**, **22 pages**
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
-- separate strict visual audit — **NOT STARTED**
+- T2 strict visual audit — **IN PROGRESS — 5/22 PASS (PDF 4–8)**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 
@@ -79,10 +79,22 @@ Separate strict Tamil visual audit remains **NOT STARTED**.
 
 Tamil first pass is **COMPLETE — 22/22 speech pages (PDF 4–25)**.
 
-Separate T2 strict visual audit remains **NOT STARTED**. Tamil is not yet frozen. English remains blocked.
+Separate T2 strict visual audit is **IN PROGRESS — 5/22 PASS**. Tamil is not yet frozen. English remains blocked.
+
+## T2 Batch 1 durable checkpoint — PDF 4–8
+
+**COMPLETE / PASS — 5/5 pages.**
+
+Corrections applied:
+
+- PDF 4 — **`பலத்தகைதட்டல்`**
+- PDF 5 — **`பெயருக்கேற்ப`**
+- PDF 6 — **`சிறப்புக்களெல்லாம்`**
+- PDF 8 — **`பன்னெடுங் காலத்திற்கு`**, **`முதலிசைகளை`**, **`உதடுகளைத்`**, **`ஒலியாகி`**, **`கொச்சைத்`**, **`வரலாறுகளை படிக்க`**, **`அவைகளையெல்லாம்`**
+- unresolved — **0**
 
 ## Exact next activity
 
-**T2 Batch 1 — strict visual fidelity audit, PDF pages 4–8 (5 speech pages).**
+**T2 Batch 2 — strict visual fidelity audit, PDF pages 9–13 (5 speech pages).**
 
-Compare every line against the scan; verify names, punctuation, numerals, repeated phrases, page boundaries and all 13 historical-glyph families. Record substantive corrections in `audit.md` and apply confirmed corrections to `transcription-ta.md`.
+Begin with the PDF 8→9 continuation after **`மாநாட்டில்`**. Compare every line against source pixels, verify all historical-glyph families, punctuation, names, numerals and page-boundary joins, and apply only source-supported corrections.

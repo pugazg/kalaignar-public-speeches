@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T2 strict audit PDF 4–8
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T2 strict audit PDF 9–13
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,23 +20,31 @@ Read first:
 
 ## Durable state
 
-- source scans — **33**
 - canonical speech body — PDF **4–25**, **22 speech pages**
-- PDF 26–33 — supplementary non-speech matter, outside speech body
-- Tamil T1 first pass/source-check — **COMPLETE — 22/22**
-- T2 strict visual fidelity audit — **NOT STARTED**
+- Tamil T1 — **COMPLETE — 22/22**
+- T2 Batch 1 — **PDF 4–8 COMPLETE / PASS**
+- cumulative T2 — **5/22 PASS**
+- Batch-1 corrections — **10**
+- Batch-1 unresolved — **0**
 - Tamil T3 consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
-- PDF 5 durable reading — **`வினாக் குறிக்கு`**
-- PDF 21 / 24 historical `னா` — **`சாதிக்காரனாக் கருதப்படுவான்`**
-- PDF 24 source form — **`முகமதலி`**
-- PDF 25 terminal — **`சிந்திப்பது உங்கள் கடன்!`** + star
+
+Key Batch-1 corrections:
+
+- PDF 4 — `பலத்தகைதட்டல்`
+- PDF 5 — `பெயருக்கேற்ப`
+- PDF 6 — `சிறப்புக்களெல்லாம்`
+- PDF 8 — `பன்னெடுங் காலத்திற்கு`, `முதலிசைகளை`, `உதடுகளைத்`, `ஒலியாகி`, `கொச்சைத்`, `வரலாறுகளை படிக்க`, `அவைகளையெல்லாம்`
+
+Durable earlier reading:
+
+- PDF 5 — **`வினாக் குறிக்கு`**, historical `னா`; reject `வினக்` / `வினைக்`
 
 ## Exact next activity
 
-Process **T2 Batch 1 — PDF pages 4–8**.
+Process **T2 Batch 2 — PDF pages 9–13**.
 
-This is an independent strict line-by-line visual audit, not another first-pass transcription.
+Begin by checking the PDF 8→9 continuation after **`மாநாட்டில்`**.
 
 For every line:
 
