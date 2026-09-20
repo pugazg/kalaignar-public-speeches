@@ -339,7 +339,25 @@
     "lead_in_passed": false,
     "main_speech_opening_passed": true,
     "iteration_batch_size": 10,
-    "latest_iteration": "records 54-63; precheck ranges 12-21; 09:25-14:15; 10/10 passed"
+    "latest_iteration": "records 54-63; precheck ranges 12-21; 09:25-14:15; 10/10 passed",
+    "active_next_ranges": {
+      "precheck_ranges": "22-31",
+      "interval": "14:15-20:00",
+      "evidence_required": "true audible replay of checksum-matching controlling MP3"
+    },
+    "replay_preparation": {
+      "early_retry_manifest": "t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md",
+      "early_retry_targets": 8,
+      "early_retry_scope": "lead-in plus batches 44,45,47,48,49,51,52",
+      "later_and_tail_manifest": "t2-batches/direct-listening-replay-manifest-ranges-32-42-tail.md",
+      "later_range_scope": "precheck ranges 32-42 / 20:00-26:22.080",
+      "mandatory_tail_derivatives_prepared": [
+        "final-60-seconds",
+        "final-30-seconds",
+        "final-pause-navigation-candidate"
+      ],
+      "evidence_class": "preparation-only; does not increment T2 checked/passed counters"
+    }
   },
   "workflow": {
     "source_inspection": "complete",

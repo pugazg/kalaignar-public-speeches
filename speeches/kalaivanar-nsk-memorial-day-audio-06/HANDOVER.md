@@ -252,11 +252,11 @@ T2 must resolve directly from the source:
 
 All 42 textual/ASR prechecks remain complete. The earlier execution gate was superseded when the checksum-matching MP3 was reattached with genuine audible playback. Batch 43 therefore began strict direct listening from `00:00`; the historical decision not to count earlier machine-transcript/file-analysis work as T2 remains valid.
 
-Do **not** infer T2 progress from the prechecks themselves. Genuine direct-listening state is now **12 checked / 4 passed**. The main-speech opening and three later ranges have passed, while the announcer lead-in and several localized phrases remain partly unresolved; the complete opening gate, ending and `recording_truncated` remain unresolved.
+Do **not** infer T2 progress from the prechecks themselves. At the historical checkpoint immediately after records 44–53, genuine direct-listening state was **12 checked / 4 passed**. The current live state is recorded below under the direct-listening cadence checkpoint.
 
-## Latest direct-listening result
+## Historical direct-listening checkpoint — through records 44–53
 
-Batch 43 (`00:00–01:10`) established the first genuine T2 checkpoint and confirmed the main-speech opening. Records 44–53 then completed the first user-directed 10-batch iteration through `09:25`. Cumulative state is now **12 checked / 4 passed**; checked-but-unresolved phrases remain on the retry list and the opening gate is not yet complete.
+Batch 43 (`00:00–01:10`) established the first genuine T2 checkpoint and confirmed the main-speech opening. Records 44–53 then completed the first user-directed 10-batch iteration through `09:25`. At that checkpoint the cumulative state was **12 checked / 4 passed**; checked-but-unresolved phrases remained on the retry list and the opening gate was not yet complete.
 
 Records: `t2-batches/batch-43-direct-listening-audit-00-00-01-10.md` through `t2-batches/batch-53-direct-listening-audit-08-38-09-25.md`.
 
