@@ -502,3 +502,8 @@ Ordinary Tamil T2 spoken-text adjudication is **COMPLETE — 43/43 checked / 43/
 ### Audio 06 English state
 
 `speeches/kalaivanar-nsk-memorial-day-audio-06/translation-en.md` now has a complete **E1 first-pass English translation** from the T3-frozen Tamil. E2 fidelity review is next; English is not yet verified-complete.
+
+
+### Audio 06 English E2
+
+Audio 06 English fidelity review is **COMPLETE** with **10 confirmed corrections consolidated** and **0 unresolved E2 findings**. E3 final end-to-end verification is ready.

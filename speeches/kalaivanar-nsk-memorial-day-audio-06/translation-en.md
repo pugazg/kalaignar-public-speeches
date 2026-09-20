@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — Audio 06 — English Translation
 
-> **Status:** **E1 FIRST-PASS COMPLETE — fidelity review (E2) pending**  
+> **Status:** **E2 FIDELITY REVIEW COMPLETE — confirmed corrections consolidated; E3 pending**  
 > **Source layer:** `transcription-ta.md` — **VERIFIED-COMPLETE / T3 FROZEN**  
 > **Translation rule:** Translate only from the frozen Tamil layer; preserve rhetoric, repetition, historical/political language, titles, source-supported oddities, and distinctions as faithfully as practical. Do not silently modernize or repair the Tamil.  
 > **Audio boundary:** `00:26:22.080`; speech ends naturally at `வணக்கம்`, followed by applause.
@@ -41,7 +41,9 @@ When I heard that familiar voice, I stopped the conversation with the manager of
 
 “Who is this—Kannadasan?” I asked.
 
-“Yes. How did you get onto this phone?” I asked.
+“Yes,” he said.
+
+“How did you get onto this phone?” I asked.
 
 “I phoned someone else,” he said.
 
@@ -71,7 +73,7 @@ Then, when speaking of Kalaivanar’s role in the film, Anna said that Kalaivana
 
 Kalaivanar possessed the skill of giving political, economic and social ideas to the people the way medicine is mixed into honey and given to someone.
 
-After Kalaivanar came the actor-singer scholar K. R. Ramasamy; Nadigavel M. R. Radha, who could present Periyar’s ideas in revolutionary form; the Muthamizh Kala Vidwarathna T. K. S. brothers, who brought social-reform dramas to the country and won distinction; our Lakshiya Nadigar Rajendran, who, from within their company, fought for the need for still more revolutionary stories; Nadigamani T. V. Narayanasamy; and my friend Sivaji Ganesan, who first gave a lion’s roar in the conviction that revolutionary ideas would gain strength only when spoken by this tongue.
+After Kalaivanar came K. R. Ramasamy, a scholar of acting and music; Nadigar Vel M. R. Radha, who could present Periyar’s ideas in revolutionary form; the Muthamizh Kala Vidwarathna T. K. S. brothers, who brought social-reform dramas to the country and won distinction; our Lakshiya Nadigar Rajendran, who, from within their company, fought for the need for still more revolutionary stories; Nadigamani T. V. Narayanasamy; and my friend Sivaji Ganesan, who first gave a lion’s roar in the conviction that revolutionary ideas would gain strength only when spoken by this tongue.
 
 All of them belonged to that line of people who made the ideas of Periyar and Perarignar Anna echo on theatre stages and in cinema halls.
 
@@ -81,7 +83,7 @@ When Anna called, they would run to him at once. They had such respect for Anna 
 
 I have so many memories, so many fresh thoughts.
 
-The great people of the art world seated here came forward to carry the movement’s ideas through art. Today poet Kannadasan may belong to another movement, or he may be speaking for another policy. He may recommend that I praise Krishna. But I do not think Sri Krishna’s condition is quite so pitiable.
+The great people of the art world seated here are here to carry the movement’s ideas through art. Today poet Kannadasan may belong to another movement, or he may be speaking for another policy. He may recommend that I praise Krishna. But I do not think Sri Krishna’s condition is quite so pitiable.
 
 Nor do I understand Paramatma Krishna to be in such a pitiable state that Kannadasan must recommend to me, “You accept Krishna.”
 
@@ -105,7 +107,7 @@ After seeing me they said: “We were so frightened by the name; but when we see
 
 Only after all the people in that *agraharam* agreed did I buy that house there, twenty years ago.
 
-## [14:15–17:47] Sivaji, benefit performances, and art in politics
+## [14:15–17:15] Sivaji, benefit performances, and art in politics
 
 Why am I telling you all this? From the time when we tried to carry our ideas through the art world down to the present, even though many of us gained no benefit from it, and even though many today no longer remain in the same place or hold to the same policy, the policy itself still remains, does it not?
 
@@ -119,7 +121,7 @@ For cyclone-relief funds, flood-relief funds, drought-relief funds, Kazhagam ele
 
 All of us worked to expand the art world, but we were not people who thought that art itself should be turned into politics.
 
-Politics needs art. N. S. K. made that one of the aims of his life; Anna did too. Art is indeed needed to carry political ideas.
+Politics needs art. N. S. K. made that the aim of his life; Anna did too. Art is indeed needed to carry political ideas.
 
 Why do we say that, rather than state everything baldly, there should be beauty in words? Why do we say there should be beauty in speech? Why do we say there should be beauty in writing?
 
@@ -131,11 +133,13 @@ Politics needs art; but art itself is not politics.
 
 Women need jewellery; but jewellery itself is not women.
 
-## [17:47–20:30] The Tirukkural, children, and what remains after a person
+## [17:15–21:04] The Tirukkural, children, and what remains after a person
 
 Therefore, as Sivaji pointed out, art may be used for good purposes, and it may also be used for evil purposes. But only art used for a good purpose can truly be art. That art must live; that art must be nurtured. The late great genius and towering figure of the art world, Kalaivanar N. S. K., held to that noble aim.
 
 “Whether one is worthy or unworthy is known by what remains after them”—that is the Tirukkural.
+
+> **Translator note:** The frozen Tamil quotation begins `தற்கார் தகவிலர்`, an unusual source form. The English gives the contextual sense argued by the speaker while preserving the exact frozen Tamil here rather than silently normalizing it.
 
 Valluvar said that whether a person is good or not good, worthy or unworthy, can be judged by what remains behind after that person.
 
@@ -161,13 +165,13 @@ What remains means the fame that remains after them; the wealth they leave behin
 
 Viewed that way, after Kalaivanar, our gathering here to praise him and honour him, and our recounting how his rare ideas were expressed through humour—these too are things he left behind.
 
-## [20:30–22:52] Avadi, *Vilaangu Manithan*, and the 1947 radio episode
+## [21:04–22:52] Avadi, *Vilaangu Manithan*, and the 1947 radio episode
 
 As an example of the kinds of people found even in politics, he was invited to the Congress conference held at Avadi. At that enormous conference at Avadi, Kalaivanar was invited to stage a play.
 
 There he performed a play called *Vilaangu Manithan*.
 
-A *vilaangu*, he explained, is a kind of aquatic creature that shows a snake’s head and a fish’s tail.
+A *vilaangu*, he explained, is a kind of aquatic creature that shows its head to the snake and its tail to the fish.
 
 In the play titled *Vilaangu Manithan*, Kalaivanar appears as a hotel-keeper. If he sees that people in khadi shirts are coming, he takes out a picture of Gandhi or Kamaraj and puts it up. Once they have eaten and left, if he sees people in black shirts coming, he takes out a picture of Periyar or Anna and puts that up instead.
 
@@ -185,11 +189,11 @@ Nadigar Thilagam Sivaji made a very beautiful point. He said that if actors and 
 
 People from every party praised Kalaivanar: Jeevanandam of the Communist Party; Silambu Selvar M. Po. Si. of the Tamil Arasu Kazhagam; leaders of the Congress Party; leaders of many different parties.
 
-Yet Kalaivanar’s own thinking was this: even if he was personally friendly with people in other parties, when the moment came for victories to be won, those victories should be victories for the Dravidian movement.
+Yet Kalaivanar’s own thinking was this: even if he was personally friendly with others, when the moment came for victories to be won, those victories should be victories for the Dravidian movement.
 
 That is why, at election time, he wanted Anna to win, Lakshiya Nadigar Rajendran to win, me to win, and Kazhagam comrades to win. There was no place he did not travel to for that purpose; there was no place where his *villuppaattu* did not take place.
 
-When Navalar lost his chance of victory in Salem even after Kalaivanar had campaigned for him, Kalaivanar N. S. K. wept bitterly.
+When Navalar lost his chance of victory in Salem even after Kalaivanar had campaigned for him, Kalaivanar N. S. K. wept and wailed.
 
 That was how much family affection Kalaivanar had stored within this movement.
 
@@ -233,5 +237,5 @@ Thank you. Vanakkam.
 2. The unusual opening announcement and the frozen Tamil phrase `குட்டை உடைத்து விட்டார்` are preserved transparently rather than silently repaired.
 3. Proper-name titles such as Periyar, Perarignar Anna, Nadigar Thilagam, Lakshiya Nadigar, Nadigavel, Nadigamani, Silambu Selvar and the work/title forms `Injippaththare Mel`, `Vanjippaththan`, `Injippaththan`, and `Vilaangu Manithan` are retained rather than replaced with speculative identifications.
 4. `எச்சம்` is rendered contextually as “what remains” / “things left behind” because the speech itself explicitly argues against reading it merely as “children.”
-5. The card-game passage contains compressed spoken syntax in the frozen Tamil. E1 preserves its sequence and humour without adding identities or actions not present in the frozen source.
-6. This is a first-pass translation. It is **not yet fidelity-verified**; E2 must compare every paragraph against the frozen Tamil before any English corrections are consolidated.
+5. The card-game passage contains compressed spoken syntax in the frozen Tamil. Where English supplies Kannadasan as the implied subject in the money-loss sequence, that subject is inferred transparently from the immediately surrounding anecdote; no new event is added.
+6. E2 has compared every frozen-Tamil speech paragraph against the English, and all confirmed fidelity corrections are consolidated here. E3 final end-to-end verification remains pending.

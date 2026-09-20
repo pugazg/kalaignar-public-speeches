@@ -505,3 +505,21 @@ English first-pass translation is now complete in `translation-en.md`.
 - E3 — **BLOCKED**
 
 Exact next activity: **English E2 independent fidelity review against frozen Tamil**.
+
+
+## English E2 fidelity review — COMPLETE
+
+Full frozen-Tamil → English fidelity review is complete.
+
+- Tamil speech paragraphs reviewed — **18/18**
+- English navigation sections reviewed — **10/10**
+- confirmed E2 corrections — **10**
+- unresolved E2 findings — **0**
+- corrections consolidated into `translation-en.md` — **Yes**
+- `translation-review.md` — **COMPLETE**
+- E3 — **READY / NOT STARTED**
+- English verified-complete — **No**
+
+Key corrections include the crossed-phone speaker turn, source-bound artist wording, K. R. Ramasamy / M. R. Radha title fidelity, N. S. K. life-goal strength, navigation joins, the frozen Tirukkural oddity note, the `விலாங்கு` head/tail relation, removal of an inferred “other parties,” and restoration of `கதறினார்` as “wailed.”
+
+Exact next activity: **English E3 final end-to-end verification**.

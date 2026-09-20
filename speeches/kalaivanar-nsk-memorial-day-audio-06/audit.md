@@ -481,3 +481,17 @@ Result: **COMPLETE**
 - E2 fidelity review — **not yet performed**
 
 English remains not verified-complete until E2 findings are consolidated and E3 passes.
+
+
+## English E2 fidelity review
+
+Result: **COMPLETE**
+
+- full frozen-Tamil comparison — **18/18 speech paragraphs**
+- English sections — **10/10 reviewed**
+- confirmed corrections — **10**
+- unresolved findings — **0**
+- corrections consolidated into `translation-en.md` — **Yes**
+- E3 — **READY / NOT STARTED**
+
+Correction ledger: `translation-review.md`.
