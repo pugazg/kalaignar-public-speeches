@@ -32,7 +32,8 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
 - T2 strict visual audit — **COMPLETE / PASS — 22/22 (PDF 4–25)**
 - T3 Tamil consolidation/freeze — **COMPLETE / PASS**
-- English E1 — **COMPLETE — 22/22 translated (PDF 4–25)**
+- English E1 — **COMPLETE — 22/22**
+- English E2 — **COMPLETE / PASS — 22/22, 13 corrections / 0 unresolved**
 
 Durable source controls:
 
@@ -182,18 +183,31 @@ Corrections applied:
 
 **COMPLETE — 22/22 speech pages translated (PDF 4–25).**
 
-Batch coverage:
+Batch coverage: PDF 4–8 / 9–13 / 14–18 / 19–23 / 24–25.
 
-- Batch 1 — PDF 4–8
-- Batch 2 — PDF 9–13
-- Batch 3 — PDF 14–18
-- Batch 4 — PDF 19–23
-- Batch 5 — PDF 24–25
+## English E2 fidelity review
 
-Translation authority was the frozen Tamil `transcription-ta.md` only. E2 fidelity review has not yet started.
+**COMPLETE / PASS — 22/22 pages.**
+
+- corrections applied — **13**
+- unresolved — **0**
+- frozen Tamil authority unchanged
+
+Key E2 corrections included:
+
+- PDF 7 — Lemuria rendered as lying **adjoining** India and Sri Lanka, not “joining” them;
+- PDF 9 — unusual frozen Tamil `இவைகளே அன்னியில்` explicitly noted rather than silently normalized;
+- PDF 11 — source-present **“these two cultures exist in India”** restored;
+- PDF 12 — rhetorical strength restored as **“utterly hated the arts”**;
+- PDF 13 — animal/insect imagery made more literal;
+- PDF 17 — kinship chain clarified; `தொழிற் கல்லூரி` rendered **technical college**;
+- PDF 19 — source numbering retained as **15-4 / 16-4**;
+- PDF 20 — repeated employment wording retained and `9000 ஆயிரம்` preserved with a source note instead of silently normalizing to 9,000;
+- PDF 22 — repeated **“abolish—abolish”** rhetoric restored;
+- PDF 25 — unusual `எவனுவது` explicitly noted.
 
 ## Exact next activity
 
-Perform **English E2 full page-by-page fidelity review — PDF 4–25**.
+Perform **English E3 final end-to-end verification — PDF 4–25**.
 
-Compare every English paragraph against frozen Tamil for omissions, additions, reversed meaning, softened/strengthened rhetoric, names/titles, numerals, quotation boundaries and page-boundary continuations. Record corrections in `translation-review.md`, apply confirmed corrections to `translation-en.md`, and only then move to E3.
+Verify page coverage/order, every cross-page continuation, E2 corrections, names/numerals/percentages, quotation markers, applause/laughter markers, and source-sensitive notes. Only after E3 passes may English be marked `verified-complete`.

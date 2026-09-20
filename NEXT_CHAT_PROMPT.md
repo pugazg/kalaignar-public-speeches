@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / English E2 full fidelity review
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / English E3 final verification
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,25 +19,25 @@ Read first:
 ## Durable state
 
 - Tamil — **`verified-complete` / FROZEN — 22/22**
-- English E1 — **COMPLETE — PDF 4–25 / 22/22**
-- E2 — **READY / NOT STARTED**
-- E3 — **NOT STARTED**
+- English E1 — **COMPLETE — 22/22**
+- English E2 — **COMPLETE / PASS — 22/22**
+- E2 corrections — **13**
+- E2 unresolved — **0**
+- English E3 — **READY / NOT STARTED**
 
 ## Exact next activity
 
-Perform **English E2 full page-by-page fidelity review — PDF 4–25** against frozen Tamil.
+Perform **English E3 final end-to-end verification — PDF 4–25**.
 
-Check every page for:
+Verify:
 
-- omitted clauses or paragraphs;
-- added ideas;
-- reversed or shifted meaning;
-- softened or strengthened rhetoric;
-- names, titles, numerals and percentages;
-- quotation and applause/laughter markers;
-- page-boundary continuations;
-- source-sensitive oddities that must not be silently normalized.
+- all 22 English page headings occur exactly once and in order;
+- every Tamil paragraph/heading has English coverage;
+- page-boundary continuations remain intact;
+- all 13 E2 corrections are present;
+- names, titles, numerals, percentages and quotation markers are consistent;
+- applause/laughter markers are preserved;
+- source-sensitive notes for `இவைகளே அன்னியில்`, `9000 ஆயிரம்`, and `எவனுவது` remain;
+- no stale pre-E2 wording survives.
 
-Record confirmed corrections in `translation-review.md` and consolidate them into `translation-en.md`.
-
-Only after E2 closes should E3 final end-to-end verification begin.
+If and only if this passes, mark English **`verified-complete`**, set final verification complete, synchronize controls, and close the speech archive.

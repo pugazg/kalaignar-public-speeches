@@ -1,6 +1,6 @@
 # வரலாற்றுச் சுவடு — English translation
 
-> **Status:** E1 first-pass translation **IN PROGRESS — PDF pages 4–8 = 5/22 speech pages translated**  
+> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF 4–25 / 22/22**, with **13 corrections / 0 unresolved**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **Translation rule:** Translate only from the frozen Tamil layer, preserving page sequence, rhetoric, repetition, applause/laughter markers, historical names/titles, and source-sensitive wording. Do not silently modernize or fact-correct the source.
 
@@ -62,7 +62,7 @@ It was in that address, “By the Riverbank,” that he said: “It was a mistak
 
 ### PDF page 7
 
-The reason he said so was that he also cited the record describing the Tamil people as the ancient people who “arose before stone appeared, before earth appeared.” The Lemuria continent, which joined India and Sri Lanka, was at one time lost to a sea-deluge. That place too has the qualification for history to begin from there.
+The reason he said so was that he also cited the record describing the Tamil people as the ancient people who “arose before stone appeared, before earth appeared.” The Lemuria continent, which lay adjoining India and Sri Lanka, was at one time lost to a sea-deluge. That place too has the qualification for history to begin from there.
 
 As early as twenty-one years before the birth of Christ, Thirumavalavan Karikala Peruvallattan ruled with Puhar and Uraiyur as his capitals, with fame known across the earth!
 
@@ -99,7 +99,7 @@ At the conference held in Virugambakkam, Chennai, Perarignar Anna, with Rajaji, 
 
 “Whether I come to power or not, whether I am in office or out of office, my movement still has work to do for Tamil Nadu for another fifty years. We must complete that work. Whether we are in office or not, we will continue to discharge those duties. We must work so that the traditions of the Tamils are preserved, their honour is upheld, their history does not fade, and Tamil literature is protected from another destruction.”
 
-Even if we have forgotten histories from a thousand years ago, we may console ourselves by saying that they belong to a very ancient age and that is why we forgot them.
+Even if we have forgotten histories from a thousand years ago, we may console ourselves by saying that they belong to a very ancient age and that is why we forgot them. [The frozen Tamil begins this sentence with the unusual form `இவைகளே அன்னியில்`; the sense is rendered contextually rather than silently replacing that printed form.]
 
 But today we are in a position where we have forgotten even the history of sixty or seventy years.
 
@@ -143,7 +143,7 @@ Pandit Nehru, in a letter written from prison to his daughter Indira Priyadarshi
 
 Therefore, historians including Raghava Iyengar, and scholars from the Brahmin community, have all accepted that two cultures—Aryan culture and Dravidian culture—once existed in India!
 
-Because we say this, someone may, if they wish, paint it in other colours. But these two cultures existed in India.
+Because we say this, someone may, if they wish, paint it in other colours. Thus, these two cultures exist in India.
 
 The peoples of these two cultures also have two different linguistic relationships!
 
@@ -155,7 +155,7 @@ Sanskrit—and the various Hindi languages considered to have arisen in associat
 
 Such cultures exist. As far as Tamil Nadu is concerned, conditions changed to the point where one culture came to dominate another. Although those who came and settled here were fewer in number, their culture grew strong because they spread it through education, displays, books, God, and religious propaganda publications!
 
-Many people tried to spread Dravidian culture, but because the great scholars engaged in that effort belonged to the Buddhist and Jain traditions, they had no liking for the arts. They utterly rejected the arts.
+Many people tried to spread Dravidian culture, but because the great scholars engaged in that effort belonged to the Buddhist and Jain traditions, they had no liking for the arts. They utterly hated the arts.
 
 But Vaishnavism, Saivism, and similar traditions were accepted by Aryan culture, and because language, arts, books, displays, and all these means were used, the culture of those who were smaller in number began to take root in Tamil Nadu. Not only did it begin to take root; the much larger population on the other side made themselves into people without education, people who considered even going to school a betrayal of God.
 
@@ -167,7 +167,7 @@ But if we lived as slaves for nearly two hundred years, we—
 
 ### PDF page 13 — printed page 12
 
-—did not realize it; we did not awaken. We did not raise a battle cry that foreign domination must not exist. To that extent we remained subdued—like tortoises, like mutes, like tiny insects, like lowly creatures, like worms!
+—did not realize it; we did not awaken. We did not raise a battle cry that foreign domination must not exist. To that extent we remained subdued—like tortoises, like mutes, like little bugs, like lowly frogs, like worms!
 
 Rather than accusing the white man by saying that he enslaved us, is it not even more disgraceful that we remained slaves for two hundred years?
 
@@ -175,7 +175,7 @@ Rather than accusing the white man by saying that he enslaved us, is it not even
 
 It was the same in another respect. If someone issued orders in the name of God saying, “Do not study,” if they pointed to epics and scriptures, held out the *Manudharma Sastra*, and devised interpretation after interpretation, rather than blaming only them, we accepted all this and said: that is our fate; God wrote it on our heads when he created us. Looking, as it were, at those letters on our foreheads and reading them, we told ourselves that this is how we must herd cattle, drive carts, plough, labour in the fields, and remain as scavengers and servitors to others. For thousands upon thousands of years, we ourselves signed the bond of servitude and lowered ourselves!
 
-If a society that once lived with stature later fell; if a society that once ruled forgot all its historical greatness and died away—then, with deep anguish, I say that there is no other society in the world with such a “distinction” as ours.
+If a society that had once lived fell along the way; if a society that once ruled forgot all its historical greatness and died away—then, with deep anguish, I say that there is no other society in the world with such a “distinction” as ours.
 
 It was to bring awakening, renewed awareness, and a new resurgence to such a society that, in 1914, some people sowed the seeds of that awakening! At the time, all of them were denounced as communalists.
 
@@ -250,13 +250,13 @@ When I point to history, no one should think that I am trying to hurt them.
 
 People from the Brahmin community made good use of the conditions that existed then.
 
-In 1877, when the Madras Presidency existed as a single province, if we cast an eye over who obtained official opportunities and what kinds of people they were, in a department where the post called “High Sheristadar” was equal in status to a Collector, there were 147 posts in all. At that time its head was one Krishnarao. And who were the 147 people behind him? His father-in-law—his father-in-law's younger brother—his wife's elder brother—his younger brother—the younger brother's sons: all of them were people connected with him. (Laughter—applause)
+In 1877, when the Madras Presidency existed as a single province, if we cast an eye over who obtained official opportunities and what kinds of people they were, in a department where the post called “High Sheristadar” was equal in status to a Collector, there were 147 posts in all. At that time its head was one Krishnarao. And who were the 147 people behind him? His father-in-law—his father-in-law's younger brother—his wife's elder brother—that man's younger brother—the younger brother's sons: all of them were people connected with him. (Laughter—applause)
 
 The reason was not merely that they too kept others from coming near; others also did not compete for those posts. They did not even think about it.
 
 In such a situation, those who are greater in number must receive a greater share of reservations.
 
-Whether it is an industrial college, an engineering college, an agricultural college, or a medical college, opportunities to enter them must be increased. We say that places must also be increased in employment. What should be done for that?
+Whether it is a technical college, an engineering college, an agricultural college, or a medical college, opportunities to enter them must be increased. We say that places must also be increased in employment. What should be done for that?
 
 A society that is already like a patient must somehow be helped to sit in that place; if it is in a condition where people are needed to lift it and give it medicine, the leaders of that time understood the need to provide certain concessions in the name of rights.
 
@@ -285,7 +285,7 @@ It was not only Periyar and Anna; I recall with gratitude the names of Congress 
 
 Gopal Reddy, who was then in the ministry, assured them: “We are prepared to appeal to the Supreme Court. If that appeal too fails and the Communal G.O. loses its place, we will take the matter to Nehru, ask him to amend the Constitution, and in one way or another ensure that the substance of this Communal G.O. is not destroyed.”
 
-After that, clauses 15(4) and 16(4) were added to the Constitution.
+After that, sections 15-4 and 16-4 were added to the Constitution.
 
 On the basis of “those who are backward in education and in society,” Nehru himself spoke in support of that amendment, and the amendment was carried by a large majority.
 
@@ -303,7 +303,7 @@ If concessions were given only to backward people, would that not amount to inju
 
 —people? So, dividing it as six out of eight for backward people and two for oppressed people, we raised the share for backward people to 31 percent and for oppressed people to 18 percent!
 
-On the basis of the Sattanathan Committee report, it was proposed that, for backward people to obtain places in employment and in medical, industrial, agricultural, and engineering colleges, only those with an income below nine thousand rupees should be declared backward and given these rights. I did not accept that.
+On the basis of the Sattanathan Committee report, it was proposed that, for backward people to obtain places in employment, in medical, technical, agricultural and engineering colleges, and in job opportunities, only those with an income below nine thousand rupees should be declared backward and given these rights. I did not accept that.
 
 Many people think, “Karunanidhi is opposing the new order issued by the present Chief Minister because of political bitterness toward the Chief Minister.” I think even my old friend—the present Chief Minister—believes this.
 
@@ -311,7 +311,7 @@ I opposed that recommendation at the very time the Sattanathan Committee made it
 
 I opposed the recommendation of the Sattanathan Committee that I myself had appointed. So I opposed it not after M.G.R. came to power, but eight years earlier. I remain of that view to this day.
 
-Everyone earning below 9,000 rupees is backward.
+Everyone below “9000 thousand rupees” is backward. [The frozen Tamil prints `9000 ஆயிரம் ரூபாய்`; this internally odd amount is preserved rather than silently normalized to 9,000.]
 
 If a person earning 9,001 rupees becomes “forward,” is such a thing possible? (Laughter)
 
@@ -351,7 +351,7 @@ Even a person who truly has an income of five thousand rupees can obtain the cer
 
 A wealthy person with an income of twenty thousand rupees gives a little more of what “has to be given” and gets a certificate saying his income is only eight thousand rupees.
 
-Measures like this will only increase the very thing they say they are going to abolish!
+Whatever it is that they keep saying they are going to abolish—abolish—measures like this will only increase it!
 
 Even this morning I told reporters something.
 
@@ -437,7 +437,7 @@ For Mohamed Ali, the outstanding martyr of India—the commander in the Indian b
 
 —and for Father Periyar, the field commander of the Self-Respect Movement, a centenary celebration—
 
-for Navalar Somasundara Bharathi, born in Pasumalai, who protected and fostered classical Tamil and asked, “Is Hindi to dominate? Is Tamil in danger?” and who said, “If anyone places his foot upon Mother Tamil's feet, I will place my foot upon his head”—a centenary celebration!
+for Navalar Somasundara Bharathi, born in Pasumalai, who protected and fostered classical Tamil and asked, “Is Hindi to dominate? Is Tamil in danger?” and who said, “If anyone places his foot upon Mother Tamil's feet, I will place my foot upon his head”—a centenary celebration! [The frozen Tamil prints the unusual form `எவனுவது`; “anyone” is a contextual rendering of that source form.]
 
 At a time when such centenaries are being celebrated, can we forget sixty years of history? Should we not think about it? I have used this good occasion to ask you that question!
 
@@ -445,11 +445,11 @@ The duty to think is yours!
 
 ★
 
-## E1 completion
+## English gate state
 
-- translated speech pages — **22/22**
-- E1 first-pass translation — **COMPLETE**
-- translated range — **PDF 4–25**
-- English fidelity review E2 — **READY / NOT STARTED**
-- English final verification E3 — **NOT STARTED**
-- exact next activity — **E2 full page-by-page fidelity review, PDF 4–25**
+- E1 first-pass translation — **COMPLETE / 22/22**
+- E2 fidelity review — **COMPLETE / PASS / 22/22**
+- E2 corrections — **13**
+- E2 unresolved — **0**
+- E3 final end-to-end verification — **READY / NOT STARTED**
+- exact next activity — **E3 final end-to-end verification, PDF 4–25**
