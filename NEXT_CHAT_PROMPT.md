@@ -32,6 +32,7 @@ Read first:
 12. `t2-batches/direct-listening-record-templates-74-84.md`
 13. `t2-batches/direct-listening-tail-gate-templates.md`
 14. `speeches/kalaivanar-nsk-memorial-day-audio-06/T2_EXECUTION_CHECKLIST.md`
+15. `speeches/kalaivanar-nsk-memorial-day-audio-06/T2_PREPARATION_CLOSURE.md`
 
 ## Durable T2 state
 
@@ -141,3 +142,10 @@ Use `T2_EXECUTION_CHECKLIST.md` as the unified status view.
 - tail gates — **3 independent gates**, outside ordinary counters
 
 Final ordinary T2 state must be **43 checked / 43 passed** before T2 closure, with all three tail gates also passed.
+
+
+## Preparation phase closed
+
+`T2_PREPARATION_CLOSURE.md` marks non-auditory setup as **COMPLETE**.
+
+Do not create more generic preparation files. Exact next valid activity is true audible replay of **Batches 64–73 / ranges 22–31 / 14:15–20:00**.

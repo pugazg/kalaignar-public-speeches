@@ -171,3 +171,10 @@ Only after those conditions pass may Tamil T3 consolidation/freeze begin. Englis
 ## Exact next source activity
 
 True audible replay of **Batches 64–73 / precheck ranges 22–31 / 14:15–20:00**.
+
+
+## Preparation-state guard
+
+Non-auditory T2 preparation is **COMPLETE**. See `T2_PREPARATION_CLOSURE.md`.
+
+Do not create additional generic manifests/templates merely to advance workflow state. Further progress must come from true audible source replay or genuinely new source evidence.

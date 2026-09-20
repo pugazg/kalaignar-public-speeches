@@ -119,3 +119,8 @@ The exact sequential next activity remains direct audible replay of **ranges 22â
 ## T2 execution checklist
 
 `T2_EXECUTION_CHECKLIST.md` is the authoritative execution summary for remaining Audio 06 T2 work. The ordinary audit contains **43 source segments** total. Current state is **22 checked / 14 passed**, with **21 unchecked sequential segments**, **8 checked-but-not-passed retry segments**, and **3 independent tail gates**.
+
+
+## T2 preparation closure
+
+`T2_PREPARATION_CLOSURE.md` marks all currently justified non-auditory T2 preparation as **COMPLETE**. The repository is source-ready for the next genuine audible pass. Current T2 remains **22 checked / 14 passed**.

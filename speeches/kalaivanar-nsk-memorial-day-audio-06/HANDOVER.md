@@ -408,3 +408,12 @@ Counter invariant:
 - independent tail gates — **3**, outside the 43/43 counters.
 
 A fully successful T2 ordinary audit must end at exactly **43 checked / 43 passed**, followed by all three tail gates passing separately.
+
+
+## T2 preparation phase closed
+
+Non-auditory preparation is now explicitly **COMPLETE**. See:
+
+`T2_PREPARATION_CLOSURE.md`
+
+Do not generate further generic preparation artifacts without genuinely new evidence. The next valid source activity is true audible replay of **Batches 64–73 / ranges 22–31 / 14:15–20:00**.
