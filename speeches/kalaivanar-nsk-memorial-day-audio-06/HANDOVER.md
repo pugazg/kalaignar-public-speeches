@@ -336,3 +336,14 @@ Later-range replay preparation is now complete in:
 - `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
 
 This maps the `எச்சம்` conclusion, Avadi/`விலாங்கு மனிதன்`, 1947 radio incident, multi-party praise, Navalar reaction, laughter-health passage and Kannadasan card-game close. It is **not T2 evidence**. Counters remain **22 checked / 14 passed** and canonical Tamil is unchanged.
+
+
+## Replay preparation — ranges 32–42 + mandatory tail gates
+
+A checksum-bound replay manifest is now available at:
+
+`t2-batches/direct-listening-replay-manifest-ranges-32-42-tail.md`
+
+It records reproducible PCM derivatives for precheck ranges **32–42 / 20:00–26:22.080**, plus dedicated final-60-second and final-30-second clips and a signal-derived candidate crop for locating the final major pause. This is **preparation only**: no audible T2 verification is claimed, canonical Tamil is unchanged, and counters remain **22 checked / 14 passed**.
+
+The exact sequential T2 gate remains ranges **22–31 / 14:15–20:00**. After those are genuinely replayed, the later-range and tail replay packets are ready for the next stages.
