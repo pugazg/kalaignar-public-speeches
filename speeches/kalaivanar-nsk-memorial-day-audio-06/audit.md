@@ -448,3 +448,21 @@ Decision:
 - `ending_verified=true`
 - `recording_truncated=false`
 - Tamil T2 — **COMPLETE / CLOSED**
+
+
+## Tamil T3 consolidation/freeze — 2026-09-20
+
+Result: **PASS**
+
+- T2 ordinary segments: **43/43 PASS**
+- opening: **PASS**
+- final-minute/tail gates: **PASS**
+- canonical unresolved markers: **0**
+- final spoken word: **`வணக்கம்`**
+- post-speech applause: **confirmed by user direct listening**
+- recording truncated: **No**
+- canonical Tamil status: **VERIFIED-COMPLETE / FROZEN**
+
+Report: `T3_TAMIL_FREEZE_REPORT.md`.
+
+English translation is now unblocked.

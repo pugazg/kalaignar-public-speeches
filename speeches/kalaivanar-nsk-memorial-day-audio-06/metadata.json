@@ -439,7 +439,7 @@
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "Tamil T3 consolidation/freeze",
+    "next_valid_source_activity": "English E1 translation from frozen Tamil",
     "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
@@ -461,10 +461,10 @@
     "tamil_segments_drafted": 30,
     "tamil_unresolved_ranges_open": 0,
     "strict_audio_audit": "complete-closed",
-    "tamil_consolidation": "ready",
-    "english_translation": "blocked-pending-tamil-t3-freeze",
-    "english_translation_review": "blocked-pending-tamil-t3-freeze",
-    "english_translation_final_verification": "blocked-pending-tamil-t3-freeze",
+    "tamil_consolidation": "complete-verified-frozen",
+    "english_translation": "ready",
+    "english_translation_review": "blocked-pending-english-draft",
+    "english_translation_final_verification": "blocked-pending-english-draft-and-review",
     "tamil_unresolved_count_note": "0 textual holds after explicit user authorization to use the supplied full transcription; acoustic ending gates remain pending"
   },
   "t2_textual_precheck": {
@@ -517,5 +517,14 @@
     ],
     "canonical_tamil_changes": 0,
     "direct_listening_effect": "none; textual/ASR prechecks did not increment T2 counters; current direct-listening progress is tracked separately in direct_listening_audit"
+  },
+  "tamil_status": {
+    "state": "verified-complete",
+    "frozen": true,
+    "t3_complete": true,
+    "t3_report": "T3_TAMIL_FREEZE_REPORT.md",
+    "unresolved_textual_holds": 0,
+    "ending_verified": true,
+    "recording_truncated": false
   }
 }

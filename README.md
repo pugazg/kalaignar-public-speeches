@@ -492,3 +492,8 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 ### Latest active state — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 
 Ordinary Tamil T2 spoken-text adjudication is **COMPLETE — 43/43 checked / 43/43 passed** using the user's explicitly authorized full transcription for the previously unresolved ranges. Canonical Tamil has **0 textual holds**. Remaining work is limited to the three mandatory acoustic tail gates before T3/freeze.
+
+
+### Audio 06 Tamil release state
+
+`speeches/kalaivanar-nsk-memorial-day-audio-06/` Tamil is now **VERIFIED-COMPLETE / T3 FROZEN** with T2 **43/43 PASS**, verified natural ending, and **0 unresolved Tamil holds**. English translation is unblocked.

@@ -152,3 +152,12 @@ The user directly confirmed the audio ending: the speech clearly ends with **`�
 - `recording_truncated=false`
 - TG-01/TG-02/TG-03 — **PASS**
 - next gate — **Tamil T3 consolidation/freeze**
+
+
+## Tamil T3 freeze
+
+Tamil is now **VERIFIED-COMPLETE / FROZEN**.
+
+T3 passed with **0 unresolved textual holds**, verified opening and ending, final spoken word **`வணக்கம்`**, post-speech applause, and `recording_truncated=false`.
+
+English translation is now **UNBLOCKED**. See `T3_TAMIL_FREEZE_REPORT.md`.

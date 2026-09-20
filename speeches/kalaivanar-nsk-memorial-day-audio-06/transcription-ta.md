@@ -3,7 +3,7 @@
 **Speaker:** மு. கருணாநிதி  
 **Source:** `06.Kalavaivannar N.S.Krishnnan Ninavul Naal Vizha Vil Kaligar Speech.mp3`  
 **Duration:** `00:26:22.080`  
-**Status:** **T2 ordinary spoken-text adjudication COMPLETE — 43/43 checked / 43/43 passed; mandatory acoustic tail gates pending**
+**Status:** **VERIFIED-COMPLETE / T3 FROZEN — T2 43/43 PASS; opening verified; ending verified; recording_truncated=false**
 
 ## Evidence provenance
 
@@ -55,4 +55,4 @@ On 2026-09-20 the user explicitly instructed that the already-supplied full tran
 
 அந்த கலைவாணருடைய புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்.
 
-> **Acoustic-tail note:** The spoken textual ending supplied by the user is `அந்த கலைவாணருடைய புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்.` This settles the canonical spoken-text wording, but it does not by itself establish the actual final major pause, post-farewell ambience/noise, final audible event end time, or whether the recording is truncated. TG-01/TG-02/TG-03 remain pending for those acoustic-only decisions.
+> **Final source-boundary note:** User direct listening confirms the speech ends naturally at `வணக்கம்`, followed by applause/clapping, with no further speech. `ending_verified=true`; `recording_truncated=false`. Tamil is frozen at T3 / verified-complete.

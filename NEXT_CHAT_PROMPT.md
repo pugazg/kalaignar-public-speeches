@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06 / Tamil T3 consolidation
+# NEXT CHAT PROMPT — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06 / English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,39 +6,37 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 `speeches/kalaivanar-nsk-memorial-day-audio-06/`
 
-## Durable state
+## Frozen Tamil state
 
-- canonical Tamil spoken text — **COMPLETE / user-adjudicated**
-- ordinary T2 — **43 checked / 43 passed**
-- unresolved Tamil text holds — **0**
-- TG-01 — **PASS**
-- TG-02 — **PASS**
-- TG-03 — **PASS**
+- Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
+- T2 — **43/43 PASS**
+- unresolved Tamil holds — **0**
+- opening — **verified**
+- ending — **verified**
 - final audible spoken word — **`வணக்கம்`**
-- post-speech audio — **applause / clapping**
-- further speech after farewell — **No**
-- `ending_verified=true`
+- post-speech audio — **applause/clapping**
 - `recording_truncated=false`
-- Tamil T2 — **COMPLETE / CLOSED**
-- Tamil T3 — **READY**
-- English — **BLOCKED pending Tamil T3 freeze**
+- T3 report — `T3_TAMIL_FREEZE_REPORT.md`
+
+Do not reopen Tamil merely for stylistic polishing.
 
 ## Read first
 
-1. `AUDIO_SPEECH_PROCESSING_GUIDE.md`
-2. `speeches/kalaivanar-nsk-memorial-day-audio-06/T2_USER_TRANSCRIPT_ADJUDICATION.md`
-3. `speeches/kalaivanar-nsk-memorial-day-audio-06/T2_EXECUTION_CHECKLIST.md`
+1. `SPEECH_PROCESSING_GUIDE.md`
+2. `AUDIO_SPEECH_PROCESSING_GUIDE.md`
+3. `speeches/kalaivanar-nsk-memorial-day-audio-06/T3_TAMIL_FREEZE_REPORT.md`
 4. `speeches/kalaivanar-nsk-memorial-day-audio-06/transcription-ta.md`
-5. `speeches/kalaivanar-nsk-memorial-day-audio-06/audit.md`
-6. `speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md`
+5. `speeches/kalaivanar-nsk-memorial-day-audio-06/HANDOVER.md`
 
 ## Exact next activity
 
-Perform **Tamil T3 consolidation/freeze**:
+Begin **English E1 translation** from the frozen Tamil transcript.
 
-- preserve the user-adjudicated spoken wording;
-- do not stylistically normalize unusual speech forms;
-- normalize only editorial structure/punctuation/metadata where allowed by the audio methodology;
-- verify no unresolved markers remain;
-- mark canonical Tamil frozen when T3 passes;
-- then unblock English translation.
+Requirements:
+
+- preserve source order and rhetorical structure;
+- translate meaning faithfully rather than smoothing away political/literary nuance;
+- preserve names, titles and quoted phrases accurately;
+- do not import wording from external English sources;
+- record translation provenance and progress;
+- keep English review/final verification blocked until the E1 draft is complete.
