@@ -77,3 +77,14 @@ These are:
 - 31 — 19:33–20:00
 
 Use true audible replay of the checksum-matching MP3. The prepared companion-transcript cross-check should be used only as candidate-word navigation; it is not source authority and must not be counted as T2 evidence. Record checked/passed/unresolved state for every range and update canonical Tamil only where direct replay supports it.
+
+
+## Replay preparation now complete beyond the active gate
+
+A second checksum-bound replay manifest is available:
+
+- `speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-replay-manifest-ranges-32-42-tail.md`
+
+It covers ranges **32–42 / 20:00–26:22.080** plus the mandatory final-60-second and final-30-second replay gates. A signal-derived `26:15.000–26:22.080` crop is included only to help locate the final major pause; it is not T2 evidence.
+
+No counters changed: **22 checked / 14 passed**. Exact next direct-listening activity remains **ranges 22–31 / 14:15–20:00**.
