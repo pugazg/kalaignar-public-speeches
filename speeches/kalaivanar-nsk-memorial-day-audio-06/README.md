@@ -114,3 +114,8 @@ The exact sequential next activity remains direct audible replay of **ranges 22â
 ## Pending mandatory tail gates
 
 `t2-batches/direct-listening-tail-gate-templates.md` prepares the three independent ending checks required before Tamil freeze: final 60 seconds, final 30 seconds, and final-major-pause-to-true-end replay. All remain pending and do not alter the current **22 checked / 14 passed** sequential-range count.
+
+
+## T2 execution checklist
+
+`T2_EXECUTION_CHECKLIST.md` is the authoritative execution summary for remaining Audio 06 T2 work. The ordinary audit contains **43 source segments** total. Current state is **22 checked / 14 passed**, with **21 unchecked sequential segments**, **8 checked-but-not-passed retry segments**, and **3 independent tail gates**.

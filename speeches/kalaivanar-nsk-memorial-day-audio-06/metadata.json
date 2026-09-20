@@ -386,7 +386,13 @@
       "ending_verified": false,
       "recording_truncated": null,
       "counter_effect": "none; tail gates are independent closure checks, not ordinary sequential range counters"
-    }
+    },
+    "expected_segments_total": 43,
+    "unchecked_sequential_segments": 21,
+    "checked_not_passed_retry_segments": 8,
+    "expected_final_counter_state": "43 checked / 43 passed",
+    "execution_checklist": "T2_EXECUTION_CHECKLIST.md",
+    "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters."
   },
   "workflow": {
     "source_inspection": "complete",

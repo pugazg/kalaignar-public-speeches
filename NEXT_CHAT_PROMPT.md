@@ -31,6 +31,7 @@ Read first:
 11. `t2-batches/direct-listening-record-templates-64-73.md`
 12. `t2-batches/direct-listening-record-templates-74-84.md`
 13. `t2-batches/direct-listening-tail-gate-templates.md`
+14. `speeches/kalaivanar-nsk-memorial-day-audio-06/T2_EXECUTION_CHECKLIST.md`
 
 ## Durable T2 state
 
@@ -127,3 +128,16 @@ Read:
 It defines the three independent T2 ending gates: **TG-01 final 60 seconds**, **TG-02 final 30 seconds**, and **TG-03 final major pause to the true decoded end**. All are **PENDING** and must not be counted as ordinary range passes.
 
 Current ending state remains: `ending_verified=false`, `recording_truncated=null`.
+
+
+## T2 counter invariant
+
+Use `T2_EXECUTION_CHECKLIST.md` as the unified status view.
+
+- total ordinary T2 source segments — **43**
+- current — **22 checked / 14 passed**
+- unchecked sequential segments — **21**
+- checked-but-not-passed retry segments — **8**
+- tail gates — **3 independent gates**, outside ordinary counters
+
+Final ordinary T2 state must be **43 checked / 43 passed** before T2 closure, with all three tail gates also passed.

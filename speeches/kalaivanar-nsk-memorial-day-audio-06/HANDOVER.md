@@ -391,3 +391,20 @@ It contains:
 - **TG-03** — actual final-major-pause-to-`00:26:22.080` replay.
 
 These are separate T2 closure gates, not ordinary sequential segment counters. All remain **PENDING**; `ending_verified=false` and `recording_truncated` remains unresolved.
+
+
+## Unified T2 execution checklist
+
+The complete remaining T2 state is now normalized in:
+
+`T2_EXECUTION_CHECKLIST.md`
+
+Counter invariant:
+
+- ordinary source segments — **43 total**;
+- current — **22 checked / 14 passed**;
+- unchecked sequential — **21**;
+- checked-but-not-passed retries — **8**;
+- independent tail gates — **3**, outside the 43/43 counters.
+
+A fully successful T2 ordinary audit must end at exactly **43 checked / 43 passed**, followed by all three tail gates passing separately.
