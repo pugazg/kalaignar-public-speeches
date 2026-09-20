@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / Tamil first pass PDF 11–20
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / Tamil first pass PDF 21–25
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,20 +23,23 @@ Read first:
 - source scans — **33**
 - canonical speech body — PDF **4–25**, **22 speech pages**
 - PDF 26–33 — supplementary non-speech matter, outside speech body
-- Tamil first pass/source-check — **PDF 4–10 = 7/22 speech pages**
+- Tamil first pass/source-check — **PDF 4–20 = 17/22 speech pages**
 - separate strict Tamil audit — **NOT STARTED**
 - English — **BLOCKED**
 - PDF 5 durable reading — **`வினாக் குறிக்கு`**
-- PDF 10 — no visible printed folio
-- PDF 10 ends — **`விடுதலையை மட்டும்`**
+- PDF 18→19 physical join — **`நீதிமன் / றத் தீர்ப்பால்`**
+- PDF 20 ends — **`மழை பெய்யாவிட்`**
 
 ## Exact next activity
 
-Process **PDF pages 11–20** as the next Tamil first-pass/source-check batch.
+Process the remaining speech pages **PDF 21–25**.
 
-Apply all historical families:
+Resolve PDF 20→21 first. Apply all historical families:
+
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Do not modernize source wording, infer hidden text or infer printed folios from sequence. Keep the separate strict visual-audit gate unopened until the complete speech first pass is finished.
+Do not modernize source wording, infer hidden text or infer printed folios from sequence. Preserve physical cross-page fragments in the first-pass layer.
 
-The Audio 06 archive remains pending separately at its previous T2 checkpoint and is not superseded or closed.
+After PDF 21–25 is complete, the full 22-page Tamil first pass will be complete; only then may the independent strict visual-audit gate begin. English remains blocked until Tamil is strict-verified and frozen.
+
+The Audio 06 archive remains pending separately at its previous T2 checkpoint.

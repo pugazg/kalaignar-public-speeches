@@ -17,7 +17,7 @@ This speech was initially misrouted to `pugazg/kalaignar-essays`. That intake ha
 
 ## First-pass transcription progress
 
-PDF pages **4–10 — 7/22 speech pages transcribed and source-checked**.
+PDF pages **4–20 — 17/22 speech pages transcribed and source-checked**.
 
 Important durable readings:
 
@@ -45,6 +45,33 @@ Cross-page controls:
 
 The direct source checks already performed are part of the **first-pass transcription layer** after migration. The repository's independent strict Tamil visual-audit gate remains **not started** and must later re-read all 22 speech pages before Tamil can be frozen.
 
+## Batch 2 — PDF pages 11–20 — COMPLETE / SOURCE-CHECKED
+
+Important durable readings from the direct scan pass:
+
+| PDF | Source-supported reading / action |
+|---:|---|
+| 11 | PDF 10 **`விடுதலையை மட்டும்`** continues **`வாங்கி விட்டோமானால்`**; printed folio **10** |
+| 12 | **`ஆதிக்கம் செய்கின்ற`**; **`கலைகளே அறவே வெறுத்தார்கள்`**; printed folio **11** |
+| 13 | source **`அடிமைமுறிச்சீட்டில்`** and **`1914-ஆம் ஆண்டு`**; terminal **`தன்மானத்`**; printed folio **12** |
+| 14 | **`வடலூர் வள்ளலார் இராமலிங்க அடிகளைப் போல்`**; **`கைராட்டை சுழற்றினாலும்`**; printed folio **13** |
+| 15 | **`முன்னேறுகின்ற மக்கள்`**; printed folio **14** |
+| 16 | **`அங்கேயெல்லாம்`** retained; legal/political source forms preserved; printed folio **15** |
+| 17 | **`ஒரு கண்ணோட்டத்தைச் செலுத்தினால்`**; source **`அண்டவொட்டாமல்`**; **`சில சலுகைகளை உரிமைகள் என்ற பெயரால் அளிக்கவேண்டிய`**; printed folio **16** |
+| 18 | **`விகிதாச்சாரங்களை ஒதுக்கி`**; terminal physical fragment **`நீதிமன்`**; printed folio **17** |
+| 19 | begins **`றத் தீர்ப்பால்`**, joining PDF 18→19 as **`நீதிமன்றத் தீர்ப்பால்`**; **15-4 / 16-4 / 25 / 15 / 60 / 33** verified; printed folio **18** |
+| 20 | **8-ல் 6 / 2 / 31 / 18 / 9 ஆயிரம் / 9000 / 9001** verified; terminal physical fragment **`மழை பெய்யாவிட்`**; printed folio **19** |
+
+Cross-page controls added:
+
+- PDF 12 **`அதை நாம்`** → PDF 13 **`உணர்ந்திடவில்லை;`**
+- PDF 13 **`தன்மானத்`** → PDF 14 **`தந்தை பெரியார்...`**
+- PDF 18 **`நீதிமன்`** → PDF 19 **`றத் தீர்ப்பால்`**
+- PDF 19 **`அநீதி`** → PDF 20 **`இழைத்ததாக...`**
+- PDF 20 **`மழை பெய்யாவிட்`** → continuation pending PDF 21
+
+Historical-glyph family review was applied during this first-pass/source-check layer. The independent strict Tamil visual-audit gate remains **NOT STARTED**.
+
 ## Next
 
-Transcribe/source-check **PDF pages 11–20**. Do not begin English.
+Transcribe/source-check the remaining speech pages **PDF 21–25**. Do not begin the separate strict audit or English yet.

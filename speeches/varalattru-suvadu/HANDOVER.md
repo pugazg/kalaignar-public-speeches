@@ -29,7 +29,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 ## Tamil state
 
 - speech body — PDF **4–25**, **22 pages**
-- first-pass/source-checked — PDF **4–10**, **7/22 speech pages**
+- first-pass/source-checked — PDF **4–20**, **17/22 speech pages**
 - separate strict visual audit — **NOT STARTED**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
@@ -43,12 +43,32 @@ Durable source controls:
 - PDF 10 — **no visible printed folio**
 - PDF 10 terminal text — **`விடுதலையை மட்டும்`**
 
+## Batch 2 durable checkpoint — PDF 11–20
+
+**COMPLETE / SOURCE-CHECKED — 10 pages.**
+
+Key controls:
+
+- PDF 10→11 — **`விடுதலையை மட்டும் / வாங்கி விட்டோமானால்`**
+- PDF 12 — **`ஆதிக்கம் செய்கின்ற`**, **`கலைகளே அறவே வெறுத்தார்கள்`**
+- PDF 14 — **`அடிகளைப் போல்`**, **`கைராட்டை சுழற்றினாலும்`**
+- PDF 15 — **`முன்னேறுகின்ற மக்கள்`**
+- PDF 16 — **`அங்கேயெல்லாம்`**
+- PDF 17 — **`கண்ணோட்டத்தைச் செலுத்தினால்`**, **`அண்டவொட்டாமல்`**, **`சில சலுகைகளை உரிமைகள் என்ற பெயரால் அளிக்கவேண்டிய`**
+- PDF 18 — **`விகிதாச்சாரங்களை ஒதுக்கி`**
+- PDF 18→19 — **`நீதிமன் / றத் தீர்ப்பால்`** = assembled **`நீதிமன்றத் தீர்ப்பால்`**
+- PDF 19→20 — **`அநீதி / இழைத்ததாக`**
+- PDF 20 terminal fragment — **`மழை பெய்யாவிட்`**
+- visible printed folios — PDF 11–20 = **10–19**
+
+Separate strict Tamil visual audit remains **NOT STARTED**.
+
 ## Exact next activity
 
-Transcribe and source-check **PDF pages 11–20**.
+Transcribe and source-check the remaining speech body **PDF pages 21–25**.
 
-1. resolve PDF 10→11 beginning from **`விடுதலையை மட்டும்`**;
+1. resolve PDF 20→21 beginning from **`மழை பெய்யாவிட்`**;
 2. apply the 13-family historical-glyph guide page by page;
-3. preserve printed spelling/grammar/punctuation;
-4. do not infer folios or hidden text;
-5. do not begin the separate strict audit or English yet.
+3. preserve printed spelling/grammar/punctuation and physical word fragments;
+4. do not infer hidden text or folios;
+5. do not begin the independent strict-audit gate or English until the 22-page first pass is complete.
