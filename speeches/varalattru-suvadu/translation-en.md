@@ -406,10 +406,50 @@ If there is no opposition to strike with such rebuke, government will deteriorat
 
 When something good is said, one must not arrogantly ask, “Who are you to question me?”
 
-## E1 progress
 
-- translated speech pages — **20/22**
-- completed E1 range — **PDF 4–23**
-- English fidelity review E2 — **NOT STARTED**
+### PDF page 24 — no visible printed folio
+
+“They say, ‘You are asking this for your own children!’”
+
+None of my children is now applying to colleges or for jobs.
+
+I am not asking this for my children. I do not even properly know what my children studied.
+
+That is the extent of all my attachment, affection, and family bond.
+
+So we are speaking not for our own children, but for future generations.
+
+They will say: we are acting in support of the poor—Karunanidhi is speaking against this. Students and professors must remain alert and not be misled by that argument in this speech.
+
+There are well-to-do people in backward communities. Under the order issued by this government today, if a person earns even one rupee more than nine thousand rupees, he is treated as belonging to a forward caste.
+
+Likewise, can we impose an income ceiling among the oppressed too and divide them into poor and rich?
+
+What guarantee is there that this order, which affects backward people today, will not in future affect oppressed people as well?
+
+Must those in power stubbornly refuse to listen to anything merely because it is said by the opposition?
+
+This year we have celebrated the centenaries of many leaders.
+
+For Mohamed Ali, the outstanding martyr of India—the commander in the Indian battlefield—
+
+### PDF page 25 — terminal speech page; no visible printed folio
+
+—and for Father Periyar, the field commander of the Self-Respect Movement, a centenary celebration—
+
+for Navalar Somasundara Bharathi, born in Pasumalai, who protected and fostered classical Tamil and asked, “Is Hindi to dominate? Is Tamil in danger?” and who said, “If anyone places his foot upon Mother Tamil's feet, I will place my foot upon his head”—a centenary celebration!
+
+At a time when such centenaries are being celebrated, can we forget sixty years of history? Should we not think about it? I have used this good occasion to ask you that question!
+
+The duty to think is yours!
+
+★
+
+## E1 completion
+
+- translated speech pages — **22/22**
+- E1 first-pass translation — **COMPLETE**
+- translated range — **PDF 4–25**
+- English fidelity review E2 — **READY / NOT STARTED**
 - English final verification E3 — **NOT STARTED**
-- exact next E1 range — **PDF 24–25**
+- exact next activity — **E2 full page-by-page fidelity review, PDF 4–25**

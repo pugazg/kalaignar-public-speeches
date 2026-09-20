@@ -32,7 +32,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
 - T2 strict visual audit — **COMPLETE / PASS — 22/22 (PDF 4–25)**
 - T3 Tamil consolidation/freeze — **COMPLETE / PASS**
-- English E1 — **IN PROGRESS — 5/22 translated (PDF 4–8)**
+- English E1 — **COMPLETE — 22/22 translated (PDF 4–25)**
 
 Durable source controls:
 
@@ -178,22 +178,22 @@ Corrections applied:
 - consolidation repairs — **0**
 - unresolved — **0**
 
-## English E1 Batch 1 — PDF 4–8
+## English E1 completion
 
-**COMPLETE — 5/22 speech pages translated.**
+**COMPLETE — 22/22 speech pages translated (PDF 4–25).**
 
-Translation authority was the frozen `transcription-ta.md` only. E2 fidelity review has not started.
+Batch coverage:
 
-Source-sensitive handling retained:
+- Batch 1 — PDF 4–8
+- Batch 2 — PDF 9–13
+- Batch 3 — PDF 14–18
+- Batch 4 — PDF 19–23
+- Batch 5 — PDF 24–25
 
-- the `தன்னாட்சி / தனியாட்சி` wordplay is represented with transliteration and the source Tamil forms **`ன் / நி`**;
-- **`வினாக் குறிக்கு`** is rendered as the source's “question mark” image rather than silently normalized;
-- the Chellappa / sweet-verse wordplay is retained;
-- applause/laughter markers and physical PDF page sequence are preserved;
-- the source's historical claims and chronology are translated as speech content, not independently fact-corrected.
+Translation authority was the frozen Tamil `transcription-ta.md` only. E2 fidelity review has not yet started.
 
 ## Exact next activity
 
-Continue **English E1 first-pass translation — PDF pages 9–13** from frozen `transcription-ta.md`.
+Perform **English E2 full page-by-page fidelity review — PDF 4–25**.
 
-Do not begin E2 until the complete 22-page E1 translation exists.
+Compare every English paragraph against frozen Tamil for omissions, additions, reversed meaning, softened/strengthened rhetoric, names/titles, numerals, quotation boundaries and page-boundary continuations. Record corrections in `translation-review.md`, apply confirmed corrections to `translation-en.md`, and only then move to E3.

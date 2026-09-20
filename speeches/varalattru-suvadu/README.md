@@ -55,10 +55,10 @@ Rejected: `வினக் குறிக்கு`, `வினைக் கு
 | Tamil transcription | **FIRST-PASS COMPLETE — 22/22 speech pages source-checked (PDF 4–25)** |
 | Separate strict Tamil visual audit | **COMPLETE / PASS — 22/22 (58 corrections / 0 unresolved)** |
 | Tamil consolidation/freeze | **COMPLETE / PASS — 0 additional corrections / 0 repairs** |
-| English E1 translation | **IN PROGRESS — 5/22 speech pages translated (PDF 4–8)** |
+| English E1 translation | **COMPLETE — 22/22 (PDF 4–25)** |
 
 The first-pass text for PDF 4–10 was migrated from the mistakenly routed Essays workspace after direct scan review. PDF 11–25 was transcribed/source-checked directly in the Public Speeches workflow. T1 is now complete at 22/22 speech pages. This does not promote the text to the separate strict-audit gate.
 
 ## Exact next activity
 
-Continue **English E1 first-pass translation — PDF pages 9–13** from the frozen Tamil transcript. E1 Batch 1 (PDF 4–8) is complete at 5/22; E2 has not started.
+Perform **English E2 full page-by-page fidelity review — PDF 4–25** against the frozen Tamil transcript. E1 is COMPLETE — 22/22.

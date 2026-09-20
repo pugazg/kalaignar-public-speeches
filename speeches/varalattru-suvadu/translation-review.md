@@ -1,7 +1,12 @@
 # வரலாற்றுச் சுவடு — English translation review
 
-**Status: NOT STARTED**
+**Status: E2 READY / NOT STARTED**
 
-Tamil is **`verified-complete` / FROZEN**. English E1 has not started yet.
+Tamil authority: **`verified-complete` / FROZEN**.  
+English E1: **COMPLETE — PDF 4–25 / 22/22 speech pages**.
 
-E2 review remains pending until a complete English first-pass translation exists.
+## Exact next activity
+
+Perform **E2 full page-by-page Tamil→English fidelity review — PDF 4–25**.
+
+Check for omissions, additions, reversed meaning, softened/strengthened rhetoric, names/titles, numerals, quotation boundaries, source-sensitive oddities and page-boundary continuations. Record every confirmed correction here before E3.
