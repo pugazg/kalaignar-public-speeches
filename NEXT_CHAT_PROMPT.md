@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T2 final strict audit PDF 24–25
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T3 Tamil consolidation and freeze
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,34 +22,37 @@ Read first:
 
 - canonical speech body — PDF **4–25**, **22 speech pages**
 - Tamil T1 — **COMPLETE — 22/22**
-- T2 Batch 1 — PDF 4–8 **PASS**
-- T2 Batch 2 — PDF 9–13 **PASS**
-- T2 Batch 3 — PDF 14–18 **PASS**
-- T2 Batch 4 — PDF 19–23 **PASS**
-- cumulative T2 — **20/22 PASS**
-- cumulative T2 corrections — **53**
-- unresolved — **0**
-- Tamil T3 consolidation/freeze — **BLOCKED**
+- T2 strict visual audit — **COMPLETE / PASS — 22/22**
+- T2 batches — **5/5 PASS**
+- cumulative T2 corrections — **58**
+- T2 unresolved — **0**
+- T3 consolidation/freeze — **PENDING**
 - English — **BLOCKED**
 
-Important Batch-4 historical-glyph decisions:
+Final T2 corrections include:
 
-- PDF 19 — **`அண்ணா`** retained via historical `ணா`, despite modern-shape resemblance to `அண்ணை`
-- PDF 21 — **`சாதிக்காரனாக்`** retained via historical `னா`
-- PDF 22 — **`பார்த்திருக்கிறாயா?`** retained via historical `றா`; do not regress to `பார்த்திருக்கிறயா?`
+- PDF 24 — **`என்பதேகூட எனக்குக்`**
+- PDF 24 — **`அல்ல;`**
+- PDF 24 — **`தாழ்த்தப்பட்ட மக்களுக்கும் தாக்காது`**
+- PDF 25 — **`எவனுவது கால் வைத்தால்`**
+- PDF 24→25 — **`முகமதலி / அவர்களுக்கும்...`** PASS
+- terminal — **`சிந்திப்பது உங்கள் கடன்!`** + printed star PASS
 
-## Exact next activity
+Durable historical reading:
 
-Process **T2 Final Batch — PDF pages 24–25**.
+- PDF 5 — **`வினாக் குறிக்கு`**; reject `வினக்` / `வினைக்`
 
-Verify every line directly against source pixels, including:
+## Exact next activity — T3
 
-- PDF 24→25 physical boundary: **`முகமதலி / அவர்களுக்கும்...`**
-- all 13 historical families: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-- names, numerals, punctuation and quotation marks
-- terminal wording **`சிந்திப்பது உங்கள் கடன்!`**
-- terminal printed star
+Perform Tamil consolidation / freeze:
 
-Do not begin English. If PDF 24–25 pass, mark T2 **22/22 COMPLETE** and move next to T3 consolidation/freeze.
+1. verify all 58 T2 corrections are present in `transcription-ta.md`;
+2. recheck all recorded page-boundary joins;
+3. search for stale/superseded readings and rejected historical-glyph guesses;
+4. confirm PDF 4–25 all occur exactly once, in order, with no missing/duplicate speech page;
+5. reconcile `metadata.json`, `audit.md`, `README.md`, `HANDOVER.md`, root `README.md` and this prompt;
+6. if and only if all checks pass, mark Tamil **`verified-complete` / FROZEN**.
+
+Do not begin English in the same activity unless T3 has first been committed closed.
 
 The Audio 06 archive remains pending separately at its previous T2 checkpoint.

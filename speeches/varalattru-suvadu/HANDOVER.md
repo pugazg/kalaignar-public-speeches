@@ -30,7 +30,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 
 - speech body — PDF **4–25**, **22 pages**
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
-- T2 strict visual audit — **IN PROGRESS — 20/22 PASS (PDF 4–23)**
+- T2 strict visual audit — **COMPLETE / PASS — 22/22 (PDF 4–25)**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 
@@ -139,8 +139,31 @@ Key corrections:
 - cumulative corrections — **53**
 - unresolved — **0**
 
+## T2 Final Batch durable checkpoint — PDF 24–25
+
+**COMPLETE / PASS — 2/2 pages.**
+
+Corrections applied:
+
+- PDF 24 — double-apostrophe opening quotation restored
+- PDF 24 — **`என்பதேகூட எனக்குக்`**
+- PDF 24 — **`அல்ல;`**
+- PDF 24 — **`தாழ்த்தப்பட்ட மக்களுக்கும் தாக்காது`**
+- PDF 25 — unusual source **`எவனுவது கால் வைத்தால்`** retained
+- PDF 24 historical `னா` — **`சாதிக்காரனாக் கருதப்படுவான்`** retained
+- PDF 24→25 — **`முகமதலி / அவர்களுக்கும்...`** PASS
+- PDF 25 terminal — **`சிந்திப்பது உங்கள் கடன்!`** + star PASS
+- final-batch corrections — **5**
+- cumulative T2 corrections — **58**
+- unresolved — **0**
+
+## Tamil gate state
+
+- T1 — **COMPLETE / 22/22**
+- T2 — **COMPLETE / PASS / 22/22**
+- T3 consolidation/freeze — **PENDING**
+- English — **BLOCKED**
+
 ## Exact next activity
 
-**T2 Final Batch — strict visual fidelity audit, PDF pages 24–25 (2 speech pages).**
-
-Verify every line, the PDF 24→25 **`முகமதலி / அவர்களுக்கும்...`** boundary, historical glyphs, terminal wording, punctuation and the final star. If both pages pass, T2 becomes **22/22 COMPLETE** and the next gate is T3 consolidation/freeze.
+Perform **T3 Tamil consolidation / freeze**: verify all 58 T2 corrections are consolidated, all page boundaries are correct, no stale superseded reading survives, all 22 speech pages occur exactly once and in order, and all control documents agree. Only then mark Tamil **verified-complete / FROZEN**.

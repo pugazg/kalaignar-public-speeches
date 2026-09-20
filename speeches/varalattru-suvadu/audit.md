@@ -223,8 +223,49 @@ Independent line-by-line source review completed for **5 additional speech pages
 - PDF 21→22 **`ஆண்டு வருமான / முள்ள`** — PASS
 - PDF 23 ends a sentence cleanly; no physical word split into PDF 24
 
+## T2 Final Batch — PDF pages 24–25 — COMPLETE / PASS
+
+Independent line-by-line source review completed for the final **2 speech pages**.
+
+| PDF | T1 reading | T2 source-supported reading / action |
+|---:|---|---|
+| 24 | single quotes around `உன் பிள்ளை...` | source uses **double apostrophe quotation marks** |
+| 24 | `என்பதுகூட எனக்குச்` | **`என்பதேகூட எனக்குக்`** |
+| 24 | `அல்ல,` | source punctuation is **`அல்ல;`** |
+| 24 | `தாழ்த்தப்பட்ட மக்களைத் தாக்காது` | **`தாழ்த்தப்பட்ட மக்களுக்கும் தாக்காது`** |
+| 25 | `எவனாவது கால் வைத்தால்` | unusual source wording is **`எவனுவது கால் வைத்தால்`**; no normalization |
+
+### Historical-glyph / terminal checks
+
+- PDF 24 **`சாதிக்காரனாக் கருதப்படுவான்`** — retained after historical `னா` identity check; misleading modern-shape reading rejected.
+- PDF 24→25 **`முகமதலி / அவர்களுக்கும்...`** — PASS.
+- PDF 25 **`பைந்தமிழைக்`** and other `னை`-family forms — PASS.
+- terminal wording **`சிந்திப்பது உங்கள் கடன்!`** — PASS.
+- terminal printed star — PASS.
+- PDF 24–25 have **no visible printed folio**; no folio inferred.
+
+### T2 closure
+
+- speech pages audited — **22/22**
+- T2 batches — **5/5 COMPLETE / PASS**
+- final-batch corrections — **5**
+- cumulative T2 corrections — **58**
+- unresolved readings — **0**
+- historical-glyph audit — **COMPLETE / PASS**
+- Tamil remains **not yet frozen** until T3 consolidation completes.
+- English remains **BLOCKED**.
+
 ## Exact next activity
 
-Process **T2 Final Batch — PDF pages 24–25 (2 speech pages)**.
+Perform **T3 Tamil consolidation / freeze**.
 
-After those two pages pass, T2 will cover all **22/22** speech pages. Then perform T3 consolidation/freeze before any English work begins.
+Required checks:
+
+1. confirm all **58 T2 corrections** are present in the combined transcript;
+2. recheck every recorded cross-page boundary;
+3. search for stale superseded readings, including the rejected `வினக் / வினைக்` forms;
+4. confirm all 22 speech pages are present exactly once and in order;
+5. reconcile status/control documents;
+6. only if all checks pass, mark Tamil **`verified-complete` / FROZEN**.
+
+Do not begin English until T3 closes.
