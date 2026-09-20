@@ -315,3 +315,14 @@ A user-supplied full companion transcript has now been mapped against precheck r
 `t2-batches/companion-transcript-crosscheck-ranges-22-31.md`
 
 This materially narrows candidate wording, including the previously machine-collapsed `18:00–19:00` and `19:33–20:00` passages. It is **navigation evidence only**, not direct listening. T2 counters remain **22 checked / 14 passed**, canonical Tamil is unchanged, and the exact next gate remains true audible replay of `14:15–20:00`.
+
+
+## Dual-witness discrepancy ledger — ranges 22–31
+
+A second preparation layer now compares the companion transcript against the attachment-level automatic transcript:
+
+`t2-batches/dual-witness-discrepancy-ledger-ranges-22-31.md`
+
+It records agreements and mandatory replay conflicts for every range. Highest-risk targets are the fund/co-actor list at `15:35–16:00`, the spoken Kural opening at `17:47–18:00`, and the Prahlada/Hiranya/Abdullah Gandhi comparison at `19:33–20:00`.
+
+This is still **not T2 evidence**. Counters remain **22 checked / 14 passed** and canonical Tamil is unchanged.

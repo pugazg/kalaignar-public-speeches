@@ -351,3 +351,18 @@ The companion transcript supplied in this turn was used only to locate candidate
 ### Next direct-listening iteration
 
 Process precheck ranges **22–31**, covering **14:15–20:00**, as the next 10-batch iteration. Earlier checked-but-not-passed ranges and the lead-in remain mandatory retries before T2 closure.
+
+
+## Candidate-only preparation for T2 ranges 22–31
+
+Two non-auditory text witnesses are now mapped for `14:15–20:00`:
+
+1. the user-supplied companion transcript;
+2. the attachment-level automatic transcript exposed from the checksum-matching MP3.
+
+Their agreements/conflicts are recorded in:
+
+- `t2-batches/companion-transcript-crosscheck-ranges-22-31.md`;
+- `t2-batches/dual-witness-discrepancy-ledger-ranges-22-31.md`.
+
+This preparation improves replay targeting but does **not** satisfy T2. No canonical Tamil was changed and counters remain **22 checked / 14 passed**.
