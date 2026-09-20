@@ -30,7 +30,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 
 - speech body — PDF **4–25**, **22 pages**
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
-- T2 strict visual audit — **IN PROGRESS — 5/22 PASS (PDF 4–8)**
+- T2 strict visual audit — **IN PROGRESS — 10/22 PASS (PDF 4–13)**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 
@@ -93,8 +93,23 @@ Corrections applied:
 - PDF 8 — **`பன்னெடுங் காலத்திற்கு`**, **`முதலிசைகளை`**, **`உதடுகளைத்`**, **`ஒலியாகி`**, **`கொச்சைத்`**, **`வரலாறுகளை படிக்க`**, **`அவைகளையெல்லாம்`**
 - unresolved — **0**
 
+## T2 Batch 2 durable checkpoint — PDF 9–13
+
+**COMPLETE / PASS — 5/5 pages.**
+
+Corrections applied:
+
+- PDF 9 — **`உட்கார வைத்து கொண்டு`**, first quoted **`ஆட்சிப்பொறுப்பில்`**
+- PDF 10 — historical `னா` gives **`ஆளானான்`**; **`ஸ்ரீரங்கப் பட்டணத்தைத்`**; **`பெருந் தலைவர் காமராசரும்`**
+- PDF 11 — **`வாங்கியது' போன்ற`**, **`நீதிக்கட்சி—திராவிடர்`**, **`பிராமண சமுதாயத்தைச்`**
+- PDF 12 — **`தமிழகத்தைப் பொறுத்த வரை`**
+- PDF 13 — no additional substantive correction
+- Batch-2 corrections — **9**
+- cumulative corrections — **19**
+- unresolved — **0**
+
 ## Exact next activity
 
-**T2 Batch 2 — strict visual fidelity audit, PDF pages 9–13 (5 speech pages).**
+**T2 Batch 3 — strict visual fidelity audit, PDF pages 14–18 (5 speech pages).**
 
-Begin with the PDF 8→9 continuation after **`மாநாட்டில்`**. Compare every line against source pixels, verify all historical-glyph families, punctuation, names, numerals and page-boundary joins, and apply only source-supported corrections.
+Begin with PDF 13→14 **`தன்மானத் / தந்தை பெரியார்...`**. Compare every line against source pixels, verify all 13 historical-glyph families, punctuation, names, numerals and page-boundary joins, and apply only source-supported corrections.

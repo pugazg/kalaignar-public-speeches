@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T2 strict audit PDF 9–13
+# NEXT CHAT PROMPT — வரலாற்றுச் சுவடு / T2 strict audit PDF 14–18
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,18 +23,20 @@ Read first:
 - canonical speech body — PDF **4–25**, **22 speech pages**
 - Tamil T1 — **COMPLETE — 22/22**
 - T2 Batch 1 — **PDF 4–8 COMPLETE / PASS**
-- cumulative T2 — **5/22 PASS**
-- Batch-1 corrections — **10**
-- Batch-1 unresolved — **0**
+- T2 Batch 2 — **PDF 9–13 COMPLETE / PASS**
+- cumulative T2 — **10/22 PASS**
+- cumulative T2 corrections — **19**
+- unresolved — **0**
 - Tamil T3 consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 
-Key Batch-1 corrections:
+Key Batch-2 corrections:
 
-- PDF 4 — `பலத்தகைதட்டல்`
-- PDF 5 — `பெயருக்கேற்ப`
-- PDF 6 — `சிறப்புக்களெல்லாம்`
-- PDF 8 — `பன்னெடுங் காலத்திற்கு`, `முதலிசைகளை`, `உதடுகளைத்`, `ஒலியாகி`, `கொச்சைத்`, `வரலாறுகளை படிக்க`, `அவைகளையெல்லாம்`
+- PDF 9 — `பக்கவில் உட்கார வைத்து கொண்டு`; first quoted `ஆட்சிப்பொறுப்பில்`
+- PDF 10 — `ஆளானான்` (historical `னா`), `ஸ்ரீரங்கப் பட்டணத்தைத்`, `பெருந் தலைவர் காமராசரும்`
+- PDF 11 — `வாங்கியது' போன்ற`, `நீதிக்கட்சி—திராவிடர்`, `பிராமண சமுதாயத்தைச்`
+- PDF 12 — `தமிழகத்தைப் பொறுத்த வரை`
+- PDF 13 — no additional substantive correction
 
 Durable earlier reading:
 
@@ -42,9 +44,11 @@ Durable earlier reading:
 
 ## Exact next activity
 
-Process **T2 Batch 2 — PDF pages 9–13**.
+Process **T2 Batch 3 — PDF pages 14–18**.
 
-Begin by checking the PDF 8→9 continuation after **`மாநாட்டில்`**.
+Begin with the PDF 13→14 continuation:
+
+**`தன்மானத் / தந்தை பெரியார்...`**
 
 For every line:
 

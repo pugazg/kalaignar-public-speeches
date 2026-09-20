@@ -119,8 +119,41 @@ Independent line-by-line source review completed for **5/22 speech pages**.
 - PDF 5→6 **`பேரவை / தொடக்க விழாவுக்கு`** — retained
 - PDF 8 terminal **`மாநாட்டில்`** → PDF 9 continuation remains queued for Batch 2
 
+## T2 Batch 2 — PDF pages 9–13 — COMPLETE / PASS
+
+Independent line-by-line source review completed for **5 additional speech pages**.
+
+| PDF | T1 reading | T2 source-supported reading / action |
+|---:|---|---|
+| 9 | `பக்கவில் உட்கார வைத்துக் கொண்டு சொன்னார்—` | **`பக்கவில் உட்கார வைத்து கொண்டு சொன்னார்—`** |
+| 9 | first quoted `ஆட்சிப் பொறுப்பில்` | source first occurrence is **`ஆட்சிப்பொறுப்பில்`**; later `ஆட்சிப் பொறுப்பில்` remains separate as printed |
+| 10 | `ஆளான` | historical `னா` identity gives **`ஆளானான்`**; checked against the same-edition `வினாக்` form |
+| 10 | `மிருங்கப் பட்டணத்தைத்` | **`ஸ்ரீரங்கப் பட்டணத்தைத்`** |
+| 10 | `பெருந்தலைவர் காமராசரும்` | source line boundary preserves **`பெருந் தலைவர் காமராசரும்`** |
+| 11 | `வாங்கியது'போன்ற` | **`வாங்கியது' போன்ற`** |
+| 11 | `நீதிக்கட்சி-திராவிடர்` | **`நீதிக்கட்சி—திராவிடர்`** |
+| 11 | `பிராமணசமுதாயத்தைச்` | **`பிராமண சமுதாயத்தைச்`** |
+| 12 | `தமிழ்நாட்டைப் பொறுத்த வரை` | **`தமிழகத்தைப் பொறுத்த வரை`** |
+
+PDF 13 required **no additional substantive correction** in this T2 batch.
+
+### Batch result
+
+- PDF pages checked — **5**
+- substantive corrections applied — **9**
+- cumulative T2 pages — **10/22**
+- cumulative T2 corrections — **19**
+- unresolved readings — **0**
+- historical-glyph family review — **PASS**
+- page-boundary review — **PASS**
+- PDF 8→9 **`மாநாட்டில் / முதறிஞர் ராஜாஜி...`** — PASS
+- PDF 9→10 **`வரலாறும்— / வெள்ளையரை எதிர்த்த...`** — PASS
+- PDF 10→11 **`விடுதலையை மட்டும் / வாங்கி விட்டோமானால்`** — PASS
+- PDF 12→13 **`அதை நாம் / உணர்ந்திடவில்லை;`** — PASS
+- PDF 13 terminal **`தன்மானத்`** → PDF 14 continuation queued for Batch 3
+
 ## Exact next activity
 
-Process **T2 Batch 2 — PDF pages 9–13 (5 speech pages)**.
+Process **T2 Batch 3 — PDF pages 14–18 (5 speech pages)**.
 
-Re-read every line directly against the source images, with the historical-glyph guide active. Record and apply only source-supported corrections. English remains blocked.
+Begin with the PDF 13→14 continuation after **`தன்மானத்`**. Re-read every line directly against source pixels, apply the historical-glyph guide, and record/apply only source-supported corrections. English remains blocked.

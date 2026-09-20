@@ -53,7 +53,7 @@ Rejected: `வினக் குறிக்கு`, `வினைக் கு
 |---|---|
 | Source identification / page map | **Complete** |
 | Tamil transcription | **FIRST-PASS COMPLETE — 22/22 speech pages source-checked (PDF 4–25)** |
-| Separate strict Tamil visual audit | **IN PROGRESS — 5/22 PASS (PDF 4–8)** |
+| Separate strict Tamil visual audit | **IN PROGRESS — 10/22 PASS (PDF 4–13)** |
 | Tamil consolidation/freeze | **BLOCKED** |
 | English translation | **BLOCKED until Tamil is verified/frozen** |
 
@@ -61,4 +61,4 @@ The first-pass text for PDF 4–10 was migrated from the mistakenly routed Essay
 
 ## Exact next activity
 
-Continue **T2 strict visual fidelity audit with PDF pages 9–13**. Batch 1 (PDF 4–8) is PASS with 10 source-supported corrections and 0 unresolved. English remains blocked.
+Continue **T2 strict visual fidelity audit with PDF pages 14–18**. Batches 1–2 (PDF 4–13) are PASS with 19 cumulative source-supported corrections and 0 unresolved. English remains blocked.
