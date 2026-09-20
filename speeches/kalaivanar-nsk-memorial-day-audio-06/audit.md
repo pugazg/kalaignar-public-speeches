@@ -376,3 +376,14 @@ Companion and attachment-level automatic transcripts have now been compared agai
 - `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
 
 No T2 counters or canonical Tamil changed.
+
+
+## Retry preparation — opening gate + early checked-but-not-passed ranges
+
+The first direct-listening iteration's unresolved items have been consolidated into:
+
+`t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md`
+
+The packet covers eight conservative source crops: the Batch 43 lead-in plus retry targets from Batches **44, 45, 47, 48, 49, 51 and 52**. Each crop is checksum-bound to the controlling MP3 and carries its own derivative SHA-256.
+
+This is **not a new auditory pass**. No range has been promoted, canonical Tamil is unchanged, and cumulative T2 remains **22 checked / 14 passed**.

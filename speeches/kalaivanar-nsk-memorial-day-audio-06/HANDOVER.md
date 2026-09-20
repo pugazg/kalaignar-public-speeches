@@ -347,3 +347,14 @@ A checksum-bound replay manifest is now available at:
 It records reproducible PCM derivatives for precheck ranges **32–42 / 20:00–26:22.080**, plus dedicated final-60-second and final-30-second clips and a signal-derived candidate crop for locating the final major pause. This is **preparation only**: no audible T2 verification is claimed, canonical Tamil is unchanged, and counters remain **22 checked / 14 passed**.
 
 The exact sequential T2 gate remains ranges **22–31 / 14:15–20:00**. After those are genuinely replayed, the later-range and tail replay packets are ready for the next stages.
+
+
+## Focused retry packet — opening + early unresolved ranges
+
+The mandatory retry list from the first auditory iteration has now been converted into a checksum-bound replay manifest:
+
+`t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md`
+
+It contains eight focused replay crops covering the partly unresolved lead-in and Batches **44, 45, 47, 48, 49, 51 and 52**. Passed ranges are deliberately excluded. This is replay preparation only: **no T2 counter change and no canonical Tamil change**.
+
+Current state remains **22 checked / 14 passed**. All eight retry targets remain mandatory before T2 closure.

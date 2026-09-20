@@ -88,3 +88,14 @@ A second checksum-bound replay manifest is available:
 It covers ranges **32–42 / 20:00–26:22.080** plus the mandatory final-60-second and final-30-second replay gates. A signal-derived `26:15.000–26:22.080` crop is included only to help locate the final major pause; it is not T2 evidence.
 
 No counters changed: **22 checked / 14 passed**. Exact next direct-listening activity remains **ranges 22–31 / 14:15–20:00**.
+
+
+## Mandatory early-retry packet now prepared
+
+Read:
+
+- `speeches/kalaivanar-nsk-memorial-day-audio-06/t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md`
+
+It isolates the unresolved lead-in plus Batches **44, 45, 47, 48, 49, 51 and 52** into eight checksum-bound replay crops. This does not change T2: **22 checked / 14 passed**.
+
+Exact sequential next activity remains **ranges 22–31 / 14:15–20:00**. Before T2 closure, also replay and resolve all eight early retry targets, then complete ranges 32–42 and the mandatory tail gates.

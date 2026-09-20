@@ -79,3 +79,12 @@ The provisional final `நன்றி, வணக்கம்` must not be treat
 ## Exact next activity
 
 Continue **Tamil T2 strict direct listening with the next 10-batch iteration: precheck ranges 22–31 (`14:15–20:00`)**. Current cumulative state is **22 checked / 14 passed**; the just-completed 09:25–14:15 iteration passed 10/10 ranges. Retain the partly unresolved `00:00–00:14` lead-in and every checked-but-not-passed phrase on the mandatory retry list. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.
+
+
+## Focused retry packet
+
+A reproducible retry manifest is available at:
+
+`t2-batches/direct-listening-retry-manifest-opening-and-early-ranges.md`
+
+It isolates the unresolved opening lead-in plus the seven early checked-but-not-passed ranges from the first direct-listening iteration. This packet is **navigation/replay preparation only** and does not alter the live T2 state of **22 checked / 14 passed**.
