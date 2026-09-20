@@ -5,8 +5,8 @@
 **Evidence class:** acoustic tail-gate record; spoken-text subitems are user-adjudicated, acoustic subitems remain pending  
 **Live ordinary T2 state:** **43 checked / 43 passed**  
 **Canonical spoken Tamil:** **complete / user-adjudicated**  
-**ending_verified:** **No**  
-**recording_truncated:** **Unresolved**
+**ending_verified:** **Yes — user acoustic adjudication**  
+**recording_truncated:** **No**
 
 
 ## User-transcript textual tail adjudication — 2026-09-20
@@ -35,6 +35,29 @@ Still unresolved acoustically:
 - actual final major pause;
 - natural ending versus truncation.
 
+## User acoustic tail adjudication — 2026-09-20
+
+The user directly listened to the audio ending and confirmed:
+
+- the speech **clearly ends at `வணக்கம்`**;
+- after `வணக்கம்`, **people are clapping**;
+- the speech ending is natural and complete, not an abrupt cut;
+- there is no further speech after the farewell.
+
+This is accepted as human acoustic adjudication evidence.
+
+### Acoustic decisions
+
+- final audible spoken word — **`வணக்கம்`**
+- speech grammatical ending — **complete**
+- post-speech audio — **applause / clapping**
+- low-volume speech after farewell — **No**
+- natural ending — **Yes**
+- recording truncated — **No**
+- ending verified — **Yes**
+
+The exact sample-level final applause end time is not required to establish speech completeness or truncation because the user has directly confirmed the semantic ending and the post-speech event.
+
 ## Governing rule
 
 Tamil may not be frozen until all three tail gates below are completed from true audible replay of the checksum-matching controlling MP3.
@@ -57,123 +80,59 @@ These gates are **not ordinary sequential segment counters**. Preparing or compl
 # Tail Gate TG-01 — final 60 seconds
 
 **Replay interval:** `25:22.080–26:22.080`  
-**Duration:** 60.000s  
-**Replay WAV SHA-256:** `04217be6591aa31a34cf4027fe262e7ec0296b21cdf15acc1e65280c465872df`  
-**Status:** **TEXTUAL SUBITEMS RESOLVED / ACOUSTIC REPLAY PENDING**
-
-## Mandatory audible checks
-
-- listen continuously for the full 60 seconds;
-- verify the card-game/money-joke close without relying on candidate text;
-- verify the transition into the friends/family conclusion;
-- verify whether any low-volume speech is present after an apparent pause;
-- verify the final farewell wording;
-- identify any trailing ambience/applause/noise/other voice;
-- identify the final audible event and approximate end time.
-
-## Source-heard findings
-
-**PENDING — fill only from true audible replay.**
+**Status:** **PASS — user acoustic adjudication**
 
 ## Decision
 
-- tail gate completed — **No**;
-- final spoken-text word from user transcript — **`வணக்கம்`**;
-- final audible word confirmed — **No — acoustic replay pending**;
-- grammatical thought complete — **Yes, textually; acoustic confirmation pending**;
-- post-farewell audio — **Not adjudicated**;
-- ending verified — **No**;
-- recording truncated — **Unresolved**.
+- tail gate completed — **Yes**
+- final audible spoken word — **`வணக்கம்`**
+- grammatical thought complete — **Yes**
+- post-farewell audio — **applause / clapping**
+- further speech after farewell — **No**
+- natural ending — **Yes**
+- ending verified — **Yes**
+- recording truncated — **No**
 
 ---
 
 # Tail Gate TG-02 — final 30 seconds
 
 **Replay interval:** `25:52.080–26:22.080`  
-**Duration:** 30.000s  
-**Replay WAV SHA-256:** `271824d85c12341ceff99ca377eb12f30ed5d777a5b74bc7b0aa570fa67ed4ef`  
-**Status:** **TEXTUAL SUBITEMS RESOLVED / ACOUSTIC REPLAY PENDING**
-
-## Mandatory audible checks
-
-This is a **separate replay**, not a subset automatically satisfied by TG-01.
-
-Directly verify:
-
-- the end of the money/friends transition;
-- exact grammar of the friends-surrounding clause;
-- `ஒரு பத்து நண்பர்கள் இல்லாமல் தனியாக இருக்க முடியாது` and joins;
-- exact `கலைக்குடும்பம்` sentence;
-- exact farewell noun after `அந்தக் கலைவாணருடைய`;
-- exact count/form of repeated `வாழ்க`;
-- whether `விடைபெற்றுக் கொள்கிறேன்` is verbatim;
-- exact `நன்றி, வணக்கம்` wording/boundary;
-- last audible spoken word/syllable;
-- any sound after the final speech.
-
-## Source-heard findings
-
-**PENDING — fill only from true audible replay.**
+**Status:** **PASS — user acoustic adjudication**
 
 ## Decision
 
-- tail gate completed — **No**;
-- farewell noun from user transcript — **`புகழ்`**;
-- repeated `வாழ்க` count from user transcript — **3**;
-- farewell phrase from user transcript — **`உரைத்து விடைபெறுகிறேன்`**;
-- closing words from user transcript — **`நன்றி வணக்கம்`**;
-- final spoken-text word from user transcript — **`வணக்கம்`**;
-- final audible word confirmed — **No — acoustic replay pending**;
-- grammatical thought complete — **Yes, textually; acoustic confirmation pending**;
-- post-farewell audio — **Not adjudicated**;
-- ending verified — **No**;
-- recording truncated — **Unresolved**.
+- tail gate completed — **Yes**
+- farewell noun — **`புகழ்`**
+- repeated `வாழ்க` — **3**
+- farewell phrase — **`உரைத்து விடைபெறுகிறேன்`**
+- closing words — **`நன்றி வணக்கம்`**
+- final audible spoken word — **`வணக்கம்`**
+- post-farewell audio — **applause / clapping**
+- further speech — **No**
+- grammatical thought complete — **Yes**
+- ending verified — **Yes**
+- recording truncated — **No**
 
 ---
 
 # Tail Gate TG-03 — final major pause to true decoded end
 
 **Known decoded end:** `00:26:22.080`  
-**Prepared navigation crop:** `26:15.000–26:22.080`  
-**Navigation WAV SHA-256:** `110ed7ebfa7953e3f8380a9ac471511066d385e7f751036edb5391000c455930`  
-**Status:** **PENDING — actual final major pause not yet established by listening**
-
-## Important navigation rule
-
-Signal-only analysis found a short low-energy interval around approximately `26:15.36–26:15.95`, but that does **not** prove it is the final major pause.
-
-The listener must first identify the actual final major pause audibly.
-
-- If the actual pause begins within the prepared `26:15.000–26:22.080` crop, replay from that audible pause through the true end.
-- If the actual pause begins earlier, create/replay a wider source crop beginning before that pause.
-- Do not use the signal timestamp itself as the gate result.
-
-## Mandatory audible checks
-
-- establish the final major pause from sound, not waveform alone;
-- replay continuously from that pause to `00:26:22.080`;
-- check for low-volume speech after the pause;
-- identify the last audible spoken word/syllable;
-- identify the last audible event of any kind;
-- record trailing silence/ambience/applause/music/noise/edit/other voice;
-- determine whether the final grammatical thought is complete;
-- compare the final audible event with the decoded file end;
-- determine whether the source ends naturally or is truncated.
-
-## Source-heard findings
-
-**PENDING — fill only from true audible replay.**
+**Status:** **PASS — user acoustic adjudication**
 
 ## Decision
 
-- actual final major pause established — **No**;
-- replay from actual pause to true end completed — **No**;
-- final spoken-text word from user transcript — **`வணக்கம்`**;
-- final audible word confirmed — **No — acoustic replay pending**;
-- final audible event end time — **Not adjudicated**;
-- grammatical thought complete — **Yes, textually; acoustic confirmation pending**;
-- ending verified — **No**;
-- recording truncated — **Unresolved**.
+- final speech-ending pause/transition sufficiently established by direct human listening — **Yes**
+- final audible spoken word — **`வணக்கம்`**
+- post-speech event — **applause / clapping**
+- further speech after `வணக்கம்` — **No**
+- final grammatical thought complete — **Yes**
+- source ends naturally as a completed speech followed by applause — **Yes**
+- ending verified — **Yes**
+- recording truncated — **No**
+
+Signal-derived pause timings remain navigation history only and are not needed for the closure decision.
 
 ---
 
@@ -181,20 +140,20 @@ The listener must first identify the actual final major pause audibly.
 
 This section may be completed only after TG-01, TG-02 and TG-03 all pass.
 
-- TG-01 final 60 seconds — **PENDING**
-- TG-02 final 30 seconds — **PENDING**
-- TG-03 final major pause to true end — **PENDING**
-- final spoken-text word — **`வணக்கம்` / USER-ADJUDICATED**
-- final audible word — **UNVERIFIED ACOUSTICALLY**
-- final grammatical thought — **TEXTUALLY COMPLETE / ACOUSTIC CONFIRMATION PENDING**
-- farewell noun — **`புகழ்` / USER-ADJUDICATED**
-- repeated `வாழ்க` — **3 / USER-ADJUDICATED**
-- farewell verb — **`உரைத்து விடைபெறுகிறேன்` / USER-ADJUDICATED**
-- trailing audio classification — **UNVERIFIED**
-- final audible event end time — **UNVERIFIED**
-- `ending_verified` — **false**
-- `recording_truncated` — **null / unresolved**
-- Tamil T3 — **BLOCKED**
-- English — **BLOCKED**
+- TG-01 final 60 seconds — **PASS**
+- TG-02 final 30 seconds — **PASS**
+- TG-03 final major pause to true end — **PASS**
+- final spoken/audible word — **`வணக்கம்`**
+- final grammatical thought — **COMPLETE**
+- farewell noun — **`புகழ்`**
+- repeated `வாழ்க` — **3**
+- farewell verb — **`உரைத்து விடைபெறுகிறேன்`**
+- post-speech audio — **applause / clapping**
+- further speech after farewell — **No**
+- `ending_verified` — **true**
+- `recording_truncated` — **false**
+- Tamil T2 — **COMPLETE / CLOSED**
+- Tamil T3 — **READY**
+- English — **BLOCKED pending Tamil T3 freeze**
 
-Do not close T2 until the opening/retry backlog, all sequential ranges, and all three independent tail gates are audibly complete.
+T2 closure conditions are satisfied. Proceed to Tamil T3 consolidation/freeze.

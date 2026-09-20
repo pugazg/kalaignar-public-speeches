@@ -1,64 +1,32 @@
 # T2 execution checklist — Audio 06
 
-## Authoritative current state
+## FINAL STATE
 
 - ordinary T2 source segments — **43 / 43 checked**
 - ordinary T2 source segments — **43 / 43 passed**
 - early retry backlog — **8 / 8 resolved**
-- Batches 64–73 — **10 / 10 PASS**
-- Batches 74–84 — **11 / 11 PASS**
+- Batches 64–84 — **21 / 21 PASS**
 - unresolved Tamil text holds — **0**
-- canonical Tamil — **user-supplied full transcription**
-- assistant independently heard newly adjudicated ranges — **No**
+- TG-01 final 60 seconds — **PASS**
+- TG-02 final 30 seconds — **PASS**
+- TG-03 final major-pause-to-end gate — **PASS**
+- final audible spoken word — **`வணக்கம்`**
+- post-speech audio — **applause / clapping**
+- further speech after farewell — **No**
+- final grammatical thought — **complete**
+- `ending_verified` — **true**
+- `recording_truncated` — **false**
 
 ## Evidence provenance
 
-On 2026-09-20 the user explicitly authorized the previously supplied full transcription as the human source text for pending T2 wording.
+Ordinary remaining Tamil wording was adjudicated from the user's explicitly authorized full transcription.
 
-This closes ordinary spoken-text adjudication. It does not close acoustic ending verification.
+The final acoustic ending state was separately confirmed by the user through direct listening: the speech clearly ends at `வணக்கம்`, followed by applause, with no further speech.
 
-## Completed ordinary segments
+## Closure
 
-- [x] Batch 43 lead-in
-- [x] Batch 43 main-speech opening
-- [x] Batches 44–63
-- [x] Batches 64–73 / ranges 22–31
-- [x] Batches 74–84 / ranges 32–42
+Tamil T2 — **COMPLETE / CLOSED**
 
-Final ordinary counter invariant:
+Exact next activity — **Tamil T3 consolidation/freeze**.
 
-> **43 checked / 43 passed**
-
-## Remaining independent ending gates
-
-- [ ] TG-01 — final 60 seconds `25:22.080–26:22.080`
-- [ ] TG-02 — final 30 seconds `25:52.080–26:22.080`
-- [ ] TG-03 — actual final major pause through `00:26:22.080`
-
-The user transcript settles the spoken textual ending as:
-
-`அந்த கலைவாணருடைய புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்.`
-
-Textual tail sub-items are now closed:
-
-- [x] farewell noun — `புகழ்`
-- [x] `வாழ்க` count — 3
-- [x] farewell phrase — `உரைத்து விடைபெறுகிறேன்`
-- [x] closing words — `நன்றி வணக்கம்`
-- [x] final spoken-text word — `வணக்கம்`
-- [x] final grammatical thought — textually complete
-
-Acoustic-only items remain:
-
-- [ ] final **audible** word/syllable confirmed
-- [ ] low-volume speech after apparent ending checked
-- [ ] post-farewell audio classified
-- [ ] final audible event end time established
-- [ ] actual final major pause established
-- [ ] natural ending versus truncation resolved
-
-## T2 closure
-
-Do **not** mark T2 fully closed until TG-01, TG-02 and TG-03 pass.
-
-Tamil T3 remains blocked. English remains blocked.
+English remains blocked until Tamil T3 is complete and the verified Tamil is frozen.

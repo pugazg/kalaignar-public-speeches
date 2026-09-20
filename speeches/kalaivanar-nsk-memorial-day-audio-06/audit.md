@@ -428,3 +428,23 @@ The user-authorized full transcription resolves these tail text items:
 - final grammatical thought textually complete
 
 No acoustic closure is claimed. `ending_verified=false` and `recording_truncated=null` remain unchanged pending TG-01/TG-02/TG-03.
+
+
+## T2 acoustic tail closure — 2026-09-20
+
+Direct user listening confirmation:
+
+> speech clearly ends at `வணக்கம்`; after `வணக்கம்`, people are clapping.
+
+Decision:
+
+- final audible spoken word — **`வணக்கம்`**
+- further speech — **No**
+- post-speech event — **applause/clapping**
+- natural complete ending — **Yes**
+- TG-01 — **PASS**
+- TG-02 — **PASS**
+- TG-03 — **PASS**
+- `ending_verified=true`
+- `recording_truncated=false`
+- Tamil T2 — **COMPLETE / CLOSED**

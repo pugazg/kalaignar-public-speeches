@@ -140,3 +140,15 @@ The only remaining T2 work is acoustic ending verification through TG-01/TG-02/T
 The user-authorized transcript settles the spoken-text ending as **`... புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்`**. The final spoken-text word is **`வணக்கம்`**, and the grammatical thought is textually complete.
 
 Only acoustic ending verification remains: TG-01/TG-02/TG-03, post-farewell sound, actual final pause, final audible event timing, and truncation.
+
+
+## T2 final closure
+
+Tamil T2 is **COMPLETE / CLOSED**.
+
+The user directly confirmed the audio ending: the speech clearly ends with **`வணக்கம்`**, followed by **applause/clapping**, with no further speech. Therefore:
+
+- `ending_verified=true`
+- `recording_truncated=false`
+- TG-01/TG-02/TG-03 — **PASS**
+- next gate — **Tamil T3 consolidation/freeze**

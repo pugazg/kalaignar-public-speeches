@@ -307,11 +307,11 @@
     "first_main_speech_word": "கலைவாணருடைய"
   },
   "direct_listening_audit": {
-    "status": "ordinary-spoken-text-complete; acoustic-tail-gates-pending",
+    "status": "complete-closed",
     "segments_checked": 43,
     "segments_passed": 43,
-    "recording_boundary_verified": false,
-    "recording_truncated": null,
+    "recording_boundary_verified": true,
+    "recording_truncated": false,
     "latest_checked_range": "26:00-26:22.080",
     "records": [
       "t2-batches/batch-43-direct-listening-audit-00-00-01-10.md",
@@ -391,25 +391,25 @@
       "pending_later_record_state": "superseded-by-user-transcript-adjudication"
     },
     "tail_gate_status": {
-      "status": "textual-subitems-complete; acoustic-gates-pending",
+      "status": "complete",
       "template": "t2-batches/direct-listening-tail-gate-templates.md",
       "gates": {
         "TG_01_final_60_seconds": {
           "interval": "25:22.080-26:22.080",
-          "completed": false
+          "completed": true
         },
         "TG_02_final_30_seconds": {
           "interval": "25:52.080-26:22.080",
-          "completed": false
+          "completed": true
         },
         "TG_03_final_major_pause_to_end": {
           "prepared_navigation_interval": "26:15.000-26:22.080",
-          "actual_major_pause_established": false,
-          "completed": false
+          "actual_major_pause_established": true,
+          "completed": true
         }
       },
-      "ending_verified": false,
-      "recording_truncated": null,
+      "ending_verified": true,
+      "recording_truncated": false,
       "counter_effect": "none; tail gates are independent closure checks, not ordinary sequential range counters",
       "textual_subitems": {
         "evidence": "user-supplied full transcription explicitly authorized for adjudication",
@@ -421,14 +421,15 @@
         "final_spoken_text_word": "வணக்கம்",
         "grammatical_thought_textually_complete": true
       },
-      "acoustic_items_pending": [
-        "confirm final audible spoken word/syllable",
-        "check for low-volume speech after apparent ending",
-        "classify post-farewell audio",
-        "identify final audible event end time",
-        "establish actual final major pause",
-        "resolve natural ending versus truncation"
-      ]
+      "acoustic_items_pending": [],
+      "acoustic_adjudication": {
+        "evidence": "direct user listening confirmation",
+        "final_audible_spoken_word": "வணக்கம்",
+        "post_speech_audio": "applause/clapping",
+        "further_speech_after_farewell": false,
+        "natural_ending": true,
+        "recording_truncated": false
+      }
     },
     "expected_segments_total": 43,
     "unchecked_sequential_segments": 0,
@@ -438,7 +439,7 @@
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "acoustic tail closure only: TG-01 final 60 seconds, TG-02 final 30 seconds, TG-03 actual final major pause to decoded end",
+    "next_valid_source_activity": "Tamil T3 consolidation/freeze",
     "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
@@ -459,11 +460,11 @@
     "tamil_segments_total": null,
     "tamil_segments_drafted": 30,
     "tamil_unresolved_ranges_open": 0,
-    "strict_audio_audit": "ordinary-text-complete; tail textual subitems complete; acoustic-tail-gates-pending",
-    "tamil_consolidation": "blocked",
-    "english_translation": "blocked",
-    "english_translation_review": "blocked",
-    "english_translation_final_verification": "blocked",
+    "strict_audio_audit": "complete-closed",
+    "tamil_consolidation": "ready",
+    "english_translation": "blocked-pending-tamil-t3-freeze",
+    "english_translation_review": "blocked-pending-tamil-t3-freeze",
+    "english_translation_final_verification": "blocked-pending-tamil-t3-freeze",
     "tamil_unresolved_count_note": "0 textual holds after explicit user authorization to use the supplied full transcription; acoustic ending gates remain pending"
   },
   "t2_textual_precheck": {

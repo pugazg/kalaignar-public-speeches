@@ -449,3 +449,23 @@ Using the user's explicitly authorized full transcription, the tail wording is n
 - final grammatical thought — **textually complete**
 
 This does **not** close TG-01/TG-02/TG-03. Remaining work is acoustic-only: actual final pause, low-volume speech check, post-farewell sound, final audible event end time, and truncation.
+
+
+## T2 FINAL CLOSURE — 2026-09-20
+
+The user directly listened to the ending and confirmed that the speech **clearly ends at `வணக்கம்`**, followed by **applause/clapping**. There is no further speech and the recording does not cut the speech off.
+
+Final T2 state:
+
+- ordinary segments — **43/43 checked / 43/43 passed**
+- unresolved Tamil text — **0**
+- TG-01 — **PASS**
+- TG-02 — **PASS**
+- TG-03 — **PASS**
+- final audible spoken word — **`வணக்கம்`**
+- post-speech audio — **applause**
+- `ending_verified=true`
+- `recording_truncated=false`
+- Tamil T2 — **COMPLETE / CLOSED**
+
+Exact next activity: **Tamil T3 consolidation/freeze**.
