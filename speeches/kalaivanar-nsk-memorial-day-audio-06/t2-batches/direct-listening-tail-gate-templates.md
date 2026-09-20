@@ -118,8 +118,13 @@ Directly verify:
 ## Decision
 
 - tail gate completed — **No**;
-- final audible word confirmed — **No**;
-- grammatical thought complete — **Not adjudicated**;
+- farewell noun from user transcript — **`புகழ்`**;
+- repeated `வாழ்க` count from user transcript — **3**;
+- farewell phrase from user transcript — **`உரைத்து விடைபெறுகிறேன்`**;
+- closing words from user transcript — **`நன்றி வணக்கம்`**;
+- final spoken-text word from user transcript — **`வணக்கம்`**;
+- final audible word confirmed — **No — acoustic replay pending**;
+- grammatical thought complete — **Yes, textually; acoustic confirmation pending**;
 - post-farewell audio — **Not adjudicated**;
 - ending verified — **No**;
 - recording truncated — **Unresolved**.
