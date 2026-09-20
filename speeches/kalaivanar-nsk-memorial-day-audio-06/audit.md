@@ -512,3 +512,33 @@ Result: **PASS / VERIFIED-COMPLETE**
 Report: `E3_ENGLISH_FINAL_VERIFICATION.md`.
 
 English workflow is complete.
+
+
+## FINAL RELEASE-READINESS CLOSURE — 2026-09-20
+
+Result: **PASS / FINAL CLOSED / RELEASE READY**
+
+Release audit confirmed:
+
+- controlling source filename / SHA-256 / decoded duration — **consistent**
+- source SHA-256 — `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`
+- decoded duration — `00:26:22.080`
+- Tamil T2 — **43/43 PASS / CLOSED**
+- Tamil T3 — **VERIFIED-COMPLETE / FROZEN**
+- unresolved Tamil holds — **0**
+- final spoken word — **`வணக்கம்`**
+- post-speech audio — **applause/clapping**
+- `ending_verified=true`
+- `recording_truncated=false`
+- English E1 — **COMPLETE**
+- English E2 — **COMPLETE / 10 corrections consolidated / 0 unresolved**
+- English E3 — **PASS / 19/19 semantic blocks / 0 new corrections**
+- English — **VERIFIED-COMPLETE**
+- unresolved English findings — **0**
+- current control documents synchronized — **PASS**
+
+Historical preparation and intermediate-state records are retained for audit provenance but are explicitly superseded by the final state.
+
+No transcription or translation work remains pending.
+
+Final report: `FINAL_CLOSURE.md`.

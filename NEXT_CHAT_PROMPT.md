@@ -1,49 +1,26 @@
-# NEXT CHAT PROMPT — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06 / FINAL RELEASE READINESS
+# NEXT CHAT PROMPT — Audio 06 FINAL CLOSED
 
-Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+`speeches/kalaivanar-nsk-memorial-day-audio-06/` in `pugazg/kalaignar-public-speeches` is **FINAL CLOSED / RELEASE READY**.
 
-## Active archive
+## Final state
 
-`speeches/kalaivanar-nsk-memorial-day-audio-06/`
-
-## Tamil final state
-
+- source SHA-256 — `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`
+- decoded duration — **00:26:22.080**
 - Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
 - T2 — **43/43 PASS**
 - unresolved Tamil holds — **0**
-- opening — **verified**
-- ending — **verified**
 - final spoken word — **`வணக்கம்`**
 - post-speech audio — **applause/clapping**
+- `ending_verified=true`
 - `recording_truncated=false`
-
-## English final state
-
-- E1 — **COMPLETE**
-- E2 — **COMPLETE**
-- E2 confirmed corrections — **10**
-- E2 unresolved findings — **0**
-- E3 — **PASS / COMPLETE**
-- E3 semantic-block coverage — **19/19**
-- new E3 corrections — **0**
+- English E1 — **COMPLETE**
+- English E2 — **COMPLETE / 10 corrections / 0 unresolved**
+- English E3 — **PASS / 19/19 semantic blocks**
 - English — **VERIFIED-COMPLETE**
-- E3 report — `speeches/kalaivanar-nsk-memorial-day-audio-06/E3_ENGLISH_FINAL_VERIFICATION.md`
+- final report — `speeches/kalaivanar-nsk-memorial-day-audio-06/FINAL_CLOSURE.md`
 
-## Exact next activity
+## Continuation rule
 
-Perform **final archive release-readiness assessment**.
+**Do not resume Audio 06 processing.** There is no pending Tamil or English activity.
 
-Verify all control documents and archive files agree on:
-
-- source identity / SHA / duration;
-- Tamil verified-complete/frozen state;
-- T2 43/43 and closed tail gates;
-- `ending_verified=true`;
-- `recording_truncated=false`;
-- English E1/E2/E3 complete;
-- English verified-complete;
-- no unresolved Tamil or English holds;
-- no stale current-state blocked/pending claims;
-- README / HANDOVER / audit / metadata / translation files / root control docs synchronized.
-
-If clean, mark the archive **FINAL CLOSED / RELEASE READY** and update all relevant control documents. Do not reopen Tamil or English for stylistic polishing.
+Reopen only for genuinely new source evidence or a documented substantive fidelity error. Otherwise, continue with the next separately identified archive/work item from live `main`.

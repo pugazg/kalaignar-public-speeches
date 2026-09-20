@@ -1,5 +1,7 @@
 # Handover — Kalaivanar Memorial-Day Speech, Audio 06
 
+**FINAL STATUS:** **FINAL CLOSED / RELEASE READY**
+
 ## Repository and path
 
 - repository: `pugazg/kalaignar-public-speeches`;
@@ -39,16 +41,29 @@ Official catalogue title: `கலைவாணர் என்.எஸ்.கி�
 
 This source is distinct from the completed `00:07:23.559` recording at `speeches/kalaivanar-nsk-memorial-day/`.
 
-- exact speech date and venue: not established;
-- spoken lead-in: `00:00–approximately 00:14`;
-- main speech begins approximately `00:41.9`;
-- final activity continues to approximately `00:26:21.4`;
-- T1 now reaches the true decoded file end `00:26:22.080`;
-- machine navigation proposes a complete ending followed by `நன்றி, வணக்கம்`;
-- opening/ending strict-direct-listening verification: pending;
-- `recording_truncated`: unresolved.
+- exact speech date and venue — **not established**;
+- decoded duration — **`00:26:22.080`**;
+- Tamil — **VERIFIED-COMPLETE / T3 FROZEN**;
+- T2 — **43/43 PASS**;
+- unresolved Tamil holds — **0**;
+- final spoken word — **`வணக்கம்`**;
+- post-speech event — **applause/clapping**;
+- further speech — **No**;
+- `ending_verified=true`;
+- `recording_truncated=false`;
+- English — **VERIFIED-COMPLETE**;
+- E1/E2/E3 — **COMPLETE / COMPLETE / PASS**;
+- archive — **FINAL CLOSED / RELEASE READY**.
 
-Never promote the provisional ending to verified status before the final-60-second and final-30-second direct replays.
+## Current continuation rule
+
+There is no pending transcription, Tamil audit, translation, or English verification activity for Audio 06.
+
+Reopen this archive only for genuinely new source evidence or a documented fidelity problem.
+
+## Historical workflow log — superseded
+
+Everything below this heading is retained as audit history. Historical references to unresolved openings/endings, `0/0`, `22 checked / 14 passed`, pending tail gates, blocked English, or earlier next activities are not current state.
 
 ## Machine-navigation state
 

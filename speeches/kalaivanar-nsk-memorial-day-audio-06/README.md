@@ -1,5 +1,7 @@
 # கலைவாணர் என். எஸ். கிருஷ்ணன் நினைவு நாள் விழா உரை — ஒலிப்பதிவு 06
 
+**FINAL STATUS:** **FINAL CLOSED / RELEASE READY**
+
 **Speaker:** மு. கருணாநிதி (M. Karunanidhi)  
 **Source type:** Tamil public-speech audio recording  
 **Official catalogue title:** `கலைவாணர் என்.எஸ்.கிருஷ்ணன் நினைவு நாள் விழா உரை`  
@@ -22,14 +24,16 @@ This is a different binary from the completed `00:07:23.559` Kalaivanar recordin
 
 ## Boundary state
 
-- separate spoken lead-in: `00:00–approximately 00:14`;
-- main speech begins approximately `00:41.9`; this onset and the first main-speech word `கலைவாணருடைய` are direct-listening confirmed;
-- activity continues to approximately `00:26:21`;
-- machine navigation proposes a complete ending followed by `நன்றி, வணக்கம்`;
-- the first main-speech sentence is direct-listening verified, but the separate lead-in and complete opening gate remain unresolved; the ending is not yet verified;
-- `recording_truncated` remains unresolved.
+- separate spoken lead-in — **verified in the frozen Tamil layer**;
+- main speech begins approximately `00:41.9`;
+- complete decoded source duration — **`00:26:22.080`**;
+- final spoken word — **`வணக்கம்`**;
+- post-speech audio — **applause/clapping**;
+- further speech after farewell — **No**;
+- `ending_verified=true`;
+- `recording_truncated=false`.
 
-## Current Tamil T1 coverage
+## Historical T1 coverage
 
 The provisional T1 first pass is **complete through the true decoded end at `00:26:22.080`**.
 
@@ -54,7 +58,7 @@ Major covered material includes:
 - Kalaivanar's circle of friends and the `கலைக்குடும்பம்` conclusion;
 - a provisional farewell extending to the true file end.
 
-Important unresolved ranges remain visible throughout the draft. Machine evidence was not used to invent material where it collapsed or disagreed, and the final farewell is not yet verified by direct listening.
+Historical T1 uncertainties were subsequently resolved through the completed T2/T3 workflow. The frozen canonical Tamil has **0 unresolved textual holds**.
 
 ## Current workflow state
 
@@ -62,24 +66,32 @@ Important unresolved ranges remain visible throughout the draft. Machine evidenc
 |---|---|
 | Source identity and technical inspection | **Complete** |
 | Duplicate/archive search | **Complete — no existing source record found** |
-| Machine-aided navigation | **Complete — evidence captured; temporary workflows removed** |
-| Tamil T1 first pass | **Complete provisionally through `00:26:22.080`** |
-| Provisional speech segments drafted | **30** |
-| Explicit unresolved markers remaining | **0** |
-| Tamil T2 ordinary spoken-text audit | **Complete — 43 checked / 43 passed; user transcript adjudication used for remaining holds** |
-| Tamil T3 consolidation/freeze | **Blocked only by mandatory acoustic tail gates** |
-| English translation | **Blocked until verified Tamil** |
+| Tamil T2 | **COMPLETE / CLOSED — 43/43 PASS** |
+| Tamil T3 | **VERIFIED-COMPLETE / FROZEN** |
+| Tamil unresolved holds | **0** |
+| Opening / ending | **Verified** |
+| `recording_truncated` | **false** |
+| English E1 | **COMPLETE** |
+| English E2 | **COMPLETE — 10 corrections consolidated / 0 unresolved** |
+| English E3 | **PASS / COMPLETE — 19/19 semantic blocks** |
+| English | **VERIFIED-COMPLETE** |
+| Archive | **FINAL CLOSED / RELEASE READY** |
 
 ## Editorial rules
 
 The attached MP3 is authoritative. Machine transcripts, catalogue wording and external printed texts are navigation/reference aids only. Preserve source-supported wording and repetition. Do not silently normalize quotations such as Tirukkural from an external text. Mark uncertainty instead of guessing.
 
-The provisional final `நன்றி, வணக்கம்` must not be treated as verified until the source tail is directly replayed. `recording_truncated` remains unresolved.
+The final `நன்றி, வணக்கம்` is verified in the closed workflow. The user directly confirmed that `வணக்கம்` is followed by applause/clapping with no further speech; `recording_truncated=false`.
 
 ## Exact next activity
 
-Continue **Tamil T2 strict direct listening with the next 10-batch iteration: precheck ranges 22–31 (`14:15–20:00`)**. Current cumulative state is **22 checked / 14 passed**; the just-completed 09:25–14:15 iteration passed 10/10 ranges. Retain the partly unresolved `00:00–00:14` lead-in and every checked-but-not-passed phrase on the mandatory retry list. Before Tamil can be frozen, T2 must also include dedicated final-60-second, final-30-second and final-major-pause-to-true-end replays.
+**None for this archive.** It is **FINAL CLOSED / RELEASE READY**.
 
+Reopen only if genuinely new source evidence or a documented fidelity error requires it.
+
+## Historical workflow records — superseded
+
+The preparation/retry/replay sections below are retained as audit history only. Any old `pending`, `22 checked / 14 passed`, blocked-English, or next-range language in those historical sections is **superseded by the final state above**.
 
 ## Focused retry packet
 

@@ -439,7 +439,7 @@
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "final archive release-readiness assessment",
+    "next_valid_source_activity": "none — archive FINAL CLOSED / RELEASE READY",
     "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
@@ -539,5 +539,25 @@
     "semantic_blocks_verified": "19/19",
     "verified_complete": true
   },
-  "release_readiness": "ready-for-final-assessment"
+  "release_readiness": "final-closed-release-ready",
+  "archive_status": "final-closed-release-ready",
+  "final_closure": {
+    "status": "PASS",
+    "report": "FINAL_CLOSURE.md",
+    "date": "2026-09-20",
+    "source_identity_verified": true,
+    "tamil_verified_complete": true,
+    "tamil_frozen": true,
+    "t2_state": "43/43 PASS",
+    "tamil_unresolved_holds": 0,
+    "ending_verified": true,
+    "recording_truncated": false,
+    "english_e1": "complete",
+    "english_e2": "complete",
+    "english_e3": "complete-pass",
+    "english_verified_complete": true,
+    "english_unresolved_findings": 0,
+    "release_ready": true,
+    "reopen_policy": "only for genuinely new source evidence or a documented fidelity error"
+  }
 }

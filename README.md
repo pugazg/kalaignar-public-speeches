@@ -484,31 +484,24 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 
 `speeches/varalattru-suvadu/` is **CLOSED / FULLY ARCHIVED**. Tamil is **`verified-complete` / FROZEN — 22/22** with **58 T2 corrections / 0 unresolved**. English is **`verified-complete`** with **13 E2 corrections + 2 E3 additional corrections / 0 unresolved**. No transcription or translation work remains pending.
 
-### Active work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
+### Completed work — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
 
-`speeches/kalaivanar-nsk-memorial-day-audio-06/` is pending at Tamil T2 **22 checked / 14 passed**. The second 10-batch direct-listening iteration **09:25–14:15 passed 10/10** and restored the previously withheld `12:49–13:15` house-anecdote interval. Exact next activity: **T2 ranges 22–31 / 14:15–20:00**.
+`speeches/kalaivanar-nsk-memorial-day-audio-06/` is **FINAL CLOSED / RELEASE READY**.
 
+- source SHA-256 — `6f0149229196b1d6df092d9fee006253591afec7ba9512bfbeb46dd0ab82c836`
+- decoded duration — **00:26:22.080**
+- Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
+- T2 — **43/43 PASS**
+- unresolved Tamil holds — **0**
+- `ending_verified=true`
+- `recording_truncated=false`
+- final spoken word — **`வணக்கம்`**
+- post-speech audio — **applause/clapping**
+- English E1 / E2 / E3 — **COMPLETE / COMPLETE / PASS**
+- E2 corrections — **10 / 0 unresolved**
+- E3 coverage — **19/19 semantic blocks**
+- English — **VERIFIED-COMPLETE**
+- unresolved English findings — **0**
+- final report — `speeches/kalaivanar-nsk-memorial-day-audio-06/FINAL_CLOSURE.md`
 
-### Latest active state — கலைவாணர் நினைவு நாள் ஒலிப்பதிவு 06
-
-Ordinary Tamil T2 spoken-text adjudication is **COMPLETE — 43/43 checked / 43/43 passed** using the user's explicitly authorized full transcription for the previously unresolved ranges. Canonical Tamil has **0 textual holds**. Remaining work is limited to the three mandatory acoustic tail gates before T3/freeze.
-
-
-### Audio 06 Tamil release state
-
-`speeches/kalaivanar-nsk-memorial-day-audio-06/` Tamil is now **VERIFIED-COMPLETE / T3 FROZEN** with T2 **43/43 PASS**, verified natural ending, and **0 unresolved Tamil holds**. English translation is unblocked.
-
-
-### Audio 06 English state
-
-`speeches/kalaivanar-nsk-memorial-day-audio-06/translation-en.md` now has a complete **E1 first-pass English translation** from the T3-frozen Tamil. E2 fidelity review is next; English is not yet verified-complete.
-
-
-### Audio 06 English E2
-
-Audio 06 English fidelity review is **COMPLETE** with **10 confirmed corrections consolidated** and **0 unresolved E2 findings**. E3 final end-to-end verification is ready.
-
-
-### Audio 06 English final state
-
-Audio 06 English is now **VERIFIED-COMPLETE** after E3 final verification: **19/19 semantic blocks PASS**, all **10/10 E2 corrections retained**, and **0 unresolved English findings**. Final archive release-readiness assessment is next.
+No transcription or translation work remains pending. Reopen only for genuinely new source evidence or a documented fidelity error.
