@@ -435,3 +435,17 @@ Canonical spoken Tamil is now the user-supplied transcription in `transcription-
 Do not claim the assistant independently heard these newly adjudicated ranges.
 
 Remaining T2 work is acoustic-only: TG-01, TG-02 and TG-03. Tamil T3 and English remain blocked until those ending gates close.
+
+
+## Tail textual sub-items closed — 2026-09-20
+
+Using the user's explicitly authorized full transcription, the tail wording is now textually adjudicated:
+
+- farewell noun — **`புகழ்`**
+- `வாழ்க` — **3 occurrences**
+- farewell phrase — **`உரைத்து விடைபெறுகிறேன்`**
+- closing words — **`நன்றி வணக்கம்`**
+- final spoken-text word — **`வணக்கம்`**
+- final grammatical thought — **textually complete**
+
+This does **not** close TG-01/TG-02/TG-03. Remaining work is acoustic-only: actual final pause, low-volume speech check, post-farewell sound, final audible event end time, and truncation.

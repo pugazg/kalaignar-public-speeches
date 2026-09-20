@@ -414,3 +414,17 @@ The user explicitly instructed that the previously supplied full transcription m
 This is recorded as **user-supplied human transcription adjudication**; the assistant did not independently hear the newly adjudicated ranges.
 
 TG-01/TG-02/TG-03 remain pending because text alone cannot establish the actual final major pause, post-farewell sound, final audible event end time, or truncation.
+
+
+## Tail textual sub-adjudication — 2026-09-20
+
+The user-authorized full transcription resolves these tail text items:
+
+- `புகழ்`
+- triple `வாழ்க`
+- `உரைத்து விடைபெறுகிறேன்`
+- `நன்றி வணக்கம்`
+- final spoken-text word `வணக்கம்`
+- final grammatical thought textually complete
+
+No acoustic closure is claimed. `ending_verified=false` and `recording_truncated=null` remain unchanged pending TG-01/TG-02/TG-03.

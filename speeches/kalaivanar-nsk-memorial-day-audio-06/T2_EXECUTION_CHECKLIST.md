@@ -39,7 +39,23 @@ The user transcript settles the spoken textual ending as:
 
 `அந்த கலைவாணருடைய புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்.`
 
-Text alone does not establish the actual final major pause, post-farewell sound, final audible event time, or truncation.
+Textual tail sub-items are now closed:
+
+- [x] farewell noun — `புகழ்`
+- [x] `வாழ்க` count — 3
+- [x] farewell phrase — `உரைத்து விடைபெறுகிறேன்`
+- [x] closing words — `நன்றி வணக்கம்`
+- [x] final spoken-text word — `வணக்கம்`
+- [x] final grammatical thought — textually complete
+
+Acoustic-only items remain:
+
+- [ ] final **audible** word/syllable confirmed
+- [ ] low-volume speech after apparent ending checked
+- [ ] post-farewell audio classified
+- [ ] final audible event end time established
+- [ ] actual final major pause established
+- [ ] natural ending versus truncation resolved
 
 ## T2 closure
 

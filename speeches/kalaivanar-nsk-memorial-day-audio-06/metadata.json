@@ -391,7 +391,7 @@
       "pending_later_record_state": "superseded-by-user-transcript-adjudication"
     },
     "tail_gate_status": {
-      "status": "pending",
+      "status": "textual-subitems-complete; acoustic-gates-pending",
       "template": "t2-batches/direct-listening-tail-gate-templates.md",
       "gates": {
         "TG_01_final_60_seconds": {
@@ -410,7 +410,25 @@
       },
       "ending_verified": false,
       "recording_truncated": null,
-      "counter_effect": "none; tail gates are independent closure checks, not ordinary sequential range counters"
+      "counter_effect": "none; tail gates are independent closure checks, not ordinary sequential range counters",
+      "textual_subitems": {
+        "evidence": "user-supplied full transcription explicitly authorized for adjudication",
+        "assistant_independent_audio_listening": false,
+        "farewell_noun": "புகழ்",
+        "vaazhga_count": 3,
+        "farewell_phrase": "உரைத்து விடைபெறுகிறேன்",
+        "closing_words": "நன்றி வணக்கம்",
+        "final_spoken_text_word": "வணக்கம்",
+        "grammatical_thought_textually_complete": true
+      },
+      "acoustic_items_pending": [
+        "confirm final audible spoken word/syllable",
+        "check for low-volume speech after apparent ending",
+        "classify post-farewell audio",
+        "identify final audible event end time",
+        "establish actual final major pause",
+        "resolve natural ending versus truncation"
+      ]
     },
     "expected_segments_total": 43,
     "unchecked_sequential_segments": 0,
@@ -420,7 +438,7 @@
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "complete TG-01 final 60 seconds, TG-02 final 30 seconds, and TG-03 actual final major pause to decoded end using actual audible tail replay",
+    "next_valid_source_activity": "acoustic tail closure only: TG-01 final 60 seconds, TG-02 final 30 seconds, TG-03 actual final major pause to decoded end",
     "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
@@ -441,7 +459,7 @@
     "tamil_segments_total": null,
     "tamil_segments_drafted": 30,
     "tamil_unresolved_ranges_open": 0,
-    "strict_audio_audit": "ordinary-text-complete; acoustic-tail-gates-pending",
+    "strict_audio_audit": "ordinary-text-complete; tail textual subitems complete; acoustic-tail-gates-pending",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked",
     "english_translation_review": "blocked",

@@ -14,6 +14,7 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 - Batches 64–73 — **10/10 PASS**
 - Batches 74–84 — **11/11 PASS**
 - unresolved Tamil text holds — **0**
+- tail textual sub-items — **COMPLETE** (`புகழ்`; 3× `வாழ்க`; `உரைத்து விடைபெறுகிறேன்`; `நன்றி வணக்கம்`; final spoken-text word `வணக்கம்`; grammatical thought textually complete)
 - assistant independently heard newly adjudicated ranges — **No**
 - evidence for newly resolved text — **user-supplied full transcription explicitly authorized by user**
 - Tamil T3 — **BLOCKED**
@@ -38,10 +39,10 @@ Only the three **acoustic ending gates** remain:
 2. TG-02 — final 30 seconds `25:52.080–26:22.080`
 3. TG-03 — identify the actual final major pause audibly and replay from there through `00:26:22.080`
 
-The user transcript already settles the spoken textual ending:
+The user transcript already settles all spoken-text tail sub-items. Exact ending:
 
 `அந்த கலைவாணருடைய புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்.`
 
-Do not reopen ordinary Tamil text merely for stylistic normalization. Do not claim acoustic ending verification from text alone.
+Do not reopen ordinary Tamil text merely for stylistic normalization. The only unresolved items are acoustic: final audible word/syllable confirmation, low-volume speech after the apparent ending, post-farewell sound, final audible event time, actual final major pause, and truncation. Do not claim these from text alone.
 
 After TG-01/TG-02/TG-03 pass, resolve `ending_verified` and `recording_truncated`, then proceed to Tamil T3 consolidation/freeze.

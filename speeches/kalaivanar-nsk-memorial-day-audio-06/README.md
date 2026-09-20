@@ -133,3 +133,10 @@ The user authorized the already supplied full transcription as human source evid
 Ordinary T2 is now **43/43 checked / 43/43 passed** with **0 unresolved Tamil text holds**. The assistant did not independently hear the newly adjudicated ranges.
 
 The only remaining T2 work is acoustic ending verification through TG-01/TG-02/TG-03.
+
+
+## Tail textual adjudication
+
+The user-authorized transcript settles the spoken-text ending as **`... புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்`**. The final spoken-text word is **`வணக்கம்`**, and the grammatical thought is textually complete.
+
+Only acoustic ending verification remains: TG-01/TG-02/TG-03, post-farewell sound, actual final pause, final audible event timing, and truncation.

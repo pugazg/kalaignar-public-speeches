@@ -2,11 +2,38 @@
 
 **Archive:** `speeches/kalaivanar-nsk-memorial-day-audio-06/`  
 **Gate class:** mandatory T2 ending audit — independent of ordinary sequential range passes  
-**Evidence class:** **template/preparation only — NOT T2 evidence**  
-**Live T2 state:** **22 checked / 14 passed**  
-**Canonical Tamil changes:** **0**  
+**Evidence class:** acoustic tail-gate record; spoken-text subitems are user-adjudicated, acoustic subitems remain pending  
+**Live ordinary T2 state:** **43 checked / 43 passed**  
+**Canonical spoken Tamil:** **complete / user-adjudicated**  
 **ending_verified:** **No**  
 **recording_truncated:** **Unresolved**
+
+
+## User-transcript textual tail adjudication — 2026-09-20
+
+The user's explicitly authorized full transcription resolves the **spoken-text** tail as:
+
+> `அந்த கலைவாணருடைய புகழ் வாழ்க வாழ்க வாழ்க என்று உரைத்து விடைபெறுகிறேன் நன்றி வணக்கம்.`
+
+Therefore the following textual sub-items are closed:
+
+- farewell noun after `அந்த கலைவாணருடைய` — **`புகழ்`**;
+- repeated `வாழ்க` count — **3**;
+- farewell verb phrase — **`உரைத்து விடைபெறுகிறேன்`**;
+- closing words in the supplied transcript — **`நன்றி வணக்கம்`**;
+- final spoken-text word in the supplied transcript — **`வணக்கம்`**;
+- final grammatical thought — **textually complete**.
+
+These are **user-transcript adjudications**, not claims of new independent assistant listening.
+
+Still unresolved acoustically:
+
+- whether `வணக்கம்` is the final **audible** spoken word/syllable;
+- whether low-volume speech follows;
+- post-farewell ambience/applause/music/noise/other voice;
+- final audible event end time;
+- actual final major pause;
+- natural ending versus truncation.
 
 ## Governing rule
 
@@ -32,7 +59,7 @@ These gates are **not ordinary sequential segment counters**. Preparing or compl
 **Replay interval:** `25:22.080–26:22.080`  
 **Duration:** 60.000s  
 **Replay WAV SHA-256:** `04217be6591aa31a34cf4027fe262e7ec0296b21cdf15acc1e65280c465872df`  
-**Status:** **PENDING — not yet directly replayed in this gate**
+**Status:** **TEXTUAL SUBITEMS RESOLVED / ACOUSTIC REPLAY PENDING**
 
 ## Mandatory audible checks
 
@@ -51,8 +78,9 @@ These gates are **not ordinary sequential segment counters**. Preparing or compl
 ## Decision
 
 - tail gate completed — **No**;
-- final audible word confirmed — **No**;
-- grammatical thought complete — **Not adjudicated**;
+- final spoken-text word from user transcript — **`வணக்கம்`**;
+- final audible word confirmed — **No — acoustic replay pending**;
+- grammatical thought complete — **Yes, textually; acoustic confirmation pending**;
 - post-farewell audio — **Not adjudicated**;
 - ending verified — **No**;
 - recording truncated — **Unresolved**.
@@ -64,7 +92,7 @@ These gates are **not ordinary sequential segment counters**. Preparing or compl
 **Replay interval:** `25:52.080–26:22.080`  
 **Duration:** 30.000s  
 **Replay WAV SHA-256:** `271824d85c12341ceff99ca377eb12f30ed5d777a5b74bc7b0aa570fa67ed4ef`  
-**Status:** **PENDING — not yet directly replayed in this gate**
+**Status:** **TEXTUAL SUBITEMS RESOLVED / ACOUSTIC REPLAY PENDING**
 
 ## Mandatory audible checks
 
@@ -135,9 +163,10 @@ The listener must first identify the actual final major pause audibly.
 
 - actual final major pause established — **No**;
 - replay from actual pause to true end completed — **No**;
-- final audible word confirmed — **No**;
+- final spoken-text word from user transcript — **`வணக்கம்`**;
+- final audible word confirmed — **No — acoustic replay pending**;
 - final audible event end time — **Not adjudicated**;
-- grammatical thought complete — **Not adjudicated**;
+- grammatical thought complete — **Yes, textually; acoustic confirmation pending**;
 - ending verified — **No**;
 - recording truncated — **Unresolved**.
 
@@ -150,8 +179,12 @@ This section may be completed only after TG-01, TG-02 and TG-03 all pass.
 - TG-01 final 60 seconds — **PENDING**
 - TG-02 final 30 seconds — **PENDING**
 - TG-03 final major pause to true end — **PENDING**
-- final audible word — **UNVERIFIED**
-- final grammatical thought — **UNVERIFIED**
+- final spoken-text word — **`வணக்கம்` / USER-ADJUDICATED**
+- final audible word — **UNVERIFIED ACOUSTICALLY**
+- final grammatical thought — **TEXTUALLY COMPLETE / ACOUSTIC CONFIRMATION PENDING**
+- farewell noun — **`புகழ்` / USER-ADJUDICATED**
+- repeated `வாழ்க` — **3 / USER-ADJUDICATED**
+- farewell verb — **`உரைத்து விடைபெறுகிறேன்` / USER-ADJUDICATED**
 - trailing audio classification — **UNVERIFIED**
 - final audible event end time — **UNVERIFIED**
 - `ending_verified` — **false**
