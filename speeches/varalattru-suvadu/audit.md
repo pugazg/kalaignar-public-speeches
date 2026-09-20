@@ -152,8 +152,39 @@ PDF 13 required **no additional substantive correction** in this T2 batch.
 - PDF 12→13 **`அதை நாம் / உணர்ந்திடவில்லை;`** — PASS
 - PDF 13 terminal **`தன்மானத்`** → PDF 14 continuation queued for Batch 3
 
+## T2 Batch 3 — PDF pages 14–18 — COMPLETE / PASS
+
+Independent line-by-line source review completed for **5 additional speech pages**.
+
+| PDF | T1 reading | T2 source-supported reading / action |
+|---:|---|---|
+| 14 | `நினைத்துப் பார்க்க வேண்டும்` | source joins as **`நினைத்துப் பார்க்கவேண்டும்`** |
+| 14 | `அதுவும் தேவையான ஒன்று தான்.` | **`அதுவும் தேவையானது.`** |
+| 15 | `பாடுபடுகிறோம் — நாட்டின்` | source punctuation is **`பாடுபடுகிறோம் - நாட்டின்`** |
+| 15 | `நீதிக்கட்சி எழுப்பிய` | **`நீதிக் கட்சி எழுப்பிய`** |
+| 15 | `வகுப்புகளின் தனித்தனி உரிமைகள்` | **`வகுப்புக்களின் தனித்தனி உரிமைகள்`** |
+| 15 | `நீதிக்கட்சியும்` | **`நீதிக் கட்சியும்`** |
+| 15 | `கிடைக்காமல் போய்விடும்` | **`கிடைக்காமல் போய் விடும்`** |
+| 16 | `அங்கேயெல்லாம்` | printer split `அங்கேல் / லாம்` resolves to **`அங்கேல்லாம்`** |
+| 16 | `நீதிக்கட்சித் தலைவர்கள்` | **`நீதிக் கட்சித் தலைவர்கள்`** |
+| 17 | `மற்றவர்களே அண்டவொட்டாமல்` | **`மற்றவர்களை அண்டவொட்டாமல்`** |
+| 17 | `அதுபற்றிச் சிந்திக்காமலே` | **`அதுபற்றி சிந்திக்காமலே`** |
+
+PDF 18 required **no additional substantive correction** in this T2 batch.
+
+### Batch result
+
+- PDF pages checked — **5**
+- substantive corrections applied — **11**
+- cumulative T2 pages — **15/22**
+- cumulative T2 corrections — **30**
+- unresolved readings — **0**
+- historical-glyph family review — **PASS**
+- PDF 13→14 **`தன்மானத் / தந்தை பெரியார்...`** — PASS
+- PDF 18 terminal **`நீதிமன்`** → PDF 19 continuation remains queued for Batch 4
+
 ## Exact next activity
 
-Process **T2 Batch 3 — PDF pages 14–18 (5 speech pages)**.
+Process **T2 Batch 4 — PDF pages 19–23 (5 speech pages)**.
 
-Begin with the PDF 13→14 continuation after **`தன்மானத்`**. Re-read every line directly against source pixels, apply the historical-glyph guide, and record/apply only source-supported corrections. English remains blocked.
+Begin by resolving the PDF 18→19 physical split after **`நீதிமன்`**. Re-read every line directly against source pixels, apply the historical-glyph guide, and record/apply only source-supported corrections. English remains blocked.

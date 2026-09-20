@@ -30,7 +30,7 @@ The earlier Publication 16 intake under `kalaignar-essays` was a routing error a
 
 - speech body — PDF **4–25**, **22 pages**
 - first-pass/source-checked — PDF **4–25**, **22/22 speech pages — T1 COMPLETE**
-- T2 strict visual audit — **IN PROGRESS — 10/22 PASS (PDF 4–13)**
+- T2 strict visual audit — **IN PROGRESS — 15/22 PASS (PDF 4–18)**
 - Tamil consolidation/freeze — **BLOCKED**
 - English — **BLOCKED**
 
@@ -108,8 +108,23 @@ Corrections applied:
 - cumulative corrections — **19**
 - unresolved — **0**
 
+## T2 Batch 3 durable checkpoint — PDF 14–18
+
+**COMPLETE / PASS — 5/5 pages.**
+
+Corrections applied:
+
+- PDF 14 — **`பார்க்கவேண்டும்`**, **`அதுவும் தேவையானது`**
+- PDF 15 — source hyphen after `பாடுபடுகிறோம்`; **`நீதிக் கட்சி`** spacing; **`வகுப்புக்களின்`**; **`போய் விடும்`**
+- PDF 16 — **`அங்கேல்லாம்`** from physical split `அங்கேல் / லாம்`; **`நீதிக் கட்சித் தலைவர்கள்`**
+- PDF 17 — **`மற்றவர்களை அண்டவொட்டாமல்`**, **`அதுபற்றி சிந்திக்காமலே`**
+- PDF 18 — no additional substantive correction
+- Batch-3 corrections — **11**
+- cumulative corrections — **30**
+- unresolved — **0**
+
 ## Exact next activity
 
-**T2 Batch 3 — strict visual fidelity audit, PDF pages 14–18 (5 speech pages).**
+**T2 Batch 4 — strict visual fidelity audit, PDF pages 19–23 (5 speech pages).**
 
-Begin with PDF 13→14 **`தன்மானத் / தந்தை பெரியார்...`**. Compare every line against source pixels, verify all 13 historical-glyph families, punctuation, names, numerals and page-boundary joins, and apply only source-supported corrections.
+Begin with PDF 18→19 **`நீதிமன் / ...`** and resolve the physical split from source pixels. Verify all 13 historical-glyph families, punctuation, names, numerals and page-boundary joins, and apply only source-supported corrections.
