@@ -465,7 +465,7 @@
     "english_translation": "first-pass-complete",
     "english_translation_review": "ready-not-started",
     "english_translation_final_verification": "blocked-pending-e2-review-and-consolidation",
-    "tamil_unresolved_count_note": "0 textual holds after explicit user authorization to use the supplied full transcription; acoustic ending gates remain pending"
+    "tamil_unresolved_count_note": "0 textual holds; T2 acoustic tail gates closed; Tamil T3 verified-complete/frozen"
   },
   "t2_textual_precheck": {
     "status": "complete-preparatory-only",
