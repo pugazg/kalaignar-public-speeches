@@ -25,9 +25,23 @@
 
 ## Tamil T1
 
-**READY / NOT STARTED — 0/16.**
+**COMPLETE — 16/16 source pages.**
 
-Next: transcribe PDF **26–41** directly from source scans, preserving page joins and source-specific forms.
+- canonical page records — **16/16**, PDF 26–41;
+- missing/duplicate page records — **0/0**;
+- unreadable/unknown placeholders — **0**;
+- all 15 page joins retained for T2 verification;
+- source closing line on PDF41 kept outside speech body;
+- PDF1–23 existing Murasoli letter remains excluded;
+- PDF24–25 title/front matter remains outside speech body.
+
+T1 was produced from direct page-image inspection with machine text used only as a navigation/comparison aid; source scans remain controlling.
+
+### T2 attention
+
+Recheck martyr names/place names, `ஏன் மருந்தினார்கள் என்றால்`, the PDF29 three-fold phrase, all numerals, Rajaji/Pannir Selvam exchange, national-song lines, `திராவிட வித்யாபூஷண`, applause markers, PDF40 joined word form, all page joins, final farewell and separate source closing line.
+
+Tamil T2 — **READY / NOT STARTED**.
 
 
 ## Cross-repository duplicate resolution

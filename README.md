@@ -521,6 +521,7 @@ No transcription or translation work remains pending. Reopen only for genuinely 
 - source / duplicate / boundary gate — **PASS / COMPLETE**
 - exact date — **not established**
 - venue — **காஞ்சிபுரம்**
-- Tamil T1 — **READY / 0/16**
+- Tamil T1 — **COMPLETE / 16/16**
+- Tamil T2 — **READY / NOT STARTED**
 
-Exact next activity: **Tamil T1 PDF 26–41**.
+Exact next activity: **Tamil T2 strict direct-scan audit PDF 26–41**.

@@ -25,15 +25,20 @@ Source / duplicate / boundary gate: **PASS / COMPLETE**.
 - venue `காஞ்சிபுரம்` is source-established;
 - exact speech date is not source-established;
 - duplicate dedicated archive found — **No**;
-- Tamil T1 — **0/16 / READY**.
+- Tamil T1 — **COMPLETE — 16/16**.
+
+## Durable Tamil T1 result
+
+Tamil T1 — **COMPLETE — 16/16 source pages**.
+
+- PDF26–41 page records — complete / ordered;
+- missing / duplicate — **0 / 0**;
+- unreadable / unknown — **0**;
+- all 15 joins retained for T2;
+- PDF41 editorial closing line remains outside speech body;
+- source-sensitive T2 checklist is recorded in `transcription-ta.md`;
+- Tamil T2 — **READY / NOT STARTED**.
 
 ## Exact next activity
 
-Tamil T1 first-pass transcription for **all PDF 26–41**, preserving explicit page boundaries.
-
-
-## Existing-work cross-reference
-
-`விஷம்; ஒரு துளி போதாதா?` is already archived in `pugazg/kalaignar-murasoli-letters` as **Volume 46 / letter 3606 / 3-2-2012**. Do not recreate it in the essays repository.
-
-The only active new work from this booklet is the Kanchipuram speech, PDF **26–41**.
+Tamil T2 strict direct-scan audit for **all PDF 26–41**, with scan-supported corrections consolidated into canonical Tamil before T3.

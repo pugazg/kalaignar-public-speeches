@@ -46,10 +46,10 @@
     "duplicate_check": "pass-no-existing-dedicated-archive",
     "source_inspection": "complete",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "ready-not-started",
+    "tamil_transcription": "first-pass-complete",
     "speech_pages_total": 16,
-    "speech_pages_drafted": 0,
-    "tamil_visual_audit": "blocked",
+    "speech_pages_drafted": 16,
+    "tamil_visual_audit": "ready-not-started",
     "tamil_consolidation": "blocked",
     "opening_verified": false,
     "ending_verified": false,
@@ -59,6 +59,34 @@
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Tamil T1 first-pass transcription PDF 26–41"
+    "next_gate": "Tamil T2 strict direct-scan fidelity audit PDF 26–41",
+    "t1_pages_completed": 16,
+    "t1_missing_pages": 0,
+    "t1_unreadable_or_unknown": 0
+  },
+  "t1": {
+    "status": "complete",
+    "pages": "16/16",
+    "pdf_range": "26-41",
+    "missing_pages": 0,
+    "unreadable_unknown": 0,
+    "page_joins": [
+      "26→27",
+      "27→28",
+      "28→29",
+      "29→30",
+      "30→31",
+      "31→32",
+      "32→33",
+      "33→34",
+      "34→35",
+      "35→36",
+      "36→37",
+      "37→38",
+      "38→39",
+      "39→40",
+      "40→41"
+    ],
+    "source_closing_line_outside_body": "இவ்வாறு தலைவர் கலைஞர் அவர்கள் உரையாற்றினார்."
   }
 }

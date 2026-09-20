@@ -34,29 +34,26 @@
 | Gate | State |
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
-| Tamil T1 first-pass transcription | **READY / NOT STARTED — 0/16** |
-| Tamil T2 strict direct-scan audit | blocked |
+| Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
+| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
 | Tamil T3 consolidation/freeze | blocked |
 | English E1/E2/E3 | blocked |
 | Repository closure | not started |
 
+## Tamil T1
+
+**COMPLETE — 16/16 source pages.**
+
+- canonical page records: PDF **26–41**, complete / unique / ordered;
+- missing pages — **0**;
+- unreadable/unknown placeholders — **0**;
+- all **15** page joins are explicitly retained for T2;
+- PDF41 editorial closing line `இவ்வாறு தலைவர் கலைஞர் அவர்கள் உரையாற்றினார்.` is preserved outside the speech body;
+- PDF1–23 remains excluded as existing Murasoli letter 3606;
+- PDF24–25 remains separate title/front matter.
+
+Source-sensitive T2 attention is recorded in `transcription-ta.md`, including the language-martyr names, source-specific `ஏன் மருந்தினார்கள் என்றால்`, Rajaji/Pannir Selvam exchange, national-song lines, `திராவிட வித்யாபூஷண`, numerals, applause markers and the final source closing line.
+
 ## Exact next activity
 
-Perform **Tamil T1 first-pass transcription for all 16 speech-body scans: PDF 26–41**, preserving page boundaries and source-visible punctuation/forms.
-
-Do not include PDF 24–25 title/blank pages in the speech body, and do not import text from the separate PDF 1–23 article.
-
-
-## Cross-repository provenance
-
-The booklet's first work is **not a new essays publication**. It matches Murasoli letter **3606** exactly:
-
-- repository — `pugazg/kalaignar-murasoli-letters`
-- Volume — **46**
-- letter — **3606**
-- title — `விஷம்; ஒரு துளி போதாதா?`
-- date — **3-2-2012**
-- canonical range in that source — PDF **114–127**
-- chapter — `volumes/volume-46/chapters/3606-visham-oru-thuli-pothatha.md`
-
-Only the separately titled Kanchipuram speech in PDF **24–41** is new to this repository.
+Perform **Tamil T2 strict direct-scan fidelity audit for all PDF 26–41 / 16 pages**, consolidating only scan-supported corrections and leaving **0 unresolved** before T3.
