@@ -366,3 +366,13 @@ Their agreements/conflicts are recorded in:
 - `t2-batches/dual-witness-discrepancy-ledger-ranges-22-31.md`.
 
 This preparation improves replay targeting but does **not** satisfy T2. No canonical Tamil was changed and counters remain **22 checked / 14 passed**.
+
+
+## Candidate-only preparation — ranges 32–41 / 20:00–26:00
+
+Companion and attachment-level automatic transcripts have now been compared against prechecks 32–41. See:
+
+- `t2-batches/companion-transcript-crosscheck-ranges-32-41.md`
+- `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
+
+No T2 counters or canonical Tamil changed.

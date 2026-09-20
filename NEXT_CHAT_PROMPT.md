@@ -26,6 +26,8 @@ Read first:
 6. latest direct-listening records 54–63
 7. `t2-batches/companion-transcript-crosscheck-ranges-22-31.md`
 8. `t2-batches/dual-witness-discrepancy-ledger-ranges-22-31.md`
+9. `t2-batches/companion-transcript-crosscheck-ranges-32-41.md`
+10. `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
 
 ## Durable T2 state
 
@@ -41,6 +43,7 @@ Read first:
 - English — **BLOCKED**
 - companion-transcript cross-check for ranges 22–31 — **COMPLETE / candidate-only; no T2 counter change**
 - dual-witness discrepancy ledger — **COMPLETE / candidate-only; no T2 counter change**
+- ranges 32–41 candidate preparation — **COMPLETE / candidate-only; no T2 counter change**
 
 Key newly resolved readings include:
 

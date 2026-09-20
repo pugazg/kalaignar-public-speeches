@@ -326,3 +326,13 @@ A second preparation layer now compares the companion transcript against the att
 It records agreements and mandatory replay conflicts for every range. Highest-risk targets are the fund/co-actor list at `15:35–16:00`, the spoken Kural opening at `17:47–18:00`, and the Prahlada/Hiranya/Abdullah Gandhi comparison at `19:33–20:00`.
 
 This is still **not T2 evidence**. Counters remain **22 checked / 14 passed** and canonical Tamil is unchanged.
+
+
+## Candidate preparation — ranges 32–41 / 20:00–26:00
+
+Later-range replay preparation is now complete in:
+
+- `t2-batches/companion-transcript-crosscheck-ranges-32-41.md`
+- `t2-batches/dual-witness-discrepancy-ledger-ranges-32-41.md`
+
+This maps the `எச்சம்` conclusion, Avadi/`விலாங்கு மனிதன்`, 1947 radio incident, multi-party praise, Navalar reaction, laughter-health passage and Kannadasan card-game close. It is **not T2 evidence**. Counters remain **22 checked / 14 passed** and canonical Tamil is unchanged.
