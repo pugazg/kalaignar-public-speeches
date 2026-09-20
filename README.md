@@ -507,3 +507,8 @@ Ordinary Tamil T2 spoken-text adjudication is **COMPLETE — 43/43 checked / 43/
 ### Audio 06 English E2
 
 Audio 06 English fidelity review is **COMPLETE** with **10 confirmed corrections consolidated** and **0 unresolved E2 findings**. E3 final end-to-end verification is ready.
+
+
+### Audio 06 English final state
+
+Audio 06 English is now **VERIFIED-COMPLETE** after E3 final verification: **19/19 semantic blocks PASS**, all **10/10 E2 corrections retained**, and **0 unresolved English findings**. Final archive release-readiness assessment is next.

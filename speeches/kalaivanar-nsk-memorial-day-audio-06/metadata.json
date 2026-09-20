@@ -439,7 +439,7 @@
     "counter_invariant_note": "Retries are already counted as checked and must not increment checked again; tail gates are independent and outside the 43 ordinary source-segment counters.",
     "preparation_status": "superseded-by-completed-ordinary-text-adjudication",
     "preparation_closure": "T2_PREPARATION_CLOSURE.md",
-    "next_valid_source_activity": "English E3 final end-to-end Tamil-to-English verification",
+    "next_valid_source_activity": "final archive release-readiness assessment",
     "preparation_guard": "Ordinary spoken-text adjudication is complete at 43/43. Do not create more generic text-preparation artifacts; only acoustic tail-gate evidence may advance T2.",
     "user_transcript_adjudication": {
       "status": "accepted-on-explicit-user-instruction",
@@ -462,9 +462,9 @@
     "tamil_unresolved_ranges_open": 0,
     "strict_audio_audit": "complete-closed",
     "tamil_consolidation": "complete-verified-frozen",
-    "english_translation": "fidelity-corrections-consolidated",
+    "english_translation": "verified-complete",
     "english_translation_review": "complete",
-    "english_translation_final_verification": "ready-not-started",
+    "english_translation_final_verification": "complete",
     "tamil_unresolved_count_note": "0 textual holds; T2 acoustic tail gates closed; Tamil T3 verified-complete/frozen"
   },
   "t2_textual_precheck": {
@@ -534,7 +534,10 @@
     "e2": "complete",
     "e2_confirmed_corrections": 10,
     "e2_unresolved_findings": 0,
-    "e3": "ready-not-started",
-    "verified_complete": false
-  }
+    "e3": "complete-pass",
+    "e3_report": "E3_ENGLISH_FINAL_VERIFICATION.md",
+    "semantic_blocks_verified": "19/19",
+    "verified_complete": true
+  },
+  "release_readiness": "ready-for-final-assessment"
 }

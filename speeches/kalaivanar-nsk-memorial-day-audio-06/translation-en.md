@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — Audio 06 — English Translation
 
-> **Status:** **E2 FIDELITY REVIEW COMPLETE — confirmed corrections consolidated; E3 pending**  
+> **Status:** **VERIFIED-COMPLETE — E1 complete; E2 complete; E3 final end-to-end verification PASS**  
 > **Source layer:** `transcription-ta.md` — **VERIFIED-COMPLETE / T3 FROZEN**  
 > **Translation rule:** Translate only from the frozen Tamil layer; preserve rhetoric, repetition, historical/political language, titles, source-supported oddities, and distinctions as faithfully as practical. Do not silently modernize or repair the Tamil.  
 > **Audio boundary:** `00:26:22.080`; speech ends naturally at `வணக்கம்`, followed by applause.
@@ -238,4 +238,4 @@ Thank you. Vanakkam.
 3. Proper-name titles such as Periyar, Perarignar Anna, Nadigar Thilagam, Lakshiya Nadigar, Nadigavel, Nadigamani, Silambu Selvar and the work/title forms `Injippaththare Mel`, `Vanjippaththan`, `Injippaththan`, and `Vilaangu Manithan` are retained rather than replaced with speculative identifications.
 4. `எச்சம்` is rendered contextually as “what remains” / “things left behind” because the speech itself explicitly argues against reading it merely as “children.”
 5. The card-game passage contains compressed spoken syntax in the frozen Tamil. Where English supplies Kannadasan as the implied subject in the money-loss sequence, that subject is inferred transparently from the immediately surrounding anecdote; no new event is added.
-6. E2 has compared every frozen-Tamil speech paragraph against the English, and all confirmed fidelity corrections are consolidated here. E3 final end-to-end verification remains pending.
+6. E2 compared every frozen-Tamil speech paragraph against the English and consolidated all confirmed fidelity corrections. E3 then completed a final beginning-to-end verification with 19/19 speech-paragraph coverage and no remaining English fidelity issue.

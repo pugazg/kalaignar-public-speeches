@@ -1,6 +1,6 @@
 # Kalaivanar N. S. Krishnan Memorial-Day Speech — Audio 06 — English Fidelity Review
 
-> **Status:** **E2 COMPLETE — 10 confirmed corrections consolidated into `translation-en.md`; E3 pending**  
+> **Status:** **E2 COMPLETE / E3 FINAL VERIFICATION PASS — English verified-complete**  
 > **Tamil source:** `transcription-ta.md` — VERIFIED-COMPLETE / T3 FROZEN  
 > **English source:** `translation-en.md` — E2-corrected
 
@@ -131,3 +131,69 @@ E1’s “wept bitterly” softened the separate `கதறினார்` forc
 - corrections consolidated into `translation-en.md` — **Yes**
 - English verified-complete — **No**
 - E3 final end-to-end verification — **READY / NOT STARTED**
+
+
+## E3 final end-to-end verification — PASS
+
+A separate final beginning-to-end verification was completed after all E2 corrections were consolidated.
+
+### Coverage
+
+Frozen Tamil speech paragraphs / semantic blocks represented in English:
+
+1. spoken lead-in — **PASS**
+2. opening humour / offering to Kalaivanar — **PASS**
+3. stage-imagination aside — **PASS**
+4. Tolkappiyar Conference anecdote — **PASS**
+5. boast/closeness examples — **PASS**
+6. Kannadasan / Sivaji affection joke — **PASS**
+7. crossed-telephone anecdote — **PASS**
+8. Tamil art / Anna / Ilangovan — **PASS**
+9. movement artists — **PASS**
+10. Kannadasan / Krishna — **PASS**
+11. Gopalapuram house / agraharam — **PASS**
+12. Sivaji benefit plays / art-politics argument — **PASS**
+13. Tirukkural / `எச்சம்` argument — **PASS**
+14. Prahlada–Hiranya / Abdullah Gandhi–Mahatma Gandhi comparisons — **PASS**
+15. Avadi / `Vilaangu Manithan` / 1947 radio episode — **PASS**
+16. cross-party praise / election campaigning — **PASS**
+17. Navalar / family affection / laughter — **PASS**
+18. card-game anecdote — **PASS**
+19. farewell — **PASS**
+
+Coverage result: **19 / 19 PASS**.
+
+### E2 correction recheck
+
+All 10 E2 findings are present in the final English:
+
+- crossed-phone speaker turn — **PASS**
+- seated-artists added-action removal — **PASS**
+- K. R. Ramasamy title fidelity — **PASS**
+- M. R. Radha frozen title form — **PASS**
+- N. S. K. life-goal strength — **PASS**
+- three corrected navigation joins — **PASS**
+- unusual `தற்கார் தகவிலர்` source form disclosed — **PASS**
+- `விலாங்கு` head/tail relation — **PASS**
+- unsupported “other parties” inference removed — **PASS**
+- `கதறினார்` force retained as “wept and wailed” — **PASS**
+
+### Opening and ending
+
+- frozen Tamil lead-in represented — **PASS**
+- final triple `வாழ்க` represented as triple “Long live” — **PASS**
+- final `நன்றி வணக்கம்` represented — **PASS**
+- post-speech applause/clapping represented — **PASS**
+- no further speech invented — **PASS**
+- natural, non-truncated ending retained — **PASS**
+
+### Final E3 decision
+
+- paragraph/semantic-block omission — **None found**
+- duplicate English speech block — **None found**
+- unresolved E2 issue — **0**
+- new E3 correction — **0**
+- English translation — **VERIFIED-COMPLETE**
+- English final verification — **COMPLETE**
+
+The English layer is now frozen for release-readiness assessment. Reopen only if new source evidence changes the frozen Tamil or demonstrates a substantive English fidelity error.

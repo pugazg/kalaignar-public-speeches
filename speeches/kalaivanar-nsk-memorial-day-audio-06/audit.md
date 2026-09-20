@@ -495,3 +495,20 @@ Result: **COMPLETE**
 - E3 — **READY / NOT STARTED**
 
 Correction ledger: `translation-review.md`.
+
+
+## English E3 final end-to-end verification
+
+Result: **PASS / VERIFIED-COMPLETE**
+
+- frozen-Tamil semantic blocks represented — **19/19**
+- all E2 corrections retained — **10/10**
+- missing English speech blocks — **0**
+- duplicate English speech blocks — **0**
+- opening / ending correspondence — **PASS**
+- triple `வாழ்க`, `வணக்கம்`, applause — **PASS**
+- new E3 correction — **0**
+
+Report: `E3_ENGLISH_FINAL_VERIFICATION.md`.
+
+English workflow is complete.
