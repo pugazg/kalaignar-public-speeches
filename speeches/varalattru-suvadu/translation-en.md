@@ -181,10 +181,107 @@ It was to bring awakening, renewed awareness, and a new resurgence to such a soc
 
 Those who sowed the seeds of that awakening—Theagaraya, Dr. Nair, Natesanar—and the movement for self-respect—
 
+
+### PDF page 14 — printed page 13
+
+—people like Father Periyar took the lead and continued that work.
+
+# The Lesson Taught by Cheranmadevi!
+
+That was the period when Father Periyar was fighting very vigorously for India's freedom! The social justice demanded by the Dravidian movement began to attract Periyar. India must have freedom. That was true. But at the same time, what would be the condition of the people of this country after freedom was achieved? That too had to be thought about. That too was necessary. Events took place that made Periyar realize that necessity. One such event occurred at Cheranmadevi in Tirunelveli district, near Madurai district.
+
+It concerned the *gurukulam* run by V. V. S. Iyer, who was described as one of Gandhi's true disciples.
+
+A *gurukulam* run by people who had accepted Gandhi as their guru?
+
+A *gurukulam* run by the disciples of Mahatma Gandhi, who lived like Vallalar Ramalinga Adigal of Vadalur, saying untouchability must be abolished and there must be no caste or religious discrimination.
+
+In that Cheranmadevi *gurukulam*, although all were students wearing khadi—although all wore badges bearing Gandhi's image on their shirts—although all, like Gandhi, spun thread on the *takli*—although all accepted Gandhi's teachings and turned the spinning wheel, those “all” were all when spinning on the *takli*!—all when wearing khadi—all when shouting “Jai to Mahatma Gandhi!”
+
+But when it came time to sit down to eat, they were separate!
+
+This was the injustice practised in the Cheranmadevi *gurukulam* run by V. V. S. Iyer!
+
+### PDF page 15 — printed page 14
+
+Periyar, who had committed himself to that same movement, saw this and rose in anger.
+
+We are working for freedom—for the freedom of the country, of the soil. But should not the people growing on this soil like plants and creepers also be liberated? Periyar asked this about the *gurukulam*. Many in the Congress supported him.
+
+It was then that the Justice Party's call for communal representation attracted Periyar. Periyar fought for the Congress movement, the national movement, to accept that right to communal representation.
+
+At the conference held in Kanchipuram under the leadership of Tamil Thendral Thiru. Vi. Ka., Periyar brought forward a resolution on communal representation. People such as Thiru. Vi. Ka. asked: “At a time when we say caste must be abolished, is it fair to demand communal representation—that the separate rights of each community should be allotted on the basis of their numbers?”
+
+# If the Confidence Vote Is Lost...
+
+At first glance, that may seem a fair question.
+
+Periyar, the Justice Party, and Anna all gave only one answer:
+
+“Until all castes disappear and a state of one community is created, communal representation must continue. Otherwise, the places that should be available on the basis of numbers will not reach the backward and oppressed communities.”
+
+This grew into a major revolution in the history of India.
+
+It was on this same basis that Dr. Ambedkar raised the banner of struggle.
+
+In the Indian political arena, he argued for a system of separate electorates.
+
+### PDF page 16 — printed page 15
+
+Gandhi insisted that the separate-electorate right sought by Ambedkar should not be allowed, saying it would obstruct the broader objective of abolishing untouchability. Yet Dr. Ambedkar remained firm that, in constituencies reserved for the oppressed, only members of the oppressed communities should contest. If a constituency was reserved for them, then whether candidates belonged to the Congress, the Communist Party, or any other party, only members of the oppressed communities within those parties should contest. A situation was created to that effect. We must ensure that this is not endangered.
+
+Parliament meets on the 20th. If Charan Singh should fail to obtain the votes of confidence, an election must be held immediately and Parliament must be convened in January.
+
+Why? For what reason?
+
+The system of separate constituencies for the oppressed communities must be renewed once every ten years! That period ends in January. If it is not renewed by January, the right Ambedkar fought for and secured for the oppressed people will disappear; the arrangement under which so many seats in the Legislature and Parliament are reserved for the oppressed will be struck down!
+
+If Parliament is dissolved on the 20th, elections must be held before January. Otherwise, this government must be kept from falling until January.
+
+If we do not think about all this, the rights of the oppressed people will be taken away!
+
+I mention this because that was the extent of the right won through struggle under Ambedkar's leadership.
+
+In the same way, here the leaders of the Justice Party fought for the rights of backward and oppressed people.
+
+### PDF page 17 — printed page 16
+
+When I point to history, no one should think that I am trying to hurt them.
+
+People from the Brahmin community made good use of the conditions that existed then.
+
+In 1877, when the Madras Presidency existed as a single province, if we cast an eye over who obtained official opportunities and what kinds of people they were, in a department where the post called “High Sheristadar” was equal in status to a Collector, there were 147 posts in all. At that time its head was one Krishnarao. And who were the 147 people behind him? His father-in-law—his father-in-law's younger brother—his wife's elder brother—his younger brother—the younger brother's sons: all of them were people connected with him. (Laughter—applause)
+
+The reason was not merely that they too kept others from coming near; others also did not compete for those posts. They did not even think about it.
+
+In such a situation, those who are greater in number must receive a greater share of reservations.
+
+Whether it is an industrial college, an engineering college, an agricultural college, or a medical college, opportunities to enter them must be increased. We say that places must also be increased in employment. What should be done for that?
+
+A society that is already like a patient must somehow be helped to sit in that place; if it is in a condition where people are needed to lift it and give it medicine, the leaders of that time understood the need to provide certain concessions in the name of rights.
+
+It was because they understood this that communal representation was introduced.
+
+### PDF page 18 — printed page 17
+
+In 1928, Subbarayan was Premier of the Madras Presidency. In that ministry, the elder statesman Muthiah and Sethurathina Iyer, who belonged to the Brahmin community, were ministers. It was in that period that the elder statesman Muthiah—who was not himself from a backward community—brought in the Communal G.O., with the idea of allocating proportions according to numbers and giving places in education and employment to oppressed and backward non-Brahmin people.
+
+# They Framed Even the Constitution with an Ulterior Aim!
+
+It gradually came into operation. When the Constitution of India was framed, Ambedkar argued that justice should be provided to his community. Because the Communal G.O. rankled in the eyes of some of those who framed the Constitution, they arranged matters so that the Communal G.O. would no longer have a place under the Constitution! They made it so that the rights properly due to backward people could not be obtained.
+
+The very next day after the Constitution was issued, upper-caste people in Tamil Nadu used the basis of that Constitution to file a case in the High Court saying, “Under this Constitution, the Communal G.O. is invalid.”
+
+The High Court accepted the case, heard it, and delivered a judgment against the Communal G.O.
+
+Immediately, a major agitation arose in Tamil Nadu.
+
+It was not only Periyar and Anna; I recall with gratitude the names of Congress members who were then in the Legislature—K. T. Kosalram, the martyr Salem Subramaniam, and others—who said that because of the court—
+
 ## E1 progress
 
-- translated speech pages — **10/22**
-- completed E1 range — **PDF 4–13**
+- translated speech pages — **15/22**
+- completed E1 range — **PDF 4–18**
 - English fidelity review E2 — **NOT STARTED**
 - English final verification E3 — **NOT STARTED**
-- exact next E1 range — **PDF 14–18**
+- exact next E1 range — **PDF 19–23**
