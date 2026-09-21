@@ -74,8 +74,8 @@
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T1 PDF71–75"
+    "cadence": "default 5 physical PDF pages per iteration; user explicitly authorized processing remaining PDF71–81 together",
+    "next_gate": "Finalize canonical Tamil T1 PDF71–81 from completed source review"
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -92,11 +92,37 @@
     "unresolved_processed_body_readings": 1,
     "latest_range": "PDF66–70",
     "latest_range_result": "5/5 verified",
-    "next_range": "PDF71–75",
+    "next_range": "PDF71–81 finalization",
     "needs_review_pages": [
       60
     ],
     "source_obscured_spans": 1,
-    "needs_review_reason": "PDF60 first printed line has one span obscured by the KAMARAJ NEWS MART ownership stamp; guessed reconstruction 0."
+    "needs_review_reason": "PDF60 first printed line has one span obscured by the KAMARAJ NEWS MART ownership stamp; guessed reconstruction 0.",
+    "remaining_range_source_review": {
+      "range": "PDF71–81",
+      "scans_reviewed": 11,
+      "status": "complete",
+      "canonical_transcription_committed": false,
+      "guessed_reconstruction": 0,
+      "boundary_controls": [
+        "PDF70→71 clean transition; PDF71 opens நாரணமங்கலத்திலே, 144 தடையுத்தரவு!",
+        "PDF74→75 அரசாங் / கத்தில் → அரசாங்கத்தில்",
+        "PDF76→77 sentence continues ...என்று / எண்ணம், பகுத்தறிவு...",
+        "PDF77→78 வாடி / யும் → வாடியும்",
+        "PDF78→79 sentence continues ...திட்டத்துடன் முழு / அமைப்பு..."
+      ],
+      "pending_source_conditions": [
+        {
+          "pdf": 76,
+          "condition": "KAMARAJ NEWS MART ownership-stamp overlap affects upper text",
+          "reconstruction": "none"
+        },
+        {
+          "pdf": 81,
+          "condition": "terminal scan has physical surface loss plus ownership-stamp overlap affecting lower closing text",
+          "reconstruction": "none"
+        }
+      ]
+    }
   }
 }
