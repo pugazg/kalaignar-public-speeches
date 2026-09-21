@@ -1,6 +1,6 @@
 # களத்தில் கருணாநிதி — Tamil transcription
 
-**Status:** T1 **IN PROGRESS — PDF6–70 processed / 65 of 76 speech-body pages; PDF60 needs-review**  
+**Status:** T1 **IN PROGRESS — PDF6–70 processed / 65 of 76 speech-body pages; 65/65 processed pages verified**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -976,7 +976,7 @@ iv
 
 **Printed page:** 59
 
-முறைக்கு ⟦மூலத்தில் முத்திரையால் மறைவு⟧ மக்களிடையே, மாற்றுக் கட்சியினரை ஆளவந்தார்கள், காங்கிரசார் நடத்தும் முறை; கொடுங்கோன்மைபற்றி, நாங்கள் பேசாதிருந்தால், நூற்றி நாற்பத்துநாலு தடை உத்திரவுகளையும் மீறி, பிரச்சாரம் செய்யாமலிருந்தால், இவர்களுடைய, ‘தியாகம்’ மக்கள் மனதிலே ஊன்றியிருக்குமா?
+முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள், காங்கிரசார் நடத்தும் முறை; கொடுங்கோன்மைபற்றி, நாங்கள் பேசாதிருந்தால், நூற்றி நாற்பத்துநாலு தடை உத்திரவுகளையும் மீறி, பிரச்சாரம் செய்யாமலிருந்தால், இவர்களுடைய, ‘தியாகம்’ மக்கள் மனதிலே ஊன்றியிருக்குமா?
 
 மக்களிடையே, மந்திரிமார்மீது வெறுப்பு உண்டாகித்தான் இருக்குமா!
 
@@ -1212,6 +1212,16 @@ iv
 
 தியாகப்பட்டியலில் தேவையா, இன்னும்?
 
+## User adjudications — 2026-09-21
+
+The user supplied exact readings for three areas that could not be established from the obscured/damaged scan pixels alone. These are recorded as **user adjudications**, not as inferred OCR/source-pixel reconstructions:
+
+- PDF60 / printed p.59 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
+- PDF76 / printed p.75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 / printed p.80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+
+These adjudications introduce **0 guessed reconstruction**. PDF60 is therefore no longer a speech-body needs-review page. PDF76 and PDF81 remain pending only because their full canonical page transcriptions have not yet been committed.
+
 ## Pending final-range source review — PDF71–81
 
 The remaining physical scans **PDF71–81 / printed pp.70–80** have been rendered and manually inspected at high resolution in preparation for canonical transcription. **No PDF71–81 body text is yet promoted into the canonical T1 transcription below this note.**
@@ -1223,16 +1233,16 @@ Completed source-review findings:
 - PDF76→77 — sentence continues across the physical boundary: `...என்று / எண்ணம், பகுத்தறிவு...`
 - PDF77→78 — cross-page word join established: `வாடி / யும்` → `வாடியும்`
 - PDF78→79 — sentence continues across the physical boundary: `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 — `KAMARAJ NEWS MART` ownership stamp overlaps part of the upper text; any genuinely hidden characters must remain source-obscured, with guessed reconstruction **0**
-- PDF81 — terminal supplied scan has physical surface loss plus ownership-stamp overlap affecting lower closing text; hidden/lost characters must remain explicitly source-obscured, with guessed reconstruction **0**
+- PDF76 — previously stamp-obscured upper passage **RESOLVED by user adjudication (2026-09-21)** as `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 — previously damaged/stamp-obscured closing passage **RESOLVED by user adjudication (2026-09-21)** as `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 - source review of all remaining 11 scans is complete; final character-level canonical transcription and page-level verification remain pending
 
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
 - speech-body pages processed — **65/76** (PDF6–70)
-- processed speech pages verified — **64/65**
-- unresolved speech-body readings in processed range — **1** (PDF60; one ownership-stamp-obscured span)
+- processed speech pages verified — **65/65**
+- unresolved speech-body readings in processed range — **0**
 - source front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4; two physical-loss spans)
@@ -1286,7 +1296,7 @@ Cross-page controls:
 - PDF56→57 — clean paragraph boundary; no split word
 - PDF57→58 — clean paragraph boundary; no split word
 - PDF58→59 — sentence continues across the physical boundary: `...மனவளம் இழந்தவர்கள். / மனவளம் இழந்தோர் இன்று...`
-- PDF59→60 — cross-page continuation: `...அடக்கு / முறைக்கு...`; PDF60 then contains one ownership-stamp-obscured span
+- PDF59→60 — cross-page continuation: `...அடக்கு / முறைக்கு...`; the formerly stamp-obscured continuation was user-adjudicated on 2026-09-21 as `ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
 - PDF60→61 — clean paragraph boundary; PDF61 begins `அடி, உதை, குத்து...`
 - PDF61→62 — clean paragraph boundary; no split word
 - PDF62→63 — clean paragraph boundary; no split word
