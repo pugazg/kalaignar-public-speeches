@@ -64,8 +64,8 @@
     "source_boundary_mapping": "complete",
     "tamil_transcription": "in-progress",
     "speech_pages_total": 76,
-    "speech_pages_drafted": 30,
-    "speech_pages_verified_first_pass": 30,
+    "speech_pages_drafted": 35,
+    "speech_pages_verified_first_pass": 35,
     "tamil_visual_audit": "blocked-pending-t1-completion",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked-pending-tamil-freeze",
@@ -75,7 +75,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T1 PDF36–40"
+    "next_gate": "Tamil T1 PDF41–45"
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -86,12 +86,12 @@
   },
   "t1": {
     "status": "in-progress",
-    "speech_pages_processed": 30,
+    "speech_pages_processed": 35,
     "speech_pages_total": 76,
-    "verified_first_pass": 30,
+    "verified_first_pass": 35,
     "unresolved_processed_body_readings": 0,
-    "latest_range": "PDF31–35",
+    "latest_range": "PDF36–40",
     "latest_range_result": "5/5 verified",
-    "next_range": "PDF36–40"
+    "next_range": "PDF41–45"
   }
 }
