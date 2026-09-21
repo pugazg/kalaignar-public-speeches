@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF36–40
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF41–45
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,11 +26,14 @@ The earlier `kalaignar-essays` classification is superseded.
 
 - PDF1–5 front matter recorded
 - PDF4 — **needs-review**, 2 physical-loss spans, guessed reconstruction 0
-- Tamil T1 — **PDF6–35 / 30 of 76**
-- processed speech pages verified — **30/30**
+- Tamil T1 — **PDF6–40 / 35 of 76**
+- processed speech pages verified — **35/35**
 - processed body unresolved — **0**
-- latest batch PDF31–35 — **5/5 VERIFIED**
-- 35→36 — clean paragraph boundary; PDF36 begins `நிலைமை, ஆட்சியின் அலங்கோலம்...`
+- latest batch PDF36–40 — **5/5 VERIFIED**
+- historical-glyph PDF36–40 — **PASS / all 13 mandatory families checked / 0 unresolved**
+- source-sensitive PDF40 reading — `கண்றாவியாக` (historical `றா` identity source-checked)
+- PDF40 ends `...இறக்கும்படி செய்வது மேல்.`
+- 40→41 boundary — **check at start of next batch**
 - T2/T3 — blocked
 - English — blocked
 
@@ -46,6 +49,6 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Exact next activity
 
-Tamil T1 — **PDF36–40 only**.
+Tamil T1 — **PDF41–45 only**.
 
-Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF40.
+First resolve the PDF40→41 physical boundary from source pixels, then process PDF41–45. Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF45.
