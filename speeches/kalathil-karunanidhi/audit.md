@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **60/76**
-- range — **PDF6–65**
-- processed pages verified — **59/60**
+- speech pages processed — **65/76**
+- range — **PDF6–70**
+- processed pages verified — **64/65**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -378,4 +378,43 @@ PDF60's existing source hold remains unchanged:
 
 Cumulative T1: **60/76 processed; 59/60 verified; 1 needs-review**.
 
-Exact next range: **PDF66–70**.
+Exact next range: **PDF71–75**.
+
+
+## Tamil T1 batch — PDF66–70
+
+**PASS — 5/5 VERIFIED**
+
+- PDF66 / printed 65 — verified
+- PDF67 / printed 66 — verified
+- PDF68 / printed 67 — verified
+- PDF69 / printed 68 — verified
+- PDF70 / printed 69 — verified
+- guessed readings — **0**
+- new unresolved processed-body readings — **0**
+- cumulative unresolved processed-body readings — **1** (pre-existing PDF60 ownership-stamp-obscured span)
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page. Representative checks include PDF66 `காளைகள்` (`ளை`), PDF67 `கண்ணை` (`ணை`), and PDF69 `அண்ணா` (`ணா`). No glyph-driven uncertainty remains in PDF66–70.
+
+Source-sensitive forms retained include `சந்தர்ப்பவாதமா`, `முன்னேறப் பாதை`, `தியாகத்தணலில்`, `சூழலில்`, `இலட்சியக் காளைகள்`, `வரலாறு காணக்`, `இரவிக்கைகள்`, `காட்சிப்புலனறியும்`, `முடமாக்கப்பட்டவில்லையா`, `வேறு வேறுகப்`, `தியாக மில்லையா`, `தள்ளினப்படியும்`, `அடிதடிதர்பாரிலே`, `காயத்தழும்புகளிலிருந்து`, `கணக்கில`, `குன்றத்தூரிலே யிலிருந்து`, `செய்தி யொன்று`, `தடியடிதர்பார்`, and `சாவின் முனையில் வாயிலில்`.
+
+Cross-page controls:
+
+- PDF65→66 — clean paragraph boundary.
+- PDF66→67 — clean paragraph boundary.
+- PDF67→68 — clean paragraph boundary.
+- PDF68→69 — sentence continues `...மக்களை மாக்களாக மதித்து / முள்வேலிக்குள்ளே தள்ளினப்படியும்...`
+- PDF69→70 — clean paragraph boundary.
+- PDF70→71 — deferred to next batch; PDF70 ends `தியாகப்பட்டியலில் தேவையா, இன்னும்?`
+
+PDF60's existing source hold remains unchanged:
+
+- one ownership-stamp-obscured span
+- repository marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
+- guessed reconstruction — **0**
+
+Cumulative T1: **65/76 processed; 64/65 verified; 1 needs-review**.
+
+Exact next range: **PDF71–75**.
