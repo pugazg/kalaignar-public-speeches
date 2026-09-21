@@ -53,13 +53,13 @@
     "tamil_consolidation": "complete-pass",
     "opening_verified": true,
     "ending_verified": true,
-    "english_translation": "ready-not-started",
-    "english_translation_review": "blocked-pending-e1",
-    "english_translation_final_verification": "blocked-pending-e1-e2",
+    "english_translation": "first-pass-complete",
+    "english_translation_review": "ready-not-started",
+    "english_translation_final_verification": "blocked-pending-e2",
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "English E1 translation from frozen Tamil",
+    "next_gate": "English E2 page-by-page fidelity review PDF 26–41",
     "t1_pages_completed": 16,
     "t1_missing_pages": 0,
     "t1_unreadable_or_unknown": 0,
@@ -115,5 +115,17 @@
     "opening_verified": true,
     "ending_verified": true,
     "editorial_closing_line_outside_speech_body": true
+  },
+  "english_status": {
+    "translation_file": "translation-en.md",
+    "source_tamil": "transcription-ta.md",
+    "pages_translated": 16,
+    "pages_total": 16,
+    "page_range": "26-41",
+    "e1": "complete",
+    "e2": "ready-not-started",
+    "e3": "blocked",
+    "verified_complete": false,
+    "external_english_source_used": false
   }
 }

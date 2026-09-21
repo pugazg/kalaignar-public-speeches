@@ -37,8 +37,9 @@
 | Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
 | Tamil T2 strict direct-scan audit | **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved** |
 | Tamil T3 consolidation/freeze | **COMPLETE / VERIFIED-COMPLETE / FROZEN** |
-| English E1 | **READY / NOT STARTED** |
-| English E2/E3 | blocked pending prior English gate |
+| English E1 | **COMPLETE — 16/16** |
+| English E2 | **READY / NOT STARTED** |
+| English E3 | blocked pending E2 |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -83,6 +84,18 @@ The sole correction removed a duplicated three-line national-song quotation on P
 
 Tamil is frozen. Do not reopen for stylistic polishing.
 
+## English E1
+
+**COMPLETE — 16/16 frozen Tamil pages.**
+
+- translation — `translation-en.md`
+- source — frozen `transcription-ta.md`
+- page correspondence — **PDF26–41 retained**
+- external English source used — **No**
+- headings/applause markers — retained
+- PDF41 editorial closing line — translated separately from speech body
+- E2 — **READY / NOT STARTED**
+
 ## Exact next activity
 
-Begin **English E1 translation from the frozen Tamil transcript**.
+Perform **English E2 page-by-page fidelity review for PDF 26–41**, recording findings in `translation-review.md` before applying confirmed corrections.

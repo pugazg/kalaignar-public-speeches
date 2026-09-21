@@ -60,10 +60,22 @@ Tamil T1 — **COMPLETE — 16/16 source pages**.
 - opening / ending — **verified / verified**
 - PDF41 editorial closing line — **separate from speech body**
 - report — `T3_TAMIL_FREEZE_REPORT.md`
-- English E1 — **READY / UNBLOCKED**
+- English E1 — **COMPLETE — 16/16**
+- English E2 — **READY / NOT STARTED**
 
 Do not reopen Tamil merely for stylistic polishing.
 
+## English E1 state
+
+- frozen Tamil pages translated — **16/16**
+- translation file — `translation-en.md`
+- page provenance — PDF26–41 retained
+- external English source used — **No**
+- PDF41 editorial closing line — separate from speech body
+- E1 — **COMPLETE**
+- E2 — **READY / NOT STARTED**
+- English verified-complete — **No**
+
 ## Exact next activity
 
-Begin **English E1 translation from `transcription-ta.md`**, preserving source order and source-sensitive forms.
+Perform **English E2 page-by-page fidelity review PDF 26–41** against frozen `transcription-ta.md`.

@@ -91,3 +91,21 @@ Result: **PASS / VERIFIED-COMPLETE / FROZEN**
 Authority: `T3_TAMIL_FREEZE_REPORT.md`.
 
 English E1 — **READY / UNBLOCKED**.
+
+
+## English E1 first-pass translation — 2026-09-21
+
+Result: **COMPLETE — 16/16**
+
+- Tamil authority — `transcription-ta.md` / T3 FROZEN
+- English file — `translation-en.md`
+- page blocks translated — **16/16**
+- source order — **PDF26→41 retained**
+- external English source — **No**
+- headings / applause markers — **retained**
+- difficult source forms — **translated transparently with notes**
+- PDF41 editorial closing line — **kept separate**
+- E2 fidelity review — **READY / NOT STARTED**
+- English verified-complete — **No**
+
+No claim of English fidelity verification is made at E1.
