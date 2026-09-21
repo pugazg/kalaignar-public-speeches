@@ -36,12 +36,12 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Latest completed range
 
-PDF **26–30 — 5/5 VERIFIED**.
+PDF **31–35 — 5/5 VERIFIED**.
 
 Cumulative:
 
-- speech T1 — **25/76**
-- processed pages verified — **25/25**
+- speech T1 — **30/76**
+- processed pages verified — **30/30**
 - processed-body unresolved — **0**
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
@@ -49,6 +49,6 @@ Cumulative:
 
 ## Exact next activity
 
-Tamil T1 — **PDF31–35 only**.
+Tamil T1 — **PDF36–40 only**.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF35.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF40.

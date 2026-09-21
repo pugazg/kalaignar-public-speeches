@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **25/76**
-- range — **PDF6–30**
-- processed pages verified — **25/25**
+- speech pages processed — **30/76**
+- range — **PDF6–35**
+- processed pages verified — **30/30**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF31–35**.
+Tamil T1 — **PDF36–40**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -130,3 +130,31 @@ Cross-page joins:
 Cumulative T1: **25/76**.
 
 Exact next range: **PDF31–35**.
+
+
+## Tamil T1 batch — PDF31–35
+
+**PASS — 5/5 VERIFIED**
+
+- PDF31 / printed 30 — verified
+- PDF32 / printed 31 — verified
+- PDF33 / printed 32 — verified
+- PDF34 / printed 33 — verified
+- PDF35 / printed 34 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Source-sensitive forms retained include `நானு?`, `ஒய்ச்சல் ஒழிவேயில்லை`, `மூளையில்லா’திருந்த`, `சொரணையே இல்லாத`, `நோமாகிய`, and `சொரணை கெட்ட ‘எம். எல். ஏ’க்கள்`.
+
+Cross-page joins:
+
+- PDF31→32 — `ஏறக் / குறைய ஐந்து வருடங்களாக...`
+- PDF32→33 — `பிரித்து எடுத்துப் / பரிசோதனைக்குக் கொண்டு போனார்.`
+- PDF34→35 — `திராவகத்தில் போட்டுப் / பத்திரப்படுத்தி விட்டு...`
+- PDF35→36 — clean paragraph boundary; no split word.
+
+Cumulative T1: **30/76**.
+
+Exact next range: **PDF36–40**.
