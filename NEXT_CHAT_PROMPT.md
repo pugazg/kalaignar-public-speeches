@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF41–45
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF46–50
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,14 +26,15 @@ The earlier `kalaignar-essays` classification is superseded.
 
 - PDF1–5 front matter recorded
 - PDF4 — **needs-review**, 2 physical-loss spans, guessed reconstruction 0
-- Tamil T1 — **PDF6–40 / 35 of 76**
-- processed speech pages verified — **35/35**
+- Tamil T1 — **PDF6–45 / 40 of 76**
+- processed speech pages verified — **40/40**
 - processed body unresolved — **0**
-- latest batch PDF36–40 — **5/5 VERIFIED**
-- historical-glyph PDF36–40 — **PASS / all 13 mandatory families checked / 0 unresolved**
-- source-sensitive PDF40 reading — `கண்றாவியாக` (historical `றா` identity source-checked)
-- PDF40 ends `...இறக்கும்படி செய்வது மேல்.`
-- 40→41 boundary — **check at start of next batch**
+- latest batch PDF41–45 — **5/5 VERIFIED**
+- historical-glyph PDF41–45 — **PASS / all 13 mandatory families checked / 0 unresolved**
+- representative decodings — PDF41 `காணாதிருக்க` (`ணா`), PDF42 `மன்றாடிக்` (`றா`, two occurrences), PDF44 `இதனை` (`னை`)
+- PDF40→41 — **clean paragraph boundary**
+- PDF45 ends mid-sentence at `...கம்யூனிஸ்டுக் கட்சி`
+- 45→46 boundary — **check at start of next batch**
 - T2/T3 — blocked
 - English — blocked
 
@@ -49,6 +50,6 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Exact next activity
 
-Tamil T1 — **PDF41–45 only**.
+Tamil T1 — **PDF46–50 only**.
 
-First resolve the PDF40→41 physical boundary from source pixels, then process PDF41–45. Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF45.
+First resolve the PDF45→46 physical boundary from source pixels, then process PDF46–50. Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF50.
