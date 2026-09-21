@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **50/76**
-- range — **PDF6–55**
-- processed pages verified — **50/50**
+- speech pages processed — **55/76**
+- range — **PDF6–60**
+- processed pages verified — **54/55**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF56–60**.
+Tamil T1 — **PDF61–65**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -297,3 +297,44 @@ Cross-page controls:
 Cumulative T1: **50/76**.
 
 Exact next range: **PDF56–60**.
+
+
+## Tamil T1 batch — PDF56–60
+
+**PARTIAL PASS — 4 VERIFIED / 1 NEEDS-REVIEW**
+
+- PDF56 / printed 55 — verified
+- PDF57 / printed 56 — verified
+- PDF58 / printed 57 — verified
+- PDF59 / printed 58 — verified
+- PDF60 / printed 59 — **needs-review**
+- guessed readings — **0**
+- unresolved processed-body readings — **1**
+- source-obscured spans — **1** (PDF60 first printed line; ownership stamp)
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page. The sole unresolved span is caused by physical overprint from the KAMARAJ NEWS MART ownership stamp, not by historical-glyph ambiguity.
+
+Source-sensitive forms retained include `உண்டுபண்ணவில்லை`, `முதற் சலுகை`, `தன்னையன்றி`, `அபேட்சகர்களைத்`, `பிடிக்க வில்லையால்`, `கையொப்பம் மிடக்கூடாத`, `ஐக்கியமற்ற`, `சாத்திய மற்றது`, `என்றுபேசினார்`, `ஆயிரமாயிரம்`, `பலபல`, `கனகவிசயர்களாலும்`, `வில்லவன் கோதை`, `நஷ்டங்களைப்பற்றி`, `நூற்றி நாற்பத்துநாலு`, `பூரிப்போடு`, `தியாகப்பஞ்சத்தில்`, and `அனுபவிப்பதுமட்டுந்தானா`.
+
+PDF60 source hold:
+
+- physical ownership stamp — KAMARAJ NEWS MART
+- affected area — first printed line, immediately after the readable cross-page continuation word `முறைக்கு`
+- repository marker — `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
+- guessed reconstruction — **0**
+- status — **needs-review / source-obscured**
+
+Cross-page controls:
+
+- PDF55→56 — clean paragraph boundary.
+- PDF56→57 — clean paragraph boundary.
+- PDF57→58 — clean paragraph boundary.
+- PDF58→59 — semantic continuation; no split word.
+- PDF59→60 — `அடக்கு / முறைக்கு` continues across the physical boundary; the following PDF60 span is stamp-obscured.
+- PDF60→61 — deferred to next batch; PDF60 ends `...தியாகிகள் தானா?`
+
+Cumulative T1: **55/76 processed; 54/55 verified; 1 needs-review**.
+
+Exact next range: **PDF61–65**.
