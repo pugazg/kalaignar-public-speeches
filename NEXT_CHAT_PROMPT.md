@@ -1,27 +1,49 @@
-# NEXT CHAT PROMPT — Kanchipuram language-martyrs speech FINAL CLOSED
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF16–20
 
-`speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/` in `pugazg/kalaignar-public-speeches` is **FINAL CLOSED / RELEASE READY**.
+Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Final state
+## Active archive
 
-- controlling source — `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
-- source SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
-- source extent — **42 scans**
-- PDF1–23 — existing Murasoli letter **3606**, Volume 46, 3-2-2012; excluded / already archived
-- PDF24–25 — speech title / blank
-- PDF26–41 — canonical speech body / **16 pages**
-- PDF42 — shared back cover
-- exact speech date — **not established / do not infer**
-- venue — **காஞ்சிபுரம்**
-- Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
-- Tamil T2 corrections / unresolved — **1 / 0**
-- English — **VERIFIED-COMPLETE**
-- English E2 corrections / unresolved — **4 / 0**
-- English E3 additional corrections / unresolved — **4 / 0**
-- final report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/FINAL_CLOSURE.md`
+`speeches/kalathil-karunanidhi/`
 
-## Continuation rule
+## Classification
 
-**Do not resume processing this speech.** There is no pending Tamil or English activity.
+**PUBLIC SPEECHES**
 
-Reopen only for genuinely new source evidence or a documented substantive fidelity error. Otherwise continue with the next separately identified public-speeches source/work item from live `main`.
+The earlier `kalaignar-essays` classification is superseded.
+
+## Source
+
+- `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
+- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
+- physical scans — **81**
+- speech date — **23-12-1951**
+- venue — **ராபின்சன் பார்க், சென்னை**
+- front matter — PDF1–5
+- speech body — PDF6–81 / **76 pages**
+
+## Durable state
+
+- PDF1–5 front matter recorded
+- PDF4 — **needs-review**, 2 physical-loss spans, guessed reconstruction 0
+- Tamil T1 — **PDF6–15 / 10 of 76**
+- processed speech pages verified — **10/10**
+- processed body unresolved — **0**
+- T2/T3 — blocked
+- English — blocked
+
+## Fixed cadence
+
+**Exactly 5 physical PDF pages per user iteration.**
+
+## Mandatory historical-glyph rule
+
+Use `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` on every page. Source pixels control. No OCR authority, global replacement, modernization or contextual guessing.
+
+## Exact next activity
+
+Tamil T1 — **PDF16–20 only**.
+
+Update archive/root controls and stop after PDF20.

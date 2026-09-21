@@ -528,3 +528,24 @@ No transcription or translation work remains pending. Reopen only for genuinely 
 - final report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/FINAL_CLOSURE.md`
 
 Repository-level closure is complete. No transcription or translation work remains pending.
+
+
+### Active work — களத்தில் கருணாநிதி
+
+`speeches/kalathil-karunanidhi/`
+
+- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
+- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
+- physical scans — **81**
+- classification — **PUBLIC SPEECHES**
+- speech date — **23-12-1951**, source-established
+- venue — **ராபின்சன் பார்க், சென்னை**, source-established
+- front matter — PDF **1–5**
+- speech body — PDF **6–81 / 76 pages**
+- Tamil T1 — **PDF6–15 / 10 of 76**
+- processed speech pages verified — **10/10**
+- PDF4 front matter — **needs-review / 2 physical-loss spans**
+- cadence — **5 physical PDF pages per iteration**
+- exact next range — **PDF16–20**
+
+This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.

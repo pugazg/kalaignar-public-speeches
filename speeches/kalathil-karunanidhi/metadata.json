@@ -1,0 +1,87 @@
+{
+  "id": "kalathil-karunanidhi",
+  "title": {
+    "cover_ta": "களத்தில் கருணாநிதி",
+    "speech_heading_ta": "களத்தில் கருணாநிதி!"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role": "speaker"
+  },
+  "document_type": "public-speech-booklet",
+  "language": "ta",
+  "speech": {
+    "date": "1951-12-23",
+    "date_source": "PDF4 preface: சென்னையில் கலைஞர் கருணாநிதி 23-12-51-ல் பேசினார்",
+    "venue_ta": "ராபின்சன் பார்க், சென்னை",
+    "venue_source": "PDF4 preface",
+    "event_ta": null,
+    "event_note": "No separate event title established from the inspected source."
+  },
+  "publication": {
+    "edition_ta": "முதற்பதிப்பு—52.",
+    "publisher_ta": "இளங்கோ பதிப்பகம்",
+    "place_ta": "மாயூரம்",
+    "price_ta": "விலை ரூ. 1 - 0 - 0",
+    "printer_ta": "கே. ஜி. பிரஸ், சென்னை—1."
+  },
+  "source": {
+    "filename": "TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf",
+    "source_id": "TVA_BOK_0064241",
+    "sha256": "3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84",
+    "file_size_bytes": 63617548,
+    "source_pdf_pages_total": 81,
+    "front_matter_pdf_start": 1,
+    "front_matter_pdf_end": 5,
+    "speech_pdf_start": 6,
+    "speech_pdf_end": 81,
+    "speech_pages_total": 76,
+    "visible_printed_folio_start": {
+      "pdf": 7,
+      "printed": 6
+    },
+    "visible_printed_folio_end": {
+      "pdf": 81,
+      "printed": 80
+    },
+    "binary_committed": false,
+    "historical_tamil_typeforms": true,
+    "terminal_note": "PDF81 / printed p.80 is the final supplied scan; bottom source condition requires later completeness/fidelity assessment."
+  },
+  "source_front_matter": {
+    "pages_recorded": 5,
+    "verified": 4,
+    "needs_review": 1,
+    "needs_review_pages": [
+      4
+    ],
+    "unresolved_physical_loss_spans": 2
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "duplicate_check": "pass-no-existing-dedicated-archive",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "in-progress",
+    "speech_pages_total": 76,
+    "speech_pages_drafted": 10,
+    "speech_pages_verified_first_pass": 10,
+    "tamil_visual_audit": "blocked-pending-t1-completion",
+    "tamil_consolidation": "blocked",
+    "english_translation": "blocked-pending-tamil-freeze",
+    "english_translation_review": "blocked",
+    "english_translation_final_verification": "blocked",
+    "repository_closure": "not-started",
+    "archive_status": "active",
+    "pending_transcription_or_translation_work": true,
+    "cadence": "5 physical PDF pages per user iteration",
+    "next_gate": "Tamil T1 PDF16–20"
+  },
+  "migration": {
+    "from_repository": "pugazg/kalaignar-essays",
+    "reason": "User corrected classification: this source belongs to public speeches.",
+    "migrated_source_pages": "1–15",
+    "speech_body_pages_migrated": "6–15",
+    "tamil_text_changes_during_migration": 0
+  }
+}
