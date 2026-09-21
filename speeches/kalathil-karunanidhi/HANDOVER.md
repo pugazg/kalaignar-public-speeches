@@ -21,36 +21,37 @@ Archive: `speeches/kalathil-karunanidhi/`
 ## Current state
 
 - front matter — **5/5 VERIFIED / 0 unresolved**
-- Tamil T1 — **PDF6–71 / 66 of 76**
-- processed speech pages verified — **66/66**
+- Tamil T1 — **PDF6–73 / 68 of 76**
+- processed speech pages verified — **68/68**
 - unresolved processed speech-body readings — **0**
-- final-range canonical progress — **PDF71 committed / 1 of 11**
+- final-range canonical progress — **PDF71–73 committed / 3 of 11**
 - T2/T3 — blocked pending T1 completion
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
 
-**One physical PDF page per user iteration.**
+**Two physical PDF pages per user iteration.**
 
-This supersedes the earlier authorization to process PDF71–81 together.
+This supersedes the previous one-page cadence.
 
-## Latest completed page
+## Latest completed range
 
-PDF **71 / printed 70 — VERIFIED**.
+PDF **72–73 / printed 71–72 — 2/2 VERIFIED**.
 
 Historical-glyph gate:
 
-- all 13 mandatory families checked against enlarged source pixels
-- representative checks — `தண்டனை` (`னை`), `தலையை` (`லை`)
+- all 13 mandatory families checked page-by-page against enlarged source pixels
+- representative checks — PDF72 `இணைக்கப்பட்டவர்` (`ணை`); PDF73 `அண்ணாவின்` (`ணா`), `இல்லையே` (`லை`)
 - unresolved glyph ambiguity — **0**
 - guessed reconstruction — **0**
 
-Source-sensitive forms retained include `உள்ளானர்களே`, `சாந்தியடைய`, `கடுங் காவல்`, `சிரைக்க வில்லையா`, `அர்த்த மற்ற செயல்`, `பாராள வந்த`, `பார்பர்ஷாப்`, `மானபங்கப் படுத்தினரே`, `உயர் நீதி மன்றத்தாரால்`, `ஆளானர்`, and `ஆளாக்கப்பட்டார்`.
+Source-sensitive forms retained include `சவுக்கடி`, `கட்டியிழுத்துச்`, `புழுத்து நெளியும்`, `ஈவிரக்கமற்ற`, `பாதகசெயல்`, `நெஞ்சங் குமுறுகிறதே`, `நாச காரியங்கள்`, `நசங்கி`, `கழுதிபோன்ற`, `இரவல்பெறும்`, `ஜீவானந்தம்`, and `முறைதானு`.
 
 Boundary controls:
 
-- PDF70→71 — clean paragraph boundary
-- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+- PDF71→72 — clean paragraph boundary
+- PDF72→73 — clean paragraph boundary; PDF73 begins `‘தேனி’ நிகழ்ச்சி...`
+- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
 - later durable controls remain: PDF74→75 `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`; PDF76→77 `...என்று / எண்ணம், பகுத்தறிவு...`; PDF77→78 `வாடி / யும்` → `வாடியும்`; PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
 
 ## User adjudications — authoritative
@@ -67,6 +68,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **PDF72 / printed p.71 only** for canonical Tamil T1.
+Process **PDF74–75 / printed pp.73–74 only** for canonical Tamil T1.
 
-Do not process PDF73 in the same user iteration. Do not reopen PDF1–71 merely to advance the next page.
+Do not process PDF76 in the same user iteration. Do not reopen PDF1–73 merely to advance the next range.

@@ -524,3 +524,31 @@ Boundary controls:
 Cadence is now **one physical PDF page per user iteration**.
 
 Exact next activity: **Tamil T1 PDF72 / printed p.71**.
+
+
+## Tamil T1 two-page iteration — PDF72–73
+
+**PASS — 2/2 VERIFIED**
+
+- PDF72 / printed 71 — **verified**
+- PDF73 / printed 72 — **verified**
+- canonical T1 coverage — **68/76**
+- processed pages verified — **68/68**
+- unresolved processed-body readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against enlarged source pixels. All 13 mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked on both pages. Representative source occurrences include PDF72 `இணைக்கப்பட்டவர்` (`ணை`) and PDF73 `அண்ணாவின்` (`ணா`), `இல்லையே` (`லை`). No glyph-driven ambiguity remains.
+
+Source-sensitive forms retained include PDF72 `சவுக்கடி`, `கட்டியிழுத்துச்`, `புழுத்து நெளியும்`, `ஈவிரக்கமற்ற`, `பாதகசெயல்`, `நெஞ்சங் குமுறுகிறதே`, `‘தியாகத்’தைச்`; and PDF73 `நாச காரியங்கள்`, `நசங்கி`, `கொடி தவறியிருந்தால்`, `கழுதிபோன்ற`, `இரவல்பெறும்`, `எங்களைப் பழிக்கவேண்டும்`, `ஜீவானந்தம்`, `முறைதானு`.
+
+Boundary controls:
+
+- PDF71→72 — clean paragraph boundary.
+- PDF72→73 — clean paragraph boundary; PDF73 begins `‘தேனி’ நிகழ்ச்சி...`.
+- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`.
+
+Cadence is now **two physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T1 PDF74–75 / printed pp.73–74**.

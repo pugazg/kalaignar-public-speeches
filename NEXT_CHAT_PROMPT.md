@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF72
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF74–75
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,30 +22,32 @@ Refetch live `main` before editing.
 - physical scans — **81**
 - front matter — **PDF1–5 / 5/5 VERIFIED**
 - speech body — **PDF6–81 / 76 pages**
-- Tamil T1 — **PDF6–71 / 66 of 76**
-- committed speech pages verified — **66/66**
+- Tamil T1 — **PDF6–73 / 68 of 76**
+- committed speech pages verified — **68/68**
 - committed speech-body unresolved — **0**
-- final-range canonical progress — **PDF71 committed / 1 of 11**
+- final-range canonical progress — **PDF71–73 committed / 3 of 11**
 - source-image review PDF71–81 — **11/11 COMPLETE**
 - T2/T3 — blocked pending T1 completion
 - English — blocked pending Tamil freeze
 
 ## Cadence — authoritative
 
-**Process exactly one physical PDF page per user iteration.**
+**Process exactly two physical PDF pages per user iteration.**
 
 Do not process the following page in the same iteration.
 
-## Latest completed page
+## Latest completed range
 
-PDF71 / printed 70 — **VERIFIED**.
+PDF72–73 / printed 71–72 — **2/2 VERIFIED**.
 
-Boundary:
+Boundary controls:
 
-- PDF70→71 — clean
-- PDF71→72 — clean; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+- PDF71→72 — clean
+- PDF72→73 — clean
+- PDF73→74 — clean; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
+- PDF74→75 — established split `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
 
-Historical-glyph gate for PDF71 — **PASS / all 13 families checked / 0 ambiguity**.
+Historical-glyph gate for PDF72–73 — **PASS / all 13 families checked page-by-page / 0 ambiguity**.
 
 ## User adjudications — authoritative
 
@@ -61,7 +63,7 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Historical-glyph rule
 
-Check all 13 families on PDF72:
+Check all 13 families on both PDF74 and PDF75:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -69,6 +71,8 @@ Source pixels control. No OCR authority, global replacement, modernization, lexi
 
 ## Exact next activity
 
-**Transcribe, verify, and commit canonical Tamil T1 PDF72 / printed p.71 only.**
+**Transcribe, verify, and commit canonical Tamil T1 PDF74–75 / printed pp.73–74 only.**
 
-Then synchronize the relevant control documents so the next iteration begins at PDF73. Do not process PDF73 in the same iteration.
+Preserve the established PDF74→75 split `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`.
+
+Then synchronize the relevant control documents so the next iteration begins at PDF76–77. Do not process PDF76 in this iteration.

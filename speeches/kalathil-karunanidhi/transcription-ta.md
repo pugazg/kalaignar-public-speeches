@@ -1,6 +1,6 @@
 # களத்தில் கருணாநிதி — Tamil transcription
 
-**Status:** T1 **IN PROGRESS — PDF6–71 processed / 66 of 76 speech-body pages; 66/66 processed pages verified**  
+**Status:** T1 **IN PROGRESS — PDF6–73 processed / 68 of 76 speech-body pages; 68/68 processed pages verified**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -1236,6 +1236,54 @@ iv
 
 தியாகப்பட்டியலில் தேவையா?
 
+## PDF 72
+
+**Printed page:** 71
+
+தூத்துக்குடித் தோழர் தங்கப்பழம் அவர்கள் சிறைசென்றார், சிறைக்கு அனுப்பப்பட்டார், ‘சவுக்கடி’ என்ற நூல் எழுதியதற்காக.
+
+அவரை, விலங்கிட்டு அழைத்துச் சென்றனர். தனியாக அல்ல, வேறு ஒரு நபரின் கையோடு பிணைத்து, இரும்புச் சங்கிலி கொண்டு கட்டியிழுத்துச் சென்றனர்,
+
+தங்கப்பழத்தோடு, அவரது தங்கக் கையோடு இணைக்கப்பட்டவர் யார்? குஷ்டரோகி! புழுத்து நெளியும் காயங்கள்! குஷ்டரோகி.
+
+கொடுமை! கொடுமை! மிக மிகக் கொடுமை! கோரக்காட்சி!
+
+அழுகி நாற்றமெடுக்கும், நாட்டிலே தாராளமாக நடமாடக்கூடாத குஷ்டரோகம் பிடித்தவரின் கையோடு, இணைத்து, பிணைத்து, பொருத்தி இழுத்துச் சென்றனர்!
+
+என்ன ஈவிரக்கமற்ற பாதகசெயல்? அகிம்சையின் பேரால் ஆண்டிடும் ஆளவந்தாரின் அக்கிரமச் செயல்?
+
+என்ன கொடுமை! பாதகம், வஞ்சகம்! கோரக் காட்சி!
+
+குஷ்டரோகியோடு இணைத்து ஒழித்திடவா இந்தச் செயல்?
+
+நெஞ்சங் குமுறுகிறதே! நினைத்தும் பார்க்க முடியவில்லையே, இந்தக் கொடுமையை?
+
+இதையெல்லாம் அனுபவிக்கும் நாங்களா ‘தியாக’த்தை இரவல் பெறுகிறவர்கள்? ‘தியாகத்’தைச் சுரண்டுபவர்கள், அதுவும் கம்யூனிஸ்டுகளின், தியாகத்தை!
+
+இன்னும் தேவையா, தியாகப்பட்டியல்?
+
+## PDF 73
+
+**Printed page:** 72
+
+‘தேனி’ நிகழ்ச்சி, மறக்கமுடியுமா? அங்கு நடந்த நாச காரியங்கள் நாடறிந்த உண்மைகள் தானே!
+
+நெடுஞ்செழியன் தலை நசங்கி, பொசுங்கியிருக்குமே, கொடி தவறியிருந்தால்?
+
+மண்டை பிளந்தால்தான், அல்லது, மண்டையைக் காட்டி, வேண்டுமென்றே நீட்டிப் பிளந்து கொண்டால்தான் தியாகமா? எது தியாகம். தீர்ப்புக் கூறுங்கள், எது தியாகம்? எது தியாகம்?
+
+தியாகப்பட்டியல் இன்னும் தருகிறேன்; கேளுங்கள்.
+
+தேனியைத் தொடர்ந்து நாட்டிலே, தேவாரம், கம்பம், கழுதிபோன்ற இடங்களிலே நமது தோழர்கள் தாக்கிய, காயத்தழும்புகள் இன்னும் மறையவில்லையே?
+
+ஏன்? எங்கள் அண்ணாவைப் பிடித்து ஆறு மாதம் சிறைக்குள்ளே தள்ளவில்லையா? ஆரிய மாயை எழுதியதற்காக?
+
+அண்ணாவின் காகிதக்கட்டுகளைப் பறிமுதல் செய்யவில்லையா, இந்தச் சர்க்கார்? எத்தனைப் புத்தகங்களுக்குத் தடை? எவ்வளவு நாடகங்களுக்குத் தடை? தெரியாதா மக்களுக்கு? இதெல்லாம்?
+
+என்ன வேண்டும், இன்னும் ‘தியாகம்’ இல்லையா? இரவல்பெறும் நிலையிலா இருக்கிறோம்? இல்லையே?
+
+பின் ஏன், எங்களைப் பழிக்கவேண்டும்? ‘கம்யூனிஸ்டுகளின் தியாகத்தை வைத்து முன்னேறுகின்றனர்’ என்று, தோழர் ஜீவானந்தம் போன்றவர்கள்? நியாயமா? சரியா? முறைதானு?
+
 ### PDF4 front-matter adjudication — 2026-09-21
 
 The user supplied exact readings for the two formerly physically lost spans on PDF4:
@@ -1255,48 +1303,50 @@ The user supplied exact readings for three areas that could not be established f
 
 These adjudications introduce **0 guessed reconstruction**. PDF60 is therefore no longer a speech-body needs-review page. PDF76 and PDF81 remain pending only because their full canonical page transcriptions have not yet been committed.
 
-## Remaining final-range source review — PDF72–81
+## Remaining final-range source review — PDF74–81
 
-The remaining physical scans **PDF72–81 / printed pp.71–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **one physical PDF page per user iteration**.
+The remaining physical scans **PDF74–81 / printed pp.73–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **two physical PDF pages per user iteration**.
 
 Current canonical state:
 
-- PDF71 / printed p.70 — **COMMITTED / VERIFIED**
-- canonical PDF71–81 pages committed — **1/11**
-- remaining canonical pages — **10/11 (PDF72–81)**
+- PDF71–73 / printed pp.70–72 — **COMMITTED / VERIFIED**
+- canonical PDF71–81 pages committed — **3/11**
+- remaining canonical pages — **8/11 (PDF74–81)**
 - guessed reconstruction introduced — **0**
 - unresolved committed speech-body readings — **0**
-- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+- PDF71→72 — clean paragraph boundary
+- PDF72→73 — clean paragraph boundary; PDF73 begins `‘தேனி’ நிகழ்ச்சி...`
+- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
 - preserved later controls: PDF74→75 `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`; PDF76→77 `...என்று / எண்ணம், பகுத்தறிவு...`; PDF77→78 `வாடி / யும்` → `வாடியும்`; PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
 - PDF76 and PDF81 user-adjudicated passages remain authoritative and must be used exactly when those pages are committed
 
 ## Continuation checkpoint — 2026-09-21
 
-The user changed the active cadence to **one physical PDF page per iteration**.
+The user changed the active cadence to **two physical PDF pages per iteration**.
 
 Durable position after this iteration:
 
-- PDF71 canonical text — **COMMITTED / VERIFIED**
-- canonical T1 — **66/76 processed; 66/66 verified; 0 unresolved**
-- final-range canonical progress — **1/11**
-- next page — **PDF72 / printed p.71**
-- no provisional text for PDF72–81 is canonical until separately committed
+- PDF72–73 canonical text — **COMMITTED / VERIFIED**
+- canonical T1 — **68/76 processed; 68/68 verified; 0 unresolved**
+- final-range canonical progress — **3/11**
+- next range — **PDF74–75 / printed pp.73–74**
+- no provisional text for PDF74–81 is canonical until separately committed
 - all user adjudications for PDF4, PDF60, PDF76 and PDF81 remain durable
 - guessed reconstruction — **0**
 
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
-- speech-body pages processed — **66/76** (PDF6–71)
-- processed speech pages verified — **66/66**
+- speech-body pages processed — **68/76** (PDF6–73)
+- processed speech pages verified — **68/68**
 - unresolved speech-body readings in processed range — **0**
 - source front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
 - unresolved front-matter physical-loss spans — **0**
 - guessed readings — **0**
-- cadence — **1 physical PDF page per user iteration**
-- exact next speech-body page — **PDF72 / printed p.71**
+- cadence — **2 physical PDF pages per user iteration**
+- exact next speech-body range — **PDF74–75 / printed pp.73–74**
 
 Cross-page controls:
 
@@ -1357,5 +1407,7 @@ Cross-page controls:
 - PDF69→70 — clean paragraph boundary; PDF70 begins `ஆம்! குன்றத்தூரிலே...`
 - PDF70→71 — clean paragraph boundary; PDF71 begins `நாரணமங்கலத்திலே, 144 தடையுத்தரவு!`
 - PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+- PDF72→73 — clean paragraph boundary; PDF73 begins `‘தேனி’ நிகழ்ச்சி...`
+- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
 
 T2 remains blocked until T1 covers all PDF6–81.

@@ -46,8 +46,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
-- speech T1 — **PDF6–71 / 66 of 76**
-- processed speech pages verified — **66/66**
+- speech T1 — **PDF6–73 / 68 of 76**
+- processed speech pages verified — **68/68**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -55,27 +55,29 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 
 ## Fixed cadence
 
-**One physical PDF page per user iteration.**
+**Two physical PDF pages per user iteration.**
 
-This supersedes the earlier remaining-range batch authorization.
+This supersedes the previous one-page cadence.
 
-## Latest T1 page — PDF71
+## Latest T1 range — PDF72–73
 
-**COMPLETE / PASS — 1/1 VERIFIED**
+**COMPLETE / PASS — 2/2 VERIFIED**
 
-- PDF71 / printed 70 — **VERIFIED**
-- canonical speech T1 — **66/76 processed; 66/66 verified**
-- historical-glyph gate — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
+- PDF72 / printed 71 — **VERIFIED**
+- PDF73 / printed 72 — **VERIFIED**
+- canonical speech T1 — **68/76 processed; 68/68 verified**
+- historical-glyph gate — **PASS / all 13 mandatory families checked on both pages / 0 glyph ambiguity**
 - guessed readings — **0**
 - unresolved body spans — **0**
 - silent modernization — **0**
 
-Representative source-sensitive readings retained include `உள்ளானர்களே`, `சாந்தியடைய`, `கடுங் காவல்`, `சிரைக்க வில்லையா`, `அர்த்த மற்ற செயல்`, `பாராள வந்த`, `பார்பர்ஷாப்`, `மானபங்கப் படுத்தினரே`, `உயர் நீதி மன்றத்தாரால்`, `ஆளானர்`, and `ஆளாக்கப்பட்டார்`.
+Representative source-sensitive readings retained include `சவுக்கடி`, `கட்டியிழுத்துச்`, `புழுத்து நெளியும்`, `ஈவிரக்கமற்ற`, `பாதகசெயல்`, `நாச காரியங்கள்`, `நசங்கி`, `கழுதிபோன்ற`, `இரவல்பெறும்`, `ஜீவானந்தம்`, and `முறைதானு`.
 
 Boundary controls:
 
-- PDF70→71 — clean paragraph boundary
-- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+- PDF71→72 — clean paragraph boundary
+- PDF72→73 — clean paragraph boundary
+- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
 
 ## User-adjudicated source readings
 
@@ -89,14 +91,14 @@ On 2026-09-21 the user supplied exact readings for previously obscured/damaged p
 
 These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF4 and PDF60 are no longer needs-review. Guessed reconstruction remains **0**.
 
-## Remaining-range source review — PDF72–81
+## Remaining-range source review — PDF74–81
 
-**SOURCE REVIEW COMPLETE; CANONICAL T1 CONTINUES ONE PAGE AT A TIME**
+**SOURCE REVIEW COMPLETE; CANONICAL T1 CONTINUES TWO PAGES AT A TIME**
 
 - PDF71–81 source images reviewed — **11/11**
-- canonical final-range pages committed — **1/11**
-- committed page — **PDF71**
-- remaining — **PDF72–81 / 10 pages**
+- canonical final-range pages committed — **3/11**
+- committed through — **PDF73**
+- remaining — **PDF74–81 / 8 pages**
 - guessed reconstruction — **0**
 - PDF76/PDF81 obscured passages — **resolved by user adjudication**
 
@@ -109,6 +111,6 @@ Established later boundary controls remain unchanged:
 
 ## Exact next activity
 
-Process **Tamil T1 PDF72 / printed p.71 only**.
+Process **Tamil T1 PDF74–75 / printed pp.73–74 only**.
 
-Do not process PDF73 in the same iteration.
+Do not process PDF76 in the same iteration.
