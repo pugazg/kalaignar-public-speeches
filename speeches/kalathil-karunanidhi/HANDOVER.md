@@ -25,8 +25,8 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 - front matter — **5/5 recorded**
 - PDF4 — **needs-review**, 2 physical-loss spans
 - Tamil T1 — **PDF6–70 / 65 of 76**
-- processed speech pages verified — **64/65**
-- unresolved processed speech-body readings — **1** (PDF60 ownership-stamp-obscured span)
+- processed speech pages verified — **65/65**
+- unresolved processed speech-body readings — **0**
 - T2/T3 — blocked
 - English — blocked
 
@@ -41,13 +41,13 @@ PDF **66–70 — 5/5 VERIFIED**.
 Cumulative:
 
 - speech T1 — **65/76**
-- processed pages verified — **64/65**
-- processed-body unresolved — **1** (PDF60; source-obscured)
+- processed pages verified — **65/65**
+- processed-body unresolved — **0**
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
 - English — blocked
 - historical-glyph PDF66–70 — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
-- PDF60 source hold — first printed line has one span physically obscured by the KAMARAJ NEWS MART ownership stamp; marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`; guessed reconstruction 0
+- PDF60 source hold — **RESOLVED by user adjudication**: `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
 - PDF65→66 — clean paragraph boundary
 - PDF66→67 — clean paragraph boundary
 - PDF67→68 — clean paragraph boundary
@@ -60,9 +60,18 @@ Cumulative:
 - PDF71–81 physical scans rendered and reviewed — **11/11 COMPLETE**
 - canonical PDF71–81 transcription — **PENDING**
 - new guessed reconstruction — **0**
-- PDF76 — ownership-stamp overlap / preserve as source-obscured where unreadable
-- PDF81 — terminal physical loss + ownership-stamp overlap / preserve as source-obscured where unreadable
+- PDF76 obscured passage — **RESOLVED by user adjudication**: `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 closing passage — **RESOLVED by user adjudication**: `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 - canonical counters deliberately remain **65/76 processed; 64/65 verified; 1 needs-review** until text is committed
+
+### User adjudications — 2026-09-21
+
+- PDF60 / printed 59 — resolved; canonical body hold closed
+- PDF76 / printed 75 — obscured passage resolved
+- PDF81 / printed 80 — terminal obscured/damaged closing passage resolved
+- provenance — exact readings supplied by user
+- guessed reconstruction — **0**
+- only remaining source-loss hold outside the pending PDF71–81 canonical transcription is **PDF4 front matter / 2 physical-loss spans**
 
 ## Exact next activity
 
@@ -72,4 +81,4 @@ Source review for PDF71–81 is already complete. Preserve these established con
 
 PDF76 has an ownership-stamp overlap in its upper text. PDF81 has terminal physical loss plus ownership-stamp overlap in its lower closing text. Do not reconstruct hidden characters. Guessed reconstruction must remain 0.
 
-Canonical T1 remains PDF6–70 / 65 of 76 until the PDF71–81 transcription is committed.
+Canonical T1 remains PDF6–70 / 65 of 76 until PDF71–81 is committed; all 65 committed speech-body pages are now verified.
