@@ -38,8 +38,8 @@
 | Tamil T2 strict direct-scan audit | **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved** |
 | Tamil T3 consolidation/freeze | **COMPLETE / VERIFIED-COMPLETE / FROZEN** |
 | English E1 | **COMPLETE — 16/16** |
-| English E2 | **READY / NOT STARTED** |
-| English E3 | blocked pending E2 |
+| English E2 | **COMPLETE — 16/16; 4 corrections / 0 unresolved** |
+| English E3 | **READY / NOT STARTED** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -96,6 +96,16 @@ Tamil is frozen. Do not reopen for stylistic polishing.
 - PDF41 editorial closing line — translated separately from speech body
 - E2 — **READY / NOT STARTED**
 
+## English E2
+
+**COMPLETE — 16/16 pages / 15/15 joins.**
+
+- confirmed corrections — **4**
+- unresolved findings — **0**
+- corrections consolidated into `translation-en.md`
+- review ledger — `translation-review.md`
+- E3 — **READY / NOT STARTED**
+
 ## Exact next activity
 
-Perform **English E2 page-by-page fidelity review for PDF 26–41**, recording findings in `translation-review.md` before applying confirmed corrections.
+Perform **English E3 final end-to-end verification for PDF 26–41**.

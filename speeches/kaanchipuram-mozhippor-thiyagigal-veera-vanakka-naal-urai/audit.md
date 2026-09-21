@@ -109,3 +109,25 @@ Result: **COMPLETE — 16/16**
 - English verified-complete — **No**
 
 No claim of English fidelity verification is made at E1.
+
+
+## English E2 fidelity review — 2026-09-21
+
+Result: **COMPLETE / PASS**
+
+- pages reviewed — **16/16**
+- page joins reviewed — **15/15**
+- headings / applause markers — **complete**
+- confirmed corrections — **4**
+- unresolved findings — **0**
+- corrections consolidated — **Yes**
+- review ledger — `translation-review.md`
+
+Confirmed changes:
+
+1. PDF29 difficult frozen-Tamil syntax disclosed by translator note.
+2. PDF35 quotation attribution corrected.
+3. PDF41 `தவறே செய்யமாட்டார்கள்` restored to broader scope.
+4. PDF41 `அவர்களையெல்லாம் ... உங்களையெல்லாம்` shift disclosed by translator note.
+
+English E3 — **READY / NOT STARTED**.

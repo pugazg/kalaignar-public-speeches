@@ -1,6 +1,6 @@
 # Kanchipuram — Speech at the Language-Martyrs' Veera Vanakkam Day Meeting — English Translation
 
-> **Status:** **E1 FIRST-PASS COMPLETE — 16/16 frozen Tamil pages; E2 fidelity review pending**  
+> **Status:** **E2 FIDELITY REVIEW COMPLETE — 16/16 pages; 4 confirmed corrections consolidated; 0 unresolved; E3 pending**  
 > **Tamil authority:** `transcription-ta.md` — **VERIFIED-COMPLETE / T3 FROZEN**  
 > **Source scope:** PDF **26–41** only. PDF1–23 is existing Murasoli letter 3606; PDF24–25 is title/blank front matter.  
 > **Translation rule:** Translate only from the frozen Tamil layer. Preserve source order, rhetoric, repetition, headings, applause markers, names, historical/political wording, and source-specific oddities. Do not import outside English wording.
@@ -48,7 +48,7 @@ I wrote that *parani* and gave it to the students' procession. **(Applause)**
 
 But if my age today is eighty-eight **(loud applause)**, I have been fighting for the language alone for nearly seventy-four years. I fought holding Periyar's hand. I fought holding Anna's hand. I fought as one among the ranks of commanders of the Dravida Munnetra Kazhagam. All those struggles went on and on, ended and ended; yet, as a friend here pointed out today, if you ask whether we have reached the complete goal, the answer is no. To fight for the language—
 
-> **Translator note:** The frozen Tamil literally has `மூன்று கொடி, மூன்று தமிழ் என்று மூன்று கடல் சூழ்ந்த...`. E1 preserves the unusual "three Tamil" wording rather than replacing it with an inferred expression.
+> **Translator note:** The frozen Tamil literally has `மூன்று கொடி, மூன்று தமிழ் என்று மூன்று கடல் சூழ்ந்த...`. E1 preserves the unusual "three Tamil" wording rather than replacing it with an inferred expression. The same paragraph also contains the difficult phrase `அவர்களுடைய மொழியை, நான் மொழி என்று சொல்லுகின்றேன்; மாற்றிக் கொள்ள வேண்டும்`; E2 leaves the frozen Tamil untouched and flags that the English body renders only its surrounding syntactic sense rather than silently proposing a Tamil repair.
 
 ## PDF 30
 
@@ -100,7 +100,7 @@ In it, our younger brother Suba. Veerapandian debated with another comrade. In t
 
 "—at all." Suba. Veerapandian asked, "Why will you not accept it?" The other person said, "We have passed a resolution in our party."
 
-"He said that even the word 'Dravida' must not exist!" Why? Is "Dravida" not Tamil? Is it a word a Tamil will not accept? Is it a word a Tamil has rejected? Scholars speak of the greatness of Dravida; history speaks of it!
+He said, "Even the word 'Dravida' must not exist!" Why? Is "Dravida" not Tamil? Is it a word a Tamil will not accept? Is it a word a Tamil has rejected? Scholars speak of the greatness of Dravida; history speaks of it!
 
 It was our leader Anna, born in this very town, who started the weekly newspaper *Dravida Nadu*. **(Loud applause)** The friends of the Justice Party accepted the word "Dravida" on documentary grounds. If anyone says there is no such word as Dravida—that it was merely a word uttered by Periyar Ramasamy, or a word brought in by Arignar Anna—then please let them listen once to India's national song, or read it:
 
@@ -166,9 +166,11 @@ When you board a bus, you will know the weight of that defeat! When you go to a 
 
 ## PDF 41
 
-Those who realize that they have made a mistake will thereafter never make that mistake again for the rest of their lives. Such a lesson has come not only to you in Kanchipuram, but to the people throughout Tamil Nadu. Having learned that lesson, respect it and do not forget it. At least in the future, with the firm resolve that "we will not again make the mistake we have made now," protect yourselves and protect the future generations of this society.
+Those who realize that they have made a mistake will thereafter never make another mistake for the rest of their lives. Such a lesson has come not only to you in Kanchipuram, but to the people throughout Tamil Nadu. Having learned that lesson, respect it and do not forget it. At least in the future, with the firm resolve that "we will not again make the mistake we have made now," protect yourselves and protect the future generations of this society.
 
 I see all of you as Tamils, as Dravidians, as rationalists, as Anna's younger brothers, as Udanpirappugal dearer to me than my own life. Asking this of all of you, thanking you for the welcome you gave me all along the route, and assuring you that whether you strike me or embrace me, I will not forget the people of Kanchipuram, I say: I am one among you. We are all one race. Let us all work together for the advancement of this race. With these words, I take my leave.
+
+> **Translator note:** The frozen Tamil begins this sentence with the unusual shift `அவர்களையெல்லாம் ... உங்களையெல்லாம்`. E2 keeps the Tamil frozen and renders the direct-address sense as "all of you" without treating the source wording as a transcription error.
 
 ### Separate source closing line — outside speech body
 
@@ -184,4 +186,4 @@ I see all of you as Tamils, as Dravidians, as rationalists, as Anna's younger br
 6. The source's use of both "national song" and "national anthem" is retained rather than harmonized.
 7. The joined Tamil form `கடையில்போய்சாமான்வாங்கும்போது` is translated semantically and disclosed rather than silently treated as a textual error.
 8. The PDF41 editorial line is translated separately and is not merged into the speaker's farewell.
-9. E1 is **not yet fidelity-verified**. E2 must compare all 16 English page blocks directly against the frozen Tamil before any English layer is marked verified.
+9. E2 has now compared all 16 English page blocks against the frozen Tamil and consolidated **4 confirmed corrections / 0 unresolved findings**. E3 final end-to-end verification remains pending.

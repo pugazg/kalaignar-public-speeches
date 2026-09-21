@@ -526,6 +526,7 @@ No transcription or translation work remains pending. Reopen only for genuinely 
 - Tamil T3 — **VERIFIED-COMPLETE / FROZEN**
 - unresolved Tamil — **0**
 - English E1 — **COMPLETE / 16/16**
-- English E2 — **READY / NOT STARTED**
+- English E2 — **COMPLETE / 16/16; 4 corrections / 0 unresolved**
+- English E3 — **READY / NOT STARTED**
 
-Exact next activity: **English E2 fidelity review PDF 26–41**.
+Exact next activity: **English E3 final end-to-end verification PDF 26–41**.

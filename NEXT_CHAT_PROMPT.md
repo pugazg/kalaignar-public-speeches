@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / English E2
+# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / English E3
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,44 +10,40 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 - Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
 - source pages — **PDF26–41 / 16**
-- T2 corrections — **1**
 - unresolved Tamil — **0**
-- T3 report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/T3_TAMIL_FREEZE_REPORT.md`
-
-Do not reopen Tamil merely for stylistic polishing.
+- do not reopen Tamil for stylistic polishing
 
 ## English state
 
 - E1 — **COMPLETE — 16/16**
-- translation — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/translation-en.md`
-- page provenance — **PDF26–41 retained**
-- outside English source used — **No**
-- E2 — **READY / NOT STARTED**
-- E3 — blocked
+- E2 — **COMPLETE — 16/16**
+- E2 page joins — **15/15**
+- E2 confirmed corrections — **4**
+- E2 unresolved — **0**
+- corrections consolidated into `translation-en.md` — **Yes**
+- E3 — **READY / NOT STARTED**
 - English verified-complete — **No**
+
+## E2 corrections to recheck
+
+1. PDF29 difficult frozen `அவர்களுடைய மொழியை, நான் மொழி...` is transparently disclosed.
+2. PDF35 now reads `He said, "Even the word 'Dravida' must not exist!"`.
+3. PDF41 now renders `தவறே செய்யமாட்டார்கள்` as `will thereafter never make another mistake for the rest of their lives.`
+4. PDF41 `அவர்களையெல்லாம் ... உங்களையெல்லாம்` shift is disclosed by translator note.
 
 ## Exact next activity
 
-Perform **English E2 page-by-page fidelity review for PDF 26–41** against frozen `transcription-ta.md`.
+Perform **English E3 final end-to-end verification for PDF 26–41**.
 
-Review for:
+Confirm:
 
-- omissions, additions, reversals and subject/pronoun errors;
-- strengthened or softened rhetoric;
-- all 15 page joins;
-- martyr names/place names;
-- PDF28 `ஏன் மருந்தினார்கள் என்றால்`;
-- PDF29 `மூன்று தமிழ்` and *parani*;
-- figures 14 / 88 / 74 / 1938 / 50;
-- central-official-language argument;
-- Rajaji / Sir A. T. Pannir Selvam exchange;
-- Suba. Veerapandian passage;
-- national-song / national-anthem terminology and quoted lines;
-- `Dravida Vidyabhushana Dr. U. Ve. Saminathaiyar`;
-- historical/political claims represented as source claims without added interpretation;
-- PDF39 Anna election anecdote;
-- PDF40 voters-defeat rhetoric and joined source form;
-- PDF41 farewell and separate editorial closing line;
-- headings, applause markers and repetition.
+- all 16 frozen Tamil page blocks are represented exactly once;
+- all 15 page joins are preserved;
+- all 4 E2 corrections are present;
+- no clause is omitted, duplicated, added or reversed;
+- names, titles, figures, headings, repetitions and applause markers remain faithful;
+- source historical/political claims remain represented as source speech content without added endorsement;
+- PDF41 editorial closing line remains separate from speech body;
+- no stale E1/E2-pending current-state language remains.
 
-Record confirmed findings in `translation-review.md` first, then consolidate corrections into `translation-en.md`. Do not mark English verified-complete until E3 passes.
+Only after E3 passes may English be marked **VERIFIED-COMPLETE**.
