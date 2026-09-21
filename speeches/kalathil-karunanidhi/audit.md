@@ -24,9 +24,9 @@
 ## Front matter
 
 - recorded — **5/5**
-- verified — **4**
-- needs-review — **1** (PDF4)
-- physical-loss spans — **2**
+- verified — **5/5**
+- needs-review — **0**
+- unresolved physical-loss spans — **0**
 - guessed reconstruction — **0**
 
 ## Tamil T1
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF66–70**.
+Tamil T1 — **finalize PDF71–81 canonical transcription**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -464,4 +464,23 @@ Consequences:
 - committed canonical speech-body unresolved — **0**
 - committed canonical processed pages verified — **65/65**
 - PDF76/PDF81 specific obscured passages — **RESOLVED**, while their full PDF71–81 canonical transcription remains pending
-- PDF4 front-matter physical-loss spans — **still unresolved / unchanged**
+- PDF4 front-matter physical-loss spans — **RESOLVED / CLOSED by user adjudication (2026-09-21)**
+
+
+## PDF4 front-matter adjudication — 2026-09-21
+
+The user supplied exact readings for the two formerly physically lost spans on PDF4:
+
+- `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
+- `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
+
+Classification: **USER ADJUDICATION / exact supplied reading**.
+
+Consequences:
+
+- PDF4 front matter — **VERIFIED / CLOSED**
+- front matter verified — **5/5**
+- front matter needs-review — **0**
+- unresolved front-matter physical-loss spans — **0**
+- guessed reconstruction — **0**
+- all previously known source-obscured/lost readings in the archive are now resolved by explicit user adjudication
