@@ -65,7 +65,7 @@
     "tamil_transcription": "in-progress",
     "speech_pages_total": 76,
     "speech_pages_drafted": 65,
-    "speech_pages_verified_first_pass": 64,
+    "speech_pages_verified_first_pass": 65,
     "tamil_visual_audit": "blocked-pending-t1-completion",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked-pending-tamil-freeze",
@@ -88,16 +88,14 @@
     "status": "in-progress",
     "speech_pages_processed": 65,
     "speech_pages_total": 76,
-    "verified_first_pass": 64,
-    "unresolved_processed_body_readings": 1,
+    "verified_first_pass": 65,
+    "unresolved_processed_body_readings": 0,
     "latest_range": "PDF66–70",
     "latest_range_result": "5/5 verified",
     "next_range": "PDF71–81 finalization",
-    "needs_review_pages": [
-      60
-    ],
-    "source_obscured_spans": 1,
-    "needs_review_reason": "PDF60 first printed line has one span obscured by the KAMARAJ NEWS MART ownership stamp; guessed reconstruction 0.",
+    "needs_review_pages": [],
+    "source_obscured_spans": 0,
+    "needs_review_reason": null,
     "remaining_range_source_review": {
       "range": "PDF71–81",
       "scans_reviewed": 11,
@@ -111,18 +109,43 @@
         "PDF77→78 வாடி / யும் → வாடியும்",
         "PDF78→79 sentence continues ...திட்டத்துடன் முழு / அமைப்பு..."
       ],
-      "pending_source_conditions": [
+      "pending_source_conditions": [],
+      "resolved_user_adjudications": [
         {
           "pdf": 76,
-          "condition": "KAMARAJ NEWS MART ownership-stamp overlap affects upper text",
-          "reconstruction": "none"
+          "text": "புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?"
         },
         {
           "pdf": 81,
-          "condition": "terminal scan has physical surface loss plus ownership-stamp overlap affecting lower closing text",
-          "reconstruction": "none"
+          "text": "திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !"
         }
       ]
-    }
+    },
+    "user_adjudications": [
+      {
+        "pdf": 60,
+        "printed_page": 59,
+        "status": "resolved",
+        "provenance": "user-supplied exact reading",
+        "date": "2026-09-21",
+        "text": "முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,"
+      },
+      {
+        "pdf": 76,
+        "printed_page": 75,
+        "status": "resolved-passage-canonical-page-pending",
+        "provenance": "user-supplied exact reading",
+        "date": "2026-09-21",
+        "text": "புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?"
+      },
+      {
+        "pdf": 81,
+        "printed_page": 80,
+        "status": "resolved-passage-canonical-page-pending",
+        "provenance": "user-supplied exact reading",
+        "date": "2026-09-21",
+        "text": "திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !"
+      }
+    ]
   }
 }
