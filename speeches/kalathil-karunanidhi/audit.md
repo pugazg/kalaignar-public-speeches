@@ -370,11 +370,7 @@ Cross-page controls:
 - PDF64→65 — sentence continues `...தோழமையை விளங்கும் / விபரீத விசித்திர புத்தி படைத்தவர்களுமல்ல நாங்கள்.`
 - PDF65→66 — deferred to next batch; PDF65 ends `...என்று பேசுவதா?`
 
-PDF60's existing source hold remains unchanged:
-
-- one ownership-stamp-obscured span
-- repository marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
-- guessed reconstruction — **0**
+PDF60 hold at this historical checkpoint was still open; it was **later RESOLVED by user adjudication on 2026-09-21**. Guessed reconstruction remained **0**.
 
 Cumulative T1: **60/76 processed; 59/60 verified; 1 needs-review**.
 
@@ -447,7 +443,7 @@ PDF60 source hold is **RESOLVED by user adjudication (2026-09-21)**:
 - the prior obscured marker is removed from canonical transcription
 - guessed reconstruction — **0**
 
-Cumulative canonical T1 remains **65/76 processed; 64/65 verified; 1 needs-review** until PDF71–81 text is actually committed.
+Cumulative canonical T1 remains **65/76 processed; 65/65 verified; 0 speech-body needs-review** until PDF71–81 text is actually committed.
 
 Exact next activity: **finalize and commit canonical Tamil T1 PDF71–81 from the completed source review, preserving any PDF76/PDF81 source-obscured spans without reconstruction.**
 
