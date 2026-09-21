@@ -74,12 +74,29 @@ Cumulative:
 - guessed reconstruction — **0**
 - PDF4 front-matter loss spans — **RESOLVED / CLOSED by user adjudication**
 
+## Cross-chat continuation checkpoint
+
+The user is moving this work to another chat window.
+
+- live `main` is authoritative
+- PDF71–81 source review — **11/11 COMPLETE**
+- detailed character-level working pass — reached **PDF78**; PDF79–81 also visually inspected
+- canonical PDF71–81 pages committed — **0/11**
+- canonical T1 therefore remains **65/76 processed; 65/65 verified; 0 unresolved**
+- do **not** infer that the working pass is a committed transcript
+- all user adjudications are durable:
+  - PDF4 — `வெற்றிக்கு`; `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
+  - PDF60 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
+  - PDF76 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+  - PDF81 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+- first action in the next chat — refetch live controls and source, then finish canonical PDF71–81 without reopening PDF1–70
+
 ## Exact next activity
 
 Finalize canonical Tamil T1 — **PDF71–81 together**, using the completed source review.
 
 Source review for PDF71–81 is already complete. Preserve these established controls: PDF74→75 `அரசாங் / கத்தில்`, PDF76→77 `...என்று / எண்ணம், பகுத்தறிவு...`, PDF77→78 `வாடி / யும்`, and PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`.
 
-The formerly obscured PDF76 and PDF81 passages are resolved by user adjudication and must be used exactly as recorded. Guessed reconstruction remains 0.
+The formerly obscured PDF76 and PDF81 passages are resolved by user adjudication and must be used exactly as recorded. Guessed reconstruction remains 0. Do not reopen those readings.
 
 Canonical T1 remains PDF6–70 / 65 of 76 until PDF71–81 is committed; all 65 committed speech-body pages are now verified.
