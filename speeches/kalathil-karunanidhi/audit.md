@@ -445,7 +445,7 @@ PDF60 source hold is **RESOLVED by user adjudication (2026-09-21)**:
 
 Cumulative canonical T1 remains **65/76 processed; 65/65 verified; 0 speech-body needs-review** until PDF71–81 text is actually committed.
 
-Exact next activity: **finalize and commit canonical Tamil T1 PDF71–81 from the completed source review, preserving any PDF76/PDF81 source-obscured spans without reconstruction.**
+Exact next activity: **finalize and commit canonical Tamil T1 PDF71–81 from the completed source review, using the resolved user-adjudicated PDF76/PDF81 passages exactly as recorded.**
 
 
 ## User adjudication record — 2026-09-21
@@ -484,3 +484,17 @@ Consequences:
 - unresolved front-matter physical-loss spans — **0**
 - guessed reconstruction — **0**
 - all previously known source-obscured/lost readings in the archive are now resolved by explicit user adjudication
+
+
+## Cross-chat handoff checkpoint — 2026-09-21
+
+The user requested continuation in another chat window.
+
+- remaining-range source review — **PDF71–81 / 11 of 11 complete**
+- detailed character-level working review — progressed through **PDF78**; PDF79–81 also visually inspected
+- canonical PDF71–81 pages committed — **0/11**
+- canonical T1 remains — **65/76 processed / 65/65 verified / 0 speech-body unresolved**
+- front matter — **5/5 verified / 0 unresolved**
+- user-adjudicated passages — **PDF4, PDF60, PDF76, PDF81 all resolved and durable**
+- no uncommitted draft text should be treated as canonical
+- next chat must read live `main`, the source scans, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`, then complete canonical PDF71–81
