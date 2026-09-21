@@ -1246,6 +1246,20 @@ Completed source-review findings:
 - PDF81 — previously damaged/stamp-obscured closing passage **RESOLVED by user adjudication (2026-09-21)** as `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 - source review of all remaining 11 scans is complete; final character-level canonical transcription and page-level verification remain pending
 
+## Continuation checkpoint — 2026-09-21
+
+The user requested handoff to another chat window before committing PDF71–81 canonical text.
+
+Durable position at handoff:
+
+- PDF71–81 source-image review — **11/11 COMPLETE**
+- detailed character-level working review — **progressed through PDF78; PDF79–81 also visually inspected**
+- canonical PDF71–81 body text committed — **0/11**
+- therefore canonical T1 counters remain **65/76 processed; 65/65 verified; 0 unresolved**
+- no provisional or partially checked PDF71–81 text is promoted into the canonical transcript
+- all user adjudications for PDF4, PDF60, PDF76 and PDF81 are already durable in this file/control documents
+- exact continuation task — **transcribe and commit canonical PDF71–81 from source pixels, using the established boundary controls and adjudications**
+
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
@@ -1253,7 +1267,6 @@ Completed source-review findings:
 - processed speech pages verified — **65/65**
 - unresolved speech-body readings in processed range — **0**
 - source front matter recorded — **5/5**
-- front matter verified — **4**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
 - unresolved front-matter physical-loss spans — **0**
