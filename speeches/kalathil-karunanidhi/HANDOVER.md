@@ -32,7 +32,7 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Fixed cadence
 
-**5 physical PDF pages per user iteration.**
+**Default 5 physical PDF pages per user iteration. User explicitly authorized processing the remaining PDF71–81 together.**
 
 ## Latest completed range
 
@@ -55,8 +55,21 @@ Cumulative:
 - PDF69→70 — clean paragraph boundary
 - PDF70→71 — boundary check deferred to next batch; PDF70 ends `தியாகப்பட்டியலில் தேவையா, இன்னும்?`
 
+## Remaining-range source-review checkpoint
+
+- PDF71–81 physical scans rendered and reviewed — **11/11 COMPLETE**
+- canonical PDF71–81 transcription — **PENDING**
+- new guessed reconstruction — **0**
+- PDF76 — ownership-stamp overlap / preserve as source-obscured where unreadable
+- PDF81 — terminal physical loss + ownership-stamp overlap / preserve as source-obscured where unreadable
+- canonical counters deliberately remain **65/76 processed; 64/65 verified; 1 needs-review** until text is committed
+
 ## Exact next activity
 
-Tamil T1 — **PDF71–75 only**.
+Finalize canonical Tamil T1 — **PDF71–81 together**, using the completed source review.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF75.
+Source review for PDF71–81 is already complete. Preserve these established controls: PDF74→75 `அரசாங் / கத்தில்`, PDF76→77 `...என்று / எண்ணம், பகுத்தறிவு...`, PDF77→78 `வாடி / யும்`, and PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`.
+
+PDF76 has an ownership-stamp overlap in its upper text. PDF81 has terminal physical loss plus ownership-stamp overlap in its lower closing text. Do not reconstruct hidden characters. Guessed reconstruction must remain 0.
+
+Canonical T1 remains PDF6–70 / 65 of 76 until the PDF71–81 transcription is committed.
