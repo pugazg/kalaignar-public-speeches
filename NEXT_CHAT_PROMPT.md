@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / Tamil T3
+# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / English E1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,53 +6,43 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/`
 
-## Durable state
+## Frozen Tamil state
 
 - source / duplicate / boundary gate — **PASS / COMPLETE**
 - Tamil T1 — **COMPLETE — 16/16**
 - Tamil T2 — **COMPLETE / VERIFIED — 16/16**
-- page joins — **15/15 PASS**
 - T2 corrections — **1**
 - T2 unresolved — **0**
-- T2 report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/T2_DIRECT_SCAN_AUDIT.md`
-- Tamil T3 — **READY**
-- English — blocked pending Tamil freeze
+- Tamil T3 — **PASS / COMPLETE**
+- Tamil — **VERIFIED-COMPLETE / FROZEN**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- unresolved Tamil — **0**
+- opening / ending — **verified / verified**
+- canonical Tamil — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/transcription-ta.md`
+- T3 report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/T3_TAMIL_FREEZE_REPORT.md`
 
-## T2 correction
+Do not reopen Tamil merely for stylistic polishing.
 
-PDF35 had a duplicated three-line national-song quotation in T1. T2 removed the duplicate and retained the single source-visible block.
+## Source boundaries
 
-All other flagged source-sensitive readings were verified unchanged, including:
-
-- martyr names/place names;
-- `ஏன் மருந்தினார்கள் என்றால்`;
-- `மூன்று கொடி, மூன்று தமிழ் என்று மூன்று கடல் சூழ்ந்த...`;
-- numerals 14 / 88 / 74 / 1938 / 50;
-- Rajaji / Sir A. T. Pannir Selvam exchange;
-- national-song wording;
-- `திராவிட வித்யாபூஷண டாக்டர் உ.வே. சாமிநாதய்யர்`;
-- applause markers/headings;
-- `கடையில்போய்சாமான்வாங்கும்போது`;
-- PDF41 farewell and separate editorial closing line.
-
-## Read first
-
-1. `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/transcription-ta.md`
-2. `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/T2_DIRECT_SCAN_AUDIT.md`
-3. `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/README.md`
-4. `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/audit.md`
-5. `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/HANDOVER.md`
+- PDF1–23 — existing Murasoli letter 3606; excluded
+- PDF24–25 — speech title/blank front matter
+- PDF26–41 — frozen speech body
+- PDF41 editorial line `இவ்வாறு தலைவர் கலைஞர் அவர்கள் உரையாற்றினார்.` remains separate from the speech body
+- PDF42 — back cover
 
 ## Exact next activity
 
-Perform **Tamil T3 consolidation/freeze**.
+Begin **English E1 translation of all 16 frozen Tamil speech pages**.
 
 Requirements:
 
-- verify all T2 corrections are present;
-- verify no duplicate/missing page block remains;
-- preserve physical page boundaries as provenance while assembling the canonical speech;
-- keep PDF41 editorial closing line separate from the speech body;
-- preserve source-specific spelling, punctuation, joined forms, headings and applause markers;
-- ensure unresolved Tamil count remains **0**;
-- if clean, mark Tamil **VERIFIED-COMPLETE / FROZEN** and unblock English E1.
+- translate only from frozen `transcription-ta.md`;
+- preserve source order and rhetorical repetition;
+- preserve headings and applause markers;
+- preserve names, titles and source-sensitive forms without silently normalizing them;
+- retain the distinction between speech text and the separate PDF41 editorial closing line;
+- do not import outside English wording;
+- keep page correspondence/provenance clear;
+- after the complete E1 draft, mark E2 fidelity review ready.

@@ -47,8 +47,23 @@ Tamil T1 — **COMPLETE — 16/16 source pages**.
 - unresolved — **0**
 - correction — PDF35 duplicated national-song block removed
 - report — `T2_DIRECT_SCAN_AUDIT.md`
-- Tamil T3 — **READY**
+- Tamil T3 — **COMPLETE / VERIFIED-COMPLETE / FROZEN**
+
+## Tamil T3 final state
+
+- canonical Tamil — **VERIFIED-COMPLETE / FROZEN**
+- source pages — **16/16**
+- T2 corrections retained — **1/1**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- unresolved Tamil — **0**
+- opening / ending — **verified / verified**
+- PDF41 editorial closing line — **separate from speech body**
+- report — `T3_TAMIL_FREEZE_REPORT.md`
+- English E1 — **READY / UNBLOCKED**
+
+Do not reopen Tamil merely for stylistic polishing.
 
 ## Exact next activity
 
-Perform **Tamil T3 consolidation/freeze** from the T2-verified canonical Tamil.
+Begin **English E1 translation from `transcription-ta.md`**, preserving source order and source-sensitive forms.

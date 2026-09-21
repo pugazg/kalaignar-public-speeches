@@ -41,7 +41,7 @@ T1 was produced from direct page-image inspection with machine text used only as
 
 Recheck martyr names/place names, `ஏன் மருந்தினார்கள் என்றால்`, the PDF29 three-fold phrase, all numerals, Rajaji/Pannir Selvam exchange, national-song lines, `திராவிட வித்யாபூஷண`, applause markers, PDF40 joined word form, all page joins, final farewell and separate source closing line.
 
-Tamil T2 — **READY / NOT STARTED**.
+Historical T1 handoff (superseded): Tamil T2 was **READY / NOT STARTED**.
 
 
 ## Cross-repository duplicate resolution
@@ -69,4 +69,25 @@ Correction T2-01 removed the duplicated three-line national-song block on PDF35.
 
 Authority: `T2_DIRECT_SCAN_AUDIT.md`.
 
-Tamil T3 — **READY**.
+Tamil T3 — **COMPLETE / VERIFIED-COMPLETE / FROZEN**.
+
+
+## Tamil T3 consolidation/freeze — 2026-09-21
+
+Result: **PASS / VERIFIED-COMPLETE / FROZEN**
+
+- T2 correction consolidated — **1/1**
+- page records — **16/16 exactly once**
+- page order — **PDF26→41 PASS**
+- stale PDF35 duplicated song block — **absent**
+- additional T3 source corrections — **0**
+- consolidation repairs — **0**
+- unresolved Tamil — **0**
+- opening — **verified**
+- ending — **verified**
+- PDF41 editorial closing line — **verified / outside speech body**
+- canonical Tamil — `transcription-ta.md`
+
+Authority: `T3_TAMIL_FREEZE_REPORT.md`.
+
+English E1 — **READY / UNBLOCKED**.

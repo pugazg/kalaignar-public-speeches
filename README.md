@@ -523,6 +523,8 @@ No transcription or translation work remains pending. Reopen only for genuinely 
 - venue — **காஞ்சிபுரம்**
 - Tamil T1 — **COMPLETE / 16/16**
 - Tamil T2 — **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved**
-- Tamil T3 — **READY**
+- Tamil T3 — **VERIFIED-COMPLETE / FROZEN**
+- unresolved Tamil — **0**
+- English E1 — **READY / NOT STARTED**
 
-Exact next activity: **Tamil T3 consolidation/freeze**.
+Exact next activity: **English E1 translation from frozen Tamil**.

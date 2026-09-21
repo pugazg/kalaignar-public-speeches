@@ -1,6 +1,6 @@
 # காஞ்சிபுரம் — மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் கூட்டத்தில் ஆற்றிய வீர உரை — Tamil transcription
 
-**Status:** T2 **COMPLETE / VERIFIED — 16/16 source pages; 1 correction / 0 unresolved; T3 READY**  
+**Status:** **VERIFIED-COMPLETE / T3 FROZEN — 16/16 source pages; T2 1 correction / 0 unresolved**  
 **Controlling source:** `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`  
 **Speech body:** PDF **26–41**  
 **Title/front matter:** PDF24–25 — outside speech body  
@@ -196,4 +196,19 @@ Strict visual re-audit must explicitly recheck:
 - PDF41 farewell — **PASS**
 - separate editorial closing line — **PASS / outside speech body**
 
-Tamil T3 consolidation/freeze is **READY**.
+## T3 freeze
+
+**PASS / VERIFIED-COMPLETE / FROZEN.**
+
+- all T2 corrections consolidated — **PASS**
+- physical page blocks PDF26–41 present exactly once — **16/16 PASS**
+- physical page order — **PASS**
+- page-boundary provenance retained — **PASS**
+- stale superseded PDF35 duplicate reading — **absent**
+- unresolved Tamil readings — **0**
+- source-specific spellings/forms/headings/applause markers — **preserved**
+- PDF41 speech farewell — **verified**
+- PDF41 editorial closing line — **verified and kept outside speech body**
+- canonical Tamil file — `transcription-ta.md`
+
+This Tamil layer is frozen. Reopen only for genuinely new source evidence or a documented substantive transcription error.

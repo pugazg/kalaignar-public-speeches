@@ -36,8 +36,9 @@
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
 | Tamil T2 strict direct-scan audit | **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved** |
-| Tamil T3 consolidation/freeze | **READY** |
-| English E1/E2/E3 | blocked |
+| Tamil T3 consolidation/freeze | **COMPLETE / VERIFIED-COMPLETE / FROZEN** |
+| English E1 | **READY / NOT STARTED** |
+| English E2/E3 | blocked pending prior English gate |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -65,6 +66,23 @@ Source-sensitive T2 attention is recorded in `transcription-ta.md`, including th
 
 The sole correction removed a duplicated three-line national-song quotation on PDF35. All other flagged source-sensitive forms were verified and retained.
 
+## Tamil T3
+
+**PASS / VERIFIED-COMPLETE / FROZEN.**
+
+- canonical Tamil — `transcription-ta.md`
+- page coverage — **16/16**
+- T2 correction retained — **1/1**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- unresolved Tamil — **0**
+- opening — **verified**
+- ending — **verified**
+- PDF41 editorial closing line — **separate from speech body**
+- report — `T3_TAMIL_FREEZE_REPORT.md`
+
+Tamil is frozen. Do not reopen for stylistic polishing.
+
 ## Exact next activity
 
-Perform **Tamil T3 consolidation/freeze**. Preserve the T2-verified wording; do not stylistically normalize source-specific forms.
+Begin **English E1 translation from the frozen Tamil transcript**.
