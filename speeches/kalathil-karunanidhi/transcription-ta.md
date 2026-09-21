@@ -56,14 +56,14 @@ Publication body text இல்லை.
 களம்! **களத்தில் கருணாநிதி!**
 
 **களத்தில் கருணாநிதி!** நாட்டு மக்களுக்குக்  
-களம் புகுமுன் ஆற்றிய வீர உரை—வெற்⟦மூலத்தில் மறைவு⟧க்கு  
-வழிவகுத்தபாதை—வீரர் கோட்டத்திற்⟦மூலத்தில் மறைவு⟧ தந்த புத்து  
+களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு  
+வழிவகுத்தபாதை—வீரர் கோட்டத்திற்குத் தந்த புத்து  
 ணர்ச்சி! புரட்சிப் பரணி!
 
 சென்னையில் **கலைஞர் கருணாநிதி 23-12-51-ல்**  
 பேசினார்; ராபின்சன்பார்க்கில். சுவைமிக்க, தேவை
 
-> **Source condition:** two small lower-page spans are physically lost and remain marked `⟦மூலத்தில் மறைவு⟧`. They are not guessed. Front-matter status for PDF4: **needs-review**.
+> **User adjudication (2026-09-21):** the two formerly lost PDF4 spans are resolved from the user's exact reading as `வெற்றிக்கு` and `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`. PDF4 front matter is now **VERIFIED**. Guessed reconstruction remains **0**.
 
 ## PDF 5
 
@@ -990,7 +990,7 @@ iv
 
 பலாத்காரத்தில் இறங்கி, அதனால் அடக்கு முறைக்கு ஆளாகி அவதிப்பட்டவர்களும் தியாகிகள் தானா?
 
-> **Source condition:** the KAMARAJ NEWS MART ownership stamp physically obscures one span in PDF60's first printed line. The obscured span is marked ⟦மூலத்தில் முத்திரையால் மறைவு⟧; guessed reconstruction is **0**. PDF60 T1 status: **needs-review**.
+> **Source condition / later adjudication:** the KAMARAJ NEWS MART ownership stamp obscured one span in PDF60's first printed line during source review; it was later resolved by user adjudication on 2026-09-21. Guessed reconstruction remains **0**.
 
 ## PDF 61
 
@@ -1212,6 +1212,15 @@ iv
 
 தியாகப்பட்டியலில் தேவையா, இன்னும்?
 
+### PDF4 front-matter adjudication — 2026-09-21
+
+The user supplied exact readings for the two formerly physically lost spans on PDF4:
+
+- `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
+- `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
+
+Canonical PDF4 now reads those forms directly. Provenance is **user-supplied exact reading**; guessed reconstruction remains **0**. PDF4 front matter is therefore **VERIFIED / CLOSED**.
+
 ## User adjudications — 2026-09-21
 
 The user supplied exact readings for three areas that could not be established from the obscured/damaged scan pixels alone. These are recorded as **user adjudications**, not as inferred OCR/source-pixel reconstructions:
@@ -1245,7 +1254,9 @@ Completed source-review findings:
 - unresolved speech-body readings in processed range — **0**
 - source front matter recorded — **5/5**
 - front matter verified — **4**
-- front matter needs-review — **1** (PDF4; two physical-loss spans)
+- front matter verified — **5/5**
+- front matter needs-review — **0**
+- unresolved front-matter physical-loss spans — **0**
 - guessed readings — **0**
 - cadence — **default 5 pages; user explicitly authorized processing the remaining PDF71–81 together**
 - exact next speech-body range — **PDF71–81 finalization from completed source review**
