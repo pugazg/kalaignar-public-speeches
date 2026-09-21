@@ -24,8 +24,8 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 - front matter — **5/5 recorded**
 - PDF4 — **needs-review**, 2 physical-loss spans
-- Tamil T1 — **PDF6–40 / 35 of 76**
-- processed speech pages verified — **35/35**
+- Tamil T1 — **PDF6–45 / 40 of 76**
+- processed speech pages verified — **40/40**
 - unresolved processed speech-body readings — **0**
 - T2/T3 — blocked
 - English — blocked
@@ -36,20 +36,22 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Latest completed range
 
-PDF **36–40 — 5/5 VERIFIED**.
+PDF **41–45 — 5/5 VERIFIED**.
 
 Cumulative:
 
-- speech T1 — **35/76**
-- processed pages verified — **35/35**
+- speech T1 — **40/76**
+- processed pages verified — **40/40**
 - processed-body unresolved — **0**
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
 - English — blocked
-- PDF40→41 — boundary check deferred to next batch; PDF40 ends `...இறக்கும்படி செய்வது மேல்.`
+- historical-glyph PDF41–45 — **PASS / all 13 mandatory families checked / 0 unresolved**
+- representative decodings — PDF41 `காணாதிருக்க` (`ணா`), PDF42 `மன்றாடிக்` (`றா`, two occurrences), PDF44 `இதனை` (`னை`)
+- PDF45→46 — boundary check deferred to next batch; PDF45 ends mid-sentence at `...கம்யூனிஸ்டுக் கட்சி`
 
 ## Exact next activity
 
-Tamil T1 — **PDF41–45 only**.
+Tamil T1 — **PDF46–50 only**.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF45.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF50.
