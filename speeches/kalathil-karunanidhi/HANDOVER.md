@@ -62,7 +62,7 @@ Cumulative:
 - new guessed reconstruction — **0**
 - PDF76 obscured passage — **RESOLVED by user adjudication**: `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
 - PDF81 closing passage — **RESOLVED by user adjudication**: `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
-- canonical counters deliberately remain **65/76 processed; 64/65 verified; 1 needs-review** until text is committed
+- canonical counters deliberately remain **65/76 processed; 65/65 verified; 0 speech-body needs-review** until PDF71–81 text is committed
 
 ### User adjudications — 2026-09-21
 
