@@ -90,7 +90,7 @@ Result: **PASS / VERIFIED-COMPLETE / FROZEN**
 
 Authority: `T3_TAMIL_FREEZE_REPORT.md`.
 
-English E1 — **READY / UNBLOCKED**.
+Historical T3 handoff (superseded): English E1 was **READY / UNBLOCKED**.
 
 
 ## English E1 first-pass translation — 2026-09-21
@@ -105,8 +105,8 @@ Result: **COMPLETE — 16/16**
 - headings / applause markers — **retained**
 - difficult source forms — **translated transparently with notes**
 - PDF41 editorial closing line — **kept separate**
-- E2 fidelity review — **READY / NOT STARTED**
-- English verified-complete — **No**
+- E2 fidelity review — **historical next gate at E1 completion; later completed**
+- English verified-complete at E1 stage — **No (historical; superseded by E3 PASS)**
 
 No claim of English fidelity verification is made at E1.
 
@@ -130,7 +130,7 @@ Confirmed changes:
 3. PDF41 `தவறே செய்யமாட்டார்கள்` restored to broader scope.
 4. PDF41 `அவர்களையெல்லாம் ... உங்களையெல்லாம்` shift disclosed by translator note.
 
-English E3 — **READY / NOT STARTED**.
+Historical E2 handoff (superseded): English E3 was **READY / NOT STARTED**.
 
 
 ## English E3 final verification — 2026-09-21
@@ -156,3 +156,37 @@ Additional E3 corrections:
 Authority: `E3_ENGLISH_FINAL_VERIFICATION.md`.
 
 English is now **VERIFIED-COMPLETE**.
+
+
+## FINAL RELEASE-READINESS CLOSURE — 2026-09-21
+
+Result: **PASS / FINAL CLOSED / RELEASE READY**
+
+Verified:
+
+- controlling source — `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
+- source SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
+- source extent — **42 scans**
+- PDF1–23 — existing Murasoli letter **3606**, Volume 46, dated **3-2-2012**, excluded from speech archive
+- PDF24–25 — speech title / blank front matter
+- PDF26–41 — canonical speech body, **16/16**
+- PDF42 — shared back cover
+- exact speech date — **not established by source; not inferred**
+- venue — **காஞ்சிபுரம்**, source-established
+- Tamil T1 — **16/16 COMPLETE**
+- Tamil T2 — **16/16 VERIFIED / 1 correction / 0 unresolved**
+- Tamil T3 — **PASS / VERIFIED-COMPLETE / FROZEN**
+- unresolved Tamil — **0**
+- English E1 — **16/16 COMPLETE**
+- English E2 — **COMPLETE / 4 corrections / 0 unresolved**
+- English E3 — **PASS / 4 additional corrections / 0 unresolved**
+- English — **VERIFIED-COMPLETE**
+- unresolved English — **0**
+- PDF41 editorial closing line — **kept separate from speech body**
+- current archive/root control documents — **synchronized**
+
+Historical intermediate gate language is retained only as explicitly historical/superseded provenance.
+
+Final report: `FINAL_CLOSURE.md`.
+
+Closure introduced **0 Tamil speech-body changes** and **0 English speech-body changes**.

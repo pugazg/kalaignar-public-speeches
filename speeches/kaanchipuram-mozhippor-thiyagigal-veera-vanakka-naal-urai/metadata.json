@@ -56,10 +56,10 @@
     "english_translation": "verified-complete",
     "english_translation_review": "complete",
     "english_translation_final_verification": "complete",
-    "repository_closure": "not-started",
-    "archive_status": "active",
-    "pending_transcription_or_translation_work": true,
-    "next_gate": "final archive release-readiness assessment",
+    "repository_closure": "complete-pass",
+    "archive_status": "final-closed-release-ready",
+    "pending_transcription_or_translation_work": false,
+    "next_gate": "none — archive FINAL CLOSED / RELEASE READY",
     "t1_pages_completed": 16,
     "t1_missing_pages": 0,
     "t1_unreadable_or_unknown": 0,
@@ -134,5 +134,31 @@
     "e3_additional_corrections": 4,
     "e3_unresolved_findings": 0,
     "e3_report": "E3_ENGLISH_FINAL_VERIFICATION.md"
+  },
+  "archive_status": "final-closed-release-ready",
+  "release_readiness": "final-closed-release-ready",
+  "final_closure": {
+    "status": "PASS",
+    "date": "2026-09-21",
+    "report": "FINAL_CLOSURE.md",
+    "source_sha256": "84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e",
+    "source_scans": 42,
+    "speech_pdf_range": "26-41",
+    "speech_pages": 16,
+    "existing_murasoli_letter_excluded": {
+      "volume": 46,
+      "letter_number": 3606,
+      "date": "2012-02-03",
+      "pdf_range_in_supplied_booklet": "1-23"
+    },
+    "tamil_verified_complete": true,
+    "tamil_frozen": true,
+    "tamil_unresolved": 0,
+    "english_verified_complete": true,
+    "english_unresolved": 0,
+    "e2_corrections": 4,
+    "e3_additional_corrections": 4,
+    "release_ready": true,
+    "reopen_policy": "only for genuinely new source evidence or a documented substantive fidelity error"
   }
 }

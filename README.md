@@ -507,28 +507,24 @@ The authoritative collection records are `collections/muthukkuliyal-part-1/FINAL
 No transcription or translation work remains pending. Reopen only for genuinely new source evidence or a documented fidelity error.
 
 
-### Active work — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை
+### Completed work — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை
 
-`speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/`
+`speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/` is **FINAL CLOSED / RELEASE READY**.
 
 - source — `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
 - SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
-- mixed booklet — **42 scans**
-- separate article/letter — PDF **1–23**, excluded from this speech
-- speech title / blank — PDF **24–25**
+- source extent — **42 scans**
+- PDF1–23 — existing Murasoli letter **3606**, excluded / already archived
+- PDF24–25 — speech title / blank
 - speech body — PDF **26–41 / 16 pages**
 - PDF42 — shared back cover
-- source / duplicate / boundary gate — **PASS / COMPLETE**
-- exact date — **not established**
+- exact speech date — **not established**
 - venue — **காஞ்சிபுரம்**
-- Tamil T1 — **COMPLETE / 16/16**
-- Tamil T2 — **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved**
-- Tamil T3 — **VERIFIED-COMPLETE / FROZEN**
-- unresolved Tamil — **0**
-- English E1 — **COMPLETE / 16/16**
-- English E2 — **COMPLETE / 16/16; 4 corrections / 0 unresolved**
-- English E3 — **PASS / COMPLETE — 4 additional corrections / 0 unresolved**
+- Tamil — **VERIFIED-COMPLETE / FROZEN**
+- Tamil T2 — **1 correction / 0 unresolved**
 - English — **VERIFIED-COMPLETE**
-- unresolved English findings — **0**
+- English E2 — **4 corrections / 0 unresolved**
+- English E3 — **4 additional corrections / 0 unresolved**
+- final report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/FINAL_CLOSURE.md`
 
-Exact next activity: **final archive release-readiness assessment**.
+Repository-level closure is complete. No transcription or translation work remains pending.

@@ -1,5 +1,7 @@
 # காஞ்சிபுரம் — மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் கூட்டத்தில் ஆற்றிய வீர உரை
 
+**FINAL STATUS:** **FINAL CLOSED / RELEASE READY**
+
 **Speaker:** தலைவர் கலைஞர் மு. கருணாநிதி  
 **Document type:** public speech  
 **Venue:** `காஞ்சிபுரம்` — established by source title  
@@ -40,7 +42,7 @@
 | English E1 | **COMPLETE — 16/16** |
 | English E2 | **COMPLETE — 16/16; 4 corrections / 0 unresolved** |
 | English E3 | **PASS / COMPLETE — 4 additional corrections / 0 unresolved** |
-| Repository closure | not started |
+| Repository closure | **PASS / FINAL CLOSED / RELEASE READY** |
 
 ## Tamil T1
 
@@ -104,7 +106,7 @@ Tamil is frozen. Do not reopen for stylistic polishing.
 - unresolved findings — **0**
 - corrections consolidated into `translation-en.md`
 - review ledger — `translation-review.md`
-- E3 — **READY / NOT STARTED**
+- E3 — **PASS / COMPLETE**
 
 ## English E3
 
@@ -118,6 +120,17 @@ Tamil is frozen. Do not reopen for stylistic polishing.
 - report — `E3_ENGLISH_FINAL_VERIFICATION.md`
 - English — **VERIFIED-COMPLETE**
 
-## Exact next activity
+## Final closure
 
-Perform **final archive release-readiness assessment** and synchronize all current-state control documents before closure.
+**PASS / FINAL CLOSED / RELEASE READY.**
+
+- source / duplicate / boundary — **PASS**
+- Tamil — **VERIFIED-COMPLETE / FROZEN**
+- unresolved Tamil — **0**
+- English — **VERIFIED-COMPLETE**
+- unresolved English — **0**
+- final report — `FINAL_CLOSURE.md`
+
+There is no pending Tamil or English activity for this archive.
+
+Reopen only for genuinely new source evidence or a documented substantive fidelity error. Do not reopen merely for stylistic polishing.

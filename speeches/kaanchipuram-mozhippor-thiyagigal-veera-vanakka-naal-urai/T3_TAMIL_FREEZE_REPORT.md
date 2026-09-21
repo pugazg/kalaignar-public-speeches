@@ -56,8 +56,10 @@ Canonical Tamil authority: `transcription-ta.md`.
 
 Do not reopen for stylistic polishing. Reopen only for genuinely new source evidence or a documented substantive fidelity error.
 
-## Next gate
+## Historical next gate — completed
 
-English E1 translation is **UNBLOCKED / READY**.
+At T3 closure, English E1 was **UNBLOCKED / READY**.
 
-Translate only from the frozen Tamil layer, preserving source order, headings, repetitions, applause markers, source-sensitive names/forms, and the distinction between the speech body and the separate PDF41 editorial closing line.
+That gate and the later E2/E3 gates have since been completed. Current archive status is recorded in `FINAL_CLOSURE.md`.
+
+The frozen Tamil layer remains authoritative and must not be reopened merely for stylistic polishing.

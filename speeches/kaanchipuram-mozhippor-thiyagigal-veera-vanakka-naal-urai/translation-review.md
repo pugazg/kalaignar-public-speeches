@@ -100,10 +100,10 @@ E1 rendered the direct-address sense as “all of you” without disclosing the 
 - confirmed corrections — **4**
 - unresolved findings — **0**
 - corrections consolidated into `translation-en.md` — **Yes**
-- E3 final verification — **READY / NOT STARTED**
-- English verified-complete — **No**
+- E3 final verification — **COMPLETE / PASS**
+- English verified-complete — **Yes**
 
-Do not reopen frozen Tamil for these English corrections.
+Do not reopen frozen Tamil for these English corrections. The E2 handoff is historical; E3 subsequently passed.
 
 
 ## E3 final end-to-end verification — PASS

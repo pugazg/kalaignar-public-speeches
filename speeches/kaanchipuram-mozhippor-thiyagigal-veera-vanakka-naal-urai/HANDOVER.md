@@ -1,5 +1,7 @@
 # HANDOVER — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை
 
+**FINAL STATUS:** **FINAL CLOSED / RELEASE READY**
+
 ## Repository
 
 - `pugazg/kalaignar-public-speeches`
@@ -87,6 +89,15 @@ The earlier E1/E2 gating states are superseded by the final E3 state below.
 - report — `E3_ENGLISH_FINAL_VERIFICATION.md`
 - English — **VERIFIED-COMPLETE**
 
-## Exact next activity
+## Final closure
 
-Perform **final archive release-readiness assessment**.
+- Tamil — **VERIFIED-COMPLETE / FROZEN**
+- Tamil unresolved — **0**
+- English — **VERIFIED-COMPLETE**
+- English unresolved — **0**
+- repository closure — **PASS / FINAL CLOSED / RELEASE READY**
+- report — `FINAL_CLOSURE.md`
+
+No further transcription, Tamil audit, translation, English review, or release-readiness work remains pending.
+
+Reopen only for genuinely new source evidence or a documented substantive fidelity error.
