@@ -544,7 +544,7 @@ Repository-level closure is complete. No transcription or translation work remai
 - speech body — PDF **6–81 / 76 pages**
 - Tamil T1 — **PDF6–70 / 65 of 76**
 - processed speech pages verified — **65/65**
-- PDF4 front matter — **needs-review / 2 physical-loss spans**
+- PDF4 front matter — **VERIFIED / user-adjudicated / 0 unresolved physical-loss spans**
 - PDF60 speech body — **RESOLVED by user adjudication / canonical processed-body unresolved 0**
 - cadence — **default 5 pages; user authorized remaining PDF71–81 together**
 - remaining source review — **PDF71–81 / 11 scans COMPLETE; canonical transcription pending**
