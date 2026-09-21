@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **40/76**
-- range — **PDF6–45**
-- processed pages verified — **40/40**
+- speech pages processed — **45/76**
+- range — **PDF6–50**
+- processed pages verified — **45/45**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF46–50**.
+Tamil T1 — **PDF51–55**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -227,3 +227,41 @@ Cross-page controls:
 Cumulative T1: **40/76**.
 
 Exact next range: **PDF46–50**.
+
+
+## Tamil T1 batch — PDF46–50
+
+**PASS — 5/5 VERIFIED**
+
+- PDF46 / printed 45 — verified
+- PDF47 / printed 46 — verified
+- PDF48 / printed 47 — verified
+- PDF49 / printed 48 — verified
+- PDF50 / printed 49 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page.
+
+Representative source-pixel decodings:
+
+- PDF46 / PDF47 — `அண்ணா` checked as historical `ணா`.
+- PDF48 — apparent old-form `நன்றுக` decoded as `நன்றாக` from historical `றா`, consistent with same-edition evidence; `அனைவரையும்` checked for `னை`.
+- no historical-glyph ambiguity remains in PDF46–50.
+
+Source-sensitive forms retained include `யார்யார்`, `உறுதிப் படுத்துகிறார்களோ`, `சுமார் நூற்று ஐம்பதின்மருக்குமேல்`, `கண்ண மூடிக் கொண்டு`, `ஏற்குறையை`, `என்னபன`, `போடவேண்டு மென்று`, `பிரித்தே திருவோம்`, `சுரண்டல் காடாகவுள்ள`, `இன்பத்திராவிடங்காணும்`, and `காடாக்கிக்`.
+
+Cross-page controls:
+
+- PDF45→46 — `கம்யூனிஸ்டுக் கட்சி / யைச்` is one source word across the physical boundary: `கம்யூனிஸ்டுக் கட்சியைச்`.
+- PDF46→47 — clean paragraph boundary; no split word.
+- PDF47→48 — clean paragraph boundary; no split word.
+- PDF48→49 — clean paragraph boundary; no split word.
+- PDF49→50 — `நாச / காரக்` is one source word across the physical boundary: `நாசகாரக்`.
+- PDF50→51 — deferred to next batch; PDF50 ends `...காங்கிரஸ் தேர்தலில் கலந்து கொள்கிறது.`
+
+Cumulative T1: **45/76**.
+
+Exact next range: **PDF51–55**.
