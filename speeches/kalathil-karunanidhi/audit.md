@@ -378,7 +378,7 @@ PDF60's existing source hold remains unchanged:
 
 Cumulative T1: **60/76 processed; 59/60 verified; 1 needs-review**.
 
-Exact next range: **PDF71–75**.
+Exact next range: **PDF71–81 finalization from completed source review**.
 
 
 ## Tamil T1 batch — PDF66–70
@@ -418,3 +418,35 @@ PDF60's existing source hold remains unchanged:
 Cumulative T1: **65/76 processed; 64/65 verified; 1 needs-review**.
 
 Exact next range: **PDF71–75**.
+
+
+## Remaining-range source review — PDF71–81
+
+**SOURCE REVIEW COMPLETE / CANONICAL T1 TRANSCRIPTION STILL PENDING**
+
+All remaining physical scans **PDF71–81 / printed pp.70–80** were rendered and manually inspected at high resolution after the user explicitly authorized processing the remaining pages together.
+
+Completed findings:
+
+- source-image coverage reviewed — **11/11 scans**
+- canonical T1 text already committed before this review — **PDF6–70 / 65 of 76**
+- PDF71–81 canonical transcription — **not yet committed**
+- guessed reconstruction introduced by this review — **0**
+- PDF70→71 — clean transition into a new source paragraph; PDF71 opens `நாரணமங்கலத்திலே, 144 தடையுத்தரவு!`
+- PDF74→75 — source word split `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
+- PDF77→78 — source word split `வாடி / யும்` → `வாடியும்`
+- PDF78→79 — sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF76 — ownership-stamp overlap from `KAMARAJ NEWS MART` affects upper text; unresolved characters must not be guessed
+- PDF81 — terminal scan has physical surface loss plus ownership-stamp overlap in lower closing text; unresolved characters must not be guessed
+- historical-glyph-sensitive source review was performed on the remaining scans; final per-page glyph gate will be recorded together with canonical transcription
+
+The pre-existing PDF60 source hold remains unchanged:
+
+- one ownership-stamp-obscured span
+- repository marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
+- guessed reconstruction — **0**
+
+Cumulative canonical T1 remains **65/76 processed; 64/65 verified; 1 needs-review** until PDF71–81 text is actually committed.
+
+Exact next activity: **finalize and commit canonical Tamil T1 PDF71–81 from the completed source review, preserving any PDF76/PDF81 source-obscured spans without reconstruction.**
