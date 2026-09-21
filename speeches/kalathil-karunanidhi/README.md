@@ -47,8 +47,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
 - speech T1 — **PDF6–70 / 65 of 76**
-- processed speech pages verified — **64/65**
-- unresolved processed speech-body readings — **1** (PDF60 ownership-stamp-obscured span)
+- processed speech pages verified — **65/65**
+- unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
 - English — blocked pending Tamil freeze
@@ -80,7 +80,17 @@ Cross-page controls:
 
 The PDF60 ownership-stamp-obscured span remains unchanged and explicitly unresolved with guessed reconstruction **0**.
 
-Cumulative canonical speech T1 remains **65/76 processed; 64/65 verified; 1 needs-review**; PDF71–81 source review is complete but canonical text is still pending.
+Cumulative canonical speech T1 remains **65/76 processed; 65/65 verified; 0 speech-body needs-review**; PDF71–81 source review is complete but canonical text is still pending.
+
+## User-adjudicated source readings
+
+On 2026-09-21 the user supplied exact readings for three previously obscured/damaged passages:
+
+- PDF60 / printed 59 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
+- PDF76 / printed 75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 / printed 80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+
+These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF60 is no longer needs-review. Guessed reconstruction remains **0**.
 
 ## Remaining-range source review — PDF71–81
 
@@ -95,8 +105,8 @@ Established controls:
 - PDF76→77 — `...என்று / எண்ணம், பகுத்தறிவு...`
 - PDF77→78 — `வாடி / யும்` → `வாடியும்`
 - PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 — `KAMARAJ NEWS MART` ownership stamp overlaps upper text; unresolved characters must remain source-obscured
-- PDF81 — terminal physical loss plus ownership-stamp overlap affects lower closing text; unresolved characters must remain source-obscured
+- PDF76 — formerly obscured passage **resolved by user adjudication** as `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 — formerly obscured/damaged closing passage **resolved by user adjudication** as `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 - guessed reconstruction from this review — **0**
 
 ## Exact next activity
