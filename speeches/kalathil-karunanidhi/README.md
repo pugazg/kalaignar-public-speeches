@@ -55,7 +55,7 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 ## Fixed cadence
 
-**5 physical PDF pages per user iteration.**
+**Default: 5 physical PDF pages per user iteration. The user explicitly authorized processing the remaining PDF71–81 together.**
 
 ## Latest T1 batch — PDF66–70
 
@@ -80,10 +80,27 @@ Cross-page controls:
 
 The PDF60 ownership-stamp-obscured span remains unchanged and explicitly unresolved with guessed reconstruction **0**.
 
-Cumulative speech T1: **65/76 processed; 64/65 verified; 1 needs-review**.
+Cumulative canonical speech T1 remains **65/76 processed; 64/65 verified; 1 needs-review**; PDF71–81 source review is complete but canonical text is still pending.
+
+## Remaining-range source review — PDF71–81
+
+**COMPLETE — 11/11 physical scans reviewed; canonical transcription pending**
+
+The remaining source scans PDF71–81 / printed pp.70–80 have been rendered and manually inspected at high resolution. This review does **not** advance the canonical T1 counters by itself; committed transcription remains PDF6–70 / 65 of 76.
+
+Established controls:
+
+- PDF70→71 — clean transition into new paragraph; PDF71 opens `நாரணமங்கலத்திலே, 144 தடையுத்தரவு!`
+- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF76→77 — `...என்று / எண்ணம், பகுத்தறிவு...`
+- PDF77→78 — `வாடி / யும்` → `வாடியும்`
+- PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF76 — `KAMARAJ NEWS MART` ownership stamp overlaps upper text; unresolved characters must remain source-obscured
+- PDF81 — terminal physical loss plus ownership-stamp overlap affects lower closing text; unresolved characters must remain source-obscured
+- guessed reconstruction from this review — **0**
 
 ## Exact next activity
 
-Tamil T1 — **PDF71–75 only**.
+Finalize canonical Tamil T1 — **PDF71–81 together** from the completed source review.
 
-Continue the fixed **5-physical-PDF-page cadence** and stop after PDF75.
+Continue the fixed **5-physical-PDF-page cadence** and complete only source-supported PDF71–81 text; do not guess hidden characters.
