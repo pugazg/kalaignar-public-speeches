@@ -37,8 +37,18 @@ Tamil T1 — **COMPLETE — 16/16 source pages**.
 - all 15 joins retained for T2;
 - PDF41 editorial closing line remains outside speech body;
 - source-sensitive T2 checklist is recorded in `transcription-ta.md`;
-- Tamil T2 — **READY / NOT STARTED**.
+- Tamil T2 — **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved**.
+
+## Tamil T2 final state
+
+- direct-scan pages — **16/16 PASS**
+- page joins — **15/15 PASS**
+- corrections — **1**
+- unresolved — **0**
+- correction — PDF35 duplicated national-song block removed
+- report — `T2_DIRECT_SCAN_AUDIT.md`
+- Tamil T3 — **READY**
 
 ## Exact next activity
 
-Tamil T2 strict direct-scan audit for **all PDF 26–41**, with scan-supported corrections consolidated into canonical Tamil before T3.
+Perform **Tamil T3 consolidation/freeze** from the T2-verified canonical Tamil.

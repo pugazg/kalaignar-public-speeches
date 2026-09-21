@@ -522,6 +522,7 @@ No transcription or translation work remains pending. Reopen only for genuinely 
 - exact date — **not established**
 - venue — **காஞ்சிபுரம்**
 - Tamil T1 — **COMPLETE / 16/16**
-- Tamil T2 — **READY / NOT STARTED**
+- Tamil T2 — **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved**
+- Tamil T3 — **READY**
 
-Exact next activity: **Tamil T2 strict direct-scan audit PDF 26–41**.
+Exact next activity: **Tamil T3 consolidation/freeze**.

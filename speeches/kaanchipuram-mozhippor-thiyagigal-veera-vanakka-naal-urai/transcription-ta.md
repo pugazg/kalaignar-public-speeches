@@ -1,6 +1,6 @@
 # காஞ்சிபுரம் — மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் கூட்டத்தில் ஆற்றிய வீர உரை — Tamil transcription
 
-**Status:** T1 **COMPLETE — 16/16 source pages; T2 READY / NOT STARTED**  
+**Status:** T2 **COMPLETE / VERIFIED — 16/16 source pages; 1 correction / 0 unresolved; T3 READY**  
 **Controlling source:** `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`  
 **Speech body:** PDF **26–41**  
 **Title/front matter:** PDF24–25 — outside speech body  
@@ -85,9 +85,6 @@ Source pixels control all wording, punctuation, names, numerals and unusual form
 திராவிட என்கின்ற அந்தச் சொல்லே கூடாது! என்று அவர் குறிப்பிட்டார். ஏன், திராவிட என்பது தமிழ் அல்லவா? தமிழன் ஒத்துக்கொள்ளாத சொல்லா? தமிழன் புறக்கணித்த சொல்லா? திராவிடத்தினுடைய உயர்வை அறிஞர்கள் சொல்கிறார்கள் - சரித்திரம் சொல்கிறது!
 
 இந்த ஊரிலே பிறந்த எங்களுடைய தலைவர் அண்ணாதான், திராவிட நாடு என்ற வாரப் பத்திரிகையைத் தொடங்கியவர் (பலத்த கைதட்டல்) ஜஸ்டிஸ் கட்சியினுடைய நண்பர்கள் ஆதாரப்பூர்வமாக ஒத்துக்கொண்ட சொல் திராவிட என்பதாகும். திராவிட என்ற சொல்லே கிடையாது - அது யாரோ பெரியார் இராமசாமி விளித்த சொல் - அது அறிஞர் அண்ணா கொண்டு வந்த சொல் என்று யாராவது சொல்லுவார்களேயானால், அவர்கள் தயவு செய்து இந்தியாவினுடைய தேசியப் பாடலை ஒருமுறை கேட்கட்டும். அல்லது படித்துப் பார்க்கட்டும். ஜன கண மன அதிநாயக ஜெய ஹே
-பாரத பாக்ய விதாதா
-பஞ்சாப சிந்து குஜராத மராத்தா
-திராவிட உத்கல வங்கா.
 
 ### பாரத பாக்ய விதாதா  
 ### பஞ்சாப சிந்து குஜராத மராத்தா  
@@ -178,4 +175,25 @@ Strict visual re-audit must explicitly recheck:
 - source-specific `கடையில்போய்சாமான்வாங்கும்போது` on PDF40;
 - final farewell and separate editorial closing line on PDF41.
 
-Tamil T2 is **READY / NOT STARTED**.
+## T2 result
+
+**COMPLETE / VERIFIED — 16/16 source pages.**
+
+- direct-scan pages reviewed — **16/16**
+- page joins reviewed — **15/15**
+- confirmed T2 corrections — **1**
+- unresolved — **0**
+- PDF35 national-song duplication removed — **PASS**
+- martyr names/place names — **PASS**
+- source-specific `ஏன் மருந்தினார்கள் என்றால்` — **PASS / retained**
+- PDF29 `மூன்று கொடி, மூன்று தமிழ் என்று மூன்று கடல் சூழ்ந்த...` — **PASS / retained**
+- numerals 14 / 88 / 74 / 1938 / 50 — **PASS**
+- Rajaji / Sir A. T. Pannir Selvam exchange — **PASS**
+- national-song lines — **PASS after 1 duplication correction**
+- `திராவிட வித்யாபூஷண டாக்டர் உ.வே. சாமிநாதய்யர்` — **PASS**
+- applause markers/headings — **PASS**
+- source-joined `கடையில்போய்சாமான்வாங்கும்போது` — **PASS / retained**
+- PDF41 farewell — **PASS**
+- separate editorial closing line — **PASS / outside speech body**
+
+Tamil T3 consolidation/freeze is **READY**.

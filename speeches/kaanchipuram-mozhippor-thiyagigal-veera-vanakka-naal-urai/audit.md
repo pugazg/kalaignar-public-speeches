@@ -54,3 +54,19 @@ The booklet article was checked against `pugazg/kalaignar-murasoli-letters` and 
 - canonical chapter — `volumes/volume-46/chapters/3606-visham-oru-thuli-pothatha.md`
 
 Therefore PDF **1–23** is excluded as an already-archived duplicate. This speech archive concerns only the separate Kanchipuram speech constituent.
+
+
+## Tamil T2 strict direct-scan audit
+
+Result: **PASS / COMPLETE**
+
+- pages — **16/16**
+- joins — **15/15**
+- corrections — **1**
+- unresolved — **0**
+
+Correction T2-01 removed the duplicated three-line national-song block on PDF35. All other source-sensitive checks passed unchanged.
+
+Authority: `T2_DIRECT_SCAN_AUDIT.md`.
+
+Tamil T3 — **READY**.

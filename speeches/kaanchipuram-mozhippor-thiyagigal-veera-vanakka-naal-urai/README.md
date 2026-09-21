@@ -35,8 +35,8 @@
 |---|---|
 | Source / duplicate / boundary | **PASS / COMPLETE** |
 | Tamil T1 first-pass transcription | **COMPLETE — 16/16** |
-| Tamil T2 strict direct-scan audit | **READY / NOT STARTED** |
-| Tamil T3 consolidation/freeze | blocked |
+| Tamil T2 strict direct-scan audit | **COMPLETE / VERIFIED — 16/16; 1 correction / 0 unresolved** |
+| Tamil T3 consolidation/freeze | **READY** |
 | English E1/E2/E3 | blocked |
 | Repository closure | not started |
 
@@ -54,6 +54,17 @@
 
 Source-sensitive T2 attention is recorded in `transcription-ta.md`, including the language-martyr names, source-specific `ஏன் மருந்தினார்கள் என்றால்`, Rajaji/Pannir Selvam exchange, national-song lines, `திராவிட வித்யாபூஷண`, numerals, applause markers and the final source closing line.
 
+## Tamil T2
+
+**COMPLETE / VERIFIED — 16/16 source pages.**
+
+- corrections — **1**
+- unresolved — **0**
+- all 15 page joins — **PASS**
+- T2 report — `T2_DIRECT_SCAN_AUDIT.md`
+
+The sole correction removed a duplicated three-line national-song quotation on PDF35. All other flagged source-sensitive forms were verified and retained.
+
 ## Exact next activity
 
-Perform **Tamil T2 strict direct-scan fidelity audit for all PDF 26–41 / 16 pages**, consolidating only scan-supported corrections and leaving **0 unresolved** before T3.
+Perform **Tamil T3 consolidation/freeze**. Preserve the T2-verified wording; do not stylistically normalize source-specific forms.
