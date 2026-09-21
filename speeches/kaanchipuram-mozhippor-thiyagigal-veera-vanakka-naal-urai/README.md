@@ -39,7 +39,7 @@
 | Tamil T3 consolidation/freeze | **COMPLETE / VERIFIED-COMPLETE / FROZEN** |
 | English E1 | **COMPLETE — 16/16** |
 | English E2 | **COMPLETE — 16/16; 4 corrections / 0 unresolved** |
-| English E3 | **READY / NOT STARTED** |
+| English E3 | **PASS / COMPLETE — 4 additional corrections / 0 unresolved** |
 | Repository closure | not started |
 
 ## Tamil T1
@@ -94,7 +94,7 @@ Tamil is frozen. Do not reopen for stylistic polishing.
 - external English source used — **No**
 - headings/applause markers — retained
 - PDF41 editorial closing line — translated separately from speech body
-- E2 — **READY / NOT STARTED**
+- E2 — **COMPLETE**
 
 ## English E2
 
@@ -106,6 +106,18 @@ Tamil is frozen. Do not reopen for stylistic polishing.
 - review ledger — `translation-review.md`
 - E3 — **READY / NOT STARTED**
 
+## English E3
+
+**PASS / VERIFIED-COMPLETE.**
+
+- page coverage — **16/16**
+- page joins — **15/15 PASS**
+- E2 corrections retained — **4/4**
+- additional E3 corrections — **4**
+- unresolved English findings — **0**
+- report — `E3_ENGLISH_FINAL_VERIFICATION.md`
+- English — **VERIFIED-COMPLETE**
+
 ## Exact next activity
 
-Perform **English E3 final end-to-end verification for PDF 26–41**.
+Perform **final archive release-readiness assessment** and synchronize all current-state control documents before closure.

@@ -131,3 +131,28 @@ Confirmed changes:
 4. PDF41 `அவர்களையெல்லாம் ... உங்களையெல்லாம்` shift disclosed by translator note.
 
 English E3 — **READY / NOT STARTED**.
+
+
+## English E3 final verification — 2026-09-21
+
+Result: **PASS / VERIFIED-COMPLETE**
+
+- pages — **16/16**
+- joins — **15/15**
+- E2 corrections retained — **4/4**
+- additional E3 corrections — **4**
+- unresolved E3 findings — **0**
+- headings / applause markers — **PASS**
+- PDF41 editorial line separation — **PASS**
+- English unresolved findings — **0**
+
+Additional E3 corrections:
+
+1. PDF29 difficult sentence recast for non-misleading fidelity.
+2. PDF30 heading changed to `Members of all parties have the right!`.
+3. PDF36 `பாதிரியார்கள்` rendered `priests`, not `missionaries`.
+4. PDF39 `கையெடுத்துக் கும்பிட்டு` rendered `fold his hands in greeting`.
+
+Authority: `E3_ENGLISH_FINAL_VERIFICATION.md`.
+
+English is now **VERIFIED-COMPLETE**.

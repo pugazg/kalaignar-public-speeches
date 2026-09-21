@@ -1,6 +1,6 @@
 # Kanchipuram — Speech at the Language-Martyrs' Veera Vanakkam Day Meeting — English Translation
 
-> **Status:** **E2 FIDELITY REVIEW COMPLETE — 16/16 pages; 4 confirmed corrections consolidated; 0 unresolved; E3 pending**  
+> **Status:** **VERIFIED-COMPLETE — E1 complete; E2 complete; E3 final end-to-end verification PASS**  
 > **Tamil authority:** `transcription-ta.md` — **VERIFIED-COMPLETE / T3 FROZEN**  
 > **Source scope:** PDF **26–41** only. PDF1–23 is existing Murasoli letter 3606; PDF24–25 is title/blank front matter.  
 > **Translation rule:** Translate only from the frozen Tamil layer. Preserve source order, rhetoric, repetition, headings, applause markers, names, historical/political wording, and source-specific oddities. Do not import outside English wording.
@@ -35,7 +35,7 @@ They did not leap into fire, bury themselves in the earth, or die by taking pois
 
 ## PDF 29
 
-he is one who came in the Pandyan lineage—a kinsman of the Chola—a sibling of the Chera; these were the three crowned kings. Three flags, "three Tamil," and this Dravidian land surrounded by three seas were ruled by them. To today's Tamils, who are their descendants, their language—I say, their language—must be changed; their life, their breath, their very respiration **(loud applause)** must be stopped: with that intent, pushing Tamil behind, the Hindi language stepped in here in 1938.
+he is one who came in the Pandyan lineage—a kinsman of the Chola—a sibling of the Chera; these were the three crowned kings. Three flags, "three Tamil," and this Dravidian land surrounded by three seas were ruled by them. To tell today's Tamils, who are their descendants, that their language—I say, their language—must be changed is to say that their life, their breath, their very respiration **(loud applause)** must be brought to a stop; pushing Tamil behind with that aim, the Hindi language stepped in here in 1938.
 
 As the friends who spoke here pointed out, I was then a fourteen-year-old school student. In those days I sang this *parani*:
 
@@ -52,7 +52,7 @@ But if my age today is eighty-eight **(loud applause)**, I have been fighting fo
 
 ## PDF 30
 
-### All parties have the right!
+### Members of all parties have the right!
 
 I will not say that opposition to Hindi domination and the protection of Tamil are policies belonging only to the Dravida Munnetra Kazhagam, as someone here said. Speaking of people in other parties, our friends said: we fought; we writhed like worms; we were imprisoned; we were subjected to torture; after making so many sacrifices, we have the right today to pay homage to the heroes of the language struggle.
 
@@ -118,7 +118,7 @@ Where did the word "Dravida" appearing here come from? This is India's national 
 
 —the words *Dravida Utkala Vanga* occur. If people who accept this, stand up, salute it and pay respect to it, then say, "We will not accept Dravida," please think about this: are those who hear it mad, or are those who say it mad?
 
-White missionaries who came from foreign countries to Tamil Nadu and learned Tamil—people such as Caldwell—accepted the word "Dravida." They were great scholars who researched and understood the depth, breadth and height of Dravida. History proves it. Historical record says so. Can it be forgotten?
+White priests who came from foreign countries to Tamil Nadu and learned Tamil—people such as Caldwell—accepted the word "Dravida." They were great scholars who researched and understood the depth, breadth and height of Dravida. History proves it. Historical record says so. Can it be forgotten?
 
 To those who say, "We will not accept even the word Dravida. If a party has the name Dravida in it, we will not join them," I say: please do not stop with this national song. Walk a little along Chennai's seafront. There is a college there on the beach—Presidency College, the State College. At the entrance of that college there is a statue. If you look closely at the statue, on its pedestal the name is written: Dr. U. Ve. Saminathaiyar. Do you know how it is written? "Dravida Vidyabhushana Dr. U. Ve. Saminathaiyar."
 
@@ -144,7 +144,7 @@ Dravida is not an imaginary word. Dravida is the foundation and taproot of our a
 
 As I look at all of you now, I ask myself how such an upsurge—an upsurge that was not there before the election **(applause)**—has come now. I understand what you are saying without saying it: "Only when one is struck does one understand." **(Applause)**
 
-Here in this same Kanchipuram, when Anna stood in an election and came house to house and street to street asking for votes, I was one of those who came with him. In many places Anna would raise his hands in greeting; through that gesture he would indicate that he was asking them to vote for him. I saw it. A scholar whom the world could praise, an incomparable jewel beyond comparison—such a scholar! When he came through these streets of Kanchipuram asking for votes, with us following behind him, I knew people who, when he folded his hands and asked for their vote, turned aside as though they had not seen him.
+Here in this same Kanchipuram, when Anna stood in an election and came house to house and street to street asking for votes, I was one of those who came with him. In many places Anna would fold his hands in greeting; through that gesture he would indicate that he was asking them to vote for him. I saw it. A scholar whom the world could praise, an incomparable jewel beyond comparison—such a scholar! When he came through these streets of Kanchipuram asking for votes, with us following behind him, I knew people who, when he folded his hands and asked for their vote, turned aside as though they had not seen him.
 
 After seeing that, Anna said, "Come, Karunanidhi! Let us go and sit somewhere a little apart." I understood. Because Anna knew what result awaited him in that election, he felt like saying that we should go somewhere away from these people.
 
@@ -186,4 +186,4 @@ I see all of you as Tamils, as Dravidians, as rationalists, as Anna's younger br
 6. The source's use of both "national song" and "national anthem" is retained rather than harmonized.
 7. The joined Tamil form `கடையில்போய்சாமான்வாங்கும்போது` is translated semantically and disclosed rather than silently treated as a textual error.
 8. The PDF41 editorial line is translated separately and is not merged into the speaker's farewell.
-9. E2 has now compared all 16 English page blocks against the frozen Tamil and consolidated **4 confirmed corrections / 0 unresolved findings**. E3 final end-to-end verification remains pending.
+9. E2 compared all 16 English page blocks against the frozen Tamil and consolidated **4 confirmed corrections / 0 unresolved findings**. E3 then completed a final beginning-to-end verification, adding **4 final fidelity corrections / 0 unresolved findings**. English is now **VERIFIED-COMPLETE**.

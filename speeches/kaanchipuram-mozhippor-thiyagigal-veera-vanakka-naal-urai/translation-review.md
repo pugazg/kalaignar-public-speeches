@@ -1,6 +1,6 @@
 # English fidelity review — Kanchipuram language-martyrs speech
 
-> **Status:** **E2 COMPLETE — 16/16 pages reviewed; 4 confirmed corrections consolidated; 0 unresolved; E3 READY**  
+> **Status:** **E2 COMPLETE / E3 FINAL VERIFICATION PASS — English verified-complete**  
 > **Tamil authority:** `transcription-ta.md` — VERIFIED-COMPLETE / T3 FROZEN  
 > **English source:** `translation-en.md` — E2-corrected
 
@@ -104,3 +104,67 @@ E1 rendered the direct-address sense as “all of you” without disclosing the 
 - English verified-complete — **No**
 
 Do not reopen frozen Tamil for these English corrections.
+
+
+## E3 final end-to-end verification — PASS
+
+A separate beginning-to-end reread was completed after E2 consolidation.
+
+### Structural checks
+
+- frozen Tamil page blocks — **16/16 represented exactly once**
+- English page blocks — **16/16**
+- physical page joins — **15/15 PASS**
+- headings — **all represented**
+- applause markers — **all represented**
+- all 4 E2 corrections retained — **PASS**
+- PDF41 editorial closing line — **separate from speech body**
+
+### Additional E3 corrections
+
+#### E3-01 — PDF29 difficult syntax — CORRECTED
+
+The E2 note disclosed the difficult frozen Tamil, but the English body could still be read as a flat command that Tamils “must change” their language.
+
+The sentence was recast so that changing the language is presented as equivalent, in the speaker's rhetoric, to stopping life/breath:
+
+`To tell today's Tamils ... that their language ... must be changed is to say that their life, their breath, their very respiration must be brought to a stop...`
+
+Tamil remains frozen and unchanged.
+
+#### E3-02 — PDF30 heading subject — CORRECTED
+
+Frozen heading: `எல்லா கட்சியினருக்கும் உரிமை உண்டு!`
+
+E1/E2: `All parties have the right!`
+
+E3: `Members of all parties have the right!`
+
+This restores the source's reference to people belonging to parties.
+
+#### E3-03 — PDF36 `பாதிரியார்கள்` — CORRECTED
+
+E1/E2 used `White missionaries`.
+
+Frozen Tamil says `வெள்ளைக்கார பாதிரியார்கள்`.
+
+E3 now uses `White priests`, avoiding an added missionary-role inference.
+
+#### E3-04 — PDF39 `கையெடுத்துக் கும்பிட்டு` — CORRECTED
+
+E1/E2: `raise his hands in greeting`
+
+E3: `fold his hands in greeting`
+
+This aligns with the Tamil gesture and the later wording on the same page.
+
+### Final E3 result
+
+- additional E3 corrections — **4**
+- unresolved E3 findings — **0**
+- omitted page block — **0**
+- duplicated page block — **0**
+- unresolved English fidelity issue — **0**
+- English — **VERIFIED-COMPLETE**
+
+The English layer may now proceed to final archive release-readiness assessment.

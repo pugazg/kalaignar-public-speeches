@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / English E3
+# NEXT CHAT PROMPT — காஞ்சிபுரம் மொழிப்போர் தியாகிகளின் வீர வணக்க நாள் உரை / FINAL RELEASE READINESS
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,44 +6,50 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/`
 
-## Frozen Tamil
+## Tamil final state
 
-- Tamil — **VERIFIED-COMPLETE / T3 FROZEN**
-- source pages — **PDF26–41 / 16**
+- Tamil T1 — **COMPLETE — 16/16**
+- Tamil T2 — **COMPLETE / VERIFIED — 16/16**
+- T2 corrections — **1**
+- T2 unresolved — **0**
+- Tamil T3 — **PASS / COMPLETE**
+- Tamil — **VERIFIED-COMPLETE / FROZEN**
 - unresolved Tamil — **0**
-- do not reopen Tamil for stylistic polishing
 
-## English state
+## English final state
 
-- E1 — **COMPLETE — 16/16**
-- E2 — **COMPLETE — 16/16**
-- E2 page joins — **15/15**
-- E2 confirmed corrections — **4**
-- E2 unresolved — **0**
-- corrections consolidated into `translation-en.md` — **Yes**
-- E3 — **READY / NOT STARTED**
-- English verified-complete — **No**
+- English E1 — **COMPLETE — 16/16**
+- English E2 — **COMPLETE — 4 corrections / 0 unresolved**
+- English E3 — **PASS / COMPLETE — 4 additional corrections / 0 unresolved**
+- English — **VERIFIED-COMPLETE**
+- unresolved English findings — **0**
+- E3 report — `speeches/kaanchipuram-mozhippor-thiyagigal-veera-vanakka-naal-urai/E3_ENGLISH_FINAL_VERIFICATION.md`
 
-## E2 corrections to recheck
+## Source boundaries
 
-1. PDF29 difficult frozen `அவர்களுடைய மொழியை, நான் மொழி...` is transparently disclosed.
-2. PDF35 now reads `He said, "Even the word 'Dravida' must not exist!"`.
-3. PDF41 now renders `தவறே செய்யமாட்டார்கள்` as `will thereafter never make another mistake for the rest of their lives.`
-4. PDF41 `அவர்களையெல்லாம் ... உங்களையெல்லாம்` shift is disclosed by translator note.
+- PDF1–23 — existing Murasoli letter 3606; excluded / already archived
+- PDF24–25 — speech title/blank front matter
+- PDF26–41 — canonical speech
+- PDF41 editorial closing line remains separate from speech body
+- PDF42 — back cover
 
 ## Exact next activity
 
-Perform **English E3 final end-to-end verification for PDF 26–41**.
+Perform **final archive release-readiness assessment**.
 
-Confirm:
+Verify all current-state control documents agree on:
 
-- all 16 frozen Tamil page blocks are represented exactly once;
-- all 15 page joins are preserved;
-- all 4 E2 corrections are present;
-- no clause is omitted, duplicated, added or reversed;
-- names, titles, figures, headings, repetitions and applause markers remain faithful;
-- source historical/political claims remain represented as source speech content without added endorsement;
-- PDF41 editorial closing line remains separate from speech body;
-- no stale E1/E2-pending current-state language remains.
+- source filename / SHA / 42-scan extent;
+- speech body PDF26–41 / 16 pages;
+- cross-repository Murasoli-letter 3606 exclusion;
+- Tamil T1/T2/T3 complete and Tamil frozen;
+- Tamil unresolved = 0;
+- English E1/E2/E3 complete and English verified-complete;
+- English unresolved = 0;
+- E2 correction count = 4;
+- E3 additional correction count = 4;
+- PDF41 editorial closing line separate;
+- no stale current-state pending/blocked claims;
+- README / HANDOVER / audit / metadata / translation / review / root control docs synchronized.
 
-Only after E3 passes may English be marked **VERIFIED-COMPLETE**.
+If clean, mark the archive **FINAL CLOSED / RELEASE READY**. Do not reopen Tamil or English merely for stylistic polishing.

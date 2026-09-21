@@ -62,7 +62,7 @@ Tamil T1 — **COMPLETE — 16/16 source pages**.
 - report — `T3_TAMIL_FREEZE_REPORT.md`
 - English E1 — **COMPLETE — 16/16**
 - English E2 — **COMPLETE — 16/16; 4 corrections / 0 unresolved**
-- English E3 — **READY / NOT STARTED**
+- English E3 — **PASS / COMPLETE — 4 additional corrections / 0 unresolved**
 
 Do not reopen Tamil merely for stylistic polishing.
 
@@ -75,7 +75,7 @@ Do not reopen Tamil merely for stylistic polishing.
 - PDF41 editorial closing line — separate from speech body
 - E1 — **COMPLETE**
 - E2 — **READY / NOT STARTED**
-- English verified-complete — **No**
+- English verified-complete — **Yes**
 
 ## English E2 final state
 
@@ -88,6 +88,16 @@ Do not reopen Tamil merely for stylistic polishing.
 - E3 — **READY / NOT STARTED**
 - English verified-complete — **No**
 
+## English E3 final state
+
+- page coverage — **16/16**
+- joins — **15/15**
+- E2 corrections retained — **4/4**
+- E3 additional corrections — **4**
+- unresolved English findings — **0**
+- report — `E3_ENGLISH_FINAL_VERIFICATION.md`
+- English — **VERIFIED-COMPLETE**
+
 ## Exact next activity
 
-Perform **English E3 final end-to-end verification PDF 26–41**.
+Perform **final archive release-readiness assessment**.
