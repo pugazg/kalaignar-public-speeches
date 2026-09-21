@@ -251,7 +251,7 @@ Representative source-pixel decodings:
 - PDF48 — apparent old-form `நன்றுக` decoded as `நன்றாக` from historical `றா`, consistent with same-edition evidence; `அனைவரையும்` checked for `னை`.
 - no historical-glyph ambiguity remains in PDF46–50.
 
-Source-sensitive forms retained include `யார்யார்`, `உறுதிப் படுத்துகிறார்களோ`, `சுமார் நூற்று ஐம்பதின்மருக்குமேல்`, `கண்ண மூடிக் கொண்டு`, `ஏற்குறையை`, `என்னபன`, `போடவேண்டு மென்று`, `பிரித்தே திருவோம்`, `சுரண்டல் காடாகவுள்ள`, `இன்பத்திராவிடங்காணும்`, and `காடாக்கிக்`.
+Source-sensitive forms retained include `யார்யார்`, `உறுதிப் படுத்துகிறார்களோ`, `சுமார் நூற்று ஐம்பதின்மருக்குமேல்`, `கண்ண மூடிக் கொண்டு`, `ஏறக்குறைய`, `என்பன`, `போடவேண்டு மென்று`, `பிரித்தே திருவோம்`, `சுரண்டல் காடாகவுள்ள`, `இன்பத்திராவிடங்காணும்`, and `காடாக்கிக்`.
 
 Cross-page controls:
 
