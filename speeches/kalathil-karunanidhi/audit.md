@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **55/76**
-- range — **PDF6–60**
-- processed pages verified — **54/55**
+- speech pages processed — **60/76**
+- range — **PDF6–65**
+- processed pages verified — **59/60**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF61–65**.
+Tamil T1 — **PDF66–70**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -338,3 +338,44 @@ Cross-page controls:
 Cumulative T1: **55/76 processed; 54/55 verified; 1 needs-review**.
 
 Exact next range: **PDF61–65**.
+
+
+## Tamil T1 batch — PDF61–65
+
+**PASS — 5/5 VERIFIED**
+
+- PDF61 / printed 60 — verified
+- PDF62 / printed 61 — verified
+- PDF63 / printed 62 — verified
+- PDF64 / printed 63 — verified
+- PDF65 / printed 64 — verified
+- guessed readings — **0**
+- new unresolved processed-body readings — **0**
+- cumulative unresolved processed-body readings — **1** (pre-existing PDF60 ownership-stamp-obscured span)
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page. Representative checks include PDF61 `உற்றார்` (`றா`) and PDF64 `விலைபேசித்தேர்தல்` (`லை`). No glyph-driven uncertainty remains in PDF61–65.
+
+Source-sensitive forms retained include `பட்ட வதை`, `நேரத்திலேயெல்லாங்கூட`, `பெண்டு பிள்ளைகள்`, `நாட்டங்`, `தன்னலமற்ற`, `வலுவில்`, `துணைக்கழைத்துப்`, `காரண காரிய மற்ற`, `வியாபார வேட்டைச்`, `விளையும்`, `பொருளாக்கப்படக்`, `முடிவைக்காணச்`, `அகராதிப்படியும்`, `தியாகத்தீ`, `விலைபேசித்தேர்தல்`, `பயங் காட்டி`, `தோழமையை விளங்கும்`, `எங்கள்விடக்`, `நேரத்திலேகூடக்`, and `தியாகப் பஞ்சத்திலடிபட்டு`.
+
+The earlier difficult PDF61 phrase was resolved from enlarged source pixels as `பட்ட வதை`; no lexical guess was used.
+
+Cross-page controls:
+
+- PDF60→61 — clean paragraph boundary; no split word.
+- PDF61→62 — clean paragraph boundary; no split word.
+- PDF62→63 — clean paragraph boundary; no split word.
+- PDF63→64 — clean paragraph boundary; no split word.
+- PDF64→65 — sentence continues `...தோழமையை விளங்கும் / விபரீத விசித்திர புத்தி படைத்தவர்களுமல்ல நாங்கள்.`
+- PDF65→66 — deferred to next batch; PDF65 ends `...என்று பேசுவதா?`
+
+PDF60's existing source hold remains unchanged:
+
+- one ownership-stamp-obscured span
+- repository marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
+- guessed reconstruction — **0**
+
+Cumulative T1: **60/76 processed; 59/60 verified; 1 needs-review**.
+
+Exact next range: **PDF66–70**.
