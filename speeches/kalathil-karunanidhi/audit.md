@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **20/76**
-- range — **PDF6–25**
-- processed pages verified — **20/20**
+- speech pages processed — **25/76**
+- range — **PDF6–30**
+- processed pages verified — **25/25**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF26–30**.
+Tamil T1 — **PDF31–35**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -102,3 +102,31 @@ Cross-page joins:
 Cumulative T1: **20/76**.
 
 Exact next range: **PDF26–30**.
+
+
+## Tamil T1 batch — PDF26–30
+
+**PASS — 5/5 VERIFIED**
+
+- PDF26 / printed 25 — verified
+- PDF27 / printed 26 — verified
+- PDF28 / printed 27 — verified
+- PDF29 / printed 28 — verified
+- PDF30 / printed 29 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Source-sensitive forms retained include `உபயோகப் படுமே!`, `காணத் படி தடைசெய்த`, `முரண பாடான`, `பண்பினை`, `இரச ஜாடியிலிட்டுப்`, `என்னுவது`, and `திருப்பக் கேட்டால்`.
+
+Cross-page joins:
+
+- PDF26→27 — `அதற் / காகவே நடைபெறும் செடியை...`
+- PDF27→28 — `மூடர்களைப் / போலல்லவா, ஆட்சி நடக்கிறது.`
+- PDF28→29 — `அங்கேயே விட்டு / விட்டு, மூளையின்றி...`
+- PDF30→31 — `மூளையையே விட்டு விட்டு / வெளியே நடமாடினால்...`
+
+Cumulative T1: **25/76**.
+
+Exact next range: **PDF31–35**.

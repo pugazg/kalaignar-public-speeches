@@ -46,8 +46,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
-- speech T1 — **PDF6–25 / 20 of 76**
-- processed speech pages verified — **20/20**
+- speech T1 — **PDF6–30 / 25 of 76**
+- processed speech pages verified — **25/25**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -57,28 +57,29 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 **5 physical PDF pages per user iteration.**
 
-## Latest T1 batch — PDF21–25
+## Latest T1 batch — PDF26–30
 
 **COMPLETE / PASS — 5/5 VERIFIED**
 
 Source-sensitive readings retained include:
 
-- PDF21 — `என்னகும்`, `பசிகாரன்`, `பைத்தியக் காரனேதான்`, `மாறுக இடையே`
-- PDF22 — `காரணந்தான்`; extended question/repetition structure preserved
-- PDF23 — `பிருந்தாவனத்திட்டம்`, `அமர்க்களப்படுத்தப்பட்டு`, `மரம் நடுவிழாவிற்காகச்`
-- PDF24 — `கையொப்ப மிட்டு`, `மறு முறை`, `இவ்வருடம்`
-- PDF25 — `வெற்றி முரசொலி!`, `ஊதாரித்தனமாகப்`, and physical line split `இலாகாவின் / ரிடம்`
+- PDF26 — `உபயோகப் படுமே!`, `ஒருசெடி`
+- PDF27 — `காணத் படி தடைசெய்த`, `முரண பாடான`, `பண்பினை`
+- PDF28 — `வியாதியஸ்தர்களின்`, repeated `விட்டு விட்டு`
+- PDF29 — `இரச ஜாடியிலிட்டுப்`, `வந்தபாடில்லை`
+- PDF30 — `என்னுவது`, `திருப்பக் கேட்டால்`, `மூளைக்குரிய மனிதன்தான்`
 
 Cross-page controls:
 
-- 22→23 — `உற்பத்தி பெரு / கில் உணவு உபரியாகி...`
-- 24→25 — `அப்போது கூறுகிறார்கள், / இந்த இடத்தில்தான்...`
-- 25→26 — `வீண் விளம்பரச் செலவுகள், / நாட்டுக்குப் பயன்தரும் வகையில்...`
+- 26→27 — `அதற் / காகவே நடைபெறும் செடியை...`
+- 27→28 — `மூடர்களைப் / போலல்லவா, ஆட்சி நடக்கிறது.`
+- 28→29 — `அங்கேயே விட்டு / விட்டு, மூளையின்றி...`
+- 30→31 — `மூளையையே விட்டு விட்டு / வெளியே நடமாடினால்...`
 
-Cumulative speech T1: **20/76 processed; 20/20 first-pass verified; 0 unresolved processed-body readings**.
+Cumulative speech T1: **25/76 processed; 25/25 first-pass verified; 0 unresolved processed-body readings**.
 
 ## Exact next activity
 
-Tamil T1 — **PDF26–30 only**.
+Tamil T1 — **PDF31–35 only**.
 
-Continue the fixed **5-physical-PDF-page cadence** and stop after PDF30.
+Continue the fixed **5-physical-PDF-page cadence** and stop after PDF35.

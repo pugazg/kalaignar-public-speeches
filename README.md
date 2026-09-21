@@ -542,10 +542,10 @@ Repository-level closure is complete. No transcription or translation work remai
 - venue — **ராபின்சன் பார்க், சென்னை**, source-established
 - front matter — PDF **1–5**
 - speech body — PDF **6–81 / 76 pages**
-- Tamil T1 — **PDF6–25 / 20 of 76**
-- processed speech pages verified — **20/20**
+- Tamil T1 — **PDF6–30 / 25 of 76**
+- processed speech pages verified — **25/25**
 - PDF4 front matter — **needs-review / 2 physical-loss spans**
 - cadence — **5 physical PDF pages per iteration**
-- exact next range — **PDF26–30**
+- exact next range — **PDF31–35**
 
 This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.
