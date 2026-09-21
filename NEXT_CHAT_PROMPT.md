@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF56–60
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF61–65
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,18 +25,18 @@ The earlier `kalaignar-essays` classification is superseded.
 ## Durable state
 
 - PDF1–5 front matter recorded
-- PDF4 — **needs-review**, 2 physical-loss spans, guessed reconstruction 0
-- Tamil T1 — **PDF6–55 / 50 of 76**
-- processed speech pages verified — **50/50**
-- processed body unresolved — **0**
-- latest batch PDF51–55 — **5/5 VERIFIED**
-- historical-glyph PDF51–55 — **PASS / all 13 mandatory families checked / 0 unresolved**
-- representative checks — PDF52 `ஒன்றாக` (`றா`), PDF54 `அன்றாட` (`றா`), PDF55 `எங்களை` (`ளை`)
-- PDF50→51 — clean paragraph boundary
-- PDF51→52 — sentence continues `...சேர்த்து, மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
-- PDF52→53 — sentence/list continues `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`
-- PDF55 ends `...வாய்ப்புத் தந்தோம்.`
-- 55→56 boundary — **check at start of next batch**
+- PDF4 front matter — **needs-review / 2 physical-loss spans / guessed reconstruction 0**
+- Tamil T1 — **PDF6–60 / 55 of 76**
+- processed speech pages verified — **54/55**
+- processed body unresolved — **1**
+- latest batch PDF56–60 — **4 VERIFIED / 1 NEEDS-REVIEW**
+- PDF60 — first printed line has one span physically obscured by the KAMARAJ NEWS MART ownership stamp
+- PDF60 repository marker — `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
+- PDF60 guessed reconstruction — **0**
+- historical-glyph PDF56–60 — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
+- PDF59→60 — `அடக்கு / முறைக்கு`; following PDF60 span is source-obscured
+- PDF60 ends `...தியாகிகள் தானா?`
+- 60→61 boundary — **check at start of next batch**
 - T2/T3 — blocked
 - English — blocked
 
@@ -52,6 +52,6 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Exact next activity
 
-Tamil T1 — **PDF56–60 only**.
+Tamil T1 — **PDF61–65 only**.
 
-First resolve the PDF55→56 physical boundary from source pixels, then process PDF56–60. Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF60.
+First resolve the PDF60→61 physical boundary from source pixels, then process PDF61–65. Preserve physical page boundaries and source-specific wording. Do **not** guess or silently fill the outstanding PDF60 stamp-obscured span. Update archive/root controls and stop after PDF65.
