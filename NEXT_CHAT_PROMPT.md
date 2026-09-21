@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF46–50
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF51–55
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,15 +26,16 @@ The earlier `kalaignar-essays` classification is superseded.
 
 - PDF1–5 front matter recorded
 - PDF4 — **needs-review**, 2 physical-loss spans, guessed reconstruction 0
-- Tamil T1 — **PDF6–45 / 40 of 76**
-- processed speech pages verified — **40/40**
+- Tamil T1 — **PDF6–50 / 45 of 76**
+- processed speech pages verified — **45/45**
 - processed body unresolved — **0**
-- latest batch PDF41–45 — **5/5 VERIFIED**
-- historical-glyph PDF41–45 — **PASS / all 13 mandatory families checked / 0 unresolved**
-- representative decodings — PDF41 `காணாதிருக்க` (`ணா`), PDF42 `மன்றாடிக்` (`றா`, two occurrences), PDF44 `இதனை` (`னை`)
-- PDF40→41 — **clean paragraph boundary**
-- PDF45 ends mid-sentence at `...கம்யூனிஸ்டுக் கட்சி`
-- 45→46 boundary — **check at start of next batch**
+- latest batch PDF46–50 — **5/5 VERIFIED**
+- historical-glyph PDF46–50 — **PASS / all 13 mandatory families checked / 0 unresolved**
+- representative decodings — PDF46/PDF47 `அண்ணா` (`ணா`), PDF48 `நன்றாக` (`றா`) and `அனைவரையும்` (`னை`)
+- PDF45→46 — resolved `கம்யூனிஸ்டுக் கட்சி / யைச்` → `கம்யூனிஸ்டுக் கட்சியைச்`
+- PDF49→50 — resolved `நாச / காரக்` → `நாசகாரக்`
+- PDF50 ends `...காங்கிரஸ் தேர்தலில் கலந்து கொள்கிறது.`
+- 50→51 boundary — **check at start of next batch**
 - T2/T3 — blocked
 - English — blocked
 
@@ -50,6 +51,6 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Exact next activity
 
-Tamil T1 — **PDF46–50 only**.
+Tamil T1 — **PDF51–55 only**.
 
-First resolve the PDF45→46 physical boundary from source pixels, then process PDF46–50. Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF50.
+First resolve the PDF50→51 physical boundary from source pixels, then process PDF51–55. Preserve physical page boundaries and source-specific wording. Update archive/root controls and stop after PDF55.
