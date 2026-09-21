@@ -33,7 +33,7 @@
 
 - speech pages processed — **65/76**
 - range — **PDF6–70**
-- processed pages verified — **64/65**
+- processed pages verified — **65/65**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -351,7 +351,7 @@ Exact next range: **PDF61–65**.
 - PDF65 / printed 64 — verified
 - guessed readings — **0**
 - new unresolved processed-body readings — **0**
-- cumulative unresolved processed-body readings — **1** (pre-existing PDF60 ownership-stamp-obscured span)
+- cumulative unresolved processed-body readings — **0**
 - historical-glyph unresolved — **0**
 - silent modernization — **0**
 
@@ -415,7 +415,7 @@ PDF60's existing source hold remains unchanged:
 - repository marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
 - guessed reconstruction — **0**
 
-Cumulative T1: **65/76 processed; 64/65 verified; 1 needs-review**.
+Cumulative canonical T1: **65/76 processed; 65/65 verified; 0 speech-body needs-review**.
 
 Exact next range: **PDF71–75**.
 
@@ -437,16 +437,35 @@ Completed findings:
 - PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
 - PDF77→78 — source word split `வாடி / யும்` → `வாடியும்`
 - PDF78→79 — sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 — ownership-stamp overlap from `KAMARAJ NEWS MART` affects upper text; unresolved characters must not be guessed
-- PDF81 — terminal scan has physical surface loss plus ownership-stamp overlap in lower closing text; unresolved characters must not be guessed
+- PDF76 — previously obscured upper passage resolved by user adjudication as `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 — previously obscured/damaged closing passage resolved by user adjudication as `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 - historical-glyph-sensitive source review was performed on the remaining scans; final per-page glyph gate will be recorded together with canonical transcription
 
-The pre-existing PDF60 source hold remains unchanged:
+PDF60 source hold is **RESOLVED by user adjudication (2026-09-21)**:
 
-- one ownership-stamp-obscured span
-- repository marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`
+- supplied reading — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
+- the prior obscured marker is removed from canonical transcription
 - guessed reconstruction — **0**
 
 Cumulative canonical T1 remains **65/76 processed; 64/65 verified; 1 needs-review** until PDF71–81 text is actually committed.
 
 Exact next activity: **finalize and commit canonical Tamil T1 PDF71–81 from the completed source review, preserving any PDF76/PDF81 source-obscured spans without reconstruction.**
+
+
+## User adjudication record — 2026-09-21
+
+The user supplied exact readings for three source-obscured/damaged passages:
+
+- PDF60 / printed p.59 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
+- PDF76 / printed p.75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 / printed p.80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+
+Classification: **USER ADJUDICATION / exact supplied reading**. These are not OCR guesses and do not count as guessed reconstruction.
+
+Consequences:
+
+- PDF60 speech-body needs-review hold — **CLOSED**
+- committed canonical speech-body unresolved — **0**
+- committed canonical processed pages verified — **65/65**
+- PDF76/PDF81 specific obscured passages — **RESOLVED**, while their full PDF71–81 canonical transcription remains pending
+- PDF4 front-matter physical-loss spans — **still unresolved / unchanged**
