@@ -24,8 +24,8 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 - front matter — **5/5 recorded**
 - PDF4 — **needs-review**, 2 physical-loss spans
-- Tamil T1 — **PDF6–60 / 55 of 76**
-- processed speech pages verified — **54/55**
+- Tamil T1 — **PDF6–65 / 60 of 76**
+- processed speech pages verified — **59/60**
 - unresolved processed speech-body readings — **1** (PDF60 ownership-stamp-obscured span)
 - T2/T3 — blocked
 - English — blocked
@@ -36,25 +36,27 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Latest completed range
 
-PDF **56–60 — 4 VERIFIED / 1 NEEDS-REVIEW**.
+PDF **61–65 — 5/5 VERIFIED**.
 
 Cumulative:
 
-- speech T1 — **55/76**
-- processed pages verified — **54/55**
+- speech T1 — **60/76**
+- processed pages verified — **59/60**
 - processed-body unresolved — **1** (PDF60; source-obscured)
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
 - English — blocked
-- historical-glyph PDF56–60 — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
+- historical-glyph PDF61–65 — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
 - PDF60 source hold — first printed line has one span physically obscured by the KAMARAJ NEWS MART ownership stamp; marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`; guessed reconstruction 0
-- PDF55→56 — clean paragraph boundary
-- PDF58→59 — semantic continuation; no split word
-- PDF59→60 — `அடக்கு / முறைக்கு` cross-page continuation; following PDF60 span is stamp-obscured
-- PDF60→61 — boundary check deferred to next batch; PDF60 ends `...தியாகிகள் தானா?`
+- PDF60→61 — clean paragraph boundary
+- PDF61→62 — clean paragraph boundary
+- PDF62→63 — clean paragraph boundary
+- PDF63→64 — clean paragraph boundary
+- PDF64→65 — sentence continues `...தோழமையை விளங்கும் / விபரீத விசித்திர புத்தி படைத்தவர்களுமல்ல நாங்கள்.`
+- PDF65→66 — boundary check deferred to next batch; PDF65 ends `...என்று பேசுவதா?`
 
 ## Exact next activity
 
-Tamil T1 — **PDF61–65 only**.
+Tamil T1 — **PDF66–70 only**.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF65.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF70.
