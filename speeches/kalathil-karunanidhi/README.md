@@ -46,8 +46,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
-- speech T1 — **PDF6–73 / 68 of 76**
-- processed speech pages verified — **68/68**
+- speech T1 — **PDF6–76 / 71 of 76**
+- processed speech pages verified — **71/71**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -55,29 +55,35 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 
 ## Fixed cadence
 
-**Two physical PDF pages per user iteration.**
+**Three physical PDF pages per user iteration.**
 
-This supersedes the previous one-page cadence.
+This supersedes the previous two-page cadence.
 
-## Latest T1 range — PDF72–73
+## Latest T1 range — PDF74–76
 
-**COMPLETE / PASS — 2/2 VERIFIED**
+**COMPLETE / PASS — 3/3 VERIFIED**
 
-- PDF72 / printed 71 — **VERIFIED**
-- PDF73 / printed 72 — **VERIFIED**
-- canonical speech T1 — **68/76 processed; 68/68 verified**
-- historical-glyph gate — **PASS / all 13 mandatory families checked on both pages / 0 glyph ambiguity**
+- PDF74 / printed 73 — **VERIFIED**
+- PDF75 / printed 74 — **VERIFIED**
+- PDF76 / printed 75 — **VERIFIED**
+- canonical speech T1 — **71/76 processed; 71/71 verified**
+- historical-glyph gate — **PASS / all 13 mandatory families checked page-by-page / 0 glyph ambiguity**
 - guessed readings — **0**
 - unresolved body spans — **0**
 - silent modernization — **0**
 
-Representative source-sensitive readings retained include `சவுக்கடி`, `கட்டியிழுத்துச்`, `புழுத்து நெளியும்`, `ஈவிரக்கமற்ற`, `பாதகசெயல்`, `நாச காரியங்கள்`, `நசங்கி`, `கழுதிபோன்ற`, `இரவல்பெறும்`, `ஜீவானந்தம்`, and `முறைதானு`.
+Representative source-sensitive readings retained include `பேர்த்திற்காக`, `தரமுடியவில்லை`, `பூங்காதான்`, `எடுத்ததெற்கெல்லாம்`, `பக்குவப்படுத்தியாக`, `விளக்கம்பெற்று`, `மந்தபுத்தி`, and `பெறுதவரையில்`.
+
+PDF76's formerly obscured upper passage is now canonical from the user's exact adjudication:
+
+`புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
 
 Boundary controls:
 
-- PDF71→72 — clean paragraph boundary
-- PDF72→73 — clean paragraph boundary
-- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
+- PDF73→74 — clean paragraph boundary
+- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF75→76 — clean paragraph boundary
+- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
 
 ## User-adjudicated source readings
 
@@ -91,26 +97,26 @@ On 2026-09-21 the user supplied exact readings for previously obscured/damaged p
 
 These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF4 and PDF60 are no longer needs-review. Guessed reconstruction remains **0**.
 
-## Remaining-range source review — PDF74–81
+## Remaining-range source review — PDF77–81
 
-**SOURCE REVIEW COMPLETE; CANONICAL T1 CONTINUES TWO PAGES AT A TIME**
+**SOURCE REVIEW COMPLETE; CANONICAL T1 CONTINUES THREE PAGES AT A TIME**
 
 - PDF71–81 source images reviewed — **11/11**
-- canonical final-range pages committed — **3/11**
-- committed through — **PDF73**
-- remaining — **PDF74–81 / 8 pages**
+- canonical final-range pages committed — **6/11**
+- committed through — **PDF76**
+- remaining — **PDF77–81 / 5 pages**
 - guessed reconstruction — **0**
-- PDF76/PDF81 obscured passages — **resolved by user adjudication**
+- PDF76 adjudicated passage — **canonical**
+- PDF81 obscured closing passage — **resolved by user adjudication; full-page canonical commit pending**
 
 Established later boundary controls remain unchanged:
 
-- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
 - PDF76→77 — `...என்று / எண்ணம், பகுத்தறிவு...`
 - PDF77→78 — `வாடி / யும்` → `வாடியும்`
 - PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
 
 ## Exact next activity
 
-Process **Tamil T1 PDF74–75 / printed pp.73–74 only**.
+Process **Tamil T1 PDF77–79 / printed pp.76–78 only**.
 
-Do not process PDF76 in the same iteration.
+Do not process PDF80 in the same iteration.

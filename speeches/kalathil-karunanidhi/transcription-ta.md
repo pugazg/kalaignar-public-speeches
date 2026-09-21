@@ -1,6 +1,6 @@
 # களத்தில் கருணாநிதி — Tamil transcription
 
-**Status:** T1 **IN PROGRESS — PDF6–73 processed / 68 of 76 speech-body pages; 68/68 processed pages verified**  
+**Status:** T1 **IN PROGRESS — PDF6–76 processed / 71 of 76 speech-body pages; 71/71 processed pages verified**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -1284,6 +1284,74 @@ iv
 
 பின் ஏன், எங்களைப் பழிக்கவேண்டும்? ‘கம்யூனிஸ்டுகளின் தியாகத்தை வைத்து முன்னேறுகின்றனர்’ என்று, தோழர் ஜீவானந்தம் போன்றவர்கள்? நியாயமா? சரியா? முறைதானு?
 
+## PDF 74
+
+**Printed page:** 73
+
+எங்கள் அண்ணா சிறைப்பட்டார்; ஆறு மாதம் தண்டனை. ஆனால் அவர் பத்தே நாட்களில் வெளியே வந்தார்.
+
+வெளியேவிடும்படி செய்தோம்; இது எங்கள் தியாகத்தின் பயன்; பலன்.
+
+தியாகம் பயன் கருதி, பயன் தரும் வகையில் அமைதல் வேண்டும், அமைக்கப்படவேண்டும்.
+
+தியாகத்தின் பயன் பெரிது ஜீவா, பயன் பெரிது!
+
+பயனுக்காக, இலட்சிய சித்திக்காக, நாம் செய்த தியாகங்கள் பலப்பல, வெறும் பேர்த்திற்காக அல்ல; அதுவும் தேர்தல் பேர்த்திற்காக இல்லவே இல்லை.
+
+இத்தகைய, இலட்சிய வீரர்களைப் பார்த்து கம்யூனிஸ்டுகள் தியாகக் குரலெடுத்துப் பாடுகிறார்கள்; பரிதாபம்!
+
+நமது இலட்சியத்தை, இன்பத் திராவிடத்தை மறந்து, பாதை தவறி நாம் அவர்களுக்கு ஒத்துழைப்பு தரமுடியவில்லை.
+
+இதற்காக, நமது இலட்சியமே, தவறு என்பதா? சரியல்ல, உங்கள் பேச்சு! வாதம்!
+
+‘கம்யூனிஸ்டு அரசாங்கத்தில் தேசிய இனங்கள் பிரிந்து வாழ, உரிமை தரப்படுகிறது’ என்று ஒரு வாதம்.
+
+இந்த வாதப்படி, நம்மை, நம்முடைய இலட்சியத்தை விட்டுவிட்டு, அவர்களுடனேயே ஐக்கியமாகிவிடவேண்டும் என்று எண்ணம் ஒலிக்கிறது.
+
+அதாவது, ‘திராவிட நாடு’ திராவிட தேசிய இனமென்று கருதப்பட்டால், கம்யூனிஸ்டு அரசாங்
+
+## PDF 75
+
+**Printed page:** 74
+
+கத்தில் பிரிந்து வாழ அனுமதிக்கப்படும். அதுவரை பேசாதீர், அதுபற்றி ‘என்பது’தானே இதன் பொருள், அர்த்தம்?
+
+எனவே, பொது உடைமை அரசாங்கம் ஏற்படுத்த, கம்யூனிஸ்டு கட்சியோடு சேருங்கள் என்பதுதானே, பொருள்? வேறென்ன?
+
+பொது உடைமை; எங்கள் இருதயகீதம்; எங்களுக்கு வேம்பல்ல, எங்கள் இன்பத் திராவிடமே பொது உடைமைப் பூங்காதான்.
+
+பொது உடைமை நாடு ஏற்பட, அதுவும் குறிப்பாக நமது நாட்டில் உண்டாக்கிடச் செய்யவேண்டிய, அடிப்படை, ஆரம்ப வேலைகள்தான் நாம், நமது கழகம், செய்வது, செய்து வருகிறது.
+
+பொது உடைமை பூத்துக் குலுங்கி, காய்த்துக் கனிந்து, கனிரசம் தந்திடச் செய்யும், சூழ்நிலையை, மனப்பான்மை மனப்போக்கை மக்களிடை நாம் உண்டாக்கி வருகிறோம்.
+
+இதற்குக் கம்யூனிஸ்டுகள், கூறுவதுபோல, ரஷ்யாவிலிருந்து பொது உடைமைத் தத்துவத்தைக் கொண்டு, எடுத்ததற்கெல்லாம், அதனை அழைத்து வரத் தேவையில்லை, அவசியமுமில்லை.
+
+நமது நாட்டு மக்களின், மனவளம், பழக்கவழக்கம், சமயம், சன்மார்க்கம், மதம், மார்க்கம், கோயில், கும்பாபிஷேகம், ஜாதிபேதம், பிறப்பால் உயர்வு தாழ்வு மனப்பான்மை, பிறவி முதலாளித்துவம், இன்ன பிற எத்தனையோ, பிரச்சினைகள் ஆய்ந்து, அலசி அதற்குரிய சூழ்நிலையை உண்டாக்கி மக்களைப் பக்குவப்படுத்தியாக வேண்டும்!
+
+எடுத்ததெற்கெல்லாம் ‘ரஷ்யத் தத்துவமா?’ அதுவே முடிந்ததா? அது பொருந்துகிறதா, முழுதும் இங்கே? யோசித்துப் பார்க்கவேண்டும், ஆர, அமர, ‘ரஷ்யபுரட்சி’ ஒன்றுமட்டும் மாடலாக அமைந்தால் போதுமா?
+
+## PDF 76
+
+**Printed page:** 75
+
+புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?
+
+மதத்திலே, மார்க்கத்துறையிலே அறிவு விளக்கம்பெற்று, ‘ஆண்டவன் விட்டவழி’ ‘விதியை வெல்வோர் யார்’ என்ற மந்தபுத்தி மறைய வேண்டாமா?
+
+தன்னம்பிக்கை, தன்னைப்போலப் பிறரும் மனிதன், பிறப்பு ஒன்றே, குலமும் ஒன்றே என்று கோட்பாடு உண்டாகவேண்டாமா? உண்டாக்கும் வேலையில் ஈடுபட்டிருப்பவர்கள் யார்?
+
+நாட்டிலே ஆண்டவன் பேரால் முடங்கிக் கிடக்கும் ஆயிரமாயிரம் செல்வக் களஞ்சியங்கள் நாட்டுக்கு நாட்டு மக்களுக்குப் பயன்பட்டிட, மக்கள், மனவளத்தைப் பண்படுத்தினால்தானே, நடக்கும்; முடியும்? யோசியுங்கள்.
+
+இதைச் செய்பவர் யார்? யார்? என்று கேட்கிறேன்? நாங்கள்தானே? அறிவுத் தெளிவு, பகுத்தறிவுப் பண்புதானே எதற்கும் காரணம் என்று, பொது உடைமையின், உண்மையான, அடிப்படைப் பண்பைப் பரப்புபவர்கள் யார்?
+
+விதியல்ல, வேதனைக்குக் காரணம்; நாட்டிலே சிலர் செய்திடும் சதிதான் என்று கூறும் துணிவு யாருக்கு உண்டாகியிருக்கிறது, எங்களைத் தவிர?
+
+ஆயிரம் ஜாதி, அதன் நடுவே பொது உடைமை ஜோதி!
+
+உண்டாகுமா? உண்டாக்கத்தான் முடியுமா? உண்டானால்தான் உருவாகுமா? உருவாக்கத்தான் முடியுமா? மக்கள் மனத்தெளிவு பெறுதவரையில்?
+
+மனிதன் மனிதனை மதிக்கப்படும் வரை, தோழமை, மனிதாபிமானம், தன்னைப்போன்றவன் தான் மற்றவனும்; பிறப்பில், உழைப்பில், என்று
+
 ### PDF4 front-matter adjudication — 2026-09-21
 
 The user supplied exact readings for the two formerly physically lost spans on PDF4:
@@ -1303,50 +1371,52 @@ The user supplied exact readings for three areas that could not be established f
 
 These adjudications introduce **0 guessed reconstruction**. PDF60 is therefore no longer a speech-body needs-review page. PDF76 and PDF81 remain pending only because their full canonical page transcriptions have not yet been committed.
 
-## Remaining final-range source review — PDF74–81
+## Remaining final-range source review — PDF77–81
 
-The remaining physical scans **PDF74–81 / printed pp.73–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **two physical PDF pages per user iteration**.
+The remaining physical scans **PDF77–81 / printed pp.76–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **three physical PDF pages per user iteration**.
 
 Current canonical state:
 
-- PDF71–73 / printed pp.70–72 — **COMMITTED / VERIFIED**
-- canonical PDF71–81 pages committed — **3/11**
-- remaining canonical pages — **8/11 (PDF74–81)**
+- PDF71–76 / printed pp.70–75 — **COMMITTED / VERIFIED**
+- canonical PDF71–81 pages committed — **6/11**
+- remaining canonical pages — **5/11 (PDF77–81)**
 - guessed reconstruction introduced — **0**
 - unresolved committed speech-body readings — **0**
-- PDF71→72 — clean paragraph boundary
-- PDF72→73 — clean paragraph boundary; PDF73 begins `‘தேனி’ நிகழ்ச்சி...`
-- PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
-- preserved later controls: PDF74→75 `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`; PDF76→77 `...என்று / எண்ணம், பகுத்தறிவு...`; PDF77→78 `வாடி / யும்` → `வாடியும்`; PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 and PDF81 user-adjudicated passages remain authoritative and must be used exactly when those pages are committed
+- PDF73→74 — clean paragraph boundary
+- PDF74→75 — source split `அரசாங் / கத்தில்` → assembled `அரசாங்கத்தில்`
+- PDF75→76 — clean paragraph boundary
+- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
+- preserved later controls: PDF77→78 `வாடி / யும்` → `வாடியும்`; PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF76 user-adjudicated passage is now **canonical** exactly as supplied
+- PDF81 user-adjudicated closing passage remains authoritative and pending only its full-page canonical commit
 
 ## Continuation checkpoint — 2026-09-21
 
-The user changed the active cadence to **two physical PDF pages per iteration**.
+The user changed the active cadence to **three physical PDF pages per iteration**.
 
 Durable position after this iteration:
 
-- PDF72–73 canonical text — **COMMITTED / VERIFIED**
-- canonical T1 — **68/76 processed; 68/68 verified; 0 unresolved**
-- final-range canonical progress — **3/11**
-- next range — **PDF74–75 / printed pp.73–74**
-- no provisional text for PDF74–81 is canonical until separately committed
-- all user adjudications for PDF4, PDF60, PDF76 and PDF81 remain durable
+- PDF74–76 canonical text — **COMMITTED / VERIFIED**
+- canonical T1 — **71/76 processed; 71/71 verified; 0 unresolved**
+- final-range canonical progress — **6/11**
+- next range — **PDF77–79 / printed pp.76–78**
+- PDF76 user-adjudicated passage — **CANONICAL / exact supplied reading**
+- no provisional text for PDF77–81 is canonical until separately committed
 - guessed reconstruction — **0**
 
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
-- speech-body pages processed — **68/76** (PDF6–73)
-- processed speech pages verified — **68/68**
+- speech-body pages processed — **71/76** (PDF6–76)
+- processed speech pages verified — **71/71**
 - unresolved speech-body readings in processed range — **0**
 - source front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
 - unresolved front-matter physical-loss spans — **0**
 - guessed readings — **0**
-- cadence — **2 physical PDF pages per user iteration**
-- exact next speech-body range — **PDF74–75 / printed pp.73–74**
+- cadence — **3 physical PDF pages per user iteration**
+- exact next speech-body range — **PDF77–79 / printed pp.76–78**
 
 Cross-page controls:
 
@@ -1409,5 +1479,8 @@ Cross-page controls:
 - PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
 - PDF72→73 — clean paragraph boundary; PDF73 begins `‘தேனி’ நிகழ்ச்சி...`
 - PDF73→74 — clean paragraph boundary; PDF74 begins `எங்கள் அண்ணா சிறைப்பட்டார்...`
+- PDF74→75 — cross-page word join: `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF75→76 — clean paragraph boundary; PDF76 begins with the user-adjudicated `புரட்சிப் போர் முரசு...`
+- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
 
 T2 remains blocked until T1 covers all PDF6–81.

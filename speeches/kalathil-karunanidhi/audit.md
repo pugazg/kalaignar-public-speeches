@@ -552,3 +552,39 @@ Boundary controls:
 Cadence is now **two physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T1 PDF74–75 / printed pp.73–74**.
+
+
+## Tamil T1 three-page iteration — PDF74–76
+
+**PASS — 3/3 VERIFIED**
+
+- PDF74 / printed 73 — **verified**
+- PDF75 / printed 74 — **verified**
+- PDF76 / printed 75 — **verified**
+- canonical T1 coverage — **71/76**
+- processed pages verified — **71/71**
+- unresolved processed-body readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against enlarged source pixels. All 13 mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked on all three pages. Representative source occurrences include PDF74 `அண்ணா` (`ணா`), PDF75 `அதனை` (`னை`), and PDF76 `தன்னைப்போலப்` (`னை`). No glyph-driven ambiguity remains.
+
+Source-sensitive forms retained include PDF74 `வெளியேவிடும்படி`, `பேர்த்திற்காக`, `தரமுடியவில்லை`, `அரசாங்`; PDF75 `பூங்காதான்`, `எடுத்ததற்கெல்லாம்`, `எடுத்ததெற்கெல்லாம்`, `பக்குவப்படுத்தியாக`, `ரஷ்யபுரட்சி`; and PDF76 `விளக்கம்பெற்று`, `மந்தபுத்தி`, `உண்டாகவேண்டாமா`, `பெறுதவரையில்`, `மதிக்கப்படும் வரை`.
+
+PDF76's formerly obscured upper passage is committed **exactly from the user's authoritative adjudication**:
+
+`புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+
+Provenance — **user-supplied exact reading, 2026-09-21**. Guessed reconstruction — **0**.
+
+Boundary controls:
+
+- PDF73→74 — clean paragraph boundary.
+- PDF74→75 — `அரசாங் / கத்தில்` → assembled `அரசாங்கத்தில்`.
+- PDF75→76 — clean paragraph boundary.
+- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`.
+
+Cadence is now **three physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T1 PDF77–79 / printed pp.76–78**.

@@ -75,8 +75,8 @@
     "source_boundary_mapping": "complete",
     "tamil_transcription": "in-progress",
     "speech_pages_total": 76,
-    "speech_pages_drafted": 68,
-    "speech_pages_verified_first_pass": 68,
+    "speech_pages_drafted": 71,
+    "speech_pages_verified_first_pass": 71,
     "tamil_visual_audit": "blocked-pending-t1-completion",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked-pending-tamil-freeze",
@@ -85,9 +85,9 @@
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "cadence": "2 physical PDF pages per user iteration",
-    "next_gate": "Tamil T1 PDF74–75 / printed pp.73–74",
-    "handoff_status": "active-two-page-cadence",
+    "cadence": "3 physical PDF pages per user iteration",
+    "next_gate": "Tamil T1 PDF77–79 / printed pp.76–78",
+    "handoff_status": "active-three-page-cadence",
     "handoff_date": "2026-09-21"
   },
   "migration": {
@@ -99,13 +99,13 @@
   },
   "t1": {
     "status": "in-progress",
-    "speech_pages_processed": 68,
+    "speech_pages_processed": 71,
     "speech_pages_total": 76,
-    "verified_first_pass": 68,
+    "verified_first_pass": 71,
     "unresolved_processed_body_readings": 0,
-    "latest_range": "PDF72–73",
-    "latest_range_result": "2/2 verified",
-    "next_range": "PDF74–75",
+    "latest_range": "PDF74–76",
+    "latest_range_result": "3/3 verified",
+    "next_range": "PDF77–79",
     "needs_review_pages": [],
     "source_obscured_spans": 0,
     "needs_review_reason": null,
@@ -121,6 +121,7 @@
         "PDF73→74 clean paragraph boundary; PDF74 opens எங்கள் அண்ணா சிறைப்பட்டார்...",
         "PDF70→71 clean transition; PDF71 opens நாரணமங்கலத்திலே, 144 தடையுத்தரவு!",
         "PDF74→75 அரசாங் / கத்தில் → அரசாங்கத்தில்",
+        "PDF75→76 clean paragraph boundary; PDF76 opens with user-adjudicated passage",
         "PDF76→77 sentence continues ...என்று / எண்ணம், பகுத்தறிவு...",
         "PDF77→78 வாடி / யும் → வாடியும்",
         "PDF78→79 sentence continues ...திட்டத்துடன் முழு / அமைப்பு..."
@@ -140,11 +141,11 @@
         "status": "in-progress-noncanonical",
         "progressed_through_pdf": 78,
         "pdf79_81_visually_inspected": true,
-        "canonical_pages_committed": 3,
-        "note": "Working review for PDF74–81 remains noncanonical; PDF71–73 are committed and verified."
+        "canonical_pages_committed": 6,
+        "note": "Working review for PDF77–81 remains noncanonical; PDF71–76 are committed and verified."
       },
-      "canonical_pages_committed": 3,
-      "canonical_committed_through_pdf": 73
+      "canonical_pages_committed": 6,
+      "canonical_committed_through_pdf": 76
     },
     "user_adjudications": [
       {
@@ -158,7 +159,7 @@
       {
         "pdf": 76,
         "printed_page": 75,
-        "status": "resolved-passage-canonical-page-pending",
+        "status": "resolved-canonical",
         "provenance": "user-supplied exact reading",
         "date": "2026-09-21",
         "text": "புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?"
