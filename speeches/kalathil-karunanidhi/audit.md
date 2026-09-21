@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **30/76**
-- range — **PDF6–35**
-- processed pages verified — **30/30**
+- speech pages processed — **35/76**
+- range — **PDF6–40**
+- processed pages verified — **35/35**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF36–40**.
+Tamil T1 — **PDF41–45**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -158,3 +158,34 @@ Cross-page joins:
 Cumulative T1: **30/76**.
 
 Exact next range: **PDF36–40**.
+
+
+## Tamil T1 batch — PDF36–40
+
+**PASS — 5/5 VERIFIED**
+
+- PDF36 / printed 35 — verified
+- PDF37 / printed 36 — verified
+- PDF38 / printed 37 — verified
+- PDF39 / printed 38 — verified
+- PDF40 / printed 39 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page. PDF40 `கண்றாவியாக` was encoded from the historical `றா` identity rather than the modern-shape look-alike. No global replacement was used.
+
+Source-sensitive forms retained include `காங்கிராஸ்-க்கு`, `எண்ணை விருப்பதில்லை`, `தில்லையாடி வள்ளியம்மை`, `அழுத்தந்திருத்தமாக`, `மக்கட்பணிக்கும்`, `உறை விடமாயிருந்த`, `சில்லறைச் சிவஞானங்களாலும்`, `சின்னதுகளாலும்`, `பர்மிட்டு`, `அன்புகொண்டோரே`, `சிறப்பற்றுச் சீரழிவதைவிட`, `கண்றாவியாக`, and `அலறியலறிக் குலைத்து`.
+
+Cross-page controls:
+
+- PDF36→37 — clean paragraph boundary; no split word
+- PDF37→38 — clean paragraph boundary; no split word
+- PDF38→39 — clean paragraph boundary; no split word
+- PDF39→40 — clean paragraph boundary; no split word
+- PDF40→41 — deferred to the next batch; PDF40 ends `...இறக்கும்படி செய்வது மேல்.`
+
+Cumulative T1: **35/76**.
+
+Exact next range: **PDF41–45**.
