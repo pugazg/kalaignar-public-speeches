@@ -46,8 +46,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
-- speech T1 — **PDF6–60 / 55 of 76**
-- processed speech pages verified — **54/55**
+- speech T1 — **PDF6–65 / 60 of 76**
+- processed speech pages verified — **59/60**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -57,33 +57,33 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 **5 physical PDF pages per user iteration.**
 
-## Latest T1 batch — PDF56–60
+## Latest T1 batch — PDF61–65
 
-**COMPLETE AS T1 INTAKE / 4 VERIFIED + 1 NEEDS-REVIEW**
+**COMPLETE / PASS — 5/5 VERIFIED**
 
-- PDF56–59 — **VERIFIED**
-- PDF60 — **needs-review**
+- PDF61–65 — **VERIFIED**
 - historical-glyph gate — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
-- guessed reconstruction — **0**
-- unresolved body spans — **1**
+- guessed readings — **0**
+- new unresolved body spans — **0**
+- cumulative unresolved body spans — **1** (pre-existing PDF60 stamp obstruction)
 
-PDF60's first printed line is physically overprinted by the KAMARAJ NEWS MART ownership stamp. The unreadable portion is preserved as `⟦மூலத்தில் முத்திரையால் மறைவு⟧`; no contextual reconstruction was inserted.
-
-Source-sensitive readings retained include `உண்டுபண்ணவில்லை`, `முதற் சலுகை`, `தன்னையன்றி`, `அபேட்சகர்களைத்`, `பிடிக்க வில்லையால்`, `ஐக்கியமற்ற`, `சாத்திய மற்றது`, `ஆயிரமாயிரம்`, `கனகவிசயர்களாலும்`, `வில்லவன் கோதை`, `நஷ்டங்களைப்பற்றி`, `நூற்றி நாற்பத்துநாலு`, `பூரிப்போடு`, and `தியாகப்பஞ்சத்தில்`.
+Representative source-sensitive readings retained include `பட்ட வதை`, `நேரத்திலேயெல்லாங்கூட`, `பெண்டு பிள்ளைகள்`, `நாட்டங்`, `துணைக்கழைத்துப்`, `காரண காரிய மற்ற`, `வியாபார வேட்டைச்`, `விளையும்`, `அகராதிப்படியும்`, `விலைபேசித்தேர்தல்`, `பயங் காட்டி`, `தோழமையை விளங்கும்`, `எங்கள்விடக்`, and `தியாகப் பஞ்சத்திலடிபட்டு`.
 
 Cross-page controls:
 
-- 55→56 — clean paragraph boundary
-- 56→57 — clean paragraph boundary
-- 57→58 — clean paragraph boundary
-- 58→59 — semantic continuation; no split word
-- 59→60 — `அடக்கு / முறைக்கு`; following PDF60 text contains the stamp-obscured span
-- 60→61 — deferred; PDF60 ends `...தியாகிகள் தானா?`
+- 60→61 — clean paragraph boundary
+- 61→62 — clean paragraph boundary
+- 62→63 — clean paragraph boundary
+- 63→64 — clean paragraph boundary
+- 64→65 — sentence continues `...தோழமையை விளங்கும் / விபரீத விசித்திர புத்தி படைத்தவர்களுமல்ல நாங்கள்.`
+- 65→66 — deferred; PDF65 ends `...என்று பேசுவதா?`
 
-Cumulative speech T1: **55/76 processed; 54/55 verified; 1 needs-review**.
+The PDF60 ownership-stamp-obscured span remains unchanged and explicitly unresolved with guessed reconstruction **0**.
+
+Cumulative speech T1: **60/76 processed; 59/60 verified; 1 needs-review**.
 
 ## Exact next activity
 
-Tamil T1 — **PDF61–65 only**.
+Tamil T1 — **PDF66–70 only**.
 
-Continue the fixed **5-physical-PDF-page cadence** and stop after PDF65.
+Continue the fixed **5-physical-PDF-page cadence** and stop after PDF70.
