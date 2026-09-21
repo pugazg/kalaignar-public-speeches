@@ -24,7 +24,7 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 - Tamil T1 committed — **PDF6–70 / 65 of 76**
 - processed pages verified — **65/65**
 - processed-body unresolved — **0**
-- PDF4 front matter — **needs-review / 2 physical-loss spans / guessed reconstruction 0**
+- PDF4 front matter — **VERIFIED / 2 formerly lost spans resolved by user adjudication / guessed reconstruction 0**
 - T2/T3 — blocked
 - English — blocked
 
@@ -44,12 +44,14 @@ Established controls:
 
 User-adjudicated obscured readings — **RESOLVED**:
 
+- PDF4 / front matter — `வெற்றிக்கு`
+- PDF4 / front matter — `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
 - PDF60 / printed 59 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
 - PDF76 / printed 75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
 - PDF81 / printed 80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 - provenance — exact readings supplied by user on 2026-09-21
 - guessed reconstruction — **0**
-- PDF4 front matter still has **2 unresolved physical-loss spans**
+- PDF4 front matter — **RESOLVED / CLOSED**: `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு` and `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
 
 ## Historical-glyph rule
 
