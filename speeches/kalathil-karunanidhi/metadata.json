@@ -75,8 +75,8 @@
     "source_boundary_mapping": "complete",
     "tamil_transcription": "in-progress",
     "speech_pages_total": 76,
-    "speech_pages_drafted": 65,
-    "speech_pages_verified_first_pass": 65,
+    "speech_pages_drafted": 66,
+    "speech_pages_verified_first_pass": 66,
     "tamil_visual_audit": "blocked-pending-t1-completion",
     "tamil_consolidation": "blocked",
     "english_translation": "blocked-pending-tamil-freeze",
@@ -85,9 +85,9 @@
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "cadence": "default 5 physical PDF pages per iteration; user explicitly authorized processing remaining PDF71–81 together",
-    "next_gate": "Finalize and commit canonical Tamil T1 PDF71–81 from completed source review",
-    "handoff_status": "ready-for-next-chat",
+    "cadence": "1 physical PDF page per user iteration",
+    "next_gate": "Tamil T1 PDF72 / printed p.71",
+    "handoff_status": "active-single-page-cadence",
     "handoff_date": "2026-09-21"
   },
   "migration": {
@@ -99,13 +99,13 @@
   },
   "t1": {
     "status": "in-progress",
-    "speech_pages_processed": 65,
+    "speech_pages_processed": 66,
     "speech_pages_total": 76,
-    "verified_first_pass": 65,
+    "verified_first_pass": 66,
     "unresolved_processed_body_readings": 0,
-    "latest_range": "PDF66–70",
-    "latest_range_result": "5/5 verified",
-    "next_range": "PDF71–81 finalization",
+    "latest_range": "PDF71",
+    "latest_range_result": "1/1 verified",
+    "next_range": "PDF72",
     "needs_review_pages": [],
     "source_obscured_spans": 0,
     "needs_review_reason": null,
@@ -137,9 +137,11 @@
         "status": "in-progress-noncanonical",
         "progressed_through_pdf": 78,
         "pdf79_81_visually_inspected": true,
-        "canonical_pages_committed": 0,
-        "note": "Working review only; no PDF71–81 text is canonical until committed."
-      }
+        "canonical_pages_committed": 1,
+        "note": "Working review for PDF72–81 remains noncanonical; PDF71 is now committed and verified."
+      },
+      "canonical_pages_committed": 1,
+      "canonical_committed_through_pdf": 71
     },
     "user_adjudications": [
       {

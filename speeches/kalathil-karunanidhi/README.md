@@ -46,8 +46,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
-- speech T1 — **PDF6–70 / 65 of 76**
-- processed speech pages verified — **65/65**
+- speech T1 — **PDF6–71 / 66 of 76**
+- processed speech pages verified — **66/66**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -55,32 +55,27 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 
 ## Fixed cadence
 
-**Default: 5 physical PDF pages per user iteration. The user explicitly authorized processing the remaining PDF71–81 together.**
+**One physical PDF page per user iteration.**
 
-## Latest T1 batch — PDF66–70
+This supersedes the earlier remaining-range batch authorization.
 
-**COMPLETE / PASS — 5/5 VERIFIED**
+## Latest T1 page — PDF71
 
-- PDF66–70 — **VERIFIED**
+**COMPLETE / PASS — 1/1 VERIFIED**
+
+- PDF71 / printed 70 — **VERIFIED**
+- canonical speech T1 — **66/76 processed; 66/66 verified**
 - historical-glyph gate — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
 - guessed readings — **0**
-- new unresolved body spans — **0**
-- cumulative unresolved body spans — **0** (PDF60 obstruction resolved by user adjudication on 2026-09-21)
+- unresolved body spans — **0**
+- silent modernization — **0**
 
-Representative source-sensitive readings retained include `சந்தர்ப்பவாதமா`, `தியாகத்தணலில்`, `சூழலில்`, `இலட்சியக் காளைகள்`, `வரலாறு காணக்`, `இரவிக்கைகள்`, `காட்சிப்புலனறியும்`, `முடமாக்கப்பட்டவில்லையா`, `வேறு வேறுகப்`, `தள்ளினப்படியும்`, `காயத்தழும்புகளிலிருந்து`, `கணக்கில`, `குன்றத்தூரிலே யிலிருந்து`, and `சாவின் முனையில் வாயிலில்`.
+Representative source-sensitive readings retained include `உள்ளானர்களே`, `சாந்தியடைய`, `கடுங் காவல்`, `சிரைக்க வில்லையா`, `அர்த்த மற்ற செயல்`, `பாராள வந்த`, `பார்பர்ஷாப்`, `மானபங்கப் படுத்தினரே`, `உயர் நீதி மன்றத்தாரால்`, `ஆளானர்`, and `ஆளாக்கப்பட்டார்`.
 
-Cross-page controls:
+Boundary controls:
 
-- 65→66 — clean paragraph boundary
-- 66→67 — clean paragraph boundary
-- 67→68 — clean paragraph boundary
-- 68→69 — sentence continues `...மக்களை மாக்களாக மதித்து / முள்வேலிக்குள்ளே தள்ளினப்படியும்...`
-- 69→70 — clean paragraph boundary
-- 70→71 — deferred; PDF70 ends `தியாகப்பட்டியலில் தேவையா, இன்னும்?`
-
-The former PDF60 ownership-stamp-obscured span was **resolved by user adjudication on 2026-09-21**; guessed reconstruction remains **0**.
-
-Cumulative canonical speech T1 remains **65/76 processed; 65/65 verified; 0 speech-body needs-review**; PDF71–81 source review is complete but canonical text is still pending.
+- PDF70→71 — clean paragraph boundary
+- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
 
 ## User-adjudicated source readings
 
@@ -94,35 +89,26 @@ On 2026-09-21 the user supplied exact readings for previously obscured/damaged p
 
 These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF4 and PDF60 are no longer needs-review. Guessed reconstruction remains **0**.
 
-## Remaining-range source review — PDF71–81
+## Remaining-range source review — PDF72–81
 
-**COMPLETE — 11/11 physical scans reviewed; canonical transcription pending**
+**SOURCE REVIEW COMPLETE; CANONICAL T1 CONTINUES ONE PAGE AT A TIME**
 
-The remaining source scans PDF71–81 / printed pp.70–80 have been rendered and manually inspected at high resolution. This review does **not** advance the canonical T1 counters by itself; committed transcription remains PDF6–70 / 65 of 76.
+- PDF71–81 source images reviewed — **11/11**
+- canonical final-range pages committed — **1/11**
+- committed page — **PDF71**
+- remaining — **PDF72–81 / 10 pages**
+- guessed reconstruction — **0**
+- PDF76/PDF81 obscured passages — **resolved by user adjudication**
 
-Established controls:
+Established later boundary controls remain unchanged:
 
-- PDF70→71 — clean transition into new paragraph; PDF71 opens `நாரணமங்கலத்திலே, 144 தடையுத்தரவு!`
 - PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
 - PDF76→77 — `...என்று / எண்ணம், பகுத்தறிவு...`
 - PDF77→78 — `வாடி / யும்` → `வாடியும்`
 - PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 — formerly obscured passage **resolved by user adjudication** as `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
-- PDF81 — formerly obscured/damaged closing passage **resolved by user adjudication** as `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
-- guessed reconstruction from this review — **0**
 
 ## Exact next activity
 
-Finalize canonical Tamil T1 — **PDF71–81 together** from the completed source review.
+Process **Tamil T1 PDF72 / printed p.71 only**.
 
-The user explicitly authorized the remaining **PDF71–81 together**. Complete only source-supported text; use the durable user adjudications exactly and do not introduce guessed reconstruction.
-
-## Cross-chat handoff
-
-On 2026-09-21 the user requested continuation in another chat window.
-
-- PDF71–81 source review — **11/11 COMPLETE**
-- character-level working review — progressed through PDF78; PDF79–81 visually inspected
-- canonical PDF71–81 transcription — **still pending / 0 of 11 committed**
-- canonical counters remain **65/76 processed; 65/65 verified; 0 unresolved**
-- next activity remains **finalize and commit canonical Tamil T1 PDF71–81 together**
+Do not process PDF73 in the same iteration.

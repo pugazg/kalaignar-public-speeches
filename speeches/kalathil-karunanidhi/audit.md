@@ -498,3 +498,29 @@ The user requested continuation in another chat window.
 - user-adjudicated passages — **PDF4, PDF60, PDF76, PDF81 all resolved and durable**
 - no uncommitted draft text should be treated as canonical
 - next chat must read live `main`, the source scans, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`, then complete canonical PDF71–81
+
+
+## Tamil T1 single-page iteration — PDF71
+
+**PASS — 1/1 VERIFIED**
+
+- PDF71 / printed 70 — **verified**
+- canonical T1 coverage — **66/76**
+- processed pages verified — **66/66**
+- unresolved processed-body readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied directly against the enlarged source pixels. All 13 mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked. Representative page evidence includes `தண்டனை` (`னை`) and `தலையை` (`லை`). No glyph-driven ambiguity remains.
+
+Source-sensitive forms retained include `உள்ளானர்களே`, `சாந்தியடைய`, `கடுங் காவல்`, `சிரைக்க வில்லையா`, `அர்த்த மற்ற செயல்`, `பாராள வந்த`, `பார்பர்ஷாப்`, `மானபங்கப் படுத்தினரே`, `உயர் நீதி மன்றத்தாரால்`, `ஆளானர்`, and `ஆளாக்கப்பட்டார்`.
+
+Boundary controls:
+
+- PDF70→71 — **clean paragraph boundary**; PDF71 begins `நாரணமங்கலத்திலே, 144 தடையுத்தரவு!`
+- PDF71→72 — **clean paragraph boundary**; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+
+Cadence is now **one physical PDF page per user iteration**.
+
+Exact next activity: **Tamil T1 PDF72 / printed p.71**.
