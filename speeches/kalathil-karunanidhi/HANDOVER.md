@@ -24,8 +24,8 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 - front matter — **5/5 recorded**
 - PDF4 — **needs-review**, 2 physical-loss spans
-- Tamil T1 — **PDF6–45 / 40 of 76**
-- processed speech pages verified — **40/40**
+- Tamil T1 — **PDF6–50 / 45 of 76**
+- processed speech pages verified — **45/45**
 - unresolved processed speech-body readings — **0**
 - T2/T3 — blocked
 - English — blocked
@@ -36,22 +36,24 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Latest completed range
 
-PDF **41–45 — 5/5 VERIFIED**.
+PDF **46–50 — 5/5 VERIFIED**.
 
 Cumulative:
 
-- speech T1 — **40/76**
-- processed pages verified — **40/40**
+- speech T1 — **45/76**
+- processed pages verified — **45/45**
 - processed-body unresolved — **0**
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
 - English — blocked
-- historical-glyph PDF41–45 — **PASS / all 13 mandatory families checked / 0 unresolved**
-- representative decodings — PDF41 `காணாதிருக்க` (`ணா`), PDF42 `மன்றாடிக்` (`றா`, two occurrences), PDF44 `இதனை` (`னை`)
-- PDF45→46 — boundary check deferred to next batch; PDF45 ends mid-sentence at `...கம்யூனிஸ்டுக் கட்சி`
+- historical-glyph PDF46–50 — **PASS / all 13 mandatory families checked / 0 unresolved**
+- representative decodings — PDF46/PDF47 `அண்ணா` (`ணா`), PDF48 `நன்றாக` (`றா`) and `அனைவரையும்` (`னை`)
+- PDF45→46 — resolved cross-page join `கம்யூனிஸ்டுக் கட்சி / யைச்` → `கம்யூனிஸ்டுக் கட்சியைச்`
+- PDF49→50 — resolved cross-page join `நாச / காரக்` → `நாசகாரக்`
+- PDF50→51 — boundary check deferred to next batch; PDF50 ends `...காங்கிரஸ் தேர்தலில் கலந்து கொள்கிறது.`
 
 ## Exact next activity
 
-Tamil T1 — **PDF46–50 only**.
+Tamil T1 — **PDF51–55 only**.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF50.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF55.
