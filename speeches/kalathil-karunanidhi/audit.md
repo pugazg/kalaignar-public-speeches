@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **15/76**
-- range — **PDF6–20**
-- processed pages verified — **15/15**
+- speech pages processed — **20/76**
+- range — **PDF6–25**
+- processed pages verified — **20/20**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF21–25**.
+Tamil T1 — **PDF26–30**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -73,3 +73,32 @@ Cross-page joins:
 Cumulative T1: **15/76**.
 
 Exact next range: **PDF21–25**.
+
+
+## Tamil T1 batch — PDF21–25
+
+**PASS — 5/5 VERIFIED**
+
+- PDF21 / printed 20 — verified
+- PDF22 / printed 21 — verified
+- PDF23 / printed 22 — verified
+- PDF24 / printed 23 — verified
+- PDF25 / printed 24 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Source-sensitive forms retained include `என்னகும்`, `பசிகாரன்`, `பிருந்தாவனத்திட்டம்`, `அமர்க்களப்படுத்தப்பட்டு`, `வெற்றி முரசொலி!`, and `ஊதாரித்தனமாகப்`.
+
+The PDF25 source physically splits `இலாகாவின் / ரிடம்`; no letters are invented or normalized.
+
+Cross-page joins:
+
+- PDF22→23 — `உற்பத்தி பெரு / கில் உணவு உபரியாகி...`
+- PDF24→25 — `அப்போது கூறுகிறார்கள், / இந்த இடத்தில்தான்...`
+- PDF25→26 — `வீண் விளம்பரச் செலவுகள், / நாட்டுக்குப் பயன்தரும் வகையில்...`
+
+Cumulative T1: **20/76**.
+
+Exact next range: **PDF26–30**.

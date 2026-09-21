@@ -24,8 +24,8 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 - front matter — **5/5 recorded**
 - PDF4 — **needs-review**, 2 physical-loss spans
-- Tamil T1 — **PDF6–20 / 15 of 76**
-- processed speech pages verified — **15/15**
+- Tamil T1 — **PDF6–25 / 20 of 76**
+- processed speech pages verified — **20/20**
 - unresolved processed speech-body readings — **0**
 - T2/T3 — blocked
 - English — blocked
@@ -36,12 +36,12 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Latest completed range
 
-PDF **16–20 — 5/5 VERIFIED**.
+PDF **21–25 — 5/5 VERIFIED**.
 
 Cumulative:
 
-- speech T1 — **15/76**
-- processed pages verified — **15/15**
+- speech T1 — **20/76**
+- processed pages verified — **20/20**
 - processed-body unresolved — **0**
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
@@ -49,6 +49,6 @@ Cumulative:
 
 ## Exact next activity
 
-Tamil T1 — **PDF21–25 only**.
+Tamil T1 — **PDF26–30 only**.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF25.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF30.

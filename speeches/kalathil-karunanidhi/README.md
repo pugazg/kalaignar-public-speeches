@@ -46,8 +46,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
-- speech T1 — **PDF6–20 / 15 of 76**
-- processed speech pages verified — **15/15**
+- speech T1 — **PDF6–25 / 20 of 76**
+- processed speech pages verified — **20/20**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -57,29 +57,28 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 **5 physical PDF pages per user iteration.**
 
-## Latest T1 batch — PDF16–20
+## Latest T1 batch — PDF21–25
 
 **COMPLETE / PASS — 5/5 VERIFIED**
 
 Source-sensitive readings retained include:
 
-- PDF16 — `அம்மாவாவேண்டும்`
-- PDF17 — `அவளின்மகன்`, `சுவையான காட்சியென்று`
-- PDF18 — `கற்புக் காரிகள்`, `அறுவறுக்கத் தக்க`
-- PDF19 — `சத் (!!) பணி`, `வாழவழியில்லை`, `திடீரென்று`
-- PDF20 — `நல் விருந்தாகக்`, `பசியாறப்புசி`
+- PDF21 — `என்னகும்`, `பசிகாரன்`, `பைத்தியக் காரனேதான்`, `மாறுக இடையே`
+- PDF22 — `காரணந்தான்`; extended question/repetition structure preserved
+- PDF23 — `பிருந்தாவனத்திட்டம்`, `அமர்க்களப்படுத்தப்பட்டு`, `மரம் நடுவிழாவிற்காகச்`
+- PDF24 — `கையொப்ப மிட்டு`, `மறு முறை`, `இவ்வருடம்`
+- PDF25 — `வெற்றி முரசொலி!`, `ஊதாரித்தனமாகப்`, and physical line split `இலாகாவின் / ரிடம்`
 
 Cross-page controls:
 
-- 17→18 — `புணர்ச்சியில் / படுத்தினர்—கேவலம்.`
-- 18→19 — `தாயை / யும் இணைத்துக் கொண்டிருக்கும்...`
-- 19→20 — `பக்குவ / மாக வெந்த பிணத்தின்...`
-- 20→21 — `ஏதும் / இல்லை—பிணத்தைத் தின்னும்...`
+- 22→23 — `உற்பத்தி பெரு / கில் உணவு உபரியாகி...`
+- 24→25 — `அப்போது கூறுகிறார்கள், / இந்த இடத்தில்தான்...`
+- 25→26 — `வீண் விளம்பரச் செலவுகள், / நாட்டுக்குப் பயன்தரும் வகையில்...`
 
-Cumulative speech T1: **15/76 processed; 15/15 first-pass verified; 0 unresolved processed-body readings**.
+Cumulative speech T1: **20/76 processed; 20/20 first-pass verified; 0 unresolved processed-body readings**.
 
 ## Exact next activity
 
-Tamil T1 — **PDF21–25 only**.
+Tamil T1 — **PDF26–30 only**.
 
-Continue the fixed **5-physical-PDF-page cadence** and stop after PDF25.
+Continue the fixed **5-physical-PDF-page cadence** and stop after PDF30.
