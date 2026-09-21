@@ -51,12 +51,23 @@
   },
   "source_front_matter": {
     "pages_recorded": 5,
-    "verified": 4,
-    "needs_review": 1,
-    "needs_review_pages": [
-      4
-    ],
-    "unresolved_physical_loss_spans": 2
+    "verified": 5,
+    "needs_review": 0,
+    "needs_review_pages": [],
+    "unresolved_physical_loss_spans": 0,
+    "user_adjudications": [
+      {
+        "pdf": 4,
+        "status": "resolved",
+        "provenance": "user-supplied exact reading",
+        "date": "2026-09-21",
+        "resolved_spans": [
+          "களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு",
+          "கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!"
+        ],
+        "guessed_reconstruction": 0
+      }
+    ]
   },
   "workflow": {
     "source_inspection": "complete",
