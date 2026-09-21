@@ -115,4 +115,14 @@ Established controls:
 
 Finalize canonical Tamil T1 — **PDF71–81 together** from the completed source review.
 
-Continue the fixed **5-physical-PDF-page cadence** and complete only source-supported PDF71–81 text; do not guess hidden characters.
+The user explicitly authorized the remaining **PDF71–81 together**. Complete only source-supported text; use the durable user adjudications exactly and do not introduce guessed reconstruction.
+
+## Cross-chat handoff
+
+On 2026-09-21 the user requested continuation in another chat window.
+
+- PDF71–81 source review — **11/11 COMPLETE**
+- character-level working review — progressed through PDF78; PDF79–81 visually inspected
+- canonical PDF71–81 transcription — **still pending / 0 of 11 committed**
+- canonical counters remain **65/76 processed; 65/65 verified; 0 unresolved**
+- next activity remains **finalize and commit canonical Tamil T1 PDF71–81 together**
