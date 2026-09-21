@@ -39,13 +39,13 @@ The canonical workspace is now `speeches/kalathil-karunanidhi/`. Source scans 1�
 - PDF7–81 — visible printed folios **6–80**
 - PDF81 — terminal supplied scan; bottom condition to be resolved during later completeness/fidelity audit
 
-PDF4 contains **2 physically lost text spans**. They remain unresolved rather than guessed.
+PDF4 formerly contained **2 physically lost text spans**; both were **resolved by user adjudication on 2026-09-21** as `வெற்றிக்கு` and `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`. Guessed reconstruction remains **0**.
 
 ## Current Tamil state
 
 - front matter recorded — **5/5**
-- front matter verified — **4**
-- front matter needs-review — **1** (PDF4)
+- front matter verified — **5/5**
+- front matter needs-review — **0**
 - speech T1 — **PDF6–70 / 65 of 76**
 - processed speech pages verified — **65/65**
 - unresolved processed speech-body readings — **0**
@@ -84,13 +84,15 @@ Cumulative canonical speech T1 remains **65/76 processed; 65/65 verified; 0 spee
 
 ## User-adjudicated source readings
 
-On 2026-09-21 the user supplied exact readings for three previously obscured/damaged passages:
+On 2026-09-21 the user supplied exact readings for previously obscured/damaged passages, including the two PDF4 front-matter loss spans:
 
+- PDF4 / front matter — `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
+- PDF4 / front matter — `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
 - PDF60 / printed 59 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
 - PDF76 / printed 75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
 - PDF81 / printed 80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 
-These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF60 is no longer needs-review. Guessed reconstruction remains **0**.
+These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF4 and PDF60 are no longer needs-review. Guessed reconstruction remains **0**.
 
 ## Remaining-range source review — PDF71–81
 
