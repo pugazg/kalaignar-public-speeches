@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **35/76**
-- range — **PDF6–40**
-- processed pages verified — **35/35**
+- speech pages processed — **40/76**
+- range — **PDF6–45**
+- processed pages verified — **40/40**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF41–45**.
+Tamil T1 — **PDF46–50**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -189,3 +189,41 @@ Cross-page controls:
 Cumulative T1: **35/76**.
 
 Exact next range: **PDF41–45**.
+
+
+## Tamil T1 batch — PDF41–45
+
+**PASS — 5/5 VERIFIED**
+
+- PDF41 / printed 40 — verified
+- PDF42 / printed 41 — verified
+- PDF43 / printed 42 — verified
+- PDF44 / printed 43 — verified
+- PDF45 / printed 44 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page.
+
+Representative source-pixel decodings:
+
+- PDF41 — source historical `ணா` in `காணாதிருக்க`; same-page comparison against `காணமுடியாததால்` confirmed the character identity.
+- PDF42 — two occurrences of source historical `றா` decoded as `மன்றாடிக்`.
+- PDF44 — source historical `னை` decoded as `இதனை`.
+
+Source-sensitive forms retained include `சங்கட மின்றிச்`, `கொடுமை செய்திவதிலே`, `கோரங் தவிர்க்க`, `அவஸ்தைப்பட்டு வதைக்`, `மரணகுழியில்`, `வேலை யென்று`, `பலுவை`, `தாப்படும்`, `பின்யாருக்கு`, `சேலத்திலே`, `சட்ட சபைக்குச்`, and `கம்யூனிஸ்டுக் கட்சி`.
+
+Cross-page controls:
+
+- PDF40→41 — clean paragraph boundary; PDF41 begins `நாயைச் சாகடித்து விடவேண்டும்...`
+- PDF41→42 — clean paragraph boundary; no split word
+- PDF42→43 — clean paragraph boundary; no split word
+- PDF43→44 — clean paragraph boundary; no split word
+- PDF44→45 — clean paragraph boundary; no split word
+- PDF45→46 — deferred to next batch; PDF45 ends mid-sentence at `...கம்யூனிஸ்டுக் கட்சி`
+
+Cumulative T1: **40/76**.
+
+Exact next range: **PDF46–50**.
