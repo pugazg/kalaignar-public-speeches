@@ -23,7 +23,7 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 ## Current state
 
 - front matter — **5/5 recorded**
-- PDF4 — **needs-review**, 2 physical-loss spans
+- PDF4 — **VERIFIED / CLOSED**, 2 formerly lost spans resolved by user adjudication
 - Tamil T1 — **PDF6–70 / 65 of 76**
 - processed speech pages verified — **65/65**
 - unresolved processed speech-body readings — **0**
@@ -43,7 +43,7 @@ Cumulative:
 - speech T1 — **65/76**
 - processed pages verified — **65/65**
 - processed-body unresolved — **0**
-- front-matter PDF4 remains **needs-review** for 2 physical-loss spans
+- front matter — **5/5 VERIFIED / 0 needs-review / 0 unresolved physical-loss spans**
 - T2/T3 — blocked pending complete T1
 - English — blocked
 - historical-glyph PDF66–70 — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
@@ -66,12 +66,13 @@ Cumulative:
 
 ### User adjudications — 2026-09-21
 
+- PDF4 / front matter — resolved; `வெற்றிக்கு` and `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`; front-matter hold closed
 - PDF60 / printed 59 — resolved; canonical body hold closed
 - PDF76 / printed 75 — obscured passage resolved
 - PDF81 / printed 80 — terminal obscured/damaged closing passage resolved
 - provenance — exact readings supplied by user
 - guessed reconstruction — **0**
-- only remaining source-loss hold outside the pending PDF71–81 canonical transcription is **PDF4 front matter / 2 physical-loss spans**
+- PDF4 front-matter loss spans — **RESOLVED / CLOSED by user adjudication**
 
 ## Exact next activity
 
@@ -79,6 +80,6 @@ Finalize canonical Tamil T1 — **PDF71–81 together**, using the completed sou
 
 Source review for PDF71–81 is already complete. Preserve these established controls: PDF74→75 `அரசாங் / கத்தில்`, PDF76→77 `...என்று / எண்ணம், பகுத்தறிவு...`, PDF77→78 `வாடி / யும்`, and PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`.
 
-PDF76 has an ownership-stamp overlap in its upper text. PDF81 has terminal physical loss plus ownership-stamp overlap in its lower closing text. Do not reconstruct hidden characters. Guessed reconstruction must remain 0.
+The formerly obscured PDF76 and PDF81 passages are resolved by user adjudication and must be used exactly as recorded. Guessed reconstruction remains 0.
 
 Canonical T1 remains PDF6–70 / 65 of 76 until PDF71–81 is committed; all 65 committed speech-body pages are now verified.
