@@ -46,8 +46,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
-- speech T1 — **PDF6–50 / 45 of 76**
-- processed speech pages verified — **45/45**
+- speech T1 — **PDF6–55 / 50 of 76**
+- processed speech pages verified — **50/50**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -57,38 +57,39 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 **5 physical PDF pages per user iteration.**
 
-## Latest T1 batch — PDF46–50
+## Latest T1 batch — PDF51–55
 
 **COMPLETE / PASS — 5/5 VERIFIED**
 
-Historical-glyph review was completed page-by-page against source pixels with the full mandatory 13-family set.
+Historical-glyph review was completed page-by-page against source pixels with the full mandatory 13-family set. No glyph-driven uncertainty remains.
 
-Representative historical-glyph decodings:
+Representative historical-glyph checks:
 
-- PDF46 / PDF47 — `அண்ணா` — historical `ணா`
-- PDF48 — `நன்றாக` — historical `றா`; `அனைவரையும்` — `னை`
+- PDF52 — `ஒன்றாக` — `றா` family
+- PDF54 — `அன்றாட` — `றா` family
+- PDF55 — `எங்களை` — `ளை` family
 
 Source-sensitive readings retained include:
 
-- PDF46 — `ஸ்தாபன ரீதியான`, `ஒப்புக்கொள்கிறதா`, `விடையளித்தார் ஜீவா`
-- PDF47 — `யார்யார்`, `உறுதிப் படுத்துகிறார்களோ`, `சுமார் நூற்று ஐம்பதின்மருக்குமேல்`
-- PDF48 — `கண்ண மூடிக் கொண்டு`, `ஏறக்குறைய`, `என்பன`, `போடவேண்டு மென்று`
-- PDF49 — `பிரித்தே திருவோம்`, `சுரண்டல் காடாகவுள்ள`, `இன்பத்திராவிடங்காணும்`
-- PDF50 — `பொதுப்படையான`, `காடாக்கிக்`
+- PDF51 — `வேலையுங் கூட`, `எண்ணற்ற கேடுகளே`, `அடக்கு முறைகளே`
+- PDF52 — `மூன்றுகட்சிகளின்`, `பலாபலன்`, `பேதாபேத மின்மை`, `Comrade ship`
+- PDF53 — `தனித்தனியேவும்`, `ஒருவருக் கொருவர்`, `மற்றவர்கொண்டாலன்றி`, `கழகத்தையும்மதிக்க`
+- PDF54 — `ஐக்கியமுன்னணி`, `மூன்றுவதாகத்`, `ஒப்பமுடியாது`, `மூன்றில் சேர்ந்த ஒருவரை`
+- PDF55 — `ஐக்கிய மற்ற`, `நடை முறைக்கு`, `தன் மானத்தை`, `தோழமையைப்பறிகொடுத்து`, `ஒத்துழைப்பைத்தரத்`
 
 Cross-page controls:
 
-- 45→46 — `கம்யூனிஸ்டுக் கட்சி / யைச்` → `கம்யூனிஸ்டுக் கட்சியைச்`
-- 46→47 — clean paragraph boundary
-- 47→48 — clean paragraph boundary
-- 48→49 — clean paragraph boundary
-- 49→50 — `நாச / காரக்` → `நாசகாரக்`
-- 50→51 — deferred; PDF50 ends `...காங்கிரஸ் தேர்தலில் கலந்து கொள்கிறது.`
+- 50→51 — clean paragraph boundary
+- 51→52 — sentence continues `...சேர்த்து, மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
+- 52→53 — sentence/list continues `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`
+- 53→54 — clean paragraph boundary
+- 54→55 — clean paragraph boundary
+- 55→56 — deferred; PDF55 ends `...வாய்ப்புத் தந்தோம்.`
 
-Cumulative speech T1: **45/76 processed; 45/45 first-pass verified; 0 unresolved processed-body readings**.
+Cumulative speech T1: **50/76 processed; 50/50 first-pass verified; 0 unresolved processed-body readings**.
 
 ## Exact next activity
 
-Tamil T1 — **PDF51–55 only**.
+Tamil T1 — **PDF56–60 only**.
 
-Continue the fixed **5-physical-PDF-page cadence** and stop after PDF55.
+Continue the fixed **5-physical-PDF-page cadence** and stop after PDF60.
