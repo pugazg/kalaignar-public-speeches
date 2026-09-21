@@ -65,7 +65,7 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - historical-glyph gate — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
 - guessed readings — **0**
 - new unresolved body spans — **0**
-- cumulative unresolved body spans — **1** (pre-existing PDF60 stamp obstruction)
+- cumulative unresolved body spans — **0** (PDF60 obstruction resolved by user adjudication on 2026-09-21)
 
 Representative source-sensitive readings retained include `சந்தர்ப்பவாதமா`, `தியாகத்தணலில்`, `சூழலில்`, `இலட்சியக் காளைகள்`, `வரலாறு காணக்`, `இரவிக்கைகள்`, `காட்சிப்புலனறியும்`, `முடமாக்கப்பட்டவில்லையா`, `வேறு வேறுகப்`, `தள்ளினப்படியும்`, `காயத்தழும்புகளிலிருந்து`, `கணக்கில`, `குன்றத்தூரிலே யிலிருந்து`, and `சாவின் முனையில் வாயிலில்`.
 
@@ -78,7 +78,7 @@ Cross-page controls:
 - 69→70 — clean paragraph boundary
 - 70→71 — deferred; PDF70 ends `தியாகப்பட்டியலில் தேவையா, இன்னும்?`
 
-The PDF60 ownership-stamp-obscured span remains unchanged and explicitly unresolved with guessed reconstruction **0**.
+The former PDF60 ownership-stamp-obscured span was **resolved by user adjudication on 2026-09-21**; guessed reconstruction remains **0**.
 
 Cumulative canonical speech T1 remains **65/76 processed; 65/65 verified; 0 speech-body needs-review**; PDF71–81 source review is complete but canonical text is still pending.
 
