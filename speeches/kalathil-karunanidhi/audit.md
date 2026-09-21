@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **45/76**
-- range — **PDF6–50**
-- processed pages verified — **45/45**
+- speech pages processed — **50/76**
+- range — **PDF6–55**
+- processed pages verified — **50/50**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,7 +44,7 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF51–55**.
+Tamil T1 — **PDF56–60**.
 
 
 ## Tamil T1 batch — PDF16–20
@@ -265,3 +265,35 @@ Cross-page controls:
 Cumulative T1: **45/76**.
 
 Exact next range: **PDF51–55**.
+
+
+## Tamil T1 batch — PDF51–55
+
+**PASS — 5/5 VERIFIED**
+
+- PDF51 / printed 50 — verified
+- PDF52 / printed 51 — verified
+- PDF53 / printed 52 — verified
+- PDF54 / printed 53 — verified
+- PDF55 / printed 54 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against the source pixels. The complete mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was checked on every page. Representative source occurrences checked include PDF52 `ஒன்றாக` (`றா` family), PDF54 `அன்றாட` (`றா` family), and PDF55 `எங்களை` (`ளை` family). No glyph-driven uncertainty remains.
+
+Source-sensitive forms retained include `வேலையுங் கூட`, `எண்ணற்ற கேடுகளே`, `அடக்கு முறைகளே`, `மூன்றுகட்சிகளின்`, `பலாபலன்`, `பேதாபேத மின்மை`, `Comrade ship`, `தனித்தனியேவும்`, `ஒருவருக் கொருவர்`, `மற்றவர்கொண்டாலன்றி`, `கழகத்தையும்மதிக்க`, `ஐக்கியமுன்னணி`, `மூன்றுவதாகத்`, `ஒப்பமுடியாது`, `மூன்றில் சேர்ந்த ஒருவரை`, `ஐக்கிய மற்ற`, `நடை முறைக்கு`, `தன் மானத்தை`, `தோழமையைப்பறிகொடுத்து`, and `ஒத்துழைப்பைத்தரத்`.
+
+Cross-page controls:
+
+- PDF50→51 — clean paragraph boundary.
+- PDF51→52 — sentence continues `...சேர்த்து, மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`; no split word.
+- PDF52→53 — sentence/list continues `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`; no split word.
+- PDF53→54 — clean paragraph boundary; no split word.
+- PDF54→55 — clean paragraph boundary; no split word.
+- PDF55→56 — deferred to next batch; PDF55 ends `...வாய்ப்புத் தந்தோம்.`
+
+Cumulative T1: **50/76**.
+
+Exact next range: **PDF56–60**.
