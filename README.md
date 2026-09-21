@@ -546,7 +546,8 @@ Repository-level closure is complete. No transcription or translation work remai
 - processed speech pages verified — **64/65**
 - PDF4 front matter — **needs-review / 2 physical-loss spans**
 - PDF60 speech body — **needs-review / 1 ownership-stamp-obscured span / guessed reconstruction 0**
-- cadence — **5 physical PDF pages per iteration**
-- exact next range — **PDF71–75**
+- cadence — **default 5 pages; user authorized remaining PDF71–81 together**
+- remaining source review — **PDF71–81 / 11 scans COMPLETE; canonical transcription pending**
+- exact next activity — **finalize and commit Tamil T1 PDF71–81**
 
 This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.
