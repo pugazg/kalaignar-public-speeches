@@ -46,8 +46,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
-- speech T1 — **PDF6–35 / 30 of 76**
-- processed speech pages verified — **30/30**
+- speech T1 — **PDF6–40 / 35 of 76**
+- processed speech pages verified — **35/35**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -57,29 +57,32 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 **5 physical PDF pages per user iteration.**
 
-## Latest T1 batch — PDF31–35
+## Latest T1 batch — PDF36–40
 
 **COMPLETE / PASS — 5/5 VERIFIED**
 
 Source-sensitive readings retained include:
 
-- PDF31 — `மூளா டாக்டர்`, `திக்பிரமையடையச்`, `கேட்டானும்`
-- PDF32 — `நானு?`, `மனுப்போட்டேன்`, `ஒய்ச்சல் ஒழிவேயில்லை`, `காரியமாற்றத்`
-- PDF33 — `வாளா இருக்கவில்லை`, `வகைகெட்டும் இல்லை`, `மூளையற்ற வகைவே`
-- PDF34 — `மூளையில்லா’திருந்த`, `சொரணையே இல்லாத`, `நோமாகிய`
-- PDF35 — `மூளையற்றவர்கட்கு`, `கதைமூலம்`, `சொரணை கெட்ட ‘எம். எல். ஏ’க்கள்`, `காண்டீபம்`
+- PDF36 — `காங்கிராஸ்-க்கு`, `சாகவேண்டும்`, `அழியவேண்டும்`, `ஒழியவேண்டும்`
+- PDF37 — `எண்ணை விருப்பதில்லை`, `தில்லையாடி வள்ளியம்மை`, `அழுத்தந்திருத்தமாக`, `குட்டிச்சுவராகி`
+- PDF38 — `மக்கட்பணிக்கும்`, `உறை விடமாயிருந்த`, `சில்லறைச் சிவஞானங்களாலும்`, `சின்னதுகளாலும்`, `பர்மிட்டு`
+- PDF39 — `அன்புகொண்டோரே`, `சிறப்பற்றுச் சீரழிவதைவிட`, `நல்லெண்ணத்தோடு`, `அசதியடைகிறது`
+- PDF40 — `கண்றாவியாக` (historical `றா` identity source-checked), `பிழைக்கமுடியாத`, `அலறியலறிக் குலைத்து`
+
+Historical-glyph gate: **PASS for PDF36–40** — all 13 mandatory families checked page-by-page; **0 unresolved / 0 modernization / 0 global replacement**.
 
 Cross-page controls:
 
-- 31→32 — `ஏறக் / குறைய ஐந்து வருடங்களாக...`
-- 32→33 — `பிரித்து எடுத்துப் / பரிசோதனைக்குக் கொண்டு போனார்.`
-- 34→35 — `திராவகத்தில் போட்டுப் / பத்திரப்படுத்தி விட்டு...`
-- 35→36 — clean paragraph boundary; PDF36 begins `நிலைமை, ஆட்சியின் அலங்கோலம்...`
+- 36→37 — clean paragraph boundary
+- 37→38 — clean paragraph boundary
+- 38→39 — clean paragraph boundary
+- 39→40 — clean paragraph boundary
+- 40→41 — deferred to next batch; PDF40 ends `...இறக்கும்படி செய்வது மேல்.`
 
-Cumulative speech T1: **30/76 processed; 30/30 first-pass verified; 0 unresolved processed-body readings**.
+Cumulative speech T1: **35/76 processed; 35/35 first-pass verified; 0 unresolved processed-body readings**.
 
 ## Exact next activity
 
-Tamil T1 — **PDF36–40 only**.
+Tamil T1 — **PDF41–45 only**.
 
-Continue the fixed **5-physical-PDF-page cadence** and stop after PDF40.
+Continue the fixed **5-physical-PDF-page cadence** and stop after PDF45.
