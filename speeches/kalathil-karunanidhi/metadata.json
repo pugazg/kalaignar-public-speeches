@@ -86,7 +86,9 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "default 5 physical PDF pages per iteration; user explicitly authorized processing remaining PDF71–81 together",
-    "next_gate": "Finalize canonical Tamil T1 PDF71–81 from completed source review"
+    "next_gate": "Finalize and commit canonical Tamil T1 PDF71–81 from completed source review",
+    "handoff_status": "ready-for-next-chat",
+    "handoff_date": "2026-09-21"
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -130,7 +132,14 @@
           "pdf": 81,
           "text": "திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !"
         }
-      ]
+      ],
+      "working_character_review": {
+        "status": "in-progress-noncanonical",
+        "progressed_through_pdf": 78,
+        "pdf79_81_visually_inspected": true,
+        "canonical_pages_committed": 0,
+        "note": "Working review only; no PDF71–81 text is canonical until committed."
+      }
     },
     "user_adjudications": [
       {
