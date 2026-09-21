@@ -66,27 +66,16 @@ Tamil T1 — **COMPLETE — 16/16 source pages**.
 
 Do not reopen Tamil merely for stylistic polishing.
 
-## English E1 state
+## English workflow history
 
-- frozen Tamil pages translated — **16/16**
-- translation file — `translation-en.md`
+- E1 — **COMPLETE — 16/16**
+- E2 — **COMPLETE — 16/16; 4 corrections / 0 unresolved**
+- all E2 corrections consolidated — **Yes**
 - page provenance — PDF26–41 retained
 - external English source used — **No**
 - PDF41 editorial closing line — separate from speech body
-- E1 — **COMPLETE**
-- E2 — **READY / NOT STARTED**
-- English verified-complete — **Yes**
 
-## English E2 final state
-
-- pages reviewed — **16/16**
-- joins reviewed — **15/15**
-- corrections — **4**
-- unresolved — **0**
-- corrections consolidated — **Yes**
-- review ledger — `translation-review.md`
-- E3 — **READY / NOT STARTED**
-- English verified-complete — **No**
+The earlier E1/E2 gating states are superseded by the final E3 state below.
 
 ## English E3 final state
 
