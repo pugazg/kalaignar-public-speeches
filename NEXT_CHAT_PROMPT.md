@@ -22,8 +22,8 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 ## Canonical state
 
 - Tamil T1 committed — **PDF6–70 / 65 of 76**
-- processed pages verified — **64/65**
-- processed-body unresolved — **1** (PDF60 ownership-stamp-obscured span)
+- processed pages verified — **65/65**
+- processed-body unresolved — **0**
 - PDF4 front matter — **needs-review / 2 physical-loss spans / guessed reconstruction 0**
 - T2/T3 — blocked
 - English — blocked
@@ -42,12 +42,14 @@ Established controls:
 - PDF77→78 — `வாடி / யும்` → `வாடியும்`
 - PDF78→79 — sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
 
-Source-condition holds:
+User-adjudicated obscured readings — **RESOLVED**:
 
-- PDF76 — `KAMARAJ NEWS MART` ownership stamp overlaps upper text
-- PDF81 — terminal physical surface loss plus ownership-stamp overlap affects lower closing text
-- hidden/lost characters must remain explicitly source-obscured
+- PDF60 / printed 59 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
+- PDF76 / printed 75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 / printed 80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+- provenance — exact readings supplied by user on 2026-09-21
 - guessed reconstruction — **0**
+- PDF4 front matter still has **2 unresolved physical-loss spans**
 
 ## Historical-glyph rule
 
@@ -59,4 +61,4 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 **Finalize and commit canonical Tamil T1 PDF71–81 together** from the completed source review.
 
-Do not silently reconstruct PDF76 or PDF81 hidden text. After committing the canonical pages, update all archive/root controls. If all 11 pages are committed, T1 coverage becomes **76/76 processed**; verified/needs-review counts must reflect the actual page outcomes rather than being assumed.
+Use the user-adjudicated PDF76/PDF81 readings exactly when those passages are reached. After committing the canonical pages, update all archive/root controls. If all 11 pages are committed, T1 coverage becomes **76/76 processed**; verified/needs-review counts must reflect the actual page outcomes rather than being assumed.
