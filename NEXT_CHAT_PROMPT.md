@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF16–20
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF21–25
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,9 +26,10 @@ The earlier `kalaignar-essays` classification is superseded.
 
 - PDF1–5 front matter recorded
 - PDF4 — **needs-review**, 2 physical-loss spans, guessed reconstruction 0
-- Tamil T1 — **PDF6–15 / 10 of 76**
-- processed speech pages verified — **10/10**
+- Tamil T1 — **PDF6–20 / 15 of 76**
+- processed speech pages verified — **15/15**
 - processed body unresolved — **0**
+- latest batch PDF16–20 — **5/5 VERIFIED**
 - T2/T3 — blocked
 - English — blocked
 
@@ -44,6 +45,6 @@ Check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / �
 
 ## Exact next activity
 
-Tamil T1 — **PDF16–20 only**.
+Tamil T1 — **PDF21–25 only**.
 
-Update archive/root controls and stop after PDF20.
+Preserve physical page boundaries and all source-specific wording. Update archive/root controls and stop after PDF25.

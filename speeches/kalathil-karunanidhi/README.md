@@ -46,8 +46,8 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 - front matter recorded — **5/5**
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4)
-- speech T1 — **PDF6–15 / 10 of 76**
-- processed speech pages verified — **10/10**
+- speech T1 — **PDF6–20 / 15 of 76**
+- processed speech pages verified — **15/15**
 - unresolved processed speech-body readings — **0**
 - T2 — blocked pending complete T1
 - T3 — blocked
@@ -57,6 +57,29 @@ PDF4 contains **2 physically lost text spans**. They remain unresolved rather th
 
 **5 physical PDF pages per user iteration.**
 
+## Latest T1 batch — PDF16–20
+
+**COMPLETE / PASS — 5/5 VERIFIED**
+
+Source-sensitive readings retained include:
+
+- PDF16 — `அம்மாவாவேண்டும்`
+- PDF17 — `அவளின்மகன்`, `சுவையான காட்சியென்று`
+- PDF18 — `கற்புக் காரிகள்`, `அறுவறுக்கத் தக்க`
+- PDF19 — `சத் (!!) பணி`, `வாழவழியில்லை`, `திடீரென்று`
+- PDF20 — `நல் விருந்தாகக்`, `பசியாறப்புசி`
+
+Cross-page controls:
+
+- 17→18 — `புணர்ச்சியில் / படுத்தினர்—கேவலம்.`
+- 18→19 — `தாயை / யும் இணைத்துக் கொண்டிருக்கும்...`
+- 19→20 — `பக்குவ / மாக வெந்த பிணத்தின்...`
+- 20→21 — `ஏதும் / இல்லை—பிணத்தைத் தின்னும்...`
+
+Cumulative speech T1: **15/76 processed; 15/15 first-pass verified; 0 unresolved processed-body readings**.
+
 ## Exact next activity
 
-Tamil T1 — **PDF16–20 only**.
+Tamil T1 — **PDF21–25 only**.
+
+Continue the fixed **5-physical-PDF-page cadence** and stop after PDF25.

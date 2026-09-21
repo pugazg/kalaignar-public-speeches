@@ -31,9 +31,9 @@
 
 ## Tamil T1
 
-- speech pages processed — **10/76**
-- range — **PDF6–15**
-- processed pages verified — **10/10**
+- speech pages processed — **15/76**
+- range — **PDF6–20**
+- processed pages verified — **15/15**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
@@ -44,4 +44,32 @@
 
 ## Exact next activity
 
-Tamil T1 — **PDF16–20**.
+Tamil T1 — **PDF21–25**.
+
+
+## Tamil T1 batch — PDF16–20
+
+**PASS — 5/5 VERIFIED**
+
+- PDF16 / printed 15 — verified
+- PDF17 / printed 16 — verified
+- PDF18 / printed 17 — verified
+- PDF19 / printed 18 — verified
+- PDF20 / printed 19 — verified
+- guessed readings — **0**
+- unresolved processed-body readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Source-sensitive forms retained include `அம்மாவாவேண்டும்`, `அவளின்மகன்`, `கற்புக் காரிகள்`, `அறுவறுக்கத் தக்க`, `சத் (!!) பணி`, `வாழவழியில்லை`, `நல் விருந்தாகக்`, and `பசியாறப்புசி`.
+
+Cross-page joins:
+
+- PDF17→18 — `புணர்ச்சியில் / படுத்தினர்—கேவலம்.`
+- PDF18→19 — `தாயை / யும் இணைத்துக் கொண்டிருக்கும்...`
+- PDF19→20 — `பக்குவ / மாக வெந்த பிணத்தின்...`
+- PDF20→21 — `ஏதும் / இல்லை—பிணத்தைத் தின்னும்...`
+
+Cumulative T1: **15/76**.
+
+Exact next range: **PDF21–25**.
