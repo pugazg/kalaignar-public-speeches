@@ -1212,6 +1212,21 @@ iv
 
 தியாகப்பட்டியலில் தேவையா, இன்னும்?
 
+## Pending final-range source review — PDF71–81
+
+The remaining physical scans **PDF71–81 / printed pp.70–80** have been rendered and manually inspected at high resolution in preparation for canonical transcription. **No PDF71–81 body text is yet promoted into the canonical T1 transcription below this note.**
+
+Completed source-review findings:
+
+- PDF70→71 — PDF70 ends `தியாகப்பட்டியலில் தேவையா, இன்னும்?`; PDF71 opens a new source paragraph on `நாரணமங்கலத்திலே, 144 தடையுத்தரவு!`
+- PDF74→75 — cross-page word join established: `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF76→77 — sentence continues across the physical boundary: `...என்று / எண்ணம், பகுத்தறிவு...`
+- PDF77→78 — cross-page word join established: `வாடி / யும்` → `வாடியும்`
+- PDF78→79 — sentence continues across the physical boundary: `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF76 — `KAMARAJ NEWS MART` ownership stamp overlaps part of the upper text; any genuinely hidden characters must remain source-obscured, with guessed reconstruction **0**
+- PDF81 — terminal supplied scan has physical surface loss plus ownership-stamp overlap affecting lower closing text; hidden/lost characters must remain explicitly source-obscured, with guessed reconstruction **0**
+- source review of all remaining 11 scans is complete; final character-level canonical transcription and page-level verification remain pending
+
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
@@ -1222,8 +1237,8 @@ iv
 - front matter verified — **4**
 - front matter needs-review — **1** (PDF4; two physical-loss spans)
 - guessed readings — **0**
-- fixed cadence — **5 physical PDF pages per user iteration**
-- exact next speech-body range — **PDF71–75**
+- cadence — **default 5 pages; user explicitly authorized processing the remaining PDF71–81 together**
+- exact next speech-body range — **PDF71–81 finalization from completed source review**
 
 Cross-page controls:
 
