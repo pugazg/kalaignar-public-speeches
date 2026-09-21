@@ -24,9 +24,9 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 - front matter — **5/5 recorded**
 - PDF4 — **needs-review**, 2 physical-loss spans
-- Tamil T1 — **PDF6–55 / 50 of 76**
-- processed speech pages verified — **50/50**
-- unresolved processed speech-body readings — **0**
+- Tamil T1 — **PDF6–60 / 55 of 76**
+- processed speech pages verified — **54/55**
+- unresolved processed speech-body readings — **1** (PDF60 ownership-stamp-obscured span)
 - T2/T3 — blocked
 - English — blocked
 
@@ -36,25 +36,25 @@ The prior essays classification is superseded. Source work through PDF15 was mig
 
 ## Latest completed range
 
-PDF **51–55 — 5/5 VERIFIED**.
+PDF **56–60 — 4 VERIFIED / 1 NEEDS-REVIEW**.
 
 Cumulative:
 
-- speech T1 — **50/76**
-- processed pages verified — **50/50**
-- processed-body unresolved — **0**
+- speech T1 — **55/76**
+- processed pages verified — **54/55**
+- processed-body unresolved — **1** (PDF60; source-obscured)
 - front-matter PDF4 remains **needs-review** for 2 physical-loss spans
 - T2/T3 — blocked pending complete T1
 - English — blocked
-- historical-glyph PDF51–55 — **PASS / all 13 mandatory families checked / 0 unresolved**
-- representative checks — PDF52 `ஒன்றாக` (`றா`), PDF54 `அன்றாட` (`றா`), PDF55 `எங்களை` (`ளை`)
-- PDF50→51 — clean paragraph boundary
-- PDF51→52 — sentence continues `...சேர்த்து, மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
-- PDF52→53 — sentence/list continues `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`
-- PDF55→56 — boundary check deferred to next batch; PDF55 ends `...வாய்ப்புத் தந்தோம்.`
+- historical-glyph PDF56–60 — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
+- PDF60 source hold — first printed line has one span physically obscured by the KAMARAJ NEWS MART ownership stamp; marker `⟦மூலத்தில் முத்திரையால் மறைவு⟧`; guessed reconstruction 0
+- PDF55→56 — clean paragraph boundary
+- PDF58→59 — semantic continuation; no split word
+- PDF59→60 — `அடக்கு / முறைக்கு` cross-page continuation; following PDF60 span is stamp-obscured
+- PDF60→61 — boundary check deferred to next batch; PDF60 ends `...தியாகிகள் தானா?`
 
 ## Exact next activity
 
-Tamil T1 — **PDF56–60 only**.
+Tamil T1 — **PDF61–65 only**.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF60.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page and stop after PDF65.
