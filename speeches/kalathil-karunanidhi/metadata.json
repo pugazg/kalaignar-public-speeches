@@ -47,7 +47,7 @@
     },
     "binary_committed": false,
     "historical_tamil_typeforms": true,
-    "terminal_note": "PDF81 / printed p.80 is the final supplied scan; bottom source condition requires later completeness/fidelity assessment."
+    "terminal_note": "PDF81 / printed p.80 is the terminal supplied scan; the damaged/stamped closing passage is resolved by user adjudication and T1 ends canonically with வணக்கம் !"
   },
   "source_front_matter": {
     "pages_recorded": 5,
@@ -73,22 +73,22 @@
     "source_inspection": "complete",
     "duplicate_check": "pass-no-existing-dedicated-archive",
     "source_boundary_mapping": "complete",
-    "tamil_transcription": "in-progress",
+    "tamil_transcription": "complete",
     "speech_pages_total": 76,
-    "speech_pages_drafted": 72,
-    "speech_pages_verified_first_pass": 72,
-    "tamil_visual_audit": "blocked-pending-t1-completion",
-    "tamil_consolidation": "blocked",
+    "speech_pages_drafted": 76,
+    "speech_pages_verified_first_pass": 76,
+    "tamil_visual_audit": "ready",
+    "tamil_consolidation": "blocked-pending-t2",
     "english_translation": "blocked-pending-tamil-freeze",
     "english_translation_review": "blocked",
     "english_translation_final_verification": "blocked",
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "cadence": "1 physical PDF page per user iteration",
-    "next_gate": "Tamil T1 PDF78 / printed p.77",
-    "handoff_status": "active-single-page-cadence",
-    "handoff_date": "2026-09-21"
+    "cadence": "5 physical PDF pages per user iteration",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF6–10",
+    "handoff_status": "t1-complete-t2-ready",
+    "handoff_date": "2026-09-22"
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -98,22 +98,22 @@
     "tamil_text_changes_during_migration": 0
   },
   "t1": {
-    "status": "in-progress",
-    "speech_pages_processed": 72,
+    "status": "complete",
+    "speech_pages_processed": 76,
     "speech_pages_total": 76,
-    "verified_first_pass": 72,
+    "verified_first_pass": 76,
     "unresolved_processed_body_readings": 0,
-    "latest_range": "PDF77",
-    "latest_range_result": "1/1 verified",
-    "next_range": "PDF78",
+    "latest_range": "PDF78–81",
+    "latest_range_result": "4/4 verified; T1 complete",
+    "next_range": null,
     "needs_review_pages": [],
     "source_obscured_spans": 0,
     "needs_review_reason": null,
     "remaining_range_source_review": {
       "range": "PDF71–81",
       "scans_reviewed": 11,
-      "status": "complete",
-      "canonical_transcription_committed": false,
+      "status": "complete-canonical",
+      "canonical_transcription_committed": true,
       "guessed_reconstruction": 0,
       "boundary_controls": [
         "PDF71→72 clean paragraph boundary",
@@ -138,14 +138,14 @@
         }
       ],
       "working_character_review": {
-        "status": "in-progress-noncanonical",
-        "progressed_through_pdf": 78,
+        "status": "complete-canonical",
+        "progressed_through_pdf": 81,
         "pdf79_81_visually_inspected": true,
-        "canonical_pages_committed": 7,
-        "note": "Working review for PDF78–81 remains noncanonical; PDF71–77 are committed and verified."
+        "canonical_pages_committed": 11,
+        "note": "PDF71–81 are all canonical and first-pass verified."
       },
-      "canonical_pages_committed": 7,
-      "canonical_committed_through_pdf": 77
+      "canonical_pages_committed": 11,
+      "canonical_committed_through_pdf": 81
     },
     "user_adjudications": [
       {
@@ -167,11 +167,17 @@
       {
         "pdf": 81,
         "printed_page": 80,
-        "status": "resolved-passage-canonical-page-pending",
+        "status": "resolved-canonical",
         "provenance": "user-supplied exact reading",
         "date": "2026-09-21",
         "text": "திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !"
       }
     ]
+  },
+  "t2": {
+    "status": "ready",
+    "gate": "visual-textual-fidelity-audit",
+    "next_range": "PDF6–10",
+    "cadence": "5 physical PDF pages per user iteration"
   }
 }

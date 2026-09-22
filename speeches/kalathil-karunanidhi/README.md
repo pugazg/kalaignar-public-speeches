@@ -2,7 +2,7 @@
 
 **Repository classification:** **PUBLIC SPEECHES**  
 **Speaker:** கலைஞர் மு. கருணாநிதி  
-**Status:** **ACTIVE — Tamil T1 IN PROGRESS**
+**Status:** **ACTIVE — Tamil T1 COMPLETE / T2 READY**
 
 ## Classification correction
 
@@ -46,36 +46,42 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
-- speech T1 — **PDF6–77 / 72 of 76**
-- processed speech pages verified — **72/72**
-- unresolved processed speech-body readings — **0**
-- T2 — blocked pending complete T1
-- T3 — blocked
+- speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
+- first-pass verified — **76/76**
+- unresolved speech-body readings — **0**
+- T2 visual/textual fidelity audit — **READY**
+- T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
 
-**One physical PDF page per user iteration.**
+**5 physical PDF pages per user iteration.**
 
-This supersedes the previous three-page cadence.
+The terminal T1 iteration contains four pages because PDF77 was already canonical on live `main`; the five-page cadence carries forward to T2.
 
-## Latest T1 page — PDF77
+## Latest / terminal T1 range — PDF78–81
 
-**COMPLETE / PASS — 1/1 VERIFIED**
+**COMPLETE / PASS — 4/4 VERIFIED / T1 76/76 COMPLETE**
 
-- PDF77 / printed 76 — **VERIFIED**
-- canonical speech T1 — **72/76 processed; 72/72 verified**
-- historical-glyph gate — **PASS / all 13 mandatory families checked / 0 glyph ambiguity**
+- PDF78 / printed 77 — **VERIFIED**
+- PDF79 / printed 78 — **VERIFIED**
+- PDF80 / printed 79 — **VERIFIED**
+- PDF81 / printed 80 — **VERIFIED**
+- canonical speech T1 — **76/76 processed; 76/76 first-pass verified**
+- historical-glyph gate — **PASS / all 13 mandatory families checked page-by-page / 0 glyph ambiguity**
 - guessed readings — **0**
 - unresolved body spans — **0**
 - silent modernization — **0**
 
-Representative source-sensitive readings retained include `போர்மட்டும்`, `மட்டும்போதாது`, `வெட்டி விழாக்களிலே`, `நடக்கத்தூண்டும்`, `பஜகோவிந்தம்`, `தம்மிடந்தான்`, `வாளாயிருக்கின்றனர்`, and `சும்மாகிடக்கின்றனர்`.
+Representative source-sensitive readings retained include `மகாதர்மாஷ்டர்`, `எங்கித்தவிக்கும்`, `சகபேதி`, `ஜார்மன்னனை வீழ்ந்தான்`, `டாக்டர் நடேசன்`, `பகுத்துறையிலே`, `நாத்தழும்பேறி`, `புளுகு`, `வழுவினோமில்லை`, and `படைத்தோரைவே`.
 
 Boundary controls:
 
-- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
 - PDF77→78 — `வாடி / யும்` → `வாடியும்`
+- PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF79→80 — `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
+- PDF80→81 — clean paragraph boundary
+- PDF81 — terminal close `வணக்கம் !`
 
 ## User-adjudicated source readings
 
@@ -89,25 +95,22 @@ On 2026-09-21 the user supplied exact readings for previously obscured/damaged p
 
 These are recorded with provenance **user-supplied exact reading**, not inferred reconstruction. PDF4 and PDF60 are no longer needs-review. Guessed reconstruction remains **0**.
 
-## Remaining-range source review — PDF78–81
+## T1 closure
 
-**SOURCE REVIEW COMPLETE; CANONICAL T1 CONTINUES ONE PAGE AT A TIME**
+**Tamil T1 COMPLETE / PASS — 76/76**
 
 - PDF71–81 source images reviewed — **11/11**
-- canonical final-range pages committed — **7/11**
-- committed through — **PDF77**
-- remaining — **PDF78–81 / 4 pages**
+- PDF71–81 canonical — **11/11**
+- full speech body PDF6–81 canonical — **76/76**
+- first-pass verified — **76/76**
+- unresolved speech-body readings — **0**
 - guessed reconstruction — **0**
 - PDF76 adjudicated passage — **canonical**
-- PDF81 obscured closing passage — **resolved by user adjudication; full-page canonical commit pending**
-
-Established later boundary controls remain unchanged:
-
-- PDF77→78 — `வாடி / யும்` → `வாடியும்`
-- PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF81 adjudicated closing passage — **canonical**
+- terminal close — `வணக்கம் !`
 
 ## Exact next activity
 
-Process **Tamil T1 PDF78 / printed p.77 only**.
+Begin **Tamil T2 visual/textual fidelity audit — PDF6–10 / 5 pages**.
 
-Do not process PDF79 in the same iteration.
+English remains blocked pending Tamil freeze.

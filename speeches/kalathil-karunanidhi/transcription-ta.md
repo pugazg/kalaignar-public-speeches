@@ -1,6 +1,6 @@
 # களத்தில் கருணாநிதி — Tamil transcription
 
-**Status:** T1 **IN PROGRESS — PDF6–77 processed / 72 of 76 speech-body pages; 72/72 processed pages verified**  
+**Status:** T1 **COMPLETE — PDF6–81 processed / 76 of 76 speech-body pages; 76/76 first-pass verified**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -1374,6 +1374,64 @@ iv
 
 ஏன், மக்கள் வாழ்விழந்தும் வாளாயிருக்கின்றனர். ஏன், மக்கள், சுகமிழந்தும் சும்மாகிடக்கின்றனர். ஏன், மக்கள், பெரும்பாலான மக்கள் வாடி
 
+## PDF 78
+
+**Printed page:** 77
+
+யும், வதங்கியும், ஒரு சிலர் மட்டும் போக போக்கியங்களிலே புரண்டுகொண்டு மிருக்கின்றனர். ஏழை எளியவர்க்குத் தானம் வழங்கி, ஆலயங்கள் பல கட்டி, அபிஷேக ஆராதனைகள் செய்து மக்களிடை ‘மகாதர்மாஷ்டர்,’ என்ற பட்டம், புகழ்மாலை சூட்டிக் கொள்கின்றனர்?
+
+மதத்துறையிலே, மார்க்கத்துறையிலே, கல்வி மாற்றம், சமூக சமுதாய அமைப்பு முறையிலே முழு மாற்றல் உண்டாக்கப்பட வேண்டும். மக்கள் ஆத்மார்த்தத் துறையிலே அறிவு பெற்று, ‘வேதன் விட்டவழி, நாதன் இட்ட கட்டளை’ என்று பாரத்தைப்போட்டு வாழ்வுப்பாரத்தைத் தாங்கமுடியாது தாங்கி, எங்கித்தவிக்கும் மனப்பண்பு மாறி, மனவளம் பெற்று, தன்னைத்தான் நம்பி, தன் சிந்தனையில், தன் உழைப்பில், ஊக்கத்தில், திறனில் தன் நம்பிக்கை பெற்று, எய்ப்பவனை, எய்க்கும் முறையை, ஏமாளித்தனத்தின் பாதுகாப்புச் சக்திகளை, முறைகளை, ஏற்பாடுகளை, எல்லாத் துறைகளிலும் புரிந்து, தெரிந்து கொள்ள வேண்டும், ஏமாறா திருக்க; எய்ப்பவன் இல்லாதிருக்க, எய்க்கும் பண்பே உண்டாகாது, உண்டாகும், உண்டாக்கும் தத்துவமே, பாரம்பரையே, பழக்கமோ வழக்கமோ மறைந்தொழிய, மகிழ்ச்சி பொங்க, திருப்தி வாழ்க்கை நடத்திட, பொது உடைமைப் பூங்கா அமைய அமைத்திட, இத்தனையும் விட்டு, ‘தேவகி’ சினிமாப் படத்திலே வரும் வைத்தியனைப்போல்; எந்த நோய்க்கும், ஒரேமருந்து, ‘சகபேதி அல்லவா?’ குருவிக்குப் பால, எதற்கெடுத்தாலும் ‘ரஷ்யா’ மாடலா?
+
+ரஷ்யாவை வாழ்த்துகிறோம்; ‘இன்பபுரி’ என்பதை ஒப்புக்கொள்கிறோம்; அந்த நிலை உண்டாக, உண்டாக்க உருவான திட்டத்துடன் முழு
+
+## PDF 79
+
+**Printed page:** 78
+
+அமைப்பு, இடையிலே உருக்குலையாது, அமைத்திருவதற்கான ஆக்கவேலைகளைச் செய்கிறோம் நாங்கள்
+
+ஒரே இலட்சியத்தையுடைய, வேறு மார்க்க மல்ல, நாங்கள் போவது; உண்மைவழி, உள்ளவழியும் அதுதான்.
+
+இப்படிப்பட்ட நாங்கள், கம்யூனிஸ்டுகளுடன் மோதுகிறோமாம்; கம்யூனிஸத்தையே அடிப்படையாகக் கொண்ட நம்மைப்பார்த்து ‘ஜார்மன்னனை வீழ்ந்தான்; ஹிட்லர், முசோலினி எதிர்த்தனர், தவிடுபொடி, நீங்கள் எம்மாத்திரம்’ என்று பேசுகின்றனர், இந்த நாட்டுக் கம்யூனிஸ்டுக்கட்சியினர்.
+
+மோதவில்லை, நாங்கள்; மோதிக்கொள்வது அவர்கள் தான், என்பதை உணரட்டும் கம்யூனிஸ்டுகள்.
+
+எம்மாத்திரம்? யாருக்கு யார் எம்மாத்திரம்? ஏன் இந்தப் பேச்சு, வம்புச்சண்டை எல்லாம்?
+
+எங்கள் வாழ்வுடன், நாங்கள் விடும் ஒவ்வொரு மூச்சிலும் இரண்டறக் கலந்து, எங்கள் இலட்சியம், இன்பத்திராவிடம்!
+
+எங்கள் இலட்சியத்தை வளர்க்க, கட்டிக்காக்க எத்தனையோ மணிகள், மாணிக்கங்கள் மடிந்தன! டாக்டர் நடேசன், நாயர், தியாகராயர், பனகல், பன்னீர் செல்வம், அழகிரி, உடையார்பாளையம் வேலாயுதம் போன்றோர் மாண்டனர்; மருளவில்லை; மறக்கவுமில்லை, இலட்சியத்தை, நாங்கள்.
+
+எம்மாத்திரம், எதிர்ப்பும், எண்ணங்களும் எங்களுக்கு. எத்தனையோ எதிர்ப்புகள், எண்ணங்கள்,
+
+## PDF 80
+
+**Printed page:** 79
+
+எச்சப் பேச்சுகளைச் சகித்து வந்திருக்கிறோம்; சமாளித்து முன்னேறிக்கொண்டே வருகிறோம்.
+
+புத்தர் தோற்றார்; இராமலிங்கர் தோற்றார்; தாயுமானர் தோற்றார்; பட்டினத்தாரால் முடியவில்லை, இராமலிங்கரும் ஜோதியில் கலந்ததோடு சரி, எவராலும் பகுத்துறையிலே, மாறுதல், அடிப்படை மாற்றல்கள், உருவாக்க முடியவில்லை; நீங்கள் எம்மாத்திரம்? என்று கொக்கரித்தது ஆரியம்? அலறினோமா? அல்லது அயர்ந்துதான் விட்டோமா?
+
+ஆலவாயப்பன், ஆலகால விஷமுண்ட வாயனையும் விடவில்லையே நாங்கள், தசாவதாரனையும், தசரத ராமனையும் கட்டிக்கேட்கத் தவறவில்லையே, நாங்கள், இதுமட்டுமா? வேதம், புராணம், இதிகாசம், பக்திரசப்பாட்டு; கோத்திரம், அந்தாதி, அருள்வாக்கு, எதுவும் எங்கள் பார்வைக்குப் பங்கம் விளைத்திட வில்லையே! பழக்கம், வழக்கம், சாது, சமயம், சன்மார்க்கம், வழிவழிவந்தமுறை, வரப்பிரசாதம் பெற்றதன்மை, மடம், ஆலயம், ஆண்டவன், அவர் பெற்றுள்ள வரலாற்று மகிமை; எதுவும் எங்களை வீழ்த்திடக் காணோமே!
+
+நாத்தழும்பேறி நாத்திகம் பேசினாலும், நாக்கறு பட்டதாகக் கேள்விப்பட்டதுண்டா? புராணத்தைப் புளுகு என்று எழுதியிலும், எங்கள் கரம் பழுத்திருக்காணோமே, இன்னும்! சிவனின் நெற்றிக்கண் எங்களைச் சுட்டெரிக்கவில்லை; திருமாலின் திருச்சக்கரம் எங்கள் திக்குநோக்கி வரக்காணோம்.
+
+தாய், தந்தை—அண்ணன்—தம்பி, உற்றார்—உறவினர்—ஊரார் அத்தனைபேருக்கும் கசப்பான, மனமாற்றத்தைத்தான் நாம் உண்டாக்குகிறோம்.
+
+## PDF 81
+
+**Printed page:** 80
+
+இதற்காக நாங்கள் எதையெதையோ இழந்தோம் கட்டிக் காத்த கொள்கையினின்றும் வழுவினோமில்லை. குடும்பத்திலே கொந்தளிப்பு; மனைவியின் மருட்சிப் பார்வை; வறுமையின் கோரத் தாண்டவம்; ஊராரின் கேலிமொழிகள், சோதனிகளின் சுடுசொற்கள், பழக்க வழக்கத்தின் பாய்ச்சல், சமூகக் கட்டுப்பாடு, இவையேதும் எங்கள், பாதை தவறும்படி செய்துவிட முடியவில்லை.
+
+எதையெதையோ இழந்தோம், தன்மானக் கொள்கையை, இன்பத் திராவிடத்தைக் கட்டிக் காக்க என எங்கள் தந்தை போன்ற பெரியார் இராமசாமியையே கூட இழக்க, ஒதுக்க நாங்கள் தயங்கவில்லையே? பெரியார் கொள்கை தவறியதற்காக, அவரை விட்டு விலக வில்லையா, நாங்கள்.
+
+இப்படிப்பட்ட இலட்சிய வீரர்களுடன், அர்த்த மற்ற காரியங்களுக்காக மோத வேண்டாம்; அது வீண்வேலை; யாருக்கு யார், யார் எம்மாத்திரம், என்ற பல்லவி, பயனற்ற பேச்சு, என்பதை கம்யூனிஸ்டுகள், உணரட்டும்; உணரட்டும்.
+
+இறுதியாக, நான் ஆரம்பத்தில் குறிப்பிட்டபடி, திராவிடத்தின் குரல், அவசியத்தை, அதற்கான காரியங்களைச் செய்யும், பண்பு படைத்தோரைவே நீங்கள் ஆதரிக்கவேண்டும்.
+
+திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !
+
 ### PDF4 front-matter adjudication — 2026-09-21
 
 The user supplied exact readings for the two formerly physically lost spans on PDF4:
@@ -1393,52 +1451,51 @@ The user supplied exact readings for three areas that could not be established f
 
 These adjudications introduce **0 guessed reconstruction**. PDF60 is therefore no longer a speech-body needs-review page. PDF76 is already canonical exactly as user-adjudicated; PDF81 remains pending only because its full canonical page transcription has not yet been committed.
 
-## Remaining final-range source review — PDF78–81
+## Final-range source review — PDF78–81
 
-The remaining physical scans **PDF78–81 / printed pp.77–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **one physical PDF page per user iteration**.
+The final physical scans **PDF78–81 / printed pp.77–80** are now canonical and first-pass verified.
 
 Current canonical state:
 
-- PDF71–77 / printed pp.70–76 — **COMMITTED / VERIFIED**
-- canonical PDF71–81 pages committed — **7/11**
-- remaining canonical pages — **4/11 (PDF78–81)**
-- guessed reconstruction introduced — **0**
+- PDF71–81 / printed pp.70–80 — **11/11 COMMITTED / VERIFIED**
+- speech-body T1 — **PDF6–81 / 76/76 COMPLETE**
+- guessed reconstruction — **0**
 - unresolved committed speech-body readings — **0**
-- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
-- PDF77→78 — cross-page word join: `வாடி / யும்` → `வாடியும்`
 - PDF77→78 — source word split `வாடி / யும்` → assembled `வாடியும்`
-- preserved later control: PDF78→79 sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 user-adjudicated passage remains canonical exactly as supplied
-- PDF81 user-adjudicated closing passage remains authoritative and pending only its full-page canonical commit
+- PDF78→79 — sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF79→80 — sentence/list continues `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
+- PDF80→81 — clean paragraph boundary
+- PDF81 user-adjudicated closing passage — **CANONICAL / exact supplied reading**
+- terminal spoken close — `வணக்கம் !`
 
-## Continuation checkpoint — 2026-09-21
+## Continuation checkpoint — 2026-09-22
 
-The user changed the active cadence to **one physical PDF page per iteration**.
+The user set the active cadence to **five physical PDF pages per iteration**. Only four T1 pages remained after live `main` had already advanced through PDF77, so this terminal T1 iteration correctly processed **PDF78–81 / 4 pages**. The five-page cadence carries forward to T2.
 
 Durable position after this iteration:
 
-- PDF77 canonical text — **COMMITTED / VERIFIED**
-- canonical T1 — **72/76 processed; 72/72 verified; 0 unresolved**
-- final-range canonical progress — **7/11**
-- next page — **PDF78 / printed p.77**
-- no provisional text for PDF78–81 is canonical until separately committed
-- PDF76 user-adjudicated passage remains canonical
-- PDF81 user-adjudicated closing passage remains authoritative
+- canonical T1 — **76/76 processed; 76/76 first-pass verified; 0 unresolved**
+- final-range canonical progress — **11/11 COMPLETE**
+- PDF81 user-adjudicated closing passage — **CANONICAL / exact supplied reading**
+- Tamil T1 gate — **COMPLETE / PASS**
+- English remains blocked pending Tamil freeze
+- next Tamil gate — **T2 visual/textual fidelity audit, PDF6–10**
 - guessed reconstruction — **0**
 
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
-- speech-body pages processed — **72/76** (PDF6–77)
-- processed speech pages verified — **72/72**
-- unresolved speech-body readings in processed range — **0**
+- speech-body pages processed — **76/76**
+- processed speech pages first-pass verified — **76/76**
+- unresolved speech-body readings — **0**
 - source front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
 - unresolved front-matter physical-loss spans — **0**
 - guessed readings — **0**
-- cadence — **1 physical PDF page per user iteration**
-- exact next speech-body page — **PDF78 / printed p.77**
+- Tamil T1 — **COMPLETE / PASS**
+- cadence — **5 physical PDF pages per user iteration**
+- exact next Tamil gate — **T2 visual/textual fidelity audit PDF6–10**
 
 Cross-page controls:
 
@@ -1505,4 +1562,8 @@ Cross-page controls:
 - PDF75→76 — clean paragraph boundary; PDF76 begins with the user-adjudicated `புரட்சிப் போர் முரசு...`
 - PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
 
-T2 remains blocked until T1 covers all PDF6–81.
+- PDF78→79 — sentence continues across the physical boundary: `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF79→80 — sentence/list continues `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
+- PDF80→81 — clean paragraph boundary; PDF81 begins `இதற்காக நாங்கள்...`
+
+T1 now covers all PDF6–81. T2 is **READY**.

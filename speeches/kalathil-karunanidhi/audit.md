@@ -31,20 +31,24 @@
 
 ## Tamil T1
 
-- speech pages processed — **65/76**
-- range — **PDF6–70**
-- processed pages verified — **65/65**
+- speech pages processed — **76/76**
+- range — **PDF6–81**
+- processed pages first-pass verified — **76/76**
 - unresolved processed body readings — **0**
 - silent modernization — **0**
 - historical-glyph unresolved — **0**
+- status — **COMPLETE / PASS**
 
 ## Cadence
 
 **5 physical PDF pages per user iteration.**
 
+The terminal T1 iteration contains four pages because live `main` already contained PDF77 and only PDF78–81 remained. The five-page cadence carries forward to T2.
+
 ## Exact next activity
 
-Tamil T1 — **finalize PDF71–81 canonical transcription**.
+Tamil T2 visual/textual fidelity audit — **PDF6–10**.
+
 
 
 ## Tamil T1 batch — PDF16–20
@@ -614,3 +618,43 @@ Boundary controls:
 Cadence is now **one physical PDF page per user iteration**.
 
 Exact next activity: **Tamil T1 PDF78 / printed p.77**.
+
+
+## Tamil T1 terminal batch — PDF78–81
+
+**PASS — 4/4 VERIFIED / T1 COMPLETE**
+
+Only four T1 pages remained after live `main` had already advanced through PDF77; the user's five-page cadence therefore carries forward to the next Tamil gate.
+
+- PDF78 / printed 77 — **verified**
+- PDF79 / printed 78 — **verified**
+- PDF80 / printed 79 — **verified**
+- PDF81 / printed 80 — **verified**
+- cumulative canonical T1 — **76/76**
+- cumulative first-pass verified — **76/76**
+- unresolved processed-body readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied page-by-page against enlarged source pixels. All 13 mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked on every page. Representative checks include PDF78 `மாறி` (`றா`) and `எய்ப்பவனை` (`னை`), PDF79 `ஜார்மன்னனை` (`னை`) and `மருளவில்லை` (`லை`), PDF80 `மாற்றல்கள்` (`றா`), and PDF81 `மனைவியின்` (`னை`) / `வீண்வேலை` (`லை`). No glyph-driven ambiguity remains.
+
+Source-sensitive forms retained include PDF78 `புரண்டுகொண்டு மிருக்கின்றனர்`, `மகாதர்மாஷ்டர்`, `மாற்றல்`, `எங்கித்தவிக்கும்`, `ஏமாறா திருக்க`, `சகபேதி`; PDF79 `அமைத்திருவதற்கான`, `மார்க்க மல்ல`, `ஜார்மன்னனை வீழ்ந்தான்`, `டாக்டர் நடேசன்`, `மருளவில்லை`; PDF80 `பகுத்துறையிலே`, `கட்டிக்கேட்கத்`, `நாத்தழும்பேறி`, `நாக்கறு`, `புளுகு`, `பழுத்திருக்காணோமே`; and PDF81 `வழுவினோமில்லை`, `அர்த்த மற்ற`, `படைத்தோரைவே`.
+
+PDF81's stamp/damage-obscured closing passage is committed **exactly from the user's authoritative adjudication**:
+
+`திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+
+Provenance — **user-supplied exact reading, 2026-09-21**. Guessed reconstruction — **0**.
+
+Boundary controls:
+
+- PDF77→78 — `வாடி / யும்` → assembled `வாடியும்`.
+- PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`.
+- PDF79→80 — `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`.
+- PDF80→81 — clean paragraph boundary.
+- PDF81 — terminal close established as `வணக்கம் !`.
+
+Tamil T1 is **COMPLETE / PASS — 76/76**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit PDF6–10**.
