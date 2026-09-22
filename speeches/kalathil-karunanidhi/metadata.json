@@ -77,7 +77,7 @@
     "speech_pages_total": 76,
     "speech_pages_drafted": 76,
     "speech_pages_verified_first_pass": 76,
-    "tamil_visual_audit": "ready",
+    "tamil_visual_audit": "in-progress",
     "tamil_consolidation": "blocked-pending-t2",
     "english_translation": "blocked-pending-tamil-freeze",
     "english_translation_review": "blocked",
@@ -85,9 +85,9 @@
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF6–10",
-    "handoff_status": "t1-complete-t2-ready",
+    "cadence": "1 physical PDF page per user iteration",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF7",
+    "handoff_status": "t2-in-progress-single-page-cadence",
     "handoff_date": "2026-09-22"
   },
   "migration": {
@@ -175,9 +175,24 @@
     ]
   },
   "t2": {
-    "status": "ready",
+    "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "next_range": "PDF6–10",
-    "cadence": "5 physical PDF pages per user iteration"
+    "pages_audited": 1,
+    "pages_total": 76,
+    "latest_range": "PDF6",
+    "latest_range_result": "1/1 audited; 1 correction; 0 unresolved",
+    "corrections_total": 1,
+    "unresolved": 0,
+    "next_range": "PDF7",
+    "cadence": "1 physical PDF page per user iteration",
+    "corrections": [
+      {
+        "pdf": 6,
+        "earlier": "ஜேம்ஸ் போடு",
+        "source_supported": "ஜேம்ஸ் போண்டு",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      }
+    ]
   }
 }

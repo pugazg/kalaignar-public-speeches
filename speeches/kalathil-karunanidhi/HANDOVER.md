@@ -22,39 +22,41 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
-- first-pass verified — **76/76**
-- unresolved speech-body readings — **0**
+- T1 first-pass verified — **76/76**
+- unresolved T1 speech-body readings — **0**
 - guessed reconstruction — **0**
-- final-range PDF71–81 — **11/11 canonical / verified**
-- PDF81 terminal close — **canonical; ends `வணக்கம் !`**
-- T2 visual/textual fidelity audit — **READY**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6 / 1 of 76**
+- T2 corrections — **1**
+- T2 unresolved — **0**
 - T3 consolidation — blocked pending T2
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
 
-**5 physical PDF pages per user iteration.**
+**One physical PDF page per user iteration.**
 
-The terminal T1 iteration processed PDF78–81 / four pages because live `main` already contained PDF77 and no fifth T1 page remained.
+This is the user's latest explicit cadence and supersedes the inherited five-page T2 cadence.
 
-## Latest completed range
+## Latest T2 page
 
-PDF **78–81 / printed 77–80 — 4/4 VERIFIED**.
+PDF **6 — T2 VERIFIED**.
+
+One source-supported correction was applied:
+
+- `ஜேம்ஸ் போடு` → **`ஜேம்ஸ் போண்டு`**
+- evidence — enlarged controlling-source pixels
+- guessed reconstruction — **0**
 
 Historical-glyph gate:
 
-- all 13 mandatory families checked page-by-page against enlarged source pixels
-- representative checks — PDF78 `மாறி` / `எய்ப்பவனை`; PDF79 `ஜார்மன்னனை` / `மருளவில்லை`; PDF80 `மாற்றல்கள்`; PDF81 `மனைவியின்` / `வீண்வேலை`
+- all 13 mandatory families checked directly against source pixels
+- representative checks — `தலைவர்` (`லை`), `வண்ணாரப்பேட்டை` (`ணா`), `பிரிவினையை` (`னை`)
 - unresolved glyph ambiguity — **0**
 - silent modernization — **0**
 
-Boundary controls:
+Boundary control:
 
-- PDF77→78 — `வாடி / யும்` → `வாடியும்`
-- PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF79→80 — `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
-- PDF80→81 — clean paragraph boundary
-- PDF81 — terminal close `வணக்கம் !`
+- PDF6→7 — `ஆத / ரித்து,`
 
 ## User adjudications — authoritative
 
@@ -70,6 +72,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Begin **Tamil T2 visual/textual fidelity audit — PDF6–10 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF7 only**.
 
-Compare the existing canonical T1 text directly against the controlling source pixels. Record only source-supported corrections; do not modernize, normalize, or use OCR as authority. Keep English blocked.
+Compare the existing canonical PDF7 directly with source pixels, check all 13 historical-glyph families, record only source-proven corrections, and do not process PDF8 in the same iteration. English remains blocked.

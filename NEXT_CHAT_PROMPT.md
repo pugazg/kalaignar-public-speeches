@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF6–10
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF7
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -24,20 +24,37 @@ Refetch live `main` before editing.
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
 - T1 first-pass verified — **76/76**
-- unresolved speech-body readings — **0**
-- guessed reconstruction — **0**
-- final range PDF71–81 — **11/11 canonical / verified**
-- T2 visual/textual fidelity audit — **READY**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6 / 1 of 76**
+- T2 corrections — **1**
+- T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 
 ## Cadence — authoritative
 
-**Process 5 physical PDF pages per user iteration.**
+**Process exactly one physical PDF page per user iteration.**
+
+Do not process the following page in the same iteration.
+
+## Latest T2 page
+
+PDF6 — **T2 VERIFIED**.
+
+Source-supported correction:
+
+- `ஜேம்ஸ் போடு` → **`ஜேம்ஸ் போண்டு`**
+- evidence — direct enlarged source pixels
+- guessed reconstruction — **0**
+
+Boundary:
+
+- PDF6→7 — `ஆத / ரித்து,`
+
+Historical-glyph gate for PDF6 — **PASS / all 13 families checked / 0 ambiguity**.
 
 ## User adjudications — authoritative
 
-Use exactly; do not reopen or reinterpret:
+Use exactly; do not reopen:
 
 - PDF4 — `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
 - PDF4 — `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
@@ -49,7 +66,7 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Historical-glyph rule
 
-On every T2 page consciously check all 13 families:
+On PDF7 consciously check all 13 families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -57,8 +74,6 @@ Source pixels control. No OCR authority, global replacement, modernization, lexi
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF6–10 / 5 physical pages.**
+**Tamil T2 visual/textual fidelity audit — PDF7 only.**
 
-Compare each existing canonical T1 page directly against the controlling source pixels. Record every source-supported correction in `audit.md` and update canonical text only where the source proves a correction. Keep page boundaries and historical-glyph identities explicit.
-
-Do not start English. After PDF6–10, synchronize the control documents and advance T2 to PDF11–15.
+Compare the existing canonical PDF7 directly against the controlling source pixels. Record every source-supported correction in `audit.md` and update canonical text only where the source proves a correction. Preserve the incoming `ஆத / ரித்து,` boundary. Do not process PDF8 in this iteration. Keep English blocked.

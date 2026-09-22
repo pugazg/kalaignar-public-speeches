@@ -658,3 +658,36 @@ Boundary controls:
 Tamil T1 is **COMPLETE / PASS — 76/76**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit PDF6–10**.
+
+
+## Tamil T2 single-page fidelity audit — PDF6
+
+**PASS — 1/1 AUDITED / 1 SOURCE-SUPPORTED CORRECTION**
+
+- PDF6 / speech opening page — **T2 VERIFIED**
+- T2 coverage — **1/76**
+- source-supported corrections in this page — **1**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+The existing canonical PDF6 text was compared line-by-line against enlarged source pixels. All 13 mandatory historical-glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked. Representative page evidence includes `தலைவர்` (`லை`), `வண்ணாரப்பேட்டை` (`ணா`), and `பிரிவினையை` (`னை`). No glyph-driven ambiguity remains.
+
+Source-supported correction:
+
+- T1 reading — `ஜேம்ஸ் போடு`
+- T2 source reading — `ஜேம்ஸ் போண்டு`
+- evidence — direct enlarged source-pixel comparison; the `ண்டு` cluster is visibly present and matches the same-edition cluster form
+- correction type — ordinary transcription fidelity correction, not lexical normalization
+- guessed reconstruction — **0**
+
+All other PDF6 wording and punctuation were retained as source-supported, including `இக் கூட்டமானது`, `ஜீவதாரப் பிரச்சினையான`, `மூலதாரப் பிரச்சினையை`, `அதிகாரபூர்வமான`, `வடசென்னை வண்ணாரப்பேட்டை`, `ஆல்பர்ட் ஜேசுதாஸ்`, `ஸ்ரீ பெரும்புதூர்`, and `பார்லிமெண்டுக்கு`.
+
+Boundary control:
+
+- PDF6→7 — physical split `ஆத / ரித்து,` remains positively established.
+
+The user-authoritative cadence is now **one physical PDF page per iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF7 only**.

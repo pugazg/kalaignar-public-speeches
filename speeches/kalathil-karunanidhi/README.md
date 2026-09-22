@@ -2,7 +2,7 @@
 
 **Repository classification:** **PUBLIC SPEECHES**  
 **Speaker:** கலைஞர் மு. கருணாநிதி  
-**Status:** **ACTIVE — Tamil T1 COMPLETE / T2 READY**
+**Status:** **ACTIVE — Tamil T1 COMPLETE / T2 IN PROGRESS**
 
 ## Classification correction
 
@@ -49,15 +49,17 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **READY**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6 / 1 of 76**
+- T2 source-supported corrections — **1**
+- T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
 
-**5 physical PDF pages per user iteration.**
+**One physical PDF page per user iteration.**
 
-The terminal T1 iteration contains four pages because PDF77 was already canonical on live `main`; the five-page cadence carries forward to T2.
+This is the user's latest explicit cadence and supersedes the inherited five-page T2 cadence.
 
 ## Latest / terminal T1 range — PDF78–81
 
@@ -109,8 +111,20 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 - PDF81 adjudicated closing passage — **canonical**
 - terminal close — `வணக்கம் !`
 
+## T2 progress
+
+PDF6 has completed the second visual/textual fidelity audit.
+
+- T2 coverage — **1/76**
+- corrections — **1**
+- `ஜேம்ஸ் போடு` → **`ஜேம்ஸ் போண்டு`**
+- evidence — enlarged controlling-source pixels
+- unresolved — **0**
+- guessed reconstruction — **0**
+- PDF6→7 boundary — `ஆத / ரித்து,`
+
 ## Exact next activity
 
-Begin **Tamil T2 visual/textual fidelity audit — PDF6–10 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF7 only**.
 
-English remains blocked pending Tamil freeze.
+Do not process PDF8 in the same iteration. English remains blocked pending Tamil freeze.
