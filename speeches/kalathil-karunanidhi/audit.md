@@ -857,3 +857,68 @@ Protocol strengthened from this point forward:
 4. when a source form already matches T1, retain it unchanged.
 
 Next T2 range remains **PDF17–21 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF17–21
+
+**PASS — 5/5 AUDITED / 4 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF17 / printed 16 — **T2 VERIFIED / 0 corrections**
+- PDF18 / printed 17 — **T2 VERIFIED / 2 corrections**
+- PDF19 / printed 18 — **T2 VERIFIED / 0 corrections**
+- PDF20 / printed 19 — **T2 VERIFIED / 1 correction**
+- PDF21 / printed 20 — **T2 VERIFIED / 1 correction**
+- cumulative T2 coverage — **16/76**
+- cumulative valid T2 corrections — **14**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. In addition to the mandatory 13 historical-glyph families, ordinary vowel signs and consonant-vowel clusters were explicitly checked before accepting any change.
+
+Representative historical-glyph checks include PDF17 `சேலையற்ற` (`லை`) / `அவனைப்` (`னை`); PDF18 `நினைத்தும்` (`னை`); PDF19 `பிண்ணாக்கு` (`ணா`) / `விலைகூறி` (`லை`); PDF20 `பிண்ணாக்கு` (`ணா`); PDF21 `நினைக்கும்` / `அவனைப்` (`னை`). No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+1. **PDF18**
+   - T1 — `ஓட்டுக் கேட்பது முறையா?`
+   - T2 source — `ஓட்டுக்கேட்பது முறையா?`
+   - evidence — enlarged source line shows the compound continuously with no word break
+   - type — source-spacing fidelity correction
+
+2. **PDF18**
+   - T1 — `என்றுகட்டுக் கதைகள் புளுகுகளை`
+   - T2 source — `என்றுகட்டுக் கதைப் புளுகுகளை`
+   - evidence — enlarged source clearly prints singular `கதைப்` with final `ப்`
+   - type — character/wording fidelity correction
+
+3. **PDF20**
+   - T1 — `நல் விருந்தாகக் கொண்டிருந்தது`
+   - T2 source — `நல் விருந்தாகிக் கொண்டிருந்தது`
+   - evidence — source line-break resolves as `விருந்தாகி / க் கொண்டிருந்தது`
+   - type — ordinary vowel-sign / character fidelity correction
+
+4. **PDF21**
+   - T1 — `பிணத்தையும் தின்றேன் பைத்தியக்காரன் என்றனர்`
+   - T2 source — `பிணத்தையும் தின்றான் பைத்தியக்காரன் என்றனர்`
+   - evidence — enlarged source clearly prints `தின்றான்`
+   - type — ordinary vowel-sign / character fidelity correction
+
+PDF17 and PDF19 required **0 changes**.
+
+Source-sensitive forms retained exactly include PDF17 `அவளின்மகன்`, `அரும் புதல்வன்`; PDF18 `அறுவறுக்கத் தக்க`, `மட்டரகச்`; PDF19 `சத் (!!)`, `கத்தாழைச்`, `வாட்டிகள்`; PDF20 `பசியாறப்புசி`; and PDF21 `தாக்கத்திற்குச்`, `மாறுக இடையே`, `பைத்தியக் காரனேதான்`.
+
+Boundary controls:
+
+- PDF16→17 — clean paragraph boundary; PDF17 begins `மகன்—மகனுக்கு நேராக, நேருக்கு நேராக...`
+- PDF17→18 — sentence continues `...பலாத்காரமாகப் புணர்ச்சியில் / படுத்தினர்—கேவலம்.`
+- PDF18→19 — split continuation `மகனையும் தாயை / யும் இணைத்துக் கொண்டிருக்கும்...`
+- PDF19→20 — split word `பக்குவ / மாக` → `பக்குவமாக`
+- PDF20→21 — sentence continues `...தந்தனரா? ஏதும் / இல்லை—பிணத்தைத் தின்னும்...`
+- PDF21→22 — clean paragraph boundary; PDF22 begins `நாட்டிலே உணவுப் பஞ்சம்...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF22–26 / 5 pages**.

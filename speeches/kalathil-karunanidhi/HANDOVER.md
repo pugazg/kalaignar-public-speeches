@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
-- cumulative valid T2 corrections — **10**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–21 / 16 of 76**
+- cumulative valid T2 corrections — **14**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,36 +37,38 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **12–16 — 5/5 T2 VERIFIED**.
+PDF **17–21 — 5/5 T2 VERIFIED**.
 
-Valid source-supported corrections — **3**:
+New valid source-supported corrections — **4**:
 
-- PDF12 — `கேட்கும்` → `கேட்டும்`
-- PDF13 — `நிலமையாவது` → `நிலையாவது`
-- PDF16 — `பாய்வோடு` → `பரிவோடு`
+- PDF18 — `ஓட்டுக் கேட்பது` → `ஓட்டுக்கேட்பது`
+- PDF18 — `என்றுகட்டுக் கதைகள் புளுகுகளை` → `என்றுகட்டுக் கதைப் புளுகுகளை`
+- PDF20 — `விருந்தாகக் கொண்டிருந்தது` → `விருந்தாகிக் கொண்டிருந்தது`
+- PDF21 — `பிணத்தையும் தின்றேன்` → `பிணத்தையும் தின்றான்`
 
-Retracted after direct high-resolution source recheck:
+PDF17 and PDF19 — **0 corrections**.
 
-- PDF12 — retain source `பரிதவிக்கவிட்ட` (the attempted `பரதவிக்கவிட்ட` change was wrong)
-- PDF13 — retain source `பரிதவித்து` (the attempted `பரதவித்து` change was wrong)
+The earlier PDF12/PDF13 retractions remain in force:
 
-PDF14 and PDF15 — **0 corrections**.
+- retain `பரிதவிக்கவிட்ட`
+- retain `பரிதவித்து`
 
-Historical-glyph gate:
+Verification safeguard:
 
-- all 13 mandatory families checked page-by-page against enlarged source pixels
-- unresolved glyph ambiguity — **0**
+- all 13 historical-glyph families checked page-by-page
+- every ordinary vowel sign and consonant-vowel cluster also checked line-by-line
+- no correction accepted without positive source-pixel evidence
+- unresolved glyph/character ambiguity — **0**
 - silent modernization — **0**
-- strengthened rule — the 13-family historical-glyph check is only a minimum; every ordinary vowel mark and character cluster must also be verified line-by-line
 
 Boundary controls:
 
-- PDF11→12 — `...கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
-- PDF12→13 — clean paragraph boundary
-- PDF13→14 — clean paragraph boundary
-- PDF14→15 — `...என்று உருட்டி / மிரட்டிப் பேசிப் பார்த்தனர்.`
-- PDF15→16 — `...இதயபாரம் தோன்றித் / தன் அன்னையை...`
-- PDF16→17 — clean; PDF17 begins `மகன்—மகனுக்கு நோக, நேருக்கு நோக...`
+- PDF16→17 — clean; PDF17 begins `மகன்—மகனுக்கு நேராக, நேருக்கு நேராக...`
+- PDF17→18 — `...புணர்ச்சியில் / படுத்தினர்—கேவலம்.`
+- PDF18→19 — `மகனையும் தாயை / யும் இணைத்துக் கொண்டிருக்கும்...`
+- PDF19→20 — `பக்குவ / மாக` → `பக்குவமாக`
+- PDF20→21 — `...தந்தனரா? ஏதும் / இல்லை—பிணத்தைத் தின்னும்...`
+- PDF21→22 — clean; PDF22 begins `நாட்டிலே உணவுப் பஞ்சம்...`
 
 ## User adjudications — authoritative
 
@@ -82,6 +84,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF22–26 / 5 physical pages**.
 
-Compare each existing canonical page directly against source pixels, check all 13 historical-glyph families per page, record only source-proven corrections, and keep English blocked.
+Compare each existing canonical page directly against source pixels, including ordinary vowel signs/clusters and source spacing; record only source-proven corrections. English remains blocked.

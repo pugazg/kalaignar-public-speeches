@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF17–21",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF22–26",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-22"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 11,
+    "pages_audited": 16,
     "pages_total": 76,
-    "latest_range": "PDF12–16",
-    "latest_range_result": "5/5 audited; 3 valid corrections; 2 retracted after source recheck; 0 unresolved",
-    "corrections_total": 10,
+    "latest_range": "PDF17–21",
+    "latest_range_result": "5/5 audited; 4 new valid corrections; 0 unresolved",
+    "corrections_total": 14,
     "unresolved": 0,
-    "next_range": "PDF17–21",
+    "next_range": "PDF22–26",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -255,6 +255,34 @@
         "source_supported": "உடனே பரிவோடு கேட்டனர்.",
         "evidence": "direct enlarged source-pixel comparison",
         "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 18,
+        "earlier": "ஓட்டுக் கேட்பது முறையா?",
+        "source_supported": "ஓட்டுக்கேட்பது முறையா?",
+        "evidence": "direct enlarged source-pixel comparison; no word break",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 18,
+        "earlier": "என்றுகட்டுக் கதைகள் புளுகுகளை",
+        "source_supported": "என்றுகட்டுக் கதைப் புளுகுகளை",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 20,
+        "earlier": "நல் விருந்தாகக் கொண்டிருந்தது",
+        "source_supported": "நல் விருந்தாகிக் கொண்டிருந்தது",
+        "evidence": "direct enlarged source-pixel comparison across source line break",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 21,
+        "earlier": "பிணத்தையும் தின்றேன் பைத்தியக்காரன் என்றனர்",
+        "source_supported": "பிணத்தையும் தின்றான் பைத்தியக்காரன் என்றனர்",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
       }
     ],
     "retractions": [
@@ -273,6 +301,6 @@
         "date": "2026-09-22"
       }
     ],
-    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs and consonant-vowel clusters."
+    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs, consonant-vowel clusters, source spacing, and cross-line/page joins."
   }
 }

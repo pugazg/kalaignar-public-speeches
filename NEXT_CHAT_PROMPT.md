@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF17–21
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF22–26
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,13 +18,10 @@ Refetch live `main` before editing.
 
 - classification — **PUBLIC SPEECHES**
 - source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
-- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
-- physical scans — **81**
-- front matter — **PDF1–5 / 5/5 VERIFIED**
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
-- T2 corrections — **10 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–21 / 16 of 76**
+- T2 valid corrections — **14 cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -36,47 +33,38 @@ Refetch live `main` before editing.
 
 ## Latest T2 range
 
-PDF12–16 — **5/5 T2 VERIFIED / 3 valid corrections / 2 retracted after source recheck / 0 unresolved**.
+PDF17–21 — **5/5 T2 VERIFIED / 4 new valid corrections / 0 unresolved**.
 
-Latest corrections:
+Corrections:
 
-- PDF12 — `கேட்கும்` → `கேட்டும்`
-- PDF13 — `நிலமையாவது` → `நிலையாவது`
-- PDF16 — `பாய்வோடு` → `பரிவோடு`
+- PDF18 — `ஓட்டுக் கேட்பது` → `ஓட்டுக்கேட்பது`
+- PDF18 — `என்றுகட்டுக் கதைகள் புளுகுகளை` → `என்றுகட்டுக் கதைப் புளுகுகளை`
+- PDF20 — `நல் விருந்தாகக் கொண்டிருந்தது` → `நல் விருந்தாகிக் கொண்டிருந்தது`
+- PDF21 — `பிணத்தையும் தின்றேன்` → `பிணத்தையும் தின்றான்`
 
-Retracted after direct source recheck:
+PDF17 and PDF19 required **0 corrections**.
 
-- PDF12 — retain `பரிதவிக்கவிட்ட`; do **not** change it to `பரதவிக்கவிட்ட`
-- PDF13 — retain `பரிதவித்து`; do **not** change it to `பரதவித்து`
+Retraction safeguards remain active:
 
-PDF14 and PDF15 required **0 corrections**.
+- PDF12 — retain `பரிதவிக்கவிட்ட`
+- PDF13 — retain `பரிதவித்து`
 
 Boundary into next range:
 
-- PDF16→17 — clean paragraph boundary; PDF17 begins `மகன்—மகனுக்கு நோக, நேருக்கு நோக...`
+- PDF21→22 — clean paragraph boundary; PDF22 begins `நாட்டிலே உணவுப் பஞ்சம்...`
 
-## User adjudications — authoritative
+## Verification rule
 
-Use exactly; do not reopen:
+On every T2 page:
 
-- PDF4 — `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
-- PDF4 — `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
-- PDF60 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
-- PDF76 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
-- PDF81 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
-
-Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction: **0**.
-
-## Historical-glyph rule
-
-On every T2 page consciously check all 13 families:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Source pixels control. No OCR authority, global replacement, modernization, lexical normalization or contextual guessing. The 13-family check is only a minimum control: verify every ordinary vowel mark and consonant-vowel cluster line-by-line before accepting any correction.
+- check all 13 historical-glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- also verify every ordinary vowel sign and consonant-vowel cluster line-by-line;
+- preserve source spacing and punctuation where visible;
+- no OCR authority, modernization, normalization, or contextual guessing;
+- accept a correction only when the source pixels positively prove it.
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 physical pages.**
+**Tamil T2 visual/textual fidelity audit — PDF22–26 / 5 physical pages.**
 
-Compare each existing canonical page directly against controlling source pixels. Record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where the source proves a correction. Keep English blocked.
+Compare each canonical page directly with source pixels, record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where positively supported. Keep English blocked.
