@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–21 / 16 of 76**
-- cumulative valid T2 corrections — **14**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–26 / 21 of 76**
+- cumulative valid T2 corrections — **18**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,16 +37,16 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **17–21 — 5/5 T2 VERIFIED**.
+PDF **22–26 — 5/5 T2 VERIFIED**.
 
 New valid source-supported corrections — **4**:
 
-- PDF18 — `ஓட்டுக் கேட்பது` → `ஓட்டுக்கேட்பது`
-- PDF18 — `என்றுகட்டுக் கதைகள் புளுகுகளை` → `என்றுகட்டுக் கதைப் புளுகுகளை`
-- PDF20 — `விருந்தாகக் கொண்டிருந்தது` → `விருந்தாகிக் கொண்டிருந்தது`
-- PDF21 — `பிணத்தையும் தின்றேன்` → `பிணத்தையும் தின்றான்`
+- PDF24 — `யொட்டிச் செலவிடப்பட்டு வருகிறது.` → `யொட்டிச் செலவிடப் பட்டு வருகிறது,`
+- PDF25 — `என் உள்ளம்` → `எம் உள்ளம்`
+- PDF25 — source line split `இலாகாவின் / ரிடம்` → assembled `இலாகாவினரிடம்`
+- PDF26 — `மக்கள், காண,` → `மக்கள் காண,`
 
-PDF17 and PDF19 — **0 corrections**.
+PDF22 and PDF23 — **0 corrections**.
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -56,19 +56,20 @@ The earlier PDF12/PDF13 retractions remain in force:
 Verification safeguard:
 
 - all 13 historical-glyph families checked page-by-page
-- every ordinary vowel sign and consonant-vowel cluster also checked line-by-line
+- every ordinary vowel sign and consonant-vowel cluster checked line-by-line
+- source spaces, punctuation, and physical line/page joins checked explicitly
 - no correction accepted without positive source-pixel evidence
 - unresolved glyph/character ambiguity — **0**
 - silent modernization — **0**
 
 Boundary controls:
 
-- PDF16→17 — clean; PDF17 begins `மகன்—மகனுக்கு நேராக, நேருக்கு நேராக...`
-- PDF17→18 — `...புணர்ச்சியில் / படுத்தினர்—கேவலம்.`
-- PDF18→19 — `மகனையும் தாயை / யும் இணைத்துக் கொண்டிருக்கும்...`
-- PDF19→20 — `பக்குவ / மாக` → `பக்குவமாக`
-- PDF20→21 — `...தந்தனரா? ஏதும் / இல்லை—பிணத்தைத் தின்னும்...`
-- PDF21→22 — clean; PDF22 begins `நாட்டிலே உணவுப் பஞ்சம்...`
+- PDF21→22 — clean paragraph boundary
+- PDF22→23 — `உற்பத்தி பெரு / கில்` → `உற்பத்தி பெருகில்`
+- PDF23→24 — clean paragraph boundary
+- PDF24→25 — `அப்போது கூறுகிறார்கள், / இந்த இடத்தில்தான்...`
+- PDF25→26 — `...வீண் விளம்பரச் செலவுகள், / நாட்டுக்குப் பயன் தரும் வகையில்...`
+- PDF26→27 — `அதற் / காகவே` → `அதற்காகவே`
 
 ## User adjudications — authoritative
 
@@ -84,6 +85,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF22–26 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF27–31 / 5 physical pages**.
 
-Compare each existing canonical page directly against source pixels, including ordinary vowel signs/clusters and source spacing; record only source-proven corrections. English remains blocked.
+Compare each existing canonical page directly against source pixels, including ordinary vowel signs/clusters, source spacing, punctuation, and physical joins; record only source-proven corrections. English remains blocked.

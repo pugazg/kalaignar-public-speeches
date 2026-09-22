@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–21 / 16 of 76**
-- T2 source-supported corrections — **14 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–26 / 21 of 76**
+- T2 source-supported corrections — **18 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -114,20 +114,20 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–21 have completed the second visual/textual fidelity audit.
+PDF6–26 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **16/76**
-- cumulative valid corrections — **14**
+- T2 coverage — **21/76**
+- cumulative valid corrections — **18**
 - retracted changes — **2**
-- latest PDF17–21 batch — **5/5 audited / 4 new valid corrections**
+- latest PDF22–26 batch — **5/5 audited / 4 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
 - latest corrections:
-  - PDF18 `ஓட்டுக் கேட்பது` → `ஓட்டுக்கேட்பது`
-  - PDF18 `கதைகள் புளுகுகளை` → `கதைப் புளுகுகளை`
-  - PDF20 `விருந்தாகக்` → `விருந்தாகிக்`
-  - PDF21 `தின்றேன்` → `தின்றான்`
-- PDF17 / PDF19 — **0 corrections**
+  - PDF24 `செலவிடப்பட்டு வருகிறது.` → `செலவிடப் பட்டு வருகிறது,`
+  - PDF25 `என் உள்ளம்` → `எம் உள்ளம்`
+  - PDF25 `இலாகாவின் / ரிடம்` → `இலாகாவினரிடம்`
+  - PDF26 `மக்கள், காண,` → `மக்கள் காண,`
+- PDF22 / PDF23 — **0 corrections**
 - retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
 
 ## T2 verification safeguard
@@ -136,6 +136,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF22–26 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF27–31 / 5 pages**.
 
 English remains blocked pending Tamil freeze.

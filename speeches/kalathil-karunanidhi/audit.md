@@ -922,3 +922,68 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF22–26 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF22–26
+
+**PASS — 5/5 AUDITED / 4 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF22 / printed 21 — **T2 VERIFIED / 0 corrections**
+- PDF23 / printed 22 — **T2 VERIFIED / 0 corrections**
+- PDF24 / printed 23 — **T2 VERIFIED / 1 correction**
+- PDF25 / printed 24 — **T2 VERIFIED / 2 corrections**
+- PDF26 / printed 25 — **T2 VERIFIED / 1 correction**
+- cumulative T2 coverage — **21/76**
+- cumulative valid T2 corrections — **18**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. The strengthened T2 rule was applied throughout: all 13 mandatory historical-glyph families were consciously checked, and every ordinary vowel sign, consonant-vowel cluster, source-space, punctuation mark, and line/page join was verified before accepting any change.
+
+Representative historical-glyph checks include PDF22 `இலை` (`லை`), PDF23 `இலைகளின்` (`லை`), PDF24 `நிலையை` (`லை`), PDF25 `வீணாக` (`ணா`), and PDF26 `கண்ணாரக்காணத்` (`ணா`). No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+1. **PDF24**
+   - T1 — `யொட்டிச் செலவிடப்பட்டு வருகிறது.`
+   - T2 source — `யொட்டிச் செலவிடப் பட்டு வருகிறது,`
+   - evidence — enlarged source shows an explicit same-line space after `செலவிடப்` and a comma after `வருகிறது`
+   - type — source spacing + punctuation fidelity
+
+2. **PDF25**
+   - T1 — `கண்டு என் உள்ளம் பூரிக்கிறது`
+   - T2 source — `கண்டு எம் உள்ளம் பூரிக்கிறது`
+   - evidence — enlarged source clearly prints `எம்`
+   - type — character-level wording correction
+
+3. **PDF25**
+   - T1 — physical-line transcription left `இலாகாவின் / ரிடம்` as separate whitespace
+   - T2 source-supported assembled reading — `இலாகாவினரிடம்`
+   - evidence — source line break splits one word as `இலாகாவின் / ரிடம்`
+   - type — positive cross-line word join
+
+4. **PDF26**
+   - T1 — `மக்கள், காண,`
+   - T2 source — `மக்கள் காண,`
+   - evidence — enlarged source line has no comma after `மக்கள்`
+   - type — punctuation fidelity
+
+PDF22 and PDF23 required **0 changes**.
+
+Source-sensitive forms retained exactly include PDF22 `காரணந்தான்` / `நீர்புரளும்`; PDF23 `உணவில் வாது` / `வனமகோற்சவம்`; PDF24 `கையொப்ப மிட்டு` / `மறு முறை`; PDF25 `போவானேன்` / `ஊதாரித்தனமாகப்`; and PDF26 `ஒருசெடி` / `கண்ணாரக்காணத்`.
+
+Boundary controls:
+
+- PDF21→22 — clean paragraph boundary
+- PDF22→23 — source word split `உற்பத்தி பெரு / கில்` → assembled `உற்பத்தி பெருகில்`
+- PDF23→24 — clean paragraph boundary
+- PDF24→25 — sentence continues `அப்போது கூறுகிறார்கள், / இந்த இடத்தில்தான்...`
+- PDF25→26 — sentence/list continues `...வீண் விளம்பரச் செலவுகள், / நாட்டுக்குப் பயன் தரும் வகையில்...`
+- PDF26→27 — source word split `அதற் / காகவே` → assembled `அதற்காகவே`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF27–31 / 5 pages**.
