@@ -133,7 +133,7 @@ PDF6–31 have completed the second visual/textual fidelity audit.
 
 ## T2 verification safeguard
 
-The 13-family historical-glyph check is a minimum control, not a substitute for full fidelity review. Every T2 page must also be checked character-by-character for ordinary vowel signs and consonant-vowel clusters before any change is accepted.
+The 13-family historical-glyph check is a minimum control, not a substitute for full fidelity review. Every T2 page must also be checked character-by-character for ordinary vowel signs and consonant-vowel clusters, plus source spacing, punctuation, punctuation spacing, and physical line/page joins before any change is accepted.
 
 ## Exact next activity
 
