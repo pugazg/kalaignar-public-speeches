@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–11 / 6 of 76**
-- cumulative T2 corrections — **7**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
+- cumulative T2 corrections — **12**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
 - T3 consolidation — blocked pending T2
@@ -34,22 +34,19 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 **5 physical PDF pages per user iteration.**
 
-This supersedes the previous one-page T2 cadence.
-
 ## Latest T2 range
 
-PDF **7–11 — 5/5 T2 VERIFIED**.
+PDF **12–16 — 5/5 T2 VERIFIED**.
 
-New source-supported corrections — **6**:
+New source-supported corrections — **5**:
 
-- PDF7 — `என்பனவற்றையெல்லாம்` → `என்பன வற்றையெல்லாம்`
-- PDF8 — `செய்த கொடுமைகள் நாடு நன்கு அறியும்.` → `செய்த கொடுமைகளை நாடு நன்கு அறியும்.`
-- PDF9 — `காவற்கைதிகளாக` → `காவற் கைதிகளாக`
-- PDF11 — `என்னையே அறியாது` → `என் என்னை அறியாது`
-- PDF11 — `பசி—ஜார் மன்னனின் ஆட்சிப்படைத்த பசி.` → `பசி—ஜார் மன்னனே, ஆட்டிப்படைத்த பசி.`
-- PDF11 — `பசி—பிரெஞ்சு மன்னன் இராயியைப்...` → `பசி—பிரெஞ்சு மன்னன் லூயியைப்...`
+- PDF12 — `கேட்கும்` → `கேட்டும்`
+- PDF12 — `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
+- PDF13 — `பரிதவித்து` → `பரதவித்து`
+- PDF13 — `நிலமையாவது` → `நிலையாவது`
+- PDF16 — `பாய்வோடு` → `பரிவோடு`
 
-PDF10 — **0 corrections**.
+PDF14 and PDF15 — **0 corrections**.
 
 Historical-glyph gate:
 
@@ -59,12 +56,12 @@ Historical-glyph gate:
 
 Boundary controls:
 
-- PDF6→7 — `ஆத / ரித்து,`
-- PDF7→8 — `கழகத்தின் / முடிவை,`
-- PDF8→9 — clean paragraph boundary
-- PDF9→10 — `...கொலு வீற்றிருக்கும் / காங்கிரஸார் செய்தவையே.`
-- PDF10→11 — `மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`
-- PDF11→12 — `...தாய் தந்தையர்களைக் கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
+- PDF11→12 — `...கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
+- PDF12→13 — clean paragraph boundary
+- PDF13→14 — clean paragraph boundary
+- PDF14→15 — `...என்று உருட்டி / மிரட்டிப் பேசிப் பார்த்தனர்.`
+- PDF15→16 — `...இதயபாரம் தோன்றித் / தன் அன்னையை...`
+- PDF16→17 — clean; PDF17 begins `மகன்—மகனுக்கு நோக, நேருக்கு நோக...`
 
 ## User adjudications — authoritative
 
@@ -80,6 +77,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 physical pages**.
 
 Compare each existing canonical page directly against source pixels, check all 13 historical-glyph families per page, record only source-proven corrections, and keep English blocked.

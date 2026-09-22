@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF12–16",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF17–21",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-22"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 6,
+    "pages_audited": 11,
     "pages_total": 76,
-    "latest_range": "PDF7–11",
-    "latest_range_result": "5/5 audited; 6 new corrections; 0 unresolved",
-    "corrections_total": 7,
+    "latest_range": "PDF12–16",
+    "latest_range_result": "5/5 audited; 5 new corrections; 0 unresolved",
+    "corrections_total": 12,
     "unresolved": 0,
-    "next_range": "PDF12–16",
+    "next_range": "PDF17–21",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -232,6 +232,41 @@
         "pdf": 11,
         "earlier": "பசி—பிரெஞ்சு மன்னன் இராயியைப் படாத பாடுபடுத்திய பசி",
         "source_supported": "பசி—பிரெஞ்சு மன்னன் லூயியைப் படாத பாடுபடுத்திய பசி",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 12,
+        "earlier": "கேட்கும் “ஏன் இந்தக் கொடுமை?",
+        "source_supported": "கேட்டும் “ஏன் இந்தக் கொடுமை?",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 12,
+        "earlier": "பசியால் பரிதவிக்கவிட்ட",
+        "source_supported": "பசியால் பரதவிக்கவிட்ட",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 13,
+        "earlier": "பட்டினியால் பரிதவித்து",
+        "source_supported": "பட்டினியால் பரதவித்து",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 13,
+        "earlier": "நிலமையாவது",
+        "source_supported": "நிலையாவது",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 16,
+        "earlier": "உடனே பாய்வோடு கேட்டனர்.",
+        "source_supported": "உடனே பரிவோடு கேட்டனர்.",
         "evidence": "direct enlarged source-pixel comparison",
         "guessed_reconstruction": 0
       }

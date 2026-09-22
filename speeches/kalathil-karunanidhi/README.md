@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–11 / 6 of 76**
-- T2 source-supported corrections — **7 cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
+- T2 source-supported corrections — **12 cumulative**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
@@ -113,23 +113,23 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–11 have completed the second visual/textual fidelity audit.
+PDF6–16 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **6/76**
-- cumulative corrections — **7**
-- latest PDF7–11 batch — **5/5 audited / 6 new corrections**
+- T2 coverage — **11/76**
+- cumulative corrections — **12**
+- latest PDF12–16 batch — **5/5 audited / 5 new corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- latest corrections include:
-  - PDF7 `என்பனவற்றையெல்லாம்` → `என்பன வற்றையெல்லாம்`
-  - PDF8 `கொடுமைகள்` → `கொடுமைகளை`
-  - PDF9 `காவற்கைதிகளாக` → `காவற் கைதிகளாக`
-  - PDF11 `என்னையே` → `என் என்னை`
-  - PDF11 `ஜார் மன்னனின் ஆட்சிப்படைத்த` → `ஜார் மன்னனே, ஆட்டிப்படைத்த`
-  - PDF11 `இராயியைப்` → `லூயியைப்`
+- latest corrections:
+  - PDF12 `கேட்கும்` → `கேட்டும்`
+  - PDF12 `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
+  - PDF13 `பரிதவித்து` → `பரதவித்து`
+  - PDF13 `நிலமையாவது` → `நிலையாவது`
+  - PDF16 `பாய்வோடு` → `பரிவோடு`
+- PDF14 / PDF15 — **0 corrections**
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 pages**.
 
 English remains blocked pending Tamil freeze.

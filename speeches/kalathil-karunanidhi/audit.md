@@ -763,3 +763,71 @@ Boundary controls:
 The latest user-authoritative cadence is **5 physical PDF pages per iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF12–16
+
+**PASS — 5/5 AUDITED / 5 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF12 / printed 11 — **T2 VERIFIED / 2 corrections**
+- PDF13 / printed 12 — **T2 VERIFIED / 2 corrections**
+- PDF14 / printed 13 — **T2 VERIFIED / 0 corrections**
+- PDF15 / printed 14 — **T2 VERIFIED / 0 corrections**
+- PDF16 / printed 15 — **T2 VERIFIED / 1 correction**
+- cumulative T2 coverage — **11/76**
+- cumulative T2 corrections — **12**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was compared line-by-line against enlarged controlling-source pixels. On every page all 13 mandatory historical-glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked. Representative source occurrences include PDF12 `மண்ணைப்` (`ணை`) and `வயிற்றெரிச்சலைக்` (`லை`); PDF13 `கண்ணோட்டம்` (`ணோ`) and `நிலையாவது` (`லை`); PDF14 `தலைமைப்` / `சிறைச்சாலை` (`லை`); PDF15 `நன்றாக` (`றா`) and `வேண்டுமானாலும்` (`னா`); PDF16 `அவனைப்` (`னை`). No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+1. **PDF12**
+   - T1 — `கேட்கும் “ஏன் இந்தக் கொடுமை?...`
+   - T2 source — `கேட்டும் “ஏன் இந்தக் கொடுமை?...`
+   - evidence — enlarged source opening line clearly prints `கேட்டும்`
+   - type — character-level transcription correction
+
+2. **PDF12**
+   - T1 — `நம்மையெல்லாம் பசியால் பரிதவிக்கவிட்ட ஆளவந்தாருக்கு`
+   - T2 source — `நம்மையெல்லாம் பசியால் பரதவிக்கவிட்ட ஆளவந்தாருக்கு`
+   - evidence — enlarged source line clearly lacks the inserted `ி`
+   - type — source-spelling fidelity correction
+
+3. **PDF13**
+   - T1 — `திண்டுக்கல்லில் மக்கள் பட்டினியால் பரிதவித்து`
+   - T2 source — `திண்டுக்கல்லில் மக்கள் பட்டினியால் பரதவித்து`
+   - evidence — enlarged source pixels clearly print `பரதவித்து`
+   - type — source-spelling fidelity correction
+
+4. **PDF13**
+   - T1 — `தேங்கித்தவிக்கும் நிலமையாவது எண்ணிப் பார்த்ததுண்டா?`
+   - T2 source — `தேங்கித்தவிக்கும் நிலையாவது எண்ணிப் பார்த்ததுண்டா?`
+   - evidence — enlarged source line clearly prints `நிலையாவது`
+   - type — character-level transcription correction
+
+5. **PDF16**
+   - T1 — `கூடியிருந்த அதிகாரிகள் உடனே பாய்வோடு கேட்டனர்.`
+   - T2 source — `கூடியிருந்த அதிகாரிகள் உடனே பரிவோடு கேட்டனர்.`
+   - evidence — enlarged source pixels clearly print `பரிவோடு`
+   - type — character-level transcription correction
+
+PDF14 and PDF15 required **0 changes**; their existing canonical text matched the inspected source for the audited pages.
+
+Source-sensitive forms retained without normalization include PDF12 `மாற்றி யமைக்க`, `மாட்டுப்பெட்டி`; PDF13 `ஏது மின்றி`, `ஆறுபேர்`, `கால்கடுக்க`; PDF14 `பக்தவத் சலனார்`, `தலைமைப் பொழிவு`, `நம்சிந்தனையிலே`; PDF15 `நாஉலர்ந்து`, `குடாகச்`, `காவற்கைதிக்கு`; and PDF16 `அம்மாவாவேண்டும்`, `வீட்டேடி`, `அவனைப் பெற்றதாய்`.
+
+Boundary controls:
+
+- PDF11→12 — sentence continues `...தாய் தந்தையர்களைக் கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
+- PDF12→13 — clean paragraph boundary
+- PDF13→14 — clean paragraph boundary
+- PDF14→15 — sentence continues `...என்று உருட்டி / மிரட்டிப் பேசிப் பார்த்தனர்.`
+- PDF15→16 — sentence continues `...இதயபாரம் தோன்றித் / தன் அன்னையை...`
+- PDF16→17 — clean paragraph boundary; PDF17 begins `மகன்—மகனுக்கு நோக, நேருக்கு நோக...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 pages**.

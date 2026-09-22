@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF12–16
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF17–21
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,8 +23,8 @@ Refetch live `main` before editing.
 - front matter — **PDF1–5 / 5/5 VERIFIED**
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–11 / 6 of 76**
-- T2 corrections — **7 cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
+- T2 corrections — **12 cumulative**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
@@ -35,22 +35,21 @@ Refetch live `main` before editing.
 
 ## Latest T2 range
 
-PDF7–11 — **5/5 T2 VERIFIED / 6 new corrections / 0 unresolved**.
-
-Cumulative T2 corrections: **7**, including the earlier PDF6 `ஜேம்ஸ் போடு` → `ஜேம்ஸ் போண்டு`.
+PDF12–16 — **5/5 T2 VERIFIED / 5 new corrections / 0 unresolved**.
 
 Latest corrections:
 
-- PDF7 — `என்பனவற்றையெல்லாம்` → `என்பன வற்றையெல்லாம்`
-- PDF8 — `செய்த கொடுமைகள் நாடு நன்கு அறியும்.` → `செய்த கொடுமைகளை நாடு நன்கு அறியும்.`
-- PDF9 — `காவற்கைதிகளாக` → `காவற் கைதிகளாக`
-- PDF11 — `என்னையே அறியாது` → `என் என்னை அறியாது`
-- PDF11 — `பசி—ஜார் மன்னனின் ஆட்சிப்படைத்த பசி.` → `பசி—ஜார் மன்னனே, ஆட்டிப்படைத்த பசி.`
-- PDF11 — `பிரெஞ்சு மன்னன் இராயியைப்` → `பிரெஞ்சு மன்னன் லூயியைப்`
+- PDF12 — `கேட்கும்` → `கேட்டும்`
+- PDF12 — `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
+- PDF13 — `பரிதவித்து` → `பரதவித்து`
+- PDF13 — `நிலமையாவது` → `நிலையாவது`
+- PDF16 — `பாய்வோடு` → `பரிவோடு`
+
+PDF14 and PDF15 required **0 corrections**.
 
 Boundary into next range:
 
-- PDF11→12 — `...தாய் தந்தையர்களைக் கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
+- PDF16→17 — clean paragraph boundary; PDF17 begins `மகன்—மகனுக்கு நோக, நேருக்கு நோக...`
 
 ## User adjudications — authoritative
 
@@ -74,6 +73,6 @@ Source pixels control. No OCR authority, global replacement, modernization, lexi
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 physical pages.**
+**Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 physical pages.**
 
 Compare each existing canonical page directly against controlling source pixels. Record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where the source proves a correction. Keep English blocked.
