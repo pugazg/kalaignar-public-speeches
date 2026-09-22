@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF27–31",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF32–36",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-22"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 21,
+    "pages_audited": 26,
     "pages_total": 76,
-    "latest_range": "PDF22–26",
-    "latest_range_result": "5/5 audited; 4 new valid corrections; 0 unresolved",
-    "corrections_total": 18,
+    "latest_range": "PDF27–31",
+    "latest_range_result": "5/5 audited; 14 new valid corrections; 0 unresolved",
+    "corrections_total": 32,
     "unresolved": 0,
-    "next_range": "PDF27–31",
+    "next_range": "PDF32–36",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -311,6 +311,104 @@
         "source_supported": "மக்கள் காண,",
         "evidence": "direct enlarged source-pixel comparison; no comma after மக்கள்",
         "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 27,
+        "earlier": "காகவே நடைபெறும் செடியை",
+        "source_supported": "காகவே நடப்படும் செடியை",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 27,
+        "earlier": "என்ன விபரீத புத்தி?",
+        "source_supported": "என்ன விபரீத புத்தி ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 27,
+        "earlier": "நாம் மறந்திட முடியுமா?",
+        "source_supported": "நாம் மறந்திட முடியுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 27,
+        "earlier": "வேறெங்காவது காணமுடியுமா?",
+        "source_supported": "வேறெங்காவது காணமுடியுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 28,
+        "earlier": "ஒரு ஆங்கில ஏடே ஒரு கற்பனைக் கதை",
+        "source_supported": "ஒரு ஆங்கில ஏடே, ஒரு கற்பனைக் கதை",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 28,
+        "earlier": "மூளையைத் தனியே எடுத்து அதைப் பரிசோதித்தார்.",
+        "source_supported": "மூளையைத் தனியே எடுத்து அதனைப் பரிசோதித்தார்.",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 29,
+        "earlier": "என்ன செய்வது?",
+        "source_supported": "என்ன செய்வது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 30,
+        "earlier": "என்ன செய்வது?",
+        "source_supported": "என்ன செய்வது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 31,
+        "earlier": "மூளையற்ற மனிதனால்?",
+        "source_supported": "மூளையற்ற மனிதனால் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 31,
+        "earlier": "அப்படியே ஆச்சரியப்பட்டு நின்று விட்டார்.",
+        "source_supported": "அப்படியே ஆச்சரியப் பட்டு நின்று விட்டார்.",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 31,
+        "earlier": "டாக்டரைத் திக்கு முக்காடச் செய்தவன்?",
+        "source_supported": "டாக்டரைத் திக்கு முக்காடச் செய்தவன் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 31,
+        "earlier": "திக்பிரமையடையச் செய்தவன்?",
+        "source_supported": "திக்பிரமையடையச் செய்தவன் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 31,
+        "earlier": "மூளையை விட்டுவிட்டுச் சென்ற மனிதன்தான்.",
+        "source_supported": "மூளையை விட்டுவிட்டுச் சென்ற, மனிதன்தான்.",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 31,
+        "earlier": "மூளையே இன்றி இருந்த மனிதன்தான்?",
+        "source_supported": "மூளையே இன்றி இருந்த மனிதன்தான் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
       }
     ],
     "retractions": [
@@ -329,6 +427,6 @@
         "date": "2026-09-22"
       }
     ],
-    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, and cross-line/page joins."
+    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation and punctuation spacing, and cross-line/page joins."
   }
 }

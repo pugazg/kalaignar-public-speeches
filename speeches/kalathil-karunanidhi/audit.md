@@ -987,3 +987,128 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF27–31 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF27–31
+
+**PASS — 5/5 AUDITED / 14 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF27 / printed 26 — **T2 VERIFIED / 4 corrections**
+- PDF28 / printed 27 — **T2 VERIFIED / 2 corrections**
+- PDF29 / printed 28 — **T2 VERIFIED / 1 correction**
+- PDF30 / printed 29 — **T2 VERIFIED / 1 correction**
+- PDF31 / printed 30 — **T2 VERIFIED / 6 corrections**
+- cumulative T2 coverage — **26/76**
+- cumulative valid T2 corrections — **32**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. The strengthened T2 safeguard was applied throughout: all 13 mandatory historical-glyph families were consciously checked, and ordinary vowel signs, consonant-vowel clusters, source spaces, punctuation spacing, and physical line/page joins were verified before any change was accepted.
+
+Representative historical-glyph checks include PDF27 `நிலையை` (`லை`), PDF28 `தலையை` (`லை`) / `மூளையை` (`ளை`), PDF29 `மூளையை` (`ளை`), PDF30 `மனிதனை` (`னை`) / `மூளையை` (`ளை`), and PDF31 `வேலைதருவர்` (`லை`) / `அவனை` (`னை`). No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+1. **PDF27**
+   - T1 — `காகவே நடைபெறும் செடியை`
+   - T2 source — `காகவே நடப்படும் செடியை`
+   - evidence — enlarged source pixels clearly print `நடப்படும்`
+   - type — character/wording fidelity correction
+
+2. **PDF27**
+   - T1 — `என்ன விபரீத புத்தி?`
+   - T2 source — `என்ன விபரீத புத்தி ?`
+   - evidence — source has an explicit space before the question mark
+   - type — punctuation-spacing fidelity
+
+3. **PDF27**
+   - T1 — `நாம் மறந்திட முடியுமா?`
+   - T2 source — `நாம் மறந்திட முடியுமா ?`
+   - evidence — source has an explicit space before the question mark
+   - type — punctuation-spacing fidelity
+
+4. **PDF27**
+   - T1 — `வேறெங்காவது காணமுடியுமா?`
+   - T2 source — `வேறெங்காவது காணமுடியுமா ?`
+   - evidence — source has an explicit space before the question mark
+   - type — punctuation-spacing fidelity
+
+5. **PDF28**
+   - T1 — `ஒரு ஆங்கில ஏடே ஒரு கற்பனைக் கதை`
+   - T2 source — `ஒரு ஆங்கில ஏடே, ஒரு கற்பனைக் கதை`
+   - evidence — enlarged source clearly prints the comma after `ஏடே`
+   - type — punctuation fidelity
+
+6. **PDF28**
+   - T1 — `மூளையைத் தனியே எடுத்து அதைப் பரிசோதித்தார்.`
+   - T2 source — `மூளையைத் தனியே எடுத்து அதனைப் பரிசோதித்தார்.`
+   - evidence — enlarged source clearly prints `அதனைப்`
+   - type — character/wording fidelity correction
+
+7. **PDF29**
+   - T1 — `என்ன செய்வது?`
+   - T2 source — `என்ன செய்வது ?`
+   - evidence — explicit source space before the question mark
+   - type — punctuation-spacing fidelity
+
+8. **PDF30**
+   - T1 — `என்ன செய்வது?`
+   - T2 source — `என்ன செய்வது ?`
+   - evidence — explicit source space before the question mark
+   - type — punctuation-spacing fidelity
+
+9. **PDF31**
+   - T1 — `மூளையற்ற மனிதனால்?`
+   - T2 source — `மூளையற்ற மனிதனால் ?`
+   - evidence — explicit source space before the question mark
+   - type — punctuation-spacing fidelity
+
+10. **PDF31**
+    - T1 — `அப்படியே ஆச்சரியப்பட்டு நின்று விட்டார்.`
+    - T2 source — `அப்படியே ஆச்சரியப் பட்டு நின்று விட்டார்.`
+    - evidence — enlarged source shows a clear word space after `ஆச்சரியப்`
+    - type — source-spacing fidelity
+
+11. **PDF31**
+    - T1 — `டாக்டரைத் திக்கு முக்காடச் செய்தவன்?`
+    - T2 source — `டாக்டரைத் திக்கு முக்காடச் செய்தவன் ?`
+    - evidence — explicit source space before the question mark
+    - type — punctuation-spacing fidelity
+
+12. **PDF31**
+    - T1 — `திக்பிரமையடையச் செய்தவன்?`
+    - T2 source — `திக்பிரமையடையச் செய்தவன் ?`
+    - evidence — explicit source space before the question mark
+    - type — punctuation-spacing fidelity
+
+13. **PDF31**
+    - T1 — `மூளையை விட்டுவிட்டுச் சென்ற மனிதன்தான்.`
+    - T2 source — `மூளையை விட்டுவிட்டுச் சென்ற, மனிதன்தான்.`
+    - evidence — enlarged source clearly prints the comma after `சென்ற`
+    - type — punctuation fidelity
+
+14. **PDF31**
+    - T1 — `மூளையே இன்றி இருந்த மனிதன்தான்?`
+    - T2 source — `மூளையே இன்றி இருந்த மனிதன்தான் ?`
+    - evidence — explicit source space before the question mark
+    - type — punctuation-spacing fidelity
+
+PDF29 and PDF30 otherwise matched the source; their only changes were the positively verified question-mark spacing above.
+
+Source-sensitive forms retained without normalization include PDF27 `முரண பாடான` / `புறம்பானதுமட்டுமல்ல`; PDF28 `நபரைக்காணோம்` / `வியாதியஸ்தர்களின்`; PDF29 `டாக்டரிடம். விட்டுவிட்டு.` / `ஆளைக்காணோம்`; PDF30 `என்னுவது` / `செய்யமுடியும். என்றெல்லாம்`; and PDF31 `மூளா டாக்டர்` / `கேட்டானும்`.
+
+Boundary controls:
+
+- PDF26→27 — source word split `அதற் / காகவே` → assembled `அதற்காகவே`
+- PDF27→28 — sentence continues `...மூடர்களைப் / போலல்லவா, ஆட்சி நடக்கிறது.`
+- PDF28→29 — continuation preserves the source repetition `...அங்கேயே விட்டு / விட்டு, மூளையின்றி...`
+- PDF29→30 — clean paragraph boundary
+- PDF30→31 — sentence continues `...மூளையையே விட்டு விட்டு / வெளியே நடமாடினால்...`
+- PDF31→32 — source word split `ஏறக் / குறைய` → assembled `ஏறக்குறைய`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF32–36 / 5 pages**.

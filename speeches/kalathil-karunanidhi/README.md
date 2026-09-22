@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–26 / 21 of 76**
-- T2 source-supported corrections — **18 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–31 / 26 of 76**
+- T2 source-supported corrections — **32 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -114,20 +114,21 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–26 have completed the second visual/textual fidelity audit.
+PDF6–31 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **21/76**
-- cumulative valid corrections — **18**
+- T2 coverage — **26/76**
+- cumulative valid corrections — **32**
 - retracted changes — **2**
-- latest PDF22–26 batch — **5/5 audited / 4 new valid corrections**
+- latest PDF27–31 batch — **5/5 audited / 14 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- latest corrections:
-  - PDF24 `செலவிடப்பட்டு வருகிறது.` → `செலவிடப் பட்டு வருகிறது,`
-  - PDF25 `என் உள்ளம்` → `எம் உள்ளம்`
-  - PDF25 `இலாகாவின் / ரிடம்` → `இலாகாவினரிடம்`
-  - PDF26 `மக்கள், காண,` → `மக்கள் காண,`
-- PDF22 / PDF23 — **0 corrections**
+- latest substantive corrections:
+  - PDF27 `நடைபெறும்` → `நடப்படும்`
+  - PDF28 comma restored after `ஏடே`
+  - PDF28 `அதைப்` → `அதனைப்`
+  - PDF31 `ஆச்சரியப்பட்டு` → `ஆச்சரியப் பட்டு`
+  - PDF31 `சென்ற மனிதன்தான்` → `சென்ற, மனிதன்தான்`
+- source question-mark spacing restored where directly visible on PDF27, PDF29, PDF30 and PDF31
 - retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
 
 ## T2 verification safeguard
@@ -136,6 +137,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF27–31 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF32–36 / 5 pages**.
 
 English remains blocked pending Tamil freeze.
