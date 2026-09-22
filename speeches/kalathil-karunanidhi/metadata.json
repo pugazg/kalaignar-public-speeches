@@ -85,9 +85,9 @@
     "repository_closure": "not-started",
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
-    "cadence": "1 physical PDF page per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF7",
-    "handoff_status": "t2-in-progress-single-page-cadence",
+    "cadence": "5 physical PDF pages per user iteration",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF12–16",
+    "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-22"
   },
   "migration": {
@@ -177,19 +177,61 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 1,
+    "pages_audited": 6,
     "pages_total": 76,
-    "latest_range": "PDF6",
-    "latest_range_result": "1/1 audited; 1 correction; 0 unresolved",
-    "corrections_total": 1,
+    "latest_range": "PDF7–11",
+    "latest_range_result": "5/5 audited; 6 new corrections; 0 unresolved",
+    "corrections_total": 7,
     "unresolved": 0,
-    "next_range": "PDF7",
-    "cadence": "1 physical PDF page per user iteration",
+    "next_range": "PDF12–16",
+    "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
         "pdf": 6,
         "earlier": "ஜேம்ஸ் போடு",
         "source_supported": "ஜேம்ஸ் போண்டு",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 7,
+        "earlier": "என்பனவற்றையெல்லாம்",
+        "source_supported": "என்பன வற்றையெல்லாம்",
+        "evidence": "clear same-line source spacing in enlarged pixels",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 8,
+        "earlier": "செய்த கொடுமைகள் நாடு நன்கு அறியும்.",
+        "source_supported": "செய்த கொடுமைகளை நாடு நன்கு அறியும்.",
+        "evidence": "final ை clearly printed in enlarged source pixels",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 9,
+        "earlier": "காவற்கைதிகளாக",
+        "source_supported": "காவற் கைதிகளாக",
+        "evidence": "clear inter-word source spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 11,
+        "earlier": "என்னையே அறியாது",
+        "source_supported": "என் என்னை அறியாது",
+        "evidence": "two distinct source words visible in enlarged pixels",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 11,
+        "earlier": "பசி—ஜார் மன்னனின் ஆட்சிப்படைத்த பசி.",
+        "source_supported": "பசி—ஜார் மன்னனே, ஆட்டிப்படைத்த பசி.",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 11,
+        "earlier": "பசி—பிரெஞ்சு மன்னன் இராயியைப் படாத பாடுபடுத்திய பசி",
+        "source_supported": "பசி—பிரெஞ்சு மன்னன் லூயியைப் படாத பாடுபடுத்திய பசி",
         "evidence": "direct enlarged source-pixel comparison",
         "guessed_reconstruction": 0
       }

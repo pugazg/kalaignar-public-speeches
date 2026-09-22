@@ -546,12 +546,12 @@ Repository-level closure is complete. No transcription or translation work remai
 - first-pass speech pages verified — **76/76**
 - PDF4 front matter — **VERIFIED / user-adjudicated / 0 unresolved physical-loss spans**
 - PDF60 speech body — **RESOLVED by user adjudication / canonical processed-body unresolved 0**
-- cadence — **1 physical PDF page per user iteration**
+- cadence — **5 physical PDF pages per user iteration**
 - final-range source review — **PDF71–81 / 11 scans COMPLETE; 11/11 canonical**
 - PDF76/PDF81 obscured passages — **resolved by user adjudication / canonical**
 - final-range canonical progress — **11/11 COMPLETE**
-- T2 visual/textual fidelity audit — **PDF6 / 1 of 76 complete; 1 source-supported correction / 0 unresolved**
-- T2 correction — `ஜேம்ஸ் போடு` → `ஜேம்ஸ் போண்டு`
-- exact next activity — **Tamil T2 visual/textual fidelity audit PDF7 only**
+- T2 visual/textual fidelity audit — **PDF6–11 / 6 of 76 complete; 7 source-supported corrections / 0 unresolved**
+- latest T2 batch — **PDF7–11 / 5/5 audited / 6 new corrections**
+- exact next activity — **Tamil T2 visual/textual fidelity audit PDF12–16**
 
 This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.

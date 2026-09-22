@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF7
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF12–16
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,34 +23,34 @@ Refetch live `main` before editing.
 - front matter — **PDF1–5 / 5/5 VERIFIED**
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6 / 1 of 76**
-- T2 corrections — **1**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–11 / 6 of 76**
+- T2 corrections — **7 cumulative**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 
 ## Cadence — authoritative
 
-**Process exactly one physical PDF page per user iteration.**
+**Process exactly 5 physical PDF pages per user iteration.**
 
-Do not process the following page in the same iteration.
+## Latest T2 range
 
-## Latest T2 page
+PDF7–11 — **5/5 T2 VERIFIED / 6 new corrections / 0 unresolved**.
 
-PDF6 — **T2 VERIFIED**.
+Cumulative T2 corrections: **7**, including the earlier PDF6 `ஜேம்ஸ் போடு` → `ஜேம்ஸ் போண்டு`.
 
-Source-supported correction:
+Latest corrections:
 
-- `ஜேம்ஸ் போடு` → **`ஜேம்ஸ் போண்டு`**
-- evidence — direct enlarged source pixels
-- guessed reconstruction — **0**
+- PDF7 — `என்பனவற்றையெல்லாம்` → `என்பன வற்றையெல்லாம்`
+- PDF8 — `செய்த கொடுமைகள் நாடு நன்கு அறியும்.` → `செய்த கொடுமைகளை நாடு நன்கு அறியும்.`
+- PDF9 — `காவற்கைதிகளாக` → `காவற் கைதிகளாக`
+- PDF11 — `என்னையே அறியாது` → `என் என்னை அறியாது`
+- PDF11 — `பசி—ஜார் மன்னனின் ஆட்சிப்படைத்த பசி.` → `பசி—ஜார் மன்னனே, ஆட்டிப்படைத்த பசி.`
+- PDF11 — `பிரெஞ்சு மன்னன் இராயியைப்` → `பிரெஞ்சு மன்னன் லூயியைப்`
 
-Boundary:
+Boundary into next range:
 
-- PDF6→7 — `ஆத / ரித்து,`
-
-Historical-glyph gate for PDF6 — **PASS / all 13 families checked / 0 ambiguity**.
+- PDF11→12 — `...தாய் தந்தையர்களைக் கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
 
 ## User adjudications — authoritative
 
@@ -66,7 +66,7 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Historical-glyph rule
 
-On PDF7 consciously check all 13 families:
+On every T2 page consciously check all 13 families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -74,6 +74,6 @@ Source pixels control. No OCR authority, global replacement, modernization, lexi
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF7 only.**
+**Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 physical pages.**
 
-Compare the existing canonical PDF7 directly against the controlling source pixels. Record every source-supported correction in `audit.md` and update canonical text only where the source proves a correction. Preserve the incoming `ஆத / ரித்து,` boundary. Do not process PDF8 in this iteration. Keep English blocked.
+Compare each existing canonical page directly against controlling source pixels. Record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where the source proves a correction. Keep English blocked.

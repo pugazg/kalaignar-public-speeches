@@ -691,3 +691,75 @@ Boundary control:
 The user-authoritative cadence is now **one physical PDF page per iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF7 only**.
+
+
+## Tamil T2 five-page fidelity audit — PDF7–11
+
+**PASS — 5/5 AUDITED / 6 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF7 / printed 6 — **T2 VERIFIED / 1 correction**
+- PDF8 / printed folio obscured by stamp — **T2 VERIFIED / 1 correction**
+- PDF9 / printed 8 — **T2 VERIFIED / 1 correction**
+- PDF10 / printed 9 — **T2 VERIFIED / 0 corrections**
+- PDF11 / printed 10 — **T2 VERIFIED / 3 corrections**
+- cumulative T2 coverage — **6/76**
+- cumulative T2 corrections — **7**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was compared line-by-line against enlarged controlling-source pixels. On every page all 13 mandatory historical-glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked. Representative source occurrences include PDF7 `அண்ணா` (`ணா`) and `தேர்தலைப்பற்றிய` (`லை`); PDF8 `நிலையை` (`லை`); PDF9 `மன்னனா` (`னா`); PDF10 `மஞ்சளைக்` (`ளை`); and PDF11 `தலைகுனியச்` / `விலை` (`லை`). No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+1. **PDF7**
+   - T1 — `என்பனவற்றையெல்லாம்`
+   - T2 source — `என்பன வற்றையெல்லாம்`
+   - evidence — clear same-line source spacing in enlarged pixels
+   - type — source spacing fidelity
+
+2. **PDF8**
+   - T1 — `செய்த கொடுமைகள் நாடு நன்கு அறியும்.`
+   - T2 source — `செய்த கொடுமைகளை நாடு நன்கு அறியும்.`
+   - evidence — final `ை` on `கொடுமைகளை` is clearly printed
+   - type — character-level transcription correction
+
+3. **PDF9**
+   - T1 — `காவற்கைதிகளாக`
+   - T2 source — `காவற் கைதிகளாக`
+   - evidence — clear inter-word spacing after `காவற்` on the source line
+   - type — source spacing fidelity
+
+4. **PDF11**
+   - T1 — `என்னையே அறியாது`
+   - T2 source — `என் என்னை அறியாது`
+   - evidence — two distinct source words are visibly printed
+   - type — source wording/spacing fidelity
+
+5. **PDF11**
+   - T1 — `பசி—ஜார் மன்னனின் ஆட்சிப்படைத்த பசி.`
+   - T2 source — `பசி—ஜார் மன்னனே, ஆட்டிப்படைத்த பசி.`
+   - evidence — enlarged source clearly shows `மன்னனே,` and `ஆட்டிப்படைத்த`
+   - type — lexical/character fidelity correction
+
+6. **PDF11**
+   - T1 — `பசி—பிரெஞ்சு மன்னன் இராயியைப் படாத பாடுபடுத்திய பசி`
+   - T2 source — `பசி—பிரெஞ்சு மன்னன் லூயியைப் படாத பாடுபடுத்திய பசி`
+   - evidence — enlarged source clearly prints `லூயியைப்`
+   - type — proper-name transcription correction
+
+PDF10 required **0 changes**; its existing canonical text matched the inspected source for the audited page.
+
+Boundary controls:
+
+- PDF6→7 — `ஆத / ரித்து,`
+- PDF7→8 — `கழகத்தின் / முடிவை,`
+- PDF8→9 — clean paragraph boundary; PDF9 begins `ஐந்து ஆண்டுகட்கு முன்...`
+- PDF9→10 — `...கொலு வீற்றிருக்கும் / காங்கிரஸார் செய்தவையே.`
+- PDF10→11 — `மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`
+- PDF11→12 — sentence continues `...தாய் தந்தையர்களைக் கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
+
+The latest user-authoritative cadence is **5 physical PDF pages per iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 pages**.

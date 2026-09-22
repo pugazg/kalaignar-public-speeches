@@ -23,40 +23,48 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- unresolved T1 speech-body readings — **0**
-- guessed reconstruction — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6 / 1 of 76**
-- T2 corrections — **1**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–11 / 6 of 76**
+- cumulative T2 corrections — **7**
 - T2 unresolved — **0**
+- guessed reconstruction — **0**
 - T3 consolidation — blocked pending T2
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
 
-**One physical PDF page per user iteration.**
+**5 physical PDF pages per user iteration.**
 
-This is the user's latest explicit cadence and supersedes the inherited five-page T2 cadence.
+This supersedes the previous one-page T2 cadence.
 
-## Latest T2 page
+## Latest T2 range
 
-PDF **6 — T2 VERIFIED**.
+PDF **7–11 — 5/5 T2 VERIFIED**.
 
-One source-supported correction was applied:
+New source-supported corrections — **6**:
 
-- `ஜேம்ஸ் போடு` → **`ஜேம்ஸ் போண்டு`**
-- evidence — enlarged controlling-source pixels
-- guessed reconstruction — **0**
+- PDF7 — `என்பனவற்றையெல்லாம்` → `என்பன வற்றையெல்லாம்`
+- PDF8 — `செய்த கொடுமைகள் நாடு நன்கு அறியும்.` → `செய்த கொடுமைகளை நாடு நன்கு அறியும்.`
+- PDF9 — `காவற்கைதிகளாக` → `காவற் கைதிகளாக`
+- PDF11 — `என்னையே அறியாது` → `என் என்னை அறியாது`
+- PDF11 — `பசி—ஜார் மன்னனின் ஆட்சிப்படைத்த பசி.` → `பசி—ஜார் மன்னனே, ஆட்டிப்படைத்த பசி.`
+- PDF11 — `பசி—பிரெஞ்சு மன்னன் இராயியைப்...` → `பசி—பிரெஞ்சு மன்னன் லூயியைப்...`
+
+PDF10 — **0 corrections**.
 
 Historical-glyph gate:
 
-- all 13 mandatory families checked directly against source pixels
-- representative checks — `தலைவர்` (`லை`), `வண்ணாரப்பேட்டை` (`ணா`), `பிரிவினையை` (`னை`)
+- all 13 mandatory families checked page-by-page against enlarged source pixels
 - unresolved glyph ambiguity — **0**
 - silent modernization — **0**
 
-Boundary control:
+Boundary controls:
 
 - PDF6→7 — `ஆத / ரித்து,`
+- PDF7→8 — `கழகத்தின் / முடிவை,`
+- PDF8→9 — clean paragraph boundary
+- PDF9→10 — `...கொலு வீற்றிருக்கும் / காங்கிரஸார் செய்தவையே.`
+- PDF10→11 — `மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`
+- PDF11→12 — `...தாய் தந்தையர்களைக் கண்டும் / கேட்டும் “ஏன் இந்தக் கொடுமை?...`
 
 ## User adjudications — authoritative
 
@@ -72,6 +80,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF7 only**.
+Process **Tamil T2 visual/textual fidelity audit — PDF12–16 / 5 physical pages**.
 
-Compare the existing canonical PDF7 directly with source pixels, check all 13 historical-glyph families, record only source-proven corrections, and do not process PDF8 in the same iteration. English remains blocked.
+Compare each existing canonical page directly against source pixels, check all 13 historical-glyph families per page, record only source-proven corrections, and keep English blocked.
