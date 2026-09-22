@@ -24,7 +24,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
 - T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
-- cumulative T2 corrections — **12**
+- cumulative valid T2 corrections — **10**
+- retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
 - T3 consolidation — blocked pending T2
@@ -38,13 +39,16 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 PDF **12–16 — 5/5 T2 VERIFIED**.
 
-New source-supported corrections — **5**:
+Valid source-supported corrections — **3**:
 
 - PDF12 — `கேட்கும்` → `கேட்டும்`
-- PDF12 — `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
-- PDF13 — `பரிதவித்து` → `பரதவித்து`
 - PDF13 — `நிலமையாவது` → `நிலையாவது`
 - PDF16 — `பாய்வோடு` → `பரிவோடு`
+
+Retracted after direct high-resolution source recheck:
+
+- PDF12 — retain source `பரிதவிக்கவிட்ட` (the attempted `பரதவிக்கவிட்ட` change was wrong)
+- PDF13 — retain source `பரிதவித்து` (the attempted `பரதவித்து` change was wrong)
 
 PDF14 and PDF15 — **0 corrections**.
 
@@ -53,6 +57,7 @@ Historical-glyph gate:
 - all 13 mandatory families checked page-by-page against enlarged source pixels
 - unresolved glyph ambiguity — **0**
 - silent modernization — **0**
+- strengthened rule — the 13-family historical-glyph check is only a minimum; every ordinary vowel mark and character cluster must also be verified line-by-line
 
 Boundary controls:
 

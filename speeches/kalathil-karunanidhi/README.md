@@ -50,7 +50,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
 - T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
-- T2 source-supported corrections — **12 cumulative**
+- T2 source-supported corrections — **10 cumulative**
+- T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
@@ -116,17 +117,23 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 PDF6–16 have completed the second visual/textual fidelity audit.
 
 - T2 coverage — **11/76**
-- cumulative corrections — **12**
-- latest PDF12–16 batch — **5/5 audited / 5 new corrections**
+- cumulative valid corrections — **10**
+- retracted changes — **2**
+- latest PDF12–16 batch — **5/5 audited / 3 valid corrections / 2 retracted after source recheck**
 - unresolved — **0**
 - guessed reconstruction — **0**
 - latest corrections:
   - PDF12 `கேட்கும்` → `கேட்டும்`
-  - PDF12 `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
-  - PDF13 `பரிதவித்து` → `பரதவித்து`
   - PDF13 `நிலமையாவது` → `நிலையாவது`
   - PDF16 `பாய்வோடு` → `பரிவோடு`
+- retracted after source recheck:
+  - PDF12 retain `பரிதவிக்கவிட்ட`
+  - PDF13 retain `பரிதவித்து`
 - PDF14 / PDF15 — **0 corrections**
+
+## T2 verification safeguard
+
+The 13-family historical-glyph check is a minimum control, not a substitute for full fidelity review. Every T2 page must also be checked character-by-character for ordinary vowel signs and consonant-vowel clusters before any change is accepted.
 
 ## Exact next activity
 

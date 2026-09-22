@@ -24,7 +24,8 @@ Refetch live `main` before editing.
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
 - T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–16 / 11 of 76**
-- T2 corrections — **12 cumulative**
+- T2 corrections — **10 valid cumulative**
+- T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
 - English — blocked pending Tamil freeze
@@ -35,15 +36,18 @@ Refetch live `main` before editing.
 
 ## Latest T2 range
 
-PDF12–16 — **5/5 T2 VERIFIED / 5 new corrections / 0 unresolved**.
+PDF12–16 — **5/5 T2 VERIFIED / 3 valid corrections / 2 retracted after source recheck / 0 unresolved**.
 
 Latest corrections:
 
 - PDF12 — `கேட்கும்` → `கேட்டும்`
-- PDF12 — `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
-- PDF13 — `பரிதவித்து` → `பரதவித்து`
 - PDF13 — `நிலமையாவது` → `நிலையாவது`
 - PDF16 — `பாய்வோடு` → `பரிவோடு`
+
+Retracted after direct source recheck:
+
+- PDF12 — retain `பரிதவிக்கவிட்ட`; do **not** change it to `பரதவிக்கவிட்ட`
+- PDF13 — retain `பரிதவித்து`; do **not** change it to `பரதவித்து`
 
 PDF14 and PDF15 required **0 corrections**.
 
@@ -69,7 +73,7 @@ On every T2 page consciously check all 13 families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Source pixels control. No OCR authority, global replacement, modernization, lexical normalization or contextual guessing.
+Source pixels control. No OCR authority, global replacement, modernization, lexical normalization or contextual guessing. The 13-family check is only a minimum control: verify every ordinary vowel mark and consonant-vowel cluster line-by-line before accepting any correction.
 
 ## Exact next activity
 

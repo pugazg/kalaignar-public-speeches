@@ -180,8 +180,8 @@
     "pages_audited": 11,
     "pages_total": 76,
     "latest_range": "PDF12–16",
-    "latest_range_result": "5/5 audited; 5 new corrections; 0 unresolved",
-    "corrections_total": 12,
+    "latest_range_result": "5/5 audited; 3 valid corrections; 2 retracted after source recheck; 0 unresolved",
+    "corrections_total": 10,
     "unresolved": 0,
     "next_range": "PDF17–21",
     "cadence": "5 physical PDF pages per user iteration",
@@ -243,20 +243,6 @@
         "guessed_reconstruction": 0
       },
       {
-        "pdf": 12,
-        "earlier": "பசியால் பரிதவிக்கவிட்ட",
-        "source_supported": "பசியால் பரதவிக்கவிட்ட",
-        "evidence": "direct enlarged source-pixel comparison",
-        "guessed_reconstruction": 0
-      },
-      {
-        "pdf": 13,
-        "earlier": "பட்டினியால் பரிதவித்து",
-        "source_supported": "பட்டினியால் பரதவித்து",
-        "evidence": "direct enlarged source-pixel comparison",
-        "guessed_reconstruction": 0
-      },
-      {
         "pdf": 13,
         "earlier": "நிலமையாவது",
         "source_supported": "நிலையாவது",
@@ -270,6 +256,23 @@
         "evidence": "direct enlarged source-pixel comparison",
         "guessed_reconstruction": 0
       }
-    ]
+    ],
+    "retractions": [
+      {
+        "pdf": 12,
+        "incorrect_change": "பரிதவிக்கவிட்ட → பரதவிக்கவிட்ட",
+        "restored_source_reading": "பரிதவிக்கவிட்ட",
+        "reason": "high-resolution source recheck confirms ரி / short-i marking; prior T2 visual reading was wrong",
+        "date": "2026-09-22"
+      },
+      {
+        "pdf": 13,
+        "incorrect_change": "பரிதவித்து → பரதவித்து",
+        "restored_source_reading": "பரிதவித்து",
+        "reason": "high-resolution source recheck confirms ரி / short-i marking; prior T2 visual reading was wrong",
+        "date": "2026-09-22"
+      }
+    ],
+    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs and consonant-vowel clusters."
   }
 }

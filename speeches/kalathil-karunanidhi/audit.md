@@ -767,15 +767,15 @@ Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF12–16 / 5
 
 ## Tamil T2 five-page fidelity audit — PDF12–16
 
-**PASS — 5/5 AUDITED / 5 NEW SOURCE-SUPPORTED CORRECTIONS**
+**PASS — 5/5 AUDITED / 3 VALID SOURCE-SUPPORTED CORRECTIONS / 2 RETRACTED**
 
-- PDF12 / printed 11 — **T2 VERIFIED / 2 corrections**
-- PDF13 / printed 12 — **T2 VERIFIED / 2 corrections**
+- PDF12 / printed 11 — **T2 VERIFIED / 1 valid correction / 1 retracted**
+- PDF13 / printed 12 — **T2 VERIFIED / 1 valid correction / 1 retracted**
 - PDF14 / printed 13 — **T2 VERIFIED / 0 corrections**
 - PDF15 / printed 14 — **T2 VERIFIED / 0 corrections**
 - PDF16 / printed 15 — **T2 VERIFIED / 1 correction**
 - cumulative T2 coverage — **11/76**
-- cumulative T2 corrections — **12**
+- cumulative T2 corrections — **10**
 - unresolved readings — **0**
 - guessed readings — **0**
 - historical-glyph unresolved — **0**
@@ -791,25 +791,13 @@ Source-supported corrections:
    - evidence — enlarged source opening line clearly prints `கேட்டும்`
    - type — character-level transcription correction
 
-2. **PDF12**
-   - T1 — `நம்மையெல்லாம் பசியால் பரிதவிக்கவிட்ட ஆளவந்தாருக்கு`
-   - T2 source — `நம்மையெல்லாம் பசியால் பரதவிக்கவிட்ட ஆளவந்தாருக்கு`
-   - evidence — enlarged source line clearly lacks the inserted `ி`
-   - type — source-spelling fidelity correction
-
-3. **PDF13**
-   - T1 — `திண்டுக்கல்லில் மக்கள் பட்டினியால் பரிதவித்து`
-   - T2 source — `திண்டுக்கல்லில் மக்கள் பட்டினியால் பரதவித்து`
-   - evidence — enlarged source pixels clearly print `பரதவித்து`
-   - type — source-spelling fidelity correction
-
-4. **PDF13**
+2. **PDF13**
    - T1 — `தேங்கித்தவிக்கும் நிலமையாவது எண்ணிப் பார்த்ததுண்டா?`
    - T2 source — `தேங்கித்தவிக்கும் நிலையாவது எண்ணிப் பார்த்ததுண்டா?`
    - evidence — enlarged source line clearly prints `நிலையாவது`
    - type — character-level transcription correction
 
-5. **PDF16**
+3. **PDF16**
    - T1 — `கூடியிருந்த அதிகாரிகள் உடனே பாய்வோடு கேட்டனர்.`
    - T2 source — `கூடியிருந்த அதிகாரிகள் உடனே பரிவோடு கேட்டனர்.`
    - evidence — enlarged source pixels clearly print `பரிவோடு`
@@ -831,3 +819,41 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF17–21 / 5 pages**.
+
+
+## T2 correction retraction — PDF12 / PDF13
+
+**SOURCE RECHECK COMPLETE / TWO PRIOR T2 CHANGES RETRACTED**
+
+After user challenge, the two disputed words were re-rendered and rechecked at high resolution directly from the controlling source. The source does **not** support the earlier T2 changes that dropped `ி`.
+
+Confirmed source readings:
+
+- PDF12 / printed 11 — **`பரிதவிக்கவிட்ட`**
+- PDF13 / printed 12 — **`பரிதவித்து`**
+
+The prior T2 edits:
+
+- `பரிதவிக்கவிட்ட` → `பரதவிக்கவிட்ட`
+- `பரிதவித்து` → `பரதவித்து`
+
+were **incorrect and are retracted**. Canonical text has been restored to the original T1 readings.
+
+Cause of the error: the `ரி` cluster / short-`இ` vowel marking was misread during visual inspection. This was a fidelity failure: the mandatory 13 historical-glyph-family check is only a minimum control and cannot substitute for complete character-by-character verification of ordinary vowel signs and clusters.
+
+Corrected T2 accounting:
+
+- PDF6–16 coverage — **11/76**
+- valid cumulative T2 corrections — **10**
+- retracted T2 changes — **2**
+- unresolved — **0**
+- guessed reconstruction — **0**
+
+Protocol strengthened from this point forward:
+
+1. inspect every line against enlarged source pixels;
+2. check all ordinary vowel signs and consonant-vowel clusters in addition to the 13 historical families;
+3. do not call a difference a correction unless the source pixels positively prove it;
+4. when a source form already matches T1, retain it unchanged.
+
+Next T2 range remains **PDF17–21 / 5 pages**.
