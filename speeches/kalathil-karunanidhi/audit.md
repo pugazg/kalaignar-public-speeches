@@ -588,3 +588,29 @@ Boundary controls:
 Cadence is now **three physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T1 PDF77–79 / printed pp.76–78**.
+
+
+## Tamil T1 single-page iteration — PDF77
+
+**PASS — 1/1 VERIFIED**
+
+- PDF77 / printed 76 — **verified**
+- canonical T1 coverage — **72/76**
+- processed pages verified — **72/72**
+- unresolved processed-body readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Historical-glyph control was applied directly against enlarged source pixels. All 13 mandatory families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` were consciously checked. Representative page evidence includes `சூழ்நிலை` (`லை`), `இதனை` (`னை`), and `வளர்க்கிறார்கள்` (`றா`). No glyph-driven ambiguity remains.
+
+Source-sensitive forms retained include `போர்மட்டும்`, `மட்டும்போதாது`, `வெட்டி விழாக்களிலே`, `நடக்கத்தூண்டும்`, `பஜகோவிந்தம்`, `மதியை மதிக்காது`, `தம்மிடந்தான்`, `வாளாயிருக்கின்றனர்`, and `சும்மாகிடக்கின்றனர்`.
+
+Boundary controls:
+
+- PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`.
+- PDF77→78 — source word split `வாடி / யும்` → assembled `வாடியும்`.
+
+Cadence is now **one physical PDF page per user iteration**.
+
+Exact next activity: **Tamil T1 PDF78 / printed p.77**.

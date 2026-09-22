@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF77–79
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T1 PDF78
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,34 +22,31 @@ Refetch live `main` before editing.
 - physical scans — **81**
 - front matter — **PDF1–5 / 5/5 VERIFIED**
 - speech body — **PDF6–81 / 76 pages**
-- Tamil T1 — **PDF6–76 / 71 of 76**
-- committed speech pages verified — **71/71**
+- Tamil T1 — **PDF6–77 / 72 of 76**
+- committed speech pages verified — **72/72**
 - committed speech-body unresolved — **0**
-- final-range canonical progress — **PDF71–76 committed / 6 of 11**
+- final-range canonical progress — **PDF71–77 committed / 7 of 11**
 - source-image review PDF71–81 — **11/11 COMPLETE**
 - T2/T3 — blocked pending T1 completion
 - English — blocked pending Tamil freeze
 
 ## Cadence — authoritative
 
-**Process exactly three physical PDF pages per user iteration.**
+**Process exactly one physical PDF page per user iteration.**
 
 Do not process the following page in the same iteration.
 
-## Latest completed range
+## Latest completed page
 
-PDF74–76 / printed 73–75 — **3/3 VERIFIED**.
+PDF77 / printed 76 — **VERIFIED**.
 
 Boundary controls:
 
-- PDF73→74 — clean
-- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
-- PDF75→76 — clean
 - PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
-- PDF77→78 — `வாடி / யும்` → `வாடியும்`
-- PDF78→79 — sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF77→78 — source split `வாடி / யும்` → `வாடியும்`
+- PDF78→79 — established continuation `...திட்டத்துடன் முழு / அமைப்பு...`
 
-Historical-glyph gate for PDF74–76 — **PASS / all 13 families checked page-by-page / 0 ambiguity**.
+Historical-glyph gate for PDF77 — **PASS / all 13 families checked / 0 ambiguity**.
 
 ## User adjudications — authoritative
 
@@ -65,7 +62,7 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Historical-glyph rule
 
-Check all 13 families on PDF77, PDF78 and PDF79:
+Check all 13 families on PDF78:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
@@ -73,8 +70,8 @@ Source pixels control. No OCR authority, global replacement, modernization, lexi
 
 ## Exact next activity
 
-**Transcribe, verify, and commit canonical Tamil T1 PDF77–79 / printed pp.76–78 only.**
+**Transcribe, verify, and commit canonical Tamil T1 PDF78 / printed p.77 only.**
 
-Preserve the established PDF76→77, PDF77→78 and PDF78→79 boundary controls exactly.
+Preserve the established PDF77→78 split `வாடி / யும்` → `வாடியும்`.
 
-Then synchronize the relevant control documents so the next iteration begins at PDF80–81. Do not process PDF80 in this iteration.
+Then synchronize the relevant control documents so the next iteration begins at PDF79. Do not process PDF79 in this iteration.

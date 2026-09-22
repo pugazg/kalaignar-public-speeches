@@ -21,43 +21,37 @@ Archive: `speeches/kalathil-karunanidhi/`
 ## Current state
 
 - front matter — **5/5 VERIFIED / 0 unresolved**
-- Tamil T1 — **PDF6–76 / 71 of 76**
-- processed speech pages verified — **71/71**
+- Tamil T1 — **PDF6–77 / 72 of 76**
+- processed speech pages verified — **72/72**
 - unresolved processed speech-body readings — **0**
-- final-range canonical progress — **PDF71–76 committed / 6 of 11**
+- final-range canonical progress — **PDF71–77 committed / 7 of 11**
 - T2/T3 — blocked pending T1 completion
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
 
-**Three physical PDF pages per user iteration.**
+**One physical PDF page per user iteration.**
 
-This supersedes the previous two-page cadence.
+This supersedes the previous three-page cadence.
 
-## Latest completed range
+## Latest completed page
 
-PDF **74–76 / printed 73–75 — 3/3 VERIFIED**.
+PDF **77 / printed 76 — VERIFIED**.
 
 Historical-glyph gate:
 
-- all 13 mandatory families checked page-by-page against enlarged source pixels
-- representative checks — PDF74 `அண்ணா` (`ணா`), PDF75 `அதனை` (`னை`), PDF76 `தன்னைப்போலப்` (`னை`)
+- all 13 mandatory families checked against enlarged source pixels
+- representative checks — `சூழ்நிலை` (`லை`), `இதனை` (`னை`), `வளர்க்கிறார்கள்` (`றா`)
 - unresolved glyph ambiguity — **0**
 - guessed reconstruction — **0**
 
-Source-sensitive forms retained include `பேர்த்திற்காக`, `தரமுடியவில்லை`, `பூங்காதான்`, `எடுத்ததெற்கெல்லாம்`, `பக்குவப்படுத்தியாக`, `விளக்கம்பெற்று`, `மந்தபுத்தி`, `பெறுதவரையில்`.
-
-PDF76 user adjudication is now **canonical** exactly as supplied:
-
-`புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+Source-sensitive forms retained include `போர்மட்டும்`, `மட்டும்போதாது`, `வெட்டி விழாக்களிலே`, `நடக்கத்தூண்டும்`, `பஜகோவிந்தம்`, `தம்மிடந்தான்`, `வாளாயிருக்கின்றனர்`, and `சும்மாகிடக்கின்றனர்`.
 
 ## Boundary controls
 
-- PDF73→74 — clean paragraph boundary
-- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
-- PDF75→76 — clean paragraph boundary
 - PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
-- later durable controls remain: PDF77→78 `வாடி / யும்` → `வாடியும்`; PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF77→78 — `வாடி / யும்` → `வாடியும்`
+- later durable control — PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
 
 ## User adjudications — authoritative
 
@@ -73,6 +67,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **PDF77–79 / printed pp.76–78 only** for canonical Tamil T1.
+Process **PDF78 / printed p.77 only** for canonical Tamil T1.
 
-Do not process PDF80 in the same user iteration. Do not reopen PDF1–76 merely to advance the next range.
+Do not process PDF79 in the same user iteration. Do not reopen PDF1–77 merely to advance the next page.

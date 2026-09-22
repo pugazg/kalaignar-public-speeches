@@ -542,14 +542,14 @@ Repository-level closure is complete. No transcription or translation work remai
 - venue — **ராபின்சன் பார்க், சென்னை**, source-established
 - front matter — PDF **1–5**
 - speech body — PDF **6–81 / 76 pages**
-- Tamil T1 — **PDF6–76 / 71 of 76**
-- processed speech pages verified — **71/71**
+- Tamil T1 — **PDF6–77 / 72 of 76**
+- processed speech pages verified — **72/72**
 - PDF4 front matter — **VERIFIED / user-adjudicated / 0 unresolved physical-loss spans**
 - PDF60 speech body — **RESOLVED by user adjudication / canonical processed-body unresolved 0**
-- cadence — **3 physical PDF pages per user iteration**
-- remaining source review — **PDF71–81 / 11 scans COMPLETE; PDF71–76 canonical committed, PDF77–81 pending**
+- cadence — **1 physical PDF page per user iteration**
+- remaining source review — **PDF71–81 / 11 scans COMPLETE; PDF71–77 canonical committed, PDF78–81 pending**
 - PDF76/PDF81 obscured passages — **resolved by user adjudication**
-- final-range canonical progress — **6/11 committed (PDF71–76); 5/11 pending**
-- exact next activity — **process Tamil T1 PDF77–79 only**
+- final-range canonical progress — **7/11 committed (PDF71–77); 4/11 pending**
+- exact next activity — **process Tamil T1 PDF78 only**
 
 This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.

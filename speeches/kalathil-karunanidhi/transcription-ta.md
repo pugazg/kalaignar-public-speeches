@@ -1,6 +1,6 @@
 # களத்தில் கருணாநிதி — Tamil transcription
 
-**Status:** T1 **IN PROGRESS — PDF6–76 processed / 71 of 76 speech-body pages; 71/71 processed pages verified**  
+**Status:** T1 **IN PROGRESS — PDF6–77 processed / 72 of 76 speech-body pages; 72/72 processed pages verified**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -1352,6 +1352,28 @@ iv
 
 மனிதன் மனிதனை மதிக்கப்படும் வரை, தோழமை, மனிதாபிமானம், தன்னைப்போன்றவன் தான் மற்றவனும்; பிறப்பில், உழைப்பில், என்று
 
+## PDF 77
+
+**Printed page:** 76
+
+எண்ணம், பகுத்தறிவு தோன்றுவதுதான் பொது உடைமைக்கு அடிப்படை.
+
+வெறும் பொருளாதாரப் போர்மட்டும் காரிய சித்தியளித்துவிடாது. கூலி உயர்வு மட்டும்போதாது. பெற்ற கூலி உயர்வை, வெட்டி விழாக்களிலே திருப்பதி யாத்திரைகளிலே போகாது தடுக்கவேண்டும்; தன்னம்பிக்கை ஏற்படச் செய்யவேண்டும். இதைச் செய்பவர் யார்?
+
+இதைவிட்டு ‘ரஷ்யப் புரட்சி’ ‘ரஷ்யப் புரட்சி’ என்று ரஷ்ய மாடலாக எடுத்த உடனே நடக்குமா? முடியுமா? பலன்தான் தருமா?
+
+இந்நாட்டுச் சூழ்நிலை, சமுதாய, மத, பொருளாதார அடிப்படை முதலியவற்றை மாற்றியமைத்த பின்புதானே, பொது உடைமைப் பூங்கா தோன்ற முடியும்?
+
+‘பஜகோவிந்தம்’ பாடும் நாடு இது, அரசியல் அறிவாளிகள் என்று பெயர் பெற்றவர்களே இதனை வளர்க்கிறார்கள். இங்கே மாறவேண்டாமோ? மாற்றப்படவேண்டாமா?
+
+மடாலயங்கள், மதபோதகர்கள், மக்கள் மதியை மதிக்காது நடக்கத்தூண்டும் பழக்கவழக்கங்கள், புராண, இதிகாசங்களிடம் மக்கள் கொண்டுள்ள மூட நம்பிக்கைகள் ஒழிக்கப்படவேண்டாமா?
+
+மக்கள் தங்கள் வாழ்வும் தாழ்வும் தம்மிடந்தான் இருக்கிறது என்பதைச் சரியாக, தெளிவாகப் புரிந்து கொள்ள வேண்டாமா?
+
+இதற்கெல்லாம் முட்டுக்கட்டையாக இருப்பவை எவை?
+
+ஏன், மக்கள் வாழ்விழந்தும் வாளாயிருக்கின்றனர். ஏன், மக்கள், சுகமிழந்தும் சும்மாகிடக்கின்றனர். ஏன், மக்கள், பெரும்பாலான மக்கள் வாடி
+
 ### PDF4 front-matter adjudication — 2026-09-21
 
 The user supplied exact readings for the two formerly physically lost spans on PDF4:
@@ -1369,54 +1391,54 @@ The user supplied exact readings for three areas that could not be established f
 - PDF76 / printed p.75 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
 - PDF81 / printed p.80 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 
-These adjudications introduce **0 guessed reconstruction**. PDF60 is therefore no longer a speech-body needs-review page. PDF76 and PDF81 remain pending only because their full canonical page transcriptions have not yet been committed.
+These adjudications introduce **0 guessed reconstruction**. PDF60 is therefore no longer a speech-body needs-review page. PDF76 is already canonical exactly as user-adjudicated; PDF81 remains pending only because its full canonical page transcription has not yet been committed.
 
-## Remaining final-range source review — PDF77–81
+## Remaining final-range source review — PDF78–81
 
-The remaining physical scans **PDF77–81 / printed pp.76–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **three physical PDF pages per user iteration**.
+The remaining physical scans **PDF78–81 / printed pp.77–80** have already been rendered and visually reviewed at high resolution. Canonical transcription now advances **one physical PDF page per user iteration**.
 
 Current canonical state:
 
-- PDF71–76 / printed pp.70–75 — **COMMITTED / VERIFIED**
-- canonical PDF71–81 pages committed — **6/11**
-- remaining canonical pages — **5/11 (PDF77–81)**
+- PDF71–77 / printed pp.70–76 — **COMMITTED / VERIFIED**
+- canonical PDF71–81 pages committed — **7/11**
+- remaining canonical pages — **4/11 (PDF78–81)**
 - guessed reconstruction introduced — **0**
 - unresolved committed speech-body readings — **0**
-- PDF73→74 — clean paragraph boundary
-- PDF74→75 — source split `அரசாங் / கத்தில்` → assembled `அரசாங்கத்தில்`
-- PDF75→76 — clean paragraph boundary
 - PDF76→77 — sentence continues `...என்று / எண்ணம், பகுத்தறிவு...`
-- preserved later controls: PDF77→78 `வாடி / யும்` → `வாடியும்`; PDF78→79 `...திட்டத்துடன் முழு / அமைப்பு...`
-- PDF76 user-adjudicated passage is now **canonical** exactly as supplied
+- PDF77→78 — cross-page word join: `வாடி / யும்` → `வாடியும்`
+- PDF77→78 — source word split `வாடி / யும்` → assembled `வாடியும்`
+- preserved later control: PDF78→79 sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF76 user-adjudicated passage remains canonical exactly as supplied
 - PDF81 user-adjudicated closing passage remains authoritative and pending only its full-page canonical commit
 
 ## Continuation checkpoint — 2026-09-21
 
-The user changed the active cadence to **three physical PDF pages per iteration**.
+The user changed the active cadence to **one physical PDF page per iteration**.
 
 Durable position after this iteration:
 
-- PDF74–76 canonical text — **COMMITTED / VERIFIED**
-- canonical T1 — **71/76 processed; 71/71 verified; 0 unresolved**
-- final-range canonical progress — **6/11**
-- next range — **PDF77–79 / printed pp.76–78**
-- PDF76 user-adjudicated passage — **CANONICAL / exact supplied reading**
-- no provisional text for PDF77–81 is canonical until separately committed
+- PDF77 canonical text — **COMMITTED / VERIFIED**
+- canonical T1 — **72/76 processed; 72/72 verified; 0 unresolved**
+- final-range canonical progress — **7/11**
+- next page — **PDF78 / printed p.77**
+- no provisional text for PDF78–81 is canonical until separately committed
+- PDF76 user-adjudicated passage remains canonical
+- PDF81 user-adjudicated closing passage remains authoritative
 - guessed reconstruction — **0**
 
 ## T1 checkpoint
 
 - speech-body pages total — **76** (PDF6–81)
-- speech-body pages processed — **71/76** (PDF6–76)
-- processed speech pages verified — **71/71**
+- speech-body pages processed — **72/76** (PDF6–77)
+- processed speech pages verified — **72/72**
 - unresolved speech-body readings in processed range — **0**
 - source front matter recorded — **5/5**
 - front matter verified — **5/5**
 - front matter needs-review — **0**
 - unresolved front-matter physical-loss spans — **0**
 - guessed readings — **0**
-- cadence — **3 physical PDF pages per user iteration**
-- exact next speech-body range — **PDF77–79 / printed pp.76–78**
+- cadence — **1 physical PDF page per user iteration**
+- exact next speech-body page — **PDF78 / printed p.77**
 
 Cross-page controls:
 
