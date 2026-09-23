@@ -1593,3 +1593,67 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF62–66 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF62–66
+
+**PASS — 5/5 AUDITED / 37 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF62 / printed 61 — **T2 VERIFIED / 12 corrections**
+- PDF63 / printed 62 — **T2 VERIFIED / 7 corrections**
+- PDF64 / printed 63 — **T2 VERIFIED / 5 corrections**
+- PDF65 / printed 64 — **T2 VERIFIED / 4 corrections**
+- PDF66 / printed 65 — **T2 VERIFIED / 9 corrections**
+- cumulative T2 coverage — **61/76**
+- cumulative valid T2 corrections — **176**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against freshly rendered 240-dpi controlling-source pixels. All 13 mandatory historical-glyph families were consciously checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. No OCR reading or contextual normalization was used as authority.
+
+### PDF62 — 12 corrections
+
+Two source-wording corrections were positively established:
+
+- `முன்வரிசையிலிருப்போரும் ஒருசிலர்` → **`முன்வரிசையிலிருப்போரிலும் ஒருசிலர்`**
+- `மற்றவர் ஆர்வமும் ஆற்றலும் பெற்றுவர்.` → **`மற்றவர் ஆர்வமும் ஆற்றலும் பெற்றிடுவர்.`**
+
+Ten punctuation-spacing corrections restore the printed spaces in `உண்டே !`, `உயர்ந்தவர்கள் ;`, `பொருந்தும் !`, `தியாகிகள்தானே ?`, `சரி ;`, `செய்யவேண்டியதே !`, `அடிபட்டவர்கள் ;`, `புகழுக்குரியவர் ;`, `கூறிட முடியுமா ?`, and `பெறுவதல்ல !`.
+
+### PDF63 — 7 corrections
+
+All seven changes are source-visible punctuation-spacing restorations: `பெறுவதல்ல !`, `விளைவுமல்ல !`, `சரக்கல்ல ;`, `விவேகமல்ல ;`, both occurrences of `கூடாது ;`, and `சேவை ; தொண்டு.`
+
+Source hyphenation/wording such as `தியாகம்-தன்னலமற்ற சேவையை-தொண்டை` and `மனப்பண்பு-மனவளம்` was retained unchanged.
+
+### PDF64 — 5 corrections
+
+Source punctuation spacing restored in `மாறுகிறது ; மாற்றிக்கொள்ளப்படுகிறது.`, `செல்லவேண்டியிருக்கிறது !`, `முன்னேறுகின்றனர் !`, `என்ன வார்த்தை, இது ?`, and `எம்மிடம் கிடையாது ?`.
+
+The physical source split `பலமுறை / களிலேயும்` remains correctly assembled as `பலமுறைகளிலேயும்`. Source-sensitive `விலைபேசித்தேர்தல்`, `பயங் காட்டி`, and `விளங்கும்` were retained without normalization.
+
+### PDF65 — 4 corrections
+
+Source punctuation spacing restored in the three printed semicolon positions — `பாராட்டினோம் ; மேலும் பாராட்டுகிறோம்.`, `தியாகத்தைப் பாராட்டினோம் ; தியாகத்தின்...`, and `பாராட்டினோம் ; எவருமே...` — plus the closing `என்று பேசுவதா ?`.
+
+### PDF66 — 9 corrections
+
+Source punctuation spacing restored exactly as printed: `இது முறையா ?`, `சரியா ? ,`, `சந்தர்ப்பவாதமா ?`, `சிந்தித்துப் பாருங்கள் !`, both occurrences of `தியாகப்பட்டியலில் தேவையா ?`, `மிதந்து வருவது தானே ?`, `அது தியாகமல்லவா ?`, and `இது தியாகமல்லவா ?`.
+
+The unusual source sequence `சரியா ? ,` is retained because the enlarged source visibly separates both marks.
+
+Boundary controls:
+
+- PDF61→62 — clean paragraph boundary
+- PDF62→63 — clean paragraph boundary
+- PDF63→64 — clean paragraph boundary
+- PDF64→65 — sentence continues `...தோழமையை விளங்கும் / விபரீத விசித்திர புத்தி...`
+- PDF65→66 — clean paragraph boundary
+- PDF66→67 — clean paragraph boundary; PDF67 begins `மொழிக்கு வந்த கேட்டை, மொழிவழிவரும்...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF67–71 / 5 pages**.

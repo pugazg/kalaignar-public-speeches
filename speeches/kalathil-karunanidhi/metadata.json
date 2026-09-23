@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF62–66",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF67–71",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 56,
+    "pages_audited": 61,
     "pages_total": 76,
-    "latest_range": "PDF57–61",
-    "latest_range_result": "5/5 audited; 38 new valid corrections; 0 unresolved",
-    "corrections_total": 139,
+    "latest_range": "PDF62–66",
+    "latest_range_result": "5/5 audited; 37 new valid corrections; 0 unresolved",
+    "corrections_total": 176,
     "unresolved": 0,
-    "next_range": "PDF62–66",
+    "next_range": "PDF67–71",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -1157,6 +1157,265 @@
         "earlier": "தியாகிகள் இல்லையா?",
         "source_supported": "தியாகிகள் இல்லையா ?",
         "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "பின்வரிசை உண்டே!",
+        "source_supported": "பின்வரிசை உண்டே !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "உள்ளவர்கள் உயர்ந்தவர்கள்;",
+        "source_supported": "உள்ளவர்கள் உயர்ந்தவர்கள் ;",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "நீதிக்குப் பொருந்தும்!",
+        "source_supported": "நீதிக்குப் பொருந்தும் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "வீரரும் தியாகிகள்தானே?",
+        "source_supported": "வீரரும் தியாகிகள்தானே ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "முன்வரிசையிலிருப்போரும் ஒருசிலர்",
+        "source_supported": "முன்வரிசையிலிருப்போரிலும் ஒருசிலர்",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "பாராட்டுகிறோம். சரி;",
+        "source_supported": "பாராட்டுகிறோம். சரி ;",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "செய்யவேண்டியதே!",
+        "source_supported": "செய்யவேண்டியதே !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "அடிபட்டவர்கள்;",
+        "source_supported": "அடிபட்டவர்கள் ;",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "புகழுக்குரியவர்;",
+        "source_supported": "புகழுக்குரியவர் ;",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "கூறிட முடியுமா?",
+        "source_supported": "கூறிட முடியுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "ஆற்றலும் பெற்றுவர்.",
+        "source_supported": "ஆற்றலும் பெற்றிடுவர்.",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 62,
+        "earlier": "பெறுவதல்ல!",
+        "source_supported": "பெறுவதல்ல !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "பெறுவதல்ல!",
+        "source_supported": "பெறுவதல்ல !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "விளைவுமல்ல!",
+        "source_supported": "விளைவுமல்ல !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "வேட்டைச் சரக்கல்ல;",
+        "source_supported": "வேட்டைச் சரக்கல்ல ;",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "விவேகமல்ல;",
+        "source_supported": "விவேகமல்ல ;",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "கூடாது; [first]",
+        "source_supported": "கூடாது ; [first]",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "கூடாது; [second]",
+        "source_supported": "கூடாது ; [second]",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 63,
+        "earlier": "தன்னலமற்ற சேவை; தொண்டு.",
+        "source_supported": "தன்னலமற்ற சேவை ; தொண்டு.",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 64,
+        "earlier": "மாறுகிறது; மாற்றிக்கொள்ளப்படுகிறது.",
+        "source_supported": "மாறுகிறது ; மாற்றிக்கொள்ளப்படுகிறது.",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 64,
+        "earlier": "செல்லவேண்டியிருக்கிறது!",
+        "source_supported": "செல்லவேண்டியிருக்கிறது !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 64,
+        "earlier": "முன்னேறுகின்றனர்!",
+        "source_supported": "முன்னேறுகின்றனர் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 64,
+        "earlier": "என்ன வார்த்தை, இது?",
+        "source_supported": "என்ன வார்த்தை, இது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 64,
+        "earlier": "எம்மிடம் கிடையாது?",
+        "source_supported": "எம்மிடம் கிடையாது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 65,
+        "earlier": "பாராட்டினோம்; மேலும் பாராட்டுகிறோம்.",
+        "source_supported": "பாராட்டினோம் ; மேலும் பாராட்டுகிறோம்.",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 65,
+        "earlier": "தியாகத்தைப் பாராட்டினோம்; தியாகத்தின்",
+        "source_supported": "தியாகத்தைப் பாராட்டினோம் ; தியாகத்தின்",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 65,
+        "earlier": "நேரத்தில் பாராட்டினோம்; எவருமே",
+        "source_supported": "நேரத்தில் பாராட்டினோம் ; எவருமே",
+        "evidence": "explicit source space before semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 65,
+        "earlier": "என்று பேசுவதா?",
+        "source_supported": "என்று பேசுவதா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "இது முறையா?",
+        "source_supported": "இது முறையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "சரியா?,",
+        "source_supported": "சரியா ? ,",
+        "evidence": "direct enlarged source-pixel comparison; both punctuation marks visibly separated",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "சந்தர்ப்பவாதமா?",
+        "source_supported": "சந்தர்ப்பவாதமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "சிந்தித்துப் பாருங்கள்!",
+        "source_supported": "சிந்தித்துப் பாருங்கள் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "தியாகப்பட்டியலில் தேவையா? [first]",
+        "source_supported": "தியாகப்பட்டியலில் தேவையா ? [first]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "மிதந்து வருவது தானே?",
+        "source_supported": "மிதந்து வருவது தானே ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "தியாகப்பட்டியலில் தேவையா? [second]",
+        "source_supported": "தியாகப்பட்டியலில் தேவையா ? [second]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "அது தியாகமல்லவா?",
+        "source_supported": "அது தியாகமல்லவா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 66,
+        "earlier": "இது தியாகமல்லவா?",
+        "source_supported": "இது தியாகமல்லவா ?",
+        "evidence": "explicit source space before question mark",
         "guessed_reconstruction": 0
       }
     ],

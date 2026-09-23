@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–61 / 56 of 76**
-- T2 source-supported corrections — **139 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–66 / 61 of 76**
+- T2 source-supported corrections — **176 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -114,21 +114,18 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–61 have completed the second visual/textual fidelity audit.
+PDF6–66 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **56/76**
-- cumulative valid corrections — **139**
+- T2 coverage — **61/76**
+- cumulative valid corrections — **176**
 - retracted changes — **2**
-- latest PDF57–61 batch — **5/5 audited / 38 new valid corrections**
+- latest PDF62–66 batch — **5/5 audited / 37 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- PDF57–61 changes were limited to source-visible punctuation spacing:
-  - PDF57 — 6
-  - PDF58 — 7
-  - PDF59 — 6
-  - PDF60 — 10
-  - PDF61 — 9
-- PDF60 user-adjudicated wording remained untouched
+- substantive PDF62 corrections:
+  - `முன்வரிசையிலிருப்போரும்` → `முன்வரிசையிலிருப்போரிலும்`
+  - `பெற்றுவர்` → `பெற்றிடுவர்`
+- remaining latest-batch changes restore source-visible punctuation spacing, including PDF66 `சரியா ? ,`
 - retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
 
 ## T2 verification safeguard
@@ -137,6 +134,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF62–66 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF67–71 / 5 pages**.
 
 English remains blocked pending Tamil freeze.
