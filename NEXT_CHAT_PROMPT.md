@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / English fidelity review FINAL PDF60–81
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Final English verification PDF6–32
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,25 +7,32 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 - Tamil T1/T2/T3 — **COMPLETE / PASS**
 - Tamil canonical — **FROZEN / ARCHIVAL-READY**
 - English E1 — **COMPLETE / PASS — 76/76**
-- English fidelity review — **IN PROGRESS — 54/76**
-- reviewed — **PDF6–59**
-- remaining review — **PDF60–81 / 22 pages**
-- final English verification — blocked pending complete review
+- English fidelity review — **COMPLETE / PASS — 76/76**
+- review corrections — **16**
+- source-transparency notes — **6**
+- final English verification — **READY / UNBLOCKED**
+- final verification completed — **0/76**
 
-## Cadence
+## Final-verification rule
 
-Authoritative cadence is **27 physical PDF pages per review iteration**; this final remainder contains **22 pages**.
+Verify the already reviewed English against frozen `transcription-ta.md` and `translation-review.md`.
 
-## Review rule
+Check:
 
-Compare `translation-en.md` directly against frozen `transcription-ta.md`.
+- every PDF page remains present and in order;
+- all fidelity-review corrections are actually applied;
+- no omissions or unsupported additions remain;
+- names, numbers, rhetoric and cross-page joins remain intact;
+- translator/source notes accurately disclose source-sensitive readings;
+- political/historical assertions remain framed as source-speech claims;
+- frozen Tamil is not modified.
 
-Check completeness, omissions/additions, reversals, names, numbers, historical/source terms, rhetoric/repetition, translator/source notes and cross-page continuity.
+## Working cadence
 
-Correct only English where fidelity requires it. Do not use English to rewrite frozen Tamil.
+Use **27 physical PDF pages per final-verification iteration** unless the user gives a different cadence.
 
 ## Exact next activity
 
-**English fidelity review — PDF60–81 / final 22 physical pages.**
+**Final English verification — PDF6–32 / first 27 speech-body pages.**
 
-If complete, mark review **COMPLETE / 76/76**, synchronize control documents, and unblock **final English verification**.
+Record verification progress in the control documents. Do not reopen Tamil absent a separately established source-backed defect.

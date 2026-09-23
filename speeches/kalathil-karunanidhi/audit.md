@@ -2018,3 +2018,38 @@ Tamil freeze prerequisite — **SATISFIED**.
 English E1 translation is now **READY / UNBLOCKED**. English must be translated only from the frozen canonical Tamil layer, not from OCR or an outside edition.
 
 Exact next activity: **English E1 translation — Batch 1 / PDF6–10 / 5 physical pages**.
+
+## English E1 + fidelity review closure — 2026-09-23
+
+**English E1 — COMPLETE / PASS — PDF6–81 / 76 of 76**
+
+**English fidelity review — COMPLETE / PASS — PDF6–81 / 76 of 76**
+
+Review totals:
+
+- English wording corrections applied — **16**
+- source-transparency notes added — **6**
+- final-batch source-note refinements — **2**
+- missing English pages — **0**
+- frozen Tamil changes introduced by translation/review — **0**
+- Tamil archival state — **FROZEN / unchanged**
+
+The fidelity review compared `translation-en.md` directly with frozen `transcription-ta.md`. Historical and political claims remain represented as claims made in the source speech; the English review did not independently endorse or verify them.
+
+Final review batch PDF60–81 corrected, among other items:
+
+- PDF61 — `பட்ட வதை` no longer flattened to “wounds”
+- PDF63 — `மனவலிமை` → “mental fortitude”
+- PDF67 — restored the `இன` component in `இனப்படையெடுப்பு`
+- PDF68 — restored the `மணிகள்` rhetorical metaphor
+- PDF70 — restored source interrogative force and documented the irregular phrase
+- PDF76 — removed unsupported “action” from the `சதி` clause
+- PDF78 — `வேதன்` no longer silently normalized to “Veda”
+- PDF80 — restored the scope of `பகுத்துறையிலே`
+- PDF81 — documented `சோதனிகளின்` and removed the unsupported inserted “Kazhagam” from the terminal proclamation
+
+### English final-verification gate
+
+**READY / UNBLOCKED**
+
+Exact next activity: **Final English verification — PDF6–32 / first 27 physical pages**.

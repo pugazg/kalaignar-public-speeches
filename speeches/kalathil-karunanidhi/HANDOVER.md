@@ -15,26 +15,18 @@ Archive: `speeches/kalathil-karunanidhi/`
 ## English state
 
 - E1 — **COMPLETE / PASS — 76/76**
-- fidelity review — **IN PROGRESS — 54/76**
-- reviewed range — **PDF6–59**
-- Batch 1 — PDF6–32 / **27 pages REVIEWED**
-- Batch 2 — PDF33–59 / **27 pages REVIEWED**
-- cumulative English wording corrections — **6**
-- cumulative transparency notes added — **4**
-- review cadence — **27 physical PDF pages per iteration**
-- final review range — **PDF60–81 / 22 pages**
-- final English verification — blocked pending complete review
-
-## Batch 2 applied changes
-
-- PDF34 — `சொரணை` rendering aligned to `sense of shame`
-- PDF37 — added transparency note for internally irregular frozen Bhagat Singh sentence
-- PDF44 — removed unsupported `auspicious`; rendered `அச்சாரம்` as `advance` and added source note
-- PDF58 — `இனத்தால்` restored as `ethnicity`
-- PDF59 — added source note for `கனகவிசயர்கள்` / `வில்லவன் கோதை`
+- fidelity review — **COMPLETE / PASS — 76/76**
+- cumulative English wording corrections — **16**
+- source-transparency notes added — **6**
+- final-batch source-note refinements — **2**
+- missing pages — **0**
+- final English verification — **READY / UNBLOCKED**
+- final verification completed — **0/76**
+- next range — **PDF6–32 / 27 pages**
+- working cadence — **27 physical PDF pages per final-verification iteration unless user overrides**
 
 ## Exact next activity
 
-Process **English fidelity review PDF60–81 / final 22 physical pages**.
+Process **final English verification PDF6–32 / first 27 physical pages**.
 
-When complete, set review to **76/76 COMPLETE**, then unblock the final English verification gate. Keep Tamil frozen.
+Verify the reviewed English end-to-end against frozen Tamil and the review findings. Confirm that corrections are present, no new omissions/additions were introduced, page boundaries remain complete, source notes remain transparent, and Tamil remains frozen.

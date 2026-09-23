@@ -192,21 +192,22 @@ The Tamil layer must not be changed for style, modernization, punctuation normal
 
 English was translated only from the frozen canonical Tamil. Source claims, rhetoric, unusual terminology and difficult forms are represented as source material; translator/source notes are used where needed instead of rewriting Tamil.
 
-## English fidelity review progress
+## English fidelity review
 
-- review status — **IN PROGRESS**
-- reviewed — **PDF6–59 / 54 of 76**
-- Batch 1 — **PDF6–32 / reviewed / corrections applied**
-- Batch 2 — **PDF33–59 / reviewed / corrections applied**
-- cumulative English wording corrections applied — **6**
-- cumulative source-transparency notes added — **4**
+**COMPLETE / PASS — PDF6–81 / 76 of 76**
+
+- Batch 1 — PDF6–32 / **27 pages reviewed**
+- Batch 2 — PDF33–59 / **27 pages reviewed**
+- Batch 3 — PDF60–81 / **22 pages reviewed**
+- cumulative English wording corrections — **16**
+- cumulative source-transparency notes added — **6**
+- final-batch source-note refinements — **2**
 - frozen Tamil changes — **0**
-- cadence — **27 physical PDF pages per iteration**
-- final remainder — **PDF60–81 / 22 pages**
-- final English verification — blocked pending complete review
+- missing English pages — **0**
+- final English verification — **READY / UNBLOCKED**
 
 ## Exact next activity
 
-Process **English fidelity review — PDF60–81 / final 22 physical pages**.
+Process **final English verification — PDF6–32 / first 27 physical pages**.
 
 Compare E1 directly against frozen Tamil, record findings in `translation-review.md`, correct only the English layer where source fidelity requires it, and keep final English verification blocked until all 76 pages have been reviewed.

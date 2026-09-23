@@ -10,11 +10,11 @@
 |---|---:|---:|---|
 | 1 | 6–32 | 27 | **reviewed / corrections applied** |
 | 2 | 33–59 | 27 | **reviewed / corrections applied** |
-| 3 | 60–81 | 22 | next |
+| 3 | 60–81 | 22 | **reviewed / corrections applied** |
 
-Reviewed — **54/76**  
-Remaining — **22/76**  
-Final English verification — **BLOCKED pending complete fidelity review**
+Reviewed — **76/76**  
+Remaining — **0/76**  
+Final English verification — **READY / UNBLOCKED**
 
 ## Batch 1 — PDF6–32 / 27 pages
 
@@ -148,3 +148,98 @@ Three definite English wording corrections and three source-transparency notes w
 **REVIEWED / CORRECTIONS APPLIED.**
 
 Exact next range: **PDF60–81 / final 22 physical pages**.
+
+## Batch 3 — PDF60–81 / final 22 pages
+
+### Result
+
+**PASS WITH ENGLISH-LAYER CORRECTIONS — 22/22 REVIEWED**
+
+The final E1 range is complete. No PDF page or whole paragraph is missing. Repeated “sacrifice” rhetoric, repression allegations, named persons/places, the common-ownership/Russia argument, religious/rationalist rhetoric, and the terminal Dravidian-progress proclamation are represented as source speech content rather than independently verified factual assertions.
+
+Ten definite English wording corrections were applied. Two new source-transparency notes were added, and two existing source notes were refined. Frozen Tamil changes: **0**.
+
+### Applied findings
+
+1. **PDF61 — “பட்ட வதை”**
+   - earlier English ended the list with **“wounds”**.
+   - corrected to **“the torment suffered”**, preserving the source's distinct “வதை” sense.
+
+2. **PDF63 — “மனவலிமை”**
+   - earlier English: **“moral courage”**.
+   - corrected to **“mental fortitude”**.
+   - reason: the Tamil is about strength/fortitude of mind, not an added moral category.
+
+3. **PDF67 — “மொழிவழிவரும் இனப்படையெடுப்பு”**
+   - earlier English: **“the invasion that came through language”**.
+   - corrected to **“the ethnic invasion that came through language”** so the “இன” component is not omitted.
+
+4. **PDF68 — “கழகத்தின் மணிகள்”**
+   - earlier English flattened the metaphor to **“leading members of the Kazhagam”**.
+   - corrected to **“gems of the Kazhagam”**, retaining the source rhetoric.
+
+5. **PDF70 — interrogative force**
+   - the sentence about N. V. Natarasan and the small margin is now kept as a rhetorical question, matching the source punctuation.
+   - “Natarasan escaped because the aim missed” is likewise restored to **“Did Natarasan escape because the aim missed?”**
+   - a source note records the internally irregular frozen phrase “ஒரு சிறு கண்டம், தப்பியிருந்தால்”.
+
+6. **PDF73 — source-sensitive wording**
+   - the existing note is expanded to record both “கொடி தவறியிருந்தால்” and “கழுதி”.
+   - the former remains a contextual “missed blow” rendering; *Kazhuthi* remains transliterated.
+   - no outside identification or reconstruction is used.
+
+7. **PDF76 — cause of suffering**
+   - earlier English: **“the conspiracy and action of some people”**.
+   - corrected to **“the conspiracy carried out by some people”**.
+   - reason: “action” was an unsupported addition beyond “சதி”.
+
+8. **PDF78 — “வேதன்”**
+   - earlier English silently changed the frozen “வேதன்” into **“Veda”**.
+   - corrected to **“Vedan”** and the source note expanded.
+   - the long irregular “எய்ப்பவன்...” sequence remains a conservative contextual rendering, not a Tamil rewrite.
+
+9. **PDF80 — “பகுத்துறையிலே”**
+   - earlier English attached “rational” directly to “change”.
+   - corrected to **“change or fundamental transformations in the sphere of rationalism”**, preserving the source's domain phrase.
+
+10. **PDF81 — “சோதனிகளின்”**
+    - the contextual rendering **“of trials”** is retained, but a source note now records the unusual frozen form so it is not silently normalized.
+
+11. **PDF81 — terminal proclamation**
+    - earlier English inserted **“Kazhagam”** into “திராவிட முன்னேற்ற முரசு”.
+    - corrected to **“Let the drum of Dravidian progress resound in every direction!”**
+    - this follows the frozen terminal wording without adding a word absent from it.
+
+### Boundary/completeness checks
+
+- PDF59→60 — Communist-sacrifice/repression sentence — **PASS**
+- PDF64→65 — *mitta/mirasu* sentence — **PASS**
+- PDF67→68 — sacrifice-list sequence — **PASS**
+- PDF74→75 — “Communist govern / ment” join — **PASS**
+- PDF76→77 — equality/common-ownership argument — **PASS**
+- PDF77→78 — majority-suffering sentence — **PASS**
+- PDF78→79 — “whole / structure” join — **PASS**
+- PDF79→80 — “ideas / taunting words” join — **PASS**
+- PDF80→81 — paragraph boundary — **PASS**
+- terminal close — **“Long live! Greetings!” present**
+
+### Batch 3 disposition
+
+**REVIEWED / CORRECTIONS APPLIED.**
+
+## Fidelity review closure
+
+**COMPLETE / PASS — PDF6–81 / 76 of 76**
+
+Cumulative review result:
+
+- pages reviewed — **76/76**
+- English wording corrections applied — **16**
+- source-transparency notes added — **6**
+- source-note refinements in final batch — **2**
+- frozen Tamil changes — **0**
+- missing English pages — **0**
+- whole-paragraph omissions detected after correction — **0**
+- final English verification — **READY / UNBLOCKED**
+
+Exact next activity: **Final English verification — PDF6–32 / first 27 pages**.

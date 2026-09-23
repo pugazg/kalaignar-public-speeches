@@ -11,9 +11,11 @@
 - latest batch — **PDF61–81 / final 21 physical pages — COMPLETE**
 - E1 cadence — **complete**
 - E1 next batch — **none / complete**
-- English fidelity review — **IN PROGRESS — PDF6–59 / 54 of 76 reviewed**
-- review cadence — **27 physical PDF pages per iteration**
-- next review range — **PDF60–81 / final 22 pages**
+- English fidelity review — **COMPLETE / PASS — PDF6–81 / 76 of 76 reviewed**
+- review corrections applied — **16 cumulative**
+- source-transparency notes added — **6 cumulative**
+- final English verification — **READY / UNBLOCKED**
+- next final-verification range — **PDF6–32 / 27 pages**
 
 ## Speech body
 
@@ -845,7 +847,7 @@ Are those who enter into violence and, as a result, suffer repression also marty
 
 ### PDF page 61 — printed page 60
 
-Can suffering blows, kicks, stabbings, cuts and wounds alone become sacrifice?
+Can blows, kicks, stabbings, cuts and the torment suffered alone become sacrifice?
 
 What benefit is produced by sufferings incurred through violence?
 
@@ -899,7 +901,7 @@ Sacrifice is an effort, an act, undertaken for a good and useful result.
 
 Sacrifice is selfless service undertaken with a good outcome in mind.
 
-Sacrifice is the disposition, strength of mind and moral courage to continue selfless service without caring about opposition, ridicule, mockery or conflict.
+Sacrifice is the disposition, strength of mind and mental fortitude to continue selfless service without caring about opposition, ridicule, mockery or conflict.
 
 To act selflessly for a good purpose, without tiring or faltering until a beneficial result is seen—that quality of action is sacrifice.
 
@@ -971,7 +973,7 @@ In this struggle, more than a thousand people were thrown into cruel prisons. Is
 
 ### PDF page 67 — printed page 66
 
-Did we not show resistance, such as history had not seen, to stop the harm done to the language and the invasion that came through language? Did we not win in it too? Is that not sacrifice?
+Did we not show resistance, such as history had not seen, to stop the harm done to the language and the ethnic invasion that came through language? Did we not win in it too? Is that not sacrifice?
 
 At Madurai, the Blackshirt Conference pandal—a pandal built at the cost of many thousands of rupees—was set on fire in broad daylight. What was that?
 
@@ -999,7 +1001,7 @@ In that struggle in Madras, were volunteers not packed into police lorries like 
 
 Even a woman in an advanced stage of pregnancy was taken into the wilderness that very day and left there helpless and alone.
 
-At the same time in Madras, before the event of showing a black flag to Achariar, did this Congress government not arrest all the leading members of the Kazhagam together—more than a hundred people—in a single day? Is none of this sacrifice?
+At the same time in Madras, before the event of showing a black flag to Achariar, did this Congress government not arrest all the gems of the Kazhagam together—more than a hundred people—in a single day? Is none of this sacrifice?
 
 Do you need a list of sacrifices?
 
@@ -1025,11 +1027,11 @@ Is that all? Like thrusting a spear into a burning wound, only a few days after 
 
 Yes! At Kundrathur, bombs and bullets flew toward the people.
 
-Had a small margin not intervened, Comrade N. V. Natarasan would have fallen victim to a bullet and been killed.
+Had a small margin not intervened, would Comrade N. V. Natarasan have fallen victim to a bullet and been killed?
 
 Gunfire was used eight times! Eight rounds were fired at the people at Kundrathur.
 
-Some died. Natarasan escaped because the aim missed. Is that not sacrifice? Must one die before it becomes sacrifice?
+Some died. Did Natarasan escape because the aim missed? Is that not sacrifice? Must one die before it becomes sacrifice?
 
 Freedom of speech was taken away at Kundrathur; permission to speak was denied under a Section 144 prohibitory order. Comrade Natarasan defied it!
 
@@ -1044,6 +1046,8 @@ Is not the courage and character to stand at the very edge and doorway of death 
 Must one deliberately embrace death, destruction, repression and pain, then sing, “Look at our sacrifice”? Is that sacrifice?
 
 Do you still need a list of sacrifices?
+
+> **Translator/source note — PDF70:** the frozen phrase “ஒரு சிறு கண்டம், தப்பியிருந்தால்” is internally irregular. The English keeps a cautious “small margin” rendering and preserves the source's interrogative force; no Tamil reconstruction is made.
 
 ### PDF page 71 — printed page 70
 
@@ -1111,7 +1115,7 @@ What more is needed? Is there still “no sacrifice”? Are we in a condition of
 
 Then why should we be blamed? Why should people like Comrade Jeevanandam say, “They advance using the sacrifice of the Communists”? Is it just? Is it right? Is it proper?
 
-> **Translator/source note — PDF73:** the frozen place-name-like form “கழுதி” is retained as *Kazhuthi*; no outside identification is supplied.
+> **Translator/source note — PDF73:** the frozen forms “கொடி தவறியிருந்தால்” and the place-name-like “கழுதி” are source-sensitive. The first is rendered contextually as a missed blow; the second is retained as *Kazhuthi*. No outside reconstruction or identification is supplied.
 
 ### PDF page 74 — printed page 73
 
@@ -1167,7 +1171,7 @@ For the thousands upon thousands of stores of wealth lying immobilized in the co
 
 Who is doing this? Who? I ask. Is it not we? Who are the people spreading the true, fundamental character of common ownership—the understanding that clarity of knowledge and rational thinking are the basis for everything?
 
-Who, other than us, has developed the courage to say that fate is not the cause of suffering, but that the cause is the conspiracy and action of some people in the country?
+Who, other than us, has developed the courage to say that fate is not the cause of suffering, but that the cause is the conspiracy carried out by some people in the country?
 
 A thousand castes—and in their midst the torch of common ownership!
 
@@ -1199,13 +1203,13 @@ Why do people remain inert even after losing their livelihood? Why do people lie
 
 —and waste away, while a few alone roll in luxury? By giving charity to the poor, building many temples and conducting ablutions and worship, they crown themselves among the people with the title “Mahadharmashtar” and garlands of fame.
 
-There must be a complete transformation in religion, paths of faith, education and the organization of society. In the sphere of inner belief, the people must gain knowledge. The disposition of bearing the burden of life while longing and suffering, placing the burden upon phrases such as “the way the Veda has left it, the command the Lord has given,” must change. They must gain strength of mind, trust themselves, and place confidence in their own thought, labour, effort and ability. In every sphere they must understand and know the person who deceives, the method of deception, and the protective forces, methods and arrangements that sustain gullibility—so that they do not remain deceived; so that there is no deceiver; so that the very philosophy, inheritance, habit and practice that creates deception disappears; so that joy may overflow and a life of satisfaction may be lived; so that a garden of common ownership may be established.
+There must be a complete transformation in religion, paths of faith, education and the organization of society. In the sphere of inner belief, the people must gain knowledge. The disposition of bearing the burden of life while longing and suffering, placing the burden upon phrases such as “the way *Vedan* has left it, the command the Lord has given,” must change. They must gain strength of mind, trust themselves, and place confidence in their own thought, labour, effort and ability. In every sphere they must understand and know the person who deceives, the method of deception, and the protective forces, methods and arrangements that sustain gullibility—so that they do not remain deceived; so that there is no deceiver; so that the very philosophy, inheritance, habit and practice that creates deception disappears; so that joy may overflow and a life of satisfaction may be lived; so that a garden of common ownership may be established.
 
 Leaving all this aside, like the doctor in the film *Devaki*, is there one medicine for every disease—“*sagapethi*, is it not?” Milk for a sparrow; for everything, must it be the “Russia” model?
 
 We praise Russia; we accept that it is an “abode of happiness”; but to create that condition, with a plan formed for it, the whole—
 
-> **Translator/source note — PDF78:** the frozen Tamil contains the unusual medical/comic form “சகபேதி”; it is retained as *sagapethi* rather than silently normalized or identified from outside sources.
+> **Translator/source note — PDF78:** the frozen Tamil prints “வேதன் விட்டவழி” (not “வேதம்”) and the unusual medical/comic form “சகபேதி”. The English therefore retains *Vedan* and *sagapethi* rather than silently normalizing or identifying them from outside sources. The long “எய்ப்பவன்...” sequence is translated conservatively without rewriting Tamil.
 
 ### PDF page 79 — printed page 78
 
@@ -1229,7 +1233,7 @@ What are opposition and hostile thoughts to us? We have endured so many forms of
 
 —and so many taunting words; we have faced them and kept moving forward.
 
-“Buddha failed; Ramalingar failed; Thayumanavar failed; Pattinathar could not do it; Ramalingar merely merged into the divine light. No one could create rational change and fundamental transformation—what are you in comparison?” Aryanism crowed. Did we cry out in despair? Or did we become exhausted and give up?
+“Buddha failed; Ramalingar failed; Thayumanavar failed; Pattinathar could not do it; Ramalingar merely merged into the divine light. No one could create change or fundamental transformations in the sphere of rationalism—what are you in comparison?” Aryanism crowed. Did we cry out in despair? Or did we become exhausted and give up?
 
 We did not spare Alavayappan, the one whose mouth drank the Alakala poison; nor did we fail to question the one of ten incarnations or Dasaratha Rama. Is that all? Veda, purana, epic, devotional song; lineage, *andhadi*, divine oracle—none of them damaged our gaze! Custom, usage, sage, religion, righteous path, inherited practice, claims of divine blessing, monastery, temple, God, the historical glory attributed to him—none of them has brought us down!
 
@@ -1243,10 +1247,12 @@ Mother, father—elder brother—younger brother, kith—kin—the whole village
 
 For this we have lost many things, yet we have never strayed from the principles we built and protected. Turmoil in the family; a wife's bewildered look; the terrible dance of poverty; the mocking words of the townspeople, the burning words of trials, the assault of custom and habit, social restraint—none of these could make us leave our path.
 
+> **Translator/source note — PDF81:** the frozen Tamil reads the unusual form “சோதனிகளின்” in the phrase contextually rendered as “of trials”. The source form is not silently normalized.
+
 We lost many things to protect the principle of self-respect and joyful Dravidam. We did not hesitate even to lose, to set aside, Periyar Ramasamy himself, who was like a father to us. Did we not leave Periyar because he departed from the principle?
 
 Do not clash with such warriors of principle over meaningless matters; it is wasted work. Let the Communists realize—realize—that the refrain “who is what before whom, who is insignificant before whom” is useless talk.
 
 Finally, as I said at the beginning, you should support only those who possess the character to voice the needs of Dravidam and to carry out the work required for them.
 
-Let the drum of the Dravida Munnetra Kazhagam resound in every direction! Let Dravidam triumph! Let Dravidam flourish! Long live! Greetings!
+Let the drum of Dravidian progress resound in every direction! Let Dravidam triumph! Let Dravidam flourish! Long live! Greetings!
