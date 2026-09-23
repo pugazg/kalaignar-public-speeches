@@ -1736,3 +1736,91 @@ User-adjudicated PDF60 wording remains authoritative and unchanged.
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 pages**.
+
+## Tamil T2 five-page fidelity audit — PDF72–76
+
+**PASS — 5/5 AUDITED / 80 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF72 / printed 71 — **T2 VERIFIED / 16 corrections**
+- PDF73 / printed 72 — **T2 VERIFIED / 23 corrections**
+- PDF74 / printed 73 — **T2 VERIFIED / 10 corrections**
+- PDF75 / printed 74 — **T2 VERIFIED / 11 corrections**
+- PDF76 / printed 75 — **T2 VERIFIED / 20 corrections**
+- cumulative T2 coverage — **71/76**
+- cumulative valid T2 corrections — **301**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was compared line-by-line with enlarged controlling-source pixels. All 13 mandatory historical-glyph families were checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. The PDF76 user-adjudicated opening sentence remains authoritative and was not reopened.
+
+### PDF72 — 16 corrections
+
+All 16 changes restore source-visible punctuation spacing. The source prints spaces in `யார் ?`, first `குஷ்டரோகி !`, `காயங்கள் !`, four marks across `கொடுமை ! கொடுமை ! மிக மிகக் கொடுமை ! கோரக்காட்சி !`, `சென்றனர் !`, three marks across `என்ன கொடுமை ! பாதகம், வஞ்சகம் ! கோரக் காட்சி !`, `இந்தச் செயல் ?`, `குமுறுகிறதே !`, `இந்தக் கொடுமையை ?`, `பெறுகிறவர்கள் ?`, and final `தியாகத்தை !`.
+
+Source-confirmed no-space question marks in `பாதகசெயல்?`, `அக்கிரமச் செயல்?`, and terminal `தியாகப்பட்டியலில்?` were retained unchanged.
+
+### PDF73 — 23 corrections
+
+Twenty-two changes restore source punctuation spacing, including `மறக்கமுடியுமா ?`, `தானே !`, `கொடி தவறியிருந்தால் ?`, the three spaced questions in the `எது தியாகம்` paragraph, `தருகிறேன் ;`, the spaced questions around the அண்ணா/ஆரிய மாயை passages, and the final `நியாயமா ? சரியா ? முறைதானு ?`.
+
+One source-spacing correction was positively established:
+
+- `கழுதிபோன்ற` → **`கழுதி போன்ற`**
+  - evidence — enlarged source pixels show a genuine inter-word space
+  - type — source-spacing fidelity
+
+Source-confirmed no-space question marks in `மறையவில்லையே?` and `தெரியாதா மக்களுக்கு?` were retained unchanged.
+
+### PDF74 — 10 corrections
+
+Nine changes restore source-visible punctuation spacing in `சிறைப்பட்டார் ;`, `செய்தோம் ;`, `பெரிது !`, `அல்ல ;`, `பாடுகிறார்கள் ;`, `பரிதாபம் !`, `என்பதா ?`, `பேச்சு !`, and `வாதம் !`.
+
+One punctuation-character correction was positively established:
+
+- `தியாகத்தின் பயன்; பலன்.` → **`தியாகத்தின் பயன், பலன்.`**
+  - evidence — enlarged source clearly prints a comma after `பயன்`
+  - type — punctuation fidelity
+
+### PDF75 — 11 corrections
+
+Ten changes restore visible punctuation spacing in `அர்த்தம் ?`, `பொருள் ?`, `வேறென்ன ?`, both semicolon positions in `பொது உடைமை ; எங்கள் இருதயகீதம் ;`, `வேண்டும் !`, and the four spaced questions in the closing Russia paragraph.
+
+One source punctuation insertion was positively established:
+
+- `மனப்பான்மை மனப்போக்கை` → **`மனப்பான்மை, மனப்போக்கை`**
+  - evidence — enlarged source clearly prints the comma
+  - type — punctuation fidelity
+
+### PDF76 — 20 corrections
+
+Eighteen changes restore source-visible spacing before punctuation: `வேண்டாமா ?`, `உண்டாகவேண்டாமா ?`, `யார் ?`, `நடக்கும் ;`, `முடியும் ?`, the five spaced questions in the `இதைச் செய்பவர்...` paragraph, `காரணம் ;`, `எங்களைத் தவிர ?`, `ஜோதி !`, and the five spaced questions beginning `உண்டாகுமா ?`.
+
+Two punctuation-character/placement corrections were positively established at the outgoing boundary:
+
+- `மற்றவனும்;` → **`மற்றவனும்,`**
+- `உழைப்பில், என்று` → **`உழைப்பில் என்று`**
+
+The user-adjudicated opening sentence `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?` remains canonical and unchanged.
+
+Boundary controls:
+
+- PDF71→72 — clean paragraph boundary
+- PDF72→73 — clean paragraph boundary
+- PDF73→74 — clean paragraph boundary
+- PDF74→75 — cross-page word `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF75→76 — clean paragraph boundary
+- PDF76→77 — sentence continues `...பிறப்பில், உழைப்பில் என்று / எண்ணம், பகுத்தறிவு...`
+
+Retraction safeguards remain in force:
+
+- PDF12 — retain `பரிதவிக்கவிட்ட`
+- PDF13 — retain `பரிதவித்து`
+
+User-adjudicated PDF60 wording remains authoritative and unchanged.
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 pages**.

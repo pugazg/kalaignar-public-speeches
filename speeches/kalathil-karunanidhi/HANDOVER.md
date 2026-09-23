@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–71 / 66 of 76**
-- cumulative valid T2 corrections — **221**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
+- cumulative valid T2 corrections — **301**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,16 +37,17 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **67–71 — 5/5 T2 VERIFIED**.
+PDF **72–76 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **45**:
+New valid source-supported corrections — **80**:
 
-- PDF67 — 9 punctuation-spacing restorations
-- PDF68 — 6 punctuation-spacing restorations
-- PDF69 — 3 corrections, including `அப்பாதுரையார் அவர்கள் வீதியிலே` → `அப்பாதுரையார் அவர்களை வீதியிலே`
-- PDF70 — 17 corrections, including `பறந்தன மக்கள் நோக்கி.` → `பறந்தன மக்களை நோக்கி.`
-- PDF71 — 10 punctuation-spacing restorations
-- PDF71 source-confirmed exception — `இது தியாகமா? அல்லவா? எதுதான் தியாகம்?` remains unspaced exactly as printed
+- PDF72 — 16 punctuation-spacing restorations
+- PDF73 — 23 corrections, including `கழுதிபோன்ற` → `கழுதி போன்ற`
+- PDF74 — 10 corrections, including `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
+- PDF75 — 11 corrections, including `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
+- PDF76 — 20 corrections, including `மற்றவனும்;` → `மற்றவனும்,` and `உழைப்பில், என்று` → `உழைப்பில் என்று`
+
+Source-confirmed no-space punctuation exceptions were retained rather than normalized.
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -55,7 +56,7 @@ The earlier PDF12/PDF13 retractions remain in force:
 
 Verification safeguard:
 
-- fresh enlarged controlling-source pixels used for PDF67–71, with PDF72 inspected only to establish the outgoing boundary
+- enlarged controlling-source pixels used for PDF72–76; PDF77 inspected to establish the outgoing boundary
 - all 13 historical-glyph families checked page-by-page
 - every ordinary vowel sign and consonant-vowel cluster checked line-by-line
 - source spaces, punctuation, punctuation spacing, and physical line/page joins checked explicitly
@@ -65,12 +66,12 @@ Verification safeguard:
 
 Boundary controls:
 
-- PDF66→67 — clean paragraph boundary
-- PDF67→68 — clean paragraph boundary
-- PDF68→69 — sentence continues `...அன்று மக்களை மாக்களாக மதித்து / முள்வேலிக்குள்ளே...`
-- PDF69→70 — clean paragraph boundary
-- PDF70→71 — clean paragraph boundary
-- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+- PDF71→72 — clean paragraph boundary
+- PDF72→73 — clean paragraph boundary
+- PDF73→74 — clean paragraph boundary
+- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
+- PDF75→76 — clean paragraph boundary
+- PDF76→77 — sentence continues `...பிறப்பில், உழைப்பில் என்று / எண்ணம், பகுத்தறிவு...`
 
 ## User adjudications — authoritative
 
@@ -86,6 +87,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 physical pages**.
 
-Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.
+Compare each canonical page directly against enlarged source pixels, preserve the PDF76→77 continuation, record only source-proven corrections, and then assess T2 closure readiness. English remains blocked until Tamil freeze.

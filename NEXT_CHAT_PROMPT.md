@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF72–76
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 FINAL PDF77–81
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,8 +20,8 @@ Refetch live `main` before editing.
 - source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–71 / 66 of 76**
-- T2 valid corrections — **221 cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
+- T2 valid corrections — **301 cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -31,27 +31,36 @@ Refetch live `main` before editing.
 
 **Process exactly 5 physical PDF pages per user iteration.**
 
+The remaining T2 range is exactly five pages.
+
 ## Latest T2 range
 
-PDF67–71 — **5/5 T2 VERIFIED / 45 new valid corrections / 0 unresolved**.
+PDF72–76 — **5/5 T2 VERIFIED / 80 new valid corrections / 0 unresolved**.
 
-Substantive source corrections:
+Substantive/source-structure corrections:
 
-- PDF69 — `அப்பாதுரையார் அவர்கள் வீதியிலே` → `அப்பாதுரையார் அவர்களை வீதியிலே`
-- PDF70 — `பறந்தன மக்கள் நோக்கி.` → `பறந்தன மக்களை நோக்கி.`
+- PDF73 — `கழுதிபோன்ற` → `கழுதி போன்ற`
+- PDF74 — `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
+- PDF75 — `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
+- PDF76 — `மற்றவனும்;` → `மற்றவனும்,`
+- PDF76 — `உழைப்பில், என்று` → `உழைப்பில் என்று`
 
-The other 43 corrections restore positively visible source punctuation spacing. PDF71 also confirms that `இது தியாகமா? அல்லவா? எதுதான் தியாகம்?` is printed **without** spaces before those three question marks and must remain unchanged.
+All other latest-batch changes are positively visible source punctuation-spacing restorations. Source-confirmed no-space exceptions were retained.
 
 Retraction safeguards remain active:
 
 - PDF12 — retain `பரிதவிக்கவிட்ட`
 - PDF13 — retain `பரிதவித்து`
 
-User-adjudicated PDF60 wording remains authoritative and unchanged.
+User adjudications remain authoritative, especially:
 
-Boundary into next range:
+- PDF60 wording — unchanged
+- PDF76 opening — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
+- PDF81 closing — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 
-- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+Boundary into final range:
+
+- PDF76→77 — sentence continues `...பிறப்பில், உழைப்பில் என்று / எண்ணம், பகுத்தறிவு...`
 
 ## Verification rule
 
@@ -67,6 +76,6 @@ On every T2 page:
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 physical pages.**
+**Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 physical pages.**
 
-Compare each canonical page directly with enlarged source pixels, record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where positively supported. Keep English blocked.
+Compare each canonical page directly with enlarged source pixels, record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where positively supported. After PDF81, assess whether T2 can be marked COMPLETE/PASS and whether T3 may begin. Keep English blocked until Tamil freeze.

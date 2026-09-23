@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–71 / 66 of 76**
-- T2 source-supported corrections — **221 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
+- T2 source-supported corrections — **301 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -114,20 +114,23 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–71 have completed the second visual/textual fidelity audit.
+PDF6–76 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **66/76**
-- cumulative valid corrections — **221**
+- T2 coverage — **71/76**
+- cumulative valid corrections — **301**
 - retracted changes — **2**
-- latest PDF67–71 batch — **5/5 audited / 45 new valid corrections**
+- latest PDF72–76 batch — **5/5 audited / 80 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- substantive PDF69 correction:
-  - `அப்பாதுரையார் அவர்கள் வீதியிலே` → `அப்பாதுரையார் அவர்களை வீதியிலே`
-- substantive PDF70 correction:
-  - `பறந்தன மக்கள் நோக்கி.` → `பறந்தன மக்களை நோக்கி.`
+- substantive/source-structure corrections in the latest batch:
+  - PDF73 — `கழுதிபோன்ற` → `கழுதி போன்ற`
+  - PDF74 — `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
+  - PDF75 — `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
+  - PDF76 — `மற்றவனும்;` → `மற்றவனும்,`
+  - PDF76 — `உழைப்பில், என்று` → `உழைப்பில் என்று`
 - remaining latest-batch changes restore positively visible source punctuation spacing
-- source-confirmed exception retained on PDF71: `இது தியாகமா? அல்லவா? எதுதான் தியாகம்?` remains unspaced
+- PDF76 user-adjudicated opening sentence remains canonical and unchanged
+- source-confirmed no-space exceptions retained, including PDF72 `பாதகசெயல்?` / `அக்கிரமச் செயல்?` / terminal `தியாகப்பட்டியலில்?`, and PDF73 `மறையவில்லையே?` / `தெரியாதா மக்களுக்கு?`
 - retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
 
 ## T2 verification safeguard
@@ -136,6 +139,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 pages**.
 
 English remains blocked pending Tamil freeze.
