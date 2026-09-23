@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF57–61",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF62–66",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 51,
+    "pages_audited": 56,
     "pages_total": 76,
-    "latest_range": "PDF52–56",
-    "latest_range_result": "5/5 audited; 13 new valid corrections; 0 unresolved",
-    "corrections_total": 101,
+    "latest_range": "PDF57–61",
+    "latest_range_result": "5/5 audited; 38 new valid corrections; 0 unresolved",
+    "corrections_total": 139,
     "unresolved": 0,
-    "next_range": "PDF57–61",
+    "next_range": "PDF62–66",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -891,6 +891,272 @@
         "earlier": "முதலில் முக்கியமாகக் கம்யூனிஸ்டுகள்தான் ஆதரிப்பதாகக் கூறினோம்.",
         "source_supported": "முதலில் முக்கியமாகக் கம்யூனிஸ்டுகளே தான் ஆதரிப்பதாகக் கூறினோம்.",
         "evidence": "direct enlarged source-pixel comparison across source line break கம்யூ / னிஸ்டுகளே தான்",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 57,
+        "earlier": "முடித்து விட்டிருக்கலாம்!",
+        "source_supported": "முடித்து விட்டிருக்கலாம் !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 57,
+        "earlier": "ஐக்கிய முன்னணிக்கு அழைத்தனர்!",
+        "source_supported": "ஐக்கிய முன்னணிக்கு அழைத்தனர் !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 57,
+        "earlier": "நின்றிருக்கலாம் கம்யூனிஸ்டுகள்!",
+        "source_supported": "நின்றிருக்கலாம் கம்யூனிஸ்டுகள் !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 57,
+        "earlier": "எது தவறு?",
+        "source_supported": "எது தவறு ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 57,
+        "earlier": "எது சாத்திய மற்றது?",
+        "source_supported": "எது சாத்திய மற்றது ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 57,
+        "earlier": "‘திராவிட நாடு’ என்பது என்ன?",
+        "source_supported": "‘திராவிட நாடு’ என்பது என்ன ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "திராவிட சமுதாயம் என்பதே இல்லையா?",
+        "source_supported": "திராவிட சமுதாயம் என்பதே இல்லையா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "சான்றைத் தெரியாதவர்களா?",
+        "source_supported": "சான்றைத் தெரியாதவர்களா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "நடிப்பவர்களா, கம்யூனிஸ்டுகள்?",
+        "source_supported": "நடிப்பவர்களா, கம்யூனிஸ்டுகள் ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "திராவிடர்—ஆரியர்;",
+        "source_supported": "திராவிடர்—ஆரியர் ;",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "பழக்க வழக்கங்கள்;",
+        "source_supported": "பழக்க வழக்கங்கள் ;",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "மறைக்கவோ முடியுமா?",
+        "source_supported": "மறைக்கவோ முடியுமா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 58,
+        "earlier": "முடியாது!",
+        "source_supported": "முடியாது !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 59,
+        "earlier": "எந்தக் கனகவிசயர்களாலும் முடியாது!",
+        "source_supported": "எந்தக் கனகவிசயர்களாலும் முடியாது !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 59,
+        "earlier": "நம்முடைய விரோதிகள் அல்ல;",
+        "source_supported": "நம்முடைய விரோதிகள் அல்ல ;",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 59,
+        "earlier": "பணியிலே இறங்குகிறார்கள்!",
+        "source_supported": "பணியிலே இறங்குகிறார்கள் !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 59,
+        "earlier": "பெற வேண்டியவர்கள்;",
+        "source_supported": "பெற வேண்டியவர்கள் ;",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 59,
+        "earlier": "விலகி ஓடுகிறார்கள்!",
+        "source_supported": "விலகி ஓடுகிறார்கள் !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 59,
+        "earlier": "‘ஐயோ, பாவம்!’",
+        "source_supported": "‘ஐயோ, பாவம் !’",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "மனதிலே ஊன்றியிருக்குமா?",
+        "source_supported": "மனதிலே ஊன்றியிருக்குமா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "வெறுப்பு உண்டாகித்தான் இருக்குமா!",
+        "source_supported": "வெறுப்பு உண்டாகித்தான் இருக்குமா !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "இருப்பவர்களல்ல!",
+        "source_supported": "இருப்பவர்களல்ல !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "முதலில் ‘தியாகம்’ என்றால் என்ன?",
+        "source_supported": "முதலில் ‘தியாகம்’ என்றால் என்ன ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "தியாகத்தின் இலட்சணந்தான் என்ன?",
+        "source_supported": "தியாகத்தின் இலட்சணந்தான் என்ன ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "அனுபவிப்பதுமட்டுந்தானா?",
+        "source_supported": "அனுபவிப்பதுமட்டுந்தானா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "குண்டடிபடுவது மட்டுமேதானா?",
+        "source_supported": "குண்டடிபடுவது மட்டுமேதானா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "‘தியாகி’ப் பட்டம் பெற!",
+        "source_supported": "‘தியாகி’ப் பட்டம் பெற !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "எது தியாகம்’?",
+        "source_supported": "எது தியாகம்’ ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 60,
+        "earlier": "தியாகிகள் தானா?",
+        "source_supported": "தியாகிகள் தானா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "மட்டுமே தியாகமாகிவிட முடியுமா?",
+        "source_supported": "மட்டுமே தியாகமாகிவிட முடியுமா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "விளைத்திடும் பயன்தான் என்ன?",
+        "source_supported": "விளைத்திடும் பயன்தான் என்ன ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "பெறுவது பிரமாதமல்ல!",
+        "source_supported": "பெறுவது பிரமாதமல்ல !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "அதல்ல பெரிது;",
+        "source_supported": "அதல்ல பெரிது ;",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "தியாகம், பெரிது;",
+        "source_supported": "தியாகம், பெரிது ;",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "பயன் பெரிது!",
+        "source_supported": "பயன் பெரிது !",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "தியாகம் என்பது என்ன?",
+        "source_supported": "தியாகம் என்பது என்ன ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "தியாகிகள்தானே?",
+        "source_supported": "தியாகிகள்தானே ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 61,
+        "earlier": "தியாகிகள் இல்லையா?",
+        "source_supported": "தியாகிகள் இல்லையா ?",
+        "evidence": "direct enlarged source-pixel comparison; source punctuation spacing",
         "guessed_reconstruction": 0
       }
     ],
