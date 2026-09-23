@@ -61,7 +61,7 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 
 ## Fixed cadence
 
-**10 physical PDF pages per user iteration.**
+**20 physical PDF pages per user iteration.**
 
 This is the user's latest explicit cadence for the active English E1 stage.
 
@@ -181,24 +181,13 @@ The Tamil layer must not be changed for style, modernization, punctuation normal
 
 ## English E1 progress
 
-- status — **IN PROGRESS**
-- translated — **5/76**
-- latest batch — **PDF6–10 / 5 pages COMPLETE**
-- next batch — **PDF11–15 / 5 pages**
-- English fidelity review — blocked pending complete E1
-- Tamil source layer — **FROZEN / ARCHIVAL-READY**
-
-Batch 1 preserves page provenance and translates only from the frozen Tamil canonical layer. PDF10 includes one translator/source note for the unusual frozen form `பாரளவந்த`; no Tamil wording was changed.
-
-## English E1 progress
-
 - Tamil prerequisite — **FROZEN / ARCHIVAL-READY**
 - E1 status — **IN PROGRESS**
-- translated — **15/76**
-- completed range — **PDF6–20**
-- latest batch — **PDF11–20 / 10 pages COMPLETE**
-- cadence — **10 physical PDF pages per user iteration**
-- next range — **PDF21–30 / 10 pages**
+- translated — **35/76**
+- completed range — **PDF6–40**
+- latest batch — **PDF21–40 / 20 pages COMPLETE**
+- cadence — **20 physical PDF pages per user iteration**
+- next range — **PDF41–60 / 20 pages**
 - fidelity review — blocked pending complete E1
 - final verification — blocked pending review
 
@@ -206,6 +195,6 @@ English is translated only from the frozen canonical Tamil. Difficult or interna
 
 ## Exact next activity
 
-Process **English E1 translation — PDF21–30 / 10 physical pages**.
+Process **English E1 translation — PDF41–60 / 20 physical pages**.
 
 Continue page-by-page from frozen `transcription-ta.md`, preserve page provenance, rhetoric, repetition, names, figures and source-supported oddities, and keep English fidelity review blocked until E1 is complete.

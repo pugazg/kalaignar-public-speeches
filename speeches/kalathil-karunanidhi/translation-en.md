@@ -1,16 +1,16 @@
 # களத்தில் கருணாநிதி — English translation
 
-**Status:** E1 **IN PROGRESS — PDF6–20 / 15 of 76 speech-body pages translated; Tamil canonical layer FROZEN / ARCHIVAL-READY (2026-09-23).**  
+**Status:** E1 **IN PROGRESS — PDF6–40 / 35 of 76 speech-body pages translated; Tamil canonical layer FROZEN / ARCHIVAL-READY (2026-09-23).**  
 **Source layer:** `transcription-ta.md` — frozen canonical Tamil, PDF6–81 / 76 speech-body pages.  
 **Translation authority:** translate only from the frozen Tamil layer; do not use OCR or an outside edition to rewrite or silently repair source wording.  
 **Translation rule:** preserve rhetoric, repetition, historical names/terms, unusual source forms, and source distinctions as faithfully as practical. Where a source form is difficult or internally odd, keep the English transparent with a translator/source note rather than silently normalizing the Tamil.
 
 ## Progress
 
-- E1 pages translated — **15/76**
-- latest batch — **PDF11–20 / 10 physical pages — COMPLETE**
-- cadence — **10 physical PDF pages per user iteration**
-- next batch — **PDF21–30 / 10 physical pages**
+- E1 pages translated — **35/76**
+- latest batch — **PDF21–40 / 20 physical pages — COMPLETE**
+- cadence — **20 physical PDF pages per user iteration**
+- next batch — **PDF41–60 / 20 physical pages**
 - fidelity review — blocked until E1 is complete
 
 ## Speech body
@@ -180,3 +180,303 @@ Some members of the public saw this horror, cried out, and complained to the pol
 They questioned the prisoner again and again. “What is this, man? You have begun eating a corpse?” What was the prisoner's answer? “Alas, I wasted away in hunger—there was no rice to eat. I ate whatever I could find—sesame plants did not end my hunger; oil-cake and tamarind seeds did not help me. I could not bear the hunger. I thought I would at least eat the corpse—the flesh of the corpse—and satisfy my hunger. I went to the cremation ground. I ate the corpse—I did not know, could not find, any other way to drive away my hunger,” he cried.
 
 When the rulers heard this, did they weep? Did they at least say, “Alas, poor man”? Did they give him rice and say, “Here, eat and satisfy your hunger”? Anything—
+
+### PDF page 21 — printed page 20
+
+—No. Hunger, famine and starving masses have grown in the country to the point where a man eats a corpse. Fearing what would happen if news of this horror of government became known to the world, and what neighbouring countries would think, they said in the complaint about him that he was “mad,” and that it was because of this confused mental state that the madman ate even a corpse. But he cried, “No, I am not a madman. I am a hungry man, a hungry man!” What use was it? To the world, he was a madman—a madman indeed.
+
+On one side, the horror of giving urine to a man suffering from thirst; if he cries “Mother!”, the demonic act of forcing sexual intercourse with his mother. On the other side, starving masses: people of the country reduced to walking corpses, suffering as they eat tamarind seeds, oil-cake, *kattāzhai*—why, even tearing flesh from corpses and eating it. They have neither time nor heart to think about any of it. In between, they fling out plenty of mocking talk and words of ridicule.
+
+Amid all their many other external affairs, they attend to the food famine as a pastime, a game, a spectacle of entertainment.
+
+### PDF page 22 — printed page 21
+
+There is food scarcity in the country; hunger and the starving masses have multiplied. Food is insufficient. The people turn toward the government and ask, “Give us food, give us food.” The manner in which the ministers who govern the land attend to this is extremely bad; it appears as mockery and ridicule. This is the speech of Central Food Minister Munshi:
+
+“Hunger? Why! No food? Why is there no food? Has food production fallen? Why has food production fallen? Because the fields are not fertile! Why are the fields not fertile? The water in the fields has dried up. Why has the water dried up? There is no rain. Why is there no rain? Are there no clouds in the sky? Why are there no clouds? The monsoon wind has failed.” Speaking on and on like this, he says the cause of all this is that the country does not have enough forests and trees. If there are forests and trees, they will absorb water from the earth and mix water vapour into the air through their leaves and foliage; clouds in the sky will increase—if clouds increase, rain will fall; if rain falls, water will flow through the fields; if water flows through the fields, the fields will become fertile; if the fields become fertile, the yield will increase; if the yield increases, production will increase; if production in—
+
+### PDF page 23 — printed page 22
+
+—creases, food will become surplus and the food famine itself will disappear.
+
+Therefore, increase it, everyone—increase tree planting; plant trees throughout the country; celebrate tree-planting festivals in a grand manner; make them like religious festivals, he said, giving the Brindavan plan. For people lying hungry for want of food, *Vanamahotsavam*, tree-planting festivals, were held throughout the country and continue to be held. They are conducted with great pomp, with immense ceremony and spectacle, and with heavy publicity.
+
+This tree-planting festival! What for? Plant a tree; let it become a sapling, then grow without withering into a great tree; let the tree absorb water from the earth, release vapour into the air through its leaves, cool the air, draw clouds and make rain fall! What a strange arrangement! An arrangement devised to solve the immediate problem of starvation!
+
+Officials who have neither that profession nor any habit or practice of planting trees travel from town to town to plant them. Is that all? The sums spent on these tree-planting festivals are enormous—many thousands upon thousands of rupees. Every bit of it is the people's tax money.
+
+> **Translator/source note — PDF23:** *Vanamahotsavam* and “Brindavan plan” are retained as historical programme terms appearing in the frozen Tamil; no outside identification is used to expand them.
+
+### PDF page 24 — printed page 23
+
+It is being spent around the small, ordinary event of planting trees.
+
+But does the tree planting itself yield results? Is it at least being done properly? No.
+
+I am now speaking from this platform in support of comrades who have signed the Dravida Munnetra Kazhagam pledge, accepted the Dravida Nadu question, and are standing for election. I ask all of you to give your votes to them. A few months from now, suppose I speak once again in this same place. Then there would be meaning, pride and happiness in my saying: “I spoke earlier in this very place, and now I am speaking here again. The voters acted as I said and requested then; they supported the separation of the country.” But look at the peculiarity of *Vanamahotsavam*.
+
+Suppose, for example, that *Vanamahotsavam* is celebrated here this year with great effort. Some saplings are planted here during the festival. The next year, *Vanamahotsavam* is held in the same place again. Then they say—
+
+### PDF page 25 — printed page 24
+
+—“It was in this very place that the great tree-planting festival was held last year too. Our hearts swell and joy overflows when we see this festival being held in the same place this year as well.” How is that? The victory drum of the Brindavan plan! The benefit?
+
+The saplings planted this year either died off or were grazed away by goats and cattle and went to waste. So the next year, in the same place, once again a tree-planting festival is held with the people's tax money—and we are to feel joy? Pride!
+
+This is how tree-planting festivals, *Vanamahotsavams*, are conducted. Wasteful expenses, useless journeys, needless pomp, publicity demonstrations and entertainment spectacles that waste time are staged in connection with this festival; money is squandered—the people's tax money.
+
+Why should high-ranking officials travel from town to town for the perfectly ordinary act of planting a small sapling? Why should the people's money be squandered extravagantly and uselessly? Could this tree-planting work not be conducted as an ordinary task by the agricultural departments found everywhere, by departments that know the subject and exist precisely to develop agriculture? Wasteful expenses, useless publicity costs—
+
+### PDF page 26 — printed page 25
+
+—could instead be used in ways that benefit the country!
+
+As if to throw all this into relief, a *Vanamahotsavam* was held in one part of Calcutta. Its details are extremely strange!
+
+In one part of Calcutta, a tree-planting festival, a *Vanamahotsavam*, was advertised with lavish pomp, demonstrations and spectacle. Thousands of people were gathered, and in the presence of a senior government official, elaborate arrangements were made for the planting of a tree.
+
+People gathered at a particular spot in an open ground for the tree planting. The place where the tree was to be planted lay on one side. Around that ground, like a fence, stood trees that had already grown tall over many years. These trees stood between the assembled people and the spot where the tree was to be planted; they obstructed the people's view of the great tree-planting festival, particularly the actual sight of the planting.
+
+For this reason, so that the people might see one sapling being planted, so that at a festival meant to increase forest growth and trees they might see the sapling planted for that very—
+
+### PDF page 27 — printed page 26
+
+—purpose, the future tree—the already tall, flourishing trees were cut down and felled for the single reason that they blocked the view, by the august gathering celebrating *Vanamahotsavam*! What perverse intelligence? What a strange policy, a contradictory and foolish policy! Can we forget the condition in which the people are trapped and ruined under dull-witted men who set out to produce trees by cutting down the trees already there?
+
+Can such a degrading, utterly low policy be found anywhere else? They proclaim that the festival exists to produce trees and thereby increase food; yet because those very trees obstruct and conceal the spectacle of planting a tree, they act contrary to their own policy—not merely contrary, but directly opposite to the very policy of *Vanamahotsavam*—and instead of tree production they celebrate a festival of tree destruction. What a disgrace. Look at the audacity with which the people's money is being wasted.
+
+The country is proceeding in such an unfortunate condition. Under the Congress government's rule, is the administration not being conducted like fools without even a little brain—
+
+### PDF page 28 — printed page 27
+
+—alas, what a pity!
+
+“Brainless”—that is not our phrase. An English newspaper that supports Congress itself mocks this through an imaginary story, framed in the sense: “The brain completely empty—for the Congress cabinet.”
+
+There was a doctor, reputed to be skilled in curing diseases of the brain. He would open the heads of patients suffering from brain disorders and similar illnesses, take out the brain, examine it, remove the defects, and place the brain back into the head. In this method of treatment he was a highly experienced and skilful man.
+
+One day a man came running and walking in great haste to such a doctor and urgently asked him to examine and treat his brain quickly. The doctor split open his head, removed the brain separately, and examined it. After completing the examination and carrying out a few treatments, he returned to put the brain back into the head of the patient with the brain disorder.
+
+What a surprise—the man was nowhere to be seen. Leaving the brain behind, leaving it completely there—
+
+### PDF page 29 — printed page 28
+
+—he had gone off somewhere without his brain. The doctor was in a terrible predicament.
+
+“He seems to have gone somewhere urgently. He will come back immediately to collect his brain,” the doctor thought, and waited. The man was nowhere to be seen. He never returned.
+
+Where had this brainless man disappeared to? What troubles might he be undergoing? The doctor must have thought and worried about all this.
+
+The man who had come to cure a brain disorder had gone away, leaving the whole of his brain with the doctor. What was to be done?
+
+The doctor placed the brain in a chemical jar and preserved it with great care.
+
+Many days rolled by. The man did not return.
+
+Week after week came and went. The clown who had gone away brainless, leaving his brain behind, did not come.
+
+Many months disappeared. There was no news at all of the man who had come to cure his brain disorder and then left.
+
+### PDF page 30 — printed page 29
+
+The doctor continued to preserve the brain safely. What if, one day, that “brain patient” suddenly appeared before him and asked for his brain back—what would he do?
+
+Days passed, weeks and months disappeared. One full year came to an end. There was still no information about the patient.
+
+The years rolled by—one, two, three, four.
+
+Four years ended, and the fifth year began.
+
+The “brain” was still safe. It was only the man to whom the brain belonged who was nowhere to be seen.
+
+Without a brain—having left elsewhere, safely preserved, the brain that governs intelligence, action, speech and feeling; the seat of inquiry; the rational faculty that distinguishes a human being from an animal—what could that man with the brain disorder possibly do? What could he be capable of? The doctor thought about all this.
+
+A brainless man—and one who had already known that he had a brain disorder and had come for treatment—had left even the brain itself behind—
+
+### PDF page 31 — printed page 30
+
+—and was moving about outside. What could he do? What could he say? What occupation could he possibly perform? Who would give him work? Even if someone did, how could a brainless man manage it?
+
+The fifth year too continued to pass, in days, weeks and months.
+
+The brain doctor may even have stopped thinking about the brain in the jar.
+
+One day, suddenly, a man came running to the doctor.
+
+The moment he saw him, the doctor stood frozen in astonishment.
+
+Who was this person who left the doctor bewildered and dumbfounded? No one else. It was the very man who had come saying he had a brain disorder and, before the doctor could finish setting the brain right, had gone away leaving his brain behind.
+
+Yes. It was the same man—the man who had been without a brain for nearly five years!
+
+He came to the doctor and asked him to put back into his head the brain he had left behind.
+
+The doctor, astonished, asked him, “My man, leaving your brain behind, where have you been all these years, for almost—
+
+### PDF page 32 — printed page 31
+
+—five years? How did you move about? What work did you do?” He asked question after question.
+
+“Me? I urgently went and applied for an important job. I got the job too; I became attached to it and had no heart to leave. There was no rest or respite—so much work. Amid all the trouble of the job, I completely forgot this matter of the ‘brain’,” he said.
+
+“What job was that?” asked the doctor.
+
+“I was working as a minister in a Congress cabinet,” came the reply.
+
+How is the construction and meaning of this imaginary story? And that too in a Congress newspaper?
+
+A man who already had a brain disorder. A man whose intelligence was not right. A man who had lost intelligence, knowledge and the ability to reason. A man unfit to conduct affairs.
+
+His brain had become disordered; it had gone bad; it had become defective. To repair it and set it right, he came to the brain doctor.
+
+The doctor, skilled at setting brains right, separated the brain from the head and took it away—
+
+### PDF page 33 — printed page 32
+
+—for examination. By the time he examined it and returned, the patient was nowhere to be seen.
+
+The surprise was not merely that the patient had disappeared. His brain itself had been removed separately from his head, and at that very time the man vanished. Not for one day or two, not for one month or two, not for one year or two—for more than four years, the brain was not in that man's head.
+
+The man who had left his brain behind and remained without it returned after more than four years, looking for his brain.
+
+During the intervening period he had not remained idle, nor had he been left helpless; he had not struggled without work. He had continued in the job he obtained for more than four years.
+
+A job with no work for the brain; a foolish job. Intelligence, knowledge, the capacity to analyze, the ability to investigate, the power to plan—none of these were needed for his work. Forgetting the “brain,” with a skull containing no brain, he worked for more than four years in that brainless condition.
+
+> **Translator/source note — PDF33:** one frozen phrase in the duration sentence is internally irregular in form; the surrounding repeated chronology explicitly establishes the intended span as more than four years. The English does not alter the Tamil text.
+
+### PDF page 34 — printed page 33
+
+What work! Ordinary wage labour? No! Driving a bullock cart? Not that either. Begging? A clerk's job? Certainly not. Then what work?
+
+During the period in which he was “without a brain,” the work he did was ministerial work; he governed the country. He worked as a minister ruling the people!
+
+Ministerial work! Ministerial work for a head without a brain! The work of governing a country for a person with no intelligence, who could not possibly have any! Ministerial work for a man without even the sense that one ought to have!
+
+How amusing! In what country did this amusing minister obtain ministerial work? In what cabinet did he receive a minister's post? Where did he get it?
+
+He himself gives the answer. Listen.
+
+“During those days when I had the disease of having no brain, I worked as a minister in a Congress cabinet!”
+
+What? In a Congress cabinet? In a cabinet of the heirs of Gandhism and truth?
+
+Yes! In a Congress cabinet. He “had the brain removed separately and kept safe in a solution, and—
+
+### PDF page 35 — printed page 34
+
+—worked as a minister for five years.”
+
+You may roar at me angrily: “Brainless ministers? Are they the ones governing the country? And that too in a Congress cabinet? What a perverse mind you have! Why would you not say such things?”
+
+But it is not I, my friend, who mocks in a way that conveys, “A cabinet that gives place to the brainless; ministers who do not need a brain at all; ministers who govern as though they had no brain.” It is your own newspapers!
+
+An English newspaper, through an imaginary story, portrays the Congress cabinet in terms of a brainless man.
+
+Another Tamil paper goes a step further.
+
+It has even denounced them as: “MLAs without a sense of shame! Lazy ministers!”
+
+Those are not our words! Nor are they a speech or writing of scholar Anna!
+
+That is the fine testimonial supplied by the Congress paper *Gandibam*: “MLAs without a sense of shame; lazy ministers.”
+
+> **Translator/source note — PDF35:** the rhetorical Tamil term “சொரணை” is rendered here as “sense of shame”; the English preserves the source's polemical framing without identifying or evaluating the newspaper's claim independently.
+
+### PDF page 36 — printed page 35
+
+Does this not mean that the condition—the disorder of the administration—has become that bad? Are not these darts of abuse the result of it?
+
+What is our view of Congress?
+
+Congress awakened political consciousness in the country. It conducted the national struggle!
+
+It raised the song of national liberation among the people. It breathed the fire of nationalism. It worked for white imperial rule to leave this country.
+
+We do not deny any of the things stated above in our hearts, nor do we conceal them.
+
+But what is the condition of Congress today, after independence?
+
+Should Congress continue to exist, or should it not? Should we vote for Congress, or should we not?
+
+Congress must die; it must be made to die. Why!
+
+Congress must perish; it must be destroyed! Why?
+
+Congress must go; it must be abolished. Why?
+
+### PDF page 37 — printed page 36
+
+It is not out of hatred for Congress that we say Congress must be abolished!
+
+We have affection for Congress. Can we forget that the hero V. O. Chidambaranar was in Congress?
+
+Can we forget that Tiruppur Kumaran was in Congress?
+
+We do not refuse to remember the scars of sacrifice left by the Bhagat Singhs who gave their very lives in Congress.
+
+We will not fail to praise the fact that martyrs such as Thillaiyadi Valliammai, heroic Tamil women, shone within Congress!
+
+Then why do we say Congress must perish?
+
+Congress must indeed perish; it must indeed be destroyed—we say it again, firmly and emphatically. Why? Why?
+
+Congress, which once stood like a great mansion, has today become a mound of earth!
+
+Congress, which stood like forts and bastions, has today become a broken little wall!
+
+### PDF page 38 — printed page 37
+
+Congress, which was once an abode for service to the people and public work, has today become a jungle of office-hunting, filled with thorny growth.
+
+Congress, which once had the hero Chidambaranar, has today reached a state in which it must be protected by petty Sivagnanams and little men!
+
+Congress is dissolving; it keeps dissolving! Congress has strayed in thought, in character and in the path of service. It has sunk deep into an improper path.
+
+Self-interest, intrigue, exploitation, office and the hunt for permits have become the marks of today's Congress.
+
+Seeing this, we who have affection for Congress feel pity. We sympathize, saying, “Alas, poor thing.”
+
+We who show affection, we who show concern, also say that it must be destroyed.
+
+The conclusion “it must be destroyed” is itself the result of affection.
+
+Because of that affection, we say Congress must be destroyed.
+
+> **Translator/source note — PDF38:** the frozen phrase built around “சிவஞானங்கள்” is retained as “Sivagnanams” rather than being silently identified with or expanded into a particular person.
+
+### PDF page 39 — printed page 38
+
+Do not think, “Would those who love something want to see its destruction? How amusing! How strange!” This is true.
+
+When we see the dishonourable condition of Congress, we say that rather than continue to exist and decay into still greater degradation, it would be better for it to die; it would be good for it to disappear. What is wrong in that?
+
+We are those who have affection; therefore, with good intention, we say Congress should be destroyed before it becomes still more disorderly and then collapses.
+
+Showing affection; destroying. The two are indeed opposite qualities, contradictory to one another.
+
+In our homes we raise domestic animals—dogs, cats and the like.
+
+A pet animal raised with affection falls ill and becomes extremely weak. It has also grown old.
+
+In that condition, we take the sick dog to a veterinary doctor. The doctor examines it and gives many medicines.
+
+Even after many medicines are given, the dog does not recover. The disease remains severe.
+
+### PDF page 40 — printed page 39
+
+The dog has become dreadful even to look at. We cannot bear to see the suffering it undergoes.
+
+Seeing the dog that once ran, played and leapt about now lying still, we shed tears; we worry.
+
+The doctor gives the final verdict: the dog will not survive; there is no sign at all that it can survive.
+
+We must keep the dog that will not and cannot recover and continue watching its suffering until it dies.
+
+The dog is going to live for a little longer, perhaps another day or two, rotting, becoming maggot-ridden, unable to bear the pain, crying out and howling, its body ruined, a walking corpse.
+
+Does this horrific sight, this cruel event, need to befall a dog that was raised with affection? Must we watch it? Must we endure watching it?
+
+It is certainly going to die, but it is suffering; the dog is tormented beyond endurance by the disease.
+
+Rather than let this condition continue, let the dog deteriorate severely and die without peace, it is better that it die at once—immediately—that it be made to die.

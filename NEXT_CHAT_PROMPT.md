@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / English E1 PDF21–30
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / English E1 PDF41–60
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,18 +27,18 @@ Only a separately established source-backed defect may reopen Tamil.
 ## English E1 state
 
 - status — **IN PROGRESS**
-- translated — **15/76**
-- completed — **PDF6–20**
-- latest batch — **PDF11–20 / 10 pages COMPLETE**
-- next — **PDF21–30**
+- translated — **35/76**
+- completed — **PDF6–40**
+- latest batch — **PDF21–40 / 20 pages COMPLETE**
+- next — **PDF41–60**
 - fidelity review — blocked pending complete E1
 - final verification — blocked pending review
 
 ## Cadence — authoritative
 
-**Process exactly 10 physical PDF pages per user iteration.**
+**Process exactly 20 physical PDF pages per user iteration.**
 
-This supersedes the earlier 5-page English cadence.
+This supersedes the earlier 10-page English cadence.
 
 ## Translation rule
 
@@ -50,6 +50,6 @@ Do not translate from OCR, use an outside edition as textual authority, or alter
 
 ## Exact next activity
 
-**English E1 translation — PDF21–30 / 10 physical pages.**
+**English E1 translation — PDF41–60 / 20 physical pages.**
 
-Append the translation to `translation-en.md`, update English progress/control documents to **25/76** if the batch completes, and keep `translation-review.md` blocked until E1 is complete.
+Append the translation to `translation-en.md`, update English progress/control documents to **55/76** if the batch completes, and keep `translation-review.md` blocked until E1 is complete.

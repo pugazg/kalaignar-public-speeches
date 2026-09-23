@@ -19,20 +19,19 @@ Do not reopen Tamil except for a separately established source-backed defect.
 ## English E1 state
 
 - status — **IN PROGRESS**
-- translated — **15/76**
-- completed — **PDF6–20**
-- Batch 1 — PDF6–10 / **5 pages COMPLETE**
-- Batch 2 — PDF11–20 / **10 pages COMPLETE**
-- cadence — **10 physical PDF pages per user iteration**
-- next — **PDF21–30 / 10 pages**
+- translated — **35/76**
+- completed — **PDF6–40**
+- latest batch — **PDF21–40 / 20 pages COMPLETE**
+- cadence — **20 physical PDF pages per user iteration**
+- next — **PDF41–60 / 20 pages**
 - fidelity review — blocked pending complete E1
 - final verification — blocked pending review
 - canonical translation source — frozen `transcription-ta.md` only
 
-Translator/source notes currently preserve difficult frozen forms including PDF10 `பாரளவந்த`, PDF11 `பஞ்சு! மந்திரிகள்`, PDF12 `மாட்டுப்பெட்டி`, PDF13 `கத்தாழை`, PDF15 `குடாகச் சாப்பிடு`, and PDF19 `சத் (!!) பணி`. None of these notes changes the frozen Tamil.
+Translator/source notes are used only where frozen Tamil is internally difficult or unusually source-specific. No English work changes the frozen Tamil layer.
 
 ## Exact next activity
 
-Process **English E1 PDF21–30 / 10 physical pages**.
+Process **English E1 PDF41–60 / 20 physical pages**.
 
 Continue from the frozen canonical Tamil. Preserve page provenance, rhetoric, repetition, historical terminology, names, numbers and source-supported oddities. Keep English fidelity review blocked until all 76 speech pages have E1 translation.
