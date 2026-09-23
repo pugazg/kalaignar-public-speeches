@@ -10,16 +10,17 @@ Archive: `speeches/kalathil-karunanidhi/`
 - Tamil canonical — **FROZEN / ARCHIVAL-READY**
 - English E1 — **COMPLETE / PASS — 76/76**
 - English fidelity review — **COMPLETE / PASS — 76/76**
-- final English verification — **IN PROGRESS — 54/76**
-- verified range — **PDF6–59**
-- Batch 1 PDF6–32 — **PASS**
-- Batch 2 PDF33–59 — **PASS**
+- final English verification — **COMPLETE / PASS — 76/76**
+- final-verification batches — **3/3 PASS**
 - new English corrections during final verification — **0**
-- frozen Tamil changes — **0**
-- final remainder — **PDF60–81 / 22 pages**
+- missing English pages — **0**
+- frozen Tamil changes from translation/review/verification — **0**
+- repository/release closure — **READY**
+
+Do not reopen frozen Tamil or the verified English layer for stylistic polishing. Reopen only for a separately established source-backed defect.
 
 ## Exact next activity
 
-Process **final English verification PDF60–81 / final 22 physical pages**.
+Perform **repository/release closure for `களத்தில் கருணாநிதி`**.
 
-Confirm the final reviewed range against frozen Tamil and `translation-review.md`. If it passes, mark final English verification **COMPLETE / PASS — 76/76** and advance to repository/release closure.
+Reconcile `README.md`, `metadata.json`, `audit.md`, `HANDOVER.md`, `translation-en.md`, `translation-review.md`, and root `NEXT_CHAT_PROMPT.md`; mark release/archive readiness consistently; confirm no pending transcription, translation, review or final-verification work remains.

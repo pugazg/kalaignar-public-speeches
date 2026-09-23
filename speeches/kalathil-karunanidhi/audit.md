@@ -2070,3 +2070,28 @@ Exact next activity: **Final English verification — PDF6–32 / first 27 physi
 Cumulative final English verification — **54/76**.
 
 Exact next activity: **Final English verification PDF60–81 / final 22 pages**.
+
+## Final English verification closure — PDF60–81 — 2026-09-23
+
+**PASS — FINAL BATCH 22/22 / CUMULATIVE 76/76**
+
+Final verification results:
+
+- final batch — **PDF60–81 / 22 pages PASS**
+- cumulative final English verification — **PDF6–81 / 76/76 COMPLETE / PASS**
+- fidelity-review corrections/source notes in final range — **confirmed present**
+- page order — **PASS**
+- cross-page joins — **PASS**
+- terminal close — **PASS**
+- newly detected omissions — **0**
+- newly detected unsupported additions — **0**
+- new English corrections required during final verification — **0**
+- frozen Tamil changes — **0**
+
+The English layer continues to present historical and political assertions as claims/rhetoric of the source speech, not as independent verification or endorsement.
+
+### Closure gate
+
+**REPOSITORY / RELEASE CLOSURE — READY**
+
+Exact next activity: reconcile all archive control files and close `களத்தில் கருணாநிதி` without reopening frozen Tamil or verified English absent a separately established source-backed defect.

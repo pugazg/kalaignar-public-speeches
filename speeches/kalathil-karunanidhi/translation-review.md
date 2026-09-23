@@ -304,3 +304,56 @@ Post-review integrity checks:
 
 Cumulative final verification — **54/76**  
 Next — **PDF60–81 / final 22 pages**
+
+## Final English verification — Batch 3 / PDF60–81
+
+**PASS — 22/22 VERIFIED**
+
+Post-review integrity checks:
+
+- PDF pages present and ordered — **22/22**
+- missing pages — **0**
+- new whole-paragraph omissions — **0**
+- new unsupported additions — **0**
+- final-batch fidelity-review corrections/source notes — **all confirmed present**
+  - PDF61 — `பட்ட வதை` retained as `the torment suffered`
+  - PDF63 — `மனவலிமை` retained as `mental fortitude`
+  - PDF67 — `இனப்படையெடுப்பு` retains the `ethnic` component
+  - PDF68 — `மணிகள்` metaphor retained as `gems`
+  - PDF70 — interrogative force and source note retained
+  - PDF73 — source-sensitive note retained
+  - PDF76 — `சதி` clause remains free of the unsupported `action` addition
+  - PDF78 — `வேதன்` retained as `Vedan`; source note retained
+  - PDF80 — `பகுத்துறையிலே` scope retained
+  - PDF81 — `சோதனிகளின்` source note retained
+  - PDF81 terminal proclamation contains no inserted `Kazhagam`
+- cross-page continuity — **PASS**
+  - PDF59→60
+  - PDF64→65
+  - PDF67→68
+  - PDF74→75
+  - PDF76→77
+  - PDF77→78
+  - PDF78→79
+  - PDF79→80
+  - PDF80→81
+- terminal close — **PASS**
+- new English corrections required — **0**
+- frozen Tamil changes — **0**
+
+### Batch 3 disposition
+
+**FINAL-VERIFIED — PDF60–81 / 22 pages**
+
+## Final English verification closure
+
+**COMPLETE / PASS — PDF6–81 / 76 of 76**
+
+- final-verified pages — **76/76**
+- final-verification batches — **3/3 PASS**
+- new English corrections introduced during final verification — **0**
+- missing English pages — **0**
+- frozen Tamil changes — **0**
+- repository/release closure — **READY**
+
+Exact next activity: **Repository/release closure for `களத்தில் கருணாநிதி`**.

@@ -2,7 +2,7 @@
 
 **Repository classification:** **PUBLIC SPEECHES**  
 **Speaker:** கலைஞர் மு. கருணாநிதி  
-**Status:** **ACTIVE — Tamil T1/T2/T3 COMPLETE / Tamil FROZEN / English E1 READY**
+**Status:** **CLOSURE READY — Tamil FROZEN / English E1 COMPLETE / Fidelity review COMPLETE / Final English verification COMPLETE**
 
 ## Classification correction
 
@@ -187,8 +187,8 @@ The Tamil layer must not be changed for style, modernization, punctuation normal
 - final E1 batch — **PDF61–81 / 21 pages COMPLETE**
 - page provenance — **preserved PDF6–81**
 - frozen Tamil changes introduced by English — **0**
-- English fidelity review — **READY / UNBLOCKED**
-- final English verification — blocked pending fidelity review
+- English fidelity review — **COMPLETE / PASS — 76/76**
+- final English verification — **COMPLETE / PASS — 76/76**
 
 English was translated only from the frozen canonical Tamil. Source claims, rhetoric, unusual terminology and difficult forms are represented as source material; translator/source notes are used where needed instead of rewriting Tamil.
 
@@ -206,19 +206,20 @@ English was translated only from the frozen canonical Tamil. Source claims, rhet
 - missing English pages — **0**
 - final English verification — **READY / UNBLOCKED**
 
-## Final English verification progress
+## Final English verification
 
-- status — **IN PROGRESS**
-- verified — **PDF6–59 / 54 of 76**
-- Batch 1 — **PDF6–32 / PASS**
-- Batch 2 — **PDF33–59 / PASS**
+**COMPLETE / PASS — PDF6–81 / 76 of 76**
+
+- Batch 1 — PDF6–32 / **27 pages PASS**
+- Batch 2 — PDF33–59 / **27 pages PASS**
+- Batch 3 — PDF60–81 / **22 pages PASS**
 - new English corrections during final verification — **0**
+- missing English pages — **0**
 - frozen Tamil changes — **0**
-- final remainder — **PDF60–81 / 22 pages**
-- cadence — **27 pages per iteration; final remainder 22**
+- repository/release closure — **READY**
 
 ## Exact next activity
 
-Process **final English verification — PDF60–81 / final 22 physical pages**.
+Perform **repository/release closure for `களத்தில் கருணாநிதி`**.
 
-Verify the reviewed English against frozen Tamil and the recorded fidelity-review findings. Do not reopen Tamil absent a separately established source-backed defect.
+Reconcile all control files, mark the archive/release state consistently, and close the work without reopening frozen Tamil or reviewed English except for a separately established source-backed defect.

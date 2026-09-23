@@ -14,8 +14,9 @@
 - English fidelity review — **COMPLETE / PASS — PDF6–81 / 76 of 76 reviewed**
 - review corrections applied — **16 cumulative**
 - source-transparency notes added — **6 cumulative**
-- final English verification — **IN PROGRESS — PDF6–59 / 54 of 76 verified**
-- next final-verification range — **PDF60–81 / final 22 pages**
+- final English verification — **COMPLETE / PASS — PDF6–81 / 76 of 76 verified**
+- new English corrections during final verification — **0**
+- repository/release closure — **READY**
 
 ## Speech body
 
