@@ -1981,3 +1981,40 @@ Tamil consolidation is **COMPLETE / PASS**.
 Tamil freeze readiness is **READY**, but the Tamil archive is **NOT YET FROZEN** in this step. English remains blocked until the freeze is explicitly recorded.
 
 Exact next activity: **Tamil freeze checkpoint / archival lock**, then unblock English only if the freeze passes.
+
+## Tamil freeze checkpoint / archival lock — 2026-09-23
+
+**PASS — CANONICAL TAMIL FROZEN / ARCHIVAL-READY**
+
+The freeze checkpoint was performed against live `main` after T3 consolidation.
+
+Checkpoint results:
+
+- Tamil T1 — **COMPLETE / PASS — 76/76**
+- Tamil T2 — **COMPLETE / PASS — 76/76**
+- T2 source-supported correction history — **350/350 reconciled**
+- T2 retractions — **2/2 preserved**
+- Tamil T3 consolidation — **COMPLETE / PASS — 76/76**
+- T3 unresolved — **0**
+- T3 canonical wording edits — **0**
+- source/front-matter unresolved — **0**
+- guessed reconstruction — **0**
+- historical-glyph unresolved — **0**
+- user-adjudicated exact readings — **5/5 preserved**
+- PDF12/PDF13 retraction safeguards — **PASS**
+- page-order / printed-folio / cross-page boundary controls — **PASS**
+- terminal close — **`வணக்கம் !`**
+
+### Archival lock
+
+The canonical Tamil layer in `transcription-ta.md` is now **FROZEN / ARCHIVAL-READY**.
+
+Do not reopen the Tamil layer for stylistic polishing, modernization, spelling normalization, punctuation normalization, or translation-driven rewriting. A future Tamil edit requires a separately established, source-backed defect with explicit provenance in this audit.
+
+### English gate
+
+Tamil freeze prerequisite — **SATISFIED**.
+
+English E1 translation is now **READY / UNBLOCKED**. English must be translated only from the frozen canonical Tamil layer, not from OCR or an outside edition.
+
+Exact next activity: **English E1 translation — Batch 1 / PDF6–10 / 5 physical pages**.

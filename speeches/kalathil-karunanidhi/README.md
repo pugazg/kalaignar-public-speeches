@@ -2,7 +2,7 @@
 
 **Repository classification:** **PUBLIC SPEECHES**  
 **Speaker:** கலைஞர் மு. கருணாநிதி  
-**Status:** **ACTIVE — Tamil T1/T2/T3 COMPLETE / Tamil freeze READY (not yet recorded)**
+**Status:** **ACTIVE — Tamil T1/T2/T3 COMPLETE / Tamil FROZEN / English E1 READY**
 
 ## Classification correction
 
@@ -56,8 +56,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 consolidation — **COMPLETE / PASS — 76/76**
-- Tamil freeze — **READY / NOT YET RECORDED**
-- English — blocked pending Tamil freeze
+- Tamil freeze — **FROZEN / ARCHIVAL-READY — 2026-09-23**
+- English E1 — **READY / UNBLOCKED**
 
 ## Fixed cadence
 
@@ -163,8 +163,24 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 English remains blocked until Tamil freeze is explicitly recorded.
 
+## Tamil freeze / archival lock
+
+**PASS — FROZEN / ARCHIVAL-READY — 2026-09-23**
+
+The T1/T2/T3 canonical Tamil state is now locked for archival use.
+
+- frozen speech body — **PDF6–81 / 76/76**
+- T2 corrections reconciled — **350**
+- retractions preserved — **2**
+- T3 unresolved — **0**
+- user adjudications preserved — **5/5**
+- guessed reconstruction — **0**
+- English prerequisite — **SATISFIED**
+
+The Tamil layer must not be changed for style, modernization, punctuation normalization, or to accommodate an English translation. Reopen only for a separately established source-backed defect.
+
 ## Exact next activity
 
-Process **Tamil freeze checkpoint / archival lock**.
+Process **English E1 translation — Batch 1 / PDF6–10 / 5 physical pages**.
 
-Confirm the T3-consolidated Tamil as frozen, synchronize release/freeze state across control documents, and only then unblock English translation.
+Translate only from the frozen `transcription-ta.md`, preserving rhetoric, repetition, source distinctions, historical names/terms, and source oddities. Do not use OCR or an outside edition as translation authority.

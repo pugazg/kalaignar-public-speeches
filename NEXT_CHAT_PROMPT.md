@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil freeze checkpoint
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / English E1 Batch 1 PDF6–10
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,60 +6,56 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 1. `speeches/kalathil-karunanidhi/HANDOVER.md`
 2. `speeches/kalathil-karunanidhi/transcription-ta.md`
-3. `speeches/kalathil-karunanidhi/audit.md`
-4. `speeches/kalathil-karunanidhi/metadata.json`
-5. `speeches/kalathil-karunanidhi/README.md`
-6. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. `speeches/kalathil-karunanidhi/translation-en.md`
+4. `speeches/kalathil-karunanidhi/audit.md`
+5. `speeches/kalathil-karunanidhi/metadata.json`
+6. `speeches/kalathil-karunanidhi/README.md`
 7. this `NEXT_CHAT_PROMPT.md`
 
 Refetch live `main` before editing.
 
-## Durable state
+## Durable Tamil state
 
 - classification — **PUBLIC SPEECHES**
-- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
 - Tamil T2 — **COMPLETE / PASS / 76/76**
-- T2 valid corrections — **350**
-- T2 retracted changes — **2**
-- T2 unresolved — **0**
-- Tamil T3 consolidation — **COMPLETE / PASS / 76/76**
-- T3 unresolved — **0**
-- T3 canonical wording edits — **0**
-- Tamil freeze — **READY / NOT YET RECORDED**
-- English — blocked pending Tamil freeze
+- valid T2 corrections — **350**
+- T2 retractions — **2**
+- Tamil T3 — **COMPLETE / PASS / 76/76**
+- unresolved Tamil — **0**
+- Tamil canonical layer — **FROZEN / ARCHIVAL-READY — 2026-09-23**
 
-## T3 consolidation findings
+Do not reopen Tamil for polishing, modernization, normalization, or to make translation easier. Only a separately established source-backed defect may reopen the Tamil layer.
 
-- PDF6–81 page order/headings — **PASS**
-- printed-page labels — **PASS with source-obscured PDF8 exception**
-  - PDF8 folio area is covered by the source stamp; do not invent a printed number
-- T2 correction history — **350/350 reconciled**
-  - 349 directly represented in current canonical text
-  - 1 earlier PDF75 quote-state superseded by the later no-closing-quote source correction
-- retractions — **2/2 preserved**
-- user adjudications — **5/5 preserved**
-- cross-page boundaries — **PASS**
-- terminal close — `வணக்கம் !`
+## English state
 
-## Authoritative safeguards
+- English E1 — **READY / UNBLOCKED**
+- E1 translated — **0/76**
+- English fidelity review — blocked pending complete E1
 
-- PDF12 — retain `பரிதவிக்கவிட்ட`
-- PDF13 — retain `பரிதவித்து`
-- PDF60 — retain user-adjudicated exact wording
-- PDF76 — retain user-adjudicated opening exactly
-- PDF81 — retain user-adjudicated terminal passage exactly
+## Translation rule
+
+Translate only from frozen `transcription-ta.md`.
+
+Preserve:
+
+- rhetoric and repetition;
+- argumentative structure;
+- historical names and political vocabulary;
+- distinctions in quoted speech and source punctuation where they affect meaning;
+- unusual/archaic or internally difficult source forms through transparent translator/source notes where necessary.
+
+Do not:
+
+- translate from OCR;
+- use an outside edition to overwrite the frozen Tamil;
+- silently modernize or smooth source oddities;
+- infer missing factual details not present in the Tamil source;
+- rewrite Tamil because a smoother English phrasing would be easier.
 
 ## Exact next activity
 
-**Tamil freeze checkpoint / archival lock.**
+**English E1 translation — Batch 1 / PDF6–10 / 5 physical pages.**
 
-Verify that T1, T2 and T3 states and counts agree across all control documents, that no unresolved Tamil items remain, and that all safeguards/adjudications are still exact.
-
-If the checkpoint passes:
-
-- explicitly mark the Tamil canonical text **FROZEN / ARCHIVAL-READY**;
-- record the freeze in `transcription-ta.md`, `audit.md`, `metadata.json`, `README.md`, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`;
-- unblock the next English stage;
-- do not reopen Tamil for stylistic polishing or normalization; only a separately established source-backed defect may reopen it.
+Translate PDF6–10 from the frozen canonical Tamil into `translation-en.md`, preserving page provenance. Update English progress and control documents. Keep `translation-review.md` blocked until E1 is complete.

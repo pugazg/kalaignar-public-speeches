@@ -18,41 +18,41 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — PDF1–5
 - speech body — PDF6–81 / **76 pages**
 
-## Durable Tamil state
+## Frozen Tamil state
 
-- front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — 76/76**
-- Tamil T2 visual/textual fidelity audit — **COMPLETE / PASS — 76/76**
-- cumulative valid T2 corrections — **350**
-- retracted T2 changes — **2**
-- T2 unresolved — **0**
+- Tamil T2 — **COMPLETE / PASS — 76/76**
+- valid T2 corrections — **350**
+- T2 retractions — **2**
 - Tamil T3 consolidation — **COMPLETE / PASS — 76/76**
-- T3 unresolved — **0**
-- T3 canonical wording edits — **0**
-- Tamil freeze — **READY / NOT YET RECORDED**
-- English — blocked pending Tamil freeze
+- unresolved Tamil readings — **0**
+- guessed reconstruction — **0**
+- historical-glyph unresolved — **0**
+- Tamil freeze — **FROZEN / ARCHIVAL-READY — 2026-09-23**
+- English E1 — **READY / UNBLOCKED**
 
-## T3 consolidation results
+## Archival lock rule
 
-- PDF6–81 page-heading sequence — **76/76 exact / ordered**
-- printed-page labels — **PASS with one source-obscured exception**
-  - PDF7 = printed 6
-  - PDF8 folio area is obscured by the source stamp; no number is invented
-  - PDF9–81 = printed 8–80
-- T2 correction history — **350/350 reconciled**
-  - 349 current source-supported states represented directly
-  - 1 earlier PDF75 quote-state superseded by the later no-closing-quote source correction
-- retractions — **2/2 preserved**
-- user adjudicated exact readings — **5/5 preserved**
-- cross-page joins — **PASS**
-- terminal close — `வணக்கம் !`
+The canonical Tamil in `transcription-ta.md` is frozen.
 
-Retraction safeguards remain authoritative:
+Do not reopen it for:
+
+- stylistic polishing;
+- spelling or punctuation normalization;
+- modernization;
+- smoothing unusual source syntax;
+- changing Tamil to suit an English translation.
+
+Reopen Tamil only if a separately established source-backed defect is identified and documented in `audit.md`.
+
+## Safeguards — authoritative
+
+Retractions:
 
 - PDF12 — `பரிதவிக்கவிட்ட`
 - PDF13 — `பரிதவித்து`
 
-User adjudications remain authoritative:
+User adjudications:
 
 - PDF4 — `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
 - PDF4 — `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
@@ -60,8 +60,14 @@ User adjudications remain authoritative:
 - PDF76 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
 - PDF81 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
 
+## English gate
+
+Tamil-freeze prerequisite — **SATISFIED**.
+
+English must be subordinate to the frozen Tamil source layer. Do not translate from OCR, partial earlier states, or an outside edition. Difficult or unusual Tamil should be represented transparently rather than silently repaired.
+
 ## Exact next activity
 
-Process **Tamil freeze checkpoint / archival lock**.
+Process **English E1 translation — Batch 1 / PDF6–10 / 5 physical pages**.
 
-Explicitly record the consolidated Tamil as frozen only if the checkpoint passes; synchronize `transcription-ta.md`, `audit.md`, `metadata.json`, `README.md`, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`. English remains blocked until that freeze is recorded.
+Use the frozen canonical Tamil page sequence in `transcription-ta.md` as the sole translation source. Record translation in `translation-en.md`. Keep English fidelity review blocked until the full E1 translation is complete.

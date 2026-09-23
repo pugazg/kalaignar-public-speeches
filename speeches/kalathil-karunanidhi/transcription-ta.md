@@ -2,7 +2,8 @@
 
 **Status:** T1 **COMPLETE — PDF6–81 processed / 76 of 76 speech-body pages; 76/76 first-pass verified**  
 **T2 fidelity audit:** **COMPLETE / PASS — PDF6–81 audited / 76 of 76; 350 valid source-supported corrections; 2 retracted; 0 unresolved**  
-**T3 consolidation:** **COMPLETE / PASS — PDF6–81 structural/canonical reconciliation complete; 0 unresolved; Tamil freeze READY / NOT YET RECORDED**  
+**T3 consolidation:** **COMPLETE / PASS — PDF6–81 structural/canonical reconciliation complete; 0 unresolved**  
+**Tamil freeze:** **FROZEN / ARCHIVAL-READY — canonical Tamil locked 2026-09-23; reopen only for a separately established source-backed defect**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
