@@ -1,16 +1,16 @@
 # களத்தில் கருணாநிதி — English translation
 
-**Status:** E1 **IN PROGRESS — PDF6–40 / 35 of 76 speech-body pages translated; Tamil canonical layer FROZEN / ARCHIVAL-READY (2026-09-23).**  
+**Status:** E1 **IN PROGRESS — PDF6–60 / 55 of 76 speech-body pages translated; Tamil canonical layer FROZEN / ARCHIVAL-READY (2026-09-23).**  
 **Source layer:** `transcription-ta.md` — frozen canonical Tamil, PDF6–81 / 76 speech-body pages.  
 **Translation authority:** translate only from the frozen Tamil layer; do not use OCR or an outside edition to rewrite or silently repair source wording.  
 **Translation rule:** preserve rhetoric, repetition, historical names/terms, unusual source forms, and source distinctions as faithfully as practical. Where a source form is difficult or internally odd, keep the English transparent with a translator/source note rather than silently normalizing the Tamil.
 
 ## Progress
 
-- E1 pages translated — **35/76**
-- latest batch — **PDF21–40 / 20 physical pages — COMPLETE**
+- E1 pages translated — **55/76**
+- latest batch — **PDF41–60 / 20 physical pages — COMPLETE**
 - cadence — **20 physical PDF pages per user iteration**
-- next batch — **PDF41–60 / 20 physical pages**
+- next batch — **PDF61–81 / final 21 physical pages**
 - fidelity review — blocked until E1 is complete
 
 ## Speech body
@@ -480,3 +480,355 @@ Does this horrific sight, this cruel event, need to befall a dog that was raised
 It is certainly going to die, but it is suffering; the dog is tormented beyond endurance by the disease.
 
 Rather than let this condition continue, let the dog deteriorate severely and die without peace, it is better that it die at once—immediately—that it be made to die.
+
+### PDF page 41 — printed page 40
+
+The dog should be put to death—to prevent it from dying in distress, suffering, rotting and festering.
+
+That too is love: providing it a way to die without anguish.
+
+In such a condition, we shoot the dog and kill it. In Western countries this is an utterly ordinary occurrence.
+
+Unable to bear seeing it waste away and suffer, killing it at once is also love.
+
+Cruelty born of love! Cruel kindness! (Cruel kindness)
+
+Cruel kindness! Love in committing cruelty!
+
+Cruelty because of love—to avert horror!
+
+To avoid seeing an unbearable, agonizing death, the horror of dying; because one cannot bear to see a beloved creature suffer excessively, undergo torment and waste away—the love that arises is cruel kindness! (Cruel kindness)
+
+This may seem strange to some. It is not strange; it is the way of the country!
+
+### PDF page 42 — printed page 41
+
+Nor is this contrary to Gandhism. Gandhi himself practised cruel kindness.
+
+Yes! Gandhi too employed this kind of love—in his ashram.
+
+There was a calf in Gandhi's ashram. It became ill and suffered severely. No treatment produced any result.
+
+The doctor gave up and said that the calf was unlikely to survive, that it would not live.
+
+The calf was struggling at the threshold of death.
+
+A distressing sight, a painful condition. The calf that had once leapt about joyfully now lay exhausted. A sorrowful state!
+
+Unable to bear seeing its horror and suffering, Gandhi agreed that the calf should be shot and killed.
+
+As a result, the calf lying in Gandhi's ashram struggling at the gateway of death was shot dead.
+
+Cruel kindness occurred—was carried out—even in the ashram of nonviolence!
+
+The affection we show today's Congress is of this same kind.
+
+### PDF page 43 — printed page 42
+
+We show cruel kindness; we say Congress must be abolished before it reaches an even more horrible condition.
+
+Therefore show Congress affection, sympathy and concern! Show it cruel kindness, we say.
+
+Shoot Congress dead; destroy it! Shoot Congress dead!
+
+When I say “shoot it dead,” no one should be alarmed and imagine that this means taking up guns and assembling an army.
+
+Congress lies in the pit of death! It lies like a walking corpse. Its suffering is immense. We say that suffering must be ended; Congress must be destroyed.
+
+No gun is needed to shoot it dead; Congress is neither a human being nor an animal.
+
+For Congress to disappear, for it to be abolished, your guns are your ballot papers: your votes must not be put into the cattle-box but into another box.
+
+If the cattle-box is empty, the cattle-box will die; Congress will dissolve, perish and be destroyed. Cruelty will lessen, disappear and go away.
+
+### PDF page 44 — printed page 43
+
+Show affection to Congress, swollen with advanced disease, so that it may be abolished.
+
+Do not again place upon it the burden and weight of governing, dissolving it further and subjecting it to suffering.
+
+Show affection—show affection so that it may quickly be destroyed; show cruel kindness.
+
+An empty cattle-box! It will become the auspicious first step toward seeing democracy blossom. Do not forget this.
+
+I say again: do not send these cattle to the Legislative Assembly.
+
+If cattle enter the Legislative Assembly, it will become a cattle pen; it will no longer be a Legislative Assembly.
+
+The cattle-box must be made empty.
+
+Then for whom should one vote? In which box?
+
+Many ask us, “Are you standing in the election?”
+
+### PDF page 45 — printed page 44
+
+We, the members of the Dravida Munnetra Kazhagam, are not taking part in the election. We are not contesting the election.
+
+In accordance with the decision taken by the Kazhagam at Salem, we are not contesting.
+
+We refuse to go to the Legislative Assembly not because we lack the qualifications or ability to stand.
+
+We remain outside the Legislative Assembly because, in the present circumstances, we felt that it would not be right for us to go there.
+
+Because we are not going to the Legislative Assembly, it cannot be said that we lack political understanding. There are many among us who possess political knowledge.
+
+We have political judgment too. That is precisely why we have not gone to the Legislative Assembly and are not going now.
+
+Since we are not contesting this election, questions such as whom we should support and to whom we should give our votes kept circling around us.
+
+At a time when we were not concerning ourselves with the election, our respected comrade Jeevanandam of the Communist Party—
+
+### PDF page 46 — printed page 45
+
+—came to Anna several times and spoke about this.
+
+Congress must be defeated in the election. What will happen if Congress is allowed to govern the country again? All of us should unite, act together, create a United Front and defeat Congress.
+
+“You, the DMK, are not going to stand in the election; we are standing. You should support us,” he requested, among other things.
+
+Hearing this, Anna was very happy. He asked who would be included in this United Front.
+
+Jeeva replied that it would consist of three: the Communist Party, the Dravidar Kazhagam and the Dravida Munnetra Kazhagam.
+
+Anna said, “First, does the Dravidar Kazhagam accept the Dravida Munnetra Kazhagam as an organization-based political party? Only if it accepts that can we join the United Front. What is Periyar's view?”
+
+Jeeva replied that Periyar asks, “Is there even a party called the Dravida Munnetra Kazhagam? Does it exist?”
+
+### PDF page 47 — printed page 46
+
+Anna said that he could not and would not give a decision on this matter by himself. He said that he could announce a final decision only after convening the General Council of our Kazhagam and learning its view.
+
+Accordingly, in November the General Council met at Madurai, thoroughly examined the many questions relating to the election, and reached a decision.
+
+According to that decision, we announced: “In the election we will support those who undertake to speak and work in the Legislative Assembly and the People's House in support of our objective, our vital question—the separation of ‘Dravida Nadu’—and who accept this and confirm it by signing the agreement sheet. In this, priority will be given to the Communist Party.”
+
+The Communist Party did not agree to this. Not only did it fail to agree; it altered its course to the point of speaking and writing that our very question—the Dravida Nadu question—was wrong.
+
+But more than roughly one hundred and fifty people accepted the decision of our General Council, signed the agreement sheet and sent it in.
+
+### PDF page 48 — printed page 47
+
+We did not blindly support everyone who signed.
+
+We examined them carefully, closely considered the signatory's past and present actions, brought our judgment about the future into consideration, and consulted the members of the respective district. Only then did our Kazhagam give support to roughly more than seventy people.
+
+The question today is that those whom we have supported—those standing for election in the name of the separation of Dravida Nadu—must win and make our voice, our song of principle, resound in Parliament and in the Legislative Assembly.
+
+We must give our voting right only to those who have received our support.
+
+Are they martyrs? Have they been hit by bullets? Have they gone to prison?
+
+Have they been subjected to repression and do they bear the terrible scars of repression?
+
+We are not asking, and will not ask, you to vote for them by reciting what they have done in such terms.
+
+### PDF page 49 — printed page 48
+
+They are our people, people who have wholeheartedly accepted our ideal! They are our voices, speaking in our place in the Legislative Assembly and Parliament where we are absent, where we do not go, where we do not wish to go!
+
+They are people who, because of their belief in the separation of Dravida Nadu, are going to do everything for our ideal, people who have pledged to do so!
+
+“Dravida Nadu for the Dravidians! Dravidam must separate; it must indeed be separated; we shall make it separate.” That doctrine is their ideal; it is our ideal, our heart-song.
+
+For this—for this ideal—we must vote only for those who have received the support of the DMK.
+
+To sustain ourselves, and because they go as our emissaries to speak of our ideal in the Legislative Assembly too, we must not forget that our votes belong to those who signed the agreement sheet.
+
+Our aim is an ideal through which Dravidam, now a forest of exploitation, may attain well-being; a plan through which a society that has lost its life, withers and sobs may gain life, rise up and see a joyful Dravidam.
+
+Without letting this goal slip, without stumbling from the path of the ideal, and at the same time—
+
+### PDF page 50 — printed page 49
+
+—to abolish the destructive Congress as well, I ask you once again: support the comrades whom we support in the election; give them your vote, your ballot, your right-card, for the well-being of Dravidam—give it, give it.
+
+During the election period, the Communists invited us to join a United Front on the single general principle of defeating Congress.
+
+I have already spoken about Comrade Jeevanandam telling us that the Dravidar Kazhagam, one component of the United Front, had said of us, the Dravida Munnetra Kazhagam, “Is that even a party?”, and about Anna subsequently consulting the General Council and establishing the agreement sheet.
+
+We asked: “If you need our cooperation, sign the agreement sheet.”
+
+Congress must be abolished, so that the country may prosper.
+
+We believe that those who have been turning the country into a wilderness for more than four years must not be allowed to govern again.
+
+The election is coming. Congress is taking part in it.
+
+### PDF page 51 — printed page 50
+
+Defeating Congress in the election is an important task—indeed, a leading task.
+
+Many parties and independents are contesting the election.
+
+The Communist Party is contesting.
+
+The Communists are people who experienced countless harms and acts of repression under the Congress government.
+
+They are opponents of Congress; they desire the welfare of the country. We, the DMK, are not standing in the election and will not stand.
+
+The Communists, who are contesting, sought the cooperation of us who are not contesting, in order to bring down the common enemy, Congress, and defeat it in the election.
+
+They invited not only us into an alliance; they also invited the Dravidar Kazhagam, because it too was not contesting.
+
+Therefore it is clear that the United Front was to be something formed by bringing together three parties—the Communists, the Dravidar Kazhagam and the Dravida Munnetra Kazhagam—and through the cooperation of three—
+
+### PDF page 52 — printed page 51
+
+—forces.
+
+A union of three, for a common good.
+
+All three must work together for a specific objective.
+
+All three must labour together to defeat Congress.
+
+The strength of the three, the influence, effectiveness, labour and propaganda of the three parties, all brought together—that is the United Front against Congress.
+
+The three parties must stand shoulder to shoulder and fight as comrades against the common enemy, in order to win a common objective whose result can be known and completed within a definite, limited period.
+
+All three must have attachment, affection and confidence in the common objective; they do.
+
+All three must work together. They must labour. They must campaign. For this, comradeship is essential.
+
+Comradeship among the three means absence of mutual distinctions and hostility, goodwill, discipline, the disposition to respect one another—comradeship—
+
+### PDF page 53 — printed page 52
+
+—a capacity to understand, a mutually respectful attitude based on understanding one another well.
+
+Ordinarily, if three people start a joint business company, all three, together and individually, must not bear hostility or jealousy toward one another. If they do, that joint company can turn into a plunder company for a few and the money of many will be ruined.
+
+Even in business, a joint enterprise cannot run properly merely for profit unless there is trust—and more than that, goodwill—between one person and another.
+
+The Communists must act with goodwill and respect toward both the Dravidar Kazhagam and the Dravida Munnetra Kazhagam.
+
+Likewise, the Dravida Munnetra Kazhagam must respect the Communists and the Dravidar Kazhagam.
+
+And similarly the Dravidar Kazhagam must respect the Communists and the Dravida Munnetra Kazhagam, with goodwill.
+
+### PDF page 54 — printed page 53
+
+Only if they act toward one another in this manner, with equal affection, interest and comradeship—only if such a condition, thought and practice exists—can a “United Front” truly become a united front.
+
+This is an utterly ordinary truth, a rule of everyday life. The Communists will understand it.
+
+The Dravidar Kazhagam forms one component of the United Front. Another is the Communists. As the third, the Dravida Munnetra Kazhagam is invited by the Communists to join the United Front.
+
+In this, Communist Comrade Jeevanandam said that the Dravidar Kazhagam had declared that it “could not accept the Dravida Munnetra Kazhagam as a party at all.”
+
+Comradeship! There is none in the United Front.
+
+There is not even a seed of comradeship. Comrade Jeevanandam himself has said that too.
+
+There is no quality of standing shoulder to shoulder and working together; is that not what Jeevanandam's statement means?
+
+In a unity of three, one among the three does not respect another member of the three—and says it cannot respect it.
+
+### PDF page 55 — printed page 54
+
+A three-way alliance! A United Front! Where is the united outlook, the united spirit?
+
+How can one join—how can one possibly join—such a United Front!
+
+How can you invite us to such an incompatible, disunited “United Front”?
+
+Is there anything in it that accords with reason, justice, fairness or practical conduct?
+
+I ask: how can we sincerely agree to join such a United Front?
+
+The Communists invited us to join and cooperate in such a disorderly United Front.
+
+Can we surrender our dignity, self-respect and comradeship in order to join the United Front?
+
+Even in such a situation, without abandoning our ideal, and at the same time in order to remove the common enemy—to destroy it, to defeat Congress in the election—we did not hesitate to offer our cooperation to the Communists.
+
+We extended our hand of friendship; we gave them the opportunity to receive our support.
+
+### PDF page 56 — printed page 55
+
+You did not create a situation in which we could be a component of the United Front; nevertheless, we said, “Here is our cooperation!” and extended a friendly hand to the Communists.
+
+First place for the Communists! The first preference!
+
+Among those who signed the relationship agreement, among those who pledged to do everything possible in the Legislative Assembly and People's House for our ideal, apart from surrendering themselves, we said that first and foremost we would support the Communists.
+
+We wanted the relationship to be arranged in such a way that it would not damage the ideal we had built and protected until then. What is wrong in that?
+
+We agreed to give our cooperation to help you—your party, the Communist candidates—win the election and defeat Congress.
+
+A single condition, to make the nature of the relationship understood!
+
+Without surrendering our ideal, we wanted the relationship to be formed in a way that supported our ideal—the separation that would create a joyful Dravidam!
+
+### PDF page 57 — printed page 56
+
+If the Communists did not like this, they could have refused to sign the agreement sheet.
+
+If they were in a position where they could not sign it, they could simply have said, “We cannot,” and ended the matter!
+
+They invited us to a United Front without unity!
+
+We said the circumstances made it impossible to join.
+
+We said our cooperation would go only to those who echoed our ideal.
+
+The Communists could have stopped with saying, “We cannot!”
+
+Instead, they changed their position to the point of saying that the very separation of “Dravida Nadu” was wrong.
+
+Until before the decision of the Madurai General Council, even people like Comrade Dange had spoken in the North saying that “Dravida Nadu” was indeed necessary.
+
+The moment we said, “Give an assurance regarding the relationship,” they changed their voice: “Your speech itself is wrong, your course is wrong, your plan itself is wrong.”
+
+What is wrong? What is impossible? What is “Dravida Nadu”?
+
+### PDF page 58 — printed page 57
+
+Is there no such thing as a Dravidian society? Do the Communists not know the evidence that history gives for “Dravidian languages”? Or do they know and pretend not to know?
+
+For many years we have supplied historical evidence that Dravidian and Aryan, Dravidian culture and Aryan culture, are different. We have explained customs and practices, and accounts of the character of the people.
+
+On thousands upon thousands of platforms we have said that “Dravida Nadu” is necessary for our people to live, awaken and rise, and for the structure of Dravidian society to regain new vitality.
+
+The Communists recognized Pakistan—a people based on religion—as a nation; can they deny or conceal the Dravidians, the Dravidian people, Dravida Nadu—united by language, way of life, history and people, comprising Andhra, Tamil, Kerala and Kannada? They cannot!
+
+The Dravidians lived as a distinct people. In the intervening period they were deluded by many coverings—deceit, intrigue, religion, “righteous paths”—and lost their strength of mind.
+
+> **Translator/source note — PDF58:** the passage's historical and ethnonational claims are translated as claims made in the speech; the English does not independently verify or endorse them.
+
+### PDF page 59 — printed page 58
+
+Those who had lost their strength of mind are today regaining it and singing a fierce war-song: “We shall surely regain our rightful place.”
+
+No Kanakavijayars can hide or confuse this war-song! There will be no more feasts for Villavan Kothai!
+
+The Communists are not our enemies; but they are entering upon work that unnecessarily creates hostility with us!
+
+The Communists are people who should receive our cooperation; but they are running away from us!
+
+They did not stop with saying that our ideal was wrong.
+
+Comrade Jeevanandam is said to have gone further and said that the Dravida Munnetra Kazhagam campaigns by using the sacrifices made by the Communists and thereby gains strength.
+
+“Alas, poor thing!” Has your propaganda descended to this level?
+
+I speak of the hardships and losses suffered by the Communists, the beatings they endured, the repression—
+
+### PDF page 60 — printed page 59
+
+—they were subjected to; if we had not spoken fearlessly among the people about the manner in which those who came to rule, the Congressmen, treated opposition parties and about their tyranny; if we had not defied Section 144 prohibitory orders and carried out propaganda, would their “sacrifice” have taken root in the minds of the people?
+
+Would hatred toward the ministers among the people have arisen as it has?
+
+Therefore I wish to say with pride and satisfaction that we helped create the conditions for the Communists' present propaganda.
+
+We are not so starved of “sacrifice” that we have to advance by living off the sacrifices of the Communists!
+
+First, what is “sacrifice”? What are the characteristics of sacrifice?
+
+Is “sacrifice” merely suffering cruelty? Is merely being hit by bullets sacrifice? Is wasting away in poverty enough to earn the title “martyr”? What is sacrifice?
+
+Are those who enter into violence and, as a result, suffer repression also martyrs?
+
+> **Translator/source note — PDF60:** the first printed line contains a user-adjudicated source reading preserved in frozen Tamil. The English follows that frozen wording without reconstruction.

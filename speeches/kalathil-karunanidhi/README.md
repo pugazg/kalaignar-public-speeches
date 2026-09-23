@@ -183,11 +183,11 @@ The Tamil layer must not be changed for style, modernization, punctuation normal
 
 - Tamil prerequisite — **FROZEN / ARCHIVAL-READY**
 - E1 status — **IN PROGRESS**
-- translated — **35/76**
-- completed range — **PDF6–40**
-- latest batch — **PDF21–40 / 20 pages COMPLETE**
-- cadence — **20 physical PDF pages per user iteration**
-- next range — **PDF41–60 / 20 pages**
+- translated — **55/76**
+- completed range — **PDF6–60**
+- latest batch — **PDF41–60 / 20 pages COMPLETE**
+- next range — **PDF61–81 / final 21 pages**
+- current instruction — **process all remaining E1 pages in this iteration**
 - fidelity review — blocked pending complete E1
 - final verification — blocked pending review
 
@@ -195,6 +195,6 @@ English is translated only from the frozen canonical Tamil. Difficult or interna
 
 ## Exact next activity
 
-Process **English E1 translation — PDF41–60 / 20 physical pages**.
+Process **English E1 translation — PDF61–81 / final 21 physical pages**.
 
 Continue page-by-page from frozen `transcription-ta.md`, preserve page provenance, rhetoric, repetition, names, figures and source-supported oddities, and keep English fidelity review blocked until E1 is complete.
