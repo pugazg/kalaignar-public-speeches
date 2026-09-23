@@ -86,9 +86,9 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF32–36",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF37–41",
     "handoff_status": "t2-in-progress-five-page-cadence",
-    "handoff_date": "2026-09-22"
+    "handoff_date": "2026-09-23"
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 26,
+    "pages_audited": 31,
     "pages_total": 76,
-    "latest_range": "PDF27–31",
-    "latest_range_result": "5/5 audited; 14 new valid corrections; 0 unresolved",
-    "corrections_total": 32,
+    "latest_range": "PDF32–36",
+    "latest_range_result": "5/5 audited; 30 new valid corrections; 0 unresolved",
+    "corrections_total": 62,
     "unresolved": 0,
-    "next_range": "PDF32–36",
+    "next_range": "PDF37–41",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -409,6 +409,216 @@
         "source_supported": "மூளையே இன்றி இருந்த மனிதன்தான் ?",
         "evidence": "explicit source space before question mark",
         "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 32,
+        "earlier": "எப்படி நடமாடினாய்?",
+        "source_supported": "எப்படி நடமாடினாய் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 32,
+        "earlier": "என்ன வேலை செய்தாய்?",
+        "source_supported": "என்ன வேலை செய்தாய் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 32,
+        "earlier": "‘நானு?",
+        "source_supported": "‘நானு ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 32,
+        "earlier": "என்ன வேலையப்பா அது?",
+        "source_supported": "என்ன வேலையப்பா அது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 32,
+        "earlier": "அர்த்தம் எல்லாம்?",
+        "source_supported": "அர்த்தம் எல்லாம் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 32,
+        "earlier": "காங்கிரஸ் ஏட்டில்?",
+        "source_supported": "காங்கிரஸ் ஏட்டில் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 33,
+        "earlier": "நான் கண்டுகட்டும் மேலாகவே",
+        "source_supported": "நான் காண்டுகட்டும் மேலாகவே",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "சாதாரணக் கூலியா?",
+        "source_supported": "சாதாரணக் கூலியா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "மாட்டுவண்டி ஓட்டினை?",
+        "source_supported": "மாட்டுவண்டி ஓட்டினை ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "பிச்சை எடுத்தானா?",
+        "source_supported": "பிச்சை எடுத்தானா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "குமாஸ்தா உத்தியோகமா?",
+        "source_supported": "குமாஸ்தா உத்தியோகமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "பின் என்ன வேலை?",
+        "source_supported": "பின் என்ன வேலை ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "மந்திரிவேலை கிடைத்தது?",
+        "source_supported": "மந்திரிவேலை கிடைத்தது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "கிட்டியது! கிடைத்தது?",
+        "source_supported": "கிட்டியது! கிடைத்தது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "அவரே, பதில் கூறுகிறார்?",
+        "source_supported": "அவரே, பதில் கூறுகிறார் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "என்ன? காங்கிரஸ்",
+        "source_supported": "என்ன ? காங்கிரஸ்",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "காங்கிரஸ் மந்திரிசபையிலா?",
+        "source_supported": "காங்கிரஸ் மந்திரிசபையிலா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 34,
+        "earlier": "வழித்தோன்றல்களின் மந்திரி சபையிலா?",
+        "source_supported": "வழித்தோன்றல்களின் மந்திரி சபையிலா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 35,
+        "earlier": "மூளையில்லாத மந்திரிகளா?",
+        "source_supported": "மூளையில்லாத மந்திரிகளா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 35,
+        "earlier": "அவர்களா நாட்டை யாளுவது?",
+        "source_supported": "அவர்களா நாட்டை யாளுவது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 35,
+        "earlier": "என்ன கெடுமதி உனக்கு?",
+        "source_supported": "என்ன கெடுமதி உனக்கு ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 35,
+        "earlier": "நண்பனே?",
+        "source_supported": "நண்பனே ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "இத்தகைய பாணங்கள்!",
+        "source_supported": "இத்தூற்றல் பாணங்கள்!",
+        "evidence": "direct enlarged source pixels plus same-edition தூற்றியுள்ளது witness on PDF35",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "எங்கள் எண்ணம் என்ன?",
+        "source_supported": "எங்கள் எண்ணம் என்ன ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "காங்கிராஸ் இருப்பதா?",
+        "source_supported": "காங்கிராஸ் இருப்பதா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "கூடாதா? [first]",
+        "source_supported": "கூடாதா ? [first]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "காங்கிராஸ்-க்கு ஓட்டுப்போடலாமா?",
+        "source_supported": "காங்கிராஸ்-க்கு ஓட்டுப்போடலாமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "கூடாதா? [second]",
+        "source_supported": "கூடாதா ? [second]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "ஏன்? [after அழிக்கப்பட வேண்டும்!]",
+        "source_supported": "ஏன் ? [after அழிக்கப்பட வேண்டும்!]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 36,
+        "earlier": "ஏன்? [after ஒழிக்கப்பட வேண்டும்.]",
+        "source_supported": "ஏன் ? [after ஒழிக்கப்பட வேண்டும்.]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
       }
     ],
     "retractions": [
@@ -427,6 +637,6 @@
         "date": "2026-09-22"
       }
     ],
-    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation and punctuation spacing, and cross-line/page joins."
+    "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation and punctuation spacing, same-edition comparison when needed, and cross-line/page joins."
   }
 }

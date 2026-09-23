@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–31 / 26 of 76**
-- cumulative valid T2 corrections — **32**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–36 / 31 of 76**
+- cumulative valid T2 corrections — **62**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,19 +37,18 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **27–31 — 5/5 T2 VERIFIED**.
+PDF **32–36 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **14**:
+New valid source-supported corrections — **30**:
 
-- PDF27 — `நடைபெறும்` → `நடப்படும்`
-- PDF27 — three source question-mark spacing fixes
-- PDF28 — comma restored after `ஏடே`
-- PDF28 — `அதைப்` → `அதனைப்`
-- PDF29 — source question-mark spacing restored
-- PDF30 — source question-mark spacing restored
-- PDF31 — four source question-mark spacing fixes
-- PDF31 — `ஆச்சரியப்பட்டு` → `ஆச்சரியப் பட்டு`
-- PDF31 — comma restored in `சென்ற, மனிதன்தான்`
+- PDF32 — 6 explicit question-mark spacing corrections
+- PDF33 — `கண்டுகட்டும்` → `காண்டுகட்டும்`
+- PDF34 — 11 explicit question-mark spacing corrections
+- PDF35 — 4 explicit question-mark spacing corrections
+- PDF36 — `இத்தகைய பாணங்கள்!` → **`இத்தூற்றல் பாணங்கள்!`**
+- PDF36 — 7 explicit question-mark spacing corrections
+
+For PDF36 `இத்தூற்றல்`, the enlarged source was cross-checked against the same-edition `தூற்றியுள்ளது` pattern on PDF35 before acceptance.
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -61,18 +60,19 @@ Verification safeguard:
 - all 13 historical-glyph families checked page-by-page
 - every ordinary vowel sign and consonant-vowel cluster checked line-by-line
 - source spaces, punctuation, punctuation spacing, and physical line/page joins checked explicitly
+- same-edition comparison used where character identity needed confirmation
 - no correction accepted without positive source-pixel evidence
 - unresolved glyph/character ambiguity — **0**
 - silent modernization — **0**
 
 Boundary controls:
 
-- PDF26→27 — `அதற் / காகவே` → `அதற்காகவே`
-- PDF27→28 — `...மூடர்களைப் / போலல்லவா, ஆட்சி நடக்கிறது.`
-- PDF28→29 — source repetition retained: `...அங்கேயே விட்டு / விட்டு, மூளையின்றி...`
-- PDF29→30 — clean paragraph boundary
-- PDF30→31 — `...மூளையையே விட்டு விட்டு / வெளியே நடமாடினால்...`
 - PDF31→32 — `ஏறக் / குறைய` → `ஏறக்குறைய`
+- PDF32→33 — `பிரித்து எடுத்துப் / பரிசோதனைக்குக் கொண்டு போனார்.`
+- PDF33→34 — clean paragraph boundary
+- PDF34→35 — `திராவகத்தில் போட்டுப் / பத்திரப்படுத்தி விட்டு...`
+- PDF35→36 — clean; PDF36 begins `நிலைமை, ஆட்சியின் அலங்கோலம்...`
+- PDF36→37 — clean; PDF37 begins `காங்கிரசின் மேல் உள்ள வெறுப்பால், அல்ல,...`
 
 ## User adjudications — authoritative
 
@@ -88,6 +88,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF32–36 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF37–41 / 5 physical pages**.
 
-Compare each existing canonical page directly against source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.
+Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.

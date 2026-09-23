@@ -1112,3 +1112,103 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF32–36 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF32–36
+
+**PASS — 5/5 AUDITED / 30 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF32 / printed 31 — **T2 VERIFIED / 6 corrections**
+- PDF33 / printed 32 — **T2 VERIFIED / 1 correction**
+- PDF34 / printed 33 — **T2 VERIFIED / 11 corrections**
+- PDF35 / printed 34 — **T2 VERIFIED / 4 corrections**
+- PDF36 / printed 35 — **T2 VERIFIED / 8 corrections**
+- cumulative T2 coverage — **31/76**
+- cumulative valid T2 corrections — **62**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. The strengthened T2 safeguard was applied throughout: all 13 mandatory historical-glyph families were consciously checked, along with every ordinary vowel sign, consonant-vowel cluster, source space, punctuation mark, punctuation spacing, and physical line/page join.
+
+Representative historical-glyph checks include PDF32 `வேலை` (`லை`), PDF33 `மூளையை` (`ளை`), PDF34 `தலையனுக்கு` (`லை`), PDF35 `அண்ணாவின்` (`ணா`) / `மூளையற்றவர்` (`ளை`), and PDF36 `கனலைக்` (`லை`). No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+### PDF32 — 6 punctuation-spacing corrections
+
+The source visibly separates the question mark from the preceding word in all six instances:
+
+- `நடமாடினாய்?` → `நடமாடினாய் ?`
+- `என்ன வேலை செய்தாய்?` → `என்ன வேலை செய்தாய் ?`
+- `‘நானு?` → `‘நானு ?`
+- `என்ன வேலையப்பா அது?` → `என்ன வேலையப்பா அது ?`
+- `அர்த்தம் எல்லாம்?` → `அர்த்தம் எல்லாம் ?`
+- `காங்கிரஸ் ஏட்டில்?` → `காங்கிரஸ் ஏட்டில் ?`
+
+### PDF33 — 1 character-level correction
+
+- T1 — `நான் கண்டுகட்டும் மேலாகவே`
+- T2 source — `நான் காண்டுகட்டும் மேலாகவே`
+- evidence — enlarged source pixels clearly show `காண்டுகட்டும்`
+- type — source-spelling / character fidelity
+
+### PDF34 — 11 punctuation-spacing corrections
+
+The source visibly separates the question mark in:
+
+- `சாதாரணக் கூலியா ?`
+- `மாட்டுவண்டி ஓட்டினை ?`
+- `பிச்சை எடுத்தானா ?`
+- `குமாஸ்தா உத்தியோகமா ?`
+- `பின் என்ன வேலை ?`
+- `மந்திரிவேலை கிடைத்தது ?`
+- `கிட்டியது! கிடைத்தது ?`
+- `அவரே, பதில் கூறுகிறார் ?`
+- `என்ன ? காங்கிரஸ் மந்திரிசபையிலா ?`
+- `காந்தியத்தின், சத்தியத்தின், வழித்தோன்றல்களின் மந்திரி சபையிலா ?`
+
+The last bullet contains two independently verified question-mark spacing corrections.
+
+### PDF35 — 4 punctuation-spacing corrections
+
+The source visibly prints:
+
+- `மூளையில்லாத மந்திரிகளா ?`
+- `அவர்களா நாட்டை யாளுவது ?`
+- `என்ன கெடுமதி உனக்கு ?`
+- `நண்பனே ?`
+
+### PDF36 — 8 corrections
+
+Source wording:
+
+- T1 — `இத்தகைய பாணங்கள்!`
+- T2 source — **`இத்தூற்றல் பாணங்கள்!`**
+- evidence — direct enlarged source-pixel comparison; same-edition `தூற்றியுள்ளது` on PDF35 provides a confirming `தூற்ற` letter-pattern witness
+- type — source-wording fidelity correction
+
+Question-mark spacing restored exactly where visible:
+
+- `எங்கள் எண்ணம் என்ன ?`
+- `காங்கிராஸ் இருப்பதா ?`
+- both occurrences of `கூடாதா ?`
+- `காங்கிராஸ்-க்கு ஓட்டுப்போடலாமா ?`
+- both occurrences of `ஏன் ?`
+
+Source-sensitive forms retained without normalization include PDF32 `நானு` / `ஒய்ச்சல்`; PDF33 `வாளா` / `வகைவே`; PDF34 `ஓட்டினை` / `நோமாகிய`; PDF35 `எழுத்து மல்ல`; and PDF36 `காங்கிராஸ்`.
+
+Boundary controls:
+
+- PDF31→32 — `ஏறக் / குறைய` → assembled `ஏறக்குறைய`
+- PDF32→33 — `பிரித்து எடுத்துப் / பரிசோதனைக்குக் கொண்டு போனார்.`
+- PDF33→34 — clean paragraph boundary
+- PDF34→35 — `திராவகத்தில் போட்டுப் / பத்திரப்படுத்தி விட்டு...`
+- PDF35→36 — clean paragraph boundary; PDF36 begins `நிலைமை, ஆட்சியின் அலங்கோலம்...`
+- PDF36→37 — clean paragraph boundary; PDF37 begins `காங்கிரசின் மேல் உள்ள வெறுப்பால், அல்ல,...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF37–41 / 5 pages**.
