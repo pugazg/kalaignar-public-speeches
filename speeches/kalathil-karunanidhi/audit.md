@@ -1540,3 +1540,56 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF57–61 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF57–61
+
+**PASS — 5/5 AUDITED / 38 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF57 / printed 56 — **T2 VERIFIED / 6 corrections**
+- PDF58 / printed 57 — **T2 VERIFIED / 7 corrections**
+- PDF59 / printed 58 — **T2 VERIFIED / 6 corrections**
+- PDF60 / printed 59 — **T2 VERIFIED / 10 corrections**
+- PDF61 / printed 60 — **T2 VERIFIED / 9 corrections**
+- cumulative T2 coverage — **56/76**
+- cumulative valid T2 corrections — **139**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. All 13 mandatory historical-glyph families were checked along with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation spacing, and physical line/page joins. This batch restores only punctuation spacing positively visible in the historical source; wording was not modernized.
+
+### PDF57 — 6 corrections
+
+Source spaces restored in `முடித்து விட்டிருக்கலாம் !`, `ஐக்கிய முன்னணிக்கு அழைத்தனர் !`, `நின்றிருக்கலாம் கம்யூனிஸ்டுகள் !`, `எது தவறு ?`, `எது சாத்திய மற்றது ?`, and `‘திராவிட நாடு’ என்பது என்ன ?`.
+
+### PDF58 — 7 corrections
+
+Source spacing restored in `இல்லையா ?`, `தெரியாதவர்களா ?`, `கம்யூனிஸ்டுகள் ?`, `திராவிடர்—ஆரியர் ;`, `பழக்க வழக்கங்கள் ;`, `முடியுமா ?`, and `முடியாது !`.
+
+### PDF59 — 6 corrections
+
+Source spacing restored in `முடியாது !`, `விரோதிகள் அல்ல ;`, `இறங்குகிறார்கள் !`, `பெற வேண்டியவர்கள் ;`, `ஓடுகிறார்கள் !`, and `‘ஐயோ, பாவம் !’`.
+
+### PDF60 — 10 corrections
+
+The user-adjudicated wording remains authoritative and was not reopened. Source punctuation spacing was restored in `ஊன்றியிருக்குமா ?`, `இருக்குமா !`, `இருப்பவர்களல்ல !`, two `என்ன ?` occurrences, `அனுபவிப்பதுமட்டுந்தானா ?`, `மட்டுமேதானா ?`, `பெற !`, `எது தியாகம்’ ?`, and `தியாகிகள் தானா ?`.
+
+### PDF61 — 9 corrections
+
+Source spacing restored in `முடியுமா ?`, `பயன்தான் என்ன ?`, `பிரமாதமல்ல !`, `அதல்ல பெரிது ;`, `தியாகம், பெரிது ;`, `பயன் பெரிது !`, `தியாகம் என்பது என்ன ?`, `தியாகிகள்தானே ?`, and `தியாகிகள் இல்லையா ?`.
+
+Boundary controls:
+
+- PDF56→57 — clean paragraph boundary
+- PDF57→58 — clean paragraph boundary
+- PDF58→59 — clean paragraph boundary
+- PDF59→60 — sentence continues from `அடக்கு` into the user-adjudicated PDF60 opening
+- PDF60→61 — clean paragraph boundary
+- PDF61→62 — clean paragraph boundary; PDF62 begins `படை வரிசையிலே, முன்வரிசை, பின்வரிசை உண்டே!`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF62–66 / 5 pages**.
