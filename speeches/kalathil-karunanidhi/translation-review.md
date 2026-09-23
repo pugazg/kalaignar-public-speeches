@@ -9,11 +9,11 @@
 | Review batch | PDF pages | Speech-body pages | Status |
 |---|---:|---:|---|
 | 1 | 6–32 | 27 | **reviewed / corrections applied** |
-| 2 | 33–59 | 27 | next |
-| 3 | 60–81 | 22 | pending |
+| 2 | 33–59 | 27 | **reviewed / corrections applied** |
+| 3 | 60–81 | 22 | next |
 
-Reviewed — **27/76**  
-Remaining — **49/76**  
+Reviewed — **54/76**  
+Remaining — **22/76**  
 Final English verification — **BLOCKED pending complete fidelity review**
 
 ## Batch 1 — PDF6–32 / 27 pages
@@ -85,3 +85,66 @@ Three definite English wording corrections and one source-transparency note were
 **REVIEWED / CORRECTIONS APPLIED.**
 
 Exact next range: **PDF33–59 / 27 physical pages**.
+
+## Batch 2 — PDF33–59 / 27 pages
+
+### Result
+
+**PASS WITH ENGLISH-LAYER CORRECTIONS — 27/27 REVIEWED**
+
+The E1 sequence is complete across PDF33–59. No whole paragraph or PDF page is missing. The “brainless minister” story, Congress/cruel-kindness analogy, election/United Front argument, and Dravida Nadu discussion remain represented as claims and rhetoric of the source speech.
+
+Three definite English wording corrections and three source-transparency notes were applied. Frozen Tamil changes: **0**.
+
+### Applied findings
+
+1. **PDF34 — `சொரணையே இல்லாத`**
+   - earlier English: `without even the sense that one ought to have`
+   - corrected to **`without even a sense of shame`**
+   - reason: this aligns with the same frozen term `சொரணை` and the existing PDF35 source note rather than shifting to a vague “sense”.
+
+2. **PDF37 — irregular Bhagat Singh sentence**
+   - frozen Tamil: `பகவத் சிங்குகள் தந்த தியாகத்தழும்புகளை எண்ணை விருப்பதில்லை`
+   - the English contextual sense (“do not refuse to remember...”) is retained, but an explicit translator/source note now records that the frozen wording is internally irregular.
+   - no Tamil normalization was made.
+
+3. **PDF44 — `தாப்படும் அச்சாரமாகும்`**
+   - earlier English: `the auspicious first step`
+   - corrected to **`an advance toward seeing democracy blossom`**
+   - reason: “auspicious” was unsupported; `அச்சாரம்` carries an advance/token sense.
+   - a source note preserves the irregular full frozen sequence rather than silently repairing it.
+
+4. **PDF58 — `இனத்தால்`**
+   - earlier English: `united by ... people`
+   - corrected to **`united by ... ethnicity`**
+   - reason: restores the distinct semantic value of `இனம்` rather than repeating the generic “people” sense.
+
+5. **PDF59 — `கனகவிசயர்கள்` / `வில்லவன் கோதை`**
+   - retained in transliterated English as `Kanakavijayars` / `Villavan Kothai`.
+   - added a source-transparency note so these allusions are not silently expanded or identified from outside the frozen source.
+
+### Source-sensitive readings retained
+
+- PDF33 — irregular duration wording remains explicitly noted; the repeated chronology establishes the contextual “more than four years” reading without changing Tamil.
+- PDF35 — `சொரணை கெட்ட` retains the existing source note and polemical attribution.
+- PDF38 — `சிவஞானங்கள்` remains `Sivagnanams`, without silently identifying a specific person.
+- PDF42 — the Gandhi/calf passage remains translated as a claim made in the speech, not independently verified history.
+- PDF43–44 — “shoot Congress” remains within the speech's own ballot-box metaphor; the following sentences explicitly state that guns are not meant and identify ballot papers as the metaphorical “guns”.
+- PDF47–59 — claims about parties, people, Pakistan, Dravidian identity, and political positions remain attributed to the historical speech rather than converted into independent factual assertions.
+
+### Boundary/completeness checks
+
+- PDF33→34 — brain-story sentence sequence complete.
+- PDF34→35 — brain-in-solution/minister sentence completes correctly.
+- PDF41→42 — cruel-kindness analogy continues correctly.
+- PDF45→46 — Jeevanandam/Communist Party sentence continues correctly.
+- PDF49→50 — election-support appeal continues correctly.
+- PDF51→52 — three-party/three-forces sentence continues correctly.
+- PDF52→53 — comradeship definition continues correctly.
+- PDF59→60 — Communist-sacrifice/repression sentence continues correctly into the final review batch.
+
+### Batch 2 disposition
+
+**REVIEWED / CORRECTIONS APPLIED.**
+
+Exact next range: **PDF60–81 / final 22 physical pages**.

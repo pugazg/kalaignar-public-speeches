@@ -195,17 +195,18 @@ English was translated only from the frozen canonical Tamil. Source claims, rhet
 ## English fidelity review progress
 
 - review status — **IN PROGRESS**
-- reviewed — **PDF6–32 / 27 of 76**
-- Batch 1 — **PASS WITH ENGLISH-LAYER CORRECTIONS**
-- English wording corrections applied — **3**
-- source-transparency notes added — **1**
+- reviewed — **PDF6–59 / 54 of 76**
+- Batch 1 — **PDF6–32 / reviewed / corrections applied**
+- Batch 2 — **PDF33–59 / reviewed / corrections applied**
+- cumulative English wording corrections applied — **6**
+- cumulative source-transparency notes added — **4**
 - frozen Tamil changes — **0**
 - cadence — **27 physical PDF pages per iteration**
-- next — **PDF33–59 / 27 pages**
+- final remainder — **PDF60–81 / 22 pages**
 - final English verification — blocked pending complete review
 
 ## Exact next activity
 
-Process **English fidelity review — PDF33–59 / 27 physical pages**.
+Process **English fidelity review — PDF60–81 / final 22 physical pages**.
 
 Compare E1 directly against frozen Tamil, record findings in `translation-review.md`, correct only the English layer where source fidelity requires it, and keep final English verification blocked until all 76 pages have been reviewed.

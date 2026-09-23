@@ -15,23 +15,26 @@ Archive: `speeches/kalathil-karunanidhi/`
 ## English state
 
 - E1 — **COMPLETE / PASS — 76/76**
-- fidelity review — **IN PROGRESS — 27/76**
-- reviewed range — **PDF6–32**
-- Batch 1 result — **PASS WITH ENGLISH-LAYER CORRECTIONS**
-- English wording corrections applied — **3**
-- transparency notes added — **1**
+- fidelity review — **IN PROGRESS — 54/76**
+- reviewed range — **PDF6–59**
+- Batch 1 — PDF6–32 / **27 pages REVIEWED**
+- Batch 2 — PDF33–59 / **27 pages REVIEWED**
+- cumulative English wording corrections — **6**
+- cumulative transparency notes added — **4**
 - review cadence — **27 physical PDF pages per iteration**
-- next review range — **PDF33–59**
+- final review range — **PDF60–81 / 22 pages**
 - final English verification — blocked pending complete review
 
-Batch 1 corrections:
-- PDF9 — `apostles of nonviolence` → `embodiments of nonviolence`
-- PDF10 — restored mother as the subject of the child/well/self-harm report
-- PDF26 — `throw all this into relief` → `outdo all this`
-- PDF21 — added a source-transparency note for the internally irregular frozen phrase `தாக்கத்திற்குச் சிறு நீர் தரும் கோரம்`
+## Batch 2 applied changes
+
+- PDF34 — `சொரணை` rendering aligned to `sense of shame`
+- PDF37 — added transparency note for internally irregular frozen Bhagat Singh sentence
+- PDF44 — removed unsupported `auspicious`; rendered `அச்சாரம்` as `advance` and added source note
+- PDF58 — `இனத்தால்` restored as `ethnicity`
+- PDF59 — added source note for `கனகவிசயர்கள்` / `வில்லவன் கோதை`
 
 ## Exact next activity
 
-Process **English fidelity review PDF33–59 / 27 physical pages**.
+Process **English fidelity review PDF60–81 / final 22 physical pages**.
 
-Use frozen `transcription-ta.md` as the sole canonical Tamil basis. Correct only English when required. Do not reopen Tamil absent a separately established source-backed defect.
+When complete, set review to **76/76 COMPLETE**, then unblock the final English verification gate. Keep Tamil frozen.

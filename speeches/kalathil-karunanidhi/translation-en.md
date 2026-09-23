@@ -11,9 +11,9 @@
 - latest batch — **PDF61–81 / final 21 physical pages — COMPLETE**
 - E1 cadence — **complete**
 - E1 next batch — **none / complete**
-- English fidelity review — **IN PROGRESS — PDF6–32 / 27 of 76 reviewed**
+- English fidelity review — **IN PROGRESS — PDF6–59 / 54 of 76 reviewed**
 - review cadence — **27 physical PDF pages per iteration**
-- next review range — **PDF33–59 / 27 pages**
+- next review range — **PDF60–81 / final 22 pages**
 
 ## Speech body
 
@@ -355,7 +355,7 @@ What work! Ordinary wage labour? No! Driving a bullock cart? Not that either. Be
 
 During the period in which he was “without a brain,” the work he did was ministerial work; he governed the country. He worked as a minister ruling the people!
 
-Ministerial work! Ministerial work for a head without a brain! The work of governing a country for a person with no intelligence, who could not possibly have any! Ministerial work for a man without even the sense that one ought to have!
+Ministerial work! Ministerial work for a head without a brain! The work of governing a country for a person with no intelligence, who could not possibly have any! Ministerial work for a man without even a sense of shame—who could not possibly have one!
 
 How amusing! In what country did this amusing minister obtain ministerial work? In what cabinet did he receive a minister's post? Where did he get it?
 
@@ -418,6 +418,8 @@ We have affection for Congress. Can we forget that the hero V. O. Chidambaranar 
 Can we forget that Tiruppur Kumaran was in Congress?
 
 We do not refuse to remember the scars of sacrifice left by the Bhagat Singhs who gave their very lives in Congress.
+
+> **Translator/source note — PDF37:** the frozen Tamil phrase around “பகவத் சிங்குகள் ... எண்ணை விருப்பதில்லை” is internally irregular. The English preserves the contextual rhetorical sense of not refusing to remember their sacrifice; the Tamil remains unchanged.
 
 We will not fail to praise the fact that martyrs such as Thillaiyadi Valliammai, heroic Tamil women, shone within Congress!
 
@@ -553,7 +555,9 @@ Do not again place upon it the burden and weight of governing, dissolving it fur
 
 Show affection—show affection so that it may quickly be destroyed; show cruel kindness.
 
-An empty cattle-box! It will become the auspicious first step toward seeing democracy blossom. Do not forget this.
+An empty cattle-box! It will become an advance toward seeing democracy blossom. Do not forget this.
+
+> **Translator/source note — PDF44:** the frozen Tamil prints the unusual sequence “தாப்படும் அச்சாரமாகும்”. “An advance” follows the lexical sense of “அச்சாரம்” without silently repairing the irregular preceding form.
 
 I say again: do not send these cattle to the Legislative Assembly.
 
@@ -795,7 +799,7 @@ For many years we have supplied historical evidence that Dravidian and Aryan, Dr
 
 On thousands upon thousands of platforms we have said that “Dravida Nadu” is necessary for our people to live, awaken and rise, and for the structure of Dravidian society to regain new vitality.
 
-The Communists recognized Pakistan—a people based on religion—as a nation; can they deny or conceal the Dravidians, the Dravidian people, Dravida Nadu—united by language, way of life, history and people, comprising Andhra, Tamil, Kerala and Kannada? They cannot!
+The Communists recognized Pakistan—a people based on religion—as a nation; can they deny or conceal the Dravidians, the Dravidian people, Dravida Nadu—united by language, way of life, history and ethnicity, comprising Andhra, Tamil, Kerala and Kannada? They cannot!
 
 The Dravidians lived as a distinct people. In the intervening period they were deluded by many coverings—deceit, intrigue, religion, “righteous paths”—and lost their strength of mind.
 
@@ -806,6 +810,8 @@ The Dravidians lived as a distinct people. In the intervening period they were d
 Those who had lost their strength of mind are today regaining it and singing a fierce war-song: “We shall surely regain our rightful place.”
 
 No Kanakavijayars can hide or confuse this war-song! There will be no more feasts for Villavan Kothai!
+
+> **Translator/source note — PDF59:** “கனகவிசயர்கள்” and “வில்லவன் கோதை” are retained as source literary/historical allusions without importing an outside identification or explanatory expansion.
 
 The Communists are not our enemies; but they are entering upon work that unnecessarily creates hostility with us!
 
