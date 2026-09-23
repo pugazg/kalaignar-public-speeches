@@ -47,7 +47,13 @@
     },
     "binary_committed": false,
     "historical_tamil_typeforms": true,
-    "terminal_note": "PDF81 / printed p.80 is the terminal supplied scan; the damaged/stamped closing passage is resolved by user adjudication and T1 ends canonically with வணக்கம் !"
+    "terminal_note": "PDF81 / printed p.80 is the terminal supplied scan; the damaged/stamped closing passage is resolved by user adjudication and T1 ends canonically with வணக்கம் !",
+    "printed_folio_exception": {
+      "pdf": 8,
+      "status": "not-positively-readable",
+      "reason": "folio area obscured by source stamp",
+      "inferred_number_not_recorded": true
+    }
   },
   "source_front_matter": {
     "pages_recorded": 5,
@@ -78,7 +84,7 @@
     "speech_pages_drafted": 76,
     "speech_pages_verified_first_pass": 76,
     "tamil_visual_audit": "complete-pass",
-    "tamil_consolidation": "ready",
+    "tamil_consolidation": "complete-pass",
     "english_translation": "blocked-pending-tamil-freeze",
     "english_translation_review": "blocked",
     "english_translation_final_verification": "blocked",
@@ -86,9 +92,10 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T3 consolidation",
-    "handoff_status": "t2-complete-t3-ready",
-    "handoff_date": "2026-09-23"
+    "next_gate": "Tamil freeze checkpoint / archival lock",
+    "handoff_status": "t3-complete-freeze-ready",
+    "handoff_date": "2026-09-23",
+    "tamil_freeze": "ready-not-recorded"
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -2654,5 +2661,35 @@
       }
     ],
     "verification_protocol_note": "The 13 historical-glyph-family check is a minimum control only. T2 requires complete line-by-line character verification, including ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation and punctuation spacing, same-edition comparison when needed, and cross-line/page joins."
+  },
+  "t3": {
+    "status": "complete-pass",
+    "speech_pages_reconciled": 76,
+    "speech_pages_total": 76,
+    "page_heading_sequence": "pass-pdf6-81-exactly-once",
+    "printed_page_labels": {
+      "status": "pass-with-source-obscured-exception",
+      "pdf7_printed": 6,
+      "pdf8": "not-positively-readable-source-stamp",
+      "pdf9_to_81": "printed-8-to-80"
+    },
+    "t2_corrections_reconciled": 350,
+    "t2_corrections_directly_current": 349,
+    "t2_historical_states_superseded": 1,
+    "superseded_history": [
+      {
+        "pdf": 75,
+        "earlier_source_supported_state": "‘ரஷ்யத் தத்துவமா ?’",
+        "superseded_by": "‘ரஷ்யத் தத்துவமா ?",
+        "reason": "later direct source correction established no closing quote"
+      }
+    ],
+    "retractions_preserved": 2,
+    "user_adjudicated_exact_readings_preserved": 5,
+    "cross_page_boundary_controls": "pass",
+    "terminal_close": "வணக்கம் !",
+    "unresolved": 0,
+    "canonical_tamil_wording_changes_introduced": 0,
+    "tamil_freeze_readiness": "ready-not-frozen"
   }
 }

@@ -2,6 +2,7 @@
 
 **Status:** T1 **COMPLETE — PDF6–81 processed / 76 of 76 speech-body pages; 76/76 first-pass verified**  
 **T2 fidelity audit:** **COMPLETE / PASS — PDF6–81 audited / 76 of 76; 350 valid source-supported corrections; 2 retracted; 0 unresolved**  
+**T3 consolidation:** **COMPLETE / PASS — PDF6–81 structural/canonical reconciliation complete; 0 unresolved; Tamil freeze READY / NOT YET RECORDED**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -113,6 +114,8 @@ iv
 அண்ணா, திராவிட முன்னேற்றக் கழகப் பொதுச் செயலாளர்—அண்மையில் நடந்த மாநில மாநாட்டிலே தேர்தலைப்பற்றிய கழகத்தின்
 
 ## PDF 8
+
+**Printed page:** not positively readable — folio area obscured by source stamp
 
 முடிவை, நிலையை, திட்ட வட்டமாக எடுத்து விளக்கினார்.
 

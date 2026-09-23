@@ -2,7 +2,7 @@
 
 **Repository classification:** **PUBLIC SPEECHES**  
 **Speaker:** கலைஞர் மு. கருணாநிதி  
-**Status:** **ACTIVE — Tamil T1 COMPLETE / T2 IN PROGRESS**
+**Status:** **ACTIVE — Tamil T1/T2/T3 COMPLETE / Tamil freeze READY (not yet recorded)**
 
 ## Classification correction
 
@@ -36,7 +36,9 @@ The canonical workspace is now `speeches/kalathil-karunanidhi/`. Source scans 1�
 - PDF4–5 — preface `களம் புகுமுன்........`
 - PDF6 — speech opens `களத்தில் கருணாநிதி!`
 - PDF6–81 — speech body / **76 pages**
-- PDF7–81 — visible printed folios **6–80**
+- PDF7 — visible printed folio **6**
+- PDF8 — printed folio area **obscured by source stamp; number not invented**
+- PDF9–81 — visible printed folios **8–80**
 - PDF81 — terminal supplied scan; bottom condition to be resolved during later completeness/fidelity audit
 
 PDF4 formerly contained **2 physically lost text spans**; both were **resolved by user adjudication on 2026-09-21** as `வெற்றிக்கு` and `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`. Guessed reconstruction remains **0**.
@@ -53,7 +55,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - T2 source-supported corrections — **350 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
-- T3 — **READY / UNBLOCKED**
+- T3 consolidation — **COMPLETE / PASS — 76/76**
+- Tamil freeze — **READY / NOT YET RECORDED**
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
@@ -141,8 +144,27 @@ Remaining final-batch changes restore positively visible source punctuation spac
 
 The 13-family historical-glyph check is a minimum control, not a substitute for full fidelity review. Every T2 page must also be checked character-by-character for ordinary vowel signs and consonant-vowel clusters, plus source spacing, punctuation, punctuation spacing, and physical line/page joins before any change is accepted.
 
+## T3 consolidation
+
+**COMPLETE / PASS — full speech body PDF6–81 / 76 of 76**
+
+- page headings/order — **PASS**
+- printed-page labels — **PASS with one source-obscured exception**
+  - PDF8 folio area is covered by the source stamp; no number was invented
+- T2 correction history — **350/350 reconciled**
+- direct current T2 states — **349**
+- historical PDF75 quote-state superseded by later source correction — **1**
+- retractions preserved — **2/2**
+- user adjudications preserved — **5/5**
+- cross-page joins — **PASS**
+- unresolved — **0**
+- T3 canonical wording edits — **0**
+- Tamil freeze readiness — **READY / NOT YET FROZEN**
+
+English remains blocked until Tamil freeze is explicitly recorded.
+
 ## Exact next activity
 
-Process **Tamil T3 consolidation — full speech-body PDF6–81**.
+Process **Tamil freeze checkpoint / archival lock**.
 
-English remains blocked pending Tamil freeze.
+Confirm the T3-consolidated Tamil as frozen, synchronize release/freeze state across control documents, and only then unblock English translation.

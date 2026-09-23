@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T3 consolidation
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil freeze checkpoint
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,61 +20,46 @@ Refetch live `main` before editing.
 - source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- Tamil T2 visual/textual fidelity audit — **COMPLETE / PASS / 76/76**
-- T2 valid corrections — **350 cumulative**
+- Tamil T2 — **COMPLETE / PASS / 76/76**
+- T2 valid corrections — **350**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
-- guessed reconstruction — **0**
-- T3 consolidation — **READY / UNBLOCKED**
+- Tamil T3 consolidation — **COMPLETE / PASS / 76/76**
+- T3 unresolved — **0**
+- T3 canonical wording edits — **0**
+- Tamil freeze — **READY / NOT YET RECORDED**
 - English — blocked pending Tamil freeze
 
-## Final T2 batch
+## T3 consolidation findings
 
-PDF77–81 — **5/5 T2 VERIFIED / 48 new valid corrections / 0 unresolved**.
+- PDF6–81 page order/headings — **PASS**
+- printed-page labels — **PASS with source-obscured PDF8 exception**
+  - PDF8 folio area is covered by the source stamp; do not invent a printed number
+- T2 correction history — **350/350 reconciled**
+  - 349 directly represented in current canonical text
+  - 1 earlier PDF75 quote-state superseded by the later no-closing-quote source correction
+- retractions — **2/2 preserved**
+- user adjudications — **5/5 preserved**
+- cross-page boundaries — **PASS**
+- terminal close — `வணக்கம் !`
 
-Substantive/source-structure corrections:
-
-- PDF77 — `கூலி உயர்வு மட்டும்போதாது.` → `கூலி உயர்வு மட்டும்போதாது,`
-- PDF79 — `மோதவில்லை, நாங்கள்;` → `மோதவில்லை; நாங்கள் ;`
-- PDF80 — `வந்திருக்கிறோம்;` → `வந்திருக்கிறோம்,`
-- PDF80 — `தாயுமானர் தோற்றார்;` → `தாயுமானர் தோற்றார்,`
-- PDF81 — `திராவிடத்தின் குரல், அவசியத்தை` → `திராவிடத்தின் குரலே, அவசியத்தை`
-
-All other final-batch changes are source-visible punctuation-spacing restorations.
-
-Retraction safeguards remain active:
+## Authoritative safeguards
 
 - PDF12 — retain `பரிதவிக்கவிட்ட`
 - PDF13 — retain `பரிதவித்து`
-
-User adjudications remain authoritative:
-
-- PDF60 wording — unchanged
-- PDF76 opening — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
-- PDF81 closing — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
-
-## T2 closure
-
-- pages audited — **76/76**
-- valid source-supported corrections — **350**
-- retracted changes — **2**
-- unresolved — **0**
-- guessed reconstruction — **0**
-- historical-glyph unresolved — **0**
-- silent modernization — **0**
+- PDF60 — retain user-adjudicated exact wording
+- PDF76 — retain user-adjudicated opening exactly
+- PDF81 — retain user-adjudicated terminal passage exactly
 
 ## Exact next activity
 
-**Tamil T3 consolidation — full speech-body PDF6–81.**
+**Tamil freeze checkpoint / archival lock.**
 
-Use the T2-corrected `transcription-ta.md` as canonical input. Verify:
+Verify that T1, T2 and T3 states and counts agree across all control documents, that no unresolved Tamil items remain, and that all safeguards/adjudications are still exact.
 
-- PDF6–81 page order and printed-page labels;
-- all T2 corrections are represented in canonical text;
-- physical and cross-page joins remain reversible and correctly assembled;
-- PDF12/PDF13 retraction safeguards remain intact;
-- PDF4/PDF60/PDF76/PDF81 user adjudications remain exact;
-- `audit.md`, `metadata.json`, `README.md`, `HANDOVER.md`, and the transcription header agree on T2 counts/state;
-- no stylistic polishing, modernization, punctuation normalization, or lexical rewriting is introduced.
+If the checkpoint passes:
 
-If T3 passes with no unresolved issues, mark Tamil consolidation complete and determine Tamil-freeze readiness. Keep English blocked until the Tamil freeze is explicitly recorded.
+- explicitly mark the Tamil canonical text **FROZEN / ARCHIVAL-READY**;
+- record the freeze in `transcription-ta.md`, `audit.md`, `metadata.json`, `README.md`, `HANDOVER.md`, and `NEXT_CHAT_PROMPT.md`;
+- unblock the next English stage;
+- do not reopen Tamil for stylistic polishing or normalization; only a separately established source-backed defect may reopen it.

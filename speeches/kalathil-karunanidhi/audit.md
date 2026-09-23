@@ -1937,3 +1937,47 @@ User-adjudicated PDF60 and PDF76 readings remain authoritative and unchanged.
 T3 consolidation is now **UNBLOCKED / READY**. English remains blocked pending Tamil freeze.
 
 Exact next activity: **Tamil T3 consolidation — full speech-body PDF6–81**.
+
+## Tamil T3 consolidation — full speech body PDF6–81
+
+**COMPLETE / PASS — 76/76 CANONICAL PAGES RECONCILED**
+
+T3 was performed as a consolidation/integrity pass over the T2-corrected canonical Tamil. No stylistic polishing, modernization, punctuation normalization, or lexical rewriting was introduced.
+
+Structural results:
+
+- speech-body page headings — **76/76 present exactly once / PDF6–81 in order**
+- printed-page labels — **PASS**
+  - PDF7 = printed 6
+  - PDF8 folio area is physically obscured by the source stamp; no printed number is invented
+  - PDF9–81 = printed 8–80 in order
+- T2 metadata correction history — **350/350 reconciled**
+  - **349** historical source-supported states are represented directly in current canonical page text
+  - **1** earlier PDF75 state, `‘ரஷ்யத் தத்துவமா ?’`, is intentionally superseded by the later source correction removing the closing quote; current canonical is `‘ரஷ்யத் தத்துவமா ?`
+- T2 retractions — **2/2 preserved**
+  - PDF12 retains `பரிதவிக்கவிட்ட`
+  - PDF13 retains `பரிதவித்து`
+- user adjudications — **5/5 exact readings preserved**
+  - PDF4 — two restored front-matter spans
+  - PDF60 — user-supplied exact wording
+  - PDF76 — user-supplied exact opening
+  - PDF81 — user-supplied exact terminal passage
+- cross-page boundary controls — **PASS**
+  - PDF6→7 — `ஆத / ரித்து`
+  - PDF74→75 — `அரசாங் / கத்தில்`
+  - PDF76→77 — `...உழைப்பில் என்று / எண்ணம்...`
+  - PDF77→78 — `வாடி / யும்`
+  - PDF78→79 — `...முழு / அமைப்பு...`
+  - PDF79→80 — `...எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
+  - PDF80→81 — clean paragraph boundary
+- terminal spoken close — **`வணக்கம் !`**
+- unresolved consolidation issues — **0**
+- canonical Tamil wording changes introduced by T3 — **0**
+
+### T3 determination
+
+Tamil consolidation is **COMPLETE / PASS**.
+
+Tamil freeze readiness is **READY**, but the Tamil archive is **NOT YET FROZEN** in this step. English remains blocked until the freeze is explicitly recorded.
+
+Exact next activity: **Tamil freeze checkpoint / archival lock**, then unblock English only if the freeze passes.
