@@ -86,14 +86,14 @@
     "tamil_visual_audit": "complete-pass",
     "tamil_consolidation": "complete-pass",
     "english_translation": "complete",
-    "english_translation_review": "ready",
+    "english_translation_review": "in-progress",
     "english_translation_final_verification": "blocked-pending-review",
     "repository_closure": "not-started",
     "archive_status": "active-english-review-pending",
     "pending_transcription_or_translation_work": true,
-    "cadence": "20 physical PDF pages per review iteration unless user overrides",
-    "next_gate": "English fidelity review",
-    "handoff_status": "english-e1-complete-review-ready",
+    "cadence": "27 physical PDF pages per review iteration",
+    "next_gate": "English fidelity review PDF33–59",
+    "handoff_status": "english-review-in-progress-pdf6-32",
     "handoff_date": "2026-09-23",
     "tamil_freeze": "frozen-archival-ready",
     "tamil_freeze_date": "2026-09-23",
@@ -2729,7 +2729,7 @@
     "completed_range": "PDF6–81",
     "next_range": null,
     "cadence": "E1 complete",
-    "review_status": "ready",
+    "review_status": "in-progress",
     "final_verification_status": "blocked-pending-review",
     "batch_history": [
       {
@@ -2770,6 +2770,26 @@
         "pdf_end": 81,
         "pages": 21,
         "status": "complete",
+        "date": "2026-09-23"
+      }
+    ],
+    "review_pages_total": 76,
+    "review_pages_completed": 27,
+    "reviewed_through_pdf_page": 32,
+    "review_completed_range": "PDF6–32",
+    "review_next_range": "PDF33–59",
+    "review_cadence": "27 physical PDF pages per iteration",
+    "review_corrections_applied": 3,
+    "review_transparency_notes_added": 1,
+    "review_batch_history": [
+      {
+        "batch": 1,
+        "pdf_start": 6,
+        "pdf_end": 32,
+        "pages": 27,
+        "status": "reviewed-corrections-applied",
+        "english_wording_corrections": 3,
+        "transparency_notes_added": 1,
         "date": "2026-09-23"
       }
     ]

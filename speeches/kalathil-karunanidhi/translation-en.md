@@ -9,10 +9,11 @@
 
 - E1 pages translated — **76/76**
 - latest batch — **PDF61–81 / final 21 physical pages — COMPLETE**
-- cadence — **20 physical PDF pages per user iteration**
+- E1 cadence — **complete**
 - E1 next batch — **none / complete**
-- English fidelity review — **READY / UNBLOCKED**
-- fidelity review — blocked until E1 is complete
+- English fidelity review — **IN PROGRESS — PDF6–32 / 27 of 76 reviewed**
+- review cadence — **27 physical PDF pages per iteration**
+- next review range — **PDF33–59 / 27 pages**
 
 ## Speech body
 
@@ -50,7 +51,7 @@ The country knows well the cruelties committed by this Congress in the past. Man
 
 Five years ago, T. K. Pattammal sang of dancing and singing because joyous freedom had arrived, while Baby Kamala danced in expressive gesture. From the beginning of that “joyous freedom” until today, what have these rulers done? What have they actually achieved? They have flung repression upon repression. I wish to explain this particularly, with figures.
 
-It was during these five years of rule by the apostles of nonviolence that firearms were used **1,982** times. Not only that: **3,784** people were shot dead; more than ten thousand were seriously wounded. More than about fifty thousand were imprisoned, as preventive detainees and political prisoners. And it did not stop there. Of the political prisoners confined in jail, **eighty-two** were shot dead within the prison bars themselves.
+It was during these five years of rule by the embodiments of nonviolence that firearms were used **1,982** times. Not only that: **3,784** people were shot dead; more than ten thousand were seriously wounded. More than about fifty thousand were imprisoned, as preventive detainees and political prisoners. And it did not stop there. Of the political prisoners confined in jail, **eighty-two** were shot dead within the prison bars themselves.
 
 Where did all this happen? Who are these arrogant men who, within five years, used firearms one thousand nine hundred and eighty-two times? Hitler? No, no! Mussolini? Certainly not! Then who? The Tsar? No. They are all the heirs of nonviolence, Gandhi's foremost disciples, now enthroned on the seat of government—
 
@@ -58,7 +59,7 @@ Where did all this happen? Who are these arrogant men who, within five years, us
 
 —the Congressmen themselves. Within just a few years—not once, not twice, but more than a thousand firings; as a result, more than ten thousand people wounded; heaps of more than three thousand corpses. A horrific sight, a pitiable condition, never before seen or heard anywhere; the gift bestowed by the **sons of Bharata who came to rule**; everywhere famine, hunger, disease, armies of the starving—cruelty! Cruelty!!
 
-There are so many problems in the country that should draw the attention of those who came to rule. The suffering of the worker. The starving multitudes crying “Hunger! Hunger!”; the anguish of the poor weaver who, without yarn and therefore without work, without food to eat and without a way to live, wastes away, despairs of life and hangs himself; the painful news of a mother unable to feed the children she has borne; the agonizing reports of parents, driven by hunger, throwing their own little children into a desolate well and then taking their own lives—these matters struck against the Legislative Assembly and the Constituent Assembly. Did the rulers listen? No—the politicians, the Congressmen governing the country, did not.
+There are so many problems in the country that should draw the attention of those who came to rule. The suffering of the worker. The starving multitudes crying “Hunger! Hunger!”; the anguish of the poor weaver who, without yarn and therefore without work, without food to eat and without a way to live, wastes away, despairs of life and hangs himself; the painful news of a mother unable to feed the children she has borne; the agonizing reports of mothers who, driven by hunger, throw their own little children into a desolate well and then take their own lives—these matters struck against the Legislative Assembly and the Constituent Assembly. Did the rulers listen? No—the politicians, the Congressmen governing the country, did not.
 
 With what face do they come today to hunt for votes again? Earlier they brought yellow; into the yellow box—
 
@@ -190,6 +191,8 @@ On one side, the horror of giving urine to a man suffering from thirst; if he cr
 
 Amid all their many other external affairs, they attend to the food famine as a pastime, a game, a spectacle of entertainment.
 
+> **Translator/source note — PDF21:** the frozen Tamil prints the internally irregular phrase “தாக்கத்திற்குச் சிறு நீர் தரும் கோரம்”. The English reads it in continuity with the immediately preceding prison episode as the horror of giving urine for thirst; the Tamil remains unchanged.
+
 ### PDF page 22 — printed page 21
 
 There is food scarcity in the country; hunger and the starving masses have multiplied. Food is insufficient. The people turn toward the government and ask, “Give us food, give us food.” The manner in which the ministers who govern the land attend to this is extremely bad; it appears as mockery and ridicule. This is the speech of Central Food Minister Munshi:
@@ -232,7 +235,7 @@ Why should high-ranking officials travel from town to town for the perfectly ord
 
 —could instead be used in ways that benefit the country!
 
-As if to throw all this into relief, a *Vanamahotsavam* was held in one part of Calcutta. Its details are extremely strange!
+As if to outdo all this, a *Vanamahotsavam* was held in one part of Calcutta. Its details are extremely strange!
 
 In one part of Calcutta, a tree-planting festival, a *Vanamahotsavam*, was advertised with lavish pomp, demonstrations and spectacle. Thousands of people were gathered, and in the presence of a senior government official, elaborate arrangements were made for the planting of a tree.
 
