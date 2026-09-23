@@ -16,7 +16,7 @@
 - source-transparency notes added — **6 cumulative**
 - final English verification — **COMPLETE / PASS — PDF6–81 / 76 of 76 verified**
 - new English corrections during final verification — **0**
-- repository/release closure — **READY**
+- repository/release closure — **PASS / FINAL CLOSED / RELEASE READY**
 
 ## Speech body
 
