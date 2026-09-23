@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–41 / 36 of 76**
-- cumulative valid T2 corrections — **72**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–46 / 41 of 76**
+- cumulative valid T2 corrections — **82**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,15 +37,17 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **37–41 — 5/5 T2 VERIFIED**.
+PDF **42–46 — 5/5 T2 VERIFIED**.
 
 New valid source-supported corrections — **10**:
 
-- PDF37 — four explicit question-mark spacing restorations
-- PDF37 — `தியாகத்தழும்புகளே` → **`தியாகத்தழும்புகளை`**
-- PDF39 — two explicit question-mark spacing restorations
-- PDF40 — three explicit question-mark spacing restorations
-- PDF38 / PDF41 — **0 corrections**
+- PDF44 — `பலுவை` → `பளுவை`
+- PDF44 — `எங்களைக் பலர்` → `எங்களைப் பலர்`
+- PDF44 — 3 source punctuation-spacing restorations
+- PDF45 — `ஓட்டுகளைப்` → `ஓட்டுக்களைப்`
+- PDF46 — `கம்யூனிஸ்டுக் கட்சி` → `கம்யூனிஸ்டுக்கட்சி`
+- PDF46 — 3 source question-mark spacing restorations
+- PDF42 / PDF43 — **0 corrections**
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -63,12 +65,12 @@ Verification safeguard:
 
 Boundary controls:
 
-- PDF36→37 — clean
-- PDF37→38 — clean
-- PDF38→39 — clean
-- PDF39→40 — clean
-- PDF40→41 — clean
-- PDF41→42 — clean; PDF42 begins `காந்தியத்திற்கும் இது புறம்பானதல்ல...`
+- PDF41→42 — clean
+- PDF42→43 — clean
+- PDF43→44 — clean
+- PDF44→45 — clean
+- PDF45→46 — `கம்யூனிஸ்டுக் கட்சி / யைச்` → `கம்யூனிஸ்டுக் கட்சியைச்`
+- PDF46→47 — clean; PDF47 begins `அண்ணா, இது விஷயத்தில் தானே முடிவு கூறிவிட முடியாது...`
 
 ## User adjudications — authoritative
 
@@ -84,6 +86,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF42–46 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF47–51 / 5 physical pages**.
 
 Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.

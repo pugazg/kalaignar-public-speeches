@@ -1284,3 +1284,92 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF42–46 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF42–46
+
+**PASS — 5/5 AUDITED / 10 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF42 / printed 41 — **T2 VERIFIED / 0 corrections**
+- PDF43 / printed 42 — **T2 VERIFIED / 0 corrections**
+- PDF44 / printed 43 — **T2 VERIFIED / 5 corrections**
+- PDF45 / printed 44 — **T2 VERIFIED / 1 correction**
+- PDF46 / printed 45 — **T2 VERIFIED / 4 corrections**
+- cumulative T2 coverage — **41/76**
+- cumulative valid T2 corrections — **82**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. All 13 mandatory historical-glyph families were consciously checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. No correction was accepted without positive source-pixel evidence.
+
+Representative historical-glyph checks include PDF42 `நிலைமை` (`லை`), PDF45 `இல்லை` (`லை`) / `ஓட்டுக்களைப்` (`ளை`), and PDF46 `அண்ணா` (`ணா`). Pages without a representative occurrence were still checked against the full mandatory family set. No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+### PDF42 — 0 corrections
+
+The existing canonical text matched the source. Source-sensitive wording such as `கன்றுக்குட்டி`, `மன்றாடிக்`, and `இத்தகையது தான்` was retained unchanged.
+
+### PDF43 — 0 corrections
+
+The existing canonical text matched the source. Source-sensitive forms retained include `சுட்டுக்கொல்லுங்கள்`, `மரணகுழியில்`, `ஒழிக்கப்பட உங்கள் துப்பாக்கிகள்`, and `மற்றபெட்டியில்`.
+
+### PDF44 — 5 corrections
+
+1. T1 — `மீண்டும் ஆளும் பலுவை, சுமையை அதனிடம்`
+   - T2 source — `மீண்டும் ஆளும் பளுவை, சுமையை அதனிடம்`
+   - evidence — enlarged source clearly prints `பளுவை`
+   - type — character-level source fidelity
+
+2. `பின்யாருக்கு ஓட்டுப்போடவேண்டும்?` → `பின்யாருக்கு ஓட்டுப்போடவேண்டும் ?`
+   - evidence — explicit source space before the question mark
+
+3. `எந்தப் பெட்டியில்!` → `எந்தப் பெட்டியில் !`
+   - evidence — explicit source space before the exclamation mark
+
+4. `நீங்கள் தேர்தலில் நிற்கிறீர்களா?` → `நீங்கள் தேர்தலில் நிற்கிறீர்களா ?`
+   - evidence — explicit source space before the question mark
+
+5. T1 — `எங்களைக் பலர் கேட்கிறார்கள்.`
+   - T2 source — `எங்களைப் பலர் கேட்கிறார்கள்.`
+   - evidence — source physical line split `எங் / களைப் பலர்` positively assembles as `எங்களைப் பலர்`
+   - type — character-level + cross-line join fidelity
+
+### PDF45 — 1 correction
+
+- T1 — `யாருக்கு நமது ஓட்டுகளைப் போடுவது`
+- T2 source — `யாருக்கு நமது ஓட்டுக்களைப் போடுவது`
+- evidence — enlarged source clearly prints the `க்களைப்` cluster
+- type — character-level source fidelity
+
+### PDF46 — 4 corrections
+
+1. `விட்டால் என்னவாகும்?` → `விட்டால் என்னவாகும் ?`
+   - evidence — explicit source space before the question mark
+
+2. T1 — `கம்யூனிஸ்டுக் கட்சி, திராவிடர் கழகம்`
+   - T2 source — `கம்யூனிஸ்டுக்கட்சி, திராவிடர் கழகம்`
+   - evidence — enlarged source prints the compound continuously with no word break
+   - type — source-spacing fidelity
+
+3. `ஒப்புக்கொள்கிறதா?` → `ஒப்புக்கொள்கிறதா ?`
+   - evidence — explicit source space before the question mark
+
+4. `ஒரு கட்சியா?` → `ஒரு கட்சியா ?`
+   - evidence — explicit source space before the question mark
+
+Boundary controls:
+
+- PDF41→42 — clean paragraph boundary
+- PDF42→43 — clean paragraph boundary
+- PDF43→44 — clean paragraph boundary
+- PDF44→45 — clean paragraph boundary
+- PDF45→46 — source cross-page word split `கம்யூனிஸ்டுக் கட்சி / யைச்` → assembled `கம்யூனிஸ்டுக் கட்சியைச்`
+- PDF46→47 — clean paragraph boundary; PDF47 begins `அண்ணா, இது விஷயத்தில் தானே முடிவு கூறிவிட முடியாது...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF47–51 / 5 pages**.

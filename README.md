@@ -550,9 +550,9 @@ Repository-level closure is complete. No transcription or translation work remai
 - final-range source review — **PDF71–81 / 11 scans COMPLETE; 11/11 canonical**
 - PDF76/PDF81 obscured passages — **resolved by user adjudication / canonical**
 - final-range canonical progress — **11/11 COMPLETE**
-- T2 visual/textual fidelity audit — **PDF6–41 / 36 of 76 complete; 72 valid source-supported corrections / 0 unresolved**
+- T2 visual/textual fidelity audit — **PDF6–46 / 41 of 76 complete; 82 valid source-supported corrections / 0 unresolved**
 - T2 retracted changes — **2**
-- latest T2 batch — **PDF37–41 / 5/5 audited / 10 new valid corrections**
-- exact next activity — **Tamil T2 visual/textual fidelity audit PDF42–46**
+- latest T2 batch — **PDF42–46 / 5/5 audited / 10 new valid corrections**
+- exact next activity — **Tamil T2 visual/textual fidelity audit PDF47–51**
 
 This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.

@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF42–46",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF47–51",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 36,
+    "pages_audited": 41,
     "pages_total": 76,
-    "latest_range": "PDF37–41",
+    "latest_range": "PDF42–46",
     "latest_range_result": "5/5 audited; 10 new valid corrections; 0 unresolved",
-    "corrections_total": 72,
+    "corrections_total": 82,
     "unresolved": 0,
-    "next_range": "PDF42–46",
+    "next_range": "PDF47–51",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -687,6 +687,76 @@
         "pdf": 40,
         "earlier": "கண்டு சகித்திடவும் வேண்டுமா?",
         "source_supported": "கண்டு சகித்திடவும் வேண்டுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 44,
+        "earlier": "மீண்டும் ஆளும் பலுவை, சுமையை அதனிடம்",
+        "source_supported": "மீண்டும் ஆளும் பளுவை, சுமையை அதனிடம்",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 44,
+        "earlier": "பின்யாருக்கு ஓட்டுப்போடவேண்டும்?",
+        "source_supported": "பின்யாருக்கு ஓட்டுப்போடவேண்டும் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 44,
+        "earlier": "எந்தப் பெட்டியில்!",
+        "source_supported": "எந்தப் பெட்டியில் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 44,
+        "earlier": "நீங்கள் தேர்தலில் நிற்கிறீர்களா?",
+        "source_supported": "நீங்கள் தேர்தலில் நிற்கிறீர்களா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 44,
+        "earlier": "எங்களைக் பலர் கேட்கிறார்கள்.",
+        "source_supported": "எங்களைப் பலர் கேட்கிறார்கள்.",
+        "evidence": "direct source line-break comparison: எங் / களைப்",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 45,
+        "earlier": "யாருக்கு நமது ஓட்டுகளைப் போடுவது",
+        "source_supported": "யாருக்கு நமது ஓட்டுக்களைப் போடுவது",
+        "evidence": "direct enlarged source-pixel comparison",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 46,
+        "earlier": "விட்டால் என்னவாகும்?",
+        "source_supported": "விட்டால் என்னவாகும் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 46,
+        "earlier": "கம்யூனிஸ்டுக் கட்சி, திராவிடர் கழகம்",
+        "source_supported": "கம்யூனிஸ்டுக்கட்சி, திராவிடர் கழகம்",
+        "evidence": "direct enlarged source-pixel comparison; no word break",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 46,
+        "earlier": "ஒப்புக்கொள்கிறதா?",
+        "source_supported": "ஒப்புக்கொள்கிறதா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 46,
+        "earlier": "ஒரு கட்சியா?",
+        "source_supported": "ஒரு கட்சியா ?",
         "evidence": "explicit source space before question mark",
         "guessed_reconstruction": 0
       }
