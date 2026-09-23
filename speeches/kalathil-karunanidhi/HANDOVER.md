@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–56 / 51 of 76**
-- cumulative valid T2 corrections — **101**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–61 / 56 of 76**
+- cumulative valid T2 corrections — **139**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,19 +37,20 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **52–56 — 5/5 T2 VERIFIED**.
+PDF **57–61 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **13**:
+New valid source-supported corrections — **38**:
 
-- PDF52 — `மூன்றுகட்சிகளின்` → `மூன்று கட்சிகளின்`
-- PDF53 — `நன்கு தெரிந்து` → `நன்குதெரிந்து`
-- PDF53 — `ஒருசிலரின்` → `ஒரு சிலரின்`
-- PDF54 — source space restored in `தோழமை !`
-- PDF55 — 7 source punctuation-spacing restorations
-- PDF56 — `உண்டுபண்ணவில்லை` → `உண்டுபண்ண வில்லை`
-- PDF56 — `கம்யூனிஸ்டுகள்தான்` → `கம்யூனிஸ்டுகளே தான்`
+- PDF57 — 6 source punctuation-spacing restorations
+- PDF58 — 7 source punctuation-spacing restorations
+- PDF59 — 6 source punctuation-spacing restorations
+- PDF60 — 10 source punctuation-spacing restorations
+- PDF61 — 9 source punctuation-spacing restorations
 
-Source-sensitive forms were preserved individually rather than normalized by pattern.
+This batch changed **punctuation spacing only**. No wording was normalized from context.
+
+PDF60 user-adjudicated wording remains authoritative and was **not reopened**:
+`முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -67,12 +68,12 @@ Verification safeguard:
 
 Boundary controls:
 
-- PDF51→52 — `...மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
-- PDF52→53 — `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`
-- PDF53→54 — clean
-- PDF54→55 — clean
-- PDF55→56 — clean
-- PDF56→57 — clean; PDF57 begins `இது, கம்யூனிஸ்டுகளுக்குப் பிடிக்க வில்லையால்...`
+- PDF56→57 — clean
+- PDF57→58 — clean
+- PDF58→59 — clean
+- PDF59→60 — sentence continues from `அடக்கு` into the user-adjudicated PDF60 opening
+- PDF60→61 — clean
+- PDF61→62 — clean; PDF62 begins `படை வரிசையிலே, முன்வரிசை, பின்வரிசை உண்டே!`
 
 ## User adjudications — authoritative
 
@@ -88,6 +89,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF57–61 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF62–66 / 5 physical pages**.
 
 Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.
