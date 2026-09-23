@@ -1,16 +1,17 @@
 # களத்தில் கருணாநிதி — English translation
 
-**Status:** E1 **IN PROGRESS — PDF6–60 / 55 of 76 speech-body pages translated; Tamil canonical layer FROZEN / ARCHIVAL-READY (2026-09-23).**  
+**Status:** E1 **COMPLETE / PASS — PDF6–81 / 76 of 76 speech-body pages translated; Tamil canonical layer FROZEN / ARCHIVAL-READY (2026-09-23).**  
 **Source layer:** `transcription-ta.md` — frozen canonical Tamil, PDF6–81 / 76 speech-body pages.  
 **Translation authority:** translate only from the frozen Tamil layer; do not use OCR or an outside edition to rewrite or silently repair source wording.  
 **Translation rule:** preserve rhetoric, repetition, historical names/terms, unusual source forms, and source distinctions as faithfully as practical. Where a source form is difficult or internally odd, keep the English transparent with a translator/source note rather than silently normalizing the Tamil.
 
 ## Progress
 
-- E1 pages translated — **55/76**
-- latest batch — **PDF41–60 / 20 physical pages — COMPLETE**
+- E1 pages translated — **76/76**
+- latest batch — **PDF61–81 / final 21 physical pages — COMPLETE**
 - cadence — **20 physical PDF pages per user iteration**
-- next batch — **PDF61–81 / final 21 physical pages**
+- E1 next batch — **none / complete**
+- English fidelity review — **READY / UNBLOCKED**
 - fidelity review — blocked until E1 is complete
 
 ## Speech body
@@ -832,3 +833,411 @@ Is “sacrifice” merely suffering cruelty? Is merely being hit by bullets sacr
 Are those who enter into violence and, as a result, suffer repression also martyrs?
 
 > **Translator/source note — PDF60:** the first printed line contains a user-adjudicated source reading preserved in frozen Tamil. The English follows that frozen wording without reconstruction.
+
+### PDF page 61 — printed page 60
+
+Can suffering blows, kicks, stabbings, cuts and wounds alone become sacrifice?
+
+What benefit is produced by sufferings incurred through violence?
+
+It is easy to become a “martyr”; receiving blows, kicks or bullet wounds is no great wonder!
+
+Even in meaningless actions, at unnecessary moments, such “awards” can be obtained through pointless clashes. That is not sacrifice; that is not greatness.
+
+Sacrifice obtained in a heartfelt struggle for a just cause—sacrifice that yields benefit—is great; its benefit is great, its benefit is great!
+
+What is sacrifice?
+
+In a liberation struggle, everyone who has joined the ranks is a martyr.
+
+Are not all those warriors who renounce themselves, forget all their kith and kin, wife and children, and enter the battlefield martyrs?
+
+If only those who are struck down and killed by bullets on the battlefield are martyrs, are the others not martyrs?
+
+### PDF page 62 — printed page 61
+
+In an army there are front ranks and rear ranks!
+
+By what justice can those in the front rank be called superior and those in the rear rank inferior?
+
+Are not all warriors who are committed to the liberation of the country martyrs?
+
+If a few among those in the front rank die in battle, we praise those who died. Rightly so; it should be done!
+
+But at the same time, can we say that only those who were beaten or died are worthy of praise and are martyrs?
+
+Some are wounded and suffer; some are maimed, lose their lives and become sacrifices in the cause of national liberation.
+
+The selfless and fruitful sacrifice of those who died and were wounded inspires others with enthusiasm and strength.
+
+But to say that only those who died are martyrs is contrary to the very nature of sacrifice.
+
+Sacrifice is not something one acquires by making violence one's support!
+
+### PDF page 63 — printed page 62
+
+Sacrifice is not acquired through damage caused by blind clashes without cause or purpose!
+
+Sacrifice is not the result of barbaric acts!
+
+Sacrifice is not merchandise for commercial hunting; nor is it something manufactured merely to win in business—in the business of elections.
+
+It is not wise to hunt for votes in the name of sacrifice, placing sacrifice before the public; the benefit produced will also be limited.
+
+Sacrifice must not be turned into an object of empty talk; a “sacrifice” mentality must not be cultivated in that manner, nor should it be allowed to grow.
+
+Sacrifice is an effort, an act, undertaken for a good and useful result.
+
+Sacrifice is selfless service undertaken with a good outcome in mind.
+
+Sacrifice is the disposition, strength of mind and moral courage to continue selfless service without caring about opposition, ridicule, mockery or conflict.
+
+To act selflessly for a good purpose, without tiring or faltering until a beneficial result is seen—that quality of action is sacrifice.
+
+### PDF page 64 — printed page 63
+
+Sacrifice exists in many forms and in many ways.
+
+Sacrifice changes—and is changed—according to each person's dictionary.
+
+Whatever the case, sacrifice is a rank in a liberation army entered selflessly to realize an ideal and achieve a good, beneficial end.
+
+In these ranks, we have never hesitated to leap into the fire of fruitful sacrifice.
+
+Our very life is immersed in the whirl of sacrifice.
+
+Every step of our progress has had to move by treading upon the fire of sacrifice!
+
+“The Dravida Munnetra Kazhagam advances by using the sacrifice of the Communists!”
+
+What kind of statement is this?
+
+We do not possess the baseness of trading in the sacrifice of the Communists and conducting electoral business with it.
+
+Nor are we people of the perverse, strange intelligence that threatens, “We will support the Communists,” while cultivating the friendship of *mitta* and *mirasu* interests—
+
+> **Translator/source note — PDF64:** the frozen Tamil uses the historical terms “மிட்டா, மிராசு”; they are retained in transliteration rather than expanded through outside historical inference.
+
+### PDF page 65 — printed page 64
+
+—we are not such people.
+
+We praised the struggles of the Communists; we continue to praise them.
+
+The sufferings they endured, the cruelties of repression, the horrors of becoming victims of demonstration gunfire—all of these stirred our thoughts and did not fail to bring tears to our eyes.
+
+We did not fail to speak among the people in a way that helped them understand the Communists' course. No one condemned the tyrannies hurled upon them more than we did.
+
+At the same time, whenever it appeared that they were taking the path of violence, we did not fail to condemn that either.
+
+We praised sacrifice; we condemned the cruelties launched against sacrifice.
+
+We praised them when no one else praised them; when others failed to condemn cruelties—not only failed, but were afraid—we condemned them even then.
+
+And the reward for this is to say that we are “struck by a famine of sacrifice and survive by using their sacrifice”?
+
+### PDF page 66 — printed page 65
+
+Is this proper? Is it right? Is it opportunism? Think about it!
+
+Sacrifice—our flower garden.
+
+Sacrifice—our life, our wealth, our path and road to progress—everything.
+
+Do you need a list of sacrifices?
+
+Our breath, our speech—everything is “sacrifice.”
+
+Our life, its pleasures, its hardships and losses—everything is sacrifice.
+
+Is not our very ideal—the path to a life of self-respect, a joyful Dravidam—moving through the whirl and embers of sacrifice?
+
+Our warriors, the bulls of our ideal, are bars of gold refined in the fire, whirl and embers of sacrifice.
+
+Do you need a list of sacrifices?
+
+In this first protest struggle, our young lions Thalamuthu and Natarasan died in prison. Is that not sacrifice?
+
+In this struggle, more than a thousand people were thrown into cruel prisons. Is that not sacrifice?
+
+### PDF page 67 — printed page 66
+
+Did we not show resistance, such as history had not seen, to stop the harm done to the language and the invasion that came through language? Did we not win in it too? Is that not sacrifice?
+
+At Madurai, the Blackshirt Conference pandal—a pandal built at the cost of many thousands of rupees—was set on fire in broad daylight. What was that?
+
+Have you ever seen the cruelty of many thousands of people being beaten and driven across river sand under the blazing sun? Have you heard of such a thing anywhere else?
+
+Everyone who had gathered was left starving and suffering through the whole day, and by midnight was reduced to the helpless condition of having to leave!
+
+Women's honour was violated; their black saris were torn away. Their blouses were shredded.
+
+We are the people whose hearts endured, and could endure, all this. If all this is not sacrifice, what else is it?
+
+Do you need a list of sacrifices?
+
+At Salem, they took away the eye—the organ of sight—of a Kazhagam comrade. A horror. Did we lose heart on seeing it?
+
+### PDF page 68 — printed page 67
+
+At that same Salem, were the hands and legs of Kazhagam comrades not cut and were they not maimed?
+
+Is that all? How many Section 144 orders, how many prohibitory orders have we faced?
+
+In this recent protest struggle, did blood not flow through the streets of Kumbakonam because of the rulers' repressive beatings?
+
+In that struggle in Madras, were volunteers not packed into police lorries like cattle, taken into the middle of the wilderness, separated into different groups like animals, and abandoned one by one? Is there any limit to such cruelty?
+
+Even a woman in an advanced stage of pregnancy was taken into the wilderness that very day and left there helpless and alone.
+
+At the same time in Madras, before the event of showing a black flag to Achariar, did this Congress government not arrest all the leading members of the Kazhagam together—more than a hundred people—in a single day? Is none of this sacrifice?
+
+Do you need a list of sacrifices?
+
+We showed a black flag to Achariar in Madras; that day the people were treated like beasts—
+
+### PDF page 69 — printed page 68
+
+—pushed behind barbed wire, prevented from running, beaten again and again, and grievously injured. That has still not faded from memory.
+
+On that same day, the police frenzy rolled the multilingual scholar K. Appaduraiyar along the street, beating and injuring him. What was that?
+
+In that regime of beating, hundreds were severely injured.
+
+The Congress regime of repression tasted the blood of many. It chased and beat people, drank their blood and filled its belly. When Anna saw all those who were injured and the drops of blood pouring from their scars, the tears he shed were beyond count.
+
+Mounted police trampled and battered the people. Even then we did not lose heart.
+
+Finally, this repressive Congress government seized many people, put them in prison and subjected them to cruelty.
+
+Is that all? Like thrusting a spear into a burning wound, only a few days after Achariar came and the display of repression took place, another cruel report came from Kundrathur.
+
+### PDF page 70 — printed page 69
+
+Yes! At Kundrathur, bombs and bullets flew toward the people.
+
+Had a small margin not intervened, Comrade N. V. Natarasan would have fallen victim to a bullet and been killed.
+
+Gunfire was used eight times! Eight rounds were fired at the people at Kundrathur.
+
+Some died. Natarasan escaped because the aim missed. Is that not sacrifice? Must one die before it becomes sacrifice?
+
+Freedom of speech was taken away at Kundrathur; permission to speak was denied under a Section 144 prohibitory order. Comrade Natarasan defied it!
+
+To stop the speech and disperse the many thousands who had assembled—cruelty! Cruelty! Eight rounds were fired; a regime of baton charges was carried out.
+
+Did we lose heart on seeing this? No.
+
+Cases were also filed against the comrades who defied the ban at Kundrathur. Is none of this sacrifice? Must one die before it becomes sacrifice?
+
+Is not the courage and character to stand at the very edge and doorway of death and struggle itself sacrifice?
+
+Must one deliberately embrace death, destruction, repression and pain, then sing, “Look at our sacrifice”? Is that sacrifice?
+
+Do you still need a list of sacrifices?
+
+### PDF page 71 — printed page 70
+
+At Naranamangalam, our young men defied a Section 144 prohibitory order, went to prison and suffered cruelty. Did our comrades not languish in prison for five months, six months, ten months?
+
+For writing the book *Gandhiyar Santhiyadaiya*, was our Aasai Thambi not sentenced to rigorous imprisonment?
+
+Did these rulers not shave his head?
+
+As soon as he was sentenced, did they not hurriedly shave his head? An act of humiliation; a meaningless act! An act of arrogance.
+
+The sons of Bharat who came to rule set up a barber shop! In the hand that ought to hold the sceptre, they took up a razor and shaved his head!
+
+They dishonoured him by shaving his head in prison. Is this sacrifice or not? What, then, is sacrifice?
+
+Aasai Thambi suffered all these cruelties for writing a book.
+
+Yet he has now been released by the High Court as a man without guilt.
+
+An innocent man was subjected to many cruelties, made to suffer them, thrown into prison; the arrogant government took away even the hair from his handsome head.
+
+Do you need a list of sacrifices?
+
+### PDF page 72 — printed page 71
+
+Comrade Thangappazham of Thoothukudi went to prison—was sent to prison—for writing the book *Savukkadi*.
+
+They led him away in chains. Not alone: they bound his hand to the hand of another person and dragged them along with an iron chain.
+
+Who was the person joined to Thangappazham, joined to his precious hand? A person with leprosy! Festering, writhing sores! A leprosy patient.
+
+Cruelty! Cruelty! Extreme cruelty! A horrific sight!
+
+They fastened and bound him to the hand of a person afflicted with leprosy, whose body was rotting and stinking, a person who should not have been moving freely among the public, and dragged them along!
+
+What a merciless, sinful act? What an unjust act by rulers governing in the name of nonviolence?
+
+What cruelty! Sin, deceit! What a horrific sight!
+
+Was this done to destroy him by joining him to a leprosy patient?
+
+The heart groans! One cannot even bear to imagine this cruelty.
+
+Are we, who have experienced all this, the ones who “borrow” sacrifice? Are we exploiters of “sacrifice”—and that too the sacrifice of the Communists?
+
+Do you still need a list of sacrifices?
+
+### PDF page 73 — printed page 72
+
+Can the “Theni” incident be forgotten? Are not the destructive acts that occurred there facts known to the country?
+
+Nedunchezhiyan's head would have been crushed and shattered had the blow not missed.
+
+Is it sacrifice only if the skull is split—or only if one deliberately stretches out one's head to have it split? What is sacrifice? Give your verdict. What is sacrifice? What is sacrifice?
+
+I will give you more of the list of sacrifices; listen.
+
+After Theni, in places such as Devaram, Cumbum and *Kazhuthi*, the scars of wounds suffered by our comrades have still not faded.
+
+Why? Was our Anna not arrested and thrown into prison for six months for writing *Ariya Mayai*?
+
+Did this government not confiscate Anna's bundles of papers? How many books were banned? How many plays were banned? Do the people not know? All this?
+
+What more is needed? Is there still “no sacrifice”? Are we in a condition of having to borrow it? No!
+
+Then why should we be blamed? Why should people like Comrade Jeevanandam say, “They advance using the sacrifice of the Communists”? Is it just? Is it right? Is it proper?
+
+> **Translator/source note — PDF73:** the frozen place-name-like form “கழுதி” is retained as *Kazhuthi*; no outside identification is supplied.
+
+### PDF page 74 — printed page 73
+
+Our Anna was imprisoned; the sentence was six months. But he came out after only ten days.
+
+We made them release him; this is the benefit, the result, of our sacrifice.
+
+Sacrifice must be arranged with benefit in mind, in a way that produces benefit.
+
+The benefit of sacrifice is great, Jeeva—great indeed!
+
+The sacrifices we have made for results, for the realization of our ideal, are many—not for mere fame, and certainly not for electoral fame.
+
+Looking at such warriors of principle, the Communists raise a song about sacrifice. What a pity!
+
+We could not forget our ideal, joyful Dravidam, stray from our path and give them cooperation.
+
+Because of this, does our very ideal become wrong? Your speech is not right! Your argument is not right!
+
+One argument says: “Under a Communist government, national peoples are given the right to separate and live apart.”
+
+According to this argument, the idea seems to be that we should abandon ourselves and our ideal and unite entirely with them.
+
+That is, if “Dravida Nadu” is regarded as a Dravidian national people, then under a Communist govern—
+
+### PDF page 75 — printed page 74
+
+—ment it will be permitted to separate and live apart. Until then, do not speak about it—is that not the meaning and implication?
+
+Therefore, the meaning is: “Join the Communist Party in order to establish a common-ownership government.” What else can it mean?
+
+Common ownership—our heart-song. It is not bitter neem to us; our joyful Dravidam itself is a garden of common ownership.
+
+The basic, initial work that must be done to bring about a country of common ownership—particularly to create it in our country—is precisely what we and our Kazhagam are doing.
+
+We are creating among the people the conditions, outlook and disposition in which common ownership can bloom luxuriantly, bear fruit and yield its sweet juice.
+
+For this, as the Communists say, there is no need to bring in the doctrine of common ownership from Russia for every single matter; it is not necessary.
+
+We must study and analyze the strength of mind, customs, religion, religious paths, faith, temples, kumbabhishekams, caste distinctions, attitudes of superiority and inferiority by birth, capitalism by birth, and the many other problems of our people; we must create the appropriate conditions and prepare the people!
+
+For everything, must it be the “Russian doctrine”? Is that the end of the matter? Does it fit here in its entirety? We must think calmly and thoroughly. Is the “Russian Revolution” alone enough as a model?
+
+### PDF page 76 — printed page 75
+
+Is everything finished merely by beating the war drum of revolution? Should the people not gain strength of mind?
+
+In religion and the sphere of faith, should they not gain the light of knowledge and lose the dull mentality that says, “the way God has left it,” “who can conquer fate”?
+
+Should not self-confidence arise, along with the principle that others too are human just like oneself, that birth is one and human kind is one? Who is engaged in the work of creating this?
+
+For the thousands upon thousands of stores of wealth lying immobilized in the country in the name of God to be put to use for the country and its people, can it happen unless the minds of the people are cultivated and strengthened? Think.
+
+Who is doing this? Who? I ask. Is it not we? Who are the people spreading the true, fundamental character of common ownership—the understanding that clarity of knowledge and rational thinking are the basis for everything?
+
+Who, other than us, has developed the courage to say that fate is not the cause of suffering, but that the cause is the conspiracy and action of some people in the country?
+
+A thousand castes—and in their midst the torch of common ownership!
+
+Can it arise? Can it be made to arise? Only if it arises can it take form; can it be made to take form before the people gain clarity of mind?
+
+Until human beings respect one another, until the thought and rational understanding arise that the other person too is like oneself in birth and labour—
+
+### PDF page 77 — printed page 76
+
+—that is the foundation of common ownership.
+
+Economic struggle alone will not accomplish the task. A wage increase alone is not enough; one must prevent the increased wage from being spent on wasteful festivals and Tirupati pilgrimages; self-confidence must be created. Who is doing this?
+
+Leaving all this aside, if one immediately takes “Russian Revolution, Russian Revolution” as the Russian model, will it happen? Can it happen? Will it actually produce results?
+
+Only after changing this country's social, religious and economic foundations and circumstances can a garden of common ownership arise, can it not?
+
+This is a country that sings *Bhaja Govindam*; even those known as political intellectuals cultivate it. Should this not change here? Should it not be changed?
+
+Should not monasteries, religious preachers, customs that urge people to act without respecting reason, and the superstitious beliefs people hold toward puranas and epics be abolished?
+
+Should people not understand correctly and clearly that their rise and fall in life rests with themselves?
+
+What are the obstacles to all this?
+
+Why do people remain inert even after losing their livelihood? Why do people lie still even after losing comfort? Why do the great majority of people suffer—
+
+### PDF page 78 — printed page 77
+
+—and waste away, while a few alone roll in luxury? By giving charity to the poor, building many temples and conducting ablutions and worship, they crown themselves among the people with the title “Mahadharmashtar” and garlands of fame.
+
+There must be a complete transformation in religion, paths of faith, education and the organization of society. In the sphere of inner belief, the people must gain knowledge. The disposition of bearing the burden of life while longing and suffering, placing the burden upon phrases such as “the way the Veda has left it, the command the Lord has given,” must change. They must gain strength of mind, trust themselves, and place confidence in their own thought, labour, effort and ability. In every sphere they must understand and know the person who deceives, the method of deception, and the protective forces, methods and arrangements that sustain gullibility—so that they do not remain deceived; so that there is no deceiver; so that the very philosophy, inheritance, habit and practice that creates deception disappears; so that joy may overflow and a life of satisfaction may be lived; so that a garden of common ownership may be established.
+
+Leaving all this aside, like the doctor in the film *Devaki*, is there one medicine for every disease—“*sagapethi*, is it not?” Milk for a sparrow; for everything, must it be the “Russia” model?
+
+We praise Russia; we accept that it is an “abode of happiness”; but to create that condition, with a plan formed for it, the whole—
+
+> **Translator/source note — PDF78:** the frozen Tamil contains the unusual medical/comic form “சகபேதி”; it is retained as *sagapethi* rather than silently normalized or identified from outside sources.
+
+### PDF page 79 — printed page 78
+
+—structure must be built through constructive work without collapsing along the way. That is what we are doing.
+
+We are not travelling by a different path toward a different ideal; ours is the same ideal. The true path, the path that exists before us, is this.
+
+And yet it is said that people like us are clashing with the Communists! Looking at us—whose very foundation is communism—the Communist Party of this country says, “The Tsar was overthrown; Hitler and Mussolini were opposed and reduced to dust; what are you in comparison?”
+
+We are not clashing; it is they who are clashing with us. Let the Communists realize this.
+
+What are we in comparison? Who is insignificant before whom? Why all this talk, all these quarrels?
+
+Our ideal, joyful Dravidam, is inseparably mixed with our lives and with every breath we breathe!
+
+To cultivate and protect our ideal, how many jewels and gems have died! Dr. Natesan, Nair, Theagarayar, Panagal, Panneerselvam, Alagiri, Udayarpalayam Velayudham and others died; we did not become confused, nor did we forget the ideal.
+
+What are opposition and hostile thoughts to us? We have endured so many forms of opposition, so many ideas—
+
+### PDF page 80 — printed page 79
+
+—and so many taunting words; we have faced them and kept moving forward.
+
+“Buddha failed; Ramalingar failed; Thayumanavar failed; Pattinathar could not do it; Ramalingar merely merged into the divine light. No one could create rational change and fundamental transformation—what are you in comparison?” Aryanism crowed. Did we cry out in despair? Or did we become exhausted and give up?
+
+We did not spare Alavayappan, the one whose mouth drank the Alakala poison; nor did we fail to question the one of ten incarnations or Dasaratha Rama. Is that all? Veda, purana, epic, devotional song; lineage, *andhadi*, divine oracle—none of them damaged our gaze! Custom, usage, sage, religion, righteous path, inherited practice, claims of divine blessing, monastery, temple, God, the historical glory attributed to him—none of them has brought us down!
+
+Though our tongues have become calloused from speaking atheism, have you heard that our tongues were cut off? Though we wrote that the puranas are falsehoods, our hands have not been destroyed even now! Siva's third eye has not burned us; Vishnu's sacred discus has not been seen coming in our direction.
+
+Mother, father—elder brother—younger brother, kith—kin—the whole village: we are creating a change of mind that is bitter to all of them.
+
+> **Translator/source note — PDF80:** several mythological epithets and source phrases are translated conservatively from the frozen Tamil without using outside identifications to rewrite the source.
+
+### PDF page 81 — printed page 80
+
+For this we have lost many things, yet we have never strayed from the principles we built and protected. Turmoil in the family; a wife's bewildered look; the terrible dance of poverty; the mocking words of the townspeople, the burning words of trials, the assault of custom and habit, social restraint—none of these could make us leave our path.
+
+We lost many things to protect the principle of self-respect and joyful Dravidam. We did not hesitate even to lose, to set aside, Periyar Ramasamy himself, who was like a father to us. Did we not leave Periyar because he departed from the principle?
+
+Do not clash with such warriors of principle over meaningless matters; it is wasted work. Let the Communists realize—realize—that the refrain “who is what before whom, who is insignificant before whom” is useless talk.
+
+Finally, as I said at the beginning, you should support only those who possess the character to voice the needs of Dravidam and to carry out the work required for them.
+
+Let the drum of the Dravida Munnetra Kazhagam resound in every direction! Let Dravidam triumph! Let Dravidam flourish! Long live! Greetings!

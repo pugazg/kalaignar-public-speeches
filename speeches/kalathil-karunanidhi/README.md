@@ -159,9 +159,7 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 - cross-page joins — **PASS**
 - unresolved — **0**
 - T3 canonical wording edits — **0**
-- Tamil freeze readiness — **READY / NOT YET FROZEN**
-
-English remains blocked until Tamil freeze is explicitly recorded.
+- Tamil freeze — **FROZEN / ARCHIVAL-READY**
 
 ## Tamil freeze / archival lock
 
@@ -181,20 +179,21 @@ The Tamil layer must not be changed for style, modernization, punctuation normal
 
 ## English E1 progress
 
-- Tamil prerequisite — **FROZEN / ARCHIVAL-READY**
-- E1 status — **IN PROGRESS**
-- translated — **55/76**
-- completed range — **PDF6–60**
-- latest batch — **PDF41–60 / 20 pages COMPLETE**
-- next range — **PDF61–81 / final 21 pages**
-- current instruction — **process all remaining E1 pages in this iteration**
-- fidelity review — blocked pending complete E1
-- final verification — blocked pending review
+**COMPLETE / PASS — PDF6–81 / 76 of 76**
 
-English is translated only from the frozen canonical Tamil. Difficult or internally odd source forms are kept transparent through concise translator/source notes rather than by changing Tamil.
+- Tamil prerequisite — **FROZEN / ARCHIVAL-READY**
+- E1 translated — **76/76**
+- completed range — **PDF6–81**
+- final E1 batch — **PDF61–81 / 21 pages COMPLETE**
+- page provenance — **preserved PDF6–81**
+- frozen Tamil changes introduced by English — **0**
+- English fidelity review — **READY / UNBLOCKED**
+- final English verification — blocked pending fidelity review
+
+English was translated only from the frozen canonical Tamil. Source claims, rhetoric, unusual terminology and difficult forms are represented as source material; translator/source notes are used where needed instead of rewriting Tamil.
 
 ## Exact next activity
 
-Process **English E1 translation — PDF61–81 / final 21 physical pages**.
+Begin **English fidelity review — PDF6–25 / first 20 pages**.
 
 Continue page-by-page from frozen `transcription-ta.md`, preserve page provenance, rhetoric, repetition, names, figures and source-supported oddities, and keep English fidelity review blocked until E1 is complete.
