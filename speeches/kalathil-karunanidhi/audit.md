@@ -2095,3 +2095,27 @@ The English layer continues to present historical and political assertions as cl
 **REPOSITORY / RELEASE CLOSURE — READY**
 
 Exact next activity: reconcile all archive control files and close `களத்தில் கருணாநிதி` without reopening frozen Tamil or verified English absent a separately established source-backed defect.
+
+## Repository / release closure — 2026-09-23
+
+**PASS / FINAL CLOSED / RELEASE READY**
+
+- source identity / boundary — **PASS**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
+- T2 valid corrections — **350**
+- T2 retractions — **2**
+- Tamil — **FROZEN / VERIFIED-COMPLETE**
+- Tamil unresolved — **0**
+- English E1 — **COMPLETE / PASS — 76/76**
+- English fidelity review — **COMPLETE / PASS — 76/76**
+- English review corrections — **16**
+- source-transparency notes — **6**
+- English final verification — **COMPLETE / PASS — 76/76**
+- final-verification new corrections — **0**
+- missing English pages — **0**
+- frozen Tamil changes introduced by English — **0**
+- pending routine work — **0**
+
+Control documents are synchronized to this final state. Durable report: `FINAL_CLOSURE.md`.
+
+Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity error. Do not reopen for stylistic polishing.
