@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF37–41",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF42–46",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 31,
+    "pages_audited": 36,
     "pages_total": 76,
-    "latest_range": "PDF32–36",
-    "latest_range_result": "5/5 audited; 30 new valid corrections; 0 unresolved",
-    "corrections_total": 62,
+    "latest_range": "PDF37–41",
+    "latest_range_result": "5/5 audited; 10 new valid corrections; 0 unresolved",
+    "corrections_total": 72,
     "unresolved": 0,
-    "next_range": "PDF37–41",
+    "next_range": "PDF42–46",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -617,6 +617,76 @@
         "pdf": 36,
         "earlier": "ஏன்? [after ஒழிக்கப்பட வேண்டும்.]",
         "source_supported": "ஏன் ? [after ஒழிக்கப்பட வேண்டும்.]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 37,
+        "earlier": "நாங்கள் மறக்க முடியுமா?",
+        "source_supported": "நாங்கள் மறக்க முடியுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 37,
+        "earlier": "இருந்ததை மறக்கமுடியுமா?",
+        "source_supported": "இருந்ததை மறக்கமுடியுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 37,
+        "earlier": "தந்த தியாகத்தழும்புகளே எண்ணை விருப்பதில்லை.",
+        "source_supported": "தந்த தியாகத்தழும்புகளை எண்ணை விருப்பதில்லை.",
+        "evidence": "direct enlarged source-pixel comparison; source clearly prints களை ending",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 37,
+        "earlier": "ஏன்? [first]",
+        "source_supported": "ஏன் ? [first]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 37,
+        "earlier": "ஏன்? [second]",
+        "source_supported": "ஏன் ? [second]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 39,
+        "earlier": "அழிவைக்காண விரும்புவதா?",
+        "source_supported": "அழிவைக்காண விரும்புவதா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 39,
+        "earlier": "தவறென்ன?",
+        "source_supported": "தவறென்ன ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 40,
+        "earlier": "நாய்க்குத் தேவையா?",
+        "source_supported": "நாய்க்குத் தேவையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 40,
+        "earlier": "இதனைக்காணவேண்டுமா?",
+        "source_supported": "இதனைக்காணவேண்டுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 40,
+        "earlier": "கண்டு சகித்திடவும் வேண்டுமா?",
+        "source_supported": "கண்டு சகித்திடவும் வேண்டுமா ?",
         "evidence": "explicit source space before question mark",
         "guessed_reconstruction": 0
       }

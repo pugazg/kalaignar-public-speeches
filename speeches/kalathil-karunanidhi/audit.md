@@ -1212,3 +1212,75 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF37–41 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF37–41
+
+**PASS — 5/5 AUDITED / 10 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF37 / printed 36 — **T2 VERIFIED / 5 corrections**
+- PDF38 / printed 37 — **T2 VERIFIED / 0 corrections**
+- PDF39 / printed 38 — **T2 VERIFIED / 2 corrections**
+- PDF40 / printed 39 — **T2 VERIFIED / 3 corrections**
+- PDF41 / printed 40 — **T2 VERIFIED / 0 corrections**
+- cumulative T2 coverage — **36/76**
+- cumulative valid T2 corrections — **72**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. All 13 mandatory historical-glyph families were consciously checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. No correction was accepted without positive source-pixel evidence.
+
+Representative historical-glyph checks include PDF37 `எண்ணை` (`ணை`), PDF39 `பூனை` (`னை`), and PDF40 `கண்றாவியாக` (`றா`). Pages without a representative occurrence were still checked against the full mandatory family set. No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+### PDF37 — 5 corrections
+
+1. `நாங்கள் மறக்க முடியுமா?` → `நாங்கள் மறக்க முடியுமா ?`
+2. `இருந்ததை மறக்கமுடியுமா?` → `இருந்ததை மறக்கமுடியுமா ?`
+3. `தந்த தியாகத்தழும்புகளே எண்ணை விருப்பதில்லை.` → `தந்த தியாகத்தழும்புகளை எண்ணை விருப்பதில்லை.`
+   - evidence — enlarged source clearly prints the `களை` ending in `தியாகத்தழும்புகளை`
+   - type — character/wording fidelity correction
+4. first `ஏன்?` → `ஏன் ?`
+5. second `ஏன்?` → `ஏன் ?`
+
+The four punctuation changes above restore explicit source spacing before the question mark.
+
+### PDF38 — 0 corrections
+
+The existing canonical PDF38 matched the inspected source. Source-sensitive forms retained include `உறை விடமாயிருந்த`, `சின்னதுகளாலும்`, `தகாதவழியில்`, `காட்டும்நாங்கள்`, and `அழிக்கப்படவேண்டும்`.
+
+### PDF39 — 2 corrections
+
+1. `அழிவைக்காண விரும்புவதா?` → `அழிவைக்காண விரும்புவதா ?`
+2. `தவறென்ன?` → `தவறென்ன ?`
+
+Both are explicit source question-mark spacing restorations. Other source-sensitive wording, including `அலங்கோலப்பட்டுப்`, `வீட்டுப் பிராணிகளே`, and `சுகப்படவில்லை`, was retained unchanged.
+
+### PDF40 — 3 corrections
+
+1. `நாய்க்குத் தேவையா?` → `நாய்க்குத் தேவையா ?`
+2. `இதனைக்காணவேண்டுமா?` → `இதனைக்காணவேண்டுமா ?`
+3. `கண்டு சகித்திடவும் வேண்டுமா?` → `கண்டு சகித்திடவும் வேண்டுமா ?`
+
+All three are explicit source question-mark spacing restorations. Other source-sensitive forms, including `கண்றாவியாக`, `அலறியலறிக்`, and `நடைப்பிணமாய்`, were retained unchanged.
+
+### PDF41 — 0 corrections
+
+The canonical page matched the inspected source. Source-sensitive forms retained include `சங்கட மின்றிச்`, `கொடுமை செய்திவதிலே`, `கோரங் தவிர்க்க`, and both printed `(Cruel kindness)` occurrences.
+
+Boundary controls:
+
+- PDF36→37 — clean paragraph boundary
+- PDF37→38 — clean paragraph boundary
+- PDF38→39 — clean paragraph boundary
+- PDF39→40 — clean paragraph boundary
+- PDF40→41 — clean paragraph boundary
+- PDF41→42 — clean paragraph boundary; PDF42 begins `காந்தியத்திற்கும் இது புறம்பானதல்ல...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF42–46 / 5 pages**.

@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–36 / 31 of 76**
-- T2 source-supported corrections — **62 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–41 / 36 of 76**
+- T2 source-supported corrections — **72 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -114,18 +114,18 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–36 have completed the second visual/textual fidelity audit.
+PDF6–41 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **31/76**
-- cumulative valid corrections — **62**
+- T2 coverage — **36/76**
+- cumulative valid corrections — **72**
 - retracted changes — **2**
-- latest PDF32–36 batch — **5/5 audited / 30 new valid corrections**
+- latest PDF37–41 batch — **5/5 audited / 10 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- latest substantive corrections:
-  - PDF33 `கண்டுகட்டும்` → `காண்டுகட்டும்`
-  - PDF36 `இத்தகைய பாணங்கள்!` → `இத்தூற்றல் பாணங்கள்!`
-- source question-mark spacing restored exactly where positively visible across PDF32, PDF34, PDF35 and PDF36
+- latest substantive correction:
+  - PDF37 `தியாகத்தழும்புகளே` → `தியாகத்தழும்புகளை`
+- source question-mark spacing restored exactly where positively visible on PDF37, PDF39 and PDF40
+- PDF38 / PDF41 — **0 corrections**
 - retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
 
 ## T2 verification safeguard
@@ -134,6 +134,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF37–41 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF42–46 / 5 pages**.
 
 English remains blocked pending Tamil freeze.

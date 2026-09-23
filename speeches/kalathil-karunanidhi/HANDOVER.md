@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–36 / 31 of 76**
-- cumulative valid T2 corrections — **62**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–41 / 36 of 76**
+- cumulative valid T2 corrections — **72**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,18 +37,15 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **32–36 — 5/5 T2 VERIFIED**.
+PDF **37–41 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **30**:
+New valid source-supported corrections — **10**:
 
-- PDF32 — 6 explicit question-mark spacing corrections
-- PDF33 — `கண்டுகட்டும்` → `காண்டுகட்டும்`
-- PDF34 — 11 explicit question-mark spacing corrections
-- PDF35 — 4 explicit question-mark spacing corrections
-- PDF36 — `இத்தகைய பாணங்கள்!` → **`இத்தூற்றல் பாணங்கள்!`**
-- PDF36 — 7 explicit question-mark spacing corrections
-
-For PDF36 `இத்தூற்றல்`, the enlarged source was cross-checked against the same-edition `தூற்றியுள்ளது` pattern on PDF35 before acceptance.
+- PDF37 — four explicit question-mark spacing restorations
+- PDF37 — `தியாகத்தழும்புகளே` → **`தியாகத்தழும்புகளை`**
+- PDF39 — two explicit question-mark spacing restorations
+- PDF40 — three explicit question-mark spacing restorations
+- PDF38 / PDF41 — **0 corrections**
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -60,19 +57,18 @@ Verification safeguard:
 - all 13 historical-glyph families checked page-by-page
 - every ordinary vowel sign and consonant-vowel cluster checked line-by-line
 - source spaces, punctuation, punctuation spacing, and physical line/page joins checked explicitly
-- same-edition comparison used where character identity needed confirmation
 - no correction accepted without positive source-pixel evidence
 - unresolved glyph/character ambiguity — **0**
 - silent modernization — **0**
 
 Boundary controls:
 
-- PDF31→32 — `ஏறக் / குறைய` → `ஏறக்குறைய`
-- PDF32→33 — `பிரித்து எடுத்துப் / பரிசோதனைக்குக் கொண்டு போனார்.`
-- PDF33→34 — clean paragraph boundary
-- PDF34→35 — `திராவகத்தில் போட்டுப் / பத்திரப்படுத்தி விட்டு...`
-- PDF35→36 — clean; PDF36 begins `நிலைமை, ஆட்சியின் அலங்கோலம்...`
-- PDF36→37 — clean; PDF37 begins `காங்கிரசின் மேல் உள்ள வெறுப்பால், அல்ல,...`
+- PDF36→37 — clean
+- PDF37→38 — clean
+- PDF38→39 — clean
+- PDF39→40 — clean
+- PDF40→41 — clean
+- PDF41→42 — clean; PDF42 begins `காந்தியத்திற்கும் இது புறம்பானதல்ல...`
 
 ## User adjudications — authoritative
 
@@ -88,6 +84,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF37–41 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF42–46 / 5 physical pages**.
 
 Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.
