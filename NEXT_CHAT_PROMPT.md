@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF47–51
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF52–56
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,8 +20,8 @@ Refetch live `main` before editing.
 - source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–46 / 41 of 76**
-- T2 valid corrections — **82 cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–51 / 46 of 76**
+- T2 valid corrections — **88 cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -33,17 +33,20 @@ Refetch live `main` before editing.
 
 ## Latest T2 range
 
-PDF42–46 — **5/5 T2 VERIFIED / 10 new valid corrections / 0 unresolved**.
+PDF47–51 — **5/5 T2 VERIFIED / 6 new valid corrections / 0 unresolved**.
 
 Key source corrections:
 
-- PDF44 — `பலுவை` → `பளுவை`
-- PDF44 — `எங்களைக் பலர்` → `எங்களைப் பலர்`
-- PDF45 — `ஓட்டுகளைப்` → `ஓட்டுக்களைப்`
-- PDF46 — `கம்யூனிஸ்டுக் கட்சி` → `கம்யூனிஸ்டுக்கட்சி`
-- source punctuation spacing restored exactly where visible on PDF44 and PDF46
+- PDF47 — `சட்டசபை` → `சட்ட சபை`
+- PDF48 — four explicit question-mark spacing restorations
+- PDF50 — `முன்வைத்து` → `முன் வைத்து`
 
-PDF42 and PDF43 required **0 corrections**.
+PDF49 and PDF51 required **0 corrections**.
+
+Source-sensitive forms explicitly rechecked and retained:
+
+- PDF48 — `வேண்டு மென்று`
+- PDF49 — `பிரித்தே திருவோம்`
 
 Retraction safeguards remain active:
 
@@ -52,7 +55,7 @@ Retraction safeguards remain active:
 
 Boundary into next range:
 
-- PDF46→47 — clean paragraph boundary; PDF47 begins `அண்ணா, இது விஷயத்தில் தானே முடிவு கூறிவிட முடியாது...`
+- PDF51→52 — sentence continues `...மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
 
 ## Verification rule
 
@@ -68,6 +71,6 @@ On every T2 page:
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF47–51 / 5 physical pages.**
+**Tamil T2 visual/textual fidelity audit — PDF52–56 / 5 physical pages.**
 
 Compare each canonical page directly with enlarged source pixels, record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where positively supported. Keep English blocked.

@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF47–51",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF52–56",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 41,
+    "pages_audited": 46,
     "pages_total": 76,
-    "latest_range": "PDF42–46",
-    "latest_range_result": "5/5 audited; 10 new valid corrections; 0 unresolved",
-    "corrections_total": 82,
+    "latest_range": "PDF47–51",
+    "latest_range_result": "5/5 audited; 6 new valid corrections; 0 unresolved",
+    "corrections_total": 88,
     "unresolved": 0,
-    "next_range": "PDF47–51",
+    "next_range": "PDF52–56",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -758,6 +758,48 @@
         "earlier": "ஒரு கட்சியா?",
         "source_supported": "ஒரு கட்சியா ?",
         "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 47,
+        "earlier": "யார்யார் சட்டசபை, மக்கள் சபை",
+        "source_supported": "யார்யார் சட்ட சபை, மக்கள் சபை",
+        "evidence": "direct enlarged source-pixel comparison; explicit inter-word space",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 48,
+        "earlier": "அவர்கள் தியாகிகளா?",
+        "source_supported": "அவர்கள் தியாகிகளா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 48,
+        "earlier": "குண்டடிபட்டவர்களா?",
+        "source_supported": "குண்டடிபட்டவர்களா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 48,
+        "earlier": "சிறைக்குச் சென்றவர்களா?",
+        "source_supported": "சிறைக்குச் சென்றவர்களா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 48,
+        "earlier": "இருக்கின்றனவா?",
+        "source_supported": "இருக்கின்றனவா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 50,
+        "earlier": "கொள்கையை முன்வைத்து, ஐக்கிய முன்னணியில் சேர",
+        "source_supported": "கொள்கையை முன் வைத்து, ஐக்கிய முன்னணியில் சேர",
+        "evidence": "direct enlarged source-pixel comparison; explicit inter-word space",
         "guessed_reconstruction": 0
       }
     ],

@@ -1373,3 +1373,77 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF47–51 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF47–51
+
+**PASS — 5/5 AUDITED / 6 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF47 / printed 46 — **T2 VERIFIED / 1 correction**
+- PDF48 / printed 47 — **T2 VERIFIED / 4 corrections**
+- PDF49 / printed 48 — **T2 VERIFIED / 0 corrections**
+- PDF50 / printed 49 — **T2 VERIFIED / 1 correction**
+- PDF51 / printed 50 — **T2 VERIFIED / 0 corrections**
+- cumulative T2 coverage — **46/76**
+- cumulative valid T2 corrections — **88**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. All 13 mandatory historical-glyph families were consciously checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. No correction was accepted without positive source-pixel evidence.
+
+Representative historical-glyph checks include PDF47 `அண்ணா` (`ணா`), PDF48 `நன்றாக` (`றா`), and PDF50 `அண்ணா` (`ணா`). PDF49 and PDF51 had no representative occurrence needed for closure, but the full 13-family set was still checked. No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+### PDF47 — 1 correction
+
+- T1 — `யார்யார் சட்டசபை, மக்கள் சபை`
+- T2 source — `யார்யார் சட்ட சபை, மக்கள் சபை`
+- evidence — enlarged source clearly shows an inter-word space between `சட்ட` and `சபை`
+- type — source-spacing fidelity
+
+Source-sensitive forms retained include `உறுதிப் படுத்துகிறார்களோ`, `கம்யூனிஸ்டு கட்சி`, and `ஐம்பதின்மருக்குமேல்`.
+
+### PDF48 — 4 corrections
+
+The source visibly separates the question mark from the preceding word in all four instances:
+
+- `அவர்கள் தியாகிகளா?` → `அவர்கள் தியாகிகளா ?`
+- `குண்டடிபட்டவர்களா?` → `குண்டடிபட்டவர்களா ?`
+- `சிறைக்குச் சென்றவர்களா?` → `சிறைக்குச் சென்றவர்களா ?`
+- `இருக்கின்றனவா?` → `இருக்கின்றனவா ?`
+
+Source-sensitive forms retained without normalization include `கண்ண மூடிக் கொண்டு` and the source's same-line `வேண்டு மென்று`.
+
+### PDF49 — 0 corrections
+
+The existing canonical text matched the inspected source. Source-sensitive forms retained include `பிரித்தே திருவோம்` and `இன்பத்திராவிடங்காணும்`; neither was normalized from contextual expectation.
+
+### PDF50 — 1 correction
+
+- T1 — `கொள்கையை முன்வைத்து, ஐக்கிய முன்னணியில் சேர`
+- T2 source — `கொள்கையை முன் வைத்து, ஐக்கிய முன்னணியில் சேர`
+- evidence — enlarged source clearly prints `முன் வைத்து` as two words
+- type — source-spacing fidelity
+
+The quoted source form `‘அது கட்சியா?’,` was retained as printed.
+
+### PDF51 — 0 corrections
+
+The existing canonical text matched the inspected source. Source-sensitive forms retained include `வேலையுங் கூட`, `சுயேச்சை வாதிகளும்`, and `அடக்கு முறைகளே`.
+
+Boundary controls:
+
+- PDF46→47 — clean paragraph boundary
+- PDF47→48 — clean paragraph boundary
+- PDF48→49 — clean paragraph boundary
+- PDF49→50 — source word split `நாச / காரக்` → assembled `நாசகாரக்`
+- PDF50→51 — clean paragraph boundary
+- PDF51→52 — sentence continues `...மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF52–56 / 5 pages**.
