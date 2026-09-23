@@ -21,7 +21,7 @@ Refetch live `main` before editing.
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
 - T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
-- T2 valid corrections — **301 cumulative**
+- T2 valid corrections — **302 cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -35,13 +35,14 @@ The remaining T2 range is exactly five pages.
 
 ## Latest T2 range
 
-PDF72–76 — **5/5 T2 VERIFIED / 80 new valid corrections / 0 unresolved**.
+PDF72–76 — **5/5 T2 VERIFIED / 81 new valid corrections / 0 unresolved**.
 
 Substantive/source-structure corrections:
 
 - PDF73 — `கழுதிபோன்ற` → `கழுதி போன்ற`
 - PDF74 — `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
 - PDF75 — `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
+- PDF75 — `‘ரஷ்யத் தத்துவமா ?’` → `‘ரஷ்யத் தத்துவமா ?`
 - PDF76 — `மற்றவனும்;` → `மற்றவனும்,`
 - PDF76 — `உழைப்பில், என்று` → `உழைப்பில் என்று`
 

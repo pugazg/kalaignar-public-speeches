@@ -180,8 +180,8 @@
     "pages_audited": 71,
     "pages_total": 76,
     "latest_range": "PDF72–76",
-    "latest_range_result": "5/5 audited; 80 new valid corrections; 0 unresolved",
-    "corrections_total": 301,
+    "latest_range_result": "5/5 audited; 81 new valid corrections; 0 unresolved",
+    "corrections_total": 302,
     "unresolved": 0,
     "next_range": "PDF77–81",
     "cadence": "5 physical PDF pages per user iteration",
@@ -2291,6 +2291,13 @@
         "earlier": "உழைப்பில், என்று",
         "source_supported": "உழைப்பில் என்று",
         "evidence": "direct enlarged source-pixel comparison; no comma after உழைப்பில்",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 75,
+        "earlier": "‘ரஷ்யத் தத்துவமா ?’",
+        "source_supported": "‘ரஷ்யத் தத்துவமா ?",
+        "evidence": "direct enlarged source-pixel comparison; source prints opening quote but no closing quote after question mark",
         "guessed_reconstruction": 0
       }
     ],

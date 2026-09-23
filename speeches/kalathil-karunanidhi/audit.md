@@ -1739,15 +1739,15 @@ Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF72–76 / 5
 
 ## Tamil T2 five-page fidelity audit — PDF72–76
 
-**PASS — 5/5 AUDITED / 80 NEW SOURCE-SUPPORTED CORRECTIONS**
+**PASS — 5/5 AUDITED / 81 NEW SOURCE-SUPPORTED CORRECTIONS**
 
 - PDF72 / printed 71 — **T2 VERIFIED / 16 corrections**
 - PDF73 / printed 72 — **T2 VERIFIED / 23 corrections**
 - PDF74 / printed 73 — **T2 VERIFIED / 10 corrections**
-- PDF75 / printed 74 — **T2 VERIFIED / 11 corrections**
+- PDF75 / printed 74 — **T2 VERIFIED / 12 corrections**
 - PDF76 / printed 75 — **T2 VERIFIED / 20 corrections**
 - cumulative T2 coverage — **71/76**
-- cumulative valid T2 corrections — **301**
+- cumulative valid T2 corrections — **302**
 - retracted T2 changes — **2**
 - unresolved readings — **0**
 - guessed readings — **0**
@@ -1784,14 +1784,18 @@ One punctuation-character correction was positively established:
   - evidence — enlarged source clearly prints a comma after `பயன்`
   - type — punctuation fidelity
 
-### PDF75 — 11 corrections
+### PDF75 — 12 corrections
 
 Ten changes restore visible punctuation spacing in `அர்த்தம் ?`, `பொருள் ?`, `வேறென்ன ?`, both semicolon positions in `பொது உடைமை ; எங்கள் இருதயகீதம் ;`, `வேண்டும் !`, and the four spaced questions in the closing Russia paragraph.
 
-One source punctuation insertion was positively established:
+Two source punctuation corrections were positively established:
 
 - `மனப்பான்மை மனப்போக்கை` → **`மனப்பான்மை, மனப்போக்கை`**
   - evidence — enlarged source clearly prints the comma
+  - type — punctuation fidelity
+
+- `‘ரஷ்யத் தத்துவமா ?’` → **`‘ரஷ்யத் தத்துவமா ?`**
+  - evidence — enlarged source prints the opening quote but no closing quote after the question mark
   - type — punctuation fidelity
 
 ### PDF76 — 20 corrections

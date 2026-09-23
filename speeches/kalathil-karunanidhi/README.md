@@ -50,7 +50,7 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
 - T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
-- T2 source-supported corrections — **301 valid cumulative**
+- T2 source-supported corrections — **302 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -117,15 +117,16 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 PDF6–76 have completed the second visual/textual fidelity audit.
 
 - T2 coverage — **71/76**
-- cumulative valid corrections — **301**
+- cumulative valid corrections — **302**
 - retracted changes — **2**
-- latest PDF72–76 batch — **5/5 audited / 80 new valid corrections**
+- latest PDF72–76 batch — **5/5 audited / 81 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
 - substantive/source-structure corrections in the latest batch:
   - PDF73 — `கழுதிபோன்ற` → `கழுதி போன்ற`
   - PDF74 — `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
   - PDF75 — `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
+  - PDF75 — `‘ரஷ்யத் தத்துவமா ?’` → `‘ரஷ்யத் தத்துவமா ?`
   - PDF76 — `மற்றவனும்;` → `மற்றவனும்,`
   - PDF76 — `உழைப்பில், என்று` → `உழைப்பில் என்று`
 - remaining latest-batch changes restore positively visible source punctuation spacing

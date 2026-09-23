@@ -24,7 +24,7 @@ Archive: `speeches/kalathil-karunanidhi/`
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
 - T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
-- cumulative valid T2 corrections — **301**
+- cumulative valid T2 corrections — **302**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -39,12 +39,12 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 PDF **72–76 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **80**:
+New valid source-supported corrections — **81**:
 
 - PDF72 — 16 punctuation-spacing restorations
 - PDF73 — 23 corrections, including `கழுதிபோன்ற` → `கழுதி போன்ற`
 - PDF74 — 10 corrections, including `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
-- PDF75 — 11 corrections, including `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
+- PDF75 — 12 corrections, including `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை` and removal of the unsupported closing quote in `‘ரஷ்யத் தத்துவமா ?’`
 - PDF76 — 20 corrections, including `மற்றவனும்;` → `மற்றவனும்,` and `உழைப்பில், என்று` → `உழைப்பில் என்று`
 
 Source-confirmed no-space punctuation exceptions were retained rather than normalized.

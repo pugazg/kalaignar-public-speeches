@@ -1,7 +1,7 @@
 # களத்தில் கருணாநிதி — Tamil transcription
 
 **Status:** T1 **COMPLETE — PDF6–81 processed / 76 of 76 speech-body pages; 76/76 first-pass verified**  
-**T2 fidelity audit:** **IN PROGRESS — PDF6–76 audited / 71 of 76; 301 valid source-supported corrections; 2 retracted; 0 unresolved**  
+**T2 fidelity audit:** **IN PROGRESS — PDF6–76 audited / 71 of 76; 302 valid source-supported corrections; 2 retracted; 0 unresolved**  
 **Controlling source:** `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 **Source front matter:** PDF1–5 — outside speech body  
 **Speech body:** PDF6–81 / 76 pages  
@@ -1328,7 +1328,7 @@ iv
 
 நமது நாட்டு மக்களின், மனவளம், பழக்கவழக்கம், சமயம், சன்மார்க்கம், மதம், மார்க்கம், கோயில், கும்பாபிஷேகம், ஜாதிபேதம், பிறப்பால் உயர்வு தாழ்வு மனப்பான்மை, பிறவி முதலாளித்துவம், இன்ன பிற எத்தனையோ, பிரச்சினைகள் ஆய்ந்து, அலசி அதற்குரிய சூழ்நிலையை உண்டாக்கி மக்களைப் பக்குவப்படுத்தியாக வேண்டும் !
 
-எடுத்ததெற்கெல்லாம் ‘ரஷ்யத் தத்துவமா ?’ அதுவே முடிந்ததா ? அது பொருந்துகிறதா, முழுதும் இங்கே ? யோசித்துப் பார்க்கவேண்டும், ஆர, அமர, ‘ரஷ்யபுரட்சி’ ஒன்றுமட்டும் மாடலாக அமைந்தால் போதுமா ?
+எடுத்ததெற்கெல்லாம் ‘ரஷ்யத் தத்துவமா ? அதுவே முடிந்ததா ? அது பொருந்துகிறதா, முழுதும் இங்கே ? யோசித்துப் பார்க்கவேண்டும், ஆர, அமர, ‘ரஷ்யபுரட்சி’ ஒன்றுமட்டும் மாடலாக அமைந்தால் போதுமா ?
 
 ## PDF 76
 
