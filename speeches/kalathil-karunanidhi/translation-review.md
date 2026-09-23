@@ -354,6 +354,6 @@ Post-review integrity checks:
 - new English corrections introduced during final verification — **0**
 - missing English pages — **0**
 - frozen Tamil changes — **0**
-- repository/release closure — **READY**
+- repository/release closure — **PASS / FINAL CLOSED / RELEASE READY**
 
-Exact next activity: **Repository/release closure for `களத்தில் கருணாநிதி`**.
+No routine next activity remains. Archive is **FINAL CLOSED / RELEASE READY**.
