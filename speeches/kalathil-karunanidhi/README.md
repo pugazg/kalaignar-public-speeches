@@ -206,8 +206,18 @@ English was translated only from the frozen canonical Tamil. Source claims, rhet
 - missing English pages — **0**
 - final English verification — **READY / UNBLOCKED**
 
+## Final English verification progress
+
+- status — **IN PROGRESS**
+- verified — **PDF6–32 / 27 of 76**
+- Batch 1 — **PASS**
+- new English corrections — **0**
+- frozen Tamil changes — **0**
+- next — **PDF33–59 / 27 pages**
+- cadence — **27 physical PDF pages per iteration**
+
 ## Exact next activity
 
-Process **final English verification — PDF6–32 / first 27 physical pages**.
+Process **final English verification — PDF33–59 / 27 physical pages**.
 
-Compare E1 directly against frozen Tamil, record findings in `translation-review.md`, correct only the English layer where source fidelity requires it, and keep final English verification blocked until all 76 pages have been reviewed.
+Verify the reviewed English against frozen Tamil and the recorded fidelity-review findings. Do not reopen Tamil absent a separately established source-backed defect.

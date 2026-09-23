@@ -243,3 +243,27 @@ Cumulative review result:
 - final English verification — **READY / UNBLOCKED**
 
 Exact next activity: **Final English verification — PDF6–32 / first 27 pages**.
+
+## Final English verification — Batch 1 / PDF6–32
+
+**PASS — 27/27 VERIFIED**
+
+Post-review integrity checks:
+
+- PDF pages present and ordered — **27/27**
+- missing pages — **0**
+- new whole-paragraph omissions — **0**
+- new unsupported additions — **0**
+- applicable fidelity-review corrections — **4/4 confirmed**
+  - PDF9 — `embodiments of nonviolence`
+  - PDF10 — mother restored as subject of the child/well passage
+  - PDF21 — source-transparency note retained
+  - PDF26 — `As if to outdo all this`
+- PDF8 obscured folio — **no number invented**
+- source-sensitive notes — **PASS**
+- cross-page continuity PDF6–32 — **PASS**
+- new English corrections required — **0**
+- frozen Tamil changes — **0**
+
+Cumulative final verification — **27/76**  
+Next — **PDF33–59 / 27 pages**

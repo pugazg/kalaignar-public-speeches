@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Final English verification PDF6–32
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Final English verification PDF33–59
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,31 +8,18 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 - Tamil canonical — **FROZEN / ARCHIVAL-READY**
 - English E1 — **COMPLETE / PASS — 76/76**
 - English fidelity review — **COMPLETE / PASS — 76/76**
-- review corrections — **16**
-- source-transparency notes — **6**
-- final English verification — **READY / UNBLOCKED**
-- final verification completed — **0/76**
-
-## Final-verification rule
-
-Verify the already reviewed English against frozen `transcription-ta.md` and `translation-review.md`.
-
-Check:
-
-- every PDF page remains present and in order;
-- all fidelity-review corrections are actually applied;
-- no omissions or unsupported additions remain;
-- names, numbers, rhetoric and cross-page joins remain intact;
-- translator/source notes accurately disclose source-sensitive readings;
-- political/historical assertions remain framed as source-speech claims;
-- frozen Tamil is not modified.
+- final English verification — **IN PROGRESS — 27/76**
+- final-verified — **PDF6–32**
+- new English corrections during final verification — **0**
 
 ## Working cadence
 
-Use **27 physical PDF pages per final-verification iteration** unless the user gives a different cadence.
+Use **27 physical PDF pages per final-verification iteration** unless the user overrides it.
 
 ## Exact next activity
 
-**Final English verification — PDF6–32 / first 27 speech-body pages.**
+**Final English verification — PDF33–59 / 27 physical pages.**
 
-Record verification progress in the control documents. Do not reopen Tamil absent a separately established source-backed defect.
+Verify reviewed English against frozen `transcription-ta.md` and `translation-review.md`. Confirm pages, review corrections, names/numbers, rhetoric, source notes and page joins. Do not modify frozen Tamil.
+
+If complete, set cumulative final verification to **54/76** and next range to **PDF60–81 / final 22 pages**.
