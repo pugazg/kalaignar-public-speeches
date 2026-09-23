@@ -552,3 +552,25 @@ Repository-level closure is complete. No transcription or translation work remai
 - final report — `speeches/kalathil-karunanidhi/FINAL_CLOSURE.md`
 
 Repository-level closure is complete. No transcription, translation, review, verification, or release-readiness work remains pending for this speech. Reopen only for genuinely new source evidence or a documented substantive fidelity error.
+
+### Active work — புராணப்போதை (1958 source booklet)
+
+collections/puranappothai-1958/ is **ONBOARDED / SOURCE-GATED — 6/6 constituents mapped**.
+
+- source — TVA_BOK_0024505_புராணப்போதை.pdf
+- SHA-256 — 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
+- source scans — 102
+- source-supported edition — முதல் பதிப்பு: பிப்ரவரி 1958
+- publisher — முன்னேற்றப் பண்ணை, சென்னை
+- constituent body — PDF 8–101 / 94 pages
+- duplicate gate — PASS / no existing dedicated archive found
+- source-defined constituents — 6
+- source-gated — 6/6
+- Tamil T1 complete — 0/6
+- first active constituent — குட்டிக் கதைகள்! குரங்காட்டம்!, PDF 8–28 / 21 pages
+
+Source-structure controls: PDF29 reads சடுகுடு விளையாட்டா? சவால் சண்டையா?; அரசியல் அரிபரந்தாமன் ... ஆச்சாரியாருக்கு அபயம் is internal to constituent 2; ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! is one constituent.
+
+The user supplied 1953, but the controlling scan prints February 1958; the archive follows the scan.
+
+Exact next gate: Tamil T1 — constituent 1 / PDF8–28.

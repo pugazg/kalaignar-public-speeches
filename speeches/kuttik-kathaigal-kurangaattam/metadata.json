@@ -1,0 +1,60 @@
+{
+  "id": "kuttik-kathaigal-kurangaattam",
+  "title": {
+    "ta": "குட்டிக் கதைகள்! குரங்காட்டம்!"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "role": "speaker"
+  },
+  "document_type": "public-speech-constituent-from-multi-speech-booklet",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "date_note": "No constituent-specific speech date established; do not use publication date as speech date.",
+    "venue_ta": null,
+    "venue_note": "Parent introduction says various places in Chennai; no item-specific venue established."
+  },
+  "parent_collection": {
+    "id": "puranappothai-1958",
+    "title_ta": "புராணப்போதை",
+    "path": "collections/puranappothai-1958/",
+    "constituent_number": 1,
+    "constituents_total": 6
+  },
+  "source": {
+    "filename": "TVA_BOK_0024505_புராணப்போதை.pdf",
+    "source_id": "TVA_BOK_0024505",
+    "sha256": "3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785",
+    "file_size_bytes": 24582287,
+    "pdf_pages": 102,
+    "parent_pdf_pages_total": 102,
+    "pdf_page_start": 8,
+    "pdf_page_end": 28,
+    "printed_page_start": 7,
+    "printed_page_end": 27,
+    "speech_pages_total": 21,
+    "binary_committed": false,
+    "source_heading_ta": "குட்டிக் கதைகள்! குரங்காட்டம்!"
+  },
+  "source_boundary_note": "Source-defined combined heading on PDF8. The three illustrative குட்டிக் கதைகள் remain inside this constituent.",
+  "duplicate_check": {
+    "status": "pass-no-existing-dedicated-archive-found",
+    "parent_report": "collections/puranappothai-1958/DUPLICATE_AUDIT.md"
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "duplicate_check": "pass-no-existing-dedicated-archive-found",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "ready-not-started",
+    "tamil_visual_audit": "blocked-pending-t1",
+    "tamil_consolidation": "blocked-pending-t2",
+    "english_translation": "blocked-pending-tamil-freeze",
+    "english_translation_review": "blocked-pending-e1",
+    "english_translation_final_verification": "blocked-pending-review",
+    "repository_closure": "not-started",
+    "archive_status": "active-source-gated",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 transcription"
+  }
+}
