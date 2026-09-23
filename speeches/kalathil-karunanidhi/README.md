@@ -49,8 +49,8 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–56 / 51 of 76**
-- T2 source-supported corrections — **101 valid cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–61 / 56 of 76**
+- T2 source-supported corrections — **139 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -114,22 +114,21 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–56 have completed the second visual/textual fidelity audit.
+PDF6–61 have completed the second visual/textual fidelity audit.
 
-- T2 coverage — **51/76**
-- cumulative valid corrections — **101**
+- T2 coverage — **56/76**
+- cumulative valid corrections — **139**
 - retracted changes — **2**
-- latest PDF52–56 batch — **5/5 audited / 13 new valid corrections**
+- latest PDF57–61 batch — **5/5 audited / 38 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- latest source corrections:
-  - PDF52 `மூன்றுகட்சிகளின்` → `மூன்று கட்சிகளின்`
-  - PDF53 `நன்கு தெரிந்து` → `நன்குதெரிந்து`
-  - PDF53 `ஒருசிலரின்` → `ஒரு சிலரின்`
-  - PDF54 source space restored in `தோழமை !`
-  - PDF55 seven punctuation-spacing restorations
-  - PDF56 `உண்டுபண்ணவில்லை` → `உண்டுபண்ண வில்லை`
-  - PDF56 `கம்யூனிஸ்டுகள்தான்` → `கம்யூனிஸ்டுகளே தான்`
+- PDF57–61 changes were limited to source-visible punctuation spacing:
+  - PDF57 — 6
+  - PDF58 — 7
+  - PDF59 — 6
+  - PDF60 — 10
+  - PDF61 — 9
+- PDF60 user-adjudicated wording remained untouched
 - retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
 
 ## T2 verification safeguard
@@ -138,6 +137,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF57–61 / 5 pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF62–66 / 5 pages**.
 
 English remains blocked pending Tamil freeze.
