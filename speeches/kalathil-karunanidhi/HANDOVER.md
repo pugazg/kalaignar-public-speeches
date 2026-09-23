@@ -29,7 +29,7 @@ Archive: `speeches/kalathil-karunanidhi/`
 - guessed reconstruction — **0**
 - historical-glyph unresolved — **0**
 - Tamil freeze — **FROZEN / ARCHIVAL-READY — 2026-09-23**
-- English E1 — **READY / UNBLOCKED**
+- English E1 — **IN PROGRESS — 5/76**
 
 ## Archival lock rule
 
@@ -66,8 +66,16 @@ Tamil-freeze prerequisite — **SATISFIED**.
 
 English must be subordinate to the frozen Tamil source layer. Do not translate from OCR, partial earlier states, or an outside edition. Difficult or unusual Tamil should be represented transparently rather than silently repaired.
 
+## English progress
+
+- E1 translated — **5/76**
+- latest batch — **PDF6–10 COMPLETE**
+- next batch — **PDF11–15**
+- fidelity review — blocked pending complete E1
+- Tamil source layer — **FROZEN / ARCHIVAL-READY**
+
 ## Exact next activity
 
-Process **English E1 translation — Batch 1 / PDF6–10 / 5 physical pages**.
+Process **English E1 translation — Batch 2 / PDF11–15 / 5 physical pages**.
 
-Use the frozen canonical Tamil page sequence in `transcription-ta.md` as the sole translation source. Record translation in `translation-en.md`. Keep English fidelity review blocked until the full E1 translation is complete.
+Batch 1 / PDF6–10 is complete. Continue with PDF11–15 using the frozen canonical Tamil as the sole translation source. Keep English fidelity review blocked until the full E1 translation is complete.

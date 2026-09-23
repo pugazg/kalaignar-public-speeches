@@ -179,8 +179,19 @@ The T1/T2/T3 canonical Tamil state is now locked for archival use.
 
 The Tamil layer must not be changed for style, modernization, punctuation normalization, or to accommodate an English translation. Reopen only for a separately established source-backed defect.
 
+## English E1 progress
+
+- status — **IN PROGRESS**
+- translated — **5/76**
+- latest batch — **PDF6–10 / 5 pages COMPLETE**
+- next batch — **PDF11–15 / 5 pages**
+- English fidelity review — blocked pending complete E1
+- Tamil source layer — **FROZEN / ARCHIVAL-READY**
+
+Batch 1 preserves page provenance and translates only from the frozen Tamil canonical layer. PDF10 includes one translator/source note for the unusual frozen form `பாரளவந்த`; no Tamil wording was changed.
+
 ## Exact next activity
 
-Process **English E1 translation — Batch 1 / PDF6–10 / 5 physical pages**.
+Process **English E1 translation — Batch 2 / PDF11–15 / 5 physical pages**.
 
-Translate only from the frozen `transcription-ta.md`, preserving rhetoric, repetition, source distinctions, historical names/terms, and source oddities. Do not use OCR or an outside edition as translation authority.
+Translate only from frozen `transcription-ta.md`; preserve rhetoric, repetition, historical terminology, numbers, names, and source oddities. Keep English fidelity review blocked until E1 is complete.
