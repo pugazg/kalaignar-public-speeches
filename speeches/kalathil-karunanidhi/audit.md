@@ -1828,3 +1828,112 @@ User-adjudicated PDF60 wording remains authoritative and unchanged.
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 pages**.
+
+## Tamil T2 FINAL five-page fidelity audit — PDF77–81
+
+**PASS — 5/5 AUDITED / 48 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF77 / printed 76 — **T2 VERIFIED / 12 corrections**
+- PDF78 / printed 77 — **T2 VERIFIED / 4 corrections**
+- PDF79 / printed 78 — **T2 VERIFIED / 11 corrections**
+- PDF80 / printed 79 — **T2 VERIFIED / 13 corrections**
+- PDF81 / printed 80 — **T2 VERIFIED / 8 corrections**
+- cumulative T2 coverage — **76/76**
+- cumulative valid T2 corrections — **350**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+- T2 gate — **COMPLETE / PASS**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. All 13 mandatory historical-glyph families were checked together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. Same-edition evidence was used where needed. No OCR reading or contextual expectation was accepted as authority.
+
+### PDF77 — 12 corrections
+
+One punctuation-character correction was positively established:
+
+- `கூலி உயர்வு மட்டும்போதாது. பெற்ற கூலி உயர்வை` → **`கூலி உயர்வு மட்டும்போதாது, பெற்ற கூலி உயர்வை`**
+  - evidence — enlarged source clearly prints a comma after `மட்டும்போதாது`
+
+Eleven further changes restore source-visible punctuation spacing in `தடுக்கவேண்டும் ;`, `யார் ?`, the three questions `நடக்குமா ? முடியுமா ? பலன்தான் தருமா ?`, `முடியும் ?`, `மாறவேண்டாமோ ?`, `மாற்றப்படவேண்டாமா ?`, `ஒழிக்கப்படவேண்டாமா ?`, `கொள்ள வேண்டாமா ?`, and `எவை ?`.
+
+### PDF78 — 4 corrections
+
+All four changes restore positively visible source punctuation spacing:
+
+- `சூட்டிக் கொள்கின்றனர் ?`
+- `‘ரஷ்யா’ மாடலா ?`
+- `ரஷ்யாவை வாழ்த்துகிறோம் ;`
+- `‘இன்பபுரி’ என்பதை ஒப்புக்கொள்கிறோம் ;`
+
+Source-sensitive forms including `மகாதர்மாஷ்டர்,`, `எங்கித்தவிக்கும்`, `சகபேதி அல்லவா?`, and the attached semicolons in `ஏமாறா திருக்க;` / `வைத்தியனைப்போல்;` were retained unchanged.
+
+### PDF79 — 11 corrections
+
+Source punctuation spacing was restored in `மோதுகிறோமாம் ;`, `வீழ்ந்தான் ;`, `நாங்கள் ;`, the three questions beginning `எம்மாத்திரம் ?`, `இன்பத்திராவிடம் !`, `மடிந்தன !`, `மாண்டனர் ;`, and `மருளவில்லை ;`.
+
+One punctuation-character correction was positively established:
+
+- `மோதவில்லை, நாங்கள்;` → **`மோதவில்லை; நாங்கள் ;`**
+  - evidence — source prints a semicolon after `மோதவில்லை`, then a separately spaced semicolon after `நாங்கள்`
+
+### PDF80 — 13 corrections
+
+Three punctuation-character corrections were positively established:
+
+- `வந்திருக்கிறோம்; சமாளித்து` → **`வந்திருக்கிறோம், சமாளித்து`**
+- `தாயுமானர் தோற்றார்;` → **`தாயுமானர் தோற்றார்,`**
+- the remaining semicolon positions in the same paragraph were preserved but source spacing was restored
+
+Source-visible spacing was restored in `புத்தர் தோற்றார் ;`, `இராமலிங்கர் தோற்றார் ;`, `முடியவில்லை ;`, `எம்மாத்திரம் ?`, `அலறினோமா ?`, `இதுமட்டுமா ?`, `வில்லையே !`, `காணோமே !`, `கேள்விப்பட்டதுண்டா ?`, `இன்னும் !`, and `சுட்டெரிக்கவில்லை ;`.
+
+The source-confirmed no-space forms `ஆரியம்?` and `விட்டோமா?` were retained unchanged.
+
+### PDF81 — 8 corrections
+
+Seven changes restore source-visible punctuation spacing in the three opening semicolons, `தயங்கவில்லையே ?`, and the three later semicolon positions `வேண்டாம் ;`, `வீண்வேலை ;`, and `உணரட்டும் ;`.
+
+One source-wording correction was positively established:
+
+- `திராவிடத்தின் குரல், அவசியத்தை` → **`திராவிடத்தின் குரலே, அவசியத்தை`**
+  - evidence — enlarged source pixels positively show final `லே`
+  - type — character-level source fidelity
+
+The user-adjudicated terminal passage remains untouched and authoritative:
+
+`திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
+
+Boundary controls:
+
+- PDF76→77 — positively established continuation `...பிறப்பில், உழைப்பில் என்று / எண்ணம், பகுத்தறிவு...`
+- PDF77→78 — `வாடி / யும்` → assembled `வாடியும்`
+- PDF78→79 — sentence continues `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF79→80 — sentence/list continues `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
+- PDF80→81 — clean paragraph boundary
+- PDF81 — terminal close remains `வணக்கம் !`
+
+Retraction safeguards remain in force:
+
+- PDF12 — retain `பரிதவிக்கவிட்ட`
+- PDF13 — retain `பரிதவித்து`
+
+User-adjudicated PDF60 and PDF76 readings remain authoritative and unchanged.
+
+## Tamil T2 closure
+
+**COMPLETE / PASS — PDF6–81 / 76 of 76 speech-body pages**
+
+- pages audited — **76/76**
+- valid source-supported corrections — **350**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed reconstruction — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+- all physical/cross-page boundaries accounted for
+- user adjudications preserved exactly
+
+T3 consolidation is now **UNBLOCKED / READY**. English remains blocked pending Tamil freeze.
+
+Exact next activity: **Tamil T3 consolidation — full speech-body PDF6–81**.

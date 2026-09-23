@@ -77,8 +77,8 @@
     "speech_pages_total": 76,
     "speech_pages_drafted": 76,
     "speech_pages_verified_first_pass": 76,
-    "tamil_visual_audit": "in-progress",
-    "tamil_consolidation": "blocked-pending-t2",
+    "tamil_visual_audit": "complete-pass",
+    "tamil_consolidation": "ready",
     "english_translation": "blocked-pending-tamil-freeze",
     "english_translation_review": "blocked",
     "english_translation_final_verification": "blocked",
@@ -86,8 +86,8 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF77–81",
-    "handoff_status": "t2-in-progress-final-five-page-range",
+    "next_gate": "Tamil T3 consolidation",
+    "handoff_status": "t2-complete-t3-ready",
     "handoff_date": "2026-09-23"
   },
   "migration": {
@@ -175,15 +175,15 @@
     ]
   },
   "t2": {
-    "status": "in-progress",
+    "status": "complete-pass",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 71,
+    "pages_audited": 76,
     "pages_total": 76,
-    "latest_range": "PDF72–76",
-    "latest_range_result": "5/5 audited; 81 new valid corrections; 0 unresolved",
-    "corrections_total": 302,
+    "latest_range": "PDF77–81",
+    "latest_range_result": "5/5 audited; 48 new valid corrections; T2 complete/pass; 0 unresolved",
+    "corrections_total": 350,
     "unresolved": 0,
-    "next_range": "PDF77–81",
+    "next_range": null,
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -2298,6 +2298,342 @@
         "earlier": "‘ரஷ்யத் தத்துவமா ?’",
         "source_supported": "‘ரஷ்யத் தத்துவமா ?",
         "evidence": "direct enlarged source-pixel comparison; source prints opening quote but no closing quote after question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "கூலி உயர்வு மட்டும்போதாது.",
+        "source_supported": "கூலி உயர்வு மட்டும்போதாது,",
+        "evidence": "direct enlarged source-pixel comparison; source prints comma, not period",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "தடுக்கவேண்டும்;",
+        "source_supported": "தடுக்கவேண்டும் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "இதைச் செய்பவர் யார்?",
+        "source_supported": "இதைச் செய்பவர் யார் ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "நடக்குமா?",
+        "source_supported": "நடக்குமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "முடியுமா?",
+        "source_supported": "முடியுமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "பலன்தான் தருமா?",
+        "source_supported": "பலன்தான் தருமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "பூங்கா தோன்ற முடியும்?",
+        "source_supported": "பூங்கா தோன்ற முடியும் ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "மாறவேண்டாமோ?",
+        "source_supported": "மாறவேண்டாமோ ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "மாற்றப்படவேண்டாமா?",
+        "source_supported": "மாற்றப்படவேண்டாமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "ஒழிக்கப்படவேண்டாமா?",
+        "source_supported": "ஒழிக்கப்படவேண்டாமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "புரிந்து கொள்ள வேண்டாமா?",
+        "source_supported": "புரிந்து கொள்ள வேண்டாமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 77,
+        "earlier": "இருப்பவை எவை?",
+        "source_supported": "இருப்பவை எவை ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 78,
+        "earlier": "புகழ்மாலை சூட்டிக் கொள்கின்றனர்?",
+        "source_supported": "புகழ்மாலை சூட்டிக் கொள்கின்றனர் ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 78,
+        "earlier": "‘ரஷ்யா’ மாடலா?",
+        "source_supported": "‘ரஷ்யா’ மாடலா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 78,
+        "earlier": "ரஷ்யாவை வாழ்த்துகிறோம்;",
+        "source_supported": "ரஷ்யாவை வாழ்த்துகிறோம் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 78,
+        "earlier": "என்பதை ஒப்புக்கொள்கிறோம்;",
+        "source_supported": "என்பதை ஒப்புக்கொள்கிறோம் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "மோதுகிறோமாம்;",
+        "source_supported": "மோதுகிறோமாம் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "ஜார்மன்னனை வீழ்ந்தான்;",
+        "source_supported": "ஜார்மன்னனை வீழ்ந்தான் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "மோதவில்லை,",
+        "source_supported": "மோதவில்லை;",
+        "evidence": "direct enlarged source-pixel comparison; source prints semicolon, not comma",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "நாங்கள்;",
+        "source_supported": "நாங்கள் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "எம்மாத்திரம்? [first]",
+        "source_supported": "எம்மாத்திரம் ? [first]",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "யாருக்கு யார் எம்மாத்திரம்?",
+        "source_supported": "யாருக்கு யார் எம்மாத்திரம் ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "வம்புச்சண்டை எல்லாம்?",
+        "source_supported": "வம்புச்சண்டை எல்லாம் ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "இன்பத்திராவிடம்!",
+        "source_supported": "இன்பத்திராவிடம் !",
+        "evidence": "source-visible exclamation-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "மாணிக்கங்கள் மடிந்தன!",
+        "source_supported": "மாணிக்கங்கள் மடிந்தன !",
+        "evidence": "source-visible exclamation-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "போன்றோர் மாண்டனர்;",
+        "source_supported": "போன்றோர் மாண்டனர் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 79,
+        "earlier": "மருளவில்லை;",
+        "source_supported": "மருளவில்லை ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "வந்திருக்கிறோம்;",
+        "source_supported": "வந்திருக்கிறோம்,",
+        "evidence": "direct enlarged source-pixel comparison; source prints comma, not semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "புத்தர் தோற்றார்;",
+        "source_supported": "புத்தர் தோற்றார் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "இராமலிங்கர் தோற்றார்;",
+        "source_supported": "இராமலிங்கர் தோற்றார் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "தாயுமானர் தோற்றார்;",
+        "source_supported": "தாயுமானர் தோற்றார்,",
+        "evidence": "direct enlarged source-pixel comparison; source prints comma, not semicolon",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "உருவாக்க முடியவில்லை;",
+        "source_supported": "உருவாக்க முடியவில்லை ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "நீங்கள் எம்மாத்திரம்?",
+        "source_supported": "நீங்கள் எம்மாத்திரம் ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "அலறினோமா?",
+        "source_supported": "அலறினோமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "இதுமட்டுமா?",
+        "source_supported": "இதுமட்டுமா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "பங்கம் விளைத்திட வில்லையே!",
+        "source_supported": "பங்கம் விளைத்திட வில்லையே !",
+        "evidence": "source-visible exclamation-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "எங்களை வீழ்த்திடக் காணோமே!",
+        "source_supported": "எங்களை வீழ்த்திடக் காணோமே !",
+        "evidence": "source-visible exclamation-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "கேள்விப்பட்டதுண்டா?",
+        "source_supported": "கேள்விப்பட்டதுண்டா ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "பழுத்திருக்காணோமே, இன்னும்!",
+        "source_supported": "பழுத்திருக்காணோமே, இன்னும் !",
+        "evidence": "source-visible exclamation-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 80,
+        "earlier": "எங்களைச் சுட்டெரிக்கவில்லை;",
+        "source_supported": "எங்களைச் சுட்டெரிக்கவில்லை ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "குடும்பத்திலே கொந்தளிப்பு;",
+        "source_supported": "குடும்பத்திலே கொந்தளிப்பு ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "மனைவியின் மருட்சிப் பார்வை;",
+        "source_supported": "மனைவியின் மருட்சிப் பார்வை ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "வறுமையின் கோரத் தாண்டவம்;",
+        "source_supported": "வறுமையின் கோரத் தாண்டவம் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "நாங்கள் தயங்கவில்லையே?",
+        "source_supported": "நாங்கள் தயங்கவில்லையே ?",
+        "evidence": "source-visible question-mark spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "மோத வேண்டாம்;",
+        "source_supported": "மோத வேண்டாம் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "அது வீண்வேலை;",
+        "source_supported": "அது வீண்வேலை ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "கம்யூனிஸ்டுகள், உணரட்டும்;",
+        "source_supported": "கம்யூனிஸ்டுகள், உணரட்டும் ;",
+        "evidence": "source-visible semicolon spacing",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 81,
+        "earlier": "திராவிடத்தின் குரல், அவசியத்தை",
+        "source_supported": "திராவிடத்தின் குரலே, அவசியத்தை",
+        "evidence": "direct enlarged source-pixel comparison; final லே positively visible",
         "guessed_reconstruction": 0
       }
     ],

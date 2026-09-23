@@ -49,11 +49,11 @@ PDF4 formerly contained **2 physically lost text spans**; both were **resolved b
 - speech T1 — **COMPLETE / PDF6–81 / 76 of 76**
 - first-pass verified — **76/76**
 - unresolved speech-body readings — **0**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
-- T2 source-supported corrections — **302 valid cumulative**
+- T2 visual/textual fidelity audit — **COMPLETE / PASS — PDF6–81 / 76 of 76**
+- T2 source-supported corrections — **350 valid cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
-- T3 — blocked pending T2
+- T3 — **READY / UNBLOCKED**
 - English — blocked pending Tamil freeze
 
 ## Fixed cadence
@@ -114,25 +114,28 @@ These are recorded with provenance **user-supplied exact reading**, not inferred
 
 ## T2 progress
 
-PDF6–76 have completed the second visual/textual fidelity audit.
+**COMPLETE / PASS — PDF6–81 / 76 of 76**
 
-- T2 coverage — **71/76**
-- cumulative valid corrections — **302**
+- T2 coverage — **76/76**
+- cumulative valid corrections — **350**
 - retracted changes — **2**
-- latest PDF72–76 batch — **5/5 audited / 81 new valid corrections**
+- final PDF77–81 batch — **5/5 audited / 48 new valid corrections**
 - unresolved — **0**
 - guessed reconstruction — **0**
-- substantive/source-structure corrections in the latest batch:
-  - PDF73 — `கழுதிபோன்ற` → `கழுதி போன்ற`
-  - PDF74 — `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
-  - PDF75 — `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை`
-  - PDF75 — `‘ரஷ்யத் தத்துவமா ?’` → `‘ரஷ்யத் தத்துவமா ?`
-  - PDF76 — `மற்றவனும்;` → `மற்றவனும்,`
-  - PDF76 — `உழைப்பில், என்று` → `உழைப்பில் என்று`
-- remaining latest-batch changes restore positively visible source punctuation spacing
-- PDF76 user-adjudicated opening sentence remains canonical and unchanged
-- source-confirmed no-space exceptions retained, including PDF72 `பாதகசெயல்?` / `அக்கிரமச் செயல்?` / terminal `தியாகப்பட்டியலில்?`, and PDF73 `மறையவில்லையே?` / `தெரியாதா மக்களுக்கு?`
-- retracted readings remain restored: PDF12 `பரிதவிக்கவிட்ட`; PDF13 `பரிதவித்து`
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+- all page and cross-page boundaries accounted for
+- user adjudications preserved exactly
+
+Final-batch substantive/source-structure corrections include:
+
+- PDF77 — `மட்டும்போதாது.` → `மட்டும்போதாது,`
+- PDF79 — `மோதவில்லை, நாங்கள்;` → `மோதவில்லை; நாங்கள் ;`
+- PDF80 — `வந்திருக்கிறோம்;` → `வந்திருக்கிறோம்,`
+- PDF80 — `தாயுமானர் தோற்றார்;` → `தாயுமானர் தோற்றார்,`
+- PDF81 — `திராவிடத்தின் குரல், அவசியத்தை` → `திராவிடத்தின் குரலே, அவசியத்தை`
+
+Remaining final-batch changes restore positively visible source punctuation spacing. Source-confirmed no-space exceptions remain unchanged. The PDF81 user-adjudicated closing passage remains canonical.
 
 ## T2 verification safeguard
 
@@ -140,6 +143,6 @@ The 13-family historical-glyph check is a minimum control, not a substitute for 
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 pages**.
+Process **Tamil T3 consolidation — full speech-body PDF6–81**.
 
 English remains blocked pending Tamil freeze.

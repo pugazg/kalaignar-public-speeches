@@ -23,55 +23,53 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–76 / 71 of 76**
-- cumulative valid T2 corrections — **302**
+- Tamil T2 visual/textual fidelity audit — **COMPLETE / PASS — PDF6–81 / 76 of 76**
+- cumulative valid T2 corrections — **350**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
-- T3 consolidation — blocked pending T2
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+- T3 consolidation — **READY / UNBLOCKED**
 - English — blocked pending Tamil freeze
 
-## Fixed cadence
+## T2 final range
 
-**5 physical PDF pages per user iteration.**
+PDF **77–81 — 5/5 T2 VERIFIED**.
 
-## Latest T2 range
+New valid source-supported corrections — **48**:
 
-PDF **72–76 — 5/5 T2 VERIFIED**.
+- PDF77 — 12
+- PDF78 — 4
+- PDF79 — 11
+- PDF80 — 13
+- PDF81 — 8
 
-New valid source-supported corrections — **81**:
+Substantive/source-structure corrections in the final batch:
 
-- PDF72 — 16 punctuation-spacing restorations
-- PDF73 — 23 corrections, including `கழுதிபோன்ற` → `கழுதி போன்ற`
-- PDF74 — 10 corrections, including `தியாகத்தின் பயன்; பலன்.` → `தியாகத்தின் பயன், பலன்.`
-- PDF75 — 12 corrections, including `மனப்பான்மை மனப்போக்கை` → `மனப்பான்மை, மனப்போக்கை` and removal of the unsupported closing quote in `‘ரஷ்யத் தத்துவமா ?’`
-- PDF76 — 20 corrections, including `மற்றவனும்;` → `மற்றவனும்,` and `உழைப்பில், என்று` → `உழைப்பில் என்று`
+- PDF77 — `கூலி உயர்வு மட்டும்போதாது.` → `கூலி உயர்வு மட்டும்போதாது,`
+- PDF79 — `மோதவில்லை, நாங்கள்;` → `மோதவில்லை; நாங்கள் ;`
+- PDF80 — `வந்திருக்கிறோம்;` → `வந்திருக்கிறோம்,`
+- PDF80 — `தாயுமானர் தோற்றார்;` → `தாயுமானர் தோற்றார்,`
+- PDF81 — `திராவிடத்தின் குரல், அவசியத்தை` → `திராவிடத்தின் குரலே, அவசியத்தை`
 
-Source-confirmed no-space punctuation exceptions were retained rather than normalized.
+All other final-batch changes are positively visible punctuation-spacing restorations.
 
-The earlier PDF12/PDF13 retractions remain in force:
+Source-confirmed exceptions retained unchanged include PDF80 `ஆரியம்?` and `விட்டோமா?`.
 
-- retain `பரிதவிக்கவிட்ட`
-- retain `பரிதவித்து`
+Retraction safeguards remain in force:
 
-Verification safeguard:
+- PDF12 — retain `பரிதவிக்கவிட்ட`
+- PDF13 — retain `பரிதவித்து`
 
-- enlarged controlling-source pixels used for PDF72–76; PDF77 inspected to establish the outgoing boundary
-- all 13 historical-glyph families checked page-by-page
-- every ordinary vowel sign and consonant-vowel cluster checked line-by-line
-- source spaces, punctuation, punctuation spacing, and physical line/page joins checked explicitly
-- no correction accepted without positive source-pixel evidence
-- unresolved glyph/character ambiguity — **0**
-- silent modernization — **0**
+## Boundary controls
 
-Boundary controls:
-
-- PDF71→72 — clean paragraph boundary
-- PDF72→73 — clean paragraph boundary
-- PDF73→74 — clean paragraph boundary
-- PDF74→75 — `அரசாங் / கத்தில்` → `அரசாங்கத்தில்`
-- PDF75→76 — clean paragraph boundary
-- PDF76→77 — sentence continues `...பிறப்பில், உழைப்பில் என்று / எண்ணம், பகுத்தறிவு...`
+- PDF76→77 — `...பிறப்பில், உழைப்பில் என்று / எண்ணம், பகுத்தறிவு...`
+- PDF77→78 — `வாடி / யும்` → `வாடியும்`
+- PDF78→79 — `...திட்டத்துடன் முழு / அமைப்பு...`
+- PDF79→80 — `...எத்தனையோ எதிர்ப்புகள், எண்ணங்கள், / எச்சப் பேச்சுகளைச்...`
+- PDF80→81 — clean paragraph boundary
+- PDF81 terminal close — `வணக்கம் !`
 
 ## User adjudications — authoritative
 
@@ -87,6 +85,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF77–81 / final 5 physical pages**.
+Process **Tamil T3 consolidation — full speech-body PDF6–81**.
 
-Compare each canonical page directly against enlarged source pixels, preserve the PDF76→77 continuation, record only source-proven corrections, and then assess T2 closure readiness. English remains blocked until Tamil freeze.
+Consolidate the T2-corrected canonical Tamil without stylistic polishing or modernization; verify page order, page headings, cross-page joins, audit/metadata counts, retraction safeguards, and all user-adjudicated readings. Source-check only if a consolidation inconsistency requires adjudication. Keep English blocked until Tamil freeze.
