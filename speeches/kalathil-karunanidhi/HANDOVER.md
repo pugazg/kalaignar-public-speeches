@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–66 / 61 of 76**
-- cumulative valid T2 corrections — **176**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–71 / 66 of 76**
+- cumulative valid T2 corrections — **221**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,15 +37,16 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **62–66 — 5/5 T2 VERIFIED**.
+PDF **67–71 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **37**:
+New valid source-supported corrections — **45**:
 
-- PDF62 — 12, including `முன்வரிசையிலிருப்போரும்` → `முன்வரிசையிலிருப்போரிலும்` and `பெற்றுவர்` → `பெற்றிடுவர்`
-- PDF63 — 7 source punctuation-spacing restorations
-- PDF64 — 5 source punctuation-spacing restorations
-- PDF65 — 4 source punctuation-spacing restorations
-- PDF66 — 9 source punctuation-spacing restorations, including `சரியா ? ,`
+- PDF67 — 9 punctuation-spacing restorations
+- PDF68 — 6 punctuation-spacing restorations
+- PDF69 — 3 corrections, including `அப்பாதுரையார் அவர்கள் வீதியிலே` → `அப்பாதுரையார் அவர்களை வீதியிலே`
+- PDF70 — 17 corrections, including `பறந்தன மக்கள் நோக்கி.` → `பறந்தன மக்களை நோக்கி.`
+- PDF71 — 10 punctuation-spacing restorations
+- PDF71 source-confirmed exception — `இது தியாகமா? அல்லவா? எதுதான் தியாகம்?` remains unspaced exactly as printed
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -54,7 +55,7 @@ The earlier PDF12/PDF13 retractions remain in force:
 
 Verification safeguard:
 
-- fresh 240-dpi source renders used for PDF62–67
+- fresh enlarged controlling-source pixels used for PDF67–71, with PDF72 inspected only to establish the outgoing boundary
 - all 13 historical-glyph families checked page-by-page
 - every ordinary vowel sign and consonant-vowel cluster checked line-by-line
 - source spaces, punctuation, punctuation spacing, and physical line/page joins checked explicitly
@@ -64,12 +65,12 @@ Verification safeguard:
 
 Boundary controls:
 
-- PDF61→62 — clean
-- PDF62→63 — clean
-- PDF63→64 — clean
-- PDF64→65 — `...தோழமையை விளங்கும் / விபரீத விசித்திர புத்தி...`
-- PDF65→66 — clean
-- PDF66→67 — clean; PDF67 begins `மொழிக்கு வந்த கேட்டை, மொழிவழிவரும்...`
+- PDF66→67 — clean paragraph boundary
+- PDF67→68 — clean paragraph boundary
+- PDF68→69 — sentence continues `...அன்று மக்களை மாக்களாக மதித்து / முள்வேலிக்குள்ளே...`
+- PDF69→70 — clean paragraph boundary
+- PDF70→71 — clean paragraph boundary
+- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
 
 ## User adjudications — authoritative
 
@@ -85,6 +86,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF67–71 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 physical pages**.
 
 Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.

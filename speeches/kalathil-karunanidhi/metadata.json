@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF67–71",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF72–76",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 61,
+    "pages_audited": 66,
     "pages_total": 76,
-    "latest_range": "PDF62–66",
-    "latest_range_result": "5/5 audited; 37 new valid corrections; 0 unresolved",
-    "corrections_total": 176,
+    "latest_range": "PDF67–71",
+    "latest_range_result": "5/5 audited; 45 new valid corrections; 0 unresolved",
+    "corrections_total": 221,
     "unresolved": 0,
-    "next_range": "PDF67–71",
+    "next_range": "PDF72–76",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -1415,6 +1415,321 @@
         "pdf": 66,
         "earlier": "இது தியாகமல்லவா?",
         "source_supported": "இது தியாகமல்லவா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "காண்பித்தோமே?",
+        "source_supported": "காண்பித்தோமே ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "அது தியாகமல்லவா?",
+        "source_supported": "அது தியாகமல்லவா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "அது என்ன?",
+        "source_supported": "அது என்ன ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "கண்டதுண்டா?",
+        "source_supported": "கண்டதுண்டா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "வேறெங்காவது?",
+        "source_supported": "வேறெங்காவது ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "ஆளாயினரே!",
+        "source_supported": "ஆளாயினரே !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "வேறென்ன?",
+        "source_supported": "வேறென்ன ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "தியாகப்பட்டியலில் தேவையா?",
+        "source_supported": "தியாகப்பட்டியலில் தேவையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 67,
+        "earlier": "கலங்கினோமா?",
+        "source_supported": "கலங்கினோமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 68,
+        "earlier": "இது மட்டுமா?",
+        "source_supported": "இது மட்டுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 68,
+        "earlier": "அடிதடியால்?",
+        "source_supported": "அடிதடியால் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 68,
+        "earlier": "ஓர் எல்லை தான் உண்டா?",
+        "source_supported": "ஓர் எல்லை தான் உண்டா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 68,
+        "earlier": "இந்தக்காங்கிரஸ் சர்க்கார்?",
+        "source_supported": "இந்தக்காங்கிரஸ் சர்க்கார் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 68,
+        "earlier": "இதெல்லாம் தியாக மில்லையா?",
+        "source_supported": "இதெல்லாம் தியாக மில்லையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 68,
+        "earlier": "தியாகப்பட்டியலில் தேவையா?",
+        "source_supported": "தியாகப்பட்டியலில் தேவையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 69,
+        "earlier": "அப்பாதுரையார் அவர்கள் வீதியிலே",
+        "source_supported": "அப்பாதுரையார் அவர்களை வீதியிலே",
+        "evidence": "direct enlarged source-pixel comparison; source clearly prints அவர்களை",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 69,
+        "earlier": "இது என்ன?",
+        "source_supported": "இது என்ன ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 69,
+        "earlier": "இது மட்டுமா?",
+        "source_supported": "இது மட்டுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "ஆம்!",
+        "source_supported": "ஆம் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "பறந்தன மக்கள் நோக்கி.",
+        "source_supported": "பறந்தன மக்களை நோக்கி.",
+        "evidence": "direct enlarged source-pixel comparison; final ை clearly printed",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "செத்திருப்பார்?",
+        "source_supported": "செத்திருப்பார் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "துப்பாக்கிப் பிரயோகம்!",
+        "source_supported": "துப்பாக்கிப் பிரயோகம் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "குறி தவறியதால்?",
+        "source_supported": "குறி தவறியதால் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "இது தியாகமல்லவா?",
+        "source_supported": "இது தியாகமல்லவா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "செத்தால் தான் தியாகமா? [first]",
+        "source_supported": "செத்தால் தான் தியாகமா ? [first]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "மீறினர்!",
+        "source_supported": "மீறினர் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "கொடுமை! [first]",
+        "source_supported": "கொடுமை ! [first]",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "கொடுமை! [second]",
+        "source_supported": "கொடுமை ! [second]",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "கலங்கினோமா?",
+        "source_supported": "கலங்கினோமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "இதெல்லாம் தியாகமல்லவா?",
+        "source_supported": "இதெல்லாம் தியாகமல்லவா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "செத்தால் தான் தியாகமா? [second]",
+        "source_supported": "செத்தால் தான் தியாகமா ? [second]",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "பண்பு தியாகமில்லையா?",
+        "source_supported": "பண்பு தியாகமில்லையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "பாடிடவேண்டுமா?",
+        "source_supported": "பாடிடவேண்டுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "அதுதான் தியாகமா?",
+        "source_supported": "அதுதான் தியாகமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 70,
+        "earlier": "தியாகப்பட்டியலில் தேவையா, இன்னும்?",
+        "source_supported": "தியாகப்பட்டியலில் தேவையா, இன்னும் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "144 தடையுத்தரவு!",
+        "source_supported": "144 தடையுத்தரவு !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "எங்கள் இளைஞர்கள்?",
+        "source_supported": "எங்கள் இளைஞர்கள் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "எங்கள் தோழர்கள்?",
+        "source_supported": "எங்கள் தோழர்கள் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "கடுங் காவல் விதிக்கவில்லையா?",
+        "source_supported": "கடுங் காவல் விதிக்கவில்லையா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "இந்த ஆளவந்தார்கள்?",
+        "source_supported": "இந்த ஆளவந்தார்கள் ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "தலையை!",
+        "source_supported": "தலையை !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "அர்த்த மற்ற செயல்!",
+        "source_supported": "அர்த்த மற்ற செயல் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "பார்பர்ஷாப் வைத்தனரே!",
+        "source_supported": "பார்பர்ஷாப் வைத்தனரே !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "மொட்டையடித்தனரே!",
+        "source_supported": "மொட்டையடித்தனரே !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 71,
+        "earlier": "தியாகப்பட்டியலில் தேவையா?",
+        "source_supported": "தியாகப்பட்டியலில் தேவையா ?",
         "evidence": "explicit source space before question mark",
         "guessed_reconstruction": 0
       }

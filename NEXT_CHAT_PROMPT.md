@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF67–71
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Tamil T2 PDF72–76
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,8 +20,8 @@ Refetch live `main` before editing.
 - source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
 - speech body — **PDF6–81 / 76 pages**
 - Tamil T1 — **COMPLETE / PASS / 76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–66 / 61 of 76**
-- T2 valid corrections — **176 cumulative**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–71 / 66 of 76**
+- T2 valid corrections — **221 cumulative**
 - T2 retracted changes — **2**
 - T2 unresolved — **0**
 - T3 — blocked pending T2
@@ -33,14 +33,14 @@ Refetch live `main` before editing.
 
 ## Latest T2 range
 
-PDF62–66 — **5/5 T2 VERIFIED / 37 new valid corrections / 0 unresolved**.
+PDF67–71 — **5/5 T2 VERIFIED / 45 new valid corrections / 0 unresolved**.
 
 Substantive source corrections:
 
-- PDF62 — `முன்வரிசையிலிருப்போரும்` → `முன்வரிசையிலிருப்போரிலும்`
-- PDF62 — `பெற்றுவர்` → `பெற்றிடுவர்`
+- PDF69 — `அப்பாதுரையார் அவர்கள் வீதியிலே` → `அப்பாதுரையார் அவர்களை வீதியிலே`
+- PDF70 — `பறந்தன மக்கள் நோக்கி.` → `பறந்தன மக்களை நோக்கி.`
 
-The rest of the batch restores positively visible source punctuation spacing. PDF66 includes the unusual but source-confirmed sequence `சரியா ? ,`.
+The other 43 corrections restore positively visible source punctuation spacing. PDF71 also confirms that `இது தியாகமா? அல்லவா? எதுதான் தியாகம்?` is printed **without** spaces before those three question marks and must remain unchanged.
 
 Retraction safeguards remain active:
 
@@ -51,7 +51,7 @@ User-adjudicated PDF60 wording remains authoritative and unchanged.
 
 Boundary into next range:
 
-- PDF66→67 — clean paragraph boundary; PDF67 begins `மொழிக்கு வந்த கேட்டை, மொழிவழிவரும்...`
+- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
 
 ## Verification rule
 
@@ -67,6 +67,6 @@ On every T2 page:
 
 ## Exact next activity
 
-**Tamil T2 visual/textual fidelity audit — PDF67–71 / 5 physical pages.**
+**Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 physical pages.**
 
 Compare each canonical page directly with enlarged source pixels, record every source-supported correction in `audit.md`, preserve physical/cross-page boundaries, and update canonical text only where positively supported. Keep English blocked.

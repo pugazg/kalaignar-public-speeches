@@ -1657,3 +1657,82 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF67–71 / 5 pages**.
+
+## Tamil T2 five-page fidelity audit — PDF67–71
+
+**PASS — 5/5 AUDITED / 45 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF67 / printed 66 — **T2 VERIFIED / 9 corrections**
+- PDF68 / printed 67 — **T2 VERIFIED / 6 corrections**
+- PDF69 / printed 68 — **T2 VERIFIED / 3 corrections**
+- PDF70 / printed 69 — **T2 VERIFIED / 17 corrections**
+- PDF71 / printed 70 — **T2 VERIFIED / 10 corrections**
+- cumulative T2 coverage — **66/76**
+- cumulative valid T2 corrections — **221**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against fresh enlarged controlling-source pixels. All 13 mandatory historical-glyph families were consciously checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. Same-edition visual comparison was used where needed. No OCR reading, lexical expectation, modernization, or contextual normalization was used as authority.
+
+### PDF67 — 9 corrections
+
+All nine changes restore source-visible punctuation spacing: `காண்பித்தோமே ?`, `தியாகமல்லவா ?`, `அது என்ன ?`, `கண்டதுண்டா ?`, `வேறெங்காவது ?`, `ஆளாயினரே !`, `வேறென்ன ?`, `தியாகப்பட்டியலில் தேவையா ?`, and `கலங்கினோமா ?`.
+
+Source wording and physical joins such as `வெற்றி / யும்` → `வெற்றியும்`, `படைத் / தவர்கள்` → `படைத்தவர்கள்`, and `தியாக / மல்லாது` → `தியாகமல்லாது` were retained without normalization beyond positively established line joins.
+
+### PDF68 — 6 corrections
+
+All six changes restore source-visible question-mark spacing: `இது மட்டுமா ?`, `அடிதடியால் ?`, `ஓர் எல்லை தான் உண்டா ?`, `இந்தக்காங்கிரஸ் சர்க்கார் ?`, `இதெல்லாம் தியாக மில்லையா ?`, and `தியாகப்பட்டியலில் தேவையா ?`.
+
+Source-sensitive wording including `முடமாக்கப்பட்டவில்லையா`, `வேறு வேறுகப் பிரிக்கப்பட்டு`, `தன்னந்தனியாக`, and `தியாக மில்லையா` was retained exactly.
+
+### PDF69 — 3 corrections
+
+One source-wording correction was positively established:
+
+- `அப்பாதுரையார் அவர்கள் வீதியிலே` → **`அப்பாதுரையார் அவர்களை வீதியிலே`**
+  - evidence — enlarged source clearly prints `அவர்களை`
+  - type — character-level source fidelity
+
+Two source punctuation-spacing restorations were made: `இது என்ன ?` and `இது மட்டுமா ?`.
+
+Unusual source wording `குன்றத்தூரிலே யிலிருந்து` remains unchanged.
+
+### PDF70 — 17 corrections
+
+One source-wording correction was positively established:
+
+- `பறந்தன மக்கள் நோக்கி.` → **`பறந்தன மக்களை நோக்கி.`**
+  - evidence — enlarged source clearly prints the final `ை` in `மக்களை`
+  - type — character-level source fidelity
+
+Sixteen punctuation-spacing corrections restore the printed forms: `ஆம் !`, `செத்திருப்பார் ?`, `துப்பாக்கிப் பிரயோகம் !`, `குறி தவறியதால் ?`, `இது தியாகமல்லவா ?`, both occurrences of `செத்தால் தான் தியாகமா ?`, `மீறினர் !`, both occurrences of `கொடுமை !`, `கலங்கினோமா ?`, `இதெல்லாம் தியாகமல்லவா ?`, `பண்பு தியாகமில்லையா ?`, `பாடிடவேண்டுமா ?`, `அதுதான் தியாகமா ?`, and `தியாகப்பட்டியலில் தேவையா, இன்னும் ?`.
+
+### PDF71 — 10 corrections
+
+All ten changes restore source-visible punctuation spacing: `144 தடையுத்தரவு !`, `எங்கள் இளைஞர்கள் ?`, `எங்கள் தோழர்கள் ?`, `கடுங் காவல் விதிக்கவில்லையா ?`, `இந்த ஆளவந்தார்கள் ?`, `தலையை !`, `அர்த்த மற்ற செயல் !`, `பார்பர்ஷாப் வைத்தனரே !`, `மொட்டையடித்தனரே !`, and `தியாகப்பட்டியலில் தேவையா ?`.
+
+The three questions in `இது தியாகமா? அல்லவா? எதுதான் தியாகம்?` remain unspaced because the enlarged source positively prints them that way.
+
+Boundary controls:
+
+- PDF66→67 — clean paragraph boundary
+- PDF67→68 — clean paragraph boundary
+- PDF68→69 — sentence continues `...அன்று மக்களை மாக்களாக மதித்து / முள்வேலிக்குள்ளே...`
+- PDF69→70 — clean paragraph boundary
+- PDF70→71 — clean paragraph boundary
+- PDF71→72 — clean paragraph boundary; PDF72 begins `தூத்துக்குடித் தோழர் தங்கப்பழம்...`
+
+Retraction safeguards remain in force:
+
+- PDF12 — retain `பரிதவிக்கவிட்ட`
+- PDF13 — retain `பரிதவித்து`
+
+User-adjudicated PDF60 wording remains authoritative and unchanged.
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF72–76 / 5 pages**.
