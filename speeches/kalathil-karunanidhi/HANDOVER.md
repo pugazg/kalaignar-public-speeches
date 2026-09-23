@@ -4,23 +4,27 @@ Repository: `pugazg/kalaignar-public-speeches`
 Branch: `main`  
 Archive: `speeches/kalathil-karunanidhi/`
 
-## Durable state
+## Final durable state
 
+**PASS / FINAL CLOSED / RELEASE READY**
+
+- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
+- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
+- speech body — **PDF6–81 / 76 pages**
 - Tamil T1/T2/T3 — **COMPLETE / PASS**
-- Tamil canonical — **FROZEN / ARCHIVAL-READY**
+- Tamil — **FROZEN / VERIFIED-COMPLETE**
+- T2 corrections — **350**
+- T2 retractions — **2**
+- Tamil unresolved — **0**
 - English E1 — **COMPLETE / PASS — 76/76**
 - English fidelity review — **COMPLETE / PASS — 76/76**
-- final English verification — **COMPLETE / PASS — 76/76**
-- final-verification batches — **3/3 PASS**
-- new English corrections during final verification — **0**
-- missing English pages — **0**
-- frozen Tamil changes from translation/review/verification — **0**
-- repository/release closure — **READY**
+- English review corrections — **16**
+- English final verification — **COMPLETE / PASS — 76/76**
+- final-verification new corrections — **0**
+- frozen Tamil changes from English work — **0**
+- pending routine work — **0**
+- final report — `FINAL_CLOSURE.md`
 
-Do not reopen frozen Tamil or the verified English layer for stylistic polishing. Reopen only for a separately established source-backed defect.
+## Reopen policy
 
-## Exact next activity
-
-Perform **repository/release closure for `களத்தில் கருணாநிதி`**.
-
-Reconcile `README.md`, `metadata.json`, `audit.md`, `HANDOVER.md`, `translation-en.md`, `translation-review.md`, and root `NEXT_CHAT_PROMPT.md`; mark release/archive readiness consistently; confirm no pending transcription, translation, review or final-verification work remains.
+No routine next activity remains. Reopen only for genuinely new source evidence or a documented substantive fidelity defect. Do not reopen for stylistic polishing, modernization, normalization, or translation-driven rewriting.
