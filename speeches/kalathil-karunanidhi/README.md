@@ -209,15 +209,16 @@ English was translated only from the frozen canonical Tamil. Source claims, rhet
 ## Final English verification progress
 
 - status — **IN PROGRESS**
-- verified — **PDF6–32 / 27 of 76**
-- Batch 1 — **PASS**
-- new English corrections — **0**
+- verified — **PDF6–59 / 54 of 76**
+- Batch 1 — **PDF6–32 / PASS**
+- Batch 2 — **PDF33–59 / PASS**
+- new English corrections during final verification — **0**
 - frozen Tamil changes — **0**
-- next — **PDF33–59 / 27 pages**
-- cadence — **27 physical PDF pages per iteration**
+- final remainder — **PDF60–81 / 22 pages**
+- cadence — **27 pages per iteration; final remainder 22**
 
 ## Exact next activity
 
-Process **final English verification — PDF33–59 / 27 physical pages**.
+Process **final English verification — PDF60–81 / final 22 physical pages**.
 
 Verify the reviewed English against frozen Tamil and the recorded fidelity-review findings. Do not reopen Tamil absent a separately established source-backed defect.

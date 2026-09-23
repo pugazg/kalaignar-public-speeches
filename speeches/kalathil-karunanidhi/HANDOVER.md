@@ -10,15 +10,16 @@ Archive: `speeches/kalathil-karunanidhi/`
 - Tamil canonical — **FROZEN / ARCHIVAL-READY**
 - English E1 — **COMPLETE / PASS — 76/76**
 - English fidelity review — **COMPLETE / PASS — 76/76**
-- final English verification — **IN PROGRESS — 27/76**
-- verified range — **PDF6–32**
-- Batch 1 result — **PASS**
-- new English corrections in final verification — **0**
+- final English verification — **IN PROGRESS — 54/76**
+- verified range — **PDF6–59**
+- Batch 1 PDF6–32 — **PASS**
+- Batch 2 PDF33–59 — **PASS**
+- new English corrections during final verification — **0**
 - frozen Tamil changes — **0**
-- next range — **PDF33–59 / 27 pages**
+- final remainder — **PDF60–81 / 22 pages**
 
 ## Exact next activity
 
-Process **final English verification PDF33–59 / 27 physical pages**.
+Process **final English verification PDF60–81 / final 22 physical pages**.
 
-Confirm review corrections remain applied, no omissions/additions remain, page joins and source notes remain intact, and Tamil stays frozen.
+Confirm the final reviewed range against frozen Tamil and `translation-review.md`. If it passes, mark final English verification **COMPLETE / PASS — 76/76** and advance to repository/release closure.

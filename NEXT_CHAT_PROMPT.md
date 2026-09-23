@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Final English verification PDF33–59
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / Final English verification FINAL PDF60–81
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,18 +8,19 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 - Tamil canonical — **FROZEN / ARCHIVAL-READY**
 - English E1 — **COMPLETE / PASS — 76/76**
 - English fidelity review — **COMPLETE / PASS — 76/76**
-- final English verification — **IN PROGRESS — 27/76**
-- final-verified — **PDF6–32**
+- final English verification — **IN PROGRESS — 54/76**
+- final-verified — **PDF6–59**
 - new English corrections during final verification — **0**
+- remaining — **PDF60–81 / 22 pages**
 
-## Working cadence
+## Final-verification rule
 
-Use **27 physical PDF pages per final-verification iteration** unless the user overrides it.
+Verify reviewed `translation-en.md` against frozen `transcription-ta.md` and `translation-review.md`.
+
+Confirm pages, review corrections, names/numbers, rhetoric, source notes and page joins. Do not modify frozen Tamil.
 
 ## Exact next activity
 
-**Final English verification — PDF33–59 / 27 physical pages.**
+**Final English verification — PDF60–81 / final 22 physical pages.**
 
-Verify reviewed English against frozen `transcription-ta.md` and `translation-review.md`. Confirm pages, review corrections, names/numbers, rhetoric, source notes and page joins. Do not modify frozen Tamil.
-
-If complete, set cumulative final verification to **54/76** and next range to **PDF60–81 / final 22 pages**.
+If complete, mark final English verification **COMPLETE / PASS — 76/76**, synchronize all control documents, and advance to repository/release closure.

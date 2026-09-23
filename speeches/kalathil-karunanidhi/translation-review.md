@@ -267,3 +267,40 @@ Post-review integrity checks:
 
 Cumulative final verification — **27/76**  
 Next — **PDF33–59 / 27 pages**
+
+## Final English verification — Batch 2 / PDF33–59
+
+**PASS — 27/27 VERIFIED**
+
+Post-review integrity checks:
+
+- PDF pages present and ordered — **27/27**
+- missing pages — **0**
+- new whole-paragraph omissions — **0**
+- new unsupported additions — **0**
+- applicable fidelity-review corrections — **6/6 confirmed**
+  - PDF34 — `சொரணை` rendering retained as `sense of shame`
+  - PDF37 — irregular Bhagat Singh sentence note retained
+  - PDF44 — `அச்சாரம்` correction retained as `advance`; source note retained
+  - PDF58 — `இனத்தால்` retained as `ethnicity`
+  - PDF59 — source allusion note retained
+  - source-sensitive PDF33/PDF35/PDF38 notes remain present
+- source-speech political/historical claims remain represented as claims/rhetoric of the source — **PASS**
+- cross-page continuity — **PASS**
+  - PDF33→34
+  - PDF34→35
+  - PDF41→42
+  - PDF45→46
+  - PDF49→50
+  - PDF51→52
+  - PDF52→53
+  - PDF59→60
+- new English corrections required — **0**
+- frozen Tamil changes — **0**
+
+### Batch 2 disposition
+
+**FINAL-VERIFIED — PDF33–59 / 27 pages**
+
+Cumulative final verification — **54/76**  
+Next — **PDF60–81 / final 22 pages**
