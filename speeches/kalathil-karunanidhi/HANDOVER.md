@@ -23,8 +23,8 @@ Archive: `speeches/kalathil-karunanidhi/`
 - front matter — **5/5 VERIFIED / 0 unresolved**
 - Tamil T1 — **COMPLETE / PASS — PDF6–81 / 76 of 76**
 - T1 first-pass verified — **76/76**
-- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–51 / 46 of 76**
-- cumulative valid T2 corrections — **88**
+- T2 visual/textual fidelity audit — **IN PROGRESS — PDF6–56 / 51 of 76**
+- cumulative valid T2 corrections — **101**
 - retracted T2 changes — **2**
 - T2 unresolved — **0**
 - guessed reconstruction — **0**
@@ -37,16 +37,19 @@ Archive: `speeches/kalathil-karunanidhi/`
 
 ## Latest T2 range
 
-PDF **47–51 — 5/5 T2 VERIFIED**.
+PDF **52–56 — 5/5 T2 VERIFIED**.
 
-New valid source-supported corrections — **6**:
+New valid source-supported corrections — **13**:
 
-- PDF47 — `சட்டசபை` → `சட்ட சபை`
-- PDF48 — four explicit source question-mark spacing restorations
-- PDF50 — `முன்வைத்து` → `முன் வைத்து`
-- PDF49 / PDF51 — **0 corrections**
+- PDF52 — `மூன்றுகட்சிகளின்` → `மூன்று கட்சிகளின்`
+- PDF53 — `நன்கு தெரிந்து` → `நன்குதெரிந்து`
+- PDF53 — `ஒருசிலரின்` → `ஒரு சிலரின்`
+- PDF54 — source space restored in `தோழமை !`
+- PDF55 — 7 source punctuation-spacing restorations
+- PDF56 — `உண்டுபண்ணவில்லை` → `உண்டுபண்ண வில்லை`
+- PDF56 — `கம்யூனிஸ்டுகள்தான்` → `கம்யூனிஸ்டுகளே தான்`
 
-The source-sensitive PDF48 form `வேண்டு மென்று` and PDF49 form `பிரித்தே திருவோம்` were rechecked and retained exactly as printed.
+Source-sensitive forms were preserved individually rather than normalized by pattern.
 
 The earlier PDF12/PDF13 retractions remain in force:
 
@@ -64,12 +67,12 @@ Verification safeguard:
 
 Boundary controls:
 
-- PDF46→47 — clean
-- PDF47→48 — clean
-- PDF48→49 — clean
-- PDF49→50 — `நாச / காரக்` → `நாசகாரக்`
-- PDF50→51 — clean
 - PDF51→52 — `...மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
+- PDF52→53 — `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`
+- PDF53→54 — clean
+- PDF54→55 — clean
+- PDF55→56 — clean
+- PDF56→57 — clean; PDF57 begins `இது, கம்யூனிஸ்டுகளுக்குப் பிடிக்க வில்லையால்...`
 
 ## User adjudications — authoritative
 
@@ -85,6 +88,6 @@ Provenance: **user-supplied exact readings, 2026-09-21**. Guessed reconstruction
 
 ## Exact next activity
 
-Process **Tamil T2 visual/textual fidelity audit — PDF52–56 / 5 physical pages**.
+Process **Tamil T2 visual/textual fidelity audit — PDF57–61 / 5 physical pages**.
 
 Compare each canonical page directly against enlarged source pixels, including ordinary vowel signs/clusters, source spacing, punctuation spacing, and physical joins; record only source-proven corrections. English remains blocked.

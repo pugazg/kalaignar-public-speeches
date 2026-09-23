@@ -86,7 +86,7 @@
     "archive_status": "active",
     "pending_transcription_or_translation_work": true,
     "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "Tamil T2 visual/textual fidelity audit PDF52–56",
+    "next_gate": "Tamil T2 visual/textual fidelity audit PDF57–61",
     "handoff_status": "t2-in-progress-five-page-cadence",
     "handoff_date": "2026-09-23"
   },
@@ -177,13 +177,13 @@
   "t2": {
     "status": "in-progress",
     "gate": "visual-textual-fidelity-audit",
-    "pages_audited": 46,
+    "pages_audited": 51,
     "pages_total": 76,
-    "latest_range": "PDF47–51",
-    "latest_range_result": "5/5 audited; 6 new valid corrections; 0 unresolved",
-    "corrections_total": 88,
+    "latest_range": "PDF52–56",
+    "latest_range_result": "5/5 audited; 13 new valid corrections; 0 unresolved",
+    "corrections_total": 101,
     "unresolved": 0,
-    "next_range": "PDF52–56",
+    "next_range": "PDF57–61",
     "cadence": "5 physical PDF pages per user iteration",
     "corrections": [
       {
@@ -800,6 +800,97 @@
         "earlier": "கொள்கையை முன்வைத்து, ஐக்கிய முன்னணியில் சேர",
         "source_supported": "கொள்கையை முன் வைத்து, ஐக்கிய முன்னணியில் சேர",
         "evidence": "direct enlarged source-pixel comparison; explicit inter-word space",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 52,
+        "earlier": "மூவரின் சக்தி, மூன்றுகட்சிகளின் செல்வாக்கு",
+        "source_supported": "மூவரின் சக்தி, மூன்று கட்சிகளின் செல்வாக்கு",
+        "evidence": "direct enlarged source-pixel comparison; explicit inter-word space",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 53,
+        "earlier": "புரிந்து, நன்கு தெரிந்து கொண்ட",
+        "source_supported": "புரிந்து, நன்குதெரிந்து கொண்ட",
+        "evidence": "direct enlarged source-pixel comparison; no word break",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 53,
+        "earlier": "ஒருசிலரின் கொள்ளைக் கம்பெனியாக",
+        "source_supported": "ஒரு சிலரின் கொள்ளைக் கம்பெனியாக",
+        "evidence": "direct enlarged source-pixel comparison; explicit inter-word space",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 54,
+        "earlier": "தோழமை! இல்லை,",
+        "source_supported": "தோழமை ! இல்லை,",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "முக்கூட்டு!",
+        "source_supported": "முக்கூட்டு !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "ஐக்கிய முன்னணி!",
+        "source_supported": "ஐக்கிய முன்னணி !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "ஐக்கிய மனப்பண்பு எங்கே!",
+        "source_supported": "ஐக்கிய மனப்பண்பு எங்கே !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "சேர்ந்து, சேரமுடியும்!",
+        "source_supported": "சேர்ந்து, சேரமுடியும் !",
+        "evidence": "explicit source space before exclamation mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "ஐக்கிய ‘முன்னணிக்கு’?",
+        "source_supported": "ஐக்கிய ‘முன்னணிக்கு’ ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "இருக்கின்றதா?",
+        "source_supported": "இருக்கின்றதா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 55,
+        "earlier": "சேர்ந்திட முடியுமா?",
+        "source_supported": "சேர்ந்திட முடியுமா ?",
+        "evidence": "explicit source space before question mark",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 56,
+        "earlier": "நிலையை உண்டுபண்ணவில்லை, நீங்கள்;",
+        "source_supported": "நிலையை உண்டுபண்ண வில்லை, நீங்கள்;",
+        "evidence": "direct enlarged source-pixel comparison; explicit inter-word space",
+        "guessed_reconstruction": 0
+      },
+      {
+        "pdf": 56,
+        "earlier": "முதலில் முக்கியமாகக் கம்யூனிஸ்டுகள்தான் ஆதரிப்பதாகக் கூறினோம்.",
+        "source_supported": "முதலில் முக்கியமாகக் கம்யூனிஸ்டுகளே தான் ஆதரிப்பதாகக் கூறினோம்.",
+        "evidence": "direct enlarged source-pixel comparison across source line break கம்யூ / னிஸ்டுகளே தான்",
         "guessed_reconstruction": 0
       }
     ],

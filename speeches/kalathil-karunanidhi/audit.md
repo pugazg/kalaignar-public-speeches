@@ -1447,3 +1447,96 @@ Boundary controls:
 Cadence remains **5 physical PDF pages per user iteration**.
 
 Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF52–56 / 5 pages**.
+
+
+## Tamil T2 five-page fidelity audit — PDF52–56
+
+**PASS — 5/5 AUDITED / 13 NEW SOURCE-SUPPORTED CORRECTIONS**
+
+- PDF52 / printed 51 — **T2 VERIFIED / 1 correction**
+- PDF53 / printed 52 — **T2 VERIFIED / 2 corrections**
+- PDF54 / printed 53 — **T2 VERIFIED / 1 correction**
+- PDF55 / printed 54 — **T2 VERIFIED / 7 corrections**
+- PDF56 / printed 55 — **T2 VERIFIED / 2 corrections**
+- cumulative T2 coverage — **51/76**
+- cumulative valid T2 corrections — **101**
+- retracted T2 changes — **2**
+- unresolved readings — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+
+Each page was checked line-by-line against enlarged controlling-source pixels. All 13 mandatory historical-glyph families were consciously checked, together with ordinary vowel signs, consonant-vowel clusters, source spacing, punctuation, punctuation spacing, and physical line/page joins. No correction was accepted without positive source-pixel evidence.
+
+Representative historical-glyph checks include PDF52 `மூன்று` / `குறிப்பிட்ட`, PDF53 `நல்லெண்ணத்தோடு` and `முன்னேற்றக்`, PDF54 `முன்னணி`, PDF55 `முன்னணிக்கு`, and PDF56 `முன்னணியில்`. No glyph-driven ambiguity remains.
+
+Source-supported corrections:
+
+### PDF52 — 1 correction
+
+- T1 — `மூவரின் சக்தி, மூன்றுகட்சிகளின் செல்வாக்கு`
+- T2 source — `மூவரின் சக்தி, மூன்று கட்சிகளின் செல்வாக்கு`
+- evidence — enlarged source clearly shows an inter-word space after `மூன்று`
+- type — source-spacing fidelity
+
+### PDF53 — 2 corrections
+
+1. T1 — `புரிந்து, நன்கு தெரிந்து கொண்ட`
+   - T2 source — `புரிந்து, நன்குதெரிந்து கொண்ட`
+   - evidence — source prints `நன்குதெரிந்து` continuously with no word break
+   - type — source-spacing fidelity
+
+2. T1 — `ஒருசிலரின் கொள்ளைக் கம்பெனியாக`
+   - T2 source — `ஒரு சிலரின் கொள்ளைக் கம்பெனியாக`
+   - evidence — source clearly prints `ஒரு` and `சிலரின்` as separate words
+   - type — source-spacing fidelity
+
+Source-sensitive forms such as `கழகத்தையும்மதிக்க` and `மற்றவர்கொண்டாலன்றி` were rechecked and retained exactly as printed.
+
+### PDF54 — 1 correction
+
+- `தோழமை! இல்லை, ஐக்கிய முன்னணியிலே.`
+  → `தோழமை ! இல்லை, ஐக்கிய முன்னணியிலே.`
+- evidence — explicit source space before the exclamation mark
+- type — punctuation-spacing fidelity
+
+### PDF55 — 7 corrections
+
+The source visibly separates terminal punctuation in all seven instances:
+
+- `முக்கூட்டு!` → `முக்கூட்டு !`
+- `ஐக்கிய முன்னணி!` → `ஐக்கிய முன்னணி !`
+- `ஐக்கிய மனப்பண்பு எங்கே!` → `ஐக்கிய மனப்பண்பு எங்கே !`
+- `சேர்ந்து, சேரமுடியும்!` → `சேர்ந்து, சேரமுடியும் !`
+- `ஐக்கிய ‘முன்னணிக்கு’?` → `ஐக்கிய ‘முன்னணிக்கு’ ?`
+- `இருக்கின்றதா?` → `இருக்கின்றதா ?`
+- `சேர்ந்திட முடியுமா?` → `சேர்ந்திட முடியுமா ?`
+
+No wording normalization was introduced.
+
+### PDF56 — 2 corrections
+
+1. T1 — `நிலையை உண்டுபண்ணவில்லை, நீங்கள்;`
+   - T2 source — `நிலையை உண்டுபண்ண வில்லை, நீங்கள்;`
+   - evidence — enlarged source clearly prints an inter-word space between `உண்டுபண்ண` and `வில்லை`
+   - type — source-spacing fidelity
+
+2. T1 — `முதலில் முக்கியமாகக் கம்யூனிஸ்டுகள்தான் ஆதரிப்பதாகக் கூறினோம்.`
+   - T2 source — `முதலில் முக்கியமாகக் கம்யூனிஸ்டுகளே தான் ஆதரிப்பதாகக் கூறினோம்.`
+   - evidence — source physical line split resolves positively as `கம்யூ / னிஸ்டுகளே தான்`
+   - type — character/wording + spacing fidelity
+
+Source-sensitive `இதில் தவறென்ன?`, `ஒரு நிபந்தனை!`, and `விரும்பினோம்!` were retained without imposing the spacing pattern from other pages because their own source pixels do not show a separate space.
+
+Boundary controls:
+
+- PDF51→52 — sentence continues `...மூன்று / சக்திகளின் ஒத்துழைப்பின் மூலம்...`
+- PDF52→53 — sentence continues `...தோழமை (Comrade ship), / புரிந்து கொள்ளும் தன்மை...`
+- PDF53→54 — clean paragraph boundary
+- PDF54→55 — clean paragraph boundary
+- PDF55→56 — clean paragraph boundary
+- PDF56→57 — clean paragraph boundary; PDF57 begins `இது, கம்யூனிஸ்டுகளுக்குப் பிடிக்க வில்லையால்...`
+
+Cadence remains **5 physical PDF pages per user iteration**.
+
+Exact next activity: **Tamil T2 visual/textual fidelity audit — PDF57–61 / 5 pages**.
