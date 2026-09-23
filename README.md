@@ -530,29 +530,25 @@ No transcription or translation work remains pending. Reopen only for genuinely 
 Repository-level closure is complete. No transcription or translation work remains pending.
 
 
-### Active work — களத்தில் கருணாநிதி
+### Completed work — களத்தில் கருணாநிதி
 
-`speeches/kalathil-karunanidhi/`
+`speeches/kalathil-karunanidhi/` is **FINAL CLOSED / RELEASE READY**.
 
 - source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
 - SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
-- physical scans — **81**
-- classification — **PUBLIC SPEECHES**
+- source extent — **81 scans**
+- speech body — PDF **6–81 / 76 pages**
 - speech date — **23-12-1951**, source-established
 - venue — **ராபின்சன் பார்க், சென்னை**, source-established
-- front matter — PDF **1–5**
-- speech body — PDF **6–81 / 76 pages**
-- Tamil T1 — **COMPLETE / PDF6–81 / 76 of 76**
-- first-pass speech pages verified — **76/76**
-- PDF4 front matter — **VERIFIED / user-adjudicated / 0 unresolved physical-loss spans**
-- PDF60 speech body — **RESOLVED by user adjudication / canonical processed-body unresolved 0**
-- cadence — **5 physical PDF pages per user iteration**
-- final-range source review — **PDF71–81 / 11 scans COMPLETE; 11/11 canonical**
-- PDF76/PDF81 obscured passages — **resolved by user adjudication / canonical**
-- final-range canonical progress — **11/11 COMPLETE**
-- T2 visual/textual fidelity audit — **PDF6–66 / 61 of 76 complete; 176 valid source-supported corrections / 0 unresolved**
-- T2 retracted changes — **2**
-- latest T2 batch — **PDF62–66 / 5/5 audited / 37 new valid corrections**
-- exact next activity — **Tamil T2 visual/textual fidelity audit PDF67–71**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
+- Tamil — **VERIFIED-COMPLETE / FROZEN**
+- T2 valid corrections — **350**
+- T2 retractions — **2**
+- English E1 — **COMPLETE / 76/76**
+- English fidelity review — **COMPLETE / PASS / 76/76**
+- English review corrections — **16**
+- English final verification — **COMPLETE / PASS / 76/76**
+- final-verification new corrections — **0**
+- final report — `speeches/kalathil-karunanidhi/FINAL_CLOSURE.md`
 
-This work was migrated from `kalaignar-essays` after the user corrected the repository classification; Tamil text was not changed during migration.
+Repository-level closure is complete. No transcription, translation, review, verification, or release-readiness work remains pending for this speech. Reopen only for genuinely new source evidence or a documented substantive fidelity error.
