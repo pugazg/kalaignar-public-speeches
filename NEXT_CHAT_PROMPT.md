@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / English E1 Batch 2 PDF11–15
+# NEXT CHAT PROMPT — களத்தில் கருணாநிதி / English E1 PDF21–30
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,37 +13,43 @@ Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE M
 
 Refetch live `main` before editing.
 
-## Durable Tamil state — DO NOT REOPEN
+## Frozen Tamil state — DO NOT REOPEN
 
 - Tamil T1/T2/T3 — **COMPLETE / PASS**
-- Tamil canonical layer — **FROZEN / ARCHIVAL-READY — 2026-09-23**
-- T2 valid corrections — **350**
+- speech body — **76/76**
+- T2 corrections — **350 valid**
 - T2 retractions — **2**
-- unresolved Tamil — **0**
-- guessed reconstruction — **0**
+- Tamil canonical layer — **FROZEN / ARCHIVAL-READY — 2026-09-23**
+- Tamil unresolved — **0**
 
 Only a separately established source-backed defect may reopen Tamil.
 
 ## English E1 state
 
-- E1 status — **IN PROGRESS**
-- translated — **5/76**
-- completed — **PDF6–10**
-- next — **PDF11–15 / 5 physical pages**
-- English fidelity review — blocked pending complete E1
+- status — **IN PROGRESS**
+- translated — **15/76**
+- completed — **PDF6–20**
+- latest batch — **PDF11–20 / 10 pages COMPLETE**
+- next — **PDF21–30**
+- fidelity review — blocked pending complete E1
+- final verification — blocked pending review
 
-Batch 1 includes a translator/source note for PDF10 frozen form `பாரளவந்த`; no Tamil change was made.
+## Cadence — authoritative
+
+**Process exactly 10 physical PDF pages per user iteration.**
+
+This supersedes the earlier 5-page English cadence.
 
 ## Translation rule
 
 Translate only from frozen `transcription-ta.md`.
 
-Preserve rhetoric, repetition, historical names and political vocabulary, numbers, quoted speech, page provenance, and unusual source-supported forms. Where needed, add concise translator/source notes rather than silently repairing the Tamil.
+Preserve page provenance, rhetoric, repetition, argumentative structure, names, numbers, historical political vocabulary and unusual source-supported forms. Use concise translator/source notes when necessary rather than silently repairing Tamil.
 
-Do not use OCR or an outside edition as authority, and do not alter frozen Tamil for English convenience.
+Do not translate from OCR, use an outside edition as textual authority, or alter frozen Tamil for smoother English.
 
 ## Exact next activity
 
-**English E1 translation — Batch 2 / PDF11–15 / 5 physical pages.**
+**English E1 translation — PDF21–30 / 10 physical pages.**
 
-Translate PDF11–15 into `translation-en.md`, update English progress and control documents, and keep `translation-review.md` blocked until E1 is complete.
+Append the translation to `translation-en.md`, update English progress/control documents to **25/76** if the batch completes, and keep `translation-review.md` blocked until E1 is complete.

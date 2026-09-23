@@ -91,15 +91,15 @@
     "repository_closure": "not-started",
     "archive_status": "active-english-pending",
     "pending_transcription_or_translation_work": true,
-    "cadence": "5 physical PDF pages per user iteration",
-    "next_gate": "English E1 translation PDF11–15",
-    "handoff_status": "english-e1-in-progress",
+    "cadence": "10 physical PDF pages per user iteration",
+    "next_gate": "English E1 translation PDF21–30",
+    "handoff_status": "english-e1-in-progress-pdf6-20",
     "handoff_date": "2026-09-23",
     "tamil_freeze": "frozen-archival-ready",
     "tamil_freeze_date": "2026-09-23",
-    "english_translation_pages_completed": 5,
-    "english_translation_next_range": "PDF11–15",
-    "english_translation_through_pdf_page": 10
+    "english_translation_pages_completed": 15,
+    "english_translation_next_range": "PDF21–30",
+    "english_translation_through_pdf_page": 20
   },
   "migration": {
     "from_repository": "pugazg/kalaignar-essays",
@@ -2719,5 +2719,35 @@
     "next_range": "PDF11–15",
     "cadence": "5 physical PDF pages per user iteration",
     "review_status": "blocked-pending-complete-e1"
+  },
+  "english": {
+    "e1_status": "in-progress",
+    "source_layer": "frozen-tamil-canonical",
+    "pages_total": 76,
+    "pages_translated": 15,
+    "through_pdf_page": 20,
+    "completed_range": "PDF6–20",
+    "next_range": "PDF21–30",
+    "cadence": "10 physical PDF pages per user iteration",
+    "review_status": "blocked-pending-complete-e1",
+    "final_verification_status": "blocked-pending-review",
+    "batch_history": [
+      {
+        "batch": 1,
+        "pdf_start": 6,
+        "pdf_end": 10,
+        "pages": 5,
+        "status": "complete",
+        "date": "2026-09-23"
+      },
+      {
+        "batch": 2,
+        "pdf_start": 11,
+        "pdf_end": 20,
+        "pages": 10,
+        "status": "complete",
+        "date": "2026-09-23"
+      }
+    ]
   }
 }

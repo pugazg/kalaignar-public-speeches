@@ -4,78 +4,35 @@ Repository: `pugazg/kalaignar-public-speeches`
 Branch: `main`  
 Archive: `speeches/kalathil-karunanidhi/`
 
-## Canonical classification
-
-**PUBLIC SPEECHES**
-
-## Source
-
-- `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
-- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
-- physical scans — **81**
-- speech date — **23-12-1951**
-- venue — **ராபின்சன் பார்க், சென்னை**
-- front matter — PDF1–5
-- speech body — PDF6–81 / **76 pages**
-
 ## Frozen Tamil state
 
-- Tamil T1 — **COMPLETE / PASS — 76/76**
-- Tamil T2 — **COMPLETE / PASS — 76/76**
-- valid T2 corrections — **350**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
+- speech body — **76/76**
+- T2 valid corrections — **350**
 - T2 retractions — **2**
-- Tamil T3 consolidation — **COMPLETE / PASS — 76/76**
-- unresolved Tamil readings — **0**
-- guessed reconstruction — **0**
-- historical-glyph unresolved — **0**
 - Tamil freeze — **FROZEN / ARCHIVAL-READY — 2026-09-23**
-- English E1 — **IN PROGRESS — 5/76**
+- Tamil unresolved — **0**
+- guessed reconstruction — **0**
 
-## Archival lock rule
+Do not reopen Tamil except for a separately established source-backed defect.
 
-The canonical Tamil in `transcription-ta.md` is frozen.
+## English E1 state
 
-Do not reopen it for:
-
-- stylistic polishing;
-- spelling or punctuation normalization;
-- modernization;
-- smoothing unusual source syntax;
-- changing Tamil to suit an English translation.
-
-Reopen Tamil only if a separately established source-backed defect is identified and documented in `audit.md`.
-
-## Safeguards — authoritative
-
-Retractions:
-
-- PDF12 — `பரிதவிக்கவிட்ட`
-- PDF13 — `பரிதவித்து`
-
-User adjudications:
-
-- PDF4 — `களம் புகுமுன் ஆற்றிய வீர உரை—வெற்றிக்கு`
-- PDF4 — `கோட்டத்திற்குத் தந்த புத்துணர்ச்சி!`
-- PDF60 — `முறைக்கு ஆளான அல்லல்களைப் பற்றி, அஞ்சாது மக்களிடையே, மாற்று கட்சியினரை ஆளவந்தார்கள்,`
-- PDF76 — `புரட்சிப் போர் முரசு கொட்டிவிட்டால் மட்டும் முடிந்ததா ? மனவளம் பெற வேண்டாமா, மக்கள் ?`
-- PDF81 — `திராவிட முன்னேற்ற முரசு ஒலிக்கட்டும் திக்கெட்டும், திராவிடம் வெல்க ! திராவிடம் வளர்க ! வாழ்க வணக்கம் !`
-
-## English gate
-
-Tamil-freeze prerequisite — **SATISFIED**.
-
-English must be subordinate to the frozen Tamil source layer. Do not translate from OCR, partial earlier states, or an outside edition. Difficult or unusual Tamil should be represented transparently rather than silently repaired.
-
-## English progress
-
-- E1 translated — **5/76**
-- latest batch — **PDF6–10 COMPLETE**
-- next batch — **PDF11–15**
+- status — **IN PROGRESS**
+- translated — **15/76**
+- completed — **PDF6–20**
+- Batch 1 — PDF6–10 / **5 pages COMPLETE**
+- Batch 2 — PDF11–20 / **10 pages COMPLETE**
+- cadence — **10 physical PDF pages per user iteration**
+- next — **PDF21–30 / 10 pages**
 - fidelity review — blocked pending complete E1
-- Tamil source layer — **FROZEN / ARCHIVAL-READY**
+- final verification — blocked pending review
+- canonical translation source — frozen `transcription-ta.md` only
+
+Translator/source notes currently preserve difficult frozen forms including PDF10 `பாரளவந்த`, PDF11 `பஞ்சு! மந்திரிகள்`, PDF12 `மாட்டுப்பெட்டி`, PDF13 `கத்தாழை`, PDF15 `குடாகச் சாப்பிடு`, and PDF19 `சத் (!!) பணி`. None of these notes changes the frozen Tamil.
 
 ## Exact next activity
 
-Process **English E1 translation — Batch 2 / PDF11–15 / 5 physical pages**.
+Process **English E1 PDF21–30 / 10 physical pages**.
 
-Batch 1 / PDF6–10 is complete. Continue with PDF11–15 using the frozen canonical Tamil as the sole translation source. Keep English fidelity review blocked until the full E1 translation is complete.
+Continue from the frozen canonical Tamil. Preserve page provenance, rhetoric, repetition, historical terminology, names, numbers and source-supported oddities. Keep English fidelity review blocked until all 76 speech pages have E1 translation.
