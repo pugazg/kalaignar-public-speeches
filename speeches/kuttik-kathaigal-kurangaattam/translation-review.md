@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்! — English translation fidelity review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF8–28 / 21/21**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF8–28 / 21/21**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E1 coverage:** **21/21 pages**  
 > **E2 corrections:** **7**  
@@ -48,8 +48,38 @@
 - unresolved English fidelity findings — **0**
 - frozen Tamil changed during E2 — **No**
 
+## E3 final verification — COMPLETE / PASS
+
+The full English layer was re-read end to end against the frozen Tamil after E2 consolidation.
+
+### E3 end-to-end checks
+
+- English page headings PDF **8–28** — **21/21, exactly once, in order**
+- printed-page mapping **7–27** — **PASS**
+- Tamil/English substantive paragraph counts by page — **PASS / no mismatches**
+- all **7 E2 corrections** — **present**
+- stale pre-E2 wording — **none found**
+- PDF10 source-sensitive note for `சான்று கத் தரவேண்டும்` — **retained**
+- PDF20→21 `காங்கிர` / `சிடம்` → `காங்கிரசிடம்` — **PASS**, with the source-page-21 challenge clause restored in English
+- PDF22 irregular `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` — **retained with source note / not silently smoothed**
+- PDF23→24 `மற்றவரை` / `யும்` → `மற்றவரையும்` — **PASS**
+- `மாட்டுப் பெட்டி` — transparent **“cattle box”** rendering retained
+- omissions — **none found**
+- unsupported additions — **none found**
+- meaning reversals — **none found**
+- names / titles / source-sensitive forms — **PASS**
+- quotation and page-boundary continuity — **PASS**
+- E3 additional corrections — **0**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+## English verification state
+
+- E1 — **COMPLETE / 21/21**
+- E2 — **COMPLETE / PASS / 21/21 — 7 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS / 21/21 — 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+
 ## Next gate
 
-English **E3 final end-to-end Tamil→English verification — PDF8–28 / 21 pages**.
-
-Re-read the entire English layer against frozen Tamil from beginning to end. Confirm all 7 E2 corrections are present, no stale E1 readings remain, all page-boundary continuations and source-sensitive notes survive consolidation, and no omissions/additions/reversals remain. Only after E3 passes may English be marked `verified-complete`.
+Proceed to **repository closure / archival handover for constituent 1**. No further Tamil or English text changes are required unless new source evidence or a documented fidelity defect is found.

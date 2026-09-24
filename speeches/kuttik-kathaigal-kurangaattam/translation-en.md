@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்! — English Translation
 
-> **Status:** English E1 COMPLETE — 21/21; English E2 fidelity review COMPLETE / PASS — 21/21, 7 corrections / 0 unresolved; English E3 final verification READY  
+> **Status:** English `verified-complete` — E1 COMPLETE 21/21; E2 COMPLETE / PASS 21/21 with 7 corrections / 0 unresolved; E3 COMPLETE / PASS 21/21 with 0 additional corrections / 0 unresolved  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Do not silently rewrite or modernize difficult Tamil.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.

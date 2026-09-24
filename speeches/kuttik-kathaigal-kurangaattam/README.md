@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil `verified-complete` / FROZEN — English E1 COMPLETE / E2 COMPLETE-PASS 21/21 / E3 READY**
+**Status: Tamil `verified-complete` / FROZEN — English `verified-complete` / E1-E3 COMPLETE-PASS — repository closure READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -25,15 +25,17 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **COMPLETE — 21 of 21 pages / PDF8–28**
 - English E2 fidelity review — **COMPLETE / PASS — 21/21; 7 corrections / 0 unresolved**
-- English E3 final verification — **READY / NOT STARTED**
+- English E3 final verification — **COMPLETE / PASS — 21/21; 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+- Repository closure — **READY / NOT STARTED**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
 
 T2 Batches 1–4 (PDF8–28) are **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. T3 confirmed all 55 corrections, exact ordered page coverage, both cross-page joins (`காங்கிரசிடம்`, `மற்றவரையும்`), and no stale superseded readings. T3 introduced **0 additional source corrections / 0 consolidation repairs**.
 
-English E1 is **COMPLETE — 21/21 pages (PDF8–28 / printed pp.7–27)**. English E2 is also **COMPLETE / PASS — 21/21**, with **7 confirmed corrections / 0 unresolved** and **0 Tamil changes**. The review restored two PDF12 fidelity points, the PDF17 self-imposed constraint wording, the PDF20→21 action-clause boundary, PDF23 repetition, PDF24 polarity, and PDF25 majority wording. Full details are in `translation-review.md`.
+English E1 is **COMPLETE — 21/21 pages**. English E2 is **COMPLETE / PASS — 21/21**, with **7 confirmed corrections / 0 unresolved**. English E3 final verification is now **COMPLETE / PASS — 21/21**, with **0 additional corrections / 0 unresolved**. All 7 E2 corrections remain present, stale E1 wording is absent, page/paragraph continuity passes, and the source-sensitive notes and two cross-page joins remain intact. English is now **`verified-complete`**.
 
-**Next gate:** English **E3 final end-to-end Tamil→English verification — PDF8–28 / 21 pages**.
+**Next gate:** **Repository closure / archival handover for constituent 1**.
 
 The source scan remains the authority for any later Tamil defect adjudication. English must translate from the frozen Tamil layer and must not silently normalize source wording.
