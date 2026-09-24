@@ -1,45 +1,38 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 English E1 Batch 1
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 English E1 Batch 2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parent collection: `collections/puranappothai-1958/`  
 Active archive: `speeches/kuttik-kathaigal-kurangaattam/`  
 Source: `TVA_BOK_0024505_புராணப்போதை.pdf`  
-SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`  
-Source-supported edition: `முதல் பதிப்பு: பிப்ரவரி 1958`
+SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 
-## Durable constituent 1 state
+## Durable state
 
-`குட்டிக் கதைகள்! குரங்காட்டம்!` — PDF8–28 / printed pp.7–27 / 21 pages.
-
-- source / duplicate / boundary gates — PASS
-- Tamil T1 — **COMPLETE / 21 of 21**
-- Tamil T2 — **COMPLETE / PASS — 21 of 21**
-- cumulative T2 corrections — **55 / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS**
-- T3 correction consolidation — **55/55 PASS**
-- T3 additional source corrections — **0**
-- T3 consolidation repairs — **0**
-- T3 unresolved — **0**
+- constituent 1 — `குட்டிக் கதைகள்! குரங்காட்டம்!`
+- source range — PDF8–28 / printed pp.7–27 / 21 pages
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
-- canonical frozen Tamil — `speeches/kuttik-kathaigal-kurangaattam/transcription-ta.md`
-- Tamil audit — `speeches/kuttik-kathaigal-kurangaattam/audit.md`
+- Tamil T2 — **55 corrections / 0 unresolved**
+- Tamil T3 — **COMPLETE / PASS — 0 additional source corrections / 0 consolidation repairs / 0 unresolved**
+- English E1 — **IN PROGRESS / 5 of 21 pages**
+- E1 Batch 1 — **PDF8–12 / printed pp.7–11 COMPLETE**
+- E2 / E3 — blocked
+- frozen Tamil — `speeches/kuttik-kathaigal-kurangaattam/transcription-ta.md`
+- English working file — `speeches/kuttik-kathaigal-kurangaattam/translation-en.md`
 
-## Frozen Tamil controls
+## E1 Batch 1 durable controls
 
-- PDF8–28 coverage is **21/21 exactly once / ordered**.
-- PDF20→21 physical `காங்கிர` / `சிடம்` has canonical joined reading `காங்கிரசிடம்`.
-- PDF23→24 physical `மற்றவரை` / `யும்` has canonical joined reading `மற்றவரையும்`.
-- PDF22 unusual `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` is source-confirmed and must not be silently smoothed.
-- Tamil is frozen; any later Tamil change requires documented source evidence and dependent English re-verification.
-
-## English rules
-
-Translate only from the frozen `transcription-ta.md`, not OCR and not an outside edition. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Difficult or unusual Tamil must not be silently normalized in English; use a concise source/translator note when needed.
+- Translation used only the frozen Tamil layer.
+- Explicit PDF/printed-page correspondence is maintained.
+- `குல்லூகபட்டர்` is carried as **Kulluka Bhattar** without outside contextual expansion.
+- `தாலி` is carried as ***thali***.
+- PDF10's unusual frozen-Tamil sequence `சான்று கத் தரவேண்டும்` is not silently repaired; a concise translator/source note records this.
+- E1 Batch 1 introduced **0 Tamil changes**.
 
 ## Exact next activity
 
-English **E1 Batch 1 — PDF8–12 / printed pp.7–11 / 5 pages**.
+English **E1 Batch 2 — PDF13–17 / printed pp.12–16 / 5 pages**.
 
-Create/start `translation-en.md` with explicit PDF/printed-page correspondence and translate those five frozen-Tamil pages. Do not begin E2 or E3. Do not infer a speech date or constituent-specific venue.
+Continue `translation-en.md` from the frozen Tamil only. Preserve rhetoric, repetitions, paragraph/page sequence, source-sensitive names/forms, and difficult source wording transparently.
+
+Do not begin E2 or E3. Do not infer a speech date or constituent-specific venue.

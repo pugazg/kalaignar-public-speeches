@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE / English E1 READY**
+**Status: Tamil `verified-complete` / FROZEN — English E1 IN PROGRESS — 5/21 translated**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -23,13 +23,15 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 - T2 strict visual fidelity audit — **COMPLETE / PASS — 21 of 21 pages strict-verified (PDF8–28)**
 - T3 consolidation / freeze — **COMPLETE / PASS — 55/55 T2 corrections consolidated; 0 repairs / 0 unresolved**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
+- English E1 — **IN PROGRESS — Batch 1 PDF8–12 COMPLETE / 5 of 21 pages**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
 
 T2 Batches 1–4 (PDF8–28) are **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. T3 confirmed all 55 corrections, exact ordered page coverage, both cross-page joins (`காங்கிரசிடம்`, `மற்றவரையும்`), and no stale superseded readings. T3 introduced **0 additional source corrections / 0 consolidation repairs**.
 
-**Next gate:** English **E1 Batch 1 — PDF8–12 / printed pp.7–11 / 5 pages**, translating only from the frozen Tamil layer.
+English E1 Batch 1 is complete for **PDF8–12 / printed pp.7–11**. Translation source was the frozen Tamil layer; E2/E3 remain blocked.
+
+**Next gate:** English **E1 Batch 2 — PDF13–17 / printed pp.12–16 / 5 pages**.
 
 The source scan remains the authority for any later Tamil defect adjudication. English must translate from the frozen Tamil layer and must not silently normalize source wording.
