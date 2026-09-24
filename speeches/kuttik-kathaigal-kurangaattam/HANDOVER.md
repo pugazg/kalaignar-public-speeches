@@ -4,51 +4,40 @@ Repository: `pugazg/kalaignar-public-speeches`
 Branch: `main`  
 Archive: `speeches/kuttik-kathaigal-kurangaattam/`
 
-## Durable state
+## Final durable state
+
+**PASS / FINAL CLOSED / RELEASE READY**
 
 - parent — புராணப்போதை (1958 source scan)
-- constituent — 1/6
-- source range — PDF8–28 / printed 7–27 / 21 pages
+- constituent — **1/6**
+- source range — **PDF8–28 / printed pp.7–27 / 21 pages**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
 - Tamil — **`verified-complete` / FROZEN**
-- Tamil T2 — **COMPLETE / PASS — 55 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS — 0 additional source corrections / 0 consolidation repairs / 0 unresolved**
-- English E1 — **COMPLETE / 21 of 21**
-- English E2 — **COMPLETE / PASS / 21 of 21**
+- T2 corrections — **55**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- Tamil unresolved — **0**
+- English E1 — **COMPLETE / 21/21**
+- English E2 — **COMPLETE / PASS / 21/21**
 - English E2 corrections — **7**
-- English E2 unresolved — **0**
-- English E3 — **COMPLETE / PASS / 21 of 21**
+- English E3 — **COMPLETE / PASS / 21/21**
 - English E3 additional corrections — **0**
-- English E3 unresolved — **0**
+- English unresolved — **0**
 - English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- repository closure — **COMPLETE / PASS**
+- pending routine work — **0**
+- final report — `FINAL_CLOSURE.md`
 
-Canonical frozen Tamil: `transcription-ta.md`.  
-English verified translation: `translation-en.md`.  
-English verification record: `translation-review.md`.  
-Tamil audit: `audit.md`.
+## Source-sensitive controls retained
 
-## E3 durable checkpoint
+- PDF10 unusual `சான்று கத் தரவேண்டும்` — preserved and disclosed.
+- PDF20→21 physical `காங்கிர` / `சிடம்` — canonical `காங்கிரசிடம்`; boundary provenance retained.
+- PDF22 irregular `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` — preserved without silent smoothing.
+- PDF23→24 physical `மற்றவரை` / `யும்` — canonical `மற்றவரையும்`; boundary provenance retained.
+- `மாட்டுப் பெட்டி` — translated transparently as “cattle box” without outside reconstruction.
+- speech date — **not established / not inferred**
+- item-specific venue — **not established / not inferred**
 
-- PDF8–28 English headings — **21/21 exactly once / ordered**
-- printed pages 7–27 — **continuous / PASS**
-- Tamil/English substantive paragraph counts by page — **PASS**
-- all 7 E2 corrections — **present**
-- stale pre-E2 readings — **none found**
-- PDF10 `சான்று கத் தரவேண்டும்` note — retained
-- PDF20→21 `காங்கிரசிடம்` boundary — PASS; source-page-21 action clause remains on English PDF21
-- PDF22 irregular `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` — retained transparently
-- PDF23→24 `மற்றவரையும்` boundary — PASS
-- `மாட்டுப் பெட்டி` — transparent “cattle box” rendering retained
-- omissions / unsupported additions / reversals — **none**
-- names / titles / quotation continuity — **PASS**
-- E3 additional corrections — **0**
-- unresolved English findings — **0**
-- Tamil changes during E3 — **0**
+## Reopen policy
 
-## Exact next activity
-
-Proceed to **repository closure / archival handover for constituent 1**.
-
-Create the final closure record, reconcile speech/collection/root status, mark constituent 1 fully archived only after closure checks pass, and then advance the collection to constituent 2 Tamil T1.
-
-Do not reopen frozen Tamil or verified English unless new source evidence or a documented fidelity defect is found.
+No routine next activity remains. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect. Do not reopen for stylistic polishing, modernization, normalization, or translation-driven rewriting.

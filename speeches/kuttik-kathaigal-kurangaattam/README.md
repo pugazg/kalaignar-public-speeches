@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil `verified-complete` / FROZEN — English `verified-complete` / E1-E3 COMPLETE-PASS — repository closure READY**
+**Status: PASS / FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -27,7 +27,8 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 - English E2 fidelity review — **COMPLETE / PASS — 21/21; 7 corrections / 0 unresolved**
 - English E3 final verification — **COMPLETE / PASS — 21/21; 0 additional corrections / 0 unresolved**
 - English — **`verified-complete`**
-- Repository closure — **READY / NOT STARTED**
+- Repository closure — **COMPLETE / PASS**
+- Archive — **FINAL CLOSED / RELEASE READY**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
@@ -36,6 +37,6 @@ T2 Batches 1–4 (PDF8–28) are **COMPLETE / PASS — 21/21**, with **55 cumula
 
 English E1 is **COMPLETE — 21/21 pages**. English E2 is **COMPLETE / PASS — 21/21**, with **7 confirmed corrections / 0 unresolved**. English E3 final verification is now **COMPLETE / PASS — 21/21**, with **0 additional corrections / 0 unresolved**. All 7 E2 corrections remain present, stale E1 wording is absent, page/paragraph continuity passes, and the source-sensitive notes and two cross-page joins remain intact. English is now **`verified-complete`**.
 
-**Next gate:** **Repository closure / archival handover for constituent 1**.
+Final report: `FINAL_CLOSURE.md`.
 
-The source scan remains the authority for any later Tamil defect adjudication. English must translate from the frozen Tamil layer and must not silently normalize source wording.
+No routine work remains for this constituent. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.

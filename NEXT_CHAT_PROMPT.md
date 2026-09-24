@@ -1,55 +1,43 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 repository closure
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 Tamil T1 PDF29–45
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parent collection: `collections/puranappothai-1958/`  
-Active archive: `speeches/kuttik-kathaigal-kurangaattam/`
+Active archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`  
+Source: `TVA_BOK_0024505_புராணப்போதை.pdf`  
+SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 
-## Durable state
+## Durable collection state
 
-- constituent 1 — `குட்டிக் கதைகள்! குரங்காட்டம்!`
-- source — `TVA_BOK_0024505_புராணப்போதை.pdf`
-- SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
-- source range — PDF8–28 / printed pp.7–27 / 21 pages
-- Tamil — **`verified-complete` / FROZEN**
-- Tamil T2 — **55 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS — 0 additional source corrections / 0 consolidation repairs / 0 unresolved**
-- English E1 — **COMPLETE / 21/21**
-- English E2 — **COMPLETE / PASS / 21/21 — 7 corrections / 0 unresolved**
-- English E3 — **COMPLETE / PASS / 21/21 — 0 additional corrections / 0 unresolved**
-- English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- source-defined constituents — **6**
+- source-gated — **6/6**
+- constituent 1 `குட்டிக் கதைகள்! குரங்காட்டம்!` — **FINAL CLOSED / RELEASE READY**
+- constituent 1 final report — `speeches/kuttik-kathaigal-kurangaattam/FINAL_CLOSURE.md`
+- fully archived constituents — **1/6**
+- active constituent — **2/6**
 
-Files:
-- `speeches/kuttik-kathaigal-kurangaattam/transcription-ta.md`
-- `speeches/kuttik-kathaigal-kurangaattam/audit.md`
-- `speeches/kuttik-kathaigal-kurangaattam/translation-en.md`
-- `speeches/kuttik-kathaigal-kurangaattam/translation-review.md`
-- `speeches/kuttik-kathaigal-kurangaattam/metadata.json`
-- `speeches/kuttik-kathaigal-kurangaattam/HANDOVER.md`
+## Constituent 2 source controls
 
-## E3 durable controls
+`சடுகுடு விளையாட்டா? சவால் சண்டையா?`
 
-- PDF8–28 English headings — **21/21 exactly once / in order**
-- Tamil/English substantive paragraph counts — **PASS**
-- all 7 E2 corrections present
-- stale pre-E2 readings absent
-- PDF10 `சான்று கத் தரவேண்டும்` note retained
-- PDF20→21 `காங்கிரசிடம்` boundary PASS, with source-page-21 challenge clause retained on English PDF21
-- PDF22 irregular `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` retained transparently
-- PDF23→24 `மற்றவரையும்` boundary PASS
-- omissions / additions / reversals — **none**
-- E3 additional corrections — **0**
-- unresolved English findings — **0**
-- no Tamil changes during E3
+- source range — **PDF29–45**
+- printed range — **pp.28–44**
+- pages — **17**
+- source / duplicate / boundary gates — **PASS / COMPLETE**
+- Tamil T1 — **READY / NOT STARTED**
+- Tamil T2/T3 — blocked pending T1
+- English — blocked pending Tamil freeze
+- PDF29 reads **சடுகுடு விளையாட்டா? சவால் சண்டையா?**
+- do **not** replace `சவால் சண்டையா?` with the supplied variant `சவால் விளையாட்டா?`
+- `அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக்கு அபயம்` wording is internal to constituent 2; do not split it into another constituent
+- no constituent-specific speech date or venue is established; do not infer either
+
+## T1 rules
+
+Use the controlling scan as authority. OCR/parsed text is aid only. Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. Do not silently modernize or repair wording. Keep explicit PDF/printed-page mapping and mark genuine uncertainty rather than guessing.
 
 ## Exact next activity
 
-Perform **repository closure / archival handover for constituent 1**.
+Process source-faithful **Tamil T1 transcription for PDF29–45 / printed pp.28–44 / all 17 pages**.
 
-1. Run final closure consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection records.
-2. Create a final closure record if the repository workflow uses one.
-3. Mark constituent 1 **CLOSED / FULLY ARCHIVED** only if all checks pass.
-4. Increment the parent collection archived count.
-5. Advance active work to constituent 2 — `சடுகுடு விளையாட்டா? சவால் சண்டையா?` — Tamil T1, PDF29–45 / printed pp.28–44 / 17 pages.
-6. Do not reopen constituent 1 Tamil or English except for new source evidence or a documented fidelity defect.
+Do not begin T2 or English in the same activity.

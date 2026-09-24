@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா?
 
-**Status: ONBOARDED / SOURCE-GATED / Tamil T1 READY**
+**Status: ACTIVE / SOURCE-GATED / Tamil T1 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -17,5 +17,5 @@ Source / duplicate / boundary gate: PASS / COMPLETE.
 Speech date: not established. Item-specific venue: not established.
 PDF29 reads சவால் சண்டையா?, not the supplied variant சவால் விளையாட்டா?. The அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக்கு அபயம் wording is internal to this constituent, not a separate source heading.
 
-Next gate: Tamil T1 transcription — PDF29–45.
+Next gate: **Tamil T1 transcription — PDF29–45 / printed pp.28–44 / 17 pages**.
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.

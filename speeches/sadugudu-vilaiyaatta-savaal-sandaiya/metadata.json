@@ -53,8 +53,8 @@
     "english_translation_review": "blocked-pending-e1",
     "english_translation_final_verification": "blocked-pending-review",
     "repository_closure": "not-started",
-    "archive_status": "active-source-gated",
+    "archive_status": "active-tamil-t1-ready",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Tamil T1 transcription"
+    "next_gate": "Tamil T1 transcription — PDF29–45 / 17 pages"
   }
 }

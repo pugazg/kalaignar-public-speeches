@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF 8–28 / printed pages 7–27 / 21 pages  
-**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
+**Current gate:** **PASS / FINAL CLOSED / RELEASE READY** — Tamil `verified-complete` / FROZEN; English `verified-complete`
 
 ## T1 state
 
@@ -215,6 +215,14 @@ Tamil is now **`verified-complete` / FROZEN** for PDF8–28 / printed pp.7–27.
 - PDF29 begins constituent 2 and is not included here.
 - The three illustrative குட்டிக் கதைகள் are internal to this constituent and are not split into separate archival items.
 
-## Next gate
+## Final archive state
 
-Proceed to **English E1 — Batch 1: PDF8–12 / printed pp.7–11 / 5 pages**. Translate only from the frozen Tamil `transcription-ta.md`, preserve page correspondence and source-sensitive rhetoric, and keep E2/E3 blocked until E1 completes.
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1/E2/E3 — **COMPLETE / PASS**
+- English — **`verified-complete`**
+- repository closure — **COMPLETE / PASS**
+- unresolved Tamil / English — **0 / 0**
+- final closure report — `FINAL_CLOSURE.md`
+
+No routine next gate remains for this constituent. Reopen only for genuinely new source evidence or a documented substantive fidelity defect; do not reopen for stylistic polishing.
