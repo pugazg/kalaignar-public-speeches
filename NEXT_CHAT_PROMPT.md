@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 Tamil T2 Batch 3 PDF39–43
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 Tamil T2 Final Batch PDF44–45
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,27 +16,27 @@ SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - Tamil T1 — **FIRST-PASS COMPLETE — 17/17**
 - Tamil T2 Batch 1 — **PDF29–33 COMPLETE / PASS — 1 correction**
 - Tamil T2 Batch 2 — **PDF34–38 COMPLETE / PASS — 7 corrections**
-- T2 pages audited — **10/17**
-- T2 cumulative corrections — **8**
+- Tamil T2 Batch 3 — **PDF39–43 COMPLETE / PASS — 5 corrections**
+- T2 pages audited — **15/17**
+- T2 cumulative corrections — **13**
 - T2 unresolved — **0**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 
-## Batch 2 corrections
+## Batch 3 corrections
 
-- PDF34 — `(மேல் சபை அங்கத்தினராக)ப்` source spacing restored.
-- PDF34 — unsupported closing quote before `என்ற கருத்துப்பட` removed.
-- PDF37 — two `மேல் சபை` source spacings restored.
-- PDF37 — `ஆச்சாரியார் தான்` source word boundary restored.
-- PDF38 — `காங்கிரஸின்` source letter identity restored.
-- PDF38 — first `சட்ட சபையில்` source spacing restored.
+- PDF41 — full stop restored after `காங்கிரஸ்காரர்`.
+- PDF41 — `மக்களை` corrected to source `மக்கள்`.
+- PDF41 — full stop restored after `வியாசர் விருந்தைத்தான்`.
+- PDF42 — source single quotes restored around `தூக்கத்திலிருந்து ... எழட்டும்`.
+- PDF43 — full stop restored after `மனமில்லை`.
 
-Batch 2 also confirmed PDF34→35 and PDF38→39 continuations, PDF37's internal heading, and the retained source-sensitive forms recorded in `audit.md`.
+Batch 3 also confirmed the PDF39→40 continuation, PDF42 `போரிட நாளும் குறித்தாய் விட்டது`, PDF42 `காத்துக்கொண் டிருந்தான்`, and PDF43's unusual `மாதவன், மாமன்னன் துரியோதனன்...` sequence.
 
 ## Exact next activity
 
-Tamil **T2 strict visual audit — Batch 3 PDF39–43 / printed pp.38–42 / 5 pages**.
+Tamil **T2 strict visual audit — Final Batch PDF44–45 / printed pp.43–44 / 2 pages**.
 
-Compare every line and character directly against rendered source pixels. Verify punctuation, source spacing, historical glyph identity, names, unusual grammar, the PDF39→40 continuation, and all mythology/source-sensitive wording through PDF43. Apply only source-supported corrections and synchronize audit/progress controls.
+Compare both pages directly against rendered source pixels. Verify quotation punctuation, source spacing, mythology names, the PDF44→45 continuation, and the final `ஜனநாயகக் கொலையன்றி வேறென்ன?` line. Apply only source-supported corrections. If both pages pass, close Tamil T2 at 17/17 and advance the next gate to Tamil T3 consolidation/freeze.
 
-Do not begin T3 or English.
+Do not begin English in the same activity.

@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF29–45 / printed pp.28–44 / 17 pages  
-**Current gate:** Tamil T2 strict visual audit **IN PROGRESS — Batches 1–2 PDF29–38 COMPLETE / PASS — 10/17 pages; 8 cumulative corrections / 0 unresolved**
+**Current gate:** Tamil T2 strict visual audit **IN PROGRESS — Batches 1–3 PDF29–43 COMPLETE / PASS — 15/17 pages; 13 cumulative corrections / 0 unresolved**
 
 ## T1 method
 
@@ -138,16 +138,48 @@ PDF35 and PDF36 required **no substantive correction**.
 
 All five pages were reviewed against the historical-glyph guide for `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct rendered source pixels controlled; no global replacement was used. No unresolved glyph reading remains in Batch 2.
 
+## T2 Batch 3 — PDF39–43 / printed pp.38–42
+
+**Status: COMPLETE / STRICT-VERIFIED — 5/5 pages.**  
+**Corrections applied in this batch: 5.**  
+**Cumulative T2 corrections: 13.**  
+**Unresolved readings after this batch: 0.**
+
+PDF39 and PDF40 required **no substantive correction**.
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 41 | 40 | `ஒரு காங்கிரஸ்காரர்,` | `ஒரு காங்கிரஸ்காரர்.` — source full stop restored |
+| 41 | 40 | `நிலைக்கல்லவா மக்களை,` | `நிலைக்கல்லவா மக்கள்,` — source noun form restored; T1 had an unsupported object marker |
+| 41 | 40 | `வியாசர் விருந்தைத்தான், பாரதத்தைத்தான்` | `வியாசர் விருந்தைத்தான். பாரதத்தைத்தான்` — source full stop restored |
+| 42 | 41 | double quotes around `தூக்கத்திலிருந்து ... எழட்டும்` | source single quotes `‘தூக்கத்திலிருந்து ... எழட்டும்’` restored |
+| 43 | 42 | `துணைபோக மனமில்லை, இதனை` | `துணைபோக மனமில்லை. இதனை` — source full stop restored |
+
+### Batch 3 source-sensitive confirmations
+
+- PDF39→40 continuation `ஆச்சாரியாரிடம் சென்று / முறையிட...` — **PASS**.
+- PDF39 `ஸ்ரீ பிரகாசம்` and `கவர்னர் பிரகாசா` source name forms — **PASS / retained where printed**.
+- PDF40 `பரவி யிருந்த`, `உபசரிக்கப் பட்டு`, `மேல்சபையில்` and the repeated `ஒரு மணி, ஒரே ஒரு மணி` — **PASS / retained**.
+- PDF41 political rhetoric, `ஏத்தி யேத்தித்`, `கோபால கிருஷ்ணன் - அரிபரந்தாமன்`, and terminal `பாராள வந்ததும்?` — **PASS / retained**.
+- PDF42 `போரிட நாளும் குறித்தாய் விட்டது` — **PASS / retained**.
+- PDF42 `காத்துக்கொண் டிருந்தான்` — **PASS / retained**.
+- PDF43 unusual sequence `...பாசாங்கு செய்தார், மாதவன், மாமன்னன் துரியோதனன் வந்ததைக் கவனிக்காது போலவே!` — **PASS / retained**.
+- PDF43 source single-quoted `‘அர்ஜுனா வருக,’` and `‘காண்டீபா, வருக, வருக, என்ன தேவை,’` — **PASS / retained**.
+
+### Historical-glyph check
+
+All five pages were reviewed against the historical-glyph guide for `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct rendered source pixels controlled; no global replacement was used. No unresolved glyph reading remains in Batch 3.
+
 ## T2 progress
 
-- pages strict-verified — **10/17**
-- audited through — **PDF38 / printed p.37**
-- cumulative corrections — **8**
+- pages strict-verified — **15/17**
+- audited through — **PDF43 / printed p.42**
+- cumulative corrections — **13**
 - unresolved — **0**
-- remaining — **PDF39–45 / 7 pages**
+- remaining — **PDF44–45 / 2 pages**
 
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 3 PDF39–43 / printed pp.38–42 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Final Batch PDF44–45 / printed pp.43–44 / 2 pages**.
 
-Do not begin Tamil T3 or English until all 17 pages pass T2.
+Do not begin Tamil T3 or English until both remaining pages pass T2.
