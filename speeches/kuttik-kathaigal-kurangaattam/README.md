@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil T1 FIRST-PASS COMPLETE / Tamil T2 IN PROGRESS — 15/21 strict-verified**
+**Status: Tamil T1 FIRST-PASS COMPLETE / Tamil T2 COMPLETE-PASS — 21/21 strict-verified / Tamil T3 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -20,15 +20,15 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 ## Tamil workflow
 
 - T1 first-pass transcription — **COMPLETE / 21 of 21 pages**
-- T2 strict visual fidelity audit — **IN PROGRESS / 15 of 21 pages strict-verified (PDF8–22)**
-- T3 consolidation / freeze — **blocked pending T2**
+- T2 strict visual fidelity audit — **COMPLETE / PASS — 21 of 21 pages strict-verified (PDF8–28)**
+- T3 consolidation / freeze — **READY / NOT STARTED**
 - English — **blocked pending Tamil T3 freeze**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
 
-T1 deliberately does not claim verification. T2 Batches 1–3 (PDF8–22) are now strict-verified with **40 cumulative scan-confirmed corrections / 0 unresolved**. Batch 3 directly confirmed the PDF20→21 `காங்கிர` / `சிடம்` join as `காங்கிரசிடம்` and reconfirmed the unusual PDF22 source syntax without smoothing. The PDF23→24 cross-page split remains for final T2 Batch 4.
+T1 deliberately does not claim verification. T2 Batches 1–4 (PDF8–28) are now **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. The two cross-page joins are directly confirmed as `காங்கிரசிடம்` and `மற்றவரையும்`; their physical page fragments remain in the page-preserving working transcript until T3 consolidation.
 
-**Next gate:** Tamil T2 strict line-by-line visual fidelity audit — **final Batch 4, PDF23–28 / printed pp.22–27**.
+**Next gate:** Tamil **T3 consolidation and freeze — PDF8–28 / 21 pages**. Do not mark Tamil `verified-complete` until this gate passes.
 
 The source scan, not OCR, remains authoritative. Do not silently modernize or normalize source wording. Do not start English.
