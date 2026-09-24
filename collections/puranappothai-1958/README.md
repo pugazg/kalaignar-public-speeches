@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ONBOARDED / SOURCE-GATED — 6/6 constituents mapped**
+**Status: ACTIVE — constituent 1 Tamil T1 COMPLETE / Tamil T2 READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -46,5 +46,13 @@ Important source-structure decisions:
 **PASS — no existing dedicated archive found in the checked live repositories/indexes.**
 Later 1987/2004 குட்டிக் கதைகள் collections are distinct sources and were left unchanged.
 
-All six constituents are SOURCE-GATED / Tamil T1 READY-NOT-STARTED.
-Exact next gate: constituent 1 — குட்டிக் கதைகள்! குரங்காட்டம்! — Tamil T1, PDF8–28 / 21 pages.
+## Current workflow
+
+- source-gated constituents — **6/6**
+- constituents with Tamil T1 complete — **1/6**
+- constituent 1 — **Tamil T1 FIRST-PASS COMPLETE / 21 of 21; Tamil T2 READY**
+- constituents 2–6 — **Tamil T1 READY / NOT STARTED**
+- Tamil verified constituents — **0/6**
+- English verified constituents — **0/6**
+
+Exact next gate: constituent 1 — குட்டிக் கதைகள்! குரங்காட்டம்! — **Tamil T2 Batch 1, PDF8–12 / printed pp.7–11**.

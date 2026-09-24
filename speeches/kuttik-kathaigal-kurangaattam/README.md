@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: ONBOARDED / SOURCE-GATED / Tamil T1 READY**
+**Status: Tamil T1 FIRST-PASS COMPLETE / Tamil T2 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -17,5 +17,18 @@ Source / duplicate / boundary gate: PASS / COMPLETE.
 Speech date: not established. Item-specific venue: not established.
 Source-defined combined heading on PDF8. The three illustrative குட்டிக் கதைகள் remain inside this constituent.
 
-Next gate: Tamil T1 transcription — PDF8–28.
-The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
+## Tamil workflow
+
+- T1 first-pass transcription — **COMPLETE / 21 of 21 pages**
+- T2 strict visual fidelity audit — **READY / NOT STARTED**
+- T3 consolidation / freeze — **blocked pending T2**
+- English — **blocked pending Tamil T3 freeze**
+
+Canonical T1 working transcript: `transcription-ta.md`.
+T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
+
+T1 deliberately does not claim verification. One difficult PDF10 / printed p.9 cluster remains explicitly marked for T2, and the PDF20→21 plus PDF23→24 cross-page word splits are preserved for strict boundary adjudication.
+
+**Next gate:** Tamil T2 strict line-by-line visual fidelity audit, beginning PDF8–12 / printed pp.7–11.
+
+The source scan, not OCR, remains authoritative. Do not silently modernize or normalize source wording. Do not start English.
