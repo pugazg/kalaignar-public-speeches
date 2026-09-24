@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்! — English Translation
 
-> **Status:** English E1 first-pass translation COMPLETE — 21/21 pages translated (PDF8–28 / printed pp.7–27); English E2 fidelity review READY  
+> **Status:** English E1 COMPLETE — 21/21; English E2 fidelity review COMPLETE / PASS — 21/21, 7 corrections / 0 unresolved; English E3 final verification READY  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Do not silently rewrite or modernize difficult Tamil.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
@@ -83,13 +83,13 @@ Do not become exasperated and say, ‘Are you mocking us, Karunanidhi? A story i
 
 You yourselves will agree that such events commonly occur in the country. Wait a little. Let me tell the third little story too.
 
-A prostitute—a well-known prostitute, one who forcibly drew young men to herself and spent her time as a prostitute. Such a woman lived in a city.
+A prostitute—a well-known prostitute, one who repeatedly seized and dragged young men by force and spent her time as a prostitute. Such a woman lived in a city.
 
 Though she was over thirty, she would present herself as a young woman. She was adept at adorning herself to such a degree that others would think her charming.
 
 She would cover the wrinkles sunken into her face with powder and ‘snow’. She would comb her hair and adorn it with flowers; wear graceful clothes and ornaments in many different ways; and, swaying, showing off and preening, beckon passers-by with glances and hand gestures—that hand-signalling woman, that bangle-handed woman, that enchantress, that prostitute.
 
-She, who was regarded and spoken of in the town with contempt and reproach as a prostitute, one day convened the town council and asked—and obtained—that she be joyfully bestowed the name ‘Queen of Chastity’.
+She, who was regarded and spoken of in the town with contempt and reproach as a prostitute, one day convened the town council, asked that the name ‘Queen of Chastity’ be joyfully conferred on her, and obtained it.
 
 Yes; it was upon the prostitute that the honourable epithet ‘Queen of Chastity’ was conferred by the people of that city.
 
@@ -162,7 +162,7 @@ Speech and writing poured out in one breath from every nook and corner of Congre
 
 In the Aruppukkottai election, Achariyar asked the people to vote for Congress. Congress, he said, must win. In many ways he explained and showed that this alone would benefit the people.
 
-Achariyar did not stop there. He went still further. By his own force, he pushed himself into a position of compulsion.
+Achariyar did not stop there. He went still further. Of his own accord, he forced himself into a constrained position.
 
 Achariyar, who was unconcerned about having come in through the back way, while speaking in the Aruppukkottai constituency looked at the people—not only at the people, but at those of the opposition parties too—and issued a challenge.
 
@@ -204,11 +204,13 @@ The minister who came to rule. Was this idea not the challenge issued by Achariy
 
 Whether the ministry lived or fell, whether Achariyar remained a minister or ceased to be one, depended on the verdict the voters would give in Aruppukkottai.
 
-Dreaming, ‘Will they fail to support me? Let us see; will they say they have no confidence in me? Let us watch; surely they will support me,’ Achariyar publicly challenged the voters: ‘If Congress loses in Aruppukkottai, it will be a declaration that the people have no confidence in me and in my ministry. Therefore Congress must win. Cast your votes into the “cattle box”! Show your confidence in Congress—’
+Dreaming, ‘Will they fail to support me? Let us see; will they say they have no confidence in me? Let us watch; surely they will support me,’ Achariyar said: ‘If Congress loses in Aruppukkottai, it will be a declaration that the people have no confidence in me and in my ministry. Therefore Congress must win. Cast your votes into the “cattle box”! Show your confidence in Congress—’
 
 ### PDF page 21 — printed page 20
 
-—under such circumstances, there is nothing strange in the people of the country having regarded the Aruppukkottai result—the verdict, the election's victory or defeat—as important enough to shake Achariyar's rule and his ministry!
+—he issued this public challenge to the voters!
+
+Under such circumstances, there is nothing strange in the people of the country having regarded the Aruppukkottai result—the verdict, the election's victory or defeat—as important enough to shake Achariyar's rule and his ministry!
 
 But what is strange here is this: Achariyar, who ought simply to have gone to the meetings, hunted for votes in the election and returned, instead issued a public challenge without meaning or necessity. Not only did he give the Aruppukkottai election a new sheen and importance, and not only did he make a definite decision about a new, unstable, uneasy and uncertain outcome for himself; he bound himself to abide by that outcome and issued the public challenge. That is exceedingly strange!
 
@@ -248,7 +250,7 @@ He himself had said it; he himself had challenged the people: ‘To show confide
 
 If victory had come, what would the situation in the country have been?
 
-Would not he and his disciples, and the newspapers that support him and the Congress to which he belongs, have spoken and spoken in every way, written and written, and gloried in it in unison?
+Would not he and his disciples, and the newspapers that support him and the Congress to which he belongs, have said many things over and over, written and written, and gloried in it in unison?
 
 ‘I said, “Show that you have confidence in me.” They have shown “yes”,’—in how many ways would beloved Achariyar have said this to the opposition parties and to all the others—
 
@@ -256,7 +258,7 @@ Would not he and his disciples, and the newspapers that support him and the Cong
 
 —looking at them?
 
-Would they not have failed to miss the chance to print, page after page in the newspapers in large letters, ‘Congress alone is the unanimous representative of the people of the country’!
+Would they not have made sure to print, page after page in the newspapers in large letters, ‘Congress alone is the unanimous representative of the people of the country’!
 
 The situation, beloved Achariyar, turned exactly opposite to what had certainly been expected—Congress lost. The Congress candidate was defeated in Aruppukkottai!
 
@@ -276,7 +278,7 @@ That is, he brought a resolution in the Assembly declaring full confidence in Ac
 
 Like the resolutions that Achariyar or his colleagues belonging to the ruling party would normally bring and have passed, this confidence resolution too was passed—was got passed—in the Madras Legislative Assembly.
 
-Through this, Achariyar obtained a good opportunity to proclaim that, by means of a resolution, he had secured the confidence of the great number of members of the Legislative Assembly who represented the people of the country.
+Through this, Achariyar obtained a good opportunity to proclaim that, by means of a resolution, he had secured the confidence of the majority of the members of the Legislative Assembly who represented the people of the country.
 
 Saying, ‘The representatives of the people of the country, the majority of the members of the Legislative Assembly, have affirmed that they have confidence in me,’ Achariyar thought he had wiped away the shock he had received in Aruppukkottai—a shock he had sought for himself—and the humiliation caused by the result of his challenge; he had the confidence resolution passed in the Assembly.
 

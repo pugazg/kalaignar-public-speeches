@@ -5,14 +5,14 @@ SHA-256: 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
 
 | # | Source heading | PDF | Printed | Pages | Status |
 |---:|---|---:|---:|---:|---|
-| 1 | குட்டிக் கதைகள்! குரங்காட்டம்! | 8–28 | 7–27 | 21 | TAMIL VERIFIED / FROZEN / E1 21/21 / E2 READY |
+| 1 | குட்டிக் கதைகள்! குரங்காட்டம்! | 8–28 | 7–27 | 21 | TAMIL VERIFIED / FROZEN / E1 COMPLETE / E2 PASS / E3 READY |
 | 2 | சடுகுடு விளையாட்டா? சவால் சண்டையா? | 29–45 | 28–44 | 17 | SOURCE-GATED / T1 READY |
 | 3 | மீண்டும் கிளைவ் ? | 46–51 | 45–50 | 6 | SOURCE-GATED / T1 READY |
 | 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | SOURCE-GATED / T1 READY |
 | 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | SOURCE-GATED / T1 READY |
 | 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | SOURCE-GATED / T1 READY |
 
-Workflow note: constituent 1 Tamil T1/T2/T3 is **COMPLETE / PASS**; Tamil is **`verified-complete` / FROZEN — 21/21**, with **55 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English E1 is **COMPLETE — 21/21 through PDF28 / printed p.27** and E2 is ready. Constituents 2–6 remain T1 READY / NOT STARTED.
+Workflow note: constituent 1 Tamil T1/T2/T3 is **COMPLETE / PASS**; Tamil is **`verified-complete` / FROZEN — 21/21**, with **55 T2 corrections / 0 T3 additional source corrections / 0 consolidation repairs / 0 unresolved**. English E1 is **COMPLETE — 21/21** and E2 is **COMPLETE / PASS — 21/21, 7 corrections / 0 unresolved**. E3 is ready. Constituents 2–6 remain T1 READY / NOT STARTED.
 
 Boundary controls:
 - PDF1–7 front matter

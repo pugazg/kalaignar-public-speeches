@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil `verified-complete` / FROZEN — English E1 COMPLETE 21/21 / E2 READY**
+**Status: Tamil `verified-complete` / FROZEN — English E1 COMPLETE / E2 COMPLETE-PASS 21/21 / E3 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -24,15 +24,16 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 - T3 consolidation / freeze — **COMPLETE / PASS — 55/55 T2 corrections consolidated; 0 repairs / 0 unresolved**
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **COMPLETE — 21 of 21 pages / PDF8–28**
-- English E2 fidelity review — **READY / NOT STARTED**
+- English E2 fidelity review — **COMPLETE / PASS — 21/21; 7 corrections / 0 unresolved**
+- English E3 final verification — **READY / NOT STARTED**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
 
 T2 Batches 1–4 (PDF8–28) are **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. T3 confirmed all 55 corrections, exact ordered page coverage, both cross-page joins (`காங்கிரசிடம்`, `மற்றவரையும்`), and no stale superseded readings. T3 introduced **0 additional source corrections / 0 consolidation repairs**.
 
-English E1 is now **COMPLETE — 21/21 pages (PDF8–28 / printed pp.7–27)**. All remaining pages PDF13–28 were translated from the frozen Tamil layer; E1 introduced **0 Tamil changes**. Source-sensitive irregularities and both recorded page-boundary joins are handled transparently in `translation-en.md`.
+English E1 is **COMPLETE — 21/21 pages (PDF8–28 / printed pp.7–27)**. English E2 is also **COMPLETE / PASS — 21/21**, with **7 confirmed corrections / 0 unresolved** and **0 Tamil changes**. The review restored two PDF12 fidelity points, the PDF17 self-imposed constraint wording, the PDF20→21 action-clause boundary, PDF23 repetition, PDF24 polarity, and PDF25 majority wording. Full details are in `translation-review.md`.
 
-**Next gate:** English **E2 fidelity review — Batch 1 PDF8–12 / printed pp.7–11 / 5 pages**.
+**Next gate:** English **E3 final end-to-end Tamil→English verification — PDF8–28 / 21 pages**.
 
 The source scan remains the authority for any later Tamil defect adjudication. English must translate from the frozen Tamil layer and must not silently normalize source wording.

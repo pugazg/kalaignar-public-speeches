@@ -55,8 +55,8 @@
     "active_constituent_number": 1,
     "active_constituent_slug": "kuttik-kathaigal-kurangaattam",
     "active_constituent_title_ta": "குட்டிக் கதைகள்! குரங்காட்டம்!",
-    "next_gate": "English E2 fidelity review — constituent 1 / Batch 1 PDF8–12",
-    "collection_status": "active-english-e2-ready",
+    "next_gate": "English E3 final verification — constituent 1 / PDF8–28 / 21 pages",
+    "collection_status": "active-english-e3-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -93,7 +93,13 @@
       "english_e1_batch_2": "complete-pdf-13-to-17",
       "english_e1_batch_3": "complete-pdf-18-to-22",
       "english_e1_batch_4": "complete-pdf-23-to-28",
-      "english_e2": "ready-not-started"
+      "english_e2": "complete-pass",
+      "english_e2_pages_reviewed": 21,
+      "english_e2_through_pdf_page": 28,
+      "english_e2_through_printed_page": 27,
+      "english_e2_corrections": 7,
+      "english_e2_unresolved": 0,
+      "english_e3": "ready-not-started"
     },
     {
       "number": 2,
