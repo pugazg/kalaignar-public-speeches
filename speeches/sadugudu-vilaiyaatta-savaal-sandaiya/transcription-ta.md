@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா? — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 17/17 pages (PDF29–45 / printed pp.28–44); Tamil T2 strict visual audit READY  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — 17/17 pages; Tamil T2 IN PROGRESS — Batch 1 PDF29–33 COMPLETE / PASS — 5/17 pages audited, 1 correction / 0 unresolved  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0
@@ -30,7 +30,7 @@
 
 கடைசியாக அவர், மத்திய சர்க்காரில் உள்நாட்டிலாகா மந்திரியாக இருந்தபோது, மீண்டும் நாடெங்கும் பொதுத் தேர்தல் நடைபெற்றது.
 
-இந்தச் சமயம் பார்த்து ஆச்சாரியார், தமது மத்திய சர்க்கார் மந்திரி பதவியைத் தாமே வேண்டாமென்று கூறிவிட்டுச் சென்னைக்குத் திரும்பி குற்றாலம் சென்று குளுமையான வாசத்தை மேற்கொண்டு பஜகோவிந்தம் எழுதிக்கொண் டிருந்தார்.
+இந்தச் சமயம் பார்த்து ஆச்சாரியார், தமது மத்திய சர்க்கார் மந்திரி பதவியைத் தாமே வேண்டாமென்று கூறிவிட்டுச் சென்னைக்குத் திரும்பி குற்றாலம் சென்று. குளுமையான வாசத்தை மேற்கொண்டு பஜகோவிந்தம் எழுதிக்கொண் டிருந்தார்.
 
 ஆச்சாரியார் தாம் அரசியல் துறவு பூண்டுவிட்டதாக அறிவித்து விட்டே, பொது வாழ்விலிருந்து, அரசியலிலிருந்து மந்திரி பதவியிலிருந்து தாமே விலகிக் கொண்டார் என்பது நாடறிந்த உண்மையாகும்.
 

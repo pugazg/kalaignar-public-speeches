@@ -13,33 +13,34 @@ Archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`
 - source range — **PDF29–45 / printed pp.28–44 / 17 pages**
 - duplicate / boundary gates — **PASS / COMPLETE**
 - Tamil T1 — **FIRST-PASS COMPLETE — 17/17**
-- explicit unresolved T1 readings — **0**
-- Tamil T2 — **READY / NOT STARTED**
+- Tamil T2 — **IN PROGRESS — 5/17 pages audited**
+- T2 Batch 1 — **PDF29–33 COMPLETE / PASS**
+- T2 cumulative corrections — **1**
+- T2 unresolved — **0**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - predecessor constituent 1 — **FINAL CLOSED / RELEASE READY**
 
-Canonical T1 working transcript: `transcription-ta.md`.  
+Canonical working transcript: `transcription-ta.md`.  
 T1/T2 audit record: `audit.md`.
 
-## T1 durable controls
+## T2 Batch 1 durable checkpoint
 
-- PDF29 source heading — **சடுகுடு விளையாட்டா? சவால் சண்டையா?**
-- do not substitute the supplied variant `சவால் விளையாட்டா?`
-- PDF37 internal heading — **அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக் களித்த அபயம்!**
-- PDF37 heading remains inside constituent 2; it is not a separate archival item
-- PDF29–45 page coverage — **17/17**
-- printed mapping — **pp.28–44**
-- T1 explicit unresolved readings — **0**
-- no speech date or item-specific venue inferred
-- OCR/parsed text was aid only; rendered source pixels controlled
-- source-sensitive oddities and boundary continuations are listed in `audit.md`
-- English remains blocked until Tamil T2/T3 freeze
+- PDF29–33 — **5/5 strict-verified**
+- PDF30 correction — restored source full stop: `குற்றாலம் சென்று. குளுமையான...`
+- PDF29 title — PASS
+- PDF30 `பதவிகள் யெல்லாம்`, `எழுதிக்கொண் டிருந்தார்`, `பங்குகொள்ள வில்லை` — retained
+- PDF31 `துடி துடித்தனர்` — retained
+- PDF32 `ஆச்சாரியைச்` — source-confirmed / retained
+- PDF33 `மேல்சபை அங்கத்தினராக, அவர், ஆச்சாரியார்...` — source-confirmed / retained
+- PDF32→33 sentence continuation — PASS
+- historical-glyph check — PASS
+- unresolved after Batch 1 — **0**
 
 ## Exact next activity
 
-Tamil **T2 strict visual audit — Batch 1 PDF29–33 / printed pp.28–32 / 5 pages**.
+Tamil **T2 strict visual audit — Batch 2 PDF34–38 / printed pp.33–37 / 5 pages**.
 
-Compare every line directly against the source renders, including punctuation, source spacing, historical glyph identity, unusual grammar, and page boundaries. Apply only source-supported corrections to `transcription-ta.md` and record them in `audit.md`.
+Compare every line directly against rendered source pixels, including punctuation, source spacing, historical glyph identity, names, unusual grammar and the PDF34→35 and PDF38→39 boundaries. Apply only source-supported corrections and record them in `audit.md`.
 
 Do not begin T3 or English.

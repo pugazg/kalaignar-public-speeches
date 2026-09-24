@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF29–45 / printed pp.28–44 / 17 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 17/17**; Tamil T2 strict visual audit READY
+**Current gate:** Tamil T2 strict visual audit **IN PROGRESS — Batch 1 PDF29–33 COMPLETE / PASS — 5/17 pages; 1 correction / 0 unresolved**
 
 ## T1 method
 
@@ -76,8 +76,42 @@ No cross-page lexical join is assumed in T1. T2 must directly inspect both sides
 
 T2 must re-check the known historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` page by page. No global character replacement is permitted. The rendered source pixels remain authoritative.
 
+## T2 Batch 1 — PDF29–33 / printed pp.28–32
+
+**Status: COMPLETE / STRICT-VERIFIED — 5/5 pages.**  
+**Corrections applied in this batch: 1.**  
+**Cumulative T2 corrections: 1.**  
+**Unresolved readings after this batch: 0.**
+
+PDF29, PDF31, PDF32 and PDF33 required **no substantive correction**.
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 30 | 29 | `...சென்னைக்குத் திரும்பி குற்றாலம் சென்று குளுமையான வாசத்தை...` | `...சென்னைக்குத் திரும்பி குற்றாலம் சென்று. குளுமையான வாசத்தை...` — source full stop after `சென்று` restored |
+
+### Batch 1 source-sensitive confirmations
+
+- PDF29 title — **சடுகுடு விளையாட்டா? / சவால் சண்டையா?** — PASS.
+- PDF30 source spacing — `பதவிகள் யெல்லாம்`, `எழுதிக்கொண் டிருந்தார்`, `பங்குகொள்ள வில்லை` — PASS / retained.
+- PDF31 `துடி துடித்தனர்` — PASS / two source words retained.
+- PDF32 `ஆச்சாரியைச்` — PASS / source-confirmed, not regularized.
+- PDF33 unusual appointment syntax `மேல்சபை அங்கத்தினராக, அவர், ஆச்சாரியார்...` — PASS / retained.
+- PDF32→33 continuation `விரும்புகின்றார்களா / என்று அறிந்து வாருங்கள்...` — PASS; sentence continuity preserved without inventing a lexical join.
+
+### Historical-glyph check
+
+All five pages were reviewed against the historical-glyph guide, including the known families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct source pixels controlled; no global replacement was used. No unresolved glyph reading remains in Batch 1.
+
+## T2 progress
+
+- pages strict-verified — **5/17**
+- audited through — **PDF33 / printed p.32**
+- cumulative corrections — **1**
+- unresolved — **0**
+- remaining — **PDF34–45 / 12 pages**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 1 PDF29–33 / printed pp.28–32 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 2 PDF34–38 / printed pp.33–37 / 5 pages**.
 
 Do not begin Tamil T3 or English until all 17 pages pass T2.
