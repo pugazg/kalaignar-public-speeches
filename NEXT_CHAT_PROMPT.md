@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 Tamil T2 Batch 1
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 Tamil T2 Batch 2
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,25 +14,28 @@ Source-supported edition: `முதல் பதிப்பு: பிப்�
 
 - source / duplicate / boundary gates — PASS
 - Tamil T1 — **FIRST-PASS COMPLETE / 21 of 21**
-- Tamil T2 — **READY / NOT STARTED**
+- Tamil T2 — **IN PROGRESS / 5 of 21 strict-verified**
+- T2 Batch 1 — **PDF8–12 / printed pp.7–11 COMPLETE / 11 corrections / 0 unresolved**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
-- canonical T1 working file — `speeches/kuttik-kathaigal-kurangaattam/transcription-ta.md`
+- canonical working file — `speeches/kuttik-kathaigal-kurangaattam/transcription-ta.md`
 - audit file — `speeches/kuttik-kathaigal-kurangaattam/audit.md`
 
-T1 is not a verification claim. Direct scan evidence remains authoritative; OCR/parsed text is only an aid.
+Direct scan evidence is authoritative; OCR/parsed text is only an aid.
 
-## T1 carry-forward items
+## T2 Batch 1 carry-forward
 
-- PDF10 / printed p.9: working uncertainty is `சான்று ⟦கத்?⟧ தரவேண்டும்.`; resolve only from native scan pixels / same-edition glyph evidence.
+Confirmed corrections include `போவோரை யெல்லாம்`, `சூதாட்டந் தவிர`, `கண்டு. மிரண்டிடும்`, the source quote boundary after `பலே சூதாடி!`, `சான்று கத் தரவேண்டும்.`, `‘சரி யோக்கியரே’`, `கூறி விட்டு`, `கருணை யேதுமின்றிக்`, the comma in `வேண்டுமா, நாங்கள்?`, the full stop after `காட்சி யளிப்பாள்.`, and `விபச்சாரிக்குத்தான்`.
+
+Remaining later-page controls:
 - PDF20→21: physical split `காங்கிர` / `சிடம்` visibly forms `காங்கிரசிடம்`; preserve provenance and adjudicate in T2/T3.
 - PDF23→24: physical split `மற்றவரை` / `யும்` visibly forms `மற்றவரையும்`; preserve provenance and adjudicate in T2/T3.
-- PDF22 / printed p.21 retains the unusual source syntax beginning `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...`; verify rather than smoothing.
+- PDF22 / printed p.21 retains unusual source syntax beginning `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...`; verify rather than smoothing.
 - Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page; no global replacements.
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 1: PDF8–12 / printed pp.7–11 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 2: PDF13–17 / printed pp.12–16 / 5 pages**.
 
 Compare every line directly against the scan; verify names, punctuation, numerals, repeated wording, historical glyph identities, and page/line joins. Record substantive findings in `audit.md` and apply only scan-confirmed corrections to `transcription-ta.md`.
 

@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF 8–28 / printed pages 7–27 / 21 pages  
-**Current gate:** T1 first-pass complete; strict T2 visual fidelity audit not started
+**Current gate:** T2 strict visual fidelity audit in progress — Batch 1 PDF8–12 complete / 5 of 21 pages strict-verified
 
 ## T1 state
 
@@ -17,17 +17,18 @@ T1 used the rendered scan as the controlling witness. OCR/parsed text was used o
 
 | Batch | PDF pages | Printed pages | T1 | T2 |
 |---:|---:|---:|---|---|
-| 1 | 8–12 | 7–11 | complete | pending |
+| 1 | 8–12 | 7–11 | complete | strict-verified |
 | 2 | 13–17 | 12–16 | complete | pending |
 | 3 | 18–22 | 17–21 | complete | pending |
 | 4 | 23–28 | 22–27 | complete | pending |
 
-T1 pages drafted: **21 / 21**.
+T1 pages drafted: **21 / 21**.  
+T2 pages strict-verified: **5 / 21**.
 
 ## Source-sensitive T1 notes for T2
 
-1. **PDF10 / printed p.9 — சான்று ⟦கத்?⟧ தரவேண்டும்.**  
-   The scan visibly carries a difficult cluster after சான்று at the printer line break. T1 does not force a lexical repair. T2 must inspect the native pixels and same-edition glyph evidence before removing the uncertainty marker.
+1. **PDF10 / printed p.9 — RESOLVED in T2 Batch 1.**  
+   Enlarged direct scan inspection confirms the printed sequence `சான்று கத் தரவேண்டும்.` The unusual `கத்` is retained as source text; it is not silently repaired to a grammatically expected form.
 
 2. **PDF20→21 / printed pp.19→20 — cross-page word split.**  
    PDF20 ends காங்கிர and PDF21 begins சிடம், visibly forming காங்கிரசிடம். T1 preserves the physical page fragments so the source boundary remains explicit. T2/T3 must record the join before consolidation.
@@ -41,6 +42,32 @@ T1 pages drafted: **21 / 21**.
 5. **Historical-glyph discipline.**  
    T2 must explicitly re-check the known historical families ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ page by page, using same-edition evidence where a character is doubtful. No global replacement is permitted.
 
+## T2 Batch 1 — PDF8–12 / printed pp.7–11
+
+**Status: COMPLETE / STRICT-VERIFIED — 5 of 5 pages.**  
+**Corrections applied to canonical working transcript: 11.**  
+**Unresolved readings after this batch: 0.**
+
+PDF8 / printed p.7 required **no substantive correction**.
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 9 | 8 | `போவோரை எல்லாம்` | `போவோரை யெல்லாம்` |
+| 9 | 8 | `சூதாட்டம் தவிர` | `சூதாட்டந் தவிர` |
+| 9 | 8 | `கண்டு மிரண்டிடும்` | `கண்டு. மிரண்டிடும்` — source punctuation retained |
+| 9 | 8 | `“நான் ஒரு சூதாடி! பலே சூதாடி! சோம்பேறி!”` | source closes the quotation after the second `சூதாடி!`: `“நான் ஒரு சூதாடி! பலே சூதாடி!” சோம்பேறி!` |
+| 10 | 9 | `சான்று ⟦கத்?⟧ தரவேண்டும்` | `சான்று கத் தரவேண்டும்` — T1 uncertainty resolved directly from enlarged scan; unusual print retained |
+| 10 | 9 | `“சரி யோக்கியரே”` | `‘சரி யோக்கியரே’` — source quote punctuation |
+| 10 | 9 | `கூறிவிட்டு` | `கூறி விட்டு` — the scan prints two distinct words across the line break; do not silently compound them |
+| 11 | 10 | `கருணை ஏதுமின்றிக்` | `கருணை யேதுமின்றிக்` |
+| 11 | 10 | `வேண்டுமா நாங்கள்?` | `வேண்டுமா, நாங்கள்?` — source comma restored |
+| 12 | 11 | `காட்சி யளிப்பாள், வசீகரி` | `காட்சி யளிப்பாள். வசீகரி` — source full stop restored |
+| 12 | 11 | `விபசாரிக்குத்தான்` | `விபச்சாரிக்குத்தான்` — retain the spelling printed in this occurrence, even though the page also prints `விபசாரி` elsewhere |
+
+### Historical-glyph check
+
+All five pages were inspected for the known historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Character identity was decided from the scan rather than modern visual resemblance. Representative checks include PDF9 `நன்றாக` / `தவறாதவன்` (`றா`) and PDF12 `வாலிபர்களை` (`ளை`). No global replacement was used.
+
 ## Boundary control
 
 - Constituent begins at PDF8 / printed p.7 with the combined source heading குட்டிக் கதைகள்! குரங்காட்டம்!.
@@ -50,4 +77,4 @@ T1 pages drafted: **21 / 21**.
 
 ## Next gate
 
-Run **Tamil T2 — strict visual fidelity audit** across PDF8–28, line by line, in manageable batches. Apply only scan-confirmed corrections to transcription-ta.md, record substantive findings here, and keep Tamil T3 plus all English work blocked until T2 is complete.
+Continue **Tamil T2 — Batch 2: PDF13–17 / printed pp.12–16 / 5 pages**. Compare every line directly against the scan, apply only scan-confirmed corrections to transcription-ta.md, and keep Tamil T3 plus all English work blocked until all 21 pages pass T2.
