@@ -6,13 +6,13 @@ SHA-256: 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
 | # | Source heading | PDF | Printed | Pages | Status |
 |---:|---|---:|---:|---:|---|
 | 1 | குட்டிக் கதைகள்! குரங்காட்டம்! | 8–28 | 7–27 | 21 | FINAL CLOSED / RELEASE READY |
-| 2 | சடுகுடு விளையாட்டா? சவால் சண்டையா? | 29–45 | 28–44 | 17 | ACTIVE / T2 5/17 / 1 CORRECTION / 0 UNRESOLVED |
+| 2 | சடுகுடு விளையாட்டா? சவால் சண்டையா? | 29–45 | 28–44 | 17 | ACTIVE / T2 10/17 / 8 CORRECTIONS / 0 UNRESOLVED |
 | 3 | மீண்டும் கிளைவ் ? | 46–51 | 45–50 | 6 | SOURCE-GATED / T1 READY |
 | 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | SOURCE-GATED / T1 READY |
 | 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | SOURCE-GATED / T1 READY |
 | 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | SOURCE-GATED / T1 READY |
 
-Workflow note: constituent 1 is **FINAL CLOSED / RELEASE READY**. Constituent 2 Tamil T1 is complete; Tamil T2 Batch 1 **PDF29–33 is COMPLETE / PASS — 5/17 pages audited, 1 correction / 0 unresolved**. Constituents 3–6 remain T1 READY / NOT STARTED.
+Workflow note: constituent 1 is **FINAL CLOSED / RELEASE READY**. Constituent 2 Tamil T1 is complete; Tamil T2 Batches 1–2 **PDF29–38 are COMPLETE / PASS — 10/17 pages audited, 8 cumulative corrections / 0 unresolved**. Constituents 3–6 remain T1 READY / NOT STARTED.
 
 Boundary controls:
 - PDF1–7 front matter

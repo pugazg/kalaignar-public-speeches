@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF29–45 / printed pp.28–44 / 17 pages  
-**Current gate:** Tamil T2 strict visual audit **IN PROGRESS — Batch 1 PDF29–33 COMPLETE / PASS — 5/17 pages; 1 correction / 0 unresolved**
+**Current gate:** Tamil T2 strict visual audit **IN PROGRESS — Batches 1–2 PDF29–38 COMPLETE / PASS — 10/17 pages; 8 cumulative corrections / 0 unresolved**
 
 ## T1 method
 
@@ -102,16 +102,52 @@ PDF29, PDF31, PDF32 and PDF33 required **no substantive correction**.
 
 All five pages were reviewed against the historical-glyph guide, including the known families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct source pixels controlled; no global replacement was used. No unresolved glyph reading remains in Batch 1.
 
+## T2 Batch 2 — PDF34–38 / printed pp.33–37
+
+**Status: COMPLETE / STRICT-VERIFIED — 5/5 pages.**  
+**Corrections applied in this batch: 7.**  
+**Cumulative T2 corrections: 8.**  
+**Unresolved readings after this batch: 0.**
+
+PDF35 and PDF36 required **no substantive correction**.
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 34 | 33 | `(மேல்சபை அங்கத்தினராக)ப்` | `(மேல் சபை அங்கத்தினராக)ப்` — source prints `மேல் சபை` as two words in this parenthetical |
+| 34 | 33 | `சரியுமில்லை,’ என்ற` | `சரியுமில்லை, என்ற` — T1 supplied a closing quote not present in the source; removed |
+| 37 | 36 | `மேல்சபை அங்கத்தினராக நியமிக்கப் பட்டதைப்` | `மேல் சபை அங்கத்தினராக நியமிக்கப் பட்டதைப்` — source spacing restored |
+| 37 | 36 | `மேல்சபை அங்கத்தினராகக் கவர்னர்` | `மேல் சபை அங்கத்தினராகக் கவர்னர்` — source spacing restored |
+| 37 | 36 | `ஆச்சாரியார்தான் தன்னுடைய ஆசான்` | `ஆச்சாரியார் தான் தன்னுடைய ஆசான்` — source word boundary restored |
+| 38 | 37 | `காங்கிரசின் பலம் 152 தான்` | `காங்கிரஸின் பலம் 152 தான்` — source letter identity restored |
+| 38 | 37 | first `சட்டசபையில் மந்திரி சபை...` | `சட்ட சபையில் மந்திரி சபை...` — source two-word form restored; later same paragraph also prints `சட்ட சபையில்` |
+
+### Batch 2 source-sensitive confirmations
+
+- PDF34 second paragraph `மேல்சபை மெம்பரான` — **retained**; source prints the compound there, distinct from the later parenthetical `மேல் சபை`.
+- PDF34 opening quotation remains source-faithful; the source opens the quotation but does not print a closing quote before `என்ற கருத்துப்பட`.
+- PDF34→35 continuation `பேசிடும்போது, / இந்தக் காரணங்கள்...` — **PASS**.
+- PDF35 unusual source punctuation `ஆச்சாரியார். ஏதாவது...` and `அது முடியாது என்று.` — **PASS / retained**.
+- PDF35 `குடுகுடு கிழவரானால்` — **PASS / retained**.
+- PDF36 rhetorical repetitions and source spacing — **PASS**.
+- PDF37 internal heading **அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக் களித்த அபயம்!** — **PASS / retained inside constituent 2**.
+- PDF37 `பத்திரிக்கைகளிலே`, `கூறி யிருக்கிறார்`, and mixed `ஸ்ரீ பிரகாசா` / `ஸ்ரீபிரகாசா` source forms — **PASS / retained where printed**.
+- PDF38 `நினைவில் நிறுத்தி, நிறுத்துப் பார்த்திடும்`, `கவர்னராகப் ஸ்ரீ பிரகாசாவை`, `மெஜாரிட்டி யாகவுள்ள`, and `இதுமட்டு மல்ல` — **PASS / retained**.
+- PDF38→39 continuation `ஆள்பிடிப் பலத்திற்கு உதவியாக / இருப்பார்...` — **PASS**; no lexical join invented.
+
+### Historical-glyph check
+
+All five pages were reviewed against the historical-glyph guide for `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct rendered source pixels controlled; no global replacement was used. No unresolved glyph reading remains in Batch 2.
+
 ## T2 progress
 
-- pages strict-verified — **5/17**
-- audited through — **PDF33 / printed p.32**
-- cumulative corrections — **1**
+- pages strict-verified — **10/17**
+- audited through — **PDF38 / printed p.37**
+- cumulative corrections — **8**
 - unresolved — **0**
-- remaining — **PDF34–45 / 12 pages**
+- remaining — **PDF39–45 / 7 pages**
 
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 2 PDF34–38 / printed pp.33–37 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 3 PDF39–43 / printed pp.38–42 / 5 pages**.
 
 Do not begin Tamil T3 or English until all 17 pages pass T2.

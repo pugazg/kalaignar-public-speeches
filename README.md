@@ -555,7 +555,7 @@ Repository-level closure is complete. No transcription, translation, review, ver
 
 ### Active work — புராணப்போதை (1958 source booklet)
 
-`collections/puranappothai-1958/` is **ACTIVE — constituent 1 FINAL CLOSED / constituent 2 Tamil T2 IN PROGRESS — 5/17 audited; 6/6 constituents mapped**.
+`collections/puranappothai-1958/` is **ACTIVE — constituent 1 FINAL CLOSED / constituent 2 Tamil T2 IN PROGRESS — 10/17 audited; 6/6 constituents mapped**.
 
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
@@ -571,7 +571,7 @@ Repository-level closure is complete. No transcription, translation, review, ver
 - fully archived — **1/6**
 - active constituent — சடுகுடு விளையாட்டா? சவால் சண்டையா?, PDF29–45 / printed pp.28–44 / 17 pages
 - active constituent Tamil T1 — **FIRST-PASS COMPLETE — 17/17 / 0 explicit unresolved**
-- active constituent Tamil T2 — **IN PROGRESS — PDF29–33 strict-verified / 5 of 17 pages / 1 correction / 0 unresolved**
+- active constituent Tamil T2 — **IN PROGRESS — PDF29–38 strict-verified / 10 of 17 pages / 8 cumulative corrections / 0 unresolved**
 - active constituent Tamil T3 — blocked pending T2
 - active constituent English — blocked pending Tamil freeze
 
@@ -579,4 +579,4 @@ Source-structure controls: PDF29 reads சடுகுடு விளையா�
 
 The user supplied 1953, but the controlling scan prints February 1958; the archive follows the scan.
 
-Exact next gate: constituent 2 **Tamil T2 strict visual audit Batch 2 — PDF34–38 / printed pp.33–37 / 5 pages**.
+Exact next gate: constituent 2 **Tamil T2 strict visual audit Batch 3 — PDF39–43 / printed pp.38–42 / 5 pages**.

@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா?
 
-**Status: ACTIVE — Tamil T1 COMPLETE 17/17 / Tamil T2 IN PROGRESS — 5/17 audited**
+**Status: ACTIVE — Tamil T1 COMPLETE 17/17 / Tamil T2 IN PROGRESS — 10/17 audited**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -21,7 +21,7 @@ PDF29 reads சவால் சண்டையா?, not the supplied variant ச
 
 - Tamil T1 — **FIRST-PASS COMPLETE — 17/17 pages / PDF29–45**
 - explicit unresolved T1 readings — **0**
-- Tamil T2 strict visual audit — **IN PROGRESS — Batch 1 PDF29–33 COMPLETE / PASS; 5/17 pages; 1 correction / 0 unresolved**
+- Tamil T2 strict visual audit — **IN PROGRESS — Batches 1–2 PDF29–38 COMPLETE / PASS; 10/17 pages; 8 cumulative corrections / 0 unresolved**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - canonical T1 working transcript — `transcription-ta.md`
@@ -29,6 +29,6 @@ PDF29 reads சவால் சண்டையா?, not the supplied variant ச
 
 T1 used direct rendered source pages as authority. The PDF37 heading **அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக் களித்த அபயம்!** remains internal to this constituent. Source-sensitive oddities and all page-boundary continuations are recorded in `audit.md` for T2.
 
-**Next gate:** Tamil **T2 strict visual audit — Batch 2 PDF34–38 / printed pp.33–37 / 5 pages**.
+**Next gate:** Tamil **T2 strict visual audit — Batch 3 PDF39–43 / printed pp.38–42 / 5 pages**.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.
