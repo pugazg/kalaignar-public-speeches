@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil T1 FIRST-PASS COMPLETE / Tamil T2 COMPLETE-PASS — 21/21 strict-verified / Tamil T3 READY**
+**Status: Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE / English E1 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -21,14 +21,15 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 
 - T1 first-pass transcription — **COMPLETE / 21 of 21 pages**
 - T2 strict visual fidelity audit — **COMPLETE / PASS — 21 of 21 pages strict-verified (PDF8–28)**
-- T3 consolidation / freeze — **READY / NOT STARTED**
-- English — **blocked pending Tamil T3 freeze**
+- T3 consolidation / freeze — **COMPLETE / PASS — 55/55 T2 corrections consolidated; 0 repairs / 0 unresolved**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
 
-T1 deliberately does not claim verification. T2 Batches 1–4 (PDF8–28) are now **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. The two cross-page joins are directly confirmed as `காங்கிரசிடம்` and `மற்றவரையும்`; their physical page fragments remain in the page-preserving working transcript until T3 consolidation.
+T2 Batches 1–4 (PDF8–28) are **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. T3 confirmed all 55 corrections, exact ordered page coverage, both cross-page joins (`காங்கிரசிடம்`, `மற்றவரையும்`), and no stale superseded readings. T3 introduced **0 additional source corrections / 0 consolidation repairs**.
 
-**Next gate:** Tamil **T3 consolidation and freeze — PDF8–28 / 21 pages**. Do not mark Tamil `verified-complete` until this gate passes.
+**Next gate:** English **E1 Batch 1 — PDF8–12 / printed pp.7–11 / 5 pages**, translating only from the frozen Tamil layer.
 
-The source scan, not OCR, remains authoritative. Do not silently modernize or normalize source wording. Do not start English.
+The source scan remains the authority for any later Tamil defect adjudication. English must translate from the frozen Tamil layer and must not silently normalize source wording.

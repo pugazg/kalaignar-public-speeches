@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF 8–28 / printed pages 7–27 / 21 pages  
-**Current gate:** T2 strict visual fidelity audit **COMPLETE / PASS — 21 of 21 pages strict-verified**; Tamil T3 consolidation/freeze READY
+**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
 
 ## T1 state
 
@@ -11,7 +11,7 @@ All **21 / 21** constituent pages have a source-led first-pass transcription in 
 
 T1 used the rendered scan as the controlling witness. OCR/parsed text was used only to accelerate locating text and was rejected where it conflicted with visible print. Historical Tamil glyph identity was read into modern Unicode without treating that as permission to modernize spelling, grammar, punctuation, names, or rhetoric.
 
-T1 completion alone was not a verification claim. **All PDF8–28 / 21 pages are now T2 strict-verified.** T2 is complete with **55 cumulative corrections / 0 unresolved**. Tamil is not yet `verified-complete`; T3 consolidation/freeze must still pass.
+T1 completion alone was not a verification claim. **All PDF8–28 / 21 pages passed T2 strict verification.** T2 closed with **55 cumulative corrections / 0 unresolved**, and the T3 consolidation/freeze documented below has now passed. Tamil is therefore **`verified-complete` / FROZEN**.
 
 ## T1 coverage
 
@@ -31,10 +31,10 @@ T2 pages strict-verified: **21 / 21**.
    Enlarged direct scan inspection confirms the printed sequence `சான்று கத் தரவேண்டும்.` The unusual `கத்` is retained as source text; it is not silently repaired to a grammatically expected form.
 
 2. **PDF20→21 / printed pp.19→20 — RESOLVED in T2 Batch 3.**  
-   Direct inspection of both page images confirms the physical split `காங்கிர` / `சிடம்` as the single word `காங்கிரசிடம்`. The page-preserving working transcript retains the physical fragments; T3 must join them in the consolidated reading while preserving boundary provenance.
+   Direct inspection of both page images confirms the physical split `காங்கிர` / `சிடம்` as the single word `காங்கிரசிடம்`. The page-preserving transcript retains the physical fragments; T3 reconciliation records the canonical joined reading `காங்கிரசிடம்` while preserving boundary provenance.
 
 3. **PDF23→24 / printed pp.22→23 — RESOLVED in T2 Batch 4.**  
-   Direct review of both page images confirms the physical split `மற்றவரை` / `யும்` as the single word `மற்றவரையும்`. The page-preserving transcript retains the physical fragments through T2; T3 must join them in the consolidated reading while retaining page-boundary provenance.
+   Direct review of both page images confirms the physical split `மற்றவரை` / `யும்` as the single word `மற்றவரையும்`. The page-preserving transcript retains the physical fragments; T3 reconciliation records the canonical joined reading `மற்றவரையும்` while retaining page-boundary provenance.
 
 4. **PDF22 / printed p.21 — RESOLVED in T2 Batch 3.**  
    Direct scan review reconfirms the unusual source sequence `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...`. The same paragraph prints `அந்த அறைகூவல் மக்கள்-அத்தொகுதி...`; the T1 object-marker insertion `அறைகூவலை` has been removed. The syntax remains source-faithful and is not smoothed.
@@ -134,7 +134,7 @@ All five pages were checked against the historical-glyph guide for the known fam
 
 ### Cross-page and syntax adjudication
 
-- PDF20 ends `காங்கிர`; PDF21 begins `சிடம்`. Direct review of both source pages confirms the single word **`காங்கிரசிடம்`**. The page-preserving transcript keeps the physical fragments through T2; T3 will join them in the consolidated reading while retaining provenance.
+- PDF20 ends `காங்கிர`; PDF21 begins `சிடம்`. Direct review of both source pages confirms the single word **`காங்கிரசிடம்`**. The page-preserving transcript keeps the physical fragments; T3 records the canonical joined reading while retaining provenance.
 - PDF22's unusual `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` is directly confirmed and retained.
 - In the same PDF22 paragraph the print reads `அந்த அறைகூவல் மக்கள்-அத்தொகுதி...`, not the smoother `அந்த அறைகூவலை மக்கள்...`.
 
@@ -172,7 +172,7 @@ PDF26 / printed p.25 required **no substantive correction**.
 
 ### Cross-page adjudication
 
-PDF23 ends `மற்றவரை`; PDF24 begins `யும்`. Direct comparison confirms the single word **`மற்றவரையும்`**. The page-preserving working transcript keeps the physical fragments through T2; T3 must join the canonical reading while preserving this boundary record.
+PDF23 ends `மற்றவரை`; PDF24 begins `யும்`. Direct comparison confirms the single word **`மற்றவரையும்`**. The page-preserving working transcript keeps the physical fragments; T3 records the canonical joined reading while preserving this boundary record.
 
 ### Historical-glyph check
 
@@ -180,7 +180,33 @@ All six pages were checked page by page against the historical-glyph guide for `
 
 ### T2 closure
 
-Tamil T2 is now **COMPLETE / PASS — 21/21 pages strict-verified**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. This completes visual audit only; Tamil remains unfrozen until T3 consolidation/freeze verifies that all corrections and boundary decisions are consistently present.
+Tamil T2 closed **COMPLETE / PASS — 21/21 pages strict-verified**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. At this checkpoint Tamil was still unfrozen; the T3 section below records the subsequent consolidation/freeze result.
+
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+Consolidation checks were run against the full canonical Tamil transcript after T2 closure.
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **55/55 PASS** |
+| Speech-page coverage | **PDF8–28 = 21/21, each exactly once, in order** |
+| Recorded cross-page boundaries | **PASS** |
+| Stale superseded T1/T2 readings | **none found** |
+| PDF22 unusual source sequence | **present / retained** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| Unresolved Tamil readings | **0** |
+
+### Boundary reconciliation
+
+- PDF20→21 — physical `காங்கிர` / `சிடம்`; canonical joined reading **`காங்கிரசிடம்`** — PASS.
+- PDF23→24 — physical `மற்றவரை` / `யும்`; canonical joined reading **`மற்றவரையும்`** — PASS.
+- Physical page fragments remain under their PDF-page headings so source-boundary provenance is not erased.
+- PDF22 unusual source sequence **`ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...`** remains present and unsmoothed.
+
+### Freeze decision
+
+Tamil is now **`verified-complete` / FROZEN** for PDF8–28 / printed pp.7–27. Later Tamil changes require documented source evidence and dependent English re-verification. English E1 is now unblocked.
 
 ## Boundary control
 
@@ -191,4 +217,4 @@ Tamil T2 is now **COMPLETE / PASS — 21/21 pages strict-verified**, with **55 c
 
 ## Next gate
 
-Proceed to **Tamil T3 — consolidation and freeze for PDF8–28 / 21 pages**. Confirm every T2 correction is present, re-check both cross-page joins (`காங்கிர` / `சிடம்` → `காங்கிரசிடம்`; `மற்றவரை` / `யும்` → `மற்றவரையும்`), search for stale superseded readings, confirm no page is missing or duplicated, and only then mark Tamil `verified-complete` / frozen. Keep English blocked until T3 passes.
+Proceed to **English E1 — Batch 1: PDF8–12 / printed pp.7–11 / 5 pages**. Translate only from the frozen Tamil `transcription-ta.md`, preserve page correspondence and source-sensitive rhetoric, and keep E2/E3 blocked until E1 completes.

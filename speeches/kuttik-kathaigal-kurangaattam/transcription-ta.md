@@ -1,11 +1,12 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்! - தமிழ் உரைநகல்
 
-> **Status:** Tamil T1 first-pass complete — 21/21 speech pages; Tamil T2 strict visual audit COMPLETE / PASS — 21/21 pages strict-verified; Tamil T3 consolidation/freeze pending  
+> **Status:** Tamil `verified-complete` / FROZEN — T1 COMPLETE 21/21; T2 COMPLETE / PASS 21/21; T3 consolidation/freeze COMPLETE / PASS  
 > **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 > **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 > **Scope:** PDF 8–28 / printed pages 7–27  
 > **Rule:** Source-faithful canonical working transcription from the scan. OCR/parsed text is only an aid. Historical character identities are encoded in normal Unicode; source wording is not silently modernized.  
-> **T2 progress:** Batches 1–4 (PDF8–28 / printed pp.7–27) have passed strict line-by-line scan comparison. T2 is complete with 55 cumulative scan-confirmed corrections / 0 unresolved; T3 consolidation/freeze is next.  
+> **T2 progress:** Batches 1–4 (PDF8–28 / printed pp.7–27) passed strict line-by-line scan comparison with 55 cumulative scan-confirmed corrections / 0 unresolved.  
+> **T3 consolidation:** 55/55 T2 correction instances present; PDF8–28 appears exactly once and in order; both recorded cross-page joins pass; stale superseded readings absent; 0 additional source corrections / 0 consolidation repairs / 0 unresolved.  
 > **Lineation:** Ordinary printer line-wraps that clearly split one word are joined. PDF/printed page boundaries and paragraph structure remain explicit.
 
 ## Tamil page coverage
