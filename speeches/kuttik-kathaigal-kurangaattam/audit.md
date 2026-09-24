@@ -11,7 +11,7 @@ All **21 / 21** constituent pages have a source-led first-pass transcription in 
 
 T1 used the rendered scan as the controlling witness. OCR/parsed text was used only to accelerate locating text and was rejected where it conflicted with visible print. Historical Tamil glyph identity was read into modern Unicode without treating that as permission to modernize spelling, grammar, punctuation, names, or rhetoric.
 
-**No page is T2-verified yet.** T1 completion means only that the complete constituent has a first-pass transcript. Every page remains subject to the mandatory strict line-by-line T2 comparison before Tamil consolidation/freeze.
+T1 completion alone was not a verification claim. **PDF8–12 / 5 pages are now T2 strict-verified; PDF13–28 / 16 pages remain pending.** Tamil cannot be consolidated/frozen until every constituent page passes T2.
 
 ## T1 coverage
 
