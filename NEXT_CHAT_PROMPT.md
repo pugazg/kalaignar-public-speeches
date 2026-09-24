@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 Tamil T2 Batch 3
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 1 Tamil T2 final Batch 4
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,10 +14,11 @@ Source-supported edition: `முதல் பதிப்பு: பிப்�
 
 - source / duplicate / boundary gates — PASS
 - Tamil T1 — **FIRST-PASS COMPLETE / 21 of 21**
-- Tamil T2 — **IN PROGRESS / 10 of 21 strict-verified**
+- Tamil T2 — **IN PROGRESS / 15 of 21 strict-verified**
 - T2 Batch 1 — **PDF8–12 COMPLETE / 11 corrections / 0 unresolved**
 - T2 Batch 2 — **PDF13–17 COMPLETE / 12 corrections / 0 unresolved**
-- cumulative T2 corrections — **23**
+- T2 Batch 3 — **PDF18–22 COMPLETE / 17 corrections / 0 unresolved**
+- cumulative T2 corrections — **40**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - canonical working file — `speeches/kuttik-kathaigal-kurangaattam/transcription-ta.md`
@@ -25,26 +26,24 @@ Source-supported edition: `முதல் பதிப்பு: பிப்�
 
 Direct scan evidence is authoritative; OCR/parsed text is only an aid.
 
-## T2 Batch 2 durable points
+## T2 Batch 3 durable points
 
-- PDF13 source single quotes restored for the opening rhetorical quotation and `‘யோக்கியன்’`.
-- PDF14 retains source punctuation `அர்த்தம் - அவசியம்-தேவை`.
-- PDF15 restores `ஒரு வேடிக்கை நிகழ்ச்சி.` and `அது பற்றி`.
-- PDF16 restores `முதலமைச்சர் ஆகி விட்டதும்`, source comma after `ஏற்படுகின்றன`, unusual `புதுமெரு கேற்றிடப்`, and the full stop after `வெற்றி பெற்றது.`.
-- PDF17 restores `மூலை முடுக்குகளில் இருந்தெல்லாம்`, `நடை பெற்றது`, and `பேசும் போது`.
-- PDF13 `வருவாரை` / `யெல்லாம்` and PDF14 `ஆச்சரியப்` / `படத்` are confirmed one-word printer line-wrap splits and remain joined canonically.
+- PDF18 restores `எண்ணித் தான்`, `அத் தொகுதியிலே`, source `அறை கூவல்` spacing, and `வெற்றி தமதே என்று அளவிற்கு`.
+- PDF19 restores `ராஜாஜியின் அறைகூவல் ஏற்று`, `பூரண.`, `தெரிவிக்கப் பட்டுவிட்டதா`, and `கிளம்பின. நாடெங்கும்`.
+- PDF20 restores `இந்தக் கருத்து.`, `நாடாள வந்த மந்திரியார்.`, `இல்லையென்று`, the source single opening quote, and `என் மீதும்`.
+- PDF21 restores the matching source single closing quote.
+- PDF20→21 `காங்கிர` / `சிடம்` is directly confirmed as the one word `காங்கிரசிடம்`; physical page fragments remain until T3 consolidation.
+- PDF22's unusual `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` is scan-confirmed; source also reads `அந்த அறைகூவல் மக்கள்-அத்தொகுதி...` and `பகிரங்க அறை கூவலின்படி`.
 - Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page; no global replacements.
 
-## Batch 3 carry-forward controls
+## Final Batch 4 carry-forward control
 
-- PDF20→21 physically splits `காங்கிர` / `சிடம்`, visibly forming `காங்கிரசிடம்`; adjudicate and document in this batch.
-- PDF22 / printed p.21 retains unusual source syntax beginning `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...`; verify rather than smoothing.
-- PDF23→24 `மற்றவரை` / `யும்` remains for Batch 4 / T3.
+- PDF23→24 physically splits `மற்றவரை` / `யும்`, visibly forming `மற்றவரையும்`; adjudicate and document in this batch and carry the confirmed join into T3.
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 3: PDF18–22 / printed pp.17–21 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — final Batch 4: PDF23–28 / printed pp.22–27 / 6 pages**.
 
 Compare every line directly against the scan; verify punctuation, names, numerals, historical glyph identities, and page boundaries. Record substantive findings in `audit.md` and apply only scan-confirmed corrections to `transcription-ta.md`.
 
-Do not start Tamil T3 or English. Do not infer a speech date or constituent-specific venue.
+Do not start Tamil T3 or English until Batch 4 passes and Tamil T2 is complete. Do not infer a speech date or constituent-specific venue.

@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF 8–28 / printed pages 7–27 / 21 pages  
-**Current gate:** T2 strict visual fidelity audit in progress — Batches 1–2 PDF8–17 complete / 10 of 21 pages strict-verified
+**Current gate:** T2 strict visual fidelity audit in progress — Batches 1–3 PDF8–22 complete / 15 of 21 pages strict-verified
 
 ## T1 state
 
@@ -11,7 +11,7 @@ All **21 / 21** constituent pages have a source-led first-pass transcription in 
 
 T1 used the rendered scan as the controlling witness. OCR/parsed text was used only to accelerate locating text and was rejected where it conflicted with visible print. Historical Tamil glyph identity was read into modern Unicode without treating that as permission to modernize spelling, grammar, punctuation, names, or rhetoric.
 
-T1 completion alone was not a verification claim. **PDF8–17 / 10 pages are now T2 strict-verified; PDF18–28 / 11 pages remain pending.** Tamil cannot be consolidated/frozen until every constituent page passes T2.
+T1 completion alone was not a verification claim. **PDF8–22 / 15 pages are now T2 strict-verified; PDF23–28 / 6 pages remain pending.** Tamil cannot be consolidated/frozen until every constituent page passes T2.
 
 ## T1 coverage
 
@@ -19,25 +19,25 @@ T1 completion alone was not a verification claim. **PDF8–17 / 10 pages are now
 |---:|---:|---:|---|---|
 | 1 | 8–12 | 7–11 | complete | strict-verified |
 | 2 | 13–17 | 12–16 | complete | strict-verified |
-| 3 | 18–22 | 17–21 | complete | pending |
+| 3 | 18–22 | 17–21 | complete | strict-verified |
 | 4 | 23–28 | 22–27 | complete | pending |
 
 T1 pages drafted: **21 / 21**.  
-T2 pages strict-verified: **10 / 21**.
+T2 pages strict-verified: **15 / 21**.
 
 ## Source-sensitive T1 notes for T2
 
 1. **PDF10 / printed p.9 — RESOLVED in T2 Batch 1.**  
    Enlarged direct scan inspection confirms the printed sequence `சான்று கத் தரவேண்டும்.` The unusual `கத்` is retained as source text; it is not silently repaired to a grammatically expected form.
 
-2. **PDF20→21 / printed pp.19→20 — cross-page word split.**  
-   PDF20 ends காங்கிர and PDF21 begins சிடம், visibly forming காங்கிரசிடம். T1 preserves the physical page fragments so the source boundary remains explicit. T2/T3 must record the join before consolidation.
+2. **PDF20→21 / printed pp.19→20 — RESOLVED in T2 Batch 3.**  
+   Direct inspection of both page images confirms the physical split `காங்கிர` / `சிடம்` as the single word `காங்கிரசிடம்`. The page-preserving working transcript retains the physical fragments; T3 must join them in the consolidated reading while preserving boundary provenance.
 
 3. **PDF23→24 / printed pp.22→23 — cross-page word split.**  
    PDF23 ends மற்றவரை and PDF24 begins யும், visibly forming மற்றவரையும். T1 preserves the physical page fragments; T2/T3 must record the join before consolidation.
 
-4. **PDF22 / printed p.21 — unusual source syntax retained.**  
-   The line beginning ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி... is retained source-first rather than silently smoothed. T2 must reconfirm the glyph sequence and punctuation, not rewrite it for grammar.
+4. **PDF22 / printed p.21 — RESOLVED in T2 Batch 3.**  
+   Direct scan review reconfirms the unusual source sequence `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...`. The same paragraph prints `அந்த அறைகூவல் மக்கள்-அத்தொகுதி...`; the T1 object-marker insertion `அறைகூவலை` has been removed. The syntax remains source-faithful and is not smoothed.
 
 5. **Historical-glyph discipline.**  
    T2 must explicitly re-check the known historical families ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ page by page, using same-edition evidence where a character is doubtful. No global replacement is permitted.
@@ -104,6 +104,44 @@ This follows the repository rule to join a printer line-wrap only when it clearl
 
 All five pages were checked against the historical-glyph guide for the known families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Same-edition glyph identity and direct scan pixels controlled; no global replacement was used. No unresolved glyph reading remains in this batch.
 
+
+## T2 Batch 3 — PDF18–22 / printed pp.17–21
+
+**Status: COMPLETE / STRICT-VERIFIED — 5 of 5 pages.**  
+**Corrections applied in this batch: 17.**  
+**Cumulative T2 corrections: 40.**  
+**Unresolved readings after this batch: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 18 | 17 | `எண்ணித்தான்` | `எண்ணித் தான்` |
+| 18 | 17 | `அத்தொகுதியிலே` | `அத் தொகுதியிலே` |
+| 18 | 17 | `ஓர் அறைகூவல்` | `ஓர் அறை கூவல்` |
+| 18 | 17 | `பார்த்து அறைகூவல்` | `பார்த்து அறை கூவல்` |
+| 18 | 17 | `வெற்றி தமதே என்ற அளவிற்கு` | `வெற்றி தமதே என்று அளவிற்கு` |
+| 19 | 18 | `ராஜாஜியின் அறைகூவலை ஏற்று` | `ராஜாஜியின் அறைகூவல் ஏற்று` |
+| 19 | 18 | `பூரண, பெருவாரியான` | `பூரண. பெருவாரியான` |
+| 19 | 18 | `தெரிவிக்கப்பட்டுவிட்டதா` | `தெரிவிக்கப் பட்டுவிட்டதா` — source separates the verbal form rather than silently fusing it |
+| 19 | 18 | `கிளம்பின, நாடெங்கும்` | `கிளம்பின. நாடெங்கும்` |
+| 20 | 19 | `இந்தக் கருத்து,` | `இந்தக் கருத்து.` |
+| 20 | 19 | `நாடாள வந்த மந்திரியார்,` | `நாடாள வந்த மந்திரியார்.` |
+| 20 | 19 | `நம்பிக்கை இல்லையென்றா கூறிவிடுவர்` | `நம்பிக்கை இல்லையென்று கூறிவிடுவர்` |
+| 20 | 19 | double opening quote before `அருப்புக் கோட்டையிலே` | source single opening quote restored |
+| 20 | 19 | `என்மீதும், எனது மந்திரி சபையின்மீதும்` | `என் மீதும், எனது மந்திரி சபையின்மீதும்` |
+| 21 | 20 | double closing quote after `நம்பிக்கையை,` | source single closing quote restored |
+| 22 | 21 | `அந்த அறைகூவலை மக்கள்-அத்தொகுதி` | `அந்த அறைகூவல் மக்கள்-அத்தொகுதி` |
+| 22 | 21 | `அவரது பகிரங்க அறைகூவலின்படி` | `அவரது பகிரங்க அறை கூவலின்படி` |
+
+### Cross-page and syntax adjudication
+
+- PDF20 ends `காங்கிர`; PDF21 begins `சிடம்`. Direct review of both source pages confirms the single word **`காங்கிரசிடம்`**. The page-preserving transcript keeps the physical fragments through T2; T3 will join them in the consolidated reading while retaining provenance.
+- PDF22's unusual `ஆச்சாரியாரின் எதைப் பற்றிய விளக்கந்தேடி...` is directly confirmed and retained.
+- In the same PDF22 paragraph the print reads `அந்த அறைகூவல் மக்கள்-அத்தொகுதி...`, not the smoother `அந்த அறைகூவலை மக்கள்...`.
+
+### Historical-glyph check
+
+All five pages were checked against the historical-glyph guide for the known families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct source pixels and same-edition forms controlled; no global replacement was used. No unresolved glyph reading remains in this batch.
+
 ## Boundary control
 
 - Constituent begins at PDF8 / printed p.7 with the combined source heading குட்டிக் கதைகள்! குரங்காட்டம்!.
@@ -113,4 +151,4 @@ All five pages were checked against the historical-glyph guide for the known fam
 
 ## Next gate
 
-Continue **Tamil T2 — Batch 3: PDF18–22 / printed pp.17–21 / 5 pages**. Compare every line directly against the scan, including the PDF20→21 cross-page `காங்கிர` / `சிடம்` join and the PDF22 unusual syntax. Apply only scan-confirmed corrections to transcription-ta.md, and keep Tamil T3 plus all English work blocked until all 21 pages pass T2.
+Continue **Tamil T2 — final Batch 4: PDF23–28 / printed pp.22–27 / 6 pages**. Compare every line directly against the scan, explicitly adjudicate the PDF23→24 `மற்றவரை` / `யும்` boundary, apply only scan-confirmed corrections to transcription-ta.md, and keep Tamil T3 plus all English work blocked until all 21 pages pass T2.

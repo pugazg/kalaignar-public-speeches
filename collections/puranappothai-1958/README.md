@@ -50,9 +50,9 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 
 - source-gated constituents — **6/6**
 - constituents with Tamil T1 complete — **1/6**
-- constituent 1 — **Tamil T1 FIRST-PASS COMPLETE / 21 of 21; Tamil T2 IN PROGRESS / 10 of 21 strict-verified**
+- constituent 1 — **Tamil T1 FIRST-PASS COMPLETE / 21 of 21; Tamil T2 IN PROGRESS / 15 of 21 strict-verified**
 - constituents 2–6 — **Tamil T1 READY / NOT STARTED**
 - Tamil verified constituents — **0/6**
 - English verified constituents — **0/6**
 
-Exact next gate: constituent 1 — குட்டிக் கதைகள்! குரங்காட்டம்! — **Tamil T2 Batch 3, PDF18–22 / printed pp.17–21**.
+Exact next gate: constituent 1 — குட்டிக் கதைகள்! குரங்காட்டம்! — **Tamil T2 final Batch 4, PDF23–28 / printed pp.22–27**.
