@@ -569,10 +569,10 @@ Repository-level closure is complete. No transcription, translation, review, ver
 - Tamil T1 complete — **1/6**
 - active constituent — குட்டிக் கதைகள்! குரங்காட்டம்!, PDF 8–28 / 21 pages
 - active constituent T1 — **FIRST-PASS COMPLETE / 21/21**
-- active constituent T2 — **IN PROGRESS / 5/21 strict-verified (PDF8–12; 11 corrections / 0 unresolved)**
+- active constituent T2 — **IN PROGRESS / 10/21 strict-verified (PDF8–17; 23 cumulative corrections / 0 unresolved)**
 
 Source-structure controls: PDF29 reads சடுகுடு விளையாட்டா? சவால் சண்டையா?; அரசியல் அரிபரந்தாமன் ... ஆச்சாரியாருக்கு அபயம் is internal to constituent 2; ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! is one constituent.
 
 The user supplied 1953, but the controlling scan prints February 1958; the archive follows the scan.
 
-Exact next gate: Tamil T2 strict visual fidelity audit — constituent 1, **Batch 2 PDF13–17 / printed pp.12–16**.
+Exact next gate: Tamil T2 strict visual fidelity audit — constituent 1, **Batch 3 PDF18–22 / printed pp.17–21**.

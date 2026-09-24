@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF 8–28 / printed pages 7–27 / 21 pages  
-**Current gate:** T2 strict visual fidelity audit in progress — Batch 1 PDF8–12 complete / 5 of 21 pages strict-verified
+**Current gate:** T2 strict visual fidelity audit in progress — Batches 1–2 PDF8–17 complete / 10 of 21 pages strict-verified
 
 ## T1 state
 
@@ -11,19 +11,19 @@ All **21 / 21** constituent pages have a source-led first-pass transcription in 
 
 T1 used the rendered scan as the controlling witness. OCR/parsed text was used only to accelerate locating text and was rejected where it conflicted with visible print. Historical Tamil glyph identity was read into modern Unicode without treating that as permission to modernize spelling, grammar, punctuation, names, or rhetoric.
 
-T1 completion alone was not a verification claim. **PDF8–12 / 5 pages are now T2 strict-verified; PDF13–28 / 16 pages remain pending.** Tamil cannot be consolidated/frozen until every constituent page passes T2.
+T1 completion alone was not a verification claim. **PDF8–17 / 10 pages are now T2 strict-verified; PDF18–28 / 11 pages remain pending.** Tamil cannot be consolidated/frozen until every constituent page passes T2.
 
 ## T1 coverage
 
 | Batch | PDF pages | Printed pages | T1 | T2 |
 |---:|---:|---:|---|---|
 | 1 | 8–12 | 7–11 | complete | strict-verified |
-| 2 | 13–17 | 12–16 | complete | pending |
+| 2 | 13–17 | 12–16 | complete | strict-verified |
 | 3 | 18–22 | 17–21 | complete | pending |
 | 4 | 23–28 | 22–27 | complete | pending |
 
 T1 pages drafted: **21 / 21**.  
-T2 pages strict-verified: **5 / 21**.
+T2 pages strict-verified: **10 / 21**.
 
 ## Source-sensitive T1 notes for T2
 
@@ -68,6 +68,42 @@ PDF8 / printed p.7 required **no substantive correction**.
 
 All five pages were inspected for the known historical families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Character identity was decided from the scan rather than modern visual resemblance. Representative checks include PDF9 `நன்றாக` / `தவறாதவன்` (`றா`) and PDF12 `வாலிபர்களை` (`ளை`). No global replacement was used.
 
+
+## T2 Batch 2 — PDF13–17 / printed pp.12–16
+
+**Status: COMPLETE / STRICT-VERIFIED — 5 of 5 pages.**  
+**Corrections applied in this batch: 12.**  
+**Cumulative T2 corrections: 23.**  
+**Unresolved readings after this batch: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 13 | 12 | `“விபரீதமான ... இதெல்லாம்?”` | `‘விபரீதமான ... இதெல்லாம்?’` — source single-quote punctuation restored |
+| 13 | 12 | `“யோக்கியன்”` | `‘யோக்கியன்’` — source single quotes restored |
+| 14 | 13 | `அர்த்தம் - அவசியம் - தேவை` | `அர்த்தம் - அவசியம்-தேவை` — source punctuation/spacing retained |
+| 15 | 14 | `ஒரு வேடிக்கை நிகழ்ச்சி, வேடிக்கை நிகழ்ச்சி மட்டுமல்ல` | `ஒரு வேடிக்கை நிகழ்ச்சி. வேடிக்கை நிகழ்ச்சி மட்டுமல்ல` |
+| 15 | 14 | `அதுபற்றி மீண்டும் பேசுகிறேன்` | `அது பற்றி மீண்டும் பேசுகிறேன்` — the source prints two words |
+| 16 | 15 | `முதலமைச்சர் ஆகிவிட்டதும்` | `முதலமைச்சர் ஆகி விட்டதும்` |
+| 16 | 15 | `ஏற்படுகின்றன;` | `ஏற்படுகின்றன,` — source comma restored |
+| 16 | 15 | `புதுமெருகேற்றிடப்` | `புதுமெரு கேற்றிடப்` — unusual in-line source spacing retained; not silently normalized |
+| 16 | 15 | `காங்கிரஸ் கட்சி வெற்றி பெற்றது;` | `காங்கிரஸ் கட்சி வெற்றி பெற்றது.` |
+| 17 | 16 | `மூலை முடுக்குகளிலிருந்தெல்லாம்` | `மூலை முடுக்குகளில் இருந்தெல்லாம்` — source prints separate words |
+| 17 | 16 | `நடைபெற்றது` | `நடை பெற்றது` — source line boundary separates two words; not a one-word line-wrap join |
+| 17 | 16 | `பேசும்போது` | `பேசும் போது` — source prints two words across the line boundary |
+
+### Line-wrap adjudication
+
+Two apparent spacing questions were deliberately **not** changed because the scan shows a printer line-wrap splitting one lexical word:
+
+- PDF13 `வருவாரை` / `யெல்லாம்` is retained canonically as `வருவாரையெல்லாம்`.
+- PDF14 `ஆச்சரியப்` / `படத்` is retained canonically as `ஆச்சரியப்படத்`.
+
+This follows the repository rule to join a printer line-wrap only when it clearly splits one word, while retaining genuine source word boundaries such as PDF17 `நடை பெற்றது`.
+
+### Historical-glyph check
+
+All five pages were checked against the historical-glyph guide for the known families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Same-edition glyph identity and direct scan pixels controlled; no global replacement was used. No unresolved glyph reading remains in this batch.
+
 ## Boundary control
 
 - Constituent begins at PDF8 / printed p.7 with the combined source heading குட்டிக் கதைகள்! குரங்காட்டம்!.
@@ -77,4 +113,4 @@ All five pages were inspected for the known historical families `ணா / ணை
 
 ## Next gate
 
-Continue **Tamil T2 — Batch 2: PDF13–17 / printed pp.12–16 / 5 pages**. Compare every line directly against the scan, apply only scan-confirmed corrections to transcription-ta.md, and keep Tamil T3 plus all English work blocked until all 21 pages pass T2.
+Continue **Tamil T2 — Batch 3: PDF18–22 / printed pp.17–21 / 5 pages**. Compare every line directly against the scan, including the PDF20→21 cross-page `காங்கிர` / `சிடம்` join and the PDF22 unusual syntax. Apply only scan-confirmed corrections to transcription-ta.md, and keep Tamil T3 plus all English work blocked until all 21 pages pass T2.
