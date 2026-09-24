@@ -1,6 +1,6 @@
 # குட்டிக் கதைகள்! குரங்காட்டம்!
 
-**Status: Tamil `verified-complete` / FROZEN — English E1 IN PROGRESS — 5/21 translated**
+**Status: Tamil `verified-complete` / FROZEN — English E1 COMPLETE 21/21 / E2 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -23,15 +23,16 @@ Source-defined combined heading on PDF8. The three illustrative குட்ட�
 - T2 strict visual fidelity audit — **COMPLETE / PASS — 21 of 21 pages strict-verified (PDF8–28)**
 - T3 consolidation / freeze — **COMPLETE / PASS — 55/55 T2 corrections consolidated; 0 repairs / 0 unresolved**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **IN PROGRESS — Batch 1 PDF8–12 COMPLETE / 5 of 21 pages**
+- English E1 — **COMPLETE — 21 of 21 pages / PDF8–28**
+- English E2 fidelity review — **READY / NOT STARTED**
 
 Canonical T1 working transcript: `transcription-ta.md`.
 T1 source-fidelity notes and strict-T2 priorities: `audit.md`.
 
 T2 Batches 1–4 (PDF8–28) are **COMPLETE / PASS — 21/21**, with **55 cumulative scan-confirmed corrections / 0 unresolved**. T3 confirmed all 55 corrections, exact ordered page coverage, both cross-page joins (`காங்கிரசிடம்`, `மற்றவரையும்`), and no stale superseded readings. T3 introduced **0 additional source corrections / 0 consolidation repairs**.
 
-English E1 Batch 1 is complete for **PDF8–12 / printed pp.7–11**. Translation source was the frozen Tamil layer; E2/E3 remain blocked.
+English E1 is now **COMPLETE — 21/21 pages (PDF8–28 / printed pp.7–27)**. All remaining pages PDF13–28 were translated from the frozen Tamil layer; E1 introduced **0 Tamil changes**. Source-sensitive irregularities and both recorded page-boundary joins are handled transparently in `translation-en.md`.
 
-**Next gate:** English **E1 Batch 2 — PDF13–17 / printed pp.12–16 / 5 pages**.
+**Next gate:** English **E2 fidelity review — Batch 1 PDF8–12 / printed pp.7–11 / 5 pages**.
 
 The source scan remains the authority for any later Tamil defect adjudication. English must translate from the frozen Tamil layer and must not silently normalize source wording.
