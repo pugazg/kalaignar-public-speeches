@@ -49,13 +49,13 @@
     "tamil_transcription": "verified-complete",
     "tamil_visual_audit": "complete",
     "tamil_consolidation": "complete",
-    "english_translation": "first-pass-complete",
-    "english_translation_review": "ready-not-started",
+    "english_translation": "fidelity-review-in-progress",
+    "english_translation_review": "in-progress",
     "english_translation_final_verification": "blocked-pending-review",
     "repository_closure": "not-started",
-    "archive_status": "active-english-e2-ready",
+    "archive_status": "active-english-e2-in-progress",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "English E2 fidelity review — Batch 1 PDF29–33 / printed pp.28–32",
+    "next_gate": "English E2 fidelity review — Batch 2 PDF34–38 / printed pp.33–37",
     "tamil_transcription_pages_drafted": 17,
     "tamil_transcription_through_pdf_page": 45,
     "tamil_transcription_through_printed_page": 44,
@@ -80,6 +80,13 @@
     "english_e1_batch_1": "complete-pdf-29-to-33",
     "english_e1_batch_2": "complete-pdf-34-to-38",
     "english_e1_batch_3": "complete-pdf-39-to-43",
-    "english_e1_batch_4": "complete-pdf-44-to-45"
+    "english_e1_batch_4": "complete-pdf-44-to-45",
+    "english_e2_pages_reviewed": 5,
+    "english_e2_through_pdf_page": 33,
+    "english_e2_through_printed_page": 32,
+    "english_e2_batches_complete": 1,
+    "english_e2_corrections": 2,
+    "english_e2_unresolved": 0,
+    "english_e2_date": "2026-09-25"
   }
 }

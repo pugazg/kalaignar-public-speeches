@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா? — English Translation
 
-> **Status:** English E1 first-pass translation COMPLETE — 17/17 pages translated (PDF29–45 / printed pp.28–44); English E2 fidelity review READY  
+> **Status:** English E1 COMPLETE — 17/17; English E2 fidelity review IN PROGRESS — Batch 1 PDF29–33 COMPLETE / PASS — 5/17 pages reviewed, 2 corrections / 0 unresolved  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Do not independently validate or endorse source political claims.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
@@ -24,7 +24,7 @@ After this, for some time, he served as a minister without portfolio in the Cent
 
 ### PDF page 30 — printed page 29
 
-After Sardar Vallabhbhai Patel died, the Home Ministry that he had held was given to Achariyar.
+After Sardar Vallabhbhai Patel died, the post of Home Minister that he had held was given to Achariyar.
 
 During the past five years, Achariyar obtained all the posts mentioned above.
 
@@ -56,7 +56,7 @@ Now Achariyar's name was once again spoken of strongly, by many.
 
 ### PDF page 32 — printed page 31
 
-Achariyar's followers and helpless Congressmen said—proclaimed—that if Achariyar were chosen leader of the Congress Party in the Madras Legislative Assembly, he would somehow manage the situation through his skill and tactical devices and form a Congress ministry.
+Achariyar's sycophants and helpless Congressmen said—proclaimed—that if Achariyar were chosen leader of the Congress Party in the Madras Legislative Assembly, he would somehow manage the situation through his skill and tactical devices and form a Congress ministry.
 
 Some Congress leaders went to Achariyar and asked him to accept the leadership of the Legislative Congress Party and form a Congress ministry.
 
