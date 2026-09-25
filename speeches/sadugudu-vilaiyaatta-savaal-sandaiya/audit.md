@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF29–45 / printed pp.28–44 / 17 pages  
-**Current gate:** Tamil T2 strict visual audit **COMPLETE / PASS — PDF29–45 / 17/17 pages; 13 corrections / 0 unresolved**; Tamil T3 consolidation/freeze READY
+**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
 
 ## T1 method
 
@@ -204,10 +204,55 @@ Both pages were reviewed against the historical-glyph guide. Direct rendered sou
 - final body ending — `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS**
 - Tamil T2 — **COMPLETE / PASS**
 
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **13/13 PASS** |
+| Speech-page coverage | **PDF29–45 = 17/17, each exactly once, in order** |
+| Printed-page mapping | **pp.28–44 continuous / PASS** |
+| Recorded cross-page continuations | **5/5 PASS** |
+| Stale superseded T1 readings | **none found** |
+| Source-sensitive retained forms / internal heading | **PASS** |
+| Final body ending | `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| T3 unresolved | **0** |
+
+### T3 boundary reconciliation
+
+All five recorded page-boundary continuations remain page-faithful and semantically continuous:
+
+- PDF32→33 — `விரும்புகின்றார்களா / என்று அறிந்து வாருங்கள்...` — **PASS**
+- PDF34→35 — `பேசிடும்போது, / இந்தக் காரணங்கள்...` — **PASS**
+- PDF38→39 — `உதவியாக / இருப்பார்...` — **PASS**
+- PDF39→40 — `ஆச்சாரியாரிடம் சென்று / முறையிட...` — **PASS**
+- PDF44→45 — `கண் மூடிக்கொண்டு / கவனியாது...` — **PASS**
+
+Physical page segmentation remains under the original PDF headings; T3 does not erase page-boundary provenance.
+
+### T3 source-sensitive retained controls
+
+- PDF29 title — **சடுகுடு விளையாட்டா? / சவால் சண்டையா?**
+- PDF30 — `பதவிகள் யெல்லாம்`, `எழுதிக்கொண் டிருந்தார்`, `பங்குகொள்ள வில்லை`
+- PDF31 — `துடி துடித்தனர்`
+- PDF32 — `ஆச்சாரியைச்`
+- PDF33 — unusual `மேல்சபை அங்கத்தினராக, அவர், ஆச்சாரியார்...`
+- PDF35 — `ஆச்சாரியார். ஏதாவது...`, `அது முடியாது என்று.`, `குடுகுடு கிழவரானால்`
+- PDF37 internal heading — **அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக் களித்த அபயம்!**
+- PDF38 — `நினைவில் நிறுத்தி, நிறுத்துப் பார்த்திடும்`, `கவர்னராகப் ஸ்ரீ பிரகாசாவை`, `மெஜாரிட்டி யாகவுள்ள`, `இதுமட்டு மல்ல`
+- PDF42 — `போரிட நாளும் குறித்தாய் விட்டது`, `காத்துக்கொண் டிருந்தான்`
+- PDF43 unusual `...பாசாங்கு செய்தார், மாதவன், மாமன்னன் துரியோதனன் வந்ததைக் கவனிக்காது போலவே!`
+- PDF45 terminal question — `ஜனநாயகக் கொலையன்றி வேறென்ன?`
+
+### Tamil freeze
+
+Tamil is now **`verified-complete` / FROZEN** for PDF29–45 / printed pp.28–44.
+
+Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
+
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF29–45 / 17 pages**.
+Proceed to **English E1 — Batch 1 PDF29–33 / printed pp.28–32 / 5 pages**, translating only from the frozen Tamil `transcription-ta.md`.
 
-T3 must reconcile all **13/13** T2 corrections into the current transcript, confirm PDF29–45 coverage exactly once and in order, verify the five recorded cross-page continuations, search for stale superseded T1 readings, and freeze Tamil only if no unresolved issue remains.
-
-Do not begin English until Tamil T3 passes and the Tamil layer is frozen.
+Do not begin English E2/E3 until E1 is complete.

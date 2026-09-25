@@ -9,36 +9,44 @@ Archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`
 - parent — புராணப்போதை (1958 source scan)
 - constituent — **2/6**
 - source range — **PDF29–45 / printed pp.28–44 / 17 pages**
-- Tamil T1 — **FIRST-PASS COMPLETE — 17/17**
+- Tamil T1 — **COMPLETE — 17/17**
 - Tamil T2 — **COMPLETE / PASS — 17/17**
-- T2 batches — **4/4 COMPLETE**
 - T2 cumulative corrections — **13**
 - T2 unresolved — **0**
-- Tamil T3 — **READY / NOT STARTED**
-- English — blocked pending Tamil freeze
+- Tamil T3 — **COMPLETE / PASS**
+- T3 correction instances reconciled — **13/13**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- T3 unresolved — **0**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
+- English E2/E3 — blocked pending E1/review
 - predecessor constituent 1 — **FINAL CLOSED / RELEASE READY**
 
-Canonical working transcript: `transcription-ta.md`.  
+Canonical frozen Tamil: `transcription-ta.md`.  
 Tamil audit record: `audit.md`.
 
-## T2 final checkpoint
+## T3 durable checkpoint
 
-- Batch 1 PDF29–33 — **PASS / 1 correction**
-- Batch 2 PDF34–38 — **PASS / 7 corrections**
-- Batch 3 PDF39–43 — **PASS / 5 corrections**
-- Final Batch PDF44–45 — **PASS / 0 corrections**
-- total — **17/17 pages / 13 corrections / 0 unresolved**
-- PDF44 quotation punctuation and mythology-name sequence — **PASS**
-- PDF44→45 continuation `கண் மூடிக்கொண்டு / கவனியாது...` — **PASS**
-- PDF45 `T. பிரகாசம்`, `மேல் சபை`, and source-sensitive final analogy — **PASS**
-- terminal line `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS**
-- historical-glyph review — **PASS**
-- no constituent-specific speech date or venue inferred
+- PDF29–45 coverage — **17/17 exactly once / ordered**
+- printed pp.28–44 — **continuous / PASS**
+- all 13 T2 corrections — **present**
+- stale superseded T1 readings — **none found**
+- PDF32→33, 34→35, 38→39, 39→40 and 44→45 continuations — **5/5 PASS**
+- PDF37 internal heading remains inside constituent 2
+- source-sensitive historical spellings, spacing, punctuation and unusual grammar — **retained**
+- final line `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS**
+- Tamil frozen — **Yes**
+- no speech date or item-specific venue inferred
+
+## Freeze rule
+
+Do not alter the frozen Tamil for stylistic polishing, modernization, normalization or translation convenience. A later Tamil change requires documented source evidence and dependent English re-verification.
 
 ## Exact next activity
 
-Tamil **T3 consolidation / freeze — PDF29–45 / printed pp.28–44 / 17 pages**.
+English **E1 Batch 1 — PDF29–33 / printed pp.28–32 / 5 pages**.
 
-Reconcile all **13/13** T2 corrections, verify each page occurs exactly once and in order, confirm the recorded cross-page continuations, ensure no stale superseded T1 readings remain, and record any consolidation repair or unresolved item. Freeze Tamil only if all checks pass.
+Create/start `translation-en.md` and translate only from the frozen Tamil layer. Preserve page correspondence, political rhetoric as source rhetoric, repetitions, names/titles, source-sensitive wording and unusual constructions transparently.
 
-Do not begin English in the same activity.
+Do not begin E2 or E3.

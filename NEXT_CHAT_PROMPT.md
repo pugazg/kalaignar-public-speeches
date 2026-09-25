@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 Tamil T3 consolidation / freeze
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 English E1 Batch 1
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,35 +13,37 @@ SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - active constituent — **2/6**
 - title — `சடுகுடு விளையாட்டா? சவால் சண்டையா?`
 - source range — **PDF29–45 / printed pp.28–44 / 17 pages**
-- Tamil T1 — **FIRST-PASS COMPLETE — 17/17**
-- Tamil T2 — **COMPLETE / PASS — 17/17**
-- T2 batches — **4/4 COMPLETE**
-- T2 cumulative corrections — **13**
-- T2 unresolved — **0**
-- Tamil T3 — **READY / NOT STARTED**
-- English — blocked pending Tamil freeze
+- Tamil T1 — **COMPLETE — 17/17**
+- Tamil T2 — **COMPLETE / PASS — 17/17 / 13 corrections / 0 unresolved**
+- Tamil T3 — **COMPLETE / PASS**
+- T3 correction instances reconciled — **13/13**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- T3 unresolved — **0**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
+- English E2/E3 — blocked
 
-## T2 durable correction summary
+Frozen Tamil: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/transcription-ta.md`  
+Tamil audit: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/audit.md`
 
-- Batch 1 PDF29–33 — **1 correction**
-- Batch 2 PDF34–38 — **7 corrections**
-- Batch 3 PDF39–43 — **5 corrections**
-- Final Batch PDF44–45 — **0 corrections**
-- cumulative — **13**
-- unresolved — **0**
+## T3 durable controls
 
-Final-batch checks passed for PDF44 quotation punctuation and mythology names, the PDF44→45 continuation `கண் மூடிக்கொண்டு / கவனியாது...`, PDF45 `T. பிரகாசம்`, `மேல் சபை`, the final analogy, and terminal line `ஜனநாயகக் கொலையன்றி வேறென்ன?`.
+- PDF29–45 coverage — **17/17 exactly once and ordered**
+- printed pp.28–44 — **continuous**
+- all 13 T2 corrections present
+- stale superseded T1 readings absent
+- recorded cross-page continuations PDF32→33, 34→35, 38→39, 39→40 and 44→45 — **5/5 PASS**
+- PDF37 internal heading remains within constituent 2
+- terminal `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS**
+- no constituent-specific speech date or venue is established
+
+## English rules
+
+Translate only from the frozen Tamil layer, not OCR, outside editions or historical reconstruction. Preserve page correspondence, repetitions, polemical rhetoric as source rhetoric, names/titles, unusual constructions and source-sensitive wording. Do not independently validate or endorse source political claims. If a frozen-Tamil form is difficult or irregular, translate transparently and add a concise translator/source note only when needed.
 
 ## Exact next activity
 
-Tamil **T3 consolidation / freeze — PDF29–45 / printed pp.28–44 / 17 pages**.
+English **E1 Batch 1 — PDF29–33 / printed pp.28–32 / 5 pages**.
 
-1. Confirm every PDF page 29–45 appears exactly once and in order.
-2. Reconcile all **13/13** T2 corrections into `transcription-ta.md`.
-3. Confirm stale superseded T1 readings are absent.
-4. Recheck recorded cross-page continuations: PDF32→33, 34→35, 38→39, 39→40 and 44→45.
-5. Confirm source-sensitive retained forms and PDF37 internal heading.
-6. Record any T3 consolidation repair or unresolved item.
-7. If all checks pass, mark Tamil `verified-complete` / FROZEN and unblock English E1.
-
-Do not begin English in the same activity.
+Create/start `translation-en.md` with explicit page correspondence. Do not begin E2 or E3.

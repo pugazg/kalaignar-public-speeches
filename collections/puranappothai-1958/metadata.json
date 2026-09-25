@@ -49,14 +49,14 @@
     "constituent_items_mapped": 6,
     "constituent_items_source_gated": 6,
     "constituent_items_t1_complete": 2,
-    "constituent_items_tamil_verified": 1,
+    "constituent_items_tamil_verified": 2,
     "constituent_items_english_verified": 1,
     "constituent_items_archived": 1,
     "active_constituent_number": 2,
     "active_constituent_slug": "sadugudu-vilaiyaatta-savaal-sandaiya",
     "active_constituent_title_ta": "சடுகுடு விளையாட்டா? சவால் சண்டையா?",
-    "next_gate": "Tamil T3 consolidation / freeze — constituent 2 / PDF29–45 / 17 pages",
-    "collection_status": "active-constituent-2-t3-ready",
+    "next_gate": "English E1 translation — constituent 2 / Batch 1 PDF29–33",
+    "collection_status": "active-constituent-2-english-e1-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -133,7 +133,14 @@
       "tamil_t2_corrections": 13,
       "tamil_t2_unresolved": 0,
       "tamil_t2_batches_complete": 4,
-      "tamil_t3": "ready-not-started"
+      "tamil_t3": "complete-pass",
+      "tamil_verified": "verified-complete",
+      "tamil_frozen": true,
+      "t3_t2_corrections_reconciled": 13,
+      "t3_additional_source_corrections": 0,
+      "t3_consolidation_repairs": 0,
+      "t3_unresolved": 0,
+      "english_e1": "ready-not-started"
     },
     {
       "number": 3,
