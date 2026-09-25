@@ -55,8 +55,8 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "sadugudu-vilaiyaatta-savaal-sandaiya",
     "active_constituent_title_ta": "சடுகுடு விளையாட்டா? சவால் சண்டையா?",
-    "next_gate": "English E2 fidelity review — constituent 2 / Batch 2 PDF34–38",
-    "collection_status": "active-constituent-2-english-e2-in-progress",
+    "next_gate": "English E3 final verification — constituent 2 / PDF29–45 / 17 pages",
+    "collection_status": "active-constituent-2-english-e3-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -148,13 +148,14 @@
       "english_e1_batch_2": "complete-pdf-34-to-38",
       "english_e1_batch_3": "complete-pdf-39-to-43",
       "english_e1_batch_4": "complete-pdf-44-to-45",
-      "english_e2": "in-progress",
-      "english_e2_pages_reviewed": 5,
-      "english_e2_through_pdf_page": 33,
-      "english_e2_through_printed_page": 32,
-      "english_e2_batches_complete": 1,
-      "english_e2_corrections": 2,
-      "english_e2_unresolved": 0
+      "english_e2": "complete-pass",
+      "english_e2_pages_reviewed": 17,
+      "english_e2_through_pdf_page": 45,
+      "english_e2_through_printed_page": 44,
+      "english_e2_batches_complete": 4,
+      "english_e2_corrections": 7,
+      "english_e2_unresolved": 0,
+      "english_e3": "ready-not-started"
     },
     {
       "number": 3,

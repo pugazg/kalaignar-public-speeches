@@ -13,31 +13,42 @@ Archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`
 - Tamil T2 — **13 corrections / 0 unresolved**
 - Tamil T3 — **COMPLETE / PASS**
 - English E1 — **COMPLETE / 17/17**
-- English E2 — **IN PROGRESS — 5/17 pages**
-- E2 Batch 1 — **PDF29–33 COMPLETE / PASS**
-- E2 cumulative corrections — **2**
+- English E2 — **COMPLETE / PASS / 17/17**
+- E2 corrections — **7**
 - E2 unresolved — **0**
-- English E3 — blocked pending E2
+- English E3 — **READY / NOT STARTED**
 - predecessor constituent 1 — **FINAL CLOSED / RELEASE READY**
 
 Frozen Tamil: `transcription-ta.md`.  
 English translation: `translation-en.md`.  
 English fidelity ledger: `translation-review.md`.
 
-## E2 Batch 1 durable checkpoint
+## E2 durable checkpoint
 
-- PDF29–33 — **5/5 PASS**
-- PDF30 — `உள்நாட்டிலாகா மந்திரி பதவி`: **“Home Ministry” → “the post of Home Minister”**
-- PDF32 — `ஆச்சாரியாரின் அடிவருடிகளும்`: **“followers” → “sycophants”**, restoring source polemical force
-- PDF29 / 31 / 33 — no confirmed English correction
-- PDF32→33 continuation — **PASS**
+All **17/17** English pages were compared directly against frozen Tamil.
+
+Corrections:
+1. PDF30 — Home Minister post terminology.
+2. PDF32 — restored `அடிவருடிகள்` polemical force as “sycophants”.
+3. PDF34 — restored `நியாயம் கற்பித்துப்` as inventing a justification.
+4. PDF35 — corrected equal-strength / age comparison wording.
+5. PDF36 — corrected `கேளாக் காதாக` to “turn a deaf ear”.
+6. PDF41 — restored the repeated *Vyasa's Feast* / Bharata emphasis.
+7. PDF44 — attached the hearsay marker to the source's sending-away action.
+
+Controls:
+- page coverage / order — **17/17 PASS**
 - omissions / additions / reversals — **0 unresolved**
-- frozen Tamil changes — **0**
+- five recorded page-boundary continuations — **PASS**
+- three translator/source notes — **retained**
+- PDF37 internal heading — **retained**
+- names / titles / source-sensitive forms — **PASS**
+- frozen Tamil changes during E2 — **0**
 
 ## Exact next activity
 
-English **E2 Batch 2 — PDF34–38 / printed pp.33–37 / 5 pages**.
+English **E3 final end-to-end Tamil→English verification — PDF29–45 / printed pp.28–44 / 17 pages**.
 
-Compare every English page directly against frozen Tamil for fidelity, including the PDF34 open quotation, PDF34→35 continuation, source-sensitive election rhetoric, PDF37 internal heading, name/title handling, and PDF38→39 continuation. Apply only confirmed English corrections and update `translation-review.md`.
+Re-read all English pages against frozen Tamil. Confirm all 7 E2 corrections are present, stale E1 wording is absent, page/paragraph continuity is intact, all five recorded page-boundary continuations and three translator/source notes survive, and no omission/addition/reversal remains.
 
-Do not begin E3.
+Only after E3 passes may English be marked `verified-complete`.

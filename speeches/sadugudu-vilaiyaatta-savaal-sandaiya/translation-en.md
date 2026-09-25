@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா? — English Translation
 
-> **Status:** English E1 COMPLETE — 17/17; English E2 fidelity review IN PROGRESS — Batch 1 PDF29–33 COMPLETE / PASS — 5/17 pages reviewed, 2 corrections / 0 unresolved  
+> **Status:** English E1 COMPLETE — 17/17; English E2 fidelity review COMPLETE / PASS — 17/17, 7 corrections / 0 unresolved; English E3 final verification READY  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Do not independently validate or endorse source political claims.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
@@ -84,7 +84,7 @@ Whatever the circumstances, the Governor invited Rajagopalachari to form a minis
 
 Achariyar too used his skills and Chanakyan tactical devices, pulled some people from the anti-Congress camp into Congress, strengthened his party—Congress—and formed a Congress ministry.
 
-Thus Achariyar, who had not stood for election and had instead become a nominated member of the Upper House, speaks as though giving a justification for his nomination, saying that he cannot stand for election and that his age is the reason!
+Thus Achariyar, who had not stood for election and had instead become a nominated member of the Upper House, speaks, inventing a justification for his nomination, saying that he cannot stand for election and that his age is the reason!
 
 ‘As for me, I have grown old. I cannot run about campaigning in an election or attend to election work. Otherwise I too could stand in any constituency I wished and win. Therefore there is no use in talking about my nomination (as a member of the Upper House), nor is it right, Achariyar has spoken to this effect!
 
@@ -106,7 +106,7 @@ To say that this cannot be done and cite age as the reason is hardly wisdom; it 
 
 What is an election? A game of sadugudu, requiring bodily strength and youthful age?
 
-Is an election a wrestling match, like one between King Kong and Dara Singh, requiring equal strength and attention to a certain age?
+Is an election a wrestling match, like one between King Kong and Dara Singh, where equal strength and, to some extent, age have to be taken into account?
 
 If, because his age has advanced, he is such a doddering old man that he cannot stand in an election, work and bear the fatigue, why should one not ask how he can administer the country?
 
@@ -118,7 +118,7 @@ Is it proper for Achariyar to think that, by talking about this and that and tel
 
 Achariyar, who speaks of democracy, democracy! Listen, listen to the voice of the people asking, “If you have manliness, stand for election and see!”
 
-Is it not your custom at all such times to be a deaf ear? Will you make an exception only now?
+Is it not your custom at all such times to turn a deaf ear? Will you make an exception only now?
 
 Do not forget that even a clever man's lie lasts only eight days, and do not, in haste, tell little stories, yawn and make merry, Achariyar! This is what has to be said.
 
@@ -185,7 +185,7 @@ Even if members of other parties had full strength, they were ignored; the Gover
 
 Governor Sri Prakasa is a Congressman. Has not his action brought the people to a position where they must think that, even while serving as Governor, his heart and feelings did not act free of party attachment? Why this partiality? Where is democracy?
 
-This incident reminds me of *Vyasa's Feast*—of the Bharata—which Achariyar so often serves!
+This incident reminds me of *Vyasa's Feast*, which Achariyar so often serves. It reminds me of the Bharata itself!
 
 Yes, on this occasion it brings to my mind the Bharata that believers repeatedly praise, praise again and worship!
 
@@ -229,7 +229,7 @@ Madhavan turned and, pretending only then to have seen Duryodhana, welcomed him 
 
 Duryodhana explained why he had come and said that Gopala Krishna must come as an ally on his side, and that he had arrived first and had been waiting even before Arjuna.
 
-“Oh, poor fellow, did you come earlier? I did not know! Did you sit at the head side? When I awoke, Arjuna, who was at my feet, was the first person I saw. He was also the first to ask me for support. How can I change the word I first gave him? I sincerely regret that I cannot come to support you,” he is said to have replied, pretending to be sorry, and sent him away—that reincarnation of Maal, Mayon, Madhavan, Yadavan, Gopalan, Krishnan, Kannan.
+“Oh, poor fellow, did you come earlier? I did not know! Did you sit at the head side? When I awoke, Arjuna, who was at my feet, was the first person I saw. He was also the first to ask me for support. How can I change the word I first gave him? I sincerely regret that I cannot come to support you,” he said, pretending to be sorry, and is said to have sent him away—that reincarnation of Maal, Mayon, Madhavan, Yadavan, Gopalan, Krishnan, Kannan.
 
 This is one incident in the Bharata story!
 
