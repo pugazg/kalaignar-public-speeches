@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF29–45 / printed pp.28–44 / 17 pages  
-**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
+**Current gate:** **PASS / FINAL CLOSED / RELEASE READY** — Tamil `verified-complete` / FROZEN; English `verified-complete`
 
 ## T1 method
 
@@ -251,8 +251,19 @@ Tamil is now **`verified-complete` / FROZEN** for PDF29–45 / printed pp.28–4
 
 Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
 
-## Next gate
+## Final archive state
 
-Proceed to **English E1 — Batch 1 PDF29–33 / printed pp.28–32 / 5 pages**, translating only from the frozen Tamil `transcription-ta.md`.
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
+- Tamil — **`verified-complete` / FROZEN**
+- Tamil T2 corrections — **13**
+- Tamil unresolved — **0**
+- English E1/E2/E3 — **COMPLETE / PASS**
+- English E2 corrections — **7**
+- English E3 additional corrections — **0**
+- English unresolved — **0**
+- English — **`verified-complete`**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- final closure report — `FINAL_CLOSURE.md`
 
-Do not begin English E2/E3 until E1 is complete.
+No routine next gate remains for this constituent. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.

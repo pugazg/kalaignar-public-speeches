@@ -4,50 +4,41 @@ Repository: `pugazg/kalaignar-public-speeches`
 Branch: `main`  
 Archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`
 
-## Durable state
+## Final durable state
+
+**PASS / FINAL CLOSED / RELEASE READY**
 
 - parent — புராணப்போதை (1958 source scan)
 - constituent — **2/6**
 - source range — **PDF29–45 / printed pp.28–44 / 17 pages**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
 - Tamil — **`verified-complete` / FROZEN**
-- Tamil T2 — **13 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS**
+- Tamil T2 corrections — **13**
+- Tamil T3 additional source corrections — **0**
+- Tamil T3 consolidation repairs — **0**
+- Tamil unresolved — **0**
 - English E1 — **COMPLETE / 17/17**
 - English E2 — **COMPLETE / PASS / 17/17**
-- E2 corrections — **7**
-- E2 unresolved — **0**
+- English E2 corrections — **7**
 - English E3 — **COMPLETE / PASS / 17/17**
-- E3 additional corrections — **0**
-- E3 unresolved — **0**
+- English E3 additional corrections — **0**
+- English unresolved — **0**
 - English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
-- predecessor constituent 1 — **FINAL CLOSED / RELEASE READY**
+- repository closure — **COMPLETE / PASS**
+- pending routine work — **0**
+- final report — `FINAL_CLOSURE.md`
 
-Frozen Tamil: `transcription-ta.md`.  
-English translation: `translation-en.md`.  
-English fidelity/final-verification ledger: `translation-review.md`.
+## Source-sensitive controls retained
 
-## E3 durable checkpoint
+- PDF29 source title — **சடுகுடு விளையாட்டா? சவால் சண்டையா?**
+- PDF37 **அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக் களித்த அபயம்!** remains an internal heading, not a separate constituent.
+- Five recorded cross-page continuations — **5/5 PASS**.
+- Three English translator/source notes — **3/3 retained**.
+- `ஸ்ரீ பிரகாசம்` / `பிரகாசா` source-form distinction remains unreconciled externally.
+- `போரிட நாளும் குறித்தாய் விட்டது` remains frozen in Tamil with transparent English note.
+- speech date — **not established / not inferred**
+- item-specific venue — **not established / not inferred**
 
-- English page headings PDF29–45 — **17/17 exactly once and ordered**
-- printed-page mapping pp.28–44 — **PASS**
-- Tamil/English substantive paragraph counts by page — **PASS**
-- all **7 E2 corrections** — present
-- stale E1 wording — none
-- five recorded page-boundary continuations — **5/5 PASS**
-- three translator/source notes — **3/3 retained**
-- PDF37 internal heading — retained inside constituent 2
-- omissions / unsupported additions / reversals — none found
-- names / titles / source-sensitive forms — **PASS**
-- rhetorical force / repetition — **PASS**
-- E3 additional corrections — **0**
-- E3 unresolved — **0**
-- frozen Tamil changes during E3 — **0**
+## Reopen policy
 
-## Exact next activity
-
-Proceed to **repository closure / archival handover for constituent 2**.
-
-Run final consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection controls. Create the final closure record if all checks pass, mark constituent 2 fully archived, then advance the parent collection to constituent 3 `மீண்டும் கிளைவ் ?` Tamil T1.
-
-Do not reopen Tamil or English unless new source evidence or a documented substantive fidelity defect is found.
+No routine next activity remains. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect. Do not reopen for stylistic polishing, modernization, normalization or translation-driven rewriting.

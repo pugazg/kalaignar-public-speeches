@@ -1,6 +1,6 @@
 # மீண்டும் கிளைவ் ?
 
-**Status: ONBOARDED / SOURCE-GATED / Tamil T1 READY**
+**Status: ACTIVE / SOURCE-GATED / Tamil T1 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -17,5 +17,5 @@ Source / duplicate / boundary gate: PASS / COMPLETE.
 Speech date: not established. Item-specific venue: not established.
 Direct source heading on PDF46.
 
-Next gate: Tamil T1 transcription — PDF46–51.
+Next gate: **Tamil T1 transcription — PDF46–51 / printed pp.45–50 / all 6 pages**.
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.

@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா?
 
-**Status: Tamil `verified-complete` / FROZEN — English `verified-complete` / E1-E3 COMPLETE-PASS — repository closure READY**
+**Status: PASS / FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -28,7 +28,8 @@ PDF29 reads சவால் சண்டையா?, not the supplied variant ச
 - English E2 fidelity review — **COMPLETE / PASS — PDF29–45 / 17/17 pages; 7 corrections / 0 unresolved**
 - English E3 final verification — **COMPLETE / PASS — PDF29–45 / 17/17 pages; 0 additional corrections / 0 unresolved**
 - English — **`verified-complete`**
-- Repository closure — **READY / NOT STARTED**
+- Repository closure — **COMPLETE / PASS**
+- Archive — **FINAL CLOSED / RELEASE READY**
 - canonical frozen Tamil — `transcription-ta.md`
 - Tamil audit record — `audit.md`
 - English first-pass translation — `translation-en.md`
@@ -39,6 +40,8 @@ English E1 is now **COMPLETE — 17/17 pages (PDF29–45 / printed pp.28–44)**
 
 English E3 is now **COMPLETE / PASS — 17/17**, with **0 additional corrections / 0 unresolved** and **0 Tamil changes**. English is now **`verified-complete`**.
 
-**Next gate:** **Repository closure / archival handover for constituent 2**.
+Final report: `FINAL_CLOSURE.md`.
+
+No routine work remains for this constituent. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.
