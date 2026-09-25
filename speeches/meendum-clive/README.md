@@ -1,6 +1,6 @@
 # மீண்டும் கிளைவ் ?
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE 6/6 / Tamil T2 READY**
+**Status: ACTIVE — Tamil T1 COMPLETE 6/6 / Tamil T2 COMPLETE-PASS 6/6 / Tamil T3 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -21,14 +21,14 @@ Direct source heading on PDF46.
 
 - Tamil T1 — **FIRST-PASS COMPLETE — 6/6 pages / PDF46–51**
 - explicit unresolved T1 readings — **0**
-- Tamil T2 strict visual audit — **READY / NOT STARTED**
-- Tamil T3 — blocked pending T2
+- Tamil T2 strict visual audit — **COMPLETE / PASS — PDF46–51 / 6/6 pages; 12 corrections / 0 unresolved**
+- Tamil T3 consolidation/freeze — **READY / NOT STARTED**
 - English — blocked pending Tamil freeze
 - working transcript — `transcription-ta.md`
 - T1/T2 audit record — `audit.md`
 
 T1 used direct rendered source pages as authority; OCR/parsed text was only an aid. The PDF48→49 and PDF50→51 sentence continuations are recorded for T2.
 
-**Next gate:** Tamil **T2 strict visual audit — PDF46–51 / printed pp.45–50 / all 6 pages**.
+**Next gate:** Tamil **T3 consolidation / freeze — PDF46–51 / printed pp.45–50 / 6 pages**.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.
