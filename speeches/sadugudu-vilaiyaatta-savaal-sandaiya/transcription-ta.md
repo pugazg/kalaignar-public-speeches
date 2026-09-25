@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா? — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 17/17 pages; Tamil T2 IN PROGRESS — Batches 1–3 PDF29–43 COMPLETE / PASS — 15/17 pages audited, 13 cumulative corrections / 0 unresolved  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — 17/17 pages; Tamil T2 COMPLETE / PASS — 17/17 pages audited, 13 corrections / 0 unresolved; Tamil T3 consolidation/freeze READY  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0

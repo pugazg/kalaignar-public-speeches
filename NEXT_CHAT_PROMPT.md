@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 Tamil T2 Final Batch PDF44–45
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 Tamil T3 consolidation / freeze
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,29 +14,34 @@ SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - title — `சடுகுடு விளையாட்டா? சவால் சண்டையா?`
 - source range — **PDF29–45 / printed pp.28–44 / 17 pages**
 - Tamil T1 — **FIRST-PASS COMPLETE — 17/17**
-- Tamil T2 Batch 1 — **PDF29–33 COMPLETE / PASS — 1 correction**
-- Tamil T2 Batch 2 — **PDF34–38 COMPLETE / PASS — 7 corrections**
-- Tamil T2 Batch 3 — **PDF39–43 COMPLETE / PASS — 5 corrections**
-- T2 pages audited — **15/17**
+- Tamil T2 — **COMPLETE / PASS — 17/17**
+- T2 batches — **4/4 COMPLETE**
 - T2 cumulative corrections — **13**
 - T2 unresolved — **0**
-- Tamil T3 — blocked pending T2
+- Tamil T3 — **READY / NOT STARTED**
 - English — blocked pending Tamil freeze
 
-## Batch 3 corrections
+## T2 durable correction summary
 
-- PDF41 — full stop restored after `காங்கிரஸ்காரர்`.
-- PDF41 — `மக்களை` corrected to source `மக்கள்`.
-- PDF41 — full stop restored after `வியாசர் விருந்தைத்தான்`.
-- PDF42 — source single quotes restored around `தூக்கத்திலிருந்து ... எழட்டும்`.
-- PDF43 — full stop restored after `மனமில்லை`.
+- Batch 1 PDF29–33 — **1 correction**
+- Batch 2 PDF34–38 — **7 corrections**
+- Batch 3 PDF39–43 — **5 corrections**
+- Final Batch PDF44–45 — **0 corrections**
+- cumulative — **13**
+- unresolved — **0**
 
-Batch 3 also confirmed the PDF39→40 continuation, PDF42 `போரிட நாளும் குறித்தாய் விட்டது`, PDF42 `காத்துக்கொண் டிருந்தான்`, and PDF43's unusual `மாதவன், மாமன்னன் துரியோதனன்...` sequence.
+Final-batch checks passed for PDF44 quotation punctuation and mythology names, the PDF44→45 continuation `கண் மூடிக்கொண்டு / கவனியாது...`, PDF45 `T. பிரகாசம்`, `மேல் சபை`, the final analogy, and terminal line `ஜனநாயகக் கொலையன்றி வேறென்ன?`.
 
 ## Exact next activity
 
-Tamil **T2 strict visual audit — Final Batch PDF44–45 / printed pp.43–44 / 2 pages**.
+Tamil **T3 consolidation / freeze — PDF29–45 / printed pp.28–44 / 17 pages**.
 
-Compare both pages directly against rendered source pixels. Verify quotation punctuation, source spacing, mythology names, the PDF44→45 continuation, and the final `ஜனநாயகக் கொலையன்றி வேறென்ன?` line. Apply only source-supported corrections. If both pages pass, close Tamil T2 at 17/17 and advance the next gate to Tamil T3 consolidation/freeze.
+1. Confirm every PDF page 29–45 appears exactly once and in order.
+2. Reconcile all **13/13** T2 corrections into `transcription-ta.md`.
+3. Confirm stale superseded T1 readings are absent.
+4. Recheck recorded cross-page continuations: PDF32→33, 34→35, 38→39, 39→40 and 44→45.
+5. Confirm source-sensitive retained forms and PDF37 internal heading.
+6. Record any T3 consolidation repair or unresolved item.
+7. If all checks pass, mark Tamil `verified-complete` / FROZEN and unblock English E1.
 
 Do not begin English in the same activity.

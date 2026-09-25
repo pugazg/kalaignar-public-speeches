@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF29–45 / printed pp.28–44 / 17 pages  
-**Current gate:** Tamil T2 strict visual audit **IN PROGRESS — Batches 1–3 PDF29–43 COMPLETE / PASS — 15/17 pages; 13 cumulative corrections / 0 unresolved**
+**Current gate:** Tamil T2 strict visual audit **COMPLETE / PASS — PDF29–45 / 17/17 pages; 13 corrections / 0 unresolved**; Tamil T3 consolidation/freeze READY
 
 ## T1 method
 
@@ -170,16 +170,44 @@ PDF39 and PDF40 required **no substantive correction**.
 
 All five pages were reviewed against the historical-glyph guide for `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Direct rendered source pixels controlled; no global replacement was used. No unresolved glyph reading remains in Batch 3.
 
-## T2 progress
+## T2 Final Batch — PDF44–45 / printed pp.43–44
 
-- pages strict-verified — **15/17**
-- audited through — **PDF43 / printed p.42**
-- cumulative corrections — **13**
+**Status: COMPLETE / STRICT-VERIFIED — 2/2 pages.**  
+**Corrections applied in this batch: 0.**  
+**Cumulative T2 corrections: 13.**  
+**Unresolved readings after final batch: 0.**
+
+Both final pages required **no substantive correction**.
+
+### Final-batch source-sensitive confirmations
+
+- PDF44 opening `‘சரிதான், மைத்துனா. சஞ்சலம் வேண்டாம்,’` — **PASS / source punctuation retained**.
+- PDF44 long quoted reply beginning `‘ஐயோ பாவம், முன்னாலா வந்தாய் நீ...` — **PASS**, including source comma in `எப்படி, மாற்ற முடியும்`.
+- PDF44 mythology-name sequence `மாயோன், மாதவன், யாதவன், கோபாலன், கிருஷ்ணன், கண்ணன்` — **PASS / retained**.
+- PDF44→45 continuation `கண் மூடிக்கொண்டு / கவனியாது...` — **PASS**; sentence continuity preserved without inventing a source word break.
+- PDF45 `T. பிரகாசம்` — **PASS / retained as printed**.
+- PDF45 `மேல் சபை அங்கத்தினராக` — **PASS / retained**.
+- PDF45 `வைத்துத்தான் இந்த நவீன அரசியல் அரிபரந்தாமன் ஸ்ரீபிரகாசா...` — **PASS**.
+- Final line `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS / character-by-character verified**.
+
+### Historical-glyph check
+
+Both pages were reviewed against the historical-glyph guide. Direct rendered source pixels controlled; no global replacement was used. No unresolved glyph reading remains.
+
+## T2 final state
+
+- source range audited — **PDF29–45 / printed pp.28–44**
+- pages strict-verified — **17/17**
+- batches complete — **4/4**
+- cumulative source-supported corrections — **13**
 - unresolved — **0**
-- remaining — **PDF44–45 / 2 pages**
+- final body ending — `ஜனநாயகக் கொலையன்றி வேறென்ன?` — **PASS**
+- Tamil T2 — **COMPLETE / PASS**
 
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Final Batch PDF44–45 / printed pp.43–44 / 2 pages**.
+Proceed to **Tamil T3 consolidation / freeze — PDF29–45 / 17 pages**.
 
-Do not begin Tamil T3 or English until both remaining pages pass T2.
+T3 must reconcile all **13/13** T2 corrections into the current transcript, confirm PDF29–45 coverage exactly once and in order, verify the five recorded cross-page continuations, search for stale superseded T1 readings, and freeze Tamil only if no unresolved issue remains.
+
+Do not begin English until Tamil T3 passes and the Tamil layer is frozen.
