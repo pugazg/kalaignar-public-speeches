@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / constituent 3 Tamil T1 READY — 6/6 constituents mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / constituent 3 Tamil T1 COMPLETE 6/6 / T2 READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -49,13 +49,13 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 ## Current workflow
 
 - source-gated constituents — **6/6**
-- constituents with Tamil T1 complete — **2/6**
+- constituents with Tamil T1 complete — **3/6**
 - constituent 1 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 2 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
-- constituent 3 — **ACTIVE / SOURCE-GATED / Tamil T1 READY — PDF46–51 / 6 pages**
+- constituent 3 — **ACTIVE — Tamil T1 FIRST-PASS COMPLETE — 6/6 / PDF46–51; T2 READY**
 - constituents 4–6 — **Tamil T1 READY / NOT STARTED**
 - Tamil verified constituents — **2/6**
 - English verified constituents — **2/6**
 - fully archived constituents — **2/6**
 
-Exact next gate: constituent 3 — மீண்டும் கிளைவ் ? — **Tamil T1 transcription, PDF46–51 / printed pp.45–50 / 6 pages**.
+Exact next gate: constituent 3 — மீண்டும் கிளைவ் ? — **Tamil T2 strict visual audit, PDF46–51 / printed pp.45–50 / all 6 pages**.
