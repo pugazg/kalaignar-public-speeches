@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா? — English translation fidelity review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF29–45 / 17/17**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF29–45 / 17/17**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E1 coverage:** **17/17 pages**  
 > **E2 corrections:** **7**  
@@ -53,8 +53,47 @@
 - unresolved English fidelity findings — **0**
 - frozen Tamil changed during E2 — **No**
 
+## E3 final verification — COMPLETE / PASS
+
+The complete English layer was re-read end to end against the frozen Tamil after E2 consolidation.
+
+### E3 end-to-end checks
+
+- English page headings PDF **29–45** — **17/17, exactly once, in order**
+- printed-page mapping **28–44** — **PASS**
+- Tamil/English substantive paragraph counts by page — **PASS / no mismatches**
+- all **7 E2 corrections** — **present**
+- stale pre-E2 wording — **none found**
+- PDF32→33 continuation — **PASS**
+- PDF34 open-quotation source note — **retained**
+- PDF34→35 continuation — **PASS**
+- PDF37 internal heading — **retained inside constituent 2**
+- PDF38→39 continuation — **PASS**
+- PDF39 name-form distinction source note — **retained**
+- PDF39→40 continuation — **PASS**
+- PDF42 unusual-form source note — **retained**
+- PDF44→45 continuation — **PASS**
+- translator/source notes — **3/3 retained**
+- omissions — **none found**
+- unsupported additions — **none found**
+- meaning reversals — **none found**
+- subjects / pronouns — **PASS**
+- names / titles / historical forms — **PASS**
+- rhetorical force / repetition — **PASS**
+- final rhetorical line — **PASS as source rhetoric**
+- E3 additional corrections — **0**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+## English verification state
+
+- E1 — **COMPLETE / 17/17**
+- E2 — **COMPLETE / PASS / 17/17 — 7 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS / 17/17 — 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+
 ## Next gate
 
-English **E3 final end-to-end Tamil→English verification — PDF29–45 / 17 pages**.
+Proceed to **repository closure / archival handover for constituent 2**.
 
-Re-read the complete English layer against frozen Tamil. Confirm all 7 E2 corrections are present, stale E1 wording is absent, all five recorded page-boundary continuations and three translator/source notes survive consolidation, and no omission/addition/reversal remains. Only after E3 passes may English be marked `verified-complete`.
+Do not reopen Tamil or English merely for stylistic polishing. Reopen only for genuinely new source evidence or a documented substantive fidelity defect.

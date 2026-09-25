@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 English E3 final verification
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 2 repository closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,36 +12,37 @@ Active archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`
 - title — `சடுகுடு விளையாட்டா? சவால் சண்டையா?`
 - source range — **PDF29–45 / printed pp.28–44 / 17 pages**
 - Tamil — **`verified-complete` / FROZEN**
+- Tamil T2 — **13 corrections / 0 unresolved**
+- Tamil T3 — **COMPLETE / PASS**
 - English E1 — **COMPLETE / 17/17**
-- English E2 — **COMPLETE / PASS / 17/17**
-- E2 corrections — **7**
-- E2 unresolved — **0**
-- English E3 — **READY / NOT STARTED**
-- English translation — `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/translation-en.md`
-- E2 ledger — `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/translation-review.md`
+- English E2 — **COMPLETE / PASS / 17/17 — 7 corrections / 0 unresolved**
+- English E3 — **COMPLETE / PASS / 17/17 — 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+- repository closure — **READY / NOT STARTED**
 
-## E2 durable corrections
+## E3 durable controls
 
-1. PDF30 — `உள்நாட்டிலாகா மந்திரி பதவி`: “Home Ministry” → **“the post of Home Minister”**
-2. PDF32 — `அடிவருடிகளும்`: “followers” → **“sycophants”**
-3. PDF34 — restored `நியாயம் கற்பித்துப்` as **inventing a justification**
-4. PDF35 — corrected equal-strength / age comparison wording
-5. PDF36 — `கேளாக் காதாக` → **“turn a deaf ear”**
-6. PDF41 — restored the repeated *Vyasa's Feast* / Bharata emphasis
-7. PDF44 — attached the hearsay marker to the source's sending-away action
-
-All five recorded page-boundary continuations pass. Three translator/source notes remain: PDF34 quotation irregularity, PDF39 name-form distinction, PDF42 unusual `போரிட நாளும் குறித்தாய் விட்டது`. Frozen Tamil changes during E2: **0**.
+- English page headings PDF29–45 — **17/17 exactly once and ordered**
+- printed-page mapping pp.28–44 — **PASS**
+- Tamil/English substantive paragraph counts by page — **PASS**
+- all 7 E2 corrections present
+- stale pre-E2 wording absent
+- page-boundary continuations PDF32→33, 34→35, 38→39, 39→40 and 44→45 — **5/5 PASS**
+- translator/source notes — **3/3 retained**
+- PDF37 internal heading remains inside constituent 2
+- omissions / unsupported additions / reversals — none found
+- E3 additional corrections — **0**
+- E3 unresolved — **0**
+- frozen Tamil changes during E3 — **0**
+- no constituent-specific speech date or venue is established
 
 ## Exact next activity
 
-English **E3 final end-to-end Tamil→English verification — PDF29–45 / printed pp.28–44 / 17 pages**.
+Perform **repository closure / archival handover for constituent 2**.
 
-Re-read all 17 English pages against frozen Tamil. Confirm:
-- all 7 E2 corrections are present;
-- stale E1 wording is absent;
-- page headings and substantive paragraph correspondence are complete;
-- all five recorded page-boundary continuations remain intact;
-- all three translator/source notes survive consolidation;
-- no omission, unsupported addition, reversal, subject/pronoun drift, name/title drift or rhetorical loss remains.
-
-Only after E3 passes may English be marked `verified-complete`.
+1. Run final consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection records.
+2. Create `FINAL_CLOSURE.md` using repository precedent if all checks pass.
+3. Mark constituent 2 **FINAL CLOSED / RELEASE READY** only after closure passes.
+4. Increment parent collection archived count to **2/6**.
+5. Advance active work to constituent 3 `மீண்டும் கிளைவ் ?` — PDF46–51 / printed pp.45–50 / 6 pages — Tamil T1.
+6. Do not reopen constituent 2 Tamil/English except for new source evidence or a documented substantive fidelity defect.

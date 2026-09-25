@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா?
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN — English E1 COMPLETE / E2 COMPLETE-PASS 17/17 / E3 READY**
+**Status: Tamil `verified-complete` / FROZEN — English `verified-complete` / E1-E3 COMPLETE-PASS — repository closure READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -26,7 +26,9 @@ PDF29 reads சவால் சண்டையா?, not the supplied variant ச
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **COMPLETE — PDF29–45 / 17/17 pages**
 - English E2 fidelity review — **COMPLETE / PASS — PDF29–45 / 17/17 pages; 7 corrections / 0 unresolved**
-- English E3 final verification — **READY / NOT STARTED**
+- English E3 final verification — **COMPLETE / PASS — PDF29–45 / 17/17 pages; 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+- Repository closure — **READY / NOT STARTED**
 - canonical frozen Tamil — `transcription-ta.md`
 - Tamil audit record — `audit.md`
 - English first-pass translation — `translation-en.md`
@@ -35,8 +37,8 @@ T1 used direct rendered source pages as authority. The PDF37 heading **அரச
 
 English E1 is now **COMPLETE — 17/17 pages (PDF29–45 / printed pp.28–44)**. Translation used only the frozen Tamil layer and introduced **0 Tamil changes**. Source-sensitive irregularities are handled transparently in `translation-en.md`.
 
-English E2 is now **COMPLETE / PASS — 17/17**, with **7 confirmed corrections / 0 unresolved** and **0 Tamil changes**. Full details are in `translation-review.md`.
+English E3 is now **COMPLETE / PASS — 17/17**, with **0 additional corrections / 0 unresolved** and **0 Tamil changes**. English is now **`verified-complete`**.
 
-**Next gate:** English **E3 final end-to-end Tamil→English verification — PDF29–45 / 17 pages**.
+**Next gate:** **Repository closure / archival handover for constituent 2**.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.

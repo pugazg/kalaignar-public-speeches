@@ -16,39 +16,38 @@ Archive: `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/`
 - English E2 — **COMPLETE / PASS / 17/17**
 - E2 corrections — **7**
 - E2 unresolved — **0**
-- English E3 — **READY / NOT STARTED**
+- English E3 — **COMPLETE / PASS / 17/17**
+- E3 additional corrections — **0**
+- E3 unresolved — **0**
+- English — **`verified-complete`**
+- repository closure — **READY / NOT STARTED**
 - predecessor constituent 1 — **FINAL CLOSED / RELEASE READY**
 
 Frozen Tamil: `transcription-ta.md`.  
 English translation: `translation-en.md`.  
-English fidelity ledger: `translation-review.md`.
+English fidelity/final-verification ledger: `translation-review.md`.
 
-## E2 durable checkpoint
+## E3 durable checkpoint
 
-All **17/17** English pages were compared directly against frozen Tamil.
-
-Corrections:
-1. PDF30 — Home Minister post terminology.
-2. PDF32 — restored `அடிவருடிகள்` polemical force as “sycophants”.
-3. PDF34 — restored `நியாயம் கற்பித்துப்` as inventing a justification.
-4. PDF35 — corrected equal-strength / age comparison wording.
-5. PDF36 — corrected `கேளாக் காதாக` to “turn a deaf ear”.
-6. PDF41 — restored the repeated *Vyasa's Feast* / Bharata emphasis.
-7. PDF44 — attached the hearsay marker to the source's sending-away action.
-
-Controls:
-- page coverage / order — **17/17 PASS**
-- omissions / additions / reversals — **0 unresolved**
-- five recorded page-boundary continuations — **PASS**
-- three translator/source notes — **retained**
-- PDF37 internal heading — **retained**
+- English page headings PDF29–45 — **17/17 exactly once and ordered**
+- printed-page mapping pp.28–44 — **PASS**
+- Tamil/English substantive paragraph counts by page — **PASS**
+- all **7 E2 corrections** — present
+- stale E1 wording — none
+- five recorded page-boundary continuations — **5/5 PASS**
+- three translator/source notes — **3/3 retained**
+- PDF37 internal heading — retained inside constituent 2
+- omissions / unsupported additions / reversals — none found
 - names / titles / source-sensitive forms — **PASS**
-- frozen Tamil changes during E2 — **0**
+- rhetorical force / repetition — **PASS**
+- E3 additional corrections — **0**
+- E3 unresolved — **0**
+- frozen Tamil changes during E3 — **0**
 
 ## Exact next activity
 
-English **E3 final end-to-end Tamil→English verification — PDF29–45 / printed pp.28–44 / 17 pages**.
+Proceed to **repository closure / archival handover for constituent 2**.
 
-Re-read all English pages against frozen Tamil. Confirm all 7 E2 corrections are present, stale E1 wording is absent, page/paragraph continuity is intact, all five recorded page-boundary continuations and three translator/source notes survive, and no omission/addition/reversal remains.
+Run final consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection controls. Create the final closure record if all checks pass, mark constituent 2 fully archived, then advance the parent collection to constituent 3 `மீண்டும் கிளைவ் ?` Tamil T1.
 
-Only after E3 passes may English be marked `verified-complete`.
+Do not reopen Tamil or English unless new source evidence or a documented substantive fidelity defect is found.
