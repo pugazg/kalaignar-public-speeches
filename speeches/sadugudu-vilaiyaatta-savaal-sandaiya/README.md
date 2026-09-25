@@ -1,6 +1,6 @@
 # சடுகுடு விளையாட்டா? சவால் சண்டையா?
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE / English E1 READY**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN — English E1 COMPLETE 17/17 / E2 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -24,13 +24,17 @@ PDF29 reads சவால் சண்டையா?, not the supplied variant ச
 - Tamil T2 strict visual audit — **COMPLETE / PASS — PDF29–45 / 17/17 pages; 13 corrections / 0 unresolved**
 - Tamil T3 consolidation/freeze — **COMPLETE / PASS — 13/13 T2 corrections reconciled; 0 additional source corrections / 0 repairs / 0 unresolved**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
-- English E2/E3 — blocked pending E1/review
-- canonical T1 working transcript — `transcription-ta.md`
-- T1/T2 audit record — `audit.md`
+- English E1 — **COMPLETE — PDF29–45 / 17/17 pages**
+- English E2 fidelity review — **READY / NOT STARTED**
+- English E3 — blocked pending E2
+- canonical frozen Tamil — `transcription-ta.md`
+- Tamil audit record — `audit.md`
+- English first-pass translation — `translation-en.md`
 
 T1 used direct rendered source pages as authority. The PDF37 heading **அரசியல் அரிபரந்தாமன் / ஆச்சாரியாருக் களித்த அபயம்!** remains internal to this constituent. Source-sensitive oddities and all page-boundary continuations are recorded in `audit.md` for T2.
 
-**Next gate:** English **E1 Batch 1 — PDF29–33 / printed pp.28–32 / 5 pages**, translating only from the frozen Tamil layer.
+English E1 is now **COMPLETE — 17/17 pages (PDF29–45 / printed pp.28–44)**. Translation used only the frozen Tamil layer and introduced **0 Tamil changes**. Source-sensitive irregularities are handled transparently in `translation-en.md`.
+
+**Next gate:** English **E2 fidelity review — Batch 1 PDF29–33 / printed pp.28–32 / 5 pages**.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.
