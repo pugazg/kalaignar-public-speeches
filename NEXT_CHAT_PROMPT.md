@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T2 Batch 3 FINAL PDF76–79
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T3 consolidation + freeze
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,40 +18,55 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - source range — **PDF66–79 / printed pp.65–78 / 14 pages**
-- Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
-- Tamil T2 — **IN PROGRESS**
-- T2 Batches 1–2 — **PDF66–75 / printed pp.65–74 — COMPLETE / PASS**
-- T2 progress — **10/14 pages**
-- T2 cumulative corrections — **5**
+- Tamil T1 — **COMPLETE — 14/14**
+- Tamil T2 — **COMPLETE / PASS — PDF66–79 / 14/14**
+- T2 batches — **3/3 COMPLETE**
+- T2 corrections — **8**
 - T2 unresolved — **0**
-- recorded boundary controls passed — **4/6**: 66→67, 72→73, 73→74, 75→76
-- Tamil T3 — blocked pending T2
+- recorded page-boundary controls — **6/6 PASS**
+- constituent ending / PDF79→80 next-heading boundary — **PASS**
+- historical-glyph review — **COMPLETE / 0 unresolved**
+- Tamil T3 — **READY / NOT STARTED**
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/kelvik-kuri/transcription-ta.md`
 - Tamil audit — `speeches/kelvik-kuri/audit.md`
 - speech date — **not established / do not infer**
 - item-specific venue — **not established / do not infer**
 
-## Batch 2 correction
+## T2 correction ledger
 
-- PDF75 — `ஏன் சிலபல நேரங்களில்` → source spacing `ஏன் சில பல நேரங்களில்`
+1. PDF67 — `காட்சியளிக்கின்றானே. கடவுளே` → `காட்சியளிக்கின்றானே, கடவுளே`
+2. PDF69 — `அறிவின், ஆராய்ச்சியின்` → `அறிவின். ஆராய்ச்சியின்`
+3. PDF69 — `முன்னேறித்தான்` → source form `முன்னேறிதான்`
+4. PDF70 — removed unsupported opening quote before `கேள்வி ஞானமின்றி`
+5. PDF75 — `ஏன் சிலபல நேரங்களில்` → `ஏன் சில பல நேரங்களில்`
+6. PDF76 — `கற்பனைச் சொர்க்கவாழ்வு` → `கற்பனைச் சொர்க்க வாழ்வு`
+7. PDF77 — `உருண்டு உருண்டு` → source joined form `உருண்டுஉருண்டு`
+8. PDF79 — `இத்தகையாளர், தங்களை` → `இத்தகையாளர். தங்களை`
 
-## T2 rules
+## T3 rules
 
-The controlling scan is authoritative. Compare every line and character against enlarged rendered source pixels. OCR/parsed text is only an aid.
+T3 is consolidation/freeze, not a fresh stylistic rewrite.
 
-Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. Do not silently modernize or normalize. Re-check the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-
-Record every source-supported correction in `audit.md` and apply it to `transcription-ta.md`. If a reading remains uncertain, record it rather than guessing.
+- verify PDF66–79 coverage is exactly 14/14, ordered, with printed pp.65–78 continuous;
+- verify all 8 T2 corrections are present exactly once where expected;
+- confirm stale superseded T1 readings are absent;
+- reconcile all six recorded page-boundary controls:
+  - 66→67
+  - 72→73
+  - 73→74
+  - 75→76
+  - 76→77
+  - 77→78
+- confirm PDF79 is the constituent ending and PDF80 begins **புராணப் போதை!**;
+- preserve all source-sensitive forms, punctuation and historical-glyph decisions;
+- make no modernization or normalization;
+- if T3 passes with 0 unresolved, mark Tamil **`verified-complete` / FROZEN**.
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78 / 4 pages**.
+Tamil **T3 consolidation / freeze — PDF66–79 / printed pp.65–78 / all 14 pages**.
 
-Audit all four pages line by line against the rendered source scan. Include:
-- PDF76→77 continuation;
-- PDF77→78 continuation;
-- source-sensitive forms and punctuation listed in `audit.md`;
-- terminal constituent ending on PDF79 and the PDF80 next-constituent boundary only as needed to confirm constituent closure.
+Reconcile the full canonical Tamil and audit/control documents. If T3 passes, freeze Tamil and mark English E1 **READY / NOT STARTED**.
 
-If Batch 3 passes, mark Tamil T2 COMPLETE / PASS with the final correction total, but **do not begin T3 or English in the same step**.
+Do **not** begin English E1 in the same step.
