@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 2 PDF85–89
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 3 PDF90–94
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,20 +21,22 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - PDF102 — **publisher/back-catalogue material / excluded**
 - Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
 - Tamil T2 — **IN PROGRESS**
-- T2 Batch 1 — **PDF80–84 / printed pp.79–83 — COMPLETE / PASS**
-- T2 progress — **5/22 pages**
-- T2 corrections — **2**
+- T2 Batches 1–2 — **PDF80–89 / printed pp.79–88 — COMPLETE / PASS**
+- T2 progress — **10/22 pages**
+- T2 cumulative corrections — **2**
 - T2 unresolved — **0**
-- recorded boundaries passed — **4/11**: 81→82, 82→83, 83→84, 84→85
+- recorded boundaries passed — **6/11**: 81→82, 82→83, 83→84, 84→85, 85→86, 89→90
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/puranap-pothai/transcription-ta.md`
 - Tamil audit — `speeches/puranap-pothai/audit.md`
 
-## Batch 1 correction ledger
+## T2 correction ledger so far
 
 1. PDF81 — `புதுவாழ்வு பெற்று போதை யேற்றி` → `புதுவாழ்வு பெற்றுப் போதை யேற்றி`
 2. PDF81 — `படிக்காவிட்டாலும் கூட` → source form `படிக்காவிட்டாலுங் கூட`
+
+Batch 2 PDF85–89 passed with **0 additional corrections / 0 unresolved**.
 
 ## T2 rules
 
@@ -46,11 +48,12 @@ Record every source-supported correction in `audit.md` and apply it to `transcri
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 2: PDF85–89 / printed pp.84–88 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 3: PDF90–94 / printed pp.89–93 / 5 pages**.
 
 Audit all five pages line by line against the rendered source scan. Include:
-- PDF85→86 continuation;
-- PDF89 ending together with PDF90 only as needed to verify PDF89→90;
-- source-sensitive forms listed in `audit.md`, especially historical glyph identities and the quoted boon dialogue on PDF89.
+- PDF91→92 continuation;
+- PDF92→93 continuation;
+- PDF94 ending together with PDF95 only as needed to verify PDF94→95;
+- source-sensitive forms listed in `audit.md`, especially `சிவலிங்கனார்`, `அய்வேலங்கொடி`, `மொண்டு தன் தலையில் தடவினன்`, `திரிபுரமெரித்த`, `காமக் குரங்காட்டமாடியது`, and `விஷ்ணும் விட வில்லையே`.
 
-Do not begin T3 or English. Do not audit PDF90 onward except the minimum adjoining text required for PDF89→90.
+Do not begin T3 or English. Do not audit PDF95 onward except the minimum adjoining text required for PDF94→95.
