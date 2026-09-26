@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batch 1 PDF80–84 COMPLETE / PASS; 5/22 pages; 2 corrections / 0 unresolved**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batches 1–2 PDF80–89 COMPLETE / PASS; 10/22 pages; 2 corrections / 0 unresolved**
 
 ## T1 method
 
@@ -157,8 +157,46 @@ Batch 1 unresolved glyph readings: **0**.
 - Tamil T2 — **IN PROGRESS**
 - pages remaining — **PDF85–101 / 17 pages**
 
+## Tamil T2 strict visual audit — Batch 2: PDF85–89 / printed pp.84–88
+
+**Status: COMPLETE / PASS — 5/5 pages.**  
+**Source-supported corrections: 0.**  
+**Unresolved after Batch 2: 0.**
+
+### Batch 2 page confirmations
+
+- **PDF85 / printed 84** — `பாணமும்`, `நயவஞ்சகமாகத்`, `அருணாசலபுராணம்!`, historical `திருவண்ணாமலை` identity, `வெற்றி-தோல்வியைக்`, and terminal `பொய்யாக` — **PASS / 0 corrections**.
+- **PDF85→86 continuation** — `பொய்யாக / சிவனாரின் திருமுடியைக் கண்டேன்` — **PASS**.
+- **PDF86 / printed 85** — `நடை பெற்றக் காரணத்தால்`, `திருவிளையாடற் புராணத்திலே`, `திருமழிசை ஆழ்வார்களைக்`, `புண்ணிய புருடர்`, and `வெட்கித் தலைகுனிந்திட` — **PASS / 0 corrections**.
+- **PDF87 / printed 86** — catalogue punctuation, `அய்வேலங்காயின்`, `லிங்க வடிவமாக`, `சிவலிங்க வடிவாக`, and `பெரும் பகுதியினரான பாமரரிடையே` — **PASS / 0 corrections**.
+- **PDF88 / printed 87** — historical narrative forms `இருந்தானாம் / செய்தானாம் / புரிந்தானாம்`, `பரமசிவன் நோக்கித்`, `காட்சி யளித்தமைக்குப்`, and `அகராதிப்படி` — **PASS / 0 corrections**.
+- **PDF89 / printed 88** — quoted boon dialogue, `பஸ்மமாகிவிட`, `பரிட்சித்துப்`, `சிவனரின் தலைமீது`, repeated `துரத்துகிறான்`, and terminal `அவன் தலைமீது` — **PASS / 0 corrections**.
+- **PDF89→90 continuation** — `அவன் தலைமீது / கைவைத்தால், என்ற கவலை!` — **PASS**; only the opening adjoining text of PDF90 was used for this boundary.
+
+### Historical-glyph check — Batch 2
+
+PDF85–89 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement or lexical modernization was used.
+
+Batch 2 unresolved glyph readings: **0**.
+
+## T2 progress after Batch 2
+
+- audited — **PDF80–89 / 10 of 22 pages**
+- printed pages — **79–88**
+- cumulative corrections — **2**
+- unresolved — **0**
+- recorded boundary controls passed so far — **6/11**:
+  - PDF81→82 — PASS
+  - PDF82→83 — PASS
+  - PDF83→84 — PASS
+  - PDF84→85 — PASS
+  - PDF85→86 — PASS
+  - PDF89→90 — PASS
+- Tamil T2 — **IN PROGRESS**
+- pages remaining — **PDF90–101 / 12 pages**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 2: PDF85–89 / printed pp.84–88 / 5 pages**.
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 3: PDF90–94 / printed pp.89–93 / 5 pages**.
 
-Audit all five pages line by line against the rendered source scan, including PDF85→86 and the PDF89 ending together with PDF90 only as needed to verify PDF89→90. Do not begin T3 or English.
+Audit all five pages line by line against the rendered source scan, including PDF91→92, PDF92→93, and the PDF94 ending together with PDF95 only as needed to verify PDF94→95. Do not begin T3 or English.
