@@ -1,12 +1,14 @@
 # கேள்விக் குறி! — English translation fidelity review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF66–79 / 14/14 pages**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF66–79 / 14/14 pages**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E1 coverage:** **14/14 pages**  
 > **E2 corrections:** **10**  
 > **E2 unresolved:** **0**  
 > **Tamil changes during E2:** **0**  
-> **E3:** **READY / NOT STARTED**
+> **E3 additional corrections:** **4**  
+> **E3 unresolved:** **0**  
+> **Tamil changes during E3:** **0**
 
 ## E2 correction ledger
 
@@ -55,17 +57,57 @@
 - source political/religious claims and labels — **represented as source rhetoric; not independently validated or endorsed**
 - E2 unresolved English fidelity findings — **0**
 
-## English review state
+## E3 final verification — COMPLETE / PASS
+
+The complete post-E2 English layer was re-read from PDF66 through PDF79 against the frozen Tamil, then rechecked after the E3 corrections below.
+
+### E3 correction ledger
+
+| PDF | Post-E2 issue | E3 correction |
+|---:|---|---|
+| 68 | `புதுப்புது கேள்விக் குறிகளையாவது` was carried over too literally as “newer and newer question marks”, making the English object unnatural and obscuring the semantic sense | corrected to **“newer and newer questions”** |
+| 69 | `விவாதத்தின் விடிவெள்ளி` was weakened from its source metaphor to simply “the dawn of debate” | corrected to **“the morning star of debate that leads to explanation”** |
+| 74 | `சத்தற்ற` was rendered as “inert”, shifting from lack of substance to lack of movement | corrected to **“very, very substance-less, utterly tasteless life”** |
+| 78 | `பொதுவில், பொது வாழ்வில் ... என்றுதான் கேட்கிறேன்?` was rendered as “I ask in public”, turning `பொதுவில்` into a publicity/location sense | corrected to **“I ask this generally, in public life, only for the good of humankind?”** |
+
+### E3 end-to-end checks
+
+- English page headings PDF **66–79** — **14/14, exactly once, in order**
+- printed-page mapping **65–78** — **PASS**
+- all **10 E2 corrections** — **present**
+- all **4 E3 corrections** — **present**
+- stale pre-E2 / pre-E3 wording — **none found**
+- translator/source notes — **4/4 retained**
+- PDF66→67 continuation — **PASS**
+- PDF72→73 continuation — **PASS**
+- PDF73→74 continuation — **PASS**
+- PDF75→76 continuation — **PASS**
+- PDF76→77 continuation — **PASS**
+- PDF77→78 continuation — **PASS**
+- question / question-mark repetition and sequencing — **PASS**
+- parent-child quoted dialogue — **PASS**
+- names / mythological / religious terms — **PASS**
+- omissions — **none found**
+- unsupported additions — **none found after E3 correction**
+- meaning reversals — **none found**
+- rhetorical force — **PASS**
+- PDF79 constituent ending — **PASS**
+- source political/religious claims and labels — **represented as source rhetoric; not independently validated or endorsed**
+- E3 additional corrections — **4**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+A second complete post-correction sweep found **0 further English fidelity issues**.
+
+## English verification state
 
 - E1 — **COMPLETE / 14/14**
 - E2 — **COMPLETE / PASS / 14/14 — 10 corrections / 0 unresolved**
-- E3 — **READY / NOT STARTED**
-- English — **not yet `verified-complete`; E3 remains required**
+- E3 — **COMPLETE / PASS / 14/14 — 4 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
 
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**.
+English textual verification is complete. Proceed next to **repository-level archival closure / release-readiness synchronization** for constituent 5.
 
-Re-read the corrected English layer against the frozen Tamil from beginning to end, verify all 10 E2 corrections and all 4 translator/source notes, and check for stale E1 wording, omissions, additions, reversals, page-boundary loss and rhetorical weakening.
-
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+Do not reopen frozen Tamil or verified English merely for stylistic polishing.
