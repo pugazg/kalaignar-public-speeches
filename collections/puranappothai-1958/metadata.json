@@ -51,12 +51,12 @@
     "constituent_items_t1_complete": 5,
     "constituent_items_tamil_verified": 5,
     "constituent_items_english_verified": 5,
-    "constituent_items_archived": 4,
-    "active_constituent_number": 5,
-    "active_constituent_slug": "kelvik-kuri",
-    "active_constituent_title_ta": "கேள்விக் குறி!",
-    "next_gate": "repository-level archival closure / release-readiness synchronization — constituent 5",
-    "collection_status": "active-constituent-5-repository-closure-ready",
+    "constituent_items_archived": 5,
+    "active_constituent_number": 6,
+    "active_constituent_slug": "puranap-pothai",
+    "active_constituent_title_ta": "புராணப் போதை!",
+    "next_gate": "Tamil T1 transcription — constituent 6 / PDF80–101 / 22 pages",
+    "collection_status": "active-constituent-6-t1-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -286,7 +286,7 @@
       "archive_path": "speeches/kelvik-kuri/",
       "source_gate": "pass-complete",
       "tamil_t1": "first-pass-complete",
-      "active": true,
+      "active": false,
       "tamil_t1_pages_completed": 14,
       "tamil_t1_through_pdf_page": 79,
       "tamil_t1_through_printed_page": 78,
@@ -326,9 +326,10 @@
       "english_e3_additional_corrections": 4,
       "english_e3_unresolved": 0,
       "english_verified": "verified-complete",
-      "repository_closure": "ready-not-started",
-      "archive_status": "repository-closure-ready",
-      "archived": false
+      "repository_closure": "complete-pass",
+      "archive_status": "final-closed-release-ready",
+      "archived": true,
+      "final_closure_report": "speeches/kelvik-kuri/FINAL_CLOSURE.md"
     },
     {
       "number": 6,
@@ -341,7 +342,8 @@
       "pages": 22,
       "archive_path": "speeches/puranap-pothai/",
       "source_gate": "pass-complete",
-      "tamil_t1": "ready-not-started"
+      "tamil_t1": "ready-not-started",
+      "active": true
     }
   ]
 }
