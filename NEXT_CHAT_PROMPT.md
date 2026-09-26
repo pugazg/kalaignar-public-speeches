@@ -1,49 +1,49 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 repository closure
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T1 PDF80–101
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parent collection: `collections/puranappothai-1958/`  
-Active archive: `speeches/kelvik-kuri/`
+Active archive: `speeches/puranap-pothai/`
 
 ## Durable frozen state
 
-Constituents **1–4 are FINAL CLOSED / RELEASE READY**.
+Constituents **1–5 are FINAL CLOSED / RELEASE READY**.
 
-Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to close constituent 5.
+Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to advance constituent 6.
 
-## Constituent 5 verified state
+Constituent 5 final report:
+`speeches/kelvik-kuri/FINAL_CLOSURE.md`
 
-- constituent — **5 / 6**
-- title — **கேள்விக் குறி!**
-- source range — **PDF66–79 / printed pp.65–78 / 14 pages**
-- Tamil — **`verified-complete` / FROZEN**
-- Tamil T2 — **COMPLETE / PASS — 14/14 / 8 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS — 8/8 reconciled / 0 additional source corrections / 0 repairs / 0 unresolved**
-- English E1 — **COMPLETE — 14/14**
-- English E2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved / 0 Tamil changes**
-- English E3 — **COMPLETE / PASS — 14/14 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
-- English — **`verified-complete`**
-- translator/source notes — **4/4 retained**
-- six recorded page-boundary continuations — **PASS**
-- second post-E3 correction sweep — **0 further English fidelity issues**
-- repository closure — **READY / NOT STARTED**
-- frozen Tamil — `speeches/kelvik-kuri/transcription-ta.md`
-- verified English — `speeches/kelvik-kuri/translation-en.md`
-- review record — `speeches/kelvik-kuri/translation-review.md`
+## Active constituent
 
-## E3 final corrections
+- constituent — **6 / 6**
+- title — **புராணப் போதை!**
+- source — `TVA_BOK_0024505_புராணப்போதை.pdf`
+- source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
+- source range — **PDF80–101 / printed pp.79–100 / 22 pages**
+- direct source heading — **PDF80**
+- PDF102 — **publisher/back-catalogue material / outside constituent body**
+- source / duplicate / boundary gate — **PASS / COMPLETE**
+- Tamil T1 — **READY / NOT STARTED**
+- Tamil T2/T3 — blocked pending T1
+- English — blocked pending Tamil freeze
+- speech date — **not established / do not infer**
+- item-specific venue — **not established / do not infer**
 
-1. PDF68 — “newer and newer question marks” → **“newer and newer questions”**.
-2. PDF69 — restored `விடிவெள்ளி` metaphor as **“the morning star of debate that leads to explanation”**.
-3. PDF74 — `சத்தற்ற` corrected from “inert” to **“substance-less”**.
-4. PDF78 — `பொதுவில், பொது வாழ்வில்` corrected to **“I ask this generally, in public life...”**.
+## Source-faithful Tamil rules
+
+The controlling scan is authoritative. Transcribe directly from rendered source pages; OCR/parsed text may be used only as an aid.
+
+Preserve source spelling, punctuation, spacing, historical forms, repetitions, names, unusual grammar and page correspondence. Do not silently modernize, normalize, repair or supplement from outside sources.
+
+Keep explicit PDF-page and printed-page headings. Record genuinely uncertain readings rather than guessing. Inspect page-boundary word splits across both adjoining pages before joining them.
+
+Re-check historical Tamil glyph families page by page against source pixels. No global character replacement is permitted.
 
 ## Exact next activity
 
-Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 5.
+Begin Tamil **T1 first-pass transcription — PDF80–101 / printed pp.79–100 / all 22 pages** for **புராணப் போதை!**.
 
-Verify the Tamil and English verified states and all control counters remain internally consistent, create `speeches/kelvik-kuri/FINAL_CLOSURE.md`, convert the constituent to **FINAL CLOSED / RELEASE READY**, and synchronize speech, parent collection and root controls.
+Create/start `speeches/puranap-pothai/transcription-ta.md` and `audit.md` as required by the processing guide, preserving explicit page correspondence.
 
-After closure, advance the parent collection conservatively to constituent 6 — **புராணப் போதை!**, PDF80–101 / printed pp.79–100 / 22 pages — Tamil T1 **READY / NOT STARTED**.
-
-Do **not** start constituent 6 Tamil T1 in the same closure step unless live controls explicitly require it.
+Do **not** include PDF102 in the constituent body. Do **not** begin T2, T3 or English in the same step.
