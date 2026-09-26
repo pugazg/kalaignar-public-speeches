@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF52–65 / printed pp.51–64 / 14 pages  
-**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **READY**
+**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **COMPLETE / PASS**; English E3 **READY**
 
 ## T1 method
 
@@ -200,8 +200,14 @@ The E1 notes transparently handle the frozen forms `கட்டுப்பட�
 
 E1 completion is **not** a fidelity-review claim.
 
+## English E2 fidelity review — COMPLETE / PASS
+
+English E2 reviewed **PDF52–65 / printed pp.51–64 / 14/14 pages** against the frozen Tamil and consolidated **9 corrections / 0 unresolved**, with **0 Tamil changes**. The detailed correction ledger and full coverage record are maintained in `translation-review.md`.
+
+After E2, `translation-en.md` contains **4 translator/source notes** in total. All are transparency notes for frozen source wording or punctuation; none rewrites the Tamil layer.
+
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF52–65 / printed pp.51–64 / all 14 pages** against the frozen Tamil layer.
+Proceed to **English E3 final end-to-end verification — PDF52–65 / printed pp.51–64 / all 14 pages**.
 
-Do not begin E3 until E2 is complete.
+Do not mark English `verified-complete` or begin repository closure until E3 passes.
