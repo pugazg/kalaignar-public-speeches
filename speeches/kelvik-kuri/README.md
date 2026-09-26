@@ -1,6 +1,6 @@
 # கேள்விக் குறி!
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN — English E1 COMPLETE / E2 COMPLETE / E3 READY**
+**Status: ACTIVE — Tamil and English `verified-complete` / repository closure READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -25,7 +25,9 @@ Direct source heading on PDF66.
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — PDF66–79 / 14/14 pages / 0 unresolved / 0 Tamil changes**
 - English E2 fidelity review — **COMPLETE / PASS — PDF66–79 / 14/14 pages; 10 corrections / 0 unresolved / 0 Tamil changes**
-- English E3 final verification — **READY / NOT STARTED**
+- English E3 final verification — **COMPLETE / PASS — PDF66–79 / 14/14 pages; 4 additional corrections / 0 unresolved / 0 Tamil changes**
+- English — **`verified-complete`**
+- Repository closure — **READY / NOT STARTED**
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 - English translation — `translation-en.md`
@@ -33,8 +35,8 @@ Direct source heading on PDF66.
 
 T1 was transcribed from direct rendered source pages; OCR/parsed text was only a locating aid. Page correspondence is explicit for PDF66–79 / printed pp.65–78, and six cross-page continuations are recorded for T2 review.
 
-English E1 is **COMPLETE — PDF66–79 / printed pp.65–78 / 14/14 pages**. English E2 is **COMPLETE / PASS — 14/14 pages, 10 corrections / 0 unresolved / 0 Tamil changes**. The corrected English layer now contains **4 concise translator/source notes**.
+English E1 is **COMPLETE — 14/14**. English E2 is **COMPLETE / PASS — 10 corrections / 0 unresolved / 0 Tamil changes**. English E3 is **COMPLETE / PASS — 4 additional corrections / 0 unresolved / 0 Tamil changes**; a second post-correction sweep found no further fidelity issues. English is now **`verified-complete`**. The final English retains **4 concise translator/source notes**.
 
-**Next gate:** English **E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**. Do not mark English `verified-complete` or begin repository closure before E3 passes.
+**Next gate:** **repository-level archival closure / release-readiness synchronization** for constituent 5. No further Tamil or English textual gate remains pending.
 
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
