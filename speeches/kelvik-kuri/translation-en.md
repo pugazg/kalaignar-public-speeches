@@ -1,9 +1,10 @@
 # கேள்விக் குறி! — English Translation
 
-> **Status:** English E1 FIRST-PASS COMPLETE — PDF66–79 / printed pp.65–78 / 14/14 pages; E2 READY / NOT STARTED; E3 blocked pending E2  
+> **Status:** English E2 fidelity review COMPLETE / PASS — PDF66–79 / printed pp.65–78 / 14/14 pages; 10 corrections / 0 unresolved; E3 READY / NOT STARTED  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, page sequence, quoted speech, historical/source-sensitive wording and unusual constructions. Political and religious claims and labels below are translated as source rhetoric; they are not independently validated or endorsed.  
-> **E1 scope:** PDF66–79 / printed pp.65–78 / 14 pages. E1 introduces 0 Tamil changes and is not an English fidelity-review claim.  
+> **E1 scope:** PDF66–79 / printed pp.65–78 / 14 pages.  
+> **E2:** COMPLETE / PASS — 10 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -30,7 +31,7 @@ What is God? Who is God? Because of what? For what? Why? That is what it will be
 
 Rationalists will not raise meaningless questions about any matter or practice that accords with the times and with thought, with benefit and with practical life. Rising in the morning, thoughtfully completing one's morning duties, and then continuing with one's responsibilities—these are all very, very important in human life, yet they are daily practices that ought to be perfectly ordinary.
 
-Even clear and necessary daily acts suited to the growth of knowledge, to health, and to the problems of everyday life—does man not appear as one who feels compelled to do them not as duty, but as an obligation, for the grace of God, because he believes that God alone is his refuge! Why? When we think, Why?, countless question marks do indeed dance in our minds. Those countless question marks dance and arise not only in the minds of people like me; they arise also in the minds of those steeped in thoughts opposed to the thoughts of people like me.
+Even clear and necessary daily acts suited to the growth of knowledge, to health, and to the problems of everyday life—does man not appear as one with an unrestrained sense of obligation, feeling bound to perform them not as duty, but as a debt, for the grace of God, because he believes that God alone is his refuge! Why? When we think, Why?, countless question marks do indeed dance in our minds. Those countless question marks dance and arise not only in the minds of people like me; they arise also in the minds of those steeped in thoughts opposed to the thoughts of people like me.
 
 ### PDF page 68 — printed page 67
 
@@ -48,13 +49,13 @@ Question! Question mark! Is it not an undeniable truth that questions such as Wh
 
 If the very thought of asking questions such as Why? For what! had never arisen, would thought itself have grown? Could it have grown? Not thought alone—would humanity's present prosperous condition of life have progressed?
 
-It could not! If thought were restrained and the habit of asking questions had withered away—indeed, if it were to wither away even today—human comfort and prosperity could not, in so many ways, cultivate nature's wealth for food and clothing; nor could natural forces themselves be gathered and stored, directed at the necessary time, by the necessary path and in the necessary manner, so as greatly to reduce human labour, the fatigue and weariness of physical toil. It simply could not be done!
+It could not! If thought were restrained and the habit of asking questions had withered away—indeed, if it were to wither away even today—the comforts and prosperity of human life could not have developed in so many ways: not only by cultivating nature's resources for food and clothing, but also by gathering and storing natural forces and directing them at the necessary time, by the necessary path and in the necessary manner, so as greatly to reduce human labour, the fatigue and weariness of physical toil. It simply could not be done!
 
 ### PDF page 70 — printed page 69
 
 Without questions, without the knowledge gained by asking questions, without the ever-new problems raised by questions, and without the lesson and clarity gained by speaking, reading and inquiring into problems, it is certain that the human mind cannot attain the ability, mental strength and mental resources needed to do anything properly.
 
-Mental strength and mental resources separate man, as man, from animal life and from a savage, blindfolded life; they cultivate and mature him, give him the habits and customs of living among many others, and direct and discipline him—in condition, thought and practice—toward a rich ideal of life in which one lives and lets others live. They show the way and the state for living a dignified life, a life of progress advancing swiftly with the pace of an unstained age, a scientific life, a life that sustains life, a good life, a civilized life.
+Mental strength and mental resources separate man, as man, from animal life and from a savage, blindfolded life; they cultivate and mature him, give him the habits and customs of living among many others, and direct and discipline him—in condition, thought and practice—toward a rich ideal of life in which one lives and lets others live. They show the way and the state for living a dignified life, a spotless life of progress advancing swiftly with the pace of the times, a scientific life, a life that sustains life, a good life, a civilized life.
 
 This is a country where asking a question is regarded as an offence. Not merely in one way, but in many, many ways.
 
@@ -82,13 +83,15 @@ What other reason can there be for this than that their circumstances have left 
 
 ### PDF page 72 — printed page 71
 
-‘It runs on petrol, boy. Come on, keep quiet. The vehicle will climb right over you,’ he says, scolding, taking the child's hand and walking away quickly!
+‘It runs on petrol, boy. Come on, keep quiet. The vehicle will run right over you,’ he says, scolding, taking the child's hand and walking away quickly!
 
 ‘What's petrol, Dad? What is it like? How does it go, Dad?’ More questions keep arising from the boy's thought, stirring and confusing him.
 
 ‘Dad, I want a car too,’ the child coaxes. Coaxes, with a little hesitation and fear!
 
 ‘You wretch! In the state you're living in, you want a car too?’ With the blow that lands on his back, are the question marks that arose from the boy's thought scattered and brought under control?
+
+> **Translator/source note:** The frozen Tamil uses `மூதேவி` as a colloquial insult in the parent's speech. E2 retains the insulting force as “wretch” while recording the source term transparently.
 
 We have not failed to see that, for the children of some who have comfortable and prosperous standards of living, not only information about motorcars but even model motorcars are available as playthings!
 
@@ -116,9 +119,9 @@ An oil-press-bullock life: like the bullocks at an oil press that keep circling 
 
 At a time when science and scientific development have spread and grown, producing every kind of advancement for human life and countless beautiful things, why should human beings with such an oil-press-bullock mind exist in this country?
 
-They live in this world because they must live: they work, eat, sleep, have wives and children, and somehow run a family too—in human form!
+They live in this world because they must live: they work, eat, sleep, marry, have children, and somehow run a family too—in human form!
 
-Why are many, very many, human beings without the mind to use the intelligence, the rational faculty given to man—to ask questions again and again, find the answers, ask others, inquire, and advance?
+Why are many, very many, human beings without the mind to use the intelligence and rational faculty that belong to man—to ask questions again and again, find the answers, ask others, inquire, and advance?
 
 Why? Why? Why? Because of what has such a mind, a human mind—an inactive, circling and struggling oil-press-bullock human mind without clarity of thought—become so utterly commonplace among the people, settled into them, habituated and soaked into them? Have they no taste for civilized life?
 
@@ -126,7 +129,7 @@ Why? Why? Why? Because of what has such a mind, a human mind—an inactive, circ
 
 Why do so many people not take part in the collective affairs and efforts of the people of the country!
 
-Such sorrow in life—not sorrow alone, but the thought that it is good to live in sorrow itself, that there is peace in it, that at least the peaceful life one has will remain without being spoiled, and that if not in this birth then at least in the next birth (in rebirth) one will attain a good destiny—makes them turn themselves into ignoramuses, people without self-respect, and at some times even into abject wretches.
+Such sorrow in life—not sorrow alone, but the thought that it is good to live in sorrow itself, that there is peace in it, that at least the peaceful life one has will remain without being spoiled, and that if not in this birth then at least in the next birth (in rebirth) one will attain a good destiny—makes them turn themselves into illiterates, people without self-respect, and at some times even into abject wretches.
 
 For many, their condition goes no further than sighing at the progress of others!
 
@@ -164,9 +167,9 @@ Among people who have no concern at all for human life, and no mind even to be c
 
 ### PDF page 78 — printed page 77
 
-—rode and travelled! They are incarnations of God, and servants of incarnations,’ they say, and are satisfied in their minds.
+—rode and travelled! They are incarnations of God, and slaves of incarnations,’ they say, and are satisfied in their minds.
 
-From where will questions, question marks, arise about the world of science, about the many kinds of conveniences of life, about meaningful words spoken in public life such as public right and common ownership?
+From where will questions, question marks, arise about the world of science, about the many kinds of conveniences of life, about meaningful words spoken in public life such as common rights and common ownership?
 
 Should not all these people, all such human beings, all people with an oil-press-bullock mind, be changed into people capable of asking questions? That is the question of people like me! The question mark!
 
