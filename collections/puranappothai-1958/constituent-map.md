@@ -9,10 +9,10 @@ SHA-256: 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
 | 2 | சடுகுடு விளையாட்டா? சவால் சண்டையா? | 29–45 | 28–44 | 17 | FINAL CLOSED / RELEASE READY |
 | 3 | மீண்டும் கிளைவ் ? | 46–51 | 45–50 | 6 | FINAL CLOSED / RELEASE READY |
 | 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | FINAL CLOSED / RELEASE READY |
-| 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | SOURCE-GATED / T1 READY |
+| 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | T1 COMPLETE / T2 READY |
 | 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | SOURCE-GATED / T1 READY |
 
-Workflow note: constituents 1–4 are **FINAL CLOSED / RELEASE READY**. Constituent 4 closed with Tamil **`verified-complete` / FROZEN — 14/14**, **10 T2 corrections / 0 unresolved**, and English **`verified-complete`** with **9 E2 corrections + 4 E3 corrections / 0 unresolved**. Constituent 5 is now the active source-gated item with Tamil T1 **READY / NOT STARTED**; constituent 6 remains T1 READY / NOT STARTED.
+Workflow note: constituents 1–4 are **FINAL CLOSED / RELEASE READY**. Constituent 5 is the active item: Tamil T1 is **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**, and Tamil T2 is **READY / NOT STARTED**. Tamil is not yet verified or frozen. Constituent 6 remains T1 READY / NOT STARTED.
 
 Boundary controls:
 - PDF1–7 front matter
