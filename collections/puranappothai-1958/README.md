@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–4 FINAL CLOSED / constituent 5 Tamil VERIFIED / FROZEN / English E1+E2 COMPLETE / E3 READY — 6/6 constituents mapped**
+**Status: ACTIVE — constituents 1–4 FINAL CLOSED / constituent 5 Tamil+English VERIFIED / repository closure READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -54,10 +54,10 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 - constituent 2 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 3 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 4 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`**
-- constituent 5 — **ACTIVE — Tamil `verified-complete` / FROZEN; English E1 COMPLETE 14/14; English E2 COMPLETE / PASS 14/14 with 10 corrections / 0 unresolved / 0 Tamil changes; English E3 READY / NOT STARTED — கேள்விக் குறி!**
+- constituent 5 — **ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E1 COMPLETE 14/14; E2 COMPLETE / PASS with 10 corrections / 0 unresolved; E3 COMPLETE / PASS with 4 additional corrections / 0 unresolved; repository closure READY — கேள்விக் குறி!**
 - constituent 6 — **Tamil T1 READY / NOT STARTED**
 - Tamil verified constituents — **5/6**
-- English verified constituents — **4/6**
+- English verified constituents — **5/6**
 - fully archived constituents — **4/6**
 
-Exact next gate: constituent 5 — **கேள்விக் குறி! — English E3 final end-to-end verification, PDF66–79 / printed pp.65–78 / all 14 pages**.
+Exact next gate: constituent 5 — **கேள்விக் குறி! — repository-level archival closure / release-readiness synchronization**.
