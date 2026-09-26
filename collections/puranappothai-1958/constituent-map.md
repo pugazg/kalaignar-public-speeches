@@ -10,9 +10,9 @@ SHA-256: 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
 | 3 | மீண்டும் கிளைவ் ? | 46–51 | 45–50 | 6 | FINAL CLOSED / RELEASE READY |
 | 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | FINAL CLOSED / RELEASE READY |
 | 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | FINAL CLOSED / RELEASE READY |
-| 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | T1 COMPLETE / T2 READY |
+| 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | T1 COMPLETE / T2 IN PROGRESS 5/22 |
 
-Workflow note: constituents 1–5 are **FINAL CLOSED / RELEASE READY**. Constituent 6 is the active item: Tamil T1 is **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**, and Tamil T2 is **READY / NOT STARTED**. Tamil is not yet verified or frozen. PDF102 remains outside the constituent body as publisher/back-catalogue material.
+Workflow note: constituents 1–5 are **FINAL CLOSED / RELEASE READY**. Constituent 6 is the active item: Tamil T1 is **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**; Tamil T2 Batch 1 **PDF80–84 is COMPLETE / PASS — 5/22 pages / 2 corrections / 0 unresolved**. Tamil is not yet verified or frozen. PDF102 remains outside the constituent body.
 
 Boundary controls:
 - PDF1–7 front matter
