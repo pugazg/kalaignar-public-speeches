@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **READY / NOT STARTED**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batch 1 PDF80–84 COMPLETE / PASS; 5/22 pages; 2 corrections / 0 unresolved**
 
 ## T1 method
 
@@ -114,6 +114,51 @@ T2 must verify every line and character, with special attention to:
 - English — blocked pending Tamil freeze
 - PDF102 — excluded from constituent body
 
+## Tamil T2 strict visual audit — Batch 1: PDF80–84 / printed pp.79–83
+
+**Status: COMPLETE / PASS — 5/5 pages.**  
+**Source-supported corrections: 2.**  
+**Unresolved after Batch 1: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 81 | 80 | `புதுவாழ்வு பெற்று போதை யேற்றி` | `புதுவாழ்வு பெற்றுப் போதை யேற்றி` — source `ப்` restored |
+| 81 | 80 | `படிக்காவிட்டாலும் கூட` | `படிக்காவிட்டாலுங் கூட` — source sandhi form retained; no normalization |
+
+### Batch 1 page confirmations
+
+- **PDF80 / printed 79** — heading **புராணப் போதை!**, `பஜகோவிந்தம்`, quoted `‘பங்கீடு’` / `‘பங்கீடு ஒழிப்பு’`, `பலப் பலகாரணங்கள்`, and terminal `கூறிக்கொண் டிருக்கிறார் ஆச்சாரியார்` — **PASS / 0 corrections**.
+- **PDF81 / printed 80** — `புராணம்—ஒரு போதை!`, `புராணப் போதை யேற்றிடும்`, `புதுவாழ்வு பெற்றுப்`, `படிக்காவிட்டாலுங் கூட`, source phrase `பேசாமல்படி`, and terminal `பகவான் மீது பாரத்தைப்` — **PASS after 2 corrections**.
+- **PDF81→82 continuation** — `பகவான் மீது பாரத்தைப் / போடு—பலன் கிடைக்கும்` — **PASS**.
+- **PDF82 / printed 81** — source repetition `தெளிந்திட- நீங்கிட மக்களிடமிருந்து நீங்கிட`, `கண்டபடிக் கேலி செய்திடவு மல்ல!`, `கண் கருத்து காட்சி`, and terminal `அருணாசல` — **PASS / 0 corrections**.
+- **PDF82→83 continuation** — `அருணாசல / புராணம்` — **PASS**.
+- **PDF83 / printed 82** — `முரண்பட்டவை களாகக்`, `அந்தரலோகத்துச் சுந்தர வாழ்வாம்`, `சிவனின் சிவவேடம்`, `பக்திக் போதையில்`, `சிறுத் தொண்டர்`, and terminal `மகிழ்ந்தாடும்` — **PASS / 0 corrections**.
+- **PDF83→84 continuation** — `மகிழ்ந்தாடும் / மக்களையும்` — **PASS**.
+- **PDF84 / printed 83** — `பக்தியின் எல்லையை (போதையை)க்`, `கொலைக் கஞ்சாக் கோட்புலி நாயனார்`, `கண்ணைப்பறித் தப்பின கண்ணப்பர்`, `எண்ணத் தொலையாத`, and terminal `மன்மத` — **PASS / 0 corrections**.
+- **PDF84→85 continuation** — `மன்மத / பாணமும்` — **PASS**; only the opening adjoining text of PDF85 was used for this boundary.
+
+### Historical-glyph check — Batch 1
+
+PDF80–84 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Character identities were decoded before transcription decisions; no global replacement or lexical modernization was used.
+
+Batch 1 unresolved glyph readings: **0**.
+
+## T2 progress after Batch 1
+
+- audited — **PDF80–84 / 5 of 22 pages**
+- printed pages — **79–83**
+- cumulative corrections — **2**
+- unresolved — **0**
+- recorded boundary controls passed so far — **4/11**:
+  - PDF81→82 — PASS
+  - PDF82→83 — PASS
+  - PDF83→84 — PASS
+  - PDF84→85 — PASS
+- Tamil T2 — **IN PROGRESS**
+- pages remaining — **PDF85–101 / 17 pages**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit** against the rendered source pages in manageable batches. Do not mark Tamil `verified-complete` until every page passes T2 and T3 consolidation.
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 2: PDF85–89 / printed pp.84–88 / 5 pages**.
+
+Audit all five pages line by line against the rendered source scan, including PDF85→86 and the PDF89 ending together with PDF90 only as needed to verify PDF89→90. Do not begin T3 or English.
