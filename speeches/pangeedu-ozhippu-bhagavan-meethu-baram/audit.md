@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF52–65 / printed pp.51–64 / 14 pages  
-**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **COMPLETE / PASS**; English E3 **READY**
+**Current gate:** Tamil **`verified-complete` / FROZEN**; English E1/E2/E3 **COMPLETE / PASS**; English **`verified-complete`**; repository closure **READY**
 
 ## T1 method
 
@@ -206,8 +206,16 @@ English E2 reviewed **PDF52–65 / printed pp.51–64 / 14/14 pages** against th
 
 After E2, `translation-en.md` contains **4 translator/source notes** in total. All are transparency notes for frozen source wording or punctuation; none rewrites the Tamil layer.
 
+## English E3 final verification — COMPLETE / PASS
+
+English E3 re-read **PDF52–65 / printed pp.51–64 / all 14 pages** end to end against the frozen Tamil. It added **4 final corrections / 0 unresolved / 0 Tamil changes**. All **9 E2 corrections** remain consolidated, all **4 translator/source notes** remain retained, and a second complete post-correction sweep found **0 further fidelity issues**.
+
+English is now **`verified-complete`**.
+
+Detailed E2/E3 correction ledgers and verification controls are maintained in `translation-review.md`.
+
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF52–65 / printed pp.51–64 / all 14 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 4.
 
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+No Tamil transcription, English translation, fidelity-review or final-verification work remains pending.
