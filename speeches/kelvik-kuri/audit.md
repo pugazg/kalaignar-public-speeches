@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF66–79 / printed pp.65–78 / 14 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **READY / NOT STARTED**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **IN PROGRESS — Batch 1 PDF66–70 COMPLETE / PASS; 5/14 pages; 4 corrections / 0 unresolved**
 
 ## T1 method
 
@@ -88,6 +88,45 @@ T1 used the historical-glyph guide to distinguish character identity from modern
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 
+## Tamil T2 strict visual audit — Batch 1: PDF66–70 / printed pp.65–69
+
+**Status: COMPLETE / PASS — 5/5 pages.**  
+**Source-supported corrections: 4.**  
+**Unresolved after Batch 1: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 67 | 66 | `காட்சியளிக்கின்றானே. கடவுளே` | `காட்சியளிக்கின்றானே, கடவுளே` — source comma restored |
+| 69 | 68 | `அறிவின், ஆராய்ச்சியின்` | `அறிவின். ஆராய்ச்சியின்` — source full stop restored |
+| 69 | 68 | `முன்னேறித்தான் இருக்குமா?` | `முன்னேறிதான் இருக்குமா?` — source form retained; no normalization |
+| 70 | 69 | opening single quote before `கேள்வி ஞானமின்றி` | quote removed — no opening quotation mark is printed in the source |
+
+### Batch 1 page confirmations
+
+- **PDF66 / printed 65** — title **கேள்விக் குறி!**, repeated `கேள்விக்குறி!`, `தீரவேண்டி யிருக்கிறது`, morning-routine quotation, `மாறித்தான் விட்டது!`, and terminal `யாரெல்லாம் கடவுள்?` — **PASS / retained**.
+- **PDF66→67 continuation** — `யாரெல்லாம் கடவுள்? / எது கடவுள்? யார் கடவுள்?... ` — **PASS**; physical page provenance preserved.
+- **PDF67 / printed 66** — `நித்ய நடைமுறை`, `கடாட்சத்துக்காக`, `காட்சியளிக்கின்றானே,`, `ஊறித் திளைத்திடுவோரின்` — **PASS after 1 correction**.
+- **PDF68 / printed 67** — `குறுநடை`, `நிலைமைக்குஏற்றபடி`, source-spaced `அறிவுக் கேற்றபடி`, `விளக்கந் தந்திடும்`, and terminal `துடிக்கின்றனர்!` — **PASS / 0 corrections**.
+- **PDF69 / printed 68** — `அறிவின். ஆராய்ச்சியின்`, `எதற்காக!`, `தோன்றாம லிருந்துவிட்டால்`, `முன்னேறிதான்`, `பண்படுத்தி யுண்பதும்`, `திரட்டித் தேக்கி` — **PASS after 2 corrections**.
+- **PDF70 / printed 69** — `கேள்வி ஞானமின்றி` without opening quote, `காலவேகத்தோடு கடுகி`, `நாகரிக வாழ்வு`, `நிலைகாட்டுகிறது`, and terminal `தந்தையோடு!` — **PASS after 1 correction**.
+
+### Historical-glyph check — Batch 1
+
+PDF66–70 were checked against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Character identities were decoded before transcription decisions; no global replacement or lexical modernization was used.
+
+Batch 1 unresolved glyph readings: **0**.
+
+## T2 progress
+
+- audited — **PDF66–70 / 5 of 14 pages**
+- printed pages — **65–69**
+- corrections — **4**
+- unresolved — **0**
+- PDF66→67 recorded boundary control — **PASS**
+- Tamil T2 — **IN PROGRESS**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit** against the rendered source pages. Use manageable page batches; do not mark Tamil verified-complete until every page passes T2 and T3 consolidation.
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 2: PDF71–75 / printed pp.70–74 / 5 pages**.
+
+Audit those five pages line by line against the rendered scan, including the PDF72→73, PDF73→74 and PDF75→76 boundary controls as applicable. Do not begin T3 or English.
