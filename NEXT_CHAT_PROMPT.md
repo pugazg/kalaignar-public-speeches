@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 1 PDF80–84
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 2 PDF85–89
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,34 +20,21 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - source range — **PDF80–101 / printed pp.79–100 / 22 pages**
 - PDF102 — **publisher/back-catalogue material / excluded**
 - Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
-- Tamil T2 — **READY / NOT STARTED**
+- Tamil T2 — **IN PROGRESS**
+- T2 Batch 1 — **PDF80–84 / printed pp.79–83 — COMPLETE / PASS**
+- T2 progress — **5/22 pages**
+- T2 corrections — **2**
+- T2 unresolved — **0**
+- recorded boundaries passed — **4/11**: 81→82, 82→83, 83→84, 84→85
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/puranap-pothai/transcription-ta.md`
 - Tamil audit — `speeches/puranap-pothai/audit.md`
-- speech date — **not established / do not infer**
-- item-specific venue — **not established / do not infer**
 
-## T1 durable controls
+## Batch 1 correction ledger
 
-- PDF80–101 coverage — **22/22 exactly once and ordered**
-- printed pp.79–100 — **continuous**
-- explicit unresolved T1 readings — **0**
-- PDF102 excluded from speech body
-- recorded page-boundary controls include:
-  - 81→82
-  - 82→83
-  - 83→84
-  - 84→85
-  - 85→86
-  - 89→90
-  - 91→92
-  - 92→93
-  - 94→95
-  - 95→96
-  - 99→100
-- historical Tamil glyph discipline applies page by page
-- T1 completion is **not** a verification claim
+1. PDF81 — `புதுவாழ்வு பெற்று போதை யேற்றி` → `புதுவாழ்வு பெற்றுப் போதை யேற்றி`
+2. PDF81 — `படிக்காவிட்டாலும் கூட` → source form `படிக்காவிட்டாலுங் கூட`
 
 ## T2 rules
 
@@ -59,13 +46,11 @@ Record every source-supported correction in `audit.md` and apply it to `transcri
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 1: PDF80–84 / printed pp.79–83 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 2: PDF85–89 / printed pp.84–88 / 5 pages**.
 
 Audit all five pages line by line against the rendered source scan. Include:
-- PDF81→82 continuation;
-- PDF82→83 continuation;
-- PDF83→84 continuation;
-- PDF84 ending together with PDF85 only as needed to verify PDF84→85;
-- source-sensitive forms listed in `audit.md`.
+- PDF85→86 continuation;
+- PDF89 ending together with PDF90 only as needed to verify PDF89→90;
+- source-sensitive forms listed in `audit.md`, especially historical glyph identities and the quoted boon dialogue on PDF89.
 
-Do not begin T3 or English. Do not audit PDF85 onward except the minimum adjoining text required for the PDF84→85 boundary.
+Do not begin T3 or English. Do not audit PDF90 onward except the minimum adjoining text required for PDF89→90.
