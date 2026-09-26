@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T1 PDF66–79
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T2 Batch 1 PDF66–70
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,9 +11,6 @@ Constituents **1–4 are FINAL CLOSED / RELEASE READY**.
 
 Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to advance constituent 5.
 
-Constituent 4 final report:
-`speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`
-
 ## Active constituent
 
 - constituent — **5 / 6**
@@ -21,24 +18,43 @@ Constituent 4 final report:
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - source range — **PDF66–79 / printed pp.65–78 / 14 pages**
-- source heading — direct heading on **PDF66**
 - source / duplicate / boundary gate — **PASS / COMPLETE**
-- Tamil T1 — **READY / NOT STARTED**
-- Tamil T2/T3 — blocked pending T1
+- Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
+- Tamil T2 — **READY / NOT STARTED**
+- Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
+- working Tamil — `speeches/kelvik-kuri/transcription-ta.md`
+- Tamil audit — `speeches/kelvik-kuri/audit.md`
 - speech date — **not established / do not infer**
 - item-specific venue — **not established / do not infer**
 
-## Source-faithful Tamil rules
+## T1 durable controls
 
-The controlling scan is authoritative. Transcribe directly from rendered source pages; OCR/parsed text may be used only as an aid. Preserve source spelling, punctuation, spacing, historical forms, repetitions, names, unusual grammar and page correspondence. Do not silently modernize, normalize, repair or supplement from outside sources.
+- PDF66–79 coverage — **14/14 exactly once and ordered**
+- printed pp.65–78 — **continuous**
+- explicit unresolved T1 readings — **0**
+- six page-boundary continuations recorded for T2:
+  - 66→67
+  - 72→73
+  - 73→74
+  - 75→76
+  - 76→77
+  - 77→78
+- historical Tamil glyph discipline applies page by page
+- T1 completion is **not** a verification claim
 
-Keep explicit PDF-page and printed-page headings. Record genuinely uncertain readings rather than guessing. Inspect page-boundary word splits across both adjoining pages before joining them.
+## T2 rules
+
+The controlling scan is authoritative. Compare every line and character against enlarged rendered source pixels. OCR/parsed text is only an aid.
+
+Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. Do not silently modernize or normalize. Re-check the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Record every source-supported correction in `audit.md` and apply it to `transcription-ta.md`. If a reading remains uncertain, record it rather than guessing.
 
 ## Exact next activity
 
-Begin Tamil **T1 first-pass transcription — PDF66–79 / printed pp.65–78 / all 14 pages** for **கேள்விக் குறி!**.
+Tamil **T2 strict visual fidelity audit — Batch 1: PDF66–70 / printed pp.65–69 / 5 pages**.
 
-Create/start `speeches/kelvik-kuri/transcription-ta.md` and `audit.md` as required by the processing guide, preserving explicit page correspondence.
+Audit all five pages line by line against the source scan, including the PDF66→67 continuation and source-sensitive forms listed in `audit.md`.
 
-Do not begin T2, T3 or English in the same step.
+Do not begin T3 or English. Do not audit PDF71 onward in this batch.
