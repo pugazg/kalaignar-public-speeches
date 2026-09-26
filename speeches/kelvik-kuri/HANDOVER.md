@@ -1,5 +1,7 @@
 # HANDOVER — கேள்விக் குறி!
 
+**PASS / FINAL CLOSED / RELEASE READY**
+
 Repository: pugazg/kalaignar-public-speeches
 Branch: main
 Archive: speeches/kelvik-kuri/
@@ -21,7 +23,10 @@ Archive: speeches/kelvik-kuri/
 - English E2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved / 0 Tamil changes**
 - English E3 — **COMPLETE / PASS — 14/14 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
 - English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- pending routine work — **0**
+- final report — `FINAL_CLOSURE.md`
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 - English translation — `translation-en.md`
@@ -97,8 +102,12 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - second post-correction sweep — **0 further fidelity issues**
 - English — **`verified-complete`**
 
-## Exact next activity
+## Final archive state
 
-Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 5.
+Repository closure has passed. Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**, with **8 Tamil T2 corrections / 10 English E2 corrections / 4 English E3 corrections / 0 unresolved**.
 
-Synchronize final speech metadata, README, HANDOVER, root/collection status and create the final closure report only after verifying that Tamil and English textual gates remain complete and no pending fidelity issue exists. Do not reopen either language layer for stylistic polishing.
+No routine next activity remains for this constituent.
+
+## Reopen policy
+
+Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect. Do not reopen for stylistic polishing, modernization, normalization or translation-driven rewriting.
