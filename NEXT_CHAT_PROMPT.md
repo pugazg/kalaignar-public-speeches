@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T2 Batch 1 PDF66–70
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T2 Batch 2 PDF71–75
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,9 +18,13 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - source range — **PDF66–79 / printed pp.65–78 / 14 pages**
-- source / duplicate / boundary gate — **PASS / COMPLETE**
 - Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
-- Tamil T2 — **READY / NOT STARTED**
+- Tamil T2 — **IN PROGRESS**
+- T2 Batch 1 — **PDF66–70 / printed pp.65–69 — COMPLETE / PASS**
+- T2 progress — **5/14 pages**
+- T2 corrections — **4**
+- T2 unresolved — **0**
+- PDF66→67 continuation — **PASS**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/kelvik-kuri/transcription-ta.md`
@@ -28,20 +32,12 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - speech date — **not established / do not infer**
 - item-specific venue — **not established / do not infer**
 
-## T1 durable controls
+## Batch 1 correction ledger
 
-- PDF66–79 coverage — **14/14 exactly once and ordered**
-- printed pp.65–78 — **continuous**
-- explicit unresolved T1 readings — **0**
-- six page-boundary continuations recorded for T2:
-  - 66→67
-  - 72→73
-  - 73→74
-  - 75→76
-  - 76→77
-  - 77→78
-- historical Tamil glyph discipline applies page by page
-- T1 completion is **not** a verification claim
+- PDF67 — `காட்சியளிக்கின்றானே. கடவுளே` → `காட்சியளிக்கின்றானே, கடவுளே`
+- PDF69 — `அறிவின், ஆராய்ச்சியின்` → `அறிவின். ஆராய்ச்சியின்`
+- PDF69 — `முன்னேறித்தான்` → source form `முன்னேறிதான்`
+- PDF70 — removed unsupported opening quote before `கேள்வி ஞானமின்றி`
 
 ## T2 rules
 
@@ -53,8 +49,12 @@ Record every source-supported correction in `audit.md` and apply it to `transcri
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 1: PDF66–70 / printed pp.65–69 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 2: PDF71–75 / printed pp.70–74 / 5 pages**.
 
-Audit all five pages line by line against the source scan, including the PDF66→67 continuation and source-sensitive forms listed in `audit.md`.
+Audit all five pages line by line against the rendered source scan. Include:
+- PDF72→73 continuation;
+- PDF73→74 continuation;
+- PDF75 ending together with PDF76 as needed to verify PDF75→76;
+- source-sensitive dialogue punctuation and historical glyphs listed in `audit.md`.
 
-Do not begin T3 or English. Do not audit PDF71 onward in this batch.
+Do not begin T3 or English. Do not audit PDF76 onward except the minimum adjoining text required to verify the PDF75→76 boundary.
