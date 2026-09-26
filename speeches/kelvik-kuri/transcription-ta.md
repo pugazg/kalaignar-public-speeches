@@ -1,6 +1,6 @@
 # கேள்விக் குறி! — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 14/14; T2 IN PROGRESS — Batch 1 PDF66–70 COMPLETE / PASS with 4 corrections / 0 unresolved; next PDF71–75  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — 14/14; T2 IN PROGRESS — Batches 1–2 PDF66–75 COMPLETE / PASS with 5 corrections / 0 unresolved; next PDF76–79  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0
@@ -121,7 +121,7 @@
 
 நாட்டு மக்களின் கூட்டுக் காரியங்களிலே, முயற்சிகளிலே ஏன் கலந்து கொள்வதில்லை, பலர் பல மக்கள்!
 
-வாழ்விலே அத்தகைய சோகம், சோகம் மட்டுமல்ல, சோகமாகவே வாழ்ந்தால் நல்லது, நிம்மதி. இருக்கிற நிம்மதியான வாழ்வாவது கெட்டுப் போகாது தங்கும், இப்பிறப்பில் இல்லாவிட்டாலும் அப்பிறப்பிலாவது (மறு பிறப்பிலாவது) நல்ல கதியடைவோம் என்று தம்மைத்தாமே தற்குறிகளாக, தன்மானமற்றவராக, ஏன் சிலபல நேரங்களில் தாழாவெட்டிகளாகக் கூட ஆக்கிக் கொள்கின்றனர்.
+வாழ்விலே அத்தகைய சோகம், சோகம் மட்டுமல்ல, சோகமாகவே வாழ்ந்தால் நல்லது, நிம்மதி. இருக்கிற நிம்மதியான வாழ்வாவது கெட்டுப் போகாது தங்கும், இப்பிறப்பில் இல்லாவிட்டாலும் அப்பிறப்பிலாவது (மறு பிறப்பிலாவது) நல்ல கதியடைவோம் என்று தம்மைத்தாமே தற்குறிகளாக, தன்மானமற்றவராக, ஏன் சில பல நேரங்களில் தாழாவெட்டிகளாகக் கூட ஆக்கிக் கொள்கின்றனர்.
 
 பிறரது முன்னேற்றத்தைப் பார்த்துப் பெருமூச்சு விடுவதோடு சரி பலரின் நிலை!
 
