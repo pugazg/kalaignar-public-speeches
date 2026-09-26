@@ -1,10 +1,11 @@
 # ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — English Translation
 
-> **Status:** English E2 fidelity review COMPLETE / PASS — 14/14 pages; 9 corrections / 0 unresolved; E3 READY / NOT STARTED  
+> **Status:** English `verified-complete` — E1 COMPLETE 14/14; E2 COMPLETE / PASS 14/14 with 9 corrections / 0 unresolved; E3 COMPLETE / PASS 14/14 with 4 additional corrections / 0 unresolved  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, unusual constructions and page sequence. Political claims and labels below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **E1 scope:** PDF52–65 / printed pp.51–64 / 14 pages.  
-> **E2:** COMPLETE / PASS — 9 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
+> **E2:** COMPLETE / PASS — 9 corrections / 0 unresolved / 0 Tamil changes.  
+> **E3:** COMPLETE / PASS — 4 additional corrections / 0 unresolved / 0 Tamil changes.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -28,7 +29,7 @@ Though control helped prevent price rises and the wasteful hoarding of goods, cu
 
 Even so, at that time control did satisfy the people's needs to some extent!
 
-Stone-hearted men unwilling to submit to control, hard-hearted traders who, taking advantage of the time, had been selling at whatever prices they wished, together with worthless fellows and middlemen, could no longer show their guise openly and entered the black market.
+Stone-hearted men unwilling to submit to control, hard-hearted traders who, taking advantage of the time, had been selling at whatever prices they wished, together with worthless fellows and middlemen, entered the black market without openly revealing their guise.
 
 They hid the stocks in their hands in secret warehouses and buildings and, instead of selling at a fair price, sold them illicitly at whatever prices they pleased, taking handfuls of money. Whenever such black-marketeers were discovered, whenever they were caught red-handed, appropriate punishment was imposed.
 
@@ -42,7 +43,7 @@ Under that system, suited to the need of that time, there arose—there was crea
 
 In some parts of the country there was a good harvest, while in certain other parts there was no harvest. Not only did foodstuffs needed by the people of the unproductive regions become unavailable at a fair price, the country's total production itself was below what the people of the country required.
 
-At this time, the food famine—the most important among the primary necessities of people's life in the country—began to dance with its hair unbound!
+At this time, famine struck food—the most important among the primary necessities of people's life in the country—and began to dance with its hair unbound!
 
 Taking account of the famine that had begun to dance with its hair unbound and of the horror of hunger, the rulers apportioned and distributed the goods that existed, that were available and that could be obtained, according to the total number of people. The rulers themselves accepted the great responsibility of distributing them!
 
@@ -56,7 +57,7 @@ When necessary, the Government also imported foodstuffs from foreign countries t
 
 A poor worker who had done daily-wage labour and returned home with some little money in his hand could go straight to the shop and easily and reliably obtain the ration rice available to suit his family, and could live with at least some measure of peace.
 
-Before the ‘rationing’ system, in famine-time, when money came into one's hand, rice would not be available in the shop; even if it was available, it would not be available at a fair price! Even if one paid above the fair price, the small quantities that the poor bought—day after day, indeed meal after meal—could be obtained only amid the abuse of having to search, wander, tire oneself out and endure great, endless, unceasing trouble! At some times, even that was simply not available!
+Before the ‘rationing’ system, in famine-time, when money came into one's hand, rice would not be available in the shop; even if it was available, it would not be available at a fair price! Even if one paid above the fair price, the small quantities that the poor bought—day after day, indeed meal after meal—could be obtained only amid complaints about the great, endless, unceasing trouble of having to search, wander and tire oneself out! At some times, even that was simply not available!
 
 In such a distress-filled and dangerous time, only those with means could store food and live contentedly, while others were trapped and writhing in a cruel, inescapable whirlpool of suffering. Food control—the rationing system—brought that condition under control!
 
@@ -186,4 +187,4 @@ Where is the poor man to go to buy rice at a higher price!
 
 Put a question, put a question mark, and ask for what reason, with what inner intention, this talk of placing the burden on Bhagavan is being spoken!
 
-I believe that the ever-new problems, thoughts and answers stirred up by questions, by question marks, will help open up the hearts of the people!
+I believe that the ever-new problems, thoughts and answers stirred up by questions, by question marks, will help lay open the hearts of the people!
