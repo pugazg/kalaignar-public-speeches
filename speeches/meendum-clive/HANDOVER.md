@@ -4,49 +4,40 @@ Repository: `pugazg/kalaignar-public-speeches`
 Branch: `main`  
 Archive: `speeches/meendum-clive/`
 
-## Durable state
+## Final durable state
+
+**PASS / FINAL CLOSED / RELEASE READY**
 
 - parent — புராணப்போதை (1958 source scan)
 - constituent — **3/6**
 - source range — **PDF46–51 / printed pp.45–50 / 6 pages**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
 - Tamil — **`verified-complete` / FROZEN**
-- Tamil T2 — **12 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS**
+- Tamil T2 corrections — **12**
+- Tamil T3 additional source corrections — **0**
+- Tamil T3 consolidation repairs — **0**
+- Tamil unresolved — **0**
 - English E1 — **COMPLETE / 6/6**
 - English E2 — **COMPLETE / PASS / 6/6**
-- E2 corrections — **5**
-- E2 unresolved — **0**
+- English E2 corrections — **5**
 - English E3 — **COMPLETE / PASS / 6/6**
-- E3 additional corrections — **0**
-- E3 unresolved — **0**
+- English E3 additional corrections — **0**
+- English unresolved — **0**
 - English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- repository closure — **COMPLETE / PASS**
+- pending routine work — **0**
+- final report — `FINAL_CLOSURE.md`
 - predecessor constituents 1–2 — **FINAL CLOSED / RELEASE READY**
 
-Frozen Tamil: `transcription-ta.md`.  
-English translation: `translation-en.md`.  
-English fidelity/final-verification ledger: `translation-review.md`.
+## Source-sensitive controls retained
 
-## E3 durable checkpoint
-
-- English page headings PDF46–51 — **6/6 exactly once and ordered**
-- printed-page mapping pp.45–50 — **PASS**
-- Tamil/English substantive paragraph counts by page — **PASS**
-- all **5 E2 corrections** — present
-- stale E1 wording — none
+- PDF46 source title — **மீண்டும் கிளைவ் ?**
 - PDF48→49 and PDF50→51 continuations — **2/2 PASS**
-- PDF50 translator/source note — **retained**
-- omissions / unsupported additions / reversals — none found
-- names / titles / source-sensitive forms — **PASS**
-- rhetorical force / repetition — **PASS**
-- E3 additional corrections — **0**
-- E3 unresolved — **0**
-- frozen Tamil changes during E3 — **0**
+- PDF50 translator/source note for `தம் போக்கிலேயே ஆள வந்தார் நடந்திடுவது` — **retained**
+- source political labels / historical claims remain represented as source rhetoric, not independent validation
+- speech date — **not established / not inferred**
+- item-specific venue — **not established / not inferred**
 
-## Exact next activity
+## Reopen policy
 
-Proceed to **repository closure / archival handover for constituent 3**.
-
-Run final consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection controls. Create the final closure record if all checks pass, mark constituent 3 fully archived, then advance the parent collection to constituent 4 `‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!` Tamil T1.
-
-Do not reopen Tamil or English unless new source evidence or a documented substantive fidelity defect is found.
+No routine next activity remains. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect. Do not reopen for stylistic polishing, modernization, normalization or translation-driven rewriting.

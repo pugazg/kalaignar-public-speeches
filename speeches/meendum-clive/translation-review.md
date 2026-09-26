@@ -70,8 +70,10 @@ The complete English layer was re-read end to end against the frozen Tamil after
 - E3 — **COMPLETE / PASS / 6/6 — 0 additional corrections / 0 unresolved**
 - English — **`verified-complete`**
 
-## Next gate
+## Final archive state
 
-Proceed to **repository closure / archival handover for constituent 3**.
+Repository closure has passed. English remains **`verified-complete`** with **5 E2 corrections / 0 E3 additional corrections / 0 unresolved**. Frozen Tamil remained unchanged through English review and closure.
 
-Do not reopen Tamil or English merely for stylistic polishing. Reopen only for genuinely new source evidence or a documented substantive fidelity defect.
+Final closure report: `FINAL_CLOSURE.md`.
+
+No further English work is pending. Reopen only for genuinely new source evidence or a documented substantive fidelity defect; do not reopen for stylistic polishing.

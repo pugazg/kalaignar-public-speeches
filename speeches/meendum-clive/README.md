@@ -1,6 +1,6 @@
 # மீண்டும் கிளைவ் ?
 
-**Status: Tamil `verified-complete` / FROZEN — English `verified-complete` / E1-E3 COMPLETE-PASS — repository closure READY**
+**Status: PASS / FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -28,7 +28,8 @@ Direct source heading on PDF46.
 - English E2 fidelity review — **COMPLETE / PASS — PDF46–51 / 6/6 pages; 5 corrections / 0 unresolved**
 - English E3 final verification — **COMPLETE / PASS — PDF46–51 / 6/6 pages; 0 additional corrections / 0 unresolved**
 - English — **`verified-complete`**
-- Repository closure — **READY / NOT STARTED**
+- Repository closure — **COMPLETE / PASS**
+- Archive — **FINAL CLOSED / RELEASE READY**
 - canonical frozen Tamil — `transcription-ta.md`
 - Tamil audit record — `audit.md`
 - English first-pass translation — `translation-en.md`
@@ -37,8 +38,10 @@ T1 used direct rendered source pages as authority; OCR/parsed text was only an a
 
 English E1 is now **COMPLETE — 6/6 pages (PDF46–51 / printed pp.45–50)**. Translation used only the frozen Tamil layer and introduced **0 Tamil changes**. One translator/source note records the unusual frozen-Tamil syntax on PDF50 without normalization.
 
-English E3 is now **COMPLETE / PASS — 6/6**, with **0 additional corrections / 0 unresolved** and **0 Tamil changes**. English is now **`verified-complete`**.
+English E3 is **COMPLETE / PASS — 6/6**, with **0 additional corrections / 0 unresolved** and **0 Tamil changes**. English is **`verified-complete`**.
 
-**Next gate:** **Repository closure / archival handover for constituent 3**.
+Final report: `FINAL_CLOSURE.md`.
+
+No routine work remains for this constituent. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.

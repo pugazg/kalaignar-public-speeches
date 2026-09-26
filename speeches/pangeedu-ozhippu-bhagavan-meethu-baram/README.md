@@ -1,6 +1,6 @@
 # ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!
 
-**Status: ONBOARDED / SOURCE-GATED / Tamil T1 READY**
+**Status: ACTIVE / SOURCE-GATED / Tamil T1 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -17,5 +17,5 @@ Source / duplicate / boundary gate: PASS / COMPLETE.
 Speech date: not established. Item-specific venue: not established.
 One source-defined constituent with a two-line heading; not two separate items.
 
-Next gate: Tamil T1 transcription — PDF52–65.
+Next gate: **Tamil T1 transcription — PDF52–65 / printed pp.51–64 / all 14 pages**.
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.

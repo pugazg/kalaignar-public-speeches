@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / constituent 3 Tamil VERIFIED / English VERIFIED / repository closure READY — 6/6 constituents mapped**
+**Status: ACTIVE — constituents 1–3 FINAL CLOSED / constituent 4 Tamil T1 READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -52,10 +52,11 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 - constituents with Tamil T1 complete — **3/6**
 - constituent 1 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 2 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
-- constituent 3 — **ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E1/E2/E3 COMPLETE / PASS; repository closure READY**
-- constituents 4–6 — **Tamil T1 READY / NOT STARTED**
+- constituent 3 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
+- constituent 4 — **ACTIVE / SOURCE-GATED / Tamil T1 READY — PDF52–65 / 14 pages**
+- constituents 5–6 — **Tamil T1 READY / NOT STARTED**
 - Tamil verified constituents — **3/6**
 - English verified constituents — **3/6**
-- fully archived constituents — **2/6**
+- fully archived constituents — **3/6**
 
-Exact next gate: constituent 3 — மீண்டும் கிளைவ் ? — **repository closure / archival handover**.
+Exact next gate: constituent 4 — ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — **Tamil T1 transcription, PDF52–65 / printed pp.51–64 / 14 pages**.

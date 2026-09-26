@@ -1,45 +1,43 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 3 repository closure
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 4 Tamil T1 PDF52–65
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parent collection: `collections/puranappothai-1958/`  
-Active archive: `speeches/meendum-clive/`
+Active archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`  
+Source: `TVA_BOK_0024505_புராணப்போதை.pdf`  
+SHA-256: `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 
-## Durable state
+## Durable collection state
 
-- constituents 1–2 — **FINAL CLOSED / RELEASE READY**
-- active constituent — **3/6**
-- title — `மீண்டும் கிளைவ் ?`
-- source range — **PDF46–51 / printed pp.45–50 / 6 pages**
-- Tamil — **`verified-complete` / FROZEN**
-- English E1 — **COMPLETE / 6/6**
-- English E2 — **COMPLETE / PASS / 6/6 — 5 corrections / 0 unresolved**
-- English E3 — **COMPLETE / PASS / 6/6 — 0 additional corrections / 0 unresolved**
-- English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- source-defined constituents — **6**
+- source-gated — **6/6**
+- constituents 1–3 — **FINAL CLOSED / RELEASE READY**
+- fully archived constituents — **3/6**
+- active constituent — **4/6**
 
-## E3 durable controls
+## Constituent 4 source controls
 
-- English page headings PDF46–51 — **6/6 exactly once and ordered**
-- printed-page mapping pp.45–50 — **PASS**
-- Tamil/English substantive paragraph counts by page — **PASS**
-- all 5 E2 corrections present
-- stale pre-E2 wording absent
-- PDF48→49 and PDF50→51 continuations — **2/2 PASS**
-- PDF50 translator/source note — **retained**
-- omissions / unsupported additions / reversals — none found
-- E3 additional corrections — **0**
-- E3 unresolved — **0**
-- frozen Tamil changes during E3 — **0**
-- no constituent-specific speech date or venue is established
+`‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!`
+
+- source range — **PDF52–65**
+- printed range — **pp.51–64**
+- pages — **14**
+- source / duplicate / boundary gates — **PASS / COMPLETE**
+- Tamil T1 — **READY / NOT STARTED**
+- Tamil T2/T3 — blocked pending T1
+- English — blocked pending Tamil freeze
+- source-defined title spans two lines but is **one constituent**
+- PDF52 is the opening page
+- PDF65 is the final page
+- PDF66 begins constituent 5 `கேள்விக் குறி!`
+- no constituent-specific speech date or venue is established; do not infer either
+
+## T1 rules
+
+Use the controlling scan as authority. OCR/parsed text is aid only. Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. Do not silently modernize or repair wording. Keep explicit PDF/printed-page mapping and mark genuine uncertainty rather than guessing.
 
 ## Exact next activity
 
-Perform **repository closure / archival handover for constituent 3**.
+Process source-faithful **Tamil T1 transcription for PDF52–65 / printed pp.51–64 / all 14 pages**.
 
-1. Run final consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection records.
-2. Create `FINAL_CLOSURE.md` using repository precedent if all checks pass.
-3. Mark constituent 3 **FINAL CLOSED / RELEASE READY** only after closure passes.
-4. Increment parent collection archived count to **3/6**.
-5. Advance active work to constituent 4 `‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!` — PDF52–65 / printed pp.51–64 / 14 pages — Tamil T1.
-6. Do not reopen constituent 3 Tamil/English except for new source evidence or a documented substantive fidelity defect.
+Do not begin T2 or English in the same activity.
