@@ -106,8 +106,10 @@ A second complete post-correction sweep found **0 further English fidelity issue
 - E3 — **COMPLETE / PASS / 14/14 — 4 additional corrections / 0 unresolved**
 - English — **`verified-complete`**
 
-## Next gate
+## Final archive state
 
-English textual verification is complete. Proceed next to **repository-level archival closure / release-readiness synchronization** for constituent 5.
+Repository-level archival closure has passed. English remains **`verified-complete`** with **10 E2 corrections + 4 E3 additional corrections / 0 unresolved**, and frozen Tamil remained unchanged through all English stages and closure.
 
-Do not reopen frozen Tamil or verified English merely for stylistic polishing.
+Final closure report: `FINAL_CLOSURE.md`.
+
+No further English work is pending. Reopen only for genuinely new source evidence or a documented substantive fidelity defect; do not reopen for stylistic polishing.
