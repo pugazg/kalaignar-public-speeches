@@ -1,6 +1,6 @@
 # கேள்விக் குறி!
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE / English E1 COMPLETE / E2 READY**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN — English E1 COMPLETE / E2 COMPLETE / E3 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -24,16 +24,17 @@ Direct source heading on PDF66.
 - Tamil T3 consolidation / freeze — **COMPLETE / PASS — 8/8 T2 corrections reconciled; 0 additional source corrections / 0 consolidation repairs / 0 unresolved**
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — PDF66–79 / 14/14 pages / 0 unresolved / 0 Tamil changes**
-- English E2 fidelity review — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E2 fidelity review — **COMPLETE / PASS — PDF66–79 / 14/14 pages; 10 corrections / 0 unresolved / 0 Tamil changes**
+- English E3 final verification — **READY / NOT STARTED**
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 - English translation — `translation-en.md`
+- English fidelity review — `translation-review.md`
 
 T1 was transcribed from direct rendered source pages; OCR/parsed text was only a locating aid. Page correspondence is explicit for PDF66–79 / printed pp.65–78, and six cross-page continuations are recorded for T2 review.
 
-English E1 is **COMPLETE — PDF66–79 / printed pp.65–78 / 14/14 pages**. It was translated only from the frozen Tamil layer, introduced **0 Tamil changes**, preserves explicit page correspondence, and contains **3 concise translator/source notes** for source-sensitive handling.
+English E1 is **COMPLETE — PDF66–79 / printed pp.65–78 / 14/14 pages**. English E2 is **COMPLETE / PASS — 14/14 pages, 10 corrections / 0 unresolved / 0 Tamil changes**. The corrected English layer now contains **4 concise translator/source notes**.
 
-**Next gate:** English **E2 fidelity review — PDF66–79 / printed pp.65–78 / all 14 pages**. Do not begin E3 before E2 passes.
+**Next gate:** English **E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**. Do not mark English `verified-complete` or begin repository closure before E3 passes.
 
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
