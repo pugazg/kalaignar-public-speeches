@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 3 English E2 PDF46–51
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 3 English E3 final verification
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,26 +12,42 @@ Active archive: `speeches/meendum-clive/`
 - title — `மீண்டும் கிளைவ் ?`
 - source range — **PDF46–51 / printed pp.45–50 / 6 pages**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **COMPLETE / 6 of 6**
-- English E2 — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E1 — **COMPLETE / 6/6**
+- English E2 — **COMPLETE / PASS / 6/6**
+- E2 corrections — **5**
+- E2 unresolved — **0**
+- English E3 — **READY / NOT STARTED**
 - frozen Tamil — `speeches/meendum-clive/transcription-ta.md`
 - English translation — `speeches/meendum-clive/translation-en.md`
+- E2 ledger — `speeches/meendum-clive/translation-review.md`
 
-## E1 source-sensitive controls
+## E2 durable corrections
 
-- translation used only the frozen Tamil layer and introduced **0 Tamil changes**
-- PDF46–51 English page headings preserve explicit PDF / printed-page correspondence
-- PDF48→49 continuation from `England's grip and dominance in India—` to `—for its sovereignty to be established...` is preserved
-- PDF50→51 continuation from `toward the Dravidian—` to `—land...` is preserved
-- PDF50 unusual `தம் போக்கிலேயே ஆள வந்தார் நடந்திடுவது` has a translator/source note; frozen Tamil unchanged
+1. PDF47 — restored repeated `அமைத்திடும் முறையில், அமைத்திடும் போக்கில்` manner/course phrasing.
+2. PDF48 — restored `திரிந்துகொண் டிருந்தான்` as “He went about...”.
+3. PDF48 — `வேலைக்கமர்த்தி` corrected to “placed Clive in an ordinary job...”.
+4. PDF49 — restored `பிடித்தலைந்தவன்` as “a man who went about possessed...”.
+5. PDF51 — `வழிவந்தோரே` rendered as “those who follow in the path...”, avoiding a literal-lineage implication.
+
+## E3 controls
+
+- page coverage / order — **6/6**
+- substantive Tamil/English paragraph correspondence — **PASS**
+- PDF48→49 and PDF50→51 continuations — **2/2 PASS**
+- PDF50 translator/source note — **retained**
+- frozen Tamil changes during E2 — **0**
 - source political labels and historical claims remain represented as historical speech rhetoric, not independent factual validation
-- no constituent-specific speech date or venue is established
 
 ## Exact next activity
 
-English **E2 fidelity review — PDF46–51 / printed pp.45–50 / all 6 pages**.
+English **E3 final end-to-end Tamil→English verification — PDF46–51 / printed pp.45–50 / all 6 pages**.
 
-Compare each English page directly against frozen Tamil. Check omissions, additions, reversals, rhetorical weakening/strengthening, subjects/pronouns, names/titles, unusual source forms, repetition, translator/source-note handling and both page-boundary continuations. Create/update `translation-review.md`, apply only confirmed English corrections, and record correction/unresolved counts.
+Confirm:
+- all 5 E2 corrections are present;
+- stale E1 wording is absent;
+- page headings and paragraph correspondence remain complete;
+- both recorded page-boundary continuations remain intact;
+- the translator/source note survives consolidation;
+- no omission, unsupported addition, reversal, subject/pronoun drift, name/title drift or rhetorical loss remains.
 
-Do not begin E3.
+Only after E3 passes may English be marked `verified-complete`.

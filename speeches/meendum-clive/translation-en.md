@@ -1,6 +1,6 @@
 # மீண்டும் கிளைவ் ? — English Translation
 
-> **Status:** English E1 first-pass translation COMPLETE — 6/6 pages translated (PDF46–51 / printed pp.45–50); English E2 fidelity review READY  
+> **Status:** English E1 COMPLETE — 6/6; English E2 fidelity review COMPLETE / PASS — PDF46–51 / 6/6 pages, 5 corrections / 0 unresolved; English E3 final verification READY  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Political labels and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
@@ -27,7 +27,7 @@ The speech Sri Prakasa delivered at that felicitation function is one that deser
 
 Clive's heir! Sri Prakasa imagines himself thus as soon as he is appointed Governor of Madras!
 
-Clive, Robert Clive, was the man who sowed the seed for the British grip to arise in India, for British dominance first to take root in India! To do that Clive's work—to arrange the ways, means and facilities so that the grip of the North might be firmly established over the Madras Province—he has dreamed that he is being sent as Clive's heir; not only has he dreamed it, he has also said that he is going to Madras precisely to make it a reality.
+Clive, Robert Clive, was the man who sowed the seed for the British grip to arise in India, for British dominance first to take root in India! To carry on that Clive's work—to proceed in a manner, in a course of action, that would arrange the ways, means and facilities for the grip of the North to be firmly established over the Madras Province—he has dreamed that he is being sent as Clive's heir; not only has he dreamed it, he has also said that he is going to Madras precisely to make it a reality.
 
 What else can be the meaning of saying, ‘I am going as Clive's heir; I am being sent as Clive's heir’? Think, friends, think!
 
@@ -39,13 +39,13 @@ History describes him as a roughneck, a fool, an utter idler, someone incapable 
 
 As a boy, Clive was one who did no work at all, not merely one who did nothing. He wandered about the town unwilling to do anything at all!
 
-Local quarrels and local fights were his world, his excitement, his life of pleasure.
+He went about in a state in which local quarrels and local fights were his world, his excitement, his life of pleasure.
 
 Going down into drains, rolling in mud, creating noise and commotion—Clive regarded these as his daily duty.
 
 Unable to bear the townspeople's scorn and the taunting words of relatives, his parents kept crying out in anguish as they thought of their son.
 
-At this time, they obtained for Clive an ordinary job in the English trading company called the East India Company in India and sent him to India.
+At this time, they placed Clive in an ordinary job with the English trading company called the East India Company in India and sent him to India.
 
 Unable to endure his uproar and the trouble he caused in England, they suffered and sent him to India thinking that it would be enough if he were simply gone. His family did so with the fervent hope that perhaps his rampage would subside at least in a foreign country.
 
@@ -55,7 +55,7 @@ Clive arrived in India, joined the army and, for England's grip and dominance in
 
 —for its sovereignty to be established, he sowed the seed and laid the foundation: a truth history has witnessed, and a truth known to everyone as well!
 
-Clive was rough, brutal and obstinate, possessed by the frenzy that whatever he thought of had to be done blindly and had to be carried through to completion.
+Clive was rough, brutal and obstinate, a man who went about possessed by the frenzy that whatever he thought of had to be done blindly and had to be carried through to completion.
 
 This kind of Clive's brutality and obstinate frenzy, in one way, under the circumstances of that time, greatly helped England's victory in India!
 
@@ -85,4 +85,4 @@ The Congressmen who had shouted “democracy, democracy” until their throats h
 
 Clive again? An imperialism again—northern imperialism—efforts are proceeding at full force for it to operate and take firm root in the Dravidian land!
 
-Dravidians! People of self-respect! Those who come in the line of Thalamuthu Natarasan! Should we not stop it? Clive again! Can we allow it to happen? Is it right? Is it just? Think about it.
+Dravidians! People of self-respect! Those who follow in the path of Thalamuthu Natarasan! Should we not stop it? Clive again! Can we allow it to happen? Is it right? Is it just? Think about it.
