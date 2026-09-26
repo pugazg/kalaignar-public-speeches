@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 English E3 final verification
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 repository closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,58 +9,41 @@ Active archive: `speeches/kelvik-kuri/`
 
 Constituents **1–4 are FINAL CLOSED / RELEASE READY**.
 
-Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to advance constituent 5.
+Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to close constituent 5.
 
-## Active constituent
+## Constituent 5 verified state
 
 - constituent — **5 / 6**
 - title — **கேள்விக் குறி!**
 - source range — **PDF66–79 / printed pp.65–78 / 14 pages**
 - Tamil — **`verified-complete` / FROZEN**
+- Tamil T2 — **COMPLETE / PASS — 14/14 / 8 corrections / 0 unresolved**
+- Tamil T3 — **COMPLETE / PASS — 8/8 reconciled / 0 additional source corrections / 0 repairs / 0 unresolved**
 - English E1 — **COMPLETE — 14/14**
-- English E2 — **COMPLETE / PASS — 14/14**
-- E2 corrections — **10**
-- E2 unresolved — **0**
-- Tamil changes during E2 — **0**
-- translator/source notes after E2 — **4**
-- English E3 — **READY / NOT STARTED**
+- English E2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved / 0 Tamil changes**
+- English E3 — **COMPLETE / PASS — 14/14 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
+- English — **`verified-complete`**
+- translator/source notes — **4/4 retained**
+- six recorded page-boundary continuations — **PASS**
+- second post-E3 correction sweep — **0 further English fidelity issues**
+- repository closure — **READY / NOT STARTED**
 - frozen Tamil — `speeches/kelvik-kuri/transcription-ta.md`
-- English translation — `speeches/kelvik-kuri/translation-en.md`
-- English review — `speeches/kelvik-kuri/translation-review.md`
+- verified English — `speeches/kelvik-kuri/translation-en.md`
+- review record — `speeches/kelvik-kuri/translation-review.md`
 
-## E2 correction ledger summary
+## E3 final corrections
 
-1. PDF67 — restored the source's bound/unrestrained obligation contrast.
-2. PDF69 — repaired the natural-resources / human-comfort sentence structure.
-3. PDF70 — corrected attachment in the progressive-life / pace-of-the-times phrase.
-4. PDF72 — “climb right over you” → “run right over you”.
-5. PDF72 — added transparent note for source insult `மூதேவி`.
-6. PDF74 — removed unsupported plural-wife sense: “marry, have children”.
-7. PDF74 — removed unsupported “given to man” wording.
-8. PDF75 — `தற்குறிகளாக` → “illiterates”.
-9. PDF78 — `அடிமைகள்` → “slaves” to preserve rhetorical force.
-10. PDF78 — `பொது உரிமை, பொது உடைமை` → “common rights and common ownership”.
-
-## E3 rules
-
-Re-read the complete corrected English against the frozen Tamil from PDF66 through PDF79.
-
-Verify:
-- all 10 E2 corrections are present;
-- all 4 translator/source notes are retained and accurate;
-- stale E1 wording is absent;
-- 14/14 page headings and printed-page mapping remain exact;
-- all six cross-page continuations remain coherent;
-- question/question-mark repetition and rhetorical force are retained;
-- parent-child dialogue remains source-faithful;
-- names and mythological/religious terms are handled consistently;
-- no omissions, unsupported additions or meaning reversals remain;
-- PDF79 ends the constituent cleanly.
-
-Political and religious claims/labels remain source rhetoric; E3 verifies translation fidelity, not their truth or endorsement.
+1. PDF68 — “newer and newer question marks” → **“newer and newer questions”**.
+2. PDF69 — restored `விடிவெள்ளி` metaphor as **“the morning star of debate that leads to explanation”**.
+3. PDF74 — `சத்தற்ற` corrected from “inert” to **“substance-less”**.
+4. PDF78 — `பொதுவில், பொது வாழ்வில்` corrected to **“I ask this generally, in public life...”**.
 
 ## Exact next activity
 
-English **E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 5.
 
-If E3 passes, mark English **`verified-complete`** and advance to repository-level archival closure. Do not perform repository closure in the same step.
+Verify the Tamil and English verified states and all control counters remain internally consistent, create `speeches/kelvik-kuri/FINAL_CLOSURE.md`, convert the constituent to **FINAL CLOSED / RELEASE READY**, and synchronize speech, parent collection and root controls.
+
+After closure, advance the parent collection conservatively to constituent 6 — **புராணப் போதை!**, PDF80–101 / printed pp.79–100 / 22 pages — Tamil T1 **READY / NOT STARTED**.
+
+Do **not** start constituent 6 Tamil T1 in the same closure step unless live controls explicitly require it.
