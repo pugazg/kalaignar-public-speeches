@@ -1,9 +1,10 @@
 # ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — English Translation
 
-> **Status:** English E1 FIRST-PASS COMPLETE — 14/14 pages; E2 READY / NOT STARTED; E3 blocked pending E2  
+> **Status:** English E2 fidelity review COMPLETE / PASS — 14/14 pages; 9 corrections / 0 unresolved; E3 READY / NOT STARTED  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, unusual constructions and page sequence. Political claims and labels below are translated as source rhetoric; they are not independently validated or endorsed.  
-> **E1 scope:** PDF52–65 / printed pp.51–64 / 14 pages. E1 introduces 0 Tamil changes and is not an English fidelity-review claim.  
+> **E1 scope:** PDF52–65 / printed pp.51–64 / 14 pages.  
+> **E2:** COMPLETE / PASS — 9 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -13,7 +14,7 @@
 #### Abolition of ‘Rationing’!
 #### The Burden on Bhagavan!
 
-At the time the great Second World War ended, in the countries of the world that had been battlefields, that had been made battlefields, did not India too experience food shortage and a scarcity of the basic necessities of life?
+At the time the great Second World War ended, in the countries of the world that had been battlefields, that had been made battlefields, did not India too experience food shortage and a scarcity of the necessities that sustain life?
 
 Scarcity! Food, clothing, shelter, and many, many other things needed for life could not be obtained in the required quantity, at the required time, by those who needed them—by those who needed them with the greatest necessity and urgency. That helpless condition did indeed begin in the Indian subcontinent as a result of the Second World War!
 
@@ -27,7 +28,7 @@ Though control helped prevent price rises and the wasteful hoarding of goods, cu
 
 Even so, at that time control did satisfy the people's needs to some extent!
 
-Stone-hearted men unwilling to submit to control, hard-hearted traders who, taking advantage of the time, had been selling at whatever prices they wished, together with idlers and middlemen, could no longer show their guise openly and entered the black market.
+Stone-hearted men unwilling to submit to control, hard-hearted traders who, taking advantage of the time, had been selling at whatever prices they wished, together with worthless fellows and middlemen, could no longer show their guise openly and entered the black market.
 
 They hid the stocks in their hands in secret warehouses and buildings and, instead of selling at a fair price, sold them illicitly at whatever prices they pleased, taking handfuls of money. Whenever such black-marketeers were discovered, whenever they were caught red-handed, appropriate punishment was imposed.
 
@@ -41,7 +42,7 @@ Under that system, suited to the need of that time, there arose—there was crea
 
 In some parts of the country there was a good harvest, while in certain other parts there was no harvest. Not only did foodstuffs needed by the people of the unproductive regions become unavailable at a fair price, the country's total production itself was below what the people of the country required.
 
-At this time, among the first necessities needed for people's life in the country, the most important necessity—food—fell into famine, and famine began to dance with its hair unbound!
+At this time, the food famine—the most important among the primary necessities of people's life in the country—began to dance with its hair unbound!
 
 Taking account of the famine that had begun to dance with its hair unbound and of the horror of hunger, the rulers apportioned and distributed the goods that existed, that were available and that could be obtained, according to the total number of people. The rulers themselves accepted the great responsibility of distributing them!
 
@@ -75,11 +76,11 @@ Over time, under the Congress Government that claimed, ‘We are the people endo
 
 ### PDF page 57 — printed page 56
 
-—into an ant’: not only did it fall from sixteen ounces to below six ounces, but the apostles of non-violence (!) who went about as food ministers even preached to human beings, ‘Live by eating cottonseed, tamarind seed, and even the oil-cake eaten by cattle,’ and the system collapsed, disintegrated, decayed and was ruined into such a degraded state!
+—into an ant’: not only did it fall from sixteen ounces to below six ounces, but the embodiments of non-violence (!) who went about as food ministers even preached to human beings, ‘Live by eating cottonseed, tamarind seed, and even the oil-cake eaten by cattle,’ and the system collapsed, disintegrated, decayed and was ruined into such a degraded state!
 
 There were natural failures too! The monsoon failed; for many years there was no rain; the fertility of the soil declined; produce fell to a certain level. I state at the outset that we speak while taking all these things into account.
 
-If we consider the produce that is grown, the goods that are needed, the goods procured by the Government, and the goods that somehow escape procurement in between—if we look even at the statistics supplied by the Government itself—can it fail to become apparent that the obstacles behind the food shortage are the Government's failure to procure properly, transport, the safeguarding of foodstuffs, and the lack of attention to the scale of losses occurring in between—
+If we consider the produce that is grown, the goods that are needed, the goods procured by the Government, and the goods that somehow escape procurement in between—if we look even at the statistics supplied by the Government itself—can it fail to become apparent that the obstacles behind the food shortage are the Government's failure to procure properly and its lack of attention to transport, the safeguarding of foodstuffs, and the scale of losses occurring in between—
 
 ### PDF page 58 — printed page 57
 
@@ -106,6 +107,8 @@ On all four sides of the country, the great flood of tears of unemployed handloo
 On one side are those who suffer unemployed because of prohibition; on another side is the pitiable multitude of farm labourers suffering without rain, looking to their honour, fearing for their honour, their very lives tormented;
 
 (Factory workers who, even after working, suffer without the required facilities or wages proportionate to their labour, and still other workers! Between them, neither this nor that—neither poor nor rich—those living month after month on some small amount—
+
+> **Translator/source note:** The frozen Tamil in the drought/farm-labour passage reads `மானத்தைப் பார்த்து மானத்திற்கஞ்சி`. E2 retains its literal honour-related sense rather than silently normalizing the frozen wording.
 
 ### PDF page 60 — printed page 59
 
@@ -135,7 +138,7 @@ It is all the work of Achariyar, who rules by placing the burden on Bhagavan; a 
 
 Achariyar announced, ‘I have abolished the food-rationing system by placing the burden on Bhagavan.’
 
-About the rationing system there were defects, offences and corruptions so unceasing, unending and unresolved that one might think them impossible to solve—not because the system itself was wrong, but because of disorderly methods that could not carry the system out. Many people began to speak about them, condemn them, point them out and question them. Was the thought of that the reason? Fear? The act of a helpless coward? What is the true reason for the abolition of rationing!
+Was it the thought that many people had dared to speak about, condemn, point out and question the unceasing, unending defects, offences and corruptions—defects not of the system itself, but of improper methods that made it impossible to carry the system out? Fear? The act of a helpless coward? What is the true reason for the abolition of rationing!
 
 The burden is on Bhagavan, they say. For the abolition of rationing!
 
@@ -143,7 +146,7 @@ The burden is on Bhagavan, they say. For the abolition of rationing!
 
 ### PDF page 62 — printed page 61
 
-Rationing—from the person who has it. After leaving him what he too needs, treating and distributing it as with everyone else, the Government itself buys produce for a price and directly rations it to the people at a fair price: a good, honest and civilized system. Is it said today to be unnecessary not because the condition of things has made that clear, but because administrative deficiency and disorder caused agitation among the people of the country, because the grievance expressed through their mental distress could not be avoided—and not only could not be avoided, but because there was no intention even to avoid it? Will the people not ask this when they once again suffer under the former famine condition, unable to bear the burden of crushing high prices?
+Rationing—from the person who has it. After considering him on the same basis as everyone else and allotting him what he needs, the Government itself buys produce for a price and directly rations it to the people at a fair price: a good, honest and civilized system. Is it said today to be unnecessary not because the condition of things has made that clear, but because administrative deficiency and disorder caused agitation among the people of the country, because the grievance expressed through their mental distress could not be avoided—and not only could not be avoided, but because there was no intention even to avoid it? Will the people not ask this when they once again suffer under the former famine condition, unable to bear the burden of crushing high prices?
 
 They removed the rationing system without thinking! From the very next moment, did prices—the prices of foodstuffs—not begin to rise? Why the silence?
 
@@ -171,7 +174,7 @@ On one side, the rulers open gruel centres in the country to sustain the battali
 
 At the same time, ‘Do you want good rice? Pay a higher price and buy it. Do you want rotten rice? Go to the ration shop’—without saying this directly, is this not the roundabout, planned and controlled system, the condition in which the people are held after rationing was abolished?
 
-‘Why not give sixteen ounces? Procure properly. Do not lean, bend and bow toward mitta, mirasu and the farm proprietor’—is this abolition of rationing the action taken in answer to the voices the people raised in this way?
+‘Why not give sixteen ounces? Procure properly. Do not lean, stoop, bow and give way toward mitta, mirasu and the farm proprietor’—is this abolition of rationing the action taken in answer to the voices the people raised in this way?
 
 ‘Do not ask me. Why should I have this trouble? Go to ruin somehow,’—is this the relief given to those without work, withering without a way or means? Is it a treacherous scheme for destruction?
 
