@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–4 FINAL CLOSED / constituent 5 Tamil+English VERIFIED / repository closure READY — 6/6 constituents mapped**
+**Status: ACTIVE — constituents 1–5 FINAL CLOSED / constituent 6 Tamil T1 READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -54,10 +54,10 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 - constituent 2 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 3 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 4 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`**
-- constituent 5 — **ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E1 COMPLETE 14/14; E2 COMPLETE / PASS with 10 corrections / 0 unresolved; E3 COMPLETE / PASS with 4 additional corrections / 0 unresolved; repository closure READY — கேள்விக் குறி!**
-- constituent 6 — **Tamil T1 READY / NOT STARTED**
+- constituent 5 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/kelvik-kuri/FINAL_CLOSURE.md`**
+- constituent 6 — **ACTIVE — SOURCE-GATED / Tamil T1 READY / NOT STARTED — புராணப் போதை! / PDF80–101 / printed pp.79–100 / 22 pages**
 - Tamil verified constituents — **5/6**
 - English verified constituents — **5/6**
-- fully archived constituents — **4/6**
+- fully archived constituents — **5/6**
 
-Exact next gate: constituent 5 — **கேள்விக் குறி! — repository-level archival closure / release-readiness synchronization**.
+Exact next gate: constituent 6 — **புராணப் போதை! — Tamil T1 transcription, PDF80–101 / printed pp.79–100 / all 22 pages**.
