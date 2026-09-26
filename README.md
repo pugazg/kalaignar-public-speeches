@@ -555,7 +555,7 @@ Repository-level closure is complete. No transcription, translation, review, ver
 
 ### Active work — புராணப்போதை (1958 source booklet)
 
-`collections/puranappothai-1958/` is **ACTIVE — constituents 1–3 FINAL CLOSED / constituent 4 Tamil+English VERIFIED / repository closure READY; 6/6 constituents mapped**.
+`collections/puranappothai-1958/` is **ACTIVE — constituents 1–4 FINAL CLOSED / constituent 5 Tamil T1 READY; 6/6 constituents mapped**.
 
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
@@ -570,20 +570,16 @@ Repository-level closure is complete. No transcription, translation, review, ver
 - constituent 1 — **FINAL CLOSED / RELEASE READY**; final report `speeches/kuttik-kathaigal-kurangaattam/FINAL_CLOSURE.md`
 - constituent 2 — **FINAL CLOSED / RELEASE READY**; Tamil and English `verified-complete`; final report `speeches/sadugudu-vilaiyaatta-savaal-sandaiya/FINAL_CLOSURE.md`
 - constituent 3 — **FINAL CLOSED / RELEASE READY**; Tamil and English `verified-complete`; final report `speeches/meendum-clive/FINAL_CLOSURE.md`
-- fully archived — **3/6**
-- active constituent — ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!, PDF52–65 / printed pp.51–64 / 14 pages
-- active constituent Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
-- active constituent Tamil T2 — **COMPLETE / PASS — PDF52–65 / 14 of 14 pages / 10 corrections / 0 unresolved**
-- active constituent Tamil T3 — **COMPLETE / PASS — 10/10 reconciled / 0 additional source corrections / 0 repairs / 0 unresolved**
-- active constituent Tamil — **`verified-complete` / FROZEN**
-- active constituent English E1 — **FIRST-PASS COMPLETE — PDF52–65 / 14/14 pages / 0 unresolved**
-- active constituent English E2 — **COMPLETE / PASS — PDF52–65 / 14/14 pages / 9 corrections / 0 unresolved / 0 Tamil changes**
-- active constituent English E3 — **COMPLETE / PASS — PDF52–65 / 14/14 pages / 4 additional corrections / 0 unresolved / 0 Tamil changes**
-- active constituent English — **`verified-complete`**
-- active constituent repository closure — **READY / NOT STARTED**
+- constituent 4 — **FINAL CLOSED / RELEASE READY**; Tamil and English `verified-complete`; final report `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`
+- fully archived — **4/6**
+- active constituent — **கேள்விக் குறி!**, PDF66–79 / printed pp.65–78 / 14 pages
+- active constituent source / duplicate / boundary gates — **PASS / COMPLETE**
+- active constituent Tamil T1 — **READY / NOT STARTED**
+- active constituent Tamil T2/T3 — **blocked pending T1**
+- active constituent English — **blocked pending Tamil freeze**
 
 Source-structure controls: PDF29 reads சடுகுடு விளையாட்டா? சவால் சண்டையா?; அரசியல் அரிபரந்தாமன் ... ஆச்சாரியாருக்கு அபயம் is internal to constituent 2; ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! is one constituent.
 
 The user supplied 1953, but the controlling scan prints February 1958; the archive follows the scan.
 
-Exact next gate: constituent 4 **repository-level archival closure / release-readiness synchronization**.
+Exact next gate: constituent 5 **Tamil T1 transcription — PDF66–79 / printed pp.65–78 / all 14 pages**.
