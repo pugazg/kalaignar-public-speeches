@@ -10,7 +10,7 @@ Archive: speeches/puranap-pothai/
 - duplicate gate — PASS
 - boundary gate — PASS
 - Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
-- Tamil T2 — **IN PROGRESS — Batches 1–3 PDF80–94 COMPLETE / PASS; 15/22 pages; 3 corrections / 0 unresolved**
+- Tamil T2 — **IN PROGRESS — Batches 1–4 PDF80–99 COMPLETE / PASS; 20/22 pages; 4 corrections / 0 unresolved**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - canonical working Tamil — `transcription-ta.md`
@@ -26,19 +26,19 @@ Archive: speeches/puranap-pothai/
 - historical-glyph discipline — applied during T1; full page-by-page confirmation remains for T2
 - no constituent-specific speech date or venue inferred
 
-## T2 checkpoint after Batch 3
+## T2 checkpoint after Batch 4
 
-- audited — **PDF80–94 / printed pp.79–93 / 15/22 pages**
-- cumulative corrections — **3**
+- audited — **PDF80–99 / printed pp.79–98 / 20/22 pages**
+- cumulative corrections — **4**
 - unresolved — **0**
-- recorded boundary controls passed — **9/11**: 81→82, 82→83, 83→84, 84→85, 85→86, 89→90, 91→92, 92→93, 94→95
+- recorded boundary controls passed — **11/11**
 - historical-glyph checks — **PASS / 0 unresolved**
-- pages remaining for T2 — **PDF95–101 / 7 pages**
+- pages remaining for T2 — **PDF100–101 / 2 pages**
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 4: PDF95–99 / printed pp.94–98 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 5 / FINAL: PDF100–101 / printed pp.99–100 / 2 pages**.
 
-Compare all five pages line by line against the rendered source scan. Include PDF95→96 and inspect the PDF99 ending together with PDF100 only as needed to verify PDF99→100.
+Compare both pages line by line against the rendered source scan. Confirm the PDF101 terminal constituent ending and that PDF102 is publisher/back-catalogue material outside the body.
 
 Apply only source-supported corrections to `transcription-ta.md` and log them in `audit.md`. Do not begin T3 or English.
