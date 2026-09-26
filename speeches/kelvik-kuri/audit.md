@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF66–79 / printed pp.65–78 / 14 pages  
-**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **READY**
+**Current gate:** Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **COMPLETE / PASS**; English E3 **READY**
 
 ## T1 method
 
@@ -261,8 +261,14 @@ E1 checkpoint:
 
 E1 completion is not an English fidelity-review claim.
 
+## English E2 fidelity review — COMPLETE / PASS
+
+English E2 reviewed **PDF66–79 / printed pp.65–78 / 14/14 pages** against the frozen Tamil and consolidated **10 corrections / 0 unresolved**, with **0 Tamil changes**. The detailed correction ledger and coverage record are maintained in `translation-review.md`.
+
+After E2, `translation-en.md` contains **4 translator/source notes** in total.
+
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF66–79 / printed pp.65–78 / all 14 pages** against the frozen Tamil.
+Proceed to **English E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**.
 
-Do not begin E3 until E2 is complete.
+Do not mark English `verified-complete` or begin repository closure until E3 passes.
