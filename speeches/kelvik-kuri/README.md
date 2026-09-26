@@ -1,6 +1,6 @@
 # கேள்விக் குறி!
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE / T2 IN PROGRESS — 10/14 pages / 5 corrections / 0 unresolved**
+**Status: ACTIVE — Tamil T1 COMPLETE / T2 COMPLETE / PASS — 14/14 pages / 8 corrections / 0 unresolved / T3 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -20,14 +20,14 @@ Direct source heading on PDF66.
 ## Tamil workflow
 
 - Tamil T1 — **FIRST-PASS COMPLETE — PDF66–79 / 14/14 pages / 0 explicit unresolved**
-- Tamil T2 strict visual audit — **IN PROGRESS — Batches 1–2 PDF66–75 COMPLETE / PASS; 10/14 pages; 5 corrections / 0 unresolved**
-- Tamil T3 — blocked pending T2
+- Tamil T2 strict visual audit — **COMPLETE / PASS — PDF66–79 / 14/14 pages; 8 corrections / 0 unresolved; 6/6 recorded boundaries PASS**
+- Tamil T3 consolidation / freeze — **READY / NOT STARTED**
 - English — blocked pending Tamil freeze
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
 T1 was transcribed from direct rendered source pages; OCR/parsed text was only a locating aid. Page correspondence is explicit for PDF66–79 / printed pp.65–78, and six cross-page continuations are recorded for T2 review.
 
-**Next gate:** Tamil **T2 Batch 3 / FINAL — PDF76–79 / printed pp.75–78 / 4 pages**. Audit line by line against rendered source pixels. Do not begin T3 or English.
+**Next gate:** Tamil **T3 consolidation / freeze — PDF66–79 / printed pp.65–78 / all 14 pages**. Reconcile all 8 T2 corrections and freeze only if 0 unresolved. Do not begin English before Tamil is frozen.
 
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
