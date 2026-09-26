@@ -19,7 +19,9 @@ Archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — 14/14 / PDF52–65 / printed pp.51–64 / 0 unresolved**
 - English E2 — **COMPLETE / PASS — 14/14 / 9 corrections / 0 unresolved / 0 Tamil changes**
-- English E3 — **READY / NOT STARTED**
+- English E3 — **COMPLETE / PASS — 14/14 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
+- English — **`verified-complete`**
+- repository closure — **READY / NOT STARTED**
 - predecessor constituents 1–3 — **FINAL CLOSED / RELEASE READY**
 
 Canonical frozen Tamil: `transcription-ta.md`.  
@@ -62,10 +64,20 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - review record — `translation-review.md`
 - E2 status — **COMPLETE / PASS**
 
+## English E3 checkpoint
+
+- coverage — **PDF52–65 / printed pp.51–64 / 14/14**
+- E3 additional corrections — **4**
+- E3 unresolved — **0**
+- frozen Tamil changes — **0**
+- all 9 E2 corrections — **present**
+- all 4 E3 corrections — **present**
+- translator/source notes — **4/4 retained**
+- second post-correction sweep — **0 further fidelity issues**
+- English — **`verified-complete`**
+
 ## Exact next activity
 
-English **E3 final end-to-end verification — PDF52–65 / printed pp.51–64 / all 14 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 4.
 
-Re-read the corrected `translation-en.md` against the frozen Tamil from beginning to end. Verify all 9 E2 corrections, all 4 translator/source notes, page-boundary continuations, repeated rhetoric, subjects/pronouns, names/titles and the terminal `நம்புகிறேன்!` sentence.
-
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+Synchronize final speech metadata, README, HANDOVER, root/collection status and create the final closure report only after verifying that Tamil and English textual gates remain complete and no pending fidelity issue exists. Do not reopen either language layer for stylistic polishing.
