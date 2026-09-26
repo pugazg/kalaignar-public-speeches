@@ -1,6 +1,6 @@
 # புராணப் போதை!
 
-**Status: ACTIVE — SOURCE-GATED / Tamil T1 READY / NOT STARTED**
+**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE / T2 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -17,5 +17,17 @@ Source / duplicate / boundary gate: PASS / COMPLETE.
 Speech date: not established. Item-specific venue: not established.
 Direct source heading on PDF80. PDF102 is publisher/back-catalogue material.
 
-Next gate: Tamil T1 transcription — PDF80–101.
+## Tamil workflow
+
+- Tamil T1 — **FIRST-PASS COMPLETE — PDF80–101 / 22/22 pages / 0 explicit unresolved**
+- Tamil T2 strict visual audit — **READY / NOT STARTED**
+- Tamil T3 — blocked pending T2
+- English — blocked pending Tamil freeze
+- working transcript — `transcription-ta.md`
+- audit record — `audit.md`
+
+T1 was transcribed from direct rendered source pages; OCR/parsed text was only a locating aid. Page correspondence is explicit for PDF80–101 / printed pp.79–100. PDF102 remains excluded as publisher/back-catalogue material.
+
+**Next gate:** Tamil **T2 strict visual fidelity audit — PDF80–101 / printed pp.79–100 / all 22 pages**. Use manageable source-comparison batches. Do not begin T3 or English before T2 passes.
+
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
