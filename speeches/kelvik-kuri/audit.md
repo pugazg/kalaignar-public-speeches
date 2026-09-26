@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF66–79 / printed pp.65–78 / 14 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **IN PROGRESS — Batch 1 PDF66–70 COMPLETE / PASS; 5/14 pages; 4 corrections / 0 unresolved**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **IN PROGRESS — Batches 1–2 PDF66–75 COMPLETE / PASS; 10/14 pages; 5 corrections / 0 unresolved**
 
 ## T1 method
 
@@ -125,8 +125,49 @@ Batch 1 unresolved glyph readings: **0**.
 - PDF66→67 recorded boundary control — **PASS**
 - Tamil T2 — **IN PROGRESS**
 
+## Tamil T2 strict visual audit — Batch 2: PDF71–75 / printed pp.70–74
+
+**Status: COMPLETE / PASS — 5/5 pages.**  
+**Source-supported corrections: 1.**  
+**Unresolved after Batch 2: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 75 | 74 | `ஏன் சிலபல நேரங்களில்` | `ஏன் சில பல நேரங்களில்` — source word spacing restored |
+
+### Batch 2 page confirmations
+
+- **PDF71 / printed 70** — `காண்கிறான்?`, dialogue punctuation, `சிடு சிடுத்துச் சீறி விழுவார்`, `மோட்டார்கார்`, open quotation before `மோட்டார்கார்`, `கார் எப்படிப் போவுது என்று கேட்பான்`, and `எண்ணிக்கிடப்பது` — **PASS / 0 corrections**.
+- **PDF72 / printed 71** — source-open dialogue punctuation, `பெட்ரோல்னு என்னுப்பா`, `வேணும்ப்பா`, `மூதேவி நீ வாழற லட்சணத்துக் கார் வேறயா`, `கிளப்பிக் குழப்பிக்`, `உள்ளடங்கி யிருக்கிறது!` — **PASS / 0 corrections**.
+- **PDF72→73 continuation** — `... செய்திகள் தெரியாதது / மட்டுமல்ல, புரியாத நிலையுங்கூட...` — **PASS**.
+- **PDF73 / printed 72** — `இதை யொளித்துப்`, `‘ஏனோ தானோ’ வென்று`, `வாழ்த்திப்போகும்`, `சந்ததிகட்குமே`, `தாள நடை`, `தன்னிஷ்டப்படி`, and terminal `... துதித்துப் போகிற கதிக்குப்` — **PASS / 0 corrections**.
+- **PDF73→74 continuation** — `... துதித்துப் போகிற கதிக்குப் / புண்ணியந் தேடுவது...` — **PASS**.
+- **PDF74 / printed 73** — `புண்ணியந் தேடுவது`, source punctuation `மிக மிகச் சத்தற்ற. சுவையேதுமற்ற`, `உள்ளஅறிவை`, `இருந்திடுவானேன்?`, `சர்வ சாதாரணமாகப்`, and `நாகரிக வாழ்விலே` — **PASS / 0 corrections**.
+- **PDF75 / printed 74** — `சில பல` spacing restored; `தாழாவெட்டிகளாகக்`, quoted `தமது தலைவிதி` passage, `பாழ்படுத்திச் சீரழித்துப்`, `தலைவிதித் தத்துவத்தை` — **PASS after 1 correction**.
+- **PDF75→76 continuation** — `... பெரும் பெரும் புராணங்களும், புண்ணிய / கதைகளுமல்லவா வருகின்றன...` — **PASS**; only the minimum opening text of PDF76 was inspected for this boundary.
+
+### Historical-glyph check — Batch 2
+
+PDF71–75 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement or lexical modernization was used.
+
+Batch 2 unresolved glyph readings: **0**.
+
+## T2 progress after Batch 2
+
+- audited — **PDF66–75 / 10 of 14 pages**
+- printed pages — **65–74**
+- cumulative corrections — **5**
+- unresolved — **0**
+- recorded boundary controls passed so far — **4/6**:
+  - PDF66→67 — PASS
+  - PDF72→73 — PASS
+  - PDF73→74 — PASS
+  - PDF75→76 — PASS
+- Tamil T2 — **IN PROGRESS**
+- pages remaining — **PDF76–79 / 4 pages**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 2: PDF71–75 / printed pp.70–74 / 5 pages**.
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78 / 4 pages**.
 
-Audit those five pages line by line against the rendered scan, including the PDF72→73, PDF73→74 and PDF75→76 boundary controls as applicable. Do not begin T3 or English.
+Audit all four pages line by line against the rendered source scan, including the PDF76→77 and PDF77→78 boundary controls. Do not begin T3 or English until Batch 3 passes and the complete T2 correction ledger is reconciled.
