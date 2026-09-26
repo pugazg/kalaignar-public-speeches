@@ -55,8 +55,8 @@
     "active_constituent_number": 5,
     "active_constituent_slug": "kelvik-kuri",
     "active_constituent_title_ta": "கேள்விக் குறி!",
-    "next_gate": "English E1 first-pass translation — constituent 5 / PDF66–79 / 14 pages",
-    "collection_status": "active-constituent-5-english-e1-ready",
+    "next_gate": "English E2 fidelity review — constituent 5 / PDF66–79 / 14 pages",
+    "collection_status": "active-constituent-5-english-e2-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -293,7 +293,7 @@
       "tamil_t1_explicit_uncertainties": 0,
       "tamil_t2": "complete-pass",
       "tamil_t3": "complete-pass",
-      "english_e1": "ready-not-started",
+      "english_e1": "first-pass-complete",
       "tamil_t2_pages_checked": 14,
       "tamil_t2_through_pdf_page": 79,
       "tamil_t2_through_printed_page": 78,
@@ -305,7 +305,15 @@
       "t3_t2_corrections_reconciled": 8,
       "t3_additional_source_corrections": 0,
       "t3_consolidation_repairs": 0,
-      "t3_unresolved": 0
+      "t3_unresolved": 0,
+      "english_e1_pages_completed": 14,
+      "english_e1_through_pdf_page": 79,
+      "english_e1_through_printed_page": 78,
+      "english_e1_batches_complete": 1,
+      "english_e1_corrections": 0,
+      "english_e1_unresolved": 0,
+      "english_e2": "ready-not-started",
+      "english_e3": "blocked-pending-e2"
     },
     {
       "number": 6,
