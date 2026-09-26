@@ -10,7 +10,7 @@ Archive: speeches/kelvik-kuri/
 - duplicate gate — **PASS**
 - boundary gate — **PASS**
 - Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
-- Tamil T2 — **IN PROGRESS — Batch 1 PDF66–70 COMPLETE / PASS; 5/14 pages; 4 corrections / 0 unresolved**
+- Tamil T2 — **IN PROGRESS — Batches 1–2 PDF66–75 COMPLETE / PASS; 10/14 pages; 5 corrections / 0 unresolved**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - canonical working Tamil — `transcription-ta.md`
@@ -26,19 +26,19 @@ Archive: speeches/kelvik-kuri/
 - historical-glyph discipline — applied during T1; full page-by-page check remains for T2
 - no constituent-specific speech date or venue inferred
 
-## T2 Batch 1 checkpoint
+## T2 checkpoint after Batch 2
 
-- audited — **PDF66–70 / printed pp.65–69 / 5/14 pages**
-- corrections — **4**
+- audited — **PDF66–75 / printed pp.65–74 / 10/14 pages**
+- cumulative corrections — **5**
 - unresolved — **0**
-- PDF66→67 continuation — **PASS**
-- historical-glyph check — **PASS / 0 unresolved**
-- pages remaining for T2 — **9**
+- recorded boundary controls passed — **4/6**: 66→67, 72→73, 73→74, 75→76
+- historical-glyph checks — **PASS / 0 unresolved**
+- pages remaining for T2 — **PDF76–79 / 4 pages**
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 2: PDF71–75 / printed pp.70–74 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78 / 4 pages**.
 
-Compare all five pages line by line against the rendered source scan. Include the PDF72→73 and PDF73→74 continuations, and inspect the PDF75 ending together with PDF76 where necessary to verify the recorded PDF75→76 continuation.
+Compare all four pages line by line against the rendered source scan, including the PDF76→77 and PDF77→78 continuations. Apply only source-supported corrections to `transcription-ta.md` and log them in `audit.md`.
 
-Apply only source-supported corrections to `transcription-ta.md` and log them in `audit.md`. Do not begin T3 or English.
+Do not begin T3 or English until Batch 3 passes and T2 is complete.
