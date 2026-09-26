@@ -1,47 +1,44 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 4 English E1 PDF52–65
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T1 PDF66–79
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parent collection: `collections/puranappothai-1958/`  
-Active archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
+Active archive: `speeches/kelvik-kuri/`
 
-## Durable state
+## Durable frozen state
 
-- constituents 1–3 — **FINAL CLOSED / RELEASE READY**
-- active constituent — **4/6**
-- title — `‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!`
-- source range — **PDF52–65 / printed pp.51–64 / 14 pages**
-- Tamil T1 — **COMPLETE — 14/14**
-- Tamil T2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS**
-- T3 correction instances reconciled — **10/10**
-- T3 additional source corrections — **0**
-- T3 consolidation repairs — **0**
-- T3 unresolved — **0**
-- Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
-- English E2/E3 — blocked
-- frozen Tamil — `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/transcription-ta.md`
-- Tamil audit — `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/audit.md`
+Constituents **1–4 are FINAL CLOSED / RELEASE READY**.
 
-## T3 durable controls
+Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to advance constituent 5.
 
-- PDF52–65 coverage — **14/14 exactly once and ordered**
-- printed pp.51–64 — **continuous**
-- all 10 T2 corrections present
-- stale superseded T1 readings absent
-- seven recorded page-boundary controls — **7/7 PASS**
-- two-line source heading remains one constituent
-- source-sensitive forms remain preserved
-- terminal `நம்புகிறேன்!` — **PASS**
-- no constituent-specific speech date or venue is established
+Constituent 4 final report:
+`speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`
 
-## English rules
+## Active constituent
 
-Translate only from the frozen Tamil layer, not OCR, outside editions or historical reconstruction. Preserve page correspondence, repetition, polemical rhetoric as source rhetoric, names/titles, source-sensitive wording and unusual constructions. Do not independently validate or endorse source political claims. Add concise translator/source notes only where the frozen Tamil requires transparent handling.
+- constituent — **5 / 6**
+- title — **கேள்விக் குறி!**
+- source — `TVA_BOK_0024505_புராணப்போதை.pdf`
+- source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
+- source range — **PDF66–79 / printed pp.65–78 / 14 pages**
+- source heading — direct heading on **PDF66**
+- source / duplicate / boundary gate — **PASS / COMPLETE**
+- Tamil T1 — **READY / NOT STARTED**
+- Tamil T2/T3 — blocked pending T1
+- English — blocked pending Tamil freeze
+- speech date — **not established / do not infer**
+- item-specific venue — **not established / do not infer**
+
+## Source-faithful Tamil rules
+
+The controlling scan is authoritative. Transcribe directly from rendered source pages; OCR/parsed text may be used only as an aid. Preserve source spelling, punctuation, spacing, historical forms, repetitions, names, unusual grammar and page correspondence. Do not silently modernize, normalize, repair or supplement from outside sources.
+
+Keep explicit PDF-page and printed-page headings. Record genuinely uncertain readings rather than guessing. Inspect page-boundary word splits across both adjoining pages before joining them.
 
 ## Exact next activity
 
-English **E1 translation — PDF52–65 / printed pp.51–64 / all 14 pages**.
+Begin Tamil **T1 first-pass transcription — PDF66–79 / printed pp.65–78 / all 14 pages** for **கேள்விக் குறி!**.
 
-Create/start `translation-en.md` with explicit page correspondence. Do not begin E2 or E3.
+Create/start `speeches/kelvik-kuri/transcription-ta.md` and `audit.md` as required by the processing guide, preserving explicit page correspondence.
+
+Do not begin T2, T3 or English in the same step.
