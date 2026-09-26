@@ -1,6 +1,6 @@
 # புராணப் போதை! — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 22/22; T2 IN PROGRESS — Batch 1 PDF80–84 COMPLETE / PASS with 2 corrections / 0 unresolved; next PDF85–89  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — 22/22; T2 IN PROGRESS — Batches 1–2 PDF80–89 COMPLETE / PASS with 2 corrections / 0 unresolved; next PDF90–94  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0
