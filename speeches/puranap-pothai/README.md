@@ -1,6 +1,6 @@
 # புராணப் போதை!
 
-**Status: ONBOARDED / SOURCE-GATED / Tamil T1 READY**
+**Status: ACTIVE — SOURCE-GATED / Tamil T1 READY / NOT STARTED**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
