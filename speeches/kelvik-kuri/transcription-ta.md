@@ -1,6 +1,6 @@
 # கேள்விக் குறி! — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 14/14; T2 COMPLETE / PASS — PDF66–79 / 14/14 with 8 corrections / 0 unresolved; T3 READY / NOT STARTED  
+> **Status:** Tamil `verified-complete` / FROZEN — T1 COMPLETE 14/14; T2 COMPLETE / PASS 14/14 with 8 corrections / 0 unresolved; T3 COMPLETE / PASS with 8/8 corrections reconciled / 0 additional source corrections / 0 consolidation repairs / 0 unresolved  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0
