@@ -1,6 +1,6 @@
 # புராணப் போதை!
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE / T2 IN PROGRESS — 10/22 pages / 2 corrections / 0 unresolved**
+**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE / T2 IN PROGRESS — 15/22 pages / 3 corrections / 0 unresolved**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -20,7 +20,7 @@ Direct source heading on PDF80. PDF102 is publisher/back-catalogue material.
 ## Tamil workflow
 
 - Tamil T1 — **FIRST-PASS COMPLETE — PDF80–101 / 22/22 pages / 0 explicit unresolved**
-- Tamil T2 strict visual audit — **IN PROGRESS — Batches 1–2 PDF80–89 COMPLETE / PASS; 10/22 pages; 2 corrections / 0 unresolved**
+- Tamil T2 strict visual audit — **IN PROGRESS — Batches 1–3 PDF80–94 COMPLETE / PASS; 15/22 pages; 3 corrections / 0 unresolved**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - working transcript — `transcription-ta.md`
@@ -28,6 +28,6 @@ Direct source heading on PDF80. PDF102 is publisher/back-catalogue material.
 
 T1 was transcribed from direct rendered source pages; OCR/parsed text was only a locating aid. Page correspondence is explicit for PDF80–101 / printed pp.79–100. PDF102 remains excluded as publisher/back-catalogue material.
 
-**Next gate:** Tamil **T2 Batch 3 — PDF90–94 / printed pp.89–93 / 5 pages**. Audit line by line against rendered source pixels. Do not begin T3 or English.
+**Next gate:** Tamil **T2 Batch 4 — PDF95–99 / printed pp.94–98 / 5 pages**. Audit line by line against rendered source pixels. Do not begin T3 or English.
 
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
