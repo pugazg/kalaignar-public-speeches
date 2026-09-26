@@ -4,7 +4,9 @@ Repository: `pugazg/kalaignar-public-speeches`
 Branch: `main`  
 Archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
 
-## Durable state
+## Final durable state
+
+**PASS / FINAL CLOSED / RELEASE READY**
 
 - parent — புராணப்போதை (1958 source scan)
 - constituent — **4/6**
@@ -21,7 +23,10 @@ Archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
 - English E2 — **COMPLETE / PASS — 14/14 / 9 corrections / 0 unresolved / 0 Tamil changes**
 - English E3 — **COMPLETE / PASS — 14/14 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
 - English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- pending routine work — **0**
+- final report — `FINAL_CLOSURE.md`
 - predecessor constituents 1–3 — **FINAL CLOSED / RELEASE READY**
 
 Canonical frozen Tamil: `transcription-ta.md`.  
@@ -76,8 +81,12 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - second post-correction sweep — **0 further fidelity issues**
 - English — **`verified-complete`**
 
-## Exact next activity
+## Final archive state
 
-Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 4.
+Repository closure has passed. Tamil remains **`verified-complete` / FROZEN** and English remains **`verified-complete`**, with **10 Tamil T2 corrections / 9 English E2 corrections / 4 English E3 corrections / 0 unresolved**.
 
-Synchronize final speech metadata, README, HANDOVER, root/collection status and create the final closure report only after verifying that Tamil and English textual gates remain complete and no pending fidelity issue exists. Do not reopen either language layer for stylistic polishing.
+No routine next activity remains for this constituent.
+
+## Reopen policy
+
+Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect. Do not reopen for stylistic polishing, modernization, normalization or translation-driven rewriting.
