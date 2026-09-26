@@ -10,24 +10,36 @@ Archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
 - constituent — **4/6**
 - source range — **PDF52–65 / printed pp.51–64 / 14 pages**
 - source-defined title — **‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!**
-- source / duplicate / boundary gates — **PASS / COMPLETE**
-- Tamil T1 — **READY / NOT STARTED**
-- Tamil T2/T3 — blocked pending T1
+- Tamil T1 — **FIRST-PASS COMPLETE — 14/14**
+- explicit unresolved T1 readings — **0**
+- Tamil T2 — **READY / NOT STARTED**
+- Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - predecessor constituents 1–3 — **FINAL CLOSED / RELEASE READY**
-- no constituent-specific speech date or venue established
 
-## Source controls
+Working transcript: `transcription-ta.md`.  
+Audit record: `audit.md`.
 
-- this is **one source-defined constituent with a two-line heading**, not two separate items
-- PDF52 is the opening page
-- PDF65 is the final page
-- PDF66 begins constituent 5 `கேள்விக் குறி!`
-- source scan is authoritative; OCR/parsed text is aid only
-- preserve historical spelling, punctuation, spacing, names, repetitions and unusual grammar; do not silently normalize
+## T1 durable controls
+
+- source scan controlled; OCR/parsed text was aid only
+- PDF52 two-line heading remains **one constituent**
+- PDF52–65 coverage — **14/14**
+- printed mapping — **pp.51–64**
+- recorded page-boundary controls:
+  - PDF52→53 — `சுய / நலக் கும்பல்கள்`
+  - PDF55→56 — `இருப்ப / தன் காரணத்தால்`
+  - PDF56→57 — `‘கழுதை தேய்ந்து / கட்டெறும்பான’`
+  - PDF57→58 — `போகு / மென்று`
+  - PDF58→59 — `தெரியவில் / லையே`
+  - PDF59→60 — open parenthetical paragraph continuation
+  - PDF62→63 — `கேட் / கிறார்களே!`
+- no constituent-specific speech date or venue inferred
 
 ## Exact next activity
 
-Process source-faithful **Tamil T1 transcription — PDF52–65 / printed pp.51–64 / all 14 pages**.
+Tamil **T2 strict visual audit — PDF52–65 / printed pp.51–64 / all 14 pages**.
 
-Keep explicit PDF/printed-page headings. Do not begin T2 or English until T1 is complete.
+Compare every line and character directly against rendered source pixels, including punctuation, source spacing, historical glyph identity, proper names, unusual grammar and all recorded page-boundary controls. Apply only source-supported corrections and record them in `audit.md`.
+
+Do not begin T3 or English.

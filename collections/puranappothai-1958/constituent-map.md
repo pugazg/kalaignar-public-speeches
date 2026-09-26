@@ -8,11 +8,11 @@ SHA-256: 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
 | 1 | குட்டிக் கதைகள்! குரங்காட்டம்! | 8–28 | 7–27 | 21 | FINAL CLOSED / RELEASE READY |
 | 2 | சடுகுடு விளையாட்டா? சவால் சண்டையா? | 29–45 | 28–44 | 17 | FINAL CLOSED / RELEASE READY |
 | 3 | மீண்டும் கிளைவ் ? | 46–51 | 45–50 | 6 | FINAL CLOSED / RELEASE READY |
-| 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | ACTIVE / SOURCE-GATED / T1 READY |
+| 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | ACTIVE / T1 14/14 COMPLETE / T2 READY |
 | 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | SOURCE-GATED / T1 READY |
 | 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | SOURCE-GATED / T1 READY |
 
-Workflow note: constituents 1–3 are **FINAL CLOSED / RELEASE READY**. Constituent 4 is now active for **Tamil T1 — PDF52–65 / printed pp.51–64 / 14 pages**. Constituents 5–6 remain T1 READY / NOT STARTED.
+Workflow note: constituents 1–3 are **FINAL CLOSED / RELEASE READY**. Constituent 4 Tamil T1 is **FIRST-PASS COMPLETE — 14/14 / PDF52–65 / 0 explicit unresolved**; Tamil T2 is ready. Constituents 5–6 remain T1 READY / NOT STARTED.
 
 Boundary controls:
 - PDF1–7 front matter
