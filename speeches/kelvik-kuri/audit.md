@@ -275,8 +275,18 @@ English is now **`verified-complete`**.
 
 Detailed E2/E3 correction ledgers and verification controls are maintained in `translation-review.md`.
 
-## Next gate
+## Repository closure — COMPLETE / PASS
 
-Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 5.
+Release-readiness synchronization is complete. Closure introduced **0 Tamil and 0 English speech-body changes**.
 
-No Tamil transcription, English translation, fidelity-review or final-verification work remains pending.
+Final report: `FINAL_CLOSURE.md`.
+
+## Final archive state
+
+- Tamil — **`verified-complete` / FROZEN**
+- English — **`verified-complete`**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- pending transcription / translation / review / verification work — **0**
+
+Reopen only for genuinely new source evidence or a documented substantive fidelity error; do not reopen for stylistic polishing.
