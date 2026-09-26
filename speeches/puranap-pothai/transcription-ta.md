@@ -1,6 +1,6 @@
 # புராணப் போதை! — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 22/22; T2 IN PROGRESS — Batches 1–3 PDF80–94 COMPLETE / PASS with 3 corrections / 0 unresolved; next PDF95–99  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — 22/22; T2 IN PROGRESS — Batches 1–4 PDF80–99 COMPLETE / PASS with 4 corrections / 0 unresolved; next PDF100–101 FINAL  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0
@@ -265,7 +265,7 @@
 
 இத்தருணம் பார்த்து அக்கினி அவளை நாடத் தொட, தொட்டதும் அவள் துவள, அக்கினி அணைக்க, அவள் மேலும் மேலும் இறுகி அணைத்து முத்த மழை பொழிந்திட காமக் களியாட்டம் தொடங்கி விட்டதாம். தம்மை மறந்திருந்த இருவரும் எமதருமன் வரும் ஓசை கேட்டுத் திடுக்கிட்டனர். முனிவரது மகள் உடனே எமனைப் போல அக்கினி பகவானை வாயில் போட்டு விழுங்கி வயிற்றிலே பத்திரப்படுத்தி விட்டாளாம்.
 
-வழக்கம் போல எமதருமர், பருவக்குமரியை வயிற்றுக் கனுப்பி, வீடு சென்று இரவு வெளியிலே எடுத்து வழக்கமான லீலைகள் நடத்தி விடிந்ததும் வழக்கப்படி வயிற்றுக் கனுப்பி விட்டான்.
+வழக்கம் போல எமதருமர், பருவக்குமரியை வயிற்றுக் கனுப்பி, வீடு சென்று இரவு வெளியிலே எடுத்து வழக்கமான லீலைகளை நடத்தி விடிந்ததும் வழக்கப்படி வயிற்றுக் கனுப்பி விட்டான்.
 
 பகலில், எமன் வயிற்றி லிருந்த முனிவரின் மோகன மங்கையால் சும்மா இருக்க முடியவில்லை!
 
