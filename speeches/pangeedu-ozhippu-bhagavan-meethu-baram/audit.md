@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF52–65 / printed pp.51–64 / 14 pages  
-**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
+**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **READY**
 
 ## T1 method
 
@@ -184,8 +184,24 @@ Tamil is now **`verified-complete` / FROZEN** for PDF52–65 / printed pp.51–6
 
 Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
 
+## English E1 first-pass translation — COMPLETE
+
+| Check | Result |
+|---|---|
+| English E1 coverage | **PDF52–65 / 14/14, each exactly once and ordered** |
+| Printed-page mapping | **pp.51–64 continuous / PASS** |
+| Translation authority | **frozen `transcription-ta.md` only** |
+| Tamil changes introduced | **0** |
+| E1 unresolved | **0** |
+| Translator/source notes | **3 concise transparency notes** |
+| English E1 status | **FIRST-PASS COMPLETE** |
+
+The E1 notes transparently handle the frozen forms `கட்டுப்படாதகல் நெஞ்சினரும்`, the unclosed parenthetical structure beginning on PDF59, and `வீணை முடங்காதா, விளை பொருள்கள்?`. They do not alter or normalize the frozen Tamil.
+
+E1 completion is **not** a fidelity-review claim.
+
 ## Next gate
 
-Proceed to **English E1 translation — PDF52–65 / printed pp.51–64 / all 14 pages**, translating only from the frozen Tamil `transcription-ta.md`.
+Proceed to **English E2 fidelity review — PDF52–65 / printed pp.51–64 / all 14 pages** against the frozen Tamil layer.
 
-Do not begin E2/E3 until E1 is complete.
+Do not begin E3 until E2 is complete.
