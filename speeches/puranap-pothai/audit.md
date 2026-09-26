@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batches 1–3 PDF80–94 COMPLETE / PASS; 15/22 pages; 3 corrections / 0 unresolved**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batches 1–4 PDF80–99 COMPLETE / PASS; 20/22 pages; 4 corrections / 0 unresolved**
 
 ## T1 method
 
@@ -241,8 +241,44 @@ Batch 3 unresolved glyph readings: **0**.
 - Tamil T2 — **IN PROGRESS**
 - pages remaining — **PDF95–101 / 7 pages**
 
+## Tamil T2 strict visual audit — Batch 4: PDF95–99 / printed pp.94–98
+
+**Status: COMPLETE / PASS — 5/5 pages.**  
+**Source-supported corrections: 1.**  
+**Unresolved after Batch 4: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 97 | 96 | `வழக்கமான லீலைகள் நடத்தி` | `வழக்கமான லீலைகளை நடத்தி` — source accusative `ஐ` restored |
+
+### Batch 4 page confirmations
+
+- **PDF95 / printed 94** — PDF94→95 completion `பின்னரே`, `தேவ தாசிகளுடன்`, `எமதருமனே`, `எம தருமராஜனிடம்`, Kunti/Bhima reference, and terminal `தனது வயிற்றி` — **PASS / 0 corrections**.
+- **PDF95→96 continuation** — `தனது வயிற்றி / லேயே` — **PASS**.
+- **PDF96 / printed 95** — `சபலம் மேலோங்கி`, `சரச மாடினான்!`, `காமக் களியாட்ட மாடுவது மாக`, `வசந்தத் தென்றலை`, and `போதையு மேற்றியதாம்` — **PASS / 0 corrections**.
+- **PDF97 / printed 96** — `வயிற்றுக் கனுப்பி`, source `லீலைகளை`, `காமக்கள மாக்கிக்`, `கலவியின்ப மனுபவித்தாளாம்`, and terminal `ஆளாயினராம்` — **PASS after 1 correction**.
+- **PDF98 / printed 97** — `மூவரும் தேவரும்`, quoted `‘யாருக்கு’`, `வயிற்றி லிருக்கும்`, `அக்கினிச் சுவாலையால்`, and `அடியோடு அற்றுப் போயின` — **PASS / 0 corrections**.
+- **PDF99 / printed 98** — `ஐவருக்குந்தேவி`, `மாம்பழச் சருக்கத்திலே`, `துரோபதை`, `கற்புக்கரசி`, and terminal `காணப்படுகிறதே,` — **PASS / 0 corrections**.
+- **PDF99→100 continuation** — `காணப்படுகிறதே, / இவற்றைப் படிப்பதாலோ` — **PASS**; only the opening adjoining text of PDF100 was used.
+
+### Historical-glyph check — Batch 4
+
+PDF95–99 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement or lexical modernization was used.
+
+Batch 4 unresolved glyph readings: **0**.
+
+## T2 progress after Batch 4
+
+- audited — **PDF80–99 / 20 of 22 pages**
+- printed pages — **79–98**
+- cumulative corrections — **4**
+- unresolved — **0**
+- recorded boundary controls passed — **11/11**
+- Tamil T2 — **IN PROGRESS**
+- pages remaining — **PDF100–101 / 2 pages**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 4: PDF95–99 / printed pp.94–98 / 5 pages**.
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 5 / FINAL: PDF100–101 / printed pp.99–100 / 2 pages**.
 
-Audit all five pages line by line against the rendered source scan, including PDF95→96 and the PDF99 ending together with PDF100 only as needed to verify PDF99→100. Do not begin T3 or English.
+Audit both pages line by line against the rendered source scan. Confirm the terminal constituent ending on PDF101 and verify that PDF102 remains publisher/back-catalogue material outside the speech body. Do not begin T3 or English.
