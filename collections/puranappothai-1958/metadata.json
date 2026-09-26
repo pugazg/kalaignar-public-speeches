@@ -55,8 +55,8 @@
     "active_constituent_number": 3,
     "active_constituent_slug": "meendum-clive",
     "active_constituent_title_ta": "மீண்டும் கிளைவ் ?",
-    "next_gate": "English E1 translation — constituent 3 / PDF46–51 / 6 pages",
-    "collection_status": "active-constituent-3-english-e1-ready",
+    "next_gate": "English E2 fidelity review — constituent 3 / PDF46–51 / 6 pages",
+    "collection_status": "active-constituent-3-english-e2-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -196,7 +196,11 @@
       "t3_additional_source_corrections": 0,
       "t3_consolidation_repairs": 0,
       "t3_unresolved": 0,
-      "english_e1": "ready-not-started"
+      "english_e1": "first-pass-complete",
+      "english_e1_pages_completed": 6,
+      "english_e1_through_pdf_page": 51,
+      "english_e1_through_printed_page": 50,
+      "english_e2": "ready-not-started"
     },
     {
       "number": 4,
