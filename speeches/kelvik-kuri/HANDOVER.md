@@ -18,11 +18,12 @@ Archive: speeches/kelvik-kuri/
 - T3 unresolved — **0**
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — 14/14 / PDF66–79 / printed pp.65–78 / 0 unresolved / 0 Tamil changes**
-- English E2 — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved / 0 Tamil changes**
+- English E3 — **READY / NOT STARTED**
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 - English translation — `translation-en.md`
+- English review — `translation-review.md`
 - predecessor constituents 1–4 — **FINAL CLOSED / RELEASE READY**
 
 ## T1 checkpoint
@@ -71,10 +72,20 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - E1 unresolved — **0**
 - English E1 — **FIRST-PASS COMPLETE**
 
+## English E2 checkpoint
+
+- coverage — **PDF66–79 / printed pp.65–78 / 14/14**
+- corrections — **10**
+- unresolved — **0**
+- frozen Tamil changes — **0**
+- translator/source notes after E2 — **4 total**
+- review record — `translation-review.md`
+- E2 status — **COMPLETE / PASS**
+
 ## Exact next activity
 
-English **E2 fidelity review — PDF66–79 / printed pp.65–78 / all 14 pages**.
+English **E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**.
 
-Compare `translation-en.md` page by page against the frozen Tamil, recording findings separately before consolidating confirmed corrections. Check omissions, additions, reversals, rhetorical weakening, names, quoted dialogue, page-boundary continuations and all three translator/source notes.
+Re-read the complete corrected English layer against frozen Tamil from beginning to end. Verify all 10 E2 corrections, all 4 translator/source notes, six page-boundary continuations, question-mark rhetoric, quoted dialogue, names/mythological terms and the PDF79 ending.
 
-Do not alter frozen Tamil for translation convenience. Do not begin E3.
+Do not mark English `verified-complete` or begin repository closure until E3 passes.
