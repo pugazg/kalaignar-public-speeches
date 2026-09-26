@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T2 Batch 2 PDF71–75
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 Tamil T2 Batch 3 FINAL PDF76–79
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -20,11 +20,11 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - source range — **PDF66–79 / printed pp.65–78 / 14 pages**
 - Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
 - Tamil T2 — **IN PROGRESS**
-- T2 Batch 1 — **PDF66–70 / printed pp.65–69 — COMPLETE / PASS**
-- T2 progress — **5/14 pages**
-- T2 corrections — **4**
+- T2 Batches 1–2 — **PDF66–75 / printed pp.65–74 — COMPLETE / PASS**
+- T2 progress — **10/14 pages**
+- T2 cumulative corrections — **5**
 - T2 unresolved — **0**
-- PDF66→67 continuation — **PASS**
+- recorded boundary controls passed — **4/6**: 66→67, 72→73, 73→74, 75→76
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/kelvik-kuri/transcription-ta.md`
@@ -32,12 +32,9 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - speech date — **not established / do not infer**
 - item-specific venue — **not established / do not infer**
 
-## Batch 1 correction ledger
+## Batch 2 correction
 
-- PDF67 — `காட்சியளிக்கின்றானே. கடவுளே` → `காட்சியளிக்கின்றானே, கடவுளே`
-- PDF69 — `அறிவின், ஆராய்ச்சியின்` → `அறிவின். ஆராய்ச்சியின்`
-- PDF69 — `முன்னேறித்தான்` → source form `முன்னேறிதான்`
-- PDF70 — removed unsupported opening quote before `கேள்வி ஞானமின்றி`
+- PDF75 — `ஏன் சிலபல நேரங்களில்` → source spacing `ஏன் சில பல நேரங்களில்`
 
 ## T2 rules
 
@@ -49,12 +46,12 @@ Record every source-supported correction in `audit.md` and apply it to `transcri
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 2: PDF71–75 / printed pp.70–74 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78 / 4 pages**.
 
-Audit all five pages line by line against the rendered source scan. Include:
-- PDF72→73 continuation;
-- PDF73→74 continuation;
-- PDF75 ending together with PDF76 as needed to verify PDF75→76;
-- source-sensitive dialogue punctuation and historical glyphs listed in `audit.md`.
+Audit all four pages line by line against the rendered source scan. Include:
+- PDF76→77 continuation;
+- PDF77→78 continuation;
+- source-sensitive forms and punctuation listed in `audit.md`;
+- terminal constituent ending on PDF79 and the PDF80 next-constituent boundary only as needed to confirm constituent closure.
 
-Do not begin T3 or English. Do not audit PDF76 onward except the minimum adjoining text required to verify the PDF75→76 boundary.
+If Batch 3 passes, mark Tamil T2 COMPLETE / PASS with the final correction total, but **do not begin T3 or English in the same step**.
