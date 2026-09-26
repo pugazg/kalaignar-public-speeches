@@ -55,8 +55,8 @@
     "active_constituent_number": 5,
     "active_constituent_slug": "kelvik-kuri",
     "active_constituent_title_ta": "கேள்விக் குறி!",
-    "next_gate": "Tamil T2 strict visual fidelity audit — constituent 5 / PDF66–79 / 14 pages",
-    "collection_status": "active-constituent-5-tamil-t2-ready",
+    "next_gate": "Tamil T2 strict visual fidelity audit — constituent 5 Batch 2 / PDF71–75 / 5 pages",
+    "collection_status": "active-constituent-5-tamil-t2-in-progress",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -291,9 +291,15 @@
       "tamil_t1_through_pdf_page": 79,
       "tamil_t1_through_printed_page": 78,
       "tamil_t1_explicit_uncertainties": 0,
-      "tamil_t2": "ready-not-started",
+      "tamil_t2": "in-progress",
       "tamil_t3": "blocked-pending-t2",
-      "english_e1": "blocked-pending-tamil-freeze"
+      "english_e1": "blocked-pending-tamil-freeze",
+      "tamil_t2_pages_checked": 5,
+      "tamil_t2_through_pdf_page": 70,
+      "tamil_t2_through_printed_page": 69,
+      "tamil_t2_batches_complete": 1,
+      "tamil_t2_corrections": 4,
+      "tamil_t2_unresolved": 0
     },
     {
       "number": 6,
