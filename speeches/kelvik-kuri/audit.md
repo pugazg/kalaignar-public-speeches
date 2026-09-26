@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF66–79 / printed pp.65–78 / 14 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **IN PROGRESS — Batches 1–2 PDF66–75 COMPLETE / PASS; 10/14 pages; 5 corrections / 0 unresolved**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **COMPLETE / PASS — PDF66–79 / 14/14 pages; 8 corrections / 0 unresolved**; T3 **READY / NOT STARTED**
 
 ## T1 method
 
@@ -166,8 +166,56 @@ Batch 2 unresolved glyph readings: **0**.
 - Tamil T2 — **IN PROGRESS**
 - pages remaining — **PDF76–79 / 4 pages**
 
+## Tamil T2 strict visual audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78
+
+**Status: COMPLETE / PASS — 4/4 pages.**  
+**Source-supported corrections: 3.**  
+**Unresolved after Batch 3: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 76 | 75 | `கற்பனைச் சொர்க்கவாழ்வு` | `கற்பனைச் சொர்க்க வாழ்வு` — source word separation restored |
+| 77 | 76 | `உருண்டு உருண்டு` | `உருண்டுஉருண்டு` — source joined repetition retained |
+| 79 | 78 | `இத்தகையாளர், தங்களை` | `இத்தகையாளர். தங்களை` — source full stop restored |
+
+### Batch 3 page confirmations
+
+- **PDF76 / printed 75** — PDF75→76 continuation, `சக்கரவர்த்தியாக`, `மிகவும் தெரிந்தவர் போல!`, `அக்கரையோடு!`, source-separated `கற்பனைச் சொர்க்க வாழ்வு`, `ஆதி—அந்தம்`, `ஆடல் - பாடல்`, `ஊடல்-கூடல்`, and terminal `இத்தகைய` continuation — **PASS after 1 correction**.
+- **PDF76→77 continuation** — `... மிகமிகப் பெரும்பாலோர், இத்தகைய / எண்ண உலகத்திலே...` — **PASS**.
+- **PDF77 / printed 76** — `கனவுமல்ல`, `உருகியுருகிக்`, `புத்தறிவிற்கும். புது வாழ்விற்கும்`, `ஆச்சார அனுஷ்டான மென்று`, `உருண்டுஉருண்டு`, `கவலைக்கிடமான`, and terminal `... புஷ்பக விமானமும், இராம` — **PASS after 1 correction**.
+- **PDF77→78 continuation** — `... புஷ்பக விமானமும், இராம / னேறிச் சென்ற அனுமந்தாழ்வாரையும்விட...` — **PASS**; physical page provenance preserved.
+- **PDF78 / printed 77** — `மனத்திருப்தி யடைபவர்களாகத்தானே`, `விஞ்ஞான உலகுபற்றி`, `பொது உரிமை, பொது உடைமை`, `எண்ணத் தெளிவு`, `மனிதத் தன்மையினின்றும்`, and terminal `என்றுதான் கேட்கிறேன்?` — **PASS / 0 corrections**.
+- **PDF79 / printed 78** — opening `இத்தகையாளர்.`, `பாதையில்—போதையில்`, `வரவேண்டு மென்று`, `விடாப் பிடியாகத்`, `ஆட லழகுகள்`, `கற்பக விருக்ஷம்`, `போதை யூட்டித்`, source-sensitive `இதற்காப்`, and final `பண்டார சன்னதிகளின் போக்கும், பேச்சும்!` — **PASS after 1 correction**.
+- **PDF79→80 constituent boundary** — PDF79 ends constituent 5; PDF80 begins the next source heading **புராணப் போதை!** — **PASS**.
+
+### Historical-glyph check — Batch 3
+
+PDF76–79 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement or lexical modernization was used.
+
+Batch 3 unresolved glyph readings: **0**.
+
+## T2 final state
+
+- audited — **PDF66–79 / 14/14 pages**
+- printed pages — **65–78**
+- batches — **3/3 COMPLETE**
+- source-supported corrections — **8**
+- unresolved — **0**
+- recorded page-boundary controls — **6/6 PASS**:
+  - PDF66→67 — PASS
+  - PDF72→73 — PASS
+  - PDF73→74 — PASS
+  - PDF75→76 — PASS
+  - PDF76→77 — PASS
+  - PDF77→78 — PASS
+- constituent ending / PDF79→80 boundary — **PASS**
+- historical-glyph review — **COMPLETE / 0 unresolved**
+- Tamil T2 — **COMPLETE / PASS**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78 / 4 pages**.
+Proceed to **Tamil T3 consolidation / freeze — PDF66–79 / printed pp.65–78 / all 14 pages**.
 
-Audit all four pages line by line against the rendered source scan, including the PDF76→77 and PDF77→78 boundary controls. Do not begin T3 or English until Batch 3 passes and the complete T2 correction ledger is reconciled.
+Reconcile all **8 T2 corrections**, verify exact 14/14 page coverage and all six recorded page-boundary controls, confirm stale T1 readings are absent, and freeze Tamil only if T3 passes with 0 unresolved.
+
+Do not begin English before Tamil T3 is complete and the Tamil layer is marked `verified-complete` / FROZEN.
