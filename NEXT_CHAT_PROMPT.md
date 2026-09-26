@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 English E2 fidelity review
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 5 English E3 final verification
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,47 +17,50 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - title — **கேள்விக் குறி!**
 - source range — **PDF66–79 / printed pp.65–78 / 14 pages**
 - Tamil — **`verified-complete` / FROZEN**
-- Tamil T2 — **COMPLETE / PASS — 14/14 / 8 corrections / 0 unresolved**
-- Tamil T3 — **COMPLETE / PASS — 8/8 reconciled / 0 additional source corrections / 0 repairs / 0 unresolved**
-- English E1 — **FIRST-PASS COMPLETE — 14/14 / 0 unresolved / 0 Tamil changes**
-- English E2 — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E1 — **COMPLETE — 14/14**
+- English E2 — **COMPLETE / PASS — 14/14**
+- E2 corrections — **10**
+- E2 unresolved — **0**
+- Tamil changes during E2 — **0**
+- translator/source notes after E2 — **4**
+- English E3 — **READY / NOT STARTED**
 - frozen Tamil — `speeches/kelvik-kuri/transcription-ta.md`
 - English translation — `speeches/kelvik-kuri/translation-en.md`
-- Tamil audit — `speeches/kelvik-kuri/audit.md`
-- speech date — **not established / do not infer**
-- item-specific venue — **not established / do not infer**
+- English review — `speeches/kelvik-kuri/translation-review.md`
 
-## English E1 durable controls
+## E2 correction ledger summary
 
-- PDF66–79 English page headings — **14/14 exactly once and ordered**
-- printed pp.65–78 — **continuous**
-- translation basis — frozen Tamil only
-- Tamil changes introduced — **0**
-- translator/source notes — **3**
-- E1 unresolved — **0**
-- E1 completion is **not** an English fidelity-review claim
+1. PDF67 — restored the source's bound/unrestrained obligation contrast.
+2. PDF69 — repaired the natural-resources / human-comfort sentence structure.
+3. PDF70 — corrected attachment in the progressive-life / pace-of-the-times phrase.
+4. PDF72 — “climb right over you” → “run right over you”.
+5. PDF72 — added transparent note for source insult `மூதேவி`.
+6. PDF74 — removed unsupported plural-wife sense: “marry, have children”.
+7. PDF74 — removed unsupported “given to man” wording.
+8. PDF75 — `தற்குறிகளாக` → “illiterates”.
+9. PDF78 — `அடிமைகள்` → “slaves” to preserve rhetorical force.
+10. PDF78 — `பொது உரிமை, பொது உடைமை` → “common rights and common ownership”.
 
-## E2 rules
+## E3 rules
 
-Compare `translation-en.md` page by page against the frozen Tamil. Check:
-- omissions and unsupported additions;
-- meaning reversals or weakened rhetorical force;
-- question-mark repetition and sequencing;
-- quoted parent-child dialogue;
-- names, religious/mythological terms and source-sensitive expressions;
-- all six cross-page continuations;
-- all three translator/source notes;
-- final PDF79 constituent ending.
+Re-read the complete corrected English against the frozen Tamil from PDF66 through PDF79.
 
-Record findings separately in `translation-review.md` before consolidating confirmed English corrections into `translation-en.md`. Do not alter frozen Tamil for translation convenience.
+Verify:
+- all 10 E2 corrections are present;
+- all 4 translator/source notes are retained and accurate;
+- stale E1 wording is absent;
+- 14/14 page headings and printed-page mapping remain exact;
+- all six cross-page continuations remain coherent;
+- question/question-mark repetition and rhetorical force are retained;
+- parent-child dialogue remains source-faithful;
+- names and mythological/religious terms are handled consistently;
+- no omissions, unsupported additions or meaning reversals remain;
+- PDF79 ends the constituent cleanly.
 
-Political and religious claims/labels remain source rhetoric; E2 checks fidelity, not present-day truth or endorsement.
+Political and religious claims/labels remain source rhetoric; E3 verifies translation fidelity, not their truth or endorsement.
 
 ## Exact next activity
 
-English **E2 fidelity review — PDF66–79 / printed pp.65–78 / all 14 pages**.
+English **E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**.
 
-Complete the page-by-page fidelity review, record the correction ledger, consolidate confirmed English corrections, and leave E3 **NOT STARTED**.
-
-Do **not** begin E3 in the same step.
+If E3 passes, mark English **`verified-complete`** and advance to repository-level archival closure. Do not perform repository closure in the same step.
