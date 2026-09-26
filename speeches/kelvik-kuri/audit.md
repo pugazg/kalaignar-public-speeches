@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF66–79 / printed pp.65–78 / 14 pages  
-**Current gate:** Tamil T1 **COMPLETE — 14/14**; T2 **COMPLETE / PASS — 14/14 / 8 corrections / 0 unresolved**; T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**
+**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **READY**
 
 ## T1 method
 
@@ -247,8 +247,22 @@ Tamil is now **`verified-complete` / FROZEN**.
 
 Do not alter frozen Tamil for stylistic polishing, modernization, normalization or translation convenience. Any later Tamil change requires documented source evidence and downstream English re-verification.
 
+## English E1 first-pass translation — COMPLETE
+
+English E1 covers **PDF66–79 / printed pp.65–78 / 14/14 pages** and was produced only from the frozen Tamil layer.
+
+E1 checkpoint:
+- explicit English page headings — **14/14 exactly once / ordered**
+- Tamil changes introduced — **0**
+- translator/source notes — **3**
+- E1 unresolved — **0**
+- political and religious claims/labels — **translated as source rhetoric; not independently validated or endorsed**
+- E1 status — **FIRST-PASS COMPLETE**
+
+E1 completion is not an English fidelity-review claim.
+
 ## Next gate
 
-Proceed to **English E1 first-pass translation — PDF66–79 / printed pp.65–78 / all 14 pages** using only the frozen Tamil layer.
+Proceed to **English E2 fidelity review — PDF66–79 / printed pp.65–78 / all 14 pages** against the frozen Tamil.
 
-Do not reopen Tamil merely for translation convenience.
+Do not begin E3 until E2 is complete.
