@@ -10,8 +10,8 @@ Archive: speeches/kelvik-kuri/
 - duplicate gate — **PASS**
 - boundary gate — **PASS**
 - Tamil T1 — **FIRST-PASS COMPLETE — 14/14 / 0 explicit unresolved**
-- Tamil T2 — **IN PROGRESS — Batches 1–2 PDF66–75 COMPLETE / PASS; 10/14 pages; 5 corrections / 0 unresolved**
-- Tamil T3 — blocked pending T2
+- Tamil T2 — **COMPLETE / PASS — PDF66–79 / 14/14 pages; 8 corrections / 0 unresolved; 6/6 recorded boundaries PASS**
+- Tamil T3 — **READY / NOT STARTED**
 - English — blocked pending Tamil freeze
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
@@ -26,19 +26,21 @@ Archive: speeches/kelvik-kuri/
 - historical-glyph discipline — applied during T1; full page-by-page check remains for T2
 - no constituent-specific speech date or venue inferred
 
-## T2 checkpoint after Batch 2
+## T2 final checkpoint
 
-- audited — **PDF66–75 / printed pp.65–74 / 10/14 pages**
-- cumulative corrections — **5**
+- audited — **PDF66–79 / printed pp.65–78 / 14/14 pages**
+- batches — **3/3 COMPLETE**
+- corrections — **8**
 - unresolved — **0**
-- recorded boundary controls passed — **4/6**: 66→67, 72→73, 73→74, 75→76
-- historical-glyph checks — **PASS / 0 unresolved**
-- pages remaining for T2 — **PDF76–79 / 4 pages**
+- recorded boundary controls — **6/6 PASS**
+- historical-glyph review — **COMPLETE / 0 unresolved**
+- constituent ending / PDF79→80 next-heading boundary — **PASS**
+- Tamil T2 — **COMPLETE / PASS**
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 3 / FINAL: PDF76–79 / printed pp.75–78 / 4 pages**.
+Tamil **T3 consolidation / freeze — PDF66–79 / printed pp.65–78 / all 14 pages**.
 
-Compare all four pages line by line against the rendered source scan, including the PDF76→77 and PDF77→78 continuations. Apply only source-supported corrections to `transcription-ta.md` and log them in `audit.md`.
+Reconcile all 8 T2 corrections in the canonical Tamil, verify exact page coverage/order and all six boundary controls, confirm stale T1 readings are absent, and mark Tamil `verified-complete` / FROZEN only if T3 passes with 0 unresolved.
 
-Do not begin T3 or English until Batch 3 passes and T2 is complete.
+Do not begin English before the Tamil freeze.
