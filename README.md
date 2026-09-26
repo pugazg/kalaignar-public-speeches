@@ -555,7 +555,7 @@ Repository-level closure is complete. No transcription, translation, review, ver
 
 ### Active work — புராணப்போதை (1958 source booklet)
 
-`collections/puranappothai-1958/` is **ACTIVE — constituents 1–4 FINAL CLOSED / constituent 5 Tamil VERIFIED / FROZEN / English E1 READY; 6/6 constituents mapped**.
+`collections/puranappothai-1958/` is **ACTIVE — constituents 1–4 FINAL CLOSED / constituent 5 Tamil VERIFIED / FROZEN / English E1 COMPLETE / E2 READY; 6/6 constituents mapped**.
 
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
@@ -578,11 +578,12 @@ Repository-level closure is complete. No transcription, translation, review, ver
 - active constituent Tamil T2 — **COMPLETE / PASS — PDF66–79 / 14/14 pages / 8 corrections / 0 unresolved / 6/6 recorded boundaries PASS**
 - active constituent Tamil T3 — **COMPLETE / PASS — 8/8 T2 corrections reconciled / 0 additional source corrections / 0 repairs / 0 unresolved**
 - active constituent Tamil — **`verified-complete` / FROZEN**
-- active constituent English E1 — **READY / NOT STARTED**
-- active constituent English E2/E3 — **blocked pending E1**
+- active constituent English E1 — **FIRST-PASS COMPLETE — PDF66–79 / 14/14 pages / 0 unresolved / 0 Tamil changes**
+- active constituent English E2 — **READY / NOT STARTED**
+- active constituent English E3 — **blocked pending E2**
 
 Source-structure controls: PDF29 reads சடுகுடு விளையாட்டா? சவால் சண்டையா?; அரசியல் அரிபரந்தாமன் ... ஆச்சாரியாருக்கு அபயம் is internal to constituent 2; ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! is one constituent.
 
 The user supplied 1953, but the controlling scan prints February 1958; the archive follows the scan.
 
-Exact next gate: constituent 5 **English E1 first-pass translation — PDF66–79 / printed pp.65–78 / all 14 pages**.
+Exact next gate: constituent 5 **English E2 fidelity review — PDF66–79 / printed pp.65–78 / all 14 pages**.
