@@ -55,8 +55,8 @@
     "active_constituent_number": 4,
     "active_constituent_slug": "pangeedu-ozhippu-bhagavan-meethu-baram",
     "active_constituent_title_ta": "‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!",
-    "next_gate": "English E2 fidelity review — constituent 4 / PDF52–65 / 14 pages",
-    "collection_status": "active-constituent-4-english-e2-ready",
+    "next_gate": "English E3 final end-to-end verification — constituent 4 / PDF52–65 / 14 pages",
+    "collection_status": "active-constituent-4-english-e3-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -255,8 +255,14 @@
       "english_e1_batches_complete": 1,
       "english_e1_corrections": 0,
       "english_e1_unresolved": 0,
-      "english_e2": "ready-not-started",
-      "english_e3": "blocked-pending-e2"
+      "english_e2": "complete-pass",
+      "english_e3": "ready-not-started",
+      "english_e2_pages_reviewed": 14,
+      "english_e2_through_pdf_page": 65,
+      "english_e2_through_printed_page": 64,
+      "english_e2_batches_complete": 4,
+      "english_e2_corrections": 9,
+      "english_e2_unresolved": 0
     },
     {
       "number": 5,
