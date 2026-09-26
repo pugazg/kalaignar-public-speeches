@@ -18,13 +18,14 @@ Archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
 - T3 unresolved — **0**
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — 14/14 / PDF52–65 / printed pp.51–64 / 0 unresolved**
-- English E2 — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E2 — **COMPLETE / PASS — 14/14 / 9 corrections / 0 unresolved / 0 Tamil changes**
+- English E3 — **READY / NOT STARTED**
 - predecessor constituents 1–3 — **FINAL CLOSED / RELEASE READY**
 
 Canonical frozen Tamil: `transcription-ta.md`.  
 Tamil audit: `audit.md`.  
-English E1: `translation-en.md`.
+English translation: `translation-en.md`.  
+English review: `translation-review.md`.
 
 ## T3 durable checkpoint
 
@@ -51,10 +52,20 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - E1 unresolved — **0**
 - E1 status — **FIRST-PASS COMPLETE**
 
+## English E2 checkpoint
+
+- coverage — **PDF52–65 / printed pp.51–64 / 14/14**
+- corrections — **9**
+- unresolved — **0**
+- frozen Tamil changes — **0**
+- translator/source notes after E2 — **4 total**
+- review record — `translation-review.md`
+- E2 status — **COMPLETE / PASS**
+
 ## Exact next activity
 
-English **E2 fidelity review — PDF52–65 / printed pp.51–64 / all 14 pages**.
+English **E3 final end-to-end verification — PDF52–65 / printed pp.51–64 / all 14 pages**.
 
-Compare `translation-en.md` page by page against the frozen Tamil layer, recording any findings separately before consolidating confirmed corrections. Do not alter frozen Tamil for translation convenience.
+Re-read the corrected `translation-en.md` against the frozen Tamil from beginning to end. Verify all 9 E2 corrections, all 4 translator/source notes, page-boundary continuations, repeated rhetoric, subjects/pronouns, names/titles and the terminal `நம்புகிறேன்!` sentence.
 
-Do not begin E3.
+Do not mark English `verified-complete` or begin repository closure until E3 passes.
