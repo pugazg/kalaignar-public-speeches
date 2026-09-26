@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 4 PDF95–99
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 5 FINAL PDF100–101
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,11 +21,11 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - PDF102 — **publisher/back-catalogue material / excluded**
 - Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
 - Tamil T2 — **IN PROGRESS**
-- T2 Batches 1–3 — **PDF80–94 / printed pp.79–93 — COMPLETE / PASS**
-- T2 progress — **15/22 pages**
-- T2 cumulative corrections — **3**
+- T2 Batches 1–4 — **PDF80–99 / printed pp.79–98 — COMPLETE / PASS**
+- T2 progress — **20/22 pages**
+- T2 cumulative corrections — **4**
 - T2 unresolved — **0**
-- recorded boundaries passed — **9/11**: 81→82, 82→83, 83→84, 84→85, 85→86, 89→90, 91→92, 92→93, 94→95
+- recorded boundaries passed — **11/11**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/puranap-pothai/transcription-ta.md`
@@ -36,8 +36,7 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 1. PDF81 — `புதுவாழ்வு பெற்று போதை யேற்றி` → `புதுவாழ்வு பெற்றுப் போதை யேற்றி`
 2. PDF81 — `படிக்காவிட்டாலும் கூட` → source form `படிக்காவிட்டாலுங் கூட`
 3. PDF94 — `கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்கள் மறக்க` → `கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்களை மறக்க`
-
-Batch 2 PDF85–89 passed with **0 additional corrections / 0 unresolved**.
+4. PDF97 — `வழக்கமான லீலைகள் நடத்தி` → `வழக்கமான லீலைகளை நடத்தி`
 
 ## T2 rules
 
@@ -49,11 +48,11 @@ Record every source-supported correction in `audit.md` and apply it to `transcri
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 4: PDF95–99 / printed pp.94–98 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 5 / FINAL: PDF100–101 / printed pp.99–100 / 2 pages**.
 
-Audit all five pages line by line against the rendered source scan. Include:
-- PDF95→96 continuation;
-- PDF99 ending together with PDF100 only as needed to verify PDF99→100;
-- source-sensitive forms listed in `audit.md`, especially `தேவ தாசிகள்`, `எமதருமன்`, `சபலம் மேலோங்கி`, `சரச மாடினான்`, `வயிற்றுக் கனுப்பி`, `காமக்கள மாக்கிக்`, `கலவியின்ப மனுபவித்தாளாம்`, `மூவரும் தேவரும்`, `‘யாருக்கு’`, `ஐவருக்குந்தேவி`, `மாம்பழச் சருக்கம்`, and `துரோபதை`.
+Audit both pages line by line against the rendered source scan. Include:
+- source-sensitive forms listed in `audit.md`, especially `மனபல மிழந்து`, `சத்தற்ற வாழ்வுச் சுமை`, quoted `‘சாவே வா, சாவே வா,’`, `நச்சு எண்ணங்கள்`, `புத்தறிவுப் போதனை`, `தி. மு. க.`, and `போதை நீங்கிய நீக்கப்பட்ட திராவிட நாட்டைக் காண`;
+- the terminal line `எழுச்சி முரசொலி முழங்கட்டும்.`;
+- the PDF101→102 boundary confirming PDF102 is publisher/back-catalogue material and outside the constituent body.
 
-Do not begin T3 or English. Do not audit PDF100 onward except the minimum adjoining text required for PDF99→100.
+If Batch 5 passes, mark Tamil T2 **COMPLETE / PASS** with the final correction total, but **do not begin T3 or English in the same step**.
