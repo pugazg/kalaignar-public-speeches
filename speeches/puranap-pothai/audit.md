@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batches 1–2 PDF80–89 COMPLETE / PASS; 10/22 pages; 2 corrections / 0 unresolved**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batches 1–3 PDF80–94 COMPLETE / PASS; 15/22 pages; 3 corrections / 0 unresolved**
 
 ## T1 method
 
@@ -195,8 +195,54 @@ Batch 2 unresolved glyph readings: **0**.
 - Tamil T2 — **IN PROGRESS**
 - pages remaining — **PDF90–101 / 12 pages**
 
+## Tamil T2 strict visual audit — Batch 3: PDF90–94 / printed pp.89–93
+
+**Status: COMPLETE / PASS — 5/5 pages.**  
+**Source-supported corrections: 1.**  
+**Unresolved after Batch 3: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 94 | 93 | `கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்கள் மறக்க` | `கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்களை மறக்க` — source accusative `ஐ` restored |
+
+### Batch 3 page confirmations
+
+- **PDF90 / printed 89** — `சிவலிங்கனார்`, `அய்வேலங்கொடி`, `தன்னுயிரைத் தழுவாதிருக்க`, long Vishnu/Mohini sentence, `மோகினிப் பெண்ணாகவே`, and terminal `நீரில்லை என்று திரும்பி வந்தானாம்` — **PASS / 0 corrections**.
+- **PDF91 / printed 90** — `மொண்டு தன் தலையில் தடவினன்`, `பஸ்மமாகிவிட்டான்`, punctuation `மாபாவி மடிந்தான்;`, `மோகினி வடிவைக் கண்டு மோகித்து`, and terminal `சிவலிங்க உருவில் இருக்கிறது` — **PASS / 0 corrections**.
+- **PDF91→92 continuation** — `சிவலிங்க உருவில் இருக்கிறது / என்று மக்கள் நம்பி` — **PASS**.
+- **PDF92 / printed 91** — `தீயோனின் தீக்குணத்தைத் திருத்த`, `ஒளிந்துகொள்ளும்`, `திரிபுரமெரித்த`, `ஆணை விஷ்ணுவை`, and terminal `கருத்தழிந்து,` — **PASS / 0 corrections**.
+- **PDF92→93 continuation** — `கருத்தழிந்து, / காமக் குரங்காட்டமாடியது` — **PASS**.
+- **PDF93 / printed 92** — `காமக் குரங்காட்டமாடியது`, `மாண்டவ்யர்`, `மனதிற்குகந்த`, and source form `பிறந்து வளர்த்து பருவ மங்கையு மானாள்` — **PASS / 0 corrections**.
+- **PDF94 / printed 93** — `களங்க மற்று`, `விஷ்ணும் விட வில்லையே`, source `கோலாகலங்களை`, Brindai passage, and terminal `பின்` — **PASS after 1 correction**.
+- **PDF94→95 continuation** — `பின் / னரே` forming `பின்னரே` across the physical page boundary — **PASS**; only the opening adjoining text of PDF95 was used.
+
+### Historical-glyph check — Batch 3
+
+PDF90–94 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement or lexical modernization was used.
+
+Batch 3 unresolved glyph readings: **0**.
+
+## T2 progress after Batch 3
+
+- audited — **PDF80–94 / 15 of 22 pages**
+- printed pages — **79–93**
+- cumulative corrections — **3**
+- unresolved — **0**
+- recorded boundary controls passed so far — **9/11**:
+  - PDF81→82 — PASS
+  - PDF82→83 — PASS
+  - PDF83→84 — PASS
+  - PDF84→85 — PASS
+  - PDF85→86 — PASS
+  - PDF89→90 — PASS
+  - PDF91→92 — PASS
+  - PDF92→93 — PASS
+  - PDF94→95 — PASS
+- Tamil T2 — **IN PROGRESS**
+- pages remaining — **PDF95–101 / 7 pages**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 3: PDF90–94 / printed pp.89–93 / 5 pages**.
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 4: PDF95–99 / printed pp.94–98 / 5 pages**.
 
-Audit all five pages line by line against the rendered source scan, including PDF91→92, PDF92→93, and the PDF94 ending together with PDF95 only as needed to verify PDF94→95. Do not begin T3 or English.
+Audit all five pages line by line against the rendered source scan, including PDF95→96 and the PDF99 ending together with PDF100 only as needed to verify PDF99→100. Do not begin T3 or English.
