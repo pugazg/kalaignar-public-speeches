@@ -1,6 +1,6 @@
 # மீண்டும் கிளைவ் ? — English Translation
 
-> **Status:** English E1 COMPLETE — 6/6; English E2 fidelity review COMPLETE / PASS — PDF46–51 / 6/6 pages, 5 corrections / 0 unresolved; English E3 final verification READY  
+> **Status:** English `verified-complete` — E1 COMPLETE 6/6; E2 COMPLETE / PASS 6/6 with 5 corrections / 0 unresolved; E3 COMPLETE / PASS 6/6 with 0 additional corrections / 0 unresolved  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Political labels and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.

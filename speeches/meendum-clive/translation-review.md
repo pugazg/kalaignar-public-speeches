@@ -1,6 +1,6 @@
 # மீண்டும் கிளைவ் ? — English translation fidelity review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF46–51 / 6/6 pages**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF46–51 / 6/6 pages**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E1 coverage:** **6/6 pages**  
 > **E2 corrections:** **5**  
@@ -37,10 +37,41 @@
 - E2 unresolved English fidelity findings — **0**
 - frozen Tamil changed during E2 — **No**
 
+## E3 final verification — COMPLETE / PASS
+
+The complete English layer was re-read end to end against the frozen Tamil after E2 consolidation.
+
+### E3 end-to-end checks
+
+- English page headings PDF **46–51** — **6/6, exactly once, in order**
+- printed-page mapping **45–50** — **PASS**
+- Tamil/English substantive paragraph counts by page — **PASS / no mismatches**
+- all **5 E2 corrections** — **present**
+- stale pre-E2 wording — **none found**
+- PDF48→49 continuation — **PASS**
+- PDF50 translator/source note — **retained**
+- PDF50→51 continuation — **PASS**
+- translator/source notes — **1/1 retained**
+- omissions — **none found**
+- unsupported additions — **none found**
+- meaning reversals — **none found**
+- subjects / pronouns — **PASS**
+- names / titles / historical forms — **PASS**
+- rhetorical force / repetition — **PASS**
+- final rhetorical sequence — **PASS as source rhetoric**
+- E3 additional corrections — **0**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+## English verification state
+
+- E1 — **COMPLETE / 6/6**
+- E2 — **COMPLETE / PASS / 6/6 — 5 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS / 6/6 — 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+
 ## Next gate
 
-English **E3 final end-to-end Tamil→English verification — PDF46–51 / printed pp.45–50 / all 6 pages**.
+Proceed to **repository closure / archival handover for constituent 3**.
 
-Re-read all English pages against frozen Tamil. Confirm all **5 E2 corrections** are present, stale E1 wording is absent, both recorded page-boundary continuations remain intact, the translator/source note survives consolidation, and no omission/addition/reversal remains.
-
-Only after E3 passes may English be marked `verified-complete`.
+Do not reopen Tamil or English merely for stylistic polishing. Reopen only for genuinely new source evidence or a documented substantive fidelity defect.

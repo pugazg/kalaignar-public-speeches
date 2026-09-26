@@ -16,33 +16,37 @@ Archive: `speeches/meendum-clive/`
 - English E2 — **COMPLETE / PASS / 6/6**
 - E2 corrections — **5**
 - E2 unresolved — **0**
-- English E3 — **READY / NOT STARTED**
+- English E3 — **COMPLETE / PASS / 6/6**
+- E3 additional corrections — **0**
+- E3 unresolved — **0**
+- English — **`verified-complete`**
+- repository closure — **READY / NOT STARTED**
 - predecessor constituents 1–2 — **FINAL CLOSED / RELEASE READY**
 
 Frozen Tamil: `transcription-ta.md`.  
 English translation: `translation-en.md`.  
-English fidelity ledger: `translation-review.md`.
+English fidelity/final-verification ledger: `translation-review.md`.
 
-## E2 durable corrections
+## E3 durable checkpoint
 
-1. PDF47 — restored repeated `அமைத்திடும் முறையில், அமைத்திடும் போக்கில்` manner/course phrasing.
-2. PDF48 — restored `திரிந்துகொண் டிருந்தான்` as “He went about...”.
-3. PDF48 — corrected `வேலைக்கமர்த்தி` to “placed Clive in an ordinary job”, removing unsupported procurement nuance.
-4. PDF49 — restored `பிடித்தலைந்தவன்` as “a man who went about possessed...”.
-5. PDF51 — rendered `வழிவந்தோரே` as “those who follow in the path...”, avoiding a literal-lineage implication.
-
-Controls:
-- coverage / page order — **6/6 PASS**
-- substantive paragraph correspondence — **PASS**
-- omissions / unsupported additions / reversals — **0 unresolved**
+- English page headings PDF46–51 — **6/6 exactly once and ordered**
+- printed-page mapping pp.45–50 — **PASS**
+- Tamil/English substantive paragraph counts by page — **PASS**
+- all **5 E2 corrections** — present
+- stale E1 wording — none
 - PDF48→49 and PDF50→51 continuations — **2/2 PASS**
 - PDF50 translator/source note — **retained**
-- frozen Tamil changes during E2 — **0**
+- omissions / unsupported additions / reversals — none found
+- names / titles / source-sensitive forms — **PASS**
+- rhetorical force / repetition — **PASS**
+- E3 additional corrections — **0**
+- E3 unresolved — **0**
+- frozen Tamil changes during E3 — **0**
 
 ## Exact next activity
 
-English **E3 final end-to-end Tamil→English verification — PDF46–51 / printed pp.45–50 / all 6 pages**.
+Proceed to **repository closure / archival handover for constituent 3**.
 
-Confirm all 5 E2 corrections are present, stale E1 wording is absent, page/paragraph correspondence remains intact, both page-boundary continuations and the translator/source note survive, and no omission/addition/reversal remains.
+Run final consistency checks across Tamil, English, audit/review, metadata, README, handover and parent collection controls. Create the final closure record if all checks pass, mark constituent 3 fully archived, then advance the parent collection to constituent 4 `‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!` Tamil T1.
 
-Only after E3 passes may English be marked `verified-complete`.
+Do not reopen Tamil or English unless new source evidence or a documented substantive fidelity defect is found.
