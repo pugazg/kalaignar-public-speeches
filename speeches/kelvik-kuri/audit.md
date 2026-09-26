@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF66–79 / printed pp.65–78 / 14 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; T2 **COMPLETE / PASS — PDF66–79 / 14/14 pages; 8 corrections / 0 unresolved**; T3 **READY / NOT STARTED**
+**Current gate:** Tamil T1 **COMPLETE — 14/14**; T2 **COMPLETE / PASS — 14/14 / 8 corrections / 0 unresolved**; T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**
 
 ## T1 method
 
@@ -212,10 +212,43 @@ Batch 3 unresolved glyph readings: **0**.
 - historical-glyph review — **COMPLETE / 0 unresolved**
 - Tamil T2 — **COMPLETE / PASS**
 
+## Tamil T3 consolidation / freeze — COMPLETE / PASS
+
+T3 reconciled the full canonical Tamil after T2 without stylistic rewriting.
+
+### T3 consolidation controls
+
+- PDF66–79 page coverage — **14/14 exactly once and ordered**
+- printed pp.65–78 — **continuous / PASS**
+- all **8/8 T2 corrections** — **present**
+- stale superseded T1 readings — **none found**
+- recorded page-boundary controls — **6/6 PASS**
+- constituent ending on PDF79 — **PASS**
+- PDF80 next heading **புராணப் போதை!** — **PASS**
+- source-sensitive spelling / punctuation / spacing / historical-glyph decisions — **retained**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- T3 unresolved — **0**
+
+### T3 correction reconciliation
+
+1. PDF67 — `காட்சியளிக்கின்றானே, கடவுளே` — **present**
+2. PDF69 — `அறிவின். ஆராய்ச்சியின்` — **present**
+3. PDF69 — `முன்னேறிதான்` — **present**
+4. PDF70 — no unsupported opening quote before `கேள்வி ஞானமின்றி` — **PASS**
+5. PDF75 — `ஏன் சில பல நேரங்களில்` — **present**
+6. PDF76 — `கற்பனைச் சொர்க்க வாழ்வு` — **present**
+7. PDF77 — `உருண்டுஉருண்டு` — **present**
+8. PDF79 — `இத்தகையாளர். தங்களை` — **present**
+
+Tamil is now **`verified-complete` / FROZEN**.
+
+## Freeze rule
+
+Do not alter frozen Tamil for stylistic polishing, modernization, normalization or translation convenience. Any later Tamil change requires documented source evidence and downstream English re-verification.
+
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF66–79 / printed pp.65–78 / all 14 pages**.
+Proceed to **English E1 first-pass translation — PDF66–79 / printed pp.65–78 / all 14 pages** using only the frozen Tamil layer.
 
-Reconcile all **8 T2 corrections**, verify exact 14/14 page coverage and all six recorded page-boundary controls, confirm stale T1 readings are absent, and freeze Tamil only if T3 passes with 0 unresolved.
-
-Do not begin English before Tamil T3 is complete and the Tamil layer is marked `verified-complete` / FROZEN.
+Do not reopen Tamil merely for translation convenience.
