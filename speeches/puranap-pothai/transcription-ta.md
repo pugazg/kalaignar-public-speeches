@@ -1,6 +1,6 @@
 # புராணப் போதை! — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 22/22; T2 IN PROGRESS — Batches 1–2 PDF80–89 COMPLETE / PASS with 2 corrections / 0 unresolved; next PDF90–94  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — 22/22; T2 IN PROGRESS — Batches 1–3 PDF80–94 COMPLETE / PASS with 3 corrections / 0 unresolved; next PDF95–99  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
 > **Explicit unresolved T1 readings:** 0
@@ -227,7 +227,7 @@
 
 சிவன் உமையை உடலின் ஒரு பாதியாகவும், கங்கையைத் தலையிலும், அதே நேரத்தில் மோகினி வடிவத்திலிருந்த விஷ்ணும் விட வில்லையே என்பது அவர்கள் நினைவிற்கு வந்திருக்கும்!
 
-விஷ்ணுவின் பல அவதாரங்களும், குறிப்பாக கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்கள் மறக்க முடியாதிருந்திருக்கலாம் அவர்கள்.
+விஷ்ணுவின் பல அவதாரங்களும், குறிப்பாக கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்களை மறக்க முடியாதிருந்திருக்கலாம் அவர்கள்.
 
 இதைவிட, விஷ்ணு பிருந்தை என்ற முனிவரின் பத்தினியை அவளது கணவன் உருக்கொண்டு கற்பழித்தும், அவள் அதனால் மாண்டு போனதும், பிறகும் காமந்தணியாத விஷ்ணு, அவளது பிணம் எரிந்து குவிந்த சாம்பலிலே புரண்டு, கடைசியாக, சாம்பலிலே முளைத்த துளசிச் செடியாக மாலையாக அணிந்த பின்
 
