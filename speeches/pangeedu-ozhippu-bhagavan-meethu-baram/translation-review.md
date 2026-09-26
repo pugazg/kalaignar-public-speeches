@@ -1,12 +1,14 @@
 # ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — English translation fidelity review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF52–65 / 14/14 pages**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF52–65 / 14/14 pages**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E1 coverage:** **14/14 pages**  
 > **E2 corrections:** **9**  
 > **E2 unresolved:** **0**  
 > **Tamil changes during E2:** **0**  
-> **E3:** **READY / NOT STARTED**
+> **E3 additional corrections:** **4**  
+> **E3 unresolved:** **0**  
+> **Tamil changes during E3:** **0**
 
 ## E2 correction ledger
 
@@ -59,17 +61,58 @@
 - E2 unresolved English fidelity findings — **0**
 - frozen Tamil changed during E2 — **No**
 
-## English review state
+## E3 final verification — COMPLETE / PASS
+
+The complete post-E2 English layer was re-read from PDF52 through PDF65 against the frozen Tamil, then rechecked after the E3 corrections below.
+
+### E3 correction ledger
+
+| PDF | Post-E2 issue | E3 correction |
+|---:|---|---|
+| 53 | `வெளிப் படையாகத் தமது வேடத்தைக் காட்டிடாது` had been rendered as “could no longer show their guise openly”, adding an unsupported inability/causation nuance | corrected to **“entered the black market without openly revealing their guise”** |
+| 54 | the post-E2 wording made the **food famine** itself “the most important necessity”, rather than food being the important necessity affected by famine | corrected to **“famine struck food—the most important among the primary necessities of people's life in the country—and began to dance with its hair unbound”** |
+| 55 | `தூற்றுதல்களுக் கிடையே` was rendered as “amid the abuse”, which blurred the source's complaint/reproach sense | corrected to **“amid complaints about the great, endless, unceasing trouble...”** |
+| 65 | `மக்களின் உள்ளங்களைத் திறந்து காட்டிட` was rendered as “help open up the hearts”, weakening the source's reveal/lay-open force | corrected to **“help lay open the hearts of the people”** |
+
+### E3 end-to-end checks
+
+- English page headings PDF **52–65** — **14/14, exactly once, in order**
+- printed-page mapping **51–64** — **PASS**
+- two-line source heading remains one constituent — **PASS**
+- all **9 E2 corrections** — **present**
+- all **4 E3 corrections** — **present**
+- stale pre-E2 / pre-E3 wording — **none found**
+- translator/source notes — **4/4 retained**
+- PDF52→53 continuation — **PASS**
+- PDF55→56 continuation — **PASS**
+- PDF56→57 quotation continuation — **PASS**
+- PDF57→58 continuation — **PASS**
+- PDF58→59 continuation — **PASS**
+- PDF59→60 open-parenthesis handling — **PASS / source note retained**
+- PDF62→63 continuation — **PASS**
+- omissions — **none found**
+- unsupported additions — **none found after E3 correction**
+- meaning reversals — **none found**
+- subjects / pronouns — **PASS**
+- names / titles / source-sensitive forms — **PASS**
+- rhetorical force / repetition — **PASS**
+- terminal `நம்புகிறேன்!` sentence — **PASS**
+- source political claims / labels — **represented as source rhetoric; not independently validated or endorsed**
+- E3 additional corrections — **4**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+A second complete post-correction sweep found **0 further English fidelity issues**.
+
+## English verification state
 
 - E1 — **COMPLETE / 14/14**
 - E2 — **COMPLETE / PASS / 14/14 — 9 corrections / 0 unresolved**
-- E3 — **READY / NOT STARTED**
-- English — **not yet `verified-complete`; E3 remains required**
+- E3 — **COMPLETE / PASS / 14/14 — 4 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
 
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF52–65 / printed pp.51–64 / all 14 pages**.
+English textual verification is complete. Proceed next to **repository-level archival closure / release-readiness synchronization** for constituent 4.
 
-Re-read the complete corrected English layer against the frozen Tamil from beginning to end, verify all 9 E2 corrections and all 4 translator/source notes, and check for stale E1 wording, omissions, additions, reversals, page-boundary loss and rhetorical weakening.
-
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+Do not reopen frozen Tamil or verified English merely for stylistic polishing.
