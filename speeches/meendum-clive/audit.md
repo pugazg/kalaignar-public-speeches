@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF46–51 / printed pp.45–50 / 6 pages  
-**Current gate:** Tamil T2 strict visual audit **COMPLETE / PASS — PDF46–51 / 6/6 pages; 12 corrections / 0 unresolved**; Tamil T3 consolidation/freeze READY
+**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
 
 ## T1 method
 
@@ -98,10 +98,46 @@ All six pages were checked directly against the rendered scan, including the his
 - unresolved — **0**
 - Tamil T2 — **COMPLETE / PASS**
 
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **12/12 PASS** |
+| Speech-page coverage | **PDF46–51 = 6/6, each exactly once, in order** |
+| Printed-page mapping | **pp.45–50 continuous / PASS** |
+| Recorded cross-page continuations | **2/2 PASS** |
+| Stale superseded T1 readings | **none found** |
+| Source-sensitive retained forms | **PASS** |
+| Final body ending | `நினைத்துப் பாருங்கள்.` — **PASS** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| T3 unresolved | **0** |
+
+### T3 boundary reconciliation
+
+- PDF48→49 — `இந்தியாவில் இங்கிலாந்தின் பிடி, ஆதிக்கம், / அரசுரிமை நிலைத்திட...` — **PASS**
+- PDF50→51 — `நாட்டிற்கு, திராவிட / நாட்டிற்கு இழைத்திடும்...` — **PASS**
+
+Physical page segmentation remains under the original PDF headings; T3 does not erase page-boundary provenance.
+
+### T3 source-sensitive retained controls
+
+- PDF46 title — **மீண்டும் கிளைவ் ?**
+- PDF46 — `சென்னை இராஜ்ஜியத்தை-இராவிட நாட்டைத்`, `மார்க்கட்டாக`, `வடநாட்டினர் - வடநாட்டுத் தலைவர்கள்`
+- PDF47 — `வடநாட்டுப்பிடி`, source single quotations, source long dash, `சிந்தியுங்கள் நண்பர்களே சிந்தியுங்கள்!`
+- PDF48 — `திரிந்துகொண் டிருந்தான்`, `எழுப்பிக்கொண் டிருந்தனர்`, `ஒரு சாதாரண வேலைக்கமர்த்தி`
+- PDF49 — `வெறி பிடித்தலைந்தவன்`, `அந்த நேரத்திய சூழ்நிலையில்`, `அஸ்திவாரத்தைக்`, `நினைப்பதே நீதி - இட்டதே சட்டம்`
+- PDF50 — `திரும்பும் - திருப்பி யனுப்பப்படும்`, `தன்னாட்சி`, `தம் போக்கிலேயே ஆள வந்தார் நடந்திடுவது`
+- PDF51 — `மீண்டும் கிளைவ்?`, `தாளமுத்து நடராசன்`, terminal `நினைத்துப் பாருங்கள்.`
+
+### Tamil freeze
+
+Tamil is now **`verified-complete` / FROZEN** for PDF46–51 / printed pp.45–50.
+
+Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
+
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF46–51 / 6 pages**.
+Proceed to **English E1 translation — PDF46–51 / printed pp.45–50 / all 6 pages**, translating only from the frozen Tamil `transcription-ta.md`.
 
-T3 must reconcile all **12/12** T2 corrections, confirm PDF46–51 coverage exactly once and in order, verify the two recorded cross-page continuations, search for stale superseded T1 readings, and freeze Tamil only if no unresolved item remains.
-
-Do not begin English until T3 passes and Tamil is frozen.
+Do not begin E2/E3 until E1 is complete.

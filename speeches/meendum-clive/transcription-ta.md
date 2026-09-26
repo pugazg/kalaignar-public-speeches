@@ -1,9 +1,10 @@
 # மீண்டும் கிளைவ் ? — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 6/6 pages; Tamil T2 COMPLETE / PASS — PDF46–51 / 6/6 pages, 12 corrections / 0 unresolved; Tamil T3 consolidation/freeze READY  
+> **Status:** Tamil `verified-complete` / FROZEN — T1 COMPLETE 6/6; T2 COMPLETE / PASS 6/6 with 12 corrections / 0 unresolved; T3 COMPLETE / PASS  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
-> **Explicit unresolved T1 readings:** 0
+> **Explicit unresolved T1 readings:** 0  
+> **T3:** 12/12 T2 corrections reconciled; PDF46–51 coverage exact and ordered; 2/2 recorded cross-page continuations PASS; stale superseded T1 readings absent; 0 additional source corrections / 0 consolidation repairs / 0 unresolved
 
 ## Speech body
 

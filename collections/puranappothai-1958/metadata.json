@@ -49,14 +49,14 @@
     "constituent_items_mapped": 6,
     "constituent_items_source_gated": 6,
     "constituent_items_t1_complete": 3,
-    "constituent_items_tamil_verified": 2,
+    "constituent_items_tamil_verified": 3,
     "constituent_items_english_verified": 2,
     "constituent_items_archived": 2,
     "active_constituent_number": 3,
     "active_constituent_slug": "meendum-clive",
     "active_constituent_title_ta": "மீண்டும் கிளைவ் ?",
-    "next_gate": "Tamil T3 consolidation / freeze — constituent 3 / PDF46–51 / 6 pages",
-    "collection_status": "active-constituent-3-t3-ready",
+    "next_gate": "English E1 translation — constituent 3 / PDF46–51 / 6 pages",
+    "collection_status": "active-constituent-3-english-e1-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -189,7 +189,14 @@
       "tamil_t2_batches_complete": 1,
       "tamil_t2_corrections": 12,
       "tamil_t2_unresolved": 0,
-      "tamil_t3": "ready-not-started"
+      "tamil_t3": "complete-pass",
+      "tamil_verified": "verified-complete",
+      "tamil_frozen": true,
+      "t3_t2_corrections_reconciled": 12,
+      "t3_additional_source_corrections": 0,
+      "t3_consolidation_repairs": 0,
+      "t3_unresolved": 0,
+      "english_e1": "ready-not-started"
     },
     {
       "number": 4,
