@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–3 FINAL CLOSED / constituent 4 Tamil VERIFIED / FROZEN / English E1+E2 COMPLETE / E3 READY — 6/6 constituents mapped**
+**Status: ACTIVE — constituents 1–3 FINAL CLOSED / constituent 4 Tamil+English VERIFIED / repository closure READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -53,10 +53,10 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 - constituent 1 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 2 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 3 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
-- constituent 4 — **ACTIVE — Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE; English E1 COMPLETE 14/14; E2 COMPLETE / PASS 14/14 with 9 corrections / 0 unresolved; E3 READY / NOT STARTED**
+- constituent 4 — **ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E1 COMPLETE 14/14; E2 COMPLETE / PASS with 9 corrections / 0 unresolved; E3 COMPLETE / PASS with 4 additional corrections / 0 unresolved; repository closure READY**
 - constituents 5–6 — **Tamil T1 READY / NOT STARTED**
 - Tamil verified constituents — **4/6**
-- English verified constituents — **3/6**
+- English verified constituents — **4/6**
 - fully archived constituents — **3/6**
 
-Exact next gate: constituent 4 — ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — **English E3 final end-to-end verification, PDF52–65 / printed pp.51–64 / all 14 pages**.
+Exact next gate: constituent 4 — ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — **repository-level archival closure / release-readiness synchronization**.
