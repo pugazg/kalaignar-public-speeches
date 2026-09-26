@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T1 PDF80–101
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 1 PDF80–84
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,9 +11,6 @@ Constituents **1–5 are FINAL CLOSED / RELEASE READY**.
 
 Do not reopen their canonical Tamil, verified English, audits, metadata or final-closure records merely to advance constituent 6.
 
-Constituent 5 final report:
-`speeches/kelvik-kuri/FINAL_CLOSURE.md`
-
 ## Active constituent
 
 - constituent — **6 / 6**
@@ -21,29 +18,54 @@ Constituent 5 final report:
 - source — `TVA_BOK_0024505_புராணப்போதை.pdf`
 - source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - source range — **PDF80–101 / printed pp.79–100 / 22 pages**
-- direct source heading — **PDF80**
-- PDF102 — **publisher/back-catalogue material / outside constituent body**
-- source / duplicate / boundary gate — **PASS / COMPLETE**
-- Tamil T1 — **READY / NOT STARTED**
-- Tamil T2/T3 — blocked pending T1
+- PDF102 — **publisher/back-catalogue material / excluded**
+- Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
+- Tamil T2 — **READY / NOT STARTED**
+- Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
+- working Tamil — `speeches/puranap-pothai/transcription-ta.md`
+- Tamil audit — `speeches/puranap-pothai/audit.md`
 - speech date — **not established / do not infer**
 - item-specific venue — **not established / do not infer**
 
-## Source-faithful Tamil rules
+## T1 durable controls
 
-The controlling scan is authoritative. Transcribe directly from rendered source pages; OCR/parsed text may be used only as an aid.
+- PDF80–101 coverage — **22/22 exactly once and ordered**
+- printed pp.79–100 — **continuous**
+- explicit unresolved T1 readings — **0**
+- PDF102 excluded from speech body
+- recorded page-boundary controls include:
+  - 81→82
+  - 82→83
+  - 83→84
+  - 84→85
+  - 85→86
+  - 89→90
+  - 91→92
+  - 92→93
+  - 94→95
+  - 95→96
+  - 99→100
+- historical Tamil glyph discipline applies page by page
+- T1 completion is **not** a verification claim
 
-Preserve source spelling, punctuation, spacing, historical forms, repetitions, names, unusual grammar and page correspondence. Do not silently modernize, normalize, repair or supplement from outside sources.
+## T2 rules
 
-Keep explicit PDF-page and printed-page headings. Record genuinely uncertain readings rather than guessing. Inspect page-boundary word splits across both adjoining pages before joining them.
+The controlling scan is authoritative. Compare every line and character against enlarged rendered source pixels. OCR/parsed text is only an aid.
 
-Re-check historical Tamil glyph families page by page against source pixels. No global character replacement is permitted.
+Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. Do not silently modernize or normalize. Re-check the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Record every source-supported correction in `audit.md` and apply it to `transcription-ta.md`. If a reading remains uncertain, record it rather than guessing.
 
 ## Exact next activity
 
-Begin Tamil **T1 first-pass transcription — PDF80–101 / printed pp.79–100 / all 22 pages** for **புராணப் போதை!**.
+Tamil **T2 strict visual fidelity audit — Batch 1: PDF80–84 / printed pp.79–83 / 5 pages**.
 
-Create/start `speeches/puranap-pothai/transcription-ta.md` and `audit.md` as required by the processing guide, preserving explicit page correspondence.
+Audit all five pages line by line against the rendered source scan. Include:
+- PDF81→82 continuation;
+- PDF82→83 continuation;
+- PDF83→84 continuation;
+- PDF84 ending together with PDF85 only as needed to verify PDF84→85;
+- source-sensitive forms listed in `audit.md`.
 
-Do **not** include PDF102 in the constituent body. Do **not** begin T2, T3 or English in the same step.
+Do not begin T3 or English. Do not audit PDF85 onward except the minimum adjoining text required for the PDF84→85 boundary.
