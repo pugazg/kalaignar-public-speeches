@@ -1,10 +1,11 @@
 # கேள்விக் குறி! — English Translation
 
-> **Status:** English E2 fidelity review COMPLETE / PASS — PDF66–79 / printed pp.65–78 / 14/14 pages; 10 corrections / 0 unresolved; E3 READY / NOT STARTED  
+> **Status:** English `verified-complete` — E1 COMPLETE 14/14; E2 COMPLETE / PASS 14/14 with 10 corrections / 0 unresolved; E3 COMPLETE / PASS 14/14 with 4 additional corrections / 0 unresolved  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, page sequence, quoted speech, historical/source-sensitive wording and unusual constructions. Political and religious claims and labels below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **E1 scope:** PDF66–79 / printed pp.65–78 / 14 pages.  
-> **E2:** COMPLETE / PASS — 10 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
+> **E2:** COMPLETE / PASS — 10 corrections / 0 unresolved / 0 Tamil changes.  
+> **E3:** COMPLETE / PASS — 4 additional corrections / 0 unresolved / 0 Tamil changes.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -39,11 +40,11 @@ Question mark! We do not find it failing to arise in the mind of a child. It app
 
 The question mark that began at the level of ‘What is it? What are they?’—the basic question mark—keeps piling up questions in the form: Why is it like that? Why are they like that? Each according to his situation, according to his knowledge, according to his experience.
 
-Question marks! Asked within each person's own thoughts, swimming and playing in the whirl of memory, and when calm, certain and honest answers—answers that give explanation—are not obtained and confusion sets in, people, for peace of mind, for mental calm, for clarity of thought, run in search of someone, stop them, plead, and go about seeking known answers and explanations suited to their question marks. At times they long to ask and learn even newer and newer question marks suited to the explanations!
+Question marks! Asked within each person's own thoughts, swimming and playing in the whirl of memory, and when calm, certain and honest answers—answers that give explanation—are not obtained and confusion sets in, people, for peace of mind, for mental calm, for clarity of thought, run in search of someone, stop them, plead, and go about seeking known answers and explanations suited to their question marks. At times they long to ask and learn even newer and newer questions suited to the explanations!
 
 ### PDF page 69 — printed page 68
 
-Question! Question mark! A sign of thought! Of knowledge. The opening chapter of inquiry, the first stage, the first boundary line on the path of progress! A rung on the ladder of clarity of thought! The dawn of debate that leads to explanation!
+Question! Question mark! A sign of thought! Of knowledge. The opening chapter of inquiry, the first stage, the first boundary line on the path of progress! A rung on the ladder of clarity of thought! The morning star of debate that leads to explanation!
 
 Question! Question mark! Is it not an undeniable truth that questions such as Why? Because of what? How? For what? stir and prod human thought, make one investigate anything, and help one obtain its benefit?
 
@@ -115,7 +116,7 @@ An oil-press-bullock life: like the bullocks at an oil press that keep circling 
 
 ### PDF page 74 — printed page 73
 
-—seeking merit: such an ordinary, but very, very inert, utterly tasteless life. It is human life, certainly. But do we not see it being lived as an oil-press-bullock life?
+—seeking merit: such an ordinary, but very, very substance-less, utterly tasteless life. It is human life, certainly. But do we not see it being lived as an oil-press-bullock life?
 
 At a time when science and scientific development have spread and grown, producing every kind of advancement for human life and countless beautiful things, why should human beings with such an oil-press-bullock mind exist in this country?
 
@@ -175,7 +176,7 @@ Should not all these people, all such human beings, all people with an oil-press
 
 Only if all human beings live as human beings—not merely in form, not merely in food and clothing, but in mind, feeling, thought, clarity of thought, mental strength, mental resources, in every respect and in everything—can human beings live as human beings, can they not?
 
-Man wishes to rise beyond human nature to a higher destiny, to the pleasures of heavenly life; yet while remaining human, eating, dressing, sleeping and moving about, he forgets human qualities and lives a life of delusion, a life of illusion, a life of bewilderment, a life of intoxication—is that good? I ask in public, in public life, for the good life of humankind?
+Man wishes to rise beyond human nature to a higher destiny, to the pleasures of heavenly life; yet while remaining human, eating, dressing, sleeping and moving about, he forgets human qualities and lives a life of delusion, a life of illusion, a life of bewilderment, a life of intoxication—is that good? I ask this generally, in public life, only for the good of humankind?
 
 ### PDF page 79 — printed page 78
 
