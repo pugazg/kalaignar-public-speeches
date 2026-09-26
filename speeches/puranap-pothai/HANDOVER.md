@@ -10,7 +10,7 @@ Archive: speeches/puranap-pothai/
 - duplicate gate — PASS
 - boundary gate — PASS
 - Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
-- Tamil T2 — **READY / NOT STARTED**
+- Tamil T2 — **IN PROGRESS — Batch 1 PDF80–84 COMPLETE / PASS; 5/22 pages; 2 corrections / 0 unresolved**
 - Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - canonical working Tamil — `transcription-ta.md`
@@ -26,10 +26,19 @@ Archive: speeches/puranap-pothai/
 - historical-glyph discipline — applied during T1; full page-by-page confirmation remains for T2
 - no constituent-specific speech date or venue inferred
 
+## T2 Batch 1 checkpoint
+
+- audited — **PDF80–84 / printed pp.79–83 / 5/22 pages**
+- corrections — **2**
+- unresolved — **0**
+- recorded boundary controls passed — **4/11**: 81→82, 82→83, 83→84, 84→85
+- historical-glyph check — **PASS / 0 unresolved**
+- pages remaining for T2 — **17**
+
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — PDF80–101 / printed pp.79–100 / all 22 pages**, in manageable batches.
+Tamil **T2 strict visual fidelity audit — Batch 2: PDF85–89 / printed pp.84–88 / 5 pages**.
 
-Compare every line against the rendered source scan, including historical glyph families and the recorded page-boundary continuations. Apply only source-supported corrections to `transcription-ta.md` and log them in `audit.md`.
+Compare all five pages line by line against the rendered source scan. Include PDF85→86 and inspect the PDF89 ending together with PDF90 only as needed to verify PDF89→90.
 
-Do not begin T3 or English until T2 is complete.
+Apply only source-supported corrections to `transcription-ta.md` and log them in `audit.md`. Do not begin T3 or English.
