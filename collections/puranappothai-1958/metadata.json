@@ -48,15 +48,15 @@
     "constituent_items_total": 6,
     "constituent_items_mapped": 6,
     "constituent_items_source_gated": 6,
-    "constituent_items_t1_complete": 5,
+    "constituent_items_t1_complete": 6,
     "constituent_items_tamil_verified": 5,
     "constituent_items_english_verified": 5,
     "constituent_items_archived": 5,
     "active_constituent_number": 6,
     "active_constituent_slug": "puranap-pothai",
     "active_constituent_title_ta": "புராணப் போதை!",
-    "next_gate": "Tamil T1 transcription — constituent 6 / PDF80–101 / 22 pages",
-    "collection_status": "active-constituent-6-t1-ready",
+    "next_gate": "Tamil T2 strict visual fidelity audit — constituent 6 / PDF80–101 / 22 pages",
+    "collection_status": "active-constituent-6-tamil-t2-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -342,8 +342,15 @@
       "pages": 22,
       "archive_path": "speeches/puranap-pothai/",
       "source_gate": "pass-complete",
-      "tamil_t1": "ready-not-started",
-      "active": true
+      "tamil_t1": "first-pass-complete",
+      "active": true,
+      "tamil_t1_pages_completed": 22,
+      "tamil_t1_through_pdf_page": 101,
+      "tamil_t1_through_printed_page": 100,
+      "tamil_t1_explicit_uncertainties": 0,
+      "tamil_t2": "ready-not-started",
+      "tamil_t3": "blocked-pending-t2",
+      "english_e1": "blocked-pending-tamil-freeze"
     }
   ]
 }
