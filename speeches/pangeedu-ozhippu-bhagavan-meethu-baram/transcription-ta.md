@@ -1,9 +1,10 @@
 # ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 14/14 pages; Tamil T2 COMPLETE / PASS — PDF52–65 / 14/14 pages, 10 corrections / 0 unresolved; Tamil T3 consolidation/freeze READY  
+> **Status:** Tamil `verified-complete` / FROZEN — T1 COMPLETE 14/14; T2 COMPLETE / PASS 14/14 with 10 corrections / 0 unresolved; T3 COMPLETE / PASS  
 > **Source authority:** TVA_BOK_0024505_புராணப்போதை.pdf — direct rendered source pixels control; OCR/parsed text is aid only  
 > **Editorial rule:** Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. T1 completion is not a verification claim.  
-> **Explicit unresolved T1 readings:** 0
+> **Explicit unresolved T1 readings:** 0  
+> **T3:** 10/10 T2 corrections reconciled; PDF52–65 coverage exact and ordered; 7/7 recorded cross-page controls PASS; stale superseded T1 readings absent; 0 additional source corrections / 0 consolidation repairs / 0 unresolved
 
 ## Speech body
 

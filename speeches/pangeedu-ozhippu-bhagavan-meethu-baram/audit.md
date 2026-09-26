@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF52–65 / printed pp.51–64 / 14 pages  
-**Current gate:** Tamil T2 strict visual audit **COMPLETE / PASS — PDF52–65 / 14/14 pages; 10 corrections / 0 unresolved**; Tamil T3 consolidation/freeze READY
+**Current gate:** Tamil T3 consolidation/freeze **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 READY
 
 ## T1 method
 
@@ -136,10 +136,56 @@ All fourteen pages were checked directly against the rendered source, including 
 - unresolved — **0**
 - Tamil T2 — **COMPLETE / PASS**
 
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **10/10 PASS** |
+| Speech-page coverage | **PDF52–65 = 14/14, each exactly once, in order** |
+| Printed-page mapping | **pp.51–64 continuous / PASS** |
+| Recorded cross-page controls | **7/7 PASS** |
+| Stale superseded T1 readings | **none found** |
+| Source-sensitive retained forms | **PASS** |
+| Two-line one-constituent heading | **PASS** |
+| Final body ending | `நம்புகிறேன்!` — **PASS** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| T3 unresolved | **0** |
+
+### T3 page-boundary reconciliation
+
+- PDF52→53 — `சுய / நலக் கும்பல்கள்` — **PASS**
+- PDF55→56 — `இருப்ப / தன் காரணத்தால்` — **PASS**
+- PDF56→57 — `‘கழுதை தேய்ந்து / கட்டெறும்பான’` — **PASS**
+- PDF57→58 — `போகு / மென்று` — **PASS**
+- PDF58→59 — `தெரியவில் / லையே` — **PASS**
+- PDF59→60 — open parenthetical paragraph continuation — **PASS**
+- PDF62→63 — `கேட் / கிறார்களே!` — **PASS**
+
+Physical page segmentation remains under the original PDF headings; T3 does not erase page-boundary provenance.
+
+### T3 source-sensitive retained controls
+
+- PDF52 two-line heading remains one constituent: **‘பங்கீடு’ ஒழிப்பு! / பகவான் மீது பாரம்!**
+- PDF53 — `கட்டுப்படாதகல் நெஞ்சினரும்`, `நெஞ்சழுத்தமான`
+- PDF54 — `வெளி நாடுகளி லிருந்தும்`
+- PDF57 — `அகிம்சா மூர்த்திகள் (!)`, `விளை பொருள்`, `போக்குவரத்து`
+- PDF58 — `துணிவுஉண்டா?`, `ஆர அமர`
+- PDF59 — `மனந் துணிந்து!`, `மானத்திற்கஞ்சி உயிர் வதைப்படும்`
+- PDF61 — `வீணை முடங்காதா`, `திடீர்த்திரு விளையாடல்!`
+- PDF62 — `இருப்பவனிட மிருந்து.`, `நாற்ற மெடுத்தவைகளாகவே`
+- PDF63 — `பாராளு மன்றம்`, `மக்கட் பணத்தை`, `பதவி யேற்று`
+- PDF64 — `போ ரேஷன்`, `கட்டுப் பட்டுக் கிடக்கும்`
+- PDF65 — `எந்தக் காரணத்தால் உள்ளெண்ணத்தால்`, terminal `நம்புகிறேன்!`
+
+### Tamil freeze
+
+Tamil is now **`verified-complete` / FROZEN** for PDF52–65 / printed pp.51–64.
+
+Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
+
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF52–65 / 14 pages**.
+Proceed to **English E1 translation — PDF52–65 / printed pp.51–64 / all 14 pages**, translating only from the frozen Tamil `transcription-ta.md`.
 
-T3 must reconcile all **10/10** T2 corrections, confirm PDF52–65 coverage exactly once and in order, verify all seven recorded cross-page controls, search for stale superseded T1 readings, and freeze Tamil only if no unresolved item remains.
-
-Do not begin English until T3 passes and Tamil is frozen.
+Do not begin E2/E3 until E1 is complete.

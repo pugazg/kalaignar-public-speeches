@@ -1,6 +1,6 @@
 # ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்!
 
-**Status: ACTIVE — Tamil T1 COMPLETE 14/14 / Tamil T2 COMPLETE-PASS 14/14 / Tamil T3 READY**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE / English E1 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -22,13 +22,15 @@ One source-defined constituent with a two-line heading; not two separate items.
 - Tamil T1 — **FIRST-PASS COMPLETE — 14/14 pages / PDF52–65**
 - explicit unresolved T1 readings — **0**
 - Tamil T2 strict visual audit — **COMPLETE / PASS — PDF52–65 / 14/14 pages; 10 corrections / 0 unresolved**
-- Tamil T3 consolidation/freeze — **READY / NOT STARTED**
-- English — blocked pending Tamil freeze
+- Tamil T3 consolidation/freeze — **COMPLETE / PASS — 10/10 T2 corrections reconciled; 0 additional source corrections / 0 repairs / 0 unresolved**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
+- English E2/E3 — blocked pending E1/review
 - working transcript — `transcription-ta.md`
 - T1/T2 audit record — `audit.md`
 
 T1 used direct rendered source pages as authority; OCR/parsed text was only an aid. Cross-page controls recorded for T2 include PDF52→53, 55→56, 56→57, 57→58, 58→59, 59→60 and 62→63.
 
-**Next gate:** Tamil **T3 consolidation / freeze — PDF52–65 / printed pp.51–64 / 14 pages**.
+**Next gate:** English **E1 translation — PDF52–65 / printed pp.51–64 / all 14 pages**, translating only from the frozen Tamil layer.
 
 The source scan remains authoritative. Do not silently modernize or normalize source wording.

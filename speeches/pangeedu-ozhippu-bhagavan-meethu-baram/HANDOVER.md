@@ -9,38 +9,41 @@ Archive: `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/`
 - parent — புராணப்போதை (1958 source scan)
 - constituent — **4/6**
 - source range — **PDF52–65 / printed pp.51–64 / 14 pages**
-- Tamil T1 — **FIRST-PASS COMPLETE — 14/14**
-- Tamil T2 — **COMPLETE / PASS — 14/14**
-- T2 corrections — **10**
-- T2 unresolved — **0**
-- Tamil T3 — **READY / NOT STARTED**
-- English — blocked pending Tamil freeze
+- Tamil T1 — **COMPLETE — 14/14**
+- Tamil T2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved**
+- Tamil T3 — **COMPLETE / PASS**
+- T3 correction instances reconciled — **10/10**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- T3 unresolved — **0**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
+- English E2/E3 — blocked pending E1/review
 - predecessor constituents 1–3 — **FINAL CLOSED / RELEASE READY**
 
-Working transcript: `transcription-ta.md`.  
+Canonical frozen Tamil: `transcription-ta.md`.  
 Tamil audit: `audit.md`.
 
-## T2 durable checkpoint
+## T3 durable checkpoint
 
-- PDF52–65 — **14/14 strict-verified**
-- source-supported corrections — **10**
-- PDF52 `பயன் பட்டது` restored
-- PDF53 `ஏற்படத்தான் ஏற்பட்டது` restored
-- PDF54 `மட்டு மல்ல` restored
-- PDF55 `அவதிநிறைந்த` and `ஆபத்தானநேரத்திலே` source spacing restored
-- PDF57 `மனிதனைப் பருத்திக்கொட்டையையும்` restored
-- PDF60 source comma after `கொண் டிருக்கிறது` restored
-- PDF61 full stop in `பாரமாம். பங்கீடு ஒழிப்பிற்கு!` restored
-- PDF62 `மனச் சங்கடத்தின்மூலம்` restored
-- PDF64 `கட்டிக் காத்திடக்` restored
-- all seven recorded cross-page controls — **PASS**
-- historical-glyph review — **PASS**
-- unresolved — **0**
+- PDF52–65 coverage — **14/14 exactly once / ordered**
+- printed pp.51–64 — **continuous / PASS**
+- all 10 T2 corrections — **present**
+- stale superseded T1 readings — **none found**
+- all seven recorded page-boundary controls — **7/7 PASS**
+- source-sensitive historical spellings, punctuation, spacing and unusual grammar — **retained**
+- two-line heading remains one constituent
+- final line `நம்புகிறேன்!` — **PASS**
+- no constituent-specific speech date or venue inferred
+
+## Freeze rule
+
+Do not alter the frozen Tamil for stylistic polishing, modernization, normalization or translation convenience. A later Tamil change requires documented source evidence and dependent English re-verification.
 
 ## Exact next activity
 
-Tamil **T3 consolidation / freeze — PDF52–65 / printed pp.51–64 / 14 pages**.
+English **E1 translation — PDF52–65 / printed pp.51–64 / all 14 pages**.
 
-Confirm all **10/10** T2 corrections are present, stale superseded T1 readings are absent, all fourteen page blocks occur exactly once and in order, all seven page-boundary controls remain intact, and source-sensitive retained forms survive. Freeze Tamil only if all checks pass.
+Create/start `translation-en.md` with explicit page correspondence and translate only from the frozen Tamil layer. Preserve repetitions, polemical rhetoric as source rhetoric, names/titles, unusual constructions and source-sensitive wording transparently.
 
-Do not begin English in the same activity.
+Do not begin E2 or E3.
