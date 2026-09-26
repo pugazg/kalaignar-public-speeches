@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–5 FINAL CLOSED / constituent 6 Tamil T1 READY — 6/6 constituents mapped**
+**Status: ACTIVE — constituents 1–5 FINAL CLOSED / constituent 6 Tamil T1 COMPLETE / T2 READY — 6/6 constituents mapped**
 
 ## Controlling source
 
@@ -49,15 +49,15 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 ## Current workflow
 
 - source-gated constituents — **6/6**
-- constituents with Tamil T1 complete — **5/6**
+- constituents with Tamil T1 complete — **6/6**
 - constituent 1 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 2 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 3 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 4 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`**
 - constituent 5 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/kelvik-kuri/FINAL_CLOSURE.md`**
-- constituent 6 — **ACTIVE — SOURCE-GATED / Tamil T1 READY / NOT STARTED — புராணப் போதை! / PDF80–101 / printed pp.79–100 / 22 pages**
+- constituent 6 — **ACTIVE — Tamil T1 FIRST-PASS COMPLETE 22/22 / 0 explicit unresolved; Tamil T2 READY / NOT STARTED — புராணப் போதை! / PDF80–101 / printed pp.79–100 / 22 pages**
 - Tamil verified constituents — **5/6**
 - English verified constituents — **5/6**
 - fully archived constituents — **5/6**
 
-Exact next gate: constituent 6 — **புராணப் போதை! — Tamil T1 transcription, PDF80–101 / printed pp.79–100 / all 22 pages**.
+Exact next gate: constituent 6 — **புராணப் போதை! — Tamil T2 strict visual fidelity audit, PDF80–101 / printed pp.79–100 / all 22 pages**.
