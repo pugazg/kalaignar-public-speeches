@@ -19,7 +19,9 @@ Archive: speeches/kelvik-kuri/
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — 14/14 / PDF66–79 / printed pp.65–78 / 0 unresolved / 0 Tamil changes**
 - English E2 — **COMPLETE / PASS — 14/14 / 10 corrections / 0 unresolved / 0 Tamil changes**
-- English E3 — **READY / NOT STARTED**
+- English E3 — **COMPLETE / PASS — 14/14 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
+- English — **`verified-complete`**
+- repository closure — **READY / NOT STARTED**
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 - English translation — `translation-en.md`
@@ -82,10 +84,21 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - review record — `translation-review.md`
 - E2 status — **COMPLETE / PASS**
 
+## English E3 checkpoint
+
+- coverage — **PDF66–79 / printed pp.65–78 / 14/14**
+- E3 additional corrections — **4**
+- E3 unresolved — **0**
+- frozen Tamil changes — **0**
+- all 10 E2 corrections — **present**
+- all 4 E3 corrections — **present**
+- translator/source notes — **4/4 retained**
+- six recorded page-boundary continuations — **PASS**
+- second post-correction sweep — **0 further fidelity issues**
+- English — **`verified-complete`**
+
 ## Exact next activity
 
-English **E3 final end-to-end verification — PDF66–79 / printed pp.65–78 / all 14 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 5.
 
-Re-read the complete corrected English layer against frozen Tamil from beginning to end. Verify all 10 E2 corrections, all 4 translator/source notes, six page-boundary continuations, question-mark rhetoric, quoted dialogue, names/mythological terms and the PDF79 ending.
-
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+Synchronize final speech metadata, README, HANDOVER, root/collection status and create the final closure report only after verifying that Tamil and English textual gates remain complete and no pending fidelity issue exists. Do not reopen either language layer for stylistic polishing.
