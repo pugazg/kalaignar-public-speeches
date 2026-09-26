@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF52–65 / printed pp.51–64 / 14 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 14/14**; Tamil T2 strict visual audit READY
+**Current gate:** Tamil T2 strict visual audit **COMPLETE / PASS — PDF52–65 / 14/14 pages; 10 corrections / 0 unresolved**; Tamil T3 consolidation/freeze READY
 
 ## T1 method
 
@@ -78,8 +78,68 @@ T2 must verify every line and character, with special attention to:
 
 T2 must re-check the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` page by page. No global character replacement is permitted. Direct rendered source pixels remain authoritative.
 
+## T2 strict visual audit — PDF52–65 / printed pp.51–64
+
+**Status: COMPLETE / PASS — 14/14 pages.**  
+**Source-supported corrections: 10.**  
+**Unresolved after T2: 0.**
+
+| PDF | Printed | T1 reading | Scan-supported T2 reading / action |
+|---:|---:|---|---|
+| 52 | 51 | `பயன்பட்டது` | `பயன் பட்டது` — source word spacing restored |
+| 53 | 52 | `ஏற்பட்டத்தான் ஏற்பட்டது` | `ஏற்படத்தான் ஏற்பட்டது` — source wording restored |
+| 54 | 53 | `மட்டும் அல்ல` | `மட்டு மல்ல` — source form / spacing retained |
+| 55 | 54 | `அவதி நிறைந்த` | `அவதிநிறைந்த` — source word spacing restored |
+| 55 | 54 | `ஆபத்தான நேரத்திலே` | `ஆபத்தானநேரத்திலே` — source word spacing restored |
+| 57 | 56 | `மனிதன் பருத்திக்கொட்டையையும்` | `மனிதனைப் பருத்திக்கொட்டையையும்` — source case-marker restored across the printed line break |
+| 60 | 59 | `கொண் டிருக்கிறது. பெரும் பகுதி` | `கொண் டிருக்கிறது, பெரும் பகுதி` — source comma restored |
+| 61 | 60 | `பகவான்மீது பாரமாம், பங்கீடு ஒழிப்பிற்கு!` | `பகவான்மீது பாரமாம். பங்கீடு ஒழிப்பிற்கு!` — source full stop restored |
+| 62 | 61 | `மனச் சங்கடத்தின் மூலம்` | `மனச் சங்கடத்தின்மூலம்` — source lexical join restored across the printed line break |
+| 64 | 63 | `கட்டிக்காத்திடக்` | `கட்டிக் காத்திடக்` — source word spacing restored |
+
+### Page-by-page T2 confirmations
+
+- PDF52 two-line title — **PASS / one constituent**; `உணவுத் தட்டும்`, `பற்றாக் குறையும்`, `அபல நிலை`, `குதுமதி படைத்த சுய` retained.
+- PDF53 `கட்டுப்படாதகல் நெஞ்சினரும்`, `நெஞ்சழுத்தமான`, both `பங்கீடு` quotations — **PASS / retained**.
+- PDF54 `ஒரு சில பல பகுதிகளில்`, `அவர்களது, தேவைக்கும்`, `வெளி நாடுகளி லிருந்தும்` — **PASS / retained**.
+- PDF55 `பங்கீடு அரிசியைச் சுலபத்தில்`, `தூற்றுதல்களுக் கிடையே`, `என்னிஷ்டம்போல்` — **PASS / retained**.
+- PDF56 `பண்படுத்திப் பாகுபடுத்திப்`, `காட்சி யளித்தது`, quoted complaint, `உருவான முறையாக`, `பட்டா பாத்தியதை` — **PASS / retained**.
+- PDF57 `ஆறவுன்சுக்கும் கீழாக`, `அகிம்சா மூர்த்திகள் (!)`, `விளை பொருள்`, `போக்குவரத்து` — **PASS / retained**.
+- PDF58 `குமுறிக்கொண் டிருக்கிறது`, `துணிவுஉண்டா?`, `ஆர அமர` — **PASS / retained**.
+- PDF59 `மனந் துணிந்து!`, `மானத்திற்கஞ்சி உயிர் வதைப்படும்`, opening parenthesis before `வேலை செய்தும்` — **PASS / retained**.
+- PDF60 `வாழ்வா வாழ்கிறார்கள்?`, `பங்கீடு—உணவுப் பங்கீடு`, `திடீரென்று?` — **PASS / retained**.
+- PDF61 `வீணை முடங்காதா`, `திடீர்த்திரு விளையாடல்!`, long defects/implementation paragraph — **PASS / retained**.
+- PDF62 `இருப்பவனிட மிருந்து.`, `நல்ல நேர்மையான நாகரிகமுமான`, full stop after `அல்ல.`, `நாற்ற மெடுத்தவைகளாகவே` — **PASS / retained**.
+- PDF63 `பாராளு மன்றம்`, `மக்கட் பணத்தை`, `பதவி யேற்று`, `நல்லறிவைத்` — **PASS / retained**.
+- PDF64 `போ ரேஷன்`, `கட்டுப் பட்டுக் கிடக்கும்`, quoted `என்னைக் கேட்காதே...`, `அதிக விலைக்கு அரிசி வாங்க!` — **PASS / retained**.
+- PDF65 `எந்தக் காரணத்தால் உள்ளெண்ணத்தால்` and terminal `நம்புகிறேன்!` — **PASS / retained**.
+
+### Page-boundary T2 reconciliation
+
+1. PDF52→53 — `சுய / நலக் கும்பல்கள்` — **PASS**.
+2. PDF55→56 — `இருப்ப / தன் காரணத்தால்` — **PASS**; physical lexical split preserved by page provenance.
+3. PDF56→57 — `‘கழுதை தேய்ந்து / கட்டெறும்பான’` — **PASS**.
+4. PDF57→58 — `போகு / மென்று` — **PASS**; physical lexical split preserved.
+5. PDF58→59 — `தெரியவில் / லையே` — **PASS**; physical lexical split preserved.
+6. PDF59→60 — open parenthetical paragraph continuation — **PASS**.
+7. PDF62→63 — `கேட் / கிறார்களே!` — **PASS**; physical lexical split preserved.
+
+### Historical-glyph check
+
+All fourteen pages were checked directly against the rendered source, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement was used. Unresolved glyph readings: **0**.
+
+## T2 final state
+
+- audited — **PDF52–65 / 14/14**
+- printed pages — **51–64**
+- corrections — **10**
+- unresolved — **0**
+- Tamil T2 — **COMPLETE / PASS**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — PDF52–65 / printed pp.51–64 / all 14 pages**.
+Proceed to **Tamil T3 consolidation / freeze — PDF52–65 / 14 pages**.
 
-Do not begin Tamil T3 or English until all fourteen pages pass T2.
+T3 must reconcile all **10/10** T2 corrections, confirm PDF52–65 coverage exactly once and in order, verify all seven recorded cross-page controls, search for stale superseded T1 readings, and freeze Tamil only if no unresolved item remains.
+
+Do not begin English until T3 passes and Tamil is frozen.
