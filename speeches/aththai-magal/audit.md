@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–4 PDF19–38 COMPLETE / PASS — 25 cumulative corrections/actions — 20/29 pages checked**; 1 source-obscured reading retained overall
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–5 PDF19–43 COMPLETE / PASS — 36 cumulative corrections/actions — 25/29 pages checked**; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved
 
 ## T1 method
 
@@ -589,8 +589,102 @@ PDF34–38 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`,
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 Batch 5 — PDF39–43 / printed pp.39–43
+
+**Status: COMPLETE / PASS — 5/5 pages checked.**
+
+### Source-supported corrections/actions — 11
+
+| PDF | T1 / pre-T2 reading | T2 source-backed reading |
+|---:|---|---|
+| 39 | `அறுத்துக் கொடுத்தோம். அடக்குமுறையின்` | `அறுத்துக் கொடுத்தோம், அடக்குமுறையின்` |
+| 40 | `அவசியம்தானு?—இப்படிக்` | `அவசியம்தானு?-இப்படிக்` |
+| 40 | `பெயர் மாற்றப்பட வில்லை ஏன்?` | `பெயர் மாற்றப்பட்ட வில்லை ஏன்?` |
+| 40 | `இங்கு இருக்கக்கூடாது என்று` | `இங்கு இருக்கக் கூடாது என்று` |
+| 41 | `ஐக்கிய தமிழக கோரும்` | `ஐக்கிய தமிழகம் கோரும்` |
+| 41 | `நடந்து செல்கின்றனர்.` | `நடந்து செல்லுகின்றனர்.` |
+| 41 | `நடந்து செல்லும் அவர்கள் செவிகளிலே` | `நடந்து செல்லும் அவர்களது செவிகளிலே` |
+| 42 | `அந்த பசிக்காரனை. சாக்கடையிலிருந்து` | `அந்த பசிக்காரனை, சாக்கடையிலிருந்து` |
+| 42 | `கட்டுகளை களைந்தெறிவான்` | `கட்டுகளைக் களைந்தெறிவான்` |
+| 42 | `செய்யக்கூடியவன்தான்` | `செய்யக் கூடியவன்தான்` |
+| 43 | `புல் பூண்டுகள் அவைகள் அழிக்கவேண்டும்` | `புல் பூண்டுகள் அவைகளை அழிக்கவேண்டும்` |
+
+All eleven corrections/actions have been applied to `transcription-ta.md`.
+
+### PDF40 source-obscured reading — strict T2 result
+
+The later handwritten/ink mark still physically obscures the opening characters of the place phrase. The surviving source pixels continue to support only:
+
+`…ங்களூருக்கருகிலே`
+
+The transcript therefore retains:
+
+`[தெளிவில்லை — பிந்தைய கைமைக் குறி தொடக்க எழுத்துகளை மறைக்கிறது: “…ங்களூருக்கருகிலே”]`
+
+- same-edition pixels sufficient to reconstruct hidden opening letters — **No**
+- contextual completion inserted — **No**
+- source-limited unresolved — **1**
+- actionable unresolved — **0**
+
+### T1 source-sensitive priorities rechecked
+
+The following recorded forms were visually rechecked and retained unchanged:
+
+- PDF39 — `அகோரப் பசிக்கு!` — **PASS**
+- PDF39 — `செபஸ்டியன்` — **PASS**
+- PDF39 — `ஆண் குறியை` — **PASS**
+- PDF40 — `முக்கியம்தானு?` — **PASS**
+- PDF40 — `அவசியம்தானு?` — **PASS**
+- PDF40 — `அழிக்கல்` — **PASS**
+- PDF40 — `வாழைப்பழடினம்` — **PASS**
+- PDF40 — `திருநாட்டியத்தான்குடி` — **PASS**
+- PDF40 — `மாவூர் ரோட்` — **PASS**
+- PDF41 — `சித்தாப்பு` — **PASS**
+- PDF41 — `புதியபாணத்தைத்` — **PASS**
+- PDF41 — `கிடக்கிறேனய்யா` — **PASS**
+- PDF41 — `வருதய்யா` — **PASS**
+- PDF42 — `அடிமைத் தனங்களால்` — **PASS**
+- PDF42 — `ஒன்றுக்கலக்கும்` — **PASS**
+- PDF42 — page-end `மாலங்` — **PASS**
+- PDF43 — page-start `கோவும்` — **PASS**
+- PDF43 — `நிறைந்திருக்கின்றனவே புல் பூண்டுகள்` — **PASS**
+- PDF43 — `டால்மியா ‘சாக்கடை’` — **PASS**
+- PDF43 — `ஜனசக்தி` — **PASS**
+- PDF43 — `சியாங்கே ஷேக்கை` — **PASS**
+
+No lexical modernization was introduced.
+
+### Historical-glyph strict review
+
+PDF39–43 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, including the required historical-glyph family.
+
+- historical character identity — **PASS**
+- additional glyph-identity corrections — **0**
+- global replacements — **0**
+
+### Batch 5 page-boundary controls
+
+- PDF39→40 — no split word — **PASS**
+- PDF40→41 — no split word — **PASS**
+- PDF41→42 — no split word — **PASS**
+- PDF42→43 — `மாலங் / கோவும்` — **PASS**; assembled reading `மாலங்கோவும்`
+- PDF43→44 — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` — **PASS**; adjoining PDF44 checked only for the boundary
+
+### T2 cumulative state after Batch 5
+
+- pages checked — **25/29**
+- through — **PDF43 / printed p.43**
+- batches complete — **5**
+- cumulative T2 corrections/actions — **36**
+- source-limited unresolved — **1 (PDF40)**
+- actionable unresolved — **0**
+- Tamil T2 — **IN PROGRESS**
+- Tamil T3 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 5 PDF39–43 / printed pp.39–43 / 5 pages**.
+Proceed to the **final Tamil T2 strict visual audit — Batch 6 PDF44–47 / printed pp.44–47 / 4 pages**.
 
-Recheck every line against rendered scan pixels, including the PDF40 source-obscured phrase, but do not infer hidden letters. Revisit the recorded source-sensitive forms and page-boundary controls and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
+Recheck every line against rendered scan pixels, revisit the recorded source-sensitive forms and PDF44→45 / PDF47→48 boundary controls, and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
