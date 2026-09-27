@@ -4,9 +4,9 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **IN PROGRESS — Batches 1–2 PDF7–16 COMPLETE / 10/12 pages / 38 cumulative corrections / 2 unresolved overall**  
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **STRICT VISUAL AUDIT COMPLETE — PDF7–18 / 12/12 pages / 40 cumulative corrections / 2 source-damage unresolved readings retained**  
 **T1 explicit unresolved readings:** **2**  
-**Current explicit unresolved readings after Batch 2:** **2** — PDF8 and PDF9 physical-damage items only
+**Current explicit unresolved readings after T2:** **2** — PDF8 and PDF9 physical-damage items only
 
 ## T1 method
 
@@ -246,10 +246,55 @@ No global replacement was used. No new historical-glyph ambiguity remains on PDF
 - T3 — **blocked pending T2**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 strict visual audit — FINAL Batch 3: PDF17–18 / printed pp.17–18
+
+**Status: COMPLETE — 2/2 pages reviewed.**  
+**Confirmed source-supported corrections: 2.**  
+**New unresolved readings introduced in Batch 3: 0.**  
+**Current unresolved overall: 2** — the prior physical-damage items on PDF8 and PDF9 only.
+
+### Batch 3 correction ledger
+
+| # | PDF | T1 reading | T2 source-supported reading / action |
+|---:|---:|---|---|
+| 1 | 17 | `இன வரலாறு அடிப்படையிலே` | `இன வரலாற்று அடிப்படையிலே` |
+| 2 | 18 | `வருக, வருக,` | source spacing/punctuation `வருக,வருக,` |
+
+All remaining text on PDF17–18 was checked line by line against the rendered source and required no additional source-supported correction.
+
+### Batch 3 boundary and constituent-end controls
+
+- **PDF17→18** — `மாற் / றானுக்கு` — **PASS**; historical-`றா` identity is positively supported and the assembled reading is `மாற்றானுக்கு`.
+- **PDF18→19 constituent boundary** — **PASS**; constituent 1 ends on PDF18, and PDF19 begins the distinct next constituent headed `அத்தை மகள்`. No text from PDF19 is included in `முல்லைக் கொல்லை`.
+- speech date / venue / event remain **not established / not inferred**.
+
+### Historical-glyph check — Batch 3
+
+PDF17–18 were rechecked page by page at enlarged/native source pixels under the repository historical-Tamil guide. The complete required family set was explicitly inspected:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+The PDF17→18 `மாற் / றானுக்கு` continuation was specifically checked as a historical-`றா` case and confirmed as `மாற்றானுக்கு` when assembled. No global replacement was used, and no new glyph-identity ambiguity was identified on PDF17–18.
+
+## T2 final state
+
+- audited — **PDF7–18 / 12 of 12 pages**
+- printed pages — **7–18**
+- Batch 1 corrections — **19**
+- Batch 2 corrections/actions — **19**
+- Batch 3 corrections — **2**
+- cumulative corrections/actions — **40**
+- explicit unresolved overall — **2** — PDF8 and PDF9 physical source damage only
+- recorded boundary controls through constituent end — **9 PASS / 1 unresolved**
+- Tamil T2 strict visual audit — **COMPLETE**
+- Tamil — **not verified / not frozen**
+- T3 — **NOT STARTED**
+- English — **blocked pending Tamil freeze**
+
+The two retained uncertainties are source-limited physical-damage readings; T2 does not reconstruct the missing letters from context.
+
 ## Next gate
 
-Proceed only to **Tamil T2 strict visual fidelity audit — FINAL Batch 3: PDF17–18 / printed pp.17–18 / 2 pages**.
+Proceed to **Tamil T3** with the two PDF8/PDF9 source-damage uncertainties carried forward explicitly.
 
-The final batch must check every line, the PDF17→18 `மாற் / றானுக்கு` historical-`றா` boundary, all historical-glyph-sensitive clusters, and the constituent end at PDF18 against PDF19 `அத்தை மகள்`.
-
-Do **not** begin T3 or English in the same step.
+Do **not** begin English until Tamil is frozen.
