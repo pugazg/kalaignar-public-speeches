@@ -19,15 +19,16 @@ Archive: `speeches/aththai-magal/`
 ## Tamil T1 checkpoint
 
 - Batch 1 — **PDF19–23 / 5/5 pages COMPLETE**
-- cumulative T1 — **5/29 pages**
-- transcription through — **PDF23 / printed p.23**
+- Batch 2 — **PDF24–28 / 5/5 pages COMPLETE**
+- cumulative T1 — **10/29 pages**
+- transcription through — **PDF28 / printed p.28**
 - explicit unresolved — **0**
-- historical-glyph first-pass — **complete through PDF23**
+- historical-glyph first-pass — **complete through PDF28**
 - T2 — **NOT STARTED**
 - T3 — blocked
 - English — blocked pending Tamil freeze
 
-Source-sensitive T2 priorities already recorded in `audit.md` include PDF21 `திடீரென திடும் திடுமென`, PDF22 `வீணை எண்ணத்தால்` / `சிரிப்பாய்கிறார்`, and PDF23 `சுதந்திரத் திருவிடத்திலே`.
+Source-sensitive T2 priorities already recorded in `audit.md` include the PDF21–23 items plus PDF24 `ஐந்தாறு`, PDF25 `அந்தப்பால் மணம்`, PDF26 `விழலுக் கிரைத்த நீராகி`, PDF27 `பார்க்கச் சுவைக்கும்` / `சீனாவின்`, and PDF28 `புதுமைப் பொலிவையும்`.
 
 ## Boundary controls already noted
 
@@ -36,9 +37,14 @@ Source-sensitive T2 priorities already recorded in `audit.md` include PDF21 `த
 - PDF21→22 — `ஆழ்ந்திருக்க / கும்` candidate join `ஆழ்ந்திருக்கும்`
 - PDF22→23 — semantic continuation
 - PDF23→24 — `உங்களிடையே / இருக்கலாம்.` semantic continuation
+- PDF24→25 — `வேண்டுமென்ற / கடமை...` semantic continuation
+- PDF25→26 — no split word
+- PDF26→27 — `அத்தகைய / விவேகிகள்...` semantic continuation
+- PDF27→28 — `காத்துக் கொண் / டிருக்கவில்லை!` candidate join `காத்துக் கொண்டிருக்கவில்லை!`
+- PDF28→29 — `நாம் நடத்தியப் / போராட்டங்களும்...` semantic continuation
 
 ## Exact next activity
 
-Continue **Tamil T1 from PDF24 onward** in manageable page batches, using rendered scan pixels as authority and applying the historical-Tamil glyph guide page by page.
+Continue **Tamil T1 from PDF29 onward** in manageable page batches, using rendered scan pixels as authority and applying the historical-Tamil glyph guide page by page.
 
 Do not begin T2, T3 or English until T1 covers all PDF19–47.
