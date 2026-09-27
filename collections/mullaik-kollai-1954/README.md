@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN — T3 COMPLETE / PASS — 44/44 corrections reconciled; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; English E1 NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages / 0 Tamil changes / 1 source-limited uncertainty carried; English E2 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -94,10 +94,11 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T2 — **COMPLETE / PASS**
 - active Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional corrections / 0 repairs**
 - active Tamil — **`verified-complete` / FROZEN**
-- active English E1 — **NEXT / NOT STARTED**
+- active English E1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages / 0 Tamil changes / 1 source-limited uncertainty / 8 translator-source notes**
+- active English E2 — **NEXT / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages** from frozen Tamil. Preserve the PDF40 source-limited uncertainty transparently; do not begin E2/E3 in the same activity.
+Constituent 2 — **அத்தை மகள்** — proceed to **English E2 fidelity review — PDF19–47 / printed pp.19–47 / 29 pages** against frozen Tamil. Record findings in `translation-review.md`; do not begin E3 or repository closure in the same activity.
