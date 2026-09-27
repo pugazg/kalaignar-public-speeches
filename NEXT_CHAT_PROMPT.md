@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T2 Batch 2 PDF24–28
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T2 Batch 3 PDF29–33
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,39 +30,38 @@ Tamil T1 is **FIRST-PASS COMPLETE — 29/29 pages**.
 
 ## Tamil T2 durable checkpoint
 
-Batch 1 is **COMPLETE / PASS**:
+Batches 1–2 are **COMPLETE / PASS**:
 
-- coverage — **PDF19–23 / printed pp.19–23 / 5 pages**
-- cumulative T2 — **5/29 pages**
-- corrections/actions — **7**
+- Batch 1 — **PDF19–23 / 5 pages / 7 corrections/actions**
+- Batch 2 — **PDF24–28 / 5 pages / 5 corrections/actions**
+- cumulative T2 — **10/29 pages**
+- cumulative corrections/actions — **12**
 - unresolved within audited pages — **0**
-- historical-glyph strict review — **PASS / 0 additional glyph-identity corrections**
-- boundary controls PDF19→24 — **5/5 PASS**
+- historical-glyph strict review — **PASS through PDF28**
 - PDF40 source-obscured marker — **retained / untouched**
 
-### Batch 1 corrections
+### Batch 2 corrections
 
-1. PDF19 — `தெரிவித்துக் கொள்ளுகிறேன்.` → `தெரிவித்துக் கொள்கிறேன்.`
-2. PDF20 — `நிகழ்ச்சிகள் நடைபெற்ற வேளையிலே` → `நிகழ்ச்சிகள் நடை பெற்ற வேளையிலே`
-3. PDF21 — `அடிப்படைக் காரணங்கள்தானென்ன?` → `அடிப்படைக் காரணங்கள் தானென்ன?`
-4. PDF21 — `கடுமையான கேள்வியல்ல. புரியாத புதிருமல்ல!` → `கடுமையான கேள்வியல்ல, புரியாத புதிருமல்ல!`
-5. PDF21 — `பாகிஸ்தான் என்ன சொல்கிறது?` → `பாகிஸ்தான் என்ன சொல்லுகிறது?`
-6. PDF22 — `லட்சியத்தைக் காப்பாற்ற. அண்ணாவின்` → `லட்சியத்தைக் காப்பாற்ற - அண்ணாவின்`
-7. PDF23 — `உலவுகிறோம். ஏன் இந்த நிலை?` → `உலவுகிறோம், ஏன் இந்த நிலை?`
+1. PDF24 — `கணவன்—பின் உடன்பிறந்த` → `கணவன் - பின் உடன்பிறந்த`
+2. PDF24 — `ஒரே செல்வத் திருமகன்—பன்னிரெண்டு` → `ஒரே செல்வத் திருமகன் - பன்னிரெண்டு`
+3. PDF25 — `ரஷிய நாட்டின்` → `ரஷ்ய நாட்டின்`
+4. PDF27 — `சீனாவின் தூதுவராக அனுப்பிவிடலாம்` → `சீனாவின் தூதுவராக அனுப்பி விடலாம்`
+5. PDF28 — `மும்முனைப் போராட்டங்கள் நடத்தி வெற்றி வாகை` → `மும்முனைப் போராட்டங்களை நடத்தி வெற்றி வாகை`
 
-Confirmed unchanged T1 priorities: `திடீரென திடும் திடுமென`, `வீணை எண்ணத்தால்`, `சிரிப்பாய்கிறார்`, `சுதந்திரத் திருவிடத்திலே`, `தொழும்பர்களாக`.
+Confirmed unchanged Batch 2 priorities include `ஐந்தாறு`, `லட்சோபலட்சமாக`, `குடும்பத்திற் கொருவன்`, `அந்தப்பால் மணம்`, `அரைவயிற்றுக்கஞ்சியும்`, `விழலுக் கிரைத்த நீராகி`, `பார்க்கச் சுவைக்கும்`, historical-`னா` `சீனாவின்`, and `புதுமைப் பொலிவையும்`.
 
-## Batch 2 recorded priorities
+Boundary controls PDF23→29 — **6/6 PASS**, including PDF27→28 `காத்துக் கொண் / டிருக்கவில்லை!` → assembled `காத்துக் கொண்டிருக்கவில்லை!` and PDF28→29 `நாம் நடத்தியப் / போராட்டங்களும்...`.
 
-For PDF24–28, recheck at minimum:
+## Batch 3 recorded priorities
 
-- PDF24 — `ஐந்தாறு`, `லட்சோபலட்சமாக`, `குடும்பத்திற் கொருவன்`
-- PDF25 — `அந்தப்பால் மணம்`, `அரைவயிற்றுக்கஞ்சியும்`
-- PDF26 — `விழலுக் கிரைத்த நீராகி`
-- PDF27 — `பார்க்கச் சுவைக்கும்`, historical-`னா` `சீனாவின்`
-- PDF28 — `புதுமைப் பொலிவையும்`
-- PDF27→28 — `காத்துக் கொண் / டிருக்கவில்லை!` → candidate assembled `காத்துக் கொண்டிருக்கவில்லை!`
-- PDF28→29 — `நாம் நடத்தியப் / போராட்டங்களும்...`
+For PDF29–33, recheck at minimum:
+
+- PDF29 — `ஒண்ட வந்த`, `நாப்பகன்றார்`, historical-`ணா` `அண்ணா`
+- PDF30 — `போர்ப்பரணி பாடினர்கள்`, `அதைக் கண்டிக்கு முகத்தான்`, historical-`ளை` `ரயில்களை`, `பஜகோவிந்தப் பூமான்களின்`
+- PDF31 — `கடினமானக் காரியமில்லை`, `ஐயாயிரவரை`, `ஆச்சாரியார் ஆட்சிபீடம்.`
+- PDF32 — `தரும போன்றவர்கள்`, `அப்பீல்காரணமாக`, `நமதியக்கம்`
+- PDF33 — `நாவடக்கமின்றிப்`, `வாதத்திற்கு`, `சட்டத்தினின்றும்`
+- PDF33→34 — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.`
 
 ## Tamil source rule
 
@@ -70,7 +69,7 @@ Rendered scan pixels are authoritative. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 
 ## Exact next activity
 
-Proceed to **Tamil T2 strict visual audit — Batch 2 PDF24–28 / printed pp.24–28 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 3 PDF29–33 / printed pp.29–33 / 5 pages**.
 
 Recheck every line of `transcription-ta.md` against rendered scan pixels, apply only source-supported corrections, verify historical glyph identities and recorded page boundaries, and leave the PDF40 source-obscured marker untouched unless same-edition evidence resolves it.
 
