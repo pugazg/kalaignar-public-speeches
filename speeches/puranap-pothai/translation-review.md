@@ -3,7 +3,15 @@
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **English layer:** `translation-en.md` — E1 FIRST-PASS COMPLETE / 22/22  
 > **E2 review scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF80–101 / 22/22 pages; 15 corrections / 0 unresolved / 0 Tamil changes**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF80–101 / 22/22 pages**  
+> **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
+> **E1 coverage:** **22/22 pages**  
+> **E2 corrections:** **15**  
+> **E2 unresolved:** **0**  
+> **Tamil changes during E2:** **0**  
+> **E3 additional corrections:** **4**  
+> **E3 unresolved:** **0**  
+> **Tamil changes during E3:** **0**  
 > **Tamil changes:** 0
 
 ## Review method
@@ -78,17 +86,63 @@ Post-consolidation checks:
 - frozen Tamil changes during E2 — **0**
 - second complete corrected-English sweep — **0 further fidelity issues**
 
-## English review state
+## E3 final verification — COMPLETE / PASS
 
-- E1 — **FIRST-PASS COMPLETE / 22/22**
-- E2 — **COMPLETE / PASS / 22/22 — 15 corrections / 0 unresolved / 0 Tamil changes**
-- E3 — **READY / NOT STARTED**
-- English — **not yet `verified-complete`; E3 remains required**
+The complete post-E2 English layer was re-read from PDF80 through PDF101 against the frozen Tamil, then rechecked after the E3 corrections below.
+
+### E3 correction ledger
+
+| PDF | Post-E2 issue | E3 correction |
+|---:|---|---|
+| 80 | `மக்களின் மனதைக் கலக்கிக் குழப்பிட` had been omitted from the long closing sentence, losing the stated effect on people's minds | restored as **“meant to unsettle and confuse people's minds”** |
+| 86 | honorific-singular `திருமழிசை ஆழ்வார்களைக் ... புண்ணிய புருடர்` was rendered as plural “Tirumazhisai Azhvars ... holy men” | corrected to **“Tirumazhisai Azhvar, praised as a holy man”**, with matching singular pronouns |
+| 87–88 | the PDF87→88 continuation `கடவுளின் / கண்மூடித்தனமும்...` had been semantically pulled back into PDF87, leaving PDF88 to begin with an unsupported “indeed!” fragment | restored the physical/semantic boundary: PDF87 now ends **“God's—”** and PDF88 begins **“—blind folly...”**; the unsupported fragment was removed |
+| 94 | `இருப்பாள், இருக்க முடியும், இருக்க விடுவர்` was compressed into a single “would let her remain” clause, weakening the source's repeated rhetorical sequence | restored the repetition as **“she would remain ... could remain so, and would be allowed to remain so”** |
+
+### E3 end-to-end checks
+
+- English page headings PDF **80–101** — **22/22, exactly once, in order**
+- printed-page mapping **79–100** — **PASS**
+- all **15 E2 corrections** — **present**
+- all **4 E3 corrections** — **present**
+- stale pre-E2 / pre-E3 wording — **none found**
+- translator/source notes — **4/4 retained and rechecked**
+- PDF81→82 continuation — **PASS**
+- PDF82→83 continuation — **PASS**
+- PDF83→84 continuation — **PASS**
+- PDF84→85 continuation — **PASS**
+- PDF85→86 continuation — **PASS**
+- PDF87→88 continuation — **PASS after E3 boundary correction**
+- PDF89→90 continuation — **PASS**
+- PDF91→92 continuation — **PASS**
+- PDF92→93 continuation — **PASS**
+- PDF94→95 continuation — **PASS**
+- PDF95→96 continuation — **PASS**
+- PDF99→100 continuation — **PASS**
+- quoted speech / repeated rhetoric — **PASS after E3 corrections**
+- names / mythological / religious terms — **PASS after E3 singular-name correction**
+- omissions — **none found after E3 correction**
+- unsupported additions — **none found after E3 correction**
+- meaning reversals — **none found**
+- rhetorical force — **PASS**
+- PDF101 constituent ending — **PASS**
+- PDF102 exclusion — **PASS**
+- source political/religious claims and labels — **represented as source rhetoric; not independently validated or endorsed**
+- E3 additional corrections — **4**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+A second complete post-correction sweep found **0 further English fidelity issues**.
+
+## English verification state
+
+- E1 — **COMPLETE / 22/22**
+- E2 — **COMPLETE / PASS / 22/22 — 15 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS / 22/22 — 4 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
 
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF80–101 / printed pp.79–100 / all 22 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 6.
 
-Re-read the corrected English layer from beginning to end against frozen Tamil, verify all 15 E2 corrections and all 4 translator/source notes, and check for stale wording, omissions, additions, reversals, page-boundary loss and rhetorical weakening.
-
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+Do not reopen frozen Tamil or verified English merely for stylistic polishing.
