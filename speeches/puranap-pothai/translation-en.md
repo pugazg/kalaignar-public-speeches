@@ -1,9 +1,10 @@
 # புராணப் போதை! — English Translation
 
-> **Status:** English E1 FIRST-PASS COMPLETE — PDF80–101 / printed pp.79–100 / 22/22 pages; E2 READY / NOT STARTED; E3 blocked pending E2  
+> **Status:** English E2 fidelity review COMPLETE / PASS — PDF80–101 / printed pp.79–100 / 22/22 pages; 14 corrections / 0 unresolved / 0 Tamil changes; E3 READY / NOT STARTED  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, page sequence, quoted speech, historical/source-sensitive wording and unusual constructions. Political and religious claims, labels and criticism below are translated as source rhetoric; they are not independently validated or endorsed.  
-> **E1 scope:** PDF80–101 / printed pp.79–100 / 22 pages. E1 introduces 0 Tamil changes and is not an English fidelity-review claim.  
+> **E1 scope:** PDF80–101 / printed pp.79–100 / 22 pages — FIRST-PASS COMPLETE.  
+> **E2:** COMPLETE / PASS — 14 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -18,7 +19,7 @@ At one time he says, ‘Rationing is being abolished; Bhagavan said so, and I ha
 
 Achariyar also says, ‘If the abolition of rationing fails, I shall leave my post.’
 
-In one way or another, Achariyar goes on telling little stories as support—stories about Bhagavan and stories that praise and glorify Bhagavan—under the name of sacred tales, in the manner of aunt-and-grandmother stories, as epics, pictures, stories of the Lord, devotional songs and in many, many other forms; from childhood onward he invokes devotion, recitation, fear of hell and salvation and many such reasons, and brings in the Puranas and Itihasas as support.
+In one way or another, Achariyar goes on telling little stories as support—stories about Bhagavan and stories that praise and glorify Bhagavan—under the name of sacred tales, in the manner of aunt-and-grandmother stories, as epics, pictures, stories of the Lord, devotional songs and in many, many other forms; from childhood onward, citing devotion, recitation, hell, salvation, fear, and many such reasons, he brings in the Puranas and Itihasas as support.
 
 ### PDF page 81 — printed page 80
 
@@ -72,7 +73,9 @@ Reading and rereading this, singing and singing, people fall into ecstasy, their
 
 —and we see such people in the state of devotees! Pitiful!
 
-From the granary stored away for the Lord, during famine the people—the Lord's own children of grace, tormented by hunger—took rice and ate it, intending to replace it in prosperous days. Unable to tolerate hearing this, and because they had eaten Shiva's property, relatives, kinsmen, wife and children—why, even a tender child—were cut down with the sword, displaying the extreme limit of devotion (intoxication), and in the end the murderous, cannabis-like Kodpuli Nayanar received the grace of the Lord of Kailasa: can we forget him!
+From the granary stored away for the Lord, during famine the people—the Lord's own children of grace, tormented by hunger—took rice and ate it, intending to replace it in prosperous days. Unable to tolerate hearing this, and because they had eaten Shiva's property, relatives, kinsmen, wife and children—why, even a tender child—were cut down with the sword, displaying the extreme limit of devotion (intoxication), and in the end the ‘murder-ganja’ Kodpuli Nayanar received the grace of the Lord of Kailasa: can we forget him!
+
+> **Translator/source note:** The frozen Tamil prints the source-sensitive compound `கொலைக் கஞ்சாக்`. E2 retains it transparently as “murder-ganja” rather than normalizing its interpretation.
 
 Can we, with our intelligence and inquiry, refrain from weighing the service to Shiva of Nayanars such as Kannappar, who escaped after plucking out his eye, Karaikkal Ammaiyar, whose body wasted away and form collapsed into that of a spirit, Appar who underwent severe suffering, and Sundarar, Sambandar and Manikkavasagar, who obtained Shiva's grace with relative ease!
 
@@ -112,7 +115,7 @@ Obscenity has been poured upon the Lord in it to such an extent that one ought t
 
 ### PDF page 87 — printed page 86
 
-A storehouse of obscenity: bizarre bodily relations that do not accord with reason, inquiry or humanity; excited revelry; spectacles of entertainment! Are these not what most things called Puranas in this country contain? What else!
+A storehouse of obscenity: meaningless, bizarre bodily relations that do not accord with knowledge, inquiry or humanity; excited revelry; spectacles of entertainment! Are these not what most things called Puranas in this country contain? What else!
 
 For anything at all, for every little incident, is there not a Purana, an old story, in this country? It is embedded in the people's hearts and lies there intoxicated!
 
@@ -120,7 +123,7 @@ Why is the crow black? There is a Purana for it! Why does the elephant have a tr
 
 ‘The seed of the aivelangai fruit is shaped like a linga! Don't you know?’ they begin, and then begin the story of Bhasmasura!
 
-‘The seed of the aivelangai fruit has the form of a Shivalinga. Do you know why?’ This has spread among the people, especially among the large mass of ordinary folk! Merely thinking about it makes both the blindness attributed to God and the incidents said to have been done by gods in their capacity as gods seem most strange and even amusing—
+‘The seed of the aivelangai fruit has the form of a Shivalinga. Do you know why?’ This has spread among the people, especially among the large mass of ordinary folk! Merely thinking about it makes both God's blind folly and the incidents said to have been done by gods in their capacity as gods seem most strange and even amusing—
 
 > **Translator/source note:** The frozen Tamil uses the source form `அய்வேலங்காய்` for the fruit in the Bhasmasura episode. E1 transliterates it as *aivelangai* without silently identifying or normalizing the plant name.
 
@@ -156,7 +159,7 @@ Shiva runs in every direction until exhausted. He can no longer run. But the pur
 
 ### PDF page 90 — printed page 89
 
-—such is the worry! What is Shivalinganathan to do?
+—such is the worry! What is Shivalinganar to do?
 
 He turned and looked. Nearby he saw an aivelangai creeper heavy with fruit.
 
@@ -190,7 +193,7 @@ From the time Shiva ran and hid, people believe that the seed of the aivelangai 
 
 ### PDF page 92 — printed page 91
 
-—and over this they encounter and hear that particular god-story, that Purana, in Puranic books, Puranic discourses, drama, cinema and everything else, and do not forget it; they are made unable to forget it.
+—and people see and hear the above-mentioned god-story, that Purana, in Puranic books, Puranic discourses, drama, cinema and everything else, and do not forget it; they are made unable to forget it.
 
 Could one whose power of penance was enough to satisfy Shiva's sacred heart suddenly become evil and dare to kill the very god who had granted him the boon?
 
@@ -232,19 +235,19 @@ They may have remembered that Shiva had Uma as one half of his body and Ganga up
 
 Perhaps they could not forget Vishnu's many incarnations, especially the revelries carried on in the Krishna incarnation.
 
-More than this, the Puranic incident in which Vishnu took the form of the husband of Brindai, the wife of a sage, violated her chastity, she died because of it, and Vishnu, his lust still not cooled, rolled in the heap of ashes from her burned corpse, and finally only after wearing as a garland the tulasi plant that sprouted from those ashes—
+More than this, the Puranic incident in which Vishnu took the form of the husband of Brindai, the wife of a sage, raped her, she died because of it, and Vishnu, his lust still not cooled, rolled in the heap of ashes from her burned corpse, and finally only after wearing as a garland the tulasi plant that sprouted from those ashes—
 
 ### PDF page 95 — printed page 94
 
 —returned to his senses, may have warned them.
 
-Likewise, perhaps thinking of Indra's violation of Ahalya, of Muruga who, though with Deivayanai, went in search of Valli, and of the gods above gods who consorted with temple women, Mandavya and the woman who had been born as his sister and then became his wife seem to have set them aside, deciding that none of these was suitable to safeguard their daughter.
+Likewise, perhaps thinking of Indra's violation of Ahalya, of Muruga who, though with Deivayanai, went in search of Valli, and of the gods above gods who consorted with devadasis, Mandavya and the woman who had been born as his sister and then became his wife seem to have set them aside, deciding that none of these was suitable to safeguard their daughter.
 
 Finally, deciding that Yama Dharma alone was suitable, they are said to have entrusted their daughter to Yama Dharmaraja before leaving on their world journey, asking him to guard her chastity and return her when they came back.
 
 How they forgot that Yama Dharma too, according to the Bharata, had intercourse with Kunti Devi and fathered Bhima!
 
-They themselves were people in which a sister married her elder brother and an elder brother married his sister, were they not!
+They too were people in whose case a sister married her elder brother and an elder brother married his sister, were they not!
 
 Yama Dharma, fearing that if the maiden entrusted to him remained outside, somehow someone might ruin and corrupt the young woman, swallowed her through his mouth and kept her safely in his stomach—
 
@@ -280,7 +283,9 @@ Because Agni was confined in the beautiful woman's lower belly, everyone in the 
 
 ### PDF page 98 — printed page 97
 
-The gods of the three worlds and all the sages tried to find Agni. No one could bring Agni back! How could they?
+The Three, the gods, and all the sages tried to find Agni. No one could bring Agni back! How could they?
+
+> **Translator/source note:** The frozen Tamil reads `மூவரும் தேவரும், முனிவரும் அனைவரும்`. E2 preserves that sequence as “The Three, the gods, and all the sages” rather than interpreting it as “the gods of the three worlds.”
 
 Vayu Bhagavan saw what had happened and immediately arranged a feast for everyone, including Yama. Two extra leaves were placed beside Yama Dharma. When Yama asked, ‘For whom?’, Vayu said, ‘If you let out the woman in your stomach, it will be right,’ and Yama, frightened, let the woman out.
 
@@ -298,7 +303,7 @@ All this is read with devotion as divine play.
 
 Panchali in the Bharata is placed among the ranks of chaste women. Is it fitting? Proper? Appropriate? Think!
 
-A goddess to five, an imperishable chaste woman, a woman who belongs to five men, the wife of five husbands—how can she be a chaste woman?
+Consort to all five, an imperishable chaste woman, a woman who is consort to five men, the wife of five husbands—how can she be a chaste woman?
 
 Only five? It is said that as a sixth, that imperishable chaste woman Panchali had given her heart to Karna as well!
 
@@ -312,18 +317,18 @@ From those things said to be Puranas—sacred stories, pure texts that show the 
 
 By blindly reading and listening to Puranas, believing the extraordinary events described in them, the wonders beyond human power and the obscene incidents to be the Lord, incarnation, the way of grace, divine blessing, people become intoxicated in that same state, lose mental strength and, instead of advancing through their own power, their own labour and their own thought, immerse themselves only in prayer, devotion and recitation in the hope of raising their present condition, their condition of poverty—and become lazy!
 
-Not merely lazy: spending the money in their hands and their time—why, even their thought—on worship of God, pilgrimage and puja, they carry, though unable to carry, the burden of a life without substance, thinking of the fate that carries them along, and lead a life crying, ‘Death, come! Death, come!’ Should this condition not be changed?
+Not merely lazy: spending the money in their hands and their time—why, even their thought—on worship of God, pilgrimage and puja, unable to bear yet carrying along the burden of a life without substance, thinking of their plight, they lead a life crying, ‘Death, come! Death, come!’ Should this condition not be changed?
 
 Should not the life in which people, as people, keep thinking of something, longing, waiting and waiting only to be disappointed, be changed and enriched?
 
 ### PDF page 101 — printed page 100
 
-All this must be done. Anyone with the courage to deny it may say so directly! They will not come.
+All this must be done. Anyone with the courage to deny it may say so directly! They will not come forward.
 
 Therefore, Dravidian youths, young people filled with attachment to your people, it is you I ask: if the country is to be rescued, first remove the poisonous ideas from the minds of its people.
 
 Puranic intoxication! It must be abolished through the teaching of new knowledge, through new-age ideas blossoming and flourishing among the people!
 
-Let the drumbeat of uprising resound, so that the rationalist force—the camp—may cooperate with the DMK and see a Dravidian land from which the intoxication has been cleared away and removed.
+Let the drumbeat of uprising resound, so that the rationalist army—the camp—may cooperate with the DMK and see a Dravidian land from which the intoxication has been cleared away and removed.
 
 > **Translator/source note:** The frozen Tamil ends with the source sequence `போதை நீங்கிய நீக்கப்பட்ட திராவிட நாட்டைக் காண`. E1 preserves its doubled removal sense rather than smoothing it into a single verb.
