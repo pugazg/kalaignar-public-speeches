@@ -34,9 +34,10 @@ Archive: `speeches/aththai-magal/`
 - T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
 - T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions**
 - T2 Batch 5 — **COMPLETE / PASS — PDF39–43 / 5 pages / 11 corrections/actions**
-- T2 cumulative — **25/29 pages checked / 36 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
-- T2 — **IN PROGRESS**
-- T3 — blocked
+- T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
+- T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
+- T2 — **COMPLETE / PASS**
+- T3 — **NEXT / NOT STARTED**
 - English — blocked pending Tamil freeze
 
 Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 6 adds PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`.
@@ -108,15 +109,21 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 - coverage — **PDF39–43 / 5/5**
 - corrections/actions — **11**
 - cumulative corrections/actions — **36**
-- source-limited unresolved — **1 (PDF40)**
+- status — **COMPLETE / PASS**
+
+### Batch 6 FINAL
+
+- coverage — **PDF44–47 / 4/4**
+- corrections/actions — **8**
+- cumulative corrections/actions — **44**
+- source-limited unresolved — **1 overall (PDF40)**
 - actionable unresolved — **0**
-- historical-glyph strict review — **PASS / 0 additional glyph corrections**
-- boundary controls PDF39→44 — **5/5 PASS**
-- PDF40 source-obscured marker — **strictly rechecked / retained**
+- historical-glyph strict review — **COMPLETE / PASS through PDF47**
+- boundary controls PDF43→48 — **5/5 PASS**, including PDF47→48 constituent boundary
 - status — **COMPLETE / PASS**
 
 ## Exact next activity
 
-Proceed to the **final Tamil T2 strict visual audit — Batch 6 PDF44–47 / printed pp.44–47 / 4 pages**.
+Proceed to **Tamil T3 consolidation / freeze — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Recheck every line against rendered scan pixels, apply only source-supported corrections, and do not begin T3 or English in the same activity.
+Reconcile all 44 T2 corrections/actions into the canonical transcript, verify page coverage and boundary continuity, retain the PDF40 source-limited uncertainty, and freeze Tamil only if actionable unresolved remains 0. Do not begin English in the same activity.
