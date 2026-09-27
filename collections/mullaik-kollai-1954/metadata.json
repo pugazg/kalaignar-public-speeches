@@ -65,12 +65,12 @@
     "constituent_items_t1_complete": 1,
     "constituent_items_tamil_verified": 1,
     "constituent_items_english_verified": 1,
-    "constituent_items_archived": 0,
-    "active_constituent_number": 1,
-    "active_constituent_slug": "mullaik-kollai",
-    "active_constituent_title_ta": "முல்லைக் கொல்லை",
-    "next_gate": "Repository archival closure — constituent 1 / முல்லைக் கொல்லை",
-    "collection_status": "active-constituent-1-closure-ready",
+    "constituent_items_archived": 1,
+    "active_constituent_number": 2,
+    "active_constituent_slug": "aththai-magal",
+    "active_constituent_title_ta": "அத்தை மகள்",
+    "next_gate": "Constituent 2 / அத்தை மகள் — initialize archive and begin Tamil T1 from PDF19",
+    "collection_status": "active-constituent-2-tamil-t1-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -85,7 +85,7 @@
       "pages": 12,
       "archive_path": "speeches/mullaik-kollai/",
       "source_gate": "pass-complete",
-      "active": true,
+      "active": false,
       "tamil_t1": "first-pass-complete",
       "tamil_t2": "complete-pass",
       "tamil_t3": "complete-pass",
@@ -109,7 +109,7 @@
       "tamil_t3_additional_source_corrections": 0,
       "tamil_t3_consolidation_repairs": 0,
       "tamil_t3_source_limited_unresolved": 2,
-      "next_gate": "repository-closure",
+      "next_gate": "none",
       "english_e2": "complete-pass",
       "english_e1_pages_completed": 12,
       "english_e1_through_pdf_page": 18,
@@ -138,7 +138,9 @@
       "english_e3_tamil_changes": 0,
       "english_e3_source_limited_uncertainties": 2,
       "english_e3_translator_source_notes": 8,
-      "repository_closure": "not-started"
+      "repository_closure": "complete-pass",
+      "archive_status": "final-closed-release-ready",
+      "release_readiness": "final-closed-release-ready"
     },
     {
       "number": 2,
@@ -151,8 +153,9 @@
       "pages": 29,
       "archive_path": "speeches/aththai-magal/",
       "source_gate": "pass-complete",
-      "active": false,
-      "tamil_t1": "not-started"
+      "active": true,
+      "tamil_t1": "not-started",
+      "next_gate": "tamil-t1"
     },
     {
       "number": 3,
