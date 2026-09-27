@@ -19,7 +19,9 @@ Archive: speeches/puranap-pothai/
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — 22/22 / PDF80–101 / printed pp.79–100 / 0 unresolved / 0 Tamil changes**
 - English E2 — **COMPLETE / PASS — 22/22 / 15 corrections / 0 unresolved / 0 Tamil changes**
-- English E3 — **READY / NOT STARTED**
+- English E3 — **COMPLETE / PASS — 22/22 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
+- English — **`verified-complete`**
+- repository closure — **READY / NOT STARTED**
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 - English translation — `translation-en.md`
@@ -71,21 +73,20 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - E1 unresolved — **0**
 - English E1 — **FIRST-PASS COMPLETE**
 
-## English E2 checkpoint
+## English final checkpoint
 
-- coverage — **PDF80–101 / printed pp.79–100 / 22/22**
-- E2 corrections — **15**
-- E2 unresolved — **0**
-- Tamil changes — **0**
-- translator/source notes after E2 — **4**
-- all 11 cross-page continuations — **PASS**
-- second corrected-English sweep — **0 further fidelity issues**
-- English E2 — **COMPLETE / PASS**
+- E1 coverage — **22/22**
+- E2 — **COMPLETE / PASS — 15 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS — 4 additional corrections / 0 unresolved**
+- Tamil changes across English stages — **0**
+- translator/source notes — **4/4 retained**
+- all recorded cross-page continuations — **PASS**
+- PDF101 constituent ending / PDF102 exclusion — **PASS**
+- second complete post-E3 sweep — **0 further English fidelity issues**
+- English — **`verified-complete`**
 
 ## Exact next activity
 
-English **E3 final end-to-end verification — PDF80–101 / printed pp.79–100 / all 22 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 6.
 
-Re-read the corrected English layer against frozen Tamil from beginning to end. Verify all 15 E2 corrections, all 4 translator/source notes, page sequence, all 11 cross-page continuations, repeated rhetoric, names/terms and the PDF101 ending.
-
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+Verify all Tamil/English statuses and collection counters remain internally consistent, create the final closure report, and synchronize speech/collection/root controls. Do not reopen frozen Tamil or verified English for stylistic polishing.
