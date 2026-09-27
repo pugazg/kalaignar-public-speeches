@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **READY / NOT STARTED**  
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 2 unresolved in audited pages**  
 **T1 explicit unresolved readings:** **2**
 
 ## T1 method
@@ -102,10 +102,82 @@ These are review priorities, not automatic correction instructions.
 - PDF75 statement that the piece appeared in `திராவிடன்` in December 1952 — retained as **publication/provenance evidence only**, not a speech date
 - speech date / venue / event — **not established / not inferred**
 
-## T1 state
+## Tamil T2 strict visual audit — Batch 1: PDF7–11 / printed pp.7–11
 
-Tamil T1 is **FIRST-PASS COMPLETE — 12/12 pages**.
+**Status: COMPLETE — 5/5 pages reviewed.**  
+**Confirmed source-supported corrections: 19.**  
+**Unresolved within audited pages after Batch 1: 2.**  
+**Explicit unresolved overall after Batch 1: 3** — PDF8, PDF9, and the not-yet-audited PDF12 item.
 
-Tamil is **not verified or frozen**. T2 must now perform a strict line-by-line visual fidelity audit of all 12 pages, resolve or preserve the 2 explicit uncertainties, check all page boundaries, and perform the historical-glyph pass.
+### Batch 1 correction ledger
 
-Do not begin T3 or English before T2 is complete.
+| # | PDF | T1 reading | T2 source-supported reading / action |
+|---:|---:|---|---|
+| 1 | 7 | `தாய் மார்களே!` | `தாய்மார்களே!` — source word continues across the printed line break |
+| 2 | 8 | `அடக்கு முறை—சூழ்ச்சி` | `அடக்கு முறை-சூழ்ச்சி` — source hyphen restored |
+| 3 | 8 | `பெருமகிழும், களிப்பும்` | `பெருமிதமும், களிப்பும்` |
+| 4 | 8 | `காந்திப் புத்தை` | unsupported T1 guess removed; source edge is physically missing, retained as `[தெளிவில்லை — பக்கவிளிம்பு சேதம்: “காந்திப் …த்தை”]` |
+| 5 | 9 | `ராயல்சீமை` | `ராயலசீமை` |
+| 6 | 9 | `கஞ்சித் தொட்டியை` | `கஞ்சித்தொட்டியை` |
+| 7 | 9 | `தொங்குது அக்காடி` | `தொங்குதடி அக்காடி` |
+| 8 | 9 | `பக்கத்து வீட்டுக்காரி` | `பக்கத்துவீட்டுக்காரி` |
+| 9 | 9 | `இவ்வளவு பெரிய மனிதர். நீங்களெல்லாம்` | `இவ்வளவு பெரிய மனிதர், நீங்களெல்லாம்` |
+| 10 | 10 | `திராவிடத்தைப் பிரிக்கும் வாள்` | source form `திராவிடத்தைபிரிக்கும் வாள்` |
+| 11 | 10 | `எங்கிருந்தோ வந்த இந்தி வேசிக்கு` | source form `எங்கிருந்தோவந்த இந்தி வேசிக்கு` |
+| 12 | 10 | `போர்க்காலம் பூண்ட` | source form `போர்க்காலம்பூண்ட` |
+| 13 | 10 | `அருமைமிகு குடியிருக்கும்` | `அருகாமையிலே குடியிருக்கும்` |
+| 14 | 11 | `பட்டிருக்கிறோமென்பதால்தான்` | source spacing `பட்டிருக்கிறோ மென்பதால் தான்` |
+| 15 | 11 | `தவறான, புரியாத கருத்து` | `தவறான. புரியாத கருத்து` |
+| 16 | 11 | `இருக்கிறான் என்று சொல்லு` | source form `இருக்கிறான் என்றுசொல்லு` |
+| 17 | 11 | `நடத்திய கல்ல தெய்வமென்று` | `நட்ட கல்லை தெய்வமென்று` |
+| 18 | 11 | `சிகாமணிகளேப்பற்றி` | `சிகாமணிகளைப்பற்றி` |
+| 19 | 11 | `சொல்லிக்கொள்ளுகிறாயே?` | `சொல்லிக்கொள்கிறாயே?` |
+
+### Batch 1 unresolved readings
+
+1. **PDF8 — damaged left page edge**
+   - visible source: `... மக்களின் அறிவை மழுங்க வைக்க காந்திப்` followed on the next line by only the surviving ending `...த்தை, கொள்கையைக் காட்டி...`;
+   - the missing letters are physically absent from the scan;
+   - T1's `காந்திப் புத்தை` is therefore not source-verifiable and has been replaced by an explicit uncertainty.
+
+2. **PDF9 — damaged right page edge**
+   - visible source still ends `... ஆத்திரத்தில், அவசரத்தில், நான் சென்…`;
+   - PDF10 begins `என்று சொல்லிவிட்டு வந்திருக்கிறார்.`;
+   - the repeated `நான்சென்ஸ்` wording on PDF10 is contextually suggestive, but T2 does **not** reconstruct hidden letters without direct source evidence.
+
+The earlier PDF12 technical wing/anatomy uncertainty remains pending because PDF12 is outside Batch 1.
+
+### Batch 1 boundary controls
+
+- **PDF7→8** — `வழியா / லிருக்குமா?` — **PASS**; continuous reading `வழியாலிருக்குமா?`.
+- **PDF9→10** — damaged right-edge clause — **UNRESOLVED / retained explicitly**.
+- **PDF10→11** — `பிரத / மர் நேரு.` — **PASS**; continuous reading `பிரதமர் நேரு.`.
+- **PDF11→12** — `காட்சி / யளிக்கிறார்கள்?` — **PASS**; only the opening adjoining text of PDF12 was used for the boundary check.
+
+### Historical-glyph check — Batch 1
+
+PDF7–11 were rechecked against enlarged source pixels with the repository historical-Tamil guide, including the required families:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+No global replacement was used. No additional glyph-identity uncertainty was identified in PDF7–11 beyond the two physical-damage readings above.
+
+## T2 progress after Batch 1
+
+- audited — **PDF7–11 / 5 of 12 pages**
+- printed pages — **7–11**
+- cumulative corrections — **19**
+- unresolved within audited pages — **2**
+- explicit unresolved overall — **3** including pending PDF12
+- boundary controls passed so far — **3 PASS / 1 unresolved**
+- Tamil T2 — **IN PROGRESS**
+- pages remaining — **PDF12–18 / 7 pages**
+- Tamil — **not verified / not frozen**
+
+## Next gate
+
+Proceed to **Tamil T2 strict visual fidelity audit — Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
+
+Batch 2 must directly resolve or preserve the PDF12 technical wing/anatomy uncertainty, verify PDF12→13, PDF13→14 and PDF14→15 continuations, and check every line and historical-glyph-sensitive cluster through PDF16.
+
+Do **not** begin the final T2 batch, T3 or English in the same step.
