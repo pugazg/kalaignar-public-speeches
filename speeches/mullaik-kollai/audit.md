@@ -4,8 +4,9 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 2 unresolved in audited pages**  
-**T1 explicit unresolved readings:** **2**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **IN PROGRESS — Batches 1–2 PDF7–16 COMPLETE / 10/12 pages / 38 cumulative corrections / 2 unresolved overall**  
+**T1 explicit unresolved readings:** **2**  
+**Current explicit unresolved readings after Batch 2:** **2** — PDF8 and PDF9 physical-damage items only
 
 ## T1 method
 
@@ -47,7 +48,7 @@ In the passage beginning `கருடன் ஆகாயத்திலே ப�
 
 `பருந்தின் பருமனை நிறுத்தி`
 
-This is **not verified**. T2 must resolve or preserve the uncertainty.
+This was **not verified in T1**. T2 Batch 2 resolved the item from enlarged source pixels as `பருந்தின் பருமனை நிறுத்தி`; it is no longer an unresolved reading.
 
 ## Page-boundary continuation controls for T2
 
@@ -174,10 +175,81 @@ No global replacement was used. No additional glyph-identity uncertainty was ide
 - pages remaining — **PDF12–18 / 7 pages**
 - Tamil — **not verified / not frozen**
 
+## Tamil T2 strict visual audit — Batch 2: PDF12–16 / printed pp.12–16
+
+**Status: COMPLETE — 5/5 pages reviewed.**  
+**Confirmed source-supported corrections/actions: 19.**  
+**New unresolved readings introduced in Batch 2: 0.**  
+**Current unresolved overall: 2** — the prior physical-damage items on PDF8 and PDF9 only.
+
+### Batch 2 correction ledger
+
+| # | PDF | T1 reading | T2 source-supported reading / action |
+|---:|---:|---|---|
+| 1 | 12 | `[தெளிவில்லை — “பருந்தின் பருமனை நிறுத்தி” எனத் தோன்றும் பகுதி]` | `பருந்தின் பருமனை நிறுத்தி` — enlarged source pixels resolve the technical phrase; uncertainty closed |
+| 2 | 12 | `கற்றுக்கொண்டான்.` | `கற்றுக் கொண்டான்.` |
+| 3 | 12 | `கன்னத்திலடித்துக்கொள்வதைத் தவிர` | `கன்னத்திலடித்துக்கொள்வதை தவிர` |
+| 4 | 12 | `சிந்தித்தது.` | `சிந்தித்து,` |
+| 5 | 13 | `பார்வதியின் திருஷ்டியான` | `பார்வதியின் சிருஷ்டியான` |
+| 6 | 13 | `பசியே இல்லாத,` | `பசியே இல்லாத.` |
+| 7 | 14 | `காண்கிறோம், மகாராஜா` | `காண்கிறோம். மகாராஜா` |
+| 8 | 14 | `வெளியேறி, புத்தம்` | `வெளியேறி. புத்தம்` |
+| 9 | 14 | `புன்னருவிலேயே` | `புன்முறுவலிலேயே` |
+| 10 | 14 | first `பினுராய்` | `பீனுராய்` |
+| 11 | 14 | `குறிப்பிட்டு விரும்புகிறேன்` | `குறிப்பிட விரும்புகிறேன்` |
+| 12 | 14 | second `பினுராய்` | `பீனுராய்` |
+| 13 | 15 | `தாய்மார்களைப் பற்றி` | `தாய்மார்களை பற்றி` |
+| 14 | 15 | `மார்தட்டுகிறாயே மகாபாரதம்` | source spacing `மார் தட்டுகிறாயேமகாபாரதம்` |
+| 15 | 15 | `ரஷ்யாவில்` | `ரஷ்யாவிலே` |
+| 16 | 15 | `மொழிபெயர்க்கப்படுகிறது என்று` | source form `மொழிபெயர்க்கப்படுகிறதென்று` |
+| 17 | 15 | `இவைகளை யெல்லாம்` | `இவைகளையெல்லாம்` |
+| 18 | 15 | `கருப்புச் சட்டைக்காரர்கள்` | source spacing `கருப்புச் சட்டைக் காரர்கள்` |
+| 19 | 15 | `கடவுளைத் திட்டப்போய்தான்` | source form `கடவுளைத்திட்டப்போய்தான்` |
+
+PDF16 was checked line by line against the rendered source and required **no source-supported text correction** in this batch.
+
+### Batch 2 priority-reading results
+
+- **PDF12 technical wing/anatomy phrase — RESOLVED:** direct enlarged pixels support `பருந்தின் பருமனை நிறுத்தி`; the former uncertainty marker was removed.
+- **PDF13 `அத்தர் கம்பென்ன வீசு` — CONFIRMED** as the printed source form; no normalization applied.
+- **PDF14 `புன்னருவிலேயே` — CORRECTED** to source `புன்முறுவலிலேயே`.
+- Speech date / venue / event remain **not established / not inferred**.
+
+### Batch 2 boundary controls
+
+- **PDF12→13** — `ரோடு / களே அமைத்தான்` — **PASS**; assembled reading `ரோடுகளே அமைத்தான்`.
+- **PDF13→14** — `ஏசுகிறுஸ் / துவை.` — **PASS**; exact source-form assembled reading `ஏசுகிறுஸ்துவை.`.
+- **PDF14→15** — `திரெளபதிக்கு ஐந்து பேர் / கணவர்’...` — **PASS**; sentence continuation confirmed; no split-word join.
+- **PDF15→16** — **PASS**; no split-word continuation or boundary defect identified.
+
+### Historical-glyph check — Batch 2
+
+PDF12–16 were rechecked page by page at enlarged/native source pixels under the repository historical-Tamil guide. The complete required family set was explicitly inspected:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+No global replacement was used. No new historical-glyph ambiguity remains on PDF12–16, and no spelling, grammar, rhetoric or punctuation was modernized beyond source-supported transcription corrections recorded above.
+
+## T2 progress after Batch 2
+
+- audited — **PDF7–16 / 10 of 12 pages**
+- printed pages — **7–16**
+- Batch 1 corrections — **19**
+- Batch 2 corrections/actions — **19**
+- cumulative corrections/actions — **38**
+- unresolved within audited pages — **2**
+- explicit unresolved overall — **2** — PDF8 and PDF9 physical damage only
+- recorded boundary controls through PDF16 — **7 PASS / 1 unresolved**
+- pages remaining — **PDF17–18 / 2 pages**
+- Tamil T2 — **IN PROGRESS**
+- Tamil — **not verified / not frozen**
+- T3 — **blocked pending T2**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
+Proceed only to **Tamil T2 strict visual fidelity audit — FINAL Batch 3: PDF17–18 / printed pp.17–18 / 2 pages**.
 
-Batch 2 must directly resolve or preserve the PDF12 technical wing/anatomy uncertainty, verify PDF12→13, PDF13→14 and PDF14→15 continuations, and check every line and historical-glyph-sensitive cluster through PDF16.
+The final batch must check every line, the PDF17→18 `மாற் / றானுக்கு` historical-`றா` boundary, all historical-glyph-sensitive clusters, and the constituent end at PDF18 against PDF19 `அத்தை மகள்`.
 
-Do **not** begin the final T2 batch, T3 or English in the same step.
+Do **not** begin T3 or English in the same step.
