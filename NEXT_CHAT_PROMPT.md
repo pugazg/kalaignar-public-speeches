@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 English E2 fidelity review
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 English E3 final verification
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,44 +21,64 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - Tamil T2 — **COMPLETE / PASS — 22/22 / 4 corrections / 0 unresolved**
 - Tamil T3 — **COMPLETE / PASS — 4/4 reconciled / 0 additional source corrections / 0 repairs / 0 unresolved**
 - English E1 — **FIRST-PASS COMPLETE — 22/22 / 0 unresolved / 0 Tamil changes**
-- English E2 — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E2 — **COMPLETE / PASS — 22/22 / 15 corrections / 0 unresolved / 0 Tamil changes**
+- English E3 — **READY / NOT STARTED**
+- English — **not yet `verified-complete`**
 - frozen Tamil — `speeches/puranap-pothai/transcription-ta.md`
-- English translation — `speeches/puranap-pothai/translation-en.md`
-- Tamil audit — `speeches/puranap-pothai/audit.md`
+- corrected English — `speeches/puranap-pothai/translation-en.md`
+- English review — `speeches/puranap-pothai/translation-review.md`
 - speech date — **not established / do not infer**
 - item-specific venue — **not established / do not infer**
 
-## English E1 durable controls
+## E2 durable controls
 
 - PDF80–101 English page headings — **22/22 exactly once and ordered**
 - printed pp.79–100 — **continuous**
-- translation basis — frozen Tamil only
-- Tamil changes introduced — **0**
-- translator/source notes — **2**
-- E1 unresolved — **0**
-- E1 completion is **not** an English fidelity-review claim
+- E2 corrections — **15**
+- E2 unresolved — **0**
+- Tamil changes during E2 — **0**
+- translator/source notes — **4**
+- all 11 source-recorded cross-page continuations — **PASS**
+- post-consolidation corrected-English sweep — **0 further fidelity issues**
+- PDF101 constituent ending — **PASS**
+- PDF102 exclusion — **PASS**
 
-## E2 rules
+## E2 correction ledger summary
 
-Compare `translation-en.md` page by page against the frozen Tamil. Check:
-- omissions and unsupported additions;
-- meaning reversals or weakened rhetorical force;
-- quoted speech and repeated rhetorical structures;
-- names, religious/mythological terms and source-sensitive expressions;
-- all 11 cross-page continuations;
-- both translator/source notes;
-- final PDF101 constituent ending;
-- that PDF102 remains outside the constituent body.
+Confirmed corrections include:
+- PDF80 — present-participle `நாடாளும்` restored; `நரகம் மோட்சம் பயம்` list structure restored.
+- PDF84 — `கொலைக் கஞ்சாக்` preserved transparently as “murder-ganja” with source note.
+- PDF87 — omitted `அர்த்தமற்ற` restored; `கடவுளின் கண்மூடித்தனமும்` restored without added attribution framing.
+- PDF90 — `சிவலிங்கனார்` corrected to “Shivalinganar”.
+- PDF92 — `அதன்மேல் குறிப்பிட்ட` restored as “above-mentioned”.
+- PDF94 — `கற்பழித்தும்` rendered directly as “raped her”.
+- PDF95 — `தேவ தாசிகள்` retained as “devadasis”; sibling-marriage sentence repaired without changing meaning.
+- PDF98 — `மூவரும் தேவரும், முனிவரும் அனைவரும்` preserved as “The Three, the gods, and all the sages” with source note.
+- PDF99 — `ஐவருக்குந்தேவி` corrected to “consort to all five”.
+- PDF100 — burden/plight sentence restored without the unsupported “fate that carries them” wording.
+- PDF101 — `அவர்கள் வரமாட்டார்கள்` clarified as “They will not come forward”; `பகுத்தறிவுப் படை` military metaphor restored as “rationalist army”.
 
-Record findings separately in `translation-review.md` before consolidating confirmed English corrections into `translation-en.md`. Do not alter frozen Tamil for translation convenience.
+## E3 rules
 
-Political and religious claims/labels remain source rhetoric; E2 checks fidelity, not present-day truth or endorsement.
+E3 is final end-to-end verification, not stylistic polishing.
+
+Re-read the complete corrected English against frozen Tamil from PDF80 through PDF101. Verify:
+- all 15 E2 corrections are present;
+- stale E1 readings are absent;
+- all 4 translator/source notes are accurate and still needed;
+- all 22 page headings and printed-page mappings are exact;
+- all 11 cross-page continuations retain semantic continuity;
+- no omissions, unsupported additions or meaning reversals remain;
+- quoted speech, repetition and rhetorical force remain faithful;
+- names and mythological/religious terms are source-faithful;
+- PDF101 closes the constituent and PDF102 remains outside the body.
+
+Political and religious claims/labels remain source rhetoric; E3 checks fidelity only.
 
 ## Exact next activity
 
-English **E2 fidelity review — PDF80–101 / printed pp.79–100 / all 22 pages**.
+English **E3 final end-to-end verification — PDF80–101 / printed pp.79–100 / all 22 pages**.
 
-Complete the page-by-page fidelity review, record the correction ledger, consolidate confirmed English corrections, and leave E3 **NOT STARTED**.
+If E3 passes, mark English **`verified-complete`**, set repository closure **READY / NOT STARTED**, and synchronize speech, collection and root controls.
 
-Do **not** begin E3 in the same step.
+Do **not** perform repository closure in the same E3 step.
