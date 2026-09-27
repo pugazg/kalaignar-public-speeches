@@ -3,7 +3,7 @@
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **English layer:** `translation-en.md` — E1 FIRST-PASS COMPLETE / 22/22  
 > **E2 review scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-> **Review finding state:** page-by-page comparison COMPLETE; **14 confirmed English corrections / 0 unresolved** identified for consolidation  
+> **Review finding state:** page-by-page comparison COMPLETE; **15 confirmed English corrections / 0 unresolved** identified for consolidation  
 > **Tamil changes:** 0
 
 ## Review method
@@ -30,18 +30,19 @@ Political and religious claims, labels and criticism are reviewed only for fidel
 | 12 | 100 | `சத்தற்ற வாழ்வுச் சுமையை சுமக்க முடியாது சுமந்து போகிற கதியை நினைத்துக் கொண்டு` was recast as a “fate that carries them along,” adding a carrier not present in Tamil | restore the sense of **being unable to bear yet carrying the burden, thinking of their plight** |
 | 13 | 101 | `அவர்கள் வரமாட்டார்கள்` was left as the overly literal “They will not come” | clarify the contextual force as **“They will not come forward.”** |
 | 14 | 101 | `பகுத்தறிவுப் படை — பாசறை` was weakened to “rationalist force—the camp” | restore the military metaphor as **“rationalist army—the camp”** |
+| 15 | 80 | `நாடாளும் முதல் அமைச்சர் ஆச்சாரியார்` was rendered “the Chief Minister who came to rule the country,” importing `வந்தவர்` wording that belongs to PDF81 | preserve PDF80's present-participle sense as **“the Chief Minister ruling the country”** |
 
 ## Page-by-page review coverage
 
 | Batch | PDF | Printed | Result before consolidation |
 |---:|---:|---:|---|
-| 1 | 80–84 | 79–83 | PASS with 2 confirmed corrections |
+| 1 | 80–84 | 79–83 | PASS with 3 confirmed corrections |
 | 2 | 85–89 | 84–88 | PASS with 2 confirmed corrections |
 | 3 | 90–94 | 89–93 | PASS with 3 confirmed corrections |
 | 4 | 95–99 | 94–98 | PASS with 4 confirmed corrections |
 | 5 | 100–101 | 99–100 | PASS with 3 confirmed corrections |
 
-Total confirmed E2 corrections: **14**.  
+Total confirmed E2 corrections: **15**.  
 Unresolved E2 findings: **0**.  
 Frozen Tamil changes: **0**.
 
@@ -53,6 +54,6 @@ PDF101 remains the constituent ending. PDF102 remains outside the English body.
 
 ## Next consolidation action
 
-Apply the 14 confirmed English corrections to `translation-en.md`, retain frozen Tamil unchanged, then re-read the corrected English layer end to end before marking E2 COMPLETE / PASS.
+Apply the 15 confirmed English corrections to `translation-en.md`, retain frozen Tamil unchanged, then re-read the corrected English layer end to end before marking E2 COMPLETE / PASS.
 
 E3 must remain NOT STARTED during this step.
