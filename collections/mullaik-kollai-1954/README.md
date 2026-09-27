@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T1 IN PROGRESS — PDF19–43 / 25/29 drafted; 1 source-obscured reading; final PDF44–47 next — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T1 FIRST-PASS COMPLETE — PDF19–47 / 29/29; 1 source-obscured reading retained; Tamil T2 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -71,7 +71,7 @@ See `DUPLICATE_AUDIT.md`.
 - duplicate check — **PASS**
 - main-text boundary mapping — **COMPLETE / 5/5**
 - supplementary/back-matter mapping — **COMPLETE**
-- Tamil T1 complete — **1/5**
+- Tamil T1 complete — **2/5**
 - Tamil verified — **1/5**
 - English verified — **1/5**
 - fully archived — **1/5**
@@ -81,12 +81,13 @@ See `DUPLICATE_AUDIT.md`.
 - constituent 1 source-limited uncertainties — **2 documented / retained**
 - active constituent — **2/5 — அத்தை மகள்**
 - active range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- active Tamil T1 — **IN PROGRESS — Batches 1–5 PDF19–43 / 25/29 drafted / 1 source-obscured reading**
-- active historical-glyph first-pass — **through PDF43**
-- active Tamil T2 — **NOT STARTED**
+- active Tamil T1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 / 1 source-obscured reading retained**
+- active historical-glyph first-pass — **through PDF47**
+- active outgoing boundary — **PDF47→48 PASS / PDF48 begins `நம் மேடை`**
+- active Tamil T2 — **NEXT / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — complete **Tamil T1 first-pass transcription with final PDF44–47 / 4 pages**. Keep the PDF40 source-obscured marker explicit; do not begin T2 in the same activity.
+Constituent 2 — **அத்தை மகள்** — begin **Tamil T2 strict visual audit, Batch 1 PDF19–23 / printed pp.19–23 / 5 pages**. Apply source-supported corrections only; do not begin T3 or English in the same activity.
