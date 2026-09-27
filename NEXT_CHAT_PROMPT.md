@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T2 Batch 3 PDF29–33
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T2 Batch 4 PDF34–38
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,38 +30,39 @@ Tamil T1 is **FIRST-PASS COMPLETE — 29/29 pages**.
 
 ## Tamil T2 durable checkpoint
 
-Batches 1–2 are **COMPLETE / PASS**:
+Batches 1–3 are **COMPLETE / PASS**:
 
 - Batch 1 — **PDF19–23 / 5 pages / 7 corrections/actions**
 - Batch 2 — **PDF24–28 / 5 pages / 5 corrections/actions**
-- cumulative T2 — **10/29 pages**
-- cumulative corrections/actions — **12**
+- Batch 3 — **PDF29–33 / 5 pages / 4 corrections/actions**
+- cumulative T2 — **15/29 pages**
+- cumulative corrections/actions — **16**
 - unresolved within audited pages — **0**
-- historical-glyph strict review — **PASS through PDF28**
+- historical-glyph strict review — **PASS through PDF33**
 - PDF40 source-obscured marker — **retained / untouched**
 
-### Batch 2 corrections
+### Batch 3 corrections
 
-1. PDF24 — `கணவன்—பின் உடன்பிறந்த` → `கணவன் - பின் உடன்பிறந்த`
-2. PDF24 — `ஒரே செல்வத் திருமகன்—பன்னிரெண்டு` → `ஒரே செல்வத் திருமகன் - பன்னிரெண்டு`
-3. PDF25 — `ரஷிய நாட்டின்` → `ரஷ்ய நாட்டின்`
-4. PDF27 — `சீனாவின் தூதுவராக அனுப்பிவிடலாம்` → `சீனாவின் தூதுவராக அனுப்பி விடலாம்`
-5. PDF28 — `மும்முனைப் போராட்டங்கள் நடத்தி வெற்றி வாகை` → `மும்முனைப் போராட்டங்களை நடத்தி வெற்றி வாகை`
+1. PDF29 — `போராட்டம்தான் நேருவை எதிர்த்து` → `போராட்டம் தான் நேருவை எதிர்த்து`
+2. PDF29 — `சீரும், சிறப்பும்.` → `சீரும். சிறப்பும்.`
+3. PDF31 — `“நல்லா இருப்பீர்கள், வந்து சேர்ந்தீர்கள்...` → `“நல்லா இருப்பீர்கள். வந்து சேர்ந்தீர்கள்...`
+4. PDF31 — `இரண்டு மாதம், மூன்று மாதம் என்று அளவிலே` → `இரண்டு மாதம், மூன்று மாதம் என்ற அளவிலே`
 
-Confirmed unchanged Batch 2 priorities include `ஐந்தாறு`, `லட்சோபலட்சமாக`, `குடும்பத்திற் கொருவன்`, `அந்தப்பால் மணம்`, `அரைவயிற்றுக்கஞ்சியும்`, `விழலுக் கிரைத்த நீராகி`, `பார்க்கச் சுவைக்கும்`, historical-`னா` `சீனாவின்`, and `புதுமைப் பொலிவையும்`.
+Confirmed unchanged Batch 3 priorities include `ஒண்ட வந்த`, `நாப்பகன்றார்`, historical-`ணா` `அண்ணா`, `போர்ப்பரணி பாடினர்கள்`, `அதைக் கண்டிக்கு முகத்தான்`, historical-`ளை` `ரயில்களை`, `பஜகோவிந்தப் பூமான்களின்`, `கடினமானக் காரியமில்லை`, `ஐயாயிரவரை`, `ஆச்சாரியார் ஆட்சிபீடம்.`, `தரும போன்றவர்கள்`, `அப்பீல்காரணமாக`, `நமதியக்கம்`, `நாவடக்கமின்றிப்`, `வாதத்திற்கு` and `சட்டத்தினின்றும்`.
 
-Boundary controls PDF23→29 — **6/6 PASS**, including PDF27→28 `காத்துக் கொண் / டிருக்கவில்லை!` → assembled `காத்துக் கொண்டிருக்கவில்லை!` and PDF28→29 `நாம் நடத்தியப் / போராட்டங்களும்...`.
+Boundary controls PDF28→34 — **6/6 PASS**, including PDF33→34 `சட்டத்தினின்றும் / தப்பிவிட முடியும்.`.
 
-## Batch 3 recorded priorities
+## Batch 4 recorded priorities
 
-For PDF29–33, recheck at minimum:
+For PDF34–38, recheck at minimum:
 
-- PDF29 — `ஒண்ட வந்த`, `நாப்பகன்றார்`, historical-`ணா` `அண்ணா`
-- PDF30 — `போர்ப்பரணி பாடினர்கள்`, `அதைக் கண்டிக்கு முகத்தான்`, historical-`ளை` `ரயில்களை`, `பஜகோவிந்தப் பூமான்களின்`
-- PDF31 — `கடினமானக் காரியமில்லை`, `ஐயாயிரவரை`, `ஆச்சாரியார் ஆட்சிபீடம்.`
-- PDF32 — `தரும போன்றவர்கள்`, `அப்பீல்காரணமாக`, `நமதியக்கம்`
-- PDF33 — `நாவடக்கமின்றிப்`, `வாதத்திற்கு`, `சட்டத்தினின்றும்`
-- PDF33→34 — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.`
+- PDF34 — `அண்ணா கண்ஜாடை காட்டுவரானால்`, `ஆயாச எதிர் வேலைகள்`, `போட்டுபட்டு`
+- PDF35 — `கொலுமண்டபத்தில்`, `தயங்கினதில்லை`, `கருப்புத்துணிகொடு`
+- PDF36 — `வஸ்தாது`, `கம்பெந்திய`, `கலகலத்த காங்கிரஸ் கோட்டைக்குத் தூணை வந்த`
+- PDF37 — `உடையினத்திலும்`, `எதிர்த்துபோராட்டம்`, `நான் சென்ஸை`
+- PDF38 — `ஒலமிட்டுக்`, `துருக்கர்களின் கொலையால்`, `கட்டாறி தாங்கினன் மார்பிலே`
+- PDF37→38 — `பொருளாதாரத் துறையிலும் / போராட்டங்கள் நடத்தினோம்.`
+- PDF38→39 — no split word; PDF39 begins a new paragraph
 
 ## Tamil source rule
 
@@ -69,7 +70,7 @@ Rendered scan pixels are authoritative. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 
 ## Exact next activity
 
-Proceed to **Tamil T2 strict visual audit — Batch 3 PDF29–33 / printed pp.29–33 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**.
 
 Recheck every line of `transcription-ta.md` against rendered scan pixels, apply only source-supported corrections, verify historical glyph identities and recorded page boundaries, and leave the PDF40 source-obscured marker untouched unless same-edition evidence resolves it.
 
