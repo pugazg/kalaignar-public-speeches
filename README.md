@@ -581,3 +581,35 @@ Repository-level closure is complete. No transcription, translation, review, ver
 The user supplied 1953 earlier, but the controlling scan prints February 1958; the archive follows the source-supported 1958 edition.
 
 No routine transcription, translation, review, verification or release-readiness work remains for this collection. Reopen only for genuinely new source evidence or a documented substantive fidelity/provenance issue.
+
+### Active work — முல்லைக் கொல்லை (1954 source booklet)
+
+`collections/mullaik-kollai-1954/` is **ACTIVE — SOURCE-GATED / constituent 1 Tamil T1 READY; 5/5 source-listed texts mapped**.
+
+- source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
+- source ID — `TVA_BOK_0064364`
+- SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
+- source bytes — **90,473,039**
+- source scans — **80**
+- edition — **முதற்பதிப்பு — ஆடி திங்கள் 1954**
+- creator — **கலைஞர் மு. கருணாநிதி**
+- printer — **சங்கர் பிரிண்டர்ஸ், 114, பிராட்வே, சென்னை-1**
+- main source-listed texts — **5**
+- main-text coverage — **PDF7–67 / 61 pages**
+- source-gated — **5/5**
+- Tamil T1 complete — **0/5**
+- Tamil verified — **0/5**
+- English verified — **0/5**
+- fully archived — **0/5**
+- supplementary author text — **PDF69–70 — ‘முரசொலி’ துப்பாக்கி** / mapped separately
+- PDF71–79 — rights/review/correspondence/provenance back matter
+- PDF80 — publisher advertisement
+- duplicate gate — **PASS / no existing dedicated archive found**
+- source-order note — PDF6 lists `இலட்சிய இதழ்` before `கைத்தறி வாங்கலையோ`; the physical body has `கைத்தறி வாங்கலையோ` at PDF57 before `இலட்சிய இதழ்கள்` at PDF63; both source forms are preserved
+- active constituent — **1 / 5 — முல்லைக் கொல்லை**
+- active range — **PDF7–18 / printed pp.7–18 / 12 pages**
+- active constituent Tamil T1 — **READY / NOT STARTED**
+- active constituent date / venue / event — **not established / do not infer**
+
+Exact next gate: constituent 1 **Tamil T1 first-pass transcription — PDF7–18 / printed pp.7–18 / all 12 pages**.
+
