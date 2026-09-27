@@ -22,15 +22,16 @@ Archive: `speeches/aththai-magal/`
 - Batch 2 — **PDF24–28 / 5/5 pages COMPLETE**
 - Batch 3 — **PDF29–33 / 5/5 pages COMPLETE**
 - Batch 4 — **PDF34–38 / 5/5 pages COMPLETE**
-- cumulative T1 — **20/29 pages**
-- transcription through — **PDF38 / printed p.38**
-- explicit unresolved — **0**
-- historical-glyph first-pass — **complete through PDF38**
+- Batch 5 — **PDF39–43 / 5/5 pages COMPLETE**
+- cumulative T1 — **25/29 pages**
+- transcription through — **PDF43 / printed p.43**
+- explicit unresolved/source-obscured — **1 (PDF40 `…ங்களூருக்கருகிலே`)**
+- historical-glyph first-pass — **complete through PDF43**
 - T2 — **NOT STARTED**
 - T3 — blocked
 - English — blocked pending Tamil freeze
 
-Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 4 adds PDF34 `அண்ணா கண்ஜாடை காட்டுவரானால்`, PDF35 `கொலுமண்டபத்தில்` / `கருப்புத்துணிகொடு`, PDF36 `வஸ்தாது` / `கம்பெந்திய`, PDF37 `உடையினத்திலும்`, and PDF38 `துருக்கர்களின் கொலையால்` / `கட்டாறி தாங்கினன் மார்பிலே`.
+Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 5 adds PDF39 `அகோரப் பசிக்கு!`, PDF40 `அழிக்கல்` / `வாழைப்பழடினம்` / one source-obscured `…ங்களூருக்கருகிலே`, PDF41 `சித்தாப்பு`, PDF42 `ஒன்றுக்கலக்கும்` / `மாலங்`, and PDF43 `கோவும்` / `சியாங்கே ஷேக்கை`.
 
 ## Boundary controls already noted
 
@@ -54,9 +55,14 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 - PDF36→37 — no split word
 - PDF37→38 — `பொருளாதாரத் துறையிலும் / போராட்டங்கள் நடத்தினோம்.` semantic continuation
 - PDF38→39 — no split word; PDF39 begins a new paragraph
+- PDF39→40 — no split word
+- PDF40→41 — no split word
+- PDF41→42 — no split word
+- PDF42→43 — `மாலங் / கோவும்` candidate join `மாலங்கோவும்`
+- PDF43→44 — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` semantic continuation
 
 ## Exact next activity
 
-Continue **Tamil T1 from PDF39 onward** in manageable page batches, using rendered scan pixels as authority and applying the historical-Tamil glyph guide page by page.
+Complete **Tamil T1 with final PDF44–47 / 4 pages**, using rendered scan pixels as authority and applying the historical-Tamil glyph guide page by page.
 
 Do not begin T2, T3 or English until T1 covers all PDF19–47.
