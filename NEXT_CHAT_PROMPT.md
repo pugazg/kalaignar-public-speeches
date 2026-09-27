@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T2 Batch 4 PDF34–38
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T2 Batch 5 PDF39–43
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,39 +30,46 @@ Tamil T1 is **FIRST-PASS COMPLETE — 29/29 pages**.
 
 ## Tamil T2 durable checkpoint
 
-Batches 1–3 are **COMPLETE / PASS**:
+Batches 1–4 are **COMPLETE / PASS**:
 
 - Batch 1 — **PDF19–23 / 5 pages / 7 corrections/actions**
 - Batch 2 — **PDF24–28 / 5 pages / 5 corrections/actions**
 - Batch 3 — **PDF29–33 / 5 pages / 4 corrections/actions**
-- cumulative T2 — **15/29 pages**
-- cumulative corrections/actions — **16**
+- Batch 4 — **PDF34–38 / 5 pages / 9 corrections/actions**
+- cumulative T2 — **20/29 pages**
+- cumulative corrections/actions — **25**
 - unresolved within audited pages — **0**
-- historical-glyph strict review — **PASS through PDF33**
+- historical-glyph strict review — **PASS through PDF38**
 - PDF40 source-obscured marker — **retained / untouched**
 
-### Batch 3 corrections
+### Batch 4 corrections
 
-1. PDF29 — `போராட்டம்தான் நேருவை எதிர்த்து` → `போராட்டம் தான் நேருவை எதிர்த்து`
-2. PDF29 — `சீரும், சிறப்பும்.` → `சீரும். சிறப்பும்.`
-3. PDF31 — `“நல்லா இருப்பீர்கள், வந்து சேர்ந்தீர்கள்...` → `“நல்லா இருப்பீர்கள். வந்து சேர்ந்தீர்கள்...`
-4. PDF31 — `இரண்டு மாதம், மூன்று மாதம் என்று அளவிலே` → `இரண்டு மாதம், மூன்று மாதம் என்ற அளவிலே`
+1. PDF35 — `கும்பாளம் போட்டார்` → `கும்மாளம் போட்டார்`
+2. PDF35 — `குறிப்பிடுகிறேன், கேளுங்கள்` → `குறிப்பிடுகிறேன். கேளுங்கள்`
+3. PDF35 — `வரவேற்பு பற்றி, ‘‘இச் சம்பவம்` → `வரவேற்பு பற்றி. ‘‘இச் சம்பவம்`
+4. PDF35 — `நின்றுகொண்டிருந்திருக்கிறது, அந்த நிலையில்` → `நின்றுகொண்டிருக்கிறது. அந்த நிலையில்`
+5. PDF36 — `விழவில்லை, பறந்துசென்று` → `விழவில்லை. பறந்துசென்று`
+6. PDF36 — `புறப்பட்டு விட்டது. உடனே` → `புறப்பட்டு விட்டது, உடனே`
+7. PDF36 — `தொடை தட்டி, மீசை முறுக்கி` → `தொடை தட்டி. மீசை முறுக்கி`
+8. PDF37 — `எதிர்த்துபோராட்டம் நடத்தினோம்` → `எதிர்த்துப்போராட்டம் நடத்தினோம்`
+9. PDF38 — `பறித்துச் சென்றார் பாராள்வோர்` → `பறித்துச் சென்றனர் பாராள்வோர்`
 
-Confirmed unchanged Batch 3 priorities include `ஒண்ட வந்த`, `நாப்பகன்றார்`, historical-`ணா` `அண்ணா`, `போர்ப்பரணி பாடினர்கள்`, `அதைக் கண்டிக்கு முகத்தான்`, historical-`ளை` `ரயில்களை`, `பஜகோவிந்தப் பூமான்களின்`, `கடினமானக் காரியமில்லை`, `ஐயாயிரவரை`, `ஆச்சாரியார் ஆட்சிபீடம்.`, `தரும போன்றவர்கள்`, `அப்பீல்காரணமாக`, `நமதியக்கம்`, `நாவடக்கமின்றிப்`, `வாதத்திற்கு` and `சட்டத்தினின்றும்`.
+Confirmed unchanged Batch 4 priorities include PDF34 `அண்ணா கண்ஜாடை காட்டுவரானால்` / `ஆயாச எதிர் வேலைகள்` / `போட்டுபட்டு`; PDF35 `கொலுமண்டபத்தில்` / `தயங்கினதில்லை` / `கருப்புத்துணிகொடு`; PDF36 `வஸ்தாது` / `கம்பெந்திய` / `கலகலத்த காங்கிரஸ் கோட்டைக்குத் தூணை வந்த`; PDF37 `உடையினத்திலும்` / `நான் சென்ஸை`; PDF38 `ஒலமிட்டுக்` / `துருக்கர்களின் கொலையால்` / `கட்டாறி தாங்கினன் மார்பிலே`.
 
-Boundary controls PDF28→34 — **6/6 PASS**, including PDF33→34 `சட்டத்தினின்றும் / தப்பிவிட முடியும்.`.
+Boundary controls PDF33→39 — **6/6 PASS**.
 
-## Batch 4 recorded priorities
+## Batch 5 recorded priorities
 
-For PDF34–38, recheck at minimum:
+For PDF39–43, recheck at minimum:
 
-- PDF34 — `அண்ணா கண்ஜாடை காட்டுவரானால்`, `ஆயாச எதிர் வேலைகள்`, `போட்டுபட்டு`
-- PDF35 — `கொலுமண்டபத்தில்`, `தயங்கினதில்லை`, `கருப்புத்துணிகொடு`
-- PDF36 — `வஸ்தாது`, `கம்பெந்திய`, `கலகலத்த காங்கிரஸ் கோட்டைக்குத் தூணை வந்த`
-- PDF37 — `உடையினத்திலும்`, `எதிர்த்துபோராட்டம்`, `நான் சென்ஸை`
-- PDF38 — `ஒலமிட்டுக்`, `துருக்கர்களின் கொலையால்`, `கட்டாறி தாங்கினன் மார்பிலே`
-- PDF37→38 — `பொருளாதாரத் துறையிலும் / போராட்டங்கள் நடத்தினோம்.`
-- PDF38→39 — no split word; PDF39 begins a new paragraph
+- PDF39 — `அகோரப் பசிக்கு!`, `செபஸ்டியன்`, `ஆண் குறியை`
+- PDF40 — `முக்கியம்தானு?`, `அவசியம்தானு?`, `அழிக்கல்`, `வாழைப்பழடினம்`, `திருநாட்டியத்தான்குடி`, `மாவூர் ரோட்`
+- PDF40 — source-obscured start-of-word marker `…ங்களூருக்கருகிலே` — **do not infer hidden letters**
+- PDF41 — `சித்தாப்பு`, `புதியபாணத்தைத்`, `கிடக்கிறேனய்யா`, `வருதய்யா`
+- PDF42 — `அடிமைத் தனங்களால்`, `ஒன்றுக்கலக்கும்`, page-end `மாலங்`
+- PDF43 — page-start `கோவும்` → candidate assembled `மாலங்கோவும்`; `நிறைந்திருக்கின்றனவே புல் பூண்டுகள்`; `டால்மியா ‘சாக்கடை’`; `ஜனசக்தி`; `சியாங்கே ஷேக்கை`
+- PDF42→43 — `மாலங் / கோவும்`
+- PDF43→44 — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...`
 
 ## Tamil source rule
 
@@ -70,8 +77,8 @@ Rendered scan pixels are authoritative. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 
 ## Exact next activity
 
-Proceed to **Tamil T2 strict visual audit — Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 5 PDF39–43 / printed pp.39–43 / 5 pages**.
 
-Recheck every line of `transcription-ta.md` against rendered scan pixels, apply only source-supported corrections, verify historical glyph identities and recorded page boundaries, and leave the PDF40 source-obscured marker untouched unless same-edition evidence resolves it.
+Recheck every line of `transcription-ta.md` against rendered scan pixels. Recheck the PDF40 obscured phrase but preserve uncertainty unless the same-edition image itself resolves hidden print. Apply only source-supported corrections and verify recorded page boundaries.
 
 Do **not** begin T3 or English in the same activity.
