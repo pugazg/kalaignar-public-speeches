@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **IN PROGRESS — Batches 1–4 PDF80–99 COMPLETE / PASS; 20/22 pages; 4 corrections / 0 unresolved**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 22/22**; T2 **COMPLETE / PASS — PDF80–101 / 22/22 pages; 4 corrections / 0 unresolved**; T3 **READY / NOT STARTED**
 
 ## T1 method
 
@@ -277,8 +277,41 @@ Batch 4 unresolved glyph readings: **0**.
 - Tamil T2 — **IN PROGRESS**
 - pages remaining — **PDF100–101 / 2 pages**
 
+## Tamil T2 strict visual audit — Batch 5 / FINAL: PDF100–101 / printed pp.99–100
+
+**Status: COMPLETE / PASS — 2/2 pages.**  
+**Source-supported corrections: 0.**  
+**Unresolved after Batch 5: 0.**
+
+### Batch 5 page confirmations
+
+- **PDF100 / printed 99** — `மனபல மிழந்து`, `தன்னுழைப்பால்`, `பக்தி-பாராயணம்`, `சத்தற்ற வாழ்வுச் சுமை`, quoted `‘சாவே வா, சாவே வா,’`, and terminal `வளப்படுத்திட வேண்டாமா?` — **PASS / 0 corrections**.
+- **PDF101 / printed 100** — `நச்சு எண்ணங்களைப் போக்குங்கள் முதலில்`, `புராணப் போதை!`, `புத்தறிவுப் போதனை`, `தி. மு. க. வுடன்`, source sequence `போதை நீங்கிய நீக்கப்பட்ட திராவிட நாட்டைக் காண`, and terminal `எழுச்சி முரசொலி முழங்கட்டும்.` — **PASS / 0 corrections**.
+- **PDF101→102 boundary** — PDF101 ends constituent 6; PDF102 is a publisher/back-catalogue page listing books and is outside the constituent body — **PASS**.
+
+### Historical-glyph check — Batch 5
+
+PDF100–101 were checked directly against enlarged rendered source pixels, including the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. No global replacement or lexical modernization was used.
+
+Batch 5 unresolved glyph readings: **0**.
+
+## T2 final state
+
+- audited — **PDF80–101 / 22/22 pages**
+- printed pages — **79–100**
+- batches — **5/5 COMPLETE**
+- source-supported corrections — **4**
+- unresolved — **0**
+- recorded page-boundary controls — **11/11 PASS**
+- constituent ending / PDF101→102 boundary — **PASS**
+- PDF102 exclusion — **PASS**
+- historical-glyph review — **COMPLETE / 0 unresolved**
+- Tamil T2 — **COMPLETE / PASS**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual fidelity audit — Batch 5 / FINAL: PDF100–101 / printed pp.99–100 / 2 pages**.
+Proceed to **Tamil T3 consolidation / freeze — PDF80–101 / printed pp.79–100 / all 22 pages**.
 
-Audit both pages line by line against the rendered source scan. Confirm the terminal constituent ending on PDF101 and verify that PDF102 remains publisher/back-catalogue material outside the speech body. Do not begin T3 or English.
+Reconcile all **4 T2 corrections**, verify exact 22/22 page coverage and all 11 recorded page-boundary controls, confirm stale T1 readings are absent, confirm PDF102 remains excluded, and freeze Tamil only if T3 passes with 0 unresolved.
+
+Do not begin English before Tamil T3 is complete and the Tamil layer is marked `verified-complete` / FROZEN.
