@@ -1,10 +1,11 @@
 # புராணப் போதை! — English Translation
 
-> **Status:** English E2 fidelity review COMPLETE / PASS — PDF80–101 / printed pp.79–100 / 22/22 pages; 15 corrections / 0 unresolved / 0 Tamil changes; E3 READY / NOT STARTED  
+> **Status:** English `verified-complete` — E1 COMPLETE 22/22; E2 COMPLETE / PASS with 15 corrections / 0 unresolved; E3 COMPLETE / PASS with 4 additional corrections / 0 unresolved  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, page sequence, quoted speech, historical/source-sensitive wording and unusual constructions. Political and religious claims, labels and criticism below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **E1 scope:** PDF80–101 / printed pp.79–100 / 22 pages — FIRST-PASS COMPLETE.  
-> **E2:** COMPLETE / PASS — 15 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
+> **E2:** COMPLETE / PASS — 15 corrections / 0 unresolved / 0 Tamil changes.  
+> **E3:** COMPLETE / PASS — 4 additional corrections / 0 unresolved / 0 Tamil changes.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -19,7 +20,7 @@ At one time he says, ‘Rationing is being abolished; Bhagavan said so, and I ha
 
 Achariyar also says, ‘If the abolition of rationing fails, I shall leave my post.’
 
-In one way or another, Achariyar goes on telling little stories as support—stories about Bhagavan and stories that praise and glorify Bhagavan—under the name of sacred tales, in the manner of aunt-and-grandmother stories, as epics, pictures, stories of the Lord, devotional songs and in many, many other forms; from childhood onward, citing devotion, recitation, hell, salvation, fear, and many such reasons, he brings in the Puranas and Itihasas as support.
+In one way or another, Achariyar goes on telling little stories as support—about Bhagavan and in praise and glorification of Bhagavan, meant to unsettle and confuse people's minds—under the name of sacred tales, in the manner of aunt-and-grandmother stories, as epics, pictures, stories of the Lord, devotional songs and in many, many other forms; from childhood onward, citing devotion, recitation, hell, salvation, fear, and many such reasons, he brings in the Puranas and Itihasas as support.
 
 ### PDF page 81 — printed page 80
 
@@ -107,7 +108,7 @@ In just the same way, a Purana says that for some reason a frightened donkey cha
 
 There is also, in the Tiruvilaiyadal Puranam, a story in which liberation is granted to a son who killed his father and had intercourse with his mother!
 
-In the Purana we can see Tirumazhisai Azhvars, praised as holy men, who even through theft are said to have worshipped without diminishing their devotion to Bhagavan!
+In the Purana we can see Tirumazhisai Azhvar, praised as a holy man, who even through theft is said to have worshipped without diminishing his devotion to Bhagavan!
 
 I read another strange and amusing incident in a Purana.
 
@@ -123,13 +124,15 @@ Why is the crow black? There is a Purana for it! Why does the elephant have a tr
 
 ‘The seed of the aivelangai fruit is shaped like a linga! Don't you know?’ they begin, and then begin the story of Bhasmasura!
 
-‘The seed of the aivelangai fruit has the form of a Shivalinga. Do you know why?’ This has spread among the people, especially among the large mass of ordinary folk! Merely thinking about it makes both God's blind folly and the incidents said to have been done by gods in their capacity as gods seem most strange and even amusing—
+‘The seed of the aivelangai fruit has the form of a Shivalinga. Do you know why?’ This has spread among the people, especially among the large mass of ordinary folk!
 
-> **Translator/source note:** The frozen Tamil uses the source form `அய்வேலங்காய்` for the fruit in the Bhasmasura episode. E1 transliterates it as *aivelangai* without silently identifying or normalizing the plant name.
+> **Translator/source note:** The frozen Tamil uses the source form `அய்வேலங்காய்` for the fruit in the Bhasmasura episode. The English retains it as *aivelangai* without silently identifying or normalizing the plant name.
+
+Merely thinking about it, one finds most strange and even amusing God's—
 
 ### PDF page 88 — printed page 87
 
-—indeed!
+—blind folly, and the incidents said to have been done by gods in their capacity as gods!
 
 Listen to that amusing story. That Purana!
 
@@ -227,7 +230,7 @@ To the sage who made his sister, his widowed sister, his wife, a girl child was 
 
 When the girl had grown up, the sage and his wife set out on a journey around the world.
 
-Before leaving, they wondered: with whom could they leave their daughter so that it would be good, beneficial! Who would let her remain with her chastity unspoiled and without blemish?
+Before leaving, they wondered: with whom could they leave their daughter so that it would be good, beneficial! So that her chastity would remain unspoiled, she would remain without blemish, could remain so, and would be allowed to remain so?
 
 Shiva, Vishnu, Brahma, Vinayaka, Muruga, Devendra, the thirty-three crore gods and the rest—none was suitable, they are said to have thought. Each had committed wrongs in matters involving women; they could not be trusted with the young woman, so they rejected them all.
 
@@ -331,4 +334,4 @@ Puranic intoxication! It must be abolished through the teaching of new knowledge
 
 Let the drumbeat of uprising resound, so that the rationalist army—the camp—may cooperate with the DMK and see a Dravidian land from which the intoxication has been cleared away and removed.
 
-> **Translator/source note:** The frozen Tamil ends with the source sequence `போதை நீங்கிய நீக்கப்பட்ட திராவிட நாட்டைக் காண`. E1 preserves its doubled removal sense rather than smoothing it into a single verb.
+> **Translator/source note:** The frozen Tamil ends with the source sequence `போதை நீங்கிய நீக்கப்பட்ட திராவிட நாட்டைக் காண`. The English preserves its doubled removal sense rather than smoothing it into a single verb.
