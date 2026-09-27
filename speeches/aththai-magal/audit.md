@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **IN PROGRESS — PDF19–23 / 5/29 drafted**; T2 NOT STARTED
+**Current gate:** Tamil T1 **IN PROGRESS — PDF19–28 / 10/29 drafted**; T2 NOT STARTED
 
 ## T1 method
 
@@ -57,12 +57,58 @@ Character identity was decoded before transcription. No global replacement was u
 - **PDF22→23** — `ஆகவே / உணர்ச்சியோடும்...` — semantic continuation.
 - **PDF23→24** — `உங்களிடையே / இருக்கலாம்.` — semantic continuation; adjoining PDF24 was inspected only to establish the boundary.
 
-## T1 progress after Batch 1
+## T1 Batch 2 — PDF24–28 / printed pp.24–28
 
-- drafted — **PDF19–23 / 5 of 29 pages**
-- printed pages — **19–23**
-- pages remaining — **PDF24–47 / 24 pages**
+**Status: COMPLETE — 5/5 pages drafted.**
+
+- PDF24 — complete first-pass transcription
+- PDF25 — complete first-pass transcription
+- PDF26 — complete first-pass transcription
+- PDF27 — complete first-pass transcription
+- PDF28 — complete first-pass transcription
+- cumulative T1 — **10/29**
+- explicit unresolved readings — **0**
+
+### Batch 2 source-sensitive first-pass controls
+
+Retained exactly for strict T2 recheck:
+
+- **PDF24** — `ஐந்தாறு`
+- **PDF24** — `லட்சோபலட்சமாக`
+- **PDF24** — `குடும்பத்திற் கொருவன்`
+- **PDF25** — `அந்தப்பால் மணம்`
+- **PDF25** — `அரைவயிற்றுக்கஞ்சியும்`
+- **PDF26** — `விழலுக் கிரைத்த நீராகி`
+- **PDF27** — `பார்க்கச் சுவைக்கும்`
+- **PDF27** — `சீனாவின்` — enlarged scan inspected under the historical-`னா` rule; retain for T2 same-edition recheck
+- **PDF28** — `புதுமைப் பொலிவையும்`
+
+These are source-sensitive T2 priorities, not automatic corrections and not unresolved readings.
+
+### Batch 2 historical-glyph first-pass
+
+PDF24–28 were inspected at enlarged/native render under the repository historical-Tamil guide, including the required family set:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+The PDF27 `சீனாவின்` occurrence was treated explicitly as a historical-`னா` identity case rather than transcribing its modern visual look-alike. No global replacement was used. T1 remains a first pass.
+
+### Batch 2 page-boundary controls for T2
+
+- **PDF23→24** — `உங்களிடையே / இருக்கலாம்.` — semantic continuation / PASS at T1.
+- **PDF24→25** — `வேண்டுமென்ற / கடமை...` — semantic continuation; no split word.
+- **PDF25→26** — PDF25 closes `வருங்கால வாழ்வுக்குடையோரே!`; PDF26 begins `உங்களையும்...`; no split word.
+- **PDF26→27** — `அத்தகைய / விவேகிகள்...` — semantic continuation.
+- **PDF27→28** — `காத்துக் கொண் / டிருக்கவில்லை!` — candidate assembled reading **`காத்துக் கொண்டிருக்கவில்லை!`**; recheck in T2.
+- **PDF28→29** — `நாம் நடத்தியப் / போராட்டங்களும்...` — semantic continuation; adjoining PDF29 inspected only to establish the boundary.
+
+## T1 progress after Batch 2
+
+- drafted — **PDF19–28 / 10 of 29 pages**
+- printed pages — **19–28**
+- pages remaining — **PDF29–47 / 19 pages**
 - explicit unresolved — **0**
+- historical-glyph first-pass — **through PDF28**
 - Tamil T1 — **IN PROGRESS**
 - Tamil T2 — **NOT STARTED**
 - Tamil — **not verified / not frozen**
@@ -70,4 +116,4 @@ Character identity was decoded before transcription. No global replacement was u
 
 ## Next gate
 
-Continue Tamil T1 from **PDF24 onward** in manageable batches. Do not begin T2 before the complete PDF19–47 first-pass transcription exists.
+Continue Tamil T1 from **PDF29 onward** in manageable batches. Do not begin T2 before the complete PDF19–47 first-pass transcription exists.
