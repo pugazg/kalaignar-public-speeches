@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் English E1 first-pass translation
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் English E2 fidelity review
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,57 +9,54 @@ Active archive: `speeches/aththai-magal/`
 
 Constituent 1 — `speeches/mullaik-kollai/` — is **FINAL CLOSED / RELEASE READY**. Do not reopen it merely to advance constituent 2.
 
-## Constituent 2 source state
-
-- title — **அத்தை மகள்**
-- source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
-- source ID — `TVA_BOK_0064364`
-- SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
-- source range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- outgoing boundary — **PDF47→48 PASS; PDF48 begins `நம் மேடை`**
-- speech date / venue / event — **not established / do not infer**
-
-## Frozen Tamil authority
+## Constituent 2 frozen Tamil authority
 
 Tamil is **`verified-complete` / FROZEN**.
 
-- T1 — **COMPLETE — 29/29**
-- T2 — **COMPLETE / PASS — 29/29**
-- T2 corrections/actions — **44**
+- source range — **PDF19–47 / printed pp.19–47 / 29 pages**
+- T2 — **COMPLETE / PASS — 29/29 / 44 corrections/actions**
 - T3 — **COMPLETE / PASS — 44/44 reconciled**
-- T3 additional source corrections — **0**
-- T3 consolidation repairs — **0**
-- source-limited unresolved — **1 (PDF40)**
-- actionable unresolved — **0**
-- page / constituent boundaries — **29/29 PASS**
+- source-limited Tamil uncertainty — **1 (PDF40)**
+- actionable Tamil unresolved — **0**
 - frozen authority — `speeches/aththai-magal/transcription-ta.md`
 
-### Source-limited control
-
-PDF40 retains exactly one source-limited uncertainty:
+The PDF40 source limitation remains:
 
 `[தெளிவில்லை — பிந்தைய கைமைக் குறி தொடக்க எழுத்துகளை மறைக்கிறது: “…ங்களூருக்கருகிலே”]`
 
-The same-edition pixels do not expose the hidden opening letters. Do not reconstruct them from context in English.
+Do not reconstruct the hidden opening letters from context.
 
-## English translation rule
+## English E1 durable state
 
-English must be translated **only from the frozen Tamil `transcription-ta.md`**, not independently from OCR, the PDF or an outside edition.
+English E1 is **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages**.
 
-Preserve as far as practical:
-
-- argument structure and page sequence;
-- rhetorical force and repetition;
-- metaphors and polemical language;
-- historical names/titles and source-sensitive oddities;
-- explicit uncertainty in the frozen Tamil.
-
-Do not silently repair difficult Tamil. Use a concise translator/source note where transparency is required.
+- translation — `speeches/aththai-magal/translation-en.md`
+- authority — **frozen Tamil only**
+- Tamil changes during E1 — **0**
+- E1 unresolved — **0**
+- source-limited uncertainties carried — **1/1**
+- translator/source notes — **8**
+- E1 is **not** an English fidelity-review claim
 
 ## Exact next activity
 
-Begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages**.
+Perform **English E2 fidelity review — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Create `speeches/aththai-magal/translation-en.md`, retaining explicit PDF/printed-page headings. Carry the PDF40 source-limited uncertainty transparently. Synchronize constituent and parent/root controls to E1 progress/completion according to repository convention.
+Compare `translation-en.md` page by page against frozen `transcription-ta.md`. Look specifically for:
 
-E1 is first-pass translation only. Do **not** perform E2 fidelity review, E3 final verification or repository closure in the same activity.
+- omitted clauses;
+- added ideas;
+- reversed meaning;
+- softened or strengthened rhetoric;
+- wrong subjects/pronouns;
+- historical names/titles mistranslated or silently normalized;
+- difficult frozen Tamil repaired without support;
+- lost repetition;
+- page-boundary omissions;
+- translator inference presented as source fact.
+
+Create `speeches/aththai-magal/translation-review.md`, record every confirmed correction, and consolidate confirmed corrections into `translation-en.md`.
+
+Preserve the PDF40 source limitation transparently and make **0 Tamil changes** unless genuinely new direct source evidence exists.
+
+If E2 passes, make **English E3 final end-to-end verification** the next gate. Do **not** perform E3 or repository closure in the same activity.
