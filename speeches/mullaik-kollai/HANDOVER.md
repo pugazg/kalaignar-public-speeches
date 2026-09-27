@@ -16,8 +16,9 @@ Archive: `speeches/mullaik-kollai/`
 - next boundary — **PDF19 — அத்தை மகள்**
 - duplicate gate — **PASS**
 - boundary gate — **PASS**
-- Tamil T1 — **READY / NOT STARTED**
-- Tamil T2/T3 — blocked pending T1
+- Tamil T1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 2 explicit unresolved**
+- Tamil T2 — **READY / NOT STARTED**
+- Tamil T3 — blocked pending T2
 - English — blocked pending Tamil freeze
 - speech date — **not established**
 - venue — **not established**
@@ -33,10 +34,21 @@ This source uses older Tamil typography. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIP
 
 Read character identity from enlarged source pixels; do not global-replace or modernize source wording.
 
+## T1 durable checkpoint
+
+- working Tamil — `transcription-ta.md`
+- audit — `audit.md`
+- T1 pages — **12/12 COMPLETE**
+- explicit unresolved — **2**
+  - PDF9 damaged right-edge terminal clause before PDF10;
+  - PDF12 technical wing/anatomy phrase.
+- page-boundary candidates — **8 logged**
+- Tamil status — **FIRST-PASS COMPLETE / not verified / not frozen**
+
 ## Exact next activity
 
-Begin Tamil **T1 first-pass transcription — PDF7–18 / printed pp.7–18 / all 12 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 1: PDF7–11 / printed pp.7–11 / 5 pages**.
 
-Transcribe from rendered source pages, preserve explicit page headings and page-boundary provenance, and record genuinely uncertain readings rather than guessing.
+Check every line directly against the rendered source, including historical glyph families and the PDF7→8 continuation. Record confirmed corrections in `audit.md` and apply them to `transcription-ta.md`.
 
-Do **not** begin T2, T3 or English in the same step.
+Do **not** begin T3 or English in the same step.
