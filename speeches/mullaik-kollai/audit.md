@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN** for PDF7–18 / 12/12 pages; 40 T2 corrections reconciled; T3 added 0 source corrections / 0 consolidation repairs; **2 documented source-damage uncertainties retained**  
+**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes / 5 translator-source notes / 0 translation unresolved**; E2 NEXT  
 **T1 explicit unresolved readings:** **2**  
 **Current explicit source-limited uncertainties after T3:** **2** — PDF8 and PDF9 physical-damage items only
 
@@ -347,8 +347,33 @@ The two uncertainty markers are **source-limited physical-damage annotations**, 
 
 Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization, contextual reconstruction and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
 
+## English E1 first-pass translation — COMPLETE
+
+| Check | Result |
+|---|---|
+| English E1 coverage | **PDF7–18 / 12/12, each exactly once and ordered** |
+| Printed-page mapping | **pp.7–18 continuous / PASS** |
+| Translation authority | **frozen `transcription-ta.md` only** |
+| Tamil changes introduced | **0** |
+| English E1 unresolved | **0** |
+| Frozen source-damage uncertainties carried | **2/2 PASS** |
+| Translator/source notes | **5** |
+| English E1 status | **FIRST-PASS COMPLETE** |
+
+E1 translates the complete frozen Tamil layer page by page. It preserves the source's argument sequence, repetition, polemical force, political/religious rhetoric and source-sensitive wording without treating those claims as independently validated.
+
+### E1 transparency controls
+
+- **PDF8** — the physically damaged `காந்திப் …த்தை` fragment is carried explicitly as uncertain; no hidden letters are reconstructed.
+- **PDF9** — the damaged `நான் சென்…` ending is carried explicitly as uncertain; the later `நான்சென்ஸ்` wording is not used to fill the source gap.
+- **PDF11** — frozen `நாலு புட்டம் சாத்தியே` is not silently normalized; E1 transliterates `புட்டம்` as `puttam`.
+- **PDF12** — frozen source-sensitive `பருந்தின் பருமனை நிறுத்தி` and `மில்களைப்` are translated conservatively and called out in a note rather than contextually repaired.
+- **PDF13** — the opaque frozen source phrase `அத்தர் கம்பென்ன வீசு` is retained transparently and not normalized.
+
+E1 completion is **not** an English fidelity-review claim. The translation now requires a separate E2 page-by-page comparison against the frozen Tamil.
+
 ## Next gate
 
-Proceed to **English E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**, translating only from frozen `transcription-ta.md`.
+Proceed to **English E2 fidelity review — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Carry the two source-damage uncertainty annotations transparently into English; do not repair them from context or outside sources. Do not alter the frozen Tamil during E1.
+Compare every English clause against frozen `transcription-ta.md`, record confirmed translation corrections separately, preserve all source-limit notes, and introduce **0 Tamil changes**. Do **not** begin E3 or repository closure in the same step.

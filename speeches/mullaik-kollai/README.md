@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — Tamil T1/T2/T3 COMPLETE / PASS — Tamil `verified-complete` / FROZEN; English E1 NEXT — 2 documented source-damage uncertainties retained**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes; English E2 NEXT — 2 source-damage uncertainties retained**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -47,13 +47,20 @@ These two annotations are source-limit records, not a pending visual-audit gate.
 
 ## English workflow
 
-- English E1 — **NOT STARTED**
-- English E2 — blocked pending E1
+- English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 pages**
+- E1 Tamil changes — **0**
+- E1 translation unresolved — **0**
+- frozen source-damage uncertainties carried — **2/2**
+- translator/source notes — **5**
+- English E2 — **NOT STARTED**
 - English E3 — blocked pending E2
 - repository closure — not started
+- English first-pass translation — `translation-en.md`
+
+E1 is a first-pass translation only, not a fidelity-verification claim. Political labels, religious polemic and historical claims are translated as source rhetoric rather than independently validated assertions.
 
 ## Next gate
 
-English **E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**.
+English **E2 fidelity review — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Translate only from frozen `transcription-ta.md`, preserve page correspondence and rhetoric, and carry the two source-damage uncertainties transparently. Do not modify the frozen Tamil during translation.
+Review `translation-en.md` page by page against frozen `transcription-ta.md`, preserve the two source-limit annotations and all necessary transparency notes, and introduce **0 Tamil changes**. Do not begin E3 or repository closure.

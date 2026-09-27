@@ -21,8 +21,10 @@ Archive: `speeches/mullaik-kollai/`
 - Tamil T3 consolidation repairs — **0**
 - Tamil — **`verified-complete` / FROZEN**
 - source-limited uncertainties retained — **2**
-- English E1 — **NOT STARTED**
-- English E2/E3 — blocked pending preceding English gates
+- English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes / 0 translation unresolved**
+- English E1 translator/source notes — **5**
+- English E2 — **NOT STARTED**
+- English E3 — blocked pending E2
 - speech date / venue / event — **not established / not inferred**
 
 Back-matter provenance says `முல்லைக் கொல்லை` appeared in `திராவிடன்` in December 1952. Do not convert that publication/provenance statement into a speech date without explicit source evidence.
@@ -48,8 +50,20 @@ These are frozen source-limit annotations. They do not authorize contextual comp
 
 Tamil is frozen. Any Tamil change requires new direct source evidence and, once English exists, dependent English re-verification. Do not reopen for stylistic polishing, modernization, normalization, contextual repair or translation convenience.
 
+## English E1 durable checkpoint
+
+- translation — `translation-en.md`
+- coverage — **PDF7–18 / printed pp.7–18 / 12/12**
+- authority — **frozen `transcription-ta.md` only**
+- Tamil changes — **0**
+- English E1 unresolved — **0**
+- source-damage uncertainties carried — **2/2**
+- translator/source notes — **5**
+- E1 status — **FIRST-PASS COMPLETE**
+- E1 is not an E2 fidelity-review claim
+
 ## Exact next activity
 
-English **E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**.
+English **E2 fidelity review — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Translate only from frozen `transcription-ta.md`, preserve page correspondence, rhetoric and source uncertainty, and introduce **0 Tamil changes**.
+Compare every English clause with the frozen Tamil, record confirmed translation corrections, retain the two source-damage uncertainties transparently, and introduce **0 Tamil changes**. Do not begin E3 or repository closure in the same step.
