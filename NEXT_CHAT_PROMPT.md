@@ -21,25 +21,34 @@ Constituent 1 — `speeches/mullaik-kollai/` — is **FINAL CLOSED / RELEASE REA
 
 ## Tamil T1 durable checkpoint
 
-Batch 1 is complete:
+Batches 1–2 are complete:
 
-- coverage — **PDF19–23 / printed pp.19–23 / 5 pages**
-- cumulative T1 — **5/29 pages**
-- transcription through — **PDF23**
+- Batch 1 — **PDF19–23 / 5 pages**
+- Batch 2 — **PDF24–28 / 5 pages**
+- cumulative T1 — **10/29 pages**
+- transcription through — **PDF28 / printed p.28**
 - explicit unresolved readings — **0**
-- historical-glyph first-pass — **through PDF23**
+- historical-glyph first-pass — **through PDF28**
 - T2 — **NOT STARTED**
 - T3 / English — blocked pending earlier gates
 
-Source-sensitive T2 priorities already recorded:
+Source-sensitive T2 priorities include earlier PDF21–23 items plus:
 
-- PDF21 — `திடீரென திடும் திடுமென`
-- PDF22 — `வீணை எண்ணத்தால்`
-- PDF22 — `சிரிப்பாய்கிறார்`
-- PDF23 — `சுதந்திரத் திருவிடத்திலே`
-- PDF23 — `தொழும்பர்களாக`
+- PDF24 — `ஐந்தாறு`, `லட்சோபலட்சமாக`, `குடும்பத்திற் கொருவன்`
+- PDF25 — `அந்தப்பால் மணம்`, `அரைவயிற்றுக்கஞ்சியும்`
+- PDF26 — `விழலுக் கிரைத்த நீராகி`
+- PDF27 — `பார்க்கச் சுவைக்கும்`
+- PDF27 — `சீனாவின்`, retained as a historical-`னா` character-identity case for strict T2 recheck
+- PDF28 — `புதுமைப் பொலிவையும்`
 
-Boundary controls recorded so far include PDF21→22 `ஆழ்ந்திருக்க / கும்` → candidate assembled `ஆழ்ந்திருக்கும்`, and PDF23→24 `உங்களிடையே / இருக்கலாம்.`.
+Boundary controls recorded through Batch 2 include:
+
+- PDF21→22 — `ஆழ்ந்திருக்க / கும்` → candidate `ஆழ்ந்திருக்கும்`
+- PDF23→24 — `உங்களிடையே / இருக்கலாம்.`
+- PDF24→25 — `வேண்டுமென்ற / கடமை...`
+- PDF26→27 — `அத்தகைய / விவேகிகள்...`
+- PDF27→28 — `காத்துக் கொண் / டிருக்கவில்லை!` → candidate `காத்துக் கொண்டிருக்கவில்லை!`
+- PDF28→29 — `நாம் நடத்தியப் / போராட்டங்களும்...` semantic continuation
 
 ## Tamil source rule
 
@@ -47,8 +56,8 @@ Rendered scan pixels are authoritative. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 
 ## Exact next activity
 
-Continue **Tamil T1 first-pass transcription from PDF24 onward** in a manageable page batch.
+Continue **Tamil T1 first-pass transcription from PDF29 onward** in a manageable page batch.
 
-Keep explicit PDF/printed-page mapping, inspect cross-page boundaries, record uncertainty rather than guessing, and update `transcription-ta.md`, `audit.md`, `README.md`, `metadata.json`, `HANDOVER.md` and parent/root controls to the new T1 checkpoint.
+Keep explicit PDF/printed-page mapping, inspect cross-page boundaries, record uncertainty rather than guessing, and synchronize `transcription-ta.md`, `audit.md`, `README.md`, `metadata.json`, `HANDOVER.md` and parent/root controls to the new T1 checkpoint.
 
 Do **not** begin T2, T3 or English until the complete PDF19–47 T1 body exists.
