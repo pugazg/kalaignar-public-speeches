@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batch 1 PDF19–23 COMPLETE / PASS — 7 corrections/actions — 5/29 pages checked**; 1 source-obscured reading retained overall
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–2 PDF19–28 COMPLETE / PASS — 12 cumulative corrections/actions — 10/29 pages checked**; 1 source-obscured reading retained overall
 
 ## T1 method
 
@@ -386,8 +386,70 @@ PDF19–23 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`,
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 Batch 2 — PDF24–28 / printed pp.24–28
+
+**Status: COMPLETE / PASS — 5/5 pages checked.**
+
+### Source-supported corrections/actions — 5
+
+| PDF | T1 / pre-T2 reading | T2 source-backed reading |
+|---:|---|---|
+| 24 | `கணவன்—பின் உடன்பிறந்த` | `கணவன் - பின் உடன்பிறந்த` |
+| 24 | `ஒரே செல்வத் திருமகன்—பன்னிரெண்டு` | `ஒரே செல்வத் திருமகன் - பன்னிரெண்டு` |
+| 25 | `ரஷிய நாட்டின்` | `ரஷ்ய நாட்டின்` |
+| 27 | `சீனாவின் தூதுவராக அனுப்பிவிடலாம்` | `சீனாவின் தூதுவராக அனுப்பி விடலாம்` |
+| 28 | `மும்முனைப் போராட்டங்கள் நடத்தி வெற்றி வாகை` | `மும்முனைப் போராட்டங்களை நடத்தி வெற்றி வாகை` |
+
+All five corrections/actions have been applied to `transcription-ta.md`.
+
+### T1 source-sensitive priorities rechecked
+
+The recorded unusual readings were visually confirmed and retained unchanged:
+
+- PDF24 — `ஐந்தாறு` — **PASS**
+- PDF24 — `லட்சோபலட்சமாக` — **PASS**
+- PDF24 — `குடும்பத்திற் கொருவன்` — **PASS**
+- PDF25 — `அந்தப்பால் மணம்` — **PASS**
+- PDF25 — `அரைவயிற்றுக்கஞ்சியும்` — **PASS**
+- PDF26 — `விழலுக் கிரைத்த நீராகி` — **PASS**
+- PDF27 — `பார்க்கச் சுவைக்கும்` — **PASS**
+- PDF27 — historical-`னா` identity in `சீனாவின்` — **PASS**
+- PDF28 — `புதுமைப் பொலிவையும்` — **PASS**
+
+No lexical modernization was introduced.
+
+### Historical-glyph strict review
+
+PDF24–28 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, including the required historical-glyph family.
+
+- historical character identity — **PASS**
+- additional glyph-identity corrections — **0**
+- global replacements — **0**
+
+### Batch 2 page-boundary controls
+
+- PDF23→24 — `உங்களிடையே / இருக்கலாம்.` — **PASS**
+- PDF24→25 — `வேண்டுமென்ற / கடமை...` — **PASS**
+- PDF25→26 — no split word; PDF25 ends `வருங்கால வாழ்வுக்குடையோரே!`, PDF26 begins `உங்களையும்...` — **PASS**
+- PDF26→27 — `அத்தகைய / விவேகிகள்...` — **PASS**
+- PDF27→28 — `காத்துக் கொண் / டிருக்கவில்லை!` — **PASS**; assembled reading `காத்துக் கொண்டிருக்கவில்லை!`
+- PDF28→29 — `நாம் நடத்தியப் / போராட்டங்களும்...` — **PASS**; adjoining PDF29 checked only for the boundary
+
+### T2 cumulative state after Batch 2
+
+- pages checked — **10/29**
+- through — **PDF28 / printed p.28**
+- batches complete — **2**
+- cumulative T2 corrections/actions — **12**
+- unresolved findings within audited pages — **0**
+- source-obscured reading elsewhere in transcript — **1 (PDF40), not altered**
+- Tamil T2 — **IN PROGRESS**
+- Tamil T3 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 2 PDF24–28 / printed pp.24–28 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 3 PDF29–33 / printed pp.29–33 / 5 pages**.
 
 Recheck every line against rendered scan pixels, revisit the recorded source-sensitive forms and page-boundary controls, and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
