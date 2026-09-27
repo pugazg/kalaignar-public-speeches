@@ -21,34 +21,33 @@ Constituent 1 — `speeches/mullaik-kollai/` — is **FINAL CLOSED / RELEASE REA
 
 ## Tamil T1 durable checkpoint
 
-Batches 1–2 are complete:
+Batches 1–3 are complete:
 
 - Batch 1 — **PDF19–23 / 5 pages**
 - Batch 2 — **PDF24–28 / 5 pages**
-- cumulative T1 — **10/29 pages**
-- transcription through — **PDF28 / printed p.28**
+- Batch 3 — **PDF29–33 / 5 pages**
+- cumulative T1 — **15/29 pages**
+- transcription through — **PDF33 / printed p.33**
 - explicit unresolved readings — **0**
-- historical-glyph first-pass — **through PDF28**
+- historical-glyph first-pass — **through PDF33**
 - T2 — **NOT STARTED**
 - T3 / English — blocked pending earlier gates
 
-Source-sensitive T2 priorities include earlier PDF21–23 items plus:
+Batch 3 source-sensitive T2 priorities include:
 
-- PDF24 — `ஐந்தாறு`, `லட்சோபலட்சமாக`, `குடும்பத்திற் கொருவன்`
-- PDF25 — `அந்தப்பால் மணம்`, `அரைவயிற்றுக்கஞ்சியும்`
-- PDF26 — `விழலுக் கிரைத்த நீராகி`
-- PDF27 — `பார்க்கச் சுவைக்கும்`
-- PDF27 — `சீனாவின்`, retained as a historical-`னா` character-identity case for strict T2 recheck
-- PDF28 — `புதுமைப் பொலிவையும்`
+- PDF29 — `ஒண்ட வந்த`, `நாப்பகன்றார்`, historical-`ணா` `அண்ணா`
+- PDF30 — `போர்ப்பரணி பாடினர்கள்`, `அதைக் கண்டிக்கு முகத்தான்`, historical-`ளை` `ரயில்களை`, `பஜகோவிந்தப் பூமான்களின்`
+- PDF31 — `கடினமானக் காரியமில்லை`, `ஐயாயிரவரை`, `ஆச்சாரியார் ஆட்சிபீடம்.`
+- PDF32 — `தரும போன்றவர்கள்`, `அப்பீல்காரணமாக`, `நமதியக்கம்`
+- PDF33 — `நாவடக்கமின்றிப்`, `வாதத்திற்கு`, `சட்டத்தினின்றும்`
 
-Boundary controls recorded through Batch 2 include:
+Boundary controls now extend through:
 
-- PDF21→22 — `ஆழ்ந்திருக்க / கும்` → candidate `ஆழ்ந்திருக்கும்`
-- PDF23→24 — `உங்களிடையே / இருக்கலாம்.`
-- PDF24→25 — `வேண்டுமென்ற / கடமை...`
-- PDF26→27 — `அத்தகைய / விவேகிகள்...`
-- PDF27→28 — `காத்துக் கொண் / டிருக்கவில்லை!` → candidate `காத்துக் கொண்டிருக்கவில்லை!`
-- PDF28→29 — `நாம் நடத்தியப் / போராட்டங்களும்...` semantic continuation
+- PDF29→30 — `எ. எல். சி. கிருஷ்ணசாமி / தலைமையில்...`
+- PDF30→31 — `சிறை பிடித்தார்கள் / நேருவுக்குக் காட்டவேண்டும்...`
+- PDF31→32 — `விளாத்திக்குளம் / சிறைச்சாலையிலே...`
+- PDF32→33 — no split word
+- PDF33→34 — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.`
 
 ## Tamil source rule
 
@@ -56,7 +55,7 @@ Rendered scan pixels are authoritative. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPT
 
 ## Exact next activity
 
-Continue **Tamil T1 first-pass transcription from PDF29 onward** in a manageable page batch.
+Continue **Tamil T1 first-pass transcription from PDF34 onward** in a manageable page batch.
 
 Keep explicit PDF/printed-page mapping, inspect cross-page boundaries, record uncertainty rather than guessing, and synchronize `transcription-ta.md`, `audit.md`, `README.md`, `metadata.json`, `HANDOVER.md` and parent/root controls to the new T1 checkpoint.
 
