@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29 drafted**; 1 source-obscured T1 reading retained; Tamil T2 **NEXT / NOT STARTED**
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batch 1 PDF19–23 COMPLETE / PASS — 7 corrections/actions — 5/29 pages checked**; 1 source-obscured reading retained overall
 
 ## T1 method
 
@@ -327,8 +327,67 @@ Character identity was decoded into modern Unicode without lexical modernization
 
 The sole PDF40 obscured reading remains a source-limit marker and must not be contextually completed during T2 unless the same-edition image itself supports a reading.
 
+## Tamil T2 Batch 1 — PDF19–23 / printed pp.19–23
+
+**Status: COMPLETE / PASS — 5/5 pages checked.**
+
+### Source-supported corrections/actions — 7
+
+| PDF | T1 reading | T2 source-backed reading |
+|---:|---|---|
+| 19 | `தெரிவித்துக் கொள்ளுகிறேன்.` | `தெரிவித்துக் கொள்கிறேன்.` |
+| 20 | `நிகழ்ச்சிகள் நடைபெற்ற வேளையிலே` | `நிகழ்ச்சிகள் நடை பெற்ற வேளையிலே` |
+| 21 | `அடிப்படைக் காரணங்கள்தானென்ன?` | `அடிப்படைக் காரணங்கள் தானென்ன?` |
+| 21 | `கடுமையான கேள்வியல்ல. புரியாத புதிருமல்ல!` | `கடுமையான கேள்வியல்ல, புரியாத புதிருமல்ல!` |
+| 21 | `பாகிஸ்தான் என்ன சொல்கிறது?` | `பாகிஸ்தான் என்ன சொல்லுகிறது?` |
+| 22 | `லட்சியத்தைக் காப்பாற்ற. அண்ணாவின்` | `லட்சியத்தைக் காப்பாற்ற - அண்ணாவின்` |
+| 23 | `உலவுகிறோம். ஏன் இந்த நிலை?` | `உலவுகிறோம், ஏன் இந்த நிலை?` |
+
+All seven corrections/actions have been applied to `transcription-ta.md`.
+
+### T1 source-sensitive priorities rechecked
+
+The following unusual first-pass readings were visually confirmed and retained unchanged:
+
+- PDF21 — `திடீரென திடும் திடுமென` — **PASS**
+- PDF22 — `வீணை எண்ணத்தால்` — **PASS**
+- PDF22 — `சிரிப்பாய்கிறார்` — **PASS**
+- PDF23 — `சுதந்திரத் திருவிடத்திலே` — **PASS**
+- PDF23 — `தொழும்பர்களாக` — **PASS**
+
+No lexical modernization was introduced.
+
+### Historical-glyph strict review
+
+PDF19–23 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, including the required historical-glyph family.
+
+- historical character identity — **PASS**
+- additional glyph-identity corrections — **0**
+- global replacements — **0**
+
+### Batch 1 page-boundary controls
+
+- PDF19→20 — sentence continues from `பெட்ரோமாக்ஸ் விளக்கொன்று` to `திடீரென்று...` — **PASS**
+- PDF20→21 — no split word; PDF20 ends `கேரளகீதம் கேட்டார்!`, PDF21 begins `திருப்தி கொண்டார்!` — **PASS**
+- PDF21→22 — `ஆழ்ந்திருக்க / கும்` — **PASS**; assembled reading `ஆழ்ந்திருக்கும்`
+- PDF22→23 — `ஆகவே / உணர்ச்சியோடும்...` — **PASS**
+- PDF23→24 — `உங்களிடையே / இருக்கலாம்.` — **PASS**; adjoining PDF24 checked only for the boundary
+
+### T2 cumulative state after Batch 1
+
+- pages checked — **5/29**
+- through — **PDF23 / printed p.23**
+- batches complete — **1**
+- T2 corrections/actions — **7**
+- unresolved findings within audited pages — **0**
+- source-obscured reading elsewhere in transcript — **1 (PDF40), not altered**
+- Tamil T2 — **IN PROGRESS**
+- Tamil T3 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Begin **Tamil T2 strict visual audit — Batch 1 PDF19–23 / printed pp.19–23 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 2 PDF24–28 / printed pp.24–28 / 5 pages**.
 
-Recheck every line against rendered scan pixels, apply source-supported corrections only, inspect historical glyph identities and recorded page-boundary controls, and keep the PDF40 source-obscured marker unresolved unless the same-edition image resolves it. Do **not** begin T3 or English in the same activity.
+Recheck every line against rendered scan pixels, revisit the recorded source-sensitive forms and page-boundary controls, and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
