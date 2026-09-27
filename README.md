@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes; E3 NEXT; 2 documented source-damage uncertainties retained; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English `verified-complete` — E2 15 corrections + E3 3 additional / 0 unresolved / 0 Tamil changes; CLOSURE NEXT; 2 documented source-damage uncertainties retained; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -599,7 +599,7 @@ No routine transcription, translation, review, verification or release-readiness
 - source-gated — **5/5**
 - Tamil T1 complete — **1/5**
 - Tamil verified — **1/5**
-- English verified — **0/5**
+- English verified — **1/5**
 - fully archived — **0/5**
 - supplementary author text — **PDF69–70 — ‘முரசொலி’ துப்பாக்கி** / mapped separately
 - PDF71–79 — rights/review/correspondence/provenance back matter
@@ -613,11 +613,13 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent Tamil T3 — **COMPLETE / PASS — 40/40 corrections reconciled / 0 additional source corrections / 0 repairs**
 - active constituent Tamil — **`verified-complete` / FROZEN**
 - active constituent source-limited uncertainties — **2**
-- active constituent English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12**
-- active constituent English E2 — **COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes**
-- active constituent translator/source notes after E2 — **8**
-- active constituent English E3 — **NOT STARTED**
+- active constituent English E1 — **COMPLETE — PDF7–18 / 12/12**
+- active constituent English E2 — **COMPLETE / PASS — 15 corrections / 0 unresolved**
+- active constituent English E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved / 0 Tamil changes**
+- active constituent translator/source notes — **8/8 retained**
+- active constituent English — **`verified-complete`**
+- active constituent repository closure — **NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 1 **English E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**, verifying all 15 E2 corrections and 8 translator/source notes with 0 Tamil changes.
+Exact next gate: constituent 1 **repository archival closure — முல்லைக் கொல்லை**, verifying final file/control consistency and release readiness without reopening frozen Tamil or verified English.
 

@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes; E3 NEXT; 2 documented source-damage uncertainties retained — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English `verified-complete` — E2 15 corrections + E3 3 additional / 0 unresolved / 0 Tamil changes; CLOSURE NEXT; 2 documented source-damage uncertainties retained — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -73,7 +73,7 @@ See `DUPLICATE_AUDIT.md`.
 - supplementary/back-matter mapping — **COMPLETE**
 - Tamil T1 complete — **1/5**
 - Tamil verified — **1/5**
-- English verified — **0/5**
+- English verified — **1/5**
 - fully archived — **0/5**
 - active constituent — **1/5 — முல்லைக் கொல்லை**
 - active range — **PDF7–18 / printed pp.7–18 / 12 pages**
@@ -82,15 +82,17 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T3 — **COMPLETE / PASS — 40/40 corrections reconciled / 0 additional source corrections / 0 repairs**
 - active Tamil — **`verified-complete` / FROZEN**
 - active source-limited uncertainties — **2**
-- active English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12**
-- active English E2 — **COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes**
-- active translator/source notes after E2 — **8**
-- active English E3 — **NOT STARTED**
+- active English E1 — **COMPLETE — PDF7–18 / 12/12**
+- active English E2 — **COMPLETE / PASS — 15 corrections / 0 unresolved**
+- active English E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved / 0 Tamil changes**
+- active translator/source notes — **8/8 retained**
+- active English — **`verified-complete`**
+- active repository closure — **NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 1 — **முல்லைக் கொல்லை** — English **E3 final end-to-end verification: PDF7–18 / printed pp.7–18 / 12 pages**.
+Constituent 1 — **முல்லைக் கொல்லை** — **repository archival closure**.
 
-Verify the complete post-E2 English against frozen Tamil, including all 15 E2 corrections and 8 translator/source notes. Introduce no Tamil changes. Do not perform repository closure in the same step.
+Verify final file completeness, frozen Tamil, verified English, both source-limit annotations, metadata/control synchronization and release readiness. Do not reopen Tamil or English for stylistic polishing.
