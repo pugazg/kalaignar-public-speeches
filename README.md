@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batch 1 PDF19–23 COMPLETE / PASS — 7 corrections/actions — 5/29 checked; 1 source-obscured reading retained overall; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–2 PDF19–28 COMPLETE / PASS — 12 cumulative corrections/actions — 10/29 checked; 1 source-obscured reading retained overall; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -614,10 +614,11 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent Tamil T1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 / 1 source-obscured reading retained**
 - active historical-glyph first-pass — **through PDF47**
 - active outgoing boundary — **PDF47→48 PASS / PDF48 begins `நம் மேடை`**
-- active constituent Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions / 0 unresolved in audited pages**
-- active constituent Tamil T2 cumulative — **5/29 pages checked**
+- active constituent Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
+- active constituent Tamil T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions**
+- active constituent Tamil T2 cumulative — **10/29 pages checked / 12 corrections/actions / 0 unresolved in audited pages**
 - active constituent Tamil T2 — **IN PROGRESS**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — Tamil T2 strict visual audit Batch 2 PDF24–28 / 5 pages**, applying source-supported corrections only; do not begin T3 or English in the same activity.
+Exact next gate: constituent 2 **அத்தை மகள் — Tamil T2 strict visual audit Batch 3 PDF29–33 / 5 pages**, applying source-supported corrections only; do not begin T3 or English in the same activity.
 
