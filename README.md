@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T1 IN PROGRESS — PDF19–43 / 25/29 drafted; 1 source-obscured reading; final PDF44–47 next; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T1 FIRST-PASS COMPLETE — PDF19–47 / 29/29; 1 source-obscured reading retained; Tamil T2 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -597,7 +597,7 @@ No routine transcription, translation, review, verification or release-readiness
 - main source-listed texts — **5**
 - main-text coverage — **PDF7–67 / 61 pages**
 - source-gated — **5/5**
-- Tamil T1 complete — **1/5**
+- Tamil T1 complete — **2/5**
 - Tamil verified — **1/5**
 - English verified — **1/5**
 - fully archived — **1/5**
@@ -611,10 +611,11 @@ No routine transcription, translation, review, verification or release-readiness
 - constituent 1 source-limit annotations — **2 retained**
 - active constituent — **2 / 5 — அத்தை மகள்**
 - active range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- active constituent Tamil T1 — **IN PROGRESS — Batches 1–5 PDF19–43 / 25/29 drafted / 1 source-obscured reading**
-- active historical-glyph first-pass — **through PDF43**
-- active constituent Tamil T2 — **NOT STARTED**
+- active constituent Tamil T1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 / 1 source-obscured reading retained**
+- active historical-glyph first-pass — **through PDF47**
+- active outgoing boundary — **PDF47→48 PASS / PDF48 begins `நம் மேடை`**
+- active constituent Tamil T2 — **NEXT / NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — complete Tamil T1 with final PDF44–47 / 4 pages**, preserving the PDF40 source-obscured marker; do not begin T2 in the same activity.
+Exact next gate: constituent 2 **அத்தை மகள் — Tamil T2 strict visual audit Batch 1 PDF19–23 / 5 pages**, applying source-supported corrections only; do not begin T3 or English in the same activity.
 
