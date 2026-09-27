@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 COMPLETE / PASS — PDF19–47 / 29/29 checked — 44 cumulative corrections/actions; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; Tamil T3 NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN — T3 COMPLETE / PASS — 44/44 corrections reconciled; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; English E1 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -72,7 +72,7 @@ See `DUPLICATE_AUDIT.md`.
 - main-text boundary mapping — **COMPLETE / 5/5**
 - supplementary/back-matter mapping — **COMPLETE**
 - Tamil T1 complete — **2/5**
-- Tamil verified — **1/5**
+- Tamil verified — **2/5**
 - English verified — **1/5**
 - fully archived — **1/5**
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
@@ -92,10 +92,12 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
 - active Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
 - active Tamil T2 — **COMPLETE / PASS**
-- active Tamil T3 — **NEXT / NOT STARTED**
+- active Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional corrections / 0 repairs**
+- active Tamil — **`verified-complete` / FROZEN**
+- active English E1 — **NEXT / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to **Tamil T3 consolidation / freeze — PDF19–47 / printed pp.19–47 / 29 pages**. Reconcile all 44 T2 corrections/actions, retain the PDF40 source-limited uncertainty, and freeze only with 0 actionable unresolved. Do not begin English in the same activity.
+Constituent 2 — **அத்தை மகள்** — begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages** from frozen Tamil. Preserve the PDF40 source-limited uncertainty transparently; do not begin E2/E3 in the same activity.
