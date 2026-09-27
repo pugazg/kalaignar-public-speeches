@@ -31,7 +31,8 @@ Archive: `speeches/aththai-magal/`
 - T1 — **FIRST-PASS COMPLETE**
 - T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
 - T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions**
-- T2 cumulative — **10/29 pages checked / 12 corrections/actions / 0 unresolved in audited pages**
+- T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
+- T2 cumulative — **15/29 pages checked / 16 corrections/actions / 0 unresolved in audited pages**
 - T2 — **IN PROGRESS**
 - T3 — blocked
 - English — blocked pending Tamil freeze
@@ -84,14 +85,21 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 - coverage — **PDF24–28 / 5/5**
 - corrections/actions — **5**
 - cumulative corrections/actions — **12**
+- status — **COMPLETE / PASS**
+
+### Batch 3
+
+- coverage — **PDF29–33 / 5/5**
+- corrections/actions — **4**
+- cumulative corrections/actions — **16**
 - unresolved within audited pages — **0**
 - historical-glyph strict review — **PASS / 0 additional glyph corrections**
-- boundary controls PDF23→29 — **6/6 PASS**
+- boundary controls PDF28→34 — **6/6 PASS**
 - PDF40 source-obscured marker — **retained / untouched**
 - status — **COMPLETE / PASS**
 
 ## Exact next activity
 
-Proceed to **Tamil T2 strict visual audit — Batch 3 PDF29–33 / printed pp.29–33 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**.
 
 Recheck every line against rendered scan pixels, apply only source-supported corrections, and do not begin T3 or English in the same activity.
