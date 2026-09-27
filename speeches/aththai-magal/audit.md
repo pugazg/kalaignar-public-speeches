@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–5 PDF19–43 COMPLETE / PASS — 36 cumulative corrections/actions — 25/29 pages checked**; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **COMPLETE / PASS — 29/29 pages checked — 44 cumulative corrections/actions**; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; Tamil T3 **NEXT / NOT STARTED**
 
 ## T1 method
 
@@ -683,8 +683,80 @@ PDF39–43 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`,
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 Batch 6 FINAL — PDF44–47 / printed pp.44–47
+
+**Status: COMPLETE / PASS — 4/4 pages checked.**
+
+### Source-supported corrections/actions — 8
+
+| PDF | T1 / pre-T2 reading | T2 source-backed reading |
+|---:|---|---|
+| 44 | `பிரஞ்சத் திட்டுகளிலிருந்து` | `பிரஞ்சுத் திட்டுகளிலிருந்து` |
+| 44 | `புதுபலத்தோடு` | `புது பலத்தோடு` |
+| 44 | `சிந்தித்துப் பார்!’’ என்று!` | `சிந்தித்துப் பார்’’ என்று!` |
+| 44 | `அதே தலையங்கம்தான் இன்னும் சொல்கிறது.` | `அதே தலையங்கம்தான் இன்னும் சொல்லுகிறது.` |
+| 45 | `கேட்கமாட்டோம். அரசியல்` | `கேட்கமாட்டோம், அரசியல்` |
+| 45 | `அப்படி ஏதாவது பாலும்தேனும்` | `அப்படி எதாவது பாலும்தேனும்` |
+| 45 | `நாங்கள் சொல்லுகிறோம். எமது` | `நாங்கள் சொல்லுகிறோம், எமது` |
+| 45 | `மாறும் என்று.` | `மாறும் என்று,` |
+
+All eight corrections/actions have been applied to `transcription-ta.md`.
+
+### Final-batch source-sensitive priorities rechecked
+
+The following recorded forms were visually rechecked and retained unchanged except where explicitly corrected above:
+
+- PDF44 — `ஆசியதினம்` — **PASS**
+- PDF44 — `நடைபாதைவாசிக்கும்` — **PASS**
+- PDF45 — `பாலும்தேனும்` — **PASS**
+- PDF45 — `போர் பரணியின்` — **PASS**
+- PDF45 — `டெலஸ்கோப்` — **PASS**
+- PDF45 — `வரளக்` — **PASS**
+- PDF46 — `இழித்துரையே` — **PASS**
+- PDF46 — `எடுத்துப்பார்` — **PASS**
+- PDF46 — `தலைவர்தானு` — **PASS**
+- PDF46 — `எச்சக்களை` — **PASS**
+- PDF47 — `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!` — **PASS**
+
+No lexical modernization was introduced.
+
+### Historical-glyph strict review
+
+PDF44–47 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, including the required historical-glyph family.
+
+- historical character identity — **PASS**
+- additional glyph-identity corrections — **0**
+- global replacements — **0**
+
+### Final Batch 6 boundary controls
+
+- PDF43→44 — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` — **PASS**
+- PDF44→45 — `இங் / குள்ள` — **PASS**; assembled reading `இங்குள்ள`
+- PDF45→46 — no split word — **PASS**
+- PDF46→47 — no split word — **PASS**
+- PDF47→48 — **CONSTITUENT BOUNDARY PASS**; PDF47 ends `பூரிப்படைவோம்!`, PDF48 begins the distinct heading **`நம் மேடை`**
+
+### Tamil T2 final state
+
+- pages checked — **29/29**
+- through — **PDF47 / printed p.47**
+- batches complete — **6**
+- cumulative T2 corrections/actions — **44**
+- source-limited unresolved — **1 (PDF40)**
+- actionable unresolved — **0**
+- historical-glyph strict review — **COMPLETE / PASS through PDF47**
+- all recorded page/constituent boundaries — **PASS**
+- Tamil T2 — **COMPLETE / PASS**
+- Tamil T3 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
+The PDF40 obscured phrase remains a documented source limitation. Its hidden opening letters cannot be reconstructed from the same-edition pixels and must not be supplied from context.
+
 ## Next gate
 
-Proceed to the **final Tamil T2 strict visual audit — Batch 6 PDF44–47 / printed pp.44–47 / 4 pages**.
+Proceed to **Tamil T3 consolidation / freeze — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Recheck every line against rendered scan pixels, revisit the recorded source-sensitive forms and PDF44→45 / PDF47→48 boundary controls, and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
+Reconcile all **44** T2 corrections/actions into the canonical transcript, confirm page coverage and boundary continuity, search for stale superseded T1 readings, retain the single PDF40 source-limited uncertainty, and freeze Tamil only if there are **0 actionable unresolved** items.
+
+Do **not** begin English in the same activity.
