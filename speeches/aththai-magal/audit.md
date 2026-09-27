@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–2 PDF19–28 COMPLETE / PASS — 12 cumulative corrections/actions — 10/29 pages checked**; 1 source-obscured reading retained overall
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–3 PDF19–33 COMPLETE / PASS — 16 cumulative corrections/actions — 15/29 pages checked**; 1 source-obscured reading retained overall
 
 ## T1 method
 
@@ -448,8 +448,76 @@ PDF24–28 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`,
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 Batch 3 — PDF29–33 / printed pp.29–33
+
+**Status: COMPLETE / PASS — 5/5 pages checked.**
+
+### Source-supported corrections/actions — 4
+
+| PDF | T1 / pre-T2 reading | T2 source-backed reading |
+|---:|---|---|
+| 29 | `போராட்டம்தான் நேருவை எதிர்த்து` | `போராட்டம் தான் நேருவை எதிர்த்து` |
+| 29 | `சீரும், சிறப்பும்.` | `சீரும். சிறப்பும்.` |
+| 31 | `“நல்லா இருப்பீர்கள், வந்து சேர்ந்தீர்கள்...` | `“நல்லா இருப்பீர்கள். வந்து சேர்ந்தீர்கள்...` |
+| 31 | `இரண்டு மாதம், மூன்று மாதம் என்று அளவிலே` | `இரண்டு மாதம், மூன்று மாதம் என்ற அளவிலே` |
+
+All four corrections/actions have been applied to `transcription-ta.md`.
+
+### T1 source-sensitive priorities rechecked
+
+The recorded unusual readings were visually confirmed and retained unchanged:
+
+- PDF29 — `ஒண்ட வந்த` — **PASS**
+- PDF29 — `நாப்பகன்றார்` — **PASS**
+- PDF29 — historical-`ணா` identity in `அண்ணா` — **PASS**
+- PDF30 — `போர்ப்பரணி பாடினர்கள்` — **PASS**
+- PDF30 — `அதைக் கண்டிக்கு முகத்தான்` — **PASS**
+- PDF30 — historical-`ளை` identity in `ரயில்களை` — **PASS**
+- PDF30 — `பஜகோவிந்தப் பூமான்களின்` — **PASS**
+- PDF31 — `கடினமானக் காரியமில்லை` — **PASS**
+- PDF31 — `ஐயாயிரவரை` — **PASS**
+- PDF31 — `ஆச்சாரியார் ஆட்சிபீடம்.` — **PASS**
+- PDF32 — `தரும போன்றவர்கள்` — **PASS**
+- PDF32 — `அப்பீல்காரணமாக` — **PASS**
+- PDF32 — `நமதியக்கம்` — **PASS**
+- PDF33 — `நாவடக்கமின்றிப்` — **PASS**
+- PDF33 — `வாதத்திற்கு` — **PASS**
+- PDF33 — `சட்டத்தினின்றும்` — **PASS**
+
+No lexical modernization was introduced.
+
+### Historical-glyph strict review
+
+PDF29–33 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, including the required historical-glyph family.
+
+- historical character identity — **PASS**
+- additional glyph-identity corrections — **0**
+- global replacements — **0**
+
+### Batch 3 page-boundary controls
+
+- PDF28→29 — `நாம் நடத்தியப் / போராட்டங்களும்...` — **PASS**
+- PDF29→30 — `எ. எல். சி. கிருஷ்ணசாமி / தலைமையில்...` — **PASS**
+- PDF30→31 — `சிறை பிடித்தார்கள் / நேருவுக்குக் காட்டவேண்டும்...` — **PASS**
+- PDF31→32 — `விளாத்திக்குளம் / சிறைச்சாலையிலே...` — **PASS**
+- PDF32→33 — no split word — **PASS**
+- PDF33→34 — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.` — **PASS**; adjoining PDF34 checked only for the boundary
+
+### T2 cumulative state after Batch 3
+
+- pages checked — **15/29**
+- through — **PDF33 / printed p.33**
+- batches complete — **3**
+- cumulative T2 corrections/actions — **16**
+- unresolved findings within audited pages — **0**
+- source-obscured reading elsewhere in transcript — **1 (PDF40), not altered**
+- Tamil T2 — **IN PROGRESS**
+- Tamil T3 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 3 PDF29–33 / printed pp.29–33 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**.
 
 Recheck every line against rendered scan pixels, revisit the recorded source-sensitive forms and page-boundary controls, and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
