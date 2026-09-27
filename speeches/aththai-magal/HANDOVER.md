@@ -37,8 +37,9 @@ Archive: `speeches/aththai-magal/`
 - T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
 - T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
 - T2 — **COMPLETE / PASS**
-- T3 — **NEXT / NOT STARTED**
-- English — blocked pending Tamil freeze
+- T3 — **COMPLETE / PASS — 44/44 T2 corrections/actions reconciled**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **NEXT / NOT STARTED**
 
 Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 6 adds PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`.
 
@@ -122,8 +123,23 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 - boundary controls PDF43→48 — **5/5 PASS**, including PDF47→48 constituent boundary
 - status — **COMPLETE / PASS**
 
+## Tamil T3 durable checkpoint
+
+- coverage — **PDF19–47 / printed pp.19–47 / 29/29**
+- T2 corrections/actions reconciled — **44/44 PASS**
+- stale superseded T1 readings — **none found**
+- page/constituent boundary controls — **29/29 PASS**
+- explicit source-limited uncertainty markers — **1/1 retained (PDF40)**
+- actionable unresolved — **0**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- Tamil speech-body wording changed during T3 — **No**
+- Tamil — **`verified-complete` / FROZEN**
+
+Any later Tamil change requires documented source evidence and dependent English re-verification.
+
 ## Exact next activity
 
-Proceed to **Tamil T3 consolidation / freeze — PDF19–47 / printed pp.19–47 / 29 pages**.
+Begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages** from the frozen `transcription-ta.md`.
 
-Reconcile all 44 T2 corrections/actions into the canonical transcript, verify page coverage and boundary continuity, retain the PDF40 source-limited uncertainty, and freeze Tamil only if actionable unresolved remains 0. Do not begin English in the same activity.
+Carry the PDF40 source-limited uncertainty transparently and do not infer hidden Tamil letters. Do not begin E2/E3 in the same activity.
