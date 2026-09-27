@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil **`verified-complete` / FROZEN**; English **`verified-complete`** — E1 COMPLETE, E2 COMPLETE / PASS with 15 corrections / 0 unresolved, E3 COMPLETE / PASS with 3 additional corrections / 0 unresolved; **0 Tamil changes**; repository closure NEXT  
+**Current gate:** **PASS / FINAL CLOSED / RELEASE READY** — Tamil and English `verified-complete`; repository closure COMPLETE / PASS; 2 documented source-limit uncertainties retained  
 **T1 explicit unresolved readings:** **2**  
 **Current explicit source-limited uncertainties after T3:** **2** — PDF8 and PDF9 physical-damage items only
 
@@ -402,8 +402,18 @@ E3 removed one unsupported grammatical inference around the damaged PDF9 clause 
 
 A complete post-correction sweep found no further English fidelity issues. Political labels, religious polemic and historical claims remain represented as source rhetoric rather than independently validated assertions.
 
-## Next gate
+## Repository archival closure — COMPLETE / PASS
 
-Proceed to **repository archival closure for constituent 1 — முல்லைக் கொல்லை**.
+- final constituent file set — **PASS**
+- source identity / SHA / boundaries — **PASS**
+- Tamil — **`verified-complete` / FROZEN**
+- English — **`verified-complete`**
+- Tamil actionable unresolved — **0**
+- documented source-limit uncertainties — **2 / retained**
+- English unresolved — **0**
+- translator/source notes — **8/8 retained**
+- Tamil/English body changes during closure — **0**
+- release readiness — **PASS**
+- final report — `FINAL_CLOSURE.md`
 
-Closure should verify the frozen Tamil, verified English, the two source-limit annotations, metadata/control synchronization, final file set, and release-readiness state. Do not reopen Tamil or English for stylistic polishing.
+This constituent is **FINAL CLOSED / RELEASE READY**. No routine gate remains.
