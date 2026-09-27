@@ -1,10 +1,10 @@
 # புராணப் போதை! — English Translation
 
-> **Status:** English E2 fidelity review COMPLETE / PASS — PDF80–101 / printed pp.79–100 / 22/22 pages; 14 corrections / 0 unresolved / 0 Tamil changes; E3 READY / NOT STARTED  
+> **Status:** English E2 fidelity review COMPLETE / PASS — PDF80–101 / printed pp.79–100 / 22/22 pages; 15 corrections / 0 unresolved / 0 Tamil changes; E3 READY / NOT STARTED  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, page sequence, quoted speech, historical/source-sensitive wording and unusual constructions. Political and religious claims, labels and criticism below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **E1 scope:** PDF80–101 / printed pp.79–100 / 22 pages — FIRST-PASS COMPLETE.  
-> **E2:** COMPLETE / PASS — 14 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
+> **E2:** COMPLETE / PASS — 15 corrections / 0 unresolved / 0 Tamil changes. E3 has not started.  
 > **Speech date / venue:** No constituent-specific date or venue is established by the source.
 
 ## Speech body
@@ -13,7 +13,7 @@
 
 #### Puranic Intoxication!
 
-While passing time by telling people to keep singing bhajans and *Bhaja Govindam*, Achariyar, the Chief Minister who came to rule the country, abolished the rationing system, placing the burden on Bhagavan! We have seen what benefit, what use, came of that.
+While passing time by telling people to keep singing bhajans and *Bhaja Govindam*, Achariyar, the Chief Minister ruling the country, abolished the rationing system, placing the burden on Bhagavan! We have seen what benefit, what use, came of that.
 
 At one time he says, ‘Rationing is being abolished; Bhagavan said so, and I have abolished it.’
 
