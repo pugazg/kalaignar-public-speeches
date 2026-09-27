@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 Tamil T1 COMPLETE / T2 READY / 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 Tamil T2 IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 3 explicit unresolved overall — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -77,13 +77,14 @@ See `DUPLICATE_AUDIT.md`.
 - fully archived — **0/5**
 - active constituent — **1/5 — முல்லைக் கொல்லை**
 - active range — **PDF7–18 / printed pp.7–18 / 12 pages**
-- active Tamil T1 — **FIRST-PASS COMPLETE — 12/12 / 2 explicit unresolved**
-- active Tamil T2 — **READY / NOT STARTED**
+- active Tamil T1 — **FIRST-PASS COMPLETE — 12/12**
+- active Tamil T2 — **IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 2 unresolved in audited pages**
+- active explicit unresolved overall — **3**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 1 — **முல்லைக் கொல்லை** — Tamil **T2 strict visual fidelity audit, Batch 1: PDF7–11 / printed pp.7–11 / 5 pages**.
+Constituent 1 — **முல்லைக் கொல்லை** — Tamil **T2 strict visual fidelity audit, Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
 
-T1 is complete 12/12 with 2 explicit unresolved readings. Use the rendered scan as authority and apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page. Do not begin T3 or English in the same step.
+Batch 1 is complete with 19 corrections. Three explicit unresolved readings remain overall, including the PDF12 item to be handled in Batch 2. Use the rendered scan as authority and apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page. Do not begin the final T2 batch, T3 or English in the same step.
