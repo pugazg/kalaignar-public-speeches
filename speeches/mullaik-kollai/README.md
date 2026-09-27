@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E2 15 corrections + E3 3 additional corrections / 0 unresolved / 0 Tamil changes; repository closure NEXT — 2 source-damage uncertainties retained**
+**Status: PASS / FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; 2 documented source-limit uncertainties retained**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -54,14 +54,15 @@ These two annotations are source-limit records, not a pending visual-audit gate.
 - frozen source-damage uncertainties retained — **2/2**
 - translator/source notes — **8/8 retained**
 - English — **`verified-complete`**
-- repository closure — **NOT STARTED**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
 - English translation — `translation-en.md`
 - English review — `translation-review.md`
 
 English is now verified against the frozen Tamil. Political labels, religious polemic and historical claims are represented as source rhetoric rather than independently validated assertions.
 
-## Next gate
+Final report: `FINAL_CLOSURE.md`.
 
-**Repository archival closure — constituent 1 / முல்லைக் கொல்லை.**
+No routine work remains for this constituent. The two physical source-damage annotations remain part of the frozen witness and are not closure blockers because no surviving pixels support a reconstruction.
 
-Verify final file completeness, Tamil/English state, source-limit annotations, metadata/control consistency and release readiness. Do not reopen frozen Tamil or verified English for stylistic polishing.
+Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.
