@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil **VERIFIED-COMPLETE / FROZEN** — T1 COMPLETE; T2 COMPLETE / PASS — 29/29 pages / 44 corrections/actions; T3 **COMPLETE / PASS — 44/44 reconciled**; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; English E1 **NEXT / NOT STARTED**
+**Current gate:** Tamil **VERIFIED-COMPLETE / FROZEN**; English E1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages**; frozen Tamil changes **0**; 1 source-limited uncertainty carried; English E2 **NEXT / NOT STARTED**
 
 ## T1 method
 
@@ -818,8 +818,46 @@ Tamil is now **`verified-complete` / FROZEN** for PDF19–47 / printed pp.19–4
 
 Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, modernization, contextual reconstruction and translation-driven rewriting are not grounds to reopen this frozen Tamil layer.
 
+## English E1 first-pass translation — COMPLETE
+
+| Check | Result |
+|---|---|
+| English E1 coverage | **PDF19–47 / 29/29, each exactly once and ordered** |
+| Printed-page mapping | **pp.19–47 continuous / PASS** |
+| Translation authority | **frozen `transcription-ta.md` only** |
+| Frozen Tamil changes introduced | **0** |
+| English E1 unresolved | **0** |
+| Frozen source-limited uncertainties carried | **1/1 PASS** |
+| Translator/source notes | **8** |
+| English E1 status | **FIRST-PASS COMPLETE** |
+
+E1 translates the complete frozen Tamil layer page by page. It preserves the source's argument sequence, repetition, rhetorical force, political polemic and source-sensitive wording without treating historical or political claims as independently validated.
+
+### E1 transparency controls
+
+- **PDF23** — frozen `சுதந்திரத் திருவிடத்திலே` is preserved transparently as “free ‘Thiruvidam’” rather than silently normalized to “Dravida.”
+- **PDF30** — unusual frozen `அதைக் கண்டிக்கு முகத்தான்` and `பஜகோவிந்தப் பூமான்களின்` are not silently replaced with conjectured normalized Tamil.
+- **PDF34** — frozen `ஆயாச எதிர் வேலைகள்` is rendered conservatively and explicitly noted.
+- **PDF36** — `வஸ்தாது` is retained visibly as “vastadu”; `கம்பெந்திய` is rendered from its immediate sentence sense without changing frozen Tamil.
+- **PDF38** — anomalous frozen `துருக்கர்களின் கொலையால்` is retained transparently as “at the hands of the ‘Turukkars’” rather than normalized.
+- **PDF40** — the source-limited `…ங்களூருக்கருகிலே` opening remains explicitly uncertain; no hidden letters or place name are reconstructed.
+- **PDF42→43** — frozen `மாலங் / கோவும்` is assembled as `மாலங்கோவும்` and transliterated as “Malangko” rather than silently normalized to a historical name.
+- **PDF46** — frozen `எச்சக்களை` is transliterated as `echchakkal` rather than replaced by a conjectured reading.
+
+### E1 source-limit control
+
+PDF40 is carried in English as:
+
+`[Unclear — a later handwritten/ink mark obscures the opening letters; the surviving frozen Tamil reads `…ங்களூருக்கருகிலே`]`
+
+This is a faithful carry-over of the frozen Tamil source limitation. It is not an English unresolved-fidelity finding and it does not authorize contextual completion.
+
+E1 completion is **not** an English fidelity-review claim. The translation now requires a separate E2 page-by-page comparison against frozen Tamil.
+
 ## Next gate
 
-Begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages**, translating only from the frozen `transcription-ta.md`.
+Proceed to **English E2 fidelity review — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Carry the PDF40 source-limited uncertainty transparently in English and do not infer hidden Tamil letters. Do **not** begin English E2/E3 in the same activity.
+Compare every English page against frozen `transcription-ta.md`; record omissions, additions, reversals, softened/strengthened rhetoric, unsupported inference, name/title issues and source-sensitive normalization in `translation-review.md`; apply confirmed corrections to `translation-en.md`.
+
+Do **not** perform English E3 or repository closure in the same activity.
