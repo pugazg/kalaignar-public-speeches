@@ -1,6 +1,6 @@
 # புராணப் போதை!
 
-**Status: ACTIVE — Tamil T1 COMPLETE / T2 COMPLETE / PASS — 22/22 pages / 4 corrections / 0 unresolved / T3 READY**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN — T1/T2/T3 COMPLETE / English E1 READY**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -21,13 +21,15 @@ Direct source heading on PDF80. PDF102 is publisher/back-catalogue material.
 
 - Tamil T1 — **FIRST-PASS COMPLETE — PDF80–101 / 22/22 pages / 0 explicit unresolved**
 - Tamil T2 strict visual audit — **COMPLETE / PASS — PDF80–101 / 22/22 pages; 4 corrections / 0 unresolved; 11/11 recorded boundaries PASS; PDF102 exclusion PASS**
-- Tamil T3 consolidation / freeze — **READY / NOT STARTED**
-- English — blocked pending Tamil freeze
+- Tamil T3 consolidation / freeze — **COMPLETE / PASS — 4/4 T2 corrections reconciled; 0 additional source corrections / 0 consolidation repairs / 0 unresolved**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
+- English E2/E3 — blocked pending E1
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
 T1 was transcribed from direct rendered source pages; OCR/parsed text was only a locating aid. Page correspondence is explicit for PDF80–101 / printed pp.79–100. PDF102 remains excluded as publisher/back-catalogue material.
 
-**Next gate:** Tamil **T3 consolidation / freeze — PDF80–101 / printed pp.79–100 / all 22 pages**. Reconcile all 4 T2 corrections and freeze only if 0 unresolved. Do not begin English before Tamil is frozen.
+**Next gate:** English **E1 first-pass translation — PDF80–101 / printed pp.79–100 / all 22 pages** from frozen `transcription-ta.md` only. Do not begin E2 or E3 in the same step.
 
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
