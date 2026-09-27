@@ -23,15 +23,17 @@ Archive: `speeches/aththai-magal/`
 - Batch 3 — **PDF29–33 / 5/5 pages COMPLETE**
 - Batch 4 — **PDF34–38 / 5/5 pages COMPLETE**
 - Batch 5 — **PDF39–43 / 5/5 pages COMPLETE**
-- cumulative T1 — **25/29 pages**
-- transcription through — **PDF43 / printed p.43**
+- Batch 6 FINAL — **PDF44–47 / 4/4 pages COMPLETE**
+- cumulative T1 — **29/29 pages**
+- transcription through — **PDF47 / printed p.47**
 - explicit unresolved/source-obscured — **1 (PDF40 `…ங்களூருக்கருகிலே`)**
-- historical-glyph first-pass — **complete through PDF43**
+- historical-glyph first-pass — **complete through PDF47**
+- T1 — **FIRST-PASS COMPLETE**
 - T2 — **NOT STARTED**
 - T3 — blocked
 - English — blocked pending Tamil freeze
 
-Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 5 adds PDF39 `அகோரப் பசிக்கு!`, PDF40 `அழிக்கல்` / `வாழைப்பழடினம்` / one source-obscured `…ங்களூருக்கருகிலே`, PDF41 `சித்தாப்பு`, PDF42 `ஒன்றுக்கலக்கும்` / `மாலங்`, and PDF43 `கோவும்` / `சியாங்கே ஷேக்கை`.
+Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 6 adds PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`.
 
 ## Boundary controls already noted
 
@@ -60,9 +62,13 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 - PDF41→42 — no split word
 - PDF42→43 — `மாலங் / கோவும்` candidate join `மாலங்கோவும்`
 - PDF43→44 — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` semantic continuation
+- PDF44→45 — `இங் / குள்ள` candidate join `இங்குள்ள`
+- PDF45→46 — no split word
+- PDF46→47 — no split word
+- PDF47→48 — constituent boundary PASS; PDF48 begins `நம் மேடை`
 
 ## Exact next activity
 
-Complete **Tamil T1 with final PDF44–47 / 4 pages**, using rendered scan pixels as authority and applying the historical-Tamil glyph guide page by page.
+Begin **Tamil T2 strict visual audit — Batch 1 PDF19–23 / printed pp.19–23 / 5 pages**.
 
-Do not begin T2, T3 or English until T1 covers all PDF19–47.
+Recheck every line against rendered scan pixels, apply only source-supported corrections, and do not begin T3 or English in the same activity.
