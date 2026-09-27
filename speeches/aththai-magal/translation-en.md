@@ -1,6 +1,6 @@
 # அத்தை மகள் — English Translation
 
-> **Status:** English E1 IN PROGRESS — PDF19–38 / printed pp.19–38 / **20/29 pages first-pass translated**; E2 NOT STARTED  
+> **Status:** English E1 FIRST-PASS COMPLETE — PDF19–47 / printed pp.19–47 / **29/29 pages translated**; E2 NEXT / NOT STARTED; frozen Tamil changes **0**; **1 source-limited uncertainty retained**  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Political labels, polemic and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue / event:** Not established by the source; do not infer.
@@ -238,4 +238,100 @@ Next, the rulers took away Thalamuthu and Natarajan. They were thrown into priso
 Next, the great hero Majid, because he had worked for the Labour Party in an election in the Cuddalore region, bore a dagger in his chest! He shed red blood and became a corpse!
 
 > **Translator/source note:** PDF38's frozen Tamil reads `துருக்கர்களின் கொலையால்`. E1 preserves that anomalous source form as “at the hands of the ‘Turukkars’” rather than silently substituting a different word.
+
+### PDF page 39 — printed page 39
+
+Next in the list of concealed great heroes stands Pandian of North Chennai. That dutiful hero, who had gone to the bazaar and entered his home cheerfully, had chilli powder thrown into his eyes and was stabbed to death.
+
+Nor was that all. At Kallakudi we lost Lalgudi Natarajan—the only young man of his family, the son who brought joy to the mother who bore him and who supported the household!
+
+A mother had fixed the wedding day—but her beloved son returned as a corpse—the young man Kesavan! And in Tuticorin we sacrificed four more, writhing in agony!
+
+Not only lives, friends; we gave up limbs too, to the terrible hunger of repression! We gave legs; we gave severed hands. And one more tragedy, comrades: a young man named Sebastian lost his male organ—the pleasure of great happiness that he should have experienced in life was destroyed—and this uncultured regime turned the life of that nineteen-year-old youth into a desert.
+
+The young man withers! The families of the fallen heroes utter curses! Yet.......only after playing such cruel games—only after committing such frenzied acts—do the corrupt rulers walk about smiling.
+
+### PDF page 40 — printed page 40
+
+It is those very people who were responsible for such terrible incidents who also cast mocking words at our struggles. But... another voice rises—not the voice of the Congress—a dishonourable voice of mockery in a tone even more forceful than that one. And it rises from close beside us.
+
+“Is the Kallakudi agitation really so important? Is it really necessary to conduct an agitation merely to change the name of a town?”—so ask the Communist comrades who move among us. We ask the same thing: an agitation merely to change the name of a town? If the people's voice says, “Change it,” is it not the duty of the rulers to change it? Congress rule forgot that duty! That is why an agitation arose. Why ask, “Was it necessary?” Nehru must understand this; Lal Bahadur Shastri must understand it.
+
+[Unclear — a later handwritten/ink mark obscures the opening letters; the surviving frozen Tamil reads `…ங்களூருக்கருகிலே`] Was not the place that had been called Azhikkal changed to Vazhaippazhadinam within just two months? In Thanjavur district, was not a place called Thirunattiyaththankudi changed to Mavur Road merely because one Sharma made the effort? Yet although many people came together and said it many times—although panchayat boards and municipal councils passed resolutions—why was the name Dalmiyapuram not changed? This is not an ordinary struggle for a change of name; it is a struggle that proclaims that northern domination must not remain here.
+
+> **Translator/source note:** The frozen Tamil deliberately leaves the opening letters before `…ங்களூருக்கருகிலே` unresolved because later ink physically obscures them. E1 does not reconstruct the place name from context.
+
+### PDF page 41 — printed page 41
+
+Without understanding that, they speak mockingly in “chithappu” language.
+
+The Communist comrades have begun to launch a new line: “If Dravida Nadu separates, will the lives of the poor blossom?” But they must understand. In the very word “Dravida” lies the life of the poor man. There is a plan for his life to blossom. The Moscow devotees who demand a united Tamilagam must understand this.
+
+You must think, comrades. Between our Communist friends, who say that their aim in life is to end the suffering of the poor, and us, there is only one fundamental difference. They seek a way to end hunger. We seek a way both to end hunger and to protect dignity. That is why we speak of hunger and dignity together. They speak only of hunger.
+
+Two friends are walking along the middle of the street. One of them is a Communist; the other is a man of the Dravida Munnetra Kazhagam. Suddenly their ears hear a cry: “Sir! Sir! Hunger! Hunger!” Both of them look. A man lies in a roadside sewer, his hands and feet tied, crying, “Sir! I have been lying in this condition for two days! Hunger is taking revenge on me, sir!”
+
+### PDF page 42 — printed page 42
+
+One of the friends who hears this says, “Oh! Have you been starving for two days? Wait, I am coming,” runs toward the bazaar, buys him some food and feeds him while that bound man remains lying in the sewer. The one who acts in this way is the Communist friend.
+
+But the other man first lifts the hungry man who lies bound out of the sewer—throws off his bonds—bathes him—puts different clothes on him—and only then takes him to the nearby hotel. The one capable of acting in this way is the man of the Dravida Munnetra Kazhagam.
+
+Communism raises the slogan that hunger and famine must disappear from the country. But the Dravida Munnetra Kazhagam seeks a path to rescue Dravida, bound by forms of slavery—by shastras and conventions—by ruined ancient ideas—by doctrines, and thrown into the sewer where northern domination, deceptive Aryanism and such things mix together; to smash those bonds, and then drive away famine and hunger. What could be wrong in this?
+
+Everything must not be viewed only through the question: What did Marx say? What did Lenin say? How does Russia think? But the argument is not that those things must not be accepted. “What did Lenin say?”—Russia too thinks of this; Red China too considers it. But Malang—
+
+### PDF page 43 — printed page 43
+
+—ko and Mao Tse-tung—are they identical in every respect? Who can say there is no difference between them—between their systems of government? Who can argue back that there is no difference?
+
+The Communist Party wishes the land to prosper and ears of grain to grow luxuriantly. But we say: there are weeds and grasses filling the land; they must be destroyed—removed—yes, the weeds must be pulled; only then should one look to the cultivated field! We explain social reform in the same way. We say that unless society is reformed and Dalmia is removed from the “sewer,” nothing can be expected. We have plunged into action.
+
+Yet at this very moment the newspaper “Janasakthi,” containing the views of our Communist friends, looks at us and asks—boldly, without the habit of thinking—“If the northerner runs away, will happiness come?” That is the question, comrades! Janasakthi asks it! We are the ones being asked!
+
+“If the northerner runs away, will happiness come?”
+
+The Communist Party asks! Do you know which Communist Party, comrades? The one that drove Chiang Kai-shek—
+
+> **Translator/source note:** PDF42→43 preserves the source split `மாலங் / கோவும்`, assembled in the frozen Tamil as `மாலங்கோவும்`. E1 transliterates that source form as “Malangko” rather than silently normalizing the historical name.
+
+### PDF page 44 — printed page 44
+
+—away, raised the red flag in Red China, and transformed China into a garden of new flowers—a new park blooming on the soil of revolution. That very Communist Party, which in India's French settlements—in Puducherry and Karaikal—has dared to struggle with renewed strength, saying that if the French leave, “newness will bloom—new life will arise,” asks: “If the northerner leaves, will happiness come?”
+
+I say—not even as an answer, but pointing with the finger toward neighbouring China—“Look at Red China! Think!”
+
+The very “Janasakthi” that asks this question appeals in its editorial: “Celebrate Asia Day throughout the country on April 25.” Can we not now ask, “If Asia Day is celebrated on April 25, will the labouring class being crushed among us benefit on the 26th? Will huts become Kubera's mansions?”
+
+That same editorial says further that if the wars in Korea and Indo-China “stop, new life will come.” Can we not ask, “What connection is there between the Indo-China struggle and the pavement-dweller here? If the war stops there, will the war of hunger and the war of poverty here—
+
+### PDF page 45 — printed page 45
+
+—also stop?” We can ask—we are able to ask—but we will not, for the sole reason that we observe political dignity and civility!
+
+They ask, “What benefit will the labouring people gain if Dalmiyapuram becomes Kallakudi?” We know that it brings no immediate benefit to the poor! But did we ever say that milk and honey would begin flowing because of it? No! That is why we say that when the summit of our ideal—the fruit of the war-ballad of many years—is reached and Dravida Nadu is obtained, it will become a republic—a garden of democracy.
+
+But you shout, “Workers of the world, unite!” You look through a “telescope.” Is it possible? You shout until your throat dries up—can your intention be fulfilled? Will all the workers of the world ever be able to unite on some single day? Will they be able to act?
+
+You look at everything with an international eye. But the benefit will not come.
+
+Yet at the same time you do not stop merely with spreading your own doctrine. Why? Why do you also keep disparaging and reviling the doctrines and ideals of other parties?
+
+### PDF page 46 — printed page 46
+
+You disparage the Dravidian separatist agitation; why do you not try to learn the truths contained within it? Take up the geography book and look. Does it appear to your eyes as one single country? How many, many boundaries are there! Is there only one leader? No! How many boundary lines! Countless limits! A field prospers only when it has plenty of bunds.
+
+That is why we say—we have said it many times—we shall say it again—your slogan of “unity” has no foundation; it lies outside reason!
+
+You refuse to understand this—because you do not possess the disposition to understand it!
+
+At this point I wish to recall what Arignar Anna said at the first State Conference. The true Communist Party of this country is the Dravida Munnetra Kazhagam! It has entered the great task of recovering the homeland, laughing opposition to scorn and treating the `echchakkal` as dust.
+
+Pandit Nehru's recent speeches show precisely that the victory of this task of ours has drawn near.
+
+> **Translator/source note:** PDF46 retains the unusual frozen form `எச்சக்களை`. E1 transliterates it as `echchakkal` rather than substituting a conjectured normalized reading.
+
+### PDF page 47 — printed page 47
+
+We shall win—without worrying about the fruits of the agitation—we shall take part in the struggle—we shall advance—we shall march heroically along the path of victory—we shall take pride! We shall exult!
 
