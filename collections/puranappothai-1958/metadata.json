@@ -55,8 +55,8 @@
     "active_constituent_number": 6,
     "active_constituent_slug": "puranap-pothai",
     "active_constituent_title_ta": "புராணப் போதை!",
-    "next_gate": "English E2 fidelity review — constituent 6 / PDF80–101 / 22 pages",
-    "collection_status": "active-constituent-6-english-e2-ready",
+    "next_gate": "English E3 final end-to-end verification — constituent 6 / PDF80–101 / 22 pages",
+    "collection_status": "active-constituent-6-english-e3-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -369,8 +369,14 @@
       "english_e1_batches_complete": 1,
       "english_e1_corrections": 0,
       "english_e1_unresolved": 0,
-      "english_e2": "ready-not-started",
-      "english_e3": "blocked-pending-e2"
+      "english_e2": "complete-pass",
+      "english_e3": "ready-not-started",
+      "english_e2_pages_reviewed": 22,
+      "english_e2_through_pdf_page": 101,
+      "english_e2_through_printed_page": 100,
+      "english_e2_batches_complete": 5,
+      "english_e2_corrections": 15,
+      "english_e2_unresolved": 0
     }
   ]
 }
