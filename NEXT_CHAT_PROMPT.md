@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் Tamil T3 consolidation / freeze
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 2 அத்தை மகள் English E1 first-pass translation
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,36 +19,20 @@ Constituent 1 — `speeches/mullaik-kollai/` — is **FINAL CLOSED / RELEASE REA
 - outgoing boundary — **PDF47→48 PASS; PDF48 begins `நம் மேடை`**
 - speech date / venue / event — **not established / do not infer**
 
-## Tamil T1 durable state
+## Frozen Tamil authority
 
-Tamil T1 is **FIRST-PASS COMPLETE — 29/29 pages**.
+Tamil is **`verified-complete` / FROZEN**.
 
-## Tamil T2 durable state
-
-Tamil T2 is **COMPLETE / PASS — 29/29 pages**.
-
-- Batch 1 — **PDF19–23 / 7 corrections/actions**
-- Batch 2 — **PDF24–28 / 5 corrections/actions**
-- Batch 3 — **PDF29–33 / 4 corrections/actions**
-- Batch 4 — **PDF34–38 / 9 corrections/actions**
-- Batch 5 — **PDF39–43 / 11 corrections/actions**
-- Batch 6 FINAL — **PDF44–47 / 8 corrections/actions**
-- cumulative T2 corrections/actions — **44**
-- historical-glyph strict review — **COMPLETE / PASS through PDF47**
-- all recorded page/constituent boundaries — **PASS**
+- T1 — **COMPLETE — 29/29**
+- T2 — **COMPLETE / PASS — 29/29**
+- T2 corrections/actions — **44**
+- T3 — **COMPLETE / PASS — 44/44 reconciled**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
 - source-limited unresolved — **1 (PDF40)**
 - actionable unresolved — **0**
-
-### Final Batch 6 corrections
-
-1. PDF44 — `பிரஞ்சத் திட்டுகளிலிருந்து` → `பிரஞ்சுத் திட்டுகளிலிருந்து`
-2. PDF44 — `புதுபலத்தோடு` → `புது பலத்தோடு`
-3. PDF44 — `சிந்தித்துப் பார்!’’ என்று!` → `சிந்தித்துப் பார்’’ என்று!`
-4. PDF44 — `அதே தலையங்கம்தான் இன்னும் சொல்கிறது.` → `அதே தலையங்கம்தான் இன்னும் சொல்லுகிறது.`
-5. PDF45 — `கேட்கமாட்டோம். அரசியல்` → `கேட்கமாட்டோம், அரசியல்`
-6. PDF45 — `அப்படி ஏதாவது பாலும்தேனும்` → `அப்படி எதாவது பாலும்தேனும்`
-7. PDF45 — `நாங்கள் சொல்லுகிறோம். எமது` → `நாங்கள் சொல்லுகிறோம், எமது`
-8. PDF45 — `மாறும் என்று.` → `மாறும் என்று,`
+- page / constituent boundaries — **29/29 PASS**
+- frozen authority — `speeches/aththai-magal/transcription-ta.md`
 
 ### Source-limited control
 
@@ -56,25 +40,26 @@ PDF40 retains exactly one source-limited uncertainty:
 
 `[தெளிவில்லை — பிந்தைய கைமைக் குறி தொடக்க எழுத்துகளை மறைக்கிறது: “…ங்களூருக்கருகிலே”]`
 
-Strict T2 recheck confirmed that the same-edition pixels do **not** expose the hidden opening letters. Do not contextual-repair this marker.
+The same-edition pixels do not expose the hidden opening letters. Do not reconstruct them from context in English.
 
-## Tamil T3 rule
+## English translation rule
 
-T3 is consolidation / freeze, not another speculative transcription pass.
+English must be translated **only from the frozen Tamil `transcription-ta.md`**, not independently from OCR, the PDF or an outside edition.
 
-- ensure all **44/44 T2 corrections/actions** are present in the canonical `transcription-ta.md`;
-- confirm exactly **29/29 PDF page blocks**, PDF19–47, in order and without duplicates;
-- reconcile all recorded page joins and the PDF47→48 constituent boundary;
-- search for stale superseded T1 readings;
-- preserve the single PDF40 source-limited marker;
-- record **0 actionable unresolved** if nothing new is found;
-- do not alter Tamil speech-body wording merely for style or modernization;
-- if all checks pass, mark Tamil `verified-complete` / **FROZEN**.
+Preserve as far as practical:
+
+- argument structure and page sequence;
+- rhetorical force and repetition;
+- metaphors and polemical language;
+- historical names/titles and source-sensitive oddities;
+- explicit uncertainty in the frozen Tamil.
+
+Do not silently repair difficult Tamil. Use a concise translator/source note where transparency is required.
 
 ## Exact next activity
 
-Perform **Tamil T3 consolidation / freeze — PDF19–47 / printed pp.19–47 / 29 pages**.
+Begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Update constituent and parent/root controls to the frozen Tamil state. If T3 passes, the next gate becomes **English E1 first-pass translation**.
+Create `speeches/aththai-magal/translation-en.md`, retaining explicit PDF/printed-page headings. Carry the PDF40 source-limited uncertainty transparently. Synchronize constituent and parent/root controls to E1 progress/completion according to repository convention.
 
-Do **not** begin English in the same activity.
+E1 is first-pass translation only. Do **not** perform E2 fidelity review, E3 final verification or repository closure in the same activity.
