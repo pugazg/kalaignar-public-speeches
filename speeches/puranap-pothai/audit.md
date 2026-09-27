@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1/E2/E3 **COMPLETE / PASS**; English **`verified-complete`**; repository closure **READY**
+**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1/E2/E3 **COMPLETE / PASS**; English **`verified-complete`**; repository closure **COMPLETE / PASS**; archive **FINAL CLOSED / RELEASE READY**
 
 ## T1 method
 
@@ -380,8 +380,21 @@ English E3 re-read the complete corrected English layer **PDF80–101 / printed 
 
 Detailed E2/E3 ledger: `translation-review.md`.
 
-## Next gate
+## Repository closure — COMPLETE / PASS
 
-Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 6.
+Final closure controls:
 
-No Tamil transcription, English translation, fidelity-review or final-verification work remains pending.
+- Tamil / English page blocks — **22/22 each / ordered**
+- Tamil — **`verified-complete` / FROZEN**
+- English — **`verified-complete`**
+- Tamil unresolved — **0**
+- English unresolved — **0**
+- translator/source notes — **4/4 retained**
+- PDF101 ending / PDF102 exclusion — **PASS**
+- pending textual work — **none**
+- closure changes to frozen Tamil — **0**
+- closure changes to verified English — **0**
+- final report — `FINAL_CLOSURE.md`
+- archive — **FINAL CLOSED / RELEASE READY**
+
+No further routine gate remains.
