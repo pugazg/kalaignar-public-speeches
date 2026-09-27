@@ -13,54 +13,43 @@ Archive: `speeches/mullaik-kollai/`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
 - source range — **PDF7–18 / printed pp.7–18 / 12 pages**
-- next boundary — **PDF19 — அத்தை மகள்**
-- duplicate gate — **PASS**
-- boundary gate — **PASS**
-- Tamil T1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 2 explicit unresolved**
-- Tamil T2 — **IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 2 unresolved in audited pages**
-- Tamil T3 — blocked pending T2
-- English — blocked pending Tamil freeze
-- speech date — **not established**
-- venue — **not established**
-- event — **not established**
+- next source boundary — **PDF19 — அத்தை மகள்**
+- duplicate / boundary gates — **PASS / COMPLETE**
+- Tamil T1/T2/T3 — **COMPLETE / PASS**
+- Tamil T2 corrections/actions — **40**
+- Tamil T3 additional source corrections — **0**
+- Tamil T3 consolidation repairs — **0**
+- Tamil — **`verified-complete` / FROZEN**
+- source-limited uncertainties retained — **2**
+- English E1 — **NOT STARTED**
+- English E2/E3 — blocked pending preceding English gates
+- speech date / venue / event — **not established / not inferred**
 
 Back-matter provenance says `முல்லைக் கொல்லை` appeared in `திராவிடன்` in December 1952. Do not convert that publication/provenance statement into a speech date without explicit source evidence.
 
-## Historical Tamil rule
+## Frozen Tamil controls
 
-This source uses older Tamil typography. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` to every page and explicitly check the known historical families:
+- canonical Tamil — `transcription-ta.md`
+- Tamil audit — `audit.md`
+- PDF7–18 — **12/12 pages exactly once and in order**
+- printed pp.7–18 — **continuous / PASS**
+- historical-glyph audit — **COMPLETE**
+- PDF17→18 historical-`றா` join — **`மாற்றானுக்கு` / PASS**
+- PDF18→19 constituent boundary — **PASS**
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+### Retained source-limit annotations
 
-Read character identity from enlarged source pixels; do not global-replace or modernize source wording.
+1. **PDF8** — left page edge physically missing after `காந்திப்`; only the later `…த்தை` ending survives. Do not reconstruct the missing letters.
+2. **PDF9** — right page edge physically damaged; visible source ends `நான் சென்…` before PDF10 begins `என்று சொல்லிவிட்டு வந்திருக்கிறார்.` Do not fill from the contextually suggestive later `நான்சென்ஸ்` wording.
 
-## T1 durable checkpoint
+These are frozen source-limit annotations. They do not authorize contextual completion in Tamil or English.
 
-- working Tamil — `transcription-ta.md`
-- audit — `audit.md`
-- T1 pages — **12/12 COMPLETE**
-- explicit unresolved — **2**
-  - PDF9 damaged right-edge terminal clause before PDF10;
-  - PDF12 technical wing/anatomy phrase.
-- page-boundary candidates — **8 logged**
-- Tamil status — **FIRST-PASS COMPLETE / not verified / not frozen**
+## Reopen policy
 
-## T2 checkpoint after Batch 1
-
-- audited — **PDF7–11 / 5/12 pages**
-- cumulative corrections — **19**
-- unresolved in audited pages — **2**
-  - PDF8 physical left-edge loss after `காந்திப்`;
-  - PDF9 physical right-edge loss ending `நான் சென்…`.
-- explicit unresolved overall — **3**, including the pending PDF12 technical phrase
-- boundary controls — **7→8 PASS / 9→10 unresolved / 10→11 PASS / 11→12 PASS**
-- historical-glyph Batch 1 check — **COMPLETE**
-- pages remaining — **PDF12–18 / 7 pages**
+Tamil is frozen. Any Tamil change requires new direct source evidence and, once English exists, dependent English re-verification. Do not reopen for stylistic polishing, modernization, normalization, contextual repair or translation convenience.
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
+English **E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Check every line directly against the rendered source. Resolve or preserve the PDF12 technical wing/anatomy phrase; verify PDF12→13, PDF13→14 and PDF14→15; and record all source-supported corrections in `audit.md` / `transcription-ta.md`.
-
-Do **not** begin the final T2 batch, T3 or English in the same step.
+Translate only from frozen `transcription-ta.md`, preserve page correspondence, rhetoric and source uncertainty, and introduce **0 Tamil changes**.

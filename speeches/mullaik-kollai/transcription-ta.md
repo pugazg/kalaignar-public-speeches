@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — 12/12; T2 STRICT VISUAL AUDIT COMPLETE — 12/12; 40 cumulative corrections / 2 source-damage unresolved readings retained; Tamil not verified / not frozen; next T3  
+> **Status:** Tamil T1/T2/T3 COMPLETE / PASS — PDF7–18 / 12/12; 40 T2 corrections reconciled; T3 added 0 source corrections / 0 consolidation repairs; 2 documented source-damage uncertainties retained; Tamil `verified-complete` / FROZEN; next English E1  
 > **Source:** `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`  
 > **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 > **Editorial rule:** source-faithful first pass from rendered scan pixels. Historical Tamil glyph identity is encoded in modern Unicode without modernizing source wording. T1 is not a final visual-verification claim.

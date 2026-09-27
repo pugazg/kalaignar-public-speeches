@@ -4,9 +4,9 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — 12/12**; T2 **STRICT VISUAL AUDIT COMPLETE — PDF7–18 / 12/12 pages / 40 cumulative corrections / 2 source-damage unresolved readings retained**  
+**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN** for PDF7–18 / 12/12 pages; 40 T2 corrections reconciled; T3 added 0 source corrections / 0 consolidation repairs; **2 documented source-damage uncertainties retained**  
 **T1 explicit unresolved readings:** **2**  
-**Current explicit unresolved readings after T2:** **2** — PDF8 and PDF9 physical-damage items only
+**Current explicit source-limited uncertainties after T3:** **2** — PDF8 and PDF9 physical-damage items only
 
 ## T1 method
 
@@ -293,8 +293,62 @@ The PDF17→18 `மாற் / றானுக்கு` continuation was specif
 
 The two retained uncertainties are source-limited physical-damage readings; T2 does not reconstruct the missing letters from context.
 
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **40/40 PASS** |
+| Speech-page coverage | **PDF7–18 = 12/12, each exactly once, in order** |
+| Printed-page mapping | **pp.7–18 continuous / PASS** |
+| Recorded cross-page / constituent-end controls | **9 PASS / 1 source-damage unresolved** |
+| Stale superseded T1 readings | **none found** |
+| Explicit uncertainty markers in canonical Tamil | **2/2 expected and documented** |
+| Source-sensitive retained forms | **PASS** |
+| Final body ending | `உங்களுக்கு எனது வாழ்த்துரையையும் கூறி முடித்துக் கொள்கிறேன்.` — **PASS** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| T3 actionable unresolved | **0** |
+| Source-limited uncertainties retained | **2** |
+
+T3 is a consolidation/freeze gate, not a new modernization pass. No Tamil speech-body wording was changed during T3.
+
+### T3 boundary reconciliation
+
+- PDF7→8 — `வழியா / லிருக்குமா?` — **PASS**
+- PDF9→10 — physically damaged terminal clause — **SOURCE-LIMITED / retained explicitly**
+- PDF10→11 — `பிரத / மர் நேரு.` — **PASS**
+- PDF11→12 — `காட்சி / யளிக்கிறார்கள்?` — **PASS**
+- PDF12→13 — `ரோடு / களே அமைத்தான்` — **PASS**
+- PDF13→14 — `ஏசுகிறுஸ் / துவை.` — **PASS**
+- PDF14→15 — `திரெளபதிக்கு ஐந்து பேர் / கணவர்’...` — **PASS**
+- PDF15→16 — **PASS**
+- PDF17→18 — `மாற் / றானுக்கு` — **PASS**; assembled reading `மாற்றானுக்கு`
+- PDF18→19 constituent boundary — **PASS**; PDF19 begins `அத்தை மகள்`
+
+Physical page segmentation remains under the original PDF headings; T3 does not erase page-boundary provenance.
+
+### T3 source-sensitive retained controls
+
+- PDF8 — damaged `காந்திப் …த்தை` reading remains explicitly uncertain; hidden letters are not reconstructed.
+- PDF9 — damaged right-edge `நான் சென்…` reading remains explicitly uncertain; contextual `நான்சென்ஸ்` evidence is not used to manufacture missing print.
+- PDF12 — `பருந்தின் பருமனை நிறுத்தி` remains the T2-resolved source reading.
+- PDF13 — `அத்தர் கம்பென்ன வீசு` retained as printed.
+- PDF13→14 — source-form `ஏசுகிறுஸ்துவை.` retained on assembly.
+- PDF14 — `புன்முறுவலிலேயே`, `பீனுராய்` retained.
+- PDF15 — source spacing/forms including `மார் தட்டுகிறாயேமகாபாரதம்`, `ரஷ்யாவிலே`, `கருப்புச் சட்டைக் காரர்கள்` retained.
+- PDF17→18 — historical-`றா` identity in `மாற்றானுக்கு` retained.
+- speech date / venue / event remain **not established / not inferred**.
+
+### Tamil freeze
+
+Tamil is now **`verified-complete` / FROZEN** for PDF7–18 / printed pp.7–18.
+
+The two uncertainty markers are **source-limited physical-damage annotations**, not unfinished transcription work: every available source pixel in the constituent has passed T2, and T3 has reconciled the complete canonical layer without guessing the lost letters.
+
+Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, normalization, modernization, contextual reconstruction and translation-driven rewriting are not grounds to reopen the frozen Tamil layer.
+
 ## Next gate
 
-Proceed to **Tamil T3** with the two PDF8/PDF9 source-damage uncertainties carried forward explicitly.
+Proceed to **English E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**, translating only from frozen `transcription-ta.md`.
 
-Do **not** begin English until Tamil is frozen.
+Carry the two source-damage uncertainty annotations transparently into English; do not repair them from context or outside sources. Do not alter the frozen Tamil during E1.

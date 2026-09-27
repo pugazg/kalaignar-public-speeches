@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — Tamil T1 COMPLETE / T2 IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 3 explicit unresolved overall**
+**Status: ACTIVE — Tamil T1/T2/T3 COMPLETE / PASS — Tamil `verified-complete` / FROZEN; English E1 NEXT — 2 documented source-damage uncertainties retained**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -24,37 +24,36 @@ Speech date: **not established / do not infer**.
 Item-specific venue: **not established / do not infer**.  
 Event/occasion: **not established / do not infer**.
 
-The opening on PDF7 is in public-address form, but the source does not supply a separate date or venue on the mapped constituent pages.
-
 ## Editorial rule
 
-The scan is authoritative. This 1954 edition uses historical Tamil typeforms, so `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` must be applied page by page.
+The scan is authoritative. This 1954 edition uses historical Tamil typeforms, so `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` applies page by page.
 
-Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and unusual grammar. Decode historical glyph identity into correct modern Unicode without modernizing the source wording. Do not use outside editions to repair or normalize the text.
+Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and unusual grammar. Decode historical glyph identity into correct modern Unicode without modernizing source wording. Do not use outside editions or contextual expectation to reconstruct lost print.
 
-## Tamil T1 checkpoint
+## Tamil workflow
 
-- T1 coverage — **PDF7–18 / printed pp.7–18 / 12/12 pages**
-- T1 explicit unresolved readings at handoff — **2**
-- current explicit unresolved after T2 Batch 1 — **3**
-- page-boundary candidates logged — **8**
-- historical-glyph first-pass discipline — **applied; final verification pending T2**
-- canonical working Tamil — `transcription-ta.md`
-- audit — `audit.md`
-- Tamil — **not yet verified / not frozen**
+- Tamil T1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12**
+- Tamil T2 strict visual audit — **COMPLETE / PASS — PDF7–18 / 12/12; 40 corrections/actions**
+- Tamil T3 consolidation/freeze — **COMPLETE / PASS — 40/40 T2 corrections reconciled; 0 additional source corrections / 0 consolidation repairs**
+- historical-glyph review — **COMPLETE through PDF18**
+- Tamil — **`verified-complete` / FROZEN**
+- explicit source-limited uncertainties retained — **2**
+  - PDF8 physical left-edge loss after `காந்திப்`, with only the later `…த்தை` ending surviving;
+  - PDF9 physical right-edge loss ending `நான் சென்…` before PDF10 continues `என்று சொல்லிவிட்டு வந்திருக்கிறார்.`
+- canonical frozen Tamil — `transcription-ta.md`
+- Tamil audit record — `audit.md`
 
-## Tamil T2 checkpoint after Batch 1
+These two annotations are source-limit records, not a pending visual-audit gate. T2 inspected all 12 pages and T3 froze the canonical layer without guessing physically missing letters.
 
-- audited — **PDF7–11 / printed pp.7–11 / 5/12 pages**
-- source-supported corrections — **19**
-- unresolved in audited pages — **2**
-- explicit unresolved overall — **3** including pending PDF12
-- boundary controls checked — **PDF7→8 PASS / PDF9→10 unresolved / PDF10→11 PASS / PDF11→12 PASS**
-- historical-glyph review — **Batch 1 complete / no extra glyph-only unresolved**
-- Tamil — **not verified / not frozen**
+## English workflow
+
+- English E1 — **NOT STARTED**
+- English E2 — blocked pending E1
+- English E3 — blocked pending E2
+- repository closure — not started
 
 ## Next gate
 
-Tamil **T2 strict visual fidelity audit — Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
+English **E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Resolve or preserve the PDF12 technical phrase, check every line and the PDF12→13 / PDF13→14 / PDF14→15 continuations. Do not begin the final T2 batch, T3 or English.
+Translate only from frozen `transcription-ta.md`, preserve page correspondence and rhetoric, and carry the two source-damage uncertainties transparently. Do not modify the frozen Tamil during translation.
