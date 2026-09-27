@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 COMPLETE / PASS — PDF19–47 / 29/29 checked — 44 cumulative corrections/actions; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; Tamil T3 NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN — T3 COMPLETE / PASS — 44/44 reconciled; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; English E1 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -598,7 +598,7 @@ No routine transcription, translation, review, verification or release-readiness
 - main-text coverage — **PDF7–67 / 61 pages**
 - source-gated — **5/5**
 - Tamil T1 complete — **2/5**
-- Tamil verified — **1/5**
+- Tamil verified — **2/5**
 - English verified — **1/5**
 - fully archived — **1/5**
 - supplementary author text — **PDF69–70 — ‘முரசொலி’ துப்பாக்கி** / mapped separately
@@ -622,8 +622,10 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
 - active constituent Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
 - active constituent Tamil T2 — **COMPLETE / PASS**
-- active constituent Tamil T3 — **NEXT / NOT STARTED**
+- active constituent Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional source corrections / 0 consolidation repairs**
+- active constituent Tamil — **`verified-complete` / FROZEN**
+- active constituent English E1 — **NEXT / NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — Tamil T3 consolidation / freeze PDF19–47 / 29 pages**, reconciling all 44 T2 corrections/actions and retaining the single PDF40 source-limited uncertainty; do not begin English in the same activity.
+Exact next gate: constituent 2 **அத்தை மகள் — English E1 first-pass translation PDF19–47 / 29 pages** from frozen Tamil, preserving the single PDF40 source-limited uncertainty; do not begin E2/E3 in the same activity.
 
