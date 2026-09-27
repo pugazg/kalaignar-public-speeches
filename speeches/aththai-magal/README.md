@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil T1 IN PROGRESS — Batches 1–4 PDF19–38 / 20/29 drafted; T2 NOT STARTED**
+**Status: ACTIVE — Tamil T1 IN PROGRESS — Batches 1–5 PDF19–43 / 25/29 drafted; 1 source-obscured reading; T2 NOT STARTED**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -34,9 +34,10 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - Tamil T1 Batch 2 — **COMPLETE — PDF24–28 / 5 pages**
 - Tamil T1 Batch 3 — **COMPLETE — PDF29–33 / 5 pages**
 - Tamil T1 Batch 4 — **COMPLETE — PDF34–38 / 5 pages**
-- Tamil T1 cumulative — **20/29 pages drafted**
-- historical-glyph first-pass — **COMPLETE through PDF38**
-- explicit unresolved T1 readings — **0**
+- Tamil T1 Batch 5 — **COMPLETE — PDF39–43 / 5 pages**
+- Tamil T1 cumulative — **25/29 pages drafted**
+- historical-glyph first-pass — **COMPLETE through PDF43**
+- explicit unresolved/source-obscured T1 readings — **1 (PDF40)**
 - Tamil T1 — **IN PROGRESS**
 - Tamil T2 — **NOT STARTED**
 - Tamil T3 — blocked pending complete T1/T2
@@ -44,8 +45,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
-Source-sensitive first-pass forms retained for strict T2 include the earlier batches plus PDF34 `அண்ணா கண்ஜாடை காட்டுவரானால்` / `ஆயாச எதிர் வேலைகள்`, PDF35 `கொலுமண்டபத்தில்` / `கருப்புத்துணிகொடு`, PDF36 `வஸ்தாது` / `கம்பெந்திய`, PDF37 `உடையினத்திலும்` / `எதிர்த்துபோராட்டம்`, and PDF38 `ஒலமிட்டுக்` / `துருக்கர்களின் கொலையால்` / `கட்டாறி தாங்கினன் மார்பிலே`. These are not modernized in T1.
+Source-sensitive first-pass forms retained for strict T2 include the earlier batches plus PDF39 `அகோரப் பசிக்கு!`, PDF40 `அழிக்கல்` / `வாழைப்பழடினம்` / `திருநாட்டியத்தான்குடி`, PDF41 `சித்தாப்பு`, PDF42 `ஒன்றுக்கலக்கும்` / page-end `மாலங்`, and PDF43 `கோவும்` / `நிறைந்திருக்கின்றனவே புல் பூண்டுகள்` / `சியாங்கே ஷேக்கை`. PDF40 also retains one explicit source-obscured start-of-word marker `…ங்களூருக்கருகிலே`; it is not contextually completed.
 
 ## Next gate
 
-Continue **Tamil T1 first-pass transcription — PDF39 onward**. Keep explicit page mapping and source-sensitive notes. Do not begin T2, T3 or English until the complete 29-page T1 body exists.
+Complete **Tamil T1 first-pass transcription — final PDF44–47 / 4 pages**. Keep explicit page mapping and source-sensitive notes. Do not begin T2 in the same activity.
