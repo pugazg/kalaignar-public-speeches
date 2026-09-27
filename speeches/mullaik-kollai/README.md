@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes; English E3 NEXT — 2 source-damage uncertainties retained**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E2 15 corrections + E3 3 additional corrections / 0 unresolved / 0 Tamil changes; repository closure NEXT — 2 source-damage uncertainties retained**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -47,22 +47,21 @@ These two annotations are source-limit records, not a pending visual-audit gate.
 
 ## English workflow
 
-- English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 pages**
-- English E2 — **COMPLETE / PASS — PDF7–18 / 12/12 pages**
-- E2 corrections — **15**
-- E2 unresolved — **0**
+- English E1 — **COMPLETE — PDF7–18 / 12/12 pages**
+- English E2 — **COMPLETE / PASS — 15 corrections / 0 unresolved**
+- English E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved**
 - English-stage Tamil changes — **0**
 - frozen source-damage uncertainties retained — **2/2**
-- translator/source notes after E2 — **8**
-- English E3 — **NOT STARTED**
-- repository closure — not started
+- translator/source notes — **8/8 retained**
+- English — **`verified-complete`**
+- repository closure — **NOT STARTED**
 - English translation — `translation-en.md`
 - English review — `translation-review.md`
 
-E2 is complete, but English is not yet `verified-complete` until the separate E3 end-to-end gate passes. Political labels, religious polemic and historical claims are represented as source rhetoric rather than independently validated assertions.
+English is now verified against the frozen Tamil. Political labels, religious polemic and historical claims are represented as source rhetoric rather than independently validated assertions.
 
 ## Next gate
 
-English **E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**.
+**Repository archival closure — constituent 1 / முல்லைக் கொல்லை.**
 
-Re-read the complete post-E2 English against frozen `transcription-ta.md`, verify all 15 E2 corrections and 8 translator/source notes, and introduce **0 Tamil changes**. Do not perform repository closure in the same step.
+Verify final file completeness, Tamil/English state, source-limit annotations, metadata/control consistency and release readiness. Do not reopen frozen Tamil or verified English for stylistic polishing.

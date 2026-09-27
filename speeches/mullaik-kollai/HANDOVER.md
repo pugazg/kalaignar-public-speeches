@@ -21,10 +21,11 @@ Archive: `speeches/mullaik-kollai/`
 - Tamil T3 consolidation repairs — **0**
 - Tamil — **`verified-complete` / FROZEN**
 - source-limited uncertainties retained — **2**
-- English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12**
-- English E2 — **COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes**
-- English translator/source notes after E2 — **8**
-- English E3 — **NOT STARTED**
+- English E1 — **COMPLETE — PDF7–18 / 12/12**
+- English E2 — **COMPLETE / PASS — 15 corrections / 0 unresolved**
+- English E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved / 0 Tamil changes**
+- English translator/source notes — **8/8 retained**
+- English — **`verified-complete`**
 - speech date / venue / event — **not established / not inferred**
 
 Back-matter provenance says `முல்லைக் கொல்லை` appeared in `திராவிடன்` in December 1952. Do not convert that publication/provenance statement into a speech date without explicit source evidence.
@@ -73,8 +74,19 @@ Tamil is frozen. Any Tamil change requires new direct source evidence and, once 
 - translator/source notes after E2 — **8**
 - English status — **not yet verified; E3 pending**
 
+## English E3 durable checkpoint
+
+- coverage — **PDF7–18 / 12/12**
+- E2 corrections verified — **15/15**
+- E3 additional corrections — **3**
+- E3 unresolved — **0**
+- frozen Tamil changes — **0**
+- source-damage uncertainties retained — **2/2**
+- translator/source notes retained — **8/8**
+- English — **`verified-complete`**
+
 ## Exact next activity
 
-English **E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**.
+Perform **repository archival closure for constituent 1 — முல்லைக் கொல்லை**.
 
-Verify the complete post-E2 `translation-en.md` against frozen Tamil, including all 15 corrections and 8 notes. Introduce **0 Tamil changes**. Do not perform repository closure in the same step.
+Verify final file completeness, frozen Tamil / verified English state, both source-limit annotations, metadata and control-document consistency, and release readiness. Do not reopen Tamil or English for stylistic polishing.

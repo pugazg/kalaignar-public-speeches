@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes / 8 translator-source notes**; E3 NEXT  
+**Current gate:** Tamil **`verified-complete` / FROZEN**; English **`verified-complete`** — E1 COMPLETE, E2 COMPLETE / PASS with 15 corrections / 0 unresolved, E3 COMPLETE / PASS with 3 additional corrections / 0 unresolved; **0 Tamil changes**; repository closure NEXT  
 **T1 explicit unresolved readings:** **2**  
 **Current explicit source-limited uncertainties after T3:** **2** — PDF8 and PDF9 physical-damage items only
 
@@ -386,8 +386,24 @@ E2 corrected unsupported additions, a possessive reversal, softened/intensified 
 
 Political labels, religious polemic and historical claims continue to be represented as source rhetoric; the English layer does not independently validate them.
 
+## English E3 final verification — COMPLETE / PASS
+
+- coverage — **PDF7–18 / printed pp.7–18 / 12/12**
+- E2 corrections verified present — **15/15**
+- E3 additional corrections — **3**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes — **0**
+- source-damage uncertainties retained transparently — **2/2**
+- translator/source notes retained — **8/8**
+- English — **`verified-complete`**
+- detailed E2/E3 review record — `translation-review.md`
+
+E3 removed one unsupported grammatical inference around the damaged PDF9 clause and refined two PDF11 renderings where the English had changed the source's meaning or degree of assertion. A non-substantive Markdown layout defect for the PDF16 `சுரண்டி` note was also repaired and is not counted among the three fidelity corrections.
+
+A complete post-correction sweep found no further English fidelity issues. Political labels, religious polemic and historical claims remain represented as source rhetoric rather than independently validated assertions.
+
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**.
+Proceed to **repository archival closure for constituent 1 — முல்லைக் கொல்லை**.
 
-Re-read the complete post-E2 English against frozen Tamil, verify all **15 E2 corrections** and **8 translator/source notes**, and record any final source-fidelity corrections if necessary. Introduce **0 Tamil changes**. Do **not** perform repository closure in the same step.
+Closure should verify the frozen Tamil, verified English, the two source-limit annotations, metadata/control synchronization, final file set, and release-readiness state. Do not reopen Tamil or English for stylistic polishing.
