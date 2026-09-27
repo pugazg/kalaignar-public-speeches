@@ -1,0 +1,71 @@
+{
+  "id": "aththai-magal",
+  "title": {
+    "ta": "அத்தை மகள்"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "role": "speaker / author"
+  },
+  "document_type": "public-address-constituent-from-compiled-booklet",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "date_note": "No constituent-specific speech date established in the mapped source pages reviewed so far; do not infer from publication/provenance.",
+    "venue_ta": null,
+    "venue_note": "No item-specific venue established in the mapped source pages reviewed so far.",
+    "event_ta": null,
+    "event_note": "No item-specific event or occasion established in the mapped source pages reviewed so far."
+  },
+  "parent_collection": {
+    "id": "mullaik-kollai-1954",
+    "title_ta": "முல்லைக் கொல்லை",
+    "path": "collections/mullaik-kollai-1954/",
+    "constituent_number": 2,
+    "constituents_total": 5
+  },
+  "source": {
+    "filename": "TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf",
+    "source_id": "TVA_BOK_0064364",
+    "sha256": "1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f",
+    "file_size_bytes": 90473039,
+    "pdf_pages": 80,
+    "parent_pdf_pages_total": 80,
+    "pdf_page_start": 19,
+    "pdf_page_end": 47,
+    "printed_page_start": 19,
+    "printed_page_end": 47,
+    "speech_pages_total": 29,
+    "binary_committed": false,
+    "source_heading_ta": "அத்தை மகள்"
+  },
+  "source_boundary_note": "Direct source heading on PDF19; parent collection map assigns PDF19–47 to this constituent.",
+  "duplicate_check": {
+    "status": "pass-no-existing-dedicated-archive-found",
+    "parent_report": "collections/mullaik-kollai-1954/DUPLICATE_AUDIT.md"
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "duplicate_check": "pass-no-existing-dedicated-archive-found",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "in-progress",
+    "tamil_visual_audit": "not-started",
+    "tamil_consolidation": "blocked-pending-t1-t2",
+    "english_translation": "blocked-pending-tamil-freeze",
+    "english_translation_review": "blocked-pending-translation",
+    "english_translation_final_verification": "blocked-pending-review",
+    "repository_closure": "not-started",
+    "archive_status": "active-tamil-t1",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 continuation — PDF24 onward",
+    "handoff_status": "tamil-t1-in-progress",
+    "handoff_date": "2026-09-27",
+    "tamil_transcription_pages_drafted": 5,
+    "tamil_transcription_through_pdf_page": 23,
+    "tamil_transcription_through_printed_page": 23,
+    "tamil_t1_batches_complete": 1,
+    "tamil_t1_explicit_uncertainties": 0,
+    "tamil_historical_glyph_first_pass_through_pdf_page": 23,
+    "pending_review_or_verification_work": true
+  }
+}
