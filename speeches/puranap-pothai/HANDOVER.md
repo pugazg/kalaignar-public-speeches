@@ -18,8 +18,8 @@ Archive: speeches/puranap-pothai/
 - T3 unresolved — **0**
 - Tamil — **`verified-complete` / FROZEN**
 - English E1 — **FIRST-PASS COMPLETE — 22/22 / PDF80–101 / printed pp.79–100 / 0 unresolved / 0 Tamil changes**
-- English E2 — **READY / NOT STARTED**
-- English E3 — blocked pending E2
+- English E2 — **COMPLETE / PASS — 22/22 / 15 corrections / 0 unresolved / 0 Tamil changes**
+- English E3 — **READY / NOT STARTED**
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 - English translation — `translation-en.md`
@@ -71,10 +71,21 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - E1 unresolved — **0**
 - English E1 — **FIRST-PASS COMPLETE**
 
+## English E2 checkpoint
+
+- coverage — **PDF80–101 / printed pp.79–100 / 22/22**
+- E2 corrections — **15**
+- E2 unresolved — **0**
+- Tamil changes — **0**
+- translator/source notes after E2 — **4**
+- all 11 cross-page continuations — **PASS**
+- second corrected-English sweep — **0 further fidelity issues**
+- English E2 — **COMPLETE / PASS**
+
 ## Exact next activity
 
-English **E2 fidelity review — PDF80–101 / printed pp.79–100 / all 22 pages**.
+English **E3 final end-to-end verification — PDF80–101 / printed pp.79–100 / all 22 pages**.
 
-Compare `translation-en.md` page by page against the frozen Tamil, recording findings separately before consolidating confirmed corrections. Check omissions, additions, reversals, rhetorical weakening, names, quoted dialogue, page-boundary continuations and both translator/source notes.
+Re-read the corrected English layer against frozen Tamil from beginning to end. Verify all 15 E2 corrections, all 4 translator/source notes, page sequence, all 11 cross-page continuations, repeated rhetoric, names/terms and the PDF101 ending.
 
-Do not alter frozen Tamil for translation convenience. Do not begin E3.
+Do not mark English `verified-complete` or begin repository closure until E3 passes.
