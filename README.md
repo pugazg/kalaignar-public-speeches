@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil T1/T2/T3 COMPLETE / PASS — Tamil `verified-complete` / FROZEN; English E1 NEXT; 2 documented source-damage uncertainties retained; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — 12/12 / 0 Tamil changes; E2 NEXT; 2 documented source-damage uncertainties retained; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -613,7 +613,9 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent Tamil T3 — **COMPLETE / PASS — 40/40 corrections reconciled / 0 additional source corrections / 0 repairs**
 - active constituent Tamil — **`verified-complete` / FROZEN**
 - active constituent source-limited uncertainties — **2**
+- active constituent English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes / 0 translation unresolved / 5 translator-source notes**
+- active constituent English E2 — **NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 1 **English E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**, using only the frozen Tamil layer and preserving the two source-limit annotations.
+Exact next gate: constituent 1 **English E2 fidelity review — PDF7–18 / printed pp.7–18 / 12 pages**, comparing `translation-en.md` against frozen Tamil and introducing 0 Tamil changes.
 

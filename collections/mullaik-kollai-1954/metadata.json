@@ -69,8 +69,8 @@
     "active_constituent_number": 1,
     "active_constituent_slug": "mullaik-kollai",
     "active_constituent_title_ta": "முல்லைக் கொல்லை",
-    "next_gate": "English E1 first-pass translation — constituent 1 / PDF7–18 / printed pp.7–18 / 12 pages",
-    "collection_status": "active-constituent-1-english-e1-ready",
+    "next_gate": "English E2 fidelity review — constituent 1 / PDF7–18 / printed pp.7–18 / 12 pages",
+    "collection_status": "active-constituent-1-english-e2-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -89,7 +89,7 @@
       "tamil_t1": "first-pass-complete",
       "tamil_t2": "complete-pass",
       "tamil_t3": "complete-pass",
-      "english_e1": "not-started",
+      "english_e1": "first-pass-complete",
       "tamil_t1_pages_completed": 12,
       "tamil_t1_through_pdf_page": 18,
       "tamil_t1_through_printed_page": 18,
@@ -109,7 +109,16 @@
       "tamil_t3_additional_source_corrections": 0,
       "tamil_t3_consolidation_repairs": 0,
       "tamil_t3_source_limited_unresolved": 2,
-      "next_gate": "english-e1"
+      "next_gate": "english-e2",
+      "english_e2": "not-started",
+      "english_e1_pages_completed": 12,
+      "english_e1_through_pdf_page": 18,
+      "english_e1_through_printed_page": 18,
+      "english_e1_batches_complete": 1,
+      "english_e1_unresolved": 0,
+      "english_e1_tamil_changes": 0,
+      "english_e1_source_limited_uncertainties": 2,
+      "english_e1_translator_source_notes": 5
     },
     {
       "number": 2,

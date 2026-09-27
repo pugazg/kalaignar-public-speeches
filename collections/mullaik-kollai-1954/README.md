@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 Tamil T1/T2/T3 COMPLETE / PASS — Tamil `verified-complete` / FROZEN; English E1 NEXT; 2 documented source-damage uncertainties retained — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — 12/12 / 0 Tamil changes; E2 NEXT; 2 documented source-damage uncertainties retained — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -82,11 +82,13 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T3 — **COMPLETE / PASS — 40/40 corrections reconciled / 0 additional source corrections / 0 repairs**
 - active Tamil — **`verified-complete` / FROZEN**
 - active source-limited uncertainties — **2**
+- active English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes / 0 translation unresolved / 5 translator-source notes**
+- active English E2 — **NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 1 — **முல்லைக் கொல்லை** — English **E1 first-pass translation: PDF7–18 / printed pp.7–18 / 12 pages**.
+Constituent 1 — **முல்லைக் கொல்லை** — English **E2 fidelity review: PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Tamil is frozen. Translate only from `speeches/mullaik-kollai/transcription-ta.md`; preserve the two documented source-damage uncertainty annotations transparently and introduce no Tamil changes.
+Review `speeches/mullaik-kollai/translation-en.md` against frozen `transcription-ta.md` page by page. Preserve the two source-damage annotations and necessary translator/source notes; introduce no Tamil changes. Do not begin E3 or repository closure.
