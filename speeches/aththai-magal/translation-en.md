@@ -1,6 +1,6 @@
 # அத்தை மகள் — English Translation
 
-> **Status:** English E1 IN PROGRESS — PDF19–28 / printed pp.19–28 / **10/29 pages first-pass translated**; E2 NOT STARTED  
+> **Status:** English E1 IN PROGRESS — PDF19–38 / printed pp.19–38 / **20/29 pages first-pass translated**; E2 NOT STARTED  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Political labels, polemic and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue / event:** Not established by the source; do not infer.
@@ -110,4 +110,132 @@ Madhavaram is only a small town on the edge of Chennai! Even so, I am delighted 
 We are gathered here at a time when we are conducting a three-pronged agitation against Congress rule gripped by imperialist frenzy and wearing the garland of victory. It is a time when we raise high the cry of rights to behold the dawn of the future Dravida!
 
 There cannot be a single one among you who does not know of the three-pronged agitations conducted by the Dravida Munnetra Kazhagam. In the political sphere, in the social sphere—and in the economic sphere—the struggles we conducted—
+
+### PDF page 29 — printed page 29
+
+—the struggles and the victory we gained are what today repeatedly draw Nehru down to the South.
+
+The struggle we waged in the political sphere was a struggle against Nehru—an agitation for rights against his “nonsense”—a great struggle that dared to defend honour.
+
+Earlier, Delhi imperialism set about imposing Hindi in the midst of refined Tamil, endowed with distinction, glory and the sweetness of sugarcane. To put down that frenzy—to establish the standing of Tamil—not only the Dravida Munnetra Kazhagam but the Dravidar Kazhagam too conducted an anti-Hindi agitation. The intrusive Hindi letters that had appeared smiling on railway stations were buried—erased.
+
+Then Nehru came to the South. He saw the massed force of opposition; his mind faltered. He flared up; the word “nonsense” came from his tongue.
+
+Tamil Nadu, which surged up on hearing that fiery word, was calmed by Anna with his words of affection. Saying “Let us forget—let us forgive,” he showed forgiveness toward Nehru. Just as that incident was fading from the screen of the people's minds, heroes unwilling to surrender the right to the soil at Tiruttani assumed the posture of battle. E. L. C. Krishnasami, secretary of the North Arcot district Dravida Munnetra Kazhagam—
+
+### PDF page 30 — printed page 30
+
+—led two hundred young bulls who sang a war-song. They raised the cry of right: “Tiruttani is a Tamil region.”
+
+Hearing it, Nehru—the Pandit of Allahabad—the Light of Asia—flared up. He said, “Nonsense.” He said, “Childishness.” He said, “Foolishness!”
+
+Were we simply to go on listening? That question arose among us, descendants of heroes with a sense of honour! As a result—as a face set against that—in broad daylight, after publicly informing even the rulers, Anna announced at the Chidambaram conference: “Behold our protest against Nehru's arrogant speech,” and declared that the running trains would be stopped.
+
+At once a fresh vitality appeared again throughout Tamil Nadu! A new uprising set out! The extraordinary event of 5,000 heroes going to prison in a single day also took place.
+
+In the history of India, no party had sent 5,000 people to prison in one day. But the Dravida Munnetra Kazhagam wrote such a new story into history.
+
+Those who took part in the agitation that day were not merely 5,000. Achariyar, leader of the “Bhaja Govindam” grandees, and his police tigers imprisoned only one part of the force—
+
+> **Translator/source note:** PDF30 contains the unusual frozen forms `அதைக் கண்டிக்கு முகத்தான்` and `பஜகோவிந்தப் பூமான்களின்`. E1 keeps their source character visible rather than silently replacing them with a conjectured normalized Tamil reading.
+
+### PDF page 31 — printed page 31
+
+—in order to show Nehru—to show him that the opposition that had arisen against him had been crushed. Arresting everyone who participated in the agitation was not a difficult task; but there was no room in the prisons!
+
+When we were confined in Tiruchirappalli Central Prison, many who had already been serving sentences were released before their terms had ended. When we entered the prison, those prisoners folded their hands to us and blessed us: “May you live long. You have come and got us sent out.”
+
+If Achariyar had arrested every single person who took part in the agitation, there would have been no space to confine them; the Legislative Assembly building itself would have had to be emptied and converted into an “acting” prison. Of the thirty or forty thousand who agitated, the Achariyar regime picked out only about five thousand and gave them prison sentences of two months, three months and the like. It also joined on two frightening, vindictive cases: the Tuticorin conspiracy case and the Kallakudi riot case. Because of these, many of our Kazhagam bulls—some front-line heroes—have been hidden from sight behind iron bars.
+
+Many of our comrades, accused of conspiring in Tuticorin, are confined in the Vilathikulam—
+
+### PDF page 32 — printed page 32
+
+—prison near Tirunelveli. They are suffering under torment.
+
+We rejoice here—we applaud—we speak.
+
+But at this very moment, what is the condition of those comrades who worked shoulder to shoulder with us? They are shut in the prison-house, carrying a gruel-pot in their hands. For ten months, with the case still unfinished, they have been made to suffer in a pitiful condition; they remain confined.
+
+For ten months they have been unable to hear the babbling words of their precious children; unable to see the mothers and fathers who gave birth to them; unable even to see their wives.
+
+Likewise, because they took part in the Kallakudi agitation, friends such as Kannadasan and Dharuma have been given sentences of a year and a half. Because the case is under appeal, they are outside today.
+
+The sufferings borne by the Dravida Munnetra Kazhagam, caught amid such repressions between the terrible teeth of the frenzy for domination, are countless! Countless!—immense! Immense! Our movement endures trials that no other party could bear.
+
+### PDF page 33 — printed page 33
+
+Why are such great trials imposed on us? Why these punishments? Why these chains of repression? Was it wrong to oppose Nehru when, without restraint on his tongue, he spoke of us as “nonsense” and “childish”? Was the form of struggle we launched to teach him a proper lesson wrong? Should we not have done it?
+
+Those who say “wrong”—those who say “it should not be done”—must think for a moment. Can a great man like Nehru speak in such a fashion? One who accepted the title “Light of Asia”—one who gained the esteem “jewel among men”—the pinnacle of peace who sent troops to Korea—can he speak like this? Can he abuse a great society that has surged up? Are those words worthy of his stature? If so, what difference is there between him and a pandaram who treats the platform like a gutter and shouts from it?
+
+A fool may abuse us as “fools”! A petty-minded man may rage that it is “childish”! A madman may abuse us as “madmen”! But can Nehru say these things?
+
+Even if, for the sake of argument, we accept Nehru's statement that we are “madmen,” we cannot then stand before his law!
+
+If we are madmen, we may stand at a distance and throw stones; we may come close and seize someone by the shirt and fling him down; and at the same time, from the law—
+
+### PDF page 34 — printed page 34
+
+—we can escape. Does not Nehru's own statement declare us to be “madmen”? The law cannot touch madness! You are not unaware that in Tiruchirappalli a question has arisen whether the law can seize a woman who shot down with a handgun her wedded husband, a police officer, when she is suspected of being “a woman afflicted by madness”!
+
+Therefore, making use of Nehru's own words, we too—as madmen—as people who have lost self-awareness—could do anything if Anna were to give us a sign with his eyes! But our dignity, sense of duty and discipline prevent such strenuous counter-actions from taking place. It is precisely because the people of this country maintain such rectitude—because they do not lose patience—that these men come, speak wrongly and still escape.
+
+The list of those who come from the North, speak in all manner of improper ways, and go away is growing longer today.
+
+Thus came a man named Prakasa. Rather than call him Prakasa, we may call him the father of democracy—no, no, the grandfather of democracy! He came. He came at a time when, after contesting the election in Dravida and seeing the result, people were looking toward a favourable direction for themselves. He came to safeguard democracy. But what did he do? He did not invite the United Front, which stood together in unity after reducing the strength of the Congress party, to form the ministry. Instead, that great man seated in the ceremonial hall the one who had run in through the back way, and made merry!
+
+> **Translator/source note:** The frozen Tamil on PDF34 retains the unusual phrase `ஆயாச எதிர் வேலைகள்`. E1 renders it conservatively as “strenuous counter-actions” without normalizing the Tamil.
+
+### PDF page 35 — printed page 35
+
+In his northern manner, he surpassed even Nehru! I shall mention one act of his that went against integrity. Listen.
+
+Once he toured Thanjavur district. When he reached Thanjavur town, he saw row upon row of black flags standing against him, welcoming him with their song of protest—the echo of Dravidian opposition! On seeing them he was shaken; he acknowledged the fearsome opposition that had formed against him. Nor did he hesitate to say so openly! Otherwise, why would he have said of the flag-welcome Thanjavur gave him, “This incident reminds me of the Russian Revolution”?
+
+That was the Thanjavur incident on the first day. The next day, it seems, he went to Thiruvarur. It rained without stopping that day. Rainwater stood pooled all along the road. In that condition Prakasa's procession came through. A black-flag welcome occurred along the way too. Prakasa's car moved through the middle, while our people stood packed on both sides in small groups, waving pieces of black cloth and shouting, “Prakasa, go back!”
+
+### PDF page 36 — printed page 36
+
+At that moment, one piece of black cloth slipped from a stick that was being waved. It did not fall to the ground. It flew and landed directly on Prakasa.
+
+That was enough! Prakasa's anger burst beyond all bounds, and he immediately ordered the car to stop. He is said to have leapt down from the car and snatched the staff from the hand of one of those displaying a flag! Then, with that staff, he is said to have begun striking people standing by the roadside—whether they were participants or mere passers-by!
+
+Who?
+
+Not some petty brawler who slaps his thigh, twirls his moustache and jumps into the ring!
+
+But......?
+
+The northern nobleman who came in the line of the embodiment of non-violence—the great personage sent by the “jewel among men”—His Excellency Prakasa, the Governor who came as a pillar to the tottering Congress fortress!
+
+He, it seems, performed this “vastadu” act.
+
+Could he do that? I ask again: could he commit such a degraded act? Listen further. Prakasa, staff in hand, is said to have chased and beaten the people standing there, making them run and run.
+
+> **Translator/source note:** PDF36 retains the source forms `வஸ்தாது` and `கம்பெந்திய`. E1 keeps the former visibly as “vastadu” and renders the latter by its immediate sentence sense, “staff in hand,” without altering the frozen Tamil.
+
+### PDF page 37 — printed page 37
+
+The road was full of mud and mire—small pools of reddish water everywhere. If Prakasa, unused to running through such ground, ran there, what would happen? Exactly that happened. Prakasa slipped in the mud and fell down. The splashing reddish water painted a red border even on his clothes. At once the Collector and the other important men who had been standing there enjoying his terrible dance rushed forward, embraced Prakasa and lifted him upright. Like restraining a temple priest who has become possessed and dances at a Mariamman temple, they then calmed him down, it seems.
+
+The day after this incident, Prakasa went to Nagapattinam. There, realizing the truth and unable to conceal it, he said: “I had thought that the movement formed against northern imperialism consisted of only a few people. Only now do I understand that many people fill its ranks.”
+
+In Thanjavur he says “Russian Revolution”; in Thiruvarur he dared to beat people; in Nagapattinam wisdom came to him and he spoke. Why? Because the Dravidian movement has grown to that extent here.
+
+In the political sphere we conducted an agitation against Nehru—and against his “nonsense.” At the same time, in the social sphere we opposed Achariyar's hereditary-dharma education scheme, and in the economic sphere we struggled to change Dalmiyapuram into Kallakudi—
+
+### PDF page 38 — printed page 38
+
+—we conducted these struggles. Amid the frenzy of repression unleashed by Achariyar, frightened by the agitations, we sacrificed six people. We made an offering for the liberation of Mother Dravida.
+
+Not only six people—from the day we entered that good work, how many people have we sacrificed!
+
+Because of his steadfast hold on principle, Udayarpalayam Velayudham, caught in the cruelty of evil-minded men, hung dead from a tree. My heart trembles when I think of it. His wife rolling on the earth and weeping—his little children circling the hanging body—relatives and kin crying aloud—there hung that lord of principle from the tree, not by suicide, but by murder at the hands of the “Turukkars”!
+
+Next, the rulers took away Thalamuthu and Natarajan. They were thrown into prison because they fought for language—opposing Hindi, which had entered to sing a Sindhu in the midst of classical Tamil. But alas! The next time we saw them, it was as corpses—great sacrifices to frenzied domination.
+
+Next, the great hero Majid, because he had worked for the Labour Party in an election in the Cuddalore region, bore a dagger in his chest! He shed red blood and became a corpse!
+
+> **Translator/source note:** PDF38's frozen Tamil reads `துருக்கர்களின் கொலையால்`. E1 preserves that anomalous source form as “at the hands of the ‘Turukkars’” rather than silently substituting a different word.
 
