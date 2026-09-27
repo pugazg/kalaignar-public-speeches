@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–2 PDF19–28 COMPLETE / PASS — 12 cumulative corrections/actions — 10/29 checked; 1 source-obscured reading retained overall — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–3 PDF19–33 COMPLETE / PASS — 16 cumulative corrections/actions — 15/29 checked; 1 source-obscured reading retained overall — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -86,11 +86,12 @@ See `DUPLICATE_AUDIT.md`.
 - active outgoing boundary — **PDF47→48 PASS / PDF48 begins `நம் மேடை`**
 - active Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
 - active Tamil T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions**
-- active Tamil T2 cumulative — **10/29 pages checked / 12 corrections/actions / 0 unresolved in audited pages**
+- active Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
+- active Tamil T2 cumulative — **15/29 pages checked / 16 corrections/actions / 0 unresolved in audited pages**
 - active Tamil T2 — **IN PROGRESS**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to **Tamil T2 strict visual audit, Batch 3 PDF29–33 / printed pp.29–33 / 5 pages**. Apply source-supported corrections only; do not begin T3 or English in the same activity.
+Constituent 2 — **அத்தை மகள்** — proceed to **Tamil T2 strict visual audit, Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**. Apply source-supported corrections only; do not begin T3 or English in the same activity.
