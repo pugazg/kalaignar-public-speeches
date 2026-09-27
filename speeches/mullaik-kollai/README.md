@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE / 12/12 / 2 explicit unresolved / T2 READY**
+**Status: ACTIVE — Tamil T1 COMPLETE / T2 IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 3 explicit unresolved overall**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -35,15 +35,26 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 ## Tamil T1 checkpoint
 
 - T1 coverage — **PDF7–18 / printed pp.7–18 / 12/12 pages**
-- explicit unresolved readings — **2**
+- T1 explicit unresolved readings at handoff — **2**
+- current explicit unresolved after T2 Batch 1 — **3**
 - page-boundary candidates logged — **8**
 - historical-glyph first-pass discipline — **applied; final verification pending T2**
 - canonical working Tamil — `transcription-ta.md`
 - audit — `audit.md`
 - Tamil — **not yet verified / not frozen**
 
+## Tamil T2 checkpoint after Batch 1
+
+- audited — **PDF7–11 / printed pp.7–11 / 5/12 pages**
+- source-supported corrections — **19**
+- unresolved in audited pages — **2**
+- explicit unresolved overall — **3** including pending PDF12
+- boundary controls checked — **PDF7→8 PASS / PDF9→10 unresolved / PDF10→11 PASS / PDF11→12 PASS**
+- historical-glyph review — **Batch 1 complete / no extra glyph-only unresolved**
+- Tamil — **not verified / not frozen**
+
 ## Next gate
 
-Tamil **T2 strict visual fidelity audit — Batch 1: PDF7–11 / printed pp.7–11 / 5 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
 
-Compare every line against source pixels, apply only source-supported corrections, and update `audit.md`. Do not begin T3 or English.
+Resolve or preserve the PDF12 technical phrase, check every line and the PDF12→13 / PDF13→14 / PDF14→15 continuations. Do not begin the final T2 batch, T3 or English.
