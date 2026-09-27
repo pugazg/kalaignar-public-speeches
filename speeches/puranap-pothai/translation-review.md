@@ -3,7 +3,7 @@
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **English layer:** `translation-en.md` — E1 FIRST-PASS COMPLETE / 22/22  
 > **E2 review scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-> **Review finding state:** page-by-page comparison COMPLETE; **15 confirmed English corrections / 0 unresolved** identified for consolidation  
+> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF80–101 / 22/22 pages; 15 corrections / 0 unresolved / 0 Tamil changes**  
 > **Tamil changes:** 0
 
 ## Review method
@@ -52,8 +52,43 @@ The English page sequence remains PDF80–101 / printed pp.79–100. All source-
 
 PDF101 remains the constituent ending. PDF102 remains outside the English body.
 
-## Next consolidation action
+## E2 consolidation / post-correction sweep — COMPLETE / PASS
 
-Apply the 15 confirmed English corrections to `translation-en.md`, retain frozen Tamil unchanged, then re-read the corrected English layer end to end before marking E2 COMPLETE / PASS.
+All **15 confirmed corrections** were applied to `translation-en.md`. The frozen Tamil layer was not changed.
 
-E3 must remain NOT STARTED during this step.
+Post-consolidation checks:
+
+- English page headings PDF80–101 — **22/22 exactly once / ordered**
+- printed pp.79–100 — **continuous**
+- all 15 E2 corrections — **present**
+- superseded E1 readings — **absent**
+- translator/source notes — **4 retained**:
+  - PDF84 — source compound `கொலைக் கஞ்சாக்`
+  - PDF87 — source `அய்வேலங்காய்`
+  - PDF98 — source sequence `மூவரும் தேவரும், முனிவரும் அனைவரும்`
+  - PDF101 — doubled removal sequence `போதை நீங்கிய நீக்கப்பட்ட...`
+- all 11 cross-page continuations — **PASS**
+- omissions — **none unresolved**
+- unsupported additions — **none unresolved**
+- meaning reversals — **none**
+- quoted speech / repeated rhetoric — **PASS**
+- names and mythological/religious terms — **PASS after E2 corrections**
+- PDF101 constituent ending — **PASS**
+- PDF102 exclusion — **PASS**
+- frozen Tamil changes during E2 — **0**
+- second complete corrected-English sweep — **0 further fidelity issues**
+
+## English review state
+
+- E1 — **FIRST-PASS COMPLETE / 22/22**
+- E2 — **COMPLETE / PASS / 22/22 — 15 corrections / 0 unresolved / 0 Tamil changes**
+- E3 — **READY / NOT STARTED**
+- English — **not yet `verified-complete`; E3 remains required**
+
+## Next gate
+
+Proceed to **English E3 final end-to-end verification — PDF80–101 / printed pp.79–100 / all 22 pages**.
+
+Re-read the corrected English layer from beginning to end against frozen Tamil, verify all 15 E2 corrections and all 4 translator/source notes, and check for stale wording, omissions, additions, reversals, page-boundary loss and rhetorical weakening.
+
+Do not mark English `verified-complete` or begin repository closure until E3 passes.
