@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **IN PROGRESS — PDF19–43 / 25/29 drafted**; 1 source-obscured T1 reading; T2 NOT STARTED
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29 drafted**; 1 source-obscured T1 reading retained; Tamil T2 **NEXT / NOT STARTED**
 
 ## T1 method
 
@@ -266,18 +266,69 @@ Character identity was decoded into modern Unicode without lexical modernization
 - **PDF42→43** — `மாலங் / கோவும்` — candidate assembled reading **`மாலங்கோவும்`**; recheck in T2.
 - **PDF43→44** — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` — semantic continuation; adjoining PDF44 inspected only to establish the boundary.
 
-## T1 progress after Batch 5
+## T1 Batch 6 FINAL — PDF44–47 / printed pp.44–47
 
-- drafted — **PDF19–43 / 25 of 29 pages**
-- printed pages — **19–43**
-- pages remaining — **PDF44–47 / 4 pages**
-- explicit unresolved/source-obscured — **1**
-- historical-glyph first-pass — **through PDF43**
-- Tamil T1 — **IN PROGRESS**
+**Status: COMPLETE — 4/4 pages drafted.**
+
+- PDF44 — complete first-pass transcription
+- PDF45 — complete first-pass transcription
+- PDF46 — complete first-pass transcription
+- PDF47 — complete first-pass transcription / constituent ending
+- cumulative T1 — **29/29**
+- explicit unresolved/source-obscured readings — **1 overall**, unchanged from PDF40
+- new Batch 6 unresolved readings — **0**
+
+### Batch 6 source-sensitive first-pass controls
+
+Retained exactly for strict T2 recheck:
+
+- **PDF44** — `பிரஞ்சத் திட்டுகளிலிருந்து`
+- **PDF44** — `ஆசியதினம்`
+- **PDF44** — `நடைபாதைவாசிக்கும்`
+- **PDF44→45** — page split `இங் / குள்ள` → candidate assembled `இங்குள்ள`
+- **PDF45** — `பாலும்தேனும்`
+- **PDF45** — `போர் பரணியின்`
+- **PDF45** — `டெலஸ்கோப்`
+- **PDF45** — `வரளக்`
+- **PDF46** — `இழித்துரையே`
+- **PDF46** — `எடுத்துப்பார்`
+- **PDF46** — `தலைவர்தானு`
+- **PDF46** — `எச்சக்களை`
+- **PDF47** — `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`
+
+These are T2 priorities, not automatic corrections.
+
+### Batch 6 historical-glyph first-pass
+
+PDF44–47 were inspected at enlarged/native render under the repository historical-Tamil guide, including the required family set:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Character identity was decoded into modern Unicode without lexical modernization. No global replacement was used.
+
+### Batch 6 / outgoing-boundary controls
+
+- **PDF43→44** — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` — semantic continuation.
+- **PDF44→45** — `இங் / குள்ள` — candidate assembled reading **`இங்குள்ள`**; recheck in T2.
+- **PDF45→46** — PDF45 closes a question sequence; PDF46 begins a new argument; no split word.
+- **PDF46→47** — PDF46 closes `எடுத்துக் காட்டுகிறது.`; PDF47 begins the final exhortation; no split word.
+- **PDF47→48** — **CONSTITUENT BOUNDARY PASS**: PDF47 ends `பூரிப்படைவோம்!`; PDF48 begins the distinct heading **`நம் மேடை`**. No PDF48 text belongs to `அத்தை மகள்`.
+
+## T1 final state
+
+- coverage — **PDF19–47 / printed pp.19–47 / 29/29**
+- page blocks — **29/29**
+- historical-glyph first-pass — **through PDF47**
+- explicit source-obscured readings — **1 (PDF40)**
+- Tamil T1 — **FIRST-PASS COMPLETE**
 - Tamil T2 — **NOT STARTED**
-- Tamil — **not verified / not frozen**
+- Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
+
+The sole PDF40 obscured reading remains a source-limit marker and must not be contextually completed during T2 unless the same-edition image itself supports a reading.
 
 ## Next gate
 
-Complete Tamil T1 with the **final 4 pages PDF44–47**. Do not begin T2 until the complete PDF19–47 first-pass transcription exists.
+Begin **Tamil T2 strict visual audit — Batch 1 PDF19–23 / printed pp.19–23 / 5 pages**.
+
+Recheck every line against rendered scan pixels, apply source-supported corrections only, inspect historical glyph identities and recorded page-boundary controls, and keep the PDF40 source-obscured marker unresolved unless the same-edition image resolves it. Do **not** begin T3 or English in the same activity.
