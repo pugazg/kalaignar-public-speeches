@@ -1,6 +1,6 @@
 # புராணப்போதை — 1958 multi-speech booklet
 
-**Status: ACTIVE — constituents 1–5 FINAL CLOSED / constituent 6 Tamil+English VERIFIED / repository closure READY — 6/6 constituents mapped**
+**Status: FINAL-CLOSED / FULLY ARCHIVED — all 6/6 constituents FINAL CLOSED / RELEASE READY**
 
 ## Controlling source
 
@@ -46,7 +46,7 @@ Important source-structure decisions:
 **PASS — no existing dedicated archive found in the checked live repositories/indexes.**
 Later 1987/2004 குட்டிக் கதைகள் collections are distinct sources and were left unchanged.
 
-## Current workflow
+## Final workflow
 
 - source-gated constituents — **6/6**
 - constituents with Tamil T1 complete — **6/6**
@@ -55,9 +55,11 @@ Later 1987/2004 குட்டிக் கதைகள் collections are dist
 - constituent 3 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 - constituent 4 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/pangeedu-ozhippu-bhagavan-meethu-baram/FINAL_CLOSURE.md`**
 - constituent 5 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/kelvik-kuri/FINAL_CLOSURE.md`**
-- constituent 6 — **ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E1 COMPLETE 22/22; E2 COMPLETE / PASS with 15 corrections / 0 unresolved; E3 COMPLETE / PASS with 4 additional corrections / 0 unresolved; repository closure READY — புராணப் போதை!**
+- constituent 6 — **FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; final report `speeches/puranap-pothai/FINAL_CLOSURE.md`**
 - Tamil verified constituents — **6/6**
 - English verified constituents — **6/6**
-- fully archived constituents — **5/6**
+- fully archived constituents — **6/6**
+- collection closure — **FINAL-CLOSED / FULLY ARCHIVED**
+- collection final report — `FINAL_CLOSURE.md`
 
-Exact next gate: constituent 6 — **புராணப் போதை! — repository-level archival closure / release-readiness synchronization**.
+Exact next activity: **none for this collection**. Reopen only for genuinely new source evidence or a documented fidelity/provenance issue.
