@@ -8,7 +8,7 @@ Archive: `speeches/mullaik-kollai/`
 
 - parent — **முல்லைக் கொல்லை** (1954 source booklet)
 - parent collection — `collections/mullaik-kollai-1954/`
-- constituent — **1 / 5 — ACTIVE**
+- constituent — **1 / 5 — FINAL CLOSED / RELEASE READY**
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
@@ -85,8 +85,15 @@ Tamil is frozen. Any Tamil change requires new direct source evidence and, once 
 - translator/source notes retained — **8/8**
 - English — **`verified-complete`**
 
-## Exact next activity
+## Final closure
 
-Perform **repository archival closure for constituent 1 — முல்லைக் கொல்லை**.
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- final report — `FINAL_CLOSURE.md`
+- Tamil / English body changes introduced by closure — **0**
 
-Verify final file completeness, frozen Tamil / verified English state, both source-limit annotations, metadata and control-document consistency, and release readiness. Do not reopen Tamil or English for stylistic polishing.
+No routine work remains for this constituent.
+
+The parent collection continues with **constituent 2 / 5 — அத்தை மகள்**, PDF19–47 / printed pp.19–47 / 29 pages, Tamil T1 **READY / NOT STARTED**.
+
+Reopen this constituent only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; never for stylistic polishing.
