@@ -69,8 +69,8 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "aththai-magal",
     "active_constituent_title_ta": "அத்தை மகள்",
-    "next_gate": "Constituent 2 / அத்தை மகள் — continue Tamil T1 from PDF39 onward",
-    "collection_status": "active-constituent-2-tamil-t1-in-progress",
+    "next_gate": "Constituent 2 / அத்தை மகள் — Tamil T1 FINAL PDF44–47 / 4 pages",
+    "collection_status": "active-constituent-2-tamil-t1-final-batch-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -155,13 +155,14 @@
       "source_gate": "pass-complete",
       "active": true,
       "tamil_t1": "in-progress",
-      "next_gate": "tamil-t1-pdf39-onward",
-      "tamil_t1_pages_completed": 20,
-      "tamil_t1_through_pdf_page": 38,
-      "tamil_t1_through_printed_page": 38,
-      "tamil_t1_batches_complete": 4,
-      "tamil_t1_explicit_uncertainties": 0,
-      "tamil_historical_glyph_first_pass_through_pdf_page": 38
+      "next_gate": "tamil-t1-final-pdf44-47",
+      "tamil_t1_pages_completed": 25,
+      "tamil_t1_through_pdf_page": 43,
+      "tamil_t1_through_printed_page": 43,
+      "tamil_t1_batches_complete": 5,
+      "tamil_t1_explicit_uncertainties": 1,
+      "tamil_historical_glyph_first_pass_through_pdf_page": 43,
+      "tamil_t1_source_obscured_uncertainties": 1
     },
     {
       "number": 3,
