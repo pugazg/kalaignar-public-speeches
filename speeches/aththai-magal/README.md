@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil T1 IN PROGRESS — Batch 1 PDF19–23 / 5/29 drafted; T2 NOT STARTED**
+**Status: ACTIVE — Tamil T1 IN PROGRESS — Batches 1–2 PDF19–28 / 10/29 drafted; T2 NOT STARTED**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -30,9 +30,10 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 
 ## Tamil workflow
 
-- Tamil T1 Batch 1 — **COMPLETE — PDF19–23 / printed pp.19–23 / 5 pages**
-- Tamil T1 cumulative — **5/29 pages drafted**
-- historical-glyph first-pass — **COMPLETE through PDF23**
+- Tamil T1 Batch 1 — **COMPLETE — PDF19–23 / 5 pages**
+- Tamil T1 Batch 2 — **COMPLETE — PDF24–28 / 5 pages**
+- Tamil T1 cumulative — **10/29 pages drafted**
+- historical-glyph first-pass — **COMPLETE through PDF28**
 - explicit unresolved T1 readings — **0**
 - Tamil T1 — **IN PROGRESS**
 - Tamil T2 — **NOT STARTED**
@@ -41,8 +42,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
-Source-sensitive first-pass forms retained for strict T2 include PDF21 `திடீரென திடும் திடுமென`, PDF22 `வீணை எண்ணத்தால்` and `சிரிப்பாய்கிறார்`, and PDF23 `சுதந்திரத் திருவிடத்திலே`. These are not modernized in T1.
+Source-sensitive first-pass forms retained for strict T2 include the earlier PDF21–23 items plus PDF24 `ஐந்தாறு`, PDF25 `அந்தப்பால் மணம்`, PDF26 `விழலுக் கிரைத்த நீராகி`, PDF27 `பார்க்கச் சுவைக்கும்` / historical-`னா` `சீனாவின்`, and PDF28 `புதுமைப் பொலிவையும்`. These are not modernized in T1.
 
 ## Next gate
 
-Continue **Tamil T1 first-pass transcription — PDF24 onward**. Keep explicit page mapping and source-sensitive notes. Do not begin T2, T3 or English until the complete 29-page T1 body exists.
+Continue **Tamil T1 first-pass transcription — PDF29 onward**. Keep explicit page mapping and source-sensitive notes. Do not begin T2, T3 or English until the complete 29-page T1 body exists.
