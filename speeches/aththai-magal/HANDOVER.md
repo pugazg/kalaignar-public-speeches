@@ -39,7 +39,11 @@ Archive: `speeches/aththai-magal/`
 - T2 — **COMPLETE / PASS**
 - T3 — **COMPLETE / PASS — 44/44 T2 corrections/actions reconciled**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **NEXT / NOT STARTED**
+- English E1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages**
+- English E1 frozen Tamil changes — **0**
+- English E1 source-limited uncertainties carried — **1/1**
+- English E1 translator/source notes — **8**
+- English E2 — **NEXT / NOT STARTED**
 
 Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 6 adds PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`.
 
@@ -138,8 +142,20 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 
 Any later Tamil change requires documented source evidence and dependent English re-verification.
 
+## English E1 durable checkpoint
+
+- translation — `translation-en.md`
+- coverage — **PDF19–47 / printed pp.19–47 / 29/29**
+- authority — **frozen `transcription-ta.md` only**
+- Tamil changes — **0**
+- English E1 unresolved — **0**
+- source-limited uncertainties carried — **1/1 (PDF40)**
+- translator/source notes — **8**
+- E1 status — **FIRST-PASS COMPLETE**
+- E1 is **not** an E2 fidelity-review claim
+
 ## Exact next activity
 
-Begin **English E1 first-pass translation — PDF19–47 / printed pp.19–47 / 29 pages** from the frozen `transcription-ta.md`.
+Proceed to **English E2 fidelity review — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Carry the PDF40 source-limited uncertainty transparently and do not infer hidden Tamil letters. Do not begin E2/E3 in the same activity.
+Compare every English page against frozen Tamil, log confirmed fidelity findings in `translation-review.md`, and apply corrections to `translation-en.md`. Do not begin E3 or repository closure in the same activity.
