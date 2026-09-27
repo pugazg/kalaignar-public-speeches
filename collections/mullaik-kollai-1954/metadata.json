@@ -1,0 +1,163 @@
+{
+  "id": "mullaik-kollai-1954",
+  "title": {
+    "ta": "முல்லைக் கொல்லை"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "role": "author / speaker"
+  },
+  "document_type": "compiled-public-address-and-political-prose-booklet",
+  "language": "ta",
+  "publication": {
+    "edition_text": "முதற்பதிப்பு — ஆடி திங்கள் 1954. (உரிமை பெற்றது)",
+    "edition_year": 1954,
+    "edition_month_tamil": "ஆடி",
+    "publisher_or_issuer_ta": "K. R. நாராயணன்",
+    "publisher_place_source_text": "சென்னை-5",
+    "printer_ta": "சங்கர் பிரிண்டர்ஸ்",
+    "printer_address_ta": "114, பிராட்வே, சென்னை-1",
+    "sales_rights_ta": "திரவியம் கம்பெனி, 132, பிராட்வே, சென்னை",
+    "back_ad_price_text": "1-0-0",
+    "price_note": "Price is taken from the publisher advertisement on PDF80, not from the cover/imprint."
+  },
+  "source": {
+    "filename": "TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf",
+    "source_id": "TVA_BOK_0064364",
+    "sha256": "1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f",
+    "file_size_bytes": 90473039,
+    "pdf_pages": 80,
+    "binary_committed": false,
+    "scan_status": "primary source supplied by repository owner",
+    "parsed_text_layer": "none",
+    "front_matter_pdf_start": 1,
+    "front_matter_pdf_end": 6,
+    "main_text_pdf_start": 7,
+    "main_text_pdf_end": 67,
+    "blank_separator_pdf": 68,
+    "supplementary_author_text_pdf_start": 69,
+    "supplementary_author_text_pdf_end": 70,
+    "paratext_pdf_start": 71,
+    "paratext_pdf_end": 79,
+    "publisher_ad_pdf": 80,
+    "printed_to_pdf_offset": 0
+  },
+  "source_context": {
+    "front_note": "PDF4 is an 'என் உரை' front-matter note signed K. R. நாராயணன் and dated 17-7-54.",
+    "contents_note": "PDF6 lists five main texts. The last two are listed as 'இலட்சிய இதழ்' then 'கைத்தறி வாங்கலையோ', but the physical body presents the handloom piece first and 'இலட்சிய இதழ்கள்' second.",
+    "supplementary_note": "PDF69–70 is an unlisted explanatory author article headed ‘முரசொலி’ துப்பாக்கி; it is mapped as supplementary material, not as a sixth listed constituent.",
+    "back_matter_note": "PDF71–79 contains rights/review letters, correspondence and source-provenance notes; PDF80 is a publisher advertisement.",
+    "speech_metadata_policy": "Publication/provenance dates in the booklet are not automatically speech dates. Constituent date/venue/event fields remain null unless the source explicitly establishes them."
+  },
+  "duplicate_audit": {
+    "status": "pass-no-existing-dedicated-archive-found",
+    "date": "2026-09-27",
+    "report": "DUPLICATE_AUDIT.md",
+    "scope": "live public-speeches repository plus available pugazg GitHub code index"
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "duplicate_check": "pass-no-existing-dedicated-archive-found",
+    "source_boundary_mapping": "complete",
+    "constituent_items_total": 5,
+    "constituent_items_mapped": 5,
+    "constituent_items_source_gated": 5,
+    "constituent_items_t1_complete": 0,
+    "constituent_items_tamil_verified": 0,
+    "constituent_items_english_verified": 0,
+    "constituent_items_archived": 0,
+    "active_constituent_number": 1,
+    "active_constituent_slug": "mullaik-kollai",
+    "active_constituent_title_ta": "முல்லைக் கொல்லை",
+    "next_gate": "Tamil T1 first-pass transcription — constituent 1 / PDF7–18 / printed pp.7–18 / 12 pages",
+    "collection_status": "active-constituent-1-t1-ready",
+    "pending_transcription_or_translation_work": true
+  },
+  "constituents": [
+    {
+      "number": 1,
+      "slug": "mullaik-kollai",
+      "title_ta": "முல்லைக் கொல்லை",
+      "pdf_start": 7,
+      "pdf_end": 18,
+      "printed_start": 7,
+      "printed_end": 18,
+      "pages": 12,
+      "archive_path": "speeches/mullaik-kollai/",
+      "source_gate": "pass-complete",
+      "active": true,
+      "tamil_t1": "ready-not-started",
+      "tamil_t2": "blocked-pending-t1",
+      "tamil_t3": "blocked-pending-t2",
+      "english_e1": "blocked-pending-tamil-freeze"
+    },
+    {
+      "number": 2,
+      "slug": "aththai-magal",
+      "title_ta": "அத்தை மகள்",
+      "pdf_start": 19,
+      "pdf_end": 47,
+      "printed_start": 19,
+      "printed_end": 47,
+      "pages": 29,
+      "archive_path": "speeches/aththai-magal/",
+      "source_gate": "pass-complete",
+      "active": false,
+      "tamil_t1": "not-started"
+    },
+    {
+      "number": 3,
+      "slug": "nam-medai",
+      "title_ta": "நம் மேடை",
+      "pdf_start": 48,
+      "pdf_end": 56,
+      "printed_start": 48,
+      "printed_end": 56,
+      "pages": 9,
+      "archive_path": "speeches/nam-medai/",
+      "source_gate": "pass-complete",
+      "active": false,
+      "tamil_t1": "not-started"
+    },
+    {
+      "number": 4,
+      "slug": "kaiththari-vaangalaiyo",
+      "title_ta": "“கைத்தறி வாங்கலையோ”",
+      "contents_title_ta": "கைத்தறி வாங்கலையோ",
+      "pdf_start": 57,
+      "pdf_end": 62,
+      "printed_start": 57,
+      "printed_end": 62,
+      "pages": 6,
+      "archive_path": "speeches/kaiththari-vaangalaiyo/",
+      "source_gate": "pass-complete",
+      "active": false,
+      "tamil_t1": "not-started"
+    },
+    {
+      "number": 5,
+      "slug": "ilatchiya-ithazhgal",
+      "title_ta": "இலட்சிய இதழ்கள்",
+      "contents_title_ta": "இலட்சிய இதழ்",
+      "pdf_start": 63,
+      "pdf_end": 67,
+      "printed_start": 63,
+      "printed_end": 67,
+      "pages": 5,
+      "archive_path": "speeches/ilatchiya-ithazhgal/",
+      "source_gate": "pass-complete",
+      "active": false,
+      "tamil_t1": "not-started"
+    }
+  ],
+  "supplementary_material": [
+    {
+      "title_ta": "‘முரசொலி’ துப்பாக்கி",
+      "pdf_start": 69,
+      "pdf_end": 70,
+      "pages": 2,
+      "role": "unlisted-author-appendix-article",
+      "source_note": "Not counted among the five PDF6 contents-list constituents."
+    }
+  ]
+}
