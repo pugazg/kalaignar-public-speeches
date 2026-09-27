@@ -1,11 +1,14 @@
 # முல்லைக் கொல்லை — English translation fidelity review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF7–18 / 12/12 pages**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF7–18 / 12/12 pages**  
 > **Tamil authority:** `transcription-ta.md` — **`verified-complete` / FROZEN**  
 > **E1 coverage:** **12/12 pages**  
 > **E2 corrections:** **15**  
 > **E2 unresolved:** **0**  
 > **Tamil changes during E2:** **0**  
+> **E3 additional corrections:** **3**  
+> **E3 unresolved:** **0**  
+> **Tamil changes during E3:** **0**  
 > **Source-damage uncertainties retained:** **2/2**
 
 ## E2 correction ledger
@@ -55,15 +58,63 @@
 - E2 unresolved English fidelity findings — **0**
 - frozen Tamil changed during E2 — **No**
 
+## E3 final verification — COMPLETE / PASS
+
+The complete post-E2 English layer was re-read end to end against the frozen Tamil, then rechecked after the E3 corrections below.
+
+### E3 correction ledger
+
+| PDF | Post-E2 issue | E3 correction |
+|---:|---|---|
+| 9 | the damaged terminal clause inserted “speaking of,” supplying a grammatical relation not present in the frozen damaged Tamil | removed the inference and preserved the broken source sequence around the damaged `நான் சென்…` fragment |
+| 11 | `எத்தன்மையிலே` was rendered awkwardly as “in what nature,” obscuring the direct question | corrected to **“in what form”** |
+| 11 | `சொல்லத்தகாததை` was rendered “what cannot be spoken of,” turning a suitability judgment into impossibility | corrected to **“what is unfit even to speak of”** |
+
+A non-substantive Markdown layout defect on PDF16 was also repaired so the existing `சுரண்டி` translator/source note renders as a separate blockquote. This changed no English meaning and is not counted among the three E3 fidelity corrections.
+
+### E3 end-to-end checks
+
+- English page headings PDF **7–18** — **12/12, exactly once, in order**
+- printed-page mapping **7–18** — **PASS**
+- all **15 E2 corrections** — **present**
+- all **3 E3 corrections** — **present**
+- stale pre-E2 / pre-E3 wording — **none found**
+- translator/source notes — **8/8 retained**
+- PDF7→8 continuation — **PASS**
+- PDF8 physical source-loss annotation — **PASS / retained without reconstruction**
+- PDF9→10 damaged continuation — **PASS / retained without reconstruction**
+- PDF10→11 continuation — **PASS**
+- PDF11→12 continuation — **PASS**
+- PDF12→13 continuation — **PASS**
+- PDF13→14 continuation — **PASS**
+- PDF14→15 continuation — **PASS**
+- PDF17→18 continuation — **PASS**
+- PDF18 constituent ending — **PASS**
+- omissions — **none found**
+- unsupported additions — **none found after E3 correction**
+- meaning reversals — **none found**
+- subjects / pronouns — **PASS**
+- names / titles / source-sensitive forms — **PASS**
+- rhetorical force / repetition — **PASS**
+- source political/religious claims and labels — **represented as source rhetoric; not independently validated or endorsed**
+- E3 additional fidelity corrections — **3**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+A second complete post-correction sweep found **0 further English fidelity issues**.
+
 ## English verification state
 
-- E1 — **FIRST-PASS COMPLETE / 12/12**
+- E1 — **COMPLETE / 12/12**
 - E2 — **COMPLETE / PASS / 12/12 — 15 corrections / 0 unresolved**
-- E3 — **NOT STARTED**
-- English — **not yet `verified-complete`**
+- E3 — **COMPLETE / PASS / 12/12 — 3 additional corrections / 0 unresolved**
+- source-damage uncertainties carried transparently — **2/2**
+- translator/source notes — **8/8 retained**
+- English — **`verified-complete`**
+- frozen Tamil — **unchanged**
 
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**.
+Proceed to **repository archival closure for constituent 1 — முல்லைக் கொல்லை**.
 
-Re-read the complete post-E2 English against frozen Tamil from beginning to end, verify all 15 E2 corrections and 8 translator/source notes, and make any final source-fidelity corrections if needed. Introduce **0 Tamil changes**. Do not perform repository closure in the same step.
+Closure should verify the frozen Tamil, verified English, source-limit annotations, metadata/control synchronization, final file set, and release-readiness state. Do not reopen Tamil or English for stylistic polishing.
