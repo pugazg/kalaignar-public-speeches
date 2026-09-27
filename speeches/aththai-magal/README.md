@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE; Tamil T2 IN PROGRESS — Batches 1–3 PDF19–33 COMPLETE / PASS — 16 cumulative corrections/actions — 15/29 checked; 1 source-obscured reading retained overall**
+**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE; Tamil T2 IN PROGRESS — Batches 1–4 PDF19–38 COMPLETE / PASS — 25 cumulative corrections/actions — 20/29 checked; 1 source-obscured reading retained overall**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -43,7 +43,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions / 0 unresolved in audited pages**
 - Tamil T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions / 0 unresolved in audited pages**
 - Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions / 0 unresolved in audited pages**
-- Tamil T2 cumulative — **15/29 pages checked / 16 corrections/actions**
+- Tamil T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions / 0 unresolved in audited pages**
+- Tamil T2 cumulative — **20/29 pages checked / 25 corrections/actions**
 - Tamil T2 — **IN PROGRESS**
 - Tamil T3 — blocked pending complete T1/T2
 - English — blocked pending Tamil freeze
@@ -54,4 +55,4 @@ Source-sensitive first-pass forms retained for strict T2 include all earlier bat
 
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 4 PDF34–38 / 5 pages**. Apply only source-supported corrections and do not begin T3 or English in the same activity.
+Proceed to **Tamil T2 strict visual audit — Batch 5 PDF39–43 / 5 pages**. Recheck the PDF40 source-obscured phrase without inferring hidden letters; apply only source-supported corrections and do not begin T3 or English in the same activity.
