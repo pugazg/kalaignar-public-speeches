@@ -11,8 +11,14 @@ Archive: speeches/puranap-pothai/
 - boundary gate — PASS
 - Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
 - Tamil T2 — **COMPLETE / PASS — PDF80–101 / 22/22 pages; 4 corrections / 0 unresolved; 11/11 recorded boundaries PASS; PDF102 exclusion PASS**
-- Tamil T3 — **READY / NOT STARTED**
-- English — blocked pending Tamil freeze
+- Tamil T3 — **COMPLETE / PASS**
+- T3 correction instances reconciled — **4/4**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- T3 unresolved — **0**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
+- English E2/E3 — blocked pending E1
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 
@@ -37,10 +43,27 @@ Archive: speeches/puranap-pothai/
 - PDF101 terminal ending / PDF102 publisher-back-catalogue boundary — **PASS**
 - Tamil T2 — **COMPLETE / PASS**
 
+## T3 durable checkpoint
+
+- PDF80–101 coverage — **22/22 exactly once / ordered**
+- printed pp.79–100 — **continuous / PASS**
+- all 4 T2 corrections — **present**
+- stale superseded T1 readings — **none found**
+- recorded page-boundary controls — **11/11 PASS**
+- PDF101 constituent ending / PDF102 publisher-back-catalogue exclusion — **PASS**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- T3 unresolved — **0**
+- Tamil — **`verified-complete` / FROZEN**
+
+## Freeze rule
+
+Do not alter the frozen Tamil for stylistic polishing, modernization, normalization or translation convenience. Any later Tamil change requires documented source evidence and dependent English re-verification.
+
 ## Exact next activity
 
-Tamil **T3 consolidation / freeze — PDF80–101 / printed pp.79–100 / all 22 pages**.
+English **E1 first-pass translation — PDF80–101 / printed pp.79–100 / all 22 pages**.
 
-Reconcile all 4 T2 corrections, verify exact page coverage/order and all 11 boundary controls, confirm stale T1 readings are absent, and confirm PDF102 remains excluded. Mark Tamil `verified-complete` / FROZEN only if T3 passes with 0 unresolved.
+Translate only from frozen `transcription-ta.md`, preserving page correspondence, repetition, rhetoric, names, source-sensitive forms and unusual constructions. Political/religious claims are source rhetoric; do not independently validate or endorse them.
 
-Do not begin English before the Tamil freeze.
+Do not begin E2 or E3 in the same step.
