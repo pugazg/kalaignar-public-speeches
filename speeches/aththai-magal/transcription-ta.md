@@ -1,9 +1,9 @@
 # அத்தை மகள் — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — PDF19–47 / 29/29; Tamil T2 **COMPLETE / PASS — 29/29 pages / 44 cumulative source-supported corrections/actions**; **1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved**; T3 NEXT / NOT STARTED  
+> **Status:** Tamil **VERIFIED-COMPLETE / FROZEN** — T1 COMPLETE; T2 COMPLETE / PASS — PDF19–47 / 29/29 pages / 44 source-supported corrections/actions; T3 COMPLETE / PASS — 44/44 reconciled; **1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved**  
 > **Source:** `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`  
 > **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
-> **Editorial rule:** source-faithful first pass from rendered scan pixels. Historical Tamil glyph identity is encoded in modern Unicode without modernizing source wording. T1 is not a final visual-verification claim.
+> **Editorial rule:** source-faithful verified Tamil from rendered scan pixels. Historical Tamil glyph identity is encoded in modern Unicode without modernizing source wording. This Tamil layer is frozen; later changes require documented source evidence and dependent English re-verification.
 
 ## Speech body
 
