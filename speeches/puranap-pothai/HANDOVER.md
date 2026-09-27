@@ -5,7 +5,7 @@ Branch: main
 Archive: speeches/puranap-pothai/
 
 - parent — புராணப்போதை (1958 source scan)
-- constituent — **6/6 — ACTIVE**
+- constituent — **6/6 — FINAL CLOSED / RELEASE READY**
 - source range — PDF80–101 / 22 pages
 - duplicate gate — PASS
 - boundary gate — PASS
@@ -21,7 +21,9 @@ Archive: speeches/puranap-pothai/
 - English E2 — **COMPLETE / PASS — 22/22 / 15 corrections / 0 unresolved / 0 Tamil changes**
 - English E3 — **COMPLETE / PASS — 22/22 / 4 additional corrections / 0 unresolved / 0 Tamil changes**
 - English — **`verified-complete`**
-- repository closure — **READY / NOT STARTED**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- final report — `FINAL_CLOSURE.md`
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
 - English translation — `translation-en.md`
@@ -85,8 +87,15 @@ Do not alter the frozen Tamil for stylistic polishing, modernization, normalizat
 - second complete post-E3 sweep — **0 further English fidelity issues**
 - English — **`verified-complete`**
 
+## Final archive state
+
+- Tamil — **`verified-complete` / FROZEN**
+- English — **`verified-complete`**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- pending transcription / translation / review / verification — **none**
+- closure body changes — **0 Tamil / 0 English**
+
 ## Exact next activity
 
-Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 6.
-
-Verify all Tamil/English statuses and collection counters remain internally consistent, create the final closure report, and synchronize speech/collection/root controls. Do not reopen frozen Tamil or verified English for stylistic polishing.
+**None for this constituent.** Reopen only for genuinely new source evidence or a documented substantive fidelity defect; never for stylistic polishing.
