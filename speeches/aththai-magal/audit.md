@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **IN PROGRESS — PDF19–33 / 15/29 drafted**; T2 NOT STARTED
+**Current gate:** Tamil T1 **IN PROGRESS — PDF19–38 / 20/29 drafted**; T2 NOT STARTED
 
 ## T1 method
 
@@ -154,13 +154,64 @@ Notable character-identity decodings include `அண்ணா` on PDF29–30 and
 - **PDF32→33** — PDF32 ends `நமதியக்கம் தாங்கி வருகிறது.`; PDF33 begins a new question sequence; no split word.
 - **PDF33→34** — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.` — semantic continuation; adjoining PDF34 inspected only to establish the boundary.
 
-## T1 progress after Batch 3
+## T1 Batch 4 — PDF34–38 / printed pp.34–38
 
-- drafted — **PDF19–33 / 15 of 29 pages**
-- printed pages — **19–33**
-- pages remaining — **PDF34–47 / 14 pages**
+**Status: COMPLETE — 5/5 pages drafted.**
+
+- PDF34 — complete first-pass transcription
+- PDF35 — complete first-pass transcription
+- PDF36 — complete first-pass transcription
+- PDF37 — complete first-pass transcription
+- PDF38 — complete first-pass transcription
+- cumulative T1 — **20/29**
+- explicit unresolved readings — **0**
+
+### Batch 4 source-sensitive first-pass controls
+
+Retained exactly for strict T2 recheck:
+
+- **PDF34** — `அண்ணா கண்ஜாடை காட்டுவரானால்`
+- **PDF34** — `ஆயாச எதிர் வேலைகள்`
+- **PDF34** — `போட்டுபட்டு`
+- **PDF35** — `கொலுமண்டபத்தில்`
+- **PDF35** — `தயங்கினதில்லை`
+- **PDF35** — `கருப்புத்துணிகொடு`
+- **PDF36** — `வஸ்தாது`
+- **PDF36** — `கம்பெந்திய`
+- **PDF36** — `கலகலத்த காங்கிரஸ் கோட்டைக்குத் தூணை வந்த`
+- **PDF37** — `உடையினத்திலும்`
+- **PDF37** — `எதிர்த்துபோராட்டம்`
+- **PDF37** — `நான் சென்ஸை`
+- **PDF38** — `ஒலமிட்டுக்`
+- **PDF38** — `துருக்கர்களின் கொலையால்`
+- **PDF38** — `கட்டாறி தாங்கினன் மார்பிலே`
+
+These are source-sensitive T2 priorities, not automatic corrections and not unresolved readings.
+
+### Batch 4 historical-glyph first-pass
+
+PDF34–38 were inspected at enlarged/native render under the repository historical-Tamil guide, including the required family set:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Historical character identity was decoded into modern Unicode without lexical modernization. No global replacement was used. T1 remains a first pass.
+
+### Batch 4 page-boundary controls for T2
+
+- **PDF33→34** — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.` — semantic continuation.
+- **PDF34→35** — `ஒற்றுமையுடன் கூடி / நின்ற ஐக்கியமுன்னணியை...` — semantic continuation.
+- **PDF35→36** — PDF35 closes `கோஷமிட்டுக்கொண்டிருந்தார்கள்.`; PDF36 begins a new sentence; no split word.
+- **PDF36→37** — PDF36 closes `அடித்திருக்கிறாராம்.`; PDF37 continues the episode with a new sentence; no split word.
+- **PDF37→38** — `பொருளாதாரத் துறையிலும் / போராட்டங்கள் நடத்தினோம்.` — semantic continuation.
+- **PDF38→39** — PDF38 closes `செங்குருதி சிந்தி சவமானான்!`; PDF39 begins a new paragraph; no split word. Adjoining PDF39 was inspected only to establish the boundary.
+
+## T1 progress after Batch 4
+
+- drafted — **PDF19–38 / 20 of 29 pages**
+- printed pages — **19–38**
+- pages remaining — **PDF39–47 / 9 pages**
 - explicit unresolved — **0**
-- historical-glyph first-pass — **through PDF33**
+- historical-glyph first-pass — **through PDF38**
 - Tamil T1 — **IN PROGRESS**
 - Tamil T2 — **NOT STARTED**
 - Tamil — **not verified / not frozen**
@@ -168,4 +219,4 @@ Notable character-identity decodings include `அண்ணா` on PDF29–30 and
 
 ## Next gate
 
-Continue Tamil T1 from **PDF34 onward** in manageable batches. Do not begin T2 before the complete PDF19–47 first-pass transcription exists.
+Continue Tamil T1 from **PDF39 onward** in manageable batches. Do not begin T2 before the complete PDF19–47 first-pass transcription exists.
