@@ -10,9 +10,9 @@ SHA-256: 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785
 | 3 | மீண்டும் கிளைவ் ? | 46–51 | 45–50 | 6 | FINAL CLOSED / RELEASE READY |
 | 4 | ‘பங்கீடு’ ஒழிப்பு! பகவான் மீது பாரம்! | 52–65 | 51–64 | 14 | FINAL CLOSED / RELEASE READY |
 | 5 | கேள்விக் குறி! | 66–79 | 65–78 | 14 | FINAL CLOSED / RELEASE READY |
-| 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | TAMIL + ENGLISH VERIFIED / CLOSURE READY |
+| 6 | புராணப் போதை! | 80–101 | 79–100 | 22 | FINAL CLOSED / RELEASE READY |
 
-Workflow note: constituents 1–5 are **FINAL CLOSED / RELEASE READY**. Constituent 6 is the active item: Tamil is **`verified-complete` / FROZEN — 22/22**. English is **`verified-complete`**: E1 **22/22**, E2 **15 corrections / 0 unresolved**, E3 **4 additional corrections / 0 unresolved**, with **0 Tamil changes** across English review. Repository closure is ready. PDF102 remains excluded.
+Workflow note: all **6/6 constituents are FINAL CLOSED / RELEASE READY**. Tamil verified/frozen **6/6**, English verified **6/6**, fully archived **6/6**. PDF102 remains excluded as publisher/back-catalogue material. Collection status: **FINAL-CLOSED / FULLY ARCHIVED**.
 
 Boundary controls:
 - PDF1–7 front matter
