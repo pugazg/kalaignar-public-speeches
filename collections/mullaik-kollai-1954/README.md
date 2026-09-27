@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–5 PDF19–43 COMPLETE / PASS — 36 cumulative corrections/actions — 25/29 checked; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 COMPLETE / PASS — PDF19–47 / 29/29 checked — 44 cumulative corrections/actions; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; Tamil T3 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -89,11 +89,13 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
 - active Tamil T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions**
 - active Tamil T2 Batch 5 — **COMPLETE / PASS — PDF39–43 / 5 pages / 11 corrections/actions**
-- active Tamil T2 cumulative — **25/29 pages checked / 36 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
-- active Tamil T2 — **IN PROGRESS**
+- active Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
+- active Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
+- active Tamil T2 — **COMPLETE / PASS**
+- active Tamil T3 — **NEXT / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to the **final Tamil T2 strict visual audit, Batch 6 PDF44–47 / printed pp.44–47 / 4 pages**. Apply source-supported corrections only; verify PDF44→45 and PDF47→48; do not begin T3 or English in the same activity.
+Constituent 2 — **அத்தை மகள்** — proceed to **Tamil T3 consolidation / freeze — PDF19–47 / printed pp.19–47 / 29 pages**. Reconcile all 44 T2 corrections/actions, retain the PDF40 source-limited uncertainty, and freeze only with 0 actionable unresolved. Do not begin English in the same activity.
