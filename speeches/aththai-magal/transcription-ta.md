@@ -1,6 +1,6 @@
 # அத்தை மகள் — Tamil transcription
 
-> **Status:** Tamil T1 FIRST-PASS COMPLETE — PDF19–47 / 29/29; Tamil T2 IN PROGRESS — Batch 1 PDF19–23 **COMPLETE / PASS** with **6 source-supported corrections**; cumulative T2 **5/29 pages**; **1 source-obscured reading retained overall**; T3 NOT STARTED  
+> **Status:** Tamil T1 FIRST-PASS COMPLETE — PDF19–47 / 29/29; Tamil T2 IN PROGRESS — Batch 1 PDF19–23 **COMPLETE / PASS** with **7 source-supported corrections/actions**; cumulative T2 **5/29 pages**; **1 source-obscured reading retained overall**; T3 NOT STARTED  
 > **Source:** `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`  
 > **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 > **Editorial rule:** source-faithful first pass from rendered scan pixels. Historical Tamil glyph identity is encoded in modern Unicode without modernizing source wording. T1 is not a final visual-verification claim.
