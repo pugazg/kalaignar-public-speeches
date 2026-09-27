@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் NEXT — Tamil T1 READY / NOT STARTED — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T1 IN PROGRESS — PDF19–23 / 5/29 drafted; next PDF24 — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -81,10 +81,12 @@ See `DUPLICATE_AUDIT.md`.
 - constituent 1 source-limited uncertainties — **2 documented / retained**
 - active constituent — **2/5 — அத்தை மகள்**
 - active range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- active Tamil T1 — **READY / NOT STARTED**
+- active Tamil T1 — **IN PROGRESS — Batch 1 PDF19–23 / 5/29 drafted / 0 explicit unresolved**
+- active historical-glyph first-pass — **through PDF23**
+- active Tamil T2 — **NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — initialize the dedicated archive and begin **Tamil T1 first-pass transcription from PDF19 onward**, using rendered scan pixels as authority and the historical-Tamil glyph guide. Do not reopen constituent 1.
+Constituent 2 — **அத்தை மகள்** — continue **Tamil T1 first-pass transcription from PDF24 onward** in manageable batches. Keep explicit page mapping and source-sensitive notes; do not begin T2 until PDF19–47 T1 is complete.
