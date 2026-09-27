@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–3 PDF19–33 COMPLETE / PASS — 16 cumulative corrections/actions — 15/29 checked; 1 source-obscured reading retained overall — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–4 PDF19–38 COMPLETE / PASS — 25 cumulative corrections/actions — 20/29 checked; 1 source-obscured reading retained overall — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -87,11 +87,12 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
 - active Tamil T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions**
 - active Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
-- active Tamil T2 cumulative — **15/29 pages checked / 16 corrections/actions / 0 unresolved in audited pages**
+- active Tamil T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions**
+- active Tamil T2 cumulative — **20/29 pages checked / 25 corrections/actions / 0 unresolved in audited pages**
 - active Tamil T2 — **IN PROGRESS**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to **Tamil T2 strict visual audit, Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**. Apply source-supported corrections only; do not begin T3 or English in the same activity.
+Constituent 2 — **அத்தை மகள்** — proceed to **Tamil T2 strict visual audit, Batch 5 PDF39–43 / printed pp.39–43 / 5 pages**. Recheck the PDF40 source-obscured phrase without inferring hidden letters; apply source-supported corrections only; do not begin T3 or English in the same activity.
