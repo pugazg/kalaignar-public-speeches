@@ -57,8 +57,8 @@
     "repository_closure": "not-started",
     "archive_status": "active-tamil-t2",
     "pending_transcription_or_translation_work": true,
-    "next_gate": "Tamil T2 strict visual audit — Batch 5 PDF39–43 / 5 pages",
-    "handoff_status": "tamil-t2-in-progress",
+    "next_gate": "Tamil T2 FINAL strict visual audit — Batch 6 PDF44–47 / 4 pages",
+    "handoff_status": "tamil-t2-final-batch-ready",
     "handoff_date": "2026-09-27",
     "tamil_transcription_pages_drafted": 29,
     "tamil_transcription_through_pdf_page": 47,
@@ -70,12 +70,14 @@
     "tamil_t1_source_obscured_uncertainties": 1,
     "tamil_t1_constituent_boundary_verified": true,
     "tamil_t1_outgoing_next_heading": "நம் மேடை",
-    "tamil_t2_pages_checked": 20,
-    "tamil_t2_through_pdf_page": 38,
-    "tamil_t2_through_printed_page": 38,
-    "tamil_t2_batches_complete": 4,
-    "tamil_t2_corrections": 25,
-    "tamil_t2_unresolved_in_audited_pages": 0,
-    "tamil_t2_source_obscured_overall": 1
+    "tamil_t2_pages_checked": 25,
+    "tamil_t2_through_pdf_page": 43,
+    "tamil_t2_through_printed_page": 43,
+    "tamil_t2_batches_complete": 5,
+    "tamil_t2_corrections": 36,
+    "tamil_t2_unresolved_in_audited_pages": 1,
+    "tamil_t2_source_obscured_overall": 1,
+    "tamil_t2_source_limited_unresolved": 1,
+    "tamil_t2_actionable_unresolved": 0
   }
 }
