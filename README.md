@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 IN PROGRESS — Batches 1–5 PDF19–43 COMPLETE / PASS — 36 cumulative corrections/actions — 25/29 checked; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T2 COMPLETE / PASS — PDF19–47 / 29/29 checked — 44 cumulative corrections/actions; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; Tamil T3 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -619,9 +619,11 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
 - active constituent Tamil T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions**
 - active constituent Tamil T2 Batch 5 — **COMPLETE / PASS — PDF39–43 / 5 pages / 11 corrections/actions**
-- active constituent Tamil T2 cumulative — **25/29 pages checked / 36 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
-- active constituent Tamil T2 — **IN PROGRESS**
+- active constituent Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
+- active constituent Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
+- active constituent Tamil T2 — **COMPLETE / PASS**
+- active constituent Tamil T3 — **NEXT / NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — FINAL Tamil T2 strict visual audit Batch 6 PDF44–47 / 4 pages**, applying source-supported corrections only and verifying PDF44→45 plus PDF47→48; if it passes, T3 becomes next but must not run in the same activity.
+Exact next gate: constituent 2 **அத்தை மகள் — Tamil T3 consolidation / freeze PDF19–47 / 29 pages**, reconciling all 44 T2 corrections/actions and retaining the single PDF40 source-limited uncertainty; do not begin English in the same activity.
 
