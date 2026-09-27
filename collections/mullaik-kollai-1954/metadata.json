@@ -69,8 +69,8 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "aththai-magal",
     "active_constituent_title_ta": "அத்தை மகள்",
-    "next_gate": "Constituent 2 / அத்தை மகள் — initialize archive and begin Tamil T1 from PDF19",
-    "collection_status": "active-constituent-2-tamil-t1-ready",
+    "next_gate": "Constituent 2 / அத்தை மகள் — continue Tamil T1 from PDF24 onward",
+    "collection_status": "active-constituent-2-tamil-t1-in-progress",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -154,8 +154,14 @@
       "archive_path": "speeches/aththai-magal/",
       "source_gate": "pass-complete",
       "active": true,
-      "tamil_t1": "not-started",
-      "next_gate": "tamil-t1"
+      "tamil_t1": "in-progress",
+      "next_gate": "tamil-t1-pdf24-onward",
+      "tamil_t1_pages_completed": 5,
+      "tamil_t1_through_pdf_page": 23,
+      "tamil_t1_through_printed_page": 23,
+      "tamil_t1_batches_complete": 1,
+      "tamil_t1_explicit_uncertainties": 0,
+      "tamil_historical_glyph_first_pass_through_pdf_page": 23
     },
     {
       "number": 3,
