@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 1 / 5  
 **Scope:** PDF7–18 / printed pp.7–18 / 12 pages  
-**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes / 5 translator-source notes / 0 translation unresolved**; E2 NEXT  
+**Current gate:** Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes / 8 translator-source notes**; E3 NEXT  
 **T1 explicit unresolved readings:** **2**  
 **Current explicit source-limited uncertainties after T3:** **2** — PDF8 and PDF9 physical-damage items only
 
@@ -372,8 +372,22 @@ E1 translates the complete frozen Tamil layer page by page. It preserves the sou
 
 E1 completion is **not** an English fidelity-review claim. The translation now requires a separate E2 page-by-page comparison against the frozen Tamil.
 
+## English E2 fidelity review — COMPLETE / PASS
+
+- coverage — **PDF7–18 / printed pp.7–18 / 12/12**
+- confirmed English corrections — **15**
+- unresolved English fidelity findings — **0**
+- frozen Tamil changes — **0**
+- source-damage uncertainties retained — **2/2**
+- translator/source notes after E2 — **8**
+- detailed correction ledger — `translation-review.md`
+
+E2 corrected unsupported additions, a possessive reversal, softened/intensified rhetoric, a lost lexical contrast, speculative normalization of opaque frozen forms, and several source-sensitive word choices. The two physically damaged Tamil readings remain explicit and were not reconstructed.
+
+Political labels, religious polemic and historical claims continue to be represented as source rhetoric; the English layer does not independently validate them.
+
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF7–18 / printed pp.7–18 / 12 pages**.
+Proceed to **English E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Compare every English clause against frozen `transcription-ta.md`, record confirmed translation corrections separately, preserve all source-limit notes, and introduce **0 Tamil changes**. Do **not** begin E3 or repository closure in the same step.
+Re-read the complete post-E2 English against frozen Tamil, verify all **15 E2 corrections** and **8 translator/source notes**, and record any final source-fidelity corrections if necessary. Introduce **0 Tamil changes**. Do **not** perform repository closure in the same step.

@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF7–18 / 12/12 / 0 Tamil changes; English E2 NEXT — 2 source-damage uncertainties retained**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — PDF7–18 / 12/12 / 15 corrections / 0 unresolved / 0 Tamil changes; English E3 NEXT — 2 source-damage uncertainties retained**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -48,19 +48,21 @@ These two annotations are source-limit records, not a pending visual-audit gate.
 ## English workflow
 
 - English E1 — **FIRST-PASS COMPLETE — PDF7–18 / 12/12 pages**
-- E1 Tamil changes — **0**
-- E1 translation unresolved — **0**
-- frozen source-damage uncertainties carried — **2/2**
-- translator/source notes — **5**
-- English E2 — **NOT STARTED**
-- English E3 — blocked pending E2
+- English E2 — **COMPLETE / PASS — PDF7–18 / 12/12 pages**
+- E2 corrections — **15**
+- E2 unresolved — **0**
+- English-stage Tamil changes — **0**
+- frozen source-damage uncertainties retained — **2/2**
+- translator/source notes after E2 — **8**
+- English E3 — **NOT STARTED**
 - repository closure — not started
-- English first-pass translation — `translation-en.md`
+- English translation — `translation-en.md`
+- English review — `translation-review.md`
 
-E1 is a first-pass translation only, not a fidelity-verification claim. Political labels, religious polemic and historical claims are translated as source rhetoric rather than independently validated assertions.
+E2 is complete, but English is not yet `verified-complete` until the separate E3 end-to-end gate passes. Political labels, religious polemic and historical claims are represented as source rhetoric rather than independently validated assertions.
 
 ## Next gate
 
-English **E2 fidelity review — PDF7–18 / printed pp.7–18 / 12 pages**.
+English **E3 final end-to-end verification — PDF7–18 / printed pp.7–18 / 12 pages**.
 
-Review `translation-en.md` page by page against frozen `transcription-ta.md`, preserve the two source-limit annotations and all necessary transparency notes, and introduce **0 Tamil changes**. Do not begin E3 or repository closure.
+Re-read the complete post-E2 English against frozen `transcription-ta.md`, verify all 15 E2 corrections and 8 translator/source notes, and introduce **0 Tamil changes**. Do not perform repository closure in the same step.
