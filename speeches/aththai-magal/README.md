@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE; Tamil T2 COMPLETE / PASS — PDF19–47 / 29/29 checked — 44 cumulative corrections/actions; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; Tamil T3 NEXT / NOT STARTED**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN — T1 COMPLETE; T2 COMPLETE / PASS — 29/29 pages / 44 corrections/actions; T3 COMPLETE / PASS — 44/44 reconciled; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; English E1 NEXT / NOT STARTED**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -48,9 +48,9 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
 - Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
 - Tamil T2 — **COMPLETE / PASS**
-- Tamil T3 — **NEXT / NOT STARTED**
-- Tamil T3 — blocked pending complete T1/T2
-- English — blocked pending Tamil freeze
+- Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional source corrections / 0 consolidation repairs**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **NEXT / NOT STARTED**
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
@@ -58,4 +58,4 @@ Source-sensitive first-pass forms retained for strict T2 include all earlier bat
 
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF19–47 / 29 pages**. Reconcile all 44 T2 corrections/actions, retain the single PDF40 source-limited uncertainty, and freeze only with 0 actionable unresolved. Do not begin English in the same activity.
+Begin **English E1 first-pass translation — PDF19–47 / 29 pages** from frozen `transcription-ta.md`. Preserve the PDF40 source-limited uncertainty transparently. Do not begin E2/E3 in the same activity.
