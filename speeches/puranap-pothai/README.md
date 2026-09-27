@@ -1,6 +1,6 @@
 # புராணப் போதை!
 
-**Status: ACTIVE — Tamil and English `verified-complete` / repository closure READY**
+**Status: PASS / FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`**
 
 - speaker — கலைஞர் மு. கருணாநிதி
 - parent booklet — புராணப்போதை
@@ -27,7 +27,8 @@ Direct source heading on PDF80. PDF102 is publisher/back-catalogue material.
 - English E2 fidelity review — **COMPLETE / PASS — PDF80–101 / 22/22 pages / 15 corrections / 0 unresolved / 0 Tamil changes**
 - English E3 final verification — **COMPLETE / PASS — PDF80–101 / 22/22 pages / 4 additional corrections / 0 unresolved / 0 Tamil changes**
 - English — **`verified-complete`**
-- Repository closure — **READY / NOT STARTED**
+- Repository closure — **COMPLETE / PASS**
+- Archive — **FINAL CLOSED / RELEASE READY**
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 - English translation — `translation-en.md`
@@ -36,6 +37,8 @@ T1 was transcribed from direct rendered source pages; OCR/parsed text was only a
 
 English E1 is **COMPLETE — PDF80–101 / printed pp.79–100 / 22/22 pages**. English E2 is **COMPLETE / PASS — 15 corrections / 0 unresolved / 0 Tamil changes**. English E3 is **COMPLETE / PASS — 4 additional corrections / 0 unresolved / 0 Tamil changes**; a second post-E3 correction sweep found **0 further fidelity issues**. English is now **`verified-complete`**. The final English retains **4 concise translator/source notes**.
 
-**Next gate:** **repository-level archival closure / release-readiness synchronization** for constituent 6. No further Tamil or English textual gate remains pending.
+Repository-level archival closure is **COMPLETE / PASS**. Final report: `FINAL_CLOSURE.md`.
+
+No routine work remains for this constituent. Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.
 
 The source scan, not OCR, is authoritative. Do not silently modernize or normalize source wording.
