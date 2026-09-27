@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–3 PDF19–33 COMPLETE / PASS — 16 cumulative corrections/actions — 15/29 pages checked**; 1 source-obscured reading retained overall
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29**; Tamil T2 **IN PROGRESS — Batches 1–4 PDF19–38 COMPLETE / PASS — 25 cumulative corrections/actions — 20/29 pages checked**; 1 source-obscured reading retained overall
 
 ## T1 method
 
@@ -516,8 +516,81 @@ PDF29–33 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`,
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 Batch 4 — PDF34–38 / printed pp.34–38
+
+**Status: COMPLETE / PASS — 5/5 pages checked.**
+
+### Source-supported corrections/actions — 9
+
+| PDF | T1 / pre-T2 reading | T2 source-backed reading |
+|---:|---|---|
+| 35 | `கும்பாளம் போட்டார்` | `கும்மாளம் போட்டார்` |
+| 35 | `குறிப்பிடுகிறேன், கேளுங்கள்` | `குறிப்பிடுகிறேன். கேளுங்கள்` |
+| 35 | `வரவேற்பு பற்றி, ‘‘இச் சம்பவம்` | `வரவேற்பு பற்றி. ‘‘இச் சம்பவம்` |
+| 35 | `நின்றுகொண்டிருந்திருக்கிறது, அந்த நிலையில்` | `நின்றுகொண்டிருக்கிறது. அந்த நிலையில்` |
+| 36 | `விழவில்லை, பறந்துசென்று` | `விழவில்லை. பறந்துசென்று` |
+| 36 | `புறப்பட்டு விட்டது. உடனே` | `புறப்பட்டு விட்டது, உடனே` |
+| 36 | `தொடை தட்டி, மீசை முறுக்கி` | `தொடை தட்டி. மீசை முறுக்கி` |
+| 37 | `எதிர்த்துபோராட்டம் நடத்தினோம்` | `எதிர்த்துப்போராட்டம் நடத்தினோம்` |
+| 38 | `பறித்துச் சென்றார் பாராள்வோர்` | `பறித்துச் சென்றனர் பாராள்வோர்` |
+
+All nine corrections/actions have been applied to `transcription-ta.md`.
+
+### T1 source-sensitive priorities rechecked
+
+The recorded unusual readings were visually confirmed and retained unchanged except where explicitly corrected above:
+
+- PDF34 — `அண்ணா கண்ஜாடை காட்டுவரானால்` — **PASS**
+- PDF34 — `ஆயாச எதிர் வேலைகள்` — **PASS**
+- PDF34 — `போட்டுபட்டு` — **PASS**
+- PDF35 — `கொலுமண்டபத்தில்` — **PASS**
+- PDF35 — `தயங்கினதில்லை` — **PASS**
+- PDF35 — `கருப்புத்துணிகொடு` — **PASS**
+- PDF36 — `வஸ்தாது` — **PASS**
+- PDF36 — `கம்பெந்திய` — **PASS**
+- PDF36 — `கலகலத்த காங்கிரஸ் கோட்டைக்குத் தூணை வந்த` — **PASS**
+- PDF37 — `உடையினத்திலும்` — **PASS**
+- PDF37 — `நான் சென்ஸை` — **PASS**
+- PDF38 — `ஒலமிட்டுக்` — **PASS**
+- PDF38 — `துருக்கர்களின் கொலையால்` — **PASS**
+- PDF38 — `கட்டாறி தாங்கினன் மார்பிலே` — **PASS**
+
+The T1 priority `எதிர்த்துபோராட்டம்` was not retained: strict review supports `எதிர்த்துப்போராட்டம்`.
+
+No lexical modernization was introduced.
+
+### Historical-glyph strict review
+
+PDF34–38 were rechecked under `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`, including the required historical-glyph family.
+
+- historical character identity — **PASS**
+- additional glyph-identity corrections — **0**
+- global replacements — **0**
+
+### Batch 4 page-boundary controls
+
+- PDF33→34 — `சட்டத்தினின்றும் / தப்பிவிட முடியும்.` — **PASS**
+- PDF34→35 — `ஒற்றுமையுடன் கூடி / நின்ற ஐக்கியமுன்னணியை...` — **PASS**
+- PDF35→36 — no split word — **PASS**
+- PDF36→37 — no split word — **PASS**
+- PDF37→38 — `பொருளாதாரத் துறையிலும் / போராட்டங்கள் நடத்தினோம்.` — **PASS**
+- PDF38→39 — no split word; PDF38 ends `செங்குருதி சிந்தி சவமானான்!`, PDF39 begins a new paragraph — **PASS**
+
+### T2 cumulative state after Batch 4
+
+- pages checked — **20/29**
+- through — **PDF38 / printed p.38**
+- batches complete — **4**
+- cumulative T2 corrections/actions — **25**
+- unresolved findings within audited pages — **0**
+- source-obscured reading elsewhere in transcript — **1 (PDF40), not altered**
+- Tamil T2 — **IN PROGRESS**
+- Tamil T3 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 4 PDF34–38 / printed pp.34–38 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 5 PDF39–43 / printed pp.39–43 / 5 pages**.
 
-Recheck every line against rendered scan pixels, revisit the recorded source-sensitive forms and page-boundary controls, and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
+Recheck every line against rendered scan pixels, including the PDF40 source-obscured phrase, but do not infer hidden letters. Revisit the recorded source-sensitive forms and page-boundary controls and apply only source-supported corrections. Do **not** begin T3 or English in the same activity.
