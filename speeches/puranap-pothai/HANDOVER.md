@@ -17,10 +17,12 @@ Archive: speeches/puranap-pothai/
 - T3 consolidation repairs — **0**
 - T3 unresolved — **0**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
-- English E2/E3 — blocked pending E1
+- English E1 — **FIRST-PASS COMPLETE — 22/22 / PDF80–101 / printed pp.79–100 / 0 unresolved / 0 Tamil changes**
+- English E2 — **READY / NOT STARTED**
+- English E3 — blocked pending E2
 - canonical working Tamil — `transcription-ta.md`
 - Tamil audit — `audit.md`
+- English translation — `translation-en.md`
 
 ## T1 checkpoint
 
@@ -60,10 +62,19 @@ Archive: speeches/puranap-pothai/
 
 Do not alter the frozen Tamil for stylistic polishing, modernization, normalization or translation convenience. Any later Tamil change requires documented source evidence and dependent English re-verification.
 
+## English E1 checkpoint
+
+- coverage — **PDF80–101 / printed pp.79–100 / 22/22 exactly once / ordered**
+- basis — frozen `transcription-ta.md` only
+- Tamil changes introduced — **0**
+- translator/source notes — **2**
+- E1 unresolved — **0**
+- English E1 — **FIRST-PASS COMPLETE**
+
 ## Exact next activity
 
-English **E1 first-pass translation — PDF80–101 / printed pp.79–100 / all 22 pages**.
+English **E2 fidelity review — PDF80–101 / printed pp.79–100 / all 22 pages**.
 
-Translate only from frozen `transcription-ta.md`, preserving page correspondence, repetition, rhetoric, names, source-sensitive forms and unusual constructions. Political/religious claims are source rhetoric; do not independently validate or endorse them.
+Compare `translation-en.md` page by page against the frozen Tamil, recording findings separately before consolidating confirmed corrections. Check omissions, additions, reversals, rhetorical weakening, names, quoted dialogue, page-boundary continuations and both translator/source notes.
 
-Do not begin E2 or E3 in the same step.
+Do not alter frozen Tamil for translation convenience. Do not begin E3.
