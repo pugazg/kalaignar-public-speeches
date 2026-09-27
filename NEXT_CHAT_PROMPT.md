@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T2 Batch 5 FINAL PDF100–101
+# NEXT CHAT PROMPT — புராணப்போதை / Constituent 6 Tamil T3 consolidation + freeze
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,40 +19,43 @@ Do not reopen their canonical Tamil, verified English, audits, metadata or final
 - source SHA-256 — `3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785`
 - source range — **PDF80–101 / printed pp.79–100 / 22 pages**
 - PDF102 — **publisher/back-catalogue material / excluded**
-- Tamil T1 — **FIRST-PASS COMPLETE — 22/22 / 0 explicit unresolved**
-- Tamil T2 — **IN PROGRESS**
-- T2 Batches 1–4 — **PDF80–99 / printed pp.79–98 — COMPLETE / PASS**
-- T2 progress — **20/22 pages**
-- T2 cumulative corrections — **4**
+- Tamil T1 — **COMPLETE — 22/22**
+- Tamil T2 — **COMPLETE / PASS — PDF80–101 / 22/22**
+- T2 batches — **5/5 COMPLETE**
+- T2 corrections — **4**
 - T2 unresolved — **0**
-- recorded boundaries passed — **11/11**
-- Tamil T3 — blocked pending T2
+- recorded page-boundary controls — **11/11 PASS**
+- PDF101→102 boundary / PDF102 exclusion — **PASS**
+- historical-glyph review — **COMPLETE / 0 unresolved**
+- Tamil T3 — **READY / NOT STARTED**
 - English — blocked pending Tamil freeze
 - working Tamil — `speeches/puranap-pothai/transcription-ta.md`
 - Tamil audit — `speeches/puranap-pothai/audit.md`
 
-## T2 correction ledger so far
+## T2 correction ledger
 
 1. PDF81 — `புதுவாழ்வு பெற்று போதை யேற்றி` → `புதுவாழ்வு பெற்றுப் போதை யேற்றி`
 2. PDF81 — `படிக்காவிட்டாலும் கூட` → source form `படிக்காவிட்டாலுங் கூட`
 3. PDF94 — `கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்கள் மறக்க` → `கிருஷ்ணாவதாரத்தில் நடத்திய கோலாகலங்களை மறக்க`
 4. PDF97 — `வழக்கமான லீலைகள் நடத்தி` → `வழக்கமான லீலைகளை நடத்தி`
 
-## T2 rules
+## T3 rules
 
-The controlling scan is authoritative. Compare every line and character against enlarged rendered source pixels. OCR/parsed text is only an aid.
+T3 is consolidation/freeze, not a fresh stylistic rewrite.
 
-Preserve source spelling, punctuation, spacing, historical forms, repetitions, names and unusual grammar. Do not silently modernize or normalize. Re-check the historical glyph families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-
-Record every source-supported correction in `audit.md` and apply it to `transcription-ta.md`. If a reading remains uncertain, record it rather than guessing.
+- verify PDF80–101 coverage is exactly 22/22, ordered, with printed pp.79–100 continuous;
+- verify all 4 T2 corrections are present exactly where expected;
+- confirm stale superseded T1 readings are absent;
+- reconcile all 11 recorded page-boundary controls;
+- confirm PDF101 is the constituent ending and PDF102 is publisher/back-catalogue material outside the body;
+- preserve source-sensitive spelling, punctuation, spacing and historical-glyph decisions;
+- make no modernization or normalization;
+- if T3 passes with 0 unresolved, mark Tamil **`verified-complete` / FROZEN**.
 
 ## Exact next activity
 
-Tamil **T2 strict visual fidelity audit — Batch 5 / FINAL: PDF100–101 / printed pp.99–100 / 2 pages**.
+Tamil **T3 consolidation / freeze — PDF80–101 / printed pp.79–100 / all 22 pages**.
 
-Audit both pages line by line against the rendered source scan. Include:
-- source-sensitive forms listed in `audit.md`, especially `மனபல மிழந்து`, `சத்தற்ற வாழ்வுச் சுமை`, quoted `‘சாவே வா, சாவே வா,’`, `நச்சு எண்ணங்கள்`, `புத்தறிவுப் போதனை`, `தி. மு. க.`, and `போதை நீங்கிய நீக்கப்பட்ட திராவிட நாட்டைக் காண`;
-- the terminal line `எழுச்சி முரசொலி முழங்கட்டும்.`;
-- the PDF101→102 boundary confirming PDF102 is publisher/back-catalogue material and outside the constituent body.
+Reconcile the full canonical Tamil and audit/control documents. If T3 passes, freeze Tamil and mark English E1 **READY / NOT STARTED**.
 
-If Batch 5 passes, mark Tamil T2 **COMPLETE / PASS** with the final correction total, but **do not begin T3 or English in the same step**.
+Do **not** begin English E1 in the same step.
