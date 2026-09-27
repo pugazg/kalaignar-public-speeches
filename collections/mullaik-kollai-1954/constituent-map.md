@@ -8,7 +8,7 @@ SHA-256: `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
 
 | # | Direct source heading | PDF | Printed | Pages | Status |
 |---:|---|---:|---:|---:|---|
-| 1 | முல்லைக் கொல்லை | 7–18 | 7–18 | 12 | T1 COMPLETE / T2 IN PROGRESS 5/12 |
+| 1 | முல்லைக் கொல்லை | 7–18 | 7–18 | 12 | T1/T2/T3 COMPLETE / TAMIL FROZEN / E1 NEXT |
 | 2 | அத்தை மகள் | 19–47 | 19–47 | 29 | SOURCE-GATED / NOT STARTED |
 | 3 | நம் மேடை | 48–56 | 48–56 | 9 | SOURCE-GATED / NOT STARTED |
 | 4 | “கைத்தறி வாங்கலையோ” | 57–62 | 57–62 | 6 | SOURCE-GATED / NOT STARTED |

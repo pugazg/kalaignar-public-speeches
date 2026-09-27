@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil T2 IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 3 explicit unresolved overall; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil T1/T2/T3 COMPLETE / PASS — Tamil `verified-complete` / FROZEN; English E1 NEXT; 2 documented source-damage uncertainties retained; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -598,7 +598,7 @@ No routine transcription, translation, review, verification or release-readiness
 - main-text coverage — **PDF7–67 / 61 pages**
 - source-gated — **5/5**
 - Tamil T1 complete — **1/5**
-- Tamil verified — **0/5**
+- Tamil verified — **1/5**
 - English verified — **0/5**
 - fully archived — **0/5**
 - supplementary author text — **PDF69–70 — ‘முரசொலி’ துப்பாக்கி** / mapped separately
@@ -609,9 +609,11 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent — **1 / 5 — முல்லைக் கொல்லை**
 - active range — **PDF7–18 / printed pp.7–18 / 12 pages**
 - active constituent Tamil T1 — **FIRST-PASS COMPLETE — 12/12**
-- active constituent Tamil T2 — **IN PROGRESS — Batch 1 PDF7–11 COMPLETE / 5/12 pages / 19 corrections / 2 unresolved in audited pages**
-- active constituent explicit unresolved overall — **3**
+- active constituent Tamil T2 — **COMPLETE / PASS — PDF7–18 / 12/12 / 40 corrections/actions**
+- active constituent Tamil T3 — **COMPLETE / PASS — 40/40 corrections reconciled / 0 additional source corrections / 0 repairs**
+- active constituent Tamil — **`verified-complete` / FROZEN**
+- active constituent source-limited uncertainties — **2**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 1 **Tamil T2 strict visual fidelity audit — Batch 2: PDF12–16 / printed pp.12–16 / 5 pages**.
+Exact next gate: constituent 1 **English E1 first-pass translation — PDF7–18 / printed pp.7–18 / 12 pages**, using only the frozen Tamil layer and preserving the two source-limit annotations.
 
