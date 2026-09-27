@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — SOURCE-GATED / constituent 1 Tamil T1 READY; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 Tamil T1 COMPLETE / T2 READY; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -597,7 +597,7 @@ No routine transcription, translation, review, verification or release-readiness
 - main source-listed texts — **5**
 - main-text coverage — **PDF7–67 / 61 pages**
 - source-gated — **5/5**
-- Tamil T1 complete — **0/5**
+- Tamil T1 complete — **1/5**
 - Tamil verified — **0/5**
 - English verified — **0/5**
 - fully archived — **0/5**
@@ -608,8 +608,9 @@ No routine transcription, translation, review, verification or release-readiness
 - source-order note — PDF6 lists `இலட்சிய இதழ்` before `கைத்தறி வாங்கலையோ`; the physical body has `கைத்தறி வாங்கலையோ` at PDF57 before `இலட்சிய இதழ்கள்` at PDF63; both source forms are preserved
 - active constituent — **1 / 5 — முல்லைக் கொல்லை**
 - active range — **PDF7–18 / printed pp.7–18 / 12 pages**
-- active constituent Tamil T1 — **READY / NOT STARTED**
+- active constituent Tamil T1 — **FIRST-PASS COMPLETE — 12/12 / 2 explicit unresolved**
+- active constituent Tamil T2 — **READY / NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 1 **Tamil T1 first-pass transcription — PDF7–18 / printed pp.7–18 / all 12 pages**.
+Exact next gate: constituent 1 **Tamil T2 strict visual fidelity audit — Batch 1: PDF7–11 / printed pp.7–11 / 5 pages**.
 
