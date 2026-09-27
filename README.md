@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN — T3 COMPLETE / PASS — 44/44 reconciled; 1 source-limited obscured reading retained at PDF40 / 0 actionable unresolved; English E1 NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages / 0 Tamil changes / 1 source-limited uncertainty carried; English E2 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -624,8 +624,9 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent Tamil T2 — **COMPLETE / PASS**
 - active constituent Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional source corrections / 0 consolidation repairs**
 - active constituent Tamil — **`verified-complete` / FROZEN**
-- active constituent English E1 — **NEXT / NOT STARTED**
+- active constituent English E1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages / 0 Tamil changes / 1 source-limited uncertainty / 8 translator-source notes**
+- active constituent English E2 — **NEXT / NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — English E1 first-pass translation PDF19–47 / 29 pages** from frozen Tamil, preserving the single PDF40 source-limited uncertainty; do not begin E2/E3 in the same activity.
+Exact next gate: constituent 2 **அத்தை மகள் — English E2 fidelity review PDF19–47 / 29 pages** against frozen Tamil; create `translation-review.md`, apply confirmed corrections to `translation-en.md`, and do not begin E3 or repository closure in the same activity.
 
