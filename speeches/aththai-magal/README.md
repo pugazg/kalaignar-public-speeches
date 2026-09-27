@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil T1 IN PROGRESS — Batches 1–3 PDF19–33 / 15/29 drafted; T2 NOT STARTED**
+**Status: ACTIVE — Tamil T1 IN PROGRESS — Batches 1–4 PDF19–38 / 20/29 drafted; T2 NOT STARTED**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -33,8 +33,9 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - Tamil T1 Batch 1 — **COMPLETE — PDF19–23 / 5 pages**
 - Tamil T1 Batch 2 — **COMPLETE — PDF24–28 / 5 pages**
 - Tamil T1 Batch 3 — **COMPLETE — PDF29–33 / 5 pages**
-- Tamil T1 cumulative — **15/29 pages drafted**
-- historical-glyph first-pass — **COMPLETE through PDF33**
+- Tamil T1 Batch 4 — **COMPLETE — PDF34–38 / 5 pages**
+- Tamil T1 cumulative — **20/29 pages drafted**
+- historical-glyph first-pass — **COMPLETE through PDF38**
 - explicit unresolved T1 readings — **0**
 - Tamil T1 — **IN PROGRESS**
 - Tamil T2 — **NOT STARTED**
@@ -43,8 +44,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
-Source-sensitive first-pass forms retained for strict T2 include the earlier batches plus PDF29 `ஒண்ட வந்த` / `நாப்பகன்றார்`, PDF30 `அதைக் கண்டிக்கு முகத்தான்` / `பஜகோவிந்தப் பூமான்களின்`, PDF31 `ஐயாயிரவரை` / `ஆச்சாரியார் ஆட்சிபீடம்.`, PDF32 `தரும போன்றவர்கள்` / `அப்பீல்காரணமாக`, and PDF33 `நாவடக்கமின்றிப்`. Historical `ணா` / `ளை` identities were decoded in `அண்ணா` and `ரயில்களை`. These are not modernized in T1.
+Source-sensitive first-pass forms retained for strict T2 include the earlier batches plus PDF34 `அண்ணா கண்ஜாடை காட்டுவரானால்` / `ஆயாச எதிர் வேலைகள்`, PDF35 `கொலுமண்டபத்தில்` / `கருப்புத்துணிகொடு`, PDF36 `வஸ்தாது` / `கம்பெந்திய`, PDF37 `உடையினத்திலும்` / `எதிர்த்துபோராட்டம்`, and PDF38 `ஒலமிட்டுக்` / `துருக்கர்களின் கொலையால்` / `கட்டாறி தாங்கினன் மார்பிலே`. These are not modernized in T1.
 
 ## Next gate
 
-Continue **Tamil T1 first-pass transcription — PDF34 onward**. Keep explicit page mapping and source-sensitive notes. Do not begin T2, T3 or English until the complete 29-page T1 body exists.
+Continue **Tamil T1 first-pass transcription — PDF39 onward**. Keep explicit page mapping and source-sensitive notes. Do not begin T2, T3 or English until the complete 29-page T1 body exists.
