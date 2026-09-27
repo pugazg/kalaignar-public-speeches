@@ -3,7 +3,7 @@
 **Source:** TVA_BOK_0024505_புராணப்போதை.pdf  
 **Source SHA-256:** 3af4d1ba35742975fd3308f199f5e70bcdf0fb0ac3d8d6381a237cad39916785  
 **Scope:** PDF80–101 / printed pp.79–100 / 22 pages  
-**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1 **COMPLETE**; English E2 **COMPLETE / PASS**; English E3 **READY**
+**Current gate:** Tamil T1/T2/T3 **COMPLETE / PASS**; Tamil **`verified-complete` / FROZEN**; English E1/E2/E3 **COMPLETE / PASS**; English **`verified-complete`**; repository closure **READY**
 
 ## T1 method
 
@@ -361,8 +361,27 @@ The corrected English retains **4 translator/source notes**, preserves all **11/
 
 Detailed English correction ledger: `translation-review.md`.
 
+## English E3 final verification — COMPLETE / PASS
+
+English E3 re-read the complete corrected English layer **PDF80–101 / printed pp.79–100 / 22/22 pages** against frozen Tamil.
+
+- E2 corrections rechecked — **15/15 present**
+- E3 additional corrections — **4**
+- E3 unresolved — **0**
+- Tamil changes during E3 — **0**
+- translator/source notes — **4/4 retained**
+- page headings / printed mapping — **22/22 / PASS**
+- source-recorded cross-page continuations — **PASS**
+- omissions / unsupported additions / reversals — **none after E3**
+- rhetorical force / names / terms — **PASS**
+- PDF101 ending / PDF102 exclusion — **PASS**
+- second complete post-E3 sweep — **0 further fidelity issues**
+- English — **`verified-complete`**
+
+Detailed E2/E3 ledger: `translation-review.md`.
+
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF80–101 / printed pp.79–100 / all 22 pages**.
+Proceed to **repository-level archival closure / release-readiness synchronization** for constituent 6.
 
-Do not mark English `verified-complete` or begin repository closure until E3 passes.
+No Tamil transcription, English translation, fidelity-review or final-verification work remains pending.
