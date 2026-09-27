@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil T1 **IN PROGRESS — PDF19–38 / 20/29 drafted**; T2 NOT STARTED
+**Current gate:** Tamil T1 **IN PROGRESS — PDF19–43 / 25/29 drafted**; 1 source-obscured T1 reading; T2 NOT STARTED
 
 ## T1 method
 
@@ -205,13 +205,74 @@ Historical character identity was decoded into modern Unicode without lexical mo
 - **PDF37→38** — `பொருளாதாரத் துறையிலும் / போராட்டங்கள் நடத்தினோம்.` — semantic continuation.
 - **PDF38→39** — PDF38 closes `செங்குருதி சிந்தி சவமானான்!`; PDF39 begins a new paragraph; no split word. Adjoining PDF39 was inspected only to establish the boundary.
 
-## T1 progress after Batch 4
+## T1 Batch 5 — PDF39–43 / printed pp.39–43
 
-- drafted — **PDF19–38 / 20 of 29 pages**
-- printed pages — **19–38**
-- pages remaining — **PDF39–47 / 9 pages**
-- explicit unresolved — **0**
-- historical-glyph first-pass — **through PDF38**
+**Status: COMPLETE — 5/5 pages drafted.**
+
+- PDF39 — complete first-pass transcription
+- PDF40 — complete first-pass transcription with **1 source-obscured start-of-word reading**
+- PDF41 — complete first-pass transcription
+- PDF42 — complete first-pass transcription
+- PDF43 — complete first-pass transcription
+- cumulative T1 — **25/29**
+- explicit unresolved/source-obscured readings — **1**
+
+### Batch 5 source-obscured reading
+
+- **PDF40** — a later handwritten/ink mark obscures the opening letters of a place phrase. The surviving print visibly reads **`…ங்களூருக்கருகிலே`**. T1 records this as:
+  `[தெளிவில்லை — பிந்தைய கைமைக் குறி தொடக்க எழுத்துகளை மறைக்கிறது: “…ங்களூருக்கருகிலே”]`
+- No contextual completion such as `பெங்களூருக்கருகிலே` is inserted at T1. Resolve only if the same-edition image supports it at a later verification gate.
+
+### Batch 5 source-sensitive first-pass controls
+
+Retained exactly for strict T2 recheck:
+
+- **PDF39** — `அகோரப் பசிக்கு!`
+- **PDF39** — `செபஸ்டியன்`
+- **PDF39** — `ஆண் குறியை`
+- **PDF40** — `முக்கியம்தானு?` / `அவசியம்தானு?`
+- **PDF40** — `அழிக்கல்`
+- **PDF40** — `வாழைப்பழடினம்`
+- **PDF40** — `திருநாட்டியத்தான்குடி`
+- **PDF40** — `மாவூர் ரோட்`
+- **PDF41** — `சித்தாப்பு`
+- **PDF41** — `புதியபாணத்தைத்`
+- **PDF41** — `கிடக்கிறேனய்யா` / `வருதய்யா`
+- **PDF42** — `அடிமைத் தனங்களால்`
+- **PDF42** — `ஒன்றுக்கலக்கும்`
+- **PDF42** — page-end split `மாலங்`
+- **PDF43** — page-start continuation `கோவும்` → candidate assembled `மாலங்கோவும்`
+- **PDF43** — `நிறைந்திருக்கின்றனவே புல் பூண்டுகள்`
+- **PDF43** — `டால்மியா ‘சாக்கடை’`
+- **PDF43** — `ஜனசக்தி`
+- **PDF43** — `சியாங்கே ஷேக்கை`
+
+These are source-sensitive T2 priorities, not automatic corrections. The PDF40 obscured start is the only explicit T1 unresolved/source-limited reading in Batch 5.
+
+### Batch 5 historical-glyph first-pass
+
+PDF39–43 were inspected at enlarged/native render under the repository historical-Tamil guide, including the required family set:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Character identity was decoded into modern Unicode without lexical modernization. No global replacement was used. T1 remains a first pass.
+
+### Batch 5 page-boundary controls for T2
+
+- **PDF38→39** — no split word; PDF39 begins a new paragraph.
+- **PDF39→40** — PDF39 closes `சீர்கெட்ட ஆட்சிபீடத்தினர்.`; PDF40 begins a new paragraph.
+- **PDF40→41** — PDF40 closes `முழங்கும் போராட்டம்.`; PDF41 begins `அதை உணராமல்...`; semantic continuation at argument level, no split word.
+- **PDF41→42** — PDF41 closes `என்று அலறுகிறான்.`; PDF42 begins the response to that cry; no split word.
+- **PDF42→43** — `மாலங் / கோவும்` — candidate assembled reading **`மாலங்கோவும்`**; recheck in T2.
+- **PDF43→44** — `சியாங்கே ஷேக்கை / விரட்டிவிட்டு...` — semantic continuation; adjoining PDF44 inspected only to establish the boundary.
+
+## T1 progress after Batch 5
+
+- drafted — **PDF19–43 / 25 of 29 pages**
+- printed pages — **19–43**
+- pages remaining — **PDF44–47 / 4 pages**
+- explicit unresolved/source-obscured — **1**
+- historical-glyph first-pass — **through PDF43**
 - Tamil T1 — **IN PROGRESS**
 - Tamil T2 — **NOT STARTED**
 - Tamil — **not verified / not frozen**
@@ -219,4 +280,4 @@ Historical character identity was decoded into modern Unicode without lexical mo
 
 ## Next gate
 
-Continue Tamil T1 from **PDF39 onward** in manageable batches. Do not begin T2 before the complete PDF19–47 first-pass transcription exists.
+Complete Tamil T1 with the **final 4 pages PDF44–47**. Do not begin T2 until the complete PDF19–47 first-pass transcription exists.
