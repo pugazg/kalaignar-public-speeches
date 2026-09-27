@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை
 
-**Status: ACTIVE — SOURCE-GATED / Tamil T1 READY / NOT STARTED**
+**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE / 12/12 / 2 explicit unresolved / T2 READY**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -32,8 +32,18 @@ The scan is authoritative. This 1954 edition uses historical Tamil typeforms, so
 
 Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and unusual grammar. Decode historical glyph identity into correct modern Unicode without modernizing the source wording. Do not use outside editions to repair or normalize the text.
 
+## Tamil T1 checkpoint
+
+- T1 coverage — **PDF7–18 / printed pp.7–18 / 12/12 pages**
+- explicit unresolved readings — **2**
+- page-boundary candidates logged — **8**
+- historical-glyph first-pass discipline — **applied; final verification pending T2**
+- canonical working Tamil — `transcription-ta.md`
+- audit — `audit.md`
+- Tamil — **not yet verified / not frozen**
+
 ## Next gate
 
-Tamil **T1 first-pass transcription — PDF7–18 / printed pp.7–18 / all 12 pages**.
+Tamil **T2 strict visual fidelity audit — Batch 1: PDF7–11 / printed pp.7–11 / 5 pages**.
 
-Create `transcription-ta.md` and `audit.md` during T1 with explicit page correspondence. Do not begin T2 or English in the same step.
+Compare every line against source pixels, apply only source-supported corrections, and update `audit.md`. Do not begin T3 or English.
