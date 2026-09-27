@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் NEXT — Tamil T1 READY / NOT STARTED; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil T1 IN PROGRESS — PDF19–23 / 5/29 drafted; next PDF24; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -611,8 +611,10 @@ No routine transcription, translation, review, verification or release-readiness
 - constituent 1 source-limit annotations — **2 retained**
 - active constituent — **2 / 5 — அத்தை மகள்**
 - active range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- active constituent Tamil T1 — **READY / NOT STARTED**
+- active constituent Tamil T1 — **IN PROGRESS — Batch 1 PDF19–23 / 5/29 drafted / 0 explicit unresolved**
+- active historical-glyph first-pass — **through PDF23**
+- active constituent Tamil T2 — **NOT STARTED**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — initialize archive and begin Tamil T1 from PDF19**, using rendered scan pixels and the historical-Tamil glyph guide.
+Exact next gate: constituent 2 **அத்தை மகள் — continue Tamil T1 from PDF24 onward**, using rendered scan pixels and the historical-Tamil glyph guide; do not begin T2 before PDF19–47 T1 is complete.
 
