@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 Tamil `verified-complete` / FROZEN; English `verified-complete` — E2 15 corrections + E3 3 additional / 0 unresolved / 0 Tamil changes; CLOSURE NEXT; 2 documented source-damage uncertainties retained — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் NEXT — Tamil T1 READY / NOT STARTED — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -74,25 +74,17 @@ See `DUPLICATE_AUDIT.md`.
 - Tamil T1 complete — **1/5**
 - Tamil verified — **1/5**
 - English verified — **1/5**
-- fully archived — **0/5**
-- active constituent — **1/5 — முல்லைக் கொல்லை**
-- active range — **PDF7–18 / printed pp.7–18 / 12 pages**
-- active Tamil T1 — **FIRST-PASS COMPLETE — 12/12**
-- active Tamil T2 — **COMPLETE / PASS — PDF7–18 / 12/12 pages / 40 corrections/actions**
-- active Tamil T3 — **COMPLETE / PASS — 40/40 corrections reconciled / 0 additional source corrections / 0 repairs**
-- active Tamil — **`verified-complete` / FROZEN**
-- active source-limited uncertainties — **2**
-- active English E1 — **COMPLETE — PDF7–18 / 12/12**
-- active English E2 — **COMPLETE / PASS — 15 corrections / 0 unresolved**
-- active English E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved / 0 Tamil changes**
-- active translator/source notes — **8/8 retained**
-- active English — **`verified-complete`**
-- active repository closure — **NOT STARTED**
+- fully archived — **1/5**
+- constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
+- constituent 1 Tamil — **`verified-complete` / FROZEN**
+- constituent 1 English — **`verified-complete`**
+- constituent 1 source-limited uncertainties — **2 documented / retained**
+- active constituent — **2/5 — அத்தை மகள்**
+- active range — **PDF19–47 / printed pp.19–47 / 29 pages**
+- active Tamil T1 — **READY / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 1 — **முல்லைக் கொல்லை** — **repository archival closure**.
-
-Verify final file completeness, frozen Tamil, verified English, both source-limit annotations, metadata/control synchronization and release readiness. Do not reopen Tamil or English for stylistic polishing.
+Constituent 2 — **அத்தை மகள்** — initialize the dedicated archive and begin **Tamil T1 first-pass transcription from PDF19 onward**, using rendered scan pixels as authority and the historical-Tamil glyph guide. Do not reopen constituent 1.
