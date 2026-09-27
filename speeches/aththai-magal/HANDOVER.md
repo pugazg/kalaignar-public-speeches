@@ -29,7 +29,9 @@ Archive: `speeches/aththai-magal/`
 - explicit unresolved/source-obscured — **1 (PDF40 `…ங்களூருக்கருகிலே`)**
 - historical-glyph first-pass — **complete through PDF47**
 - T1 — **FIRST-PASS COMPLETE**
-- T2 — **NOT STARTED**
+- T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
+- T2 cumulative — **5/29 pages checked / 0 unresolved in audited pages**
+- T2 — **IN PROGRESS**
 - T3 — blocked
 - English — blocked pending Tamil freeze
 
@@ -67,8 +69,18 @@ Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 
 - PDF46→47 — no split word
 - PDF47→48 — constituent boundary PASS; PDF48 begins `நம் மேடை`
 
+## Tamil T2 Batch 1 checkpoint
+
+- coverage — **PDF19–23 / 5/5 pages**
+- status — **COMPLETE / PASS**
+- corrections/actions — **7**
+- unresolved within audited pages — **0**
+- historical-glyph strict review — **PASS / 0 additional glyph corrections**
+- boundary controls PDF19→24 — **5/5 PASS**
+- PDF40 source-obscured marker — **retained / untouched**
+
 ## Exact next activity
 
-Begin **Tamil T2 strict visual audit — Batch 1 PDF19–23 / printed pp.19–23 / 5 pages**.
+Proceed to **Tamil T2 strict visual audit — Batch 2 PDF24–28 / printed pp.24–28 / 5 pages**.
 
 Recheck every line against rendered scan pixels, apply only source-supported corrections, and do not begin T3 or English in the same activity.
