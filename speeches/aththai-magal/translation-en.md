@@ -1,6 +1,6 @@
 # அத்தை மகள் — English Translation
 
-> **Status:** English E1 FIRST-PASS COMPLETE — PDF19–47 / printed pp.19–47 / **29/29 pages translated**; E2 NEXT / NOT STARTED; frozen Tamil changes **0**; **1 source-limited uncertainty retained**  
+> **Status:** English E1 COMPLETE — PDF19–47 / 29/29; English E2 **COMPLETE / PASS — 13 confirmed corrections / 0 unresolved**; E3 NEXT / NOT STARTED; frozen Tamil changes **0**; **1 source-limited uncertainty retained**  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Political labels, polemic and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue / event:** Not established by the source; do not infer.
@@ -77,7 +77,7 @@ Student comrades! You to whom the future belongs!
 
 The Dravida Munnetra Kazhagam calls you too. How? By telling you to leap into the field? No! Watch carefully—but do not merge into it completely! Why? Yours is the age for study. It is the time to mature.
 
-Not only the Dravida Munnetra Kazhagam; you may think about other parties too, their practical actions and political events; you may observe them; and not only that—you must think about them, and think while standing a little apart! For your studies must not be ruined! They must not become water poured upon weeds.
+Not only the Dravida Munnetra Kazhagam; you may think about other parties too, their practical actions and political events; you may observe them; and not only that—you must think about them, and think while standing a little apart! For your studies must not be ruined! You must not become like water poured upon weeds.
 
 A country's liberation struggle does not need only an army of heroes. It also needs an army of discerning people. The good work of recovering the country belongs to the army of heroes; those who must safeguard the country once gained are the army of the discerning. In Dravida today, the army of heroes stands in formation! Therefore, student comrades, you must grow into the future army of the discerning.
 
@@ -117,7 +117,7 @@ There cannot be a single one among you who does not know of the three-pronged ag
 
 The struggle we waged in the political sphere was a struggle against Nehru—an agitation for rights against his “nonsense”—a great struggle that dared to defend honour.
 
-Earlier, Delhi imperialism set about imposing Hindi in the midst of refined Tamil, endowed with distinction, glory and the sweetness of sugarcane. To put down that frenzy—to establish the standing of Tamil—not only the Dravida Munnetra Kazhagam but the Dravidar Kazhagam too conducted an anti-Hindi agitation. The intrusive Hindi letters that had appeared smiling on railway stations were buried—erased.
+Earlier, Delhi imperialism set about imposing Hindi in the midst of refined Tamil, endowed with distinction, glory and the sweetness of sugarcane. To put down that frenzy—to establish the standing of Tamil—not only the Dravida Munnetra Kazhagam but the Dravidar Kazhagam too conducted an anti-Hindi agitation. The Hindi letters that had come in and appeared smiling on railway stations were buried—erased.
 
 Then Nehru came to the South. He saw the massed force of opposition; his mind faltered. He flared up; the word “nonsense” came from his tongue.
 
@@ -129,13 +129,13 @@ Tamil Nadu, which surged up on hearing that fiery word, was calmed by Anna with 
 
 Hearing it, Nehru—the Pandit of Allahabad—the Light of Asia—flared up. He said, “Nonsense.” He said, “Childishness.” He said, “Foolishness!”
 
-Were we simply to go on listening? That question arose among us, descendants of heroes with a sense of honour! As a result—as a face set against that—in broad daylight, after publicly informing even the rulers, Anna announced at the Chidambaram conference: “Behold our protest against Nehru's arrogant speech,” and declared that the running trains would be stopped.
+Were we simply to go on listening? That question arose among us, descendants of heroes with a sense of honour! As a result—`athaik kandikku mugaththaan` [opaque frozen source phrase]—in broad daylight, after publicly informing even the rulers, Anna announced at the Chidambaram conference: “Behold our protest against Nehru's arrogant speech,” and declared that the running trains would be stopped.
 
 At once a fresh vitality appeared again throughout Tamil Nadu! A new uprising set out! The extraordinary event of 5,000 heroes going to prison in a single day also took place.
 
 In the history of India, no party had sent 5,000 people to prison in one day. But the Dravida Munnetra Kazhagam wrote such a new story into history.
 
-Those who took part in the agitation that day were not merely 5,000. Achariyar, leader of the “Bhaja Govindam” grandees, and his police tigers imprisoned only one part of the force—
+Those who took part in the agitation that day were not merely 5,000. Achariyar, leader of the “Bhaja Govinda poomans,” and his police tigers imprisoned only one part of the force—
 
 > **Translator/source note:** PDF30 contains the unusual frozen forms `அதைக் கண்டிக்கு முகத்தான்` and `பஜகோவிந்தப் பூமான்களின்`. E1 keeps their source character visible rather than silently replacing them with a conjectured normalized Tamil reading.
 
@@ -155,7 +155,7 @@ Many of our comrades, accused of conspiring in Tuticorin, are confined in the Vi
 
 We rejoice here—we applaud—we speak.
 
-But at this very moment, what is the condition of those comrades who worked shoulder to shoulder with us? They are shut in the prison-house, carrying a gruel-pot in their hands. For ten months, with the case still unfinished, they have been made to suffer in a pitiful condition; they remain confined.
+But at this very moment, what is the condition of those comrades who worked shoulder to shoulder with us? They are shut in the prison-house, carrying a gruel-pot in their hands. For ten months, with the case still unfinished, they are being subjected to vengeance in a pitiful condition; they remain confined.
 
 For ten months they have been unable to hear the babbling words of their precious children; unable to see the mothers and fathers who gave birth to them; unable even to see their wives.
 
@@ -191,7 +191,7 @@ Thus came a man named Prakasa. Rather than call him Prakasa, we may call him the
 
 In his northern manner, he surpassed even Nehru! I shall mention one act of his that went against integrity. Listen.
 
-Once he toured Thanjavur district. When he reached Thanjavur town, he saw row upon row of black flags standing against him, welcoming him with their song of protest—the echo of Dravidian opposition! On seeing them he was shaken; he acknowledged the fearsome opposition that had formed against him. Nor did he hesitate to say so openly! Otherwise, why would he have said of the flag-welcome Thanjavur gave him, “This incident reminds me of the Russian Revolution”?
+Once he toured Thanjavur district. When he reached Thanjavur town, he saw row upon row of black flags standing against him, welcoming him with songs of greeting—the echo of Dravidian opposition! On seeing them he was shaken; he acknowledged the fearsome opposition that had formed against him. Nor did he hesitate to say so openly! Otherwise, why would he have said of the flag-welcome Thanjavur gave him, “This incident reminds me of the Russian Revolution”?
 
 That was the Thanjavur incident on the first day. The next day, it seems, he went to Thiruvarur. It rained without stopping that day. Rainwater stood pooled all along the road. In that condition Prakasa's procession came through. A black-flag welcome occurred along the way too. Prakasa's car moved through the middle, while our people stood packed on both sides in small groups, waving pieces of black cloth and shouting, “Prakasa, go back!”
 
@@ -199,7 +199,7 @@ That was the Thanjavur incident on the first day. The next day, it seems, he wen
 
 At that moment, one piece of black cloth slipped from a stick that was being waved. It did not fall to the ground. It flew and landed directly on Prakasa.
 
-That was enough! Prakasa's anger burst beyond all bounds, and he immediately ordered the car to stop. He is said to have leapt down from the car and snatched the staff from the hand of one of those displaying a flag! Then, with that staff, he is said to have begun striking people standing by the roadside—whether they were participants or mere passers-by!
+That was enough! Prakasa's anger burst beyond all bounds, and he immediately ordered the car to stop. He is said to have leapt down from the car and snatched the staff from the hand of one of those displaying a flag! Then, with that staff, he is said to have begun striking people standing by the roadside—people who happened to be coming and going there!
 
 Who?
 
@@ -265,7 +265,7 @@ It is those very people who were responsible for such terrible incidents who als
 
 Without understanding that, they speak mockingly in “chithappu” language.
 
-The Communist comrades have begun to launch a new line: “If Dravida Nadu separates, will the lives of the poor blossom?” But they must understand. In the very word “Dravida” lies the life of the poor man. There is a plan for his life to blossom. The Moscow devotees who demand a united Tamilagam must understand this.
+The Communist comrades have begun to notch a new arrow: “If Dravida Nadu separates, will the lives of the poor blossom?” But they must understand. In the very word “Dravida” lies the life of the poor man. There is a plan for his life to blossom. The Moscow devotees who demand a united Tamilagam must understand this.
 
 You must think, comrades. Between our Communist friends, who say that their aim in life is to end the suffering of the poor, and us, there is only one fundamental difference. They seek a way to end hunger. We seek a way both to end hunger and to protect dignity. That is why we speak of hunger and dignity together. They speak only of hunger.
 
@@ -277,7 +277,7 @@ One of the friends who hears this says, “Oh! Have you been starving for two da
 
 But the other man first lifts the hungry man who lies bound out of the sewer—throws off his bonds—bathes him—puts different clothes on him—and only then takes him to the nearby hotel. The one capable of acting in this way is the man of the Dravida Munnetra Kazhagam.
 
-Communism raises the slogan that hunger and famine must disappear from the country. But the Dravida Munnetra Kazhagam seeks a path to rescue Dravida, bound by forms of slavery—by shastras and conventions—by ruined ancient ideas—by doctrines, and thrown into the sewer where northern domination, deceptive Aryanism and such things mix together; to smash those bonds, and then drive away famine and hunger. What could be wrong in this?
+Communism raises the slogan that hunger and starvation must disappear from the country. But the Dravida Munnetra Kazhagam seeks a path to rescue Dravida, bound by forms of slavery—by shastras and conventions—by ruined ancient ideas—by doctrines, and thrown into the sewer where northern domination, deceptive Aryanism and such things mix together; to smash those bonds, and then drive away starvation and hunger. What could be wrong in this?
 
 Everything must not be viewed only through the question: What did Marx say? What did Lenin say? How does Russia think? But the argument is not that those things must not be accepted. “What did Lenin say?”—Russia too thinks of this; Red China too considers it. But Malang—
 
@@ -299,7 +299,7 @@ The Communist Party asks! Do you know which Communist Party, comrades? The one t
 
 —away, raised the red flag in Red China, and transformed China into a garden of new flowers—a new park blooming on the soil of revolution. That very Communist Party, which in India's French settlements—in Puducherry and Karaikal—has dared to struggle with renewed strength, saying that if the French leave, “newness will bloom—new life will arise,” asks: “If the northerner leaves, will happiness come?”
 
-I say—not even as an answer, but pointing with the finger toward neighbouring China—“Look at Red China! Think!”
+I say—not even as an answer; I point with the finger of neighbouring China—“Look at Red China! Think!”
 
 The very “Janasakthi” that asks this question appeals in its editorial: “Celebrate Asia Day throughout the country on April 25.” Can we not now ask, “If Asia Day is celebrated on April 25, will the labouring class being crushed among us benefit on the 26th? Will huts become Kubera's mansions?”
 
@@ -309,7 +309,7 @@ That same editorial says further that if the wars in Korea and Indo-China “sto
 
 —also stop?” We can ask—we are able to ask—but we will not, for the sole reason that we observe political dignity and civility!
 
-They ask, “What benefit will the labouring people gain if Dalmiyapuram becomes Kallakudi?” We know that it brings no immediate benefit to the poor! But did we ever say that milk and honey would begin flowing because of it? No! That is why we say that when the summit of our ideal—the fruit of the war-ballad of many years—is reached and Dravida Nadu is obtained, it will become a republic—a garden of democracy.
+They ask, “What benefit will the labouring people gain if Dalmiyapuram becomes Kallakudi?” We know that it brings no immediate benefit to the poor! But did we ever say that milk and honey would begin flowing because of it? No! That is why we say that if Dravida Nadu—the summit of our ideal, the fruit of the war-ballad of many years—is obtained, it will become a republic—a garden of democracy.
 
 But you shout, “Workers of the world, unite!” You look through a “telescope.” Is it possible? You shout until your throat dries up—can your intention be fulfilled? Will all the workers of the world ever be able to unite on some single day? Will they be able to act?
 
@@ -319,7 +319,7 @@ Yet at the same time you do not stop merely with spreading your own doctrine. Wh
 
 ### PDF page 46 — printed page 46
 
-You disparage the Dravidian separatist agitation; why do you not try to learn the truths contained within it? Take up the geography book and look. Does it appear to your eyes as one single country? How many, many boundaries are there! Is there only one leader? No! How many boundary lines! Countless limits! A field prospers only when it has plenty of bunds.
+You disparage the Dravidian separatist agitation; why do you not try to learn the truths contained within it? Take up the geography book and look. Does it appear to your eyes as one single country? How many, many boundaries are there! Is there only one leader? No! How many boundary lines! Countless limits! The land prospers only when it has many bunds.
 
 That is why we say—we have said it many times—we shall say it again—your slogan of “unity” has no foundation; it lies outside reason!
 
