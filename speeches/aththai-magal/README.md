@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 COMPLETE; English E2 COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes; 1 source-limited uncertainty retained; English E3 NEXT / NOT STARTED**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete`; E3 COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes; 1 source-limited uncertainty retained; repository archival closure NEXT**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -58,7 +58,12 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - English E2 frozen Tamil changes — **0**
 - English E2 source-limited uncertainties retained — **1/1**
 - English E2 translator/source notes retained — **8**
-- English E3 — **NEXT / NOT STARTED**
+- English E3 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved**
+- English E3 frozen Tamil changes — **0**
+- English E3 source-limited uncertainty retained — **1/1**
+- English E3 translator/source notes retained — **8/8**
+- English — **`verified-complete`**
+- repository archival closure — **NEXT / NOT STARTED**
 - English translation — `translation-en.md`
 - English review — `translation-review.md`
 - working transcript — `transcription-ta.md`
@@ -68,4 +73,4 @@ Source-sensitive first-pass forms retained for strict T2 include all earlier bat
 
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF19–47 / 29 pages**. Verify all 13 E2 corrections, perform a final fidelity sweep against frozen Tamil, retain the PDF40 source limitation, and make 0 Tamil changes. Do not perform repository closure in the same activity.
+Proceed to **repository archival closure for constituent 2 — அத்தை மகள்**. Verify frozen Tamil, verified English, the retained PDF40 source limitation, control/metadata synchronization, final file set and release-readiness. Do not reopen Tamil or English for stylistic polishing.

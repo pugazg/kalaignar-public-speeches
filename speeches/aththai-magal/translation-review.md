@@ -1,6 +1,6 @@
 # அத்தை மகள் — English translation review
 
-> **Status:** English E2 **COMPLETE / PASS — PDF19–47 / printed pp.19–47 / 29/29 pages reviewed; 13 confirmed corrections; 0 unresolved; 0 frozen-Tamil changes**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF19–47 / printed pp.19–47 / 29/29 pages; 0 additional corrections; 0 unresolved; 0 frozen-Tamil changes**  
 > **English authority under review:** `translation-en.md`  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Review English only against the frozen Tamil. Do not use outside editions, political/historical background or contextual expectation to repair the Tamil.
@@ -99,10 +99,40 @@ The English still carries the single frozen Tamil source limitation:
 - translator/source notes in maintained English — **8**
 - English status — **not yet verified-complete; E3 pending**
 
+## E3 final verification — COMPLETE / PASS
+
+The complete post-E2 English layer was re-read end to end against the frozen Tamil authority, page by page from PDF19 through PDF47.
+
+### E3 end-to-end checks
+
+- all **13/13 E2 corrections** — **present**
+- stale pre-E2 readings from the 13-item correction set — **none found**
+- English page headings PDF **19–47** — **29/29, exactly once, in order**
+- printed-page sequence — **19–47, aligned 1:1**
+- cross-page continuity — **PASS**
+- final ending on PDF47 — **PASS**
+- translator/source notes — **8/8 retained**
+- PDF40 source-limit text — **retained exactly**
+- PDF40 hidden opening letters reconstructed — **No**
+- external/contextual place-name completion — **No**
+- E3 additional English fidelity corrections — **0**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+- source-limited uncertainty retained — **1/1**
+
+A second complete post-check sweep found **0 further English fidelity issues**.
+
+## English verification state
+
+- E1 — **COMPLETE — PDF19–47 / 29/29**
+- E2 — **COMPLETE / PASS — 13 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS — 29/29 / 0 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+- Tamil — **`verified-complete` / FROZEN**
+- English-stage Tamil changes — **0**
+
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF19–47 / printed pp.19–47 / 29 pages**.
+Proceed to **repository archival closure for constituent 2 — அத்தை மகள்**.
 
-Verify all 13 E2 corrections are present, perform a final whole-constituent fidelity sweep against frozen Tamil, retain the PDF40 source limitation, and make no Tamil changes. If E3 passes, repository closure becomes the next gate.
-
-Do **not** perform repository closure in the same activity.
+Closure should verify the frozen Tamil, verified English, PDF40 source-limit annotation, metadata/control synchronization, final file set and release-readiness state. Do not reopen Tamil or English for stylistic polishing.

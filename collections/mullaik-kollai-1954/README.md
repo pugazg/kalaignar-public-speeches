@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes; English E3 NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil and English `verified-complete`; English E3 COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes; repository archival closure NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -73,7 +73,7 @@ See `DUPLICATE_AUDIT.md`.
 - supplementary/back-matter mapping — **COMPLETE**
 - Tamil T1 complete — **2/5**
 - Tamil verified — **2/5**
-- English verified — **1/5**
+- English verified — **2/5**
 - fully archived — **1/5**
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
 - constituent 1 Tamil — **`verified-complete` / FROZEN**
@@ -97,10 +97,12 @@ See `DUPLICATE_AUDIT.md`.
 - active English E1 — **COMPLETE — PDF19–47 / 29/29 pages**
 - active English E2 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**
 - active English E2 source-limited uncertainty — **1/1 retained**
-- active English E3 — **NEXT / NOT STARTED**
+- active English E3 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes**
+- active English — **`verified-complete`**
+- active repository archival closure — **NEXT / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to **English E3 final end-to-end verification — PDF19–47 / printed pp.19–47 / 29 pages**. Verify all 13 E2 corrections, retain the PDF40 source limitation, and make 0 Tamil changes. Do not perform repository closure in the same activity.
+Constituent 2 — **அத்தை மகள்** — proceed to **repository archival closure**. Tamil and English are both `verified-complete`; retain the PDF40 source limitation, synchronize final controls and release-readiness, and do not reopen the verified texts for stylistic polishing.

@@ -46,7 +46,11 @@ Archive: `speeches/aththai-magal/`
 - English E2 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**
 - English E2 source-limited uncertainties retained — **1/1**
 - English E2 translator/source notes retained — **8**
-- English E3 — **NEXT / NOT STARTED**
+- English E3 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes**
+- English E3 source-limited uncertainty retained — **1/1**
+- English E3 translator/source notes retained — **8/8**
+- English — **`verified-complete`**
+- repository archival closure — **NEXT / NOT STARTED**
 
 Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 6 adds PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`.
 
@@ -167,10 +171,20 @@ Any later Tamil change requires documented source evidence and dependent English
 - source-limited uncertainties retained — **1/1 (PDF40)**
 - translator/source notes retained — **8**
 - E2 status — **COMPLETE / PASS**
-- English — **not yet `verified-complete`; E3 pending**
+- English — **`verified-complete`**
 
-## Exact next activity
+## English E3 durable checkpoint
 
-Proceed to **English E3 final end-to-end verification — PDF19–47 / printed pp.19–47 / 29 pages**.
+- E3 status — **COMPLETE / PASS**
+- pages verified — **PDF19–47 / printed pp.19–47 / 29/29**
+- E2 corrections rechecked — **13/13 present**
+- E3 additional corrections — **0**
+- E3 unresolved — **0**
+- frozen Tamil changes — **0**
+- PDF40 source-limited uncertainty — **1/1 retained**
+- translator/source notes — **8/8 retained**
+- English — **`verified-complete`**
 
-Verify all 13/13 E2 corrections are present, perform a final whole-constituent fidelity sweep against frozen Tamil, retain the PDF40 source limitation, and make 0 Tamil changes. Do not perform repository closure in the same activity.
+## Next gate
+
+Proceed to **repository archival closure for constituent 2 — அத்தை மகள்**. Closure must synchronize the final archive/control state and release-readiness without reopening frozen Tamil or verified English for stylistic polishing.

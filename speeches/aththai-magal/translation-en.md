@@ -1,6 +1,6 @@
 # அத்தை மகள் — English Translation
 
-> **Status:** English E1 COMPLETE — PDF19–47 / 29/29; English E2 **COMPLETE / PASS — 13 confirmed corrections / 0 unresolved**; E3 NEXT / NOT STARTED; frozen Tamil changes **0**; **1 source-limited uncertainty retained**  
+> **Status:** English `verified-complete` — E1 COMPLETE — PDF19–47 / 29/29; E2 COMPLETE / PASS — 13 confirmed corrections / 0 unresolved; E3 COMPLETE / PASS — 0 additional corrections / 0 unresolved; frozen Tamil changes **0**; **1 source-limited uncertainty retained**  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve argument structure, repetition, rhetorical force, historical/source-sensitive wording, and page sequence. Political labels, polemic and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue / event:** Not established by the source; do not infer.
