@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages / 0 Tamil changes / 1 source-limited uncertainty carried; English E2 NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes; English E3 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -94,11 +94,13 @@ See `DUPLICATE_AUDIT.md`.
 - active Tamil T2 — **COMPLETE / PASS**
 - active Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional corrections / 0 repairs**
 - active Tamil — **`verified-complete` / FROZEN**
-- active English E1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages / 0 Tamil changes / 1 source-limited uncertainty / 8 translator-source notes**
-- active English E2 — **NEXT / NOT STARTED**
+- active English E1 — **COMPLETE — PDF19–47 / 29/29 pages**
+- active English E2 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**
+- active English E2 source-limited uncertainty — **1/1 retained**
+- active English E3 — **NEXT / NOT STARTED**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to **English E2 fidelity review — PDF19–47 / printed pp.19–47 / 29 pages** against frozen Tamil. Record findings in `translation-review.md`; do not begin E3 or repository closure in the same activity.
+Constituent 2 — **அத்தை மகள்** — proceed to **English E3 final end-to-end verification — PDF19–47 / printed pp.19–47 / 29 pages**. Verify all 13 E2 corrections, retain the PDF40 source limitation, and make 0 Tamil changes. Do not perform repository closure in the same activity.
