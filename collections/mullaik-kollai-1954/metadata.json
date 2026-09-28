@@ -69,8 +69,8 @@
     "active_constituent_number": 2,
     "active_constituent_slug": "aththai-magal",
     "active_constituent_title_ta": "அத்தை மகள்",
-    "next_gate": "Constituent 2 / அத்தை மகள் — English E2 fidelity review PDF19–47 / 29 pages",
-    "collection_status": "active-constituent-2-english-e2-ready",
+    "next_gate": "Constituent 2 / அத்தை மகள் — English E3 final verification PDF19–47 / 29 pages",
+    "collection_status": "active-constituent-2-english-e3-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -155,7 +155,7 @@
       "source_gate": "pass-complete",
       "active": true,
       "tamil_t1": "first-pass-complete",
-      "next_gate": "english-e2-fidelity-review-pdf19-47",
+      "next_gate": "english-e3-final-verification-pdf19-47",
       "tamil_t1_pages_completed": 29,
       "tamil_t1_through_pdf_page": 47,
       "tamil_t1_through_printed_page": 47,
@@ -193,7 +193,17 @@
       "english_e1_tamil_changes": 0,
       "english_e1_source_limited_uncertainties": 1,
       "english_e1_translator_source_notes": 8,
-      "english_e2": "not-started"
+      "english_e2": "complete-pass",
+      "english_e2_pages_reviewed": 29,
+      "english_e2_through_pdf_page": 47,
+      "english_e2_through_printed_page": 47,
+      "english_e2_batches_complete": 1,
+      "english_e2_corrections": 13,
+      "english_e2_unresolved": 0,
+      "english_e2_tamil_changes": 0,
+      "english_e2_source_limited_uncertainties": 1,
+      "english_e2_translator_source_notes": 8,
+      "english_e3": "not-started"
     },
     {
       "number": 3,
