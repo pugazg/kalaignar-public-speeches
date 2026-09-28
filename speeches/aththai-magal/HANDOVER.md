@@ -8,7 +8,7 @@ Archive: `speeches/aththai-magal/`
 
 - parent — **முல்லைக் கொல்லை** (1954 source booklet)
 - parent collection — `collections/mullaik-kollai-1954/`
-- constituent — **2 / 5 — ACTIVE**
+- constituent — **2 / 5 — FINAL CLOSED / RELEASE READY**
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
@@ -50,7 +50,8 @@ Archive: `speeches/aththai-magal/`
 - English E3 source-limited uncertainty retained — **1/1**
 - English E3 translator/source notes retained — **8/8**
 - English — **`verified-complete`**
-- repository archival closure — **NEXT / NOT STARTED**
+- repository archival closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
 
 Source-sensitive T2 priorities are recorded batch-by-batch in `audit.md`. Batch 6 adds PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`.
 
@@ -185,6 +186,15 @@ Any later Tamil change requires documented source evidence and dependent English
 - translator/source notes — **8/8 retained**
 - English — **`verified-complete`**
 
-## Next gate
+## Final closure
 
-Proceed to **repository archival closure for constituent 2 — அத்தை மகள்**. Closure must synchronize the final archive/control state and release-readiness without reopening frozen Tamil or verified English for stylistic polishing.
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- final report — `FINAL_CLOSURE.md`
+- Tamil / English body changes introduced by closure — **0**
+- retained source-limited uncertainty — **1/1 (PDF40)**
+- no transcription / translation / verification work remains pending
+
+The parent collection continues with **constituent 3 / 5 — நம் மேடை**, PDF48–56 / printed pp.48–56 / 9 pages, Tamil T1 **READY / NOT STARTED**.
+
+Reopen this constituent only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; never for stylistic polishing.

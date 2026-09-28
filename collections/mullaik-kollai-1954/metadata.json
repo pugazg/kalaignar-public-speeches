@@ -65,12 +65,12 @@
     "constituent_items_t1_complete": 2,
     "constituent_items_tamil_verified": 2,
     "constituent_items_english_verified": 2,
-    "constituent_items_archived": 1,
-    "active_constituent_number": 2,
-    "active_constituent_slug": "aththai-magal",
-    "active_constituent_title_ta": "அத்தை மகள்",
-    "next_gate": "Constituent 2 / அத்தை மகள் — repository archival closure",
-    "collection_status": "active-constituent-2-repository-closure-ready",
+    "constituent_items_archived": 2,
+    "active_constituent_number": 3,
+    "active_constituent_slug": "nam-medai",
+    "active_constituent_title_ta": "நம் மேடை",
+    "next_gate": "Constituent 3 / நம் மேடை — initialize archive + Tamil T1 Batch 1 PDF48–52",
+    "collection_status": "active-constituent-3-t1-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -153,9 +153,9 @@
       "pages": 29,
       "archive_path": "speeches/aththai-magal/",
       "source_gate": "pass-complete",
-      "active": true,
+      "active": false,
       "tamil_t1": "first-pass-complete",
-      "next_gate": "repository-archival-closure",
+      "next_gate": "none",
       "tamil_t1_pages_completed": 29,
       "tamil_t1_through_pdf_page": 47,
       "tamil_t1_through_printed_page": 47,
@@ -213,9 +213,9 @@
       "english_e3_tamil_changes": 0,
       "english_e3_source_limited_uncertainties": 1,
       "english_e3_translator_source_notes": 8,
-      "repository_closure": "not-started",
-      "archive_status": "active-english-verified-closure-ready",
-      "release_readiness": "pending-repository-closure"
+      "repository_closure": "complete-pass",
+      "archive_status": "final-closed-release-ready",
+      "release_readiness": "final-closed-release-ready"
     },
     {
       "number": 3,
@@ -228,8 +228,11 @@
       "pages": 9,
       "archive_path": "speeches/nam-medai/",
       "source_gate": "pass-complete",
-      "active": false,
-      "tamil_t1": "not-started"
+      "active": true,
+      "tamil_t1": "not-started",
+      "next_gate": "tamil-t1-batch1-pdf48-52",
+      "archive_status": "source-gated-t1-ready",
+      "release_readiness": "not-ready"
     },
     {
       "number": 4,

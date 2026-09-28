@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil **VERIFIED-COMPLETE / FROZEN**; English E1 COMPLETE; English E2 **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**; 1 source-limited uncertainty retained; English E3 **NEXT / NOT STARTED**
+**Current gate:** **FINAL CLOSED / RELEASE READY** — Tamil `verified-complete` / FROZEN; English `verified-complete`; E3 COMPLETE / PASS — PDF19–47 / 29/29 / 0 additional corrections / 0 unresolved; repository closure COMPLETE / PASS; 1 source-limited uncertainty retained
 
 ## T1 method
 
@@ -868,10 +868,33 @@ E2 corrected a wrong metaphor subject, unsupported interpretive additions, two o
 
 Political labels, polemic and historical claims remain translated as source rhetoric rather than independently validated assertions.
 
-## Next gate
+## English E3 final end-to-end verification — COMPLETE / PASS
 
-Proceed to **English E3 final end-to-end verification — PDF19–47 / printed pp.19–47 / 29 pages**.
+- coverage — **PDF19–47 / printed pp.19–47 / 29/29**
+- all E2 corrections rechecked — **13/13 present**
+- stale pre-E2 readings from the correction set — **none found**
+- page order / printed-page alignment — **PASS**
+- cross-page continuity — **PASS**
+- final PDF47 ending — **PASS**
+- translator/source notes — **8/8 retained**
+- PDF40 source-limit text — **retained exactly**
+- hidden opening letters reconstructed — **No**
+- contextual/external place-name completion — **No**
+- E3 additional English corrections — **0**
+- E3 unresolved — **0**
+- frozen Tamil changes during E3 — **0**
+- English — **`verified-complete`**
 
-Verify all **13/13 E2 corrections** are present, perform a final whole-constituent fidelity sweep against frozen Tamil, retain the PDF40 source-limited uncertainty, and make **0 Tamil changes**.
+## Repository archival closure — COMPLETE / PASS
 
-If E3 passes, repository closure becomes the next gate. Do **not** perform repository closure in the same activity.
+Closure synchronized the constituent and parent control documents, verified the final file set and release-readiness state, and introduced **0 Tamil/English body changes**.
+
+- Tamil — **`verified-complete` / FROZEN**
+- English — **`verified-complete`**
+- source-limited uncertainty — **1/1 retained (PDF40)**
+- actionable unresolved — **0**
+- repository closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
+- final report — `FINAL_CLOSURE.md`
+
+No routine work remains for this constituent.

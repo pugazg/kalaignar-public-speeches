@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil `verified-complete` / FROZEN; English E2 COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes; English E3 NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை SOURCE-GATED / Tamil T1 READY / NOT STARTED; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -593,42 +593,24 @@ No routine transcription, translation, review, verification or release-readiness
 - source scans — **80**
 - edition — **முதற்பதிப்பு — ஆடி திங்கள் 1954**
 - creator — **கலைஞர் மு. கருணாநிதி**
-- printer — **சங்கர் பிரிண்டர்ஸ், 114, பிராட்வே, சென்னை-1**
 - main source-listed texts — **5**
 - main-text coverage — **PDF7–67 / 61 pages**
 - source-gated — **5/5**
 - Tamil T1 complete — **2/5**
 - Tamil verified — **2/5**
-- English verified — **1/5**
-- fully archived — **1/5**
-- supplementary author text — **PDF69–70 — ‘முரசொலி’ துப்பாக்கி** / mapped separately
-- PDF71–79 — rights/review/correspondence/provenance back matter
-- PDF80 — publisher advertisement
-- duplicate gate — **PASS / no existing dedicated archive found**
-- source-order note — PDF6 lists `இலட்சிய இதழ்` before `கைத்தறி வாங்கலையோ`; the physical body has `கைத்தறி வாங்கலையோ` at PDF57 before `இலட்சிய இதழ்கள்` at PDF63; both source forms are preserved
+- English verified — **2/5**
+- fully archived — **2/5**
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
-- constituent 1 Tamil / English — **`verified-complete`**
-- constituent 1 source-limit annotations — **2 retained**
-- active constituent — **2 / 5 — அத்தை மகள்**
-- active range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- active constituent Tamil T1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 / 1 source-obscured reading retained**
-- active historical-glyph first-pass — **through PDF47**
-- active outgoing boundary — **PDF47→48 PASS / PDF48 begins `நம் மேடை`**
-- active constituent Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
-- active constituent Tamil T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions**
-- active constituent Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
-- active constituent Tamil T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions**
-- active constituent Tamil T2 Batch 5 — **COMPLETE / PASS — PDF39–43 / 5 pages / 11 corrections/actions**
-- active constituent Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
-- active constituent Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
-- active constituent Tamil T2 — **COMPLETE / PASS**
-- active constituent Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional source corrections / 0 consolidation repairs**
-- active constituent Tamil — **`verified-complete` / FROZEN**
-- active constituent English E1 — **COMPLETE — PDF19–47 / 29/29 pages**
-- active constituent English E2 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**
-- active constituent English E2 source-limited uncertainty — **1/1 retained**
-- active constituent English E3 — **NEXT / NOT STARTED**
+- constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
+- constituent 2 Tamil / English — **`verified-complete`**
+- constituent 2 source-limit uncertainty — **1/1 retained (PDF40)**
+- constituent 2 final report — `speeches/aththai-magal/FINAL_CLOSURE.md`
+- active constituent — **3 / 5 — நம் மேடை**
+- active range — **PDF48–56 / printed pp.48–56 / 9 pages**
+- active source gate — **PASS / COMPLETE**
+- active Tamil T1 — **READY / NOT STARTED**
+- planned archive — `speeches/nam-medai/`
+- outgoing next boundary — **PDF57 — “கைத்தறி வாங்கலையோ”**
 - active constituent date / venue / event — **not established / do not infer**
 
-Exact next gate: constituent 2 **அத்தை மகள் — English E3 final end-to-end verification PDF19–47 / 29 pages**; verify all 13 E2 corrections, perform a final fidelity sweep against frozen Tamil, retain the PDF40 source limitation, and do not perform repository closure in the same activity.
-
+Exact next gate: constituent 3 **நம் மேடை — initialize archive + Tamil T1 Batch 1 PDF48–52 / 5 pages**. Work from the controlling scan, preserve historical Tamil glyph identity and source wording, and do not start T2 or English in the same activity.

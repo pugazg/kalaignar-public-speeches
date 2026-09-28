@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete`; E3 COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes; 1 source-limited uncertainty retained; repository archival closure NEXT**
+**Status: PASS / FINAL CLOSED / RELEASE READY — Tamil and English `verified-complete`; 1 documented source-limit uncertainty retained**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -63,7 +63,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - English E3 source-limited uncertainty retained — **1/1**
 - English E3 translator/source notes retained — **8/8**
 - English — **`verified-complete`**
-- repository archival closure — **NEXT / NOT STARTED**
+- repository archival closure — **COMPLETE / PASS**
+- archive — **FINAL CLOSED / RELEASE READY**
 - English translation — `translation-en.md`
 - English review — `translation-review.md`
 - working transcript — `transcription-ta.md`
@@ -71,6 +72,12 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 
 Source-sensitive first-pass forms retained for strict T2 include all earlier batches plus PDF44 `பிரஞ்சத் திட்டுகளிலிருந்து` / `ஆசியதினம்`, PDF45 `பாலும்தேனும்` / `டெலஸ்கோப்`, PDF46 `இழித்துரையே` / `தலைவர்தானு` / `எச்சக்களை`, and PDF47 `பெருமதிப்பு கொள்வோம்! பூரிப்படைவோம்!`. PDF40 retains one explicit source-obscured start-of-word marker `…ங்களூருக்கருகிலே`; it is not contextually completed.
 
-## Next gate
+## Final closure
 
-Proceed to **repository archival closure for constituent 2 — அத்தை மகள்**. Verify frozen Tamil, verified English, the retained PDF40 source limitation, control/metadata synchronization, final file set and release-readiness. Do not reopen Tamil or English for stylistic polishing.
+Final report: `FINAL_CLOSURE.md`.
+
+No routine transcription, audit, translation, review, verification or release-readiness work remains for this constituent. The PDF40 source-limit annotation remains part of the frozen witness and is not a closure blocker because the surviving source does not expose the hidden opening letters.
+
+The parent collection continues with **constituent 3 / 5 — நம் மேடை**, PDF48–56 / printed pp.48–56 / 9 pages, Tamil T1 **READY / NOT STARTED**.
+
+Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect; do not reopen for stylistic polishing.

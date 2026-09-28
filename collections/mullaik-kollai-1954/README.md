@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituent 1 FINAL CLOSED / RELEASE READY; constituent 2 அத்தை மகள் Tamil and English `verified-complete`; English E3 COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes; repository archival closure NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை is SOURCE-GATED / Tamil T1 READY / NOT STARTED — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -74,35 +74,38 @@ See `DUPLICATE_AUDIT.md`.
 - Tamil T1 complete — **2/5**
 - Tamil verified — **2/5**
 - English verified — **2/5**
-- fully archived — **1/5**
+- fully archived — **2/5**
+
+### Closed constituents
+
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
-- constituent 1 Tamil — **`verified-complete` / FROZEN**
-- constituent 1 English — **`verified-complete`**
-- constituent 1 source-limited uncertainties — **2 documented / retained**
-- active constituent — **2/5 — அத்தை மகள்**
-- active range — **PDF19–47 / printed pp.19–47 / 29 pages**
-- active Tamil T1 — **FIRST-PASS COMPLETE — PDF19–47 / 29/29 / 1 source-obscured reading retained**
-- active historical-glyph first-pass — **through PDF47**
-- active outgoing boundary — **PDF47→48 PASS / PDF48 begins `நம் மேடை`**
-- active Tamil T2 Batch 1 — **COMPLETE / PASS — PDF19–23 / 5 pages / 7 corrections/actions**
-- active Tamil T2 Batch 2 — **COMPLETE / PASS — PDF24–28 / 5 pages / 5 corrections/actions**
-- active Tamil T2 Batch 3 — **COMPLETE / PASS — PDF29–33 / 5 pages / 4 corrections/actions**
-- active Tamil T2 Batch 4 — **COMPLETE / PASS — PDF34–38 / 5 pages / 9 corrections/actions**
-- active Tamil T2 Batch 5 — **COMPLETE / PASS — PDF39–43 / 5 pages / 11 corrections/actions**
-- active Tamil T2 Batch 6 FINAL — **COMPLETE / PASS — PDF44–47 / 4 pages / 8 corrections/actions**
-- active Tamil T2 cumulative — **29/29 pages checked / 44 corrections/actions / 1 source-limited obscured / 0 actionable unresolved**
-- active Tamil T2 — **COMPLETE / PASS**
-- active Tamil T3 — **COMPLETE / PASS — 44/44 reconciled / 0 additional corrections / 0 repairs**
-- active Tamil — **`verified-complete` / FROZEN**
-- active English E1 — **COMPLETE — PDF19–47 / 29/29 pages**
-- active English E2 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**
-- active English E2 source-limited uncertainty — **1/1 retained**
-- active English E3 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 0 additional corrections / 0 unresolved / 0 Tamil changes**
-- active English — **`verified-complete`**
-- active repository archival closure — **NEXT / NOT STARTED**
+  - Tamil / English — **`verified-complete`**
+  - source-limit uncertainties — **2 retained**
+- constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
+  - source range — **PDF19–47 / printed pp.19–47 / 29 pages**
+  - Tamil T2 — **44 corrections/actions / 0 actionable unresolved**
+  - Tamil T3 — **44/44 reconciled / 0 additional corrections / 0 repairs**
+  - Tamil — **`verified-complete` / FROZEN**
+  - English E2 — **13 corrections / 0 unresolved**
+  - English E3 — **0 additional corrections / 0 unresolved**
+  - English — **`verified-complete`**
+  - source-limit uncertainty — **1/1 retained (PDF40)**
+  - repository closure — **COMPLETE / PASS**
+  - final report — `speeches/aththai-magal/FINAL_CLOSURE.md`
+
+### Active constituent
+
+- active constituent — **3 / 5 — நம் மேடை**
+- source range — **PDF48–56 / printed pp.48–56 / 9 pages**
+- direct source heading — **நம் மேடை**
+- source gate — **PASS / COMPLETE**
+- Tamil T1 — **READY / NOT STARTED**
+- planned archive — `speeches/nam-medai/`
+- outgoing next constituent — **PDF57 — “கைத்தறி வாங்கலையோ”**
+- speech date / venue / event — **not established at collection intake / do not infer**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 2 — **அத்தை மகள்** — proceed to **repository archival closure**. Tamil and English are both `verified-complete`; retain the PDF40 source limitation, synchronize final controls and release-readiness, and do not reopen the verified texts for stylistic polishing.
+Constituent 3 — **நம் மேடை** — initialize `speeches/nam-medai/` and perform **Tamil T1 Batch 1 — PDF48–52 / printed pp.48–52 / 5 pages**. Continue from the controlling scan only; do not start T2 or English in the same activity.
