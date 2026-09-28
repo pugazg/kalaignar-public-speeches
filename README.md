@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை SOURCE-GATED / Tamil T1 READY / NOT STARTED; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T1 IN PROGRESS — Batch 1 COMPLETE — PDF48–52 / 5/9 pages / 3 source-obscured readings; Batch 2 FINAL NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -602,15 +602,17 @@ No routine transcription, translation, review, verification or release-readiness
 - fully archived — **2/5**
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
 - constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
-- constituent 2 Tamil / English — **`verified-complete`**
-- constituent 2 source-limit uncertainty — **1/1 retained (PDF40)**
-- constituent 2 final report — `speeches/aththai-magal/FINAL_CLOSURE.md`
 - active constituent — **3 / 5 — நம் மேடை**
 - active range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- active source gate — **PASS / COMPLETE**
-- active Tamil T1 — **READY / NOT STARTED**
-- planned archive — `speeches/nam-medai/`
-- outgoing next boundary — **PDF57 — “கைத்தறி வாங்கலையோ”**
-- active constituent date / venue / event — **not established / do not infer**
+- active Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / 5 pages**
+- active Tamil T1 cumulative — **5/9 pages**
+- active historical-glyph first-pass — **through PDF52**
+- active source-obscured readings — **3**
+- active contextual reconstructions — **0**
+- active Tamil T1 — **IN PROGRESS**
+- active Tamil T2 — **NOT STARTED**
+- active Tamil — **not yet verified / not frozen**
+- active English — **blocked pending Tamil freeze**
+- active archive — `speeches/nam-medai/`
 
-Exact next gate: constituent 3 **நம் மேடை — initialize archive + Tamil T1 Batch 1 PDF48–52 / 5 pages**. Work from the controlling scan, preserve historical Tamil glyph identity and source wording, and do not start T2 or English in the same activity.
+Exact next gate: constituent 3 **நம் மேடை — Tamil T1 Batch 2 FINAL PDF53–56 / 4 pages**. Inspect PDF57 only to establish the outgoing constituent boundary; do not start T2 or English in the same activity.

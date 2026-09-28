@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை is SOURCE-GATED / Tamil T1 READY / NOT STARTED — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T1 IN PROGRESS — Batch 1 COMPLETE — PDF48–52 / 5/9 pages / 3 source-obscured readings; Batch 2 FINAL NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -99,13 +99,18 @@ See `DUPLICATE_AUDIT.md`.
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
 - direct source heading — **நம் மேடை**
 - source gate — **PASS / COMPLETE**
-- Tamil T1 — **READY / NOT STARTED**
-- planned archive — `speeches/nam-medai/`
-- outgoing next constituent — **PDF57 — “கைத்தறி வாங்கலையோ”**
-- speech date / venue / event — **not established at collection intake / do not infer**
+- Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / printed pp.48–52 / 5 pages**
+- Tamil T1 cumulative — **5/9 pages**
+- historical-glyph first-pass — **through PDF52**
+- source-obscured T1 readings — **3**
+  - PDF48 — `பண…டி` middle obscured
+  - PDF49 — one word before `மனையாளை` obscured
+  - PDF50 — one word after `கத்தி` partly obscured
+- contextual reconstructions inserted — **0**
+- Tamil T1 — **IN PROGRESS**
+- Tamil T2 — **NOT STARTED**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+- active archive — `speeches/nam-medai/`
+- speech date / venue / event — **not established / do not infer**
 
-The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
-
-## Exact next gate
-
-Constituent 3 — **நம் மேடை** — initialize `speeches/nam-medai/` and perform **Tamil T1 Batch 1 — PDF48–52 / printed pp.48–52 / 5 pages**. Continue from the controlling scan only; do not start T2 or English in the same activity.

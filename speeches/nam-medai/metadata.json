@@ -1,0 +1,76 @@
+{
+  "id": "nam-medai",
+  "title": {
+    "ta": "நம் மேடை"
+  },
+  "creator": {
+    "name_ta": "கலைஞர் மு. கருணாநிதி",
+    "role": "speaker / author"
+  },
+  "document_type": "public-address-constituent-from-compiled-booklet",
+  "language": "ta",
+  "speech": {
+    "date": null,
+    "date_note": "No constituent-specific speech date is established by the mapped source pages reviewed so far; do not infer from publication/provenance.",
+    "venue_ta": null,
+    "venue_note": "No item-specific venue is established by the mapped source pages reviewed so far.",
+    "event_ta": null,
+    "event_note": "No item-specific event or occasion is established by the mapped source pages reviewed so far."
+  },
+  "parent_collection": {
+    "id": "mullaik-kollai-1954",
+    "title_ta": "முல்லைக் கொல்லை",
+    "path": "collections/mullaik-kollai-1954/",
+    "constituent_number": 3,
+    "constituents_total": 5
+  },
+  "source": {
+    "filename": "TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf",
+    "source_id": "TVA_BOK_0064364",
+    "sha256": "1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f",
+    "file_size_bytes": 90473039,
+    "pdf_pages": 80,
+    "parent_pdf_pages_total": 80,
+    "pdf_page_start": 48,
+    "pdf_page_end": 56,
+    "printed_page_start": 48,
+    "printed_page_end": 56,
+    "speech_pages_total": 9,
+    "binary_committed": false,
+    "source_heading_ta": "நம் மேடை"
+  },
+  "source_boundary_note": "Direct source heading on PDF48; parent collection map assigns PDF48–56 to this constituent. PDF57 begins the next listed constituent, “கைத்தறி வாங்கலையோ”.",
+  "duplicate_check": {
+    "status": "pass-no-existing-dedicated-archive-found",
+    "parent_report": "collections/mullaik-kollai-1954/DUPLICATE_AUDIT.md"
+  },
+  "workflow": {
+    "source_inspection": "complete",
+    "duplicate_check": "pass-no-existing-dedicated-archive-found",
+    "source_boundary_mapping": "complete",
+    "tamil_transcription": "in-progress",
+    "tamil_visual_audit": "not-started",
+    "tamil_consolidation": "not-started",
+    "english_translation": "not-started",
+    "english_translation_review": "not-started",
+    "english_translation_final_verification": "not-started",
+    "repository_closure": "not-started",
+    "archive_status": "active-t1-in-progress",
+    "pending_transcription_or_translation_work": true,
+    "next_gate": "Tamil T1 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages",
+    "handoff_status": "t1-batch1-complete",
+    "handoff_date": "2026-09-28",
+    "tamil_transcription_pages_drafted": 5,
+    "tamil_transcription_through_pdf_page": 52,
+    "tamil_transcription_through_printed_page": 52,
+    "tamil_t1_batches_complete": 1,
+    "tamil_t1_explicit_uncertainties": 3,
+    "tamil_t1_source_obscured_uncertainties": 3,
+    "tamil_historical_glyph_first_pass_through_pdf_page": 52,
+    "pending_review_or_verification_work": true,
+    "tamil_verified": false,
+    "tamil_frozen": false
+  },
+  "archive_status": "active-t1-in-progress",
+  "release_readiness": "not-ready"
+}
