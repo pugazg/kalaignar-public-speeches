@@ -1,6 +1,6 @@
 # அத்தை மகள்
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages; 0 Tamil changes; 1 source-limited uncertainty carried; English E2 NEXT / NOT STARTED**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 COMPLETE; English E2 COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes; 1 source-limited uncertainty retained; English E3 NEXT / NOT STARTED**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -54,8 +54,13 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - English E1 frozen Tamil changes — **0**
 - English E1 source-limited uncertainties carried — **1/1**
 - English E1 translator/source notes — **8**
-- English E2 — **NEXT / NOT STARTED**
+- English E2 — **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved**
+- English E2 frozen Tamil changes — **0**
+- English E2 source-limited uncertainties retained — **1/1**
+- English E2 translator/source notes retained — **8**
+- English E3 — **NEXT / NOT STARTED**
 - English translation — `translation-en.md`
+- English review — `translation-review.md`
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
@@ -63,4 +68,4 @@ Source-sensitive first-pass forms retained for strict T2 include all earlier bat
 
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF19–47 / 29 pages** against frozen `transcription-ta.md`. Record findings in `translation-review.md` and apply confirmed corrections to `translation-en.md`. Do not begin E3 or repository closure in the same activity.
+Proceed to **English E3 final end-to-end verification — PDF19–47 / 29 pages**. Verify all 13 E2 corrections, perform a final fidelity sweep against frozen Tamil, retain the PDF40 source limitation, and make 0 Tamil changes. Do not perform repository closure in the same activity.
