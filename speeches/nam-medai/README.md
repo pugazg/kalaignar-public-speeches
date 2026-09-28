@@ -1,6 +1,6 @@
 # நம் மேடை
 
-**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE; Tamil T2 IN PROGRESS — Batch 1 COMPLETE / PASS — PDF48–52 / 5/9 pages / 14 corrections-actions; 4 source-limited obscured readings remain overall; English blocked**
+**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE; Tamil T2 COMPLETE / PASS — PDF48–56 / 9/9 pages / 29 corrections-actions; 3 source-limited obscured readings retained / 0 actionable unresolved; Tamil T3 NEXT; English blocked**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -35,7 +35,7 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - Tamil T1 cumulative — **9/9 pages drafted**
 - historical-glyph first-pass — **COMPLETE through PDF56**
 - outgoing constituent boundary — **PDF56→57 PASS / PDF57 begins “கைத்தறி வாங்கலையோ”**
-- explicit source-obscured T1 readings — **5 at T1; PDF49 resolved during T2 Batch 1 / 4 remain overall**
+- explicit source-obscured T1 readings — **5 at T1; PDF49 and PDF53 resolved during T2 / 3 remain overall (PDF48, PDF50, PDF54)**
   - PDF48 — `பண…டி` middle obscured
   - PDF49 — one word immediately before `மனையாளை` obscured
   - PDF50 — one word after `கத்தி` partly obscured
@@ -43,8 +43,9 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
   - PDF54 — final character after visible `நாயா…` obscured before `காங்கிரஸ்`
 - contextual reconstructions inserted — **0**
 - Tamil T1 — **FIRST-PASS COMPLETE**
-- Tamil T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions / 2 source-limited unresolved in audited pages / 0 other actionable unresolved**
-- Tamil T2 — **IN PROGRESS**
+- Tamil T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**
+- Tamil T2 Batch 2 FINAL — **COMPLETE / PASS — PDF53–56 / 4 pages / 15 corrections-actions**
+- Tamil T2 cumulative — **COMPLETE / PASS — 9/9 pages / 29 corrections-actions / 3 source-limited unresolved / 0 actionable unresolved**
 - Tamil T3 — **NOT STARTED**
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
@@ -55,4 +56,4 @@ T1 is a first-pass transcription, not a visual-verification claim. The five obsc
 
 ## Next gate
 
-Proceed to **Tamil T2 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Recheck the PDF53 and PDF54 source-limit markers and the PDF56→57 boundary. Do not begin English.
+Proceed to **Tamil T3 consolidation / freeze — PDF48–56 / 9 pages**. Reconcile all 29/29 T2 corrections/actions, retain the three source-limited markers unless new scan evidence resolves them, perform full continuity/assembled-reading checks, and do not begin English in the same activity.

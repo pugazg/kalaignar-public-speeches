@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 3 / 5  
 **Scope:** PDF48–56 / printed pp.48–56 / 9 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9**; Tamil T2 **IN PROGRESS — Batch 1 COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**; 4 source-limited obscured readings remain overall; English blocked pending Tamil freeze.
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9**; Tamil T2 **COMPLETE / PASS — PDF48–56 / 9/9 pages / 29 corrections-actions**; 3 source-limited obscured readings retained / 0 actionable unresolved; Tamil T3 **NEXT / NOT STARTED**; English blocked pending Tamil freeze.
 
 ## T1 method
 
@@ -180,6 +180,67 @@ Across the whole constituent, PDF53 and PDF54 have not yet undergone T2 review, 
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 strict visual audit — Batch 2 FINAL PDF53–56 — COMPLETE / PASS
+
+Coverage: **PDF53–56 / printed pp.53–56 / 4/4 pages**.
+
+Every line was re-read directly against the rendered source pixels. Historical-glyph-sensitive clusters, punctuation, word joins, repeated wording and the outgoing constituent boundary were rechecked.
+
+### T2 correction ledger — Batch 2
+
+| PDF | Earlier T1 reading | Source-supported T2 reading / action |
+|---:|---|---|
+| 53 | `அவன் அறியாமல்` | `அவனே அறியாமல்` |
+| 53 | `பலாத்காரமாக!... நம்` | `பலாத்காரமாக!...நம்` — source spacing retained |
+| 53 | `பக்தர்களைவிட` | `பக்தர்களை விட` |
+| 53 | source-limit marker ending `…ங்கிக்` | **resolved from surviving pixels as `வாங்கிக்`**; canonical text now `கஞ்சி வாங்கிக் குடித்து` |
+| 53 | `எங்கள்போலப்` | `எங்களைப்போலப்` |
+| 54 | `ரொட்டி போட்டு வளர்த்தோம்?` | `ரொட்டி போட்டு, வளர்த்தோம்?` |
+| 54 | `நாவைச் சத்து` | `நாவைச்சத்து` — source spacing retained |
+| 54 | `நல்லவர் களெல்லாம்` | `நல்லவர்களெல்லாம்` — physical line split joined |
+| 54 | `ஆசிரியனாக அமர்த்துவது?` | `ஆசிரியனாகவா அமர்த்துவது?` — cross-line source reading restored |
+| 54 | `பணம் கூட` | `பணம். கூட` — source punctuation retained |
+| 55 | `வாங்கினோம் என்றால்` | `வாங்கினோமென்றால்` — physical line split joined |
+| 55 | `“சேருங்கள்! படையில்”` | `“சேருங்கள் ! படையில்”` — source spacing retained |
+| 55 | `கொண்டிருந்தேன், நல்ல மழை` | `கொண்டிருந்தேன். நல்ல மழை` |
+| 55 | `போக வேண்டியுள்ளதப்பா` | `போகவேண்டியுள்ளதப்பா` |
+| 56 | `விழ ஆரம்பித்தது. அதை அவர்` | `விழ ஆரம்பித்தது, அதை அவர்` |
+
+**Batch 2 total: 15 corrections/actions.**  
+**T2 cumulative total: 29 corrections/actions.**
+
+### Batch 2 source-limit recheck
+
+- **PDF53** — the previously obscured word after `கஞ்சி` is sufficiently supported by surviving pixels as **`வாங்கிக்`**; **resolved in T2 without contextual reconstruction**.
+- **PDF54** — the final character after visible `நாயா…` remains physically obscured by the later mark; **retained / source-limited**.
+
+The two already-retained Batch-1 source limits at PDF48 and PDF50 remain unchanged. PDF49 and PDF53 were both resolved from surviving pixels during T2.
+
+### Historical-glyph / structural checks
+
+- known reform-sensitive families were rechecked across PDF53–56;
+- PDF54 `ஆசிரியனாகவா` was restored from the actual cross-line source forms, not from stylistic normalization;
+- no global replacement was used;
+- PDF52→53 — **PASS**
+- PDF53→54 — `டாக் / டரைக்` → `டாக்டரைக்` — **PASS**
+- PDF54→55 — `சுதந்திரம் வாங்கிக் / கொடுத்தமைக்காக` — **PASS**
+- PDF55→56 — `பொதுக் / கூட்டத்தில்` → `பொதுக்கூட்டத்தில்` — **PASS**
+- PDF56→57 — **CONSTITUENT BOUNDARY PASS**; PDF57 begins the distinct heading **`“கைத்தறி வாங்கலையோ”`**
+
+## Tamil T2 final state
+
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- batches — **2/2 COMPLETE**
+- corrections/actions — **29**
+- source-limited obscured readings retained — **3 (PDF48, PDF50, PDF54)**
+- T1 obscured readings resolved during T2 — **2 (PDF49 → `அன்பு`; PDF53 → `வாங்கிக்`)**
+- actionable unresolved — **0**
+- page order / boundaries — **PASS**
+- outgoing constituent boundary — **PASS**
+- Tamil T2 — **COMPLETE / PASS**
+- Tamil — **not yet frozen**
+- English — **blocked pending Tamil T3/freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Re-read every line against the rendered source, recheck the PDF53 and PDF54 source-limit markers, verify the PDF56→57 constituent boundary, and do not begin English.
+Proceed to **Tamil T3 consolidation / freeze — PDF48–56 / 9 pages**. Reconcile all **29/29 T2 corrections/actions**, verify that the three retained source-limit markers remain non-actionable and source-faithful, perform a full assembled-reading continuity sweep, then mark Tamil `verified-complete` / FROZEN only if the consolidation passes. Do not begin English in the same activity.

@@ -26,7 +26,7 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 - cumulative T1 — **9/9 pages — FIRST-PASS COMPLETE**
 - transcription through — **PDF56 / printed p.56**
 - historical-glyph first-pass — **complete through PDF56**
-- T1 source-obscured readings — **5 originally; PDF49 resolved in T2 Batch 1; 4 remain overall**
+- T1 source-obscured readings — **5 originally; PDF49 and PDF53 resolved during T2; 3 remain overall (PDF48, PDF50, PDF54)**
   - PDF48 — `பண…டி` middle obscured
   - PDF49 — one word before `மனையாளை` obscured
   - PDF50 — one word after `கத்தி` partly obscured
@@ -35,9 +35,11 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 - contextual reconstructions inserted — **0**
 - T1 — **FIRST-PASS COMPLETE**
 - T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**
-- T2 source-limited unresolved in audited pages — **2 (PDF48, PDF50)**
-- T2 other actionable unresolved in audited pages — **0**
-- T2 — **IN PROGRESS**
+- T2 Batch 2 FINAL — **COMPLETE / PASS — PDF53–56 / 4 pages / 15 corrections-actions**
+- T2 cumulative — **COMPLETE / PASS — 9/9 pages / 29 corrections-actions**
+- source-limited unresolved — **3 (PDF48, PDF50, PDF54)**
+- actionable unresolved — **0**
+- T2 — **COMPLETE / PASS**
 - T3 — **NOT STARTED**
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
@@ -58,17 +60,20 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 
 The scan remains authoritative. Do not use outside editions or contextual expectation to fill obscured readings. Historical glyph decoding may change a character identity only when source pixels support it; do not modernize wording or grammar.
 
-## Tamil T2 Batch 1 durable checkpoint
+## Tamil T2 final durable checkpoint
 
-- coverage — **PDF48–52 / printed pp.48–52 / 5/5**
-- corrections/actions — **14**
-- PDF49 source-limit marker — **resolved to `அன்பு` from surviving source pixels**
-- retained source-limited readings in audited pages — **2 (PDF48, PDF50)**
-- other actionable unresolved — **0**
-- page-boundary controls through PDF52→53 — **PASS**
-- Tamil remains **not verified / not frozen**
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- Batch 1 corrections/actions — **14**
+- Batch 2 corrections/actions — **15**
+- cumulative T2 corrections/actions — **29**
+- source limits resolved during T2 — **PDF49 → `அன்பு`; PDF53 → `வாங்கிக்`**
+- retained source-limited readings — **3 (PDF48, PDF50, PDF54)**
+- actionable unresolved — **0**
+- all page-boundary controls — **PASS**
+- PDF56→57 constituent boundary — **PASS**
+- Tamil remains **not frozen until T3**
 - English remains **blocked**
 
 ## Next gate
 
-Proceed to **Tamil T2 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Re-read every line, recheck the PDF53/PDF54 source-limit markers, verify the outgoing PDF56→57 boundary, and do not start English.
+Proceed to **Tamil T3 consolidation / freeze — PDF48–56 / 9 pages**. Reconcile all 29/29 T2 actions against the canonical transcript, perform a full assembled-reading continuity sweep, retain the three source-limited records unless direct pixels resolve them, and freeze Tamil only if the T3 gate passes. Do not start English in the same activity.

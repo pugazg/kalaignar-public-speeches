@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T2 IN PROGRESS — Batch 1 COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions; 4 source-limited obscured readings remain overall; Batch 2 FINAL NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T2 COMPLETE / PASS — PDF48–56 / 9/9 pages / 29 corrections-actions; 3 source-limited obscured readings retained / 0 actionable unresolved; Tamil T3 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -602,13 +602,14 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent — **3 / 5 — நம் மேடை**
 - active range — **PDF48–56 / 9 pages**
 - active Tamil T1 — **FIRST-PASS COMPLETE — 9/9**
-- active Tamil T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**
-- active PDF49 source-limit — **resolved to `அன்பு`**
-- active source-limited unresolved in audited pages — **2**
-- active source-limited obscured readings overall — **4**
-- active Tamil T2 — **IN PROGRESS**
+- active Tamil T2 — **COMPLETE / PASS — 9/9 / 29 corrections-actions**
+- active source limits resolved during T2 — **PDF49 → `அன்பு`; PDF53 → `வாங்கிக்`**
+- active source-limited obscured readings retained — **3 (PDF48, PDF50, PDF54)**
+- active actionable unresolved — **0**
+- active outgoing boundary — **PDF56→57 PASS**
+- active Tamil T3 — **NEXT / NOT STARTED**
 - active Tamil — **not yet verified / not frozen**
 - active English — **blocked pending Tamil freeze**
 - active archive — `speeches/nam-medai/`
 
-Exact next gate: constituent 3 **நம் மேடை — Tamil T2 Batch 2 FINAL PDF53–56 / 4 pages**. Re-read every line against the rendered source, recheck the PDF53/PDF54 source-limit markers, verify PDF56→57, and do not start English.
+Exact next gate: constituent 3 **நம் மேடை — Tamil T3 consolidation / freeze PDF48–56 / 9 pages**. Reconcile all 29/29 T2 actions and perform the full continuity/assembled-reading pass; do not start English in the same activity.
