@@ -26,7 +26,7 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 - cumulative T1 — **9/9 pages — FIRST-PASS COMPLETE**
 - transcription through — **PDF56 / printed p.56**
 - historical-glyph first-pass — **complete through PDF56**
-- explicit source-obscured readings — **5**
+- T1 source-obscured readings — **5 originally; PDF49 resolved in T2 Batch 1; 4 remain overall**
   - PDF48 — `பண…டி` middle obscured
   - PDF49 — one word before `மனையாளை` obscured
   - PDF50 — one word after `கத்தி` partly obscured
@@ -34,7 +34,10 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
   - PDF54 — final character after visible `நாயா…` obscured before `காங்கிரஸ்`
 - contextual reconstructions inserted — **0**
 - T1 — **FIRST-PASS COMPLETE**
-- T2 — **NEXT / NOT STARTED**
+- T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**
+- T2 source-limited unresolved in audited pages — **2 (PDF48, PDF50)**
+- T2 other actionable unresolved in audited pages — **0**
+- T2 — **IN PROGRESS**
 - T3 — **NOT STARTED**
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
@@ -53,10 +56,19 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 
 ## Reopen / source rule
 
-The scan remains authoritative. Do not use outside editions or contextual expectation to fill the three obscured readings. Historical glyph decoding may change a character identity only when source pixels support it; do not modernize wording or grammar.
+The scan remains authoritative. Do not use outside editions or contextual expectation to fill obscured readings. Historical glyph decoding may change a character identity only when source pixels support it; do not modernize wording or grammar.
+
+## Tamil T2 Batch 1 durable checkpoint
+
+- coverage — **PDF48–52 / printed pp.48–52 / 5/5**
+- corrections/actions — **14**
+- PDF49 source-limit marker — **resolved to `அன்பு` from surviving source pixels**
+- retained source-limited readings in audited pages — **2 (PDF48, PDF50)**
+- other actionable unresolved — **0**
+- page-boundary controls through PDF52→53 — **PASS**
+- Tamil remains **not verified / not frozen**
+- English remains **blocked**
 
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 1 PDF48–52 / printed pp.48–52 / 5 pages**.
-
-Recheck every line against the rendered source, with special attention to the three Batch-1 source-obscured readings, historical Tamil glyph identity, punctuation, names and page-boundary continuity. Do not start English until Tamil passes T2 and T3/freeze.
+Proceed to **Tamil T2 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Re-read every line, recheck the PDF53/PDF54 source-limit markers, verify the outgoing PDF56→57 boundary, and do not start English.

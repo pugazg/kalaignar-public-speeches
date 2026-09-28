@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 3 / 5  
 **Scope:** PDF48–56 / printed pp.48–56 / 9 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages**; 5 source-obscured readings retained; PDF56→57 boundary **PASS**; Tamil T2 **NEXT / NOT STARTED**; English blocked pending Tamil freeze.
+**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9**; Tamil T2 **IN PROGRESS — Batch 1 COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**; 4 source-limited obscured readings remain overall; English blocked pending Tamil freeze.
 
 ## T1 method
 
@@ -121,6 +121,65 @@ No global replacement or lexical modernization was used. T1 remains a first pass
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 
+## Tamil T2 strict visual audit — Batch 1 PDF48–52 — COMPLETE / PASS
+
+Coverage: **PDF48–52 / printed pp.48–52 / 5/5 pages**.
+
+Every line was re-read directly against the rendered source pixels. Historical-glyph-sensitive clusters, punctuation, names, numbers, repetitions and page-boundary continuity were checked independently of lexical expectation.
+
+### T2 correction ledger — Batch 1
+
+| PDF | Earlier T1 reading | Source-supported T2 reading / action |
+|---:|---|---|
+| 48 | `சுக்கு நூறாக` | `சுக்கு நூறாக்க` — historical `றா` identity plus following `க்க` |
+| 48 | `அம்புகளைத் தயாரித்து` | `அம்புகளைத்தயாரித்து` — source spacing retained |
+| 48 | `ஏச்சையும்` | `எசலையும்` |
+| 49 | `கேள்வித் துண்டுகளைக் காட்டி` | `கேள்வித் துண்டுகளைக்காட்டி` — source spacing retained |
+| 49 | `பீடைக் கேள்விகளைக்` | `பீடக் கேள்விகளைக்` |
+| 49 | `கூடைக் கூடையாகக்` | `கூடை கூடையாகக்` |
+| 49 | `மக்கள் மயக்கும்` | `மக்களை மயக்கும்` |
+| 49 | `உறுதி, நீதி நேர்மை, நடனம்` | `உறுதி, நீதி, நேர்மை, நடனம்` |
+| 49 | source-obscured marker before `மனையாளை` | **resolved from surviving pixels as `அன்பு`**; canonical text now `அன்பு மனையாளை` |
+| 50 | `லத்தியாலே, குத்தினர்.` | `லத்தியாலே. குத்தினர்.` |
+| 51 | `சமர்த்தியமாக` | `சாமர்த்தியமாக` |
+| 51 | `நிறைவேற்றும். உடனே` | `நிறைவேற்றும், உடனே` |
+| 51 | `குழந்தைக்கு!” என்று` | `குழந்தைக்கு! என்று` — unsupported closing quote removed |
+| 52 | `‘முழங்கு’கிறார்கள்.` | `‘முழங்கு’ கிறார்கள்,` — source spacing/punctuation retained |
+
+**Batch 1 total: 14 corrections/actions.**
+
+### Source-limit recheck
+
+- **PDF48** — `பண…டி` remains physically obscured; **retained / source-limited**.
+- **PDF49** — the covered word before `மனையாளை` is supported by surviving pixels as **`அன்பு`**; **resolved in T2 without contextual reconstruction**.
+- **PDF50** — the word after `கத்தி` remains partly hidden by the later mark; **retained / source-limited**.
+
+Audited PDF48–52 therefore has **2 source-limited unresolved readings / 0 other actionable unresolved**.
+
+Across the whole constituent, PDF53 and PDF54 have not yet undergone T2 review, so the canonical transcript currently retains **4 explicit obscured readings overall**.
+
+### Historical-glyph / structure checks
+
+- all known reform-sensitive families were rechecked where present;
+- PDF48 `சுக்கு நூறாக்க` was corrected by character identity, not modernization;
+- no global replacement was used;
+- PDF48→49 — **PASS**
+- PDF49→50 — `பொறாமை / வாடை வீசுகிறது` — **PASS**
+- PDF50→51 — **PASS**
+- PDF51→52 — `கேள்வி / கேட்டவன்` — **PASS**
+- PDF52→53 — `என்று சொல்லி / மூத்திரத்தைக் கொண்டுவந்து தந்தான்` — **PASS** using PDF53 only as boundary context
+
+### T2 state after Batch 1
+
+- pages checked — **5/9**
+- through — **PDF52 / printed p.52**
+- corrections/actions — **14**
+- source-limited unresolved within audited pages — **2**
+- other actionable unresolved within audited pages — **0**
+- Tamil T2 — **IN PROGRESS**
+- Tamil — **not yet verified / not frozen**
+- English — **blocked pending Tamil freeze**
+
 ## Next gate
 
-Proceed to **Tamil T2 strict visual audit — Batch 1 PDF48–52 / printed pp.48–52 / 5 pages**. Re-read every line directly against the rendered source, including all three Batch-1 obscured readings and historical-glyph-sensitive forms. Do not begin English.
+Proceed to **Tamil T2 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Re-read every line against the rendered source, recheck the PDF53 and PDF54 source-limit markers, verify the PDF56→57 constituent boundary, and do not begin English.

@@ -10,7 +10,7 @@ SHA-256: `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
 |---:|---|---:|---:|---:|---|
 | 1 | முல்லைக் கொல்லை | 7–18 | 7–18 | 12 | FINAL CLOSED / RELEASE READY |
 | 2 | அத்தை மகள் | 19–47 | 19–47 | 29 | FINAL CLOSED / RELEASE READY |
-| 3 | நம் மேடை | 48–56 | 48–56 | 9 | ACTIVE / TAMIL T1 COMPLETE / T2 BATCH 1 NEXT |
+| 3 | நம் மேடை | 48–56 | 48–56 | 9 | ACTIVE / T2 BATCH 1 PASS / BATCH 2 FINAL NEXT |
 | 4 | “கைத்தறி வாங்கலையோ” | 57–62 | 57–62 | 6 | SOURCE-GATED / NOT STARTED |
 | 5 | இலட்சிய இதழ்கள் | 63–67 | 63–67 | 5 | SOURCE-GATED / NOT STARTED |
 

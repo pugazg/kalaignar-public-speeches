@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 5 source-obscured readings; Tamil T2 Batch 1 NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T2 IN PROGRESS — Batch 1 COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions; 4 source-limited obscured readings remain overall; Batch 2 FINAL NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -91,16 +91,13 @@ See `DUPLICATE_AUDIT.md`.
 
 - active constituent — **3 / 5 — நம் மேடை**
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- direct source heading — **நம் மேடை**
 - source gate — **PASS / COMPLETE**
-- Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / 5 pages**
-- Tamil T1 Batch 2 FINAL — **COMPLETE — PDF53–56 / 4 pages**
-- Tamil T1 cumulative — **9/9 / FIRST-PASS COMPLETE**
-- historical-glyph first-pass — **through PDF56**
-- source-obscured T1 readings — **5**
-- contextual reconstructions inserted — **0**
-- outgoing boundary — **PDF56→57 PASS / PDF57 begins “கைத்தறி வாங்கலையோ”**
-- Tamil T2 — **NEXT / NOT STARTED**
+- Tamil T1 — **FIRST-PASS COMPLETE — 9/9**
+- Tamil T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**
+- PDF49 T1 source-limit — **resolved to `அன்பு` from surviving pixels**
+- T2 source-limited unresolved in audited pages — **2 (PDF48, PDF50)**
+- source-limited obscured readings remaining overall — **4**
+- Tamil T2 — **IN PROGRESS**
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 - active archive — `speeches/nam-medai/`
@@ -110,4 +107,4 @@ The source includes publication/provenance notes for individual pieces in the ba
 
 ## Exact next gate
 
-Constituent 3 — **நம் மேடை** — proceed to **Tamil T2 strict visual audit — Batch 1 PDF48–52 / printed pp.48–52 / 5 pages**. Recheck every line against the rendered source, especially the three Batch-1 obscured readings and historical-glyph-sensitive forms. Do not begin English.
+Constituent 3 — **நம் மேடை** — perform **Tamil T2 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Recheck the PDF53/PDF54 source-limit markers, verify PDF56→57, and do not begin English.

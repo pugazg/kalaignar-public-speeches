@@ -584,17 +584,14 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 5 source-obscured readings; Tamil T2 Batch 1 NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T2 IN PROGRESS — Batch 1 COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions; 4 source-limited obscured readings remain overall; Batch 2 FINAL NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
-- source bytes — **90,473,039**
 - source scans — **80**
 - edition — **முதற்பதிப்பு — ஆடி திங்கள் 1954**
 - creator — **கலைஞர் மு. கருணாநிதி**
-- main source-listed texts — **5**
-- main-text coverage — **PDF7–67 / 61 pages**
 - source-gated — **5/5**
 - Tamil T1 complete — **3/5**
 - Tamil verified — **2/5**
@@ -603,16 +600,15 @@ No routine transcription, translation, review, verification or release-readiness
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
 - constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
 - active constituent — **3 / 5 — நம் மேடை**
-- active range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- active Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / 5 pages**
-- active Tamil T1 Batch 2 FINAL — **COMPLETE — PDF53–56 / 4 pages**
+- active range — **PDF48–56 / 9 pages**
 - active Tamil T1 — **FIRST-PASS COMPLETE — 9/9**
-- active historical-glyph first-pass — **through PDF56**
-- active source-obscured readings — **5**
-- active outgoing boundary — **PDF56→57 PASS / PDF57 begins “கைத்தறி வாங்கலையோ”**
-- active Tamil T2 — **NEXT / NOT STARTED**
+- active Tamil T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 5 pages / 14 corrections-actions**
+- active PDF49 source-limit — **resolved to `அன்பு`**
+- active source-limited unresolved in audited pages — **2**
+- active source-limited obscured readings overall — **4**
+- active Tamil T2 — **IN PROGRESS**
 - active Tamil — **not yet verified / not frozen**
 - active English — **blocked pending Tamil freeze**
 - active archive — `speeches/nam-medai/`
 
-Exact next gate: constituent 3 **நம் மேடை — Tamil T2 strict visual audit Batch 1 PDF48–52 / 5 pages**. Re-read every line against the rendered source, preserve the five source-limit records unless the pixels resolve them, and do not start English.
+Exact next gate: constituent 3 **நம் மேடை — Tamil T2 Batch 2 FINAL PDF53–56 / 4 pages**. Re-read every line against the rendered source, recheck the PDF53/PDF54 source-limit markers, verify PDF56→57, and do not start English.
