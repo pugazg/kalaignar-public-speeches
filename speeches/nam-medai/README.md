@@ -1,6 +1,6 @@
 # நம் மேடை
 
-**Status: ACTIVE — Tamil T1 IN PROGRESS — Batch 1 COMPLETE — PDF48–52 / 5/9 pages; 3 source-obscured readings retained; T2 NOT STARTED; English blocked**
+**Status: ACTIVE — Tamil T1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages; 5 source-obscured readings retained; PDF57 outgoing boundary PASS; Tamil T2 NEXT / NOT STARTED; English blocked**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -30,23 +30,28 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 
 ## Tamil workflow
 
-- Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / printed pp.48–52 / 5 pages**
-- Tamil T1 cumulative — **5/9 pages drafted**
-- historical-glyph first-pass — **COMPLETE through PDF52**
-- explicit source-obscured T1 readings — **3**
-  - PDF48 — later white/ink mark obscures the middle of a word surviving as `பண…டி`
-  - PDF49 — later white/ink mark obscures one word immediately before clearly surviving `மனையாளை`
-  - PDF50 — later white/ink mark obscures the middle of a word after `கத்தி`
-- Tamil T1 — **IN PROGRESS**
-- Tamil T2 — **NOT STARTED**
+- Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / 5 pages**
+- Tamil T1 Batch 2 FINAL — **COMPLETE — PDF53–56 / 4 pages**
+- Tamil T1 cumulative — **9/9 pages drafted**
+- historical-glyph first-pass — **COMPLETE through PDF56**
+- outgoing constituent boundary — **PDF56→57 PASS / PDF57 begins “கைத்தறி வாங்கலையோ”**
+- explicit source-obscured T1 readings — **5**
+  - PDF48 — `பண…டி` middle obscured
+  - PDF49 — one word immediately before `மனையாளை` obscured
+  - PDF50 — one word after `கத்தி` partly obscured
+  - PDF53 — beginning of a word before visible `…ங்கிக்` obscured
+  - PDF54 — final character after visible `நாயா…` obscured before `காங்கிரஸ்`
+- contextual reconstructions inserted — **0**
+- Tamil T1 — **FIRST-PASS COMPLETE**
+- Tamil T2 — **NEXT / NOT STARTED**
 - Tamil T3 — **NOT STARTED**
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
-T1 is a first-pass transcription, not a visual-verification claim. The three obscured readings are retained as source limitations rather than reconstructed from context.
+T1 is a first-pass transcription, not a visual-verification claim. The five obscured readings remain explicit source limits and are not contextually reconstructed.
 
 ## Next gate
 
-Perform **Tamil T1 Batch 2 FINAL — PDF53–56 / printed pp.53–56 / 4 pages**. Inspect PDF57 only to establish the outgoing constituent boundary. Do not begin T2 or English in the same activity.
+Proceed to **Tamil T2 strict visual audit — Batch 1 PDF48–52 / printed pp.48–52 / 5 pages**. Recheck every line against the rendered source, including the three Batch-1 obscured readings and all historical-glyph-sensitive forms. Do not begin English.

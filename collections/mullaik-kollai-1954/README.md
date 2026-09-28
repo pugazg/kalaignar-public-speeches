@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T1 IN PROGRESS — Batch 1 COMPLETE — PDF48–52 / 5/9 pages / 3 source-obscured readings; Batch 2 FINAL NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 5 source-obscured readings; Tamil T2 Batch 1 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -71,7 +71,7 @@ See `DUPLICATE_AUDIT.md`.
 - duplicate check — **PASS**
 - main-text boundary mapping — **COMPLETE / 5/5**
 - supplementary/back-matter mapping — **COMPLETE**
-- Tamil T1 complete — **2/5**
+- Tamil T1 complete — **3/5**
 - Tamil verified — **2/5**
 - English verified — **2/5**
 - fully archived — **2/5**
@@ -82,13 +82,7 @@ See `DUPLICATE_AUDIT.md`.
   - Tamil / English — **`verified-complete`**
   - source-limit uncertainties — **2 retained**
 - constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
-  - source range — **PDF19–47 / printed pp.19–47 / 29 pages**
-  - Tamil T2 — **44 corrections/actions / 0 actionable unresolved**
-  - Tamil T3 — **44/44 reconciled / 0 additional corrections / 0 repairs**
-  - Tamil — **`verified-complete` / FROZEN**
-  - English E2 — **13 corrections / 0 unresolved**
-  - English E3 — **0 additional corrections / 0 unresolved**
-  - English — **`verified-complete`**
+  - Tamil / English — **`verified-complete`**
   - source-limit uncertainty — **1/1 retained (PDF40)**
   - repository closure — **COMPLETE / PASS**
   - final report — `speeches/aththai-magal/FINAL_CLOSURE.md`
@@ -99,18 +93,21 @@ See `DUPLICATE_AUDIT.md`.
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
 - direct source heading — **நம் மேடை**
 - source gate — **PASS / COMPLETE**
-- Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / printed pp.48–52 / 5 pages**
-- Tamil T1 cumulative — **5/9 pages**
-- historical-glyph first-pass — **through PDF52**
-- source-obscured T1 readings — **3**
-  - PDF48 — `பண…டி` middle obscured
-  - PDF49 — one word before `மனையாளை` obscured
-  - PDF50 — one word after `கத்தி` partly obscured
+- Tamil T1 Batch 1 — **COMPLETE — PDF48–52 / 5 pages**
+- Tamil T1 Batch 2 FINAL — **COMPLETE — PDF53–56 / 4 pages**
+- Tamil T1 cumulative — **9/9 / FIRST-PASS COMPLETE**
+- historical-glyph first-pass — **through PDF56**
+- source-obscured T1 readings — **5**
 - contextual reconstructions inserted — **0**
-- Tamil T1 — **IN PROGRESS**
-- Tamil T2 — **NOT STARTED**
+- outgoing boundary — **PDF56→57 PASS / PDF57 begins “கைத்தறி வாங்கலையோ”**
+- Tamil T2 — **NEXT / NOT STARTED**
 - Tamil — **not yet verified / not frozen**
 - English — **blocked pending Tamil freeze**
 - active archive — `speeches/nam-medai/`
 - speech date / venue / event — **not established / do not infer**
 
+The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
+
+## Exact next gate
+
+Constituent 3 — **நம் மேடை** — proceed to **Tamil T2 strict visual audit — Batch 1 PDF48–52 / printed pp.48–52 / 5 pages**. Recheck every line against the rendered source, especially the three Batch-1 obscured readings and historical-glyph-sensitive forms. Do not begin English.
