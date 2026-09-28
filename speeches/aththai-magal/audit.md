@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 2 / 5  
 **Scope:** PDF19–47 / printed pp.19–47 / 29 pages  
-**Current gate:** Tamil **VERIFIED-COMPLETE / FROZEN**; English E1 **FIRST-PASS COMPLETE — PDF19–47 / 29/29 pages**; frozen Tamil changes **0**; 1 source-limited uncertainty carried; English E2 **NEXT / NOT STARTED**
+**Current gate:** Tamil **VERIFIED-COMPLETE / FROZEN**; English E1 COMPLETE; English E2 **COMPLETE / PASS — PDF19–47 / 29/29 pages / 13 corrections / 0 unresolved / 0 Tamil changes**; 1 source-limited uncertainty retained; English E3 **NEXT / NOT STARTED**
 
 ## T1 method
 
@@ -854,10 +854,24 @@ This is a faithful carry-over of the frozen Tamil source limitation. It is not a
 
 E1 completion is **not** an English fidelity-review claim. The translation now requires a separate E2 page-by-page comparison against frozen Tamil.
 
+## English E2 fidelity review — COMPLETE / PASS
+
+- coverage — **PDF19–47 / printed pp.19–47 / 29/29**
+- confirmed English corrections — **13**
+- unresolved English fidelity findings — **0**
+- frozen Tamil changes — **0**
+- source-limited uncertainties retained — **1/1**
+- translator/source notes retained — **8**
+- detailed correction ledger — `translation-review.md`
+
+E2 corrected a wrong metaphor subject, unsupported interpretive additions, two opaque-source normalizations, softened retaliatory language, an added participant/passers-by distinction, a lost arrow metaphor, two `பட்டினி` lexical broadenings, a reversed grammatical relation, an appositional restructuring error and one subject shift in the boundary metaphor.
+
+Political labels, polemic and historical claims remain translated as source rhetoric rather than independently validated assertions.
+
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF19–47 / printed pp.19–47 / 29 pages**.
+Proceed to **English E3 final end-to-end verification — PDF19–47 / printed pp.19–47 / 29 pages**.
 
-Compare every English page against frozen `transcription-ta.md`; record omissions, additions, reversals, softened/strengthened rhetoric, unsupported inference, name/title issues and source-sensitive normalization in `translation-review.md`; apply confirmed corrections to `translation-en.md`.
+Verify all **13/13 E2 corrections** are present, perform a final whole-constituent fidelity sweep against frozen Tamil, retain the PDF40 source-limited uncertainty, and make **0 Tamil changes**.
 
-Do **not** perform English E3 or repository closure in the same activity.
+If E3 passes, repository closure becomes the next gate. Do **not** perform repository closure in the same activity.
