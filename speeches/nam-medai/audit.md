@@ -4,7 +4,7 @@
 **Source SHA-256:** `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`  
 **Constituent:** 3 / 5  
 **Scope:** PDF48–56 / printed pp.48–56 / 9 pages  
-**Current gate:** Tamil T1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9**; Tamil T2 **COMPLETE / PASS — PDF48–56 / 9/9 pages / 29 corrections-actions**; 3 source-limited obscured readings retained / 0 actionable unresolved; Tamil T3 **NEXT / NOT STARTED**; English blocked pending Tamil freeze.
+**Current gate:** Tamil T3 **COMPLETE / PASS — PDF48–56 / 9/9 pages / 29/29 T2 corrections-actions reconciled**; 3 source-limited obscured readings retained / 0 actionable unresolved; Tamil **`verified-complete` / FROZEN**; English E1 **READY / NOT STARTED**.
 
 ## T1 method
 
@@ -241,6 +241,71 @@ The two already-retained Batch-1 source limits at PDF48 and PDF50 remain unchang
 - Tamil — **not yet frozen**
 - English — **blocked pending Tamil T3/freeze**
 
+## T3 Tamil consolidation / freeze — COMPLETE / PASS
+
+| Check | Result |
+|---|---|
+| T2 correction instances consolidated | **29/29 PASS** |
+| Speech-page coverage | **PDF48–56 = 9/9, each exactly once, in order** |
+| Printed-page mapping | **pp.48–56 continuous / PASS** |
+| Recorded page / constituent-end controls | **9/9 PASS** |
+| Stale superseded T1 readings | **none found in audited page context** |
+| Explicit uncertainty markers in canonical Tamil | **3/3 expected and documented** |
+| Source-sensitive retained forms | **PASS** |
+| Final body ending | `நீதிபதிகளாக நினைத்துத்தான் நாங்கள் பேசுகிறோம்.` — **PASS** |
+| T3 additional source corrections | **0** |
+| T3 consolidation repairs | **0** |
+| T3 actionable unresolved | **0** |
+| Source-limited uncertainties retained | **3 (PDF48, PDF50, PDF54)** |
+
+T3 is a consolidation/freeze gate, not a new transcription or modernization pass. **No Tamil speech-body wording was changed during T3.**
+
+### T3 correction reconciliation
+
+The two completed T2 batches account for all **29** source-supported corrections/actions:
+
+- Batch 1 PDF48–52 — **14/14 reconciled**
+- Batch 2 PDF53–56 — **15/15 reconciled**
+
+The canonical `transcription-ta.md` contains every confirmed T2 reading. Exact page-context checks found no stale superseded T1 reading.
+
+### T3 boundary reconciliation
+
+All page joins and the outgoing constituent boundary remain source-consistent:
+
+- PDF48→49 — PDF48 ends `தரப்பட்டது.`; PDF49 begins `‘துண்டு அறிக்கைகள்’...` — **PASS**
+- PDF49→50 — `பொறாமை / வாடை வீசுகிறது` — **PASS**
+- PDF50→51 — new paragraph from `மேடைகளிலே!` to `நம் மேடைகளிலிருந்து:` — **PASS**
+- PDF51→52 — `கேள்வி / கேட்டவன்` — **PASS**
+- PDF52→53 — `என்று சொல்லி / மூத்திரத்தைக் கொண்டுவந்து தந்தான்.` — **PASS**
+- PDF53→54 — `டாக் / டரைக்` — **PASS**; assembled `டாக்டரைக்`
+- PDF54→55 — `சுதந்திரம் வாங்கிக் / கொடுத்தமைக்காக` — **PASS**
+- PDF55→56 — `பொதுக் / கூட்டத்தில்` — **PASS**; assembled `பொதுக்கூட்டத்தில்`
+- PDF56→57 — **CONSTITUENT BOUNDARY PASS**; PDF56 ends `நீதிபதிகளாக நினைத்துத்தான் நாங்கள் பேசுகிறோம்.`, and PDF57 begins distinct heading **`“கைத்தறி வாங்கலையோ”`**
+
+Physical page segmentation remains under the original PDF headings; T3 does not erase page-boundary provenance.
+
+### T3 source-limited controls
+
+The canonical Tamil retains exactly three source-limited obscured readings:
+
+1. **PDF48** — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி நடுப்பகுதியை மறைக்கிறது: “பண…டி”]`
+2. **PDF50** — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி அடுத்த சொல்லின் நடுப்பகுதியை மறைக்கிறது]`
+3. **PDF54** — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி இறுதி எழுத்தை மறைக்கிறது]`
+
+The surviving pixels do not support completing the hidden characters. These are documented source limitations, not unfinished transcription work. No contextual reconstruction was inserted.
+
+### Tamil freeze
+
+Tamil is now **`verified-complete` / FROZEN** for PDF48–56 / printed pp.48–56.
+
+- source-limited unresolved — **3**
+- actionable unresolved — **0**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+
+Any later Tamil change requires documented source evidence and dependent English re-verification. Stylistic polishing, modernization, contextual reconstruction and translation-driven rewriting are not grounds to reopen this frozen Tamil layer.
+
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF48–56 / 9 pages**. Reconcile all **29/29 T2 corrections/actions**, verify that the three retained source-limit markers remain non-actionable and source-faithful, perform a full assembled-reading continuity sweep, then mark Tamil `verified-complete` / FROZEN only if the consolidation passes. Do not begin English in the same activity.
+Proceed to **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages** using only the frozen Tamil as translation authority. Carry all three source-limit markers transparently, preserve the source's rhetorical sequence and political claims as source rhetoric, and do not alter frozen Tamil.

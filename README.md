@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil T2 COMPLETE / PASS — PDF48–56 / 9/9 pages / 29 corrections-actions; 3 source-limited obscured readings retained / 0 actionable unresolved; Tamil T3 NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil `verified-complete` / FROZEN — T3 COMPLETE / PASS; 3 source-limited obscured readings retained / 0 actionable unresolved; English E1 READY / NOT STARTED; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -594,22 +594,19 @@ No routine transcription, translation, review, verification or release-readiness
 - creator — **கலைஞர் மு. கருணாநிதி**
 - source-gated — **5/5**
 - Tamil T1 complete — **3/5**
-- Tamil verified — **2/5**
+- Tamil verified — **3/5**
 - English verified — **2/5**
 - fully archived — **2/5**
 - constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
 - constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
 - active constituent — **3 / 5 — நம் மேடை**
 - active range — **PDF48–56 / 9 pages**
-- active Tamil T1 — **FIRST-PASS COMPLETE — 9/9**
-- active Tamil T2 — **COMPLETE / PASS — 9/9 / 29 corrections-actions**
-- active source limits resolved during T2 — **PDF49 → `அன்பு`; PDF53 → `வாங்கிக்`**
+- active Tamil T2 — **COMPLETE / PASS — 29 corrections-actions**
+- active Tamil T3 — **COMPLETE / PASS — 29/29 reconciled**
 - active source-limited obscured readings retained — **3 (PDF48, PDF50, PDF54)**
 - active actionable unresolved — **0**
-- active outgoing boundary — **PDF56→57 PASS**
-- active Tamil T3 — **NEXT / NOT STARTED**
-- active Tamil — **not yet verified / not frozen**
-- active English — **blocked pending Tamil freeze**
+- active Tamil — **`verified-complete` / FROZEN**
+- active English E1 — **READY / NOT STARTED**
 - active archive — `speeches/nam-medai/`
 
-Exact next gate: constituent 3 **நம் மேடை — Tamil T3 consolidation / freeze PDF48–56 / 9 pages**. Reconcile all 29/29 T2 actions and perform the full continuity/assembled-reading pass; do not start English in the same activity.
+Exact next gate: constituent 3 **நம் மேடை — English E1 first-pass translation PDF48–56 / 9 pages** from the frozen Tamil only. Preserve page provenance and carry all three source-limit markers transparently.

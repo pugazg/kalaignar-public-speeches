@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 3 நம் மேடை Tamil T3 consolidation / freeze
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 3 நம் மேடை English E1 first-pass translation
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,47 +9,48 @@ Active archive: `speeches/nam-medai/`
 
 Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them merely to advance constituent 3.
 
-## Source authority
+## Constituent 3 frozen Tamil authority
 
-- title — **நம் மேடை**
-- source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
+Title: **நம் மேடை**
+
+Controlling source:
+
+`TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
+
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
-- constituent range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- outgoing boundary — **PDF57 begins “கைத்தறி வாங்கலையோ”**
-
-## Durable Tamil state
-
-- T1 — **FIRST-PASS COMPLETE — 9/9**
-- T2 Batch 1 — **COMPLETE / PASS — PDF48–52 / 14 corrections-actions**
-- T2 Batch 2 FINAL — **COMPLETE / PASS — PDF53–56 / 15 corrections-actions**
-- T2 cumulative — **COMPLETE / PASS — 9/9 / 29 corrections-actions**
-- source limits resolved during T2:
-  - PDF49 → **`அன்பு`**
-  - PDF53 → **`வாங்கிக்`**
-- retained source-limited readings — **3**
-  - PDF48 — `பண…டி` middle obscured
-  - PDF50 — word after `கத்தி` partly obscured
-  - PDF54 — final character after visible `நாயா…` obscured before `காங்கிரஸ்`
+- source range — **PDF48–56 / printed pp.48–56 / 9 pages**
+- Tamil T1 — **FIRST-PASS COMPLETE**
+- Tamil T2 — **COMPLETE / PASS — 29 corrections-actions**
+- Tamil T3 — **COMPLETE / PASS — 29/29 reconciled**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- Tamil — **`verified-complete` / FROZEN**
 - actionable unresolved — **0**
-- all page-boundary controls — **PASS**
 - outgoing PDF56→57 boundary — **PASS**
-- Tamil — **not yet frozen**
-- English — **blocked pending Tamil freeze**
+- next constituent heading — **“கைத்தறி வாங்கலையோ”**
 
-Important Batch-2 corrections now canonical include `அவனே அறியாமல்`, `கஞ்சி வாங்கிக் குடித்து`, `எங்களைப்போலப்`, `நாவைச்சத்து`, `நல்லவர்களெல்லாம்`, `ஆசிரியனாகவா`, `வாங்கினோமென்றால்`, `போகவேண்டியுள்ளதப்பா`, and source-faithful punctuation/spacing corrections recorded in `audit.md`.
+### Frozen source-limit records
+
+Exactly three source-limited obscured readings remain in frozen Tamil:
+
+1. PDF48 — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி நடுப்பகுதியை மறைக்கிறது: “பண…டி”]`
+2. PDF50 — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி அடுத்த சொல்லின் நடுப்பகுதியை மறைக்கிறது]`
+3. PDF54 — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி இறுதி எழுத்தை மறைக்கிறது]`
+
+These are source limitations, not unfinished Tamil work. Do not reconstruct hidden letters from context.
 
 ## Exact next activity
 
-Perform **Tamil T3 consolidation / freeze — PDF48–56 / 9 pages**.
+Perform **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages**.
 
-1. Reconcile every **29/29 T2 correction/action** against `transcription-ta.md` and `audit.md`.
-2. Verify PDF/printed-page coverage 48–56 = **9/9 exactly once and in order**.
-3. Perform an end-to-end assembled-reading continuity sweep across all page joins.
-4. Recheck the three retained source-limit records. Resolve only if direct surviving scan pixels support the hidden text; otherwise retain them as source-limited/non-actionable.
-5. Verify the outgoing PDF56→57 boundary to **“கைத்தறி வாங்கலையோ”**.
-6. Make only source-supported consolidation repairs if necessary and record them separately from the 29 T2 actions.
-7. If the gate passes, mark Tamil **`verified-complete` / FROZEN**, with source-limited unresolved count **3** and actionable unresolved **0**.
-8. Do **not** begin English translation in the same activity.
+1. Use frozen `transcription-ta.md` as the sole translation authority.
+2. Create/synchronize `translation-en.md` with explicit PDF/printed-page headings matching all 9 Tamil pages.
+3. Translate the complete frozen Tamil page by page, preserving argument sequence, repetition, rhetorical force, unusual source wording and historical/political claims as source rhetoric rather than independently validated assertions.
+4. Carry all three frozen source-limit records transparently into English; do not infer hidden Tamil.
+5. Add concise translator/source notes only where frozen Tamil is opaque, source-limited or unusually source-sensitive.
+6. Make **0 changes** to frozen Tamil.
+7. Mark E1 **FIRST-PASS COMPLETE** only if PDF48–56 = 9/9 pages are translated exactly once and in order.
+8. Do not perform E2 fidelity review in the same activity.
 
-If T3 passes, the next gate is **English E1 translation — PDF48–56 / 9 pages**.
+After E1 completion, make **English E2 fidelity review — PDF48–56 / 9 pages** the next gate.

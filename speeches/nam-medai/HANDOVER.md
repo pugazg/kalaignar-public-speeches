@@ -40,9 +40,9 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 - source-limited unresolved — **3 (PDF48, PDF50, PDF54)**
 - actionable unresolved — **0**
 - T2 — **COMPLETE / PASS**
-- T3 — **NOT STARTED**
-- Tamil — **not yet verified / not frozen**
-- English — **blocked pending Tamil freeze**
+- T3 — **COMPLETE / PASS**
+- Tamil — **`verified-complete` / FROZEN**
+- English E1 — **READY / NOT STARTED**
 
 ## Boundary controls already recorded
 
@@ -74,6 +74,21 @@ The scan remains authoritative. Do not use outside editions or contextual expect
 - Tamil remains **not frozen until T3**
 - English remains **blocked**
 
+## Tamil T3 durable checkpoint
+
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- T2 corrections/actions reconciled — **29/29 PASS**
+- stale superseded T1 readings — **none found in audited page context**
+- page / constituent boundary controls — **9/9 PASS**
+- explicit source-limited uncertainty markers — **3/3 retained (PDF48, PDF50, PDF54)**
+- actionable unresolved — **0**
+- T3 additional source corrections — **0**
+- T3 consolidation repairs — **0**
+- Tamil speech-body wording changed during T3 — **No**
+- Tamil — **`verified-complete` / FROZEN**
+
+Any later Tamil change requires documented source evidence and dependent English re-verification.
+
 ## Next gate
 
-Proceed to **Tamil T3 consolidation / freeze — PDF48–56 / 9 pages**. Reconcile all 29/29 T2 actions against the canonical transcript, perform a full assembled-reading continuity sweep, retain the three source-limited records unless direct pixels resolve them, and freeze Tamil only if the T3 gate passes. Do not start English in the same activity.
+Proceed to **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages**. Use the frozen `transcription-ta.md` as the sole translation authority, preserve page provenance and rhetorical sequence, carry the three source-limit markers transparently, and do not modify frozen Tamil.
