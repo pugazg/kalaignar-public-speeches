@@ -42,7 +42,7 @@ Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them mere
 - T2 — **COMPLETE / PASS**
 - T3 — **COMPLETE / PASS**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
+- English E1 — **FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages**
 
 ## Boundary controls already recorded
 
@@ -89,6 +89,18 @@ The scan remains authoritative. Do not use outside editions or contextual expect
 
 Any later Tamil change requires documented source evidence and dependent English re-verification.
 
+## English E1 durable checkpoint
+
+- translation — `translation-en.md`
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- authority — **frozen `transcription-ta.md` only**
+- frozen Tamil changes — **0**
+- English E1 unresolved fidelity findings — **0**
+- source-limited uncertainties carried — **3/3**
+- translator/source notes — **6**
+- E1 status — **FIRST-PASS COMPLETE**
+- E1 is **not** an E2 fidelity-review claim
+
 ## Next gate
 
-Proceed to **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages**. Use the frozen `transcription-ta.md` as the sole translation authority, preserve page provenance and rhetorical sequence, carry the three source-limit markers transparently, and do not modify frozen Tamil.
+Proceed to **English E2 fidelity review — PDF48–56 / printed pp.48–56 / 9 pages**. Compare every English page directly against frozen Tamil, preserve source rhetoric and source-limit transparency, record all confirmed English corrections, and make no changes to frozen Tamil.

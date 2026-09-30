@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil `verified-complete` / FROZEN — T3 COMPLETE / PASS; 3 source-limited obscured readings retained / 0 actionable unresolved; English E1 READY / NOT STARTED — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 0 Tamil changes / 3/3 source-limit records carried; English E2 NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -91,18 +91,16 @@ See `DUPLICATE_AUDIT.md`.
 
 - active constituent — **3 / 5 — நம் மேடை**
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- source gate — **PASS / COMPLETE**
-- Tamil T1 — **FIRST-PASS COMPLETE — 9/9**
+- Tamil — **`verified-complete` / FROZEN**
 - Tamil T2 — **COMPLETE / PASS — 29 corrections-actions**
 - Tamil T3 — **COMPLETE / PASS — 29/29 reconciled**
-- source limits resolved during T2 — **PDF49 → `அன்பு`; PDF53 → `வாங்கிக்`**
-- source-limited obscured readings retained — **3 (PDF48, PDF50, PDF54)**
-- actionable unresolved — **0**
-- page / constituent boundary controls — **9/9 PASS**
-- T3 additional source corrections — **0**
-- T3 consolidation repairs — **0**
-- Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
+- source-limited Tamil readings retained — **3 (PDF48, PDF50, PDF54)**
+- actionable Tamil unresolved — **0**
+- English E1 — **FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages**
+- English E1 frozen Tamil changes — **0**
+- English E1 source-limited uncertainties carried — **3/3**
+- English E1 translator/source notes — **6**
+- English E2 — **NEXT / NOT STARTED**
 - active archive — `speeches/nam-medai/`
 - speech date / venue / event — **not established / do not infer**
 
@@ -110,4 +108,4 @@ The source includes publication/provenance notes for individual pieces in the ba
 
 ## Exact next gate
 
-Constituent 3 — **நம் மேடை** — perform **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages** from the frozen Tamil only. Preserve page provenance and rhetorical sequence, carry all three source-limit markers transparently, and do not modify frozen Tamil.
+Constituent 3 — **நம் மேடை** — perform **English E2 fidelity review — PDF48–56 / printed pp.48–56 / 9 pages**. Compare every English page against frozen Tamil, record and apply only fidelity corrections, retain all three source-limit controls, and make 0 changes to frozen Tamil.

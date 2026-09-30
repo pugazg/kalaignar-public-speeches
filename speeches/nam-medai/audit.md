@@ -309,3 +309,40 @@ Any later Tamil change requires documented source evidence and dependent English
 ## Next gate
 
 Proceed to **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages** using only the frozen Tamil as translation authority. Carry all three source-limit markers transparently, preserve the source's rhetorical sequence and political claims as source rhetoric, and do not alter frozen Tamil.
+
+
+## English E1 first-pass translation — COMPLETE
+
+| Check | Result |
+|---|---|
+| English E1 coverage | **PDF48–56 / 9/9, each exactly once and ordered** |
+| Printed-page mapping | **pp.48–56 continuous / PASS** |
+| Translation authority | **frozen `transcription-ta.md` only** |
+| Frozen Tamil changes introduced | **0** |
+| English E1 unresolved fidelity findings | **0** |
+| Frozen source-limited uncertainties carried | **3/3 PASS** |
+| Translator/source notes | **6** |
+| English E1 status | **FIRST-PASS COMPLETE** |
+
+E1 translates the full frozen Tamil layer page by page. It preserves the source's argument sequence, repetition, political polemic and rhetorical force without treating the source's historical or political claims as independently verified assertions.
+
+### E1 transparency controls
+
+- **PDF48** — frozen `பண…டி` source limitation is carried without supplying hidden letters.
+- **PDF49** — `வாய்க்கரிசி` is transliterated with a brief funerary gloss rather than flattened into a generic farewell.
+- **PDF50** — the source-obscured word following `கையிலே கத்தி` remains explicitly unclear.
+- **PDF51** — `கத்தாழை` is transliterated as `kattaazhai`; E1 does not impose a botanical identification.
+- **PDF53** — unusual frozen `மாட்டமாளிகை போன்ற` is rendered conservatively from its immediate mansion/mound contrast without modifying Tamil.
+- **PDF54** — source spelling `Crueal Kindness` is preserved and the obscured final character after `நாயா…` remains unfilled.
+
+### E1 source-limit control
+
+All three frozen Tamil source limitations are carried transparently in English:
+
+- PDF48 — surviving `பண…டி` compound
+- PDF50 — obscured word after `கையிலே கத்தி`
+- PDF54 — obscured final character after `நாயா…`
+
+These are faithful carry-overs of frozen Tamil source limitations. They are not English unresolved-fidelity findings and do not authorize contextual completion.
+
+English E1 completion is **not** an E2 fidelity-review claim. The translation now requires a separate page-by-page E2 comparison against frozen Tamil.

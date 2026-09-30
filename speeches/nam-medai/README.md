@@ -1,6 +1,6 @@
 # நம் மேடை
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN — T2 COMPLETE / PASS 29 corrections-actions; T3 COMPLETE / PASS 29/29 reconciled; 3 source-limited obscured readings retained / 0 actionable unresolved; English E1 READY / NOT STARTED**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 0 Tamil changes / 3/3 source-limit records carried; English E2 NEXT**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -43,7 +43,12 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - T3 additional source corrections — **0**
 - T3 consolidation repairs — **0**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **READY / NOT STARTED**
+- English E1 — **FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages**
+- English E1 frozen Tamil changes — **0**
+- English E1 source-limited uncertainties carried — **3/3**
+- English E1 translator/source notes — **6**
+- English E2 — **NEXT / NOT STARTED**
+- English translation — `translation-en.md`
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
@@ -51,4 +56,4 @@ Any later Tamil change requires documented source evidence and dependent English
 
 ## Next gate
 
-Proceed to **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages** from the frozen Tamil only. Carry the three source-limit markers transparently and do not modify frozen Tamil.
+Proceed to **English E2 fidelity review — PDF48–56 / printed pp.48–56 / 9 pages**. Compare every English page against frozen Tamil, record and apply only fidelity corrections, retain all three source-limit controls, and make 0 changes to frozen Tamil.

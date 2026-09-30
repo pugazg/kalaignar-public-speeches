@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 3 நம் மேடை English E1 first-pass translation
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 3 நம் மேடை English E2 fidelity review
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,48 +9,42 @@ Active archive: `speeches/nam-medai/`
 
 Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them merely to advance constituent 3.
 
-## Constituent 3 frozen Tamil authority
+## Frozen Tamil authority
 
-Title: **நம் மேடை**
-
-Controlling source:
-
-`TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
-
-- source ID — `TVA_BOK_0064364`
-- SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
+- title — **நம் மேடை**
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- Tamil T1 — **FIRST-PASS COMPLETE**
-- Tamil T2 — **COMPLETE / PASS — 29 corrections-actions**
-- Tamil T3 — **COMPLETE / PASS — 29/29 reconciled**
-- T3 additional source corrections — **0**
-- T3 consolidation repairs — **0**
 - Tamil — **`verified-complete` / FROZEN**
-- actionable unresolved — **0**
-- outgoing PDF56→57 boundary — **PASS**
-- next constituent heading — **“கைத்தறி வாங்கலையோ”**
+- T2 — **COMPLETE / PASS — 29 corrections-actions**
+- T3 — **COMPLETE / PASS — 29/29 reconciled**
+- source-limited Tamil readings — **3 (PDF48, PDF50, PDF54)**
+- actionable Tamil unresolved — **0**
 
-### Frozen source-limit records
+Do not modify frozen Tamil unless genuinely new source evidence proves a substantive defect.
 
-Exactly three source-limited obscured readings remain in frozen Tamil:
+## English E1 durable state
 
-1. PDF48 — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி நடுப்பகுதியை மறைக்கிறது: “பண…டி”]`
-2. PDF50 — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி அடுத்த சொல்லின் நடுப்பகுதியை மறைக்கிறது]`
-3. PDF54 — `[தெளிவில்லை — பிந்தைய வெண்மை/மைக்குறி இறுதி எழுத்தை மறைக்கிறது]`
+- translation — `speeches/nam-medai/translation-en.md`
+- E1 — **FIRST-PASS COMPLETE**
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- frozen Tamil changes — **0**
+- source-limited uncertainties carried — **3/3**
+- translator/source notes — **6**
+- E1 unresolved fidelity findings — **0**
+- E1 is not an E2 fidelity-review claim
 
-These are source limitations, not unfinished Tamil work. Do not reconstruct hidden letters from context.
+The translation explicitly treats political labels, polemic and historical claims as source rhetoric rather than independently validated assertions.
 
 ## Exact next activity
 
-Perform **English E1 first-pass translation — PDF48–56 / printed pp.48–56 / 9 pages**.
+Perform **English E2 fidelity review — PDF48–56 / printed pp.48–56 / 9 pages**.
 
-1. Use frozen `transcription-ta.md` as the sole translation authority.
-2. Create/synchronize `translation-en.md` with explicit PDF/printed-page headings matching all 9 Tamil pages.
-3. Translate the complete frozen Tamil page by page, preserving argument sequence, repetition, rhetorical force, unusual source wording and historical/political claims as source rhetoric rather than independently validated assertions.
-4. Carry all three frozen source-limit records transparently into English; do not infer hidden Tamil.
-5. Add concise translator/source notes only where frozen Tamil is opaque, source-limited or unusually source-sensitive.
+1. Compare every English paragraph directly against frozen `transcription-ta.md`.
+2. Verify argument sequence, agency, negation, names, numbers, metaphors, rhetorical questions, quotation boundaries and page joins.
+3. Recheck all 6 translator/source notes for necessity and accuracy.
+4. Confirm all 3 source-limited Tamil readings remain transparent and are not contextually completed.
+5. Record every confirmed E2 correction in a new/synchronized `translation-review.md` and apply it to `translation-en.md`.
 6. Make **0 changes** to frozen Tamil.
-7. Mark E1 **FIRST-PASS COMPLETE** only if PDF48–56 = 9/9 pages are translated exactly once and in order.
-8. Do not perform E2 fidelity review in the same activity.
+7. If all 9 pages pass, mark English E2 **COMPLETE / PASS** with correction count and unresolved count.
+8. Do not perform E3 final verification in the same activity.
 
-After E1 completion, make **English E2 fidelity review — PDF48–56 / 9 pages** the next gate.
+After E2 completion, make **English E3 final end-to-end verification — PDF48–56 / 9 pages** the next gate.
