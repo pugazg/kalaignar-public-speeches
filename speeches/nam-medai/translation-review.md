@@ -1,6 +1,6 @@
 # நம் மேடை — English translation review
 
-> **Status:** English E2 fidelity review **COMPLETE / PASS — PDF48–56 / printed pp.48–56 / 9/9 pages; 8 confirmed corrections; 0 unresolved; 0 frozen-Tamil changes**  
+> **Status:** English E3 final verification **COMPLETE / PASS — PDF48–56 / printed pp.48–56 / 9/9 pages; 3 additional corrections; 0 unresolved; 0 frozen-Tamil changes**  
 > **English authority under review:** `translation-en.md`  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Review English only against the frozen Tamil. Do not use outside editions, political/historical background or contextual expectation to repair the Tamil.
@@ -85,6 +85,49 @@ All three frozen source limitations remain transparent in the maintained English
 - translator/source notes retained — **6**
 - English status — **not yet verified-complete; E3 pending**
 
+## E3 final verification — COMPLETE / PASS
+
+The complete post-E2 English layer was re-read end to end against the frozen Tamil authority, page by page from PDF48 through PDF56.
+
+### E3 additional correction ledger
+
+| # | PDF | Post-E2 reading | E3 correction | Fidelity reason |
+|---:|---:|---|---|---|
+| 1 | 50 | `the source says that unlawful firing has taken place 1,932 times` | `unlawful firing has taken place 1,932 times` | Removes an English-only attribution from inside the translated body; the document-level rule already marks political/historical claims as source rhetoric. |
+| 2 | 52 | `he is said to have told the boy` | `Looking at that boy, he immediately answered from the platform...` | Frozen `பேசி இருக்கிறார்` does not introduce hearsay; E3 restores direct reported action and preserves `அந்தப் பையனைப் பார்த்து`. |
+| 3 | 55 | `Today we are abused from platforms: “You criticize Congress...”` | `Today we are reviled: “You criticize Congress from platforms...”` | Restores the scope of frozen `இன்று மேடைகளிலிருந்து காங்கிரசைக் குறை கூறுகிறீர்களே`; “from platforms” modifies the quoted criticism, not the act of reviling. |
+
+All three E3 corrections have been consolidated into `translation-en.md`.
+
+### E3 end-to-end checks
+
+- all **8/8 E2 corrections** — **present**
+- stale pre-E2 readings from the 8-item correction set — **none found**
+- E3 additional corrections — **3**
+- stale pre-E3 readings from the 3-item correction set — **none found**
+- English page headings PDF **48–56** — **9/9, exactly once, in order**
+- printed-page sequence — **48–56, aligned 1:1**
+- cross-page continuity — **PASS**
+- final ending on PDF56 — **PASS**
+- translator/source notes — **6/6 retained**
+- source-limit controls — **3/3 retained**
+- hidden Tamil reconstructed — **No**
+- E3 unresolved English findings — **0**
+- frozen Tamil changes during E3 — **0**
+
+A final complete post-correction sweep found **0 further English fidelity issues**.
+
+## English verification state
+
+- E1 — **COMPLETE — PDF48–56 / 9/9**
+- E2 — **COMPLETE / PASS — 8 corrections / 0 unresolved**
+- E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+- Tamil — **`verified-complete` / FROZEN**
+- English-stage Tamil changes — **0**
+- source-limited uncertainties retained — **3/3**
+- translator/source notes retained — **6/6**
+
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF48–56 / printed pp.48–56 / 9 pages**. Recheck all 8/8 E2 corrections in maintained English, verify page order/joins, all 6 notes, all 3 source-limit controls and the final ending. Make no changes to frozen Tamil.
+Proceed to **repository archival closure for constituent 3 — நம் மேடை**. Verify frozen Tamil, verified English, all three source-limit controls, metadata/control synchronization, final file set and release-readiness state. Do not reopen Tamil or English for stylistic polishing.

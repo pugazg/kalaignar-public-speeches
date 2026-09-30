@@ -1,6 +1,6 @@
 # நம் மேடை — English Translation
 
-> **Status:** English E1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages**; English E2 **COMPLETE / PASS — 8 confirmed corrections / 0 unresolved**; frozen Tamil changes **0**; **3/3 source-limited uncertainties retained**; E3 **NEXT / NOT STARTED**  
+> **Status:** English **`verified-complete`** — E1 COMPLETE — PDF48–56 / 9/9; E2 COMPLETE / PASS — 8 confirmed corrections / 0 unresolved; E3 COMPLETE / PASS — 3 additional corrections / 0 unresolved; frozen Tamil changes **0**; **3/3 source-limited uncertainties retained**  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve page sequence, argument structure, repetition, rhetorical force, unusual/source-sensitive wording, and explicit source limitations. Political labels, polemic and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue / event:** Not established by the source; do not infer.
@@ -33,7 +33,7 @@ Before we set out to speak on our platform, we must receive from our mother the 
 
 —is in the air. A barbaric, violent, lawless and unjust condition is increasing.
 
-Within four years of the rising of the “sun of freedom,” under the rule of these good people, the source says that unlawful firing has taken place 1,932 times. Eighty-two people were shot dead; 10,000 were imprisoned!
+Within four years of the rising of the “sun of freedom,” under the rule of these good people, unlawful firing has taken place 1,932 times. Eighty-two people were shot dead; 10,000 were imprisoned!
 
 Where did this cruel game take place? In Japan? Germany? Italy? Russia? No; in this very “holy land”!
 
@@ -61,7 +61,7 @@ While Kamaraj was speaking on a platform in Erode, a boy came and handed him a s
 
 The note in Kamaraj's hand had meanwhile become wet. Because coffee had spilled on it! “Would Kamaraj shed tears?”
 
-He immediately answered from the platform: “What great problem is this? Many people died when a mail train overturned in Calcutta! Is this a more important problem than that?” he is said to have told the boy. We too felt sympathy on hearing that eight people had died, because we too have human hearts.
+Looking at that boy, he immediately answered from the platform: “What great problem is this? Many people died when a mail train overturned in Calcutta! Is this a more important problem than that?” We too felt sympathy on hearing that eight people had died, because we too have human hearts.
 
 Kamaraj, you worry about the man who has died! But for the poor man standing at the sharp edge of the question “To die, or to live?”—for this country, where is the way out? When we raise a cry of anguish from the platform, they play games. When we describe a pitiable condition, they give us mockery as a gift. When, from the platform, we speak with aching chests about honour being stripped away, they “thunder” for hours about the man who has died.
 
@@ -87,7 +87,7 @@ A mason built a college building. Should he be made the principal because of tha
 
 ### PDF page 55 — printed page 55
 
-—what justice is there in saying that only these people must rule? Today we are abused from platforms: “You criticize Congress—what right do these people have? These are people who stood aside during the ‘freedom struggle.’”
+—what justice is there in saying that only these people must rule? Today we are reviled: “You criticize Congress from platforms—what right do these people have? These are people who stood aside during the ‘freedom struggle.’”
 
 We have grown tired of writing and writing many times about this question. If they say, “We alone won independence,” I state firmly and clearly: the white man did not leave merely on seeing the spinning wheel, the half-anna spindle, or the flag of truth. It was on seeing the army that he left. We said, “Join! The army,” and so many comrades from Dravida joined. Only after seeing the army grow in this way did the white man's thighs tremble. The scent of our labour was present even at that time. Can they deny this from the platform or not?
 
@@ -110,4 +110,4 @@ In the same way, we came along shining a light for the Congress motorcycle that 
 5. **PDF53** — the unusual frozen `மாட்டமாளிகை போன்ற` is handled through the surrounding mansion/mound contrast without altering the Tamil witness.
 6. **PDF54** — source spelling `Crueal Kindness` is preserved; the source-limited final character after `நாயா…` is not supplied.
 
-E2 fidelity review is **COMPLETE / PASS — 8 confirmed corrections / 0 unresolved / 0 frozen-Tamil changes**. A separate E3 end-to-end verification is still required.
+E3 final verification is **COMPLETE / PASS — 3 additional corrections / 0 unresolved / 0 frozen-Tamil changes**. English is now **`verified-complete`**.

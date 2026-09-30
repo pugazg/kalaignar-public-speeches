@@ -113,6 +113,18 @@ Any later Tamil change requires documented source evidence and dependent English
 - E2 status — **COMPLETE / PASS**
 - English — **not yet verified-complete; E3 pending**
 
+## English E3 durable checkpoint
+
+- E3 status — **COMPLETE / PASS**
+- pages verified — **PDF48–56 / printed pp.48–56 / 9/9**
+- E2 corrections rechecked — **8/8 present**
+- E3 additional corrections — **3**
+- E3 unresolved — **0**
+- frozen Tamil changes — **0**
+- source-limited uncertainties retained — **3/3**
+- translator/source notes — **6/6 retained**
+- English — **`verified-complete`**
+
 ## Next gate
 
-Proceed to **English E3 final end-to-end verification — PDF48–56 / 9 pages**. Recheck all 8/8 E2 corrections in maintained English, verify page sequence and joins, all 6 translator/source notes, all 3 source-limit controls and the final ending. Do not modify frozen Tamil.
+Proceed to **repository archival closure for constituent 3 — நம் மேடை**. Verify the final constituent file set, frozen Tamil, verified English, all three source-limit controls, metadata/control synchronization and release-readiness. Do not reopen Tamil or English for stylistic polishing.

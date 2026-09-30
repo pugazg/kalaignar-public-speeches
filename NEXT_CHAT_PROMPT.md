@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 3 நம் மேடை English E3 final end-to-end verification
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 3 நம் மேடை repository archival closure
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,43 +7,46 @@ Active archive: `speeches/nam-medai/`
 
 ## Durable closed state
 
-Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them merely to advance constituent 3.
+Constituents 1–2 are **FINAL CLOSED / RELEASE READY**. Do not reopen them merely to close constituent 3.
 
-## Frozen Tamil authority
+## Constituent 3 verified state
 
-- Tamil — **`verified-complete` / FROZEN**
+- title — **நம் மேடை**
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- source-limited readings — **3 (PDF48, PDF50, PDF54)**
-- actionable Tamil unresolved — **0**
+- Tamil — **`verified-complete` / FROZEN**
+- Tamil T2 corrections/actions — **29**
+- Tamil T3 — **COMPLETE / PASS — 29/29 reconciled**
+- English E1 — **COMPLETE — 9/9**
+- English E2 — **COMPLETE / PASS — 8 corrections / 0 unresolved**
+- English E3 — **COMPLETE / PASS — 3 additional corrections / 0 unresolved**
+- English — **`verified-complete`**
+- English-stage frozen Tamil changes — **0**
+- translator/source notes — **6/6 retained**
+- source-limited uncertainties — **3/3 retained**
+- actionable unresolved — **0**
+- PDF56→57 constituent boundary — **PASS**
+- next heading — **“கைத்தறி வாங்கலையோ”**
 
-Do not modify frozen Tamil unless genuinely new source evidence proves a substantive defect.
+### Retained source-limit records
 
-## Durable English state
+1. PDF48 — frozen `பண…டி` compound remains partly obscured.
+2. PDF50 — word after `கையிலே கத்தி` remains obscured.
+3. PDF54 — final character after visible `நாயா…` remains obscured.
 
-- E1 — **COMPLETE — PDF48–56 / 9/9**
-- E2 — **COMPLETE / PASS — PDF48–56 / 9/9**
-- E2 confirmed corrections — **8**
-- E2 unresolved — **0**
-- E2 frozen Tamil changes — **0**
-- source-limited uncertainties retained — **3/3**
-- translator/source notes retained — **6**
-- review ledger — `speeches/nam-medai/translation-review.md`
-- English — **not yet verified-complete; E3 pending**
-
-The maintained English treats political labels, polemic and historical claims as source rhetoric rather than independently validated assertions.
+These are documented source limitations, not unfinished Tamil or English work.
 
 ## Exact next activity
 
-Perform **English E3 final end-to-end verification — PDF48–56 / printed pp.48–56 / 9 pages**.
+Perform **repository archival closure for constituent 3 — நம் மேடை**.
 
-1. Re-read the complete maintained `translation-en.md` against frozen `transcription-ta.md`, page by page.
-2. Verify all **8/8 E2 corrections** are present and no stale E1 reading remains.
-3. Verify page headings PDF48–56 exactly once and in order, printed-page alignment, and cross-page continuity.
-4. Recheck all **6/6 translator/source notes** for presence and fidelity.
-5. Recheck all **3/3 source-limit controls** remain transparent and no hidden Tamil was reconstructed.
-6. Verify the final English ending corresponds to frozen Tamil PDF56.
-7. Make **0 changes** to frozen Tamil.
-8. If no further English fidelity issue is found, mark E3 **COMPLETE / PASS**, English **`verified-complete`**, and record any E3 additional correction count.
-9. Do not perform repository closure in the same activity.
+1. Verify the final file set in `speeches/nam-medai/`: README, metadata, frozen Tamil, maintained English, audit, handover, translation review, plus a final closure report.
+2. Verify Tamil remains byte-identical to the frozen authority and English remains the verified post-E3 layer.
+3. Verify all Tamil/English page coverage and page ordering controls.
+4. Verify all **3/3 source-limit records** remain transparent and no hidden text has been reconstructed.
+5. Verify E2/E3 correction ledgers and counts: **8 + 3**, unresolved **0**, frozen-Tamil changes **0**.
+6. Verify metadata, constituent README, handover, parent collection controls, constituent map, root README and next-chat prompt are synchronized.
+7. Create `speeches/nam-medai/FINAL_CLOSURE.md` recording closure evidence and immutable authority state.
+8. If every closure gate passes, mark repository closure **COMPLETE / PASS** and constituent 3 **FINAL CLOSED / RELEASE READY**.
+9. Do not modify frozen Tamil or verified English body wording during closure.
 
-If E3 passes, the next gate is **repository archival closure for constituent 3 — நம் மேடை**.
+After closure, advance the parent collection to **constituent 4 / 5 — “கைத்தறி வாங்கலையோ” — Tamil T1 source intake / Batch 1**.

@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil `verified-complete` / FROZEN; English E1 COMPLETE; English E2 COMPLETE / PASS — PDF48–56 / 9/9 pages / 8 corrections / 0 unresolved / 0 Tamil changes / 3/3 source-limit records retained; English E3 NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil / English `verified-complete`; English E3 COMPLETE / PASS — PDF48–56 / 9/9 pages / 3 additional corrections / 0 unresolved / 0 Tamil changes / 3/3 source-limit records retained; repository closure NEXT — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -73,7 +73,7 @@ See `DUPLICATE_AUDIT.md`.
 - supplementary/back-matter mapping — **COMPLETE**
 - Tamil T1 complete — **3/5**
 - Tamil verified — **3/5**
-- English verified — **2/5**
+- English verified — **3/5**
 - fully archived — **2/5**
 
 ### Closed constituents
@@ -92,12 +92,14 @@ See `DUPLICATE_AUDIT.md`.
 - active constituent — **3 / 5 — நம் மேடை**
 - source range — **PDF48–56 / printed pp.48–56 / 9 pages**
 - Tamil — **`verified-complete` / FROZEN**
-- English E1 — **FIRST-PASS COMPLETE — 9/9 pages**
-- English E2 — **COMPLETE / PASS — 9/9 pages / 8 confirmed corrections / 0 unresolved**
-- English E2 frozen Tamil changes — **0**
-- English E2 source-limited uncertainties retained — **3/3**
-- English E2 translator/source notes retained — **6**
-- English E3 — **NEXT / NOT STARTED**
+- English E1 — **COMPLETE — 9/9**
+- English E2 — **COMPLETE / PASS — 8 corrections / 0 unresolved**
+- English E3 — **COMPLETE / PASS — 9/9 / 3 additional corrections / 0 unresolved**
+- English-stage frozen Tamil changes — **0**
+- source-limited uncertainties retained — **3/3**
+- translator/source notes retained — **6/6**
+- English — **`verified-complete`**
+- repository closure — **NEXT / NOT STARTED**
 - active archive — `speeches/nam-medai/`
 - speech date / venue / event — **not established / do not infer**
 
@@ -105,4 +107,4 @@ The source includes publication/provenance notes for individual pieces in the ba
 
 ## Exact next gate
 
-Constituent 3 — **நம் மேடை** — perform **English E3 final end-to-end verification — PDF48–56 / printed pp.48–56 / 9 pages**. Recheck all 8/8 E2 corrections in maintained English, verify page order/joins, all 6 translator/source notes, all 3 source-limit controls and the final ending. Make 0 changes to frozen Tamil.
+Constituent 3 — **நம் மேடை** — perform **repository archival closure**. Verify the final constituent file set, frozen Tamil, verified English, all three source-limit controls, metadata/control synchronization and release-readiness. Do not reopen Tamil or English for stylistic polishing.

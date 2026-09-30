@@ -361,3 +361,26 @@ English E1 completion is **not** an E2 fidelity-review claim. The translation no
 E2 removed two unsupported normalizations, one softening, one document-level attribution inserted into the body, one unsupported modifier, one person-label shift, and two source-sensitive lexical/phrasing issues. The maintained English continues to present political labels, polemic and historical claims as translated source rhetoric rather than independently validated assertions.
 
 English is not yet marked `verified-complete`; a separate E3 end-to-end verification remains required.
+
+
+## English E3 final end-to-end verification — COMPLETE / PASS
+
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- E2 corrections rechecked — **8/8 present**
+- E3 additional corrections — **3**
+- E3 unresolved — **0**
+- frozen Tamil changes — **0**
+- source-limited uncertainties retained — **3/3**
+- translator/source notes retained — **6/6**
+- page order / printed-page alignment — **PASS**
+- cross-page continuity — **PASS**
+- final English ending — **PASS**
+- English — **`verified-complete`**
+
+The three E3 corrections removed an English-only attribution on PDF50, an unsupported hearsay construction on PDF52, and a scope error around “from platforms” on PDF55. No Tamil wording changed.
+
+The maintained English continues to translate political labels, polemic and historical claims as source rhetoric rather than independently validated assertions.
+
+## Next gate
+
+Proceed to **repository archival closure for constituent 3 — நம் மேடை**. Verify final file set, frozen Tamil, verified English, source-limit transparency, metadata/control synchronization and release-readiness. Do not reopen Tamil or English for stylistic polishing.
