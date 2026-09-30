@@ -8,7 +8,7 @@ Archive: `speeches/nam-medai/`
 
 - parent — **முல்லைக் கொல்லை** (1954 source booklet)
 - parent collection — `collections/mullaik-kollai-1954/`
-- constituent — **3 / 5 — ACTIVE**
+- constituent — **3 / 5 — FINAL CLOSED / RELEASE READY**
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
@@ -125,6 +125,22 @@ Any later Tamil change requires documented source evidence and dependent English
 - translator/source notes — **6/6 retained**
 - English — **`verified-complete`**
 
-## Next gate
+## Repository closure durable checkpoint
 
-Proceed to **repository archival closure for constituent 3 — நம் மேடை**. Verify the final constituent file set, frozen Tamil, verified English, all three source-limit controls, metadata/control synchronization and release-readiness. Do not reopen Tamil or English for stylistic polishing.
+- repository closure — **COMPLETE / PASS**
+- archive status — **FINAL CLOSED / RELEASE READY**
+- canonical Tamil — `transcription-ta.md` — **`verified-complete` / FROZEN**
+- verified English — `translation-en.md` — **`verified-complete`**
+- Tamil authority blob — `1bc2b95137b94fb6847f36f682455e9fb27b816c`
+- English authority blob — `ea5717ce23ef30c045a104381cb5f730348bd1f1`
+- English review authority blob — `98567f32b834fb53902b9f79f074f35eed1e9d60`
+- source-limited records — **3/3 retained**
+- actionable unresolved — **0**
+- frozen-Tamil changes during English/closure — **0**
+- final closure report — `FINAL_CLOSURE.md`
+
+## Reopen policy
+
+Reopen only if genuinely new source evidence becomes available or a documented substantive Tamil/English fidelity error is demonstrated. Do not reopen merely for stylistic polishing.
+
+Parent collection next activity is constituent **4 / 5 — “கைத்தறி வாங்கலையோ”**.

@@ -384,3 +384,34 @@ The maintained English continues to translate political labels, polemic and hist
 ## Next gate
 
 Proceed to **repository archival closure for constituent 3 — நம் மேடை**. Verify final file set, frozen Tamil, verified English, source-limit transparency, metadata/control synchronization and release-readiness. Do not reopen Tamil or English for stylistic polishing.
+
+
+## Repository archival closure — COMPLETE / PASS
+
+Closure checks were run after Tamil T3 and English E3 had both passed.
+
+- canonical Tamil blob — `1bc2b95137b94fb6847f36f682455e9fb27b816c`
+- verified English blob — `ea5717ce23ef30c045a104381cb5f730348bd1f1`
+- English review/final-verification blob — `98567f32b834fb53902b9f79f074f35eed1e9d60`
+- Tamil body changed during closure — **No**
+- English body changed during closure — **No**
+- Tamil coverage — **PDF48–56 / 9/9 PASS**
+- English coverage — **PDF48–56 / 9/9 PASS**
+- PDF/printed-page order — **PASS**
+- page-boundary controls — **PASS**
+- PDF56→57 constituent boundary — **PASS**
+- source-limited records — **3/3 retained**
+- hidden text reconstructed during closure — **No**
+- E2 corrections — **8/8 present**
+- E3 additional corrections — **3/3 present**
+- English unresolved — **0**
+- Tamil actionable unresolved — **0**
+- final file set — **PASS**
+- control-document synchronization — **PASS**
+- release-readiness — **PASS**
+
+The archive is therefore **FINAL CLOSED / RELEASE READY**. See `FINAL_CLOSURE.md`.
+
+### Reopen policy
+
+Reopen only for genuinely new source evidence or a documented substantive Tamil/English fidelity defect. Do not reopen for stylistic polishing.

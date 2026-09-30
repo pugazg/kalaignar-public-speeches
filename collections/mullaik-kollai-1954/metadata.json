@@ -65,12 +65,12 @@
     "constituent_items_t1_complete": 3,
     "constituent_items_tamil_verified": 3,
     "constituent_items_english_verified": 3,
-    "constituent_items_archived": 2,
-    "active_constituent_number": 3,
-    "active_constituent_slug": "nam-medai",
-    "active_constituent_title_ta": "நம் மேடை",
-    "next_gate": "Constituent 3 / நம் மேடை — repository archival closure",
-    "collection_status": "active-constituent-3-closure-ready",
+    "constituent_items_archived": 3,
+    "active_constituent_number": 4,
+    "active_constituent_slug": "kaiththari-vaangalaiyo",
+    "active_constituent_title_ta": "“கைத்தறி வாங்கலையோ”",
+    "next_gate": "Constituent 4 / “கைத்தறி வாங்கலையோ” — Tamil T1 Batch 1 PDF57–61",
+    "collection_status": "active-constituent-4-t1-ready",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -228,11 +228,11 @@
       "pages": 9,
       "archive_path": "speeches/nam-medai/",
       "source_gate": "pass-complete",
-      "active": true,
+      "active": false,
       "tamil_t1": "first-pass-complete",
-      "next_gate": "repository-closure",
-      "archive_status": "active-english-verified-closure-ready",
-      "release_readiness": "not-ready",
+      "next_gate": "none",
+      "archive_status": "final-closed-release-ready",
+      "release_readiness": "final-closed-release-ready",
       "tamil_t1_pages_completed": 9,
       "tamil_t1_through_pdf_page": 56,
       "tamil_t1_through_printed_page": 56,
@@ -293,7 +293,7 @@
       "english_e3_tamil_changes": 0,
       "english_e3_source_limited_uncertainties": 3,
       "english_e3_translator_source_notes": 6,
-      "repository_closure": "not-started"
+      "repository_closure": "complete-pass"
     },
     {
       "number": 4,
@@ -307,8 +307,11 @@
       "pages": 6,
       "archive_path": "speeches/kaiththari-vaangalaiyo/",
       "source_gate": "pass-complete",
-      "active": false,
-      "tamil_t1": "not-started"
+      "active": true,
+      "tamil_t1": "not-started",
+      "next_gate": "tamil-t1-batch1-pdf57-61",
+      "archive_status": "active-t1-ready",
+      "release_readiness": "not-ready"
     },
     {
       "number": 5,

@@ -1,6 +1,6 @@
 # நம் மேடை
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English `verified-complete` — E1 COMPLETE, E2 COMPLETE / PASS — 8 corrections, E3 COMPLETE / PASS — 3 additional corrections / 0 unresolved / 0 Tamil changes / 3/3 source-limit records retained; repository closure NEXT**
+**Status: FINAL CLOSED / RELEASE READY — Tamil / English `verified-complete`; 3 source-limited records retained; 0 actionable unresolved; repository closure COMPLETE / PASS**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -56,7 +56,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - English E3 source-limited uncertainties retained — **3/3**
 - English E3 translator/source notes retained — **6/6**
 - English — **`verified-complete`**
-- repository archival closure — **NEXT / NOT STARTED**
+- repository archival closure — **COMPLETE / PASS**
+- final closure report — `FINAL_CLOSURE.md`
 - English translation — `translation-en.md`
 - English review — `translation-review.md`
 - working transcript — `transcription-ta.md`
@@ -64,6 +65,8 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 
 Any later Tamil change requires documented source evidence and dependent English re-verification. The three retained obscured readings are source-limited, non-actionable records and must not be contextually reconstructed.
 
-## Next gate
+## Final state
 
-Proceed to **repository archival closure for constituent 3 — நம் மேடை**. Verify the frozen Tamil, verified English, all three source-limit controls, metadata/control synchronization, final file set and release-readiness. Do not reopen Tamil or English for stylistic polishing.
+This constituent is **FINAL CLOSED / RELEASE READY**.
+
+Reopen only if genuinely new source evidence appears or a documented substantive Tamil/English fidelity defect is demonstrated. Do not reopen for stylistic polishing.

@@ -54,11 +54,11 @@
     "english_translation": "verified-complete",
     "english_translation_review": "complete-pass",
     "english_translation_final_verification": "complete-pass",
-    "repository_closure": "not-started",
-    "archive_status": "active-english-verified-closure-ready",
+    "repository_closure": "complete-pass",
+    "archive_status": "final-closed-release-ready",
     "pending_transcription_or_translation_work": false,
-    "next_gate": "Repository archival closure — constituent 3 / நம் மேடை",
-    "handoff_status": "english-e3-complete-closure-ready",
+    "next_gate": "none",
+    "handoff_status": "final-closed-release-ready",
     "handoff_date": "2026-09-30",
     "tamil_transcription_pages_drafted": 9,
     "tamil_transcription_through_pdf_page": 56,
@@ -121,8 +121,16 @@
     "english_e3_source_limited_uncertainties": 3,
     "english_e3_translator_source_notes": 6,
     "english_e3_date": "2026-09-30",
-    "pending_repository_closure": true
+    "pending_repository_closure": false,
+    "closure_date": "2026-09-30",
+    "closure_tamil_authority_blob": "1bc2b95137b94fb6847f36f682455e9fb27b816c",
+    "closure_english_authority_blob": "ea5717ce23ef30c045a104381cb5f730348bd1f1",
+    "closure_english_review_authority_blob": "98567f32b834fb53902b9f79f074f35eed1e9d60",
+    "closure_tamil_body_changes": 0,
+    "closure_english_body_changes": 0,
+    "closure_source_limited_uncertainties": 3,
+    "closure_actionable_unresolved": 0
   },
-  "archive_status": "active-english-verified-closure-ready",
-  "release_readiness": "not-ready"
+  "archive_status": "final-closed-release-ready",
+  "release_readiness": "final-closed-release-ready"
 }

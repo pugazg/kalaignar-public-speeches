@@ -1,6 +1,6 @@
 # முல்லைக் கொல்லை — 1954 compiled booklet
 
-**Status: ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil / English `verified-complete`; English E3 COMPLETE / PASS — PDF48–56 / 9/9 pages / 3 additional corrections / 0 unresolved / 0 Tamil changes / 3/3 source-limit records retained; repository closure NEXT — 5/5 listed texts mapped**
+**Status: ACTIVE — constituents 1–3 FINAL CLOSED / RELEASE READY; constituent 4 “கைத்தறி வாங்கலையோ” SOURCE-GATED / Tamil T1 READY / NOT STARTED — 5/5 listed texts mapped**
 
 ## Controlling source
 
@@ -74,7 +74,7 @@ See `DUPLICATE_AUDIT.md`.
 - Tamil T1 complete — **3/5**
 - Tamil verified — **3/5**
 - English verified — **3/5**
-- fully archived — **2/5**
+- fully archived — **3/5**
 
 ### Closed constituents
 
@@ -86,25 +86,26 @@ See `DUPLICATE_AUDIT.md`.
   - source-limit uncertainty — **1/1 retained (PDF40)**
   - repository closure — **COMPLETE / PASS**
   - final report — `speeches/aththai-magal/FINAL_CLOSURE.md`
+- constituent 3 — **நம் மேடை — FINAL CLOSED / RELEASE READY**
+  - Tamil / English — **`verified-complete`**
+  - source-limit uncertainties — **3/3 retained (PDF48, PDF50, PDF54)**
+  - repository closure — **COMPLETE / PASS**
+  - final report — `speeches/nam-medai/FINAL_CLOSURE.md`
 
 ### Active constituent
 
-- active constituent — **3 / 5 — நம் மேடை**
-- source range — **PDF48–56 / printed pp.48–56 / 9 pages**
-- Tamil — **`verified-complete` / FROZEN**
-- English E1 — **COMPLETE — 9/9**
-- English E2 — **COMPLETE / PASS — 8 corrections / 0 unresolved**
-- English E3 — **COMPLETE / PASS — 9/9 / 3 additional corrections / 0 unresolved**
-- English-stage frozen Tamil changes — **0**
-- source-limited uncertainties retained — **3/3**
-- translator/source notes retained — **6/6**
-- English — **`verified-complete`**
-- repository closure — **NEXT / NOT STARTED**
-- active archive — `speeches/nam-medai/`
+- active constituent — **4 / 5 — “கைத்தறி வாங்கலையோ”**
+- source range — **PDF57–62 / printed pp.57–62 / 6 pages**
+- source gate — **PASS / COMPLETE**
+- Tamil T1 — **READY / NOT STARTED**
+- Tamil T2 / T3 — **NOT STARTED**
+- English — **blocked pending Tamil verification/freeze**
+- active archive — `speeches/kaiththari-vaangalaiyo/`
+- outgoing next heading — **PDF63 — இலட்சிய இதழ்கள்**
 - speech date / venue / event — **not established / do not infer**
 
 The source includes publication/provenance notes for individual pieces in the back matter. Those notes are not automatically speech dates, venues or events. Item-specific speech metadata must be recorded only when the source explicitly supports it.
 
 ## Exact next gate
 
-Constituent 3 — **நம் மேடை** — perform **repository archival closure**. Verify the final constituent file set, frozen Tamil, verified English, all three source-limit controls, metadata/control synchronization and release-readiness. Do not reopen Tamil or English for stylistic polishing.
+Constituent 4 — **“கைத்தறி வாங்கலையோ”** — initialize the constituent archive and perform **Tamil T1 Batch 1 — PDF57–61 / printed pp.57–61 / 5 pages**. Preserve source punctuation/spelling and historical glyph identity; inspect PDF62 only for immediate continuity if needed. Do not begin T2 or English.
