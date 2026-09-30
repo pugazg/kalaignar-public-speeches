@@ -584,7 +584,7 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–3 FINAL CLOSED / RELEASE READY; constituent 4 “கைத்தறி வாங்கலையோ” SOURCE-GATED / Tamil T1 READY / NOT STARTED; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–3 FINAL CLOSED / RELEASE READY; constituent 4 “கைத்தறி வாங்கலையோ” Tamil T1 IN PROGRESS — Batch 1 COMPLETE PDF57–61 / 5/6 pages / 0 explicit source-obscured readings; Batch 2 FINAL PDF62 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
@@ -594,16 +594,16 @@ No routine transcription, translation, review, verification or release-readiness
 - Tamil verified — **3/5**
 - English verified — **3/5**
 - fully archived — **3/5**
-- constituent 1 — **முல்லைக் கொல்லை — FINAL CLOSED / RELEASE READY**
-- constituent 2 — **அத்தை மகள் — FINAL CLOSED / RELEASE READY**
-- constituent 3 — **நம் மேடை — FINAL CLOSED / RELEASE READY**
+- constituents 1–3 — **FINAL CLOSED / RELEASE READY**
 - active constituent — **4 / 5 — “கைத்தறி வாங்கலையோ”**
 - active range — **PDF57–62 / printed pp.57–62 / 6 pages**
-- active source gate — **PASS / COMPLETE**
-- active Tamil T1 — **READY / NOT STARTED**
+- active Tamil T1 Batch 1 — **COMPLETE — PDF57–61 / 5 pages**
+- active cumulative T1 — **5/6**
+- active explicit source-obscured readings — **0**
+- active historical-glyph first-pass — **through PDF61**
+- active PDF61→62 continuity — **PASS — `அறி / வுரையை` → `அறிவுரையை`**
 - active Tamil T2 / T3 — **NOT STARTED**
 - active English — **blocked pending Tamil freeze**
 - active archive — `speeches/kaiththari-vaangalaiyo/`
-- outgoing boundary — **PDF63 begins இலட்சிய இதழ்கள்**
 
-Exact next gate: constituent 4 **“கைத்தறி வாங்கலையோ” — Tamil T1 Batch 1 PDF57–61 / 5 pages**. Initialize the archive, transcribe directly from source pixels, preserve historical glyph identity and source wording, and do not start T2 or English.
+Exact next gate: constituent 4 **“கைத்தறி வாங்கலையோ” — Tamil T1 Batch 2 FINAL PDF62 / 1 page**. Complete T1 and verify PDF62→63 boundary to **இலட்சிய இதழ்கள்**; do not start T2 or English in the same activity.

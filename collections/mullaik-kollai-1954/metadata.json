@@ -69,8 +69,8 @@
     "active_constituent_number": 4,
     "active_constituent_slug": "kaiththari-vaangalaiyo",
     "active_constituent_title_ta": "“கைத்தறி வாங்கலையோ”",
-    "next_gate": "Constituent 4 / “கைத்தறி வாங்கலையோ” — Tamil T1 Batch 1 PDF57–61",
-    "collection_status": "active-constituent-4-t1-ready",
+    "next_gate": "Constituent 4 / “கைத்தறி வாங்கலையோ” — Tamil T1 Batch 2 FINAL PDF62",
+    "collection_status": "active-constituent-4-t1-in-progress",
     "pending_transcription_or_translation_work": true
   },
   "constituents": [
@@ -308,10 +308,18 @@
       "archive_path": "speeches/kaiththari-vaangalaiyo/",
       "source_gate": "pass-complete",
       "active": true,
-      "tamil_t1": "not-started",
-      "next_gate": "tamil-t1-batch1-pdf57-61",
-      "archive_status": "active-t1-ready",
-      "release_readiness": "not-ready"
+      "tamil_t1": "in-progress",
+      "next_gate": "tamil-t1-batch2-final-pdf62",
+      "archive_status": "active-t1-in-progress",
+      "release_readiness": "not-ready",
+      "tamil_t1_pages_completed": 5,
+      "tamil_t1_through_pdf_page": 61,
+      "tamil_t1_through_printed_page": 61,
+      "tamil_t1_batches_complete": 1,
+      "tamil_t1_explicit_uncertainties": 0,
+      "tamil_t1_source_obscured_uncertainties": 0,
+      "tamil_historical_glyph_first_pass_through_pdf_page": 61,
+      "tamil_t1_outgoing_batch_boundary_verified": true
     },
     {
       "number": 5,

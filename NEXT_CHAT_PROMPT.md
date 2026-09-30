@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 4 “கைத்தறி வாங்கலையோ” Tamil T1 Batch 1 PDF57–61
+# NEXT CHAT PROMPT — முல்லைக் கொல்லை collection / Constituent 4 “கைத்தறி வாங்கலையோ” Tamil T1 Batch 2 FINAL PDF62
 
 Continue directly in `pugazg/kalaignar-public-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,51 +7,45 @@ Active archive: `speeches/kaiththari-vaangalaiyo/`
 
 ## Durable closed state
 
-Constituents **1–3 are FINAL CLOSED / RELEASE READY**:
-
-1. `speeches/mullaik-kollai/`
-2. `speeches/aththai-magal/`
-3. `speeches/nam-medai/`
-
-Do not reopen their frozen Tamil, verified English, review ledgers or closure records merely to advance constituent 4.
+Constituents **1–3 are FINAL CLOSED / RELEASE READY**. Do not reopen them merely to advance constituent 4.
 
 ## Constituent 4 source authority
 
-Title: **“கைத்தறி வாங்கலையோ”**
-
-Controlling source:
-
-`TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
-
+- title — **“கைத்தறி வாங்கலையோ”**
+- source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
-- constituent range — **PDF57–62 / printed pp.57–62 / 6 pages**
-- source gate — **PASS / COMPLETE**
+- range — **PDF57–62 / printed pp.57–62 / 6 pages**
 - outgoing next heading — **PDF63 — இலட்சிய இதழ்கள்**
-- speech date — **not established / do not infer**
-- venue — **not established / do not infer**
-- event/occasion — **not established / do not infer**
 
-The parent contents page lists this title after `இலட்சிய இதழ்`, but the physical source body places **“கைத்தறி வாங்கலையோ”** first at PDF57. Preserve the physical-source order and the contents-page variant as already mapped.
+## Durable T1 Batch 1 state
+
+- Batch 1 — **COMPLETE — PDF57–61 / 5/5 pages**
+- cumulative T1 — **5/6**
+- explicit source-obscured readings — **0**
+- historical-glyph first-pass — **through PDF61**
+- contextual reconstruction guesses — **0**
+- PDF57→58 — `வேண்டு / மென்றும்` → `வேண்டுமென்றும்` — **PASS**
+- PDF58→59 — `வீட் / டுக்குச்` → `வீட்டுக்குச்` — **PASS**
+- PDF59→60 — **PASS / no split word**
+- PDF60→61 — **PASS / no split word**
+- PDF61→62 — `அறி / வுரையை` → `அறிவுரையை` — **PASS / PDF62 boundary context only**
+- source-sensitive T1 forms queued for T2 — `சரசமானது`, `கழுக்கான`, `மாற்றுணிடம்`, `லக்ஷாதிபதிகளாகும்`, `சவடாக்கள்`, `ஸ்டண்டுகள்`
+- Tamil T2 — **NOT STARTED**
+- English — **blocked pending Tamil freeze**
 
 ## Exact next activity
 
-Perform **Tamil T1 Batch 1 — PDF57–61 / printed pp.57–61 / 5 pages**.
+Perform **Tamil T1 Batch 2 FINAL — PDF62 / printed p.62 / 1 page**.
 
-1. Fetch LIVE `main` first.
-2. Initialize `speeches/kaiththari-vaangalaiyo/` with the normal T1-stage control set:
-   - `README.md`
-   - `metadata.json`
-   - `transcription-ta.md`
-   - `audit.md`
-   - `HANDOVER.md`
-3. Transcribe PDF57–61 directly from rendered source pixels.
-4. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page; decode glyph identity to modern Unicode without modernizing source wording.
-5. Preserve source spelling, punctuation, spacing, names, repetitions and unusual grammar.
-6. Record genuine source damage/obscurity explicitly; do not reconstruct hidden letters from context.
-7. Record page joins PDF57→58, 58→59, 59→60, 60→61. Inspect PDF62 only as necessary to establish the outgoing Batch-1 continuity from PDF61; do not transcribe PDF62 in this batch.
-8. Do not infer a speech date, venue or event from booklet publication/provenance.
-9. Do **not** begin Tamil T2 or English.
-10. Synchronize constituent controls, parent collection controls, root README and `NEXT_CHAT_PROMPT.md`.
+1. Fetch live `main` first.
+2. Re-read PDF62 directly from rendered source pixels and transcribe the full page.
+3. Complete the physical PDF61→62 fragment `அறி / வுரையை,` without losing page provenance.
+4. Apply the historical-glyph guide and preserve unusual source wording without normalization.
+5. Inspect PDF63 only as needed to establish the constituent boundary to **இலட்சிய இதழ்கள்**.
+6. Record any genuine source obscurity; do not guess from context.
+7. If PDF57–62 reaches 6/6 pages, mark Tamil T1 **FIRST-PASS COMPLETE** but **not verified / not frozen**.
+8. Do not start T2 or English in this activity.
+9. Synchronize constituent, parent collection and root controls.
 
-After Batch 1, make **Tamil T1 Batch 2 FINAL — PDF62 / printed p.62 / 1 page**, including the outgoing PDF62→63 boundary to **இலட்சிய இதழ்கள்**, the next gate.
+If T1 completes, the next gate is **Tamil T2 strict visual audit — Batch 1 PDF57–61 / 5 pages**.
