@@ -101,6 +101,18 @@ Any later Tamil change requires documented source evidence and dependent English
 - E1 status — **FIRST-PASS COMPLETE**
 - E1 is **not** an E2 fidelity-review claim
 
+## English E2 durable checkpoint
+
+- review — `translation-review.md`
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- confirmed corrections — **8**
+- unresolved — **0**
+- frozen Tamil changes — **0**
+- source-limited uncertainties retained — **3/3**
+- translator/source notes retained — **6**
+- E2 status — **COMPLETE / PASS**
+- English — **not yet verified-complete; E3 pending**
+
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF48–56 / printed pp.48–56 / 9 pages**. Compare every English page directly against frozen Tamil, preserve source rhetoric and source-limit transparency, record all confirmed English corrections, and make no changes to frozen Tamil.
+Proceed to **English E3 final end-to-end verification — PDF48–56 / 9 pages**. Recheck all 8/8 E2 corrections in maintained English, verify page sequence and joins, all 6 translator/source notes, all 3 source-limit controls and the final ending. Do not modify frozen Tamil.

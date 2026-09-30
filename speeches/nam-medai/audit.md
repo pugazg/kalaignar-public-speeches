@@ -346,3 +346,18 @@ All three frozen Tamil source limitations are carried transparently in English:
 These are faithful carry-overs of frozen Tamil source limitations. They are not English unresolved-fidelity findings and do not authorize contextual completion.
 
 English E1 completion is **not** an E2 fidelity-review claim. The translation now requires a separate page-by-page E2 comparison against frozen Tamil.
+
+
+## English E2 fidelity review — COMPLETE / PASS
+
+- coverage — **PDF48–56 / printed pp.48–56 / 9/9**
+- confirmed English corrections — **8**
+- unresolved English fidelity findings — **0**
+- frozen Tamil changes — **0**
+- source-limited uncertainties retained — **3/3**
+- translator/source notes retained — **6**
+- detailed correction ledger — `translation-review.md`
+
+E2 removed two unsupported normalizations, one softening, one document-level attribution inserted into the body, one unsupported modifier, one person-label shift, and two source-sensitive lexical/phrasing issues. The maintained English continues to present political labels, polemic and historical claims as translated source rhetoric rather than independently validated assertions.
+
+English is not yet marked `verified-complete`; a separate E3 end-to-end verification remains required.

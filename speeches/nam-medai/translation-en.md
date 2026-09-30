@@ -1,6 +1,6 @@
 # நம் மேடை — English Translation
 
-> **Status:** English E1 **FIRST-PASS COMPLETE — PDF48–56 / printed pp.48–56 / 9/9 pages**; frozen Tamil changes **0**; **3/3 source-limited uncertainties carried transparently**; E2 **NEXT / NOT STARTED**  
+> **Status:** English E1 **FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages**; English E2 **COMPLETE / PASS — 8 confirmed corrections / 0 unresolved**; frozen Tamil changes **0**; **3/3 source-limited uncertainties retained**; E3 **NEXT / NOT STARTED**  
 > **Tamil authority:** `transcription-ta.md` — `verified-complete` / FROZEN  
 > **Rule:** Translate only from the frozen Tamil layer. Preserve page sequence, argument structure, repetition, rhetorical force, unusual/source-sensitive wording, and explicit source limitations. Political labels, polemic and historical claims below are translated as source rhetoric; they are not independently validated or endorsed.  
 > **Speech date / venue / event:** Not established by the source; do not infer.
@@ -11,17 +11,17 @@
 
 #### Our Platform
 
-Funds are given on our platforms. I myself—or our friends—receive the funds and give them to the leader. The leader, in turn, hands them over to “Anna.” Apart from this, “that fund” does not go directly to our homes. And if it does not go directly, it does not go indirectly either—as it does to ministers' homes! Today in the country, seeing us move about on our platform, parade through our [Unclear — a later white/ink mark obscures the middle of the Tamil word; the surviving frozen Tamil reads `பண…டி`] boxes, and walk through the towns, those who harbour poisonous thoughts live by plotting to smash us to powder, preparing arrows of authority to destroy us, and nurturing opposition and hostility.
+Funds are given on our platforms. I myself—or our friends—receive the funds and give them to the leader. The frozen Tamil next reads `தந்தை தலைவர்`; that leader will hand the funds over to “Anna.” Apart from this, “that fund” does not go directly to our homes. And if it does not go directly, it does not go indirectly either—as it does to ministers' homes! Today in the country, seeing us move about on our platform, parade through our [Unclear — a later white/ink mark obscures the middle of the Tamil word; the surviving frozen Tamil reads `பண…டி`] boxes, and walk through the towns, those who harbour poisonous thoughts live by plotting to smash us to powder, preparing arrows of authority to destroy us, and nurturing opposition and hostility.
 
 Last week, as Comrade Sathyavani Muthu Ammaiyar and I sat down to speak on the Kurinchipadi platform, question slips came pouring in. They were not merely handwritten; they were also printed in colour and handed out.
 
-> **Translator/source note:** The compound before `தொட்டிகளிலே` on PDF48 is physically obscured in the frozen Tamil. E1 does not complete the hidden letters; “boxes” renders only the visible noun `தொட்டிகள்` in context.
+> **Translator/source note:** The frozen Tamil in the fund-transfer sentence contains the opaque phrase `தந்தை தலைவர்`; E2 keeps it visible rather than silently normalizing it. The compound before `தொட்டிகளிலே` is physically obscured; the hidden letters remain unfilled and “boxes” renders only visible `தொட்டிகள்`.
 
 ### PDF page 49 — printed page 49
 
 “Leaflets” were set flying like dragonflies near our platform.
 
-Comrade Sathyavani Ammaiyar read the leaflet that had been handed to her. Do you know what the question was? “Why does Bhanumathi get ten lakhs for one film?” What an important—clever—urgent question! This was not truly a question submitted out of doubt. They dump these vexatious questions basket after basket only because of the foolish idea that, by showing us question slips, they can unsettle us and obstruct our platform speech. We have no confidence in mere platform oratory. We possess no snake-charmer's pipe, no intoxicating drug, with which to mesmerize the people. But because truth, firmness, justice and integrity dance within our policy, we do not tremble at questions or shut our “platform-shop.”
+Comrade Sathyavani Ammaiyar read the leaflet that had been handed to her. Do you know what the question was? “Why does Bhanumathi get ten lakhs for one film?” What an important—clever—urgent question! This was not truly a question submitted out of doubt. They dump these vexatious questions basket after basket only because of the foolish idea that, by showing us question slips, they can unsettle us and obstruct our platform speech. We have no confidence in our platform speech. We possess no snake-charmer's pipe, no intoxicating drug, with which to mesmerize the people. But because truth, firmness, justice and integrity dance within our policy, we do not tremble at questions or shut our “platform-shop.”
 
 Before we set out to speak on our platform, we must receive from our mother the `vaaykkarisi`, look once to our heart's content at our beloved wife, gather up our child and give the child a kiss: “This is the last kiss, dear! If I come home in the morning, receive a new kiss!.......”
 
@@ -47,7 +47,7 @@ Was this the dream Gandhi saw? Is this the procession of Rama Rajya? Is this wha
 
 ### PDF page 51 — printed page 51
 
-From our platforms, if we ask: “In Tirunelveli, where paddy like sheets of gold was grown, six people are said to have died after eating `kattaazhai`. The reason was that the plant contained severe poison. Why this condition? Why this poverty? Children! A trade in children! A child for four annas? Is this what must continue, O good men fit to rule the country!”—if we ask, cry out, shed tears, and shout from the depths of our stomachs, they answer cleverly, conciliatorily and calmly, in a voice that does not strain the tongue: “India is a four-year-old child. What can it do? A small child. How can it carry such responsibility? Can everything be digested at once by a child!” they say in reply.
+From our platforms, if we ask: “In Tirunelveli, where paddy like sheets of gold was grown, six people are said to have died after eating `kattaazhai`. The reason was that there was strong poison in the `kattaazhai`. Why this condition? Why this poverty? Children! A trade in children! A child for four annas? Is this what must continue, O good men fit to rule the country!”—if we ask, cry out, shed tears, and shout from the depths of our stomachs, they answer cleverly, conciliatorily and calmly, in a voice that does not strain the tongue: “India is a four-year-old child. What can it do? A small child. How can it carry such responsibility? Can everything be digested at once by a child!” they say in reply.
 
 If the “milk that removes famine,” the remedy that would end hunger and starvation, cannot be digested by that child, how does the biryani of authoritarian repression alone get digested? Across the whole country it imposes bans on our platform, our writing and our thought. Does only the rich biryani mixed with hard pieces of meat get digested? Does this four-year-old child called India refuse to digest anything the moment it is good?
 
@@ -69,9 +69,9 @@ In Travancore, a Communist comrade was whipped simply because he was a man of a 
 
 ### PDF page 53 — printed page 53
 
-—brought urine and gave it to him. “Mother! If I asked for water, you would bring me boiled-down milk with sugar candy in it! Look here! Urine!” He did not say this aloud; he spoke it only in his mind. From exhaustion, without even realizing it, his mouth uttered “Mother.” The officials nearby said, “Do you want your mother?” and, before he could answer, went and brought his mother. They stripped the mother naked and made her stand before her son. They stripped the son too. They violently forced the two together!... This is not a story we invented on our platforms. The source says it happened under Congress rule. In Travancore!
+—brought urine and gave it to him. “Mother! If I asked for water, you would bring me boiled-down milk with sugar candy in it! Look here! Urine!” He did not say this aloud; he spoke it only in his mind. From exhaustion, without even realizing it, his mouth uttered “Mother.” The officials nearby said, “Do you want your mother?” and, before he could answer, went and brought his mother. They stripped the mother naked and made her stand before her son. They stripped the son too. They violently forced the two together!... This is not a story we invented on our platforms. It happened under Congress rule. In Travancore!
 
-It is we who shed more tears than Congress devotees over Congress melting away and being reduced to an ant-like state. If we grieve that Congress, once described like a mansion, has come to the condition of a mound of earth, the reason is this: the Tamil Tiruppur Kumaran was beaten with sticks—Chidambaram pulled the oil press, received and drank gruel in the urine storehouse, people like us spoke and spoke, Gandhi struggled—and Congress was nurtured. We are people who know that Congress grew only after Bhagat Singh wilted on the gallows, only after so many people were lost. Congress flourished through the labour of Tamils—of the people of the South. Knowing this, we say from the platform, “Let Congress perish.”
+It is we who shed more tears than Congress devotees over Congress melting away and being reduced to an ant-like state. If we grieve that Congress, like a mansion, has come to the condition of a mound of earth, the reason is this: Tamilian Tiruppur Kumaran was beaten with sticks—Chidambaram pulled the oil press, received and drank gruel in the urine storehouse, people like us spoke and spoke, Gandhi struggled—and Congress was nurtured. We are people who know that Congress grew only after Bhagat Singh wilted on the gallows, only after so many people were lost. Congress flourished through the labour of Tamils—of the people of the South. Knowing this, we say from the platform, “Let Congress perish.”
 
 There is a practice in Western countries. When a dog raised at home falls ill, its owner calls the doc—
 
@@ -89,7 +89,7 @@ A mason built a college building. Should he be made the principal because of tha
 
 —what justice is there in saying that only these people must rule? Today we are abused from platforms: “You criticize Congress—what right do these people have? These are people who stood aside during the ‘freedom struggle.’”
 
-We have grown tired of writing and writing many times about this question. If they say, “We alone won independence,” I state firmly and clearly: the white man did not leave merely on seeing the spinning wheel, the half-anna spindle, or the Satyagraha flag. It was on seeing the army that he left. We said, “Join! The army,” and so many comrades from Dravida joined. Only after seeing the army grow in this way did the white man's thighs tremble. The scent of our labour was present even at that time. Can they deny this from the platform or not?
+We have grown tired of writing and writing many times about this question. If they say, “We alone won independence,” I state firmly and clearly: the white man did not leave merely on seeing the spinning wheel, the half-anna spindle, or the flag of truth. It was on seeing the army that he left. We said, “Join! The army,” and so many comrades from Dravida joined. Only after seeing the army grow in this way did the white man's thighs tremble. The scent of our labour was present even at that time. Can they deny this from the platform or not?
 
 I was on my way to speak at a meeting in Kurinchipadi. There was heavy rain. We were travelling by car, and ahead of us a comrade was riding a motorcycle. Suddenly that comrade stopped our car and came over.
 
@@ -99,15 +99,15 @@ I was on my way to speak at a meeting in Kurinchipadi. There was heavy rain. We 
 
 —meeting.” “I too am going there,” said that comrade. Then, with the motorcycle travelling in front and us casting light from behind, he went on. Meanwhile the “pipe” on the motorcycle came loose and the parts began falling down, while he went on without realizing it. We got down, picked them up, kept them in our car, and gave them back after reaching the town.
 
-In the same way, we came along shining a light for the Congress motorcycle that was racing toward the freedom struggle. For example, when Anna said that August 15 should be celebrated, we were under his leadership. We have repeatedly stated such views from our platform. We stand on the platform. No—we stand in the dock of the accused. We speakers are the accused. Our speech is not a speech—it is a deposition. Those listening near our platform are not merely the people; they are judges. We speak thinking of them as judges.
+In the same way, we came along shining a light for the Congress motorcycle that was racing toward the freedom struggle. For example, when Anna said that August 15 should be celebrated, we were under his leadership. We have repeatedly stated such views from our platform. We stand on the platform. No—we stand in the dock of the accused. We speakers are the accused. Our speech is not a speech—it is a deposition. Those listening near our platform are not the people; they are judges. We speak thinking of them as judges.
 
 ## Translator/source notes
 
-1. **PDF48** — the frozen Tamil compound before `தொட்டிகளிலே` is physically obscured; E1 carries the visible `பண…டி` witness without completing the hidden letters.
+1. **PDF48** — opaque frozen `தந்தை தலைவர்` remains visible rather than being silently repaired; the obscured compound before `தொட்டிகளிலே` still carries visible `பண…டி` without completion.
 2. **PDF49** — `வாய்க்கரிசி` is retained as `vaaykkarisi` with a brief funerary gloss because the source uses the expression rhetorically.
 3. **PDF50** — the obscured word following `கையிலே கத்தி` is not reconstructed; the surrounding syntax is translated conservatively.
 4. **PDF51** — `கத்தாழை` is transliterated as `kattaazhai` rather than assigned a botanical identity not fixed by the frozen Tamil.
 5. **PDF53** — the unusual frozen `மாட்டமாளிகை போன்ற` is handled through the surrounding mansion/mound contrast without altering the Tamil witness.
 6. **PDF54** — source spelling `Crueal Kindness` is preserved; the source-limited final character after `நாயா…` is not supplied.
 
-E1 is a first-pass translation, not an English fidelity-review claim. A separate E2 comparison against the frozen Tamil is required.
+E2 fidelity review is **COMPLETE / PASS — 8 confirmed corrections / 0 unresolved / 0 frozen-Tamil changes**. A separate E3 end-to-end verification is still required.

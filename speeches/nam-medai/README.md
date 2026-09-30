@@ -1,6 +1,6 @@
 # நம் மேடை
 
-**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 0 Tamil changes / 3/3 source-limit records carried; English E2 NEXT**
+**Status: ACTIVE — Tamil `verified-complete` / FROZEN; English E1 COMPLETE; English E2 COMPLETE / PASS — PDF48–56 / 9/9 pages / 8 corrections / 0 unresolved / 0 Tamil changes / 3/3 source-limit records retained; English E3 NEXT**
 
 - creator — கலைஞர் மு. கருணாநிதி
 - parent booklet — முல்லைக் கொல்லை
@@ -47,8 +47,13 @@ Preserve source spelling, punctuation, spacing, names, repetitions, rhetoric and
 - English E1 frozen Tamil changes — **0**
 - English E1 source-limited uncertainties carried — **3/3**
 - English E1 translator/source notes — **6**
-- English E2 — **NEXT / NOT STARTED**
+- English E2 — **COMPLETE / PASS — PDF48–56 / 9/9 pages / 8 corrections / 0 unresolved**
+- English E2 frozen Tamil changes — **0**
+- English E2 source-limited uncertainties retained — **3/3**
+- English E2 translator/source notes retained — **6**
+- English E3 — **NEXT / NOT STARTED**
 - English translation — `translation-en.md`
+- English review — `translation-review.md`
 - working transcript — `transcription-ta.md`
 - audit record — `audit.md`
 
@@ -56,4 +61,4 @@ Any later Tamil change requires documented source evidence and dependent English
 
 ## Next gate
 
-Proceed to **English E2 fidelity review — PDF48–56 / printed pp.48–56 / 9 pages**. Compare every English page against frozen Tamil, record and apply only fidelity corrections, retain all three source-limit controls, and make 0 changes to frozen Tamil.
+Proceed to **English E3 final end-to-end verification — PDF48–56 / printed pp.48–56 / 9 pages**. Recheck all 8/8 E2 corrections, page order/joins, all 6 translator/source notes and all 3 source-limit controls; make 0 changes to frozen Tamil.

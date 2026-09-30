@@ -584,13 +584,12 @@ No routine transcription, translation, review, verification or release-readiness
 
 ### Active work — முல்லைக் கொல்லை (1954 source booklet)
 
-`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil `verified-complete` / FROZEN; English E1 FIRST-PASS COMPLETE — PDF48–56 / 9/9 pages / 0 Tamil changes / 3/3 source-limit records carried; English E2 NEXT; 5/5 source-listed texts mapped**.
+`collections/mullaik-kollai-1954/` is **ACTIVE — constituents 1–2 FINAL CLOSED / RELEASE READY; constituent 3 நம் மேடை Tamil `verified-complete` / FROZEN; English E1 COMPLETE; English E2 COMPLETE / PASS — PDF48–56 / 9/9 pages / 8 corrections / 0 unresolved / 0 Tamil changes / 3/3 source-limit records retained; English E3 NEXT; 5/5 source-listed texts mapped**.
 
 - source — `TVA_BOK_0064364_ முல்லைக்_கொல்லை.pdf`
 - source ID — `TVA_BOK_0064364`
 - SHA-256 — `1e14d215de1b109292ba2b2ba03f73cf844978d2d6b1bb4f912c3ca64733a15f`
 - source-gated — **5/5**
-- Tamil T1 complete — **3/5**
 - Tamil verified — **3/5**
 - English verified — **2/5**
 - fully archived — **2/5**
@@ -599,12 +598,12 @@ No routine transcription, translation, review, verification or release-readiness
 - active constituent — **3 / 5 — நம் மேடை**
 - active range — **PDF48–56 / 9 pages**
 - active Tamil — **`verified-complete` / FROZEN**
-- active source-limited Tamil readings — **3**
-- active English E1 — **FIRST-PASS COMPLETE — 9/9 pages**
-- active English E1 frozen Tamil changes — **0**
-- active English E1 source limits carried — **3/3**
-- active English E1 translator/source notes — **6**
-- active English E2 — **NEXT / NOT STARTED**
+- active English E1 — **COMPLETE — 9/9**
+- active English E2 — **COMPLETE / PASS — 9/9 / 8 corrections / 0 unresolved**
+- active English E2 frozen Tamil changes — **0**
+- active English E2 source limits retained — **3/3**
+- active English E2 translator/source notes — **6**
+- active English E3 — **NEXT / NOT STARTED**
 - active archive — `speeches/nam-medai/`
 
-Exact next gate: constituent 3 **நம் மேடை — English E2 fidelity review PDF48–56 / 9 pages** against frozen Tamil. Record and apply only fidelity corrections; do not alter frozen Tamil.
+Exact next gate: constituent 3 **நம் மேடை — English E3 final end-to-end verification PDF48–56 / 9 pages**. Recheck all 8/8 E2 corrections, page order/joins, all 6 notes, all 3 source-limit controls and the final ending; do not alter frozen Tamil.
